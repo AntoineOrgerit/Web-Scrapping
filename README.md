@@ -6,6 +6,8 @@ _________
 
 # Exercice 1 : Utilisation d'outils de détourage
 
+_____
+
 *(L'installation de BoilerPipe 1.2.0.0 ne fonctionnant pas, je me suis rabattu sur la version 1.1)*
 
 Nous nous basons sur le dossier ***html*** fourni, possédant les caractéristiques suivantes :
@@ -165,4 +167,18 @@ Grace à cela, nous relevons les données suivantes :
 | **Écart type du nombre de lignes**                   | 208.54     | *x*  | 366.29     |
 
 
+
+### En plus : 
+
+Afin d'observer plus facilement l'efficacité de JusText, nous avons eu l'idée de générer un graphe décrivant la différence du nombre de caractères de chaque fichier entre les résultats de JT et la vérité terrain :
+
+![difference_clean_jt](.\resources\difference_clean_jt.png)
+
+Nous pouvons alors facilement observer que pour de rares extrêmes, les différences sont relativement faibles.
+
+
+
+# Exercice 2 : Guider le scraping avec la reconnaissance de langue
+
+_____
 
