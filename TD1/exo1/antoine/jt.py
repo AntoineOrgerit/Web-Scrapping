@@ -1,5 +1,4 @@
 import justext
-
 from utils.extractor import extract
 
 def jt_treatement(input_file, output_file):
