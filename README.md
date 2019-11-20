@@ -172,7 +172,7 @@ Grace à cela, nous relevons les données suivantes :
 
 Afin d'observer plus facilement l'efficacité de JusText, nous avons eu l'idée de générer un graphe décrivant la différence du nombre de caractères de chaque fichier entre les résultats de JT et la vérité terrain :
 
-![difference_clean_jt](.\resources\difference_clean_jt.png)
+![difference_clean_jt](./resources/difference_clean_jt.png)
 
 Nous pouvons alors facilement observer que pour de rares extrêmes, les différences sont relativement faibles.
 
