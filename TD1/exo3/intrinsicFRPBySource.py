@@ -1,13 +1,9 @@
 from utils.instrisicFRP import perform_intrisic_evaluation
 
-import langid
 
-
-def detect_language(file_name):
-    input_file = open(file_name, "r", encoding="utf8")
-    language = langid.classify(input_file.read())
-    input_file.close()
-    return language[0]
+def extract_source(file_name):
+    splited = file_name.split("/")
+    return splited[len(splited) - 1].split("_")[1]
 
 
 def main():
@@ -19,10 +15,9 @@ def main():
             ("JT_langid", "../../../resources/JT_langid/"),
             ("JT_trueLg", "../../../resources/JT_trueLg/")
         ]
-    
     print_header_key = "JT"
     
-    perform_intrisic_evaluation(original_repository_path, clean_repository_path, source_repositories_name_and_path, detect_language, print_header_key)
+    perform_intrisic_evaluation(original_repository_path, clean_repository_path, source_repositories_name_and_path, extract_source, print_header_key)
 
 
 if __name__ == '__main__':
