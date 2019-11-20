@@ -233,14 +233,14 @@ def jt_truelg_treatement(input_file, output_file, file_name):
 
 En recalculant les métriques précédentes pour ***JusText***, on obtient les valeurs suivantes :
 
-|                                                      | Valeur pour JT_langid |
-| ---------------------------------------------------- | --------------------- |
-| **Nombre de caractères**                             | 14 048 036            |
-| **Nombre de ligne**s                                 | 306 755               |
-| **Moyenne de la différence du nombre de caractères** | 6 011.14              |
-| **Moyenne de la différence du nombre de lignes**     | 166.79                |
-| **Écart type du nombre de caractères**               | 5 702.18              |
-| **Écart type du nombre de lignes**                   | 125.18                |
+|                                                      | Valeur pour langid / trueLg |
+| ---------------------------------------------------- | --------------------------- |
+| **Nombre de caractères**                             | 14 048 036                  |
+| **Nombre de ligne**s                                 | 306 755                     |
+| **Moyenne de la différence du nombre de caractères** | 6 011.14                    |
+| **Moyenne de la différence du nombre de lignes**     | 166.79                      |
+| **Écart type du nombre de caractères**               | 5 702.18                    |
+| **Écart type du nombre de lignes**                   | 125.18                      |
 
 On se rend compte que les valeurs sont similaires à celles obtenues sans préciser la langue. Nous supposons que la différence se fait plutôt dans la vitesse d'exécution. 
 
