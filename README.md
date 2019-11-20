@@ -170,7 +170,7 @@ Afin d'observer plus facilement l'efficacité de JusText, nous avons eu l'idée 
 
 ![difference_clean_jt](./resources/difference_clean_jt.png)
 
-Nous pouvons alors facilement observer que pour de rares extrêmes, les différences sont relativement faibles.
+Nous pouvons alors facilement observer que mis à part de rares extrêmes, les différences sont relativement faibles.
 
 
 
