@@ -2,6 +2,12 @@ Lisa FOUGERON - François GRÉAU - Antoine ORGERIT
 
 # TD 1 WebScraping
 
+### Notes :
+
+*L'écriture de ce rapport ayant débuté avant la formation du groupe, le code utilisé pour l'exercice 1 diffère de celui pour les autres exercices.*
+
+*Si vous désirez exécuter notre code, pensez à adapter les chemins.*
+
 # Exercice 1 : Utilisation d'outils de détourage
 
 *(L'installation de BoilerPipe 1.2.0.0 ne fonctionnant pas, nous nous sommes rabattu sur la version 1.1)*
@@ -35,8 +41,8 @@ def parseFile(inputPath, outputPath, fileName, scrapingFunction):
                 output.write("<p> " + paragraph.text.replace('\n', ' ') + " </p>\n")
         output.close()
 
-# Parent folder and list of files
-folder = "D:/DocumentsHDD/M2/WebScraping/Corpus_detourage/"
+# Parent folder and list of files 
+folder = "D:/DocumentsHDD/M2/WebScraping/Corpus_detourage/" # À ADAPTER SI BESOIN
 files = [f for f in glob.glob(folder + "html/*")]
 
 # Placeholder for the future scraping methods
@@ -50,9 +56,11 @@ for file in files:
     index += 1
 ```
 
-Il ne reste plus qu'à définir des fonctions pour implémenter le fonctionnement des outils
+Il ne reste plus qu'à définir des fonctions pour implémenter le fonctionnement des outils. 
 
 ## a. JusText
+
+Pour le moment, nous n'identifions pas les langues dans lesquelles sont nos fichiers. L'exécution sera donc probablement plus lente et moins fiable.
 
 ```python
 import justext
@@ -67,6 +75,8 @@ Résultat : le dossier généré pèse désormais 19,1 Mo.
 ## b. BoilerPipe
 
 ```python
+from boilerpipe.extract import Extractor
+
 # BoilerPipe scraping method
 def boilerPipeScraping(content):
     extractor = Extractor(extractor="ArticleExtractor", url="file:" + content)
@@ -155,12 +165,12 @@ Grace à cela, nous relevons les données suivantes :
 
 |                                                      | JT         | BP   | BS         |
 | ---------------------------------------------------- | ---------- | ---- | ---------- |
-| **nombre de caractères**                             | 14 659 366 | *x*  | 49 504 518 |
-| **nombre de lignes**                                 | 305 062    | *x*  | 525 400    |
-| **Moyenne de la différence du nombre de caractères** | 6 357.23   | *x*  | 26 926.98  |
-| **Moyenne de la différence du nombre de lignes**     | 166.6      | *x*  | 296.67     |
-| **Écart type du nombre de caractères**               | 8 688.09   | *x*  | 41 940.85  |
-| **Écart type du nombre de lignes**                   | 208.54     | *x*  | 366.29     |
+| **Nombre de caractères**                             | 14 659 367 | *x*  | 49 504 518 |
+| **Nombre de lignes**                                 | 306 757    | *x*  | 527 095    |
+| **Moyenne de la différence du nombre de caractères** | 6 370.41   | *x*  | 26 931.97  |
+| **Moyenne de la différence du nombre de lignes**     | 166.6      | *x*  | 296.71     |
+| **Écart type du nombre de caractères**               | 5 907.68   | *x*  | 32 151.27  |
+| **Écart type du nombre de lignes**                   | 125.18     | *x*  | 214.78     |
 
 
 
@@ -175,3 +185,80 @@ Nous pouvons alors facilement observer que mis à part de rares extrêmes, les d
 
 
 # Exercice 2 : Guider le scraping avec la reconnaissance de langue
+
+Afin d'accélérer l'exécution de JusText, on veut connaître la langue de chaque fichier afin de l'indiquer lors du scraping. Pour ce faire, deux choix s'offrent à nous. On peut utiliser la librairie ***langid.py*** :
+
+```python
+def jt_langid_treatement(input_file, output_file):
+    if input_file.read() != " ":
+        input_file.seek(0)
+        language = langid.classify(input_file.read())
+        language = languages.get(alpha2=language[0]).name
+        
+        # Greek is the only badly formatted one so we convert "Modern Greek (1453-)" into "Greek"
+        if "Greek" in language:
+            language = "Greek"
+        # If language is unspecified, we choose English
+        if language not in justext.get_stoplists():
+            language = "English"
+        
+        input_file.seek(0)
+        paragraphs = justext.justext(input_file.read(), justext.get_stoplist(language))
+        
+        for paragraph in paragraphs:
+            output_file.write("<p>" + paragraph.text.replace("\n", " ") + "</p>\n")
+    else:
+        output_file.write(" ")
+```
+
+...ou bien le fichier JSON qui nous est fourni :
+
+```python
+def jt_truelg_treatement(input_file, output_file, file_name):
+    if input_file.read() != " ":
+        input_file.seek(0)
+        languages = json.load(open("../../../resources/doc_lg.json"))
+        
+        language = languages[os.path.basename(file_name)]
+        
+        # If language is unspecified, we choose English 
+        if language not in justext.get_stoplists():
+            language = "English"
+        
+        paragraphs = justext.justext(input_file.read(), justext.get_stoplist(language))
+        
+        for paragraph in paragraphs:
+            output_file.write("<p>" + paragraph.text.replace("\n", " ") + "</p>\n")
+    else:
+        output_file.write(" ")
+```
+
+En recalculant les métriques précédentes pour JusText, on obtient les valeurs suivantes :
+
+| **Nombre de caractères**                             | 14 048 036 |
+| ---------------------------------------------------- | ---------- |
+| **Nombre de ligne**                                  | 306 755    |
+| **Moyenne de la différence du nombre de caractères** | 6 011.14   |
+| **Moyenne de la différence du nombre de lignes**     | 166.79     |
+| **Écart type du nombre de caractères**               | 5 702.18   |
+| **Écart type du nombre de lignes**                   | 125.18     |
+
+On se rend compte que les valeurs sont similaires à celles obtenues sans préciser la langue. Nous supposons que la différence se fait plutôt dans la vitesse d'exécution.
+
+___
+
+*PROPOSITION : RELEVER LES TEMPS AVEC ET SANS LA LANGUE PRÉCISÉE*
+
+| Langue ? | Temps d'exécution en ms |
+| -------- | ----------------------- |
+| Sans     |                         |
+| Avec     |                         |
+
+___
+
+# Exercice 3 : Évaluation intrinsèque
+
+
+
+
+
