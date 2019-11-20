@@ -2,13 +2,9 @@ Lisa FOUGERON - François GRÉAU - Antoine ORGERIT
 
 # TD 1 WebScraping
 
-_________
-
 # Exercice 1 : Utilisation d'outils de détourage
 
-_____
-
-*(L'installation de BoilerPipe 1.2.0.0 ne fonctionnant pas, je me suis rabattu sur la version 1.1)*
+*(L'installation de BoilerPipe 1.2.0.0 ne fonctionnant pas, nous nous sommes rabattu sur la version 1.1)*
 
 Nous nous basons sur le dossier ***html*** fourni, possédant les caractéristiques suivantes :
 
@@ -174,11 +170,8 @@ Afin d'observer plus facilement l'efficacité de JusText, nous avons eu l'idée 
 
 ![difference_clean_jt](./resources/difference_clean_jt.png)
 
-Nous pouvons alors facilement observer que pour de rares extrêmes, les différences sont relativement faibles.
+Nous pouvons alors facilement observer que mis à part de rares extrêmes, les différences sont relativement faibles.
 
 
 
 # Exercice 2 : Guider le scraping avec la reconnaissance de langue
-
-_____
-
