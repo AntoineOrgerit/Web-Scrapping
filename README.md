@@ -1,4 +1,4 @@
-*Lisa FOUGERON - François GRÉAU - Antoine ORGERIT
+Lisa FOUGERON - François GRÉAU - Antoine ORGERIT
 
 # TD 1 WebScraping
 
@@ -83,7 +83,7 @@ def boilerPipeScraping(content):
     return extractor.getText
 ```
 
-*Ceci est le code théorique pour BoilerPipe. Malheureusement, après de nombreuses tentatives infructueuses pour faire fonctionner la librairie, nous avons décidé de le laisser de coté.*
+*Ceci est le code théorique pour* ***BoilerPipe***. *Malheureusement, après de nombreuses tentatives infructueuses pour faire fonctionner la librairie, nous avons décidé de le laisser de coté.*
 
 ## c. BeautifulSoup
 
@@ -106,7 +106,7 @@ def beautifulSoupScraping(content):
 
 Résultat : le dossier généré pèse désormais 53,5 Mo.
 
-## Comparaisons :
+## Comparaisons
 
 Afin de calculer les métriques relatives au nombre de caractères et de lignes entre les résultats obtenus et la référence, nous avons écrit le script suivant en python :
 
@@ -163,20 +163,20 @@ calculateAverage("JT", "clean")
 
 Grace à cela, nous relevons les données suivantes :
 
-|                                                      | JT         | BP   | BS         |
-| ---------------------------------------------------- | ---------- | ---- | ---------- |
-| **Nombre de caractères**                             | 14 659 367 | *x*  | 49 504 518 |
-| **Nombre de lignes**                                 | 306 757    | *x*  | 527 095    |
-| **Moyenne de la différence du nombre de caractères** | 6 370.41   | *x*  | 26 931.97  |
-| **Moyenne de la différence du nombre de lignes**     | 166.6      | *x*  | 296.71     |
-| **Écart type du nombre de caractères**               | 5 907.68   | *x*  | 32 151.27  |
-| **Écart type du nombre de lignes**                   | 125.18     | *x*  | 214.78     |
+|                                                      | JT         | BS         |
+| ---------------------------------------------------- | ---------- | ---------- |
+| **Nombre de caractères**                             | 14 659 367 | 49 504 518 |
+| **Nombre de lignes**                                 | 306 757    | 527 095    |
+| **Moyenne de la différence du nombre de caractères** | 6 370.41   | 26 931.97  |
+| **Moyenne de la différence du nombre de lignes**     | 166.6      | 296.71     |
+| **Écart type du nombre de caractères**               | 5 907.68   | 32 151.27  |
+| **Écart type du nombre de lignes**                   | 125.18     | 214.78     |
 
 
 
 ### En plus : 
 
-Afin d'observer plus facilement l'efficacité de JusText, nous avons eu l'idée de générer un graphe décrivant la différence du nombre de caractères de chaque fichier entre les résultats de JT et la vérité terrain :
+Afin d'observer plus facilement l'efficacité de ***JusText***, nous avons eu l'idée de générer un graphe décrivant la différence du nombre de caractères de chaque fichier entre les résultats de ***JT*** et la vérité terrain :
 
 ![difference_clean_jt](./resources/difference_clean_jt.png)
 
@@ -184,7 +184,7 @@ Nous pouvons alors facilement observer que mis à part de rares extrêmes, les d
 
 # Exercice 2 : Guider le scraping avec la reconnaissance de langue
 
-Afin d'accélérer l'exécution de JusText, on veut connaître la langue de chaque fichier afin de l'indiquer lors du scraping. Pour ce faire, deux choix s'offrent à nous. On peut utiliser la librairie ***langid.py*** :
+Afin d'accélérer l'exécution de ***JusText***, on veut connaître la langue de chaque fichier afin de l'indiquer lors du scraping. Pour ce faire, deux choix s'offrent à nous. On peut utiliser la librairie ***langid.py*** :
 
 ```python
 def jt_langid_treatement(input_file, output_file):
@@ -209,7 +209,7 @@ def jt_langid_treatement(input_file, output_file):
         output_file.write(" ")
 ```
 
-...ou bien le fichier JSON qui nous est fourni :
+...ou bien le fichier JSON ***trueLg*** qui nous est fourni :
 
 ```python
 def jt_truelg_treatement(input_file, output_file, file_name):
@@ -231,7 +231,7 @@ def jt_truelg_treatement(input_file, output_file, file_name):
         output_file.write(" ")
 ```
 
-En recalculant les métriques précédentes pour JusText, on obtient les valeurs suivantes :
+En recalculant les métriques précédentes pour ***JusText***, on obtient les valeurs suivantes :
 
 | Métrique                                             | Valeur pour JT_langid |
 | ---------------------------------------------------- | --------------------- |
@@ -242,18 +242,44 @@ En recalculant les métriques précédentes pour JusText, on obtient les valeurs
 | **Écart type du nombre de caractères**               | 5 702.18              |
 | **Écart type du nombre de lignes**                   | 125.18                |
 
-On se rend compte que les valeurs sont similaires à celles obtenues sans préciser la langue. Nous supposons que la différence se fait plutôt dans la vitesse d'exécution.
+On se rend compte que les valeurs sont similaires à celles obtenues sans préciser la langue. Nous supposons que la différence se fait plutôt dans la vitesse d'exécution. 
 
-___
+Une bonne façon de s'en assurer est de comparer la vitesse d'exécution avec et sans la spécification de la langue au préalable. Pour cela, on relève le temps avant et après le traitement des fichiers.
 
-*PROPOSITION : RELEVER LES TEMPS AVEC ET SANS LA LANGUE PRÉCISÉE*
+* Sans spécification : 
+
+```python
+def main():
+    total = 0
+    begin = time.time() # Début 
+    extract("../../Corpus_detourage/Corpus_detourage/html/", "../../Corpus_detourage/Corpus_detourage/JT/", jt_treatement)
+    end = time.time() # Fin
+    total = (end-begin)
+    print("Temps : "+ str(total))
+```
+
+* Avec spécification :
+
+Dans ce cas, il faut faire attention à ce que la détermination de la langue n'influe pas sur la durée de la mesure. Pour cela, nous avons choisi d'effectuer le test avec ***trueLg***, puisqu'aller chercher la valeur dans le fichier JSON prend un temps infime.
+
+```python
+def main():
+    total = 0
+    begin = time.time() # Début
+    extract("../Corpus_detourage/Corpus_detourage/JT/", "../Corpus_detourage/Corpus_detourage/JTtrueLg/", jt_truelg_treatement)
+    end = time.time() # Fin
+    total = (end-begin)
+    print("Temps : "+ str(total))
+```
+
+On relève les valeurs suivantes :
 
 | Langue        | Temps d'exécution en ms |
 | ------------- | ----------------------- |
-| Non spécifiée |                         |
-| Spécifiée     |                         |
+| Non spécifiée | 87 199                  |
+| Spécifiée     | 73 108                  |
 
-___
+Notre hypothèse est vérifiée : même en allant chercher les langues dans un fichier JSON, spécifier la langue lors de l'appel à ***JusText*** réduit la durée d'exécution de manière substantielle.
 
 # Exercice 3 : Évaluation intrinsèque
 
@@ -523,3 +549,238 @@ ___
   </tr>
 </table>
 
+# Exercice 4 : Extension
+
+On part désormais sur trois autres méthodes d'extraction, ***Unfluff***, ***Victor*** et ***Body Text Extractor***.
+
+## a. Unfluff
+
+Afin d'utiliser ***Unfluff***, nous avons écrit et exécuté le code *javascript* suivant :
+
+```javascript
+var extractor = require('unfluff');
+var fs = require('fs');
+
+var source_files_path = '../../resources/html/';
+var dest_files_path = '../../resources/unfluff/'
+var files = fs.readdirSync(source_files_path);
+
+files.forEach(function(file) {
+    fs.readFile(source_files_path + file, function(err, content) {
+        if (err) {
+            console.log(err);
+        } else {
+            data = extractor(content)
+            content_to_write = ' ';
+            if (data.text != '') {
+                content_to_write = data.text
+            }
+            fs.appendFile(dest_files_path + file, content_to_write, function(
+                    err) {
+                if (err) {
+                    console.log(err);
+                }
+            });
+        }
+    });
+});
+```
+
+## b. Victor
+
+Malgré nos efforts et un installation réalisée en suivant scrupuleusement la documentation, nous n'avons pas réussi à faire fonctionner Victor. 
+
+## c. Body Text Extractor
+
+L'utilisation de ***BTE*** est très similaire à celle de ***JusText***, ainsi nous n'allons pas la détailler en profondeur. 
+
+## Comparaisons
+
+|                                                      | UF        | BTE       |
+| ---------------------------------------------------- | --------- | --------- |
+| **Nombre de caractères**                             | 1 784 829 | 5 946 865 |
+| **Nombre de lignes**                                 | 20 475    | 3 388     |
+| **Moyenne de la différence du nombre de caractères** | 1 413.07  | 1 906.36  |
+| **Moyenne de la différence du nombre de lignes**     | 12.60     | 12.48     |
+| **Écart type du nombre de caractères**               | 1842.42   | 4316.50   |
+| **Écart type du nombre de lignes**                   | 14.68     | 9.75      |
+
+
+
+* ## Relevé des F, R et P en fonction des langues :
+
+<table>
+  <tr>
+    <th rowspan="2" style="text-align:center; vertical-align:middle">OUTILS<br></th>
+    <th colspan="3" style="text-align:center">All</th>
+    <th colspan="3" style="text-align:center">el</th>
+  </tr>
+  <tr>
+    <td style="text-align:center">F</td>
+    <td style="text-align:center">R</td>
+    <td style="text-align:center">P</td>
+    <td style="text-align:center">F</td>
+    <td style="text-align:center">R</td>
+    <td style="text-align:center">P</td>
+  </tr>
+  <tr>
+    <td style="text-align:center">UF</td>
+    <td style="text-align:center">35.42</td>
+    <td style="text-align:center">32.23</td>
+    <td style="text-align:center">93.42</td>
+    <td style="text-align:center">2.11</td>
+    <td style="text-align:center">1.26</td>
+    <td style="text-align:center">98.52</td>
+  </tr>
+  <tr>
+    <td style="text-align:center">BTE</td>
+    <td style="text-align:center">56.80</td>
+    <td style="text-align:center">65.21</td>
+    <td style="text-align:center">59.61</td>
+    <td style="text-align:center">74.06</td>
+    <td style="text-align:center">88.22</td>
+    <td style="text-align:center">67.86</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th rowspan="2" style="text-align:center; vertical-align:middle">OUTILS<br></th>
+    <th colspan="3" style="text-align:center">pl</th>
+    <th colspan="3" style="text-align:center">ru</th>
+  </tr>
+  <tr>
+    <td style="text-align:center">F</td>
+    <td style="text-align:center">R</td>
+    <td style="text-align:center">P</td>
+    <td style="text-align:center">F</td>
+    <td style="text-align:center">R</td>
+    <td style="text-align:center">P</td>
+  </tr>
+  <tr>
+    <td style="text-align:center">UF</td>
+    <td style="text-align:center">46.18</td>
+    <td style="text-align:center">41.54</td>
+    <td style="text-align:center">84.17</td>
+    <td style="text-align:center">2.15</td>
+    <td style="text-align:center">1.14</td>
+    <td style="text-align:center">97.06</td>
+  </tr>
+  <tr>
+    <td style="text-align:center">BTE</td>
+    <td style="text-align:center">71.39</td>
+    <td style="text-align:center">80.31</td>
+    <td style="text-align:center">70.50</td>
+    <td style="text-align:center">55.04</td>
+    <td style="text-align:center">68.67</td>
+    <td style="text-align:center">55.75</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th rowspan="2" style="text-align:center; vertical-align:middle">OUTILS<br></th>
+    <th colspan="3" style="text-align:center">en</th>
+    <th colspan="3" style="text-align:center">zh</th>
+  </tr>
+  <tr>
+    <td style="text-align:center">F</td>
+    <td style="text-align:center">R</td>
+    <td style="text-align:center">P</td>
+    <td style="text-align:center">F</td>
+    <td style="text-align:center">R</td>
+    <td style="text-align:center">P</td>
+  </tr>
+  <tr>
+    <td style="text-align:center">UF</td>
+    <td style="text-align:center">83.40</td>
+    <td style="text-align:center">81.88</td>
+    <td style="text-align:center">88.17</td>
+    <td style="text-align:center">16.03</td>
+    <td style="text-align:center">8.87</td>
+    <td style="text-align:center">100.00</td>
+  </tr>
+  <tr>
+    <td style="text-align:center">BTE</td>
+    <td style="text-align:center">70.02</td>
+    <td style="text-align:center">82.34</td>
+    <td style="text-align:center">70.38</td>
+    <td style="text-align:center">20.93</td>
+    <td style="text-align:center">17.05</td>
+    <td style="text-align:center">36.56</td>
+  </tr>
+</table>
+
+
+
+* ## Relevé des F, R et P en fonction des sources :
+
+<table>
+  <tr>
+    <th rowspan="2" style="text-align:center; vertical-align:middle">OUTILS<br></th>
+    <th colspan="3" style="text-align:center">All</th>
+    <th colspan="3" style="text-align:center">www.express.gr</th>
+  </tr>
+  <tr>
+    <td style="text-align:center">F</td>
+    <td style="text-align:center">R</td>
+    <td style="text-align:center">P</td>
+    <td style="text-align:center">F</td>
+    <td style="text-align:center">R</td>
+    <td style="text-align:center">P</td>
+  </tr>
+  <tr>
+    <td style="text-align:center">UF</td>
+    <td style="text-align:center">35.42</td>
+    <td style="text-align:center">32.23</td>
+    <td style="text-align:center">93.42</td>
+    <td style="text-align:center">2.75</td>
+    <td style="text-align:center">2.00</td>
+    <td style="text-align:center">99.95</td>
+  </tr>
+  <tr>
+    <td style="text-align:center">BTE</td>
+    <td style="text-align:center">56.80</td>
+    <td style="text-align:center">65.21</td>
+    <td style="text-align:center">59.61</td>
+    <td style="text-align:center">90.00</td>
+    <td style="text-align:center">94.48</td>
+    <td style="text-align:center">86.08</td>
+  </tr>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th rowspan="2" style="text-align:center; vertical-align:middle">OUTILS<br></th>
+    <th colspan="3" style="text-align:center">goodcontents.net</th>
+    <th colspan="3" style="text-align:center">biolog.pl</th>
+  </tr>
+  <tr>
+    <td style="text-align:center">F</td>
+    <td style="text-align:center">R</td>
+    <td style="text-align:center">P</td>
+    <td style="text-align:center">F</td>
+    <td style="text-align:center">R</td>
+    <td style="text-align:center">P</td>
+  </tr>
+  <tr>
+    <td style="text-align:center">UF</td>
+    <td style="text-align:center">90.84</td>
+    <td style="text-align:center">93.70</td>
+    <td style="text-align:center">88.38</td>
+    <td style="text-align:center">61.02</td>
+    <td style="text-align:center">55.72</td>
+    <td style="text-align:center">89.15</td>
+  </tr>
+  <tr>
+    <td style="text-align:center">BTE</td>
+    <td style="text-align:center">61.63</td>
+    <td style="text-align:center">96.07</td>
+    <td style="text-align:center">45.97</td>
+    <td style="text-align:center">87.76</td>
+    <td style="text-align:center">86.74</td>
+    <td style="text-align:center">88.88</td>
+  </tr>
+  </tr>
+</table>
