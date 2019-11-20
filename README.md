@@ -12,12 +12,12 @@ Lisa FOUGERON - François GRÉAU - Antoine ORGERIT
 
 *(L'installation de BoilerPipe 1.2.0.0 ne fonctionnant pas, nous nous sommes rabattu sur la version 1.1)*
 
-Nous nous basons sur le dossier ***html*** fourni, possédant les caractéristiques suivantes :
+Nous nous basons sur le dossier *html* fourni, possédant les caractéristiques suivantes :
 
 * 1694 fichiers, totalisant 127 002 561 caractères en 2 345 719 lignes
 * 129 Mo.
 
-On veut utiliser trois outils afin d'extraire le contenu des articles de ces fichiers. Pour ce faire, Nous avons développé un code en Python permettant de créer des fichiers contenant les résultats en spécifiant une méthode de scraping :
+On veut utiliser trois outils afin d'extraire le contenu des articles de ces fichiers. Pour ce faire, Nous avons développé un code en *python* permettant de créer des fichiers contenant les résultats en spécifiant une méthode de scraping :
 
 ```python
 import glob
@@ -108,7 +108,7 @@ Résultat : le dossier généré pèse désormais 53,5 Mo.
 
 ## Comparaisons
 
-Afin de calculer les métriques relatives au nombre de caractères et de lignes entre les résultats obtenus et la référence, nous avons écrit le script suivant en python :
+Afin de calculer les métriques relatives au nombre de caractères et de lignes entre les résultats obtenus et la référence, nous avons écrit le script suivant en *python* :
 
 ```python
 import os
@@ -163,14 +163,14 @@ calculateAverage("JT", "clean")
 
 Grace à cela, nous relevons les données suivantes :
 
-|                                                      | JT         | BS         |
-| ---------------------------------------------------- | ---------- | ---------- |
-| **Nombre de caractères**                             | 14 659 367 | 49 504 518 |
-| **Nombre de lignes**                                 | 306 757    | 527 095    |
-| **Moyenne de la différence du nombre de caractères** | 6 370.41   | 26 931.97  |
-| **Moyenne de la différence du nombre de lignes**     | 166.6      | 296.71     |
-| **Écart type du nombre de caractères**               | 5 907.68   | 32 151.27  |
-| **Écart type du nombre de lignes**                   | 125.18     | 214.78     |
+|                                                  | JT         | BS         |
+| ------------------------------------------------ | ---------- | ---------- |
+| Nombre de caractères                             | 14 659 367 | 49 504 518 |
+| Nombre de lignes                                 | 306 757    | 527 095    |
+| Moyenne de la différence du nombre de caractères | 6 370.41   | 26 931.97  |
+| Moyenne de la différence du nombre de lignes     | 166.6      | 296.71     |
+| Écart type du nombre de caractères               | 5 907.68   | 32 151.27  |
+| Écart type du nombre de lignes                   | 125.18     | 214.78     |
 
 
 
@@ -193,7 +193,7 @@ def jt_langid_treatement(input_file, output_file):
         language = langid.classify(input_file.read())
         language = languages.get(alpha2=language[0]).name
         
-        # Greek is the only badly formatted one so we convert "Modern Greek (1453-)" into "Greek"
+        # Greek is the only poorly formatted one so we convert "Modern Greek (1453-)" into "Greek"
         if "Greek" in language:
             language = "Greek"
         # If language is unspecified, we choose English
@@ -233,10 +233,10 @@ def jt_truelg_treatement(input_file, output_file, file_name):
 
 En recalculant les métriques précédentes pour ***JusText***, on obtient les valeurs suivantes :
 
-| Métrique                                             | Valeur pour JT_langid |
+|                                                      | Valeur pour JT_langid |
 | ---------------------------------------------------- | --------------------- |
 | **Nombre de caractères**                             | 14 048 036            |
-| **Nombre de ligne**                                  | 306 755               |
+| **Nombre de ligne**s                                 | 306 755               |
 | **Moyenne de la différence du nombre de caractères** | 6 011.14              |
 | **Moyenne de la différence du nombre de lignes**     | 166.79                |
 | **Écart type du nombre de caractères**               | 5 702.18              |
@@ -244,7 +244,7 @@ En recalculant les métriques précédentes pour ***JusText***, on obtient les v
 
 On se rend compte que les valeurs sont similaires à celles obtenues sans préciser la langue. Nous supposons que la différence se fait plutôt dans la vitesse d'exécution. 
 
-Une bonne façon de s'en assurer est de comparer la vitesse d'exécution avec et sans la spécification de la langue au préalable. Pour cela, on relève le temps avant et après le traitement des fichiers.
+Une bonne façon de s'en assurer est de comparer la vitesse d'exécution avec et sans la spécification de la langue au préalable. Pour cela, on relève le temps avant et après le traitement des 1694 fichiers.
 
 * Sans spécification : 
 
@@ -283,7 +283,7 @@ Notre hypothèse est vérifiée : même en allant chercher les langues dans un f
 
 # Exercice 3 : Évaluation intrinsèque
 
-* ## Mesures  des valeurs de la F-Mesures, du Rappel et de la Précision  en fonction des langues
+* ## Mesure des valeurs de la F-Mesures, du Rappel et de la Précision  en fonction des langues
 
 <table>
   <tr>
@@ -443,7 +443,7 @@ Notre hypothèse est vérifiée : même en allant chercher les langues dans un f
 
 
 
-* ## Mesures  des valeurs de la F-Mesure, du Rappel et de la Précision  en fonction des sources
+* ## Mesure des valeurs de la F-Mesure, du Rappel et de la Précision  en fonction des sources
 
 <table>
   <tr>
@@ -588,11 +588,11 @@ files.forEach(function(file) {
 
 ## b. Victor
 
-Malgré nos efforts et un installation réalisée en suivant scrupuleusement la documentation, nous n'avons pas réussi à faire fonctionner Victor. 
+*Malgré nos efforts et une installation réalisée en suivant scrupuleusement la documentation, nous n'avons pas réussi à faire fonctionner Victor.*
 
 ## c. Body Text Extractor
 
-L'utilisation de ***BTE*** est très similaire à celle de ***JusText***, ainsi nous n'allons pas la détailler en profondeur. 
+L'utilisation de ***BTE*** est très similaire à celle de ***JusText***, aussi nous n'allons pas la détailler en profondeur. 
 
 ## Comparaisons
 
@@ -784,3 +784,6 @@ L'utilisation de ***BTE*** est très similaire à celle de ***JusText***, ainsi 
   </tr>
   </tr>
 </table>
+
+# Exercice 5 : Évaluation extrinsèque
+
