@@ -1,4 +1,4 @@
-Lisa FOUGERON - François GRÉAU - Antoine ORGERIT
+*Lisa FOUGERON - François GRÉAU - Antoine ORGERIT
 
 # TD 1 WebScraping
 
@@ -182,8 +182,6 @@ Afin d'observer plus facilement l'efficacité de JusText, nous avons eu l'idée 
 
 Nous pouvons alors facilement observer que mis à part de rares extrêmes, les différences sont relativement faibles.
 
-
-
 # Exercice 2 : Guider le scraping avec la reconnaissance de langue
 
 Afin d'accélérer l'exécution de JusText, on veut connaître la langue de chaque fichier afin de l'indiquer lors du scraping. Pour ce faire, deux choix s'offrent à nous. On peut utiliser la librairie ***langid.py*** :
@@ -235,13 +233,14 @@ def jt_truelg_treatement(input_file, output_file, file_name):
 
 En recalculant les métriques précédentes pour JusText, on obtient les valeurs suivantes :
 
-| **Nombre de caractères**                             | 14 048 036 |
-| ---------------------------------------------------- | ---------- |
-| **Nombre de ligne**                                  | 306 755    |
-| **Moyenne de la différence du nombre de caractères** | 6 011.14   |
-| **Moyenne de la différence du nombre de lignes**     | 166.79     |
-| **Écart type du nombre de caractères**               | 5 702.18   |
-| **Écart type du nombre de lignes**                   | 125.18     |
+| Métrique                                             | Valeur pour JT_langid |
+| ---------------------------------------------------- | --------------------- |
+| **Nombre de caractères**                             | 14 048 036            |
+| **Nombre de ligne**                                  | 306 755               |
+| **Moyenne de la différence du nombre de caractères** | 6 011.14              |
+| **Moyenne de la différence du nombre de lignes**     | 166.79                |
+| **Écart type du nombre de caractères**               | 5 702.18              |
+| **Écart type du nombre de lignes**                   | 125.18                |
 
 On se rend compte que les valeurs sont similaires à celles obtenues sans préciser la langue. Nous supposons que la différence se fait plutôt dans la vitesse d'exécution.
 
@@ -249,16 +248,278 @@ ___
 
 *PROPOSITION : RELEVER LES TEMPS AVEC ET SANS LA LANGUE PRÉCISÉE*
 
-| Langue ? | Temps d'exécution en ms |
-| -------- | ----------------------- |
-| Sans     |                         |
-| Avec     |                         |
+| Langue        | Temps d'exécution en ms |
+| ------------- | ----------------------- |
+| Non spécifiée |                         |
+| Spécifiée     |                         |
 
 ___
 
 # Exercice 3 : Évaluation intrinsèque
 
+* ## Mesures  des valeurs de la F-Mesures, du Rappel et de la Précision  en fonction des langues
+
+<table>
+  <tr>
+    <th rowspan="2" align="center" style="vertical-align:middle">OUTILS<br></th>
+    <th colspan="3" align="center">All</th>
+    <th colspan="3" align="center">el</th>
+  </tr>
+  <tr>
+    <td align="center">F</td>
+    <td align="center">R</td>
+    <td align="center">P</td>
+    <td align="center">F</td>
+    <td align="center">R</td>
+    <td align="center">P</td>
+  </tr>
+  <tr>
+    <td align="center">JT</td>
+    <td align="center">34.67</td>
+    <td align="center">88.81</td>
+    <td align="center">23.90</td>
+    <td align="center">44.36</td>
+    <td align="center">97.58</td>
+    <td align="center">30.45</td>
+  </tr>
+  <tr>
+    <td align="center">BS</td>
+    <td align="center">21.14</td>
+    <td align="center">88.44</td>
+    <td align="center">13.32</td>
+    <td align="center">23.43</td>
+    <td align="center">97.49</td>
+    <td align="center">14.83</td>
+  </tr>
+  <tr>
+    <td align="center">JT_langid</td>
+    <td align="center">38.91</td>
+    <td align="center">92.89</td>
+    <td align="center">27.38</td>
+    <td align="center">48.14</td>
+    <td align="center">96.61</td>
+    <td align="center">34.04</td>
+  </tr>
+  <tr>
+    <td align="center">JT_trueLg</td>
+    <td align="center">38.91</td>
+    <td align="center">92.89</td>
+    <td align="center">27.38</td>
+    <td align="center">48.14</td>
+    <td align="center">96.61</td>
+    <td align="center">34.04</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th rowspan="2" align="center" style="vertical-align:middle">OUTILS<br></th>
+    <th colspan="3" align="center">pl</th>
+    <th colspan="3" align="center">ru</th>
+  </tr>
+  <tr>
+    <td align="center">F</td>
+    <td align="center">R</td>
+    <td align="center">P</td>
+    <td align="center">F</td>
+    <td align="center">R</td>
+    <td align="center">P</td>
+  </tr>
+  <tr>
+    <td align="center">JT</td>
+    <td align="center">43.08</td>
+    <td align="center">94.29</td>
+    <td align="center">30.34</td>
+    <td align="center">31.19</td>
+    <td align="center">93.81</td>
+    <td align="center">21.14</td>
+  </tr>
+  <tr>
+    <td align="center">BS</td>
+    <td align="center">30.37</td>
+    <td align="center">94.20</td>
+    <td align="center">19.48</td>
+    <td align="center">18.06</td>
+    <td align="center">94.04</td>
+    <td align="center">10.92</td>
+  </tr>
+  <tr>
+    <td align="center">JT_langid</td>
+    <td align="center">46.11</td>
+    <td align="center">93.10</td>
+    <td align="center">33.26</td>
+    <td align="center">32.80</td>
+    <td align="center">89.94</td>
+    <td align="center">22.58</td>
+  </tr>
+  <tr>
+    <td align="center">JT_trueLg</td>
+    <td align="center">46.11</td>
+    <td align="center">93.10</td>
+    <td align="center">33.26</td>
+    <td align="center">32.80</td>
+    <td align="center">89.94</td>
+    <td align="center">22.58</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th rowspan="2" align="center" style="vertical-align:middle">OUTILS<br></th>
+    <th colspan="3" align="center">en</th>
+    <th colspan="3" align="center">zh</th>
+  </tr>
+  <tr>
+    <td align="center">F</td>
+    <td align="center">R</td>
+    <td align="center">P</td>
+    <td align="center">F</td>
+    <td align="center">R</td>
+    <td align="center">P</td>
+  </tr>
+  <tr>
+    <td align="center">JT</td>
+    <td align="center">44.59</td>
+    <td align="center">96.41</td>
+    <td align="center">31.25</td>
+    <td align="center">13.09</td>
+    <td align="center">66.96</td>
+    <td align="center">8.30</td>
+  </tr>
+  <tr>
+    <td align="center">BS</td>
+    <td align="center">30.40</td>
+    <td align="center">96.02</td>
+    <td align="center">19.37</td>
+    <td align="center">4.50</td>
+    <td align="center">65.85</td>
+    <td align="center">2.59</td>
+  </tr>
+  <tr>
+    <td align="center">JT_langid</td>
+    <td align="center">49.51</td>
+    <td align="center">98.04</td>
+    <td align="center">35.63</td>
+    <td align="center">19.35</td>
+    <td align="center">86.13</td>
+    <td align="center">12.39</td>
+  </tr>
+  <tr>
+    <td align="center">JT_trueLg</td>
+    <td align="center">49.51</td>
+    <td align="center">98.04</td>
+    <td align="center">35.63</td>
+    <td align="center">19.35</td>
+    <td align="center">86.13</td>
+    <td align="center">12.39</td>
+  </tr>
+</table>
 
 
 
+* ## Mesures  des valeurs de la F-Mesure, du Rappel et de la Précision  en fonction des sources
+
+<table>
+  <tr>
+    <th rowspan="2" align="center" style="vertical-align:middle">OUTILS<br></th>
+    <th colspan="3" align="center">All</th>
+    <th colspan="3" align="center">www.express.gr</th>
+  </tr>
+  <tr>
+    <td align="center">F</td>
+    <td align="center">R</td>
+    <td align="center">P</td>
+    <td align="center">F</td>
+    <td align="center">R</td>
+    <td align="center">P</td>
+  </tr>
+  <tr>
+    <td align="center">JT</td>
+    <td align="center">34.67</td>
+    <td align="center">88.81</td>
+    <td align="center">23.90</td>
+    <td align="center">53.00</td>
+    <td align="center">97.64</td>
+    <td align="center">37.06</td>
+  </tr>
+  <tr>
+    <td align="center">BS</td>
+    <td align="center">21.14</td>
+    <td align="center">88.44</td>
+    <td align="center">13.32</td>
+    <td align="center">5.40</td>
+    <td align="center">97.73</td>
+    <td align="center">2.79</td>
+  </tr>
+  <tr>
+    <td align="center">JT_langid</td>
+    <td align="center">38.91</td>
+    <td align="center">92.89</td>
+    <td align="center">27.38</td>
+    <td align="center">57.64</td>
+    <td align="center">97.45</td>
+    <td align="center">41.67</td>
+  </tr>
+  <tr>
+    <td align="center">JT_trueLg</td>
+    <td align="center">38.91</td>
+    <td align="center">92.89</td>
+    <td align="center">27.38</td>
+    <td align="center">57.64</td>
+    <td align="center">97.45</td>
+    <td align="center">41.67</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th rowspan="2" align="center" style="vertical-align:middle">OUTILS<br></th>
+    <th colspan="3" align="center">goodcontents.net</th>
+    <th colspan="3" align="center">biolog.pl</th>
+  </tr>
+  <tr>
+    <td align="center">F</td>
+    <td align="center">R</td>
+    <td align="center">P</td>
+    <td align="center">F</td>
+    <td align="center">R</td>
+    <td align="center">P</td>
+  </tr>
+  <tr>
+    <td align="center">JT</td>
+    <td align="center">54.86</td>
+    <td align="center">97.67</td>
+    <td align="center">38.75</td>
+    <td align="center">63.92</td>
+    <td align="center">98.10</td>
+    <td align="center">48.56</td>
+  </tr>
+  <tr>
+    <td align="center">BS</td>
+    <td align="center">49.65</td>
+    <td align="center">99.13</td>
+    <td align="center">33.54</td>
+    <td align="center">42.77</td>
+    <td align="center">98.21</td>
+    <td align="center">28.19</td>
+  </tr>
+  <tr>
+    <td align="center">JT_langid</td>
+    <td align="center">57.63</td>
+    <td align="center">96.18</td>
+    <td align="center">41.75</td>
+    <td align="center">65.97</td>
+    <td align="center">97.33</td>
+    <td align="center">51.06</td>
+  </tr>
+  <tr>
+    <td align="center">JT_trueLg</td>
+    <td align="center">57.63</td>
+    <td align="center">96.18</td>
+    <td align="center">41.75</td>
+    <td align="center">65.97</td>
+    <td align="center">97.33</td>
+    <td align="center">51.06</td>
+  </tr>
+</table>
 
