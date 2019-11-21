@@ -51,42 +51,76 @@ def get_measures(dic, beta=1):
     F = (1+B)*P*R/(B*P+R)
     return {"Recall":round(R,4), "Precision":round(P,4), "F%s-measure"%str(beta):round(F,4)}
 
-def get_results(dic_GT, dic_eval):
+
+# function updated for matching different criterias
+
+# def get_results(dic_GT, dic_eval):
+#     dic_results = {x:0 for x in ["TP","FP","FN","TN"]}
+#     dic_lg ={}
+#     dic_results["Missing_GT"] = []
+#     for id_doc, infos in dic_eval.items():
+#         lg = infos["language"]
+#         dic_lg.setdefault(lg,{x:0 for x in ["TP","FP","FN","TN"]})
+#         try:annot_eval = infos["annotations"]
+#         except:continue
+#         if id_doc in dic_GT:
+#             annot_GT = dic_GT[id_doc]["annotations"]  
+#             verdict = get_verdict(annot_GT, annot_eval)#TODO: add events
+#             dic_results[verdict]+=1
+#             dic_lg[lg][verdict]+=1
+#         else:
+#             dic_results["Missing_GT"].append(id_doc)
+#         if verdict=="FP":
+#             print(infos["language"],annot_GT, annot_eval)
+#       os.system("gedit %s"%infos["document_path"])
+#       dd = input("Next ?")
+#     if dic_results["TP"]+dic_results["FN"]==0:
+#         print("  No relevant documents in this Ground Truth")
+#     print(dic_results)
+#     print(get_measures(dic_results))
+#     print("  %s annotations missing"%str(len(dic_results["Missing_GT"])))
+#     for lg , infos in dic_lg.items():
+#         print(lg, get_measures(infos))
+
+def get_results(dic_GT, dic_eval, criteria_extraction=None):
     dic_results = {x:0 for x in ["TP","FP","FN","TN"]}
-    dic_lg ={}
+    dic_criteria ={}
     dic_results["Missing_GT"] = []
     for id_doc, infos in dic_eval.items():
-        lg = infos["language"]
-        dic_lg.setdefault(lg,{x:0 for x in ["TP","FP","FN","TN"]})
+        if criteria_extraction == None:
+            criteria = infos["language"]
+        else:
+            criteria = criteria_extraction(infos)
+        dic_criteria.setdefault(criteria,{x:0 for x in ["TP","FP","FN","TN"]})
         try:annot_eval = infos["annotations"]
         except:continue
         if id_doc in dic_GT:
             annot_GT = dic_GT[id_doc]["annotations"]  
             verdict = get_verdict(annot_GT, annot_eval)#TODO: add events
             dic_results[verdict]+=1
-            dic_lg[lg][verdict]+=1
+            dic_criteria[criteria][verdict]+=1
         else:
             dic_results["Missing_GT"].append(id_doc)
-        if verdict=="FP":
-            print(infos["language"],annot_GT, annot_eval)
-#      os.system("gedit %s"%infos["document_path"])
-#      dd = input("Next ?")
+#       os.system("gedit %s"%infos["document_path"])
+#       dd = input("Next ?")
     if dic_results["TP"]+dic_results["FN"]==0:
         print("  No relevant documents in this Ground Truth")
-    print(dic_results)
-    print(get_measures(dic_results))
-    print("  %s annotations missing"%str(len(dic_results["Missing_GT"])))
-    for lg , infos in dic_lg.items():
-        print(lg, get_measures(infos))
+    measures_by_criteria = {}
+    for criteria , infos in dic_criteria.items():
+        measures_by_criteria[criteria] = get_measures(infos)
+    return (dic_results, get_measures(dic_results), measures_by_criteria)
 
-if len(sys.argv)!=3:
-    print("USAGE : arg1=groundtruth file arg2 = result file")
-    exit()
 
-groundtruth_path = sys.argv[1]
-eval_path = sys.argv[2]
+#  removing default behaviour from original file
 
-dic_GT = get_dic(groundtruth_path)
-dic_eval = get_dic(eval_path)
-
-get_results(dic_GT, dic_eval)
+# if len(sys.argv)!=3:
+#     print("USAGE : arg1=groundtruth file arg2 = result file")
+#     exit()
+# 
+# groundtruth_path = sys.argv[1]
+# eval_path = sys.argv[2]
+# 
+# dic_GT = get_dic(groundtruth_path)
+# dic_eval = get_dic(eval_path)
+# 
+# get_results(dic_GT, dic_eval)

@@ -42,6 +42,7 @@ def print_table_format(tools_criterias_data, default_header_key):
             if criteria in add_spacing:
                 print("\t", end="")
         print()
+    print()
 
 
 def append_results_to_global_data(results, criterias_data, criteria):
@@ -73,9 +74,9 @@ def perform_intrinsic_evaluation(original_repository_path, clean_repository_path
     for source_repository_name_and_path in source_repositories_name_and_path:
         criterias_data = {"all": {"f-score": [], "recall": [], "precision": []}}
         for file_name in files_to_evaluate:
-            language = criteria_extraction(clean_repository_path + file_name)
+            criteria = criteria_extraction(clean_repository_path + file_name)
             results = evaluate_file(source_repository_name_and_path[1] + file_name, clean_repository_path + file_name)
-            criterias_data = append_results_to_global_data(results, criterias_data, language)
+            criterias_data = append_results_to_global_data(results, criterias_data, criteria)
         global_data[source_repository_name_and_path[0]] = calculate_mean_values(criterias_data)
     
     if print_header_key != None:

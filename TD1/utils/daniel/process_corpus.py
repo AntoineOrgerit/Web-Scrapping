@@ -50,6 +50,7 @@ def check_abs_path(doc_path, corpus_path):
     return doc_path
 
 def start_detection(options):
+    print("start detect")
     corpus_to_process = json.load(open(options.corpus))
     if options.language!="all":
       corpus_to_process = {x:infos for x,infos in corpus_to_process.items() if infos["language"]==options.language}

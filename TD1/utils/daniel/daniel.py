@@ -7,10 +7,10 @@ import re
 import glob
 import math
 sys.path.append('./rstr_max')
-from tools_karkkainen_sanders import *
-from rstr_max import *
+from utils.daniel.rstr_max.tools_karkkainen_sanders import *
+from utils.daniel.rstr_max.rstr_max import *
 import os
-from tools import *
+from utils.daniel.tools import *
 import json
 import time
 
@@ -231,28 +231,43 @@ def get_towns(path):
 
     return dic
 
+# ADAPTED
 def get_resource(lg, o):
     dic = {}
     mandatory_rsc = ["diseases", "locations"]
     for rsc_type in ["diseases", "locations", "sources"]:
-        path = "resources/%s_%s.json"%(rsc_type, lg)
-        if os.path.exists(path):
-            try:
-                dic[rsc_type] = eval(open_utf8(path))
-            except Exception as e:
-                if rsc_type in mandatory_rsc:
-                    print ("\n  Problem with resource %s :"%path)
-                    print (e)
-                    exit()
-                else:
-                    dic[rsc_type] = {}
-        else:
+        path = "../utils/daniel/resources/%s_%s.json"%(rsc_type, lg)
+        if not os.path.exists(path):
+            path = "../utils/daniel/resources/%s_%s.json"%(rsc_type, 'en')
+            
+        try:
+            dic[rsc_type] = eval(open_utf8(path))
+        except Exception as e:
             if rsc_type in mandatory_rsc:
-                print ("  Ressource '%s' not found\n ->exiting"%path)
+                print ("\n  Problem with resource %s :"%path)
+                print (e)
                 exit()
+            else:
+                dic[rsc_type] = {}
+#     for rsc_type in ["diseases", "locations", "sources"]:
+#         path = "../utils/daniel/resources/%s_%s.json"%(rsc_type, lg)
+#         if os.path.exists(path):
+#             try:
+#                 dic[rsc_type] = eval(open_utf8(path))
+#             except Exception as e:
+#                 if rsc_type in mandatory_rsc:
+#                     print ("\n  Problem with resource %s :"%path)
+#                     print (e)
+#                     exit()
+#                 else:
+#                     dic[rsc_type] = {}
+#         else:
+#             if rsc_type in mandatory_rsc:
+#                 print ("  Ressource '%s' not found\n ->exiting"%path)
+#                 exit()
 
     try:
-        path_towns= "resources/towns_%s.json"%lg
+        path_towns= "../utils/daniel/resources/towns_%s.json"%lg
         dic["towns"] = get_towns(path_towns)
     except:
         if o.debug:
@@ -278,7 +293,7 @@ def write_utf8(path, content):
         w.write(content)
 
 def translate_justext():#TODO: with big corpus, getting it only once
-    dic = eval(open_utf8("resources/language_codes.json"))
+    dic = eval(open_utf8("../utils/daniel/resources/language_codes.json"))
     return dic
 
 def get_lg_JT(lg_iso):
@@ -374,7 +389,7 @@ def get_final_result(results, ratio):
 
 def process_results(results, options):
     ratio = float(options.ratio)
-    descriptions = eval(open_utf8("resources/descriptions.json"))
+    descriptions = eval(open_utf8("../utils/daniel/resources/descriptions.json"))
 
     if options.debug:
         print ("-"*10, "RESULTS", "-"*10)

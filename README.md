@@ -1,4 +1,5 @@
 
+
 Lisa FOUGERON - François GRÉAU - Antoine ORGERIT
 
 # TD 1 WebScraping
@@ -289,8 +290,12 @@ Notre hypothèse est vérifiée : même en allant chercher les langues dans un f
     <th rowspan="2" style="text-align:center; vertical-align:middle">OUTILS<br></th>
     <th colspan="3" style="text-align:center">All</th>
     <th colspan="3" style="text-align:center">el</th>
+    <th colspan="3" style="text-align:center">pl</th>
   </tr>
   <tr>
+    <td style="text-align:center">F</td>
+    <td style="text-align:center">R</td>
+    <td style="text-align:center">P</td>
     <td style="text-align:center">F</td>
     <td style="text-align:center">R</td>
     <td style="text-align:center">P</td>
@@ -306,6 +311,9 @@ Notre hypothèse est vérifiée : même en allant chercher les langues dans un f
     <td style="text-align:center">44.36</td>
     <td style="text-align:center">97.58</td>
     <td style="text-align:center">30.45</td>
+    <td style="text-align:center">43.08</td>
+    <td style="text-align:center">94.29</td>
+    <td style="text-align:center">30.34</td>
   </tr>
   <tr>
     <td style="text-align:center">BP</td>
@@ -315,6 +323,9 @@ Notre hypothèse est vérifiée : même en allant chercher les langues dans un f
     <td style="text-align:center">81.04</td>
     <td style="text-align:center">89.31</td>
     <td style="text-align:center">75.13</td>
+    <td style="text-align:center">73.58</td>
+    <td style="text-align:center">80.00</td>
+    <td style="text-align:center">70.80</td>
   </tr>
   <tr>
     <td style="text-align:center">BS</td>
@@ -324,91 +335,40 @@ Notre hypothèse est vérifiée : même en allant chercher les langues dans un f
     <td style="text-align:center">23.43</td>
     <td style="text-align:center">97.49</td>
     <td style="text-align:center">14.83</td>
-  </tr>
-  <tr>
-    <td style="text-align:center">JT_langid</td>
-    <td style="text-align:center">38.91</td>
-    <td style="text-align:center">92.89</td>
-    <td style="text-align:center">27.38</td>
-    <td style="text-align:center">48.14</td>
-    <td style="text-align:center">96.61</td>
-    <td style="text-align:center">34.04</td>
-  </tr>
-  <tr>
-    <td style="text-align:center">JT_trueLg</td>
-    <td style="text-align:center">38.91</td>
-    <td style="text-align:center">92.89</td>
-    <td style="text-align:center">27.38</td>
-    <td style="text-align:center">48.14</td>
-    <td style="text-align:center">96.61</td>
-    <td style="text-align:center">34.04</td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <th rowspan="2" style="text-align:center; vertical-align:middle">OUTILS<br></th>
-    <th colspan="3" style="text-align:center">pl</th>
-    <th colspan="3" style="text-align:center">ru</th>
-  </tr>
-  <tr>
-    <td style="text-align:center">F</td>
-    <td style="text-align:center">R</td>
-    <td style="text-align:center">P</td>
-    <td style="text-align:center">F</td>
-    <td style="text-align:center">R</td>
-    <td style="text-align:center">P</td>
-  </tr>
-  <tr>
-    <td style="text-align:center">JT</td>
-    <td style="text-align:center">43.08</td>
-    <td style="text-align:center">94.29</td>
-    <td style="text-align:center">30.34</td>
-    <td style="text-align:center">31.19</td>
-    <td style="text-align:center">93.81</td>
-    <td style="text-align:center">21.14</td>
-  </tr>
-  <tr>
-    <td style="text-align:center">BP</td>
-    <td style="text-align:center">73.58</td>
-    <td style="text-align:center">80.00</td>
-    <td style="text-align:center">70.80</td>
-    <td style="text-align:center">59.14</td>
-    <td style="text-align:center">70.13</td>
-    <td style="text-align:center">54.89</td>
-  </tr>
-  <tr>
-    <td style="text-align:center">BS</td>
     <td style="text-align:center">30.37</td>
     <td style="text-align:center">94.20</td>
     <td style="text-align:center">19.48</td>
-    <td style="text-align:center">18.06</td>
-    <td style="text-align:center">94.04</td>
-    <td style="text-align:center">10.92</td>
   </tr>
   <tr>
     <td style="text-align:center">JT_langid</td>
+    <td style="text-align:center">38.91</td>
+    <td style="text-align:center">92.89</td>
+    <td style="text-align:center">27.38</td>
+    <td style="text-align:center">48.14</td>
+    <td style="text-align:center">96.61</td>
+    <td style="text-align:center">34.04</td>
     <td style="text-align:center">46.11</td>
     <td style="text-align:center">93.10</td>
     <td style="text-align:center">33.26</td>
-    <td style="text-align:center">32.80</td>
-    <td style="text-align:center">89.94</td>
-    <td style="text-align:center">22.58</td>
   </tr>
   <tr>
     <td style="text-align:center">JT_trueLg</td>
+    <td style="text-align:center">38.91</td>
+    <td style="text-align:center">92.89</td>
+    <td style="text-align:center">27.38</td>
+    <td style="text-align:center">48.14</td>
+    <td style="text-align:center">96.61</td>
+    <td style="text-align:center">34.04</td>
     <td style="text-align:center">46.11</td>
     <td style="text-align:center">93.10</td>
     <td style="text-align:center">33.26</td>
-    <td style="text-align:center">32.80</td>
-    <td style="text-align:center">89.94</td>
-    <td style="text-align:center">22.58</td>
   </tr>
 </table>
 
 <table>
   <tr>
     <th rowspan="2" style="text-align:center; vertical-align:middle">OUTILS<br></th>
+    <th colspan="3" style="text-align:center">ru</th>
     <th colspan="3" style="text-align:center">en</th>
     <th colspan="3" style="text-align:center">zh</th>
   </tr>
@@ -419,9 +379,15 @@ Notre hypothèse est vérifiée : même en allant chercher les langues dans un f
     <td style="text-align:center">F</td>
     <td style="text-align:center">R</td>
     <td style="text-align:center">P</td>
+    <td style="text-align:center">F</td>
+    <td style="text-align:center">R</td>
+    <td style="text-align:center">P</td>
   </tr>
   <tr>
     <td style="text-align:center">JT</td>
+    <td style="text-align:center">31.19</td>
+    <td style="text-align:center">93.81</td>
+    <td style="text-align:center">21.14</td>
     <td style="text-align:center">44.59</td>
     <td style="text-align:center">96.41</td>
     <td style="text-align:center">31.25</td>
@@ -431,6 +397,9 @@ Notre hypothèse est vérifiée : même en allant chercher les langues dans un f
   </tr>
   <tr>
     <td style="text-align:center">BP</td>
+    <td style="text-align:center">59.14</td>
+    <td style="text-align:center">70.13</td>
+    <td style="text-align:center">54.89</td>
     <td style="text-align:center">76.57</td>
     <td style="text-align:center">84.54</td>
     <td style="text-align:center">71.54</td>
@@ -440,6 +409,9 @@ Notre hypothèse est vérifiée : même en allant chercher les langues dans un f
   </tr>
   <tr>
     <td style="text-align:center">BS</td>
+    <td style="text-align:center">18.06</td>
+    <td style="text-align:center">94.04</td>
+    <td style="text-align:center">10.92</td>
     <td style="text-align:center">30.40</td>
     <td style="text-align:center">96.02</td>
     <td style="text-align:center">19.37</td>
@@ -449,6 +421,9 @@ Notre hypothèse est vérifiée : même en allant chercher les langues dans un f
   </tr>
   <tr>
     <td style="text-align:center">JT_langid</td>
+    <td style="text-align:center">32.80</td>
+    <td style="text-align:center">89.94</td>
+    <td style="text-align:center">22.58</td>
     <td style="text-align:center">49.51</td>
     <td style="text-align:center">98.04</td>
     <td style="text-align:center">35.63</td>
@@ -458,6 +433,9 @@ Notre hypothèse est vérifiée : même en allant chercher les langues dans un f
   </tr>
   <tr>
     <td style="text-align:center">JT_trueLg</td>
+    <td style="text-align:center">32.80</td>
+    <td style="text-align:center">89.94</td>
+    <td style="text-align:center">22.58</td>
     <td style="text-align:center">49.51</td>
     <td style="text-align:center">98.04</td>
     <td style="text-align:center">35.63</td>
@@ -658,8 +636,12 @@ L'utilisation de ***BTE*** est très similaire à celle de ***JusText***, aussi 
     <th rowspan="2" style="text-align:center; vertical-align:middle">OUTILS<br></th>
     <th colspan="3" style="text-align:center">All</th>
     <th colspan="3" style="text-align:center">el</th>
+    <th colspan="3" style="text-align:center">pl</th>
   </tr>
   <tr>
+    <td style="text-align:center">F</td>
+    <td style="text-align:center">R</td>
+    <td style="text-align:center">P</td>
     <td style="text-align:center">F</td>
     <td style="text-align:center">R</td>
     <td style="text-align:center">P</td>
@@ -675,6 +657,9 @@ L'utilisation de ***BTE*** est très similaire à celle de ***JusText***, aussi 
     <td style="text-align:center">2.11</td>
     <td style="text-align:center">1.26</td>
     <td style="text-align:center">98.52</td>
+    <td style="text-align:center">46.18</td>
+    <td style="text-align:center">41.54</td>
+    <td style="text-align:center">84.17</td>
   </tr>
   <tr>
     <td style="text-align:center">BTE</td>
@@ -684,46 +669,16 @@ L'utilisation de ***BTE*** est très similaire à celle de ***JusText***, aussi 
     <td style="text-align:center">74.06</td>
     <td style="text-align:center">88.22</td>
     <td style="text-align:center">67.86</td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <th rowspan="2" style="text-align:center; vertical-align:middle">OUTILS<br></th>
-    <th colspan="3" style="text-align:center">pl</th>
-    <th colspan="3" style="text-align:center">ru</th>
-  </tr>
-  <tr>
-    <td style="text-align:center">F</td>
-    <td style="text-align:center">R</td>
-    <td style="text-align:center">P</td>
-    <td style="text-align:center">F</td>
-    <td style="text-align:center">R</td>
-    <td style="text-align:center">P</td>
-  </tr>
-  <tr>
-    <td style="text-align:center">UF</td>
-    <td style="text-align:center">46.18</td>
-    <td style="text-align:center">41.54</td>
-    <td style="text-align:center">84.17</td>
-    <td style="text-align:center">2.15</td>
-    <td style="text-align:center">1.14</td>
-    <td style="text-align:center">97.06</td>
-  </tr>
-  <tr>
-    <td style="text-align:center">BTE</td>
     <td style="text-align:center">71.39</td>
     <td style="text-align:center">80.31</td>
     <td style="text-align:center">70.50</td>
-    <td style="text-align:center">55.04</td>
-    <td style="text-align:center">68.67</td>
-    <td style="text-align:center">55.75</td>
   </tr>
 </table>
 
 <table>
   <tr>
     <th rowspan="2" style="text-align:center; vertical-align:middle">OUTILS<br></th>
+    <th colspan="3" style="text-align:center">ru</th>
     <th colspan="3" style="text-align:center">en</th>
     <th colspan="3" style="text-align:center">zh</th>
   </tr>
@@ -731,12 +686,18 @@ L'utilisation de ***BTE*** est très similaire à celle de ***JusText***, aussi 
     <td style="text-align:center">F</td>
     <td style="text-align:center">R</td>
     <td style="text-align:center">P</td>
+     <td style="text-align:center">F</td>
+    <td style="text-align:center">R</td>
+    <td style="text-align:center">P</td>
     <td style="text-align:center">F</td>
     <td style="text-align:center">R</td>
     <td style="text-align:center">P</td>
   </tr>
   <tr>
     <td style="text-align:center">UF</td>
+    <td style="text-align:center">2.15</td>
+    <td style="text-align:center">1.14</td>
+    <td style="text-align:center">97.06</td>
     <td style="text-align:center">83.40</td>
     <td style="text-align:center">81.88</td>
     <td style="text-align:center">88.17</td>
@@ -746,6 +707,9 @@ L'utilisation de ***BTE*** est très similaire à celle de ***JusText***, aussi 
   </tr>
   <tr>
     <td style="text-align:center">BTE</td>
+    <td style="text-align:center">55.04</td>
+    <td style="text-align:center">68.67</td>
+    <td style="text-align:center">55.75</td>
     <td style="text-align:center">70.02</td>
     <td style="text-align:center">82.34</td>
     <td style="text-align:center">70.38</td>
@@ -831,5 +795,277 @@ L'utilisation de ***BTE*** est très similaire à celle de ***JusText***, aussi 
 
 # Exercice 5 : Évaluation extrinsèque
 
+
+* ## Relevé des TP, FP, FN et TN :
+
+<table>
+  <tr>
+    <th style="text-align:center">OUTILS<br></th>
+    <th style="text-align:center">TP</th>
+    <th style="text-align:center">FP</th>
+    <th style="text-align:center">FN</th>
+    <th style="text-align:center">TN</th>
+  </tr>
+  <tr>
+    <td style="text-align:center">JT</td>
+    <td style="text-align:center">8</td>
+    <td style="text-align:center">1</td>
+    <td style="text-align:center">116</td>
+    <td style="text-align:center">1 569</td>
+  </tr>
+    <tr>
+    <td style="text-align:center">BP</td>
+    <td style="text-align:center">0</td>
+    <td style="text-align:center">0</td>
+    <td style="text-align:center">124</td>
+    <td style="text-align:center">1 570</td>
+  </tr> 
+    <tr>
+    <td style="text-align:center">BS</td>
+    <td style="text-align:center">76</td>
+    <td style="text-align:center">48</td>
+    <td style="text-align:center">48</td>
+    <td style="text-align:center">1 522</td>
+  </tr>
+    <tr>
+    <td style="text-align:center">JT_langid</td>
+    <td style="text-align:center">8</td>
+    <td style="text-align:center">1</td>
+    <td style="text-align:center">116</td>
+    <td style="text-align:center">1 569</td>
+  </tr>
+    <tr>
+    <td style="text-align:center">JT_trueLg</td>
+    <td style="text-align:center">8</td>
+    <td style="text-align:center">1</td>
+    <td style="text-align:center">116</td>
+    <td style="text-align:center">1 569</td>
+  </tr>
+    <tr>
+    <td style="text-align:center">UF</td>
+    <td style="text-align:center">41</td>
+    <td style="text-align:center">56</td>
+    <td style="text-align:center">83</td>
+    <td style="text-align:center">1 514</td>
+  </tr>
+    <tr>
+    <td style="text-align:center">BT</td>
+    <td style="text-align:center">85</td>
+    <td style="text-align:center">147</td>
+    <td style="text-align:center">39</td>
+    <td style="text-align:center">1 423</td>
+  </tr>
+</table>
+
+
+* ## Relevé des F, R et P en fonction des langues :
+
+<table>
+  <tr>
+    <th rowspan="2" style="text-align:center; vertical-align:middle">OUTILS<br></th>
+    <th colspan="3" style="text-align:center">All</th>
+    <th colspan="3" style="text-align:center">en</th>
+    <th colspan="3" style="text-align:center">cn</th>
+  </tr>
+  <tr>
+    <td style="text-align:center">F</td>
+    <td style="text-align:center">R</td>
+    <td style="text-align:center">P</td>
+    <td style="text-align:center">F</td>
+    <td style="text-align:center">R</td>
+    <td style="text-align:center">P</td>
+    <td style="text-align:center">F</td>
+    <td style="text-align:center">R</td>
+    <td style="text-align:center">P</td>
+  </tr>
+  <tr>
+    <td style="text-align:center">JT</td>
+    <td style="text-align:center">0.12</td>
+    <td style="text-align:center">0.06</td>
+    <td style="text-align:center">0.89</td>
+    <td style="text-align:center">0.33</td>
+    <td style="text-align:center">0.20</td>
+    <td style="text-align:center">0.88</td>
+    <td style="text-align:center">0.00</td>
+    <td style="text-align:center">0.00</td>
+    <td style="text-align:center">0.00</td>
+  </tr>
+  <tr>
+    <td style="text-align:center">BP</td>
+    <td style="text-align:center">0.00</td>
+    <td style="text-align:center">0.00</td>
+    <td style="text-align:center">0.00</td>
+    <td style="text-align:center">0.00</td>
+    <td style="text-align:center">0.00</td>
+    <td style="text-align:center">0.00</td>
+    <td style="text-align:center">0.00</td>
+    <td style="text-align:center">0.00</td>
+    <td style="text-align:center">0.00</td>
+  </tr>
+   <tr>
+    <td style="text-align:center">BS</td>
+    <td style="text-align:center">0.61</td>
+    <td style="text-align:center">0.61</td>
+    <td style="text-align:center">0.61</td>
+    <td style="text-align:center">0.54</td>
+    <td style="text-align:center">0.60</td>
+    <td style="text-align:center">0.49</td>
+    <td style="text-align:center">0.00</td>
+    <td style="text-align:center">0.00</td>
+    <td style="text-align:center">0.00</td>
+  </tr>
+   <tr>
+    <td style="text-align:center">JT_langid</td>
+    <td style="text-align:center">0.12</td>
+    <td style="text-align:center">0.06</td>
+    <td style="text-align:center">0.89</td>
+    <td style="text-align:center">0.33</td>
+    <td style="text-align:center">0.20</td>
+    <td style="text-align:center">0.88</td>
+    <td style="text-align:center">0.00</td>
+    <td style="text-align:center">0.00</td>
+    <td style="text-align:center">0.00</td>
+  </tr>
+   <tr>
+    <td style="text-align:center">JT_trueLg</td>
+    <td style="text-align:center">0.12</td>
+    <td style="text-align:center">0.06</td>
+    <td style="text-align:center">0.89</td>
+    <td style="text-align:center">0.33</td>
+    <td style="text-align:center">0.20</td>
+    <td style="text-align:center">0.88</td>
+    <td style="text-align:center">0.00</td>
+    <td style="text-align:center">0.00</td>
+    <td style="text-align:center">0.00</td>
+  </tr>
+   <tr>
+    <td style="text-align:center">UF</td>
+    <td style="text-align:center">0.37</td>
+    <td style="text-align:center">0.33</td>
+    <td style="text-align:center">0.42</td>
+    <td style="text-align:center">0.52</td>
+    <td style="text-align:center">0.86</td>
+    <td style="text-align:center">0.38</td>
+    <td style="text-align:center">0.00</td>
+    <td style="text-align:center">0.00</td>
+    <td style="text-align:center">0.00</td>
+  </tr>
+   <tr>
+    <td style="text-align:center">BTE</td>
+    <td style="text-align:center">0.48</td>
+    <td style="text-align:center">0.69</td>
+    <td style="text-align:center">0.37</td>
+    <td style="text-align:center">0.35</td>
+    <td style="text-align:center">0.74</td>
+    <td style="text-align:center">0.23</td>
+    <td style="text-align:center">0.00</td>
+    <td style="text-align:center">0.00</td>
+    <td style="text-align:center">0.00</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th rowspan="2" style="text-align:center; vertical-align:middle">OUTILS<br></th>
+    <th colspan="3" style="text-align:center">ru</th>
+    <th colspan="3" style="text-align:center">el</th>
+    <th colspan="3" style="text-align:center">pl</th>
+  </tr>
+  <tr>
+    <td style="text-align:center">F</td>
+    <td style="text-align:center">R</td>
+    <td style="text-align:center">P</td>
+    <td style="text-align:center">F</td>
+    <td style="text-align:center">R</td>
+    <td style="text-align:center">P</td>
+    <td style="text-align:center">F</td>
+    <td style="text-align:center">R</td>
+    <td style="text-align:center">P</td>
+  </tr>
+  <tr>
+    <td style="text-align:center">JT</td>
+    <td style="text-align:center">0.07</td>
+    <td style="text-align:center">0.03</td>
+    <td style="text-align:center">1.00</td>
+    <td style="text-align:center">0.00</td>
+    <td style="text-align:center">0.00</td>
+    <td style="text-align:center">0.00</td>
+    <td style="text-align:center">0.00</td>
+    <td style="text-align:center">0.00</td>
+    <td style="text-align:center">0.00</td>
+  </tr>
+  <tr>
+    <td style="text-align:center">BP</td>
+    <td style="text-align:center">0.00</td>
+    <td style="text-align:center">0.00</td>
+    <td style="text-align:center">0.00</td>
+    <td style="text-align:center">0.00</td>
+    <td style="text-align:center">0.00</td>
+    <td style="text-align:center">0.00</td>
+    <td style="text-align:center">0.00</td>
+    <td style="text-align:center">0.00</td>
+    <td style="text-align:center">0.00</td>
+  </tr>
+   <tr>
+    <td style="text-align:center">BS</td>
+    <td style="text-align:center">0.73</td>
+    <td style="text-align:center">0.76</td>
+    <td style="text-align:center">0.71</td>
+    <td style="text-align:center">0.59</td>
+    <td style="text-align:center">0.59</td>
+    <td style="text-align:center">0.59</td>
+    <td style="text-align:center">0.77</td>
+    <td style="text-align:center">0.85</td>
+    <td style="text-align:center">0.70</td>
+  </tr>
+   <tr>
+    <td style="text-align:center">JT_langid</td>
+    <td style="text-align:center">0.07</td>
+    <td style="text-align:center">0.03</td>
+    <td style="text-align:center">1.00</td>
+    <td style="text-align:center">0.00</td>
+    <td style="text-align:center">0.00</td>
+    <td style="text-align:center">0.00</td>
+    <td style="text-align:center">0.00</td>
+    <td style="text-align:center">0.00</td>
+    <td style="text-align:center">0.00</td>
+  </tr>
+   <tr>
+    <td style="text-align:center">JT_trueLg</td>
+    <td style="text-align:center">0.07</td>
+    <td style="text-align:center">0.03</td>
+    <td style="text-align:center">1.00</td>
+    <td style="text-align:center">0.00</td>
+    <td style="text-align:center">0.00</td>
+    <td style="text-align:center">0.00</td>
+    <td style="text-align:center">0.00</td>
+    <td style="text-align:center">0.00</td>
+    <td style="text-align:center">0.00</td>
+  </tr>
+   <tr>
+    <td style="text-align:center">UF</td>
+    <td style="text-align:center">0.00</td>
+    <td style="text-align:center">0.00</td>
+    <td style="text-align:center">0.00</td>
+    <td style="text-align:center">0.00</td>
+    <td style="text-align:center">0.00</td>
+    <td style="text-align:center">0.00</td>
+    <td style="text-align:center">0.50</td>
+    <td style="text-align:center">0.41</td>
+    <td style="text-align:center">0.65</td>
+  </tr>
+   <tr>
+    <td style="text-align:center">BTE</td>
+    <td style="text-align:center">0.62</td>
+    <td style="text-align:center">0.86</td>
+    <td style="text-align:center">0.48</td>
+    <td style="text-align:center">0.53</td>
+    <td style="text-align:center">0.76</td>
+    <td style="text-align:center">0.41</td>
+    <td style="text-align:center">0.69</td>
+    <td style="text-align:center">0.78</td>
+    <td style="text-align:center">0.62</td>
+  </tr>
+</table>
 
 
