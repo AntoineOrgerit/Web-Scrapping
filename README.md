@@ -1,16 +1,15 @@
+
 Lisa FOUGERON - François GRÉAU - Antoine ORGERIT
 
 # TD 1 WebScraping
 
 ### Notes :
 
-*L'écriture de ce rapport ayant débuté avant la formation du groupe, le code utilisé pour l'exercice 1 diffère de celui pour les autres exercices.*
+*L'écriture de ce rapport ayant débuté avant la formation du groupe, le code utilisé pour l'exercice 1 diffère de celui pour les autres exercices, ainsi que pour BoilerPipe*
 
 *Si vous désirez exécuter notre code, pensez à adapter les chemins.*
 
 # Exercice 1 : Utilisation d'outils de détourage
-
-*(L'installation de BoilerPipe 1.2.0.0 ne fonctionnant pas, nous nous sommes rabattu sur la version 1.1)*
 
 Nous nous basons sur le dossier *html* fourni, possédant les caractéristiques suivantes :
 
@@ -79,11 +78,11 @@ from boilerpipe.extract import Extractor
 
 # BoilerPipe scraping method
 def boilerPipeScraping(content):
-    extractor = Extractor(extractor="ArticleExtractor", url="file:" + content)
-    return extractor.getText
+    extractor = Extractor(extractor="ArticleExtractor", html=content)
+    return extractor.getHTML
 ```
 
-*Ceci est le code théorique pour* ***BoilerPipe***. *Malheureusement, après de nombreuses tentatives infructueuses pour faire fonctionner la librairie, nous avons décidé de le laisser de coté.*
+Résultat : le dossier généré pèse désormais 7,41 Mo.
 
 ## c. BeautifulSoup
 
@@ -163,14 +162,14 @@ calculateAverage("JT", "clean")
 
 Grace à cela, nous relevons les données suivantes :
 
-|                                                  | JT         | BS         |
-| ------------------------------------------------ | ---------- | ---------- |
-| Nombre de caractères                             | 14 659 367 | 49 504 518 |
-| Nombre de lignes                                 | 306 757    | 527 095    |
-| Moyenne de la différence du nombre de caractères | 6 370.41   | 26 931.97  |
-| Moyenne de la différence du nombre de lignes     | 166.6      | 296.71     |
-| Écart type du nombre de caractères               | 5 907.68   | 32 151.27  |
-| Écart type du nombre de lignes                   | 125.18     | 214.78     |
+|                                                  | JT         | BP       | BS         |
+| ------------------------------------------------ | ---------- | ---------|------------|
+| Nombre de caractères                             | 14 659 367 |5 956 979 | 49 504 518 |
+| Nombre de lignes                                 | 306 757    | 26 828   | 527 095    |
+| Moyenne de la différence du nombre de caractères | 6 370.41   | 1 359.62 | 26 931.97  |
+| Moyenne de la différence du nombre de lignes     | 166.6      | 9.52     | 296.71     | 
+| Écart type du nombre de caractères               | 5 907.68   | 1 943.35 | 32 151.27  |
+| Écart type du nombre de lignes                   | 125.18     | 13.42    | 214.78     |
 
 
 
@@ -309,6 +308,15 @@ Notre hypothèse est vérifiée : même en allant chercher les langues dans un f
     <td style="text-align:center">30.45</td>
   </tr>
   <tr>
+    <td style="text-align:center">BP</td>
+    <td style="text-align:center">57.20</td>
+    <td style="text-align:center">64.30</td>
+    <td style="text-align:center">53.41</td>
+    <td style="text-align:center">81.04</td>
+    <td style="text-align:center">89.31</td>
+    <td style="text-align:center">75.13</td>
+  </tr>
+  <tr>
     <td style="text-align:center">BS</td>
     <td style="text-align:center">21.14</td>
     <td style="text-align:center">88.44</td>
@@ -361,6 +369,15 @@ Notre hypothèse est vérifiée : même en allant chercher les langues dans un f
     <td style="text-align:center">21.14</td>
   </tr>
   <tr>
+    <td style="text-align:center">BP</td>
+    <td style="text-align:center">73.58</td>
+    <td style="text-align:center">80.00</td>
+    <td style="text-align:center">70.80</td>
+    <td style="text-align:center">59.14</td>
+    <td style="text-align:center">70.13</td>
+    <td style="text-align:center">54.89</td>
+  </tr>
+  <tr>
     <td style="text-align:center">BS</td>
     <td style="text-align:center">30.37</td>
     <td style="text-align:center">94.20</td>
@@ -411,6 +428,15 @@ Notre hypothèse est vérifiée : même en allant chercher les langues dans un f
     <td style="text-align:center">13.09</td>
     <td style="text-align:center">66.96</td>
     <td style="text-align:center">8.30</td>
+  </tr>
+  <tr>
+    <td style="text-align:center">BP</td>
+    <td style="text-align:center">76.57</td>
+    <td style="text-align:center">84.54</td>
+    <td style="text-align:center">71.54</td>
+    <td style="text-align:center">6.02</td>
+    <td style="text-align:center">9.21</td>
+    <td style="text-align:center">4.73</td>
   </tr>
   <tr>
     <td style="text-align:center">BS</td>
@@ -469,6 +495,15 @@ Notre hypothèse est vérifiée : même en allant chercher les langues dans un f
     <td style="text-align:center">37.06</td>
   </tr>
   <tr>
+    <td style="text-align:center">BP</td>
+    <td style="text-align:center">57.20</td>
+    <td style="text-align:center">64.30</td>
+    <td style="text-align:center">53.41</td>
+    <td style="text-align:center">85.99</td>
+    <td style="text-align:center">92.83</td>
+    <td style="text-align:center">80.32</td>
+  </tr>
+  <tr>
     <td style="text-align:center">BS</td>
     <td style="text-align:center">21.14</td>
     <td style="text-align:center">88.44</td>
@@ -519,6 +554,15 @@ Notre hypothèse est vérifiée : même en allant chercher les langues dans un f
     <td style="text-align:center">63.92</td>
     <td style="text-align:center">98.10</td>
     <td style="text-align:center">48.56</td>
+  </tr>
+  <tr>
+    <td style="text-align:center">BP</td>
+    <td style="text-align:center">87.64</td>
+    <td style="text-align:center">92.52</td>
+    <td style="text-align:center">83.63</td>
+    <td style="text-align:center">85.89</td>
+    <td style="text-align:center">89.54</td>
+    <td style="text-align:center">82.70</td>
   </tr>
   <tr>
     <td style="text-align:center">BS</td>
@@ -786,4 +830,6 @@ L'utilisation de ***BTE*** est très similaire à celle de ***JusText***, aussi 
 </table>
 
 # Exercice 5 : Évaluation extrinsèque
+
+
 

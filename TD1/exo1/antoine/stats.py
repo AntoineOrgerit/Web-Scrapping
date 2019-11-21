@@ -4,6 +4,7 @@ def main():
     cleaned_repository_path = "../../../../resources/clean/"
     source_repositories_name_and_path = [
             ("JT", "../../../../resources/JT/"),
+            ("BP", "../../../../resources/BP/"),
             ("BS", "../../../../resources/BS/")
         ]
     source_files_repository = "../../../../resources/html/"

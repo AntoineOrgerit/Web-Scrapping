@@ -11,6 +11,7 @@ def main():
     clean_repository_path = "../../../resources/clean/"
     source_repositories_name_and_path = [
             ("JT", "../../../resources/JT/"),
+            ("BP", "../../../resources/BP/"),
             ("BS", "../../../resources/BS/"),
             ("JT_langid", "../../../resources/JT_langid/"),
             ("JT_trueLg", "../../../resources/JT_trueLg/")
