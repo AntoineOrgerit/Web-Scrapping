@@ -1,16 +1,18 @@
 from boilerpipe.extract import Extractor
-from os import listdir
-from os.path import isfile, join
 
-filesToExtractContentFrom = [f for f in listdir("../Corpus_detourage/Corpus_detourage/html/") if isfile(join("../Corpus_detourage/Corpus_detourage/html/", f))]
+from utils.extractor import extract
 
-for fileToExtractContentFrom in filesToExtractContentFrom:
-    
-    inputFile = open("../Corpus_detourage/Corpus_detourage/html/" + fileToExtractContentFrom, "r", encoding="utf8", errors="replace")
-    outputFile = open("../Corpus_detourage/Corpus_detourage/clean/BP/" + fileToExtractContentFrom, "w", encoding="utf8", errors="replace")
-    
-    extractor = Extractor(extractor='ArticleExtractor', url="../Corpus_detourage/Corpus_detourage/html/" + fileToExtractContentFrom)
-    outputFile.write(extractor.getHTML())
-    
-    outputFile.close()
-    inputFile.close()
+def bp_treatement(input_file, output_file):
+    if input_file.read():
+        input_file.seek(0)
+        extractor = Extractor(extractor="ArticleExtractor", html=input_file.read())
+        output_file.write(extractor.getHTML())
+    else:
+        output_file.write(" ")
+
+
+def main():
+    extract("../../../../resources/html/", "../../../../resources/BP/", bp_treatement)
+
+if __name__ == '__main__':
+    main()

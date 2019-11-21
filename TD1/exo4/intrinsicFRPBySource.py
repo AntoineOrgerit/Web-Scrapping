@@ -13,7 +13,9 @@ def main():
             ("JT", "../../../resources/JT/"),
             ("BS", "../../../resources/BS/"),
             ("JT_langid", "../../../resources/JT_langid/"),
-            ("JT_trueLg", "../../../resources/JT_trueLg/")
+            ("JT_trueLg", "../../../resources/JT_trueLg/"),
+            ("unfluff", "../../../resources/unfluff/"),
+            ("BTE", "../../../resources/BTE/")
         ]
     print_header_key = "JT"
     

@@ -65,7 +65,7 @@ def calculate_mean_values(criterias_data):
     return criterias_data
 
 
-def perform_intrisic_evaluation(original_repository_path, clean_repository_path, source_repositories_name_and_path, criteria_extraction, print_header_key=None):
+def perform_intrinsic_evaluation(original_repository_path, clean_repository_path, source_repositories_name_and_path, criteria_extraction, print_header_key=None):
     files_to_evaluate = [f for f in listdir(original_repository_path) if isfile(join(original_repository_path, f))]
     
     global_data = {}
