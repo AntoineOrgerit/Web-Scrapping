@@ -1,9 +1,21 @@
+"""
+This module allows to perform an intrinsic evaluation by language of different generated files by JusText, BoilerPipe,
+BeautifulSoup, langid and true language identification, unfluff and BTE.
+
+Antoine Orgerit - François Gréau - Lisa Fougeron
+La Rochelle Université - 2019-2020
+"""
+
 from utils.instrinsicFRP import perform_intrinsic_evaluation
 
 import langid
 
 
 def detect_language(file_name):
+    """
+    Allows to detect the language used in a document.
+    It uses the langid module to detect the language.
+    """
     input_file = open(file_name, "r", encoding="utf8")
     language = langid.classify(input_file.read())
     input_file.close()

@@ -1,15 +1,23 @@
-import numpy as np
+"""
+This module allows to perform a specific extrinsic evaluation of files by a specified criteria.
+
+Antoine Orgerit - François Gréau - Lisa Fougeron
+La Rochelle Université - 2019-2020
+"""
+
 import langid
 import json
 import copy
 import subprocess
 from os import listdir, remove
 from os.path import isfile, join
-from utils.daniel.daniel import process
 from utils.daniel.evaluate import get_results, get_dic
 
 
 def print_TP_FP_FN_TN(tools_criterias_data):
+    """
+    Outputs TP, FP, FN and TN results of the evaluated files.
+    """
     print("TOOLS\t\t|TP\t|FP\t|FN\t|TN")
     print("------------------------------------------------")
     for tool in tools_criterias_data:
@@ -22,19 +30,22 @@ def print_TP_FP_FN_TN(tools_criterias_data):
 
 
 def print_FRP(tools_criterias_data, default_header_key):
+    """
+    Outputs F-score, Recall and Precision results of the evaluated files.
+    """
     print("TOOLS\t\t|\t\tAll\t\t", end="")
     add_spacing = []
     for criteria in tools_criterias_data[default_header_key][2]:
         if len(criteria) >= 24:
-            print("|" + criteria+ "\t", end="")
+            print("|" + criteria + "\t", end="")
             if len(criteria) >= 31:
                 add_spacing.append(criteria)
         elif len(criteria) >= 16:
-            print("|\t" + criteria+ "\t", end="")
+            print("|\t" + criteria + "\t", end="")
         elif len(criteria) >= 8:
-            print("|\t" + criteria+ "\t\t", end="")
+            print("|\t" + criteria + "\t\t", end="")
         else:
-            print("|\t\t" + criteria+ "\t\t", end="")
+            print("|\t\t" + criteria + "\t\t", end="")
     print()
     print("\t\t|\tF\tR\tP\t", end="")
     for criteria in tools_criterias_data[default_header_key][2]:
@@ -63,6 +74,9 @@ def print_FRP(tools_criterias_data, default_header_key):
 
 
 def detect_language(file_path):
+    """
+    Allows to detect the language used in a file using the langid module.
+    """
     file = open(file_path, "r", encoding="utf8")
     language = langid.classify(file.read())
     file.close()
@@ -70,6 +84,10 @@ def detect_language(file_path):
 
 
 def delete_unused_files(clean_repository_json_path, files_to_evaluate):
+    """
+    Allows to remove unused files in the JSON file at clean_repository_json_path path that are not
+    present in the JSON object files_to_evaluate.
+    """
     clean_repository = json.load(open(clean_repository_json_path, "r", encoding="utf8"))
     for id in list(clean_repository):
         if not clean_repository[id]["path"] in files_to_evaluate:
@@ -78,6 +96,10 @@ def delete_unused_files(clean_repository_json_path, files_to_evaluate):
 
 
 def prepare_json(json_content, path):
+    """
+    Allows to prepare a JSON object from the clean result json_content
+    and specific tool files path.
+    """
     prepared_json = {}
     for id, infos in json_content.items():
         new_infos = copy.copy(infos)
@@ -89,19 +111,31 @@ def prepare_json(json_content, path):
 
 
 def process_corpus():
-    out = subprocess.check_output(['python', '../utils/daniel/process_corpus.py',  '-c ../../exo5/eval.json'])
+    """
+    Allows to process the files present in eval.json using Daniel process_corpus.py file.
+    """
+    out = subprocess.check_output(['python', '../utils/daniel/process_corpus.py', '-c ../../exo5/eval.json'])
     composed_out = out.decode('ascii').split("\r\n")
     composed_out = composed_out[len(composed_out) - 2].split("/")
     return composed_out[len(composed_out) - 1]
 
 
 def evaluate(processed_file, criteria_extraction):
+    """
+    Allows to evaluate the result of the eval.json file with the gold.json reference file
+    using Daniel evaluate.py file.
+    """
     gold = get_dic('./gold.json')
     eval = get_dic('./' + processed_file)
     return get_results(gold, eval, criteria_extraction)
 
 
 def perform_extrinsic_evaluation(clean_repository_path_and_json, source_repositories_name_and_path, criteria_extraction, print_header_key=None):
+    """
+    Allows to perform an extrinsic evaluation from reference files path and json file clean_repository_path_and_json,
+    files to evaluate linked to their generator tool source_repositories_name_and_path, using an extraction criteria
+    criteria_extraction.
+    """
     global_data = {}
     
     for source_repository_name_and_path in source_repositories_name_and_path:

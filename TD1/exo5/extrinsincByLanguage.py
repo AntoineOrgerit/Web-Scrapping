@@ -1,7 +1,18 @@
+"""
+This module allows to perform an extrinsic evaluation by language of different generated files by JusText, BoilerPipe,
+BeautifulSoup, langid and true language identification, unfluff and BTE.
+
+Antoine Orgerit - François Gréau - Lisa Fougeron
+La Rochelle Université - 2019-2020
+"""
+
 from utils.extrinsic import perform_extrinsic_evaluation
 
 
 def extract_language(infos):
+    """
+    Allows to extract the language used in a document from its JSON entity informations.
+    """
     return infos["language"]
 
 

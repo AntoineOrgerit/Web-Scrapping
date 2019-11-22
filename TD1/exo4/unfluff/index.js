@@ -1,3 +1,10 @@
+/*
+ * This module allows to extract text contained in HTML files using unfluff.
+ *
+ * Antoine Orgerit - François Gréau - Lisa Fougeron
+ * La Rochelle Université - 2019-2020
+ */
+
 var extractor = require('unfluff');
 var fs = require('fs');
 

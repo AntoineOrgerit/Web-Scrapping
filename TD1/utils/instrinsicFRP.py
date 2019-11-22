@@ -1,3 +1,10 @@
+"""
+This module allows to perform a specific intrinsic evaluation of files by a specified criteria.
+
+Antoine Orgerit - François Gréau - Lisa Fougeron
+La Rochelle Université - 2019-2020
+"""
+
 from utils.cleaneval_tool import evaluate_file
 
 import numpy as np
@@ -6,19 +13,22 @@ from os.path import isfile, join
 
 
 def print_table_format(tools_criterias_data, default_header_key):
+    """
+    Outputs F-score, Recall and Precision results of the evaluated files.
+    """
     print("TOOLS\t\t", end="")
     add_spacing = []
     for criteria in tools_criterias_data[default_header_key]:
         if len(criteria) >= 24:
-            print("|" + criteria+ "\t", end="")
+            print("|" + criteria + "\t", end="")
             if len(criteria) >= 31:
                 add_spacing.append(criteria)
         elif len(criteria) >= 16:
-            print("|\t" + criteria+ "\t", end="")
+            print("|\t" + criteria + "\t", end="")
         elif len(criteria) >= 8:
-            print("|\t" + criteria+ "\t\t", end="")
+            print("|\t" + criteria + "\t\t", end="")
         else:
-            print("|\t\t" + criteria+ "\t\t", end="")
+            print("|\t\t" + criteria + "\t\t", end="")
     print()
     print("\t\t", end="")
     for criteria in tools_criterias_data[default_header_key]:
@@ -46,6 +56,10 @@ def print_table_format(tools_criterias_data, default_header_key):
 
 
 def append_results_to_global_data(results, criterias_data, criteria):
+    """
+    Allows to append results of a specific file to a global result set
+    criterias_data linked to a precise criteria.
+    """
     if criteria in criterias_data:
         criterias_data[criteria]["f-score"].append(results["f-score"])
         criterias_data[criteria]["recall"].append(results["recall"])
@@ -59,6 +73,9 @@ def append_results_to_global_data(results, criterias_data, criteria):
 
 
 def calculate_mean_values(criterias_data):
+    """
+    Allows to calculate mean values of the global results criterias_data.
+    """
     for criteria in criterias_data:
         criterias_data[criteria]["f-score"] = np.mean(criterias_data[criteria]["f-score"])
         criterias_data[criteria]["recall"] = np.mean(criterias_data[criteria]["recall"])
@@ -67,6 +84,11 @@ def calculate_mean_values(criterias_data):
 
 
 def perform_intrinsic_evaluation(original_repository_path, clean_repository_path, source_repositories_name_and_path, criteria_extraction, print_header_key=None):
+    """
+    Allows to perform an intrinsic evaluation from original files original_repository_path, reference files path
+    clean_repository_path, files to evaluate linked to their generator tool source_repositories_name_and_path,
+    using an extraction criteria criteria_extraction.
+    """
     files_to_evaluate = [f for f in listdir(original_repository_path) if isfile(join(original_repository_path, f))]
     
     global_data = {}

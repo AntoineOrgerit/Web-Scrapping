@@ -1,12 +1,13 @@
 
 
+
 Lisa FOUGERON - François GRÉAU - Antoine ORGERIT
 
 # TD 1 WebScraping
 
 ### Notes :
 
-*L'écriture de ce rapport ayant débuté avant la formation du groupe, le code utilisé pour l'exercice 1 diffère de celui pour les autres exercices, ainsi que pour BoilerPipe*
+*L'écriture de ce rapport ayant débuté avant la formation du groupe, le code utilisé pour l'exercice 1 diffère de celui pour les autres exercices, ainsi que pour BoilerPipe.*
 
 *Si vous désirez exécuter notre code, pensez à adapter les chemins.*
 
@@ -811,6 +812,8 @@ L'utilisation de ***BTE*** est très similaire à celle de ***JusText***, aussi 
 
 
 Le code Daniel a été adapté pour être utilisé par notre code personnel et pour correspondre à notre cas d'utilisation. Les changements effectués ont été spécifié aux débuts des fichiers correspondants et à l'endroit même où les modifications ont été effectuées le cas échéant. La méthode de vérification *getResults* du fichier <u>evaluate.py</u> a notamment été modifiée pour prendre en paramètre une fonction d'extraction de critère de recherche au lieu de directement effectuer le processus par langage, ce qui permet de mettre en place une évaluation par sources.
+
+On observe des résultats très différents entre les outils, probablement lié au contenu extrait lors des exercices précédents qui donne un contexte plus ou moins propice à la reconnaissance de maladies ou de localisations par Daniel.
 
 * ## Relevé des TP, FP, FN et TN :
 

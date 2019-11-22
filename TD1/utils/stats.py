@@ -1,8 +1,19 @@
+"""
+This module allows to perform statistics of files compared to an aimed set of files.
+
+Antoine Orgerit - François Gréau - Lisa Fougeron
+La Rochelle Université - 2019-2020
+"""
+
 import numpy as np
 from os import listdir
 from os.path import isfile, join
 
+
 def generate_statistics(name, source_repository_path, files_names_list):
+    """
+    Outputs statistics results.
+    """
     print("Statistics for " + name + " repository:")
     lines_numbers_array = []
     chars_numbers_array = []
@@ -28,6 +39,9 @@ def generate_statistics(name, source_repository_path, files_names_list):
 
 
 def compare_to_clean(source_repository_data, clean_data):
+    """
+    Outputs overall general statistics of files comparison.
+    """
     print("Comparing clean to " + source_repository_data[0] + ":")
     
     lines_numbers_difference = np.abs(np.subtract(source_repository_data[1][0], clean_data[0]))
@@ -40,6 +54,11 @@ def compare_to_clean(source_repository_data, clean_data):
 
 
 def generate_global_statistics(source_repositories_name_and_path, cleaned_repository_path, source_files_repository):
+    """
+    Allows to generate global statistics of files generated from a specific tool source_repositories_name_and_path
+    from sources files in source_files_repository path, compared to an aimed set of files contained in the path
+    cleaned_repository_path.
+    """
     files_to_extract_content_from = [f for f in listdir(source_files_repository) if isfile(join(source_files_repository, f))]
     
     clean_data = generate_statistics("clean", cleaned_repository_path, files_to_extract_content_from)
