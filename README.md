@@ -60,7 +60,7 @@ Il ne reste plus qu'à définir des fonctions pour implémenter le fonctionnemen
 
 ## a. JusText
 
-Pour le moment, nous n'identifions pas les langues dans lesquelles sont nos fichiers. L'exécution sera donc probablement plus lente et moins fiable.
+Pour le moment, nous n'identifions pas les langues dans lesquelles sont nos fichiers. L'exécution sera donc probablement plus lente et/ou moins fiable.
 
 ```python
 import justext
@@ -168,7 +168,7 @@ Grace à cela, nous relevons les données suivantes :
 | Nombre de caractères                             | 14 659 367 |5 956 979 | 49 504 518 |
 | Nombre de lignes                                 | 306 757    | 26 828   | 527 095    |
 | Moyenne de la différence du nombre de caractères | 6 370.41   | 1 359.62 | 26 931.97  |
-| Moyenne de la différence du nombre de lignes     | 166.6      | 9.52     | 296.71     | 
+| Moyenne de la différence du nombre de lignes     | 166.6      | 9.52     | 296.71     |
 | Écart type du nombre de caractères               | 5 907.68   | 1 943.35 | 32 151.27  |
 | Écart type du nombre de lignes                   | 125.18     | 13.42    | 214.78     |
 
@@ -176,11 +176,25 @@ Grace à cela, nous relevons les données suivantes :
 
 ### En plus : 
 
-Afin d'observer plus facilement l'efficacité de ***JusText***, nous avons eu l'idée de générer un graphe décrivant la différence du nombre de caractères de chaque fichier entre les résultats de ***JT*** et la vérité terrain :
+Afin d'observer plus facilement l'efficacité des outils, nous avons eu l'idée de générer un graphe décrivant la différence du nombre de caractères de chaque fichier entre les résultats de la vérité terrain et des méthodes de scraping :
+
+* ### JusText
 
 ![difference_clean_jt](./resources/difference_clean_jt.png)
 
 Nous pouvons alors facilement observer que mis à part de rares extrêmes, les différences sont relativement faibles.
+
+* ### BoilerPipe
+
+![difference_clean_bp](./resources/difference_clean_bp.png)
+
+Dans ce cas, c'est encore plus flagrant : la différence en terme de nombre de caractères est très satisfaisante.
+
+* ### BeautifulSoup
+
+![difference_clean_bs](./resources/difference_clean_bs.png)
+
+Ici, c'est un peu plus médiocre : la différence grimpe en flèche, et les cinq derniers pourcents sont très éloignés de ce que l'on attend.
 
 # Exercice 2 : Guider le scraping avec la reconnaissance de langue
 
