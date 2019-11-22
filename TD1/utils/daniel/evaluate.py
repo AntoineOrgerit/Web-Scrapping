@@ -1,3 +1,6 @@
+# imports and getResults function modified for project requirements
+# original project: https://github.com/NewsEye/Event-Detection.git
+
 import re
 import sys, os
 import json

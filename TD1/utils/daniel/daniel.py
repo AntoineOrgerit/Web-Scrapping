@@ -1,5 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+
+# imports modified for project requirements
+# original project: https://github.com/NewsEye/Event-Detection.git
+
 import codecs
 import sys
 import os
