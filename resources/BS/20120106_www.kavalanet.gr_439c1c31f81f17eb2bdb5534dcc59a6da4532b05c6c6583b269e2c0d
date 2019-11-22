@@ -1,0 +1,68 @@
+<p> Διευκρινιστική εγκύκλιος για το εισιτήριο των 5 ευρώ σε νοσοκομεία και Κέντρα Υγείας </p>
+<p> jQuery(document).ready(function() { 		$('#sidenews > ul').tabs(); 		 var originalFontSize = $('html').css('font-size');     $(".resetFont").click(function(){     $('html').css('font-size', originalFontSize); }); $(".increaseFont").click(function(){    var currentFontSize = $('html').css('font-size');    var currentFontSizeNum = parseFloat(currentFontSize, 10);    var newFontSize = currentFontSizeNum*1.2;    $('html').css('font-size', newFontSize);    return false; }); $(".decreaseFont").click(function(){   var currentFontSize = $('html').css('font-size');   var currentFontSizeNum = parseFloat(currentFontSize, 10);   var newFontSize = currentFontSizeNum*0.8;   $('html').css('font-size', newFontSize);   return false;  }); 	 }); </p>
+<p> window.fbAsyncInit = function() {     FB.init({appId: '176272712384718', status: true, cookie: true,              xfbml: true});   };   (function() {     var e = document.createElement('script'); e.async = true;     e.src = document.location.protocol +       '//connect.facebook.net/el_GR/all.js';     document.getElementById('fb-root').appendChild(e);   }()); </p>
+<p> <!--//<![CDATA[    var m3_u = (location.protocol=='https:'?'https://www.kavalanet.gr/adsmanager/www/delivery/ajs.php':'http://www.kavalanet.gr/adsmanager/www/delivery/ajs.php');    var m3_r = Math.floor(Math.random()*99999999999);    if (!document.MAX_used) document.MAX_used = ',';    document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);    document.write ("?zoneid=1");    document.write ('&amp;cb=' + m3_r);    if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);    document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));    document.write ("&amp;loc=" + escape(window.location));    if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));    if (document.context) document.write ("&amp;context=" + escape(document.context));    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");    document.write ("'><\/scr"+"ipt>"); //]]>--> </p>
+<p> <!--//<![CDATA[    var m3_u = (location.protocol=='https:'?'https://www.kavalanet.gr/adsmanager/www/delivery/ajs.php':'http://www.kavalanet.gr/adsmanager/www/delivery/ajs.php');    var m3_r = Math.floor(Math.random()*99999999999);    if (!document.MAX_used) document.MAX_used = ',';    document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);    document.write ("?zoneid=6");    document.write ('&amp;cb=' + m3_r);    if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);    document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));    document.write ("&amp;loc=" + escape(window.location));    if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));    if (document.context) document.write ("&amp;context=" + escape(document.context));    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");    document.write ("'><\/scr"+"ipt>"); //]]>--> </p>
+<p> Ειδησεις </p>
+<p> Διασκεδαση </p>
+<p> τουρισμος </p>
+<p> Οδηγος Επαγγελματιων </p>
+<p> καταλογος  internet </p>
+<p> Αγγελιες </p>
+<p> Εκδηλωσεις </p>
+<p> Μακεδονια - Θρακη </p>
+<p> Ελλαδα </p>
+<p> Κoσμος </p>
+<p> Οικονομια </p>
+<p> Πολιτικη </p>
+<p> Αθλητισμος </p>
+<p> Πολιτισμος </p>
+<p> Συνεντευξεις </p>
+<p> Αποψεις </p>
+<p> - </p>
+<p> RSS Feeds </p>
+<p> Διευκρινιστική εγκύκλιος για το εισιτήριο των 5 ευρώ σε νοσοκομεία και Κέντρα Υγείας </p>
+<p> Πέμπτη 12 Ιανουαρίου 2012 </p>
+<p> Tweet </p>
+<p> Να μην ζητούν </p>
+<p> 5ευρω σε ασθενείς </p>
+<p> που προσέρχονται για εξέταση σε εφημερία Τμημάτων Επειγόντων Περιστατικών (ΤΕΠ) ζητά από τα νοσοκομεία το Υπουργείο Υγείας </p>
+<p> Στην εγκύκλιο αναφέρεται : </p>
+<p> "Με αφορμή τη διερεύνηση σειράς ανώνυμων τηλεφωνικών καταγγελιών, των οποίων ηΥπηρεσία μας έχει γίνει αποδέκτης κατά το τρέχον έτος, σχετικά με περιστατικά ασθενών, οιοποίοι εάν και προσέρχονται για εξέταση σε εφημερία Τμημάτων Επειγόντων Περιστατικών (ΤΕΠ), εντούτοις υποχρεώνονται να καταβάλουν τα εξέταστρα (5 €) κατά παράβαση τηςσχετικής Νομοθεσίας και παρά τις διευκρινιστικές εγκυκλίους του ΥΥΚΑ, παρακαλούμε όπως επιληφθείτε άμεσα για την πιστή εφαρμογή της κείμενης Νομοθεσίας από το προσωπικό που εποπτεύετε, εφιστώντας τους την προσοχή στις διατάξεις εκείνες που αφορούν στις επιμέρους εξαιρέσεις. " </p>
+<p> Υπενθυμίζουμε ότι  σύμφωνα με τις εγκυκλίους που έχει αποστείλει το Υπουργείο Υγείας εξαιρούνται των 5 Ευρώ οι εξής κατηγορίες : </p>
+<p> 1. Σε περίπτωση που ο ασθενής έχει πληρώσει το 5ευρω και κατόπιν παραπεμφθεί σε γιατρό άλλης ειδικότητας εντός της ημέρας, ΔΕΝ ΠΛΗΡΩΝΕΙ ΞΑΝΑ ΤΟ ΕΞΕΤΑΣΤΡΟ. </p>
+<p> 2. Από το 5 ευρώ ΕΞΑΙΡΟΥΝΤΑΙ όσοι προσέρχονται ως επείγοντα περιστατικά. </p>
+<p> 3. Από το 5 ευρώ ΕΞΑΙΡΟΥΝΤΑΙ οι κάτοχοι βιβλιαρίων πρόνοιας ή πιστοποιητικών κοινωνικής προστασίας. </p>
+<p> 4. Από το 5 ευρώ ΕΞΑΙΡΟΥΝΤΑΙ οι Χρόνιοι πάσχοντες, δηλαδή ΚΑΡΚΙΝΟΠΑΘΕΙΣ, ΝΕΦΡΟΠΑΘΕΙΣ, ΑΤΟΜΑ ΜΕ ΕΙΔΙΚΕΣ ΑΝΑΓΚΕΣ, ΑΣΘΕΝΕΙΣ ΜΕ AIDS KAI ΑΛΛΑ ΧΡΟΝΙΑ ΛΟΙΜΩΔΗ ΝΟΣΗΜΑΤΑ (ΦΥΜΑΤΙΩΣΗ, ΣΥΦΙΛΗ, ΗΠΑΤΙΤΙΔΕΣ κλπ), ΜΕΣΟΓΕΙΑΚΗ ΑΝΑΙΜΙΑ, ΤΥΦΛΟΙ, ΑΙΜΟΡΡΟΦΙΛΙΚΟΙ, ΣΑΧΑΡΟΔΙΑΒΗΤΙΚΟΙ, ΑΣΘΕΝΕΙΣ ΠΟΥ ΕΧΟΥΝ ΧΡΟΝΙΑ ΠΡΟΒΛΗΜΑΤΑ ΜΕ ΤΟ ΑΝΑΠΝΕΥΣΤΙΚΟ ΤΟΥΣ (ΧΑΠ), ΥΠΕΡΤΑΣΙΚΟΙ, ΚΑΡΔΙΟΠΑΘΕΙΣ, ΕΝΔΟΚΡΙΝΟΛΟΓΙΚΟΙ ΑΣΘΕΝΕΙΣ (ΘΥΡΕΟΕΙΔΗΣ, ΝΟΣΟΣ ADISSON KAI CUSHING, ΥΠΟΓΟΝΑΔΙΣΜΟΣ, ΓΙΓΑΝΤΙΣΜΟΣ κλπ), ΑΝΟΙΑ, ΧΡΟΝΙΑ ΝΕΥΡΟΛΟΓΙΚΑ ΠΕΡΙΣΤΑΤΙΚΑ ( πχ ΠΑΡΑΛΥΣΕΙΣ, ΗΜΙΠΛΗΓΙΑ, ΤΕΤΡΑΠΛΗΓΙΑ), ΨΥΧΙΑΤΡΙΚΟΙ ΑΣΘΕΝΕΙΣ, ΑΥΤΟΑΝΟΣΑ ΝΟΣΗΜΑΤΑ (πχ ΡΕΥΜΑΤΟΕΙΔΗΣ ΑΡΘΡΙΤΙΔΑ, ΕΡΥΘΗΜΑΤΩΔΗΣ ΛΥΚΟΣ,) και άλλα πολλά. Για την εξαίρεση απαιτείται βεβαίωση από το ιατρείο του Νοσοκομείου, στο οποίο παρακολουθείται ο ασθενής και ισχύει για το συγκεκριμένο Νοσοκομείο. </p>
+<p> 5. Από το 5 ευρώ ΕΞΑΙΡΟΥΝΤΑΙ οι πολιτικοί πρόσφυγες και αιτούντες άσυλο αλλοδαποί. </p>
+<p> Σε ανακοίνωση που ανάρτησε στην ιστοσελίδα της </p>
+<p> η Ένωση  Γιατρών ΕΣΥ Ν. Καβάλας επισημαίνει </p>
+<p> ότι:«Η εγκύκλιος επιβεβαιώνει το πρόβλημα για το οποίο τόσες φορές μιλήσαμε και το οποίο θα συνεχίσουμε να αναδεικνύουμε άν δεν πάψουν να λειτουργούν τα ΤΕΠ ως ανεξέλεγκτος εισπρακτικός μηχανισμός. Ασφαλώς η έκδοσή της εγκυκλίου προκλήθηκε από τις αντιδράσεις των Ενώσεων Νοσοκομειακών Γιατρών (όπως κάναμε και εμείς)  και όχι από "ανώνυμα τηλεφωνήματα" » </p>
+<p> var addthis_config = {"data_track_clickback":true}; </p>
+<p> Δείτε όλα τα άρθρα στη  κατηγορία </p>
+<p> Μακεδονία-Θράκη </p>
+<p> Νέες ειδήσεις </p>
+<p> Αστυνομικά-Κοινωνικά </p>
+<p> ΝΟ.Δ.Ε. Καβάλας:Η «ονοματολογία» για το βουλευτικό ψηφοδέλτιο δημιουργεί αποπροσανατολισμό, σύγχυση και αντιδράσεις </p>
+<p> Συνεχίζεται η λειτουργία του παραρτήματος του Ι.Κ.Α. στα Λιμενάρια </p>
+<p> Έξι θεατρικοί φορείς παρουσιάζουν στην Καβάλα τον Γιώργο Κοτανίδη και το νέο του βιβλίο «Όλοι μαζί, τώρα! </p>
+<p> ΔΩΚ: Ρεσιτάλ Τραγουδιού με την Παναγιώτα Ασημάκη και τον Κωνσταντίνο Γκαρίπη,στην αίθουσα «Γιάννη Α. Παπαϊωάννου» </p>
+<p> Σύσταση ΕΠΑΛ στο Λιμένα Θάσου </p>
+<p> Τηλεφώνημα για βόμβα στο 1ο Γυμνάσιο Καβάλας </p>
+<p> Καβάλα:Εμπρησμός σε καφέ- μπαρ -Χτύπησαν και λήστεψαν ηλικιωμένη </p>
+<p> Πάνω από 1.500 οι καταγγελίες για μη καταβολή δώρου Χριστουγέννων </p>
+<p> Ακαδημία Κολύμβησης Καβάλας: 15 Μετάλλια και 2 Κύπελλα στους 3ους Πτολεμαϊδικούς αγώνες κολύμβησης </p>
+<p> ΑΣΕΠ: Απάντηση για τις καταγγελίες για την «σκανδαλώδη πρόσληψη 30.000 ημετέρων εκτός ΑΣΕΠ» </p>
+<p> <!--//<![CDATA[    var m3_u = (location.protocol=='https:'?'https://www.kavalanet.gr/adsmanager/www/delivery/ajs.php':'http://www.kavalanet.gr/adsmanager/www/delivery/ajs.php');    var m3_r = Math.floor(Math.random()*99999999999);    if (!document.MAX_used) document.MAX_used = ',';    document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);    document.write ("?zoneid=22&amp;target=_blank&amp;charset=ISO-8859-7");    document.write ('&amp;cb=' + m3_r);    if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);    document.write ('&amp;charset=ISO-8859-7');    document.write ("&amp;loc=" + escape(window.location));    if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));    if (document.context) document.write ("&context=" + escape(document.context));    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");    document.write ("'><\/scr"+"ipt>"); //]]>--> </p>
+<p> <!--//<![CDATA[    var m3_u = (location.protocol=='https:'?'https://www.kavalanet.gr/adsmanager/www/delivery/ajs.php':'http://www.kavalanet.gr/adsmanager/www/delivery/ajs.php');    var m3_r = Math.floor(Math.random()*99999999999);    if (!document.MAX_used) document.MAX_used = ',';    document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);    document.write ("?zoneid=32");    document.write ('&amp;cb=' + m3_r);    if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);    document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));    document.write ("&amp;loc=" + escape(window.location));    if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));    if (document.context) document.write ("&amp;context=" + escape(document.context));    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");    document.write ("'><\/scr"+"ipt>"); //]]>--> </p>
+<p> <!--//<![CDATA[    var m3_u = (location.protocol=='https:'?'https://www.kavalanet.gr/adsmanager/www/delivery/ajs.php':'http://www.kavalanet.gr/adsmanager/www/delivery/ajs.php');    var m3_r = Math.floor(Math.random()*99999999999);    if (!document.MAX_used) document.MAX_used = ',';    document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);    document.write ("?zoneid=19&amp;target=_blank&amp;charset=ISO-8859-7");    document.write ('&amp;cb=' + m3_r);    if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);    document.write ('&amp;charset=ISO-8859-7');    document.write ("&amp;loc=" + escape(window.location));    if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));    if (document.context) document.write ("&context=" + escape(document.context));    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");    document.write ("'><\/scr"+"ipt>"); //]]>--> </p>
+<p> <!-- google_ad_client = "pub-9800043177388832"; /* macedonianews δημιουργήθηκε 3/1/2009 */ google_ad_slot = "8542168649"; google_ad_width = 300; google_ad_height = 250; //--> </p>
+<p> <!--//<![CDATA[    var m3_u = (location.protocol=='https:'?'https://www.kavalanet.gr/adsmanager/www/delivery/ajs.php':'http://www.kavalanet.gr/adsmanager/www/delivery/ajs.php');    var m3_r = Math.floor(Math.random()*99999999999);    if (!document.MAX_used) document.MAX_used = ',';    document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);    document.write ("?zoneid=10");    document.write ('&amp;cb=' + m3_r);    if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);    document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));    document.write ("&amp;loc=" + escape(window.location));    if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));    if (document.context) document.write ("&context=" + escape(document.context));    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");    document.write ("'><\/scr"+"ipt>"); //]]>--> </p>
+<p> ΑΠΑΓΟΡΕΥΕΤΑΙ η αναδημοσίευση, η αναπαραγωγή, ολική, μερική ή περιληπτική ή κατά παράφραση ή διασκευή απόδοση του περιεχομένου του παρόντος web site με οποιονδήποτε τρόπο, ηλεκτρονικό, μηχανικό, φωτοτυπικό, ή άλλο, χωρίς προηγούμενη γραπτή άδεια του εκδότη. Νόμος 2121/1993 και κανόνες Διεθνούς Δικαίου που ισχύουν στην Ελλάδα. </p>
+<p> All Rights reserved KAVALANET 2001-2011 </p>
+<p> | </p>
+<p> Όροι Χρήσης </p>
+<p> | </p>
+<p> Επικοινωνία </p>
+<p> var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost +  "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); </p>
+<p> var pageTracker = _gat._getTracker("UA-1113507-1"); pageTracker._trackPageview(); </p>

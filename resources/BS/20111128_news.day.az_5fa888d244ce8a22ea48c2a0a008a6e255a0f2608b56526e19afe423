@@ -1,0 +1,452 @@
+<p> Американцы разработали принципиально новое средство против ВИЧ: Медицина, 27 ноября 2011 </p>
+<p> var aGAAttrs=[["D_category","medicine"]]; </p>
+<p> GS_googleAddAdSenseService("ca-pub-4622908849523057");GS_googleEnableAllServices(); </p>
+<p> try{ for(var i=0;i<aGAAttrs.length;i++) GA_googleAddAttr(aGAAttrs[i][0],aGAAttrs[i][1]); }catch(e){}; </p>
+<p> GA_googleAddSlot("ca-pub-4622908849523057","DAY_Slot_News_HTML"); </p>
+<p> GA_googleAddSlot("ca-pub-4622908849523057","DAY_Slot_InHeader_300x80"); </p>
+<p> GA_googleAddSlot("ca-pub-4622908849523057","DAY_Slot_Top_01_255x120"); </p>
+<p> GA_googleAddSlot("ca-pub-4622908849523057","DAY_Slot_Top_02_255x120"); </p>
+<p> GA_googleAddSlot("ca-pub-4622908849523057","DAY_Slot_Top_03_255x120"); </p>
+<p> GA_googleAddSlot("ca-pub-4622908849523057","DAY_Slot_Top_04_229x120"); </p>
+<p> GA_googleAddSlot("ca-pub-4622908849523057","DAY_Slot_Top_728x90"); </p>
+<p> GA_googleAddSlot("ca-pub-4622908849523057","DAY_Slot_RightUp_240x400"); </p>
+<p> GA_googleAddSlot("ca-pub-4622908849523057","DAY_Slot_RightDown_240x400"); </p>
+<p> GA_googleAddSlot("ca-pub-4622908849523057","DAY_Slot_RightDown_240x200"); </p>
+<p> GA_googleAddSlot("ca-pub-4622908849523057","DAY_Slot_News_Body_522x90"); </p>
+<p> GA_googleAddSlot("ca-pub-4622908849523057","DAY_Slot_News_End_HTML"); </p>
+<p> GA_googleFetchAds(); </p>
+<p> Day.Az </p>
+<p> Интернет </p>
+<p> Новости на Day.Az </p>
+<p> Музыка </p>
+<p> /* <![CDATA[ */ (function() { 	var fn=function() 	{ 		$.getScript("http:\/\/www.day.az\/"+"scripts/az1/common/jquery.autocomplete.js",function() 		{ 			$(document).ready(function() 			{ 				try { SearchPanel.init("form#search input.txt","rus","day.az"); } catch(e) {}; 			}) 		}); 	}; 	if(typeof(deferredLoader)!="undefined") return function() { deferredLoader.add(fn); } 	return fn;	 })()(); /* ]]> */ </p>
+<p> try { if(!window.location.href.toString().match(/^http:\/\/(www\.)?((afisha|banks|sport|mail|weather|tv|blog|blogs|job|jobs)\.|day\.az\/radio)/)) 	document.write('<iframe src="http://img.day.az/i/v1/Day_Slot/DAY_Slot_InHeader_300x80.html" width="300" height="80" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" border="0"></iframe>'); } catch(e){}; </p>
+<p> Баку: </p>
+<p> +4° </p>
+<p> usd: </p>
+<p> 0.7865 </p>
+<p> eur: </p>
+<p> 1.0449 </p>
+<p> rub: </p>
+<p> 0.0249 </p>
+<p> gbp: </p>
+<p> 1.2189 </p>
+<p> Сделать стартовой страницей </p>
+<p> PDA-версия </p>
+<p> Milli.Az </p>
+<p> Today.Az </p>
+<p> Письмо в редакцию </p>
+<p> Новости о Day.Az </p>
+<p> /* <![CDATA[ */ (function() { 	var fn=function() { 		try { AuthToolbar.init("day.az","rus"); } catch(e) {}; 		try { LangCode.init("rus","day.az"); } catch(e) {}; 	}; 	return (typeof(deferredLoader)!="undefined")?function(){ deferredLoader.add(fn); }:fn; })()(); /* ]]> */ </p>
+<p> Новости </p>
+<p> Главные </p>
+<p> Последние </p>
+<p> Видеоновости </p>
+<p> Фоторепортажи </p>
+<p> Евровидение 2012 </p>
+<p> Политика </p>
+<p> Экономика </p>
+<p> Общество </p>
+<p> Шоу-бизнес </p>
+<p> Спорт </p>
+<p> Культура </p>
+<p> Криминал </p>
+<p> Это интересно </p>
+<p> В мире </p>
+<p> Технологии </p>
+<p> Day.Az TV </p>
+<p> Day.Az Radio </p>
+<p> (function(sId){ document.write('<style type="text/css">#'+sId+'{ display:none; }</style>'); })("top_adv_links"); </p>
+<p> Bank of Baku: Покупай с “BOLKART”, Плати в РАССРОЧКУ! </p>
+<p> MUGANBANK </p>
+<p> FOREX </p>
+<p> Новости Международного Банка Азербайджана </p>
+<p> (function(sId) { 	var a=[["<span><a href=\"http:\/\/www.bolkart.az\" rel=\"nofollow\" target=\"_blank\">Bank of Baku: \u041f\u043e\u043a\u0443\u043f\u0430\u0439 \u0441 \u201cBOLKART\u201d, \u041f\u043b\u0430\u0442\u0438 \u0432 \u0420\u0410\u0421\u0421\u0420\u041e\u0427\u041a\u0423!<\/a><\/span>"],["<span><a href=\"http:\/\/www.forex.muganbank.az\/\" rel=\"nofollow\" target=\"_blank\"><span style=\"color:blue;padding-right:5px;padding-left:0;background:none;\">MUGANBANK<\/span><img src=\"http:\/\/img.dayazcdn.net\/i\/adv\/arrow_twocolor.png\" style=\"display:inline;\"\/><span style=\"padding-left:5px;background:none;\">FOREX<\/span><\/a><\/span>"],["<span><a href=\"http:\/\/news.day.az\/tag\/185.html\" rel=\"nofollow\" target=\"_blank\"><img src=\"http:\/\/img.dayazcdn.net\/adv\/05\/4\/iba_logo_16x16.png\" style=\"display:inline;margin-bottom:-3px;\"\/><span style=\"padding-left:5px;color:blue;background:none;\">\u041d\u043e\u0432\u043e\u0441\u0442\u0438 \u041c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u043e\u0433\u043e \u0411\u0430\u043d\u043a\u0430 \u0410\u0437\u0435\u0440\u0431\u0430\u0439\u0434\u0436\u0430\u043d\u0430<\/span><\/a><\/span>"]]; 	var s=""; 	for(var i=0; i<a.length;i++) s+=(a[i].length>1)?a[i][Math.floor(Math.random()*a[i].length)]:a[i][0]; 	var el=document.getElementById(sId); 	if(el) 	{ 		el.innerHTML=s; 		el.style.display = "block"; 	} })("top_adv_links"); </p>
+<p> Американцы разработали принципиально новое средство против ВИЧ </p>
+<p> 1:27, 27 ноября, 2011 </p>
+<p> Medportal.ru </p>
+<p> Медицина </p>
+<p> Tweet </p>
+<p> Американские ученые синтезировали вещество, эффективное против вирусов иммунодефицита. </p>
+<p> Как сообщает Medical Xpress, это удалось группе специалистов под руководством Чжилэй Чэнь (Zhilei Chen) из Техасского университета A&M. Отчет об исследовании опубликован в журнале Antimicrobial Agents and Chemotherapy. </p>
+<p> Группа Чэнь изучила свойство вещества под кодовым названием PD 404,182. В ходе экспериментов исследователи выяснили, что субстанция обладает антивирусным действием. При контакте с веществом нуклеиновые кислоты вирусов, в которых хранится наследственная информация, отделялись от белков, делая вирусы безвредными. </p>
+<p> По данным исследования, PD 404,182 эффективно в отношении ВИЧ первого и второго типов, вируса иммунодефицита обезьян, а также вируса гепатита С. Однако возбудители вирусных лихорадок денге и синдбис оказались устойчивы к действию вещества. </p>
+<p> Чэнь отметила, что новое вещество не разрушает оболочки вирусов, равно как и мембраны живых клеток. Отсутствие цитотоксичности PD 404,182 было подтверждено результатами экспериментов на культурах клеток человека. </p>
+<p> Исследователям не удалось точно описать механизм антивирусного действия вещества. По их предположениям, субстанция действует не на белки, а на другие структурные компоненты, общие для вирусов. В связи с этим в ходе мутаций вирусы не смогут выработать индивидуальную защиту от PD 404,182. </p>
+<p> /* <![CDATA[ */ try { 	$("div.news h3.quote").append('<span></span><span class="r"></span>'); 	$("a.linked[href]").each(function(){ $(this).attr("href",$(this).attr("href").toString().replace(/\/open\/?\?/,"/open/"+"301130"+"/?")); }); } catch(e) { };/* ]]> */ </p>
+<p> Просмотров: 856 </p>
+<p> Версия для печати </p>
+<p> Сообщить об опечатке </p>
+<p> GA_googleFillSlot("DAY_Slot_News_Body_522x90"); </p>
+<p> В статье </p>
+<p> Темы: </p>
+<p> наука </p>
+<p> , </p>
+<p> СПИД </p>
+<p> $("div.image img[rel]").each(function(){ this.src=this.getAttribute("rel"); }); </p>
+<p> Порекомендовать другу </p>
+<p> Ваши данные: </p>
+<p> * </p>
+<p> Данные друга: </p>
+<p> * </p>
+<p> /* <![CDATA[ */ try { SMTFController.init("http:\/\/news.day.az\/",301130); } catch(e) {}; /* ]]> */ </p>
+<p> Новости по теме </p>
+<p> Американцы разработали революционное средство против ВИЧ </p>
+<p> 26 ноября 2011, 6:19 </p>
+<p> В Баку состоится рок-концерт "Скажи СПИДу нет!" </p>
+<p> 24 ноября 2011, 19:42 </p>
+<p> Смертоносная болезнь: Азербайджан побеждает СПИД </p>
+<p> 23 ноября 2011, 12:22 </p>
+<p> Азербайджан разработает национальную стратегию по ВИЧ/СПИД и сфере труда </p>
+<p> 31 октября 2011, 20:25 </p>
+<p> Отправить комментарий </p>
+<p> .add-comment input{color:#aaaaaa;} .add-comment .black{color:#555555;} </p>
+<p> Войдите на сайт или </p>
+<p> зарегистрируйтесь </p>
+<p> , чтобы оставить комментарий под своим именем </p>
+<p> Комментарий </p>
+<p> * </p>
+<p> Вход </p>
+<p> * </p>
+<p> DAY </p>
+<p> . </p>
+<p> AZ </p>
+<p> Вконтакте </p>
+<p> Facebook </p>
+<p> Twitter </p>
+<p> Mail.ru </p>
+<p> Войти </p>
+<p> Зарегистрироваться </p>
+<p> Опубликовать комментарий в Facebook </p>
+<p> Введите код </p>
+<p> * </p>
+<p> Содержание комментариев к новостям не имеет никакого отношения к редакционной политике Day.Az. Мы не несем ответственность за форму и характер выставляемых комментариев. </p>
+<p> Просьба соблюдать установленные </p>
+<p> правила </p>
+<p> . </p>
+<p> XComment.init("http://news.day.az/","",0,0); </p>
+<p> Отправь свою новость </p>
+<p> в Day.Az </p>
+<p> Самое читаемое </p>
+<p> В Азербайджане изменены тарифы на ряд коммунальных услуг и проезд в метро - ОБНОВЛЕНО </p>
+<p> У Филиппа Киркорова родилась дочь от суррогатной матери - ОБНОВЛЕНО </p>
+<p> 16 комментариев </p>
+<p> Певица Хана: "Мне быстро надоела вся эта суета" </p>
+<p> 19 комментариев </p>
+<p> Политическое несварение у Еревана, или Как в Армении чернят "Евровидение" в Баку </p>
+<p> 3 комментария </p>
+<p> Баку: завораживающие столичные пейзажи – ФОТОСЕССИЯ </p>
+<p> 2 комментария </p>
+<p> Самое обсуждаемое </p>
+<p> Наина Ибрагимова: "Двухкомнатная квартира? Не знаю, как она выглядит" - ФОТО </p>
+<p> 58 комментариев </p>
+<p> Баку брендовый: что и как носят в столице Азербайджана </p>
+<p> 58 комментариев </p>
+<p> Веселая поездка на бакинском метро - РЕПОРТАЖ </p>
+<p> 46 комментариев </p>
+<p> Когда играет Мацуи, даже сердце "танцует", или Несколько слов о концерте японской пианистки в Баку </p>
+<p> 21 комментарий </p>
+<p> Бриллиант Дадашева: "Азербайджанские исполнители могут затмить даже Мадонну" </p>
+<p> 19 комментариев </p>
+<p> Новости партнеров </p>
+<p> Загружается, подождите... </p>
+<p> Создать почтовый ящик на DAY.AZ </p>
+<p> Запомнить меня </p>
+<p> Забыли пароль? </p>
+<p> Day.Az </p>
+<p> Почта </p>
+<p> Мой Day </p>
+<p> /* <![CDATA[ */(function()     {         var fn=function() { try { AuthPanel.init("rus","day.az"); } catch(e) {}; };         if(typeof(deferredLoader)!="undefined") return function(){ deferredLoader.add(fn); };                 return fn;     })()();/* ]]> */ </p>
+<p> Разделы Day.Az </p>
+<p> Почта </p>
+<p> Новости </p>
+<p> Мой Day </p>
+<p> Погода </p>
+<p> Юмор </p>
+<p> Программа ТВ </p>
+<p> Гороскоп </p>
+<p> Сонник </p>
+<p> Переводчик </p>
+<p> Игры </p>
+<p> Авиарейсы </p>
+<p> Музыка </p>
+<p> Спорт </p>
+<p> Day Хром </p>
+<p> Рейтинг </p>
+<p> Блоги </p>
+<p> Афиша </p>
+<p> Day.Az Radio </p>
+<p> Работа </p>
+<p> DayTube </p>
+<p> Фото </p>
+<p> Банки </p>
+<p> /* <![CDATA[ */(function() { 	var fn=function() { try { ResourcePanel.init("rus","day.az"); } catch(e) {}; }; 	if(typeof(deferredLoader)!="undefined") return function(){ deferredLoader.add(fn); }; 		return fn; })()();/* ]]> */ </p>
+<p> Фоторепортажи </p>
+<p> В Китае свинья, родившаяся без задних ног, научилась ходить – ФОТО </p>
+<p> Юрий Титов и Арчи М выступили для бакинской публики </p>
+<p> Папарацци засняли Дженифер Лопес на пляже с ее новой "игрушкой" - ФОТО </p>
+<p> Видеоновости </p>
+<p> Камера зафиксировала разрушительное торнадо - ВИДЕО </p>
+<p> Мастер-класс на беговой дорожке - ВИДЕО </p>
+<p> Гоночное cостязание: Запорожец против мощного Мустанга - ВИДЕО </p>
+<p> Спецпроекты </p>
+<p> Анекдоты об армянском МИДе </p>
+<p> Воскресное чтиво </p>
+<p> Картинная галерея Day.Az </p>
+<p> По письмам читателей </p>
+<p> Женская логика </p>
+<p> Наш Азербайджан: Вместе мы сила </p>
+<p> Мобильный репортер </p>
+<p> Фотоклуб Day.Az </p>
+<p> Туристические записки </p>
+<p> Регионы </p>
+<p> Новости Армении </p>
+<p> Новости Грузии </p>
+<p> Подписка </p>
+<p> Новости в формате RSS </p>
+<p> Новости на вашем мобильном </p>
+<p> /* <![CDATA[ */(function() { 	var fn=function() { try { SubscribeBlock.init("rus"); } catch(e) {}; }; 	if(typeof(deferredLoader)!="undefined") return function(){ deferredLoader.add(fn); }; 		return fn; })()();/* ]]> */ </p>
+<p> Присоединяйтесь к нам! </p>
+<p> Day.Az на Facebook </p>
+<p> Day.Az в twitter </p>
+<p> Day.Az в Vkontakte </p>
+<p> « </p>
+<p> ноябрь </p>
+<p> » </p>
+<p> « </p>
+<p> 2011 </p>
+<p> » </p>
+<p> Архив </p>
+<p> /* <![CDATA[ */ (function(iYear,iMonth,sBlock) { 	var iCYear=parseInt(iYear,10); 	var iCMonth=parseInt(iMonth,10); 	var sCBlock=sBlock; 	var fUpdate=function(iYear,iMonth) 	{ 		$.getJSON("http:\/\/news.day.az\/"+"archive/calendar.jsp?jsoncallback=?",{ 			"m": iMonth, 			"y": iYear 		},function(json){ 			$(sCBlock).replaceWith(json.html); 			if(typeof(deferredLoader)!="undefined") 				deferredLoader.run(); 		}); 		return false; 	}; 	var fn=function() 	{ 		$("a[name=pmonth]").click(function(){ return fUpdate(iCMonth==1?(iCYear-1):iCYear,iCMonth==1?12:(iCMonth-1)); }); 		$("a[name=nmonth]").click(function(){ return fUpdate(iCMonth==12?(iCYear+1):iCYear,iCMonth==12?1:(iCMonth+1)); }); 		$("a[name=pyear]").click(function(){ return fUpdate(iCYear-1,iCMonth); }); 		$("a[name=nyear]").click(function(){ return fUpdate(iCYear+1,iCMonth); }); 	}; 	if(typeof(deferredLoader)!="undefined") 		return function(){ deferredLoader.add(fn); }; 	return fn; })(2011,11,"div#calendar")(); /* ]]> */ </p>
+<p> Пн </p>
+<p> Вт </p>
+<p> Ср </p>
+<p> Чт </p>
+<p> Пт </p>
+<p> Сб </p>
+<p> Вс </p>
+<p> 1 </p>
+<p> 2 </p>
+<p> 3 </p>
+<p> 4 </p>
+<p> 5 </p>
+<p> 6 </p>
+<p> 7 </p>
+<p> 8 </p>
+<p> 9 </p>
+<p> 10 </p>
+<p> 11 </p>
+<p> 12 </p>
+<p> 13 </p>
+<p> 14 </p>
+<p> 15 </p>
+<p> 16 </p>
+<p> 17 </p>
+<p> 18 </p>
+<p> 19 </p>
+<p> 20 </p>
+<p> 21 </p>
+<p> 22 </p>
+<p> 23 </p>
+<p> 24 </p>
+<p> 25 </p>
+<p> 26 </p>
+<p> 27 </p>
+<p> 28 </p>
+<p> 29 </p>
+<p> 30 </p>
+<p> Настроить </p>
+<p> Телепрограмма </p>
+<p> 19:10 </p>
+<p> "Binqo+". Teleoyun </p>
+<p> AZTV </p>
+<p> 19:00 </p>
+<p> Serial «Montenin varisleri» </p>
+<p> ATV </p>
+<p> 19:20 </p>
+<p> Kulekler sheheri – tekrar </p>
+<p> Xəzər </p>
+<p> Переводчик </p>
+<p> русский </p>
+<p> английский </p>
+<p> турецкий </p>
+<p> — </p>
+<p> албанский </p>
+<p> арабский </p>
+<p> болгарский </p>
+<p> венгерский </p>
+<p> вьетнамский </p>
+<p> галицийский </p>
+<p> голландский </p>
+<p> греческий </p>
+<p> датский </p>
+<p> иврит </p>
+<p> индонезийский </p>
+<p> испанский </p>
+<p> итальянский </p>
+<p> каталанский </p>
+<p> китайский (традиционный) </p>
+<p> китайский (упрощенный) </p>
+<p> корейский </p>
+<p> латышский </p>
+<p> литовский </p>
+<p> мальтийский </p>
+<p> немецкий </p>
+<p> норвежский </p>
+<p> польский </p>
+<p> португальский </p>
+<p> румынский </p>
+<p> сербский </p>
+<p> словацкий </p>
+<p> словенский </p>
+<p> тагальский </p>
+<p> тайский </p>
+<p> украинский </p>
+<p> финский </p>
+<p> французский </p>
+<p> хинди </p>
+<p> хорватский </p>
+<p> чешский </p>
+<p> шведский </p>
+<p> эстонский </p>
+<p> японский </p>
+<p> > </p>
+<p> русский </p>
+<p> английский </p>
+<p> турецкий </p>
+<p> — </p>
+<p> албанский </p>
+<p> арабский </p>
+<p> болгарский </p>
+<p> венгерский </p>
+<p> вьетнамский </p>
+<p> галицийский </p>
+<p> голландский </p>
+<p> греческий </p>
+<p> датский </p>
+<p> иврит </p>
+<p> индонезийский </p>
+<p> испанский </p>
+<p> итальянский </p>
+<p> каталанский </p>
+<p> китайский (традиционный) </p>
+<p> китайский (упрощенный) </p>
+<p> корейский </p>
+<p> латышский </p>
+<p> литовский </p>
+<p> мальтийский </p>
+<p> немецкий </p>
+<p> норвежский </p>
+<p> польский </p>
+<p> португальский </p>
+<p> румынский </p>
+<p> сербский </p>
+<p> словацкий </p>
+<p> словенский </p>
+<p> тагальский </p>
+<p> тайский </p>
+<p> украинский </p>
+<p> финский </p>
+<p> французский </p>
+<p> хинди </p>
+<p> хорватский </p>
+<p> чешский </p>
+<p> шведский </p>
+<p> эстонский </p>
+<p> японский </p>
+<p> изменить направление </p>
+<p> /* <![CDATA[ */ try { (function() { 	var fn=function() { $.getScript("http://s.my."+"day.az"+"/module-translate.js"); }; 	if(typeof(deferredLoader)!="undefined") return function(){ deferredLoader.add(fn); } 	return fn;	 })()(); } catch(e) {}; try { (function() { 	var getCookie=function(name, def) 	{ 		var cookie = " " + document.cookie; 		var search = " " + name + "="; 		var setStr = null; 		var offset = 0; 		var end = 0; 		if (cookie.length > 0) 		{ 			offset = cookie.indexOf(search); 			if (offset != -1) 			{ 				offset += search.length; 				end = cookie.indexOf(";", offset) 				if (end == -1) 				  end = cookie.length; 				setStr = unescape(cookie.substring(offset, end)); 			} 		} 		return setStr!==null ? setStr : def; 	} 	return { 		"init": function() 		{ 			document.getElementById("translate_from").value=getCookie("translation_from","ru"); 			document.getElementById("translate_to").value=getCookie("translation_to","en"); 		} 	}; })().init(); } catch(e) {}; /* ]]> */ </p>
+<p> Юмор </p>
+<p> Жизнь в доме шла спокойно... Пока жена не заметила, что наша соседка моет лестничную клетку моими трусами... </p>
+<p> Анекдоты </p>
+<p> Афоризмы </p>
+<p> Фото </p>
+<p> Видео </p>
+<p> Опрос </p>
+<p> Какую марку фена вы предпочитаете? </p>
+<p> Philips </p>
+<p> Sinbo </p>
+<p> Moser </p>
+<p> Remington </p>
+<p> Rolsen </p>
+<p> Erisson </p>
+<p> Vitek </p>
+<p> lamark </p>
+<p> Zelmer </p>
+<p> Viqor </p>
+<p> Vitesse </p>
+<p> Valera </p>
+<p> Parlux </p>
+<p> Rowenta </p>
+<p> Bosch </p>
+<p> Supra </p>
+<p> Braun </p>
+<p> Binatone </p>
+<p> Panasonic </p>
+<p> Wellton </p>
+<p> Результаты </p>
+<p> Всего голосов: 1976 </p>
+<p> Архив опросов </p>
+<p> Наша кнопка </p>
+<p> Другие новости </p>
+<p> ToDay.Az </p>
+<p> President Ilham Aliyev breaks ground for ANAS Central Scientific Library </p>
+<p> Azerbaijan's powerful super heavyweight boxer is Best of 2011 – PHOTO </p>
+<p> Azerbaijani President gives interview to author of “Formula of power” program </p>
+<p> Milli.Az </p>
+<p> Həftəsonu fotolarda - FOTOSESSİYA </p>
+<p> "Çal-çağırlı", "hədiyyəli", "oğullu-qızlı" ... </p>
+<p> Tanınmış azərbaycanlı prodüser hansı müğənnini sevir? - FOTO </p>
+<p> Trend.Az </p>
+<p> Дочь Евгения Сидихина попала в ДТП </p>
+<p> Дочь Валерия Меладзе вывела в свет друга </p>
+<p> Супруга Аркадия Укупника показала дочку </p>
+<p> Общение: </p>
+<p> Мой Day </p>
+<p> Почта </p>
+<p> Блоги </p>
+<p> Развлечения: </p>
+<p> Юмор </p>
+<p> Видео </p>
+<p> Музыка </p>
+<p> Гороскопы </p>
+<p> Сонник </p>
+<p> Информация: </p>
+<p> Новости </p>
+<p> Банки </p>
+<p> Погода </p>
+<p> ТВ программа </p>
+<p> Авиарейсы </p>
+<p> Спорт </p>
+<p> Полезное: </p>
+<p> PDA версия </p>
+<p> Переводы </p>
+<p> RSS </p>
+<p> Day.Az: </p>
+<p> О проекте </p>
+<p> Реклама </p>
+<p> Служба поддержки </p>
+<p> var SID=19; (function(){ var t='text/javascript', h, s, u, d=document, l='http://az1s.countby.com/code.js'; try { h=d.getElementsByTagName('head')[0]; s=d.createElement('script'); s.src=l; s.type=t; h.appendChild(s); }catch(e){ u='%3Cscript%20src="'+l+'"%20type="'+t+'"%3E%3C/script%3E'; d.write(unescape(u));}})(); </p>
+<p> <!-- document.write("<a href='http://www.liveinternet.ru/click;Day_Az' "+ "target=_blank><img src='//counter.yadro.ru/hit;Day_Az?t11.6;r"+ escape(document.referrer)+((typeof(screen)=="undefined")?"": ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth? screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+ ";"+Math.random()+ "' alt='' title='LiveInternet: показано число просмотров за 24"+ " часа, посетителей за 24 часа и за сегодня' "+ "border='0' width='88' height='31'><\/a>") //--> </p>
+<p> var spylog={counter:851806,image:5012,next:spylog};document.write(unescape("%3Cscript src=%22http" + (("https:" == document.location.protocol) ? "s" : "") + "://counter.spylog.com/cnt.js%22 defer=%22defer%22%3E%3C/script%3E")); </p>
+<p> <!-- d=document;var a='';a+=';r='+escape(d.referrer);js=10;//--> </p>
+<p> <!-- a+=';j='+navigator.javaEnabled();js=11;//--> </p>
+<p> <!-- s=screen;a+=';s='+s.width+'*'+s.height; a+=';d='+(s.colorDepth?s.colorDepth:s.pixelDepth);js=12;//--> </p>
+<p> <!-- js=13;//--> </p>
+<p> <!-- d.write('<a href="http://top.mail.ru/jump?from=1981460" target="_top">'+ '<img src="http://dc.c3.be.a1.top.mail.ru/counter?id=1981460;t=210;js='+js+ a+';rand='+Math.random()+'" alt="Рейтинг@Mail.ru" border="0" '+ 'height="31" width="88"><\/a>');if(11<js)d.write('<'+'!-- ');//--> </p>
+<p> <!-- if(11<js)d.write('--'+'>');//--> </p>
+<p> Пишите нам: </p>
+<p> editor@day.az </p>
+<p> Copyright © 2003-2011 Day.Az </p>
+<p> При использовании материалов с сайта гиперссылка обязательна. Редакция не несет ответственности за содержание рекламных материалов и баннеров. </p>
+<p> Реклама на сайте </p>
+<p> var _gaq = _gaq || []; 	_gaq.push(['_setAccount', 'UA-7734105-1']); 	_gaq.push(['_setDomainName', 'day.az']); 	_gaq.push(['_trackPageview']); </p>
+<p> var ga = document.createElement('script'); 	ga.type = 'text/javascript'; 	ga.async = true; 	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; 	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); </p>
+<p> GA_googleFillSlot("DAY_Slot_News_End_HTML"); </p>
+<p> <!--//<![CDATA[ var m3_u = (location.protocol=='https:'?'https://www.adsahil.com/serv1/www/delivery/ajs.php':'http://www.adsahil.com/serv1/www/delivery/ajs.php'); var m3_r = Math.floor(Math.random()*99999999999); if (!document.MAX_used) document.MAX_used = ','; document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u); document.write ("?zoneid=267&amp;charset=UTF-8"); document.write ('&amp;cb=' + m3_r); if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used); document.write ('&amp;charset=UTF-8'); document.write ("&amp;loc=" + escape(window.location)); if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer)); if (document.context) document.write ("&context=" + escape(document.context)); if (document.mmm_fo) document.write ("&amp;mmm_fo=1"); document.write ("'><\/scr"+"ipt>"); //]]>--> </p>
+<p> (function(w, c) {     (w[c] = w[c] || []).push(function() {         try {             w.yaCounter6154468 = new Ya.Metrika(6154468);              yaCounter6154468.clickmap(true);              yaCounter6154468.trackLinks(true);                  } catch(e) { }     }); })(window, 'yandex_metrika_callbacks'); </p>
+<p> GA_googleFillSlot("DAY_Slot_Top_01_255x120"); </p>
+<p> GA_googleFillSlot("DAY_Slot_Top_02_255x120"); </p>
+<p> GA_googleFillSlot("DAY_Slot_Top_03_255x120"); </p>
+<p> GA_googleFillSlot("DAY_Slot_Top_04_229x120"); </p>
+<p> $("#slotTopLoader").css({"top": 0}).show(); </p>

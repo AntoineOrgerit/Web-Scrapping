@@ -1,0 +1,196 @@
+<p> @import url(/yui-6.css); @import url(/commonmin-84.css); </p>
+<p> var _kmq = _kmq || []; 		function _kms(u){ setTimeout(function(){ var s = document.createElement('script'); var f = document.getElementsByTagName('script')[0]; s.type = 'text/javascript'; s.async = true; s.src = u; f.parentNode.insertBefore(s, f); }, 1); } _kms('//i.kissmetrics.com/i.js');_kms('//doug1izaerwt3.cloudfront.net/f524ec51cadb5781a9ce6d45976db9cbac887c0f.1.js'); </p>
+<p> var pubid="ca-pub-1077026815079259"; djp.ga_addserv(pubid); djp.ga_enable(); </p>
+<p> var ga_load = Array(1) ga_load["0"] = "160x600-Skyscraper-BTF" var ga_targeting = Array(2) ga_targeting["page-type"] = "article" ga_targeting["department"] = "World" </p>
+<p> djp.ga_addattr('dju',djp.user.is_loggedin()?1:0);   if (djp.user.is_loggedin() && typeof(upg)!='undefined') { 	djp.ga_addattr('djut',upg); 	djp.ga_addattr('djg','');   }   if (typeof(ga_targeting)!='undefined' && ga_targeting  && ga_targeting.length) 	for(var k in ga_targeting) 	  djp.ga_addattr(k,ga_targeting[k]);   if (typeof(ga_load)!='undefined' && ga_load) 	for(var i=0;i<ga_load.length;i++) 		djp.ga_addslot(pubid, ga_load[i]);   djp.ga_addslot(pubid, "728x90-Leaderboard-ATF");   djp.ga_addslot(pubid, "DJ-Apps-WebsiteAd");   djp.ga_addslot(pubid, "Exclusive-QW");   djp.ga_addslot(pubid, "300x250-Big-Box-ATF");   djp.ga_addslot(pubid, "300x250-Big-Box-BTF"); </p>
+<p> djp.ga_fetch(); </p>
+<p> Report: Bilingualism costing Canadians $2.4 billion annually </p>
+<p> if(document.location.protocol=='http:'){ 	var Tynt=Tynt||[];Tynt.push('dF1byYV0Kr3713adbi-bnq'); 	(function(){var s=document.createElement('script');s.async="async";s.type="text/javascript";s.src='http://tcr.tynt.com/ti.js';var h=document.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);})(); } </p>
+<p> var _comscore = _comscore || []; 	_comscore.push({ c1: "2", c2: "12434953" }); 	(function() { 		var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true; 		s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js"; 		el.parentNode.insertBefore(s, el); 	})(); </p>
+<p> var _gaq = _gaq || []; 	_gaq.push(['_setAccount', 'UA-521285-1']); 	_gaq.push(['_trackPageview']); 	(function() { 		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; 		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); 	})(); </p>
+<p> var fb_init = function() { 		djp.console('after FB source loaded, '+ typeof(FB)); 		var curLoc = window.location; 		FB.init({appId:'321580635153', oauth:true, status:true, cookie:true, xfbml:true, channelUrl: curLoc.protocol+"//"+curLoc.hostname+"/fb_channel.html"}); 		djp.init_fb(); 			} 	djp.load_js(document.location.protocol + '//connect.facebook.net/en_US/all.js', 'FB', '', fb_init, true); </p>
+<p> Email </p>
+<p> Password </p>
+<p> Remember me </p>
+<p> Forgot password? </p>
+<p> Log in with Facebook </p>
+<p> Connect your Digital Journal account with Facebook to use this feature. </p>
+<p> djp.ga_fill("728x90-Leaderboard-ATF"); </p>
+<p> Log In </p>
+<p> Sign Up </p>
+<p> Connect </p>
+<p> CONTRIBUTE </p>
+<p> News </p>
+<p> Arts </p>
+<p> Business </p>
+<p> Crime </p>
+<p> Education </p>
+<p> Entertainment </p>
+<p> Environment </p>
+<p> Food </p>
+<p> Health </p>
+<p> Internet </p>
+<p> Lifestyle </p>
+<p> Odd News </p>
+<p> Politics </p>
+<p> Religion </p>
+<p> Science </p>
+<p> Sports </p>
+<p> Technology </p>
+<p> Travel </p>
+<p> World </p>
+<p> Blogs </p>
+<p> Top Blogs» </p>
+<p> Latest Blogs» </p>
+<p> Post Blog» </p>
+<p> Images </p>
+<p> Top Images» </p>
+<p> Latest Images» </p>
+<p> Upload Images» </p>
+<p> Groups </p>
+<p> View Groups» </p>
+<p> Create a Group» </p>
+<p> Trending: </p>
+<p> Croatia </p>
+<p> Westboro Baptist Church </p>
+<p> Muhammad ali </p>
+<p> Delta airlines </p>
+<p> Table mountain </p>
+<p> costa concordia </p>
+<p> Gop debate </p>
+<p> Bournemouth </p>
+<p> <!-- 	djp.htmlFormedEvent.subscribe(function(){ 		var nodes = YAHOO.util.Dom.getChildrenBy(gebi('headernavcats'),function(n){ return (n && n.tagName && n.tagName.toUpperCase()=='A'); }); 		for(var i=0;i<nodes.length;i++) { 			var n=nodes[i],subitems=Dom.getNextSibling(n); 			if (subitems.tagName && subitems.tagName.toLowerCase()=='div') { 				n.subitems = subitems; 				n.onmouseover = function(e) { 					var tt=djp.user.tt(this,e,{ 						t:'simple', 						wopt:{ 							contents: this.subitems.innerHTML 						} 					}); 					if (this.subitems.getAttribute('cssclass')) 						Dom.addClass(tt.getEl(), this.subitems.getAttribute('cssclass')); 					Dom.addClass(tt.getEl(),'ppnav'); 				}; 			} 		} 	}); //--> </p>
+<p> Listen </p>
+<p> Print </p>
+<p> In the Media </p>
+<p> Report: Bilingualism costing Canadians $2.4 billion annually </p>
+<p> article:317992:15::0 </p>
+<p> Andrew </p>
+<p> By </p>
+<p> Andrew Moran </p>
+<p> Jan 16, 2012 </p>
+<p> - 20 hours ago						in </p>
+<p> World </p>
+<p> 1 comment </p>
+<p> By Andrew Moran. </p>
+<p> Toronto </p>
+<p> -  Would you like English or French?  A new report from a leading think tank suggests that bilingualism is costing the country approximately $2.4 billion per year.  The province of Ontario spends the most out of all provinces with $623 million per year. </p>
+<p> The official languages recognized in Canada, according to the Constitution of Canada, are English and French.  According to </p>
+<p> statistics from the 2006 census </p>
+<p> , 59 percent of Canadians speak English and a little more than 23 percent speak French. </p>
+<p> Many federal and provincial public services offer its citizens options in French and English.  Unfortunately, for taxpayers, this is costing the country $2.4 billion annually; $900 million in annual provincial funding for bilingual government services and $1.5 billion the federal government spends on bilingualism, according to a Fraser Institute reported titled </p>
+<p> “Official Language Policies of the Canadian Provinces Costs and Benefits in 2006.” </p>
+<p> The $2.4 billion equals to $85 per Canadian taxpayer. </p>
+<p> The province of Ontario spends $623 million per year on bilingual services, which is the most out of all its counterparts.  New Brunswick, which has English and French as its official languages, has the second largest budget for bilingualism with $85 million.  Quebec is third at $50 million. </p>
+<p> Newfoundland and Labrador spends the least out of all provinces with $3.4 million per year. </p>
+<p> In most provinces, a substantial amount of bilingual funding is focused on primary and secondary French-language education. </p>
+<p> Study authors explain that they are not concluding whether or not bilingualism is bad public policy, but rather are highlighting the costs associated with bilingual services.  “The issue we examine in this study is not whether bilingualism is good or bad policy, but the costs above and beyond that of providing education and other services in the majority language,” said Universite de Montreal economics professor, Francois Vaillancourt, in a </p>
+<p> press release </p>
+<p> . </p>
+<p> The research notes that provinces that maintain a significant francophone population could contract out government services in French to the private sector at a user-pay basis. </p>
+<p> Provincial bilingual spending: </p>
+<p> -	Ontario: $623 million on bilingual services ($1,275 per francophone) </p>
+<p> -	New Brunswick: $85 million ($357 per francophone) </p>
+<p> -	Quebec: $50 million ($88 per francophone) </p>
+<p> -	Alberta: $33 million ($534.70 per francophone) </p>
+<p> -	British Columbia: $23 million ($426.90 per francophone) </p>
+<p> -	Nova Scotia: $18 million ($540.10 per francophone) </p>
+<p> -	Manitoba: $16 million ($410.20 per francophone) </p>
+<p> -	Saskatchewan:$9.65 million ($640.50 per francophone) </p>
+<p> -	Prince Edward Island: $5.1 million ($946.20 per francophone) </p>
+<p> -	Newfoundland and Labrador: $3.4 million ($1780.30 per francophone) </p>
+<p> article:317992:15::0 </p>
+<p> More about </p>
+<p> Bilingualism </p>
+<p> , </p>
+<p> Fraser institute </p>
+<p> , </p>
+<p> Canada </p>
+<p> , </p>
+<p> Ontario </p>
+<p> , </p>
+<p> Taxpayers </p>
+<p> More news from </p>
+<p> Bilingualism </p>
+<p> Fraser institute </p>
+<p> Canada </p>
+<p> Ontario </p>
+<p> Taxpayers </p>
+<p> djp.ga_fill("300x250-Big-Box-BTF"); </p>
+<p> More from World </p>
+<p> Base jumper injured jumping off Table Mountain </p>
+<p> Port officials ordered cruise captain to return to sinking ship </p>
+<p> Perry defends urinating Marines, adds Patton, Churchill did same </p>
+<p> Saudi hackers attack Israel's stock exchange and national airline </p>
+<p> Beached cruise liner's captain purposely took ship off course </p>
+<p> Social Comments () </p>
+<p> Digital Journal Comments (1) </p>
+<p> <!--  djp.init_fb(function(){ djp.update_social_num('http://www.digitaljournal.com/article/317992');}); djp.tabs(); //--> </p>
+<p> <!-- djp.votebtn('vtart',{ incl_type:1, sync_with:'vtart_top', cls:'voteupbiggreen'}); djp.votebtn('vtart_top', { sync_with:'vtart', cls:'voteupbiggreen'}); //--> </p>
+<p> var artact = "1"; var actimgsize = Array(2) actimgsize["0"] = 300 actimgsize["1"] = 225 var artid = "317992"; var albid = "168989"; </p>
+<p> //djp.htmlFormedEvent.subscribe(function(){ djp.fireInit( function(){ djp.add_l(new DJLayout('ap',{ page:djp,cols:['ac1']})); }); }); var tgt = gebi('artis-'+(albid?albid:0)); if (parseInt(artact)) djp.incrviews('article',artid); if (tgt) { 	tgt.album = new DJAlbum(null, {tgt_el:tgt,show:{add_img:1},ui_o:{ hide:{ botrow:0,cbs:0,allowc:0},show:{ cl:1},nozoom:1,pw:[300,400],tgt_el:tgt, ncol:1}}); 	tgt.album.tid = 2; 	if (parseInt(artid)>0) { 		tgt.album.cfg.aid = artid; 		tgt.album.cfg.add_img_f = djp.add_img; 	} 	if (parseInt(albid)>0) { 		tgt.album.id = albid; 		var alb=tgt.album; 		//djp.htmlFormedEvent.subscribe(function(){ alb.compupdate(); }); 		alb.compupdate(); 	} 	else 		tgt.appendChild(tgt.album.to_html({l:'slider'})); } </p>
+<p> djp.htmlFormedEvent.subscribe(function(){ 	if (typeof(FB)!='undefined') { 		FB.Event.subscribe('edge.create',function(obj){ 			var el=gebi('vtart'); 			djp.user.vote({ v:1,id:artid,t:'article',vtel:el,voteopt:el.voteBtnOpt}); 		}); 	} }); </p>
+<p> djp.ga_fill("300x250-Big-Box-ATF"); </p>
+<p> djp.ga_fill("Exclusive-QW"); </p>
+<p> djp.ga_fill("DJ-Apps-WebsiteAd"); </p>
+<p> Top News </p>
+<p> Fox News: 'Ron Paul didn't just do well, he did the best' </p>
+<p> Microsoft's youngest professional Arfa Karim Randhawa dies at 16 </p>
+<p> Op-Ed: Muhammad Ali - the Greatest at 70 </p>
+<p> Flight diverted to remove 'unruly' couple </p>
+<p> Op-Ed: Wikipedia to go on strike in protest of SOPA </p>
+<p> Study says death among pedestrians wearing headphones triples </p>
+<p> Report says long-awaited Facebook IPO may arrive in late May </p>
+<p> Base jumper injured jumping off Table Mountain </p>
+<p> topnews-right-169025 topnews-right-169028 topnews-right-169024 topnews-right-169019 topnews-right-169018 topnews-right-169022 topnews-right-169026 topnews-right-169027 </p>
+<p> <!-- 	djp.sched_load_alb_imgs(gebi('topnews-right-imgs').innerHTML); //--> </p>
+<p> Social </p>
+<p> Engage </p>
+<p> djp.ga_fill("160x600-Skyscraper-BTF"); </p>
+<p> Corporate </p>
+<p> Contact Us </p>
+<p> About Us </p>
+<p> Media Center </p>
+<p> Advertise </p>
+<p> Leaderboard & Achievements </p>
+<p> Investors & Partners </p>
+<p> Board of Advisers </p>
+<p> Help & Support </p>
+<p> Help Center </p>
+<p> Frequently Asked Questions </p>
+<p> Editorial Guidelines </p>
+<p> Terms of Use </p>
+<p> Privacy Policy </p>
+<p> Code of Conduct </p>
+<p> News Links </p>
+<p> News Alerts </p>
+<p> Digital Journal News </p>
+<p> Digital Journal Mobile </p>
+<p> Global Press Releases </p>
+<p> 24-7PressRelease.com </p>
+<p> copyright © 1998-2012 </p>
+<p> digitaljournal.com </p>
+<p> |   powered by </p>
+<p> dell servers </p>
+<p> Show toolbar </p>
+<p> Go to top </p>
+<p> Email this </p>
+<p> Share on Facebook </p>
+<p> Tweet </p>
+<p> Fox News: 'Ron Paul didn't just do well, he did the best' </p>
+<p> Microsoft's youngest professional Arfa Karim Randhawa dies at 16 </p>
+<p> Op-Ed: Muhammad Ali - the Greatest at 70 </p>
+<p> Report says long-awaited Facebook IPO may arrive in late May </p>
+<p> Op-Ed: Wikipedia to go on strike in protest of SOPA </p>
+<p> Recipient email: </p>
+<p> You can enter up to 10 comma-separated email addresses. </p>
+<p> Your email: </p>
+<p> optional </p>
+<p> Message: </p>
+<p> optional </p>
+<p> var RecaptchaOptions = { 	theme : 'white' }; </p>
+<p> Report: Bilingualism costing Canadians $2.4 billion annually </p>
+<p> Would you like English or French?  A new report from a leading think tank suggests that bilingualism is costing the country approximately $2.4 billion per year.  The province of Ontario spends the most out of all provinces with $623 million per year. </p>
+<p> <!-- 	djp.htmlFormedEvent.subscribe(function(){ djp.StickyFoot.init(); }); 	djp.htmlFormedEvent.subscribe(function() { if(!djp.ajax.history.was_init) djp.ajax.history.init();setTimeout(kplgin, 1000); }); //--> </p>
+<p> (function() { 		var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true; 		po.src = 'https://apis.google.com/js/plusone.js'; 		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s); 	})(); 	(function(){ 	var twitterWidgets = document.createElement('script'); 	twitterWidgets.type = 'text/javascript'; 	twitterWidgets.async = true; 	twitterWidgets.src = 'http://platform.twitter.com/widgets.js'; 	document.getElementsByTagName('head')[0].appendChild(twitterWidgets); 	})(); </p>
+<p> <!-- 	djp.htmlFormedEvent.fire(djp); //--> </p>

@@ -1,0 +1,133 @@
+<p> 孕婦血液透析7年仍堅持生育 - 新浪網 - 新聞 </p>
+<p> var NEWS_NW_SHOW = 1; </p>
+<p> var as_random = as_get_cookie('SINA_GRAN'); if (as_random > 20){ // to remove the SINA_GRAN cookie assigned to channel. to be remove after on 2009/11/1 	as_delete_global_cookie('SINA_GRAN'); 	as_delete_cookie('SINA_GRAN'); 	as_random = as_get_cookie('SINA_GRAN'); }  if (as_random == null) {   as_random = Math.floor(Math.random()*7); } else { 	as_random++; } as_set_global_cookie('SINA_GRAN', as_random);  function as_get_random_seq(count){   return as_random%count; }  	 var as_section='ros'; //all page are ros except match the following var as_curr_url = document.location.href;     as_curr_url= as_curr_url.replace(RegExp("^http://"+location.hostname), '');  var as_exact_match = new Array( "/", "/index.html", "/cgi-bin/nw/realtime.cgi", "/cgi-bin/nw/main.cgi?cat=2", "/cgi-bin/nw/main.cgi?cat=19", "/cgi-bin/nw/international.cgi", "/cgi-bin/nw/china.cgi", "/cgi-bin/nw/main.cgi?cat=15", "/cgi-bin/nw/main.cgi?cat=22", "/cgi-bin/nw/main.cgi?cat=23", "/cgi-bin/vote/index.cgi", "/cgi-bin/nw/special.cgi" );    var as_pattern = new Array( //"/test/regex.html$" );                     for ( var i = 0; i < as_exact_match.length; i++) {   if (as_exact_match[i] == as_curr_url) {   	as_section='index'; break;   } }  if (as_section == "ros"){   for ( var i = 0; i < as_pattern.length; i++) {     if (as_curr_url.match(as_pattern[i])) {   	  as_section='index'; break;     }   } } </p>
+<p> randomstr = new String (Math.random()); randomstr = randomstr.substring(1,8); var temp_url = ''; if (as_section == 'index'){ temp_url = 'http://pixel-hk.pixelinteractivemedia.com/adj.php?ts=' + randomstr + '&sid=303452581750'; } else { temp_url = 'http://pixel-hk.pixelinteractivemedia.com/adj.php?ts=' + randomstr + '&sid=510793731754'; } document.write('<scr'+'ipt language="JavaScript" SRC="'+temp_url+'"></scr'+'ipt>'); </p>
+<p> gen_header_sln_info(); </p>
+<p> 1月17日 16°C </p>
+<p> if (as_flash_installed)	{ document.write('<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="990" height="56" id="news_menu" align="middle"><param name="allowScriptAccess" value="sameDomain" /><param name="allowFullScreen" value="false" /><param name="movie" value="/swf/news_menu_20110322.swf?s=5" /><param name="quality" value="high" /><param name="bgcolor" value="#ffffff" /><embed src="/swf/news_menu_20110322.swf?s=5" quality="high" bgcolor="#ffffff" width="990" height="56" name="news_menu" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" /></object>'); } else	{ gen_backup_navigation(); } </p>
+<p> 中國 </p>
+<p> > </p>
+<p> 國內報章 </p>
+<p> ) </p>
+<p> 代表稱廣東車改後個別領導不願多跑基層 </p>
+<p> 韓寒懸賞2000萬尋找代筆証據 </p>
+<p> 廣東高院院長呼籲誠信立法:騙來騙去經濟會崩潰 </p>
+<p> 平板電腦定位領導專用售價9999元引質疑 </p>
+<p> 佛山市委書記稱要建白領公租房讓年輕人敢結婚 </p>
+<p> 孕婦血液透析7年仍堅持生育 </p>
+<p> 北京延慶交通局查處超載貨車走旁道 </p>
+<p> 廣鐵警方查獲倒票案894起抓獲票販子958名 </p>
+<p> 廣州公布市人大常委會領導分工 </p>
+<p> 北京將投入100億改造30萬戶老舊房屋 </p>
+<p> 廣東省人大代表建議將過勞死列為職業病 </p>
+<p> 孕婦血液透析7年仍堅持生育 </p>
+<p> 2012-01-17 </p>
+<p> 大洋網-廣州日報 </p>
+<p> // resize font size var resizeFontBtn = 'normal'; function resizeContentFont (size, buttonObj)	{ 	 	switch (size)	{ 		case 'large'	:	$('#news_text p').css('font-size', '18px'); 										$('#news_text p').css('line-height', '27px');		 										$('#news_text h3').css('font-size', '20px'); 										break; 		case 'small'	:	$('#news_text p').css('font-size', '12px'); 										$('#news_text p').css('line-height', '20px');	 										$('#news_text h3').css('font-size', '12px'); 										break;		 		case 'normal'	:	$('#news_text p').css('font-size', '15px'); 										$('#news_text p').css('letter-spacing', '1px');	 										$('#news_text p').css('line-height', '22px');		 										$('#news_text h3').css('font-size', '15px'); 										break;																		 		default				: break; 	}  	$('#resizeFontBtn'+resizeFontBtn).removeClass('buttonOn'); 	$(buttonObj).addClass('buttonOn'); 	resizeFontBtn = size;  } // </p>
+<p> 調整字體︰ </p>
+<p> 大 </p>
+<p> 中 </p>
+<p> 小 </p>
+<p> 躺在同濟光華醫院的病床上，23歲的謝煥桂臉上洋溢著笑容。摸著隆起的腹部，寶寶已經8個月大了。病床邊上，兩根輸液管連著謝煥桂的左胳膊，因為尿毒症，她每隔四五天就必須到醫院做一次血液透析。 </p>
+<p> 同濟光華醫院血液淨化中心主任張曉明不無擔憂，“像謝煥桂這樣血透7年，懷孕生產的非常稀少；一不小心，母嬰都會有危險”。然而，謝煥桂堅持要生下來，“有時候寶寶在里面動，我就好開心，我一定要健健康康的把寶寶生下來。”她這麼期盼著。 </p>
+<p> 文/記者汪萬里 </p>
+<p> 每隔5天血液透析一次 </p>
+<p> 昨天中午，記者來到同濟光華醫院血液淨化中心，謝煥桂正躺在病床上進行血液透析。做這樣一次血液透析，大概需要4到5個小時。為此，謝煥桂專門帶了MP3，透析的過程中，她就戴上耳機安心地睡覺。 </p>
+<p> 23歲的謝煥桂10歲時患上了腎炎，一直沒有治愈，慢慢地就發展成了腎功能衰竭，最後變成了尿毒症。從17歲開始，她便不得不依靠血液透析，每隔4~5天就必須到醫院將全身的血液淨化一次。 </p>
+<p> 她堅持要生下寶寶 </p>
+<p> 去年7月，謝煥桂發現自己懷孕了。對于一個尿毒症患者來說，懷孕是一件非常辛苦的事情，“一旦不小心，寶寶就根本保不住”。 </p>
+<p> 謝煥桂告訴記者，“發現我懷孕之後，醫生勸我放棄寶寶，因為我的心髒負荷本來就大，再懷孕的話，到時候很可能會我和寶寶都有危險。” </p>
+<p> 對于醫生的勸解，謝煥桂覺得是“嚇唬”自己，她根本沒往心里去，“知道自己有了寶寶，我就想著一定要把寶寶生下來，然後撫養他長大成人，我根本不怕自己有危險，只要寶寶安全就好”。 </p>
+<p> 到現在，謝煥桂肚子里的寶寶已經8個月，前兩天做B超看到了寶寶的模樣，“長得很像我。”謝煥桂笑得很開心。 </p>
+<p> 同濟光華醫院血液淨化中心張曉明仔細地為謝煥桂檢查了身體。這7年下來，一直都是他為謝煥桂進行血液透析，對謝煥桂的身體狀況，張主任非常熟悉。 </p>
+<p> 張主任介紹，尿毒症患者，血透7年，懷孕之後，寶寶能否健康出生，風險相當大；而且，孕婦的生命也會有很大的危險。“所以，一開始，我是建議她放棄的”。 </p>
+<p> “但是她希望有個自己的孩子，太想當母親。”張主任說，考慮到患者這樣的心理，醫院方面也積極地對她進行治療，“到目前為止，寶寶是安全的”。 </p>
+<p> “如果她能正常生產，母嬰健康，那將是一個奇跡。”張主任說，他也盼著這個奇跡出現。 </p>
+<p> 香港新浪新聞現已開設Facebook專頁，讓你即時掌握本地、中國、國際新聞、財經消息及天氣、交通等生活資訊，與朋友分享！快點到Facebook Like我們的專頁！[ </p>
+<p> 按此 Like </p>
+<p> ] </p>
+<p> (內容由新浪北京提供。未經授權，不得轉載。) </p>
+<p> //<![CDATA[ var sendT = { getHeader : function(){ var g_title=document.getElementById("news_title").innerHTML; var re = /<[^<>]*?font[^<>]*?>/gi; g_title = g_title.replace(re,""); return g_title; }, getFirstImgSrc : function(){ //news_body -> news_content if (document.getElementById("news_body").getElementsByTagName("img")[0] && document.getElementById("news_body").getElementsByTagName("img")[0].width > 100) { //alert(document.getElementById("news_body").getElementsByTagName("img")[0].src); return document.getElementById("news_body").getElementsByTagName("img")[0].src; } else { return null; } } } function _weiboshare(){ (function(s,d,e,r,l,p,t,z,c){ var f='http://service.weibo.com/share/share.php?appkey=1279840328&ralateUid=1756780051&',u=z||d.location,p=['url=',e(u),'&title=',e(sendT.getHeader()),'&source=',e(r),'&sourceUrl=',e(l),'&content=',c||'utf-8','&pic=',e(p||'')].join(''); function a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=615,height=505,left=',(s.width-440)/2,',top=',(s.height-430)/2].join('')))u.href=[f,p].join(''); }; if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else a(); })(screen,document,encodeURIComponent,'新浪新聞','http://news.sina.com.hk/',sendT.getFirstImgSrc(),null,null,null); } //]]> </p>
+<p> .left {float:left;} #contentpageHilite a {color:#000000; text-decoration:none;} </p>
+<p> 新浪新聞 </p>
+<p> eLadies推介 </p>
+<p> 旅遊情報 </p>
+<p> 新浪教育 </p>
+<p> 一週最熱專題 </p>
+<p> 緊貼時事資訊 </p>
+<p> 兩性探求 </p>
+<p> 情愛攻略 </p>
+<p> 士林夜士 </p>
+<p> 回歸地下 </p>
+<p> 小蜜蜂數學題 </p>
+<p> 能10秒答對嗎？ </p>
+<p> 贊助網站 </p>
+<p> 代表稱廣東車改後個別領導不願多跑基層 </p>
+<p> 韓寒懸賞2000萬尋找代筆証據 </p>
+<p> 廣東高院院長呼籲誠信立法:騙來騙去經濟會崩潰 </p>
+<p> 平板電腦定位領導專用售價9999元引質疑 </p>
+<p> 佛山市委書記稱要建白領公租房讓年輕人敢結婚 </p>
+<p> 孕婦血液透析7年仍堅持生育 </p>
+<p> 北京延慶交通局查處超載貨車走旁道 </p>
+<p> 廣鐵警方查獲倒票案894起抓獲票販子958名 </p>
+<p> 廣州公布市人大常委會領導分工 </p>
+<p> 北京將投入100億改造30萬戶老舊房屋 </p>
+<p> 廣東省人大代表建議將過勞死列為職業病 </p>
+<p> randomstr = new String (Math.random()); randomstr = randomstr.substring(1,8); var temp_url = ''; if (as_section == 'index'){ temp_url = 'http://pixel-hk.pixelinteractivemedia.com/adj.php?ts=' + randomstr + '&sid=406439461752'; } else { temp_url = 'http://pixel-hk.pixelinteractivemedia.com/adj.php?ts=' + randomstr + '&sid=284842801756'; } document.write('<scr'+'ipt language="JavaScript" SRC="'+temp_url+'"></scr'+'ipt>'); if (as_section == 'index'){ //document.write('<SCR'+'IPT LANGUAGE="JavaScript" SRC="http://as.sinahk.net/j?s=26&c=59937&w=1&h=1&t=_blank"></SCR'+'IPT>'); //randomstr = new String (Math.random()); //randomstr = randomstr.substring(1,8); //document.write ("<" + "script language='JavaScript' type='text/javascript' src='" + "http://pixel-hk.pixelinteractivemedia.com/adj.php?ts=" + randomstr + "&sid=890468393314" + "'><" + "/script>"); } </p>
+<p> var temp_url = ''; if (as_section == 'index') {  }  else  {    temp_url = 'http://as.sinahk.net/f?s=854&w=300&h=250&t=_blank';    document.write('<scr'+'ipt language="JavaScript" SRC="'+temp_url+'"></scr'+'ipt>'); } </p>
+<p> if (as_section == 'index'){ document.write('<SCR'+'IPT LANGUAGE="JavaScript" SRC="http://as.sinahk.net/f?s=164&w=300&h=60&t=_blank"></SCR'+'IPT>'); } else { document.write('<SCR'+'IPT LANGUAGE="JavaScript" SRC="http://as.sinahk.net/f?s=179&w=300&h=90&t=_blank"></SCR'+'IPT>'); } </p>
+<p> 微博速報 </p>
+<p> 熱門文章 </p>
+<p> 女教師錯愛賤警 </p>
+<p> 蔡英文敗選百余隨從失業 </p>
+<p> 華使館冷漠 脫險港人轟中國之恥 </p>
+<p> 意大利郵輪事故初步認定系船長操作失誤造... </p>
+<p> 曾志偉嫌棄林峯《Chok》 </p>
+<p> 協和號邪事一籮籮 </p>
+<p> 山寨奶粉借屍還魂 </p>
+<p> 鄧肯苦練遠射  馬刺主場全勝 </p>
+<p> 平板電腦維修費貴過新機 </p>
+<p> 蔡英文接班人 兩天王鬥中生代 </p>
+<p> 好友新聞分享 </p>
+<p> 熱門專題 </p>
+<p> 意大利巨輪協和號擱淺 </p>
+<p> 嚴打水貨客 </p>
+<p> D&G辣慶港人 </p>
+<p> 垃圾徵費諮詢 </p>
+<p> 全城天與地 </p>
+<p> 港府填海攻略 </p>
+<p> 惡菌襲政府總部 </p>
+<p> 小一派位校網玩殘家長？ </p>
+<p> 禽流感再襲港 </p>
+<p> 2012加風停不了 </p>
+<p> 熱門搜尋關鍵字 </p>
+<p> 激光矯視 </p>
+<p> 防漏工程 </p>
+<p> 美白 </p>
+<p> 隆胸 </p>
+<p> 升學 </p>
+<p> 旅行 </p>
+<p> 英國升學 </p>
+<p> 會計課程 </p>
+<p> /*<![CDATA[*/ if(typeof SINA=="undefined"||!SINA){SINA={}}SINA.ads=SINA.ads||{};SINA.ads.contentmatch=function(config){this.config=config;this.url="";this.loaded=false;this.loadAds=function(fn){if(this.loaded){return true}this.loaded=true;var ctxtId=this.config["ctxtId"].join("&ctxtId=");this.url="http://"+this.config["hostName"]+"/"+this.config["dataFormat"]+"/?config="+this.config["config"]+"&source="+this.config["source"]+"&ctxtRotate="+this.config["ctxtRotate"]+"&ctxtId="+ctxtId+"&ctxtUrl="+this.config["ctxtUrl"]+"&ctxtCat="+this.config["ctxtCat"]+"&maxCount="+this.config["maxCount"]+"&keywordCharEnc="+this.config["keywordCharEnc"]+"&outputCharEnc="+this.config["outputCharEnc"]+"&cb="+(new Date()).getTime()+"&type="+this.config["type"];var makeAds=function(zSr){var ads=[];var i=6;while(i<zSr.length){ads.push({description:zSr[i++],_unused1:zSr[i++],link:zSr[i++],title:zSr[i++],host:zSr[i++],_unused2:zSr[i++]})}return ads};var loadState=0;var s=document.createElement("script");s.type="text/javascript";s.src=this.url;s.onreadystatechange=function(){loadState++;if(loadState==2&&(this.readyState=="complete"||this.readyState=="loaded")){fn(makeAds(zSr))}};s.onload=function(){if(!loadState){loadState=1;fn(makeAds(zSr))}};setTimeout(function(){document.getElementsByTagName("head")[0].appendChild(s)},1)};this.clone=function(){return new SINA.ads.contentmatch(this.config)}}; var cm = new SINA.ads.contentmatch({ hostName        : "cmh.hk.overture.com", dataFormat        : "js_flat_1_0", config            : "20499789115", source            : "sina_hk_ctxt", ctxtRotate			: 1, ctxtId            : ["news", "biz_service", "exam", "education", "fortune", "finance", "banking", "entertainment", "artist", "technology", "professional", "sports", "outdoors", "culture", "shopping", "property", "credit_card", "game", "toy", "misc", "auto", "hobby", "mobile" ], ctxtUrl            : encodeURIComponent(window.location.href), ctxtCat            : "hk_t1_default_business", type            : "news", maxCount        : "2", keywordCharEnc    : "utf-8-hkscs", outputCharEnc    : "utf-8-hkscs" }); cm.loadAds(function(ads) { var str = ""; for (var i=0; i<ads.length; i++) { str += "<p onclick='window.open(\""+ads[i]["link"]+"\");return false;' align='left' style='cursor:hand;cursor:pointer;padding-bottom:10px;color:#464646;font-size:13px'><a style='font-size:15px;color:#6665CD;text-decoration:none' target='_blank' href="+ads[i]["link"]+"><b>"+ads[i]["title"]+"</b></a><br />"+ads[i]["description"]+"<br /><i>"+ads[i]["host"]+"</i></p>"; } document.getElementById("contentMatch").innerHTML = str; }); /*]]>*/ </p>
+<p> if (as_section == 'index'){   document.write('<scr'+'ipt language="JavaScript" SRC="http://as.sinahk.net/f?s=162&w=100&h=1&t=_blank"></scr'+'ipt>'); } else {   document.write('<scr'+'ipt language="JavaScript" SRC="http://as.sinahk.net/f?s=167&w=100&h=1&t=_blank"></scr'+'ipt>'); } </p>
+<p> if (as_section == 'index'){   document.write('<scr'+'ipt src="http://as.sinahk.net/f?s=169&w=700&h=120&t=_blank" type="text/javascript"></scr'+'ipt>'); } else { document.write('<scr'+'ipt src="http://as.sinahk.net/f?s=175&w=700&h=120&t=_blank" type="text/javascript"></scr'+'ipt>'); } </p>
+<p> 新浪簡介 </p>
+<p> | </p>
+<p> 新浪網尋人 </p>
+<p> | </p>
+<p> 網站導航 </p>
+<p> | </p>
+<p> 意見信箱 </p>
+<p> | </p>
+<p> 廣告查詢 </p>
+<p> | </p>
+<p> 加入會員 </p>
+<p> | </p>
+<p> 隱私權保護 </p>
+<p> Copyright c 2011 SINA.com All Rights Reserved　 版權所有 不得轉載 </p>
+<p> var _comscore = _comscore || [];_comscore.push({ c1: "2", c2: "8275064" });(function() {var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s, el);})(); </p>
+<p> <!-- var _rsCI="hk-Sina"; var _rsCG="0"; var _rsDT=0; var _rsDU=0; var _rsDO=1; var _rsX6=0; var _rsSI=escape(window.location); var _rsLP=location.protocol.indexOf('https')>-1?'https:':'http:'; var _rsRP=escape(document.referrer); var _rsND=_rsLP+'//secure-asia.imrworldwide.com/'; if (parseInt(navigator.appVersion)>=4) { var _rsRD=(new Date()).getTime(); var _rsSE=0; var _rsSV=""; var _rsSM=0; _rsCL='<scr'+'ipt language="JavaScript" type="text/javascript" src="'+_rsND+'v51.js"><\/scr'+'ipt>'; } else { _rsCL='<img src="'+_rsND+'cgi-bin/m?ci='+_rsCI+'&cg='+_rsCG+'&si='+_rsSI+'&rp='+_rsRP+'">'; } document.write(_rsCL); //--> </p>
+<p> var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); </p>
+<p> try { var pageTracker = _gat._getTracker("UA-8288346-1"); pageTracker._trackPageview(); } catch(err) {} </p>
+<p> randomstr = new String (Math.random());randomstr = randomstr.substring(1,8);document.write ("<" + "script language='JavaScript' type='text/javascript' src='" + "http://servedby.wordsnap.asia/adjk.php?ts=" + randomstr + "&amp;sid=623123061754" + "'><" + "/script>"); </p>

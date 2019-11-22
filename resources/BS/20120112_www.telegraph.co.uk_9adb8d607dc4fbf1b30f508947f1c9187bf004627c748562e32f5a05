@@ -1,0 +1,298 @@
+<p> McDonald's: UK's biggest children's book seller - Telegraph </p>
+<p> // name: RoS AdprobeTag 		// created at: 31.05.2011 - 15:21 		// The placement ids to request, max 10 per request, comma delimited, no spaces: 		var wlCus = "10085,10086"; 		var wlOrd = new Date().getTime(); 		try { 		    document.write('<scr' + 'ipt type="text/javascript" language="JavaScript" src="http://req.connect.wunderloop.net/AP/1585/5904/10085/js?cus=' + wlCus + '&ord=' + wlOrd + '"></sc' + 'ript>'); 		} catch(err) { } </p>
+<p> var gs_channels="default";   var gsurl=window.location!=window.top.location?document.referrer:window.location;   document.write('<scr'+'ipt type="text/javascript" src="http://telegraph.grapeshot.co.uk/main/channels.cgi?url='+encodeURIComponent(gsurl)+'"></scr'+'ipt>'); </p>
+<p> var KRUXSetup = {    pubid:"d6498d46-90bb-46f8-8d67-1a8770046960",    site:"Telegraph",     		section: 'Finance', 		subSection: 'News by Sector' 	 }; </p>
+<p> Accessibility links </p>
+<p> Skip to article </p>
+<p> Skip to navigation </p>
+<p> Advertisement </p>
+<p> document.write(tmgAdsBuildAdTag("ban", "940x250,728x90,468x60", "adj", "", 2)); </p>
+<p> Thursday 12 January 2012 </p>
+<p> checkLoginStatus(); </p>
+<p> | </p>
+<p> Subscribe </p>
+<p> Telegraph.co.uk </p>
+<p> Home </p>
+<p> News </p>
+<p> Sport </p>
+<p> Finance </p>
+<p> Comment </p>
+<p> Blogs </p>
+<p> Culture </p>
+<p> Travel </p>
+<p> Lifestyle </p>
+<p> Fashion </p>
+<p> Tech </p>
+<p> Dating </p>
+<p> Offers </p>
+<p> Jobs </p>
+<p> Companies </p>
+<p> Comment </p>
+<p> Personal Finance </p>
+<p> Economics </p>
+<p> Markets </p>
+<p> Your Business </p>
+<p> Olympics Business </p>
+<p> Business Club </p>
+<p> Money Deals </p>
+<p> Banks and Finance </p>
+<p> Media and Telecoms </p>
+<p> Retail </p>
+<p> Transport </p>
+<p> Construction </p>
+<p> Industry </p>
+<p> Energy </p>
+<p> Pharmaceuticals </p>
+<p> Home </p>
+<p> » </p>
+<p> Finance </p>
+<p> » </p>
+<p> News by Sector </p>
+<p> » </p>
+<p> Retail and Consumer </p>
+<p> McDonald's: UK's biggest children's book seller </p>
+<p> McDonald's will briefly become the country's biggest retailer of children's    books, after it decided to replace the usual plastic toy in a Happy Meal    with a book. </p>
+<p> Image </p>
+<p> 1 </p>
+<p> of </p>
+<p> 2 </p>
+<p> Boys eating a McDonald's Happy Meal </p>
+<p> Photo: ALAMY </p>
+<p> Image </p>
+<p> 1 </p>
+<p> of </p>
+<p> 2 </p>
+<p> Boys eating a McDonald's Happy Meal </p>
+<p> Photo: ALAMY </p>
+<p> By </p>
+<p> Harry Wallop </p>
+<p> , </p>
+<p> Retail Editor </p>
+<p> 5:45AM GMT 11 Jan 2012 </p>
+<p> Comments </p>
+<p> The fast food chain will give out 9 million Mudpuddle Farm books, written by    Michael Morpurgo, over the next four weeks, after it signed a tie-up with    the publisher Harper Collins. </p>
+<p> In 2011, sales of children’s books averaged 1.16 million per week – 6.4    million in a four week period – which means that McDonald’s will be handing    out considerably more children’s books than are usually sold in the UK in    the same period. </p>
+<p> A finger puppet, relating to the series of books, will also be included    alongside the Happy Meal. </p>
+<p> McDonald's said a similar book giveaway in Sweden had proved very popular. </p>
+<p> This is the latest attempt by McDonald's to improve its reputation, following    the decision to sell only organic milk, print calories on its menu boards,    and refurbish all of its outlets. </p>
+<p> Related Articles </p>
+<p> McDonald's UK boss is lovin' success </p>
+<p> 23 Oct 2011 </p>
+<p> America's 'healthiest city' to get McDonald's </p>
+<p> 20 Dec 2011 </p>
+<p> McDonald's charges 10 cents for Happy Meal toys </p>
+<p> 01 Dec 2011 </p>
+<p> Ronald McDonald and Happy Meals 'should be banned', say health campaigners </p>
+<p> 19 May 2011 </p>
+<p> US woman sues McDonald's </p>
+<p> 16 Dec 2010 </p>
+<p> Its Happy Meals, which cost about £2.20, have come under fire in the past for    encouraging 'pester power'. Alongside a burger or chicken nuggets, chips and    a drink children are given a toy, usually tied in to the latest cinema    release. </p>
+<p> McDonald's started to include bags of fruit after accusations that the Happy    Meals were unhealthy. </p>
+<p> At the end of last year an American woman filed a lawsuit in California    alleging that McDonald's was luring in her daughter through its distribution    of free toys. </p>
+<p> Literacy campaigners said it did not matter if McDonald's decision was    prompted by a desire to improve its image. Eight out of ten all families    with young children visit the fast-food company at least once over the    course of the year, so there was a strong chance they would end up with a    book. </p>
+<p> Jonathan Douglas, director of The National Literacy Trust, said: “Our recent    research showed that one in three children in this country don’t own a book,    which is extremely concerning as there is a clear link between book    ownership and children's future success in life. We are very supportive of    McDonald’s decision to give families access to popular books, as its size    and scale will be a huge leap towards encouraging more families to read    together.” </p>
+<p> The McDonald’s Happy Meal book promotion will include six titles from the    Mudpuddle Farm range: Mossop’s Last Chance; Albertine, Goose Queen; Pigs    Might Fly!; Jigger’s Day Off; Martians at Mudpuddle Farm; Mum’s the Word. </p>
+<p> (function(d, s, id) { 	  var js, fjs = d.getElementsByTagName(s)[0]; 	  if (d.getElementById(id)) {return;} 	  js = d.createElement(s); js.id = id; 	  js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1&appId=120118784736295"; 	  fjs.parentNode.insertBefore(js, fjs); 	}(document, 'script', 'facebook-jssdk')); </p>
+<p> .at15t_email {display:none !important;} 		ul li.email span.at300bs {display:none !important;} </p>
+<p> // Preload images 		var closeOnHover = new Image(); 		closeOnHover.src = "/template/ver1-0/i/addthis_menu_close_active.gif"; 		var menuTop = new Image(); 		menuTop.src = "/template/ver1-0/i/addthis_menu_top.png"; </p>
+<p> {parsetags: 'explicit'} </p>
+<p> X </p>
+<p> Share & bookmark </p>
+<p> Delicious </p>
+<p> Facebook </p>
+<p> Google </p>
+<p> Messenger </p>
+<p> Reddit </p>
+<p> Twitter </p>
+<p> Digg </p>
+<p> Fark </p>
+<p> LinkedIn </p>
+<p> Google Buzz </p>
+<p> StumbleUpon </p>
+<p> Y! Buzz </p>
+<p> What are these? </p>
+<p> Share: </p>
+<p> Share </p>
+<p> Tweet </p>
+<p> http://www.telegraph.co.uk/finance/newsbysector/retailandconsumer/9005862/McDonalds-UKs-biggest-childrens-book-seller.html </p>
+<p> Telegraph </p>
+<p> Retail and Consumer </p>
+<p> Finance » </p>
+<p> News by Sector » </p>
+<p> Business Latest News » </p>
+<p> Food and Drink News » </p>
+<p> Books » </p>
+<p> In Retail and Consumer </p>
+<p> Portas: new magnets needed on high street </p>
+<p> Graphic: decline of the British high street </p>
+<p> Britain's top ten brands – in pictures </p>
+<p> The clothes generating Burberry's profits </p>
+<p> How much food do Britons really buy online? – in graphs </p>
+<p> X </p>
+<p> Share & bookmark </p>
+<p> Delicious </p>
+<p> Facebook </p>
+<p> Google </p>
+<p> Messenger </p>
+<p> Reddit </p>
+<p> Twitter </p>
+<p> Digg </p>
+<p> Fark </p>
+<p> LinkedIn </p>
+<p> Google Buzz </p>
+<p> StumbleUpon </p>
+<p> Y! Buzz </p>
+<p> What are these? </p>
+<p> Share: </p>
+<p> Tweet </p>
+<p> gapi.plusone.go('googlePlusOneButton'); </p>
+<p> var OB_permalink= 'http://www.telegraph.co.uk/finance/newsbysector/retailandconsumer/9005862/McDonalds-UKs-biggest-childrens-book-seller.html'; 							 							var OB_Template="telegraph"; 							var OB_widgetId= 'AR_1'; 							var OB_langJS ='http://widgets.outbrain.com/lang_en.js'; 							if ( typeof(OB_Script)!='undefined' ) 								OutbrainStart(); 							else { 								var OB_Script = true; 								var str = "<script src='http://widgets.outbrain.com/outbrainWidget.js' type='text/javascript'></"+"script>"; 								document.write(str); 							} </p>
+<p> Advertisement </p>
+<p> <!-- 			google_ad_client = 'ca-telegraph_uk_300x250'; 			google_ad_channel = 'finance'; 			google_max_num_ads = '3'; 			google_ad_output="js"; 			google_ad_type="text"; 			google_language="en"; 			google_encoding="utf8"; 			google_safe="high"; 			 			 			 							google_hints="newsbysector,retailandconsumer";  						  			/* Google Ad Functions */ 			function google_ad_request_done(google_ads) { 				var googleAdHeadText="Ads by Google"; 				var googleAdHeadLink="https://www.google.com/adsense/support/bin/request.py?contact=abg_afc&gl=US&hideleadgen=1"; 				var google_max_num_ads = '3'; 				if(google_ads.length==0){ 					return; 				} 				var s="<div id='googleHead'><div class='headerOne styleTen'><p><span><a target=\"_blank\" title=\"About Google Ads\" href=\""+googleAdHeadLink+"\">"; 				s+=googleAdHeadText+"</a></span></p></div></div>"; 				s+="<div id='google-ads-container-inner'><div class='googleAdText'><ul class='googleAdText'>"; 				if (google_ads[0].type=="text") { 					for(i=0;i<google_ads.length;i++){ 					 					if (i == (google_max_num_ads - 1)){ 						s+="<li class=\"last\">"; 					}  					else if (i == 0) { 						s+="<li class=\"first\">"; 					} 					else { 						s+="<li>"; 					} 						 						s+='<h4><a target="_TOP" href="'+google_ads[i].url+'">'+google_ads[i].line1+"</a></h4>"; 						s+="<p>"+google_ads[i].line2+" "+google_ads[i].line3+"</p>"; 						s+='<p><a target="_TOP" href="'+google_ads[i].url+'">'+google_ads[i].visible_url+"</a></p>"; 						s+="</li>" 						} 					} 				s+="</ul><div class=\"cl\"><!-- --></div><span class=\"hl-brackets1\"><!-- --></span>"; 				s+="<span class=\"hl-brackets2\"><!-- --></span><span class=\"hl-brackets3\"><!-- --></span>"; 				s+="<span class=\"hl-brackets4\"><!-- --></span></div></div>"; 				document.getElementById("google-ads-container").innerHTML=s;  				// Slightly hacky, but if we're in a section then the container div needs a different class 				if (google_max_num_ads == 4) { 					document.getElementById("google-ads-container").parentNode.className = "googleadssection"; 				} 				 			}						 		// --> </p>
+<p> telegraphuk </p>
+<p> var disqus_title = "McDonald's: UK's biggest children's book seller"; 		var disqus_identifier = "9005862"; 		var disqus_developer = 1; </p>
+<p> Please enable JavaScript to view the </p>
+<p> comments powered by Disqus. </p>
+<p> blog comments powered by </p>
+<p> Disqus </p>
+<p> document.write(tmgAdsBuildAdTag("pp", "1x1", "adj", "", 2)); </p>
+<p> Advertisement </p>
+<p> document.write(tmgAdsBuildAdTag("mpu", "300x250", "adj", "", 2)); </p>
+<p> Market Data  » </p>
+<p> Advertisement </p>
+<p> document.write(tmgAdsBuildAdTag("yell", "300x150", "adj", "", 2)); </p>
+<p> Finance Most Viewed </p>
+<p> TODAY </p>
+<p> PAST WEEK </p>
+<p> PAST MONTH </p>
+<p> An independent Scotland would struggle for AAA rating </p>
+<p> Debt crisis: live </p>
+<p> Tesco loses £4bn of its value after warning on profits </p>
+<p> RBS to cut 3,500 jobs as it shrinks investment bank </p>
+<p> Wonga stops targeting students after Twitter protests </p>
+<p> Debt crisis: as it happened - January 6, 2011 </p>
+<p> Italian ski resort lays bare tax evasion </p>
+<p> Debt crisis: as it happened, January 9, 2011 </p>
+<p> Vale's megaship sails to China and into the record books </p>
+<p> Debt crisis: as it happened - January 5, 2012 </p>
+<p> China's epic hangover begins </p>
+<p> Debt crisis: as it happened December 15, 2011 </p>
+<p> Debt crisis: as it happened December 14, 2011 </p>
+<p> Ambrose Evans-Pritchard: 2012 could be the year Germany lets the euro die </p>
+<p> Debt crisis: as it happened December 16, 2011 </p>
+<p> Advertisement </p>
+<p> document.write(tmgAdsBuildAdTag("hpg,sks,skl", "300x600,120x600,160x600", "adj", "", 2)); </p>
+<p> Featured Advertising </p>
+<p> Retail Jobs </p>
+<p> FMCG Jobs </p>
+<p> Shopping </p>
+<p> Loading </p>
+<p> var puffs_8254875 = new Array(); </p>
+<p> var thisLink = "http://bit.ly/fDn6K5?WT.ac=8288480"; 								    puffs_8254875.push({'id':'8288480', 'headline':'Attract the ideal candidate', 'bodyText':'Advertise your vacancies with Telegraph Jobs.', 'link':thisLink, 'imageUrl':'http://i.telegraph.co.uk/multimedia/archive/01813/tele_jobs_1813577a.jpg', 'weight':'1'}); </p>
+<p> Find Retail Sales jobs nationwide </p>
+<p> var puffArray = eval('puffs_' + '8254875'); 		    var guid = "777373"; 		    var headline = "Sales Director SD/745/15";  		    var description = "UK&nbsp;&pound;85000"; 		     		    		var link = "http://jobs.telegraph.co.uk/job/777373/permanent/uk/sales-director-sd-745-15-job-vacancy.aspx?FromRSSFeed=-1012&WT.ac=777373"; 		    	 		    var imageUrl = "http://i.telegraph.co.uk/telegraph/multimedia/jobs/images/643CA70F-BCF4-4C58-9A37-46A42236F76E_140_87-v2.jpg";  		    var adWeight = "1";  		     		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight}); </p>
+<p> var puffArray = eval('puffs_' + '8254875'); 		    var guid = "777377"; 		    var headline = "Sales and Marketing Director SMD/745/23";  		    var description = "UK&nbsp;&pound;90000"; 		     		    		var link = "http://jobs.telegraph.co.uk/job/777377/permanent/uk/sales-and-marketing-director-smd-745-23-job-vacancy.aspx?FromRSSFeed=-1012&WT.ac=777377"; 		    	 		    var imageUrl = "http://i.telegraph.co.uk/telegraph/multimedia/jobs/images/643CA70F-BCF4-4C58-9A37-46A42236F76E_140_87-v2.jpg";  		    var adWeight = "1";  		     		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight}); </p>
+<p> var puffArray = eval('puffs_' + '8254875'); 		    var guid = "777378"; 		    var headline = "Commercial Director CDir/745/23";  		    var description = "UK&nbsp;&pound;90000"; 		     		    		var link = "http://jobs.telegraph.co.uk/job/777378/permanent/uk/commercial-director-cdir-745-23-job-vacancy.aspx?FromRSSFeed=-1012&WT.ac=777378"; 		    	 		    var imageUrl = "http://i.telegraph.co.uk/telegraph/multimedia/jobs/images/643CA70F-BCF4-4C58-9A37-46A42236F76E_140_87-v2.jpg";  		    var adWeight = "1";  		     		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight}); </p>
+<p> var puffArray = eval('puffs_' + '8254875'); 		    var guid = "777579"; 		    var headline = "Non-Executive Director NED/324/22";  		    var description = "South &nbsp;On Application"; 		     		    		var link = "http://jobs.telegraph.co.uk/job/777579/permanent/south/non-executive-director-ned-324-22-job-vacancy.aspx?FromRSSFeed=-1012&WT.ac=777579"; 		    	 		    var imageUrl = "http://i.telegraph.co.uk/telegraph/multimedia/jobs/images/643CA70F-BCF4-4C58-9A37-46A42236F76E_140_87-v2.jpg";  		    var adWeight = "1";  		     		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight}); </p>
+<p> var puffArray = eval('puffs_' + '8254875'); 		    var guid = "777980"; 		    var headline = "AT&T RETAIL SALES OPPORTUNITIES!";  		    var description = "West Mifflin, Pennsylvania&nbsp;On Application"; 		     		    		var link = "http://jobs.telegraph.co.uk/job/777980/permanent/west-mifflin-pennsylvania/at-t-retail-sales-opportunities~21-job-vacancy.aspx?FromRSSFeed=-1012&WT.ac=777980"; 		    	 		    var imageUrl = "http://i.telegraph.co.uk/telegraph/multimedia/jobs/images/TGJobs-logo_140x87-v2.gif";  		    var adWeight = "1";  		     		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight}); </p>
+<p> var puffArray = eval('puffs_' + '8254875'); 		    var guid = "778361"; 		    var headline = "Marketing Director";  		    var description = "London&nbsp;On Application"; 		     		    		var link = "http://jobs.telegraph.co.uk/job/778361/permanent/london/marketing-director-job-vacancy.aspx?FromRSSFeed=-1012&WT.ac=778361"; 		    	 		    var imageUrl = "http://i.telegraph.co.uk/telegraph/multimedia/jobs/images/C4AAFEFC-7EB2-4BDB-88A9-8684ADC6B38D_140_87-v2.jpg";  		    var adWeight = "1";  		     		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight}); </p>
+<p> var puffArray = eval('puffs_' + '8254875'); 		    var guid = "778441"; 		    var headline = "Retail Director RD/277/10";  		    var description = "UK&nbsp;&pound;120000"; 		     		    		var link = "http://jobs.telegraph.co.uk/job/778441/permanent/uk/retail-director-rd-277-10-job-vacancy.aspx?FromRSSFeed=-1012&WT.ac=778441"; 		    	 		    var imageUrl = "http://i.telegraph.co.uk/telegraph/multimedia/jobs/images/643CA70F-BCF4-4C58-9A37-46A42236F76E_140_87-v2.jpg";  		    var adWeight = "1";  		     		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight}); </p>
+<p> var puffArray = eval('puffs_' + '8254875'); 		    var guid = "753570"; 		    var headline = "Managing Director - Premium Food Retail";  		    var description = "Middle East&nbsp;&pound;100000 - &pound;150000"; 		     		    		var link = "http://jobs.telegraph.co.uk/job/753570/permanent/middle-east/managing-director-premium-food-retail-job-vacancy.aspx?FromRSSFeed=-1012&WT.ac=753570"; 		    	 		    var imageUrl = "http://i.telegraph.co.uk/telegraph/multimedia/jobs/images/D60A68F0-B65F-4150-A307-98715C2C45B5_140_87-v2.jpg";  		    var adWeight = "1";  		     		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight}); </p>
+<p> var puffArray = eval('puffs_' + '8254875'); 		    var guid = "753614"; 		    var headline = "Head of Fashion Brands - Retail Fashion ";  		    var description = "Europe&nbsp;&pound;70000"; 		     		    		var link = "http://jobs.telegraph.co.uk/job/753614/permanent/europe/head-of-fashion-brands-retail-fashion-job-vacancy.aspx?FromRSSFeed=-1012&WT.ac=753614"; 		    	 		    var imageUrl = "http://i.telegraph.co.uk/telegraph/multimedia/jobs/images/D60A68F0-B65F-4150-A307-98715C2C45B5_140_87-v2.jpg";  		    var adWeight = "1";  		     		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight}); </p>
+<p> var noOfPuffs = 2; var lastClass = "";  if(puffs_8254875.length > noOfPuffs) {     for(var i=0; i < noOfPuffs; i++) {         	 var randomIndex =  selectRandomPuffIndex(puffs_8254875);                   if(i == noOfPuffs-1) { lastClass=" last"; }          append2LayoutPuffs(8254875, randomIndex, true);          puffs_8254875.splice(randomIndex, randomIndex+1);               }    } else {     for(var i=0; i<puffs_8254875.length; i++) {     	if(i == noOfPuffs-1) { lastClass=" last"; }         append2LayoutPuffs(8254875, i, true);     }        } </p>
+<p> var puffs_8254874 = new Array(); </p>
+<p> var puffArray = eval('puffs_' + '8254874'); 		    var guid = "773278"; 		    var headline = "Senior Product Manager";  		    var description = "Cheshire&nbsp;&pound;60000"; 		     		    		var link = "http://jobs.telegraph.co.uk/job/773278/permanent/cheshire/senior-product-manager-job-vacancy.aspx?FromRSSFeed=-1013&WT.ac=773278"; 		    	 		    var imageUrl = "http://i.telegraph.co.uk/telegraph/multimedia/jobs/images/8F65F07E-7624-4AAC-A863-3BE594954C75_140_87-v2.jpg";  		    var adWeight = "3";  		     		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight}); </p>
+<p> var puffArray = eval('puffs_' + '8254874'); 		    var guid = "770409"; 		    var headline = "HEAD OF TECHNICAL SERVICES";  		    var description = "Preferably Midlands but flexible.&nbsp;On Application"; 		     		    		var link = "http://jobs.telegraph.co.uk/job/770409/permanent/preferably-midlands-but-flexible/head-of-technical-services-job-vacancy.aspx?FromRSSFeed=-1013&WT.ac=770409"; 		    	 		    var imageUrl = "http://i.telegraph.co.uk/telegraph/multimedia/jobs/images/77A9A3E3-083E-4121-9559-3CFE0D508958_140_87-v2.jpg";  		    var adWeight = "3";  		     		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight}); </p>
+<p> var puffArray = eval('puffs_' + '8254874'); 		    var guid = "783101"; 		    var headline = "Value Manager";  		    var description = "Holborn&nbsp;On Application"; 		     		    		var link = "http://jobs.telegraph.co.uk/job/783101/permanent/holborn/value-manager-job-vacancy.aspx?FromRSSFeed=-1013&WT.ac=783101"; 		    	 		    var imageUrl = "http://i.telegraph.co.uk/telegraph/multimedia/jobs/images/E25DAC64-7B1B-432F-9752-2D3232A89A37_140_87-v2.jpg";  		    var adWeight = "3";  		     		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight}); </p>
+<p> var puffArray = eval('puffs_' + '8254874'); 		    var guid = "783103"; 		    var headline = "Feasibility Project Manager";  		    var description = "Holborn&nbsp;On Application"; 		     		    		var link = "http://jobs.telegraph.co.uk/job/783103/permanent/holborn/feasibility-project-manager-job-vacancy.aspx?FromRSSFeed=-1013&WT.ac=783103"; 		    	 		    var imageUrl = "http://i.telegraph.co.uk/telegraph/multimedia/jobs/images/E25DAC64-7B1B-432F-9752-2D3232A89A37_140_87-v2.jpg";  		    var adWeight = "3";  		     		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight}); </p>
+<p> var puffArray = eval('puffs_' + '8254874'); 		    var guid = "777373"; 		    var headline = "Sales Director SD/745/15";  		    var description = "UK&nbsp;&pound;85000"; 		     		    		var link = "http://jobs.telegraph.co.uk/job/777373/permanent/uk/sales-director-sd-745-15-job-vacancy.aspx?FromRSSFeed=-1013&WT.ac=777373"; 		    	 		    var imageUrl = "http://i.telegraph.co.uk/telegraph/multimedia/jobs/images/643CA70F-BCF4-4C58-9A37-46A42236F76E_140_87-v2.jpg";  		    var adWeight = "1";  		     		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight}); </p>
+<p> var puffArray = eval('puffs_' + '8254874'); 		    var guid = "777377"; 		    var headline = "Sales and Marketing Director SMD/745/23";  		    var description = "UK&nbsp;&pound;90000"; 		     		    		var link = "http://jobs.telegraph.co.uk/job/777377/permanent/uk/sales-and-marketing-director-smd-745-23-job-vacancy.aspx?FromRSSFeed=-1013&WT.ac=777377"; 		    	 		    var imageUrl = "http://i.telegraph.co.uk/telegraph/multimedia/jobs/images/643CA70F-BCF4-4C58-9A37-46A42236F76E_140_87-v2.jpg";  		    var adWeight = "1";  		     		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight}); </p>
+<p> var puffArray = eval('puffs_' + '8254874'); 		    var guid = "777378"; 		    var headline = "Commercial Director CDir/745/23";  		    var description = "UK&nbsp;&pound;90000"; 		     		    		var link = "http://jobs.telegraph.co.uk/job/777378/permanent/uk/commercial-director-cdir-745-23-job-vacancy.aspx?FromRSSFeed=-1013&WT.ac=777378"; 		    	 		    var imageUrl = "http://i.telegraph.co.uk/telegraph/multimedia/jobs/images/643CA70F-BCF4-4C58-9A37-46A42236F76E_140_87-v2.jpg";  		    var adWeight = "1";  		     		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight}); </p>
+<p> var puffArray = eval('puffs_' + '8254874'); 		    var guid = "777727"; 		    var headline = "Human Resources Director  HRD/745/27";  		    var description = "UK&nbsp;&pound;120000"; 		     		    		var link = "http://jobs.telegraph.co.uk/job/777727/permanent/uk/human-resources-director-hrd-745-27-job-vacancy.aspx?FromRSSFeed=-1013&WT.ac=777727"; 		    	 		    var imageUrl = "http://i.telegraph.co.uk/telegraph/multimedia/jobs/images/643CA70F-BCF4-4C58-9A37-46A42236F76E_140_87-v2.jpg";  		    var adWeight = "1";  		     		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight}); </p>
+<p> var puffArray = eval('puffs_' + '8254874'); 		    var guid = "777731"; 		    var headline = "Sales and Marketing Director SMD/745/28";  		    var description = "London&nbsp;&pound;80000"; 		     		    		var link = "http://jobs.telegraph.co.uk/job/777731/permanent/london/sales-and-marketing-director-smd-745-28-job-vacancy.aspx?FromRSSFeed=-1013&WT.ac=777731"; 		    	 		    var imageUrl = "http://i.telegraph.co.uk/telegraph/multimedia/jobs/images/643CA70F-BCF4-4C58-9A37-46A42236F76E_140_87-v2.jpg";  		    var adWeight = "1";  		     		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight}); </p>
+<p> var noOfPuffs = 2; var lastClass = "";  if(puffs_8254874.length > noOfPuffs) {     for(var i=0; i < noOfPuffs; i++) {         	 var randomIndex =  selectRandomPuffIndex(puffs_8254874);                   if(i == noOfPuffs-1) { lastClass=" last"; }          append2LayoutPuffs(8254874, randomIndex, true);          puffs_8254874.splice(randomIndex, randomIndex+1);               }    } else {     for(var i=0; i<puffs_8254874.length; i++) {     	if(i == noOfPuffs-1) { lastClass=" last"; }         append2LayoutPuffs(8254874, i, true);     }        } </p>
+<p> var puffs_8120654 = new Array(); </p>
+<p> var puffArray = eval('puffs_' + '8120654'); 		    var guid = ""; 		    var headline = "FREE personalised ceramic mug";  		    var description = "Create one of our ceramic mugs for FREE.  With high-quality, full-colour printing and 36 designs to choose from these mugs make a great gift."; 		     		    		var link = "http://featuredadvertising.telegraph.co.uk/c/89b6cc84-fd10-407e-afa6-752bb98d6f29?WT.ac="; 		    	 		    var imageUrl = "http://featuredadvertising.telegraph.co.uk/logos/bf/df/bf9a2151-f2bc-44cd-83d4-e399d6f2d7df.jpg";  		    var adWeight = "3";  		     		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight}); </p>
+<p> var puffArray = eval('puffs_' + '8120654'); 		    var guid = ""; 		    var headline = "50% off Photo Books";  		    var description = "Photo Books are the perfect way to cherish those special memories.  Choose from a variety of premium designs, covers and custom layouts."; 		     		    		var link = "http://featuredadvertising.telegraph.co.uk/c/edb613a0-30ad-4e83-b60b-d1253db562f3?WT.ac="; 		    	 		    var imageUrl = "http://featuredadvertising.telegraph.co.uk/logos/66/2c/665e8dad-3bc7-4c80-a5a0-96c1d6d0d72c.jpg";  		    var adWeight = "3";  		     		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight}); </p>
+<p> var puffArray = eval('puffs_' + '8120654'); 		    var guid = ""; 		    var headline = "FREE 2012 Photo Wall Calendar";  		    var description = "Choose from a variety of themed designs, upload your photos and customise the logos and text - it's as simple as that. Vistaprint will do the rest."; 		     		    		var link = "http://featuredadvertising.telegraph.co.uk/c/8f3de0da-de81-44d7-b250-b20f75d1e7ca?WT.ac="; 		    	 		    var imageUrl = "http://featuredadvertising.telegraph.co.uk/logos/50/d3/506eb3f8-e94c-4c4a-9e34-507224d475d3.jpg";  		    var adWeight = "3";  		     		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight}); </p>
+<p> var puffArray = eval('puffs_' + '8120654'); 		    var guid = ""; 		    var headline = "Save 90% on your lighting power bill!";  		    var description = "4 x 5.5W Philips LED GU10 Spots just &pound;85 (free shipping). Best retrofit for 50W halogen bulbs"; 		     		    		var link = "http://featuredadvertising.telegraph.co.uk/c/f11678ca-c394-4160-9afc-8c92e81ee3f5?WT.ac="; 		    	 		    var imageUrl = "http://featuredadvertising.telegraph.co.uk/logos/af/32/afbb359e-2e29-4d5b-a445-89da489f8732.jpg";  		    var adWeight = "3";  		     		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight}); </p>
+<p> var puffArray = eval('puffs_' + '8120654'); 		    var guid = ""; 		    var headline = "Are you paying too much for Health Insurance?";  		    var description = "We are able, in most cases to transfer you to a more suitable policy whilst still providing cover for conditions that you may have had treatment for."; 		     		    		var link = "http://featuredadvertising.telegraph.co.uk/c/cc5c43c9-8afb-4c13-815f-c642b74f0fad?WT.ac="; 		    	 		    var imageUrl = "http://featuredadvertising.telegraph.co.uk/logos/ab/45/ab73845e-6ca8-40a0-b16b-eceb06e08645.jpg";  		    var adWeight = "3";  		     		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight}); </p>
+<p> var puffArray = eval('puffs_' + '8120654'); 		    var guid = ""; 		    var headline = "FREE personalised 100% cotton T-shirt";  		    var description = "These T-shirts make excellent gifts for friends and love ones. You can create your own design or upload a photo. Start creating your FREE T-shirt now."; 		     		    		var link = "http://featuredadvertising.telegraph.co.uk/c/f9ee73a7-e56b-409f-af04-e9d9445ba24c?WT.ac="; 		    	 		    var imageUrl = "http://featuredadvertising.telegraph.co.uk/logos/d4/86/d40d8ca7-0ce0-4731-8413-69765a29b586.jpg";  		    var adWeight = "3";  		     		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight}); </p>
+<p> var puffArray = eval('puffs_' + '8120654'); 		    var guid = ""; 		    var headline = "FREE 2012 Photo Wall Calendar";  		    var description = "Design and create your own FREE 2012 photo calendar today!"; 		     		    		var link = "http://featuredadvertising.telegraph.co.uk/c/8835f3b8-aa16-4cee-9ca7-aacf1c1966da?WT.ac="; 		    	 		    var imageUrl = "http://featuredadvertising.telegraph.co.uk/logos/fd/a0/fdd84184-339f-447e-99c1-107ac5bd6aa0.jpg";  		    var adWeight = "3";  		     		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight}); </p>
+<p> var noOfPuffs = 2; var lastClass = "";  if(puffs_8120654.length > noOfPuffs) {     for(var i=0; i < noOfPuffs; i++) {         	 var randomIndex =  selectRandomPuffIndex(puffs_8120654);                   if(i == noOfPuffs-1) { lastClass=" last"; }          append2LayoutPuffs(8120654, randomIndex, true);          puffs_8120654.splice(randomIndex, randomIndex+1);               }    } else {     for(var i=0; i<puffs_8120654.length; i++) {     	if(i == noOfPuffs-1) { lastClass=" last"; }         append2LayoutPuffs(8120654, i, true);     }        } </p>
+<p> MORE FROM TELEGRAPH.CO.UK </p>
+<p> TELEGRAPH PROMOTIONS </p>
+<p> Learn to eat, exercise and feel better with Matt Roberts New Year fitness plan </p>
+<p> View </p>
+<p> LOOK YOUNGER FOR LONGER </p>
+<p> Olay Professional panel: Couture bridal designer Phillipa Lepley </p>
+<p> View </p>
+<p> MICROSOFT OFFICE 365 </p>
+<p> Win an IT system that delivers: Microsoft Office 365 </p>
+<p> View </p>
+<p> gas and electricity prices </p>
+<p> Compare all energy tariffs to find the cheapest gas and electricity prices near you </p>
+<p> View </p>
+<p> Back to top </p>
+<p> Hot Topics </p>
+<p> Scottish Politics </p>
+<p> Financial Crisis </p>
+<p> Iran </p>
+<p> US Election 2012 </p>
+<p> CES 2012 </p>
+<p> Football </p>
+<p> Snow and Ski </p>
+<p> More... </p>
+<p> News </p>
+<p> Politics </p>
+<p> World News </p>
+<p> Obituaries </p>
+<p> Travel </p>
+<p> Health </p>
+<p> Jobs </p>
+<p> Sport </p>
+<p> Football </p>
+<p> Cricket </p>
+<p> Fantasy Football </p>
+<p> Culture </p>
+<p> Motoring </p>
+<p> Dating </p>
+<p> Finance </p>
+<p> Personal Finance </p>
+<p> Economics </p>
+<p> Markets </p>
+<p> Fashion </p>
+<p> Property </p>
+<p> Crossword </p>
+<p> Comment </p>
+<p> Blogs </p>
+<p> My Telegraph </p>
+<p> Letters </p>
+<p> Technology </p>
+<p> Gardening </p>
+<p> Telegraph Journalists </p>
+<p> Contact Us </p>
+<p> Privacy and Cookies </p>
+<p> Advertising </p>
+<p> A to Z </p>
+<p> Tickets </p>
+<p> Announcements </p>
+<p> Reader Prints </p>
+<p> Follow Us </p>
+<p> Apps </p>
+<p> Epaper </p>
+<p> Expat </p>
+<p> Promotions </p>
+<p> Subscriber </p>
+<p> Syndication </p>
+<p> © Copyright of Telegraph Media Group Limited 2012 </p>
+<p> Terms and Conditions </p>
+<p> Today's News </p>
+<p> Archive </p>
+<p> Style Book </p>
+<p> Weather Forecast </p>
+<p> DM_addToLoc("Site",escape("Telegraph"));  DM_addToLoc("Level1",escape("Finance")); 	 DM_addToLoc("Level2",escape("News%20by%20Sector")); 	 DM_addToLoc("Level3",escape("Retail%20and%20Consumer")); 	 DM_tag(); </p>
+<p> http://www.telegraph.co.uk/finance/newsbysector/retailandconsumer/9005862/McDonalds-UKs-biggest-childrens-book-seller.html </p>
+<p> (function() { 				var links = $("a[href*='disqus_thread']"); 				var query = ""; 				var blogQuery = ""; 				var normal = new Array(); 				var normalCounts = new Array(); 				var blog = new Array(); 				var blogCounts = new Array(); 				 				for(var i = 0; i < links.length; i++) { 					if (links[i].getAttribute('dsqid')) { 						var dsqid = links[i].getAttribute('dsqid'); 						if (links[i].className == 'dsqblog') { blogQuery += 'dsqid' + i + '=' + dsqid + '&'; } else { query += 'dsqid' + i + '=' + dsqid + '&'; } 					}	 				} 				if (query.length != "" && blogQuery.length != "") { 					$("a[href*='disqus_thread']") && $("a.dsqblog").each(function(i) { 						blog[i] = $(this).attr("href"); 						$(this).attr("href","blog_link"); 					}); 					loadScript("http://telegraphuk.disqus.com/get_num_replies_from_dsqid.js?" + query, function() { 						$("a[href*='disqus_thread']").not(".dsqblog").each(function(i) { 							normal[i] = $(this).attr("href"); 							normalCounts[i] = $(this).html(); 							$(this).attr("href","normal_link"); 						}); 						 						$("a[href*='blog_link']").each(function(i) { $(this).attr("href",blog[i]); }); 						 						loadScript("http://telegraphblogs.disqus.com/get_num_replies_from_dsqid.js?" + blogQuery, function() { 							$("a[href*='normal_link']").each(function(i) { $(this).attr("href",normal[i]); }); 						});	 					}); 				} else { 					document.write('<script charset="utf-8" type="text/javascript" src="http://telegraphuk.disqus.com/get_num_replies_from_dsqid.js?' + query + '"></' + 'script>'); 				} 			})(); </p>
+<p> var pvar = { cid: "uk-101665h", content: "0", server: "secure-uk" }; 	 var feat = { surveys_enabled: 1 }; 	 var trac = nol_t(pvar, feat); 	 trac.record().post().do_sample(); </p>
+<p> document.write(tmgAdsBuildAdTag("ftr", "1x1", "adj", "", 2)); </p>

@@ -1,0 +1,293 @@
+<p> No need for panic over bird flu, say experts </p>
+<p> var d_names = new Array("Sunday", "Monday", "Tuesday","Wednesday", "Thursday", "Friday", "Saturday"); var m_names = new Array("January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December");  function getURLParam(strParamName) {     var strReturn = "";     var strHref = window.location.href;        if ( strHref.indexOf("?") > -1 ){             var strQueryString = strHref.substr(strHref.indexOf("?"));             var aQueryString = strQueryString.split("&");             for ( var iParam = 0; iParam < aQueryString.length; iParam++ ){                     if (aQueryString[iParam].indexOf(strParamName + "=") > -1 ){                             var aParam = aQueryString[iParam].split("=");                             strReturn = aParam[1];                             break;                     }             }     }     return strReturn; }  function generateNavBar(type){ 	var nav_item_str="";  	for(i=1;i<type.length;i++){ 	  if (type[i].Class == ""){ 			if(type[i].Name == "School Pocket Money Fund") 			{ 				nav_item_str=nav_item_str+'<li> <a href="'+type[i].Link+'" style="height:28px; line-height:125%;">'+type[i].Name+'</a></li>'; 			} 			else 			{ 				nav_item_str=nav_item_str+'<li> <a href="'+type[i].Link+'">'+type[i].Name+'</a></li>'; 			}   		}else { 	  		nav_item_str=nav_item_str+'<li class="'+type[i].Class+'"> <a href="'+type[i].Link+'">'+type[i].Name+'</a></li>';   		} 	} 	 	var nav_item_header=""; 	 	if (type[0].Link!=""){ 		nav_item_header='<a href="'+type[0].Link+'" class="drop">'+type[0].Name+'</a>'; 		 	}else { 		nav_item_header='<a class="drop">'+type[0].Name+'</a>'; 	} 	 var nav_str=nav_item_header+'<div class="dropdown_1column"><div class="col_1"><ul class="greybox">'+nav_item_str+'</ul></div></div>';            return nav_str; }  function generateFooterItem(type){ 	var nav_footer_item = ""; 	var last_item_count=type.length; 	 	for(i=0;i<last_item_count;i++){ 	 	    if (!type[i].footer) 	      continue; 	     	      if (i > 0){ 			nav_footer_item=nav_footer_item+" &#8226; "; 		} 	         		if (type[i].Link!=""){ 			nav_footer_item=nav_footer_item+'<a href="'+type[i].Link+'">'+type[i].Name+'</a>'; 		}else { 			 			nav_footer_item=nav_footer_item+'<a >'+type[i].Name+'</a>'; 		} 		 		if (i==0){ 			nav_footer_item=nav_footer_item+": "; 		} 		 	} 	 nav_footer_item=nav_footer_item+"<br />"; 	  	 return nav_footer_item; }  function chkSearch(searchfrm) { var inputString = searchfrm.q.value;  if(inputString=="Search StraitsTimes.com"){ alert("Please do not leave your first search field empty."); return false; } else {  var messageIndex = "STI"; var selectedValue = messageIndex; searchfrm.method ="POST"; searchfrm.action ="/vgn-ext-templating/sti/SearchPage.jsp"; searchfrm.submit();  }  } function getCommenDate(){ 	 var d = new Date(); 	 d.setDate(d.getDate()-1); 	 var mth=d.getMonth()+1; 	 if (mth < 10) 		 mth="0"+mth; 	 var date = d.getDate(); 	 if(date < 10) 		date = "0" + date; 	 return (d.getFullYear()+""+mth+""+date+"T00:00:00"); }  var vgnpdateparam=getURLParam('vgnpdate'); var vgnpreviewparam=getURLParam('vgnpreview'); var homeurl="http://www.straitstimes.com"; </p>
+<p> var pageinfo = {}; 			pageinfo.hidden_displayMastDate="Tuesday, 17 January 2012 ";		 				pageinfo.hidden_launchDate="20120117"; 				pageinfo.hidden_section_name='Breaking News';			 				pageinfo.url='http://www.straitstimes.com/BreakingNews/Singapore/Story/STIStory_756537.html';			 					pageinfo.p_COTag="STI-BREAK"; 	    	    pageinfo.articleid="756537"; 		    	    		pageinfo.GALaunchDate="January 17, 2012 Tuesday ";     	    	    		pageinfo.facebookAbstract="The H5N1 virus may have claimed two lives in China and Indonesia but there is no cause for undue alarm, say leading infectious disease specialists. Bird-to-human transmissions remain the predominant form, while the human-to-human type is not only rare but also causes infections that are very mild.";     		 	   		pageinfo.adtag="bn_sg_story";    	 	var _gaq = _gaq || []; 	  _gaq.push(['_setAccount', 'UA-11908285-1']); 	if (pageinfo.GALaunchDate){ 	  _gaq.push(['_setCustomVar', 1,'Launchdate',pageinfo.GALaunchDate,3]); 	  _gaq.push(["_setCustomVar", 2,"Abstract", pageinfo.facebookAbstract,3]);            } 	  _gaq.push(['_trackPageview']); 	  (function() { 		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; 		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); 	  })(); </p>
+<p> document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E")); </p>
+<p> COMSCORE.beacon({c1:2,c2:6288331,c3:"",c4:"",c5:"",c6:"",c15:""}); </p>
+<p> Last updated at 8.31 pm </p>
+<p> Reader </p>
+<p> E-paper </p>
+<p> var user=jQuery.cookie("HTTP_user_id"); 	var luser=""; 	if (user!=null) { 		luser=user.toLowerCase(); 		if (luser == "anonymous" || luser == "anonymous|anonymous") { 			window.location= p_logoutLink; 		} 	}     if(user != null && user !=0 && luser!=null && luser != "anonymous" && luser != "anonymous|anonymous") { 	    document.writeln('<div class="util_Login">'); 		document.writeln("Hello, ");		 		if(user ==0) { 			// do nothing 		} else { 			document.writeln(user); 			document.writeln("</div>"); 		} 		//http://soet.asia1.com.sg/sub/updateinformation.action?userId=' + user + ' 		//http://www.straitstimes.com/EditAccountPage.html 		document.writeln('<div class="util_Subscribe"><a href="http://subst.asiaone.com/sub/updateinformation.action">My Account</a></div>');		 		document.writeln('<div class="util_Subscribe"><a href="http://sphauth.asiaone.com/amserver/UI/Logout?logoutdest=http://www.straitstimes.com">Log Out</a></div> '); 	} else { 		document.writeln('<div class="util_Login"><a href="http://sphreg.asiaone.com/RegAuth2/stpLogin.html?goto=http://www.straitstimes.com/vgn-ext-templating/sti/common/STIRedirect.jsp?dlink='+location.href+'" onclick="jQuery.colorbox({width:\'522px\',height:\'330px\', href:\'/STI/STIFILES/ssi/2011/login/login-in-form.html\',scrolling:false});return false;">Log in</a></div>'); 		document.writeln('<div class="util_Subscribe"><a href="http://www.stsubscribe.com.sg/">Subscribe</a></div>'); 	} 	//document.writeln("</table>") </p>
+<p> Singapore weather </p>
+<p> 25°C </p>
+<p> - </p>
+<p> 32°C </p>
+<p> Search </p>
+<p> Razor TV </p>
+<p> Top Stories </p>
+<p> News </p>
+<p> Current Affairs </p>
+<p> Entertainment </p>
+<p> Lifestyle </p>
+<p> Food </p>
+<p> Fashion </p>
+<p> Popular </p>
+<p> Stomp </p>
+<p> What's Hot </p>
+<p> Club Stomp </p>
+<p> Talkback </p>
+<p> I Say, You Say </p>
+<p> Youthphoria </p>
+<p> Court Room </p>
+<p> Ask Libby </p>
+<p> Getai A-go-go </p>
+<p> Love Stories </p>
+<p> DIY Video </p>
+<p> Reallife.sg </p>
+<p> Hey Goondus! </p>
+<p> Classifieds </p>
+<p> Jobs </p>
+<p> Cars </p>
+<p> Property </p>
+<p> Shops </p>
+<p> Microsites </p>
+<p> Parliament </p>
+<p> Motoring </p>
+<p> var xmlHttp; 	function srvTime(){ 		try { 			//FF, Opera, Safari, Chrome 			xmlHttp = new XMLHttpRequest(); 		} 		catch (err1) { 			//IE 			try { 				xmlHttp = new ActiveXObject('Msxml2.XMLHTTP'); 			} 			catch (err2) { 				try { 					xmlHttp = new ActiveXObject('Microsoft.XMLHTTP'); 				} 				catch (eerr3) { 					//AJAX not supported, use CPU time. 					alert("AJAX not supported"); 				} 			} 		} 		xmlHttp.open('HEAD',window.location.href.toString(),false); 		xmlHttp.setRequestHeader("Content-Type", "text/html"); 		xmlHttp.send(''); 		return xmlHttp.getResponseHeader("Date"); 	}  	 	//var date = new Date(st); 	 	 	 	if (pageinfo.hidden_launchDate) { 		navdate = pageinfo.hidden_launchDate; 		jQuery("#span_displayMastHead").text(pageinfo.hidden_displayMastDate); 		epaper_date = navdate.substring(0, 4) + "-" + navdate.substring(4, 6) + "-" + navdate.substring(6, 8); 	} else { 		var st = srvTime(); 		var today = new Date(st); 		var month = today.getMonth() + 1 		var year = today.getFullYear() 		var day = today.getDate() 		var day_of_week = today.getDay();  		if (day < 10) 			day = "0" + day 		if (month < 10) 			month = "0" + month  		navdate = year + "" + month + "" + day; 		epaper_date = year + "-" + month + "-" + day; 		// form the display mast date for services page 		var curr_mastdate = d_names[day_of_week] + ", " + day + " " + m_names[month - 1] + " " + year; 		jQuery("#span_displayMastHead").text(curr_mastdate); 	}  	//form link 	//for epaper link 	jQuery("a[class='EP']").attr("href", "http://epaper.straitstimes.com/fvx/fvx.php?param=" + epaper_date);  	var display_day = jQuery("div.util_Date").text(); 	var display_day_array = display_day.split(",");  	//set the masthead pic  	if (display_day_array[0] == "Sunday" 			&& pageinfo.hidden_section_name.indexOf('The<span class=\"big\">Big</span>Story') < 0) { 		jQuery("#st").attr("id", "suntimes"); 		jQuery("#suntimes div.float-right") 				.before( 						'<div class="w370"><a href="http://www.straitstimes.com"><img src="http://www.straitstimes.com/STI/STIMEDIA/sp/2010/images/theSundayTimesL.gif"></a></div>'); 	} else { 		if (pageinfo.hidden_section_name) { 			if (pageinfo.hidden_section_name == "Home") { 				jQuery("#st div.float-right") 						.before( 								'<div class="float-left"><a href="'+homeurl+'/Home.html"><img width="360" height="47" border="0" src="http://www.straitstimes.com/STI/STIMEDIA/sp/2010/images/theStraitsTimes.gif"></a></div>'); 			} else if (pageinfo.hidden_section_name == "razor") {  				jQuery("#st div.float-right") 						.before( 								'<div class="float-left"><a href="http://www.straitstimes.com"><img src="http://www.straitstimes.com/STI/STIMEDIA/sp/2010/images/st.gif"></a><a href="http://www.razor.tv"><img border="0" src="http://www.straitstimes.com/STI/STIMEDIA/sp/2010/images/mastRazor.png"></a></div><div class="pageSection" id="pageSectiondiv">Videos</div>');  			} else if (pageinfo.hidden_section_name == "stomp") {  				jQuery("#st div.float-right") 						.before( 								'<div class="float-left"><a href="http://www.straitstimes.com"><img src="http://www.straitstimes.com/STI/STIMEDIA/sp/2010/images/st.gif"></a><a href="http://www.stomp.com.sg"><img border="0" src="http://www.straitstimes.com/STI/STIMEDIA/sp/2010/images/mastStomp.png"></a></div><div class="pageSection" id="pageSectiondiv">Citizen Journalism</div>');  			} else {  				jQuery("#st div.float-right") 						.before( 								'<div class="float-left"><a href="http://www.straitstimes.com"><img src="http://www.straitstimes.com/STI/STIMEDIA/sp/2010/images/st.gif"></a></div><div class="pageSection" id="pageSectiondiv"></div>');  				jQuery("#pageSectiondiv").html(pageinfo.hidden_section_name); 			} 		} 	}  	//for the rest 	bnnavlink = homeurl + "/BreakingNews/to_be_rep" + "_" + navdate + ".html";  	var navbar = { 		"BN" : [ { 			"Name" : "Breaking News", 			"Link" : bnnavlink.replace(/to_be_rep/g, "Breaking+News"), 			"Class" : "", 			"footer" : true 		}, { 			"Name" : "Singapore", 			"Link" : bnnavlink.replace(/to_be_rep/g, "Singapore/Singapore"), 			"Class" : "", 			"footer" : true 		}, { 			"Name" : "SE Asia", 			"Link" : bnnavlink.replace(/to_be_rep/g, "SE%2BAsia/SE%2BAsia"), 			"Class" : "", 			"footer" : true 		}, { 			"Name" : "Asia", 			"Link" : bnnavlink.replace(/to_be_rep/g, "Asia/Asia"), 			"Class" : "", 			"footer" : true 		}, { 			"Name" : "World", 			"Link" : bnnavlink.replace(/to_be_rep/g, "World/World"), 			"Class" : "", 			"footer" : true 		}, { 			"Name" : "Money", 			"Link" : bnnavlink.replace(/to_be_rep/g, "Money/Money"), 			"Class" : "", 			"footer" : true 		}, { 			"Name" : "Sports", 			"Link" : bnnavlink.replace(/to_be_rep/g, "Sport/Sport"), 			"Class" : "", 			"footer" : true 		}, { 			"Name" : "Technology", 			"Link" : bnnavlink.replace(/to_be_rep/g, "Tech%2Band%2BScience/Tech%2Band%2BScience"), 			"Class" : "", 			"footer" : true 		}, { 			"Name" : "Lifestyle", 			"Link" : bnnavlink.replace(/to_be_rep/g, "Lifestyle/Lifestyle"), 			"Class" : "", 			"footer" : true 		}, { 			"Name" : "Asia News Network", 			"Link" : bnnavlink.replace(/to_be_rep/g, "ANN/ANN"), 			"Class" : "", 			"footer" : false 		}, { 			"Name" : "All", 			"Link" : bnnavlink.replace(/to_be_rep/g, "Breaking+News"), 			"Class" : "", 			"footer" : false 		}, { 			"Name" : "Photo galleries", 			"Link" : "http://photos.straitstimes.com", 			"Class" : "pg", 			"footer" : true 		} ],  		"PremWeekdays" : [ { 			"Name" : "Premium", 			"Link" : homeurl + "/Premium/Premium_" + navdate + ".html", 			"Class" : "", 			"footer" : true 		}, { 			"Name" : "Prime", 			"Link" : homeurl + "/Prime+News/Prime+News_" + navdate + ".html", 			"Class" : "", 			"footer" : true 		}, { 			"Name" : "Singapore", 			"Link" : homeurl + "/Singapore/Singapore_" + navdate + ".html", 			"Class" : "", 			"footer" : true 		}, { 			"Name" : "Asia", 			"Link" : homeurl + "/Asia/Asia_" + navdate + ".html", 			"Class" : "", 			"footer" : true 		}, { 			"Name" : "World", 			"Link" : homeurl + "/World/World_" + navdate + ".html", 			"Class" : "", 			"footer" : true 		}, { 			"Name" : "Money", 			"Link" : homeurl + "/Money/Money_" + navdate + ".html", 			"Class" : "", 			"footer" : true 		}, { 			"Name" : "Sports", 			"Link" : homeurl + "/Sports/Sports_" + navdate + ".html", 			"Class" : "", 			"footer" : true 		}, { 			"Name" : "Life!", 			"Link" : homeurl + "/Life%2521/Life%2521_" + navdate + ".html", 			"Class" : "", 			"footer" : true 		}, { 			"Name" : "Insight", 			"Link" : homeurl + "/Insight/Insight.html", 			"Class" : "", 			"footer" : true 		}, { 			"Name" : "Review", 			"Link" : homeurl + "/Review/Review_" + navdate + ".html", 			"Class" : "", 			"footer" : true 		}, { 			"Name" : "Forum Letters", 			"Link" : homeurl + "/ST+Forum/ST+Forum_" + navdate + ".html", 			"Class" : "", 			"footer" : true 		}, { 			"Name" : "All", 			"Link" : homeurl + "/Premium/Premium_All_" + navdate + ".html", 			"Class" : "", 			"footer" : false 		} ], 		"PremSunday" : [ { 			"Name" : "Premium", 			"Link" : homeurl + "/Premium/Premium_" + navdate + ".html", 			"Class" : "", 			"footer" : true 		}, { 			"Name" : "News", 			"Link" : homeurl + "/News/News_" + navdate + ".html", 			"Class" : "", 			"footer" : true 		}, { 			"Name" : "Invest", 			"Link" : homeurl + "/Invest/Invest_" + navdate + ".html", 			"Class" : "", 			"footer" : true 		}, { 			"Name" : "Think", 			"Link" : homeurl + "/Think/Think_" + navdate + ".html", 			"Class" : "", 			"footer" : true 		}, { 			"Name" : "Sports", 			"Link" : homeurl + "/Sports/Sports_" + navdate + ".html", 			"Class" : "", 			"footer" : true 		}, { 			"Name" : "Lifestyle", 			"Link" : homeurl + "/Lifestyle/Lifestyle_" + navdate + ".html", 			"Class" : "", 			"footer" : true 		}, { 			"Name" : "All", 			"Link" : homeurl + "/Premium/Premium_All_" + navdate + ".html", 			"Class" : "", 			"footer" : false 		}  		], 		"Community" : [ { 			"Name" : "Community", 			"Link" : "#", 			"Class" : "", 			"footer" : true 		}, { 			"Name" : "Blogs", 			"Link" : "http://blogs.straitstimes.com", 			"Class" : "", 			"footer" : true 		}, { 			"Name" : "Forum Letters", 			"Link" : homeurl + "/ST+Forum/ST+Forum.html", 			"Class" : "", 			"footer" : true 		} 		], 		"Multimedia" : [ { 			"Name" : "Multimedia", 			"Link" : "#", 			"Class" : "", 			"footer" : true 		}, { 			"Name" : "Through the Lens", 			"Link" : homeurl + "/ttl", 			"Class" : "", 			"footer" : true 		}, { 			"Name" : "News in Pictures", 			"Link" : homeurl + "/News+In+Pictures/News+In+Pictures.html", 			"Class" : "", 			"footer" : true 		}, { 			"Name" : "Infographics", 			"Link" : homeurl + "/Features/Infographics/Infographics.html", 			"Class" : "", 			"footer" : true 		}  		], 		"Features" : [ { 			"Name" : "Features", 			"Link" : "#", 			"Class" : "", 			"footer" : true 		}, { 			"Name" : "Global Perspectives", 			"Link" : homeurl + "/Project_Syndicate/Project_Syndicate.html", 			"Class" : "", 			"footer" : true 		}	 		],	 		"Projects" : [ { 			"Name" : "Projects", 			"Link" : "#", 			"Class" : "", 			"footer" : true 		}, { 			"Name" : "Childaid", 			"Link" : homeurl + "/childaid", 			"Class" : "", 			"footer" : true 		}, { 			"Name" : "School Pocket Money Fund", 			"Link" : homeurl + "/spmf/School+Pocket+Money+Fund.html", 			"Class" : "", 			"footer" : true 		} ], 		"Home" : [ { 			"Name" : "Home", 			"Link" : homeurl + "/Home_" + navdate + ".html", 			"Class" : "" 		} ]  	}  	var webspecialarray = { 		"spmf" : [ { 			"url" : homeurl + "/spmf/School+Pocket+Money+Fund.html", 			"img_src" : "http://www.straitstimes.com/STI/STIMEDIA/sp/2010/images/webspecialIconForSPMF.gif", 			"img_width" : "114", 			"img_height" : "190", 			"img_alt" : "School Pocket Money Fund image" 		} ] 	}  	jQuery("#header_navbar_bn").html(generateNavBar(navbar.BN));  	if (display_day_array[0] == "Sunday") { 		jQuery("#header_navbar_prem").html(generateNavBar(navbar.PremSunday)); 	} else { 		jQuery("#header_navbar_prem").html(generateNavBar(navbar.PremWeekdays)); 	} 	jQuery("#header_navbar_community").html(generateNavBar(navbar.Community)); 	jQuery("#header_navbar_multimedia").html(generateNavBar(navbar.Multimedia)); 	jQuery("#header_navbar_features").html(generateNavBar(navbar.Features)); 	jQuery("#header_navbar_projects").html(generateNavBar(navbar.Projects)); 	jQuery("#home_link").attr("href", navbar.Home[0].Link); </p>
+<p> Home </p>
+<p> Breaking News </p>
+<p> Singapore </p>
+<p> Story </p>
+<p> No need for panic over bird flu, say experts </p>
+<p> Human-to-human infection rare and mild, but good hygiene still important </p>
+<p> Published on Jan 17, 2012 </p>
+<p> Purchase this article for republication </p>
+<p> Buy SPH photos </p>
+<p> A man transports a cage containing live chickens on a street in Hanoi Dec 30, 2011. The H5N1 virus may have claimed two lives in China and Indonesia but there is no cause for undue alarm, say infectious disease specialists. -- PHOTO: REUTERS </p>
+<p> By  														Melissa Pang </p>
+<p> The H5N1 virus may have claimed two lives in China and Indonesia but there is no cause for undue alarm, say leading infectious disease specialists. </p>
+<p> Bird-to-human transmissions remain the predominant form, while the human-to-human type is not only rare but also causes infections that are very mild. </p>
+<p> Professor Seto Wing-Hong, director of the World Health Organisation's Collaborating Centre for Infection Control in Hong Kong, said that during the 1997 avian flu outbreak, health workers there were required to report any contact made with patients. </p>
+<p> Data showed that only five out of 965 medical staff who reported having such contact came down with the ailment. </p>
+<p> var subrenderfile="/Subscription/Breaking+News/Singapore/Story/STIStory_756537.html"; </p>
+<p> if(document.domain=="sph.straitstimes.com" || ( user != null && user !=0 && luser!=null && luser != "anonymous" && luser != "anonymous|anonymous")) {	 	jQuery("#subhtmldiv").html("Loading...Please wait...."); 	jQuery.ajax({ 		url: subrenderfile, 		async: false, 		success: function(msg){ jQuery("#subhtmldiv").html( msg ); 		} 		});	 	} else { 		document.writeln('<div class="clearall">&nbsp;</div><h5>TO READ THE FULL STORY...</h5><div style="width:177px; margin:12px auto; height:24px;"><a class="sbutton" style="width:54px; float:left; margin:0 10px 0 0;" href="http://sphreg.asiaone.com/RegAuth2/stpLogin.html?goto=http://www.straitstimes.com/vgn-ext-templating/sti/common/STIRedirect.jsp?dlink='+location.href+'" onclick="jQuery.colorbox({width:\'522px\',height:\'330px\', href:\'/STI/STIFILES/ssi/2011/login/login-in-form.html\',scrolling:false});return false;"><span>Log in</span></a> <a class="sbutton" style="width:76px; float:left; margin:0;" href="http://www.stsubscribe.com.sg/"><span>Subscribe</span></a></div>'); 	} </p>
+<p> var disqus_shortname = 'thestraitstimes';	 	var disqus_identifier = disqus_shortname+'541627742'; 	var disqus_url = 'http://www.straitstimes.com/BreakingNews/Singapore/Story/STIStory_756537.html'; </p>
+<p> var disqus_config = null;	 	var ldapemail = jQuery.cookie("HTTP_mail");	 	var usercookie_exist= false; 	var isLoginToDisqus = jQuery.cookie("disqus_login"); 	var ssologout = "http://sphauth.asiaone.com/amserver/UI/Logout?logoutdest="+location.href; 	 	if (user != null && user !=0 && luser!=null && luser != "anonymous" && luser != "anonymous|anonymous"){ 		usercookie_exist=true; 	} 	 	//alert(user); 	//alert(isLoginToDisqus); 	//case 1 : If user log into ST and he is not logged into ST yet, always do SSO 	if (isLoginToDisqus != "true" && usercookie_exist) { 		//alert("case 1");   //console.log("case 1:If user log into ST and he is not logged into ST yet, always do SSO");    			jQuery.ajax( {    				'type' : 'GET',    				'url' : '/vgn-ext-templating/createSSO',    				'cache' : false,    				'data' : 'id=' + user + '&username=' + user + '&email=' + ldapemail + '&logout=false',    				'success' : function(jsonData) { 	   				//alert('id=' + user + '&username=' + user + '&email=' + ldapemail + '&logout=false'); 	   				//alert(jsonData);    					if(jsonData.response.error != 1){    						disqus_config = function () {    							this.page.remote_auth_s3 = jsonData.response.message + ' ' + jsonData.response.hmac + ' ' + jsonData.response.timestamp;    							this.page.api_key = jsonData.response.public_key;   							    							this.sso = {    						         logout:  ssologout  						           								};    						}    						jQuery.cookie('disqus_login', 'true');    					}    			  					    					callDisqus();    				    				}    			});    			 		} 	//case 2:If user log into ST and disqus already, no need to do SSO 	else if (isLoginToDisqus == "true" && usercookie_exist)  		{ 			//alert("case 2"); 		//console.log("case 2:If user log into ST and disqus already, no need to do SSO"); 		 		disqus_config = function () { 			this.sso = {logout:  ssologout};};	 			callDisqus();  	 	 		} 	//case 3: if user log out from ST but do not log out from disqus 	else if (isLoginToDisqus != null && !usercookie_exist) { 		//alert("case 3"); 		//console.log("case 3:if user log out from ST but do not log out from disqus"); 		jQuery.ajax( { 			'type' : 'GET', 			'url' : '/vgn-ext-templating/createSSO', 			'cache' : false, 			'data' : 'id=' + user + '&username=' + user + '&email=' + ldapemail + '&logout=true', 			'success' : function(jsonData) { 				 				if(jsonData.response.error != 1){ 					disqus_config = function () { 							this.page.remote_auth_s3 = jsonData.response.message + ' ' + jsonData.response.hmac + ' ' + jsonData.response.timestamp; 							this.page.api_key = jsonData.response.public_key;  							this.sso = { 									name:   "straitstimes", 						          button:  "http://www.straitstimes.com/STI/STIMEDIA/sp/2010/images/disqusST.png", 						          icon:     "http://www.straitstimes.com/STI/STIMEDIA/common/favicon.ico", 						          url:        "http://www.straitstimes.com/STI/STIFILES/ssi/2011/login/login-in-form-full.html", 						         logout:  ssologout, 						          width:   "480", 						          height:  "250" 								}; 						} 					jQuery.cookie('disqus_login', null); 					 					callDisqus(); 				} 			 			} 		}); 	} 	//case 4: if user never log into both ST and disqus 	else { 		//alert("case4"); 		//console.log("case 4:if user never log into both ST and disqus"); 		disqus_config = function () { 			this.sso = { 				    	name:   "straitstimes", 				          button:  "http://www.straitstimes.com/STI/STIMEDIA/sp/2010/images/disqusST.png", 				          icon:     "http://www.straitstimes.com/STI/STIMEDIA/common/favicon.ico", 				          url:        "http://www.straitstimes.com/STI/STIFILES/ssi/2011/login/login-in-form-full.html", 				          logout:  ssologout, 				          width:   "480", 				          height:  "250" 				}; 		};	 		 		callDisqus(); 	} 	 	    function callDisqus(){ 		var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true; 		dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js'; 		(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);  } </p>
+<p> Please enable JavaScript to view the </p>
+<p> comments powered by Disqus. </p>
+<p> blog comments powered by </p>
+<p> Disqus </p>
+<p> var top_story_array = [    '756612'   ,    '756620'   ,    '756634'   ,    '756608'   ,    '756607'   ,    '756594'   ,    '756595'   ,    '756611'   ,    '756587'   ,    '756598'    ]; </p>
+<p> More Top Stories </p>
+<p> 'It is not so simple' - salaries do matter in political service </p>
+<p> OCBC Bank CEO David Conner to step down </p>
+<p> Changes coming up for HDB's BTO balloting rules </p>
+<p> Housing Board looking into committee for Rochor compensation </p>
+<p> Fewer companies expect to hire in 1st quarter this year: Hudson </p>
+<p> Average bus speeds fall due to daily rise in ridership </p>
+<p> Default rate of government-funded student loans under 1% </p>
+<p> Previous </p>
+<p> Next </p>
+<p> Singapore </p>
+<p> 9:07 PM </p>
+<p> NUS honours founding chairman J.Y. Pillay </p>
+<p> 8:31 PM </p>
+<p> Exports end 2011 on surprise strong note </p>
+<p> 8:26 PM </p>
+<p> $1 million worth of counterfeit goods seized </p>
+<p> 7:27 PM </p>
+<p> Tan Cheng Bock interested in running for next Presidential Election </p>
+<p> 7:23 PM </p>
+<p> Changes coming up for HDB's BTO balloting rules </p>
+<p> 7:05 PM </p>
+<p> What's on: Wednesday's listings from ST Life! </p>
+<p> 6:32 PM </p>
+<p> SPH submits highest bid of $328 million for Sengkang commercial site </p>
+<p> 6:25 PM </p>
+<p> OCBC Bank CEO David Conner to step down </p>
+<p> 5:41 PM </p>
+<p> 'It is not so simple' - salaries do matter in political service </p>
+<p> 5:40 PM </p>
+<p> 2 in 3 Singaporeans save no more than 20% of monthly salary </p>
+<p> 5:30 PM </p>
+<p> Chauffeur jailed 5 weeks for taking traffic violation rap </p>
+<p> 4:58 PM </p>
+<p> Housing Board looking into committee for Rochor compensation </p>
+<p> 4:56 PM </p>
+<p> Fewer companies expect to hire in 1st quarter this year: Hudson </p>
+<p> 4:44 PM </p>
+<p> More children in Singapore suffering from backache </p>
+<p> 4:31 PM </p>
+<p> Computer technician jailed 29 months for online scam </p>
+<p> 3:50 PM </p>
+<p> Default rate of government-funded student loans under 1% </p>
+<p> 3:37 PM </p>
+<p> Average bus speeds fall due to daily rise in ridership </p>
+<p> 4:46 PM </p>
+<p> EDB cautiously optimistic about outlook for 2012 </p>
+<p> 1:19 PM </p>
+<p> Skeletal remains in flat still unidentified after nearly 1 year </p>
+<p> 12:16 PM </p>
+<p> SBS bus services to be affected by CNY countdown </p>
+<p> 11:31 AM </p>
+<p> Ex-teacher jailed 8 years for sex with 14-year-old student </p>
+<p> 6:00 AM </p>
+<p> 4 ATMs of UOB found without 'jitter' security </p>
+<p> 6:00 AM </p>
+<p> SGX drops move against China Sky </p>
+<p> 6:00 AM </p>
+<p> Residents band together to fend off loan sharks </p>
+<p> 6:00 AM </p>
+<p> Fined for threatening ex-girlfriend over topless photos </p>
+<p> 6:00 AM </p>
+<p> No need for panic over bird flu, say experts </p>
+<p> 8:30 AM </p>
+<p> Singapore's exports rise 9% in December </p>
+<p> 6:00 AM </p>
+<p> 'Foreign talent policy had effect on income gap' </p>
+<p> 6:00 AM </p>
+<p> Private home sales slump in December with 632 units sold </p>
+<p> 6:00 AM </p>
+<p> Woman slashes hubby, then falls to death </p>
+<p> 6:00 AM </p>
+<p> 'Raise wages in domestic service industries' </p>
+<p> 6:00 AM </p>
+<p> SGX suffers 11.8% fall in 2nd quarter profits </p>
+<p> 6:00 AM </p>
+<p> M1 net profit increases by 4.5% to $164.1 million </p>
+<p> 6:00 AM </p>
+<p> Etoile FC withdraws from S-League, ahead of 2012 season </p>
+<p> 6:00 AM </p>
+<p> Private home owners push up COVs, not PRs: Khaw </p>
+<p> 6:00 AM </p>
+<p> 'Cash-rich owners' pushing up HDB resale prices </p>
+<p> 6:00 AM </p>
+<p> Finance jobs multiply for expats and locals </p>
+<p> 6:00 AM </p>
+<p> Government still open to private sector tie-ups </p>
+<p> 6:00 AM </p>
+<p> The key to boosting low-wage workers' pay </p>
+<p> 6:00 AM </p>
+<p> Sharing of parent tax relief: Government to study call </p>
+<p> 6:00 AM </p>
+<p> Changes proposed to legal profession, evidence Acts </p>
+<p> 6:00 AM </p>
+<p> Subsidies for stay-at-home mums may be reviewed </p>
+<p> 6:00 AM </p>
+<p> More parental maintenance complaints settled through mediation </p>
+<p> 6:00 AM </p>
+<p> Family service centres to get more funds </p>
+<p> 6:00 AM </p>
+<p> Pay review both half full and half empty, says Denise Phua </p>
+<p> 6:00 AM </p>
+<p> Despite differences, both sides agree on pay fundamentals </p>
+<p> 6:00 AM </p>
+<p> Corporate peg to pay draws lively debate in Parliament </p>
+<p> 6:00 AM </p>
+<p> Passion alone not enough to run country well: DPM Teo </p>
+<p> 6:00 AM </p>
+<p> Why pay was not benchmarked to that of foreign leaders </p>
+<p> 6:00 AM </p>
+<p> It's the principles behind the numbers that matter: DPM Teo </p>
+<p> 6:00 AM </p>
+<p> Minister's pay not automatically $1.1 million, says DPM Teo </p>
+<p> 6:00 AM </p>
+<p> Serving is a privilege, not a sacrifice: MP Chen Show Mao </p>
+<p> 6:00 AM </p>
+<p> Pay ministers five times an MP's allowance: WP </p>
+<p> 6:00 AM </p>
+<p> WP plans differ little from recommendations: PAP MPs </p>
+<p> 6:00 AM </p>
+<p> MPs favour clean wage system with no hidden perks or benefits </p>
+<p> 6:00 AM </p>
+<p> Speaker of Parliament and deputies agree to accept pay cut </p>
+<p> 6:00 AM </p>
+<p> Speech of the day: Temper idealism with realism </p>
+<p> 6:00 AM </p>
+<p> Should civil servants be paid more than ministers? </p>
+<p> 6:00 AM </p>
+<p> Stand-off in Parliament between Gerald Giam and Vikram Nair </p>
+<p> 6:00 AM </p>
+<p> SMRT bus services to be diverted for Chinese New Year celebrations </p>
+<p> 6:00 AM </p>
+<p> Fines for bus operators 'should be taken in context' </p>
+<p> 6:00 AM </p>
+<p> Passengers can opt to decline premium, limo cabs at airport </p>
+<p> Most Popular </p>
+<p> 'For one hour, I was fighting the waves': Bintan survivor </p>
+<p> 'I thought I would never be able to get out of there' </p>
+<p> Property cooling measures making home buyers cautious </p>
+<p> Dubai to ensure Singaporeans in trouble get consular help </p>
+<p> Better schools, transport, housing on the way: PM </p>
+<p> Anwar under fire for suggesting review of gay laws </p>
+<p> Not a good Rabbit Year for abandoned bunnies </p>
+<p> Coca-Cola Company says its products in Singapore are safe </p>
+<p> Man fined for sending topless photos of ex-girlfriend to her family </p>
+<p> Droughts a bigger worry than flash floods: Vivian </p>
+<p> #storyNav   { border:1px solid #ddd; width:100%; border-left: none; border-right:none; float:left; font-weight:bold; font-size:11px; margin-bottom: 10px;} #storyNav .prev {width:48%; float:left; text-align:left; padding:12px 3px; }     #storyNav .prev a img   {margin: -5px 6px -5px 0; float:left;} #storyNav .next {width:100%;float:right; text-align:right;padding:12px 3px; color:#777; font-weight:normal; font-size:11px;}     #storyNav .next a {font-weight:bold;}     #storyNav .next a img   {margin: -5px 0 -5px 6px; float:right;}     #storyNav .next .sub    {font-weight:normal; color:#888;text-align:right; float:right;}     .pageSectionRed {color:#b83422; background-image:url(http://www.straitstimes.com/STI/STIMEDIA/sp/2010/images/slash.png); background-repeat:no-repeat; background-position:0 6px; padding:0 0 0 21px; margin:0 0 0 6px;}	 	.pageSectionRed a:link, .pageSectionRed a:visited {color:#b83422;} 	.pageSectionRed a:hover, .pageSectionRed a:active {color:#999;} 	 .imageOver{     background:url(http://www.straitstimes.com/STI/STIMEDIA/sp/2010/images/magnifyplusw.png) no-repeat;       filter:alpha(opacity=50);     -moz-opacity:0.5;     -khtml-opacity: 0.5;     opacity: 0.5;    } </p>
+<p> // story changes 	var title = jQuery.trim($('#main').find('h1').text()); 	$('div.headline, #storyindex li').each(function() {  		var t = $.trim($(this).find('a').text()); 		if(t == title) { 			var node = $(this).next().find('a'); 			if(node.text() && jQuery.trim(node.text()) != '') { 				var html = '<div id="storyNav"><div class="next">NEXT STORY:  <a href="' + node.attr('href') + '">' + node.text() + '<img src="http://www.straitstimes.com/STI/STIMEDIA/sp/2010/images/nipRight.png"></a></div></div>'; 				$(html).insertBefore($('#facebook_like_container')); 			} 			return false; 		} 	}); 	 	// section name process 	$('#crumbs li').each(function() { 		var txt = jQuery.trim($(this).text()); 		if(txt == 'Breaking News' || txt == 'Premium') { 			var name = '<span class="pageSectionRed">' + $(this).next().html() + '</span>'; 			$('#pageSectiondiv').html($('#pageSectiondiv').text() + name); 			return false; 		} 	}); 	 	// colorbox for media	 	if(!$('#pic-rotator-img').length) { 		$('div.sizeL').find('img:first').attr('id', 'pic-rotator-img'); 	} 	 	if($('#pic-rotator-info').length) { 		$('#pic-rotator-info img').each(function() { $(this).wrap($('<a></a>').attr('rel', 'cbxgrp').addClass('cbx') 			.attr('href', $(this).attr('src').replace('.jpg', 'e.jpg')).attr('title', $(this).next().html()));}); 	} else { 		if($('#pic-rotator-img').length) { 			$('#pic-rotator-img').wrap($('<a></a>').addClass('cbx').attr('title', $('#pic-rotator-img').next().text()).attr('href', $('#pic-rotator-img').attr('src').replace('.jpg', 'e.jpg'))); 		} 	} 	 	if(!$('#pic-caption').length) { 		$('div.sizeL').find('div.caption:first').attr('id', 'pic-caption'); 	} 	 	if($('#pic-rotator-img').length) {  		$('#pic-rotator-img').css('cursor', 'pointer').hover(function() { 			$('.storyRight div.sizeL').css('position', 'relative').prepend('<span style="position: absolute; top: 20px; left: 20px; width: 40px; height: 40px; cursor: pointer; " class="imageOver"></span>'); 		}).mouseout(function() { 			$('.storyRight div.sizeL').find('span.imageOver').remove(); 		}).click(function() { 			var src = $(this).attr('src'); 			$('#pic-rotator-info img').each(function() { 				if($(this).attr('src').indexOf(src) >= 0) { 					$(this).closest('a').trigger('click'); 					return false; 				} 			}); 		}); 	} 	 	$('a.cbx').colorbox({scrolling:false, onComplete: function() { 		$("#cboxTitle").hide(); 		var element = $(this).colorbox.element();  		var title = $(element).attr("title");  		$("<div style='line-height: 16px; padding: 5px;'>"+title+"</div>").insertAfter("#cboxPhoto");  		$(this).colorbox.resize();  		$('#cboxCurrent').text($('#cboxCurrent').text().replace('image', 'Image')); 		//_rsEvent(pageinfo.url,pageinfo.p_COTag); 		if(pageinfo.p_COTag!="STI-SUNDAY" && pageinfo.p_COTag!="STI"){ 		_rsEvent("StoryImage","ST-NIP"); 		}else{ 			_rsEvent(pageinfo.url,pageinfo.p_COTag); 		} 	}}); 	  	var kickers = $('div.kicker'); 	if(kickers.length) { 		var k = $(kickers[0]); 		if(k.parent()[0].tagName == 'A') { 			k.parent().replaceWith(k); 		} 	} 	 	var selected_div; 	var prev_div;	 	var next_div; 	var loc; 	   	if (pageinfo.hidden_section_name=='Breaking News' || pageinfo.hidden_section_name=='Parliament' || pageinfo.hidden_section_name=='Forum Letters'){ 		selected_div = jQuery("#storyindex div.headline p a[href*="+pageinfo.articleid+"]").parent().parent();  	 		prev_div = selected_div.prevAll("div.headline:first"); 		next_div = selected_div.nextAll("div.headline");	 		   	} else { 	  	selected_div = jQuery("#storyindex li a[href*="+pageinfo.articleid+"]").parent();	 		prev_div = selected_div.prevAll("li:first"); 		next_div = selected_div.nextAll("li");			   	} 	 	selected_div.css("font-weight", "bold"); 	 	if (prev_div.text() == ''){ 		jQuery("#prevstory").hide(); 	} 	if (next_div.text() == ''){ 		jQuery("#nextstory").hide(); 	} 	 		 	   jQuery("#prevstory").click(function() {     if (pageinfo.hidden_section_name=='Breaking News' || pageinfo.hidden_section_name=='Parliament' || pageinfo.hidden_section_name=='Forum Letters'){ 	    loc=prev_div.children("p").children("a").attr("href");     }else{ 	    loc=prev_div.children("a").attr("href");	      }		    	 location.href=loc;	  			  	   	  return false;     	});       jQuery("#nextstory").click(function() {	     if (pageinfo.hidden_section_name=='Breaking News' || pageinfo.hidden_section_name=='Parliament' || pageinfo.hidden_section_name=='Forum Letters'){ 	    loc=next_div.children("p").children("a").attr("href");     }else{ 	    loc=next_div.children("a").attr("href");     }	 		 	 	location.href=loc; 	    	return false; 	});	     if (jQuery("#photoGallery_storypage").length){ 	  jQuery("a[rel='photoGallery']").colorbox({onComplete: function() {jQuery("#cboxTitle").hide();jQuery("<div class='colorboxcaption'>"+jQuery(this).colorbox.element().attr("title")+"</div>").insertAfter("#cboxPhoto");jQuery(this).colorbox.resize();_rsEvent(pageinfo.url,pageinfo.p_COTag);}});	      }          function sendemail(sendlink) {     	if ( user != null && user !=0 && luser!=null && luser != "anonymous" && luser != "anonymous|anonymous"){    	    	jQuery.colorbox({innerWidth:"480px",innerHeight:"550px",href:sendlink,scrolling:false});jQuery("#cboxClose").hide();     	}else {     		jQuery.colorbox({width:'522px',height:'330px', href:'/STI/STIFILES/ssi/2011/login/login-in-form.html',scrolling:false});     	}          return false;      	};   //for top story listing     if (typeof(top_story_array) != "undefined" && jQuery.inArray(pageinfo.articleid,top_story_array) != -1){     	 		jQuery("#story_top_banner").show(); 		if (jQuery("#story_top_content div a[href*="+pageinfo.articleid+"]").length) 			{ 			 			jQuery("#story_top_content div a[href*="+pageinfo.articleid+"]").parent().hide();  			 			if (jQuery.inArray(pageinfo.articleid,top_story_array)==6){ 				jQuery("#story_top_content div.itemTopStory:nth-child(6)").removeClass("mr10"); 			} 			jQuery("#story_top_content").show();} 			else { 				 			jQuery("#story_top_content div.itemTopStory:last").hide(); 			jQuery("#story_top_content div.itemTopStory:nth-child(6)").removeClass("mr10");   			jQuery("#story_top_content").show(); 			  } 		  		     }          if (jQuery("#facebook_like_container").length){ 	   jQuery("#facebook_like_container").html("<iframe src='http://www.facebook.com/plugins/like.php?href="+pageinfo.url+"&amp;layout=standard&amp;show_faces=true&amp;action=like&amp;colorscheme=light&amp;height=80' scrolling='no' frameborder='0' style='border:none; overflow:hidden; ' allowTransparency='true'></iframe>").css('height', 80);    }    if (jQuery("#story_sharing_tool").length){    var story_tool_html='<a href="http://twitter.com/share" class="twitter-share-button" data-url="'+pageinfo.url+'" data-count="vertical">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"><\/script><div class="clearall">&nbsp;</div><div style="margin:0px 0px 0px 25px;"><a name="fb_share" type="box_count" share_url="'+pageinfo.url+'" href="http://www.facebook.com/sharer.php" >Share</a><script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript"><\/script></div><div class="clearall">&nbsp;</div><div class="google1"><g:plusone></g:plusone></div><div class="clearall">&nbsp;</div><div class="linkedIn"><script type="text/javascript" src="http://platform.linkedin.com/in.js"><\/script><script type="in/share" data-counter="top"><\/script></div>';           jQuery("#story_sharing_tool").html(story_tool_html);       	      if (pageinfo.spimgtype){	      //webspecial image handling     if (webspecialarray[pageinfo.spimgtype]){ //    	alert(webspecialarray[pageinfo.spimgtype][0].url);     	var spimghtml = '<a href="'+webspecialarray[pageinfo.spimgtype][0].url+'"><img src="'+webspecialarray[pageinfo.spimgtype][0].img_src+'" width="'+webspecialarray[pageinfo.spimgtype][0].img_width+'"  height="'+webspecialarray[pageinfo.spimgtype][0].img_height+'" alt="'+webspecialarray[pageinfo.spimgtype][0].img_alt+'"\/><\/a>'; jQuery("#webspecial-div").html(spimghtml); jQuery("#webspecial-div").show();     	     	     }     	     }	   }      		  if (pageinfo.adtag){    if (pageinfo.adtag=="pe_asia_story" || pageinfo.adtag=="bn_asia_story"){      var theImages = new Array() // do not change this theImages[0] = '/STI/STIFILES/countryicons/cty_ayosdito.jpg' theImages[1] = '/STI/STIFILES/countryicons/cty_berniaga.gif' theImages[2] = '/STI/STIFILES/countryicons/cty_mudah.gif' theImages[3] = '/STI/STIFILES/countryicons/cty_panduan.gif' theImages[4] = '/STI/STIFILES/countryicons/cty_sou.gif' theImages[5] = '/STI/STIFILES/countryicons/cty_dinkos.gif'  // Set the links to be used for the images var theLink = new Array() theLink[0] = 'http://www.ayosdito.ph' theLink[1] = 'http://www.berniaga.com' theLink[2] = 'http://www.mudah.my' theLink[3] = 'http://www.701panduan.com' theLink[4] = 'http://www.701sou.com' theLink[5] = 'http://www.dinkos.com.au' 	  // do not edit anything below this line  var j = 0 var p = theImages.length; var preBuffer = new Array() for (i = 0; i < p; i++){  preBuffer[i] = new Image()  preBuffer[i].src = theImages[i] } var whichImage = Math.round(Math.random()*(p-1));  jQuery("#random_img_container").html('<a target="_blank" href="'+theLink[whichImage]+'"><img src="'+theImages[whichImage]+'" border="0"></a>');     } } </p>
+<p> Search The Straits Times </p>
+<p> Search </p>
+<p> Archive </p>
+<p> S </p>
+<p> M </p>
+<p> T </p>
+<p> W </p>
+<p> T </p>
+<p> F </p>
+<p> S </p>
+<p> 08 </p>
+<p> 09 </p>
+<p> 10 </p>
+<p> 11 </p>
+<p> 12 </p>
+<p> 13 </p>
+<p> 14 </p>
+<p> 15 </p>
+<p> 16 </p>
+<p> 17 </p>
+<p> 18 </p>
+<p> 19 </p>
+<p> 20 </p>
+<p> 21 </p>
+<p> Follow ST </p>
+<p> ST Sections </p>
+<p> document.write(generateFooterItem(navbar.BN));       	if (display_day_array[0]=="Sunday"){ 			document.write(generateFooterItem(navbar.PremSunday)); 		}else { 			document.write(generateFooterItem(navbar.PremWeekdays)); 	   } </p>
+<p> document.write(generateFooterItem(navbar.Community)); 		document.write(generateFooterItem(navbar.Multimedia));       	document.write(generateFooterItem(navbar.Features));         //document.write(generateFooterItem(navbar.Projects)); </p>
+<p> Projects </p>
+<p> • </p>
+<p> Childaid </p>
+<p> • </p>
+<p> School Pocket Money Fund </p>
+<p> • </p>
+<p> Parliament </p>
+<p> News Products </p>
+<p> • </p>
+<p> document.write("<a class='EP' href='http://epaper.straitstimes.com/fvx/fvx.php?param="+epaper_date+"'>E-paper</a>"); </p>
+<p> • </p>
+<p> iPhone </p>
+<p> • </p>
+<p> News Alert </p>
+<p> Customer Care </p>
+<p> • </p>
+<p> Subscribe </p>
+<p> • </p>
+<p> About Us </p>
+<p> • </p>
+<p> Advertise </p>
+<p> • </p>
+<p> FAQ </p>
+<p> • </p>
+<p> Mobile app FAQ </p>
+<p> • </p>
+<p> Contact Us </p>
+<p> SPH Websites </p>
+<p> The Business Times </p>
+<p> | </p>
+<p> BT Stocks </p>
+<p> RazorTV </p>
+<p> STOMP </p>
+<p> Jobs </p>
+<p> | </p>
+<p> Property </p>
+<p> | </p>
+<p> Cars </p>
+<p> | </p>
+<p> Shops </p>
+<p> School Pocket Money Fund </p>
+<p> Asia News Network </p>
+<p> AsiaOne </p>
+<p> Zaobao </p>
+<p> Radio 91.3 </p>
+<p> Copyright © 2012 Singapore Press Holdings Ltd. Co. Regn No. 198402868E. All rights reserved. </p>
+<p> Terms & Conditions </p>
+<p> var _rsCI="sg-sph"; /* client ID */ var _rsCG=pageinfo.p_COTag; /* content group */ var _rsDN="//secure-sg.imrworldwide.com/"; /* data node */ var _rsDT=1; /* to turn on whether to get the document title, 0=off 1=on */ var _rsSE=1; /* to turn on surveys, 0=off 1=on */ var _rsSM=0.1; /* maxumum survey rate, 1.0=100% */ var _rsSS=500; /* sample size */ var _rsCL=0; /* link overlay, 0=off 1=on */ document.write('<scr'+'ipt type="text/javascript" src="'+_rsDN+'v53.js"></scr'+'ipt>'); </p>

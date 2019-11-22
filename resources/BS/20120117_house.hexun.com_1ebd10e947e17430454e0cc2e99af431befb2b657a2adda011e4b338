@@ -1,0 +1,206 @@
+<p> 瑞信德银看好恒大 称今年目标易达成-房产频道-和讯网 </p>
+<p> #head2010 .navetc{height:27px; overflow:hidden; font-family:"宋体";} #head2010 .navL a{ padding:0px 2px;} #head2010 .navetc .navL{ width:840px; float:left; padding:3px 0 0 0; height: 52px; border-right:#bebebe 1px solid;}  #head2010 .navetc .navR{ width:111px; float:right; padding:3px 3px 3px 0; overflow: hidden;} #hexunMember_isloginedSetup_span_display_username{ width: 49px; height: 20px; overflow: hidden; text-align: right; padding:0 0 0 8px; margin-right: 5px;} #hexunMember_nologinSetup_div_display_nologin{ height: 20px; padding: 1px 0 0 0; line-height: 20px; text-align: center; background: #e8e8e8; overflow:hidden; margin-bottom:3px;} #hexunMember_isloginedSetup_div_display{ height: 20px; padding: 1px 0 0 0; line-height: 20px; text-align: center; background: #e8e8e8 } #hexunCalendar a,#hexunCalendar a:hover{ color:#C7E1FC;} </p>
+<p> 首页 </p>
+<p> - </p>
+<p> 新闻 </p>
+<p> - </p>
+<p> 股票 </p>
+<p> - </p>
+<p> 基金 </p>
+<p> - </p>
+<p> 期货 </p>
+<p> - </p>
+<p> 期指 </p>
+<p> - </p>
+<p> 黄金 </p>
+<p> - </p>
+<p> 外汇 </p>
+<p> - </p>
+<p> 债券 </p>
+<p> - </p>
+<p> 理财 </p>
+<p> - </p>
+<p> 银行 </p>
+<p> - </p>
+<p> 保险 </p>
+<p> - </p>
+<p> 信托 </p>
+<p> - </p>
+<p> 房产 </p>
+<p> - </p>
+<p> 汽车 </p>
+<p> - </p>
+<p> 科技 </p>
+<p> - </p>
+<p> 股吧 </p>
+<p> - </p>
+<p> 论坛 </p>
+<p> - </p>
+<p> 博客 </p>
+<p> - </p>
+<p> 微博 </p>
+<p> - </p>
+<p> 视频 </p>
+<p> - </p>
+<p> 理财服务 </p>
+<p> - </p>
+<p> Ａ股超市 </p>
+<p> var href=window.location.href;    hexunMember_loginSetup_signOutURL=href;//登出地址 hexunMember_loginSetup_noLoginDisplayMsg=""; //没登陆的提示 hexunMember_loginSetup_noLoginDisplayFlag="|";//登录和注册中间的分隔符号 或 用户名与登出中间的分隔符号，不需要分隔符可以为空 hexunMember_loginSetup_islogined_isDisplay=true;//如果是登陆状态，true=显示用户名和登出按钮等信息,flase=不显示任何信息 hexunMember_loginSetup_referrer=document.referrer;//请不要修改此项 hexunMember_loginSetup_MastLogin=0;//如果需要不登陆就一直弹窗，在此设置一下弹窗时间间隔(秒)。如果等于0本项无效 </p>
+<p> 设和讯为首页 </p>
+<p> 手机版 </p>
+<p> 手机版 </p>
+<p> (function(){ var obj = document.getElementById('phoneNewsText'); var url = window.location.href; if(url.indexOf('news.hexun.com')!=-1) {    obj.style.margin = '17px 0 0 20px';    obj.innerHTML = '免费手机资讯客户端下载';    obj.href = 'http://3g.hexun.com/download_zx.jsp'; } })(); </p>
+<p> 股票/基金 </p>
+<p> 微博 </p>
+<p> 新闻 </p>
+<p> 博客 </p>
+<p> new hxSuggest('textMessage','http://data.stock.hexun.com/include/AjaxSearch2011.ashx',{contrainer:document.getElementById('standStockPanel')}); </p>
+<p> (function(){ var reg = /^[http:\/\/\w|/w]+\.hexun\.com(\/|(\?[^\/]+)|\/index.html|\/index\-[\w]+.html)*$/; if(reg.test(window.location.href)){     var newNode = document.createElement("div");//创建div newNode.className="cabar";     var oldNode =document.getElementById("hexunCalendar");//获取div newNode.innerHTML = "<div id='hexunCalendar' class='hxcal'></div>";        oldNode.parentNode.replaceChild(newNode,oldNode);//直接替换标签 var w_div = document.createElement('div'); w_div.className = 'weather'; var w_frame = document.createElement('iframe'); w_frame.width = '100%'; w_frame.height = '22'; w_frame.frameBorder = '0'; w_frame.scrolling = 'no'; w_frame.allowTransparency = 'true'; w_frame.style.display = 'none'; w_frame.src = "http://m.weather.com.cn/m/hexunhead/"; w_div.appendChild(w_frame); newNode.appendChild(w_div);  if(w_frame.readyState)     w_frame.onreadystatechange = function() {       if(w_frame.readyState == 'loaded' || w_frame.readyState == 'complete') {     w_frame.style.display = ''; }    }; else  w_frame.onload = function() {     w_frame.style.display = '';     }; } })(); </p>
+<p> 楼市新闻 </p>
+<p> 地产金融 </p>
+<p> 地产评论 </p>
+<p> 焦点专题 </p>
+<p> 滚动新闻 </p>
+<p> 房产图库 </p>
+<p> 置业投资刊 </p>
+<p> 地产新旅行 </p>
+<p> 地产人物 </p>
+<p> 地产金融刊 </p>
+<p> 地产名人堂 </p>
+<p> 地产基金 </p>
+<p> 新房 </p>
+<p> 二手房 </p>
+<p> 租赁 </p>
+<p> 房产博客 </p>
+<p> 业内论坛 </p>
+<p> 天津 </p>
+<p> 和讯网 </p>
+<p> > </p>
+<p> 房产 </p>
+<p> > </p>
+<p> 正文 </p>
+<p> 打印 </p>
+<p> RSS </p>
+<p> 瑞信德银看好恒大 称今年目标易达成 </p>
+<p> 字号 </p>
+<p> showComment_03(137359598,67) </p>
+<p> 2012年01月17日19:35 </p>
+<p> 来源： </p>
+<p> 观点地产网 </p>
+<p> 作者： </p>
+<p> 见习编辑 李琼皙 </p>
+<p> 观点地产网讯 </p>
+<p> 1月16日，恒大地产在香港召开了2012年销售目标发布会，公布其2012年销售目标为800亿元。其2011年的销售额为803.9亿元，完成去年计划的114.8%，较2010年的504.2亿元增长59.4%。 </p>
+<p> 瑞银表示，恒大今年合约销售目标，较早前预期比2011年实现合约销售额高出10%至15%或达900亿要低。管理层解释，由于今年市况仍充满挑战，加上该集团由去年11月起调高平均售价，维持每平米6500元至6800元水平，保障毛利率及净利率，强调非常有信心达成目标。 </p>
+<p> 瑞信集团发表报告指，与其他内房企的进取目标相比，恒大今年目标较易达成，维持“优于大市”评级，目标价5.1港元不变。 </p>
+<p> 同时德银发表研究报告指，根据过往经验，恒大于2009年至去年的销售目标，均能超额完成，达115%至152%，且其今年拥有足够的可销售项目，完成目标非难事。该行表示，恒大股价仍续向上，更较同业的升幅高。16日的收市价，较预测资产净值折让68%，分别为其去年及明年的盈利4.2倍和3.1倍，续认为恒大是内房股的首选之一。 </p>
+<p> (function(){ var obj = null; if(document.getElementById('arctTailMark')) { obj = document.getElementById('arctTailMark'); } if(obj!=null) { var str = ' <a href=" http://www.hexun.com/?from=hxlogo" target="_blank" title="点击进入和讯首页"><img src=" http://img.hexun.com/home/hx.gif" style="margin:0;"/></a>'; try { 	var oo = obj.previousSibling; while(oo.nodeType!=1 || oo.innerHTML.replace(/\s|\u3000/g,'').length==0) {    oo = oo.previousSibling; } if(oo.nodeType==1 && oo.tagName.toLowerCase()=='p') {   var span = document.createElement('span');   span.innerHTML =str;   oo.appendChild(span);  } } catch (e){} } })(); </p>
+<p> 相关新闻 </p>
+<p> 01/17 16:09 </p>
+<p> 恒大地产许家印：2012下半年房地产将好转 </p>
+<p> 01/17 15:31 </p>
+<p> 恒大地产高速增长结束 2012年目标800亿 </p>
+<p> 01/17 09:54 </p>
+<p> 恒大地产2011销售虽达标但2012销售或放缓 小幅上涨 </p>
+<p> 01/17 06:04 </p>
+<p> 恒大去年销售突破800亿元 </p>
+<p> 01/17 05:52 </p>
+<p> 恒大2011年销售领跑全国房企 </p>
+<p> 01/17 03:22 </p>
+<p> 恒大地产去年实现 销售额803.9亿元 </p>
+<p> 01/17 03:06 </p>
+<p> 恒大地产2011年实现销售803亿 </p>
+<p> 01/17 02:43 </p>
+<p> 助恒大全年劲销803.9亿 </p>
+<p> 相关推荐 </p>
+<p> 恒大 </p>
+<p> 我有话说 </p>
+<p> 已有 </p>
+<p> 0 </p>
+<p> 位网友发言 </p>
+<p> showComment_02(137359598,67) </p>
+<p> 自动登录 </p>
+<p> 用户名： </p>
+<p> 密码： </p>
+<p> 请在这里发表您个人看法，发言时请遵守法纪注意文明。 </p>
+<p> 正在验证用户信息... </p>
+<p> var valueofnameinput="用户名/邮箱/手机"; var valueofpassinout="******"; 	function checkLeaveWord() { 	var obj = document.getElementById('contentBefore'); 	obj. disabled='disabled'; 	obj.style.background = '#F5F5F5'; 	obj.value = '请登录后再发表评论！'; 	} </p>
+<p> alfdls </p>
+<p> 您好，欢迎您发表评论！ </p>
+<p> （言论仅代表会员个人观点，不代表和讯网观点） </p>
+<p> 观点地产网讯　　1月16日，恒大地产在香港召开了2012年销售目标发布会，公布其2012年销售目标为800亿元。其2011年的销售额为803.9亿元，完成去年计划的114.8%，较2010年的504.2亿元增长59.4%。　　瑞银表示，恒大今年合约销售目标，较早前预期比2011年实现合约销售额高出10%至15%或达900亿要低。管理层解释，由于今年市况仍充满挑战，加上该集团由去年11月起调高平...... </p>
+<p> 请在这里发表您个人看法，发言时请遵守法纪注意文明。 </p>
+<p> 房产精品推荐 </p>
+<p> 产品： </p>
+<p> 置业投资刊 </p>
+<p> 地产金融刊 </p>
+<p> 地产新旅行 </p>
+<p> 房源： </p>
+<p> 新房 </p>
+<p> 二手房 </p>
+<p> 租赁 </p>
+<p> 揭开迪拜奢华的幕后真相 </p>
+<p> 六成上市房企未完成年度目标 绿城下滑最多 </p>
+<p> [深圳新房成交量再降15%] </p>
+<p> [长珠三角地价开降 全国土地供应仍偏紧] </p>
+<p> 恒大地产2012年目标800亿 </p>
+<p> 龙头房企近期频拿地　金额逾百亿 </p>
+<p> 摩根大通预期今年房价跌5%-10% </p>
+<p> 2012年房企第一大难题：还债 </p>
+<p> 仕一邦:2012地产调控何去何从？ </p>
+<p> 上海普通商品房标准放宽 </p>
+<p> 盘点明星购房纠纷 </p>
+<p> 让人感到特温馨的瞬间 </p>
+<p> 央视一线女主持家居照 </p>
+<p> 百度最美HR前男友曝光 </p>
+<p> 推广 </p>
+<p> 热点 </p>
+<p> 热点 </p>
+<p> 每日要闻推荐 </p>
+<p> 温州商会会长自杀 生前一直在努力卖房 </p>
+<p> 欧洲PE巨头泰丰资本抄底中国房地产市场 </p>
+<p> 人大代表建全球最大单体建筑 可落250架直升机 </p>
+<p> 韩正：上海高房价背离了可持续发展 今年政策不变 </p>
+<p> 2011年全国房产开发投资61740亿 实际增长20% </p>
+<p> 家庭人均可支配收入5000元有望申请共有产权房 </p>
+<p> 精彩焦点图鉴 </p>
+<p> 20条必看家居风水禁忌 </p>
+<p> 世界十大最丑陋建筑 </p>
+<p> 那个年代的清华园(组图) </p>
+<p> 明星们不可思议的恋情 </p>
+<p> 排行榜 </p>
+<p> 1 </p>
+<p> 割肉转让、退地降价，无锡开发商是否已到极限？ </p>
+<p> 2 </p>
+<p> 恒大地产营口滞销许家印陷大跃进陷阱 </p>
+<p> 3 </p>
+<p> 韩正：上海高房价背离了可持续发展 今年政策不变 </p>
+<p> 4 </p>
+<p> 潘石屹：楼市下一个政策是房产税 </p>
+<p> 5 </p>
+<p> 广州刚需客年前看楼年后抄底 </p>
+<p> 6 </p>
+<p> 投资客看空今年上海二手房后市 </p>
+<p> 7 </p>
+<p> 全国住宅平均地价环比增幅跌落至零 </p>
+<p> 8 </p>
+<p> 中山住宅成交跌五成楼价回到两年前 </p>
+<p> 9 </p>
+<p> 1月上半月北京住宅网签同比下跌64%创4年新低 </p>
+<p> 10 </p>
+<p> 沪地新年首拍万达底价胜出 </p>
+<p> 【免责声明】本文仅代表作者本人观点，与和讯网无关。和讯网站对文中陈述、观点判断保持中立，不对所包含内容的准确性、可靠性或完整性提供任何明示或暗示的保证。请读者仅作参考，并请自行承担全部责任。 </p>
+<p> 和讯恭候您的意见 </p>
+<p> - </p>
+<p> 联系我们 </p>
+<p> - </p>
+<p> 关于我们 </p>
+<p> - </p>
+<p> 广告服务 </p>
+<p> (function(){ if((/^[http:\/\/]*news\.hexun\.com(\/|\/index\.html)*$/).test(window.location.href)) document.write('<span style="padding-left:18px;">执行主编：姜洪桥</span>'); })(); </p>
+<p> 本站郑重声明：和讯公司系政府批准的证券投资咨询机构[ZX0005]。所载文章、数据仅供参考，使用前请核实，风险自负。 </p>
+<p> Copyright© 和讯网 和讯信息科技有限公司 All Rights Reserved 版权所有 复制必究 </p>
+<p> if(document.getElementById("shilu")!=null) { document.getElementById("shilu").style.width="710px"; } </p>
+<p> function coutLinkFrom(strId,mark,isId,p){   var obj = null;   if(isId) {   if(!document.getElementById(strId)) return;   obj = document.getElementById(strId);   }   else {      var parent = (typeof p!='undefined' && document.getElementById(p))?document.getElementById(p):document;      var arr = parent.getElementsByTagName('*');  var classesObj = [];  for(var i=0,l=arr.length;i<l;i++) {    if(arr[i].className && arr[i].className == strId) classesObj.push(arr[i]);  }  if(classesObj.length>=1) obj = classesObj[0];   }   if(obj==null) return;   var alist = obj.getElementsByTagName('a');   var len = alist.length;   for(var i=0;i<len;i++) {     if(alist[i].href) {    alist[i].href = (alist[i].href.indexOf('?')!=-1)?(alist[i].href+'&'+mark):(alist[i].href+'?'+mark); }   } } coutLinkFrom('jjjxmod','fromfunds=jjjx',false,'mainleft'); coutLinkFrom('yued','fromfunds=tjxd',true); </p>
+<p> (function(){   var reg = /^[http:\/\/\w|\w\.*\w|\w]+\.hexun\.com(\/|(\?[^\/]+)|\/index.html|\/index\-[\w]+.html)*$/;   if(!reg.test(window.location.href)) {     document.write('\x3Cscript type="text/javascript" src="http://img.hexun.com/base/version/hx_base.min1.1.js">\x3C/script>'+'\x3Cscript type="text/javascript" src="http://img.hexun.com/share/hxShare2011.js">\x3C/script><link href="http://img.hexun.com/share/hxShare2011.css" type="text/css" rel="stylesheet" />');     if(window.attachEvent) window.attachEvent('onload',function() {hxShare2011('');}); 	if(window.addEventListener) window.addEventListener('load',function(){hxShare2011('');},false);   } })(); </p>
+<p> (function(){ 	//全站通发广告 	var reg=/\/\d{9}(_\d+)?.(html|html\?\w*)$/;		 	if(reg.test(location.href)){ 		document.write('<script type="text/javascript" src="http://itv.hexun.com/lbi-html/ly/2011/allPages/tempAd.js"><\/script>'); 	} })() </p>

@@ -1,0 +1,296 @@
+<p> var _sf_startpt=(new Date()).getTime() </p>
+<p> Public-service cuts won’t impact food safety, Agriculture Minister says - The Globe and Mail </p>
+<p> $.namespace('globe'); globe.conf = { financeServiceUrl: 'http://services.theglobeandmail.com/InvestorServices/FinanceService', newsSourcesUrl: 'http://www.theglobeandmail.com/globe-investor/news-sources/', newsServiceUrl: 'http://services.theglobeandmail.com/InvestorServices/NewsService', searchServiceUrl: 'http://services.theglobeandmail.com/InvestorServices/SearchService', templateUrl: 'http://www.theglobeandmail.com/template/ver1-0', mediaUrl: 'http://beta.images.theglobeandmail.com', stockQuoteUrl: 'http://www.theglobeandmail.com/globe-investor/markets/stocks/summary/', fundQuoteUrl: 'http://www.theglobeandmail.com/globe-investor/funds-and-etfs/funds/summary/', indexQuoteUrl: 'http://www.theglobeandmail.com/globe-investor/markets/indexes/summary/', emptyMessage: '0 results found', publicationUrl: 'http://www.theglobeandmail.com/', ajaxUrl: 'http://www.theglobeandmail.com/', liveSuggestCacheLength: '100', liveSuggestUrl: 'http://ls.services.theglobeandmail.com/services-0.1/search/live', chartServiceUrl:	'http://freechart.globeinvestor.com/servlet/charting', secureUsrm: 'true', securePublicationUrl: 'https://sec.theglobeandmail.com/', uniqueSectionName: 'national', webappEnviro: 'prod', weatherJSONurl: '/static/weather/json/', watchlistUrl: '/globe-investor/my-watchlist', facebookAPI: '126045934076200', legacyDbUrl: 'http://investdb.theglobeandmail.com', watchlistServiceUrl: 'http://investdb.theglobeandmail.com/invest/investSQL/gx.get_stocklist_cookie?pi_return_url=' }; $.namespace('globe.investor'); globe.investor.securityType = { FUND: '1', STOCK: '5', BOND: '10', COMMODITY: '15', ETF: '20', INDEX: '25', CURRENCY: '30' }; globe.investor.securityNames = []; globe.investor.securityNames[globe.investor.securityType.FUND] = 'Fund'; globe.investor.securityNames[globe.investor.securityType.STOCK] = 'Stock'; globe.investor.securityNames[globe.investor.securityType.INDEX] = 'Index'; globe.investor.securityNames[globe.investor.securityType.ETF] = 'ETF'; globe.investor.securityNames[globe.investor.securityType.BOND] = 'Bond'; globe.investor.securityNames[globe.investor.securityType.COMMODITY] = 'Commodity'; globe.investor.securityNames[globe.investor.securityType.CURRENCY] = 'Currency'; globe.investor.marketClose = { ca: 1326835800546 }; globe.investor.proxy = { timeout: 6*1000 }; </p>
+<p> var advLastSectionCookie = "gam.adv.lastSection"; adv.site = "theglobeandmail.com"; adv.vertical = "gam"; adv.zone = "national"; adv.crumb = "-pubRoot-news-national-article"; lastSectionCookie = $.cookie(advLastSectionCookie); if (lastSectionCookie == null){ lastSectionCookie = "national"; } adv.loc = "art"; adv.art.categories = ""; adv.art.sections = "national,politics"; adv.art.sectionsHier = "news:national,news:politics"; adv.adpg = "politics"; adv.art.id = "2304721"; adv.art.slug = ""; adv.art.headline = "Public-service cuts won&rsquo;t impact food safety, Agriculture Minister says"; adv.art.type = "news"; adv.art.byline = "gloria galloway"; adv.art.credit = "from tuesday's globe and mail"; adv.art.keywords = "food safety, meat inspection, federal budget, public service cuts, Service Canada"; adv.lastSection = lastSectionCookie; </p>
+<p> if (typeof console == "undefined") { console = {log: function() {}, warn: function() {}} }; document.domain = "theglobeandmail.com"; var serverUrl = "http://sitelife.theglobeandmail.com/ver1.0/Direct/Process"; globe.common.currUser = $.cookie('hd'); </p>
+<p> Visit our mobile site </p>
+<p> $.namespace('globe.mobile'); globe.mobile.mobileSmartDevice ="iphone,itouch,blackberry,android"; globe.mobile.agent = navigator.userAgent.toLowerCase(); globe.mobile.phones = globe.mobile.mobileSmartDevice.split(','); for(var i=0; i<globe.mobile.phones.length;i++){ if (globe.mobile.phones[i] != "" && globe.mobile.agent.indexOf(globe.mobile.phones[i]) > -1) {$("#mobileDetection").show();} } $("#mobileDetection").click(function(){ if($.cookie('mobile.redirect')){ $.cookie('mobile.redirect', null,{domain:'theglobeandmail.com', expires:7}); location.href = "?service=mobile"; } else { location.href = "?service=mobile"; } }); </p>
+<p> aPs="ldbd"; var ldbdAC=fnTkt('a'+'ai',728,90,ai,'j',nc); document.write(ldbdAC); </p>
+<p> if(adv_ldbdW=="ldbd960"){fnSwapDivClass("ldbd-sec-1","ad ldbd","ad ldbd full");} </p>
+<p> The Globe and Mail </p>
+<p> Go to the Globe and Mail homepage </p>
+<p> Jump to main navigation </p>
+<p> Jump to main content </p>
+<p> Search: </p>
+<p> News </p>
+<p> Quote </p>
+<p> Web </p>
+<p> Businesses </p>
+<p> People </p>
+<p> Jobs </p>
+<p> News Search </p>
+<p> News </p>
+<p> Search Stock Quotes </p>
+<p> Quote </p>
+<p> Search The Web </p>
+<p> Search </p>
+<p> by </p>
+<p> Google </p>
+<p> Search People at canada411.ca </p>
+<p> People </p>
+<p> by </p>
+<p> Canada411.ca </p>
+<p> Search Businesses at yellowpages.ca </p>
+<p> Business </p>
+<p> by </p>
+<p> Yellowpages.ca </p>
+<p> Search Jobs at eluta.ca </p>
+<p> Jobs </p>
+<p> by </p>
+<p> eluta.ca </p>
+<p> $('#masthead .searchText').mouseenter(function() {$('.globalSearch .submit').fadeIn('fast');}); </p>
+<p> Login </p>
+<p> Register </p>
+<p> globe.usrm.renderMastLinks(); </p>
+<p> Select City </p>
+<p> Select City </p>
+<p> Calgary </p>
+<p> Halifax </p>
+<p> Montreal </p>
+<p> Toronto </p>
+<p> Vancouver </p>
+<p> More cities </p>
+<p> // add locationID to link in mast head when default city is chosen var defaultweathercity = $.cookie("gam.weather.default"); //console.log(defaultweathercity); $('#weather-info a').attr('href', function() { if (defaultweathercity != null) { // if not empty return this.href + defaultweathercity; } }); </p>
+<p> Home </p>
+<p> News </p>
+<p> Commentary </p>
+<p> Business </p>
+<p> Investing </p>
+<p> Sports </p>
+<p> Life </p>
+<p> Arts </p>
+<p> Technology </p>
+<p> Drive </p>
+<p> Site map </p>
+<p> National </p>
+<p> Politics </p>
+<p> World </p>
+<p> News Video </p>
+<p> Toronto </p>
+<p> Kindergarten </p>
+<p> Inside City Hall </p>
+<p> Marcus Gee </p>
+<p> Globe T.O. Features </p>
+<p> Toronto Traffic </p>
+<p> City Votes </p>
+<p> British Columbia </p>
+<p> B.C. Politics </p>
+<p> Alexandra Gill </p>
+<p> Tom Hawthorn </p>
+<p> Mark Hume </p>
+<p> Gary Mason </p>
+<p> Rod Mickleburgh </p>
+<p> Stephen Quinn </p>
+<p> The Pickton Case </p>
+<p> Prairies </p>
+<p> Ontario </p>
+<p> Quebec </p>
+<p> Atlantic </p>
+<p> Time to Lead </p>
+<p> Education </p>
+<p> Primary to Secondary </p>
+<p> University and College </p>
+<p> Graduate Studies </p>
+<p> Campus Reports </p>
+<p> Home </p>
+<p> » </p>
+<p> News </p>
+<p> » </p>
+<p> National </p>
+<p> • </p>
+<p> Remembrance Day </p>
+<p> ‘Law of domicile’ should have no veto on th... </p>
+<p> Back to Watchlist </p>
+<p> The perfect tool to help you manage and track your investments. </p>
+<p> if(document.referrer.indexOf("theglobeandmail.com/globe-investor/my-watchlist/") != -1) document.getElementById("watchlistLink").style.display = "block"; </p>
+<p> Additional food-safety inspectors were hired after a listerioisis outbreak in 2008 killed 23 people. </p>
+<p> Fred Lum/The Globe and Mail </p>
+<p> Enlarge this image </p>
+<p> Public-service cuts won’t impact food safety, Agriculture Minister says </p>
+<p> gloria galloway </p>
+<p> OTTAWA— </p>
+<p> From Tuesday's Globe and Mail </p>
+<p> Published </p>
+<p> Monday, Jan. 16, 2012 8:45PM EST </p>
+<p> Last updated </p>
+<p> Tuesday, Jan. 17, 2012 7:46AM EST </p>
+<p> 76 comments </p>
+<p> Email </p>
+<p> Tweet </p>
+<p> Print </p>
+<p> / </p>
+<p> License </p>
+<p> Decrease text size </p>
+<p> Increase text size </p>
+<p> aPs="t1"; var t1AC=fnTkt('a'+'ai',120,240,ai,'j',nc); document.write(t1AC); </p>
+<p> Cuts to federal meat inspection that will take place as early as April demonstrate how reductions in public services widely anticipated in the coming federal budget could affect ordinary Canadians. </p>
+<p> The union that represents federal meat inspectors held a news conference on Monday to highlight plans by the Canadian Food Inspection Agency (CFIA) to eliminate 234 jobs in the next fiscal year – mostly food safety personnel who were hired after a listeriosis outbreak in 2008 killed 23 people. </p>
+<p> More related to this story </p>
+<p> Ottawa axes food inspectors added in wake of deadly deli-meat outbreak </p>
+<p> Food inspection cuts put Canadians at risk, union warns Ottawa </p>
+<p> Questions raised about gap in food inspection standards </p>
+<p> Video </p>
+<p> Flaherty looking for deeper budget cuts </p>
+<p> Treasury Board President Tony Clement has said all departments must find ways to cut between five and 10 per cent of their spending as the government grapples with a deficit of $31-billion. </p>
+<p> But Bob Kingston, the president of the Agriculture Union, said the elimination of meat inspection jobs outlined in CFIA’s 2011-12 Estimates Report on Plans and Priorities is in addition to whatever cuts the agency will have to make to meet the demands of the coming budget. </p>
+<p> The report forecasts a reduction of $21.5-million from a current annual program cost of $744-million and says “resources will sunset for listeriosis and for increased frequency of food inspection in meat processing establishments” at the end of the current fiscal year. </p>
+<p> Mr. Kingston said that will mean the loss of the 170 extra inspectors who were hired after an investigation blamed a lack attention to food safety in both the public and private sectors for the deadly outbreak listeriosis at a Maple Leaf processing plant in Toronto. </p>
+<p> Meanwhile, other federal departments are also trimming costs as part of an earlier program review in addition to the heavy chopping that that will be forced upon them when Finance Minister Jim Flaherty releases his as-yet-unscheduled budget in February or March. </p>
+<p> Environment Canada announced last week that 60 of its employees – engineers, compliance officers, biologists, climatologists and others – had been told their services would no longer be needed. </p>
+<p> And Service Canada only recently agreed to hire additional staff on a temporary basis after reductions in the number of employees who process employment insurance claims created backlogs and delays that had become unmanageable. </p>
+<p> Larry Rousseau, a vice-president of the Public Service Alliance of Canada, which includes the Agriculture Union, said the government reduced its revenue flow by cutting the corporate tax rates and that means there is less money for public services. </p>
+<p> At the same time, it has been expanding the public service. Since taking office in 2006, the federal bureaucracy had grown by some 33,000 jobs and federal spending has increased by $75-billion or 43 per cent. Now the government has determined it is time to cut back. </p>
+<p> Agriculture Minister Gerry Ritz, who is responsible for the CFIA, said in an e-mail on Monday that “Canadian families can be assured that the safety of our food supply will not be affected as federal departments and agencies look for ways to be more efficient and more financially prudent with taxpayer’s dollars.” </p>
+<p> But neither Mr. Ritz nor his department could explain how food safety would remain unscathed by the loss of inspectors in meat processing plants. </p>
+<p> Malcolm Allen, the agriculture critic for the opposition New Democrats, said food safety should be spared when the government makes its cuts. “This is really irresponsible on the government’s part to really take a machete when they need to take a scalpel,” he said. “This is one group that in my view should have been left alone.” </p>
+<p> More related to this story </p>
+<p> Food no safer than before tainted-meat scandal, union says </p>
+<p> Flaherty won't take one-scythe-fits-all approach to 2012 budget </p>
+<p> McGuinty, Harper and the politics of spending cuts </p>
+<p> Flaherty’s tax credits cost Ottawa billions </p>
+<p> Conservatives push for deeper cuts to keep budget on track </p>
+<p> Union slams ‘absurd choice’ between balanced budget, public services </p>
+<p> Flaherty’s corporate-tax plan hits stumbling block in Ontario </p>
+<p> Ottawa weighs sweeping review of tax system </p>
+<p> Deeper cuts mean bigger bonuses, senior bureaucrats told </p>
+<p> Tories waste no time hitting brakes on spending, watchdog finds </p>
+<p> 76 comments </p>
+<p> Email </p>
+<p> Tweet </p>
+<p> Print </p>
+<p> / </p>
+<p> License </p>
+<p> Decrease text size </p>
+<p> Increase text size </p>
+<p> aPs="boxr"; var boxrAC=fnTkt('a'+'ai',300,250,ai,'j',nc); document.write(boxrAC); </p>
+<p> Today's Must Reads </p>
+<p> Globe Drive </p>
+<p> Deals of the week: Always read the fine print </p>
+<p> Sports </p>
+<p> Plushenko vs. Chan: Get ready for a skating showdown </p>
+<p> Globe Investor </p>
+<p> Is now the time to lock in my mortgage? </p>
+<p> Life </p>
+<p> Jay-Z vows to clean up his lyrics following daughter's birth </p>
+<p> Life </p>
+<p> Is Rob Ford’s weight-loss goal realistic? </p>
+<p> More from The Globe and Mail </p>
+<p> News </p>
+<p> Charged with espionage, naval officer seeks delay in bail hearing </p>
+<p> Report On Business </p>
+<p> Carney sees consumer debt burdens growing even fatter </p>
+<p> Nutrition </p>
+<p> Healthy Eating Jump-Start Day 12: Eat one vegetarian meal </p>
+<p> Technology </p>
+<p> Wikipedia, Reddit going dark to protest anti-piracy bill </p>
+<p> aPs="halfpager"; var halfpagerAC=fnTkt('a'+'ai',300,600,ai,'j',nc); document.write(halfpagerAC); </p>
+<p> MOST POPULAR STORIES </p>
+<p> Captain of doomed cruise ship pleaded not to reboard </p>
+<p> Narrowly spurned by Liberals, Sheila Copps throws in the towel </p>
+<p> Iranian regime ‘frightens me,’ Harper says </p>
+<p> Charged with espionage, naval officer seeks delay in bail hearing </p>
+<p> Gallery: Cruise ship disaster </p>
+<p> Back to top </p>
+<p> MORE TOP STORIES </p>
+<p> News </p>
+<p> Captain of doomed cruise ship pleaded not to reboard </p>
+<p> Opinions </p>
+<p> This month's editorial cartoons </p>
+<p> Sports </p>
+<p> Three Canadians storm into 2nd round at Australian Open </p>
+<p> Globe Drive </p>
+<p> Average age of vehicles in U.S. hits record 10.8 years </p>
+<p> Technology </p>
+<p> Google spends big on online privacy charm offensive </p>
+<p> Technology </p>
+<p> Heads up: Pedestrians injured or killed while wearing headphones triples </p>
+<p> Photos </p>
+<p> TV: Five shows worth watching tonight </p>
+<p> Best pictures from the past 24 hours </p>
+<p> Video </p>
+<p> NJ mom gives birth on PATH Train </p>
+<p> Calgary couple describes cruise ship ordeal </p>
+<p> Step inside the Arthur, a tiny shop of vintage wonders </p>
+<p> You dirty rats! NYC subway workers go online with complaints </p>
+<p> Enjoy the convenience of having The Globe and Mail delivered right to your door, your mobile phone and computer. From exclusive content and mobile apps to online tools and loyalty programs, The Globe lets you experience Canada's deepest coverage of national, international, business, and lifestyle news where you want, when you want. </p>
+<p> Home </p>
+<p> News </p>
+<p> Commentary </p>
+<p> Business </p>
+<p> Investing </p>
+<p> Sports </p>
+<p> Life </p>
+<p> Arts </p>
+<p> Technology </p>
+<p> Drive </p>
+<p> Site map </p>
+<p> More Sections </p>
+<p> Appointments </p>
+<p> Art Store </p>
+<p> Births & Announcements </p>
+<p> Careers </p>
+<p> Globe Campus </p>
+<p> Classifieds </p>
+<p> Classroom Edition </p>
+<p> Contests </p>
+<p> Deaths </p>
+<p> Newspaper Ads </p>
+<p> Real Estate </p>
+<p> Special Reports </p>
+<p> Sustainability mandate </p>
+<p> Globe Plus </p>
+<p> Subscribe </p>
+<p> Globe Recognition </p>
+<p> Recognition card </p>
+<p> Advertise </p>
+<p> Advertise with us </p>
+<p> Newspaper </p>
+<p> Magazine </p>
+<p> Online </p>
+<p> Marketing Solutions Group </p>
+<p> Media Central </p>
+<p> Classifieds </p>
+<p> Online </p>
+<p> Help </p>
+<p> Contact Us </p>
+<p> Newspaper </p>
+<p> Customer Care </p>
+<p> Contact Us </p>
+<p> Staff </p>
+<p> Corrections </p>
+<p> Subscribe </p>
+<p> Vacation Stops </p>
+<p> Change Address </p>
+<p> Privacy Policy </p>
+<p> Terms & Conditions </p>
+<p> Disclaimer </p>
+<p> © Copyright 2012 The Globe and Mail Inc. All Rights Reserved. </p>
+<p> 444 Front </p>
+<p> St. </p>
+<p> W. </p>
+<p> , </p>
+<p> Toronto </p>
+<p> , </p>
+<p> ON </p>
+<p> Canada </p>
+<p> M5V 2S9 </p>
+<p> Phillip Crawley, Publisher </p>
+<p> var s_account="bellgmpnewprod"; </p>
+<p> <!--// SiteCatalyst code version: H.17. Copyright 1997-2008 Omniture, Inc. More info available at http://www.omniture.com --> /* standard channel vars */ s.pageName = "news:national:article"; // Page s.channel = "news"; // Site section s.prop3 = s.getAndPersistValue("Not Set", "s_user_zip", (365*5)); s.zip = "D=c3"; s.prop4 = s.getAndPersistValue("Not Set", "s_user_country", (365*5)); s.eVar4 = "D=c4"; s.prop2 = s.getAndPersistValue("Not Logged In", "s_user_login_status"); s.eVar3 = "D=c2"; if (adv.loc == "art") { s.prop1 = "Single Page View - No Pagination"; // pagination , could not be set in omnitureParams because variable not set in header s.prop37 = "small lead photo"; // header image layout s.prop12 = "Public-service cuts won&rsquo;t impact food safety, Agriculture Minister says"; // Content Title (headline) s.prop13 = "GLORIA GALLOWAY"; // Byline s.prop14 = "From Tuesday's Globe and Mail"; // Credit(headline) s.prop16 = "2304721"; // Content ID (article ID) var selectedTab = window.location.toString().split("#")[1]; // handle preset article tabs if (!selectedTab) { selectedTab = "news"; } s.prop42 = selectedTab; // Content Type (active article tab) } if (s.pageName.indexOf("carprofile") >= 0) { // check if section is car profile s.prop35 = ""; // Car Make/Model/Year var selectedTab = window.location.toString().split("#")[1]; // handle preset profile tabs if (!selectedTab) { selectedTab = "small lead photo"; } s.prop37 = selectedTab; // Content Type (active article tab) } s.prop15 = document.location.href; s.prop35 = ""; // wildcard s.prop36 = "editorial"; // section type s.prop42 = "news"; // article type or blog section s.prop43 = "news"; // Sub-section 1 s.prop44 = "news:national"; // Sub-section 2 s.prop45 = "news:national"; // Sub-section 3 s.prop46 = "news:national"; // Sub-section 4 s.prop47 = "news:national"; // Sub-section 5 s.prop22 = "news:national"; // Sub-section 6 s.prop23 = "news:national"; // Sub-section 7 s.prop29 = ""; // sponsor name s.prop41 = ""; // partner name s.prop21 = ""; // blog name if (s.pageName.indexOf("giforums") >= 0) { // check if section is GI Forum URLlocation = document.URL; var forumVar = URLlocation.toString().split("forums/")[1]; // handle preset profile tabs var forumName = forumVar.toString().split("_")[1]; if (forumName) { s.prop46 = "news:national:"+forumName; // Sub-section 4 s.prop47 = s.prop46; // Sub-section 5 s.prop22 = s.prop47; // Sub-section 6 s.prop23 = s.prop22; // Sub-section 7 } } if (s.prop44.indexOf("locked article") >= 0) { // check if tag is for locked article s.prop16 = "2304721"; // Content ID (article ID) } var videoPageName = s.pageName; /** * Implementation of tracking for photos within an image gallery. * @param {int} index the current index of the photo being viewed. * @param {int} length the total number of photos within the active gallery */ function trackPhotoView(index, length) { s.events = "event35"; var usePageView = false; var linkName = "Photo gallery view"; s.prop1 = ''; s.eVar1 = ''; /* Check for restart */ if (index == 1) { s.events = s.apl(s.events, "event36", ",", 1); } /* Check for initial photo view or every third photo view */ if (index == 1 || index % 3 == 0) { s.events = s.apl(s.events, "event16", ",", 1); linkName = ""; usePageView = true; s.prop1 = index; } else { s.eVar1 = index; } /* Check for half-way point */ var half = Math.round(length / 2) + 1; if (index == (half-1)) { s.events = s.apl(s.events, "event37", ",", 1); linkName = "Half-way photo gallery view"; } /* Check for complete */ if (index == (length)) { s.events = s.apl(s.events, "event38", ",", 1); linkName = "Completed photo gallery"; } if (usePageView) { s.t(); } else { s.linkTrackVars = 'events,eVar1,prop1'; s.linkTrackEvents = s.events; s.tl(this, 'o', linkName); } COMSCORE.beacon({ c1: "2", c2: "10251187" }); } //try { // s.campaign = $.query.get('cid'); // $.query script not on page if this fails //} catch (e) {} /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/ var s_code=s.t();if(s_code)document.write(s_code)//--> </p>
+<p> <!-- if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-') //--> </p>
+<p> //<![CDATA[ var clientDT = new Date().getTime(); document.write('<img src="http://ecestats.theglobeandmail.com/eae-logger/Logger?rt=1&ctxId=362&pubId=350&cat=&meta=&objId=2304721&type=news&title=Public-service+cuts+won%26amp%3brsquo%3bt+impact+food+safety%2c+Agriculture+Minister+says&url=http%3a%2f%2fwww.theglobeandmail.com%2fnews%2fpolitics%2fpublic-service-cuts-wont-impact-food-safety-agriculture-minister-says%2farticle2304721%2f&amp;clientDT='+clientDT+'" alt="" width="1" height="1"/>'); //]]> </p>
+<p> var globalPluckLocation = null; </p>
+<p> window.fbAsyncInit = function() { FB.init({appId:'126045934076200',status:true,cookie:true,xfbml:true}); FB.getLoginStatus(function(response) { if (response.session) { // User is logged in to FB FB.XFBML.parse(); } else { FB.Event.subscribe('auth.login', function(response) { // Listen for the user logging in to FB via TGAM FB.XFBML.parse(); }); } }); // Track facebook like event try { FB.Event.subscribe('edge.create', function(response) { s.events = s.apl(s.events, "event7", ",", 1); s.linkTrackVars = "events"; s.linkTrackEvents = s.events; s.tl(this, 'o', "Recommend Article on Facebook"); }); } catch (e) { console.log("Caught error in FB.Event.subscribe on edge.create ", e); } }; (function() { var e = document.createElement('script'); e.type = 'text/javascript'; e.src = document.location.protocol+'//connect.facebook.net/en_US/all.js'; e.async = true; document.getElementById('fb-root').appendChild(e); }()); </p>
+<p> © 2012 The Globe and Mail Inc. All Rights Reserved. </p>
+<p> $(document).ready(function(){ $('.leadPhotoPopUp').dialog({ autoOpen: false, dialogClass: 'leadPhotoPopUp', width: 620, title: false, modal: true, closeOnEscape: true }); function closeDialog() { $(".ui-widget-overlay").click(function() { $('.leadPhotoPopUp').dialog("close"); }); } $('.articleleadphoto').click(function(){ $('.leadPhotoPopUp').dialog("open"); closeDialog(); return false; }); }); </p>
+<p> var _comscore = _comscore || []; _comscore.push({ c1: "2", c2: "10251187" }); (function() { var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true; s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js"; el.parentNode.insertBefore(s, el); })(); </p>
+<p> var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-9891422-4']); _gaq.push(['_setDomainName', '.theglobeandmail.com']); _gaq.push(['_trackPageview']); (function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })(); </p>
+<p> Add to watchlist </p>
+<p> Close </p>
+<p> You have selected to add: </p>
+<p> No Security Selected </p>
+<p> Please select which watchlist you would like to add to: </p>
+<p> Add to Watchlist </p>
+<p> var showAddToWatchlistButton = 'true'; </p>
+<p> /* @function globe.investor.watchlistOverlay * * This is function should only be available on article pages. * This will display the overlay used to add this symbol to the your watch list. * */ var globeInvestorOverlaySetting = "login"; var globeInvestorErrorMsg = ""; var globeInvestorFundName = ""; var globeInvestorUserId = ""; var globeInvestorSecurity = ""; var globeInvestorSecurityType = ""; globe.investor.getInvestorUserId=function(uid){ var hdCookie = $.cookie("hd"); var stringIndex = 0; var cookieUid = ""; if (uid==""){ if (hdCookie!=""){ stringIndex = hdCookie.indexOf("|",0); cookieUid = hdCookie.substring(0,stringIndex); if (cookieUid==""){ cookieUid="-1" return cookieUid }else{ return cookieUid } }else{ cookieUid="-1" return cookieUid } }else{ return uid; } } globe.investor.watchlistOverlaySetting=function(type){ globeInvestorOverlaySetting = type; return false; } globe.investor.popWatchlistSelect=function(json){ $("#copy-watchlist").find('option').remove().end(); $("#copy-watchlist").append("<option value=\"-\">Select Watchlist</option>"); $.each(json, function(i, val) { if (this.watchlistId!="" || this.watchlistName!=""){ var wlName = this.watchlistName; if (wlName.length > 35) wlName = wlName.substring(0, 35) + "..."; $("#copy-watchlist").append("<option value=\""+this.watchlistId+"\">"+wlName+"</option>"); } }); if (globeInvestorSecurityType == 'funds') { $("#watchlist-add-security-name").html(globeInvestorFundName); } else { $("#watchlist-add-security-name").html(globeInvestorSecurity); } } globe.investor.successMessage=function(json){ //$.each(json, function(i, val) { // console.log(json.message) $("#copy-status").html("<div class=\"loading\"><img src=\"http://beta.images.theglobeandmail.com/images/globeinvestor/watchlist-loading-35x35.gif\" alt=\"loading\"/></div>"); $("#copy-status").html("<p class=\"responseMessage\">"+json.message+"</p>"); //}); } globe.investor.initWatchlistOverlay=function(){ if (globeInvestorUserId==""){ globeInvestorUserId = globe.investor.getInvestorUserId(globeInvestorUserId); } if (globeInvestorUserId != "-1"){ if(globe.usrm.isLoggedIn()) { $.ajax({ url: globe.conf.publicationUrl+'template/ver1-0/fragments/globeinvestor/get.watchlists.ajax.jsp', type: 'GET', dataType: 'json', cache: false, error: function(XMLHttpRequest, textStatus, errorThrown) { globe.investor.watchlistOverlayError('Your request could not be completed at this time; please refresh the page and try again'); }, success: function(json) { if (json.length ==1 && json[0].remessage!="-"){ if(json[0].returnCode=="0"){ if(json[0].remessage=="no watchlist found" ){ globe.investor.watchlistOverlaySetting("promo"); } }else{ globe.investor.watchlistOverlaySetting("error"); globe.investor.watchlistOverlayError(json[0].remessage); globeInvestorErrorMsg = json[0].remessage; } }else{ globe.investor.popWatchlistSelect(json); globe.investor.watchlistOverlay(globeInvestorOverlaySetting); } } }); } }else{ globeInvestorOverlaySetting = "error"; globeInvestorErrorMsg = "System error: Error getting user id. <br/>Please try logging in again."; globe.investor.watchlistOverlayError(globeInvestorErrorMsg); } return false; } globe.investor.addSecurityToWatchlist=function(){ if (globeInvestorUserId==""){ globeInvestorUserId = globe.investor.getInvestorUserId(globeInvestorUserId); } if (globeInvestorUserId != "-1"){ if(globe.usrm.isLoggedIn()) { var watchlistid = ""; var watchlistNm = ""; var sym = ""; var ex = ""; var st = ""; var strSearch = ""; var strIndex = 0; var postString = ""; var fundId = ""; watchlistid = $("#copy-watchlist").val(); watchlistNm = $("#copy-watchlist option[value='"+watchlistid+"']").text(); if (watchlistid != "-") { if (globeInvestorSecurityType=="stocks" || globeInvestorSecurityType =="indices" || globeInvestorSecurityType == globe.investor.securityType.STOCK || globeInvestorSecurityType == globe.investor.securityType.ETF || globeInvestorSecurityType == globe.investor.securityType.INDEX || globeInvestorSecurityType == globe.investor.securityType.COMMODITY || globeInvestorSecurityType == globe.investor.securityType.CURRENCY){ strIndex = globeInvestorSecurity.indexOf("-"); sym = $.trim(globeInvestorSecurity.substring(0, strIndex)); ex = $.trim(globeInvestorSecurity.substring(strIndex+1)); //postString = "s="+sym+"&e="+ex+"&st="+globeInvestorSecurityType+"&wid="+watchlistid+"&uid="+globeInvestorUserId+"&wn="+watchlistNm postString = "s="+sym+"&e="+ex+"&st="+globeInvestorSecurityType+"&wid="+watchlistid+"&wn="+watchlistNm /* console.log(strIndex); console.log(sym); console.log(ex); console.log(postString);*/ }else if (globeInvestorSecurityType.indexOf("1,") != -1){ fundId = $.trim(globeInvestorSecurityType.substring(globeInvestorSecurityType.indexOf(",")+1)); globeInvestorFundName = globeInvestorSecurity; //postString = "fid="+fundId+"&fn="+globeInvestorFundName+"&wid="+watchlistid+"&uid="+globeInvestorUserId+"&wn="+watchlistNm; postString = "fid="+fundId+"&fn="+globeInvestorFundName+"&wid="+watchlistid+"&wn="+watchlistNm; /*console.log("fundId = "+fundId); console.log("fn = "+globeInvestorFundName);*/ }else{ strIndex = globeInvestorSecurity.indexOf("-"); fundId = $.trim(globeInvestorSecurity.substring(0, strIndex)); //postString = "fid="+fundId+"&fn="+globeInvestorFundName+"&wid="+watchlistid+"&uid="+globeInvestorUserId+"&wn="+watchlistNm; postString = "fid="+fundId+"&fn="+globeInvestorFundName+"&wid="+watchlistid+"&wn="+watchlistNm; /*console.log("fundId = "+fundId);*/ } $.ajax({ url: globe.conf.publicationUrl+'template/ver1-0/fragments/globeinvestor/add.watchlist.ajax.jsp', type: 'POST', dataType: 'json', data: postString, cache: false, error: function(XMLHttpRequest, textStatus, errorThrown) { /*console.log(XMLHttpRequest); console.log(textStatus)*/ globe.investor.watchlistOverlayError('Your request could not be completed at this time; please refresh the page and try again'); }, success: function(json) { if (json.returnCode=="0"){ globe.investor.successMessage(json); setTimeout('globe.investor.watchlistOverlayHide()', 2500); }else{ globe.investor.watchlistOverlaySetting("error"); globe.investor.watchlistOverlayError(json.remessage); globeInvestorErrorMsg = json.remessage; } } }); }else{ globeInvestorOverlaySetting = "error"; globeInvestorErrorMsg = "Please select a watchlist from the list above."; globe.investor.watchlistOverlayError(globeInvestorErrorMsg); } } }else{ globeInvestorOverlaySetting = "error"; globeInvestorErrorMsg = "System error: Error getting user id. <br/>Please try login in again."; globe.investor.watchlistOverlayError(globeInvestorErrorMsg); } } globe.investor.watchlistOverlayError=function(msg){ $("#copy-status").css({display:"block"}); $("#copy-status").html("<div class=\"loading\"><img src=\"http://beta.images.theglobeandmail.com/images/globeinvestor/watchlist-loading-35x35.gif\" alt=\"loading\"/></div>"); $("#copy-status").html("<p class=\"responseMessage\">"+msg+"</p>").fadeIn(600); return false; } globe.investor.watchlistAddAttempt=function(){ $("#copy-status").css({display:"block"}); globe.investor.addSecurityToWatchlist(); return false; } globe.investor.watchlistOverlay=function(){ if (globeInvestorOverlaySetting=="error"){ globe.investor.watchlistOverlayError(globeInvestorErrorMsg); $('body').prepend('<div id="loginOverlayUnderlay"></div>'); $("#copy-watchlist").attr("disabled", true); $('.watchlist-overlay-add-stock').fadeIn(600); $('.watchlist-overlay-add-stock').css(' z-index','999999 !important;'); $('.watchlist-overlay-add-stock a.cancel').bind('click', globe.investor.watchlistOverlayHide); $('.watchlist-overlay-add-stock a.submit').attr("disabled", true); }else{ if(globeInvestorOverlaySetting=="login"){ $("#copy-watchlist").attr("disabled", false); $('.watchlist-overlay-add-stock a.submit').attr("disabled", false); if ($("#copy-watchlist option[value='-']").text() != ""){ $('body').append('<div id="loginOverlayUnderlay"></div>'); $('.watchlist-overlay-add-stock').fadeIn(600); $('.watchlist-overlay-add-stock').css(' z-index','999999 !important'); $('.watchlist-overlay-add-stock a.cancel').bind('click', globe.investor.watchlistOverlayHide); $('.watchlist-overlay-add-stock a.submit').bind('click', globe.investor.watchlistAddAttempt); }else{ globe.investor.initWatchlistOverlay(); setTimeout(globe.investor.watchlistOverlay,2500); } }else{ $("#userlogin-form-watchlist-promo").css({display:"block"}).fadeIn(600); $("#userlogin").css({display:"none"}); $("#usertools").css({display:"none"}); $("#userlogin-form-watchlist-promo").css({borderTop:"none",marginTop:"0"}); globe.usrm.login.displayOverlay(); } $('#loginOverlayUnderlay').click(function(){ globe.investor.watchlistOverlayHide(); }); } return false; } globe.investor.watchlistOverlayHide=function(){ $('#loginOverlayUnderlay').remove(); $('.watchlist-overlay-add-stock').fadeOut(600); $('.watchlist-overlay-add-stock a.cancel').unbind(); $('.watchlist-overlay-add-stock a.submit').unbind(); //$('#loginOverlayUnderlay').unbind(); $("#copy-status").css({display:"none"}); return false; } globe.investor.detectAction=function(security){ var articleId = "2304721"; if(!globe.usrm.isLoggedIn()) { if($.browser.msie && $.browser.version == 6) { window.location = globe.conf.publicationUrl+"globe-investor/my-watchlist"; } else { window.location = globe.conf.publicationUrl+"login/?force=addtowatchlist&articleId=2304721"; } }else{ if($.browser.msie && $.browser.version == 6) { window.location = globe.conf.publicationUrl+"globe-investor/my-watchlist"; }else{ globeInvestorOverlaySetting = "login"; //globeInvestorOverlaySetting = "login"; globeInvestorSecurity = (security.indexOf(';') == -1) ? security : security.substring(0, security.indexOf(';')); globeInvestorSecurityType = (security.indexOf(';') == -1) ? security : security.substring(security.indexOf(';')+1); globe.investor.initWatchlistOverlay(); } } return false; //$('.addtowatchlist').click(function() { //console.log(); //var security = $(this).attr( 'rel' ) // $("#userlogin-form-watchlist-promo").css({display:"block"}); // globe.usrm.login.loginSuccessCallback = globe.investor.watchlistOverlay; // globe.usrm.login.displayOverlay(); //} //} else { } $(document).ready(function(){ // globe.investor.initWatchlistOverlay(); $("#close-overlay").click(function(){ globe.investor.watchlistOverlayHide(); return false; }); $("li#watchlist a").click(function(event){ event.preventDefault(); var security = $(this).attr('rel'); globe.investor.detectAction(security); return false; }); $('.addtowatchlist').click(function(event) { event.preventDefault(); var security = $(this).attr('rel'); globe.investor.detectAction(security); return false; }); if ($("h3.fundHeader").html()!=''){ globeInvestorFundName = $("h3.fundHeader").html(); } }); </p>
+<p> var _sf_async_config={uid:15880,domain:"theglobeandmail.com"};_sf_async_config.title="Public-service cuts won&rsquo;t impact food safety, Agriculture Minister says ";_sf_async_config.path="/news/politics/public-service-cuts-wont-impact-food-safety-agriculture-minister-says/article2304721/";_sf_async_config.sections = "news,national,food safety, meat inspection, federal budget, public service cuts, service canada"; _sf_async_config.authors = "GLORIA GALLOWAY ,unknown";(function(){function loadChartbeat() { window._sf_endpt=(new Date()).getTime(); var e = document.createElement('script'); e.setAttribute('language', 'javascript'); e.setAttribute('type', 'text/javascript'); e.setAttribute('src', (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://") + "static.chartbeat.com/js/chartbeat.js"); document.body.appendChild(e); } var oldonload = window.onload; window.onload = (typeof window.onload != 'function') ? loadChartbeat : function() { oldonload(); loadChartbeat(); }; })(); </p>

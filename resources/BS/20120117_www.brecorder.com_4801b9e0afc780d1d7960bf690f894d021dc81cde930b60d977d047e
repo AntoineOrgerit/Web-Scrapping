@@ -1,0 +1,439 @@
+<p> Effective law to deal with wall chalking suggested | Business Recorder </p>
+<p> <!-- .template_width { width:990px; } 	#gk_wrapper     { width:990px; } 	#gk_mainbody    { margin: 18px 0px 0px 0px;padding:0;border-width:0;} 	#gk_left        { width:0px;margin: 0px 18px 0px 0px;padding: 0px 18px 0px 0px;border-width:0; } 	#gk_right       { width:300px;margin: 0px 0px 0px 18px;padding: 0px 0px 0px 18px;border-width:0; } 	#left_one       { width:0px;margin:0;padding:0;border-width:0; } 	#left_two       { width:100%;margin:0;padding:0;border-width:0; } 	#right_one      { width:132px;margin:0;padding:0;border-width:0; } 	#right_two      { width:132px;margin: 0px 0px 0px 18px;padding: 0px 0px 0px 18px;border-width:0; } 	#inset_left     { width:0px;margin:0;padding:0;border-width:0; } 	#inset_right    { width:0px;margin:0;padding:0;border-width:0; } 	#gk_content     { width:654px;margin:0;padding:0;border-width:0; } 	#gk_current     { width:654px;margin:0;padding:0;border-width:0; } 	#gk_bottom      { margin: 18px 0px 0px 0px;padding:0;border-width:0; } 	#gk_bottom1     { margin:0;padding:0;border-width:0; } 	#gk_bottom2     { margin:0;padding:0;border-width:0; } 	#gk_footer     { margin: 18px 0px 18px 0px;padding: 6px 0px 6px 0px;border-width: 1px 0px 4px 0px; } 	body { 		font-size: 62.5%;font-family: Arial, Helvetica, sans-serif;} 	div.moduletable h3,  	div.moduletable_menu h3,  	div.moduletable_text h3,  	div.moduletable_ver1 h3,  	div.moduletable_ver2 h3, 	div.moduletable_ver2a h3,  	div.moduletable_ver2b h3,  	div.moduletable_ver3 h3, 	div.moduletable_ver3a h3,  	div.moduletable_ver3b h3,  	div.moduletable_ver4 h3, 	div.moduletable_ver4a h3, 	div.moduletable_ver4b h3, 	div.gk_news_section h2 	{ 		font-size: 100%;font-family: Arial, Helvetica, sans-serif;} 	h4.gk_news_intro_title,  	h4.gk_npro_header, 	div.joomla h1.title,  	div.joomla div.multicolumns h1.title,  	#jc h4, h1.pagetitle,  	div.joomla div.morearticles h3,  	.gk_is_text_block h4,  	div.joomla div.contact h1 	{ 		font-size: 105%;font-family: "Times New Roman", Times, serif;}#gk_mainbody_wrap{background: url('http://www.brecorder.com/templates/br/images/grey_dot.png') repeat-y 672px 0;}#right_col{background: url('http://www.brecorder.com/templates/br/images/grey_dot.png') repeat-y 150px 0;} h4.gk_news_intro_title{clear:both;padding-top:5px;} #img1{background-image:url(http://www.brecorder.com/cache/images_wall_2012_jan/d114172dd1c1e8a83327ed40ada19846.jpg) !important;background-color:#FFF; 			background-repeat:no-repeat;background-attachment:scroll;background-size:279px 280px;width:279px;height:280px;float:left;border:none;} ul#dl2718 li {list-style:none;background:none;padding:0px;} .RightTables { 	color: black; 	font-family: Arial; 	font-size: 9px; 	height: 15px; 	text-align: -webkit-center; 	border-bottom:1px dotted #999999; } #currency_table{border:1px solid #999;} #currency_table .hd { 	color: black; 	font-family: Arial; 	font-size: 12px; 	height: 15px; 	text-align: -webkit-center; 	background-image: url("http://www.brecorder.com/images/gray_menu.jpg"); } .RightTables{ 	color: black; 	font-family: Arial; 	font-size: 10px; 	font-weight: normal;	 } div.ticker { 					margin:auto; 					font-family:Arial,Helvetica,sans-serif; 					font-size:11px; 					font-weight:bold; 					width:988px; 					background:#000000;; 					height:25px; 					overflow:hidden;  					border:1px solid #ccc; 				} 				div.tick { 					height:25px; 					text-decoration:none;  					display:block;  					width:988px;  					position:relative;  					left:0; 					font-weight:bold; 				} 				div.tick div{ 					font-family:Arial;  					padding:2px 5px 2px 5px; 					float:left; 					height:20px; 					verticle-align:middle; 					text-align:center; 					width:153px; 				} 				div.even{ 					background-color:#000000; 					color:#FFFFFF; 					width:153px; 				} 				div.odd{ 					background-color:#FFFFFF; 					color:#000000; 					width:153px; 				} 				     --> </p>
+<p> Calendar._DN = new Array ("Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday");Calendar._SDN = new Array ("Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"); Calendar._FD = 0;	Calendar._MN = new Array ("January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December");	Calendar._SMN = new Array ("Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec");Calendar._TT = {};Calendar._TT["INFO"] = "About the Calendar";  		Calendar._TT["ABOUT"] =  "DHTML Date/Time Selector\n" +  "(c) dynarch.com 2002-2005 / Author: Mihai Bazon\n" + "For latest version visit: http://www.dynarch.com/projects/calendar/\n" + "Distributed under GNU LGPL.  See http://gnu.org/licenses/lgpl.html for details." + "\n\n" + "Date selection:\n" + "- Use the \xab, \xbb buttons to select year\n" + "- Use the " + String.fromCharCode(0x2039) + ", " + String.fromCharCode(0x203a) + " buttons to select month\n" + "- Hold mouse button on any of the above buttons for faster selection."; Calendar._TT["ABOUT_TIME"] = "\n\n" + "Time selection:\n" + "- Click on any of the time parts to increase it\n" + "- or Shift-click to decrease it\n" + "- or click and drag for faster selection.";  		Calendar._TT["PREV_YEAR"] = "Click to move to the previous year. Click and hold for a list of years.";Calendar._TT["PREV_MONTH"] = "Click to move to the previous month. Click and hold for a list of the months.";	Calendar._TT["GO_TODAY"] = "Go to today";Calendar._TT["NEXT_MONTH"] = "Click to move to the next month. Click and hold for a list of the months.";Calendar._TT["NEXT_YEAR"] = "Click to move to the next year. Click and hold for a list of years.";Calendar._TT["SEL_DATE"] = "Select a date";Calendar._TT["DRAG_TO_MOVE"] = "Drag to move";Calendar._TT["PART_TODAY"] = " (Today)";Calendar._TT["DAY_FIRST"] = "Display %s first";Calendar._TT["WEEKEND"] = "0,6";Calendar._TT["CLOSE"] = "Close";Calendar._TT["TODAY"] = "Today";Calendar._TT["TIME_PART"] = "(Shift-)Click or Drag to change the value.";Calendar._TT["DEF_DATE_FORMAT"] = "%Y-%m-%d"; Calendar._TT["TT_DATE_FORMAT"] = "%A, %B %e";Calendar._TT["WK"] = "wk";Calendar._TT["TIME"] = "Time:"; var si_dl2718= Array('dl2718_1','dl2718_2'); var sii_dl2718=0; var si_dl2718_timeout=5000; function switchImagedl2718(){ var li = document.getElementById(si_dl2718[sii_dl2718]); li.style.display="none"; ll =sii_dl2718+1; if(ll<si_dl2718.length){ 	sii_dl2718++; }else{ 	sii_dl2718=0; } var li2 = document.getElementById(si_dl2718[sii_dl2718]); li2.style.display="block"; setTimeout("switchImagedl2718();",si_dl2718_timeout); } setTimeout("switchImagedl2718();",si_dl2718_timeout); </p>
+<p> $template_path = 'http://www.brecorder.com/templates/br'; </p>
+<p> GS_googleAddAdSenseService("ca-pub-4662607719387566"); 		GS_googleEnableAllServices(); </p>
+<p> GA_googleAddSlot("ca-pub-4662607719387566", "BR_Bottom_RECT"); GA_googleAddSlot("ca-pub-4662607719387566", "Skyscraperbanner"); GA_googleAddSlot("ca-pub-4662607719387566", "BR_BUTTON3"); GA_googleAddSlot("ca-pub-4662607719387566", "BR_BUTTON4"); GA_googleAddSlot("ca-pub-4662607719387566", "BR_BUTTON5"); GA_googleAddSlot("ca-pub-4662607719387566", "BR_HALF_BANNER"); GA_googleAddSlot("ca-pub-4662607719387566", "Rectangularbannerrp"); GA_googleAddSlot("ca-pub-4662607719387566", "LeaderboardBanner"); GA_googleAddSlot("ca-pub-4662607719387566", "BR_Ear_Panel"); GA_googleAddSlot("ca-pub-4662607719387566", "BR_LeaderBoard2"); </p>
+<p> GA_googleFetchAds(); </p>
+<p> GA_googleFillSlot("BR_LeaderBoard2"); </p>
+<p> GA_googleFillSlot("BR_Ear_Panel"); </p>
+<p> Loading ticker data... </p>
+<p> Just in </p>
+<p> RECORDER REPORT: KSE-100 close of day </p>
+<p> Aitzaz Ahsan to represent PM Gilani in contempt of court case </p>
+<p> Lodhi moves IHC over sacking </p>
+<p> Eurozone won't break up, says EU bailout fund chief </p>
+<p> RECORDER REPORT: KSE mid day update </p>
+<p> China backs eurozone to overcome debt crisis </p>
+<p> NPLs: Cash recovery down 20pc </p>
+<p> PIA contemplating purchase of new aircraft </p>
+<p> CCP raids APCMA premises, cement unit </p>
+<p> Apex court cancels Awan’s license temporarily </p>
+<p> Login </p>
+<p> REGISTER </p>
+<p> 06:03:55 PM </p>
+<p> Tuesday, 17 Jan 2012 </p>
+<p> Home </p>
+<p> Today’s Paper </p>
+<p> e-Paper </p>
+<p> Online Web Edition </p>
+<p> Editorials </p>
+<p> Opinion </p>
+<p> Letter to the Editor </p>
+<p> Press Release </p>
+<p> Inviting Contributors </p>
+<p> BR Research </p>
+<p> Pakistan Macroeconomics </p>
+<p> Fiscal Policy </p>
+<p> Inflation & Monetary Affairs </p>
+<p> External Account </p>
+<p> Exchange rate & reserves </p>
+<p> Capital markets </p>
+<p> GDP growth & business cycles </p>
+<p> Political economy & socioeconomics </p>
+<p> The Wall </p>
+<p> Special Reports </p>
+<p> Fiscal Review 2011 </p>
+<p> Fiscal Review 2010 </p>
+<p> Industry Review 2010 </p>
+<p> Banking Review 2010 </p>
+<p> Adasia (Fiscal Review 2011) </p>
+<p> Banking Review 2011 </p>
+<p> Supplements </p>
+<p> Services & Tools </p>
+<p> Subscribe to BR </p>
+<p> RSS News Feeds </p>
+<p> Week at A Glance </p>
+<p> Site Map </p>
+<p> About us </p>
+<p> Events </p>
+<p> 2011 in Retro </p>
+<p> Multimedia </p>
+<p> Picture of the day </p>
+<p> News in pictures </p>
+<p> Games </p>
+<p> Pakistan </p>
+<p> Business & Economy </p>
+<p> Industries & Sectors </p>
+<p> Cotton & Textiles </p>
+<p> Yarn Prices </p>
+<p> Agriculture & Allied </p>
+<p> Money & Banking </p>
+<p> Telecommunications </p>
+<p> IT & Computers </p>
+<p> Health </p>
+<p> Taxation </p>
+<p> Fuel & Energy </p>
+<p> Banking & Finance </p>
+<p> Markets </p>
+<p> General News </p>
+<p> Politics & Policy </p>
+<p> Monetary Policy Statement </p>
+<p> Trade Policy </p>
+<p> Labour Policy </p>
+<p> World </p>
+<p> Global Business & Economy </p>
+<p> North America </p>
+<p> South America </p>
+<p> Europe </p>
+<p> Africa </p>
+<p> Middle East </p>
+<p> South Asia </p>
+<p> Southeast Asia </p>
+<p> Business </p>
+<p> Banking & Finance </p>
+<p> Industries & Sectors </p>
+<p> Managed Funds </p>
+<p> Real Estate </p>
+<p> Markets </p>
+<p> Equity </p>
+<p> Americas </p>
+<p> Europe </p>
+<p> Middle East & Africa </p>
+<p> Asia </p>
+<p> Australia </p>
+<p> FXMM </p>
+<p> Americas </p>
+<p> Europe </p>
+<p> Middle East & Africa </p>
+<p> Asia </p>
+<p> Australia </p>
+<p> Fixed Income </p>
+<p> Americas </p>
+<p> Europe </p>
+<p> Middle East & Africa </p>
+<p> Asia </p>
+<p> Australia </p>
+<p> Commodities </p>
+<p> Americas </p>
+<p> Europe </p>
+<p> Middle East & Africa </p>
+<p> Asia </p>
+<p> Australia </p>
+<p> Energy </p>
+<p> Americas </p>
+<p> Europe </p>
+<p> Middle East & Africa </p>
+<p> Asia </p>
+<p> Australia </p>
+<p> Market Data </p>
+<p> Karachi Stocks </p>
+<p> Stocks & Bonds </p>
+<p> Rates & Schedules </p>
+<p> Exchange Rates </p>
+<p> Sports </p>
+<p> Cricket </p>
+<p> Pak vs Eng 2012 </p>
+<p> Teams </p>
+<p> Pakistan </p>
+<p> England </p>
+<p> Highlights </p>
+<p> Summary </p>
+<p> Scoreboard </p>
+<p> ICC World Cup 2011 </p>
+<p> ICC Rules </p>
+<p> History of World Cup </p>
+<p> Live Score </p>
+<p> Fixtures </p>
+<p> Teams </p>
+<p> Photos </p>
+<p> Scoreboard </p>
+<p> Winners </p>
+<p> Other Sports </p>
+<p> Arts & Leisure </p>
+<p> Arts </p>
+<p> Movies </p>
+<p> Music </p>
+<p> Lifestyle </p>
+<p> Travel </p>
+<p> Budget </p>
+<p> Proposals 2011-12 </p>
+<p> Budgets </p>
+<p> Classifieds </p>
+<p> Archive </p>
+<p> Blogs </p>
+<p> You are here: </p>
+<p> Home </p>
+<p> » </p>
+<p> General News </p>
+<p> GA_googleFillSlot("LeaderboardBanner"); </p>
+<p> Effective law to deal with wall chalking suggested </p>
+<p> January 16, 2012 </p>
+<p> RECORDER REPORT </p>
+<p> 0 Comments </p>
+<p> Administrator KMC Muhammad Hussain Syed has said that an effective law to deal with the major problem of graffiti (wall chalking) had been suggested so that those who indulged in mutilating the city's face could be awarded with strict punishment. </p>
+<p> He said this while talking about the cleanliness, beautification and wall chalking in the city, according to a Karachi Metropolitan Corporation (KMC) statement on Sunday. </p>
+<p> Administrator Karachi said it was decided in a meeting chaired by the Sindh Governor to bring in such a law under which the persons involved in wall chalking on residential houses and buildings could be charged with non-bailable offence and punished. </p>
+<p> Draft for this law has already been prepared. </p>
+<p> He said KMC often carries out campaigns for removal of the chalking on walls and ban on such activity was enforced under Section 144 Cr. </p>
+<p> PC. </p>
+<p> He said the district municipal administrations were already directed to clean the graffiti, so that these ugly blots on the face of city could be removed. </p>
+<p> Copyright Associated Press of Pakistan, 2012 </p>
+<p> var addthis_product = 'jlp-1.2';var addthis_config ={pubid:'saqibsra', services_compact:'facebook,twitter', ui_hover_direction:0, data_track_clickback:true, ui_language:'en', ui_use_css:true} </p>
+<p> Share </p>
+<p> <!-- var jcomments=new JComments(1143106, 'com_news','/index.php?option=com_jcomments&amp;tmpl=component'); jcomments.setList('comments-list'); //--> </p>
+<p> Add comment </p>
+<p> Name (required) </p>
+<p> E-mail (required, but will not display) </p>
+<p> Website </p>
+<p> Notify me of follow-up comments </p>
+<p> Refresh </p>
+<p> Send </p>
+<p> Cancel </p>
+<p> <!-- function JCommentsInitializeForm() { 	var jcEditor = new JCommentsEditor('comments-form-comment', true); 	jcEditor.addButton('b','Bold','Enter text'); 	jcEditor.addButton('i','Italic','Enter text'); 	jcEditor.addButton('u','Underlined','Enter text'); 	jcEditor.addButton('s','Striked','Enter text'); 	jcEditor.addButton('url','Link','Enter full URL'); 	jcEditor.addButton('quote','Quote','Enter text to quote'); 	jcEditor.addButton('list','List','Enter list item text'); 	jcEditor.initSmiles('http://www.brecorder.com/components/com_jcomments/images/smiles'); 	jcEditor.addSmile(':D','laugh.gif'); 	jcEditor.addSmile(':lol:','lol.gif'); 	jcEditor.addSmile(':-)','smile.gif'); 	jcEditor.addSmile(';-)','wink.gif'); 	jcEditor.addSmile('8)','cool.gif'); 	jcEditor.addSmile(':-|','normal.gif'); 	jcEditor.addSmile(':-*','whistling.gif'); 	jcEditor.addSmile(':oops:','redface.gif'); 	jcEditor.addSmile(':sad:','sad.gif'); 	jcEditor.addSmile(':cry:','cry.gif'); 	jcEditor.addSmile(':o','surprised.gif'); 	jcEditor.addSmile(':-?','confused.gif'); 	jcEditor.addSmile(':-x','sick.gif'); 	jcEditor.addSmile(':eek:','shocked.gif'); 	jcEditor.addSmile(':zzz','sleeping.gif'); 	jcEditor.addSmile(':P','tongue.gif'); 	jcEditor.addSmile(':roll:','rolleyes.gif'); 	jcEditor.addSmile(':sigh:','unsure.gif'); 	jcEditor.addCounter(1000, '', ' symbols left', 'counter'); 	jcomments.setForm(new JCommentsForm('comments-form', jcEditor)); }  if (window.addEventListener) {window.addEventListener('load',JCommentsInitializeForm,false);} else if (document.addEventListener){document.addEventListener('load',JCommentsInitializeForm,false);} else if (window.attachEvent){window.attachEvent('onload',JCommentsInitializeForm);} else {if (typeof window.onload=='function'){var oldload=window.onload;window.onload=function(){oldload();JCommentsInitializeForm();}} else window.onload=JCommentsInitializeForm;}  //--> </p>
+<p> JComments </p>
+<p> var clas = '#div_copyright'; 	window.addEvent('domready', function(){ 		$$(clas).fireEvent('onmouseover'); 		var zoomTip = new Tips($$(clas), { 		  offsets: { 			'x': 20, 			'y': 30}, 		  initialize:function(){ 			 this.fx = new Fx.Style(this.toolTip, 'opacity',  					 {duration: 1000, wait: false}).set(0); 		  }, 		  onShow: function(toolTip) { 			 this.fx.start(0,.8); 		  }, 		  onHide: function(toolTip) { 			 this.fx.start(.8,0); 		  } 		}); 	}); </p>
+<p> GA_googleFillSlot("BR_HALF_BANNER"); </p>
+<p> GA_googleFillSlot("Rectangularbannerrp"); </p>
+<p> GA_googleFillSlot("BR_BUTTON3"); </p>
+<p> GA_googleFillSlot("BR_BUTTON4"); </p>
+<p> GA_googleFillSlot("BR_BUTTON5"); </p>
+<p> From The Print </p>
+<p> Top Stories </p>
+<p> General News </p>
+<p> Editorials </p>
+<p> Company News </p>
+<p> Agriculture & Allied </p>
+<p> Articles & Letters </p>
+<p> Yarn Prices </p>
+<p> Cotton & Textiles </p>
+<p> Fuel & Energy </p>
+<p> Money & Banking </p>
+<p> IT & Computers </p>
+<p> Telecommunication </p>
+<p> Supplements </p>
+<p> Stocks & Bonds </p>
+<p> Taxation </p>
+<p> Budget & SROs </p>
+<p> Week at a Glance </p>
+<p> Weekend Magazine </p>
+<p> Search News </p>
+<p> China Wholesale </p>
+<p> China Wholesale </p>
+<p> 8528.43 </p>
+<p> 135.73 </p>
+<p> function ReverseDisplay(d) { 						var sty = (document.getElementById(d).style.display == "none")?"block":"none"; 						var icon =(sty== "none")?"plus.gif":"minus.gif"; 						document.getElementById("img_"+d).src ="/modules/mod_brindex30/tmpl/latest_section/banner/"+ icon; 						document.getElementById(d).style.display = sty; 						 					} </p>
+<p> Sectoral Indices </p>
+<p> Cement </p>
+<p> 605.24 </p>
+<p> 1.51 </p>
+<p> Comm. Bank </p>
+<p> 2259.01 </p>
+<p> 135.73 </p>
+<p> Power Gen. </p>
+<p> 1573.26 </p>
+<p> 12.9 </p>
+<p> Tech. & Com. </p>
+<p> 277.57 </p>
+<p> 6.66 </p>
+<p> Oil & Gas </p>
+<p> 2624.63 </p>
+<p> 54.92 </p>
+<p> table.div1403552557 td {border-bottom:1px solid #eee; margin-right:2px;} 	table.div1403552557 tr.even{background-color:#EEE;} 	table.div1403552557 tr.odd {background-color:#FFF;} </p>
+<p> GA_googleFillSlot("Skyscraperbanner"); </p>
+<p> BR Text Link Ads </p>
+<p> SubmitEdge </p>
+<p> Angry Birds </p>
+<p> Cheap Car Hire </p>
+<p> Pinoy </p>
+<p> Franchise Opportunities </p>
+<p> Buy Cuban Cigars </p>
+<p> Jobs </p>
+<p> GA_googleFillSlot("BR_Bottom_RECT"); </p>
+<p> The Wall </p>
+<p> NY Closing </p>
+<p> World Indices </p>
+<p> The Rupee </p>
+<p> Euro </p>
+<p> 1.2662 </p>
+<p> Sterling </p>
+<p> 1.5321 </p>
+<p> Swiss Franc </p>
+<p> 0.9546 </p>
+<p> Yen </p>
+<p> 76.7933 </p>
+<p> Gold </p>
+<p> 1643.700 </p>
+<p> Cotton </p>
+<p> 95.470 </p>
+<p> Oil </p>
+<p> 99.690 </p>
+<p> Index </p>
+<p> Closing </p>
+<p> Chg% </p>
+<p> DJIA </p>
+<p> 12,422.10 </p>
+<p> 0.39 </p>
+<p> Nasdaq </p>
+<p> 2,710.67 </p>
+<p> 0.51 </p>
+<p> S&P </p>
+<p> 1,289.09 </p>
+<p> 0.49 </p>
+<p> FTSE </p>
+<p> 5,657.44 </p>
+<p> 0.37 </p>
+<p> DAX </p>
+<p> 6,220.01 </p>
+<p> 1.25 </p>
+<p> CAC-40 </p>
+<p> 3,225.00 </p>
+<p> 0.89 </p>
+<p> Nikkei </p>
+<p> 8,378.36 </p>
+<p> 1.43 </p>
+<p> H.Seng </p>
+<p> 19,012.20 </p>
+<p> 1.00 </p>
+<p> Sensex </p>
+<p> 16,189.40 </p>
+<p> 0.22 </p>
+<p> Updated at 5:00 am Pst </p>
+<p> The Rupee </p>
+<p> Interbank closing rates for dollar on Monday. </p>
+<p> Buying </p>
+<p> Rs  90.30 </p>
+<p> Selling </p>
+<p> Rs  90.35 </p>
+<p> Dollar moves both ways </p>
+<p> var BrTab1 = new JATabs("myTab1505248166", {animType:'animFade',style:'teline_iv',position:'top',width:'100%',height:'auto',mouseType:'click',duration:1000,colors:10,useAjax:false,ids:'45,43,47',skipAnim:false}); </p>
+<p> Economic Indicators </p>
+<p> Market at Close </p>
+<p> Annual </p>
+<p> 2010/11 </p>
+<p> Foreign Debt </p>
+<p> $59.53bn </p>
+<p> Per Cap Income </p>
+<p> $1254 </p>
+<p> GDP Growth </p>
+<p> 2.4% </p>
+<p> Average CPI </p>
+<p> 14.10% </p>
+<p> Monthly </p>
+<p> December </p>
+<p> Trade Balance </p>
+<p> $-2.41 bln </p>
+<p> Exports </p>
+<p> $1.85 bln </p>
+<p> Imports </p>
+<p> $4.26 bln </p>
+<p> Weekly </p>
+<p> January 16, 2012 </p>
+<p> Reserves </p>
+<p> $16.901 bln </p>
+<p> BRIndex-30 </p>
+<p> 8,392.70 </p>
+<p> KSE-30 Index </p>
+<p> 10,272.98 </p>
+<p> KSE-100 Index </p>
+<p> 11,112.65 </p>
+<p> LSE-25 Index </p>
+<p> 2,909.16 </p>
+<p> ISE-10 Index </p>
+<p> 2,450.90 </p>
+<p> Gold Per 10gm </p>
+<p> 48,257.00 </p>
+<p> KCA Spot Rate </p>
+<p> 5,500.00 </p>
+<p> Libor Rate </p>
+<p> 0.79325 </p>
+<p> var BrTab1 = new JATabs("myTab248363517", {animType:'animFade',style:'teline_iv',position:'top',width:'100%',height:'auto',mouseType:'click',duration:1000,colors:10,useAjax:false,ids:'132,42',skipAnim:false}); </p>
+<p> var _gaq = _gaq || []; 			  _gaq.push(['_setAccount', 'UA-479483-1']); 			  _gaq.push(['_setDomainName', '.brecorder.com']); 			  _gaq.push(['_trackPageview']); 			 			  (function() { 				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; 				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); 			  })(); </p>
+<p> google_ad_client  = "ca-pub-4662607719387566"; 	google_ad_slot =  "5577485393";  	google_ad_width = 728;  	google_ad_height = 90; </p>
+<p> Blue </p>
+<p> Red </p>
+<p> Green </p>
+<p> BUSINESS RECORDER: </p>
+<p> Pakistan News </p>
+<p> | </p>
+<p> World News </p>
+<p> | </p>
+<p> Business & Finance News </p>
+<p> | </p>
+<p> Market News </p>
+<p> | </p>
+<p> Sports News </p>
+<p> | </p>
+<p> e-Paper </p>
+<p> AAJ TV: </p>
+<p> Latest News </p>
+<p> | </p>
+<p> World News </p>
+<p> | </p>
+<p> National News </p>
+<p> | </p>
+<p> Exclusive News </p>
+<p> | </p>
+<p> Business News </p>
+<p> PLAY TV: </p>
+<p> Entertainment News </p>
+<p> | </p>
+<p> Programs </p>
+<p> | </p>
+<p> VJs </p>
+<p> | </p>
+<p> Videos </p>
+<p> Home </p>
+<p> | </p>
+<p> Pakistan </p>
+<p> | </p>
+<p> World </p>
+<p> | </p>
+<p> Business & Finance </p>
+<p> | </p>
+<p> Markets </p>
+<p> | </p>
+<p> Market Data </p>
+<p> | </p>
+<p> Sports </p>
+<p> | </p>
+<p> Arts & Leisure </p>
+<p> © Copyright Business Recorder. All rights reserved. </p>
+<p> Disclaimer </p>
+<p> | </p>
+<p> Privacy Policy </p>
+<p> | </p>
+<p> Terms of Use </p>
+<p> | </p>
+<p> Contact Us </p>
+<p> | Careers | Help | </p>
+<p> Site Map </p>
+<p> Aaj TV </p>
+<p> | </p>
+<p> Aaj TV Urdu </p>
+<p> | </p>
+<p> Stock News </p>
+<p> | </p>
+<p> Play TV </p>
+<p> // <![CDATA[ _qoptions={ qacct:"p-00CIaxHvu6SBk" }; // ]]> </p>
+<p> Username </p>
+<p> Password </p>
+<p> Remember Me </p>
+<p> Forgot your password? </p>
+<p> Forgot your username? </p>
+<p> Create an account </p>
+<p> Window.onDomReady(function(){document.formvalidator.setHandler('passverify', function (value) { return ($('password').value == value); }	);}); </p>
+<p> Name: </p>
+<p> * </p>
+<p> Username: </p>
+<p> * </p>
+<p> Write e-mail: </p>
+<p> * </p>
+<p> Password: </p>
+<p> * </p>
+<p> VERIFY_PASSWORD: </p>
+<p> * </p>
+<p> REGISTER_REQUIRED </p>
+<p> REGISTER </p>
+<p> .hasTip{display:none;} </p>
+<p> #hasTip{display:none;} </p>

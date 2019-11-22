@@ -1,0 +1,351 @@
+<p> Koszykarze AZS Politechniki walczą o przetrwanie         | rp.pl </p>
+<p> window.___gcfg = {         lang: 'pl'     }; 		     (function(){         var po = document.createElement('script');         po.type = 'text/javascript';         po.async = true;         po.src = 'https://apis.google.com/js/plusone.js';         var s = document.getElementsByTagName('script')[0];         s.parentNode.insertBefore(po, s);     })(); </p>
+<p> <!--//--><![CDATA[//><!-- var gemius_identifier = new String('zCDlnXPHpTzo4zeK7nPBfaQsHXHi_aN3bjJ8tOMwZH7.S7'); //--><!]]> </p>
+<p> Szkolenia i konferencje </p>
+<p> Poznaj nasze produkty </p>
+<p> e-sklep </p>
+<p> Komunikaty </p>
+<p> Newsletter </p>
+<p> Zaloguj </p>
+<p> Załóż konto </p>
+<p> Kod SMS </p>
+<p> Pliki cookies </p>
+<p> Czym są pliki cookies </p>
+<p> Używamy plików cookies, by ułatwić korzystanie z naszych serwisów. </p>
+<p> Jeśli nie chcesz, by pliki cookies były zapisywane na Twoim dysku                 zmień ustawienia swojej przeglądarki. </p>
+<p> OK </p>
+<p> REKLAMA </p>
+<p> Kraj </p>
+<p> Świat </p>
+<p> Ekonomia24 </p>
+<p> Prawo </p>
+<p> Nieruchomości </p>
+<p> Praca </p>
+<p> Foto </p>
+<p> Opinie </p>
+<p> Kultura </p>
+<p> Nauka </p>
+<p> Sport </p>
+<p> Styl </p>
+<p> Warszawa </p>
+<p> Historia </p>
+<p> Weekend </p>
+<p> tv.rp.pl </p>
+<p> Najnowsze </p>
+<p> Piłka nożna </p>
+<p> Ekstraklasa </p>
+<p> Reprezentacja </p>
+<p> Liga Mistrzów </p>
+<p> Ligi zagraniczne </p>
+<p> Liga Europejska </p>
+<p> Formuła 1 </p>
+<p> Kontuzja Kubicy </p>
+<p> Tenis </p>
+<p> Siatkówka </p>
+<p> Koszykówka </p>
+<p> Boks </p>
+<p> Inne </p>
+<p> Lekkoatletyka </p>
+<p> Pływanie </p>
+<p> Kolarstwo </p>
+<p> Żużel </p>
+<p> Piłka ręczna </p>
+<p> Komentarze </p>
+<p> Żonglerka </p>
+<p> Rotacja wsteczna </p>
+<p> Z piskiem opon </p>
+<p> Raporty </p>
+<p> Rozmowy sportowe "Rz" </p>
+<p> Relacje wysłanników "Rz" </p>
+<p> Chuligani stadionowi </p>
+<p> Transfery </p>
+<p> Kontuzje </p>
+<p> Korupcja </p>
+<p> Doping </p>
+<p> Przewrotka </p>
+<p> Zimowe </p>
+<p> Skoki </p>
+<p> Biatlon </p>
+<p> Narciarstwo </p>
+<p> Tutaj jesteś: </p>
+<p> rp.pl </p>
+<p> » </p>
+<p> Wiadomości </p>
+<p> » </p>
+<p> Sport </p>
+<p> » </p>
+<p> Koszykówka </p>
+<p> function showModalBox() {  	jQuery('#dialogBox').empty();  	jQuery('#glassBox').fadeTo(400, 0.2); 	jQuery('#notLoggedInBox').clone().appendTo('#dialogBox'); 	jQuery('#dialogBox').find('.noAccessLoginBox').attr('id', 			'notLoggedInBoxModal').find('.noAccessLoginBox_closeIcon').show(); 	jQuery('#dialogBox').find('.closeBoxString').show(); 	jQuery('#dialogBox').show().addClass('noAccessLoginBoxDialog') 			.css( 					'left', 					(document.body.clientWidth - jQuery('#dialogBox') 							.outerWidth()) / 2);  	jQuery('.noAccessLoginBox_closeIcon').bind('click', function(event) { 		jQuery('#dialogBox').hide().empty(); 		jQuery('#glassBox').fadeOut(400); 		jQuery(".storyContent").find('p').show(); 		jQuery('#dialogBox').removeClass('noAccessLoginBoxDialog'); 		setCookie('closeId', '784593_76262'); 		location.href = 'http://www.rp.pl/artykul/60513,784593-Koszykarze-AZS-Politechniki-walcza-o-przetrwanie.html'; 	}); 	jQuery('.closeBoxString').bind('click', function(event) { 		jQuery('#dialogBox').hide().empty(); 		jQuery('#glassBox').fadeOut(400); 		jQuery(".storyContent").find('p').show(); 		jQuery('#dialogBox').removeClass('noAccessLoginBoxDialog'); 		setCookie('closeId', '784593_76262'); 		location.href = 'http://www.rp.pl/artykul/60513,784593-Koszykarze-AZS-Politechniki-walcza-o-przetrwanie.html'; 	}); }  function hideAndShow() { 	jQuery("#story").find('p').hide(); 	jQuery("#story").find('p.lead').show(); 	jQuery("#story").find('p:eq(1)').show();  }  jQuery(document).ready( 	function() { 	jQuery('.articleLoginInput').live('focus', function(event) { 		if(jQuery(this).val() == jQuery(this).attr("data-default")){ 			jQuery(this).val(""); 		} 	}).live('blur', function(event) { 		if(jQuery.trim(jQuery(this).val()) == ""){ 			jQuery(this).val(jQuery(this).attr("data-default")); 		} 	});  	jQuery('.articleLoginInputPass').live( 			'focus', 			function() { 				if (jQuery(this).attr('type') == 'text') { 					this.type = "password"; 				} 				if(jQuery(this).val() == jQuery(this).attr("data-default")){ 					jQuery(this).val(""); 				} 			}).live('blur', function(){ 				if(jQuery.trim(jQuery(this).val()) == "" || jQuery.trim(jQuery(this).val()) == jQuery(this).attr("data-default")){ 					this.type = "text"; 					this.value = jQuery(this).attr("data-default"); 				} 			}); 			 	jQuery('.noAccessLoginBox_smsInput').bind('focus', function(event) { 		if(jQuery(this).val() == jQuery(this).attr("data-default")){ 			jQuery(this).val(""); 		} 	}); }); </p>
+<p> Koszykówka </p>
+<p> Warszawa bez koszykówki? </p>
+<p> Marek Cegliński </p>
+<p> 30-12-2011, ostatnia aktualizacja 30-12-2011 14:49 </p>
+<p> Komentuj </p>
+<p> var addthis_config = { 		                services_exclude: 'print, email', 		                ui_language: "pl" 		            } </p>
+<p> A </p>
+<p> A </p>
+<p> A </p>
+<p> AZS Politechnika </p>
+<p> źródło: Fotorzepa </p>
+<p> autor: Robert Gardziński </p>
+<p> + Zobacz więcej zdjęć </p>
+<p> AZS Politechnika potrzebuje pomocy. Jej piątkowy mecz w 18. kolejce ekstraklasy z PBG Basket Poznań na pewno był ostatnim w tym roku, ale czy także ostatnim w Tauron Basket Lidze? Drużynie grozi wycofanie z rozgrywek </p>
+<p> Kilkanaście dni temu prezes AZS Politechniki Jolanta Dolecka wystąpiła z dramatycznym apelem. </p>
+<p> – Jestem  postawiona pod ścianą i bliska wycofania zespołu z rozgrywek. Nie lepsza  jest sytuacja naszych siatkarzy. Władze Warszawy nie wykazują żadnego  zainteresowania naszymi problemami. Jeśli nic się nie zmieni, jeśli nie otrzymamy pomocy, to już w następnym  sezonie nie będzie w stolicy żadnej ekipy w najwyższej klasie  rozgrywek, oprócz piłki nożnej. Władze miasta traktują sport jak piąte  koło u wozu. Interesują się tylko jednym klubem - Legią – oświadczyła po zwycięstwie drużyny Mladena Starcevicia, złożonej w  całości z polskich graczy, nad Polpharmą Starogard Gdański. </p>
+<p> Co się  zmieniło w ostatnich dniach, w których prezes wysyłała m.in. listy do  parlamentarzystów, kandydujących w niedawnych wyborach z Warszawy, z  prośbą o pomoc w znalezieniu sponsorów i domknięciu budżetu dla dwóch zespołów ekstraklasy: siatkarskiego i  koszykarskiego? Czy piątkowy mecz będzie ostatnim w tym roku czy też  może ostatnim w sezonie ekstraklasie koszykarzy? </p>
+<p> – Na pewno  będzie to ostatni mecz w tym roku, a czy w sezonie, to jeszcze nie wiem  – mówi „Rz" prezes Dolecka. – Wciąż walczymy o to, żeby koszykarze  nadal grali w Warszawie. Czy coś się zmieniło? Na dziś nie mam mocnego odzewu ze strony miasta, z tym że  jestem w stałym kontakcie z nową szefową Biura Sportu i Rekreacji Urzędu  m. st. Warszawy, panią Renatą Popek. Może w najbliższych dniach coś się  zmieni. Myślę, że podejmiemy decyzję 2 stycznia. </p>
+<p> Zdaniem  Doleckiej apele do posłów i absolwentów Politechniki Warszawskiej,  zasiadających w radach nadzorczych różnych spółek, dały w jakimś stopniu  efekt. </p>
+<p> – Decyzji  nikt jednak nie podejmie od razu – kontynuuje pani prezes. – To są  raczej rozmowy długofalowe. Jestem dobrej myśli, chciałabym, żeby te  dwie drużyny dograły do końca sezonu, a w następnym, żeby były silniejsze i byśmy mogli oglądać lepsze widowiska. </p>
+<p> Na  początku sezonu nikt nie mówił o finansowym kryzysie. Debiutujących w  ekstraklasie koszykarzy AZS zaprezentowano na konferencji prasowej w  sali Senatu Politechniki Warszawskiej. Polska Liga Koszykówki zatwierdziła klub do gry w Tauron Basket Lidze, biorąc  za dobrą monetę przedstawiony przez klub wymagany licencyjnymi  przepisami budżet. </p>
+<p> Ten okazał  się dziurawy już w pierwszym miesiącu rozgrywek, gdy wystąpiły trwające  do dzisiaj trudności z wypłatą zawodnikom należnych kwot kontraktowych.  Przyczyna? Sponsorzy, na deklaracjach których budowano budżet, nie wywiązali się z zobowiązań. W awaryjnej  sytuacji klub zwrócił się o pomoc do władz miasta, licząc na wsparcie,  przynajmniej w części takie, jakie samorządy innych miast w Polsce  udzielają swoim pierwszoligowym zespołom, promującym je w kraju. Tak dzieje się w Gdyni, Sopocie, Koszalinie czy Tarnobrzegu,  ale nie w Warszawie. </p>
+<p> Wiesław  Wilczyński, który do niedawna odpowiadał za stołeczny sport, tłumaczy,  że Warszawa postawiła na upowszechnianie kultury fizycznej, aktywność  mieszkańców, sport dzieci i młodzieży. Budżet ukierunkowany był na cele społeczne, a nie na zawodowstwo. </p>
+<p> Nie  przeszkodziło to jednak w wyłożeniu ogromnych środków na budowę stadionu  dla Legii czy próbie wspierania z budżetu miasta utworzonej w Warszawie  prywatnej szkółki piłkarskiej FC Barcelona. Obydwie te inicjatywy są potrzebne, ale stołeczny sport nie kończy się  na piłce nożnej i środki można dzielić w innych proporcjach. Trzeba  tylko chcieć. </p>
+<p> A drużyna  AZS Politechniki to właśnie funkcjonująca od kilku lat taka „koszykarska  Barcelona", powstała w ramach projektu Polonia 2011, który w stolicy  nie znalazł dostatecznego wsparcia, nie mówiąc o pomocy w budowie własnej bazy szkoleniowej. Za sezon, dwa  może się okazać, że mamy w niej cały zastęp graczy na europejskim  poziomie. Takimi są już 18-letni Mateusz Ponitka, jeden z  najzdolniejszych na świecie koszykarzy ze swojego rocznika, wicemistrz świata do lat 17, wybrany do pierwszej piątki turnieju w Hamburgu. W  tamtej reprezentacji grał także jego rówieśnik Michał Michalak, a  21-letni Piotr Pamuła ma już za sobą udane występy w dorosłej  reprezentacji na mistrzostwach Europy. </p>
+<p> Poprzednia </p>
+<p> 1 </p>
+<p> 2 </p>
+<p> Następna </p>
+<p> Przeczytaj więcej o: </p>
+<p> azs politechnika </p>
+<p> , </p>
+<p> Biuro Sportu </p>
+<p> , </p>
+<p> Jolanta Dolecka </p>
+<p> , </p>
+<p> koszykówka </p>
+<p> , </p>
+<p> legia warszawa </p>
+<p> , </p>
+<p> Mateusz Ponitka </p>
+<p> , </p>
+<p> Piotr Pamuła </p>
+<p> , </p>
+<p> Renata Popek </p>
+<p> , </p>
+<p> Wiesław Wilczyński </p>
+<p> rp.pl </p>
+<p> © </p>
+<p> Wszystkie prawa zastrzeżone </p>
+<p> Żadna część jak i całość utworów zawartych w dzienniku nie może być powielana i rozpowszechniana  					lub dalej rozpowszechniana w jakiejkolwiek formie i w jakikolwiek sposób (w tym także elektroniczny  					lub mechaniczny lub inny albo na wszelkich polach eksploatacji) włącznie z kopiowaniem, szeroko pojętą digitalizacją,  					fotokopiowaniem lub kopiowaniem, w tym także zamieszczaniem w Internecie - bez pisemnej zgody GREMI MEDIA Sp. z o.o.  					Jakiekolwiek użycie lub wykorzystanie utworów w całości lub w części bez zgody GREMI MEDIA Sp. z o.o.  					lub autorów z naruszeniem prawa jest zabronione pod groźbą kary i może być ścigane prawnie. </p>
+<p> Rekomenduj artykuł, </p>
+<p> oddano głosów: </p>
+<p> Wydrukuj z Kyocerą </p>
+<p> © Licencja na publikację </p>
+<p> Napisz do redakcji </p>
+<p> var __nc_widgets = __nc_widgets || []; 							  var __nc_j = __nc_j || null; 							  var nextClickWebsite = nextClickWebsite || '';  							 							  if(nextClickWebsite == 'rpkom.pl'){ 								  __nc_widgets.push(['8861-84D6-6F8D-8A64-1Swvux', 'rp.pl', 'recommendation', 1, 1]); 								//if(typeof(console) != 'undefined'){ 								//	  console.log('rpkom'); 								//} 							  } 							  else{ 								  __nc_widgets.push(['F684-4840-0639-F15D-1Sqh7T', 'rp.pl', 'recommendation', 1, 1]); 							  } 							 							  (function() { 							    var __nc = document.createElement('script'); __nc.type = 'text/javascript'; __nc.async = true; __nc.id = 'Nextclick_Manager'; 							    __nc.src = 'http://nextclick.pl/widget/widget.recommendation.1.js'; 							    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(__nc, s); 							  })(); </p>
+<p> Najczęściej czytane </p>
+<p> 24 h </p>
+<p> 7 dni </p>
+<p> 30 dni </p>
+<p> Najlepsze zdjęcia sportowe (marzec) </p>
+<p> Śmierć młodego skoczka </p>
+<p> Bogaci i desperaci </p>
+<p> Przypadkowy człowiek </p>
+<p> Mamy czego żałować </p>
+<p> Najlepsze zdjęcia sportowe (marzec) </p>
+<p> Śmierć młodego skoczka </p>
+<p> Spokojnie, nie zginę </p>
+<p> W co ty grasz, synu? </p>
+<p> Bayern totalny </p>
+<p> Najlepsze zdjęcia sportowe (marzec) </p>
+<p> Najlepsze zdjęcia sportowe (luty) </p>
+<p> Może jesteśmy przeciętni </p>
+<p> Michael Phelps uczy pływania w brazylijskich slumsach </p>
+<p> Poniosło Żyłę </p>
+<p> Serwisy płatne </p>
+<p> Zamów » </p>
+<p> Cennik 2011 » </p>
+<p> Zobacz wszystkie produkty » </p>
+<p> sport.rp.pl </p>
+<p> Ile wart Tottenham bez Bale’a </p>
+<p> Drużyna z Londynu sprawdzi w czwartek, czy istnieje życie bez Walijczyka. O półfinał Ligi Europy walczą też dwa inne angielskie zespoły: Chelsea i Newcastle </p>
+<p> Zobacz wszystkie </p>
+<p> 110 </p>
+<p> Galeria </p>
+<p> Najlepsze zdjęcia sportowe (marzec) </p>
+<p> Tu nas znajdziesz </p>
+<p> Wiadomości </p>
+<p> Władze parlamentu uczciły pamięć ofiar </p>
+<p> Rodzice nie zapłacą mniej za przedszkole </p>
+<p> Ile wart Tottenham bez Bale’a </p>
+<p> Kraj </p>
+<p> Władze parlamentu uczciły pamięć ofiar </p>
+<p> „Rozmawiam czasem z synem w snach” </p>
+<p> „Zrealizowaliśmy zalecenia komisji Millera” </p>
+<p> Świat </p>
+<p> "Śpij kolego" w Smoleńsku </p>
+<p> Polowanie na czarownice </p>
+<p> Delegacja rządowa w drodze do Smoleńska i Katynia </p>
+<p> Sport </p>
+<p> Ile wart Tottenham bez Bale’a </p>
+<p> Wspólny trening Woodsa i Guana </p>
+<p> Noc pełna magii </p>
+<p> Kultura </p>
+<p> Kawał dobrego kina, ale mamy problem </p>
+<p> Wygraj książkę Joanny Racewicz o katastrofie w Smoleńsku </p>
+<p> Artystyczne wyjście z niszy </p>
+<p> Nieruchomości </p>
+<p> Rodzina królewska zgadza się na kontrolę finansów </p>
+<p> Karzaj porozmawia z talibami? </p>
+<p> Świętowanie znakomitych pomyłek </p>
+<p> Nauka </p>
+<p> Astrononautyka </p>
+<p> Biologia </p>
+<p> Upiorne splątanie na orbicie </p>
+<p> Opinie </p>
+<p> Władzy zabrakło determinacji </p>
+<p> Komentarz rysunkowy. Jak długo macie zamiar pamiętać o Smoleńsku? </p>
+<p> Majewski: Przybywa pytań o Smoleńsk </p>
+<p> Styl Życia </p>
+<p> Fretki na psich papierach </p>
+<p> Polacy wolą biegać, niż jeździć na rowerze </p>
+<p> Karolina lansuje La Palmę (wideo) </p>
+<p> Kraj </p>
+<p> Wiadomości </p>
+<p> | </p>
+<p> Polityka </p>
+<p> | </p>
+<p> Wojsko </p>
+<p> | </p>
+<p> Edukacja </p>
+<p> | </p>
+<p> Społeczeństwo </p>
+<p> | </p>
+<p> Kościół </p>
+<p> | </p>
+<p> Historia </p>
+<p> | </p>
+<p> Służby Specjalne </p>
+<p> | </p>
+<p> Wymiar Sprawiedliwości </p>
+<p> Świat </p>
+<p> Wiadomości </p>
+<p> | </p>
+<p> Obyczaje </p>
+<p> | </p>
+<p> Kościoły i religie </p>
+<p> | </p>
+<p> Unia Europejska </p>
+<p> | </p>
+<p> Europa </p>
+<p> | </p>
+<p> USA </p>
+<p> | </p>
+<p> Rosja </p>
+<p> | </p>
+<p> Bliski Wschód </p>
+<p> | </p>
+<p> Polacy za granicą </p>
+<p> | </p>
+<p> Terroryzm </p>
+<p> | </p>
+<p> NATO </p>
+<p> PRAWO </p>
+<p> Prawo w firmie </p>
+<p> | </p>
+<p> Prawo dla Ciebie </p>
+<p> | </p>
+<p> Prawnicy </p>
+<p> | </p>
+<p> Samorząd </p>
+<p> | </p>
+<p> Sfera budżetowa </p>
+<p> | </p>
+<p> Opinie </p>
+<p> | </p>
+<p> Baza Prawa Rzeczpospolitej </p>
+<p> | </p>
+<p> Narzędzia </p>
+<p> Ekonomia </p>
+<p> Wiadomości </p>
+<p> | </p>
+<p> Gospodarka </p>
+<p> | </p>
+<p> Rynki i Firmy </p>
+<p> | </p>
+<p> Pieniądze </p>
+<p> | </p>
+<p> Finanse </p>
+<p> | </p>
+<p> Media i Internet </p>
+<p> | </p>
+<p> Analizy i Opinie </p>
+<p> | </p>
+<p> {eko +} </p>
+<p> | </p>
+<p> Energianews </p>
+<p> Wybory parlamentarne 2011 </p>
+<p> | </p>
+<p> Zdrowie </p>
+<p> | </p>
+<p> Media </p>
+<p> | </p>
+<p> Obyczaje </p>
+<p> | </p>
+<p> Przestępczość </p>
+<p> | </p>
+<p> Tsunami w Japonii </p>
+<p> | </p>
+<p> Operacja w Libii </p>
+<p> | </p>
+<p> Dopalacze </p>
+<p> Polacy za granicą </p>
+<p> | </p>
+<p> Terroryzm </p>
+<p> | </p>
+<p> NATO </p>
+<p> | </p>
+<p> Dyplomacja </p>
+<p> | </p>
+<p> Niemcy </p>
+<p> | </p>
+<p> Beatyfikacja Jana Pawła II </p>
+<p> | </p>
+<p> Akta WikiLeaks </p>
+<p> | </p>
+<p> Rewolucje w krajach arabskich </p>
+<p> Przeczytaj też: </p>
+<p> Seria zwycięstw </p>
+<p> Koszykarze New York Knicks do dwunastu przedłużyli serię zwycięstw w lidze NBA. W niedzielę pokonali na wyjeździe drużynę Oklahoma City Thunder 125:120 </p>
+<p> reklama </p>
+<p> <!--  google_ad_client = "ca-pub-6667207745023366";  /* 234x60, utworzono 10-08-24 */  google_ad_slot = "4719381694";  google_ad_width = 234;  google_ad_height = 60;  //--> </p>
+<p> <!--  google_ad_client = "ca-pub-6667207745023366";  /* 234x60, utworzono 10-08-24 */  google_ad_slot = "4719381694";  google_ad_width = 234;  google_ad_height = 60;  //--> </p>
+<p> <!--  google_ad_client = "ca-pub-6667207745023366";  /* 234x60, utworzono 10-08-24 */  google_ad_slot = "4719381694";  google_ad_width = 234;  google_ad_height = 60;  //--> </p>
+<p> NASZE PRODUKTY </p>
+<p> NASZE SERWISY </p>
+<p> Gremi Media: </p>
+<p> O nas </p>
+<p> | </p>
+<p> Regulamin </p>
+<p> | </p>
+<p> Reklama </p>
+<p> | </p>
+<p> Napisz do nas </p>
+<p> | </p>
+<p> Kontakt </p>
+<p> | </p>
+<p> Pliki cookies </p>
+<p> © Copyright by GREMI MEDIA Sp. z o.o. </p>
+<p> document.write(unescape('%3Csc'+'rip'+'t type="text/javascript" id="cafenews.pl#adaaaf77e75e8e12eb5449a808eaeac4"%3E%3C/s'+'cri'+'pt%3E%3Cdiv id="cafenews.pl#cvb64mnc8vg4jd8gksd653jkadg7j6"%3E%3C/div%3E'));setTimeout('var d=new Date();document.getElementById("cafenews.pl#adaaaf77e75e8e12eb5449a808eaeac4").src="http://webservices.cafenews.pl/mpl/Static/Static.js?id=cafenews.pl#cvb64mnc8vg4jd8gksd653jkadg7j6&d="+d.getFullYear()+d.getMonth()+d.getDate();',250); </p>
+<p> var _smid = "8bo7ex8u23mg66xi";             (function() {                 var sm = document.createElement('script'); sm.type = 'text/javascript'; sm.async = true;                 sm.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'www.salesmanago.pl/static/sm.js';                 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sm, s);             })(); </p>
+<p> <!--//--><![CDATA[//><!-- var pp_gemius_identifier ='nSAwrbMtLwu6oYWQcsfPTsWn.fOZJyOIikw2x3Qg8y.._7'; //--><!]]> </p>
+<p> /* <![CDATA[ */  var bbkeywords=''; //fill in: 'key1;key2;..' bmone2n.addPosition('901.11.1.1',''); bmone2n.addPosition('901.11.1.2',''); bmone2n.addPosition('901.11.1.3',''); bmone2n.addPosition('901.11.1.4',''); bmone2n.addPosition('901.11.1.7',''); bmone2n.addPosition('901.11.2.2',''); bmone2n.addPosition('901.11.2.7',''); bmone2n.addPosition('901.11.3.7',''); bmone2n.addPosition('901.11.4.7',''); bmone2n.addPosition('901.11.5.7',''); bmone2n.addPosition('901.11.6.7',''); bmone2n.addPosition('901.11.7.7',''); bmone2n.addPosition('901.11.8.7',''); bmone2n.addPosition('901.11.9.7',''); bmone2n.getAd('go.idmnet.bbelements.com',bbkeywords,''+(typeof(bburlparam)=='string'?'&'+bburlparam:''),'iso-8859-2');/* ]]> */ </p>
+<p> /* <![CDATA[ */ bmone2n.makeAd('901.11.1.1'); /* ]]> */ </p>
+<p> /* <![CDATA[ */ bmone2n.makeAd('901.11.1.2'); /* ]]> */ </p>
+<p> /* <![CDATA[ */ bmone2n.makeAd('901.11.1.3'); /* ]]> */ </p>
+<p> /* <![CDATA[ */ bmone2n.makeAd('901.11.1.4'); /* ]]> */ </p>
+<p> /* <![CDATA[ */ bmone2n.makeAd('901.11.1.7'); /* ]]> */ </p>
+<p> /* <![CDATA[ */ bmone2n.makeAd('901.11.2.2'); /* ]]> */ </p>
+<p> /* <![CDATA[ */ bmone2n.makeAd('901.11.2.7'); /* ]]> */ </p>
+<p> /* <![CDATA[ */ bmone2n.makeAd('901.11.3.7'); /* ]]> */ </p>
+<p> /* <![CDATA[ */ bmone2n.makeAd('901.11.4.7'); /* ]]> */ </p>
+<p> /* <![CDATA[ */ bmone2n.makeAd('901.11.5.7'); /* ]]> */ </p>
+<p> /* <![CDATA[ */ bmone2n.makeAd('901.11.6.7'); /* ]]> */ </p>
+<p> /* <![CDATA[ */ bmone2n.makeAd('901.11.7.7'); /* ]]> */ </p>
+<p> /* <![CDATA[ */ bmone2n.makeAd('901.11.8.7'); /* ]]> */ </p>
+<p> /* <![CDATA[ */ bmone2n.makeAd('901.11.9.7'); /* ]]> */ </p>
+<p> /* <![CDATA[ */ bmone2n.moveAd(); /* ]]> */ </p>
+<p> common </p>
+<p> var ghmxy_align = 'center'; 		var ghmxy_type = 'absolute'; 		var ghmxy_identifier = new String("dvZKuMdp8_sHBqa8kksWWLQZP_0KwHr0WZGaM4jH_rL.L7"); </p>
+<p> window.fbAsyncInit = function() { 		FB.init({appId: '103391779803385', status: true, cookie: true, xfbml: true, oauth: true}); 	 	 		jQuery('#fbbox').html('<a href="https://graph.facebook.com/oauth/authorize?client_id=103391779803385&display=page&scope=email&zalogujFB=zaloguj&redirect_uri=http://www.rp.pl/artykul/784593.html"><img src="http://static.presspublica.pl/web/rp/img/layout/fb_icons/polacz_z_fb.png" /></a>');  		jQuery('#fbbox2').html('<a href="https://graph.facebook.com/oauth/authorize?client_id=103391779803385&display=page&scope=email&zalogujFB=zaloguj&redirect_uri=http://www.rp.pl/artykul/784593.html"><img src="http://static.presspublica.pl/web/rp/img/layout/fb_icons/polacz_z_fb.png" /></a>');  	 	};   (function() {    var e = document.createElement('script');    e.type = 'text/javascript';    e.src = document.location.protocol +      '//connect.facebook.net/pl_PL/all.js';    e.async = true;    document.getElementById('fb-root').appendChild(e);  }()); </p>
+<p> zamknij </p>

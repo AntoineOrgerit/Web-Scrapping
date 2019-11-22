@@ -1,0 +1,298 @@
+<p> JANRAIN.SSO.CAPTURE.check_login({ 		sso_server: 'https://sso.canada.com', 		client_id: '63pzv558ejbv79zcphkqra4ehe8x6xkg', 		redirect_uri: 'http://'+window.location.hostname+'/scripts/sso/postlogin.ashx', 		logout_uri: 'http://'+window.location.hostname+'/scripts/sso/logout.ashx?type=providers', 		xd_receiver: 'http://'+window.location.hostname+'/xdcomm.html' 	}); </p>
+<p> CDMScriptManager.load('/js/jquery-1.2.6.min.js'); 	CDMScriptManager.load('/js/slider.js'); </p>
+<p> CDMScriptManager.load('/js/pluck/pluckLocal.js'); </p>
+<p> CDMScriptManager.load(pluckScriptUrl);      CDMScriptManager.load('/js/pluck/pluck.js'); </p>
+<p> .pluck-comm .pluck-user-persona { 			display: block !important; 		} </p>
+<p> More help available for stoppers </p>
+<p> function getCookies() { return ""; } </p>
+<p> Array.prototype.uniqueAry = function ()                         {                             var r = new Array();                             o:for(var i = 0, n = this.length; i < n; i++)                             {                                 for(var x = 0, y = r.length; x < y; x++)                                 {                                     if(r[x]==this[i])                                     {                                         continue o;                                     }                                 }                                 r[r.length] = this[i];                             }                             return r;                         }                          function getCookie(cookieName)                         {                             var dc = document.cookie;                              //load external cookies from .canada.com if not currently on .canada.com                             if (location.hostname.match(/\.canada\.com$/gi) == null)                                 dc += ";" + getCookies(); //append to existing document cookie                              var cookie_str = ""; //this string will contain the value of the cookie name                             var needle = "[A-Za-z0-9_-]*" + cookieName + "[A-Za-z0-9_-]*=[^;]+";                             var regex = new RegExp(needle, "gi");                             var matches = dc.match(regex);                             if (matches != null)                             {                                 for (var x = 0; x < matches.length; x++)                                     matches[x] = matches[x].substring(matches[x].indexOf("=")+1).replace(new RegExp("[\\s]+$", "g"), ""); //remove keyname prefix and trim                                 cookie_str = matches.join(",");                                 matches = cookie_str.split(",");                                 matches = matches.uniqueAry(); //remove duplicates                                 cookie_str = matches.join(";") + ";";                             }                             return unescape(cookie_str);                         }                          function getAdCookie()                         {                             return getCookie("adcookie");                         }                          function setSurroundCookie(value)                         {                             document.cookie = "surroundId=" + escape(value) + "; path=/";                         }                          function getSurroundCookie()                         {                             var dc = document.cookie;                             var prefix = "surroundId=";                             var begin = dc.indexOf("; " + prefix);                             if (begin == -1)                             {                                 begin = dc.indexOf(prefix);                                 if (begin != 0) return null;                             }                             else                             {                                 begin += 2;                             }                             var end = document.cookie.indexOf(";", begin);                             if (end == -1) end = dc.length;                             return unescape(dc.substring(begin + prefix.length, end));                         }                          // Setup for surround session.                         var adid = ""; // used in the ad to start a surround session                         var surroundTag = getSurroundCookie(); // Get surround session id from the cookie                         if(surroundTag == null) // check if there was a surround session id in the cookie                         {                             surroundTag = "";                         }                         else                         {                             surroundTag = "srnd="+surroundTag+";"; // finish setting up the key-value for the ad tags                         }                          //Setup for adcookie.                         var adcookieTag = getAdCookie(); // Get the ad cookie string </p>
+<p> adcookieTag = typeof(adcookieTag) != 'undefined' ? adcookieTag : '';                         dartad_tile = typeof(dartad_tile) != 'undefined' ? dartad_tile + 1 : 1;                         var dartad_url = "http://ad.ca.doubleclick.net/N3081/adj/lla.com/health/story;loc=theTop;loc=top;sz=468x60,728x90;dcopt=ist;kw=ron;kw=health;nk=print;pr=lla;ck=health;page=story;tile="+dartad_tile+";"+adcookieTag+surroundTag+"ord=23843895?"; // script ad code with adcookie, used for debug                         document.write('<script language="JavaScript1.1" src="http://ad.ca.doubleclick.net/N3081/adj/lla.com/health/story;loc=theTop;loc=top;sz=468x60,728x90;dcopt=ist;kw=ron;kw=health;nk=print;pr=lla;ck=health;page=story;tile='+dartad_tile+';'+adcookieTag+surroundTag+'ord=23843895?"><\/script>'); </p>
+<p> if(adid != "") // check if the ad should start a surround session only if a surround session has not yet started                         {                             surroundTag = "srnd="+adid+";"; // setup the key-value for a surround session                             setSurroundCookie(adid); // store the surround session id in a cookie.                         } </p>
+<p> Â </p>
+<p> Â </p>
+<p> Weather Centre </p>
+<p> Â </p>
+<p> Â </p>
+<p> Â </p>
+<p> 2°C </p>
+<p> Â </p>
+<p> Overcast </p>
+<p> Vancouver </p>
+<p> Detailed Forecast </p>
+<p> Â </p>
+<p> Newspapers </p>
+<p> Abbotsford Times </p>
+<p> Burnaby Now </p>
+<p> Chilliwack Times </p>
+<p> Coquitlam Now </p>
+<p> Delta Optimist </p>
+<p> Langley Advance </p>
+<p> Maple Ridge Times </p>
+<p> North Shore News </p>
+<p> Richmond News </p>
+<p> Royal City Record </p>
+<p> Surrey Now </p>
+<p> Vancouver Courier </p>
+<p> Calgary Herald </p>
+<p> Edmonton Journal </p>
+<p> Regina Leader-Post </p>
+<p> The Gazette (Montreal) </p>
+<p> National Post </p>
+<p> Ottawa Citizen </p>
+<p> Victoria Times Colonist </p>
+<p> The Province (Vancouver) </p>
+<p> Saskatoon StarPhoenix </p>
+<p> Vancouver Sun </p>
+<p> Windsor Star </p>
+<p> DOSE </p>
+<p> Nanaimo Daily News </p>
+<p> Postmedia Community Publishing </p>
+<p> canada.com home </p>
+<p> function handlePostLogin() { 		// change the login status bar to reflect a logged in state 		jQuery.getScript("http://"+window.location.hostname+"/scripts/sso/user.ashx?format=json&callback=renderLoginStatusBar");  		if((window.location+"").indexOf("/members/account-verified.html") > -1 || (window.location+"").indexOf("/members/cancel-deletion.html") > -1 || (window.location+"").indexOf("/members/reset-password-complete.html") > -1) window.location="/index.html"; 		else window.location.reload(); 	}  	function handlePostLogout() { 		// change the login status bar to reflect a logged out state 		jQuery.getScript("http://"+window.location.hostname+"/scripts/sso/user.ashx?format=json&callback=renderLoginStatusBar"); 		 		if((window.location+"").indexOf("edit-profile.html") > -1) window.location="/index.html"; 		else window.location.reload(); 	}  	function dologout() { 		// create the hidden logout iframe 		var src = 'http://'+window.location.hostname+'/scripts/sso/logout.ashx?iframe=true'; 		jQuery('<iframe id="iframe_logout" style="visibility:hidden;display:none" frameborder="0" hspace="0" scrolling="no" src="' + src + '"></iframe>').appendTo('body'); 	}  	function renderLoginStatusBar(user) { 		var user = user.User; 		var statusBarHtml = "";  		if (user.IsLoggedIn) { 			statusBarHtml += "<ul>"; 			statusBarHtml += "	<li>Hi " + user.DisplayName + "</li>"; 			statusBarHtml += " " + profileLink; 			statusBarHtml += "	<li><a href=\"javascript:dologout();\">Sign Out</a></li>"; 			statusBarHtml += "</ul>"; 		} 		else { 			statusBarHtml += "<ul>"; 			statusBarHtml += "	<li><a href=\"javascript:light.mask(jQuery('body'),light.getHtml('user_reg_internal_1t'));\">Log in</a></li>"; 			statusBarHtml += "	<li><a href=\"javascript:light.mask(jQuery('body'),light.getHtml('user_reg_internal_1t'));\">Register</a></li>"; 			statusBarHtml += "</ul>"; 		} 		document.getElementById("loginstatusbarchild").innerHTML = statusBarHtml; 	} </p>
+<p> jQuery.getScript("http://"+window.location.hostname+"/scripts/sso/user.ashx?format=json&callback=renderLoginStatusBar"); </p>
+<p> Langley Advance </p>
+<p> 2010 Wintergames </p>
+<p> Â </p>
+<p> Â </p>
+<p> Weather Centre </p>
+<p> Â </p>
+<p> Â </p>
+<p> Â </p>
+<p> 2°C </p>
+<p> Â </p>
+<p> Overcast </p>
+<p> Vancouver </p>
+<p> Detailed Forecast </p>
+<p> Â </p>
+<p> Search </p>
+<p> Quick links: </p>
+<p> Traffic Cams </p>
+<p> , </p>
+<p> Local Deals </p>
+<p> , </p>
+<p> Live Green </p>
+<p> , </p>
+<p> Obituaries </p>
+<p> Find a business or person on </p>
+<p> YellowPages </p>
+<p> TM </p>
+<p> CDMScriptManager.load("http://www.langleyadvance.com/js/autocomplete/jquery.autocomplete.min.js"); </p>
+<p> function doSearch() { 				var q = document.getElementById("q").value.replace(/ /g,"+"); 				if (q.length == 0) { 					alert("Please enter your search criteria"); 					return; 				} 				document.location.href="http://www.langleyadvance.com/search/search.html?q=" + escape(q); 			} 			//FAST WAVE 1 			//add javascript to hook up search text box in header 			//set up autocomplete on search box in header 			jQuery(document).ready(function() { 				jQuery("#q").autocomplete("http://app.canada.com/search/search.svc/autocomplete", { 					dataType: 'jsonp', 					parse: function(data) { 						var rows = new Array(); 						data = data.Terms; 						for(var i=0; i<data.length; i++){ 							rows[i] = { data:{Term:data[i]}, value:data[i], result:data[i] }; 						} 						return rows; 					}, 					resultsClass: "fast_wave_results", 					formatItem: function(row, i, n) { 						return  row.Term; 					}, 					cacheLength: 0, 					extraParams: { 						format: "json" 					}, 					minChars: 1, 					max: 10, 					highlight: function(value, term) { 						var pos = value.toLowerCase().indexOf(term.toLowerCase()); 						return (pos > 0)?"<b>" + value.substring(0,pos) + "</b>" + value.substring(pos, term.length) + "<b>" + value.substring(pos + term.length) + "</b>":value.substring(0, term.length) + "<b>" + value.substring(pos + term.length) + "</b>"; 					}, 					scroll: false, 					selectFirst: false 				});  			}); </p>
+<p> Home </p>
+<p> Quick Links: </p>
+<p> Contact Us </p>
+<p> Send us your News </p>
+<p> Traffic Cams </p>
+<p> Local Ads </p>
+<p> E-Flyers </p>
+<p> Â </p>
+<p> Â» </p>
+<p> RSS </p>
+<p> News </p>
+<p> Weather </p>
+<p> Photo Galleries </p>
+<p> Traffic Cams </p>
+<p> Opinion </p>
+<p> Editorials & Letters </p>
+<p> Columnists </p>
+<p> Blogs </p>
+<p> Community </p>
+<p> Photo Galleries </p>
+<p> Sports </p>
+<p> Photo Galleries </p>
+<p> Entertainment </p>
+<p> Movies </p>
+<p> TV Listings </p>
+<p> Life </p>
+<p> Driving </p>
+<p> Auto Find - local specials </p>
+<p> Videos </p>
+<p> Jobs </p>
+<p> Search Jobs </p>
+<p> Resources </p>
+<p> Post Jobs </p>
+<p> My Profile </p>
+<p> Cars </p>
+<p> New </p>
+<p> Used </p>
+<p> Auto Find - local specials </p>
+<p> Sell </p>
+<p> Research & Compare </p>
+<p> News & Events </p>
+<p> Videos </p>
+<p> Features </p>
+<p> Homes </p>
+<p> For Sale/Rent </p>
+<p> Tips for Buyers & Sellers </p>
+<p> Renovating </p>
+<p> Decorating </p>
+<p> Gardening </p>
+<p> Condo Living </p>
+<p> Vacation Homes </p>
+<p> Classifieds </p>
+<p> E-Flyers </p>
+<p> Shopping </p>
+<p> Place an Ad </p>
+<p> Obituaries </p>
+<p> CDMScriptManager.load('/js/SpiderRedirect.js'); </p>
+<p> CDMScriptManager.load('/js/pluck/pluckLocal.js'); 				CDMScriptManager.load('http://pluck.langleyadvance.com/ver1.0/Direct/DirectProxy'); 				CDMScriptManager.load('/js/pluck/pluck.js');				 				CDMScriptManager.load('/js/adsync/adSyncLibrary.js'); </p>
+<p> if (typeof dartad_url != 'undefined') { 					var dd = adSync.ParseDartAdUrl(dartad_url); 					cwZoneAd=dd["zone"]; 					cwSiteAd =dd["site"]; 					cwKeyAd=dd["keyValues"]; 				}else { 					cwSiteAd = "lla.com"; // plug in the Ad site variable 					cwZoneAd= "health/story"; // plug in the ad zone. 					cwKeyAd="kw=ron;kw=health"; // plug in the Ad key words. 				} </p>
+<p> var addthis_pub = 'canada.com';  				function tabClick(eventText, hasVideo, id, classname, pause,syncAds) 				{	 					//the statsEvent and Ad Refresh have been disabled on the story tab clicks 					//I've left the code in the xsl (just commented out), in case the decision gets reversed. 									 					//omniture event 					//statsEvent(eventText);	 					 					//set tab 					if(hasVideo) 						switchTab(id,classname, pause); 					else 						setClass(id, classname);  					//refresh ads 					//if(syncAds) 						//adSync.TriggerAdSynch(); 				}  				function statsEvent(eventText) 				{ 					//omniture event 					s.prop38=s.pageName + eventText; 					s.events=''; 					void(s.t());				 				}  				function showTab(firstentrytype) 				{ 					var tab = getQueryVar('tab'); 					var tabclass = '';  					if (tab == 'PHOT' || (firstentrytype.indexOf('image/') != -1 && tab == '')) 						tabclass = 'story_photo_content'; 					else if (tab == 'VID' || ((firstentrytype == 'application/vnd.ooyala') && tab == '')) 						tabclass = 'story_video_content'; 					else if (tab == 'FLSH' || (firstentrytype == 'application/x-shockwave-flash' && tab == '')) 						tabclass = 'story_interactive_content';  					if (tabclass != '') 						setClass('storypage', tabclass); 				} 				function EmailThis(qs, emailViewer)  				{ 					var url = "http://" + window.location.hostname + window.location.pathname; 					var id = "";  					id = getQueryVar("id"); 					if (id != "") 					{ 						url = addQS(url, "id=" + id); 					} 					if (qs != "") 					{ 						url = addQS(url, qs); 					} 					if (typeof(emailViewer) == "undefined" || emailViewer == null || emailViewer == "") emailViewer = "/story_emailthis.html"; 					openWindow(emailViewer + '?referrer=' + encodeURIComponent(url), 'StoryEmailThis', 'scrollbars=yes,resizable=yes,width=550,height=380') 				} 				function getQueryVar(key)  				{ 					var qs = window.location.search.substring(1); 					var arrQS = qs.split("&"); 					var value = "";  					for (i=0; i<arrQS.length; i++) { 						var ft = arrQS[i].split("="); 						if (ft[0] == key) { 							value =  ft[1]; 						} 					}  					return value; 				} 				function addQS(theURL, QS) 				{ 					var url = theURL; 					if (QS != '') 					{ 						if (url.indexOf("?") == -1)	{ 							url += "?" + QS; 						}  						else { 							url += "%26amp;" + QS; 						} 					} 					return url; 				} 				function openWindow(theURL, WinName, WinFeatures) { 					window.open(theURL, WinName, WinFeatures); 				} 				function jumpToAnchor(anchor)  				{ 					window.location = String(window.location).replace(/\#.*$/, "") + anchor; 				} 				function showAd(story_elem, ad_elem, ad_wrapper, offset) { 					var eosPos = Y(story_elem); 					var adPos = Y(ad_wrapper); 					var showAd = false; 					var offsetPos = 0; 					 					if (eosPos >= adPos) 					{ 						showAd = true; 					} 					else 					{ 						offsetPos = eosPos + offset; 						if (offsetPos >= adPos) 						{ 							showAd = true; 						} 					}  					// write out ad include 					if (showAd == true) 					{ 					   document.getElementById(ad_elem).style.display = "block";  					} 				}				 				function X(id) { 					var obj = document.getElementById(id); 					var x = obj.offsetLeft  					while (obj = obj.offsetParent) x += obj.offsetLeft 					return x 				} 				function Y(id) { 					var obj = document.getElementById(id); 					var y = obj.offsetTop  					while (obj = obj.offsetParent) y += obj.offsetTop 					return y 				} </p>
+<p> CDMScriptManager.load("http://s9.addthis.com/js/widget.php?v=10"); </p>
+<p> More help available for stoppers </p>
+<p> Â </p>
+<p> Â </p>
+<p> By Bob Groeneveld, Langley Advance </p>
+<p> January 17, 2012 2:26 AM </p>
+<p> Â </p>
+<p> showTab("text/html"); </p>
+<p> Â </p>
+<p> function resizeImage() { 					var imgBox = document.getElementById('imageBox'); 					var photo = document.getElementById('storyphoto');  					if (imgBox != null && photo != null) 					{ 						if(photo.width >= 460)  						{ 							imgBox.className = 'imagesize460'; 						} 						else  						{ 							if(photo.width >= 300)  							{ 								imgBox.className = 'imagesize310'; 							} 							else  							{ 								imgBox.className = 'imageboxpadding'; 							} 							imgBox.style.width = photo.width + 'px'; 						} 					} 				} 				function getStoryFontSize() { 					var storyfontsize = getCookie('storyfontsize'); 					var storyfontimage = getCookie('storyfontimage');  					// use cookied value, if present 					if (storyfontsize != null) 					{ 						setClass('story_content',storyfontsize);  						if (storyfontimage != null) 						{ 							setClass('fontsizecontainer',storyfontimage);  						} 					} 					else	// default it to para14 if no cookie 					{ 						setClass('story_content','para14');  						setClass('fontsizecontainer','size02'); 					} 				} 				function setStoryFontSize(storyfontsize,storyfontimage) { 					setClass('story_content',storyfontsize);  					setClass('fontsizecontainer',storyfontimage); 					setCookie('storyfontsize', storyfontsize, '365', '/', '', ''); 					setCookie('storyfontimage', storyfontimage, '365', '/', '', ''); 				} 				function setCookie( name, value, expires, path, domain, secure ) { 					// set time 					var today = new Date(); 					today.setTime( today.getTime() );  					if ( expires ) 					{ 						expires = expires * 1000 * 60 * 60 * 24; //days 					} 					var expires_date = new Date( today.getTime() + (expires) );  					document.cookie = name + "=" + escape( value ) + 					( ( expires ) ? ";expires=" + expires_date.toGMTString() : "" ) +  					( ( path ) ? ";path=" + path : "" ) +  					( ( domain ) ? ";domain=" + domain : "" ) + 					( ( secure ) ? ";secure" : "" ); 				} 				function getCookie( check_name ) { 					// split this cookie up into name/value pairs 					var a_all_cookies = document.cookie.split( ';' ); 					var a_temp_cookie = ''; 					var cookie_name = ''; 					var cookie_value = ''; 					var b_cookie_found = false; // set boolean t/f default f 					 					for ( i = 0; i < a_all_cookies.length; i++ ) 					{ 						// split apart each name=value pair 						a_temp_cookie = a_all_cookies[i].split( '=' ); 						 						// and trim left/right whitespace while we're at it 						cookie_name = a_temp_cookie[0].replace(/^\s+|\s+$/g, ''); 					 						// if the extracted name matches passed check_name 						if ( cookie_name == check_name ) 						{ 							b_cookie_found = true; 							// we need to handle case where cookie has no value but exists (no = sign, that is): 							if ( a_temp_cookie.length > 1 ) 							{ 								cookie_value = unescape( a_temp_cookie[1].replace(/^\s+|\s+$/g, '') ); 							} 							// note that in cases where cookie is initialized but no value, null is returned 							return cookie_value; 							break; 						} 						a_temp_cookie = null; 						cookie_name = ''; 					} 					if ( !b_cookie_found ) 					{ 						return null; 					} 				} </p>
+<p> It has been said many times that there is nothing worse than a reformed smoker. </p>
+<p> Mostly, it's smokers who say it. But, hey! No matter who says it, there is nothing more musical to the ears of a crusty old newspaper editor than to hear that there's nothing worse than him. </p>
+<p> Yep. I am a reformed smoker. I gave up the evil weed 36 years ago. That's about a half-dozen years before I </p>
+<p> could have taken advantage of the moral support of National Non-Smoking Week. which is this week, for the 30th time. </p>
+<p> When I stopped smoking - after several tries, some lasting a couple of months or more - I relied on the help of a girlfriend. </p>
+<p> She told me something had to go: either the smokes, or her. </p>
+<p> I dumped the habit, and two weeks later, she dumped me - and there was no way I was ever going to give her the satisfaction of seeing me with a cigarette hanging from my mouth after that. </p>
+<p> Kicking the cancer sticks works differently for different people. </p>
+<p> It's seldom easy. At 2: 30 in the afternoon on Feb. 4, 1976, I tossed into the nearest garbage can a pack that still had six cigarettes in it. </p>
+<p> (A friend fished them out, asking if I minded if he took them. I said, "No, go ahead, catch cancer, if you like." He said, "Anyone can quit smoking; it takes a MAN to face cancer.") </p>
+<p> I attribute my success in stopping (not "quitting": you can't quit, you can only stop, and hope it never catches you back) to two things. </p>
+<p> First was my pride. As I noted above, I wasn't going to let my "ex" think I was too weak to stay off the cancer sticks without her. Second was tossing those six smokes in the trash. All my earlier attempts started with me saying, "As soon as this pack is finished." </p>
+<p> Chucking those six valuable cigarettes constituted a commitment. </p>
+<p> No, three things: Third was the escalating cost of cigarettes. Within a couple of days of my last smoke, the price had escalated to a whopping 65 cents for a pack of 20 - three quarters (an astounding 75 cents) to buy them from a vending machine. speaking of which, whatever happened to those vending machines that were absolutely everywhere? As I had been smoking a pack and a half a day (which increased every time I started up again after "quitting"), that was turning into serious bread for a university student. </p>
+<p> No, four things: </p>
+<p> Fourth was my dad's pride. He was so obviously, incredibly proud of me for breaking the habit, that I couldn't have had the heart to let him down. </p>
+<p> As a smoker himself, he knew how difficult stopping can be. </p>
+<p> I know some smokers will go "Aha! Your dad's a smoker, and you've said he's now 97 years old! How unhealthy can it be, after all, eh?" </p>
+<p> Sorry to rain on your smoke, folks, but apart from there being occasional anomalies to the statistical reality, dad's another of us ex-smokers. He quit - and there's a hilarious story to go with that, for another day - way back in the 1960s. </p>
+<p> And there's a fifth thing that kept me from starting up again, despite the intense cravings (and nightmares on the eve of each anniversary of my success since then, nightmares in which I discover that I've been sneaking puffs all along). It took about six months to really notice the change. but my general health had improved dramatically. </p>
+<p> Now there is a lot more help for those who want to stop smoking than there was (here comes the old man line!). back in my day. </p>
+<p> See provincially subsidized options at www. health.gov.bc.ca/pharmacare/stop-smoking. </p>
+<p> editor@langleyadvance.com </p>
+<p> Â© Copyright (c) Langley Advance </p>
+<p> Â </p>
+<p> Â </p>
+<p> Â </p>
+<p> E-mail this Article </p>
+<p> Print this Article </p>
+<p> Share this Article </p>
+<p> Â </p>
+<p> Â </p>
+<p> Â </p>
+<p> Â </p>
+<p> Â </p>
+<p> Story Tools </p>
+<p> Â </p>
+<p> E-mail this Article </p>
+<p> Print this Article </p>
+<p> jQuery('#liComment').hide(); </p>
+<p> Share this Article </p>
+<p> Â </p>
+<p> Font: </p>
+<p> * </p>
+<p> * </p>
+<p> * </p>
+<p> * </p>
+<p> * </p>
+<p> // load up cookied story font size 								getStoryFontSize(); </p>
+<p> Â </p>
+<p> Image: </p>
+<p> * </p>
+<p> * </p>
+<p> * </p>
+<p> * </p>
+<p> Â </p>
+<p> Â </p>
+<p> Â </p>
+<p> Â </p>
+<p> Â </p>
+<p> jQuery('#soundoff').addClass('hideCommentForm'); </p>
+<p> Â </p>
+<p> getCommentCount('SP6:6006792', false, 'lblComment','liComment'); </p>
+<p> var playingAd; 		document.write("<img id='vid1' height='1' width='1'>"); 		function videoScore(evt){ 			playingAd=evt.data.isAd; 			document.getElementById("vid1").src="http://beacon.securestudies.com/scripts/beacon.dll?C1=1&C2=10276888&C3=3005660&C4=" + window.location.pathname.toLowerCase() + "&C5=&C6=&C7=" + escape(window.location.href) + "&C8=" + escape(document.title) + "&C9=" + escape(document.referrer) + "&rn=" + Math.floor(Math.random()*99999999); 		} 		if (typeof tpController != 'undefined') {  		   tpController.addEventListener("OnMediaStart", "videoScore"); 		} </p>
+<p> Related Topics </p>
+<p> Health and Fitness </p>
+<p> Health Care Issues </p>
+<p> Smoking and Tobacco Use </p>
+<p> adcookieTag = typeof(adcookieTag) != 'undefined' ? adcookieTag : '';                         dartad_tile = typeof(dartad_tile) != 'undefined' ? dartad_tile + 1 : 1;                         var dartad_url = "http://ad.ca.doubleclick.net/N3081/adj/lla.com/health/story;loc=top_box;loc=top;sz=250x250,300x250;kw=ron;kw=health;nk=print;pr=lla;ck=health;page=story;tile="+dartad_tile+";"+adcookieTag+surroundTag+"ord=23843895?"; // script ad code with adcookie, used for debug                         document.write('<script language="JavaScript1.1" src="http://ad.ca.doubleclick.net/N3081/adj/lla.com/health/story;loc=top_box;loc=top;sz=250x250,300x250;kw=ron;kw=health;nk=print;pr=lla;ck=health;page=story;tile='+dartad_tile+';'+adcookieTag+surroundTag+'ord=23843895?"><\/script>'); </p>
+<p> if(adid != "") // check if the ad should start a surround session only if a surround session has not yet started                         {                             surroundTag = "srnd="+adid+";"; // setup the key-value for a surround session                             setSurroundCookie(adid); // store the surround session id in a cookie.                         } </p>
+<p> Most Popular News </p>
+<p> Most Read </p>
+<p> E-mailed </p>
+<p> Commented </p>
+<p> Teen dies in ecstasy incident </p>
+<p> Oh snow! </p>
+<p> Year's first murder in Aldergrove </p>
+<p> Extreme weather driving alert issued </p>
+<p> Shuttle buses, HandyDART shut down </p>
+<p> Crash deaths drop sharply </p>
+<p> Â </p>
+<p> more </p>
+<p> Â» </p>
+<p> RSS </p>
+<p> Oh snow! </p>
+<p> Â </p>
+<p> more </p>
+<p> Â» </p>
+<p> RSS </p>
+<p> setMostCommented("mostCommented", 6, 24); </p>
+<p> Sponsored By </p>
+<p> adcookieTag = typeof(adcookieTag) != 'undefined' ? adcookieTag : '';                         dartad_tile = typeof(dartad_tile) != 'undefined' ? dartad_tile + 1 : 1;                         var dartad_url = "http://ad.ca.doubleclick.net/N3081/adj/lla.com/health/story;loc=bot_box;loc=bot;sz=250x250,300x250;kw=ron;kw=health;nk=print;pr=lla;ck=health;page=story;tile="+dartad_tile+";"+adcookieTag+surroundTag+"ord=23843895?"; // script ad code with adcookie, used for debug                         document.write('<script language="JavaScript1.1" src="http://ad.ca.doubleclick.net/N3081/adj/lla.com/health/story;loc=bot_box;loc=bot;sz=250x250,300x250;kw=ron;kw=health;nk=print;pr=lla;ck=health;page=story;tile='+dartad_tile+';'+adcookieTag+surroundTag+'ord=23843895?"><\/script>'); </p>
+<p> if(adid != "") // check if the ad should start a surround session only if a surround session has not yet started                         {                             surroundTag = "srnd="+adid+";"; // setup the key-value for a surround session                             setSurroundCookie(adid); // store the surround session id in a cookie.                         } </p>
+<p> Home </p>
+<p> News </p>
+<p> Opinion </p>
+<p> Community </p>
+<p> Sports </p>
+<p> Entertainment </p>
+<p> Life </p>
+<p> Driving </p>
+<p> Jobs </p>
+<p> Cars </p>
+<p> Homes </p>
+<p> Classifieds </p>
+<p> Quick links </p>
+<p> Traffic Cams </p>
+<p> TV Listings </p>
+<p> Diversions </p>
+<p> Horoscope </p>
+<p> Alerts </p>
+<p> Live Green </p>
+<p> Send your news, photos, videos </p>
+<p> Local Deals </p>
+<p> Most Popular </p>
+<p> Teen dies in ecstasy incident </p>
+<p> Oh snow! </p>
+<p> Year's first murder in Aldergrove </p>
+<p> Extreme weather driving alert issued </p>
+<p> Â </p>
+<p> more </p>
+<p> Â» </p>
+<p> RSS </p>
+<p> Formats </p>
+<p> Sitemap / RSS </p>
+<p> Blogs </p>
+<p> Columnists </p>
+<p> Langley Advance </p>
+<p> Contact Us </p>
+<p> Tools </p>
+<p> Search </p>
+<p> Buy/Sell a Car </p>
+<p> Real Estate Listings </p>
+<p> SwarmJam Sweet Deals </p>
+<p> Place a Classified Ad </p>
+<p> E-mail Alerts </p>
+<p> Obituaries </p>
+<p> canada.com Logo </p>
+<p> About canada.com </p>
+<p> Privacy Statement </p>
+<p> Terms </p>
+<p> Copyright & Permissions </p>
+<p> © 2008 - 2010 Postmedia Network Inc. All rights reserved. </p>
+<p> Unauthorized distribution, transmission or republication strictly prohibited. </p>
+<p> function footerSearch() { 			var q = document.getElementById("f").value.replace(/ /g,"+"); 			if (q.length == 0) { 				alert("Please enter your search criteria"); 				return; 			} 			document.location.href="/search/search.html?q=" + escape(q); 		} </p>
+<p> document.getElementById("f").value = document.getElementById("q").value; </p>
+<p> <!--                         /* You may give each page an identifying name, server, and channel on                         the next lines. */                         s.pageName='/health/story.html';                         s.server=window.location.hostname.toLowerCase();                         s.channel='health';                         s.pageType='';                         s.prop1='health';                         s.prop2='health';                         s.prop3='canwest';                         s.prop4='Non-Registered';                         s.prop5=s.prop4 + ': ' + s.pageName;                         s.prop6='Langley Advance/FREE';                         s.prop7='Langley Advance';                         s.prop8='6006792';                         s.prop9='';                         s.prop10='';                         s.prop11='';                         s.prop13='';                         s.prop23=document.title;                         s.prop24=s.prop8;                         s.prop25='story';                         s.prop26='health';                                     s.prop27='';                           s.prop28='';                          s.prop29='';                         s.prop36='Opinion';                          s.prop37='lla.com';                          s.prop43='';                         s.prop44='';                         /* E-commerce Variables */                                                  s.events='';                         s.products='';                         s.purchaseID='';                         s.transactionID = s.purchaseID;                                                  /* s.prop48 for story only */                         s.prop48='Bob Groeneveld, Langley Advance';                                                                /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/                         var s_code=s.t();if(s_code)document.write(s_code)//--> </p>
+<p> <!--                         if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')                         //--> </p>

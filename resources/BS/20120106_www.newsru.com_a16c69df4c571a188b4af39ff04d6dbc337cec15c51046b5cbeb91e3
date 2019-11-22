@@ -1,0 +1,131 @@
+<p> Новости NEWSru.com :: Минобороны реализует ультиматум Медведева по ПРО: разрабатывает новейший ракетный комплекс для РВСН </p>
+<p> <!-- browser = ( 	((navigator.appName == "Netscape") && (parseInt(navigator.appVersion) >= 3 )) 	|| 	((navigator.appName == "Microsoft Internet Explorer") && (parseInt(navigator.appVersion) >= 4 )) 	|| 	((navigator.appName == "Opera") && (parseInt(navigator.appVersion) >= 7 )) );  imgon=new Array(); imgoff=new Array();  list = new Array("allnews","1","2","3","7","4","5","6","msc","inopress","zagolovkiru","realty","techno","auto","medicine");  for(i = 1; i <= list.length; i++){ 	imgon["m"+i] = new Image(); 	imgon["m"+i].src = "http://static.newsru.com/img/menu_v/"+list[i-1]+"a.gif"; 	imgoff["m"+i] = new Image(); 	imgoff["m"+i].src = "http://static.newsru.com/img/menu_v/"+list[i-1]+".gif"; }  imageRef="document.images";  function msover(which) { 	if (browser) { 		eval(imageRef + '["' + which + '"].src = imgon[which].src'); 	} }  function msout(which) { 	if (browser) { 		eval(imageRef + '["' + which + '"].src = imgoff[which].src'); 	} } // --> </p>
+<p> (function(L){if(typeof(ar_cn)=="undefined")ar_cn=1; var S='setTimeout(function(e){if(!self.CgiHref){document.close();e=parent.document.getElementById("ar_container_"+ar_bnum);e.parentNode.removeChild(e);}},3000);',     j=' type="text/javascript"',t=0,D=document,n=ar_cn;L+=escape(D.referrer||'unknown')+'&rnd='+Math.round(Math.random()*999999999); function _(){if(t++<100){var F=D.getElementById('ar_container_'+n);     if(F){try{var d=F.contentDocument||(window.ActiveXObject&&window.frames['ar_container_'+n].document);     if(d){d.write('<sc'+'ript'+j+'>var ar_bnum='+n+';'+S+'<\/sc'+'ript><sc'+'ript'+j+' src="'+L+'"><\/sc'+'ript>');t=0}     else setTimeout(_,100);}catch(e){try{F.src="javascript:{document.write('<sc'+'ript"+j+">var ar_bnum="+n+"; document.domain=\""     +D.domain+"\";"+S+"<\/sc'+'ript>');document.write('<sc'+'ript"+j+" src=\""+L+"\"><\/sc'+'ript>');}";return}catch(E){}}}else setTimeout(_,100);}} D.write('<div style="visibility:hidden;height:0px;left:-1000px;position:absolute;"><iframe id="ar_container_'+ar_cn     +'" width=1 height=1 marginwidth=0 marginheight=0 scrolling=no frameborder=0><\/iframe><\/div><div id="ad_ph_'+ar_cn     +'" style="display:none;"><\/div>');_();ar_cn++; })('http://ad.adriver.ru/cgi-bin/erle.cgi?sid=183090&target=top&bt=43&pz=0&tail256='); </p>
+<p> var img = new Image(); img.src = 'http://www.tns-counter.ru/V13a***' + document.referrer.replace(/\*/g,'%2a') + '*newsru_ru/ru/CP1251/tmsec=newsru_total/'; </p>
+<p> <!-- d=document;a='';a+=';r='+escape(d.referrer) js=10//--> </p>
+<p> <!-- a+=';j='+navigator.javaEnabled() js=11//--> </p>
+<p> <!-- s=screen;a+=';s='+s.width+'*'+s.height a+=';d='+(s.colorDepth?s.colorDepth:s.pixelDepth) js=12//--> </p>
+<p> <!-- js=13//--> </p>
+<p> <!-- d.write('<img src="http://top.list.ru/counter'+ '?id=91013;js='+js+a+';rand='+Math.random()+ '" height=1 width=1>') if(js>11)d.write('<'+'!-- ')//--> </p>
+<p> <!-- if(js>11)d.write('--'+'>')//--> </p>
+<p> <!-- document.write('<img src="http://counter.yadro.ru/hit?r'+ escape(document.referrer)+((typeof(screen)=='undefined')?'': ';s'+screen.width+'*'+screen.height+'*'+(screen.colorDepth? screen.colorDepth:screen.pixelDepth))+';u'+escape(document.URL)+ ';i'+escape('Жж'+document.title.substring(0,80))+';'+Math.random()+ '" width=1 height=1 alt="">')//--> </p>
+<p> <!-- if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); } if (typeof(document.referrer) != 'undefined') {   if (typeof(afReferrer) == 'undefined') {     afReferrer = escape(document.referrer);   } } else {   afReferrer = ''; } var addate = new Date();  document.write('<scr' + 'ipt type="text/javascript" src="http://ads.adfox.ru/715/prepareCode?p1=quc&amp;p2=y&amp;pct=c&amp;pfc=a&amp;pfb=a&amp;pr=' + pr +'&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;prr=' + afReferrer + '"><\/scr' + 'ipt>'); // --> </p>
+<p> NEWSru.com </p>
+<p> // </p>
+<p> Новости России </p>
+<p> // </p>
+<p> Пятница, 6 января 2012 г. </p>
+<p> <!-- if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); } var addate = new Date();  var scrheight = '', scrwidth = ''; if (self.screen) { scrwidth = screen.width; scrheight = screen.height; } else if (self.java) { var jkit = java.awt.Toolkit.getDefaultToolkit(); var scrsize = jkit.getScreenSize(); scrwidth = scrsize.width; scrheight = scrsize.height; } document.write('<iframe src="http://ads.adfox.ru/715/getCode?p1=enm&amp;p2=tt&amp;p3=a&amp;p4=a&amp;pct=a&amp;plp=a&amp;pli=a&amp;pop=a&amp;pfc=a&amp;pfb=a&amp;pr=' + pr + '&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;pdw=' + scrwidth + '&amp;pdh=' + scrheight + '" frameBorder="0" width="125" height="217" marginWidth="0" marginHeight="0" scrolling="no" style="border: 0px; margin: 0px; padding: 0px;"><a href="http://ads.adfox.ru/715/goDefaultLink?p1=enm&amp;p2=tt" target="_top"><img src="http://ads.adfox.ru/715/getDefaultImage?p1=enm&amp;p2=tt" border="0" alt=""><\/a><\/iframe>'); //--> </p>
+<p> <!-- document.write('<SCR'+'IPT SRC="http://ads.vidigital.ru/ttj?id=980205&cb='+(Math.random()*1000000000000000000)+'" TYPE="text/javascript"></SCR'+'IPT>'); //--> </p>
+<p> <!-- if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); } if (typeof(document.referrer) != 'undefined') {   if (typeof(afReferrer) == 'undefined') {     afReferrer = escape(document.referrer);   } } else {   afReferrer = ''; } var addate = new Date();  document.write('<scr' + 'ipt type="text/javascript" src="http://ads.adfox.ru/715/prepareCode?p1=bdzhu&amp;p2=ql&amp;pct=a&amp;pfc=a&amp;pfb=a&amp;pr=' + pr +'&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;prr=' + afReferrer + '"><\/scr' + 'ipt>'); // --> </p>
+<p> мНБНЯРХ ялх2 </p>
+<p> (function() { var sc = document.createElement('script'); sc.type = 'text/javascript'; sc.async = true; sc.src = 'http://js.smi2.ru/data/js/60699.js'; sc.charset = 'utf-8'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc, s); }()); </p>
+<p> Минобороны реализует ультиматум Медведева по ПРО: разрабатывает новейший ракетный комплекс для РВСН </p>
+<p> время публикации: 6 января 2012 г., 10:35 </p>
+<p> последнее обновление: 6 января 2012 г., 12:16 </p>
+<p> Ударная группировка Ракетных войск стратегического назначения в перспективе пополнится принципиально новыми стратегическими ракетными комплексами, имеющими больший потенциал преодоления любой противоракетной обороны. </p>
+<p> "Мы рассчитываем на рубеже 2018-2020 годов получить на вооружение качественно новые ракетные комплексы с боевым оснащением, позволяющим преодолевать любую ПРО, которая может быть создана к тому времени", - сообщил </p>
+<p> "Интерфаксу" </p>
+<p> источник в военном ведомстве. Он добавил, что "уже сейчас ведутся работы по созданию ракетного комплекса с ракетой среднего класса с новым типом боевого оснащения с тем, чтобы на рубеже 2015 года приступить к перевооружению на этот комплекс одной из ракетных дивизий". </p>
+<p> Ранее в Минобороны сообщали, что начаты работы по созданию еще одного комплекса - предназначенного для запуска </p>
+<p> 100-тонной </p>
+<p> жидкостной межконтинентальной ракеты шахтного базирования. </p>
+<p> Тем временем работы по реализации мер, предложенных президентом Дмитрием Медведевым в качестве ответа на развертывание ПРО в Европе, ведутся и в других направлениях. Так, в этом году еще две дивизии РВСН получат на вооружение новейшие ракетные комплексы "Ярс" с межконтинентальной баллистической ракетой РС-24. Комплексы, призванные сменить, в частности, устаревшие "Стилеты", уже стоят на боевом дежурстве под Иваново. </p>
+<p> "В 2012 году полностью завершится перевооружение на мобильный комплекс "Ярс" второго полка в Тейковской дивизии (Ивановская область), а также начнутся работы по перевооружению на этот комплекс Новосибирской и Козельской дивизий (Калужская область)", - сообщил "Интерфаксу" официальный представитель управления пресс-службы и информации Минобороны РФ по РВСН полковник Вадим Коваль. Он добавил, что в Козельской дивизии "Ярсы" будут развертываться в шахтном варианте. </p>
+<p> Напомним, в ноябре Дмитрий Медведев сделал официальное </p>
+<p> заявление </p>
+<p> касательно планов США по развертыванию своих систем ПРО в Европе. В связи с нежеланием американской стороны дать гарантии ненаправленности ПРО против России, президент огласил комплекс мер, которые планируется принять в ответ на действие США. Так, предполагалось введение в боевой состав радиолокационной станции системы предупреждения о ракетном нападении в Калининграде, усиление прикрытия объектов РВСН. Кроме того, Медведев заявил о возможности выхода из договора </p>
+<p> СНВ-3 </p>
+<p> , разработке комплекса мер по ведению кибервойны и создания нового рода войск - </p>
+<p> Воздушно-космической обороны </p>
+<p> . </p>
+<p> Мнения общественности и экспертов касательно заявления президента тогда разделились. Если ряд СМИ назвал ответ Медведева "жестким", то политологи и военные эксперты отмечали, что предложенные меры, во-первых, </p>
+<p> бесполезны против ПРО </p>
+<p> , а во-вторых, выглядят "предвыборными". В то же время в Минобороны продолжают заявлять, что новейшее российское вооружение способно противостоять внешним угрозам. Так, было объявлено, что в течение 10 лет планируется полностью модернизировать силы РВСН за счет замены устаревших ракет типа "Стилет" и "Тополь" на новейшие "Ярсы" и "Тополи-М". </p>
+<p> Что касается непосредственно "Ярсов", первый полк в Тейково был доведен до полного штатного состава еще в прошлом году. В декабре 2011 года в этой же дивизии поставлен на боевое дежурство очередной полк с этими комплексами в составе подвижного командного пункта полка и двух ракетных дивизионов. В дальнейшем на ракетный комплекс "Ярс" спланировано перевооружение еще ряда ракетных соединений. </p>
+<p> <!-- if (navigator.appName != 'Microsoft Internet Explorer') { 	document.getElementById('newsljbut').style.display = 'block'; } // --> </p>
+<p> (function(d, s, id) {   var js, fjs = d.getElementsByTagName(s)[0];   if (d.getElementById(id)) return;   js = d.createElement(s); js.id = id;   js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";   fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk')); </p>
+<p> <!-- if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); } if (typeof(document.referrer) != 'undefined') {   if (typeof(afReferrer) == 'undefined') {     afReferrer = escape(document.referrer);   } } else {   afReferrer = ''; } var addate = new Date();  var scrheight = '', scrwidth = ''; if (self.screen) { scrwidth = screen.width; scrheight = screen.height; } else if (self.java) { var jkit = java.awt.Toolkit.getDefaultToolkit(); var scrsize = jkit.getScreenSize(); scrwidth = scrsize.width; scrheight = scrsize.height; } document.write('<scr' + 'ipt type="text/javascript" src="http://ads.adfox.ru/715/prepareCode?p1=bjted&amp;p2=y&amp;pct=a&amp;pfc=a&amp;pfb=a&amp;pr=' + pr +'&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;prr=' + afReferrer + '&amp;pdw=' + scrwidth + '&amp;pdh=' + scrheight + '"><\/scr' + 'ipt>'); // --> </p>
+<p> Ссылки по теме: </p>
+<p> Россия незаметно ответила на успехи американской ЕвроПРО ядерным оружием </p>
+<p> // </p>
+<p> NEWSru.com </p>
+<p> // </p>
+<p> В России </p>
+<p> // </p>
+<p> 29 декабря 2011 г. </p>
+<p> Россия испытала свой "ответ" американской ПРО в Европе </p>
+<p> // </p>
+<p> NEWSru.com </p>
+<p> // </p>
+<p> В России </p>
+<p> // </p>
+<p> 20 декабря 2011 г. </p>
+<p> Медведев призвал НАТО к примирению, но Генштаб настроен решительно: противостоять ПРО будут ракетами С-400 </p>
+<p> // </p>
+<p> NEWSru.com </p>
+<p> // </p>
+<p> В России </p>
+<p> // </p>
+<p> 7 декабря 2011 г. </p>
+<p> Источник: Россия может разместить "Искандеры" под Калининградом, на Кубани и в Белоруссии </p>
+<p> // </p>
+<p> NEWSru.com </p>
+<p> // </p>
+<p> В России </p>
+<p> // </p>
+<p> 21 ноября 2011 г. </p>
+<p> СМИ о противоракетном ультиматуме Медведева: заранее оценили его провальность и назвали самую страшную угрозу </p>
+<p> // </p>
+<p> NEWSru.com </p>
+<p> // </p>
+<p> В России </p>
+<p> // </p>
+<p> 24 ноября 2011 г. </p>
+<p> Каталог NEWSru.com: </p>
+<p> Информационные интернет-ресурсы </p>
+<p> Досье NEWSru.com </p>
+<p> : </p>
+<p> Армия России </p>
+<p> // </p>
+<p> РВСН </p>
+<p> // </p>
+<p> Вооружение </p>
+<p> //<![CDATA[ yandex_partner_id = 43120; yandex_site_bg_color = 'E6E6E6'; yandex_stat_id = 1215138; yandex_site_charset = 'utf-8'; yandex_ad_format = 'direct'; yandex_font_size = 0.9; yandex_font_family = 'arial'; yandex_direct_type = 'flat'; yandex_direct_limit = 4; yandex_direct_bg_color = 'E6E6E6'; yandex_direct_title_color = '0000FF'; yandex_direct_url_color = '006A29'; yandex_direct_all_color = '333333'; yandex_direct_text_color = '000000'; yandex_direct_hover_color = '0016A6'; yandex_direct_favicon = false; document.write('<sc'+'ript type="text/javascript" src="http://an.yandex.ru/system/context.js"></sc'+'ript>'); //]]> </p>
+<p> Последняя новость NEWSru.com – 10:18 </p>
+<p> Хозяину "Чикаго Кабс" прислали голову козы, напомнив о старом проклятии </p>
+<p> // </p>
+<p> Спорт </p>
+<p> Досье NEWSru.com: </p>
+<p> Спорт </p>
+<p> / </p>
+<p> Разное </p>
+<p> / </p>
+<p> Бейсбол </p>
+<p> <!-- if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); } if (typeof(document.referrer) != 'undefined') {   if (typeof(afReferrer) == 'undefined') {     afReferrer = escape(document.referrer);   } } else {   afReferrer = ''; } var addate = new Date();  document.write('<scr' + 'ipt type="text/javascript" src="http://ads.adfox.ru/173617/prepareCode?p1=bezms&amp;p2=envv&amp;pct=a&amp;pfc=a&amp;pfb=a&amp;pr=' + pr +'&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;prr=' + afReferrer + '"><\/scr' + 'ipt>'); // --> </p>
+<p> <!-- if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); } if (typeof(document.referrer) != 'undefined') {   if (typeof(afReferrer) == 'undefined') {     afReferrer = escape(document.referrer);   } } else {   afReferrer = ''; } var addate = new Date();  document.write('<scr' + 'ipt type="text/javascript" src="http://ads.adfox.ru/173617/prepareCode?p1=bezmt&amp;p2=envv&amp;pct=a&amp;pfc=a&amp;pfb=a&amp;pr=' + pr +'&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;prr=' + afReferrer + '"><\/scr' + 'ipt>'); // --> </p>
+<p> <!-- var random = Math.floor(Math.random() * 1000000000); document.write('<scr' + 'ipt language="JavaScript" src="http://engine.media-networks.ru/code?pid=2297&gid=454&oin=1&rid=' + random +'"></scr' + 'ipt>'); // --> </p>
+<p> <!-- var random = Math.floor(Math.random() * 1000000000); document.write('<scr' + 'ipt language="JavaScript" src="http://engine.media-networks.ru/code?pid=2298&gid=454&oin=1&rid=' + random +'"></scr' + 'ipt>'); // --> </p>
+<p> <!-- var random = Math.floor(Math.random() * 1000000000); document.write('<scr' + 'ipt language="JavaScript" src="http://engine.media-networks.ru/code?pid=2299&gid=454&oin=1&rid=' + random +'"></scr' + 'ipt>'); // --> </p>
+<p> // <!-- if(typeof(VongoMediaWorker)=="undefined" && document.getElementById("VongoMediaGateway")==null){ (function() { var s = document.createElement("script"); s.id = "VongoMediaGateway"; s.type = "text/javascript"; s.async = true; s.src = "http://cdn.vongomedia.ru/www/delivery/worker.js?_=" + Math.floor(Math.random()*99999999999); var x = document.getElementsByTagName("head")[0]; x.appendChild(s, x); })(); } // --> </p>
+<p> Четверг, 11 апреля 2013 г. </p>
+<p> Последняя новость – 10:18 </p>
+<p> Все права на материалы и новости, опубликованные на сайте NEWSru.com, охраняются в соответствии с законодательством РФ. </p>
+<p> Допускается цитирование без согласования с редакцией не более 50% от объема оригинального материала, с обязательной прямой гиперссылкой на страницу, с которой материал заимствован. Гиперссылка должна размещаться непосредственно в тексте, воспроизводящем оригинальный материал NEWSru.com, до или после цитируемого блока. </p>
+<p> Обратная связь: </p>
+<p> редакция сайта </p>
+<p> / </p>
+<p> служба технической поддержки </p>
+<p> / </p>
+<p> рекламный отдел </p>
+<p> Прайс-лист на размещение рекламы </p>
+<p> Правила баннерного обмена </p>
+<p> Подписка на новости (RSS) </p>
+<p> © </p>
+<p> NEWSru.com – самые быстрые новости </p>
+<p> 2000-2013 </p>
+<p> <!-- if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); } var addate = new Date(); document.write('<iframe src="http://ads.adfox.ru/715/getCode?p1=cnh&amp;p2=nj&amp;p3=a&amp;p4=a&amp;pucn=a&amp;pfc=a&amp;pfb=a&amp;pr=' + pr + '&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;py=a" frameBorder="0" width="200" height="377" marginWidth="0" marginHeight="0" scrolling="no" style="border: 0px; margin: 0px; padding: 0px;"><a href="http://ads.adfox.ru/715/goDefaultLink?p1=cnh&amp;p2=nj" target="_top"><img src="http://ads.adfox.ru/715/getDefaultImage?p1=cnh&amp;p2=nj" border="0" alt=""><\/a><\/iframe>'); //--> </p>
+<p> <!-- if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); } if (typeof(document.referrer) != 'undefined') {   if (typeof(afReferrer) == 'undefined') {     afReferrer = escape(document.referrer);   } } else {   afReferrer = ''; } var addate = new Date();  document.write('<scr' + 'ipt type="text/javascript" src="http://ads.adfox.ru/173617/prepareCode?p1=beldb&amp;p2=emzm&amp;pct=a&amp;pfc=a&amp;pfb=a&amp;pr=' + pr +'&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;prr=' + afReferrer + '"><\/scr' + 'ipt>'); // --> </p>
+<p> <!-- if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); } if (typeof(document.referrer) != 'undefined') {   if (typeof(afReferrer) == 'undefined') {     afReferrer = escape(document.referrer);   } } else {   afReferrer = ''; } var addate = new Date();  document.write('<scr' + 'ipt type="text/javascript" src="http://ads.adfox.ru/173617/prepareCode?p1=begra&amp;p2=emzm&amp;pct=a&amp;pfc=a&amp;pfb=a&amp;pr=' + pr +'&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;prr=' + afReferrer + '"><\/scr' + 'ipt>'); // --> </p>
+<p> <!-- //var width=0; //width=screen.width; //if (width >= 1000) {     document.getElementById('stakan').style.display = 'block'; //} // --> </p>
+<p> var _exchange_vars = {key: 'ee85874b16a6a5f23fec6d46dc0fd582'}; (function(){ var s = document.createElement("script"); s.async = true; s.src = "http://b.adinch.com/static/sdk/sdk.js"; document.getElementsByTagName("head")[0].appendChild(s); })(); </p>

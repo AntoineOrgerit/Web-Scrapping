@@ -1,0 +1,140 @@
+<p> Доказана полезность сплетен для здоровья </p>
+<p> GS_googleAddAdSenseService("ca-pub-7600562485987350"); 	GS_googleEnableAllServices(); </p>
+<p> GA_googleAddSlot("ca-pub-7600562485987350", "728x90"); 		GA_googleAddSlot("ca-pub-7600562485987350", "200x300_other_pages"); 		GA_googleAddSlot("ca-pub-7600562485987350", "468x60_1_other_pages");	 		GA_googleAddSlot("ca-pub-7600562485987350", "468x60_under_text");         GA_googleAddSlot("ca-pub-7600562485987350", "468x60_under_text_adv");         GA_googleAddSlot("ca-pub-7600562485987350", "468x60_under_text_adv2");         GA_googleAddSlot("ca-pub-7600562485987350", "240x350_other_pages"); 		GA_googleAddSlot("ca-pub-7600562485987350", "ishop"); 		GA_googleAddSlot("ca-pub-7600562485987350", "informer_right"); 		GA_googleAddSlot("ca-pub-7600562485987350", "orakul"); 		GA_googleAddSlot("ca-pub-7600562485987350", "invisible_top");         GA_googleAddSlot("ca-pub-7600562485987350", "c8_richmedia"); </p>
+<p> GA_googleFetchAds(); </p>
+<p> var _gaq = _gaq || []; 	  _gaq.push(['_setAccount', 'UA-2184455-1']); 	  _gaq.push(['_setDomainName', '.from-ua.com']); 	  _gaq.push(['_trackPageview']); 	 	  (function() { 	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; 	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); 	  })(); </p>
+<p> (function(d, s, id) {   var js, fjs = d.getElementsByTagName(s)[0];   if (d.getElementById(id)) return;   js = d.createElement(s); js.id = id;   js.src = "//connect.facebook.net/ru_RU/all.js#xfbml=1";   fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk')); </p>
+<p> <!-- bmN=navigator,bmD=document,bmD.cookie='b=b',i=0,bs=[],bm={v:74336,s:74336,t:6,c:bmD.cookie?1:0,n:Math.round((Math.random()* 1000000)),w:0}; for(f=self;f!=f.parent;f=f.parent)bm.w++; try{if(bmN.plugins&&bmN.mimeTypes.length&&(x=bmN.plugins['Shockwave Flash']))bm.m=parseInt(x.description.replace(/([a-zA-Z]|s)+/,'')); else for(f=3;f<20;f++)if(eval('new ActiveXObject("ShockwaveFlash.ShockwaveFlash.'+f+'")'))bm.m=f}catch(e){} try{bm.y=bmN.javaEnabled()?1:0}catch(e){} try{bmS=screen;bm.v^=bm.d=bmS.colorDepth||bmS.pixelDepth;bm.v^=bm.r=bmS.width}catch(e){} r=bmD.referrer.slice(7);if(r&&r.split('/')[0]!=window.location.host){bm.f=escape(r);bm.v^=r.length} bm.v^=window.location.href.length;for(x in bm)bs[i++]=x+bm[x]; bmD.write('<img src="http://c.bigmir.net/?'+bs.join('&')+'"  width=1 height=1>'); //--> </p>
+<p> <!-- new Image().src = "http://counter.yadro.ru/hit?r"+ escape(document.referrer)+((typeof(screen)=="undefined")?"": ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth? screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+ ";h"+escape(document.title.substring(0,80))+ ";"+Math.random();//--> </p>
+<p> GA_googleFillSlot("invisible_top"); </p>
+<p> 10.04.2013 / 09:29 / </p>
+<p> НОВОСТИ УКРАИНЫ </p>
+<p> / </p>
+<p> НОВИНИ УКРАЇНИ </p>
+<p> GA_googleFillSlot("728x90"); </p>
+<p> Политика </p>
+<p> Экономика </p>
+<p> Наука и технологии </p>
+<p> Глас народа </p>
+<p> Криминал </p>
+<p> Зона КиО </p>
+<p> Видео-конференции </p>
+<p> Путешествия </p>
+<p> Здоровье </p>
+<p> Спецпроекты </p>
+<p> расширенный поиск </p>
+<p> В ФОКУСЕ </p>
+<p> Украину путчит не по-детски </p>
+<p> Подарите ей свою любовь (ФОТО) </p>
+<p> Какими должны быть Железные Леди? </p>
+<p> GA_googleFillSlot("200x300_other_pages"); </p>
+<p> Новости партнеров </p>
+<p> Загрузка... </p>
+<p> Спецпроекты </p>
+<p> ВЕСЬ </p>
+<p> БУЗИНА </p>
+<p> ВЕСЬ </p>
+<p> ШАРИЙ </p>
+<p> Опрос </p>
+<p> Как вы относитесь к роспуску парламента? </p>
+<p> Давно пора </p>
+<p> Нужно гнать и парламент, и президента </p>
+<p> Рано, пусть еще немного повоюют </p>
+<p> Боюсь, следующие будут еще хуже </p>
+<p> А что, в Украине есть парламент? </p>
+<p> Да нормально депутаты работают, как и вся страна </p>
+<p> Пусть делают что хотят, мы без них выживаем </p>
+<p> А собственно что случилось-то? </p>
+<p> Блоги </p>
+<p> Рассылка </p>
+<p> Обратная связь </p>
+<p> В избранное </p>
+<p> Гороскоп </p>
+<p> Погода </p>
+<p> Форум </p>
+<p> GA_googleFillSlot("468x60_1_other_pages"); </p>
+<p> Новости </p>
+<p> Доказана полезность сплетен для здоровья </p>
+<p> [11:48/08.12.2011] </p>
+<p> Сплетни и перемывание косточек друзьям и знакомым не только доставляют эмоциональное удовольствие - они полезны для здоровья, утверждают психологи из Гарварда, передает DELFI. </p>
+<p> Согласно исследованиям, около 85% женщин обожают обсуждать чужие проблемы, а 10% не могут хранить секреты, даже не осознавая, что тем самым они укрепляют свое психологическое здоровье. </p>
+<p> «Сплетни повышают уровень позитивных гормонов, таких как серотонин, снижающий стресс и тревожность. Обсуждая других, мы интересуемся, что они думают и говорят, и наоборот, и это своеобразное единение с ними делает нас счастливее», - объясняют ученые. Сравнение самого себя с другими людьми обладает тем же эффектом. Кроме этого, когда мы сплетничаем, мы много смеемся, что увеличивает уровень «гормонов счастья» в головном мозге. </p>
+<p> В эволюционном контексте, сплетничание позволяет нам собирать важную информацию о характере и поведении других людей. Это помогает нам защищать себя ото лжи и мошенничества, а также сосуществовать в больших социальных группах. Однако если обсуждение чужих проблем становится неприятным и злонамеренным, оно приводит к негативным эмоциям и стрессу. </p>
+<p> «Сплетни - это неотъемлемая часть человеческой жизни. Девяносто девять процентов наших разговоров касаются других людей. Это - ключевой фактор, помогающий нам выживать. Без сплетен мы бы вымерли», - заключают исследователи. </p>
+<p> версия для печати </p>
+<p> добавить комментарий </p>
+<p> Если этот материал не оставил вас равнодушным - поделитесь им в Соцсетях </p>
+<p> window.___gcfg = {lang: 'ru'}; 			  (function() { 			    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true; 			    po.src = 'https://apis.google.com/js/plusone.js'; 			    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s); 			  })(); </p>
+<p> Твитнуть </p>
+<p> !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs"); </p>
+<p> <!-- 			document.write(VK.Share.button(false,{type: "round", text: "Поделиться"})); 			--> </p>
+<p> 0 </p>
+<p> Загрузка... </p>
+<p> По теме: </p>
+<p> Названы пять продуктов, повышающих иммунитет </p>
+<p> В Киеве начали готовиться к сезону гриппа </p>
+<p> Как быстро и надолго похудеть к Новому году </p>
+<p> <!--//<![CDATA[             var m3_u = (location.protocol=='https:'?'https://adv.fraza.ua/www/delivery/ajs.php':'http://adv.fraza.ua/www/delivery/ajs.php');             var m3_r = Math.floor(Math.random()*99999999999);             if (!document.MAX_used) document.MAX_used = ',';             document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);             document.write ("?zoneid=96");             document.write ('&amp;cb=' + m3_r);              if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);              document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));             document.write ("&amp;loc=" + escape(window.location));             if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));             if (document.context) document.write ("&context=" + escape(document.context));             if (document.mmm_fo) document.write ("&amp;mmm_fo=1");             document.write ("'><\/scr"+"ipt>");              //]]>--> </p>
+<p> //<!-- var c8_sa; if (undefined===c8_sa) c8_sa=''; if(screen.width > 1170) show_code('f2620','8','9','650','250','c8net_code_f262089'); //--> </p>
+<p> Новости SMI24 </p>
+<p> GA_googleFillSlot("468x60_under_text"); </p>
+<p> Новости от MarketGid </p>
+<p> Загрузка... </p>
+<p> var postRmbn_width = "500px"; var postRmbn_height = "300px"; var postRmbn_placeID = 103; </p>
+<p> Реклама на сайте </p>
+<p> Горячее </p>
+<p> Лутковская о помиловании Тимошенко: теоретически все возможно </p>
+<p> var current_main_news = 1; 		var main_news_cnt = 3; 		var ME_tm = 10000; 		var ME_timeout = '';  		var d = document;  				MN_im1 = new Image(); 		MN_im1.src = 'http://www.from-ua.com/images/articles/big_image/266400.jpg';  		MN_arr1 = new Array(); 		MN_arr1['lnk'] = 'http://www.from-ua.com/news/a155a2005b956.html';	 		MN_arr1['img'] = MN_im1.src; 		MN_arr1['title'] = 'Лутковская о помиловании Тимошенко: теоретически все возможно'; 				MN_im2 = new Image(); 		MN_im2.src = 'http://www.from-ua.com/images/articles/big_image/266392.jpeg';  		MN_arr2 = new Array(); 		MN_arr2['lnk'] = 'http://www.from-ua.com/news/388fd88cbb82e.html';	 		MN_arr2['img'] = MN_im2.src; 		MN_arr2['title'] = 'Гриппом уже переболел каждый десятый украинец'; 				MN_im3 = new Image(); 		MN_im3.src = 'http://www.from-ua.com/images/articles/big_image/266386.jpg';  		MN_arr3 = new Array(); 		MN_arr3['lnk'] = 'http://www.from-ua.com/news/6ab6192fc9c5e.html';	 		MN_arr3['img'] = MN_im3.src; 		MN_arr3['title'] = 'Завтра будет еще немного теплее, чем сегодня'; </p>
+<p> <!-- function adriverPoster(L){     if(typeof(ar_cn)=="undefined")ar_cn=1;     var W=window,D=document,E=D.documentElement,T=0,N=ar_cn,P=0,C=D.compatMode=="CSS1Compat",         X='<scr'+'ipt type="text/javascript">var ar_bnum='+N+';setTimeout(function(e){if(!self.CgiHref){document.close();e=parent.document.getElementById("ar_container_"+ar_bnum);e.parentNode.removeChild(e)}},3000);',         Y='<\/sc'+'ript><sc'+'ript type="text/javascript" src="'+L+'&tail256='+escape(D.referrer||'unknown')+'&rnd='+Math.round(Math.random()*999999999)+'"><\/sc'+'ript>';     function G(){if(T++<100){var o=D.getElementById('ar_container_'+N);if(o){try{var d=o.contentDocument||(W.ActiveXObject&&W.frames['ar_container_'+N].document);if(d){d.write(X+Y)}else setTimeout(arguments.callee,100)}catch(e){try{o.src = "javascript:{document.write('"+X+'document.domain="'+D.domain+'";'+Y+"')}";return}catch(E){}}}else setTimeout(arguments.callee,100)}}     function A(e,t,f){if(e.addEventListener)e.addEventListener(t,f,false);else if(e.attachEvent)e.attachEvent('on'+t,f)}     function R(e,t,f){if(e.removeEventListener)e.removeEventListener(t,f,false);else if(e.detachEvent)e.detachEvent('on'+t,f)}     function S(){var ch=self.innerHeight||C&&E.clientHeight||D.body.clientHeight,st=self.pageYOffset||C&&E.scrollTop||D.body.scrollTop;if(P>=st&&st+ch>=P){R(W,'scroll',S);G()}}     A(W,'load',function(){var o=D.getElementById('ad_ph_'+N);if(o){while(o.offsetParent){P+=o.offsetTop;o=o.offsetParent}A(W,'scroll',S);S()}});     D.write('<div style="position:absolute;visibility:hidden;height:0px;"><iframe id="ar_container_'+N+'" width=1 height=1 marginwidth=0 marginheight=0 scrolling=no frameborder=0><\/iframe><\/div><div id="ad_ph_'+N+'"><\/div>');     ar_cn++; } adriverPoster("http://ad.adriver.ru/cgi-bin/erle.cgi?sid=1&ad=379551&bt=49&pid=1044600&bid=2279008&bn=2279008"); //--> </p>
+<p> Новости </p>
+<p> 09:04 </p>
+<p> Столичный гаишник «вежливо» пообщался с водителем (ВИДЕО, 18+) </p>
+<p> 22:48 / 09.04.2013 </p>
+<p> Гриппом уже переболел каждый десятый украинец </p>
+<p> 21:48 / 09.04.2013 </p>
+<p> Завтра будет еще немного теплее, чем сегодня </p>
+<p> 21:12 / 09.04.2013 </p>
+<p> На 39-м году жизни скончался депутат Киевсовета </p>
+<p> 19:12 / 09.04.2013 </p>
+<p> Центризбирком начал подготовку к референдуму </p>
+<p> .join_informer_1437 * { border: none; padding: 0; margin: 0; } .join_informer_1437 { text-align:left; clear: both; padding: 0; margin-bottom:5px; border: 1px solid #e6ecf0; background-color:#e6ecf0;} .join_informer_1437 a.join_link, a.join_text {font-size: 11px; font-family: Verdana; margin-bottom:11px; color:#000000;text-decoration:none; font-weight:bold;} .join_informer_1437 a.join_link:hover, a.join_text:hover { color:#932467;text-decoration:underline;} .join_informer_1437 .join_img {width: 90px; height: 90px;  margin-right: 0px; } </p>
+<p> Новости Banker.ua </p>
+<p> Самое популярное </p>
+<p> Загрузка... </p>
+<p> Новости партнеров </p>
+<p> Интернет-магазин </p>
+<p> Новости партнеров </p>
+<p> GA_googleFillSlot("informer_right"); </p>
+<p> function changeMainNews() { 	if (current_main_news > main_news_cnt) current_main_news = 1; 	if (current_main_news < 1) current_main_news = main_news_cnt;  	lnk = eval('MN_arr' + current_main_news + '[\'lnk\']'); 	d.getElementById('main_news_lnk1').href = lnk;  	d.getElementById('main_news_img').style.backgroundImage = 'url(\''+eval('MN_arr' + current_main_news + '[\'img\']')+'\')'; 	d.getElementById('main_news_title').innerHTML = eval('MN_arr' + current_main_news + '[\'title\']'); }  function MN_loop() { 	current_main_news ++; 	changeMainNews() 	ME_timeout = setTimeout('MN_loop()', ME_tm); }  function MN_rew() { 	current_main_news --; 	changeMainNews(); 	ME_ini(); }  function MN_forw() { 	current_main_news ++; 	changeMainNews(); 	ME_ini(); }  function ME_ini() { 	if (ME_timeout) clearTimeout(ME_timeout); 	ME_timeout = setTimeout('MN_loop()', ME_tm); }  ME_ini(); </p>
+<p> © 2004-2012, </p>
+<p> From-UA </p>
+<p> Новости Украины </p>
+<p> Все права защищены </p>
+<p> Редакция не несет ответственности за содержание рекламных баннеров </p>
+<p> Политика </p>
+<p> | </p>
+<p> Экономика </p>
+<p> | </p>
+<p> Наука и технологии </p>
+<p> | </p>
+<p> Глас народа </p>
+<p> | </p>
+<p> Криминал </p>
+<p> | </p>
+<p> Зона КиО </p>
+<p> | </p>
+<p> Видео-конференции </p>
+<p> | </p>
+<p> Путешествия </p>
+<p> | </p>
+<p> Здоровье </p>
+<p> | </p>
+<p> Спецпроекты </p>
+<p> Перепечатка,  копирование или воспроизведение информации, содержащей ссылку на агентство  УНIАН, в каком-либо виде запрещено. </p>
+<p> Юридическая поддержка - Правозащитная организация "Спільна мета" </p>
+<p> GA_googleFillSlot("c8_richmedia"); </p>
+<p> (function() { var i = document.createElement("script"); i.type = "text/javascript"; i.async = true; i.charset = "UTF-8"; i.src = "http://partner.join.com.ua/async/1437/"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(i, s); })(); </p>
+<p> ShowInformer(document.getElementById("join_informer_1228")); </p>
+<p> (function() {     var sm = document.createElement("script");     sm.type = "text/javascript";     sm.async = true;     sm.src = "http://jsn.24smi.org/i/f/r/from-ua.com.1327.js";     var s = document.getElementsByTagName("script")[0];     s.parentNode.insertBefore(sm, s);})(); </p>
+<p> var MarketGidDate = new Date(); document.write('<scr'+'ipt type="text/javascript" '+'src="http://jsn.dt00.net/f/r/from-ua.com.354.js?t='+MarketGidDate.getYear()+MarketGidDate.getMonth()+ '" charset="utf-8" ></scr'+'ipt>'); </p>
+<p> document.write("<" + "script language='JavaScript' type='text/javascript' src='http://post.rmbn.ru/js/smartblock/get_code_dbl.js?n=Math.random()'" + ">" + "<" + "/script" + ">"); </p>

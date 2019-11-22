@@ -1,0 +1,275 @@
+<p> Woda kokosowa - nektar dla zdrowia i urody > Zdrowe pomysły </p>
+<p> {lang: 'pl'} </p>
+<p> var pp_gemius_identifier = new String('..fqHzQXN5W.gB4LxbAhIpSsLW_6247wLmK22DbKBeL.k7'); </p>
+<p> var _gaq = _gaq || []; 	_gaq.push( 	  ['_setAccount', 'UA-56023-6'], 	  ['_setDomain', 'we-dwoje.pl'], 	  ['_setCustomVar', 5, 'Type', 'artykul', 3], 	  	  ['_setCustomVar', 1, 'Section1', 'zdrowie', 3], 	  	  	  	  ['_trackPageview'] 	); </p>
+<p> (function() { 	    var ga = document.createElement('script'); 	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; 	    ga.setAttribute('async', 'true'); 	    document.documentElement.firstChild.appendChild(ga); 	})(); </p>
+<p> document.screening = 0; </p>
+<p> GS_googleAddAdSenseService("ca-pub-2065853450314435"); 	GS_googleEnableAllServices(); </p>
+<p> GA_googleAddSlot("ca-pub-2065853450314435", "we2_column0_rectangle1_zdrowie"); GA_googleAddSlot("ca-pub-2065853450314435", "we2_column1_rectangle1_zdrowie"); GA_googleAddSlot("ca-pub-2065853450314435", "we2_column1_pasek1_zdrowie"); GA_googleAddSlot("ca-pub-2065853450314435", "we2_column1_art1_zdrowie"); GA_googleAddSlot("ca-pub-2065853450314435", "we2_column2_rectangle1_zdrowie"); GA_googleAddSlot("ca-pub-2065853450314435", "we2_column2_pasek1_zdrowie"); GA_googleAddSlot("ca-pub-2065853450314435", "we2_column3_rectangle1_zdrowie"); GA_googleAddSlot("ca-pub-2065853450314435", "we2_column3_pasek1_zdrowie"); GA_googleAddSlot("ca-pub-2065853450314435", "we2_main_stripe1_pasek1_zdrowie"); GA_googleAddSlot("ca-pub-2065853450314435", "we2_main_stripe2_linki_zdrowie"); GA_googleAddSlot("ca-pub-2065853450314435", "we2_main_stripe2_pasek1_zdrowie"); GA_googleAddSlot("ca-pub-2065853450314435", "we2_wide_stripe1_pasek1_zdrowie"); GA_googleAddSlot("ca-pub-2065853450314435", "we2_wide_stripe2_pasek1_zdrowie"); GA_googleAddSlot("ca-pub-2065853450314435", "we2_sky1_sky1_zdrowie"); GA_googleAddSlot("ca-pub-2065853450314435", "we2_top_stripe_zdrowie"); GA_googleAddSlot("ca-pub-2065853450314435", "we2_special_screening_zdrowie"); GA_googleAddSlot("ca-pub-2065853450314435", "we2_main_title_stripe1_zdrowie"); GA_googleAddSlot("ca-pub-2065853450314435", "we2_top_special_floating_top_button_zdrowie"); GA_googleAddSlot("ca-pub-2065853450314435", "we2_gallery_special_gallery_first_element_zdrowie"); GA_googleAddSlot("ca-pub-2065853450314435", "we2_big_board_board1_zdrowie"); </p>
+<p> GA_googleFetchAds(); </p>
+<p> var GLOBALS_CATEGORY_ID = 481; </p>
+<p> GA_googleFillSlot("we2_special_screening_zdrowie"); </p>
+<p> GA_googleFillSlot("we2_top_special_floating_top_button_zdrowie"); </p>
+<p> Witaj! </p>
+<p> Zaloguj się </p>
+<p> lub </p>
+<p> Załóż konto </p>
+<p> Forum We-Dwoje.pl </p>
+<p> Newsletter </p>
+<p> Zdrowie </p>
+<p> Forum </p>
+<p> Lajt </p>
+<p> Galerie </p>
+<p> Ogłoszenia </p>
+<p> Baza Firm </p>
+<p> Wyszukaj </p>
+<p> Społeczność </p>
+<p> Facebook </p>
+<p> wybierz </p>
+<p> artykuły </p>
+<p> ogłoszenia </p>
+<p> wizytówki </p>
+<p> forum </p>
+<p> $("#s_t_opt").selectbox(); </p>
+<p> GA_googleFillSlot("we2_top_stripe_zdrowie"); </p>
+<p> Zdrowie </p>
+<p> Uroda </p>
+<p> Moda </p>
+<p> Seks </p>
+<p> Lifestyle </p>
+<p> Ślub </p>
+<p> Dziecko </p>
+<p> Kulinaria </p>
+<p> Dom </p>
+<p> więcej </p>
+<p> Warto wiedzieć </p>
+<p> Choroby </p>
+<p> Dieta </p>
+<p> Medycyna naturalna </p>
+<p> Profilaktyka </p>
+<p> Leki i preparaty </p>
+<p> ABC Pacjenta </p>
+<p> Baza aptek </p>
+<p> Baza ZOZ </p>
+<p> Zdrowie Forum </p>
+<p> Zdrowie </p>
+<p> Medycyna naturalna </p>
+<p> Zdrowe pomysły </p>
+<p> Woda kokosowa - nektar dla zdrowia i urody </p>
+<p> var WinWidth = $(window).width(); 	 	if(document.screening == 0 && WinWidth >= 1356){  	GA_googleFillSlot("we2_sky1_sky1_zdrowie");	 	} </p>
+<p> GA_googleFillSlot("we2_wide_stripe1_pasek1_zdrowie"); </p>
+<p> GA_googleFillSlot("we2_main_stripe1_pasek1_zdrowie"); </p>
+<p> Zdrowe pomysły </p>
+<p> 02 Sty 2012 </p>
+<p> kom. </p>
+<p> (1) </p>
+<p> 267 </p>
+<p> Katarzyna Ziaja </p>
+<p> Woda kokosowa - nektar dla zdrowia i urody </p>
+<p> GA_googleFillSlot("we2_main_title_stripe1_zdrowie"); </p>
+<p> Komu z nas w chwilach słabości nie marzy się plaża w którymś z kurortów tropikalnych i popijanie słodkawego soku wprost z orzecha kokosowego? Delektowanie się orzeźwieniem uderzającym w podniebienie po kolejnym pociągnięciu łyka przez słomkę? </p>
+<p> To sielskie marzenie mamy już na wyciągnięcie dłoni. Co prawda nie na gorących plażach i bez widoku na turkusowe morze… Ale wystarczy zamknąć oczy, uruchomić wyobraźnię i potęgować ją subtelnymsmakiem wody kokosowej, która ostatnim czasem została nabita w butelkę i szybko zyskuje pokaźne grono sympatyków. Woda kokosowa jest już dostępna także w Polsce. Jeszcze nie cieszy się taką popularnością jak np. za Oceanem. Jednak to chyba kwestia czasu… </p>
+<p> Czym jest woda kokosowa? </p>
+<p> Jest to naturalne płynne bielmo z młodego orzecha kokosowego, zerwanego po około 5-7 miesiącach od wydania owocu. Ma delikatny i orzeźwiający smak, przejrzysty charakter. Mleko kokosowe z kolei jest bielsze i pochodzi z wnętrza „starszych” orzechów kokosowych i zawiera więcej tłuszczu. </p>
+<p> Co zawiera i jakie ma właściwości? </p>
+<p> Woda kokosowa to bogactwo witamin i minerałów, przede wszystkim potasu, magnezu, wapnia i fosforu oraz witamin z grupy B (B1, B2, B3, B5, B6) i C. Jest źródłem węglowodanów jak fruktoza i glukoza (może być wiec stosowany u osób z nietolerancją cukru mlecznego – laktozy), a także występującego w mleku matek kwasu laurynowego o działaniu stymulującym układ odpornościowy. Oprócz tego, w wodzie kokosowej znajdują się niewielkie ilości tłuszczów roślinnych. Sok ten ma odczyn zasadowy, co ułatwia wchłanianie różnych składników pokarmowych. </p>
+<p> Z tak urozmaiconego składu wynika, że woda kokosowa działa: </p>
+<p> energetyzująco i odżywczo, </p>
+<p> zapobiega odwodnieniu, </p>
+<p> może pomóc w uzupełnieniu niedoborów witamin z grupy B, </p>
+<p> wspomagająco na siły odpornościowe, </p>
+<p> regenerująco na skórę. </p>
+<p> Kiedy jest polecana? </p>
+<p> Woda kokosowa to dobry izotonik. Szczególnie warto ją spożywać podczas upałów w celu zapobiegania odwodnieniu. Jest również właściwa dla sportowców i podróżników, ponieważ zawiera wystarczającą ilość elektrolitów i węglowodanów. Z tego też względu mogą polubić ją „biesiadnicy”, ponieważ świetnie znosi objawy syndromu dnia poprzedniego. Z uwagi na wysoką odżywczość może być zalecana rekonwalescentom, osobom starszym, osłabionym </p>
+<p> oraz dzieciom, które maja problemy z odpornością lub nawet przyjmowaniem posiłków. Nie może </p>
+<p> jednak stać się jedynym pożywieniem. Woda kokosowa wpływa pozytywnie na stan skóry, nawilżając ją i regenerując. Jest więc także polecana w problemach skórnych jak suchość, wrażliwość czy skórka pomarańczowa. </p>
+<p> Niewątpliwie woda kokosowa może wspomagać pracę naszego organizmu. Jednak nie należy zapominać, że racjonalne żywienie jest podstawą do uzyskania zdrowia. Z uwagi na wysoką zawartość węglowodanów nie poleca się jej osobom chorym na cukrzycę, z nietolerancją glukozy i innymi zaburzeniami metabolicznymi. Warto w tych przypadkach przed zastosowaniem wody kokosowej poradzić się lekarza prowadzącego. </p>
+<p> /* <![CDATA[ */ 	var bbs=screen,bbn=navigator,bbh;bbh='&ubl='+bbn.browserLanguage+'&ucc='+bbn.cpuClass+'&ucd='+bbs.colorDepth+'&uce='+bbn.cookieEnabled+'&udx='+bbs.deviceXDPI+'&udy='+bbs.deviceYDPI+'&usl='+bbn.systemLanguage+'&uje='+bbn.javaEnabled()+'&uah='+bbs.availHeight+'&uaw='+bbs.availWidth+'&ubd='+bbs.bufferDepth+'&uhe='+bbs.height+'&ulx='+bbs.logicalXDPI+'&uly='+bbs.logicalYDPI+'&use='+bbs.fontSmoothingEnabled+'&uto='+(new Date()).getTimezoneOffset()+'&uti='+(new Date()).getTime()+'&uui='+bbs.updateInterval+'&uul='+bbn.userLanguage+'&uwi='+bbs.width; 	if(typeof(bburlparam)=='string') { bbh+='&'+bburlparam; } 	if(typeof(bbkeywords)=='string') { bbh+='&keywords='+escape(bbkeywords); } 	document.write("<scr"+"ipt  charset='utf-8' type='text/javascript' src='http://go.idmnet.bbelements.com/please/showit/177/1/2/17/?typkodu=js"+bbh+"&alttext=0&border=0&bust="+Math.random()+"&target=_blank'><"+"\/scr"+"ipt>"); 	/* ]]> */ </p>
+<p> GA_googleFillSlot("we2_main_stripe2_linki_zdrowie"); </p>
+<p> GA_googleFillSlot("we2_main_stripe2_pasek1_zdrowie"); </p>
+<p> (function(d, s, id) {   var js, fjs = d.getElementsByTagName(s)[0];   if (d.getElementById(id)) {return;}   js = d.createElement(s); js.id = id;   js.src = "//connect.facebook.net/pl_PL/all.js#appId=10150298435359064&xfbml=1";   fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk')); </p>
+<p> OCEŃ </p>
+<p> 1 </p>
+<p> 2 </p>
+<p> 3 </p>
+<p> 4 </p>
+<p> 5 </p>
+<p> 5.00 </p>
+<p> / </p>
+<p> 1 </p>
+<p> OCEN </p>
+<p> DODAJ DO </p>
+<p> Śledzik </p>
+<p> Wykop </p>
+<p> Podobne w </p>
+<p> Zdrowe pomysły </p>
+<p> Morska woda zdrowia doda czyli krótko... </p>
+<p> Szum wody morskiej, który działa kojąco i uspokajająco.... </p>
+<p> Domowe sposoby na lepsze trawienie </p>
+<p> Kukurydza - żółte ziarnka pełne zdrowia </p>
+<p> Pocieszycielka strapionych - passiflora </p>
+<p> <!-- google_ad_client = "pub-2065853450314435"; /* we2_main_rectangle1_article */ google_ad_slot = "9778174194"; google_ad_width = 300; google_ad_height = 250; //--> </p>
+<p> Tagi </p>
+<p> witaminy </p>
+<p> kokos </p>
+<p> minerały </p>
+<p> mleczko kokosowe </p>
+<p> woda kokosowa </p>
+<p> bielmo orzecha kokosowego </p>
+<p> wartości odżywcze wody kokosowej </p>
+<p> izotonik </p>
+<p> Skomentuj </p>
+<p> Woda kokosowa - nektar dla zdrowia i urody </p>
+<p> function valid_f0(oForm) {return checkFilled(oForm.author_name, 'Proszę wpisać swoje imię!')&& checkFilled(oForm.comment, 'Proszę wpisać treść komentarza!');} </p>
+<p> Autor </p>
+<p> Zarejestruj się </p>
+<p> / </p>
+<p> Zaloguj się </p>
+<p> Tytuł </p>
+<p> Treść </p>
+<p> Komentarze (1) </p>
+<p> - Woda kokosowa - nektar dla zdrowia i urody </p>
+<p> Wtorek </p>
+<p> | </p>
+<p> 3 Sty 12 </p>
+<p> , 19:34 </p>
+<p> 0 </p>
+<p> nie oceniono </p>
+<p> 0 </p>
+<p> Gość We-Dwoje.pl </p>
+<p> Re: Woda kokosowa - nektar dla zdrowia i urody </p>
+<p> wszystko wspaniale... tylko cena zaporowa: zdaje się, że 0,5 l  kosztuje dobrze ponad 10 zł. </p>
+<p> Skomentuj wypowiedź </p>
+<p> Podobne do </p>
+<p> Woda kokosowa - nektar dla zdrowia i urody </p>
+<p> Woda kokosowa uderza do głów </p>
+<p> Madonna zainwestowała ponoć 1,5 miliona dolarów w produkcję wody kokosowej. Ulubione modelki Victoria’s Secret pytane o sekrety… urody odpowiadają: woda kokosowa. Zgłębiamy więc temat kokosa… </p>
+<p> więcej </p>
+<p> 5.00 </p>
+<p> / 1 </p>
+<p> 2862 </p>
+<p> Skomentuj </p>
+<p> (4) </p>
+<p> Jesteśmy nabijani w butelkę </p>
+<p> „Woda pełna zdrowia" słyszymy miły, zachęcający głos wydobywający się z głośnika telewizora. „Woda zdrowia ci doda" słyszymy przełączając na inny program, ratując się w ten sposób przed zalewającymi nas... </p>
+<p> więcej </p>
+<p> 1.31 </p>
+<p> / 13 </p>
+<p> 100 </p>
+<p> Skomentuj </p>
+<p> (1) </p>
+<p> Sok, nektar, napój </p>
+<p> Soki i nektary to zdrowe i naturalne produkty, które powinny na stałe zagościć  w naszym codziennym menu. Są źródłem cennych dla zdrowia witamin, składników mineralnych i błonnika. </p>
+<p> więcej </p>
+<p> 3.00 </p>
+<p> / 1 </p>
+<p> 1054 </p>
+<p> Skomentuj </p>
+<p> (0) </p>
+<p> Woda zjonizowana - suplement XXI wieku </p>
+<p> Każdy świadomy swego zdrowia człowiek wie jak potrzebna jest mu odpowiedniej jakości woda. Wszak to źródło życia dla każdej najmniejszej komórki naszego ciała. Mamy już coraz większą wiedzę o tym, dlaczego trzeba ją... </p>
+<p> więcej </p>
+<p> 5.00 </p>
+<p> / 1 </p>
+<p> 410 </p>
+<p> Skomentuj </p>
+<p> (10) </p>
+<p> Woda zdrowia doda </p>
+<p> Organizm człowieka zbudowany jest w 70% z wody. Znaczenie jej dla naszego ustroju potwierdza fakt, że bez jedzenia możemy żyć kilka tygodni, natomiast bez wody tylko kilka dni. Woda należy do niezbędnych składników... </p>
+<p> więcej </p>
+<p> 0.00 </p>
+<p> / 0 </p>
+<p> 60 </p>
+<p> Skomentuj </p>
+<p> (3) </p>
+<p> "Lód i woda, woda i lód" Majgull Axelsson </p>
+<p> "Lód i woda, woda i lód" to napisana z rozmachem historia rodzinnych napięć, rozłamów i tragedii, które infekują kolejne pokolenia. </p>
+<p> więcej </p>
+<p> 0.00 </p>
+<p> / 0 </p>
+<p> 71 </p>
+<p> Skomentuj </p>
+<p> (0) </p>
+<p> Filtrowana woda </p>
+<p> Najważniejsze dla naszego zdrowia jest dostarczenie organizmowi odpowiedniej ilości wody. Są jednak wyjątkowe momenty w życiu, w których zapotrzebowanie na wodę wzrasta – takim momentem jest ciąża. Woda jest... </p>
+<p> więcej </p>
+<p> 2.00 </p>
+<p> / 1 </p>
+<p> 124 </p>
+<p> Skomentuj </p>
+<p> (7) </p>
+<p> Zobacz podobne do </p>
+<p> Woda kokosowa - nektar dla zdrowia i... </p>
+<p> GA_googleFillSlot("we2_column0_rectangle1_zdrowie"); </p>
+<p> GA_googleFillSlot("we2_column1_rectangle1_zdrowie"); GA_googleFillSlot("we2_column1_pasek1_zdrowie"); GA_googleFillSlot("we2_column1_art1_zdrowie"); </p>
+<p> Fryzury na karnawał oraz studniówkę </p>
+<p> Sylwestrowy makijaż 2011! </p>
+<p> Fryzury gwiazd </p>
+<p> Świąteczna aromaterapia </p>
+<p> Zimowe zapachy </p>
+<p> Wydania We2.pl </p>
+<p> więcej » </p>
+<p> 05 </p>
+<p> Sty </p>
+<p> Modna czerń i czerwień oraz Karnawałowe fryzury 2012 </p>
+<p> Prosta i tania reklama w Internecie sprzedawana za pomocą AdTaily </p>
+<p> (PLALLADTAILY0002) </p>
+<p> Gorące tematy </p>
+<p> Popularne </p>
+<p> Komentowane </p>
+<p> Nowe </p>
+<p> Upięcie sylwestrowe dla długich włosów </p>
+<p> Modny makijaż z kampanii reklamowych </p>
+<p> Proste upięcie na włosach bardzo kręconych </p>
+<p> Dlaczego bać się parabenów? </p>
+<p> Fryzury gwiazd </p>
+<p> Pigułka po </p>
+<p> Zobacz </p>
+<p> ostatnie wydanie tygodnika </p>
+<p> Wysłanie formularza jest jednoznaczne z akceptacją </p>
+<p> Regulaminu </p>
+<p> portalu We-Dwoje.pl </p>
+<p> Konkursy We2.pl </p>
+<p> GA_googleFillSlot("we2_column2_rectangle1_zdrowie"); GA_googleFillSlot("we2_column2_pasek1_zdrowie"); </p>
+<p> Popularne zdjęcia </p>
+<p> Obuwie damskie </p>
+<p> Modne buty na imprezę 2011/2012! </p>
+<p> Gwiazdy pod lupą </p>
+<p> Julka B. - zjawiskowa nastolatka podbija polską... </p>
+<p> więcej zdjęć </p>
+<p> » </p>
+<p> Baza firm / wizytówki </p>
+<p> Dodaj bezpłatną wizytówkę </p>
+<p> Restauracje, kawiarnie </p>
+<p> Hotele, pensjonaty </p>
+<p> Ślub, wesele </p>
+<p> Moda, biżuteria </p>
+<p> Usługi medyczne </p>
+<p> Salony urody </p>
+<p> Dziecko </p>
+<p> Rozrywka, rekreacja </p>
+<p> Dom, ogród </p>
+<p> Projektanci, styliści </p>
+<p> Szkoła Stylu Moniki Jaruzelskiej </p>
+<p> Dom weselny Roztocze </p>
+<p> Oprawa muzyczna ślubów </p>
+<p> GA_googleFillSlot("we2_column3_rectangle1_zdrowie"); GA_googleFillSlot("we2_column3_pasek1_zdrowie"); </p>
+<p> GA_googleFillSlot("we2_wide_stripe2_pasek1_zdrowie"); </p>
+<p> Copyright © 2006-2011 We-Dwoje.pl </p>
+<p> FEMINET Sp. z o.o. </p>
+<p> Publikacje zamieszczone na stronach We-Dwoje.pl są chronione prawami autorskimi.  			Kopiowanie i używanie do innych celów bez pisemnej zgody redakcji zabronione. </p>
+<p> Kontakt </p>
+<p> Reklama </p>
+<p> Współpraca </p>
+<p> Zostań redaktorem </p>
+<p> Zasady korzystania z serwisu </p>
+<p> Polityka prywatności </p>
+<p> Wykonanie </p>
+<p> Advisage.pl </p>
+<p> Rss We-Dwoje.pl </p>
+<p> /* <![CDATA[ */    var bbkeywords='';                                               bmone2n.addPosition('177.4.1.1',''); bmone2n.addPosition('177.4.2.2',''); bmone2n.addPosition('177.4.7.3',''); bmone2n.addPosition('177.4.3.4','');   bmone2n.getAd('go.idmnet.bbelements.com',bbkeywords,''+(typeof(bburlparam)=='string'?'&'+bburlparam:''),'utf-8');    /* ]]> */ </p>
+<p> /* <![CDATA[ */ bmone2n.makeAd('177.4.1.1'); /* ]]> */ </p>
+<p> /* <![CDATA[ */ bmone2n.makeAd('177.4.2.2'); /* ]]> */ </p>
+<p> /* <![CDATA[ */ bmone2n.makeAd('177.4.7.3'); /* ]]> */ </p>
+<p> /* <![CDATA[ */ bmone2n.makeAd('177.4.3.4'); /* ]]> */ </p>
+<p> if (document.screening == 1) { 		document.getElementById("ads_billboard1").style.display = "none" 	} </p>

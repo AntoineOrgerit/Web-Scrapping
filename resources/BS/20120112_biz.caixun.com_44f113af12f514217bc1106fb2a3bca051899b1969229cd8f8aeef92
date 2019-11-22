@@ -1,0 +1,249 @@
+<p> 北京停售14种不合格食品 满记甜品芒果布丁登榜_财讯.COM </p>
+<p> GS_googleAddAdSenseService("ca-pub-1753776201213826"); GS_googleEnableAllServices(); </p>
+<p> GA_googleAddSlot("ca-pub-1753776201213826", "industry_banner"); </p>
+<p> GA_googleFetchAds(); </p>
+<p> var commentArticleID = "NE034jnn"; 	var commentArticleType = 1; 	var commentAritcleTitle = "北京停售14种不合格食品 满记甜品芒果布丁登榜"; 	var channelID = "00000004"; 	var pageData = ''; </p>
+<p> <!-- function MM_reloadPage(init) {  //reloads the window if Nav4 resized   if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {     document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}   else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload(); } MM_reloadPage(true); function MM_findObj(n, d) { //v4.01   var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {     d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}   if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];   for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);   if(!x && d.getElementById) x=d.getElementById(n); return x; } function MM_moveLayers(){         var ttop,tleft,h,w;         var i,p,v,obj,args=MM_moveLayers.arguments;         for (i=0; i<(args.length); i++){                 if(i == 0){                         obj = args[0];                         evt=args[2];                         evt=evt?evt:window.event;                           tleft = evt.clientX+document.body.scrollLeft-5;                           ttop  = evt.clientY+document.documentElement.scrollTop-5;                 }else{                         if ((obj=document.getElementById(args[i]))!=null){                                 if (obj.style){                                         obj.style.left = tleft+'px';                                         obj.style.top  = ttop+2+'px';                                 }                         }                 }         } } function MM_showHideLayers() { //v6.0     var i,p,v,obj,args=MM_showHideLayers.arguments;     for (i=0; i<(args.length-2); i+=3)     	if ((obj=MM_findObj(args[i]))!=null){         	v=args[i+2];             if (obj.style){                 obj=obj.style; v=(v=='show')?'visible':(v=='hide')?'hidden':v;             }             obj.visibility=v;     	} } var stocksCode = ''; jQuery(document).ready(function(){ 	if ( stocksCode != '' ){         var urlMarket = '/app/common/article/getMarketGraph.ajax.php?code=' + stocksCode;     	jQuery.ajax({ 				type:'get', 				contentType:'application/x-www-form-urlencoded; charset=GB2312', 				url:urlMarket, 				cache:false, 				success:function(data){jQuery('#stockmarket').empty().append(data)} 	    });       } });  function showMarketGraph(name,code){ 	var html="<span id = marketText"+code+">"+name+"("+code+")</span>"; 	document.write(html); 	var id="marketText"+code; 	jQuery.ajax({ 				type:'get', 				contentType:'application/x-www-form-urlencoded; charset=GB2312', 				url:'/app/common/article/getMarketText.ajax.php?code='+code, 				cache:false, 				success:function(data){jQuery('#'+id).empty().append(data);} 	    }); } //--> </p>
+<p> 财讯首页 </p>
+<p> - </p>
+<p> 新闻 </p>
+<p> - </p>
+<p> 经济 </p>
+<p> - </p>
+<p> 商业 </p>
+<p> - </p>
+<p> 理财 </p>
+<p> - </p>
+<p> 基金 </p>
+<p> - </p>
+<p> 股票 </p>
+<p> - </p>
+<p> 期货 </p>
+<p> - </p>
+<p> 外汇 </p>
+<p> - </p>
+<p> 生活 </p>
+<p> - </p>
+<p> 专题 </p>
+<p> - </p>
+<p> 评论 </p>
+<p> - </p>
+<p> 解盘 </p>
+<p> - </p>
+<p> 论坛 </p>
+<p> - </p>
+<p> 博客 </p>
+<p> - </p>
+<p> 互动 </p>
+<p> 财迷会所 </p>
+<p> 益智财迷 </p>
+<p> 电子报 </p>
+<p> 手机版 </p>
+<p> document.write('<a style="display:none!important" id="tanx-a-mm_29161077_2449754_9409438"></a>');      tanx_s = document.createElement("script");      tanx_s.type = "text/javascript";      tanx_s.charset = "gbk";      tanx_s.id = "tanx-s-mm_29161077_2449754_9409438";      tanx_s.async = true;      tanx_s.src = "http://p.tanx.com/ex?i=mm_29161077_2449754_9409438";      tanx_h = document.getElementsByTagName("head")[0];      if(tanx_h)tanx_h.insertBefore(tanx_s,tanx_h.firstChild); </p>
+<p> if (channelID!="00000003"){document.write('<a href="http://www.caixun.com/">首页</a>&gt;');} </p>
+<p> 商业 </p>
+<p> > </p>
+<p> if (channelID=="00000003")($("#rtchannelhome").attr("href","http://www.caixun.com")); </p>
+<p> 正文 </p>
+<p> function search_gotoLookupN() { 	var inputValue = document.getElementById('searchText').value;	  	if(ActionChar(inputValue) == true){ 	} 	else{ 	  return false;	   	} } var searchText = $("#searchText"); searchText.focus(function(){ 	var inputValue = $(this).attr('value'); 	if(inputValue == '请输入关键字') 	{ 		$(this).attr('value',''); 	} });  searchText.blur(function(){ 	var inputValue = $(this).attr('value'); 	if(inputValue == '') 	{ 		$(this).attr('value','请输入关键字'); 	} }); //对字符串进行验证FrankMeng  function ActionChar(s){     var s = $("#searchText").val();    if(s ==" " && s=="请输入关键字")    {        $("#searchText").focus();       return false;    }    var reg = /^([a-zA-Z])|([\u0391-\uFFE5]+)|([,])|([\s])|([0-9])$/;    //var reg1 = /^$/    var str = s;    if(str == "")    {        alert("对不起关键词不能为空");  	  $("#searchText").focus();  	  //document.all.search.select();  	  return false;    }else    {          var _sivalue=false;  		  for(var i =0; i<str.length;i++){  			 var _iKeyCode =str.substring(i,i+1);  			 if(!reg.test(_iKeyCode)){  			  _sivalue=true;  		      }  		  }  		  if(_sivalue){  			alert("格式不正确!");  			$("#searchText").focus();  	        return false;  		  } else           { 		   if(trim($("#searchText").val())!="请输入关键字" && trim($("#searchText").val())!="") 		   {            var gotoUrl = "http://search.caixun.com/?k="+trim($("#searchText").val()); 	       window.open(encodeURI(gotoUrl)); 		   }else 		   { 		   alert("对不起关键词不能为空"); 		      $("#searchText").focus();  			  //document.all.search.select();  			  return false; 		   } 		  }		      }  } function trim(inputString) {            if (typeof inputString != "string") { return inputString; }         var retValue = inputString;         var ch = retValue.substring(0, 1);      while (ch == " ") {       //检查字符串开始部分的空格         retValue = retValue.substring(1, retValue.length);         ch = retValue.substring(0, 1);         }         ch = retValue.substring(retValue.length-1, retValue.length);      while (ch == " ") {                   //检查字符串结束部分的空格                   retValue = retValue.substring(0, retValue.length-1);                   ch = retValue.substring(retValue.length-1, retValue.length);                }                while (retValue.indexOf("  ") != -1) {                 //将文字中间多个相连的空格变为一个空格                   retValue = retValue.substring(0, retValue.indexOf("  ")) + retValue.substring(retValue.indexOf("  ")+1, retValue.length);                 }                return retValue;  } </p>
+<p> 北京停售14种不合格食品 满记甜品芒果布丁登榜 </p>
+<p> 2012年01月12日 13:34  已有 </p>
+<p> 0 </p>
+<p> 人阅读 字号： </p>
+<p> T </p>
+<p> | </p>
+<p> T </p>
+<p> 复制链接 </p>
+<p> 打印 </p>
+<p> [世华财讯]北京市工商局通报，食品安全监管部门抽检出14种不合格食品，并决定对这些食品采取停售措施。 </p>
+<p> [世华财讯]北京市工商局通报，食品安全监管部门抽检出14种不合格食品，并决定对这些食品采取停售措施。其中，满记甜品芒果布丁榜上有名。 </p>
+<p> 北京市工商局网站1月12日消息，在近期的北京市食品安全监管工作中，食品安全监管部门抽检出14种不合格食品，并决定对这些食品采取停售措施。其中，满记甜品的芒果布丁因大肠菌群和菌落总数不合格登上黑榜。 </p>
+<p> 本次北京市工商局公布的不合格的食品名单中，大部分是糕点和甜食类。除了消费者熟知的满记甜品之外，稻香缘的欧式蛋糕、圣雪的原味酸牛奶以及绿润的速冻栗子窝也都没有达到合格标准。 </p>
+<p> 不合格企业和产品名单 </p>
+<p> 不合格产品名称商标不合格生产企业名称不合格项目(标准值/实测值) </p>
+<p> 无蔗糖类糕点(一品烧饼) 未标注北京菊花香食品厂菌落总数cfu/g(≤1500/920000) </p>
+<p> 西米布丁未标注 北京空港配餐有限公司 菌落总数cfu/g(≤1500/2000) </p>
+<p> 老母鸡金盈 北京口口福肉食加工厂 致病菌(不得检出/检出金黄色葡萄球菌) </p>
+<p> 桃酥(热加工烘烤类)未标注北京市宝兴斋食品有限公司 菌落总数cfu/g(≤1500/2200) </p>
+<p> 软麻花未标注北京福元盛食品有限公司菌落总数cfu/g(≤1500/180000) </p>
+<p> 芒果布丁满记甜品北京信恒合丰餐饮管理有限公司大肠菌群MPN/100g(≤300/930)菌落总数cfu/g(≤10000/130000) </p>
+<p> 花色面包未标注北京通天釜食品加工厂溴酸钾mg/kg(不得检出/0.94) </p>
+<p> 云片糕未标注北京市绿海食品有限公司霉菌计数cfu/g(≤150/210) </p>
+<p> 稻香缘欧式蛋糕(奶油味) 稻香缘北京市荣洲工贸有限公司脱氢乙酸钠g/kg (≤0.5/1.3) </p>
+<p> 小博士面包未标注北京麦清香面包坊甜蜜素g/kg (≤0.65/1.7) </p>
+<p> 原味酸牛奶圣雪北京科尔沁乳业有限公司脂肪g/100g (≥2.5/2.1) </p>
+<p> 酸牛奶未标注北京恒兴食品中心甜蜜素g/kg (不得检出/0.29) </p>
+<p> 寇比起司(再制干酪)未标注北京超凡食品有限公司菌落总数cfu/g(5，2，100，1000)/(260，430，360，270，320) </p>
+<p> 速冻栗子窝头绿润北京绿润食品有限公司菌落总数cfu/g(≤100000 /180000) </p>
+<p> (陈巍 编辑) </p>
+<p> 已有 </p>
+<p> 0 </p>
+<p> 人阅读 字号： </p>
+<p> T </p>
+<p> | </p>
+<p> T </p>
+<p> 复制链接 </p>
+<p> 打印 </p>
+<p> RSS </p>
+<p> 分享 </p>
+<p> function sendurl(){ 	var title = window.document.title; 	title = title.replace("_财讯.COM",""); 	var url = window.location.href; 	document.getElementById("kaixin").href='http://www.kaixin001.com/repaste/share.php?rurl='+encodeURIComponent(url)+'&rcontent='+encodeURIComponent('世华财讯―'+title)+'&rtitle='+encodeURIComponent('世华财讯―'+title);     	document.getElementById("xianguo").href='http://xianguo.com/service/submitdigg/?link='+encodeURIComponent(url)+'&title='+encodeURIComponent('世华财讯―'+title); 	document.getElementById("tengxun").href='http://v.t.qq.com/share/share.php?url='+encodeURIComponent(url)+'&title='+encodeURIComponent('世华财讯―'+title); 	return false; }  function gotoWB(){ 	var title = window.document.title; 	title = title.replace("_财讯.COM",""); 	var url = window.location.href;      var content = '<a href="'+url+'" taget="_blank">'+title+'</a>';  	$("#wbexcerpt").attr('value', content); 	 	document.wbForm.submit(); } </p>
+<p> 财讯微博 </p>
+<p> 新浪微博 </p>
+<p> 腾讯微博 </p>
+<p> 搜狐微博 </p>
+<p> 开心网 </p>
+<p> 鲜果网 </p>
+<p> 相关新闻 </p>
+<p> ・ </p>
+<p> “波力海苔”被工商检出不合格 </p>
+<p> 2011/12/09 </p>
+<p> ・ </p>
+<p> 双清御泉等7种饮用水菌落超标在京停售 </p>
+<p> 2011/10/27 </p>
+<p> ・ </p>
+<p> “思念”水饺检出致病菌被责令停售 </p>
+<p> 2011/10/19 </p>
+<p> ・ </p>
+<p> 北京停售18种不合格食品 “思念”水饺检出致病菌 </p>
+<p> 2011/10/19 </p>
+<p> ・ </p>
+<p> 北京停售19种不合格食品 年糕杨、悠果屡上黑名单 </p>
+<p> 2011/09/28 </p>
+<p> ・ </p>
+<p> 北京26种食品不合格 百花牌蜂花粉粒铅超标2倍 </p>
+<p> 2011/09/16 </p>
+<p> ・ </p>
+<p> 北京公布26种不合格食品 百花牌蜂花粉粒铅超标2倍 </p>
+<p> 2011/09/15 </p>
+<p> ・ </p>
+<p> 北京公布26种不合格食品 百花牌蜂花粉粒铅超标2倍 </p>
+<p> 2011/09/15 </p>
+<p> ・ </p>
+<p> 雨润袋装烤鸭因菌落总数超标被停售 </p>
+<p> 2011/08/04 </p>
+<p> ・ </p>
+<p> “雨润”袋装烤鸭因菌落总数超标被停售 </p>
+<p> 2011/08/04 </p>
+<p> 关键词 </p>
+<p> 曝光 </p>
+<p> 北京 </p>
+<p> 食品饮料 </p>
+<p> 食品安全 </p>
+<p> 要闻 </p>
+<p> 商业 </p>
+<p> 行业 </p>
+<p> 国内 </p>
+<p> 热门专题 </p>
+<p> 中国春运之变！ </p>
+<p> 年终奖那点事儿 </p>
+<p> 银行用户信息疑遭泄露 </p>
+<p> 蒙牛含毒不能道歉了事 </p>
+<p> 商界2011：面孔与记忆 </p>
+<p> 2012中国经济十大猜想 </p>
+<p> 防辐射服是个传说？ </p>
+<p> 2012中国需要什么主义 </p>
+<p> 盘点2011中国财经生活 </p>
+<p> 盘点2011：公司的选择 </p>
+<p> 聚焦楼市双限令 </p>
+<p> 电信联通遭遇反垄断 </p>
+<p> $(function(){ 		$('#subject').loopedCarousel({ 			spacing: 18 		}); 	}); </p>
+<p> 财讯推广 </p>
+<p> document.write('<a style="display:none!important" id="tanx-a-mm_29161077_2449754_9432028"></a>');      tanx_s = document.createElement("script");      tanx_s.type = "text/javascript";      tanx_s.charset = "gbk";      tanx_s.id = "tanx-s-mm_29161077_2449754_9432028";      tanx_s.async = true;      tanx_s.src = "http://p.tanx.com/ex?i=mm_29161077_2449754_9432028";      tanx_h = document.getElementsByTagName("head")[0];      if(tanx_h)tanx_h.insertBefore(tanx_s,tanx_h.firstChild); </p>
+<p> 论坛相关 </p>
+<p> ・ </p>
+<p> 围观高管：19个月19名老总离世（9L） </p>
+<p> ・ </p>
+<p> 乔布斯：副总裁与看门人的区别 </p>
+<p> ・ </p>
+<p> 散布涨价信息 联合利华被罚200万元 </p>
+<p> ・ </p>
+<p> 南航张和平案揭开民航腐败一角 </p>
+<p> ・ </p>
+<p> 雅芳“贿赂门”曝光 4名高管因在中国行贿落马 </p>
+<p> 新闻排行 </p>
+<p> 中国银联称网购火车票无需网银 </p>
+<p> 疯狂的火车票 </p>
+<p> 铁路部门研究明年改由各铁路局开设分网订票 </p>
+<p> 北京停售14种不合格食品 满记甜品芒果布丁登榜 </p>
+<p> 北京购车摇号政策将区分购车需求紧迫度 </p>
+<p> 三网融合试点扩容将推动国家宽带战略 </p>
+<p> 沃尔玛或控股1号店：平安考虑转让50%股权 </p>
+<p> 铁路局澄清火车站初二列车全停运 只停半天共82列 </p>
+<p> 惠誉:欧央行长期贷款尚未收到扶持实体经济的功效 </p>
+<p> 通用或与德国工会达成协议 避免欧宝破产 </p>
+<p> 财讯推荐 </p>
+<p> ・ </p>
+<p> 茅台入奢后的喜与忧 </p>
+<p> ・ </p>
+<p> 送礼10大品牌 </p>
+<p> ・ </p>
+<p> 谁在挥霍社会主义 </p>
+<p> ・ </p>
+<p> 全球第四大值钱奢侈品牌 </p>
+<p> ・ </p>
+<p> 茅台五粮液入胡润奢侈品榜 </p>
+<p> ・ </p>
+<p> 全球十大奢侈品 </p>
+<p> ・ </p>
+<p> “替罪羊”？ </p>
+<p> ・ </p>
+<p> 0.9元的铁路信息费肥了谁的腰包 </p>
+<p> ・ </p>
+<p> 郑州火车站年初二停运 </p>
+<p> ・ </p>
+<p> 各地收费不一 </p>
+<p> 博客推荐 </p>
+<p> ・ </p>
+<p> 多方山穷水尽 大盘考验2580点 </p>
+<p> ・ </p>
+<p> 八省份公布地方债 海南债务率超93% </p>
+<p> ・ </p>
+<p> 养生必晓：数数女人老得快的十大原委 </p>
+<p> ・ </p>
+<p> 美债降级 一个时代的终结？ </p>
+<p> ・ </p>
+<p> 中国股市的四大历史机遇（8月8日） </p>
+<p> ・ </p>
+<p> 解决出租司机罢工岂能一吊了之？ </p>
+<p> ・ </p>
+<p> 网上逃犯年底前自首有“优惠” </p>
+<p> ・ </p>
+<p> 中国人为何生活得像驴子? </p>
+<p> ・ </p>
+<p> 铁道部，请珍惜血染的动车残骸 </p>
+<p> ・ </p>
+<p> 业内人士称5年后北京或面临保姆荒 </p>
+<p> <!-- google_ad_client = "pub-1753776201213826"; /* 300x250, 创建于 08-7-1 */ google_ad_slot = "8472505445"; google_ad_width = 300; google_ad_height = 250; //--> </p>
+<p> /*300*250，创建于2011-7-20*/ var cpro_id = 'u547227'; </p>
+<p> var foja_mm_flag=true; </p>
+<p> var foja_mm_pos=1; </p>
+<p> var foja_mm_style='sytle1-1'; </p>
+<p> var foja_mm_info=1; </p>
+<p> 网站地图 </p>
+<p> | </p>
+<p> 关于我们 </p>
+<p> | </p>
+<p> 公司动态 </p>
+<p> | </p>
+<p> 合作伙伴 </p>
+<p> | </p>
+<p> 诚征英才 </p>
+<p> | </p>
+<p> 著作权申明 </p>
+<p> | </p>
+<p> 隐私权保护 </p>
+<p> | </p>
+<p> 免责申明 </p>
+<p> | </p>
+<p> 广告服务 </p>
+<p> | </p>
+<p> 联系我们 </p>
+<p> | </p>
+<p> 友情链接 </p>
+<p> Copyright © 2011 caixun.com All rights reserved. 版权所有财讯.com </p>
+<p> 京ICP备07028176号 </p>
+<p> 京公网安备110301000051号 </p>
+<p> var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://"); document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F85ed4b194c2b844325d6954ed724c818' type='text/javascript'%3E%3C/script%3E")); </p>
+<p> visittrack_siteId = '25'; visittrack_url = 'http://gather.shushang-z.cn/Gather/trace.do'; VisitTrack.visittrack_log( visittrack_siteId, visittrack_url); </p>
+<p> var _gaq = _gaq || [];   _gaq.push(['_setAccount', 'UA-22871819-1']);   _gaq.push(['_setDomainName', '.caixun.com']);   _gaq.push(['_trackPageview']);   (function() {     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);   })(); </p>
+<p> <!-- clickHeatGroup = ''; if (window.location.pathname == '/content/20111124/NE0321qu.html') {  clickHeatGroup = 'ne0321qu';  clickHeatSite = 'biz.caixun.com/';  clickHeatServer = 'http://www.caixun.com/clickheat/click.php';  initClickHeat(); } //--> </p>

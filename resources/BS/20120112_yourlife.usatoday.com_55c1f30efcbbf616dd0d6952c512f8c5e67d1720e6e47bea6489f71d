@@ -1,0 +1,234 @@
+<p> Food facility audits ignore FDA - USATODAY.com </p>
+<p> var mjx_req = 'www.usatoday.com/yourlife/health';  var usat_analytics_url = mjx_req; </p>
+<p> usat.contentID='52495836.story'; var tagID = 52495836;  jQuery(document).ready(function(){ var popeyeOptions1 = { caption: 'permanent', navigation: 'permanent', direction: 'right', fixed: 'false', opacity: 1 } jQuery('.ppy1, .ppy2').popeye(popeyeOptions1);  jQuery('a#stories-expand').click(function () { jQuery('.addPopularStories').slideToggle(); return false; }); jQuery('a#videos-expand').click(function () { jQuery('.addPopularVideos').slideToggle(); return false; }); jQuery('a#photos-expand').click(function () { jQuery('.addPopularPhotos').slideToggle(); return false; }); jQuery.ajax({ url: "/loadRemote.ashx?url=/_common/_includes/_community/taboola-async.ssi",  success: function (html) { jQuery("#Adv4").append(html); } });  // series bar dropdown function megaHoverOver(){ jQuery(this).find(".sub, .sub-sponsorship").stop().fadeTo('fast', 1).show(); } function megaHoverOut(){  jQuery(this).find(".sub, .sub-sponsorship").stop().fadeTo('fast', 0, function() { jQuery(this).hide();  }); } var config = {     sensitivity: 2, // number = sensitivity threshold (must be 1 or higher)     interval: 100, // number = milliseconds for onMouseOver polling interval     over: megaHoverOver, // function = onMouseOver callback (REQUIRED)     timeout: 500, // number = milliseconds delay before onMouseOut     out: megaHoverOut // function = onMouseOut callback (REQUIRED)     }; jQuery("ul#topnav li .sub, ul#topnav li .sub-sponsorship").css({'opacity':'0'}); jQuery("ul#topnav li").hoverIntent(config); // overlay var overlaySettings = { mask: '#000', top: 'center' }; var fixedMinHeight = 720; // max height of embed + 120 if (jQuery(window).height() < fixedMinHeight){ jQuery.extend(overlaySettings, { fixed: false }); } jQuery(".buttonModal[rel]").overlay(overlaySettings); }); // end doc ready var partnerID=1660; function getClickExpire() { if (self.clickExpire) return clickExpire;  return ""; } function appendAndEscape(origUrl, appendix){ if(appendix == "") return escape(origUrl); var returnUrl =""; var i = origUrl.indexOf(appendix); var j = origUrl.indexOf("?"); if(i == -1){ if(j == -1){ returnUrl = origUrl+"?"+appendix; }else{ returnUrl = origUrl+"&"+appendix; } }else{ returnUrl = origUrl; } return escape(returnUrl); } function getClickURL() { if (self.clickURL) return clickURL; return document.location.href; } function getClickTitle() { if (self.clickTitle) return clickTitle; return document.title; } function PT () { FDCPUrl('http://www.printthis.clickability.com/pt/printThis?clickMap=printThis'+getLocation(),true);  } function getLocation () { var theUrl = escape(getClickURL()); var theTitle = escape(getClickTitle()); theUrl = appendAndEscape(getClickURL(),"") var theLoc = "&fb=Y&url="+theUrl+"&title="+theTitle+"&random="+Math.random()+"&partnerID="+partnerID+"&expire="+escape(getClickExpire()); return theLoc; } function PTMouseOver () { window.status='PRINT THIS'; return true; } function PTMouseOut () { window.status=''; return true; } var originalPath= window.location.toString().toLowerCase();  var adfileSsts= (originalPath+'////').split('/'); function RightslinkPopUp() { if (typeof(rightsLink) !== "undefined") { /* the xsl, which is needed to define the rightsLink, does not allow html output.   * this workaround replaces &amp; with & to get the url to work */  rightsLink = rightsLink.replace(/\&amp;/g,'&'); PopUp = window.open( rightsLink,  "Rightslink", "toolbar=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=650,height=550"); } } function niceDate(fullDate) { if(fullDate==""||!fullDate) { return " "; } try { var strNow=new Date(); var dateParts=fullDate.split(/[\/ :]/); var month=parseInt(dateParts[0])-1; var hr=dateParts[3]; if(dateParts[5]=='PM' || (dateParts[6] && dateParts[6]=='PM')) { if(hr!=12) { hr=parseInt(hr)+parseInt(12); } } else if(hr==12) { hr=parseInt(hr)-parseInt(12); } var strDate=new Date(dateParts[2],month,dateParts[1],hr,dateParts[4]); } catch(e) { return fullDate; } return dateDiff(strNow,strDate,fullDate); } function dateDiff(date1,date2,fullDate){ var niceDateStr=''; var diff=new Date(); var COMMENT = "the next line must be adjusted for DST: 5 for standard, 4 for DST"; var tzo=(date1.getTimezoneOffset()/60)-5; diff.setTime(Math.abs(date1.getTime()-(date2.getTime()-(tzo*60*60*1000)))); var timediff=diff.getTime(); var years=Math.floor(timediff/(1000*60*60*24*365)); timediff-=years*(1000*60*60*24*365); var days=Math.floor(timediff/(1000*60*60*24)); timediff-=days*(1000*60*60*24); var hours=Math.floor(timediff/(1000*60*60)); timediff-=hours*(1000*60*60); var mins=Math.floor(timediff/(1000*60)); timediff-=mins*(1000*60); var secs=Math.floor(timediff/1000); timediff-=secs*1000; // If older than 7 days, return the full date  if(diff.getTime()>(7*24*60*60*1000)) { return fullDate; } if(years>0){ niceDateStr=years+"y"; if(days==0){ niceDateStr+=" ago";}else{ niceDateStr+=" "+days+"d ago";}}else if(days>0){ niceDateStr=days+"d"; if(hours==0||days>=7){ niceDateStr+=" ago";}else if(days<7){ niceDateStr+=" "+hours+"h ago";}}else if(hours>0){ niceDateStr=hours+"h"; if(mins==0){ niceDateStr+=" ago";}else{ niceDateStr+=" "+mins+"m ago";}}else if(mins>0){ niceDateStr=mins+"m ago";}else{ niceDateStr="<1m ago";} return niceDateStr;} function MM_openBrWindow(theURL,winName,features) { //v2.0 window.open(theURL,winName,features); } </p>
+<p> USA TODAY </p>
+<p> Your Life </p>
+<p> Get Home Delivery </p>
+<p> Mobile </p>
+<p> Home </p>
+<p> News </p>
+<p> Travel </p>
+<p> Money </p>
+<p> Sports </p>
+<p> Life </p>
+<p> Your Life </p>
+<p> Tech </p>
+<p> Weather </p>
+<p> Your Life </p>
+<p> Your Life Main </p>
+<p> Recipes </p>
+<p> Diseases & Conditions </p>
+<p> Experts & Columnists </p>
+<p> New: Hospital Mortality Rates </p>
+<p> Health </p>
+<p> Health Main </p>
+<p> Alzheimer's </p>
+<p> Breast Cancer </p>
+<p> Cancer </p>
+<p> Depression </p>
+<p> Diabetes </p>
+<p> Heart Disease </p>
+<p> Obesity </p>
+<p> Fitness & Food </p>
+<p> Fitness & Food Main </p>
+<p> Recipes </p>
+<p> Diet & Weight Loss </p>
+<p> Farm to Table </p>
+<p> New! Kick-Start To a Healthier New You </p>
+<p> Family & Parenting </p>
+<p> Family & Parenting Main </p>
+<p> Pregnancy & Baby </p>
+<p> Children's Health </p>
+<p> Teens & Pre-Teens </p>
+<p> Sex & Relationships </p>
+<p> Sex & Relationships Main </p>
+<p> Relationships </p>
+<p> Marriage </p>
+<p> Your Look </p>
+<p> Your Look Main </p>
+<p> Beauty </p>
+<p> Blogs </p>
+<p> Kindness Blog </p>
+<p> Paw Print Post </p>
+<p> NEW: Nutrition Nation Blog </p>
+<p> NEW: Healthy Perspective Blog </p>
+<p> NEW: Life Solutions Blog </p>
+<p> OAS_AD("Top728x90"); </p>
+<p> body { margin: 0px !important; padding: 0px !important; } .afs_header { width: 239px; } #seriesWrap { font-size: 16px; } #seriesWrap a { font-weight: normal; } #seriesWrap p { margin-top: 1em; margin-bottom: 1em; } #footer p { text-align:center; } #largeTopper { margin: 10px 0; } </p>
+<p> Food facility audits largely ignore FDA guidance </p>
+<p> Updated </p>
+<p> document.write(niceDate("1/11/2012 9:25 AM")); </p>
+<p> Comments </p>
+<p> WASHINGTON – Congressional investigators looking into an outbreak of listeria in cantaloupe linked to 30 deaths last year found that third-party auditors who gave Colorado's Jensen Farms a "superior" rating just before the outbreak largely ignored government guidance on food safety. </p>
+<p> Ed Andrieski, AP </p>
+<p> This Oct. 19, 2011 photo shows the cantaloupe processing plant for Jensen Farms in Granada, Colo. Members of Congress have requested a briefing with the Colorado cantaloupe farm whose packing facility has been traced to a deadly listeria outbreak. </p>
+<p> Enlarge </p>
+<p> Close </p>
+<p> Ed Andrieski, AP </p>
+<p> This Oct. 19, 2011 photo shows the cantaloupe processing plant for Jensen Farms in Granada, Colo. Members of Congress have requested a briefing with the Colorado cantaloupe farm whose packing facility has been traced to a deadly listeria outbreak. </p>
+<p> display_afs_ads(afs_top_ads, "topsponsoredLinks"); </p>
+<p> A bipartisan report released Tuesday by the House Energy and Commerce Committee quotes a representative of an auditing company that graded the facility two months before the outbreak as saying audits are not intended to help clients improve food safety standards. Retailers often rely on such audits to make sure food they buy is safe. </p>
+<p> Democrats on the panel asked the Food and Drug Administration to crack down on such third-party auditors, who often are the only outside entities to inspect food facilities. A food safety law signed last year will boost </p>
+<p> FDA </p>
+<p> inspections of such facilities, but money to carry out those inspections is not guaranteed from Congress. </p>
+<p> "Weaknesses in third-party auditors represent a significant gap in the food safety system," the Democrats said. Republicans on the committee signed the report but did not echo the Democratic call for more oversight. </p>
+<p> The FDA currently does not regulate third-party auditors. The food safety law requires the agency to improve third-party audits of food facilities abroad that export to the </p>
+<p> United States </p>
+<p> , but does not address domestic audits. </p>
+<p> Siobhan Delancey, spokeswoman for the FDA, said in a statement that new standards under the law enacted last year will still go a long way toward improving food safety. </p>
+<p> "There are a number of elements of the proposed rule that, had Jensen Farms been in compliance, would have significantly reduced the risk of that outbreak occurring," she said. </p>
+<p> The congressional report notes that Primus Labs, the auditor hired by Holly, Colo.-based Jensen Farms, is one of the nation's largest food facility auditors. The company told the committee that the vast majority of the thousands of audits it completes each year receive passing grades — 98.7 percent in 2010, 97.5 percent in 2009 and 98.1 percent in 2008. </p>
+<p> The president of the company, Robert Stovicek, told the investigators that Primus Labs would be "a rogue element if they tried to pick winners and losers" and that the company does not have the expertise to determine which practices should be pushed by industry. A subcontractor who audited the cantaloupe farm told the committee that auditors dock points if a facility is not following specific FDA regulations but do not account for the agency's many guidances on how best to keep food safe. </p>
+<p> The outbreak of listeria in cantaloupe this fall was the deadliest outbreak of foodborne illness in 25 years. Thirty people died, 146 people were sickened and one woman suffered a miscarriage after eating the tainted cantaloupe, according to the federal Centers for Disease Control and Prevention. </p>
+<p> The FDA said in October that pools of dirty water on the floor and old, hard-to-clean equipment at Jensen Farms probably were to blame. Government investigators found several positive samples of listeria bacteria on equipment in the Jensen Farms packing facility and on fruit that had been held there. The farm also had stopped using antibacterial washes and did not "pre-cool" cantaloupes off the fields to reduce bacteria growth, the FDA said. </p>
+<p> The Republican-led committee declined to hold a hearing on the outbreak but released the bipartisan report — including summaries of interviews with the FDA, the owners of the farm and the auditors — instead. The report noted that many in the food industry have required better audits since the cantaloupe outbreak, and did not call for the FDA to step up action. Democrats, who had called for a hearing on the matter, wrote the separate letter to the agency after the report was released asking for stricter oversight. </p>
+<p> Bill Marler, a food safety lawyer who is suing Jensen Farms on behalf of several of the victims, said government inspectors should be present at food facilities more often. </p>
+<p> "The present audit system is fraught with conflicts and is designed not to find safety problems, but to keep food — regardless of quality — flowing from farm to fork," he said. </p>
+<p> Copyright 2012 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed. </p>
+<p> For more information about </p>
+<p> reprints & permissions </p>
+<p> , visit our FAQ's. To report corrections and clarifications, contact Standards Editor </p>
+<p> Brent Jones </p>
+<p> . For publication consideration in the newspaper, send comments to </p>
+<p> letters@usatoday.com </p>
+<p> . Include name, phone number, city and state for verification. To view our corrections, go to </p>
+<p> corrections.usatoday.com </p>
+<p> . </p>
+<p> Posted </p>
+<p> document.write(niceDate("1/11/2012 9:24 AM")); </p>
+<p> | Updated </p>
+<p> document.write(niceDate("1/11/2012 9:25 AM")); </p>
+<p> jQuery(document).ready(function(){ jQuery.getScript("http://widgets.outbrain.com/outbrain.js"); }); </p>
+<p> usat.contentID='52495836.story'; </p>
+<p> USA TODAY is now using Facebook Comments on our stories and blog posts to provide an enhanced user experience. To post a comment, log into Facebook and then "Add" your comment. To report spam or abuse, click the "X" in the upper right corner of the comment box. To find out more, read the </p>
+<p> FAQ </p>
+<p> and </p>
+<p> Conversation Guidelines </p>
+<p> . </p>
+<p> (function(d){ var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;} js = d.createElement('script'); js.id = id; js.async = true; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; d.getElementsByTagName('head')[0].appendChild(js); }(document)); </p>
+<p> display_afs_ads(afs_bottom_ads, "bottomsponsoredLinks"); </p>
+<p> OAS_AD("Poster3"); </p>
+<p> Advertisment </p>
+<p> Most Popular </p>
+<p> Stories </p>
+<p> Pooches take the pulpit </p>
+<p> Olivia Rusk is your average teenager --... </p>
+<p> Why Excedrin, NoDoz bottles are being... </p>
+<p> Young cancer survivors lobby Mattel for... </p>
+<p> Low risk of heart incidents found for... </p>
+<p> Videos </p>
+<p> Countdown to UFC 142 - UFC.com </p>
+<p> Young Hollywood goes YouTube </p>
+<p> Raw Video: Deadly blast kills professor in Iran </p>
+<p> Focus on the Family </p>
+<p> Ken Griffey, Jr. and his son Trey </p>
+<p> Most Popular E-mail Newsletter </p>
+<p> Sign up to get: </p>
+<p> Top viewed stories, photo galleries and community posts of the day </p>
+<p> Most popular right now: </p>
+<p> Helping breast health </p>
+<p> Your Life: </p>
+<p> Health </p>
+<p> OAS_AD("Bottom728x90"); </p>
+<p> USA Today Your Life </p>
+<p> Your Life </p>
+<p> USA Today </p>
+<p> Health </p>
+<p> Alternative </p>
+<p> Alzheimer’s </p>
+<p> Autism </p>
+<p> Breast cancer </p>
+<p> Cancer </p>
+<p> Cold & flu </p>
+<p> Dental </p>
+<p> Depression </p>
+<p> Diabetes </p>
+<p> Heart disease </p>
+<p> Kids’ health </p>
+<p> Men’s health </p>
+<p> Mental health </p>
+<p> Women’s health </p>
+<p> Fitness </p>
+<p> Exercise </p>
+<p> Family fitness challenge </p>
+<p> Food </p>
+<p> Recipes & cooking </p>
+<p> Diet & nutrition </p>
+<p> Safety </p>
+<p> Family </p>
+<p> Babies </p>
+<p> Daycare </p>
+<p> Pregnancy </p>
+<p> Special needs </p>
+<p> Teens & young adults </p>
+<p> Relationships </p>
+<p> Dating </p>
+<p> Marriage </p>
+<p> Mind & Soul </p>
+<p> Doing Good </p>
+<p> Spirituality </p>
+<p> Education </p>
+<p> Health Care </p>
+<p> Hospitals </p>
+<p> Government </p>
+<p> Doctors & nurses </p>
+<p> Pets </p>
+<p> Cats </p>
+<p> Dogs </p>
+<p> Home </p>
+<p> | </p>
+<p> News </p>
+<p> | </p>
+<p> Travel </p>
+<p> | </p>
+<p> Money </p>
+<p> | </p>
+<p> Sport </p>
+<p> | </p>
+<p> Life </p>
+<p> | </p>
+<p> Your Life </p>
+<p> | </p>
+<p> Tech </p>
+<p> | </p>
+<p> Weather </p>
+<p> Visit our Partners: </p>
+<p> USA WEEKEND </p>
+<p> | </p>
+<p> USA TODAY LIVE </p>
+<p> | </p>
+<p> Sports Weekly </p>
+<p> | </p>
+<p> Education </p>
+<p> | </p>
+<p> Space.com </p>
+<p> | </p>
+<p> Travel Tips </p>
+<p> Contact us </p>
+<p> | </p>
+<p> Advertise </p>
+<p> | </p>
+<p> Pressroom </p>
+<p> | </p>
+<p> Developer </p>
+<p> | </p>
+<p> Media Lounge </p>
+<p> | </p>
+<p> Jobs </p>
+<p> | </p>
+<p> FAQ </p>
+<p> | </p>
+<p> Reprints/Permissions </p>
+<p> | </p>
+<p> Privacy Notice/Your California Privacy Rights </p>
+<p> | </p>
+<p> Ad Choices </p>
+<p> | </p>
+<p> Terms of Service </p>
+<p> | </p>
+<p> Site Index </p>
+<p> 2012 USA Today, a division of </p>
+<p> Gannett Co. Inc. </p>
+<p> jQuery(document).ready(function(){ usatAuth.initialSetup(); // initialize UAS }); </p>
+<p> var addthis_config =  {  username: 'usatshare', data_track_clickback: false, services_expanded: 'digg,email,facebook,fark,gmail,googlebuzz,linkedin,mixx,posterous,reddit,stumbleupon,tumblr,twitter,buzz', services_compact: 'digg,email,facebook,fark,gmail,googlebuzz,linkedin,mixx,posterous,reddit,stumbleupon,tumblr,twitter,buzz' }; var addthis_share =  { templates: { twitter: '{{title}} {{url}} via @USATODAY' }, url_transforms : {  shorten: { twitter: 'bitly' } }, shorteners : { bitly : { login: 'usatoday', apiKey: 'R_fa9e62b61f9dc04aa65ea7c615e5d4f0'  } } }; </p>
+<p> jQuery(window).load(function(){     usatAuth.flashTag = new Array("adPoster","adPoster2");// Hide flash ads when UAS dialogs appear }); </p>

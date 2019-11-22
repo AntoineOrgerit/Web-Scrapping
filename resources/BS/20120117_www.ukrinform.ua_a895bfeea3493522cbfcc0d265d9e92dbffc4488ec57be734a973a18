@@ -1,0 +1,268 @@
+<p> Правительство предлагает освободить от НДС гуманитарные лекарства для борьбы с туберкулезом и ВИЧ/СПИДом | УКРИНФОРМ </p>
+<p> var _gaq = _gaq || [];     _gaq.push(['_setAccount', 'UA-29460605-1']);     _gaq.push(['_trackPageview']);      (function() {       var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;       ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);     })(); </p>
+<p> Новая версия </p>
+<p> Предыдущая версия </p>
+<p> Войти </p>
+<p> Укр </p>
+<p> Рус </p>
+<p> Eng </p>
+<p> Esp </p>
+<p> Deu </p>
+<p> 10 апреля 2013 </p>
+<p> 10:18 </p>
+<p> timer(); </p>
+<p> Укринформ новости </p>
+<p> Деловая Украина </p>
+<p> Укринформ фото </p>
+<p> Пресс- центр </p>
+<p> Страны мира </p>
+<p> Новости ПАНИА </p>
+<p> Блоги </p>
+<p> Расширенный поиск </p>
+<p> $(".form_serach_index_box .tx").focus(function(){       if($(this).val() == 'Поиск по сайту'){$(this).val('');}     });      $(".form_serach_index_box .tx").blur(function(){       if($(this).val() == ''){$(this).val('Поиск по сайту');}     });     $("#form_block_search").submit(function(){       if($("#form_block_search .tx").val() == 'Поиск по сайту'){$("#form_block_search .tx").val('');}     }); </p>
+<p> Об агентстве </p>
+<p> Об агентстве </p>
+<p> Авторы </p>
+<p> Перечень изданий </p>
+<p> Услуги </p>
+<p> Условия подписки </p>
+<p> Контакты </p>
+<p> Политика </p>
+<p> | </p>
+<p> Экономика </p>
+<p> | </p>
+<p> Происшествия </p>
+<p> | </p>
+<p> Регионы </p>
+<p> | </p>
+<p> Мир </p>
+<p> | </p>
+<p> Интервью </p>
+<p> | </p>
+<p> Комментарии </p>
+<p> | </p>
+<p> Пресс-релизы </p>
+<p> | </p>
+<p> Инфографика </p>
+<p> var news_id = '1274626'; var allowed_comments = '5';  $(document).ready(function (){     comments.initShowForm(); }); var countcomments = 3000;  /*     $.ajax({         type: 'GET',         url: '/counter.php',         data: {             language:'2',             id:'1274626',             user: '',             b: Math.random()             },         timeout: 1000             }); */ </p>
+<p> Правительство предлагает освободить от НДС гуманитарные лекарства для борьбы с туберкулезом и ВИЧ/СПИДом </p>
+<p> Кабинет Министров одобрил в понедельник законопроект, который предусматривает налоговые льготы при осуществлении в Украине программ Глобального фонда для борьбы со СПИДом, туберкулезом и малярией. </p>
+<p> Об этом министр здравоохранения Украины Александр Анищенко проинформировал на брифинге во вторник, сообщает корреспондент УКРИНФОРМа. </p>
+<p> "Вчера был принят на Кабинете Министров проект закона об использовании средств Глобального фонда. В том числе там есть положение о снятии налога на добавленную стоимость из средств, которые идут на закупку лекарственных препаратов", - сказал А. Анищенко. </p>
+<p> Он добавил, что этот законопроект в ближайшее время будет внесен в Верховную Раду. </p>
+<p> По словам А. Анищенко, освобождение от НДС средств Глобального фонда, которые предоставляются как гуманитарная помощь, даст возможность на 20% увеличить объем закупки услуг и лекарственных препаратов для больных ВИЧ/СПИДом и туберкулезом. </p>
+<p> При использовании этого материала ссылаться на страницу источника </p>
+<p> Код ссылки: </p>
+<p> 12:34 </p>
+<p> 17.01.2012 </p>
+<p> Распечатать </p>
+<p> ]]> </p>
+<p> Скачать </p>
+<p> ]]> </p>
+<p> Авторизация </p>
+<p> Логин: </p>
+<p> Пароль: </p>
+<p> Регистрация </p>
+<p> !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs"); </p>
+<p> (function(d, s, id) {     var js, fjs = d.getElementsByTagName(s)[0];     if (d.getElementById(id)) return;     js = d.createElement(s); js.id = id;     js.src = "//connect.facebook.net/ru_RU/all.js#xfbml=1";     fjs.parentNode.insertBefore(js, fjs);   }(document, 'script', 'facebook-jssdk')); </p>
+<p> Новости </p>
+<p> 10:11 </p>
+<p> На Буковине провалился мост </p>
+<p> 10:06 </p>
+<p> Правительство определило дежурных министров на майские праздники </p>
+<p> 10:06 </p>
+<p> Молдавские депутаты выписали себе к Пасхе по 100 евро </p>
+<p> 09:59 </p>
+<p> На Днепропетровщине горела шахта </p>
+<p> 09:45 </p>
+<p> Чечетов: Хорошо, что Луценко приводит в себя лидеров оппозиции </p>
+<p> 09:41 </p>
+<p> Украинка Юлия Паратова стала чемпионкой Европы по тяжелой атлетике в Тиране </p>
+<p> 09:30 </p>
+<p> В США 4-летний мальчик застрелил своего 6-летнего соседа </p>
+<p> 09:26 </p>
+<p> Украину сегодня будет штормить </p>
+<p> 09:07 </p>
+<p> Лига чемпионов УЕФА: Дортмунд и Мадрид готовятся к полуфиналам </p>
+<p> 08:53 </p>
+<p> Правительство намерено определить состав наблюдательного совета фонда содействия молодежному строительству </p>
+<p> 08:50 </p>
+<p> Луценко создает движение, дабы "подтолкнуть оппозицию" </p>
+<p> 08:47 </p>
+<p> Кабмин планирует усовершенствовать процедуру определения среднерыночной стоимости легковых автомобилей </p>
+<p> 08:44 </p>
+<p> Сенат Франции начал узаконивать однополые браки </p>
+<p> 08:22 </p>
+<p> Техасская резня: жертвами 20-летнего студента колледжа стали 14 человек </p>
+<p> 08:22 </p>
+<p> Сегодня будет заседание правительства </p>
+<p> 08:11 </p>
+<p> Сегодня в Киеве облачно </p>
+<p> 07:55 </p>
+<p> Япония переживает эпидемию краснухи </p>
+<p> 07:52 </p>
+<p> В корпорации EADS начался процесс смены собственников </p>
+<p> 07:47 </p>
+<p> Сегодня КНДР может начать запуски своих ракет </p>
+<p> 07:40 </p>
+<p> Азиатский банк: экономика региона вырастет в текущем году на 6,6 процента </p>
+<p> 07:27 </p>
+<p> Назван самый популярный персонаж "Звездных войн" </p>
+<p> 06:55 </p>
+<p> Ведущей 66-го Каннского фестиваля будет Одри Тоту </p>
+<p> 06:27 </p>
+<p> ООН готова помочь Ирану в ликвидации последствий землетрясения </p>
+<p> 06:00 </p>
+<p> Великобритания опасается гражданской войны в Афганистане </p>
+<p> 05:44 </p>
+<p> Коллекционное оружие на миллиард рублей могло пропасть в музее Златоуста </p>
+<p> 05:33 </p>
+<p> С начала года южнокорейская вона подешевела на 6 процентов </p>
+<p> 04:32 </p>
+<p> Пищевая добавка с L-Карнитином может вызывать болезни сердца </p>
+<p> 03:32 </p>
+<p> Музей скульптора Эрнста Неизвестного открывается на его родине в Екатеринбурге </p>
+<p> 02:31 </p>
+<p> Люк Эванс сыграет Дракулу в фильме кинокомпании Universal </p>
+<p> 02:01 </p>
+<p> Ребенка в США отстранили от занятий в детсаду за прическу ирокез </p>
+<p> 01:35 </p>
+<p> Фитнесс-клуб для младенцев открылся в Абу-Даби </p>
+<p> 01:00 </p>
+<p> Жительница Великобритании получила послание на коте </p>
+<p> 00:28 </p>
+<p> Создано электронное зеркало заднего вида с регистратором </p>
+<p> 00:00 </p>
+<p> Киевлянина, устроившего стрельбу в банке и захватившего заложницу, посадили на 7,5 лет </p>
+<p> 23:36 </p>
+<p> На Николаевщине отец изнасиловал 5-летнюю дочку </p>
+<p> 23:06 </p>
+<p> Винницкий памятник боксеру - единственный в Украине </p>
+<p> 22:39 </p>
+<p> Вукчевич разорвал контракт с "Карпатами" </p>
+<p> 21:37 </p>
+<p> Более 15 тысяч придунайских хозяйств Румынии могут пострадать от наводнения </p>
+<p> 21:15 </p>
+<p> Гипотезу постепенного исчезновения атмосферы Марса подтвердил "Кьюриосити" </p>
+<p> 21:05 </p>
+<p> Погибшая на Львовщине молодежь не пьянствовала и не имела вредных привычек, утверждают односельчане </p>
+<p> 20:56 </p>
+<p> Украина заинтересована в сотрудничестве с Норвегией в различных сферах - Азаров </p>
+<p> 20:34 </p>
+<p> Новая утечка радиоактивной воды обнаружена на японской АЭС "Фукусима" </p>
+<p> 20:23 </p>
+<p> Цитата дня </p>
+<p> 19:53 </p>
+<p> Туск не исключает наказаний за подписание меморандума с "Газпромом" без его ведома </p>
+<p> 19:48 </p>
+<p> Задержанное в Египте судно с украинцами освободили из-под ареста </p>
+<p> 19:43 </p>
+<p> Лавринович говорит, что граждане также отвечают за неработающую Раду </p>
+<p> 19:39 </p>
+<p> Житель Донетчины тянул из России 130 килограммов сала </p>
+<p> 19:20 </p>
+<p> Число жертв землетрясения в Иране достигло 30 человек </p>
+<p> 18:49 </p>
+<p> В ПР объяснили, почему сейчас нельзя помиловать Тимошенко </p>
+<p> 18:43 </p>
+<p> Жертвами землетрясения в Иране стали уже 20 человек </p>
+<p> Все новости </p>
+<p> var last_news = [{"title":"На Буковине провалился мост","link":"rus/news/na_bukovine_provalilsya_most_1509309","date":"10:11","title_color_link":""},{"title":"Правительство определило дежурных министров на майские праздники","link":"rus/news/pravitelstvo_opredelilo_degurnih_ministrov_na_mayskie_prazdniki_1509306","date":"10:06","title_color_link":"#000000"},{"title":"Молдавские депутаты выписали себе к Пасхе по 100 евро","link":"rus/news/moldavskie_deputati_vipisali_sebe_k_pashe_po_100_evro_1509307","date":"10:06","title_color_link":""},{"title":"На Днепропетровщине горела шахта","link":"rus/news/na_dnepropetrovshchine_gorela_shahta_1509302","date":"09:59","title_color_link":""},{"title":"Чечетов: Хорошо, что Луценко приводит в себя лидеров оппозиции","link":"rus/news/chechetov_horosho_chto_lutsenko_privodit_v_sebya_liderov_oppozitsii_1509297","date":"09:45","title_color_link":""},{"title":"Украинка Юлия Паратова стала чемпионкой Европы по тяжелой атлетике в Тиране","link":"rus/news/ukrainka_yuliya_paratova_stala_chempionkoy_evropi_po_tyageloy_atletike_v_tirane_1509295","date":"09:41","title_color_link":""},{"title":"В США 4-летний мальчик застрелил своего 6-летнего соседа","link":"rus/news/v_ssha_4_letniy_malchik_zastrelil_svoego_6_letnego_soseda_1509292","date":"09:30","title_color_link":""},{"title":"Украину сегодня будет штормить","link":"rus/news/ukrainu_segodnya_budet_shtormit_1509291","date":"09:26","title_color_link":"#000000"},{"title":"Лига чемпионов УЕФА: Дортмунд и Мадрид готовятся к полуфиналам","link":"rus/news/liga_chempionov_uefa_dortmund_i_madrid_gotovyatsya_k_polufinalam_1509290","date":"09:07","title_color_link":"#000000"},{"title":"Правительство намерено определить состав наблюдательного совета фонда содействия молодежному строительству","link":"rus/news/pravitelstvo_namereno_opredelit_sostav_nablyudatelnogo_soveta_fonda_sodeystviya_molodegnomu_stroitelstvu_1509288","date":"08:53","title_color_link":""},{"title":"Луценко создает движение, дабы &quot;подтолкнуть оппозицию&quot;","link":"rus/news/lutsenko_sozdaet_dvigenie_dabi_podtolknut_oppozitsiyu_1509287","date":"08:50","title_color_link":""},{"title":"Кабмин планирует усовершенствовать процедуру определения среднерыночной стоимости легковых автомобилей","link":"rus/news/kabmin_planiruet_usovershenstvovat_protseduru_opredeleniya_srednerinochnoy_stoimosti_legkovih_avtomobiley_1509286","date":"08:47","title_color_link":""},{"title":"Сенат Франции начал узаконивать однополые браки","link":"rus/news/senat_frantsii_nachal_uzakonivat_odnopolie_braki_1509285","date":"08:44","title_color_link":""},{"title":"Техасская резня: жертвами 20-летнего студента колледжа стали 14 человек","link":"rus/news/tehasskaya_reznya_gertvami_20_letnego_studenta_kolledga_stali_14_chelovek_1509283","date":"08:22","title_color_link":""},{"title":"Сегодня будет заседание правительства","link":"rus/news/segodnya_budet_zasedanie_pravitelstva_1509284","date":"08:22","title_color_link":"#000000"},{"title":"Сегодня в Киеве облачно","link":"rus/news/segodnya_v_kieve_oblachno_1509282","date":"08:11","title_color_link":""},{"title":"Япония переживает эпидемию краснухи","link":"rus/news/yaponiya_peregivaet_epidemiyu_krasnuhi_1509281","date":"07:55","title_color_link":""},{"title":"В корпорации EADS начался процесс смены собственников","link":"rus/news/v_korporatsii_eads_nachalsya_protsess_smeni_sobstvennikov_1509280","date":"07:52","title_color_link":""},{"title":"Сегодня КНДР может начать запуски своих ракет","link":"rus/news/segodnya_kndr_moget_nachat_zapuski_svoih_raket_1509279","date":"07:47","title_color_link":"#000000"},{"title":"Азиатский банк: экономика региона вырастет в текущем году на 6,6 процента","link":"rus/news/aziatskiy_bank_ekonomika_regiona_virastet_v_tekushchem_godu_na_66_protsenta_1509278","date":"07:40","title_color_link":""},{"title":"Назван самый популярный персонаж &quot;Звездных войн&quot;","link":"rus/news/nazvan_samiy_populyarniy_personag_zvezdnih_voyn_1509277","date":"07:27","title_color_link":""},{"title":"Ведущей 66-го Каннского фестиваля будет Одри Тоту","link":"rus/news/vedushchey_66_go_kannskogo_festivalya_budet_odri_totu_1509276","date":"06:55","title_color_link":""},{"title":"ООН готова помочь Ирану в ликвидации последствий землетрясения","link":"rus/news/oon_gotova_pomoch_iranu_v_likvidatsii_posledstviy_zemletryaseniya_1509275","date":"06:27","title_color_link":""},{"title":"Великобритания опасается гражданской войны в Афганистане","link":"rus/news/velikobritaniya_opasaetsya_gragdanskoy_voyni_v_afganistane_1509274","date":"06:00","title_color_link":""},{"title":"Коллекционное оружие на миллиард рублей могло пропасть в музее Златоуста","link":"rus/news/kollektsionnoe_orugie_na_milliard_rubley_moglo_propast_v_muzee_zlatousta_1509273","date":"05:44","title_color_link":""},{"title":"С начала года южнокорейская вона подешевела на 6 процентов","link":"rus/news/s_nachala_goda_yugnokoreyskaya_vona_podeshevela_na_6_protsentov_1509272","date":"05:33","title_color_link":""},{"title":"Пищевая добавка с L-Карнитином может вызывать болезни сердца","link":"rus/news/pishchevaya_dobavka_s_l_karnitinom_moget_vizivat_bolezni_serdtsa_1509271","date":"04:32","title_color_link":""},{"title":"Музей скульптора Эрнста Неизвестного открывается на его родине в Екатеринбурге","link":"rus/news/muzey_skulptora_ernsta_neizvestnogo_otkrivaetsya_na_ego_rodine_v_ekaterinburge_1509270","date":"03:32","title_color_link":""},{"title":"Люк Эванс сыграет Дракулу в фильме кинокомпании Universal","link":"rus/news/lyuk_evans_sigraet_drakulu_v_filme_kinokompanii_universal_1509269","date":"02:31","title_color_link":""},{"title":"Ребенка в США отстранили от занятий в детсаду за прическу ирокез","link":"rus/news/rebenka_v_ssha_otstranili_ot_zanyatiy_v_detsadu_za_prichesku_irokez_1509268","date":"02:01","title_color_link":""},{"title":"Фитнесс-клуб для младенцев открылся в Абу-Даби","link":"rus/news/fitness_klub_dlya_mladentsev_otkrilsya_v_abu_dabi_1509267","date":"01:35","title_color_link":""},{"title":"Жительница Великобритании получила послание на коте","link":"rus/news/gitelnitsa_velikobritanii_poluchila_poslanie_na_kote_1509266","date":"01:00","title_color_link":""},{"title":"Создано электронное зеркало заднего вида с регистратором","link":"rus/news/sozdano_elektronnoe_zerkalo_zadnego_vida_s_registratorom_1509265","date":"00:28","title_color_link":""},{"title":"Киевлянина, устроившего стрельбу в банке и захватившего заложницу, посадили на 7,5 лет","link":"rus/news/kievlyanina_ustroivshego_strelbu_v_banke_i_zahvativshego_zalognitsu_posadili_na_75_let_1509264","date":"00:00","title_color_link":""},{"title":"На Николаевщине отец изнасиловал 5-летнюю дочку","link":"rus/news/na_nikolaevshchine_otets_iznasiloval_5_letnyuyu_dochku_1509263","date":"23:36","title_color_link":""},{"title":"Винницкий памятник боксеру - единственный в Украине","link":"rus/news/vinnitskiy_pamyatnik_bokseru___edinstvenniy_v_ukraine_1509262","date":"23:06","title_color_link":""},{"title":"Вукчевич разорвал контракт с &quot;Карпатами&quot;","link":"rus/news/vukchevich_razorval_kontrakt_s_karpatami_1509261","date":"22:39","title_color_link":""},{"title":"Более 15 тысяч придунайских хозяйств Румынии могут пострадать от наводнения","link":"rus/news/bolee_15_tisyach_pridunayskih_hozyaystv_ruminii_mogut_postradat_ot_navodneniya_1509260","date":"21:37","title_color_link":""},{"title":"Гипотезу постепенного исчезновения атмосферы Марса подтвердил &quot;Кьюриосити&quot;","link":"rus/news/gipotezu_postepennogo_ischeznoveniya_atmosferi_marsa_podtverdil_kyuriositi_1509259","date":"21:15","title_color_link":""},{"title":"Погибшая на Львовщине молодежь не пьянствовала и не имела вредных привычек, утверждают односельчане","link":"rus/news/pogibshaya_na_lvovshchine_molodeg_ne_pyanstvovala_i_ne_imela_vrednih_privichek_utvergdayut_odnoselchane_1509258","date":"21:05","title_color_link":""},{"title":"Украина заинтересована в сотрудничестве с Норвегией в различных сферах - Азаров","link":"rus/news/ukraina_zainteresovana_v_sotrudnichestve_s_norvegiey_v_razlichnih_sferah___azarov_1509257","date":"20:56","title_color_link":""},{"title":"Новая утечка радиоактивной воды обнаружена на японской АЭС &quot;Фукусима&quot;","link":"rus/news/novaya_utechka_radioaktivnoy_vodi_obnarugena_na_yaponskoy_aes_fukusima_1509256","date":"20:34","title_color_link":""},{"title":"Цитата дня","link":"rus/news/tsitata_dnya_1509255","date":"20:23","title_color_link":"#FF0000"},{"title":"Туск не исключает наказаний за подписание меморандума с &quot;Газпромом&quot; без его ведома","link":"rus/news/tusk_ne_isklyuchaet_nakazaniy_za_podpisanie_memoranduma_s_gazpromom_bez_ego_vedoma_1509254","date":"19:53","title_color_link":""},{"title":"Задержанное в Египте судно с украинцами освободили из-под ареста","link":"rus/news/zadergannoe_v_egipte_sudno_s_ukraintsami_osvobodili_iz_pod_aresta_1509253","date":"19:48","title_color_link":""},{"title":"Лавринович говорит, что граждане также отвечают за неработающую Раду","link":"rus/news/lavrinovich_govorit_chto_gragdane_takge_otvechayut_za_nerabotayushchuyu_radu_1509252","date":"19:43","title_color_link":"#000000"},{"title":"Житель Донетчины тянул из России 130 килограммов сала","link":"rus/news/gitel_donetchini_tyanul_iz_rossii_130_kilogrammov_sala_1509251","date":"19:39","title_color_link":""},{"title":"Число жертв землетрясения в Иране достигло 30 человек","link":"rus/news/chislo_gertv_zemletryaseniya_v_irane_dostiglo_30_chelovek_1509250","date":"19:20","title_color_link":""},{"title":"В ПР объяснили, почему сейчас нельзя помиловать Тимошенко","link":"rus/news/v_pr_obyasnili_pochemu_seychas_nelzya_pomilovat_timoshenko_1509248","date":"18:49","title_color_link":""},{"title":"Жертвами землетрясения в Иране стали уже 20 человек","link":"rus/news/gertvami_zemletryaseniya_v_irane_stali_uge_20_chelovek_1509246","date":"18:43","title_color_link":""}];       $(document).ready(function(){ 			setTimeout(function(){init_height_fix()},500); 			//init_height_fix();       }); </p>
+<p> Новости от партнеров: </p>
+<p> Загрузка... </p>
+<p> Loading... </p>
+<p> Тематические направления </p>
+<p> Фотоподборки </p>
+<p> Украина - ЕС </p>
+<p> Вехи </p>
+<p> Мир сквозь объектив </p>
+<p> Избранное </p>
+<p> Этот день  в истории </p>
+<p> Пресс-релизы </p>
+<p> Ретроспектива </p>
+<p> Калейдоскоп </p>
+<p> Цитата дня </p>
+<p> Фотоплюс </p>
+<p> Акценты </p>
+<p> Спорткурьер </p>
+<p> Календарь памятных дат </p>
+<p> Досье </p>
+<p> Инфографика </p>
+<p> Наглядно </p>
+<p> ФОТОплюс </p>
+<p> Жанр </p>
+<p> Спорт </p>
+<p> Мир </p>
+<p> Неделя </p>
+<p> Ракурс </p>
+<p> Рубрики  h4>  td>  tr> </p>
+<p> Политика  a>  td>  tr> </p>
+<p> Экономика  a>  td>  tr> </p>
+<p> Общество  a>  td>  tr> </p>
+<p> Технологии  a>  td>  tr> </p>
+<p> Культура  a>  td>  tr> </p>
+<p> Здоровье  a>  td>  tr> </p>
+<p> Спорт  a>  td>  tr> </p>
+<p> Регионы  a>  td>  tr> </p>
+<p> Международная жизнь  a>  td>  tr> </p>
+<p> Происшествия  a>  td>  tr> </p>
+<p> Фоторепортаж  a>  td>  tr> </p>
+<p> Видео  a>  td>  tr> </p>
+<p> Инфографика  a>  td>  tr> </p>
+<p> Темы  h4>  td>  tr> </p>
+<p> Реформы. Социнициативы Президента a>  td>  tr> </p>
+<p> Верховная Рада VII созыва a>  td>  tr> </p>
+<p> Украина – ОБСЕ 2013 a>  td>  tr> </p>
+<p> Капризы погоды a>  td>  tr> </p>
+<p> Украина в еврокубках a>  td>  tr> </p>
+<p> Газ: украинская перспектива  a>  td>  tr> </p>
+<p> Пенсионная реформа  a>  td>  tr> </p>
+<p> Реформы в Украине  a>  td>  tr> </p>
+<p> Дело Тимошенко  a>  td>  tr> </p>
+<p> Украина - ЕС  a>  td>  tr> </p>
+<p> Разделы  h4>  td>  tr> </p>
+<p> Акценты  a>  td>  tr> </p>
+<p> Цитата дня  a>  td>  tr> </p>
+<p> Пресс-релизы  a>  td>  tr> </p>
+<p> Досье: персоналии  a>  td>  tr> </p>
+<p> Досье: Украина официальная  a>  td>  tr> </p>
+<p> Вехи  a>  td>  tr> </p>
+<p> Ретроспектива </p>
+<p> Фотоподборки  a>  td>  tr> </p>
+<p> Ресурсы  h4>  td>  tr> </p>
+<p> Время, события, люди  a>  td>  tr> </p>
+<p> Фотоплюс  a>  td>  tr> </p>
+<p> ФотоДЕКОР  a>  td>  tr> </p>
+<p> Мир сквозь объектив  a>  td>  tr> </p>
+<p> Web-архив  a>  td>  tr> </p>
+<p> Партнеры  a>  td>  tr> </p>
+<p> Сайты  h4>  td>  tr> </p>
+<p> Укринформ-фото  a>  td>  tr> </p>
+<p> Блоги  a>  td>  tr> </p>
+<p> Деловая Украина  a>  td>  tr> </p>
+<p> Страны мира  a>  td>  tr> </p>
+<p> Пресс-центр  a>  td>  tr> </p>
+<p> Новости ПАНИА a>  td>  tr> </p>
+<p> Новости-архив  a>  td>  tr> </p>
+<p> Агентство  h4> </p>
+<p> tr> </p>
+<p> Об Укринформе  a>  td>  tr> </p>
+<p> Авторы  a>  td>  tr> </p>
+<p> Перечень изданий  a>  td>  tr> </p>
+<p> Услуги  a>  td>  tr> </p>
+<p> Условия подписки  a>  td>  tr> </p>
+<p> Контакты a>  td>  tr> </p>
+<p> <!--                   function BM_Draw(oBM_STAT){                     document.write('<center><table cellpadding="0" cellspacing="0" border="0" style="width:1%"><tr><td><div style="margin:0px;padding:0px;font-size:1px;width:88px;"><div style="background:url(\'http://i.bigmir.net/cnt/samples/diagonal/b60_top.gif\') no-repeat bottom;"> </div><div style="font:10px Tahoma;background:url(\'http://i.bigmir.net/cnt/samples/diagonal/b60_center.gif\');"><div style="text-align:center;"><a href="http://www.bigmir.net/" target="_blank" style="color:#0000ab;text-decoration:none;font:10px Tahoma;">bigmir<span style="color:#ff0000;">)</span>net</a></div><div style="margin-top:3px;padding: 0px 6px 0px 6px;color:#426ed2;"><div style="float:left;font:10px Tahoma;">'+oBM_STAT.hosts+'</div><div style="float:right;font:10px Tahoma;">'+oBM_STAT.hits+'</div></div><br clear="all"/></div><div style="background:url(\'http://i.bigmir.net/cnt/samples/diagonal/b60_bottom.gif\') no-repeat top;"> </div></div></td></tr></table></center>');                   }                   //--> </p>
+<p> <!--                   bmN=navigator,bmD=document,bmD.cookie='b=b',i=0,bs=[],bm={o:1,v:16795256,s:16795256,t:0,c:bmD.cookie?1:0,n:Math.round((Math.random()* 1000000)),w:0};                   for(var f=self;f!=f.parent;f=f.parent)bm.w++;                   try{if(bmN.plugins&&bmN.mimeTypes.length&&(x=bmN.plugins['Shockwave Flash']))bm.m=parseInt(x.description.replace(/([a-zA-Z]|\s)+/,''));                   else for(var f=3;f<20;f++)if(eval('new ActiveXObject("ShockwaveFlash.ShockwaveFlash.'+f+'")'))bm.m=f}catch(e){;}                   try{bm.y=bmN.javaEnabled()?1:0}catch(e){;}                   try{bmS=screen;bm.v^=bm.d=bmS.colorDepth||bmS.pixelDepth;bm.v^=bm.r=bmS.width}catch(e){;}                   r=bmD.referrer.slice(7);if(r&&r.split('/')[0]!=window.location.host){bm.f=escape(r);bm.v^=r.length}                   bm.v^=window.location.href.length;for(var x in bm) if(/^[ovstcnwmydrf]$/.test(x)) bs[i++]=x+bm[x];                   bmD.write('<sc'+'ript type="text/javascript" language="javascript" src="http://c.bigmir.net/?'+bs.join('&')+'"></sc'+'ript>');                   //--> </p>
+<p> <!--                     document.write("<a href='http://www.liveinternet.ru/click' "+"target=_blank><img src='http://counter.yadro.ru/hit?t53.6;r"+ escape(document.referrer)+((typeof(screen)=="undefined")?"":              ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth? screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+ ";h"+escape(document.title.substring(0,80))+";"+Math.random()+ "' alt='' title='LiveInternet: ........ .... .......... ."+  " ........... .. 24 ...' "+ "border=0 width=88 height=31><\/a>")                   //--> </p>
+<p> © 2013 Ukrinform, Все права защищены. </p>
+<p> В случае использования  материалов гиперссылки  обязательны. </p>
+<p> info@ukrinform.com </p>
+<p> Логин: </p>
+<p> Пароль: </p>
+<p> Забыли пароль </p>
+<p> Регистрация </p>
+<p> $(document).ready(function(){           }); </p>
+<p> (function(w, c) {         (w[c] = w[c] || []).push(function() {             try {                 w.yaCounter12812155 = new Ya.Metrika({id:12812155, enableAll: true, webvisor:true});             }             catch(e) { }         });     })(window, "yandex_metrika_callbacks"); </p>
+<p> var MarketGidDate = new Date();     document.write('<scr'+'ipt type="text/javascript" '     +'src="http://jsn.dt00.net/u/k/ukrinform.ua.11052.js?t='+MarketGidDate.getYear()+MarketGidDate.getMonth()+MarketGidDate.getDay()+MarketGidDate.getHours()     + '" charset="utf-8" ></scr'+'ipt>'); </p>
+<p> document.write('<scr'+'ipt src=\"http://www.ukr.net/track.js?v='+document.referrer+'\"></scr'+'ipt>'); </p>

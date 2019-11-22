@@ -1,0 +1,87 @@
+<p> VOCM.COM|Flu Vaccine Still Available  | Article </p>
+<p> $(function($) {        var optionsnl = {         timeNotation: '12h',         am_pm: true,         fontFamily: 'Verdana, Arial, Helvetica, sans-serif',         fontSize: '14px',         foreground: 'white',      	utc: true,         utcOffset: -3.5, 	format: '%I:%M:%S %p' // 12-hour        }       $('#nltime').jclock(optionsnl); 	  $('.slideshow').cycle({ 		fx: 'fade' // choose your transition type, ex: fade, scrollUp, shuffle, etc... 	}); 	   	  	  $('.slideshow2').cycle({ 		fx: 'fade' // choose your transition type, ex: fade, scrollUp, shuffle, etc... 	}); 	 		$('#photos').galleryView({ 			panel_width: 250, 			panel_height: 208, 			frame_width: 60, 			frame_height: 50, 			nav_theme: 'images' 		}); 		        }); 	 	$('#weatherday').click(function() {   			alert("clicked"); 		}); </p>
+<p> <!--  function onw(URLtoOpen, windowName, windowFeatures) { newWindow=window.open(URLtoOpen, windowName, windowFeatures); } --> </p>
+<p> <!-- Use one function for multiple text areas on a page --> <!-- Limit the number of characters per textarea --> <!-- Begin function textCounter(field,cntfield,maxlimit) { if (field.value.length > maxlimit) // if too long...trim it! field.value = field.value.substring(0, maxlimit); // otherwise, update 'characters left' counter else cntfield.value = maxlimit - field.value.length; } //  End --> </p>
+<p> Tuesday </p>
+<p> -0.3 °C </p>
+<p> NL Time: </p>
+<p> Tweet </p>
+<p> Home </p>
+<p> | </p>
+<p> All Stories </p>
+<p> | </p>
+<p> Financial </p>
+<p> | </p>
+<p> Sports </p>
+<p> | </p>
+<p> Question of The Day </p>
+<p> | </p>
+<p> Photos </p>
+<p> | </p>
+<p> Videos </p>
+<p> | </p>
+<p> Bios </p>
+<p> | </p>
+<p> Shows </p>
+<p> | </p>
+<p> Contests </p>
+<p> | </p>
+<p> Blogs </p>
+<p> | </p>
+<p> Links </p>
+<p> | </p>
+<p> Careers </p>
+<p> | </p>
+<p> Contact Us </p>
+<p> Flu Vaccine Still Available </p>
+<p> Tuesday , January 17 2012 </p>
+<p> The Department of Health and Community Services is reminding residents that seasonal flu vaccinations are still available throughout the province. The free shots can be obtained through your family doctor or public health office. High-risk adults and children with chronic disease, persons in care and older than 60, aboriginal persons, health care workers, pregnant women, and poultry and swine industry workers are at increased risk for influenza. </p>
+<p> Chief Medical Officer, Dr. Faith Stratton, reminds all residents to clean, cover and contain when coughing or sneezing, in order to minimize infectious transmission. </p>
+<p> Early Morning Accident </p>
+<p> Man Facing Weapons Charge </p>
+<p> Dangerous Driver </p>
+<p> Drugs Seized </p>
+<p> Close Call! </p>
+<p> Corner Brook Facing Firefighters' Strike </p>
+<p> Flu Vaccine Still Available </p>
+<p> MHA Seeks Help for Students </p>
+<p> Woman Charged with Drug Trafficking </p>
+<p> Protest Line Can Stay </p>
+<p> VOCM </p>
+<p> weather </p>
+<p> var so = new SWFObject("Flash/vocmweather.swf", "top", "180", "110", "8", "#FFFFFF"); 			 so.addParam("wmode", "transparent");   			 so.write("flashcontent10011"); </p>
+<p> Home </p>
+<p> | </p>
+<p> All Stories </p>
+<p> | </p>
+<p> Financial </p>
+<p> | </p>
+<p> Sports </p>
+<p> | </p>
+<p> Question of The Day </p>
+<p> | </p>
+<p> Photos </p>
+<p> | </p>
+<p> Videos </p>
+<p> | </p>
+<p> Bios </p>
+<p> | </p>
+<p> Shows </p>
+<p> | </p>
+<p> Contests </p>
+<p> | </p>
+<p> Blogs </p>
+<p> | </p>
+<p> Links </p>
+<p> | </p>
+<p> Careers </p>
+<p> | </p>
+<p> Contact Us </p>
+<p> | </p>
+<p> VOCM Concerts </p>
+<p> | </p>
+<p> Contest Rules </p>
+<p> | </p>
+<p> Privacy Policy </p>
+<p> var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); </p>
+<p> var pageTracker = _gat._getTracker("UA-5437878-14"); pageTracker._trackPageview(); </p>

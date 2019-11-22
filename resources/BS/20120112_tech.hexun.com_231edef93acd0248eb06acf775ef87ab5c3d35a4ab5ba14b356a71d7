@@ -1,0 +1,208 @@
+<p> 苹果或与ITC合作以应对柯达专利诉讼战-科技频道-和讯网 </p>
+<p> #head2010 .navetc{height:27px; overflow:hidden; font-family:"宋体";} #head2010 .navL a{ padding:0px 2px;} #head2010 .navetc .navL{ width:840px; float:left; padding:3px 0 0 0; height: 52px; border-right:#bebebe 1px solid;}  #head2010 .navetc .navR{ width:111px; float:right; padding:3px 3px 3px 0; overflow: hidden;} #hexunMember_isloginedSetup_span_display_username{ width: 49px; height: 20px; overflow: hidden; text-align: right; padding:0 0 0 8px; margin-right: 5px;} #hexunMember_nologinSetup_div_display_nologin{ height: 20px; padding: 1px 0 0 0; line-height: 20px; text-align: center; background: #e8e8e8; overflow:hidden; margin-bottom:3px;} #hexunMember_isloginedSetup_div_display{ height: 20px; padding: 1px 0 0 0; line-height: 20px; text-align: center; background: #e8e8e8 } #hexunCalendar a,#hexunCalendar a:hover{ color:#C7E1FC;} </p>
+<p> 首页 </p>
+<p> - </p>
+<p> 新闻 </p>
+<p> - </p>
+<p> 股票 </p>
+<p> - </p>
+<p> 基金 </p>
+<p> - </p>
+<p> 期货 </p>
+<p> - </p>
+<p> 期指 </p>
+<p> - </p>
+<p> 黄金 </p>
+<p> - </p>
+<p> 外汇 </p>
+<p> - </p>
+<p> 债券 </p>
+<p> - </p>
+<p> 理财 </p>
+<p> - </p>
+<p> 银行 </p>
+<p> - </p>
+<p> 保险 </p>
+<p> - </p>
+<p> 信托 </p>
+<p> - </p>
+<p> 房产 </p>
+<p> - </p>
+<p> 汽车 </p>
+<p> - </p>
+<p> 科技 </p>
+<p> - </p>
+<p> 股吧 </p>
+<p> - </p>
+<p> 论坛 </p>
+<p> - </p>
+<p> 博客 </p>
+<p> - </p>
+<p> 微博 </p>
+<p> - </p>
+<p> 视频 </p>
+<p> - </p>
+<p> 理财服务 </p>
+<p> - </p>
+<p> Ａ股超市 </p>
+<p> var href=window.location.href;    hexunMember_loginSetup_signOutURL=href;//登出地址 hexunMember_loginSetup_noLoginDisplayMsg=""; //没登陆的提示 hexunMember_loginSetup_noLoginDisplayFlag="|";//登录和注册中间的分隔符号 或 用户名与登出中间的分隔符号，不需要分隔符可以为空 hexunMember_loginSetup_islogined_isDisplay=true;//如果是登陆状态，true=显示用户名和登出按钮等信息,flase=不显示任何信息 hexunMember_loginSetup_referrer=document.referrer;//请不要修改此项 hexunMember_loginSetup_MastLogin=0;//如果需要不登陆就一直弹窗，在此设置一下弹窗时间间隔(秒)。如果等于0本项无效 </p>
+<p> 设和讯为首页 </p>
+<p> 手机版 </p>
+<p> 手机版 </p>
+<p> (function(){ var obj = document.getElementById('phoneNewsText'); var url = window.location.href; if(url.indexOf('news.hexun.com')!=-1) {    obj.style.margin = '17px 0 0 20px';    obj.innerHTML = '免费手机资讯客户端下载';    obj.href = 'http://3g.hexun.com/download_zx.jsp'; } })(); </p>
+<p> 股票/基金 </p>
+<p> 微博 </p>
+<p> 新闻 </p>
+<p> 博客 </p>
+<p> new hxSuggest('textMessage','http://data.stock.hexun.com/include/AjaxSearch2011.ashx',{contrainer:document.getElementById('standStockPanel')}); </p>
+<p> (function(){ var reg = /^[http:\/\/\w|/w]+\.hexun\.com(\/|(\?[^\/]+)|\/index.html|\/index\-[\w]+.html)*$/; if(reg.test(window.location.href)){     var newNode = document.createElement("div");//创建div newNode.className="cabar";     var oldNode =document.getElementById("hexunCalendar");//获取div newNode.innerHTML = "<div id='hexunCalendar' class='hxcal'></div>";        oldNode.parentNode.replaceChild(newNode,oldNode);//直接替换标签 var w_div = document.createElement('div'); w_div.className = 'weather'; var w_frame = document.createElement('iframe'); w_frame.width = '100%'; w_frame.height = '22'; w_frame.frameBorder = '0'; w_frame.scrolling = 'no'; w_frame.allowTransparency = 'true'; w_frame.style.display = 'none'; w_frame.src = "http://m.weather.com.cn/m/hexunhead/"; w_div.appendChild(w_frame); newNode.appendChild(w_div);  if(w_frame.readyState)     w_frame.onreadystatechange = function() {       if(w_frame.readyState == 'loaded' || w_frame.readyState == 'complete') {     w_frame.style.display = ''; }    }; else  w_frame.onload = function() {     w_frame.style.display = '';     }; } })(); </p>
+<p> 原创 </p>
+<p> 高端访谈 </p>
+<p> 业界要闻 </p>
+<p> 互联网要闻 </p>
+<p> 电信要闻 </p>
+<p> 家电要闻 </p>
+<p> 商业计算 </p>
+<p> 精彩专题 </p>
+<p> 滚动 </p>
+<p> 数字生活 </p>
+<p> 整机 </p>
+<p> 手机 </p>
+<p> 家电 </p>
+<p> 图库 </p>
+<p> 和讯网 </p>
+<p> > </p>
+<p> 科技 </p>
+<p> > </p>
+<p> 正文 </p>
+<p> 打印 </p>
+<p> RSS </p>
+<p> 苹果或与ITC合作以应对柯达专利诉讼战 </p>
+<p> 字号 </p>
+<p> showComment_03(137208669,48) </p>
+<p> 2012年01月12日10:46 </p>
+<p> 来源： </p>
+<p> eNet硅谷动力 </p>
+<p> 【eNet硅谷动力资讯中心消息】1月12日消息，据美国 </p>
+<p> 科技 </p>
+<p> 博客网站PatentlyApple报道，有 </p>
+<p> 业界 </p>
+<p> 分析人士认为，苹果或许会选择与美国国际贸易委员会（简称“ITC”，下同）进行合作，以应对柯达提出的新专利诉讼。 </p>
+<p> 早有过节 </p>
+<p> 早在2010年2月，柯达就曾与苹果公司对簿公堂，该公司指控苹果侵犯了该公司多项专利，涉及 </p>
+<p> 数码 </p>
+<p> 相机及某些与计算机处理方面的技术。同年4月，苹果提起反诉，称柯达侵犯了该公司两项专利却最终落败:ITC于2011年7月作出裁定，认为柯达并未侵犯苹果专利。 </p>
+<p> 狼烟续起 </p>
+<p> 1月11日，面临被纽约交易所摘牌柯达公司再披战袍，将苹果公司起诉至纽约州联邦法院，指控苹果iPhone和iPad侵犯了柯达公司与数码相机图像相关的4项专利。柯达的诉讼请求包括永久禁止苹果继续侵权，并提出进行经济索赔。 </p>
+<p> 对此，创新工场董事长兼首席执行官 </p>
+<p> 李开复 </p>
+<p> 表示，“对柯达，这是它最后的价值，临死最后一搏。对苹果，这是以其人之道，还治其人之身。” </p>
+<p> (function(){ var obj = null; if(document.getElementById('arctTailMark')) { obj = document.getElementById('arctTailMark'); } if(obj!=null) { var str = ' <a href=" http://www.hexun.com/?from=hxlogo" target="_blank" title="点击进入和讯首页"><img src=" http://img.hexun.com/home/hx.gif" style="margin:0;"/></a>'; try { 	var oo = obj.previousSibling; while(oo.nodeType!=1 || oo.innerHTML.replace(/\s|\u3000/g,'').length==0) {    oo = oo.previousSibling; } if(oo.nodeType==1 && oo.tagName.toLowerCase()=='p') {   var span = document.createElement('span');   span.innerHTML =str;   oo.appendChild(span);  } } catch (e){} } })(); </p>
+<p> 相关新闻 </p>
+<p> 01/12 16:44 </p>
+<p> 柯达昨宣布重组业务结构 未来仍可能申请破产 </p>
+<p> 01/12 16:44 </p>
+<p> “百年柯达”或破产落幕 胶卷成最后的记忆 </p>
+<p> 01/12 10:26 </p>
+<p> 柯达垂死自救宣布重组节流 </p>
+<p> 01/12 10:26 </p>
+<p> 柯达之死 </p>
+<p> 01/12 10:26 </p>
+<p> 业务重组 柯达仍难逃退市阴影 </p>
+<p> 01/12 10:26 </p>
+<p> 柯达垂死自救：现金将耗尽 自己革了自己的命 </p>
+<p> 01/12 10:26 </p>
+<p> 柯达宣布重组欲最后一搏 </p>
+<p> 01/12 10:26 </p>
+<p> 苹果或与HTC合作应对柯达专利诉讼 </p>
+<p> 相关推荐 </p>
+<p> 柯达 </p>
+<p> 我有话说 </p>
+<p> 已有 </p>
+<p> 0 </p>
+<p> 位网友发言 </p>
+<p> showComment_02(137208669,48) </p>
+<p> 自动登录 </p>
+<p> 用户名： </p>
+<p> 密码： </p>
+<p> 请在这里发表您个人看法，发言时请遵守法纪注意文明。 </p>
+<p> 正在验证用户信息... </p>
+<p> var valueofnameinput="用户名/邮箱/手机"; var valueofpassinout="******"; 	function checkLeaveWord() { 	var obj = document.getElementById('contentBefore'); 	obj. disabled='disabled'; 	obj.style.background = '#F5F5F5'; 	obj.value = '请登录后再发表评论！'; 	} </p>
+<p> alfdls </p>
+<p> 您好，欢迎您发表评论！ </p>
+<p> （言论仅代表会员个人观点，不代表和讯网观点） </p>
+<p> 【eNet硅谷动力资讯中心消息】1月12日消息，据美国科技博客网站PatentlyApple报道，有业界分析人士认为，苹果或许会选择与美国国际贸易委员会（简称“ITC”，下同）进行合作，以应对柯达提出的新专利诉讼。　　早有过节　　早在2010年2月，柯达就曾与苹果公司对簿公堂，该公司指控苹果侵犯了该公司多项专利，涉及数码相机及某些与计算机处理方面的技术。同年4月，苹果提起反诉，称柯达侵犯了该公...... </p>
+<p> 请在这里发表您个人看法，发言时请遵守法纪注意文明。 </p>
+<p> 科技精品推荐 </p>
+<p> 特色： </p>
+<p> 高端访谈 </p>
+<p> 科普 </p>
+<p> 评论 </p>
+<p> 热点： </p>
+<p> Q3中概股财报汇总 </p>
+<p> 乔布斯病逝 </p>
+<p> 百度HR爆乳装一夜爆红 </p>
+<p> 电信版iPhone4S进入网审批阶段 最快2月份上市 </p>
+<p> [联通停止iPhone 4S私下预约] </p>
+<p> [在中国大卖有三个挑战] </p>
+<p> CSDN承认对安全问题重视不够 </p>
+<p> 李彦宏：百度业绩增长目标将完成 </p>
+<p> 小卖家遭殃欲逃离品聚网 </p>
+<p> 移动应用广告平台未获广告商认可 </p>
+<p> 百年柯达颓势背后的中国启示 </p>
+<p> 陶宏开称戒网瘾机构99%都骗人 </p>
+<p> 12种毒水果你吃了多少 </p>
+<p> 2011年度死亡景观佳作 </p>
+<p> 女生穿丁字裤微博求粉 </p>
+<p> 盘点史上最离奇木乃伊 </p>
+<p> 推广 </p>
+<p> 热点 </p>
+<p> 热点 </p>
+<p> 每日要闻推荐 </p>
+<p> 2012国际消费电子展进入第二日 </p>
+<p> 云计算或成圈地圈钱障眼法：各地建设热情高涨 </p>
+<p> 马化腾公开驳QQ实名：电话卖淫需运营商负责吗 </p>
+<p> 小米手机存三道难题：中国消费者手机爱好善变 </p>
+<p> CSDN董事长蒋涛反思泄密门：超八成网站存漏洞 </p>
+<p> 消息称微软计划重组营销部门 可能裁员数百人 </p>
+<p> 精彩焦点图鉴 </p>
+<p> 科学无法解释的恐怖照片 </p>
+<p> 世界上最犀利的21道早餐 </p>
+<p> 世界最神秘宗教大揭秘 </p>
+<p> 苍井空微博性感私密照 </p>
+<p> 排行榜 </p>
+<p> 1 </p>
+<p> 盘点科学无法解释的恐怖照片 </p>
+<p> 2 </p>
+<p> 百度度娘刘冬jocelin全套图片欣赏 </p>
+<p> 3 </p>
+<p> 揭秘世界最神秘宗教巫毒教：还魂尸在田间劳动 </p>
+<p> 4 </p>
+<p> 女生微博丁字裤求粉豪放程度让人咋舌 </p>
+<p> 5 </p>
+<p> 残忍至极的欧洲古代20大酷刑 </p>
+<p> 6 </p>
+<p> 2011年度爆笑�图精选 </p>
+<p> 7 </p>
+<p> 苍井空微博性感私密照大合集 </p>
+<p> 8 </p>
+<p> 探访西安精子库 捐精室内部实景曝光 </p>
+<p> 9 </p>
+<p> 曝光美军在亚洲的性暴行 </p>
+<p> 10 </p>
+<p> 惊悚鬼影 全球灵异有鬼照片集锦 </p>
+<p> 【免责声明】本文仅代表作者本人观点，与和讯网无关。和讯网站对文中陈述、观点判断保持中立，不对所包含内容的准确性、可靠性或完整性提供任何明示或暗示的保证。请读者仅作参考，并请自行承担全部责任。 </p>
+<p> 和讯恭候您的意见 </p>
+<p> - </p>
+<p> 联系我们 </p>
+<p> - </p>
+<p> 关于我们 </p>
+<p> - </p>
+<p> 广告服务 </p>
+<p> (function(){ if((/^[http:\/\/]*news\.hexun\.com(\/|\/index\.html)*$/).test(window.location.href)) document.write('<span style="padding-left:18px;">执行主编：姜洪桥</span>'); })(); </p>
+<p> 本站郑重声明：和讯公司系政府批准的证券投资咨询机构[ZX0005]。所载文章、数据仅供参考，使用前请核实，风险自负。 </p>
+<p> Copyright© 和讯网 和讯信息科技有限公司 All Rights Reserved 版权所有 复制必究 </p>
+<p> if(document.getElementById("shilu")!=null) { document.getElementById("shilu").style.width="710px"; } </p>
+<p> function coutLinkFrom(strId,mark,isId,p){   var obj = null;   if(isId) {   if(!document.getElementById(strId)) return;   obj = document.getElementById(strId);   }   else {      var parent = (typeof p!='undefined' && document.getElementById(p))?document.getElementById(p):document;      var arr = parent.getElementsByTagName('*');  var classesObj = [];  for(var i=0,l=arr.length;i<l;i++) {    if(arr[i].className && arr[i].className == strId) classesObj.push(arr[i]);  }  if(classesObj.length>=1) obj = classesObj[0];   }   if(obj==null) return;   var alist = obj.getElementsByTagName('a');   var len = alist.length;   for(var i=0;i<len;i++) {     if(alist[i].href) {    alist[i].href = (alist[i].href.indexOf('?')!=-1)?(alist[i].href+'&'+mark):(alist[i].href+'?'+mark); }   } } coutLinkFrom('jjjxmod','fromfunds=jjjx',false,'mainleft'); coutLinkFrom('yued','fromfunds=tjxd',true); </p>
+<p> (function(){   var reg = /^[http:\/\/\w|\w\.*\w|\w]+\.hexun\.com(\/|(\?[^\/]+)|\/index.html|\/index\-[\w]+.html)*$/;   if(!reg.test(window.location.href)) {     document.write('\x3Cscript type="text/javascript" src="http://img.hexun.com/base/version/hx_base.min1.1.js">\x3C/script>'+'\x3Cscript type="text/javascript" src="http://img.hexun.com/share/hxShare2011.js">\x3C/script><link href="http://img.hexun.com/share/hxShare2011.css" type="text/css" rel="stylesheet" />');     if(window.attachEvent) window.attachEvent('onload',function() {hxShare2011('');}); 	if(window.addEventListener) window.addEventListener('load',function(){hxShare2011('');},false);   } })(); </p>
+<p> (function(){ 	//全站通发广告 	var reg=/\/\d{9}(_\d+)?.(html|html\?\w*)$/;		 	if(reg.test(location.href)){ 		document.write('<script type="text/javascript" src="http://itv.hexun.com/lbi-html/ly/2011/allPages/tempAd.js"><\/script>'); 	} })() </p>

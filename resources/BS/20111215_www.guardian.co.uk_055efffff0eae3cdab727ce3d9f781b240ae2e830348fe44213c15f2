@@ -1,0 +1,435 @@
+<p> document.domain = "guardian.co.uk"; </p>
+<p> //<![CDATA[ 				OAS_url = 'http://oas.guardian.co.uk/RealMedia/ads/'; 				OAS_sitepage = "www.guardian.co.uk/society/2011/dec/14/children-obese-primary-school-nhs/oas.html"; 				OAS_listpos = 'Top,Middle2,Right1,x31';  								OAS_query = 'k=children&k=obesity&k=schools&k=health&k=society&k=uk&cf=health&pid=&ct=article&pt=article&'; 				OAS_target = '_blank';  				OAS_rn = '001234567890'; 				OAS_rns = '1234567890'; 				OAS_rn = new String (Math.random()); 				OAS_rns = OAS_rn.substring (2, 11); 			//]]> </p>
+<p> One in five children is obese by the end of primary school, NHS figures show | Society | guardian.co.uk </p>
+<p> //<![CDATA[ 	if (!commonStaticRoot) {	 		var commonStaticRoot = "http://static.guim.co.uk/static/b5c4e8d780aa8be3b8dd5e21c7bbe4b6245fb74c/common/"; 	} 	if (!sectionStaticRoot) {	 		var sectionStaticRoot = "http://static.guim.co.uk/static/b5c4e8d780aa8be3b8dd5e21c7bbe4b6245fb74c/society/"; 	} 	if (!staticHost) {	 		var staticHost="http://www.guardian.co.uk/"; 	} 	if (!sitePrefixUrl) { 		var sitePrefixUrl = "http://www.guardian.co.uk"; 	} //]]> </p>
+<p> var _sf_startpt=(new Date()).getTime(); </p>
+<p> window.jQuery || document.write('<script src="http://static.guim.co.uk/static/b5c4e8d780aa8be3b8dd5e21c7bbe4b6245fb74c/common/scripts/libs/jquery/1.6.4/jquery.min.js">\x3C/script>') </p>
+<p> var jQ = jQuery.noConflict(); </p>
+<p> //<![CDATA[ 	function insertStyleSheet(href) { 		var styleObject = document.createElement('link'); 		styleObject.setAttribute('href', commonStaticRoot + href); 		styleObject.setAttribute('type', 'text/css'); 		styleObject.setAttribute('media', 'screen'); 		styleObject.setAttribute('rel', 'stylesheet'); 		var head = document.getElementsByTagName('head')[0]; 		head.appendChild(styleObject); 	} 	insertStyleSheet('styles/js-on.css'); 	insertPluckStylesheet = true; 	//]]> </p>
+<p> //<![CDATA[ 	function init() { 		urlStack.clearUrlStack(); 		var signOutLink = document.getElementById("sign-out"); 		if (signOutLink) { 			signOutLink.onclick = signOut; 		} 		 		// Purely styling 		jQ('.js-show').removeClass('js-show'); 	}      guardian.r2.resourceRoot = "http://resource.guim.co.uk/";     var pageUrl = "http://www.guardian.co.uk/society/2011/dec/14/children-obese-primary-school-nhs";     var pageSignature =  "9c4df394e52813ef5f671b15061e8edb0976ed3582405a0bec4048d1156e8f3c";      	var thirdPartyReferralCookieService = new guardian.r2.ThirdPartyReferralCookieService(); 	thirdPartyReferralCookieService.setThirdPartyReferralCookie(); 		 	var urlStack = new UrlStack(".guardian.co.uk");	 	var communitiesSite = false;                    	guardian.r2.signInListeners = new guardian.r2.SignInListeners();     (function () {	 		var signInView = new guardian.r2.SignInView("http://static.guim.co.uk/static/b5c4e8d780aa8be3b8dd5e21c7bbe4b6245fb74c/common/scripts/md5.js", communitiesSite); 		guardian.r2.signInController = new guardian.r2.SignInController(signInView, guardian.r2.signInListeners, "http://www.guardian.co.uk/tools/signin", pageUrl, pageSignature); 		 	}) (); 	 	(function () { 		var profileLinkView = new guardian.r2.ProfileLinkView(); 		profileLinkController = new guardian.r2.ProfileLinkController(profileLinkView, "http://www.guardian.co.uk/discussion/user/"); 	}) ();  	jQ(document).ready(init); 	//]]> </p>
+<p> Turn autoplay off </p>
+<p> Turn autoplay on </p>
+<p> Please activate cookies in order to turn autoplay off </p>
+<p> Jump to content [s] </p>
+<p> Jump to site navigation [0] </p>
+<p> Jump to search [4] </p>
+<p> Terms and conditions [8] </p>
+<p> Edition: </p>
+<p> UK </p>
+<p> US </p>
+<p> Sign in </p>
+<p> Mobile </p>
+<p> About us </p>
+<p> About us </p>
+<p> Contact us </p>
+<p> Press office </p>
+<p> Guardian Print Centre </p>
+<p> Guardian readers' editor </p>
+<p> Observer readers' editor </p>
+<p> Terms of service </p>
+<p> Privacy policy </p>
+<p> Advertising guide </p>
+<p> Digital archive </p>
+<p> Digital edition </p>
+<p> Guardian Weekly </p>
+<p> Buy Guardian and Observer photos </p>
+<p> Subscribe </p>
+<p> Today's paper </p>
+<p> The Guardian </p>
+<p> G2 features </p>
+<p> Comment and debate </p>
+<p> Editorials, letters and corrections </p>
+<p> Obituaries </p>
+<p> Other lives </p>
+<p> Sport </p>
+<p> Subscribe </p>
+<p> Subscribe </p>
+<p> Subscribe to the Guardian </p>
+<p> iPhone app </p>
+<p> iPad edition </p>
+<p> Kindle </p>
+<p> Extra </p>
+<p> Guardian Weekly </p>
+<p> Digital edition </p>
+<p> All our services </p>
+<p> ensurePackage('guardian.r2');  	guardian.r2.dropDownMenu = function () { 	 		// bar set up 		jQ('.top-navigation').show().addClass('top-navigation-js'); 		jQ('#fake-bar').remove();  		// functionality 		jQ('.drop-down').mouseover(function() { 			jQ(this).find('ul').css('display', 'block'); 		});  		jQ('.drop-down').mouseout(function() { 			jQ(this).find('ul').css('display', 'none'); 		});  	};	 	 	jQ(document).ready(function() { 		var myDropDownMenu = new guardian.r2.dropDownMenu(); 	}); </p>
+<p> The Guardian </p>
+<p> Society </p>
+<p> User comments </p>
+<p> Web </p>
+<p> News </p>
+<p> Sport </p>
+<p> Comment </p>
+<p> Culture </p>
+<p> Business </p>
+<p> Money </p>
+<p> Life & style </p>
+<p> Travel </p>
+<p> Environment </p>
+<p> TV </p>
+<p> Data </p>
+<p> Video </p>
+<p> Mobile </p>
+<p> Offers </p>
+<p> Jobs </p>
+<p> News </p>
+<p> Society </p>
+<p> Obesity </p>
+<p> One in five children is obese by the end of primary school, NHS figures show </p>
+<p> Ministers face call for action as figures reveal 19% of year-six pupils are obese – part of a steady rise since 2006-07 </p>
+<p> Tweet this </p>
+<p> reddit this </p>
+<p> omnitracker.omniTrackEVarEvent( 12, 16, 'Society: Reddit', 'click', '.reddit a' ); </p>
+<p> Denis Campbell </p>
+<p> guardian.co.uk </p>
+<p> , </p>
+<p> Wednesday 14 December 2011 15.53 GMT </p>
+<p> Article history </p>
+<p> About this article </p>
+<p> Close </p>
+<p> One in five children is obese by the end of primary school, NHS figures show </p>
+<p> This article was published on </p>
+<p> guardian.co.uk </p>
+<p> at </p>
+<p> 15.53 GMT on Wednesday 14 December 2011 </p>
+<p> . </p>
+<p> Obesity has increased among children in year six, but fallen slightly among four- to five-year-olds. Photograph: Martin Godwin </p>
+<p> Ministers are facing fresh pleas to tackle childhood </p>
+<p> obesity </p>
+<p> after new NHS figures revealed that almost one in five year-six pupils in England (19.0%) is now obese. The 2010-11 figure is up slightly on the 18.7% recorded the year before and continues a steady increase for 10- and 11-year-olds since the first comparable data was collected in 2006-07, when 17.5% were obese. </p>
+<p> However, the latest annual results from the NHS's </p>
+<p> National Child Measurement Programme </p>
+<p> (NCMP) also showed that the proportion of obese four- and five-year-olds in reception classes had fallen slightly year-on-year, from 9.8% in 2009-10 to 9.4%. </p>
+<p> The statistics contained some small snippets of good news. The share of reception </p>
+<p> children </p>
+<p> classed as overweight has also fallen slightly in the past year, from 13.3% to 13.2%, as has the proportion of year-six pupils, from 14.6% to 14.4%. </p>
+<p> But one-third of pupils – 33.4% – are either overweight or obese by the time they reach year six, an increase on the 33.3% recorded the previous year, driven by a rise in the obese category. </p>
+<p> The findings prompted Anne Milton, the public health minister, to say: "We need to give children the best start in life, so it is good that there are fewer obese children in reception, and we hope this is the start of a trend." </p>
+<p> The coalition's recent </p>
+<p> Call to Action </p>
+<p> report aims to reduce obesity by 2020, Milton added, and a new phase of the Change4Life campaign next month will try to help families follow a balanced diet. Department of Health sources insisted that despite some gloomy findings the results showed that "overall levels of overweight and obesity remain stable". </p>
+<p> Tam Fry, the spokesman for the </p>
+<p> National Obesity Forum </p>
+<p> , said: "The primary school reception obesity figure is the best news for many years. It may be showing that parents are finally getting the message that feeding their infants and toddlers good food is having a real effect." </p>
+<p> However, the increase in older children's weight levels were a great concern, Fry added. "Some 82% of obese children go on to become obese adults and doubling the obesity rate in six years of school has to be an indictment of the current healthy </p>
+<p> schools </p>
+<p> policy. With today's economic climate, where healthy food is costing more at home, school food standards must not be allowed to fall." </p>
+<p> But other obesity experts did not share in the cautious optimism. Paul Sacher, a paediatric dietician and the chief research and development officer at </p>
+<p> Mend </p>
+<p> , which helps children and families to adopt healthier lifestyles, said: "With childhood obesity levels rising, it is hugely concerning that not nearly enough is being done to turn the tide on this very serious health epidemic. With one in three children overweight or obese in the UK, the government must intervene to protect the health of our nation's children and prevent this crisis from continuing to spiral out of control." </p>
+<p> Ministers needed to act to ensure continued funding for community-based weight-control initiatives such as the Mend programme in order to prevent children becoming and remaining obese adults, added Sacher. </p>
+<p> "With the health consequences of obesity, including type 2 diabetes, heart disease and some types of cancer, currently costing the NHS £5.1bn per year, the significant financial and human costs associated with obesity have never been clearer," said Sacker. The ongoing upheaval in the NHS in England, including the abolition of primary care trusts – many of which have recently decommissioned Mend services – could lead to the loss of vital health services for children, he added. </p>
+<p> London has the highest prevalence of obese children in both reception and year six, at 11.1% and 21.9% respectively, while the South Central NHS strategic health authority area has the lowest for both, at 8.1% and 16.5%. </p>
+<p> The NCMP data also shows that childhood obesity is most common in deprived and urban areas. </p>
+<p> Diane Abbott, Labour's shadow public health minister, demanded tough action to end what she called "the chips and PlayStation 3 culture", and accused ministers of doing far too little. </p>
+<p> "What is needed is nothing short of a revolution and yet the government is really struggling with the basics. The government has axed its expert advisory group on obesity, is continuing to hollow out Change4Life, and has got fast-food firms writing government policy for them with 'responsibility deals'," Abbott said. </p>
+<p> "Equally concerning is the way the government is eroding school-meal standards, ruling out a ban on trans-fats, and is rejecting the Food Standard Agency's plans for reducing saturated fat content. The government isn't even heading in the right direction on this issue," she added. </p>
+<p> Printable version </p>
+<p> Send to a friend </p>
+<p> Share </p>
+<p> Clip </p>
+<p> Contact us </p>
+<p> larger </p>
+<p> | </p>
+<p> smaller </p>
+<p> Email </p>
+<p> Close </p>
+<p> Recipient's email address </p>
+<p> Your first name </p>
+<p> Your surname </p>
+<p> Add a note (optional) </p>
+<p> Your IP address will be logged </p>
+<p> Share </p>
+<p> Close </p>
+<p> Short link for this page: </p>
+<p> http://gu.com/p/344q8 </p>
+<p> StumbleUpon </p>
+<p> reddit </p>
+<p> Tumblr </p>
+<p> Digg </p>
+<p> LinkedIn </p>
+<p> Google Bookmarks </p>
+<p> del.icio.us </p>
+<p> livejournal </p>
+<p> Facebook </p>
+<p> Twitter </p>
+<p> Contact us </p>
+<p> Close </p>
+<p> Contact the Society editor </p>
+<p> editor@societyguardian.co.uk </p>
+<p> Report errors or inaccuracies: </p>
+<p> reader@guardian.co.uk </p>
+<p> Letters for publication should be sent to: </p>
+<p> letters@guardian.co.uk </p>
+<p> If you need help using the site: </p>
+<p> userhelp@guardian.co.uk </p>
+<p> Call the main Guardian and Observer switchboard: </p>
+<p> +44 (0)20 3353 2000 </p>
+<p> Advertising guide </p>
+<p> License/buy our content </p>
+<p> Society </p>
+<p> Obesity </p>
+<p> · </p>
+<p> Children </p>
+<p> · </p>
+<p> Health </p>
+<p> Education </p>
+<p> Schools </p>
+<p> UK news </p>
+<p> Politics </p>
+<p> More 			news </p>
+<p> More on this story </p>
+<p> Obesity, battered sausage and me </p>
+<p> For years, Hopi Sen consumed huge quantities of food – and got fat. Then one day, he stopped. So what changed? </p>
+<p> It's not obesity that's killing us – it's the lack of exercise </p>
+<p> UK women top of obesity league, and men are second – EU survey </p>
+<p> Obesity advisory group disbanded by government </p>
+<p> Jamie Oliver brands Andrew Lansley obesity plan as 'patronising rubbish' </p>
+<p> Jamie Oliver: </p>
+<p> this obesity strategy is a cop out </p>
+<p> Related </p>
+<p> 29 Apr 2005 </p>
+<p> One in four children overweight, figures show </p>
+<p> 20 Jan 2008 </p>
+<p> Plan to curb fast-food outlets near schools </p>
+<p> 30 Apr 2005 </p>
+<p> Childhood obesity study alarms doctors </p>
+<p> 23 Jan 2009 </p>
+<p> Children learn to cha-cha-cha instead of chow-chow-chow </p>
+<p> Printable version </p>
+<p> Send to a friend </p>
+<p> Share </p>
+<p> Clip </p>
+<p> Contact us </p>
+<p> Article history </p>
+<p> Email </p>
+<p> Close </p>
+<p> Recipient's email address </p>
+<p> Your first name </p>
+<p> Your surname </p>
+<p> Add a note (optional) </p>
+<p> Your IP address will be logged </p>
+<p> Share </p>
+<p> Close </p>
+<p> Short link for this page: </p>
+<p> http://gu.com/p/344q8 </p>
+<p> StumbleUpon </p>
+<p> reddit </p>
+<p> Tumblr </p>
+<p> Digg </p>
+<p> LinkedIn </p>
+<p> Google Bookmarks </p>
+<p> del.icio.us </p>
+<p> livejournal </p>
+<p> Facebook </p>
+<p> Twitter </p>
+<p> Contact us </p>
+<p> Close </p>
+<p> Contact the Society editor </p>
+<p> editor@societyguardian.co.uk </p>
+<p> Report errors or inaccuracies: </p>
+<p> reader@guardian.co.uk </p>
+<p> Letters for publication should be sent to: </p>
+<p> letters@guardian.co.uk </p>
+<p> If you need help using the site: </p>
+<p> userhelp@guardian.co.uk </p>
+<p> Call the main Guardian and Observer switchboard: </p>
+<p> +44 (0)20 3353 2000 </p>
+<p> Advertising guide </p>
+<p> License/buy our content </p>
+<p> About this article </p>
+<p> Close </p>
+<p> One in five children is obese by the end of primary school, NHS figures show </p>
+<p> This article was published on </p>
+<p> guardian.co.uk </p>
+<p> at </p>
+<p> 15.53 GMT on Wednesday 14 December 2011 </p>
+<p> . </p>
+<p> google_ad_client = 'ca-guardian_js'; google_ad_channel = 'society'; </p>
+<p> google_max_num_ads = '3'; </p>
+<p> //<![CDATA[ 			if (true) { 					  writeScript("http://pagead2.googlesyndication.com/pagead/show_ads.js", false, function(){}); 			} 		// ]]> </p>
+<p> Find the latest jobs in your sector: </p>
+<p> Arts & heritage </p>
+<p> Charities </p>
+<p> Education </p>
+<p> Environment </p>
+<p> Government </p>
+<p> Graduate </p>
+<p> Health </p>
+<p> Marketing & PR </p>
+<p> Media </p>
+<p> Sales </p>
+<p> Senior executive </p>
+<p> Social care </p>
+<p> Browse all jobs </p>
+<p> Team Manager, Early Intervention & Youth Development </p>
+<p> North London | £42,015 - £48,060 </p>
+<p> HARROW COUNCIL </p>
+<p> #query-trailblock li {border-top: 1px solid #929292; margin-bottom: 16px;} 	#query-trailblock li h2 {font-size: 1.4em; margin: 0 0 4px;} 	#query-trailblock li:last-child {margin-bottom: 0; border-top: 1px dotted #929292;} 	#query-trailblock li:last-child h2 {margin-top: 10px; font-size: 12px; font-family: sans-serif;} 	#query-trailblock .strapline {border-bottom: 1px dotted #929292; font-weight: bold; padding: 5px 0 5px; margin-bottom: 5px;} 	#query-trailblock .trail-comment-count {padding-top: 3px;} </p>
+<p> Healthcare Network </p>
+<p> Technology key to 'new model' of NI health and social care </p>
+<p> Northern Ireland to introduce e-patient records and expand telehealth and telecare as part of its shake up of health and social care </p>
+<p> Healthcare Network </p>
+<p> Achieving foundation status a 'tall order' for many NHS trusts </p>
+<p> Financial and leadership problems are among the obstacles preventing NHS trusts from gaining foundation status, sayMPs </p>
+<p> More from our Healthcare Network </p>
+<p> .m-zeitgeist .bd { float: left } /* for the IE6 lols */   .m-zeitgeist .hd { padding-bottom: 0px; margin-bottom: -12px}   .m-zeitgeist .hd h2 { padding-bottom: 12px; }   .m-zeitgeist #att-panes { background-color: #fff; float: left; } 	.m-zeitgeist .att-toggle-pane { min-width:280px; }   .m-zeitgeist ol { padding: 0 5px; }   .m-zeitgeist #most-zeitgeist ol { padding-left: 0; }   .m-zeitgeist .zg-date { color: #D61D00; padding-left:5px; padding-top: 5px; }   .m-zeitgeist ol li { clear: both; padding-left: 15px; }   .m-zeitgeist div#att-most-viewed ol li.l1,   .m-zeitgeist div#att-latest ol li.l1 { padding-bottom: 9px !important; }   .m-zeitgeist ol li.footer { clear: both; padding-left: 0px !important; padding-top: 5px !important; }   .m-zeitgeist .rank { float: left; margin-left: -15px; }   .m-zeitgeist .kicker { font-weight: bold; }   .m-zeitgeist ol li.thumb { padding-left: 0; }   .m-zeitgeist ol li.thumb .rank { margin-left: 0; }   .m-zeitgeist ol li img { float: left; margin: 0 10px 3px 0; }      .m-zeitgeist #most-zeitgeist ol li { border-top: none; padding: 0; border-top: none; }     .m-zeitgeist #most-zeitgeist ol li .zeit-link {background-color: #fff; padding: 5px 0 9px 5px; border-top: 1px dotted #999; margin-bottom: 0px;  }     .m-zeitgeist #most-zeitgeist ol li.footer { border-top:1px dotted #999; padding: 5px 0 9px 10px; margin-left: 5px }     .m-zeitgeist #most-zeitgeist .m-zeigeist ol { padding-left: 0}      /* zeit-up */   .m-zeitgeist #most-zeitgeist .what-is { float: none; padding: 0 3px; vertical-align: middle; cursor: pointer; }   .about-zeit { position: relative; }   .zeit-popup { position: absolute; display: none; background-color: #dbedf3; color: #333; padding: 6px; width: 200px; }      .fade-1 { border-left: 5px solid #801100 !important;} .fade-2 { border-left: 5px solid #95382A !important;} .fade-3 { border-left: 5px solid #AA5F54 !important;} .fade-4 { border-left: 5px solid #BF867E !important;} .fade-5 { border-left: 5px solid #D4ADA8 !important;}  .m-zeitgeist div.hd { padding-bottom: 0; } .m-zeitgeist.most-viewed div.hd { padding-bottom: 7px; } </p>
+<p> jQ(function($){$('.about-zeit').each(function(){var distance=-10;var time=250;var hideDelay=500;var hideDelayTimer=null;var beingShown=false;var shown=false;var trigger=$('.what-is',this);var info=$('.zeit-popup',this).css('opacity',0);$([trigger.get(0),info.get(0)]).mouseover(function(){if(hideDelayTimer)clearTimeout(hideDelayTimer);if(beingShown||shown){return;}else{beingShown=true;info.css({top:-97,right:0,display:'block'}).animate({top:'-='+distance+'px',opacity:1},time,'swing',function(){beingShown=false;shown=true;});}return false;}).mouseout(function(){if(hideDelayTimer)clearTimeout(hideDelayTimer);hideDelayTimer=setTimeout(function(){hideDelayTimer=null;info.animate({top:'-='+distance+'px',opacity:0},time,'swing',function(){shown=false;info.css('display','none');});},hideDelay);return false;});});}); </p>
+<p> On Society </p>
+<p> Most viewed </p>
+<p> Zeitgeist </p>
+<p> Latest </p>
+<p> Last 24 hours </p>
+<p> 1. </p>
+<p> Housing benefit cuts defeated by House of Lords in welfare reform vote </p>
+<p> 2. </p>
+<p> Me? Competitive? I can't help it – I'm almost 50 </p>
+<p> 3. </p>
+<p> Cameron puts £400m into helping families out of 'responsibility deficit' </p>
+<p> 4. </p>
+<p> David Cameron unveils £448m plan to help 'problem families' </p>
+<p> 5. </p>
+<p> How can rising suicide rates be reversed in the face of cuts to mental health services? </p>
+<p> More most viewed </p>
+<p> Last 24 hours </p>
+<p> David Cameron unveils £448m plan to help 'problem families' </p>
+<p> Society daily 15.12.11 </p>
+<p> Tomorrow's People - Guardian Christmas charity appeal video </p>
+<p> How can rising suicide rates be reversed in the face of cuts to mental health services? </p>
+<p> Housing benefit cuts defeated by House of Lords in welfare reform vote </p>
+<p> More zeitgeist </p>
+<p> What is Zeitgeist? </p>
+<p> Zeitgeist is an experiment in showing trending news, topics and articles from the Guardian. Find out more in </p>
+<p> our blog post </p>
+<p> . </p>
+<p> Last 24 hours </p>
+<p> 1. </p>
+<p> Premature baby in California third smallest in world to survive </p>
+<p> 2. </p>
+<p> Christmas charity appeal: Guardian and Observer writers take to the phones </p>
+<p> 3. </p>
+<p> Five community organisations win Guardian Charity Awards </p>
+<p> 4. </p>
+<p> Assisted suicide: GMC to draw up new advice </p>
+<p> 5. </p>
+<p> David Cameron unveils £448m plan to help 'problem families' </p>
+<p> All today's stories </p>
+<p> SocietyGuardian on Twitter </p>
+<p> Latest news, views and links from the SocietyGuardian team </p>
+<p> patrickjbutler: </p>
+<p> Cameron unveils £448m plan to help 'problem families' </p>
+<p> http://t.co/lflZ3xUj </p>
+<p> << largely based on Labour's family intervention model </p>
+<p> #localgov </p>
+<p> about 10 minutes ago </p>
+<p> pollycurtis: </p>
+<p> IPPR: £450m for family intervention projects will cover 20k-25k families for 4 years, missing government's 120k target (via </p>
+<p> @alantravis40) </p>
+<p> about 3 hours, 55 minutes ago </p>
+<p> sarahboseley: </p>
+<p> Global health funding so far weathering the economic storm </p>
+<p> http://t.co/j1NIBwbD </p>
+<p> about 3 hours, 59 minutes ago </p>
+<p> • </p>
+<p> Read more tweets from our Society team </p>
+<p> • </p>
+<p> Follow our Society team on a Twitter list </p>
+<p> Bestsellers from the Guardian shop </p>
+<p> Thermal lined leisure 'rugby' trousers. Buy one pair, get one free </p>
+<p> Back in stock! Our ever popular fleecy lined outdoor trousers - buy one pair and get a second pair free. </p>
+<p> From: £29.99 </p>
+<p> Visit the Guardian reader offers shop </p>
+<p> See all offers and services from the Guardian </p>
+<p> .m-guardianbookshop .rank { float: left; margin-left: -15px; } 	.m-guardianbookshop .thumb .rank { margin-left: 0; } 	.m-guardianbookshop h4 { border-top: none !important; font-weight: bold; margin-left: 5px !important; padding: 5px 0 8px 0 !important; } 	.m-guardianbookshop .bestsellers { background-color: #fff; padding-bottom: 17px;} 	.m-guardianbookshop ol { padding: 0 5px; } 	.m-guardianbookshop .l1 { clear: both; padding-left: 15px; } 	.m-guardianbookshop .thumb { padding-left: 0; } 	.m-guardianbookshop .thumb img { float: left; margin: 2px 10px 9px 0;} 	.m-guardianbookshop .price { display: inline; } 	.m-guardianbookshop .thumb .price { display: block; } 	.m-guardianbookshop .rank, .m-guardianbookshop .book-title { font-weight: bold; } 	.m-guardianbookshop input { border: 1px solid #999; width: 75%; min-height: 16px; margin-top: 8px; padding: 3px 2px;} </p>
+<p> This week's bestsellers </p>
+<p> 1. </p>
+<p> Secret Life of Bletchley Park </p>
+<p> by Sinclair McKay </p>
+<p> £8.99 </p>
+<p> 2. </p>
+<p> How to be a Woman </p>
+<p> by Caitlin Moran </p>
+<p> £11.99 </p>
+<p> 3. </p>
+<p> My Horse Warrior </p>
+<p> by Jack Seely </p>
+<p> £14.99 </p>
+<p> 4. </p>
+<p> All Hell Let Loose </p>
+<p> by Max Hastings </p>
+<p> £30.00 </p>
+<p> 5. </p>
+<p> Thinking Fast and Slow </p>
+<p> by Daniel Kahneman </p>
+<p> £25.00 </p>
+<p> Search the Guardian bookshop </p>
+<p> Search </p>
+<p> Sponsored feature </p>
+<p> function showSponsoredFeaturex31(){                     if (window.sponJSON) {                         if(typeof(sponJSON) === 'object') {                           adx31 = sponJSON;                           var node = jQ('.json-features.x31');                           convertJSONtoAd(                               node.find('img:first-child'),                               node.find('a.t6'),                               node.find('p:last-child'),                               adx31,                               node.find('.hd').children().eq(0),                               'x31'                           );                         }                     }                 }                                  jQ(document).ready(function(){                     jQ('.x31-script-placeholder').writeCapture().replaceWith('<script>showSponsoredFeaturex31()<' + '/script>')                 }) </p>
+<p> Related information </p>
+<p> Education </p>
+<p> Schools </p>
+<p> UK news </p>
+<p> Society </p>
+<p> Obesity </p>
+<p> · </p>
+<p> Children </p>
+<p> · </p>
+<p> Health </p>
+<p> Politics </p>
+<p> NHS child obesity figures show a third are overweight by year six </p>
+<p> 15 Dec 2010 </p>
+<p> Experts call for government action as new NHS figures show weight problems are worsening </p>
+<p> 11 Jun 2007 </p>
+<p> One in four children are overweight by age three </p>
+<p> 21 Sep 2003 </p>
+<p> Stars back school sports bid to fight obesity </p>
+<p> 3 Dec 2002 </p>
+<p> The chips are down </p>
+<p> 22 Nov 2007 </p>
+<p> Working mothers linked to obese teens </p>
+<p> A third of children leaving primary school are overweight, report reveals </p>
+<p> 15 Dec 2010 </p>
+<p> The number of pupils classified as obese is also rising, new NHS statistics show </p>
+<p> License/buy our content </p>
+<p> | </p>
+<p> Privacy policy </p>
+<p> | </p>
+<p> Terms & conditions </p>
+<p> | </p>
+<p> Advertising guide </p>
+<p> | </p>
+<p> Accessibility </p>
+<p> | </p>
+<p> A-Z index </p>
+<p> | </p>
+<p> Inside the Guardian blog </p>
+<p> | </p>
+<p> About us </p>
+<p> | </p>
+<p> Work for us </p>
+<p> | </p>
+<p> Join our dating site today </p>
+<p> © 2011 Guardian News and Media Limited or its affiliated companies. All rights reserved. </p>
+<p> .ten-col .important-story {      border-bottom-color: #fff !important;  } </p>
+<p> //<![CDATA[ 	if(true) { 		var s_account="guardiangu-society,guardiangu-network"; 		writeScript('http://static.guim.co.uk/static/b5c4e8d780aa8be3b8dd5e21c7bbe4b6245fb74c/common/scripts/omniture-H.22.4.js', false, function(){}); 	} 	//]]> </p>
+<p> //<![CDATA[ 	if(true) { 		if (false) { 		    s.pageName = document.title; 		} else { 			s.pageName="One in five children is obese by the end of primary school, NHS figures :Article:1676681"; 		} 		s.channel = "Society"; 		s.pageType=""; 		s.server='03'; 		s.prop2='GUID:(none)';  					s['prop3']="GU.co.uk"; 					s['prop4']="Obesity,Children (Society),Schools,Society,Health (Society),UK news,Politics"; 					s['prop5']="Society Weekly,Not commercially useful,Health Society,Health,Schools Education,Children Society"; 					s['prop6']="Denis Campbell"; 					s['prop7']="11-Dec-14"; 					s['prop8']="1676681"; 					s['prop9']="Article"; 					s['prop10']="News"; 					s['prop11']="Society"; 					s['prop13']=""; 					s['prop25']=""; 					s['prop30']="content"; 		 		s.hier2="GU/Society/Obesity"; 		s.events=""; 		s.eVar23="";  		try { 			if (guardian.r2.OmnitureTrackingOverride) { 				new guardian.r2.OmnitureTrackingOverride(s); 			} 		} 		catch(err) { 		}          if(jQ.cookie("GU_OMNITURE") !== null) {             s.events = jQ.cookie("GU_OMNITURE");             jQ.cookie("GU_OMNITURE", null, { path: '/', domain: '.guardian.co.uk'});         }          var s_code=s.t();if(s_code)document.write(s_code); 	} 	//]]> </p>
+<p> var _qevents = _qevents || []; 		(function() { 			var elem = document.createElement('script');  			elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js"; 			elem.async = true; 			elem.type = "text/javascript"; 			var scpt = document.getElementsByTagName('script')[0]; 			scpt.parentNode.insertBefore(elem, scpt); 		})(); 		_qevents.push( { qacct:'p-73ktnlRTKQPTw', labels: 'society'} ); </p>
+<p> var qcResults = function (result) { 				for (var i = 0, len = result.segments.length; i < len; i++) { 					OAS_query += 'qc=' + result.segments[i].id + '&'; 				} 			} </p>
+<p> if (true) {     jQ(document).ready(function () {         jQ('a[data-cpt]').each(             function () {             jQ(this).click(                 function () {                 var cpId = jQ(this).attr('data-cpt').split("-")[1];                 var currentLink = jQ(this).attr('href');                  if (currentLink.indexOf('intcmp=') == -1) {                     if(currentLink.indexOf('?') == -1) {                         var separator = '?'                     } else {                         var separator = '&'                     }                      jQ(this).attr('href', currentLink + separator + "intcmp=" + cpId);                 }             });         });     }); } </p>
+<p> //<![CDATA[ 	if (false) {         // guardian.co.uk Connect Adprobe Tag, MPU [9814], Leaderboard [9815]         var wlOrd = new Date().getTime();         document.write('<scr' + 'ipt type="text/javascript" src="http://req.connect.wunderloop.net/AP/1566/6033/10343/js?cus=10343,10344&ord=' + wlOrd + '"></sc' + 'ript>'); 	} // ]]> </p>
+<p> //<![CDATA[ 	if (false) {         OAS_query += 'wl10343=' + wl10343camp + '&wl10344=' + wl10344camp + '&'; 	} // ]]> </p>
+<p> //<![CDATA[  	if(true) { 		ensurePackage("guardian.r2.revsci");  		guardian.r2.revsci.cookieDomain = '.guardian.co.uk'; 		guardian.r2.revsci.gu_geo_country = '(none)'; 		guardian.r2.revsci.siteName = 'Society'; 					guardian.r2.revsci.commercialFolder = 'Health' 				 		addEvent(null, 'load', function () { 			writeScript('http://js.revsci.net/gateway/gw.js?csid=E05516', true, function() { 				writeScript('http://static.guim.co.uk/static/b5c4e8d780aa8be3b8dd5e21c7bbe4b6245fb74c/common/scripts/revsci.js', true, function() { 					rs_initTracking(); 				}) 			}) 		}); 	}  	// ]]> </p>
+<p> //<![CDATA[ 											function OAS_NORMAL(pos) { 							document.write('<A HREF="' + OAS_url + 'click_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + pos + '!' + pos + '?' + OAS_query + '" TARGET=' + OAS_target + '>'); 							document.write('<IMG SRC="' + OAS_url + 'adstream_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + pos + '!' + pos + '?' + OAS_query + '" BORDER=0></A>'); 						}  						OAS_version = 11; 						if ((navigator.userAgent.indexOf('Mozilla/3') != -1) || (navigator.userAgent.indexOf('Mozilla/4.0 WebTV') != -1)) OAS_version = 10;                          if (true) {                             if (OAS_version >= 11) document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/SCRIPT>');                         }  						function OAS_AD(pos) {                             if (true) {                                 if (typeof(OAS_RICH) !== 'undefined' && OAS_version >= 11) {                                     OAS_RICH(pos);                                 } else {                                     OAS_NORMAL(pos);                                 }                             } 						} 					 				//]]> </p>
+<p> //<![CDATA[                 jQ('#ad-placeholder-Top').writeCapture().replaceWith('<script>OAS_AD("Top")<' + '/script>');                 //]]> </p>
+<p> jQ('#ad-temp-Top').hide(); </p>
+<p> //<![CDATA[                 jQ('#ad-placeholder-Middle2').writeCapture().replaceWith('<script>OAS_AD("Middle2")<' + '/script>');                 //]]> </p>
+<p> jQ('#ad-temp-Middle2').hide(); </p>
+<p> //<![CDATA[                 jQ('#ad-placeholder-Right1').writeCapture().replaceWith('<script>OAS_AD("Right1")<' + '/script>');                 //]]> </p>
+<p> jQ('#ad-temp-Right1').hide(); </p>
+<p> //<![CDATA[                 jQ('#ad-placeholder-x31').writeCapture().replaceWith('<script>OAS_AD("x31")<' + '/script>');                 //]]> </p>
+<p> jQ('#ad-temp-x31').hide(); </p>
+<p> ensurePackage('guardian.r2.omniture'); guardian.r2.omniture.isAvailable = function(){ 			return true; 	} </p>
+<p> //	<![CDATA[ 	if(true) {         var OAS_taxonomy='&Paneled_Site=guardian.co.uk&Paneled_Section=society'; 		jQ(document).ready(function(){ 			jQ.getScript('http://static.guim.co.uk/static/b5c4e8d780aa8be3b8dd5e21c7bbe4b6245fb74c/common/scripts/kantarmedia.js'); 		}); 	} 	// ]]> </p>
+<p> if(true) {         		jQ(function() { 		  if ('undefined' !== typeof MatchingEngine) { 		    MatchingEngine.logEvent('article', 'id=http://www.guardian.co.uk/society/2011/dec/14/children-obese-primary-school-nhs'); 		  } 		}); 	} </p>
+<p> if (true) {         var _sf_async_config = {};         /** CONFIGURATION START **/         _sf_async_config.uid = 30676;         _sf_async_config.domain = document.domain;         _sf_async_config.sections = 'Society';         _sf_async_config.authors = 'Denis Campbell';         /** CONFIGURATION END **/         (function() {             function loadChartbeat() {                 window._sf_endpt = (new Date()).getTime();                 var e = document.createElement('script');                 e.setAttribute('language', 'javascript');                 e.setAttribute('type', 'text/javascript');                 e.setAttribute('src',                         (('https:' == document.location.protocol) ? 'https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/' : 'http://static.chartbeat.com/') +                                 'js/chartbeat.js');                 document.body.appendChild(e);             }              var oldonload = window.onload;             window.onload = (typeof window.onload != 'function') ?                     loadChartbeat : function() {                 oldonload();                 loadChartbeat();             };         })();     } </p>

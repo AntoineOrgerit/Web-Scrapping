@@ -1,0 +1,258 @@
+<p> var io_c3sd = io_c3sd || {}; 	var io_c3s = io_c3s || { set: function(k,v) { io_c3s[k] = v; } }; 	io_c3s.set('host', 'rs.aol.co.uk'); 	io_c3s.set('version', '1.0'); 	 	io_c3s.section_key = 'lifestyle.roc'; 	 	 	 	 	 	 	io_c3s.set('section_key', io_c3s.section_key); 	(function(d) { 		var src = ( 'https:' === d.location.protocol ? 'https://' : 'http://' ) + io_c3s['host'] + '/'; 		src += io_c3s['version'] + '/' + io_c3s['section_key'] + '/cobrand.js'; 		d.write('<scr' + 'ipt type="text/javascript" src="' + src + '"></scr' + 'ipt>'); 	})(document); </p>
+<p> Quarter of young women say they've had underage sex - AOL Lifestyle UK </p>
+<p> @font-face { 	font-family: 'Reenie Beanie'; 	font-style: normal; 	font-weight: normal; 	src: url('http://themes.googleusercontent.com/font?kit=ljpKc6CdXusL1cnGUSamX2EysVpjQ8Qn6ZZt0miDAS4'); 	src: local('Reenie Beanie'), local('ReenieBeanie'),  	url('http://themes.googleusercontent.com/font?kit=ljpKc6CdXusL1cnGUSamX4jjx0o0jr6fNXxPgYh_a8Q&chromeframe') format('truetype'); } </p>
+<p> //<![CDATA[ adSetHtNm('http://uk.at.atwola.com'); adSetNetId('1065.1'); adSetAdURL('/_uac/adpage.html');  adSetOthAT('kvcmsid=bsd:20128753;kvcategory=sex;kveditags=men:sex:underage-sex:women:young-women;kventryid=20128753;kvblogger=jessica-laurence;');  //]]> </p>
+<p> function runOmni() { 	s_265.pfxID="lfs"; 	s_265.server="aoluk-ld26.websys.aol.com"; 	s_265.channel="uk.lifestyle"; 	s_265.pageType=""; 	s_265.linkInternalFilters="javascript:,lifestyle.aol.co.uk"; 	  	s_265.pageName="Quarter of young women say they've had underage sex"; 	s_265.prop1="article"; 	s_265.prop2="sex"; 	s_265.prop9="bsd:20128753"; 	s_265.prop18="sex"; 	s_265.prop19="men|sex|underage_sex|women|young_women"; 	 	s_265.prop8="bss:461"; 	s_265.prop12=document.location; 	s_265.prop17="aoluk"; 	s_265.prop21="portal"; 	s_265.mmxgo=true; 	if ( typeof C3S !== 'undefined' && ( typeof C3S.setOmnitureProps !== 'undefined' && typeof C3S.setOmnitureProps === 'function' ) ) { C3S.setOmnitureProps(); } 	s_265.t(); } var s_account = "aolukjunglobal,aolukjunportal"; if ( typeof C3S !== 'undefined' && ( typeof C3S.setOmnitureSAccount !== 'undefined' && typeof C3S.setOmnitureSAccount === 'function' ) ) { C3S.setOmnitureSAccount(); } (function(d){ 	var s = d.createElement('script'); 	s.src = (location.protocol == 'https:' ? 'https://s' : 'http://o') + '.aolcdn.com/omniunih_int.js'; 	d.getElementsByTagName('head')[0].appendChild(s); })(document); </p>
+<p> <!-- adSetType('F'); htmlAdWH( C3S.writeAd('ad-728x90'),  'lb', 'lb'); adSetType(''); //--> </p>
+<p> Toolbar </p>
+<p> PC Fixes </p>
+<p> Change background </p>
+<p> Lifestyle </p>
+<p> mail </p>
+<p> aim </p>
+<p> ebay </p>
+<p> Home </p>
+<p> News </p>
+<p> UK News </p>
+<p> Crime </p>
+<p> Politics </p>
+<p> Environment </p>
+<p> Weird News </p>
+<p> Money </p>
+<p> Property </p>
+<p> Retirement </p>
+<p> Banking & Savings </p>
+<p> Money Saving Tips </p>
+<p> Compare </p>
+<p> Travel & Work </p>
+<p> Investing </p>
+<p> News & Views </p>
+<p> Sport </p>
+<p> Football </p>
+<p> Rugby Union </p>
+<p> Rugby League </p>
+<p> Golf </p>
+<p> Tennis </p>
+<p> Boxing </p>
+<p> Horse Racing </p>
+<p> F1 </p>
+<p> NFL </p>
+<p> Olympics </p>
+<p> Other Sports </p>
+<p> Betting </p>
+<p> Entertainment </p>
+<p> Celebrity </p>
+<p> Comedy </p>
+<p> Music </p>
+<p> TV </p>
+<p> Film </p>
+<p> Lifestyle </p>
+<p> Parenting </p>
+<p> News & Views </p>
+<p> Pregnancy & Birth </p>
+<p> Baby </p>
+<p> Kids </p>
+<p> Teen </p>
+<p> Celebrity </p>
+<p> Food </p>
+<p> Mum </p>
+<p> Family </p>
+<p> Days Out </p>
+<p> Win </p>
+<p> Travel </p>
+<p> Travel Ideas </p>
+<p> I want to go to... </p>
+<p> Inspire & entertain me </p>
+<p> Travel News </p>
+<p> Cars </p>
+<p> Car News </p>
+<p> Car Reviews </p>
+<p> Features </p>
+<p> Car Photos </p>
+<p> Motor Shows </p>
+<p> F1 </p>
+<p> Classic Cars </p>
+<p> Driving Directions </p>
+<p> Culture </p>
+<p> Arts </p>
+<p> Books </p>
+<p> Weather </p>
+<p> Shopping </p>
+<p> Feedback </p>
+<p> Style </p>
+<p> Culture </p>
+<p> Body & Soul </p>
+<p> Love & Sex </p>
+<p> Food & Drink </p>
+<p> Home & Garden </p>
+<p> News & Gossip </p>
+<p> Horoscopes </p>
+<p> Newsletter </p>
+<p> Lottery </p>
+<p> h2#channelname a{color:#333;text-decoration:none} </p>
+<p> Lifestyle </p>
+<p> <!-- 		adSetType('F'); 		htmlAdWH( C3S.writeAd('ad-215x40'),  '215', '40'); 		adSetType(''); 		//--> </p>
+<p> Quarter of young women say they've had underage sex </p>
+<p> By </p>
+<p> Jessica Laurence </p>
+<p> , Dec 15, 2011 </p>
+<p> Filed under: </p>
+<p> Sex </p>
+<p> Share </p>
+<p> Text Size </p>
+<p> A </p>
+<p> A </p>
+<p> A </p>
+<p> PA </p>
+<p> New research has found that 27% of young women have had sex before they reached the legal age of consent. </p>
+<p> The Health Survey for England 2010 data showed the number of young women who had underage sex is double the 14% of women aged 35-44 who had </p>
+<p> sex </p>
+<p> under 16. </p>
+<p> Just 4% of women aged between 55-69 said they had had underage </p>
+<p> sex </p>
+<p> . </p>
+<p> The research, which was published by the NHS Information Centre, also showed that a tenth of young people between the ages of 16 and 24 had 10 or more sexual partners. </p>
+<p> Almost half of younger women (44%) had been tested for the STD chlamydia, in comparison to just 12% of women aged 45-54. </p>
+<p> The figures also showed that over a quarter (26%) of women and nearly a third of </p>
+<p> men </p>
+<p> (32%) aged 16-24 were virgins. </p>
+<p> Shadow health minister Diane Abbott said: "The rising numbers of girls having underage sex is alarming. It is not a cost-free phenomenon. It poses public health policy challenges and social challenges." </p>
+<p> "The underlying cause must be the 'pornification' of the culture and the increasing sexualisation of pre-adolescent girls. Too many young girls are absorbing from the popular culture around them that they only have value as sex objects. Inevitably they act this notion out." </p>
+<p> "[The] government needs to respond to spiralling underage sex, not with pointless schemes to teach abstinence, but with better PSHE (personal, social, health and economic) teaching in schools for both girls and boys." </p>
+<p> Is the "pornification" of culture really influencing young people to have sex at a younger age? Let us know below... </p>
+<p> Be a fan of Lifestyle on Facebook </p>
+<p> | </p>
+<p> Follow us on Twitter! </p>
+<p> | </p>
+<p> Sign up to our newsletter </p>
+<p> Tags: </p>
+<p> men </p>
+<p> , </p>
+<p> sex </p>
+<p> , </p>
+<p> underage sex </p>
+<p> , </p>
+<p> women </p>
+<p> , </p>
+<p> young women </p>
+<p> Share </p>
+<p> Liked this? Read these.... </p>
+<p> Men think about food almost as much as sex </p>
+<p> Why women fake orgasms to stop their men cheating </p>
+<p> Why Mr Right does not exist </p>
+<p> Related Videos </p>
+<p> When Should Young Women Learn About Their Sexuality </p>
+<p> Fighting Sexual Slavery and Abuse </p>
+<p> How to Treat Sex Addiction </p>
+<p> How to Have Healthy Sex When Recovering From Sex Addiction </p>
+<p> .mini-profile .toggle-auth .auth-icons {display:none;} </p>
+<p> Our Comment Policy </p>
+<p> We encourage lively discussion at AOL. Please be aware when you leave a comment your user name, screen name and photo may be displayed with your comment, visible to everyone on the Internet. If you think a comment is inappropriate, you may click to report it to our monitors for review. </p>
+<p> Not an AOL or AIM member? </p>
+<p> Register for a free account. </p>
+<p> Add a Comment </p>
+<p> Sign in » </p>
+<p> Add a Comment </p>
+<p> Type your comment here </p>
+<p> *0 / 3000 Character Maximum </p>
+<p> Submit </p>
+<p> 0 </p>
+<p> adSetType('F');     htmlAdWH( C3S.writeAd('ad-300x250'),  'RR', 'RR');     adSetType(''); </p>
+<p> Trending now </p>
+<p> Hair colour </p>
+<p> Wedding venues </p>
+<p> Tarot cards </p>
+<p> Detox diet </p>
+<p> Decorating ideas </p>
+<p> Gingerbread recipe </p>
+<p> What you’re reading </p>
+<p> Most Viewed </p>
+<p> Most Commented </p>
+<p> Latest News </p>
+<p> Dutch lingerie company gets a man to model bras </p>
+<p> Slimline Adele emerges after throat surgery </p>
+<p> Size 26 pole dancer doesn't let her size stop her entering competitions </p>
+<p> Quarter of young women say they've had underage sex </p>
+<p> Why are a third of primary school children fat? </p>
+<p> AOL Lifestyle mobile is here! </p>
+<p> #latest-news .mv_mdlBox {     border-bottom: 1px dotted #BFBFBF;     margin: 10px 0 0;     padding-bottom: 7px; } #latest-news .mv_mediaCrdt {     float: left;     margin-right: 10px; } #latest-news .mv_col a {     font-weight: normal; } .mostpopular a { padding:1px; margin-right: 5px; } </p>
+<p> Today's video </p>
+<p> Here to help </p>
+<p> Slow PC speeds? </p>
+<p> Is your PC safe? </p>
+<p> Protect your kids online </p>
+<p> Boost PC speeds </p>
+<p> Want a safer PC? </p>
+<p> Happier computing </p>
+<p> Latest galleries </p>
+<p> Fit celebrities over 40 </p>
+<p> Easy entertaining tips </p>
+<p> Christmas party makeup bag essentials </p>
+<p> Last-minute stocking stuffers under a fiver </p>
+<p> Breast cancer risk factors you can control </p>
+<p> Celebrity age-gap couples </p>
+<p> Winter exercise ideas </p>
+<p> Page-turner books </p>
+<p> Fairtrade gifts </p>
+<p> Shop the trend: Faux fur </p>
+<p> Celebrities with athletic bodies </p>
+<p> Holiday gift guide: Culture books </p>
+<p> Facebook favourites </p>
+<p> Horoscopes </p>
+<p> aries </p>
+<p> taurus </p>
+<p> gemini </p>
+<p> cancer </p>
+<p> leo </p>
+<p> virgo </p>
+<p> libra </p>
+<p> scorpio </p>
+<p> sagittarius </p>
+<p> capricorn </p>
+<p> aquarius </p>
+<p> pisces </p>
+<p> <!-- adSetType('F'); htmlAdWH( C3S.writeAd('ad-318x150'),  '318', '150'); adSetType(''); //--> </p>
+<p> <!-- adSetType('F'); htmlAdWH( C3S.writeAd('ad-318x95'),  '318', '95'); adSetType(''); //--> </p>
+<p> Follow Us </p>
+<p> Facebook </p>
+<p> Twitter </p>
+<p> RSS </p>
+<p> Newsletter </p>
+<p> Most popular on AOL </p>
+<p> MyDaily </p>
+<p> Dragon Tattoo New York premiere: Rooney Mara wows in backless... </p>
+<p> Lifestyle </p>
+<p> Don't bin that egg! </p>
+<p> Parentdish </p>
+<p> Gang of nine who smashed autistic teenage girl's face escape... </p>
+<p> Travel </p>
+<p> Is Norway's 1,982ft Pulpit Rock the world's scariest tourist... </p>
+<p> Autoblog </p>
+<p> Westminster Council backs down on weekend and evening parking... </p>
+<p> Parentdish </p>
+<p> Hamleys remove 'sexist' girl and boy signs </p>
+<p> Travel </p>
+<p> Are these buildings the worst eyesores in the UK? </p>
+<p> Autoblog </p>
+<p> Red Bull stuns F1 with all-new Toro Rosso lineup </p>
+<p> Parentdish </p>
+<p> Young mum dies after taking just 'a few extra' paracetamol a day </p>
+<p> Parentdish </p>
+<p> 10-year-old confesses to strangling boy of four with skipping... </p>
+<p> Parentdish </p>
+<p> Pregnant Amanda Holden's over the balloon as friends throw baby... </p>
+<p> Travel </p>
+<p> I can't bear your behaviour! Naughty polar cub told off by mum </p>
+<p> Lifestyle </p>
+<p> Miley Cyrus denies boob job claims </p>
+<p> Parentdish </p>
+<p> Police caught on camera tasering 14-year-old schoolgirl </p>
+<p> MyDaily </p>
+<p> Daisy Lowe and Jaime Winstone take a trip to the ballet </p>
+<p> © </p>
+<p> AOL (UK) Limited its affiliates and licensors </p>
+<p> var Site=Site||{};var C3S=C3S||{}; Site.Cobrand=C3S.getCobrand();Site.PostID="20128753";Site.WSURL="http://search.aol.co.uk/aol/search";Site.BlogURL="lifestyle.aol.co.uk"; Site.Permalink="Sex".substr(0,"Sex".indexOf("|"));Site.CSLogoTitle="AOL Lifestyle"; Site.FacebookAppId="161540180566042";Site.DevID="ao1eNf1KiZR1g1Pf";Site.TwitterAccount="LifestyleAOL"; Site.canvasPath="http://o.aolcdn.com/os/uk-unity/canvas/";Site.blogID="461";Site.ChannelName="Lifestyle"; </p>
+<p> var WebSearchAutocomplete = new AOL.Search.AutoComplete.Construct( document.getElementById("web-search-input"), { searchType: 'web', adjust : { width:202, x:3, y:-2} } ); </p>
+<p> (function($){ 	$(function(){ 		//Aol Comments Multi Auth 		$('#aol-comments-auth-link').multiAuth({ 			devId: 'ao1eNf1KiZR1g1Pf', 			tabs: ['aol', 'aim', 'facebook', 'yahoo', 'google', 'twitter'], 			locale:'gb', 			lang:'en', 			getTokenCallback: function(json) { 				var $elem = $(this.authLink), response = json.response, userAttr; 				if (response.statusCode === 200) { userAttr = response.data.userData.attributes; } 			} 		}); 		//Aol Comments init 		$('#aol-comments').aolComments({ 			channelId : 461, 			topicId : '20128753', 			topicTitle : 'Quarter of young women say they\'ve had underage sex', 			permalink : 'http://lifestyle.aol.co.uk/2011/12/15/quarter-of-young-women-say-theyve-had-underage-sex/', 			topicDescription: ' PANew research has found that 27% of young women have had sex before they reached the legal age of consent.The Health Survey for England 2010 data', 			image : 'http://www.blogcdn.com/lifestyle.aol.co.uk/media/2011/12/young-couple-in-bed-pa.jpg', 			count: '10', 			directURL : 'http://c.aol.com/', 			proxyPath : '/aolc/', 			create_topic : 'true', 			fancyScroll : true, 			adsDivs : '', 			referrer_url: 'http://lifestyle.aol.co.uk/2011/12/15/quarter-of-young-women-say-theyve-had-underage-sex/', 			featuredComments : true, 			tag : 'men,sex,underage sex,women,young women,Sex', 			bs_key : '461-get_plugin(756717025baf412858b1df5c1addaf47)' 		}); 	}); })(jQuery); </p>
+<p> <!-- adSetType('F'); htmlAdWH( C3S.writeAd('ad-reskin-1x1'), '1', '1'); adSetType(''); //--> </p>
+<p> <!-- adSetType('F'); htmlAdWH( C3S.writeAd('ad-pixel-1x1'), '1', '1'); adSetType(''); //--> </p>

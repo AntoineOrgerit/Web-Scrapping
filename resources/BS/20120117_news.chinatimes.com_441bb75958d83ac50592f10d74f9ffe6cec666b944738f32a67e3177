@@ -1,0 +1,56 @@
+<p> 多運動 薪水高 ｜即時新聞｜中時電子報 </p>
+<p> <!-- .txt15 {	font-family: "新細明體", "細明體", Taipei, default;	font-size: 15px;	line-height: 24px;} .txt10 {	font-family: "新細明體", "細明體", Taipei, default;	font-size: 13px;	line-height: 22px;} --> </p>
+<p> var sChannel = 'news'; //在此設定主頻道列代碼      var FocusCategory = "T01"; </p>
+<p> 分類瀏覽 </p>
+<p> 今日焦點 </p>
+<p> 政治要聞 </p>
+<p> 財經產業 </p>
+<p> 股市金融 </p>
+<p> 國際要聞 </p>
+<p> 大陸港澳 </p>
+<p> 社會萬象 </p>
+<p> 影視娛樂 </p>
+<p> 生活新知 </p>
+<p> 地方掃描 </p>
+<p> 科技網路 </p>
+<p> 運動競技 </p>
+<p> 藝文展演 </p>
+<p> 其它 </p>
+<p> 總覽 </p>
+<p> 即時新聞： </p>
+<p> 新聞首頁 </p>
+<p> 即時新聞 </p>
+<p> 國際要聞 </p>
+<p> 引用 </p>
+<p> 轉寄 </p>
+<p> 列印 </p>
+<p> 字體： </p>
+<p> 小 </p>
+<p> ． </p>
+<p> 中 </p>
+<p> ． </p>
+<p> 大 </p>
+<p> document.write('<iframe src="http://www.facebook.com/plugins/like.php?href='+ encodeURIComponent(String(window.location))+'&amp;layout=button_count&amp;show_faces=false&amp;width=90&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border: none; overflow: hidden; width: 90px; height: 21px; position: relative; top: 5px;" allowTransparency="true"></iframe>'); </p>
+<p> <!-- var define_content_1 = "";//無檔案時給script用，避免錯誤訊息出現 //--> </p>
+<p> <!-- function delCookie(name) { 	document.cookie = name + "=; expires=Thu, 01-Jan-70 00:00:01 GMT" + "; path=/"; } delCookie("UNI_ID"); var Channel = "CHINATIMES";																	//頻道 var UNI_ID = "112012011500775";																	//文章ID var define_content_1 = "多運動 薪水高 ";											//標題 var define_content_2 = window.location.href;		//連結 var define_content_3 = "即時新聞｜國際要聞";																	//分類名稱 var define_content_4 = "110104";																	//分類ID var define_content_5 = "2012.01.15";	 var define_content_6 = "22";	 //--> </p>
+<p> 多運動 薪水高 </p>
+<p> 2012-01-15 </p>
+<p> 【中廣新聞／郭希誠】 </p>
+<p> 美國一項研究給運動又找了個好理由，常運動的人，薪水比較多。 </p>
+<p> 克里夫蘭大學「柯斯堤」博士分析了一萬兩千人的運動和薪水之間的關係。結果發現，一個星期游泳、舉重或慢跑的人，薪水比不運動的人高百分之六到百分之九。 </p>
+<p> 「柯斯堤」說，常運動的人不但身體較好，也比較耐操，所以，老闆願意委以重任。 </p>
+<p> 他說，即使是像走路這樣的輕鬆運動，也能帶來較多的薪水。 </p>
+<p> MakeCTIweb20 (); </p>
+<p> var param_partner = "cti_tw_news_focus_content_cm"; 		  		var param_ctxtID="cti_tw_politic_001";  		 var ysm_maxCount = 4;         document.write("<script src='http://www.chinatimes.com/2009Cti/cthead/Scripts-utf8/yahoo.js' charset='utf-8'></sc" + "ript>"); </p>
+<p> var id = "112012011500775"; var url = "http://122.147.50.139/wise/relatedTopic.jsp?id="  +  id; var NewE = document.createElement("SCRIPT"); NewE.type = "text/javascript";   NewE.src=url; document.getElementsByTagName("head")[0].appendChild(NewE); </p>
+<p> spac_writeAd ( "/SITE=CHINATIMES.TW/AREA=NEWS.HP/AAMSZ=292X22/POSITION=RIGHT01" ); </p>
+<p> spac_writeAd ( "/SITE=CHINATIMES.TW/AREA=NEWS.HP/AAMSZ=292X22/POSITION=RIGHT02" ); </p>
+<p> spac_writeAd ( "/SITE=CHINATIMES.TW/AREA=NEWS.HP/AAMSZ=292X22/POSITION=RIGHT03" ); </p>
+<p> spac_writeAd ( "/SITE=CHINATIMES.TW/AREA=NEWS.HP/AAMSZ=292X22/POSITION=RIGHT04" ); </p>
+<p> spac_writeAd ( "/SITE=CHINATIMES.TW/AREA=NEWS.HP/AAMSZ=292X22/POSITION=RIGHT05" ); </p>
+<p> spac_writeAd ( "/SITE=CT_NOWNEWS.TW/AREA=NOWNEWS.CP/AAMSZ=300X100/POSITION=RIGHTC" ); </p>
+<p> 旅遊行程推薦 </p>
+<p> spac_writeAd ( "/SITE=CT_NOWNEWS.TW/AREA=NEWS.THP/AAMSZ=298X482/POSITION=MIDDLE0" ); </p>
+<p> var bNeedCtiMenu=true; </p>
+<p> var _gaq = _gaq || [];      _gaq.push(['_setAccount', 'UA-949390-1']);    _gaq.push(['_trackPageview']);   _gaq.push(['_trackPageLoadTime']);    (function() {     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);   })(); </p>
+<p> _atrk_opts = { atrk_acct: "JvLre1aYs600Mr", domain:"chinatimes.com"}; atrk (); </p>

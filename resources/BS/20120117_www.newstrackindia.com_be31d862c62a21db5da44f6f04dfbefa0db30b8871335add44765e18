@@ -1,0 +1,158 @@
+<p> function checkEmail(email) { 	if (/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/.test(email)){ 	return (true) 	} 	alert("Please enter correct e-mail") 	return (false); }   function validateForm(theForm){ 		 	if(theForm.name.value == ""){ 		//Please enter user id 		alert("Please enter your name!"); 		theForm.name.focus(); 		return false; 	}  	if(theForm.email.value == ""){ 		//Please enter user id 		alert("Please enter your email address!"); 		theForm.email.focus(); 		return false; 	}  	if(checkEmail(theForm.email.value) == false){ 		theForm.email.focus(); 		return false; 	}   	if(theForm.phno.value == ""){ 		//Please enter user id 		alert("Please enter your phone no!"); 		theForm.phno.focus(); 		return false; 	}  	 	if(theForm.commentText.value == ""){ 		//Please enter user id 		alert("Please enter your Comment here!"); 		theForm.commentText.focus(); 		return false; 	}  	 	return true; }   var min=8; var max=18; function increaseFontSize() {    var p = document.getElementsByTagName('p');    for(i=0;i<p.length;i++) {       if(p[i].style.fontSize) {          var s = parseInt(p[i].style.fontSize.replace("px",""));       } else {          var s = 12;       }       if(s!=max) {          s += 1;       }       p[i].style.fontSize = s+"px"    } } function decreaseFontSize() {    var p = document.getElementsByTagName('p');    for(i=0;i<p.length;i++) {       if(p[i].style.fontSize) {          var s = parseInt(p[i].style.fontSize.replace("px",""));       } else {          var s = 12;       }       if(s!=min) {          s -= 1;       }       p[i].style.fontSize = s+"px"    }    } </p>
+<p> Meet the virgin who fathered 14 children </p>
+<p> Tue, Jan 17, 2012 </p>
+<p> <!--    e9 = new Object();    e9.size = "728x90,468x60";    e9.noAd = 1; //--> </p>
+<p> HOME </p>
+<p> | </p>
+<p> SOCIETY </p>
+<p> | </p>
+<p> WORLD </p>
+<p> | </p>
+<p> ECONOMY </p>
+<p> | </p>
+<p> SPORTS </p>
+<p> | </p>
+<p> SCI-TECH </p>
+<p> | </p>
+<p> EDITORIAL </p>
+<p> | </p>
+<p> FEATURES </p>
+<p> | </p>
+<p> HUMOUR </p>
+<p> | </p>
+<p> HEALTH </p>
+<p> | </p>
+<p> LIFE STYLE </p>
+<p> | </p>
+<p> ARTS-CULTURE </p>
+<p> | </p>
+<p> ENTERTAINMENT </p>
+<p> | </p>
+<p> SPECIAL </p>
+<p> Search </p>
+<p> Look for: </p>
+<p> Last 1 Month </p>
+<p> Last 6 Months </p>
+<p> All time </p>
+<p> TOP SEARCHES: </p>
+<p> UGC </p>
+<p> , </p>
+<p> Delhi </p>
+<p> , </p>
+<p> Maharashtra </p>
+<p> , </p>
+<p> Rajasthan </p>
+<p> , </p>
+<p> Mumbai </p>
+<p> , </p>
+<p> Karnataka </p>
+<p> , </p>
+<p> Agra </p>
+<p> , </p>
+<p> Police </p>
+<p> , </p>
+<p> inflation </p>
+<p> , </p>
+<p> ICICI Bank </p>
+<p> , </p>
+<p> OTHER TOP STORIES </p>
+<p> Manipur journalists condemn threats to media from insurgents </p>
+<p> X-ray of rare Shiva statue surprises Amsterdam museum </p>
+<p> Stacy Keibler signed up by famous talent agency </p>
+<p> India, China set up working mechanism to resolve boundary issues </p>
+<p> Jodie Marsh wants another boob job despite worrying over PIP </p>
+<p> 'Multicolored hair band' lands tennis star Laura Robson in gay rights controversy </p>
+<p> <!-- google_ad_client = "pub-8521061892309803"; //200x200, created 1/11/08 google_ad_slot = "3713164742"; google_ad_width = 200; google_ad_height = 200; //--> </p>
+<p> More from this section </p>
+<p> Stacy Keibler signed up by famous talent agency </p>
+<p> Madonna uses fame for ' the greater good' </p>
+<p> 50 James Bond cars on show mark 50 years of spy saga </p>
+<p> Kate Winslet ready to take up 'ultimate challenge' and play a man </p>
+<p> Peter Andre to go on 'caveman' diet </p>
+<p> Rihanna on booze filled holiday in Hawaii </p>
+<p> <!-- google_ad_client = "pub-8521061892309803"; //160x600, created 1/11/08 google_ad_slot = "1829600949"; google_ad_width = 160; google_ad_height = 600; //--> </p>
+<p> Home </p>
+<p> :: </p>
+<p> Entertainment </p>
+<p> Meet the virgin who fathered 14 children </p>
+<p> London,   Tue, 17 Jan 2012 </p>
+<p> ANI </p>
+<p> London, Jan 17 (ANI): A man in US has the unique distinction of never having had sex but still managing to father 14 children through sperm donation. </p>
+<p> Trent Arsenault, 36, hit the headlines last December when his free sperm bank came under investigation from the US Food and Drug Administration, which threatened him with a 100,000-dollar fine and up to a year in jail. </p>
+<p> Now, the California local who bills himself as having an ideal gene pool to father children, has revealed that he is still a virgin. </p>
+<p> He made this confession on Anderson Cooper's daytime show, 'Anderson'. The self-confessed tech-geek, an expert in Silicon Valley, is in the highly unusual position of never having had sex, but fathering 14 healthy offspring. </p>
+<p> "I coined this term 'donor sexual' and I'll explain it means 100 per cent of my sexual energy is for producing sperm for childless couples to have babies. So I don't have other activity outside of that," the Daily Mail quoted him as saying on the show. </p>
+<p> "I will probably be the 40-year-old virgin... except I'll have 15 plus kids,' he said. </p>
+<p> The audience greeted that statement with applause while Cooper was left laughing in confusion. </p>
+<p> Arsenault was visibly moved by meeting one of his offspring for the first time, when Analise, who turns two this week, walked on to the stage at the show. </p>
+<p> "I'm trying to not get too emotional," he said. </p>
+<p> "I'm just extremely happy that she's healthy and in a loving home. I hope she has the gene of compassion and that her parents nurture that," he said. </p>
+<p> Through a website, he touts his sperm as being organic but a health expert on the show warned that his unusual approach to fatherhood opens the door to spreading viral diseases such as HIV. </p>
+<p> Her fears echo those of the FDA which claims Arsenault did not take precautions to prevent disease spreading and found him to be unlawfully manufacturing human cells. </p>
+<p> The agency issued a 'cease-and-desist order' in what is the first ever case of its kind involving a private sperm donor in the US. </p>
+<p> Arsenault said in the past that he is simply helping out childless couples in situations where the only other alternative would be sex with a stranger. </p>
+<p> "I'm helping people in need... I'm not running a business here," he was quoted as telling the Huffington Post. (ANI) </p>
+<p> <!-- google_ad_client = "ca-pub-8521061892309803"; /* 336x280-bottom-1 */ google_ad_slot = "7119820977"; google_ad_width = 336; google_ad_height = 280; //--> </p>
+<p> RELATED STORIES </p>
+<p> Meeting of PUDR on â??Repression by Stateâ??: a civil rights perspective </p>
+<p> . </p>
+<p> Hyderabad space Meet; ISRO unveiled plan for future space mission </p>
+<p> . </p>
+<p> Global Meet on Disaster risk on Wednesday in Delhi </p>
+<p> . </p>
+<p> Meet the cat that has been trained better than a dog! </p>
+<p> . </p>
+<p> `Meeting Mandela was like being in the presence of God,' says F1 ace Hamilton </p>
+<p> . </p>
+<p> Meet the Brit man who is turning into a woman - naturally! </p>
+<p> . </p>
+<p> <!-- google_ad_client = "ca-pub-8521061892309803"; /* bottom-link-1 */ google_ad_slot = "2530436883"; google_ad_width = 468; google_ad_height = 15; //--> </p>
+<p> <!-- google_ad_client = "ca-pub-8521061892309803"; /* bottom-link-1 */ google_ad_slot = "2530436883"; google_ad_width = 468; google_ad_height = 15; //--> </p>
+<p> <!-- google_ad_client = "ca-pub-8521061892309803"; /* bottom-link-1 */ google_ad_slot = "2530436883"; google_ad_width = 468; google_ad_height = 15; //--> </p>
+<p> MORE... </p>
+<p> Top Searches </p>
+<p> . </p>
+<p> Social bookmark this page </p>
+<p> addthis_url    = location.href;      addthis_title  = document.title;     addthis_pub    = 'newstrackindia'; </p>
+<p> Comment Details </p>
+<p> HOME </p>
+<p> | </p>
+<p> SOCIETY </p>
+<p> | </p>
+<p> WORLD </p>
+<p> | </p>
+<p> ECONOMY </p>
+<p> | </p>
+<p> SPORTS </p>
+<p> | </p>
+<p> SCI-TECH </p>
+<p> | </p>
+<p> EDITORIAL </p>
+<p> | </p>
+<p> FEATURES </p>
+<p> | </p>
+<p> HUMOUR </p>
+<p> | </p>
+<p> HEALTH </p>
+<p> | </p>
+<p> LIFE STYLE </p>
+<p> | </p>
+<p> ARTS-CULTURE </p>
+<p> | </p>
+<p> ENTERTAINMENT </p>
+<p> | </p>
+<p> SPECIAL </p>
+<p> Careers </p>
+<p> | </p>
+<p> Privacy Policy </p>
+<p> | </p>
+<p> Feedback </p>
+<p> | </p>
+<p> About Us </p>
+<p> | </p>
+<p> Contact Us </p>
+<p> | | </p>
+<p> Latest News </p>
+<p> Copyright © 2011 NEWS TRACK India All rights reserved. </p>
+<p> _uacct = "UA-287488-2"; urchinTracker(); </p>
+<p> var dc_AdLinkColor = 'blue' ; var dc_UnitID = 14 ; var dc_PublisherID = 31247 ; var dc_adprod = 'ADL' ; </p>

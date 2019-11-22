@@ -1,0 +1,466 @@
+<p> ΤΟ ΒΗΜΑ - Από τη Θράκη ως τη... Σοφοκλέους - υγεία + fitness </p>
+<p> var relatedWide = 0; </p>
+<p> var NvPage = {     PageId: 6321,     LanguageId: 1,     PageHierarchy: ".6320.6321." } </p>
+<p> // <![CDATA[[ if (typeof Adman === 'undefined' || /MSIE [456]/.test(navigator['appVersion'])) document.write ('<scr'+'ipt src="http://static.adman.gr/adman.js" language="javascript" type="text/javascript"></'+'sc'+'ript>'); var now=parseInt((new Date()).getTime()); if (!window.admantpid) window.admantpid = now; var rnd=Math.floor(Math.random()*900000)+100,cdp=screen.width+"x"+screen.height+"x"+(navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth),burst="?"+rnd+":="+window.admantpid +"@"+cdp+"?"; document.write("<scr"+"ipt language=\"Javascript\" src=\"http://adman.in.gr/gbanner/?"+now+"|904/1x1"+burst+"/\">"); document.write("</"+"sc"+"ript>"); // ]]> </p>
+<p> ΕΓΓΡΑΦΗ </p>
+<p> ΕΙΣΟΔΟΣ </p>
+<p> ΒΗΜΑ24 </p>
+<p> Ιστορικό Αρχείο ΔΟΛ </p>
+<p> PDF όπως στο χαρτί </p>
+<p> Τροποποίηση Στοιχείων Μέλους </p>
+<p> Επιλογές Newsletter </p>
+<p> πολιτική </p>
+<p> οικονομία </p>
+<p> γνώμες </p>
+<p> blogs </p>
+<p> κόσμος </p>
+<p> επιστήμη </p>
+<p> κοινωνία </p>
+<p> πολιτισμός </p>
+<p> αθλητισμός </p>
+<p> $(document).ready(function(){          $("body").attr("id",'page_'+getIdPageStyle());          $("div.type_homepage").attr("id",getIdPageStyle()); 	 $("div.type_tagpage").attr("id",getIdPageStyle()); 	 $("div.type_article").attr("id",getIdPageStyle()); 	 $("div.gallery_page").attr("id",getIdPageStyle()); 	 $("div.webtv_page").attr("id",getIdPageStyle()); 	 $("div.eikonatisimeras_page").attr("id",getIdPageStyle()); 	 $("div.eikones_page").attr("id",getIdPageStyle());          $("div.type_editors").attr("id",getIdPageStyle()); 	 $("div.eikonastisimeras_page").attr("id",getIdPageStyle());   $("span#goto_news_").attr("id",'goto_news_'+getIdPageStyle()); 	 $("div.navigation_menu").css("visibility","visible");        }) </p>
+<p> από </p>
+<p> freemeteo.com </p>
+<p> Παρασκευή 6 Ιανουαρίου 2012 </p>
+<p> , </p>
+<p> Τα Αγια Θεοφ </p>
+<p> ... </p>
+<p> ΑΝΑΖΗΤΗΣΗ </p>
+<p> παιδεία </p>
+<p> βιβλία + ιδέες </p>
+<p> υγεία + fitness </p>
+<p> εργασία </p>
+<p> media </p>
+<p> περιβάλλον </p>
+<p> ταξίδι </p>
+<p> hi tech </p>
+<p> οδηγώ </p>
+<p> web tv </p>
+<p> εικόνες </p>
+<p> ψυχαγωγία </p>
+<p> φλας </p>
+<p> comedy </p>
+<p> BHMagazino </p>
+<p> BHMAgourmet </p>
+<p> BHMAdeco </p>
+<p> BHMAdonna </p>
+<p> BHMAmen </p>
+<p> BHMA FM </p>
+<p> night </p>
+<p> store </p>
+<p> ΕΛΕΥΘΕΡΙΑ ΚΟΛΛΙΑ </p>
+<p> RSS </p>
+<p> Όλα τα άρθρα του συντάκτη σε RSS </p>
+<p> $(document).ready(function(){ $("#email").mouseover(function() { $(jQuery($(this).next())).css("left",$(this).position().left - 40); $(jQuery($(this).next())).show(); }).mouseout(function() { $(jQuery($(this).next())).hide(); }); $("#www").mouseover(function() { $(jQuery($(this).next())).css("left",$(this).position().left - 40); $(jQuery($(this).next())).show(); }).mouseout(function() { $(jQuery($(this).next())).hide(); }); $("#fb").mouseover(function() { $(jQuery($(this).next())).css("left",$(this).position().left - 47); $(jQuery($(this).next())).show(); }).mouseout(function() { $(jQuery($(this).next())).hide(); }); $("#tw").mouseover(function() { $(jQuery($(this).next())).css("left",$(this).position().left - 47); $(jQuery($(this).next())).show(); }).mouseout(function() { $(jQuery($(this).next())).hide(); }); $("#rss").mouseover(function() { $(jQuery($(this).next())).css("left",$(this).position().left - 45); $(jQuery($(this).next())).show(); }).mouseout(function() { $(jQuery($(this).next())).hide(); }); }); </p>
+<p> Από τη Θράκη ως τη... Σοφοκλέους </p>
+<p> Το Παντοπωλείο της Μεσογειακής Διατροφής δίνει μία άλλη γεύση στην καθημερινότητά μας </p>
+<p> ΔΗΜΟΣΙΕΥΣΗ:  29/11/2011, 07:47 </p>
+<p> var addthis_config = { "data_track_clickback": true }; </p>
+<p> email </p>
+<p> εκτύπωση </p>
+<p> μικρό μέγεθος </p>
+<p> μεγάλο μέγεθος </p>
+<p> $(document).ready(function(){      var midiaGallery = new ImageMediaGallery('div#main-article-gallery[jKey=onarticleImages]',{onArticle : true , visibleItems : 4, onArticleMediaImages: true , articleId :432509 });         midiaGallery.initImageGalleryOnArticle();                 }); </p>
+<p> 2  φωτογραφίες </p>
+<p> Έχει ελπίδες το gourmet, εν μέσω κρίσης; Πώς συμπεριφέρεται ο καταναλωτής σε αυτόν που πουλά νέκταρ από πορφυρό οίνο και ρόδα, πρέντζα Κεφαλλονιάς και μυζηθροπιτάκια από την Κρήτη ; Παραδόξως, η απάντηση είναι θετική : τη δίνει ο 63χρονος κ. </p>
+<p> Γιάννης Μπαρμπαλιάς </p>
+<p> , ιδιοκτήτης του </p>
+<p> Παντοπωλείου της Μεσογειακής Διατροφής </p>
+<p> . </p>
+<p> « </p>
+<p> Λάτρης των ελληνικών παραδοσιακών γεύσεων </p>
+<p> », ο κ. Μπαρμπαλιάς αποφάσισε να τις κάνει κύριο επαγγελματικό αντικείμενο, το 2000, όταν ακόμη διατηρούσε εταιρεία, σε συνεργασία με την Αγροτική τράπεζα, για τη μελέτη και την αξιοποίηση ακινήτων. Η γνωριμία με τους αγροτικούς συνεταιρισμούς λειτούργησε καταλυτικά. Ακόμη και σήμερα άλλωστε αποτελούν βασικούς τροφοδότες του - όπως και οι μικρές οικοτεχνίες, και οι γυναικείοι συνεταιρισμοί - , με κορυφαία παραδείγματα τους κροκοπαραγωγούς Κοζάνης και τους μαστιχοπαραγωγούς Χίου. </p>
+<p> «Αρχική ιδέα ήταν να μεταφέρουμε την αυθεντικότητα γεύσεων της ελληνικής υπαίθρου, από τη Θράκη ως την Κρήτη, στα πόδια του αθηναίου», </p>
+<p> τονίζει ο ίδιος.  « </p>
+<p> Ξεκινήσαμε διστακτικά με 700 κωδικούς, και σήμερα φιλοξενούμε στα ράφια περισσότερους από 2.000, από περίπου 200 παραγωγούς, από όλη την Ελλάδα. Θα ήταν ψέμα να πω ότι η κρίση μας έχει αγγίξει. Ο κόσμος συνεχίζει να ψάχνεται, να δοκιμάζει γεύσεις. Η διαφορά με το παρελθόν είναι ότι ψωνίζει πιο ορθολογικά. Συμβάλλει βεβαίως και το γεγονός ότι η διατροφή είναι πια κομμάτι του σύγχρονου τρόπου ζωής, όπως συμβάλλει και η μείωση των κοινωνικών εξόδων, σε αντιδιαστολή με τις συγκεντρώσεις και το φαγητό στο σπίτι». </p>
+<p> Συχνά - πυκνά, έξω από το κατάστημα της Σοφοκλέους, μπορεί να συναντήσει κανείς stand με προϊόντα_ ελιές, τυριά, τσίπουρο, ελαιόλαδο, μανιτάρια. </p>
+<p> « </p>
+<p> Το κατάστημα έχει πρόθεση να εκπαιδεύσει σε θέματα γευσιγνωσίας τον όποιο ενδιαφερόμενο, του δίνει ευκαιρία να αντιληφθεί τον κόπο της παρασκευής, αλλά και τη διαφορά στην ποιότητα, εντέλει τον καλεί να μπει στο μαγαζί», </p>
+<p> σημειώνει ο κ. Μπαρμπαλιάς, δηλώνοντας ότι δεν υπάρχει μέρα που να μην περάσει από το μαγαζί, « </p>
+<p> όχι τόσο γιατί τον χρειάζονται, αλλά επειδή του αρέσει </p>
+<p> ». </p>
+<p> Συμπληρώνει, δε, ότι απευθύνεται στους απανταχού - και ανεξαρτήτως φύλου - « </p>
+<p> μερακλήδες», «που αγαπούν το… άλλο life style, και πάντως όχι αυτό του τι ρολόι φοράς». </p>
+<p> Το Παντοπωλείο της Μεσογειακής Διατροφής: Σοφοκλέους 1 & Αριστείδου </p>
+<p> Υγεία + fitness </p>
+<p> περισσότερες ειδήσεις </p>
+<p> var addthis_config = { "data_track_clickback": true }; </p>
+<p> email </p>
+<p> εκτύπωση </p>
+<p> μικρό μέγεθος </p>
+<p> μεγάλο μέγεθος </p>
+<p> Διαφήμιση </p>
+<p> ΟΤΕ TV Προτάσεις εβδομάδας! </p>
+<p> var hasarticle = 0; </p>
+<p> ΔΙΑΒΑΣΤΕ ΕΠΙΣΗΣ </p>
+<p> $(document).ready(function(){ 				 if (hasarticle == 0){ 				 	if(jQuery(".article_readalso").length > 0){  					$(".article_readalso").remove();} 				 } 				 }); </p>
+<p> $(document).ready(function(){ 					if(relatedWide < 2) 						$(".article_readalsomore").attr("id","wide"); 				}); </p>
+<p> $(document).ready(function(){ FontSize.Initialize(".article_text", ".rel-icon-font-large", ".rel-icon-font-small"); }); </p>
+<p> σχόλια </p>
+<p> (0) </p>
+<p> Τίτλος σχολίου </p>
+<p> * </p>
+<p> Γράψτε το σχόλιό σας </p>
+<p> * </p>
+<p> (έως 2000 χαρακτήρες) </p>
+<p> απομένουν </p>
+<p> 2000 </p>
+<p> χαρακτήρες </p>
+<p> jQuery(function(){                         jQuery(".article_comments_form_items").tCounter();                   }); </p>
+<p> E-mail </p>
+<p> * </p>
+<p> Όνομα που θα εμφανιστεί το σχόλιό σας </p>
+<p> Τα πεδία που είναι σημειωμένα με </p>
+<p> * </p>
+<p> είναι υποχρεωτικά </p>
+<p> Γράψτε το κείμενο όπως το διαβάζετε παρακάτω: </p>
+<p> Αν το κείμενο δεν είναι ευδιάκριτο, </p>
+<p> πατήστε εδώ </p>
+<p> να δημιουργηθεί νέο κείμενο. </p>
+<p> Αποστολή μηνύματος </p>
+<p> Καθαρισμός </p>
+<p> Τα μηνύματα που δημοσιεύονται στο χώρο αυτό εκφράζουν τις απόψεις των αποστολέων τους. Το ΒΗΜΑ δεν υιοθετεί καθ’ οιονδήποτε τρόπο τις απόψεις αυτές. Ο καθένας έχει δικαίωμα να εκφράζει την γνώμη του, όποια και να είναι αυτή. Δεν δημοσιεύονται συκοφαντικά ή υβριστικά σχόλια. Τέτοια μηνύματα θα διαγράφονται όποτε εντοπίζονται. </p>
+<p> Vimahealth </p>
+<p> Σταθείτε σωστά, γλιτώστε από πόνους </p>
+<p> http://bit.ly/tEoIqT </p>
+<p> tovima </p>
+<p> Τρίτο πρόσωπο κατονόμασαν οι δύο οικονομικοί εισαγγελείς κκ. Γρ. Πεπόνης και Σπ. Μουζακίτης ως αυτό που μετέφερε σύσταση - δυσαρέσκεια υπουργού για συγκεκριμένη υπόθεση την οποία χειρίζονταν, εξηγώντας τις καταγγελίες τους περί παρεμβάσεων στο έργο τους. </p>
+<p> $(document).ready(function(){ 				 				$(".facebook_follow").html('<iframe src="http://www.facebook.com/plugins/like.php?href="{link}"&amp;layout=button_count&amp;show_faces=false&amp;width=86&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:86px; height:21px;" allowTransparency="true"></iframe>'); 				}); </p>
+<p> Newsroom </p>
+<p> Βαρυχειμωνιά στις αερομεταφορές </p>
+<p> [05/01/2012, 23:56] </p>
+<p> Στον ΟΑΕΕ στα 67 μου... </p>
+<p> [05/01/2012, 23:54] </p>
+<p> Καύσιμα με εγγύηση τις συμβάσεις εκτέλεσης δρομολογίων </p>
+<p> [05/01/2012, 23:52] </p>
+<p> Αλματα παραλογισμού </p>
+<p> [05/01/2012, 23:45] </p>
+<p> Το κόστος της αναδιάρθρωσης </p>
+<p> [05/01/2012, 23:37] </p>
+<p> Επιστροφή ή στη δεκαετία του ΄50 ή του ΄80! </p>
+<p> [05/01/2012, 23:37] </p>
+<p> Οι εκλογές και η ΝΔ </p>
+<p> [05/01/2012, 23:36] </p>
+<p> Ευχή ή κατάρα για την Ελλάδα; </p>
+<p> [05/01/2012, 23:36] </p>
+<p> Στο κόκκινο τα Χρηματιστήρια Αθηνών και Ευρώπης </p>
+<p> [05/01/2012, 23:32] </p>
+<p> Αρνείται να διαπραγματευθεί με την τρόικα η ΝΔ για τις επικουρικές </p>
+<p> [05/01/2012, 23:21] </p>
+<p> Λ. Παπαδήμος: Κόκκινη γραμμή είναι η σωτηρία της χώρας </p>
+<p> [05/01/2012, 23:19] </p>
+<p> Η ποίηση της Δευτέρας </p>
+<p> [05/01/2012, 23:12] </p>
+<p> περισσότερες ειδήσεις </p>
+<p> SITEMAP </p>
+<p> RSS ΕΝΟΤΗΤΩΝ </p>
+<p> RSS ΣΥΝΤΑΚΤΩΝ </p>
+<p> $(document).ready(function () {             $("select[name='moreUrlNavigateSelect']").change(function () {                 $("select option:selected").each(function () {                     if ($(this).attr('value') != 'null') {                         window.open($(this).attr('value'), "newwindow");                      }                 });             });         }); </p>
+<p> ΤΟ ΒΗΜΑ </p>
+<p> πολιτική </p>
+<p> οικονομία </p>
+<p> επικαιρότητα </p>
+<p> αγορές </p>
+<p> επιχειρήσεις </p>
+<p> διεθνή </p>
+<p> γνώμες </p>
+<p> blogs </p>
+<p> κόσμος </p>
+<p> κοινωνία </p>
+<p> αθλητισμός </p>
+<p> science </p>
+<p> ιατρική-βιολογία </p>
+<p> φυσική-διάστημα </p>
+<p> τεχνολογία-πλανήτης </p>
+<p> μαθηματικά-πληροφορική </p>
+<p> ψυχολογία-κοινωνιολογία </p>
+<p> έρευνα </p>
+<p> πολιτισμός </p>
+<p> αρχαιολογία </p>
+<p> εικαστικά </p>
+<p> θέατρο </p>
+<p> κινηματογράφος </p>
+<p> μουσική </p>
+<p> πρόσωπα </p>
+<p> παιδεία </p>
+<p> βιβλία + ιδέες </p>
+<p> υγεία + fitness </p>
+<p> media </p>
+<p> περιβάλλον </p>
+<p> hi tech </p>
+<p> ταξίδι </p>
+<p> οδηγώ </p>
+<p> comedy </p>
+<p> web tv </p>
+<p> εικόνες </p>
+<p> ψυχαγωγία </p>
+<p> φλας </p>
+<p> εργασία </p>
+<p> store </p>
+<p> night </p>
+<p> BHMagazino </p>
+<p> Συνεντεύξεις </p>
+<p> Μ΄ αρέσει </p>
+<p> Βλέμματα </p>
+<p> Last Page </p>
+<p> Εκκεντρικοί </p>
+<p> 24x7 </p>
+<p> BHMAgourmet </p>
+<p> Συνταγές </p>
+<p> Εστιατόρια </p>
+<p> Παντοπωλείο </p>
+<p> Κάβα </p>
+<p> Νοστιμιά </p>
+<p> BHMAdeco </p>
+<p> Σπίτια </p>
+<p> Τάσεις </p>
+<p> Δημιουργός </p>
+<p> Κήπος </p>
+<p> Αγορά </p>
+<p> BHMAdonna </p>
+<p> Μόδα </p>
+<p> Ομορφιά </p>
+<p> Σχέσεις </p>
+<p> Μίλα μου </p>
+<p> Shopping </p>
+<p> Μητέρα </p>
+<p> BHMAmen </p>
+<p> Αντρες </p>
+<p> Γυναίκες </p>
+<p> Στυλ </p>
+<p> Manual </p>
+<p> Κουβέντες </p>
+<p> Spirits </p>
+<p> BHMA FM </p>
+<p> Ακούστε ζωντανά </p>
+<p> Πρόγραμμα </p>
+<p> Παραγωγοί </p>
+<p> Διαγωνισμοί </p>
+<p> Χορηγίες </p>
+<p> Προσφορές </p>
+<p> Συνεντεύξεις </p>
+<p> Άλλοι δικτυακοί τόποι </p>
+<p> ΤA ΝΕΑ </p>
+<p> in.gr </p>
+<p> Βήμα Ιδεών </p>
+<p> BHMAFM 99,5 </p>
+<p> $(document).ready(function () {             $("select[name='moreUrlNavigateSelect']").change(function () {                 $("select option:selected").each(function () {                     if ($(this).attr('value') != 'null') {                         window.open($(this).attr('value'), "newwindow");                      }                 });             });         }); </p>
+<p> ΕΝΟΤΗΤΕΣ </p>
+<p> πολιτική </p>
+<p> οικονομία </p>
+<p> γνώμες </p>
+<p> blogs </p>
+<p> κόσμος </p>
+<p> science </p>
+<p> κοινωνία </p>
+<p> πολιτισμός </p>
+<p> αθλητισμός </p>
+<p> παιδεία </p>
+<p> βιβλία + ιδέες </p>
+<p> υγεία + fitness </p>
+<p> media </p>
+<p> περιβάλλον </p>
+<p> hi tech </p>
+<p> ταξίδι </p>
+<p> οδηγώ </p>
+<p> comedy </p>
+<p> web tv </p>
+<p> εικόνες </p>
+<p> ψυχαγωγία </p>
+<p> φλας </p>
+<p> εργασία </p>
+<p> ΒΗΜαgazino </p>
+<p> ΒΗΜΑgourmet </p>
+<p> ΒΗΜΑFM99,5 </p>
+<p> ΒΗΜΑdeco </p>
+<p> ΒΗΜΑdonna </p>
+<p> ΒΗΜΑmen </p>
+<p> night </p>
+<p> $(document).ready(function () {             $("select[name='moreUrlNavigateSelect']").change(function () {                 $("select option:selected").each(function () {                     if ($(this).attr('value') != 'null') {                         window.open($(this).attr('value'), "newwindow");                      }                 });             });         }); </p>
+<p> ΣΥΝΤΑΚΤΕΣ </p>
+<p> Νικολαΐδης Ηλίας </p>
+<p> | </p>
+<p> T </p>
+<p> Thomas Friedman </p>
+<p> | </p>
+<p> Α </p>
+<p> Ανδρουλάκης Μίμης </p>
+<p> | </p>
+<p> Αντιγόνη Πάντα - Χαρβά </p>
+<p> | </p>
+<p> Αντώνης Καρακούσης </p>
+<p> | </p>
+<p> Αρης Ραβανός </p>
+<p> | </p>
+<p> Αφροδίτη Γραμμέλη </p>
+<p> | </p>
+<p> Β </p>
+<p> Βαγγέλης Αρναούτογλου </p>
+<p> | </p>
+<p> Βαγγέλης Κιούσης </p>
+<p> | </p>
+<p> Βασίλης Γ. Λαμπρόπουλος </p>
+<p> | </p>
+<p> Βασίλης Κώτσης </p>
+<p> | </p>
+<p> Βασίλης Χιώτης </p>
+<p> | </p>
+<p> Βίδος Κοσμάς </p>
+<p> | </p>
+<p> Βίδος Κοσμάς </p>
+<p> | </p>
+<p> Γ </p>
+<p> Γεράσιμος Τρύφωνας </p>
+<p> | </p>
+<p> Γεώργιος Π. Μαλούχος </p>
+<p> | </p>
+<p> Γιάννης Γεωργάκης </p>
+<p> | </p>
+<p> Γιάννης Ζουμπουλάκης </p>
+<p> | </p>
+<p> Γιάννης Ζουμπουλάκης </p>
+<p> | </p>
+<p> Γιάννης Καρτάλης </p>
+<p> | </p>
+<p> Γιάννης Σκόκας </p>
+<p> | </p>
+<p> Γιάννης Τζούστας </p>
+<p> | </p>
+<p> Γιώργος Βέλτσος </p>
+<p> | </p>
+<p> Γιώργος Νάστος </p>
+<p> | </p>
+<p> Γιώργος Παπαϊωάννου </p>
+<p> | </p>
+<p> Γιώργος Ρωμαίος </p>
+<p> | </p>
+<p> Γιώργος Σκίντσας </p>
+<p> | </p>
+<p> Γιώτης Παναγιωτάς </p>
+<p> | </p>
+<p> Δ </p>
+<p> Δήμητρα Κρουστάλλη </p>
+<p> | </p>
+<p> Δημήτρης Δανίκας </p>
+<p> | </p>
+<p> Δημήτρης Κ. Ψυχογιός </p>
+<p> | </p>
+<p> Δημήτρης Νικολακόπουλος </p>
+<p> | </p>
+<p> Διονύσης Βυθούλκας </p>
+<p> | </p>
+<p> Ε </p>
+<p> Ελλη Ισμαηλίδου </p>
+<p> | </p>
+<p> Ζ </p>
+<p> Ζήσης Ι. Καραβάς </p>
+<p> | </p>
+<p> Ζώης Τσώλης </p>
+<p> | </p>
+<p> Ζώτος Μάκης </p>
+<p> | </p>
+<p> Η </p>
+<p> Ηρώ Πογκόη </p>
+<p> | </p>
+<p> Θ </p>
+<p> Θοδωρής Λαΐνας </p>
+<p> | </p>
+<p> Ι </p>
+<p> Ιωάννα Κουμπαρέλη </p>
+<p> | </p>
+<p> Κ </p>
+<p> Καρασαρίνης Μάρκος </p>
+<p> | </p>
+<p> Κέλλυ Σώκου </p>
+<p> | </p>
+<p> Κονιδάρης Ιωάννης Μ. </p>
+<p> | </p>
+<p> Κωβαίος Αγγελος </p>
+<p> | </p>
+<p> Λ </p>
+<p> Λιάκος Αντώνης </p>
+<p> | </p>
+<p> Λιαρόπουλος Λυκούργος </p>
+<p> | </p>
+<p> Λουκάκης Θεόδωρος Π. </p>
+<p> | </p>
+<p> Λώρη Κέζα </p>
+<p> | </p>
+<p> Μ </p>
+<p> Μαριλένα Αστραπέλλου </p>
+<p> | </p>
+<p> Μαυρομμάτης Μανώλης </p>
+<p> | </p>
+<p> Μπακουνάκης Νίκος </p>
+<p> | </p>
+<p> Ν </p>
+<p> Νικολόπουλος Γιάννης </p>
+<p> | </p>
+<p> Νίκος Π. Λινάρδος </p>
+<p> | </p>
+<p> Ντίνος Σιωμόπουλος </p>
+<p> | </p>
+<p> Π </p>
+<p> Παντελής Καψής </p>
+<p> | </p>
+<p> Παύλος Ελευθεριάδης </p>
+<p> | </p>
+<p> Ρ </p>
+<p> Ριχάρδος Σωμερίτης </p>
+<p> | </p>
+<p> Ριχάρδος Σωμερίτης </p>
+<p> | </p>
+<p> Σ </p>
+<p> Σάκης Δημητρακόπουλος </p>
+<p> | </p>
+<p> Σαμπράκος Βασίλης </p>
+<p> | </p>
+<p> Σήφης Πολυμίλης </p>
+<p> | </p>
+<p> Στάθης Ευσταθιάδης </p>
+<p> | </p>
+<p> Σταμπόγλης Διονύσης </p>
+<p> | </p>
+<p> Στέλιος Σοφιανός </p>
+<p> | </p>
+<p> Στουρνάρας Γιάννης </p>
+<p> | </p>
+<p> Τ </p>
+<p> Τόνια Τσακίρη </p>
+<p> | </p>
+<p> Χ </p>
+<p> Χριστίνα Πουτέτση </p>
+<p> | </p>
+<p> $(document).ready(function () {             $("select[name='moreUrlNavigateSelect']").change(function () {                 $("select option:selected").each(function () {                     if ($(this).attr('value') != 'null') {                         window.open($(this).attr('value'), "newwindow");                      }                 });             });         }); </p>
+<p> ΕΠΙΚΟΙΝΩΝΙΑ </p>
+<p> ΤΑΥΤΟΤΗΤΑ </p>
+<p> ΟΡΟΙ ΧΡΗΣΗΣ </p>
+<p> ΔΙΑΦΗΜΙΣΗ </p>
+<p> © Δημοσιογραφικός Οργανισμός Λαμπράκη Α.Ε. </p>
+<p> Το σύνολο του περιεχομένου και των υπηρεσιών του site διατίθεται στους επισκέπτες αυστηρά για προσωπική χρήση. Απαγορεύεται η χρήση ή επανεκπομπή του, σε οποιοδήποτε μέσο, μετά ή άνευ επεξεργασίας, χωρίς γραπτή άδεια του εκδότη. </p>
+<p> var addthis_config =       {           "data_track_clickback": true       }; </p>
+<p> jQuery.ready(); </p>
+<p> jQuery.ready(); </p>
+<p> CustomAds.push(['BMIBanner6856','#Categheaderbanner728','YgeiaArticle Banner 728']); </p>
+<p> // <![CDATA[[ if (typeof Adman === 'undefined' || /MSIE [456]/.test(navigator['appVersion'])) document.write ('<scr'+'ipt src="http://static.adman.gr/adman.js" language="javascript" type="text/javascript"></'+'sc'+'ript>'); var now=parseInt((new Date()).getTime()); if (!window.admantpid) window.admantpid = now; var rnd=Math.floor(Math.random()*900000)+100,cdp=screen.width+"x"+screen.height+"x"+(navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth),burst="?"+rnd+":="+window.admantpid +"@"+cdp+"?"; document.write("<scr"+"ipt language=\"Javascript\" src=\"http://adman.in.gr/gbanner/?"+now+"|905/728x90"+burst+"/\">"); document.write("</"+"sc"+"ript>"); // ]]> </p>
+<p> CustomAds.push(['BMIBanner6857','#BannerCateg240left1','BannerYgeiaArticle240Left1']); </p>
+<p> // <![CDATA[[ if (typeof Adman === 'undefined' || /MSIE [456]/.test(navigator['appVersion'])) document.write ('<scr'+'ipt src="http://static.adman.gr/adman.js" language="javascript" type="text/javascript"></'+'sc'+'ript>'); var now=parseInt((new Date()).getTime()); if (!window.admantpid) window.admantpid = now; var rnd=Math.floor(Math.random()*900000)+100,cdp=screen.width+"x"+screen.height+"x"+(navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth),burst="?"+rnd+":="+window.admantpid +"@"+cdp+"?"; document.write("<scr"+"ipt language=\"Javascript\" src=\"http://adman.in.gr/gbanner/?"+now+"|909/240x90"+burst+"/\">"); document.write("</"+"sc"+"ript>"); // ]]> </p>
+<p> CustomAds.push(['BMIBanner6858','#BannerCateg240Right1','BannerYgeiaArticle240Right1']); </p>
+<p> // <![CDATA[[ if (typeof Adman === 'undefined' || /MSIE [456]/.test(navigator['appVersion'])) document.write ('<scr'+'ipt src="http://static.adman.gr/adman.js" language="javascript" type="text/javascript"></'+'sc'+'ript>'); var now=parseInt((new Date()).getTime()); if (!window.admantpid) window.admantpid = now; var rnd=Math.floor(Math.random()*900000)+100,cdp=screen.width+"x"+screen.height+"x"+(navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth),burst="?"+rnd+":="+window.admantpid +"@"+cdp+"?"; document.write("<scr"+"ipt language=\"Javascript\" src=\"http://adman.in.gr/gbanner/?"+now+"|910/240x90"+burst+"/\">"); document.write("</"+"sc"+"ript>"); // ]]> </p>
+<p> CustomAds.push(['BMIBanner6859','#BannerCategArticle300Right1','BannerYgeiaArticle300Right1']); </p>
+<p> // <![CDATA[[ if (typeof Adman === 'undefined' || /MSIE [456]/.test(navigator['appVersion'])) document.write ('<scr'+'ipt src="http://static.adman.gr/adman.js" language="javascript" type="text/javascript"></'+'sc'+'ript>'); var now=parseInt((new Date()).getTime()); if (!window.admantpid) window.admantpid = now; var rnd=Math.floor(Math.random()*900000)+100,cdp=screen.width+"x"+screen.height+"x"+(navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth),burst="?"+rnd+":="+window.admantpid +"@"+cdp+"?"; document.write("<scr"+"ipt language=\"Javascript\" src=\"http://adman.in.gr/gbanner/?"+now+"|906/300x250"+burst+"/\">"); document.write("</"+"sc"+"ript>"); // ]]> </p>
+<p> CustomAds.push(['BMIBanner6860','#BannerCategArticle300Right2','BannerYgeiaArticle300Right2']); </p>
+<p> // <![CDATA[[ if (typeof Adman === 'undefined' || /MSIE [456]/.test(navigator['appVersion'])) document.write ('<scr'+'ipt src="http://static.adman.gr/adman.js" language="javascript" type="text/javascript"></'+'sc'+'ript>'); var now=parseInt((new Date()).getTime()); if (!window.admantpid) window.admantpid = now; var rnd=Math.floor(Math.random()*900000)+100,cdp=screen.width+"x"+screen.height+"x"+(navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth),burst="?"+rnd+":="+window.admantpid +"@"+cdp+"?"; document.write("<scr"+"ipt language=\"Javascript\" src=\"http://adman.in.gr/gbanner/?"+now+"|907/300x250"+burst+"/\">"); document.write("</"+"sc"+"ript>"); // ]]> </p>
+<p> CustomAds.push(['BMIBanner6861','#BannerCategArticle300Right3','BannerYgeiaArticle300Right3']); </p>
+<p> // <![CDATA[[ if (typeof Adman === 'undefined' || /MSIE [456]/.test(navigator['appVersion'])) document.write ('<scr'+'ipt src="http://static.adman.gr/adman.js" language="javascript" type="text/javascript"></'+'sc'+'ript>'); var now=parseInt((new Date()).getTime()); if (!window.admantpid) window.admantpid = now; var rnd=Math.floor(Math.random()*900000)+100,cdp=screen.width+"x"+screen.height+"x"+(navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth),burst="?"+rnd+":="+window.admantpid +"@"+cdp+"?"; document.write("<scr"+"ipt language=\"Javascript\" src=\"http://adman.in.gr/gbanner/?"+now+"|908/300x250"+burst+"/\">"); document.write("</"+"sc"+"ript>"); // ]]> </p>
+<p> CustomAds.push(['BMIBanner6862','#GoogleAdsSlot','Google Ad Sense']); </p>
+<p> function SponsorLink() {         window.open('googleAdsCode/sponsorLinks.htm', 'winSelectCategory', 'status=no,toolbars=no,scrollbars=no,location=no,menubar=no,resizable=no,width=400,height=440');     }      function google_ad_request_done(google_ads) {          var s;         var i;          if (google_ads.length == 0) {              return;         }          if (google_ads[0].type == "text") {              if (google_ads.length > 0) {                 s = '<div class="promoTitle"><a href="#" onclick="SponsorLink();return false;" target="_blank">ΠΡΟΒΕΒΛΗΜΕΝΕΣ ΚΑΤΑΧΩΡΗΣΕΙΣ</a></div>'; for (i = 0; i < google_ads.length; ++i) {                     s += '<div class="manyAds">' + 				    '<div class="addTitle">' + 					    '<a target="_blank" href="' + google_ads[i].url + '"onmouseout="window.status=\'\';return true"' + 					    'onmouseover="window.status=\'go to ' + google_ads[i].visible_url + '\';return true" style="text-decoration:none">' + 					    google_ads[i].line1 + 					    '</a>' + 				    '</div>' + 				    '<div class="addText">' + 					    '<span>' + google_ads[i].line2 + '&nbsp;' + google_ads[i].line3 + '</span>' + 				    '</div>' + 				    '<div class="addUrl">' + 					    '<a target="_blank" href="' + google_ads[i].url + '"onmouseout="window.status=\'\';return true"' + 					    'onmouseover="window.status=\'go to ' + google_ads[i].visible_url + '\';return true" style="text-decoration:none">' + 					    google_ads[i].visible_url + 					    '</a>' + 				    '</div>' + 			    '</div>';                 }                  var gAdsDiv = document.getElementById('gAdsDiv');                 if (gAdsDiv == null)                     return;                 gAdsDiv.innerHTML = s;             }         }           return;     }       google_ad_client = 'pub-0654679464270989';     google_ad_output = 'js';     google_language = 'gr';     google_encoding = 'utf8';     google_safe = 'high';     google_feedback = 'on';     google_ad_type = 'text';     google_ad_slot = '8059922095';     google_ad_width = 728;     google_ad_height = 90;      /*						     google_ad_type = 'text_html';     google_image_size = '728x90'; 			     */ </p>
+<p> google_max_num_ads = 5; </p>
+<p> CustomAds.push(['BMIBanner6863','#BannerCateg628Middle1','BannerYgeia628Middle1']); </p>
+<p> // <![CDATA[[ if (typeof Adman === 'undefined' || /MSIE [456]/.test(navigator['appVersion'])) document.write ('<scr'+'ipt src="http://static.adman.gr/adman.js" language="javascript" type="text/javascript"></'+'sc'+'ript>'); var now=parseInt((new Date()).getTime()); if (!window.admantpid) window.admantpid = now; var rnd=Math.floor(Math.random()*900000)+100,cdp=screen.width+"x"+screen.height+"x"+(navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth),burst="?"+rnd+":="+window.admantpid +"@"+cdp+"?"; document.write("<scr"+"ipt language=\"Javascript\" src=\"http://adman.in.gr/gbanner/?"+now+"|901/628x86"+burst+"/\">"); document.write("</"+"sc"+"ript>"); // ]]> </p>
+<p> CustomAds.push(['BMIBanner6864','#BubbleBoxAds','BubbleBoxAds']); </p>
+<p> var sppc_user = "72"; var sppc_site = "138"; var sppc_linkColor = "#e60300"; var sppc_stripColor = ""; var sppc_adhereColor = "#000000"; var first_url = escape("http://bubblebox.gr/delivery/intext.php?id_user="+sppc_user+"&id_site="+sppc_site+ "&ident="+Math.round(Math.random() * 10000)+"&sr="+escape(document.referrer)); document.write(unescape("%3Cscript src='" + first_url + "' charset='UTF-8' type='text/javascript'%3E%3C/script%3E")); </p>
+<p> jQuery.ready();             MoveCustomAds(); </p>
+<p> CleanUpAds(); </p>
+<p> var _rsCI = "ingr";     var _rsCG = "0";     var _rsDN = "//secure-uk.imrworldwide.com/";     var _rsCC = 0;     var _rsSE = 1;     var _rsSM = 0.05; </p>
+<p> $("html").attr("xmlns:fb", "http://www.facebook.com/2008/fbml");     window.fbAsyncInit = function () {         FB.init({ appId: '112587685485572', status: true, cookie: true,             xfbml: true         });         if (!NvUser.IsUserLoggedIn()) {             try {                  FB.getLoginStatus(function (response) {                     if (response.session) { 			  if (window.location.href.indexOf("fbconnectreturn") == -1) 				 {	 					var url = window.location.href; 					if(url.indexOf("?") == -1) 					{ 						url+="?fbconnectreturn=1"; 					}else 					{ 						url+="&fbconnectreturn=1"; 					} 					 					//window.location = '/FBConnect.axd?returnUrl=' + escape(url); 				}                     }                 });             } catch (e)             { }         }       };     (function () {         var e = document.createElement('script');         e.type = 'text/javascript';         e.src = document.location.protocol +           '//connect.facebook.net/en_GB/all.js';         e.async = true;         document.getElementById('fb-root').appendChild(e);     } ()); </p>

@@ -1,0 +1,227 @@
+<p> 大掃除太用力 當心肩頸掛彩｜地方新聞｜中時電子報 </p>
+<p> <!-- .txt13 {	font-family: "新細明體", "細明體", Taipei, default;	font-size: 13px;	line-height: 20px;} .txt15 {	font-family: "新細明體", "細明體", Taipei, default;	font-size: 15px;	line-height: 24px;} .txt24RB {	font-size: 24px;	font-weight: bold;	line-height: 30px;	color: #e5180d;} --> </p>
+<p> var sBannerADUrl="/2007Cti/2007Cti-News/Common/2007Cti-News-Ads-contentBanner/0,4599,110506,00.shtml"; var sRightADUrl="/2009Cti/Common/2009Cti-News-Ads-Right/0,5212,content+110506,00.shtml"; var bReferrer_Focus = false; if (document.referrer.toLowerCase().indexOf('2007moment') > 0) {   bReferrer_Focus = true;   sBannerADUrl="/2007Cti/2007Cti-News/Common/2007Cti-News-Ads-listBanner/0,4588,focusnews,00.shtml";   sRightADUrl="/2009Cti/Common/2009Cti-News-Ads-Right/0,5212,content+focusnews,00.shtml"; } </p>
+<p> var sChannel = 'news'; //在此設定主頻道列代碼      var FocusCategory = "T06"; </p>
+<p> document.write('<scr'+'ipt src="'+sBannerADUrl+'"></scr'+'ipt>'); </p>
+<p> 分類瀏覽 </p>
+<p> 今日焦點 </p>
+<p> 政治要聞 </p>
+<p> 財經產業 </p>
+<p> 股市金融 </p>
+<p> 國際要聞 </p>
+<p> 大陸港澳 </p>
+<p> 社會萬象 </p>
+<p> 影視娛樂 </p>
+<p> 生活新知 </p>
+<p> 地方掃描 </p>
+<p> 科技網路 </p>
+<p> 運動競技 </p>
+<p> 藝文展演 </p>
+<p> 其它 </p>
+<p> 總覽 </p>
+<p> 即時新聞： </p>
+<p> 新聞首頁 </p>
+<p> if(bReferrer_Focus==true) document.write("最新焦點"); 			  else document.write("<a href=/list/6.html>地方新聞</a></li>"); </p>
+<p> 引用 </p>
+<p> 轉寄 </p>
+<p> 列印 </p>
+<p> 字體： </p>
+<p> 小 </p>
+<p> ． </p>
+<p> 中 </p>
+<p> ． </p>
+<p> 大 </p>
+<p> document.write('<iframe src="http://www.facebook.com/plugins/like.php?href='+ encodeURIComponent(String(window.location))+'&amp;layout=box_count&amp;show_faces=false&amp;width=55&amp;action=like&amp;colorscheme=light&amp;height=60" scrolling="no" frameborder="0" style="border: none; overflow: hidden; width: 55px; height: 60px; position: relative; top: 5px;" allowTransparency="true"></iframe>'); </p>
+<p> <!-- 	function delCookie(name) 	{ 		document.cookie = name + "=; expires=Thu, 01-Jan-70 00:00:01 GMT" + "; path=/"; 	} 	delCookie("UNI_ID"); 	var Channel = "CHINATIMES";															//頻道 	var UNI_ID = "112012011200241";													//文章ID 	var define_content_1 = "大掃除太用力 當心肩頸掛彩";											//標題 	var define_content_2 = window.location.href;		//連結 	var define_content_3 = "C02版+地方";		//分類名稱 	var define_content_4 = "110506";											//分類ID 	var define_content_5 = "2012.01.12";	 	var define_content_6 = "6";											//Channel ID 	if(define_content_2.indexOf("fb_xd_fragment")>1) define_content_2=define_content_2.substring(0,define_content_2.indexOf("fb_xd_fragment")-1); 	//--> </p>
+<p> 大掃除太用力 當心肩頸掛彩 </p>
+<p> 2012-01-12 01:15 </p>
+<p> 中國時報 </p>
+<p> 【楊宗灝／桃園報導】 </p>
+<p> 桃園壢新醫院復健科門診最近發現因家事過勞，導致肌腱發炎個案增加，其中一位五十歲家庭主婦大掃除時用力過猛，肩旋轉肌韌帶斷裂，甚至出現積水嚴重症狀。 </p>
+<p> 壢新醫院復健科主治醫師林訟凱說，該名患者日前趁天氣好轉，將家中被單、窗簾拆下清洗，後來又墊腳擦拭高處玻璃，右肩旋轉肌在長時間施力，及支撐力道不平衡的情況下，肌腱處完全斷裂，整隻手臂幾近癱瘓。　中年婦女因骨質疏鬆，肩部旋轉肌功能退化，往往因用力過猛，或長時間施力，導致肌腱發炎。林頌凱說，患者就是因為長期忙碌家事，以為簡單擦拭、清洗「不費力」，才會引發後續一連串嚴重病狀。 </p>
+<p> 林頌凱說，女性族群常因身高問題，必須「墊腳」做家事，包括曬衣、清理高處廚櫃及擦拭窗戶、天花板等，對中年婦女來說，都算是「高危險」動作。 </p>
+<p> 他建議民眾，大掃除時最好避免手臂過度伸展，同時藉由板凳、梯子等輔助工具，平衡清理高處廚櫃、玻璃施力點，才能讓年節整理事半功倍。 </p>
+<p> MakeCTIweb20 (); </p>
+<p> var param_partner = "cti_tw_news_politics_content_cm"; 		  		var param_ctxtID="cti_tw_general_002";  		 var ysm_maxCount = 4;         document.write("<script src='http://www.chinatimes.com/2009Cti/cthead/Scripts-utf8/yahoo.js' charset='utf-8'></sc" + "ript>"); </p>
+<p> <!-- 	function Gotoform(sel) { 	i=sel.selectedIndex; 	s=sel.options[i].value; 	if ( s != "null" ) parent.location= s; 	} 	//--> </p>
+<p> 相關新聞 </p>
+<p> 桃園》坐轎兼抬轎吳敦義蔡令怡左右開攻 </p>
+<p> 老將對黑馬 陳根德爭取首投族 鄭文燦打造大學城 </p>
+<p> 候選人另一半－陳根德跑攤 蔡慧敏扮分身 </p>
+<p> 候選人另一半－鄭美鈴 用愛支持彭添富 </p>
+<p> 選戰倒數2天 創意文宣齊發 </p>
+<p> 高架化或地下化 台鐵桃捷點燃兩派戰火 </p>
+<p> 免試配額搞黑箱？ 武陵高中挨批 </p>
+<p> 105歲人瑞長壽訣... 愛勞動、吃清淡、只喝水 </p>
+<p> 大掃除太用力 當心肩頸掛彩 </p>
+<p> 涉嫌挖取機場土壤  桃機一承包商員工遭調查 </p>
+<p> 關懷低收戶學生  啟英高中董事長發放春節壓歲錢 </p>
+<p> 都會掃描－水上救生營 即起可報名 </p>
+<p> 都會掃描－謊稱妻落跑 毒蟲被拆穿 </p>
+<p> 新竹》選戰軍師－楊元勛操盤 比智慧講科學 </p>
+<p> 不滿抹黑 呂學樟告張學舜求償1.8億 </p>
+<p> 張學舜打小英牌 呂學樟搗綠票倉 </p>
+<p> 抹黑賄選 廖英利反告康世儒 </p>
+<p> 救橘農 中華電信大手筆採買一萬三千箱 </p>
+<p> 只給兩小時投票 遠化遭投訴 </p>
+<p> 反高台水庫 泰雅族不惜封山 </p>
+<p> 52位好老師的故事 《師鐸清華》告訴你 </p>
+<p> 都會掃描－借場地練球 聯盟謝市長 </p>
+<p> 都會掃描－初一到初四 停止收垃圾 </p>
+<p> 苗栗》客庄12大節慶 苗栗龍暖場 </p>
+<p> 春節工藝遊...賞木雕、玩竹編 </p>
+<p> -----------------更多地方新聞---------------- </p>
+<p> 台北》李建昌、蔡正元都在防黃珊珊 </p>
+<p> 郝龍斌：藍北市選情佳 </p>
+<p> 北市消費爭議  中華電信年度冠軍 </p>
+<p> 台北市北投浩然養老院火警 </p>
+<p> 北市消費申訴  中華電信最多 </p>
+<p> 報選舉新聞有偏差 電視台藍綠分明 </p>
+<p> 潘翰聲對決費鴻泰 不見火花 </p>
+<p> 攤商送南瓜 趙士強又驚又喜 </p>
+<p> 周守訓姚文智拜票 名人加持 </p>
+<p> 楊烈直搗丁守中市場地盤 </p>
+<p> 拉抬候選人 郝龍斌趕攤掃街 </p>
+<p> 最高檢：未搜李進勇總部 </p>
+<p> 登記錯誤 地政所判賠買地錢 </p>
+<p> 都會掃描－建成公園地下停車場 啟用 </p>
+<p> 都會掃描－稽查台北轉運站 業者都過關 </p>
+<p> 新北》搞悲情、喊建設 催票花招百出 </p>
+<p> 投票日  新北戶政所暫停服務 </p>
+<p> 超級助選員－美青姐魅力 席捲黃昏市場 </p>
+<p> 選前被起訴 大埔農民聲援何博文 </p>
+<p> 老縣長出馬 林豐正拉抬林鴻池 </p>
+<p> 江丙坤挺張慶忠 江永昌進攻果菜市場 </p>
+<p> 3天2訪新莊 馬英九猛攻綠票倉 </p>
+<p> 李乾龍笑裡藏刀 馬：少對我笑 </p>
+<p> 選舉章魚哥 票數誤差不到1% </p>
+<p> 求快求準 民調電話轟炸鶯歌 </p>
+<p> 選舉大鍋飯 吃出招牌好滋味 </p>
+<p> 新北推年菜食譜 呷好顧健康 </p>
+<p> 選舉看板－新北九百多萬選票 已入庫 </p>
+<p> 選舉看板－衝刺 盧嘉辰今辦造勢晚會 </p>
+<p> 選舉看板－涉賄 曾文振樁腳交保候傳 </p>
+<p> 都會掃描－職訓中心剪髮班 街友義剪 </p>
+<p> 金門》小英若得五千票 江哥：跪上太武山頂 </p>
+<p> 醉漢無影腳 踢破吳成典花盆 </p>
+<p> 宜蘭》馬拜票宜蘭婆婆媽媽蜂擁索簽名 </p>
+<p> 臉書震撼彈 聲明大轉彎 小乖轟陳歐珀 陳定南遺孀滅火 </p>
+<p> 員山做粿慶龍年 體驗農村人情味 </p>
+<p> 協調返鄉投票乘車優惠 宜縣府遭調查 </p>
+<p> 少輸為贏馬搶攻宜蘭 </p>
+<p> 基隆》謝國樑獲許效舜襄助 林右昌簡訊催票 </p>
+<p> 突破四十六萬 基港到客數創佳績 </p>
+<p> 排隊擠握手  酷酷嫂風靡基隆 </p>
+<p> 花蓮》張智超挺馬「搶票」 王廷升籲團結 </p>
+<p> 都會掃描－載著無情刀劍閒晃 偷來的 </p>
+<p> 老年人車禍事故高 花蓮高於全國均數兩倍 </p>
+<p> 台中》台中市區總統選情 綠求過半或打平 </p>
+<p> 環團抗議龍風發電廠  中市：早撤除 </p>
+<p> 龍風火電廠  中市府：已撤銷 </p>
+<p> 台中市商業會理事長 憂心財團被打壓 </p>
+<p> 胡志強：藍選情明顯回溫 </p>
+<p> 謝明源：政績膨風 盧秀燕：成功綠美化 </p>
+<p> 李順涼提藍圖 顏清標談政績 </p>
+<p> 江啟臣秀中指照 郭俊銘斥抹黑 </p>
+<p> 曾坤炳設控訴台 歡迎民眾申冤 </p>
+<p> 助選員神似鄉土劇演員 超吸睛 </p>
+<p> 選舉看板－鄭麗文 太平農會三巨頭相挺 </p>
+<p> 選舉看板－顏清標 催票催到「燒聲」 </p>
+<p> 選舉看板－張廖萬堅 拜票全家總動員 </p>
+<p> 選舉看板－蔡錦隆 五路合擊迎勝利大遊行 </p>
+<p> 選舉看板－郭俊銘 率青年軍挺蔡 </p>
+<p> 選舉看板－挺英嘉 中台灣教授顧問團發聲 </p>
+<p> 選舉看板－掃街、造勢 藍綠決戰中台灣 </p>
+<p> 中橫便道 3月底完工通車 </p>
+<p> 台中街友尾牙 紅包縮水 </p>
+<p> 建商辦尾牙 宴請家扶兒 </p>
+<p> 百貨福袋戰 拚一克拉鑽墜 </p>
+<p> 桃蛙源記首映 回響熱烈 </p>
+<p> 查獲八把獵槍及山羌肉 三人送法辦 </p>
+<p> 都會掃描－贈送春聯 </p>
+<p> 都會掃描－停收垃圾 </p>
+<p> 彰化》鹿港查賄 聲押2人 </p>
+<p> 彰化縣立委選舉 一選區激戰 四選區議題熱 </p>
+<p> 台灣燈會美食區 招租 </p>
+<p> 彰化鹿港鎮查獲首樁金錢賄選案 兩樁腳遭聲押 </p>
+<p> 流感疫情升溫 彰化將全面強化施打疫苗 </p>
+<p> 南投》南投二選區爆黑函 警方偵辦 </p>
+<p> 馬迷 加上與吳揆同鄉 從桃園返南投 花藝家為馬吳插花 </p>
+<p> 選舉看板－馬文君 車隊掃街聲勢浩大 </p>
+<p> 選舉看板－張國鑫 打造農業新經濟 </p>
+<p> 選舉看板－何國隆 拜票單槍匹馬 </p>
+<p> 南投舉辦書展 開卷好過年 </p>
+<p> 日月潭擴區 與集集人座談 </p>
+<p> 雲林》蘇嘉全勸導 抗議雲檢群眾撤離 </p>
+<p> 首投族亮身分證 力挺張嘉郡 </p>
+<p> 百花爭豔 莿桐花海15日迎賓 </p>
+<p> 選舉看板－台聯黃昆輝 回鄉拉政黨票 </p>
+<p> 嘉義》陳以真猛打廣告 對手再質疑 </p>
+<p> 蔡啟芳為兒拜票 翁重鈞妻續靜坐 </p>
+<p> 14人涉賄選 查無實據 檢警白忙 </p>
+<p> 13日選前之夜 嘉市交管 </p>
+<p> 選舉看板－小英海外後援會 挺李俊俋 </p>
+<p> 選舉看板－橘軍李宗智 挨家挨戶拉票 </p>
+<p> 打麻將遭約談 民控亂抓 檢警反駁 </p>
+<p> 350弱勢者提前圍爐 再送健檢 </p>
+<p> 台南》賴清德嗆台南市贏30萬票 金溥聰：南部選情 必會跌破眼鏡 </p>
+<p> 南縣醫師公會挺李全教 綠爆分裂投票 </p>
+<p> 黃偉哲籲返鄉投票 周賜海遊行固票 </p>
+<p> 黃偉哲軍師 陳濬璋點子多 </p>
+<p> 蘇俊賓 大咖陪掃街 許添財 帥兒幫拉票 </p>
+<p> 台南查獲選舉賭盤 組頭是陸配 </p>
+<p> 選前一天 周美青台南催票 </p>
+<p> 成大研究所 錄取率比台大低 </p>
+<p> 看VOD學英語 南台學生超愛 </p>
+<p> 紫色狼尾草 富含花青素用途廣 </p>
+<p> 南市府周邊車輛遭毀損 公務車也難逃 </p>
+<p> 東山碧軒寺迎佛祖 新增轉大人儀式 </p>
+<p> 綜合》選戰顧飽肚 廚藝高手來幫忙 </p>
+<p> 高雄》投票所百米內嚴禁競選活動選舉新規 藍綠各表 </p>
+<p> 選戰急先鋒 許崑源妙計催票 </p>
+<p> 趙天麟的義工 甘草人物朱育賢 好厲害的「紅螞蟻」 </p>
+<p> 侯彩鳳老公…政壇老將 李昆澤嫩妻…政壇白紙 </p>
+<p> 全民拚選戰 陸觀選團開眼界 </p>
+<p> 高雄查賄 約談50餘人 </p>
+<p> 鐵路地下化 藍綠爭功 </p>
+<p> 高市流感疫苗使用九成五  衛生局籲盡早接種 </p>
+<p> 選舉看板－王金平羅世雄 訪淨明法師 </p>
+<p> 選舉看板－許智傑江玲君 各唱各的調 </p>
+<p> 選舉看板－郭玟成 蘇貞昌李俊毅相挺 </p>
+<p> 選舉看板－高市觀光協會 力挺李昆澤 </p>
+<p> 選舉看板－邱毅 允推動建國公寓都更 </p>
+<p> 選舉看板－邱于軒 林園掃街車禍受傷 </p>
+<p> 失業單親媽 參加街友圍爐 </p>
+<p> 高雄燈會27日開鑼 高昇龍亮相 </p>
+<p> 都會掃描－龍發堂合法化 有解 </p>
+<p> 都會掃描－鳳山公28公園 啟用 </p>
+<p> 屏東》王進士vs.李世斌 文宣戰互轟 </p>
+<p> 歌我故鄉 小英重溫《楓港調》 </p>
+<p> 旗幟被盜 羅志明氣憤 </p>
+<p> 耆老教狩獵 原民學童驚喜 </p>
+<p> 里港鄉發放生育津貼 </p>
+<p> 澎湖》抓鬼簡訊 指地雷種子將引爆 </p>
+<p> 台東》空軍靶場噪音擾人香蘭村民：滾蛋 </p>
+<p> 「自主性防災」 多一分準備少一分災害 </p>
+<p> 台東祭出獎金   鼓勵旅館業星級評鑑 </p>
+<p> 台東選舉公報印錯名 原民候選人抗議 </p>
+<p> 森林變檳榔園！ 民間團體批政府失能 </p>
+<p> 立委選情 新移民扮關鍵角色 </p>
+<p> 郵差送暖 孤苦獨居阿嬤窩心 </p>
+<p> 環團：台東百年原始林變檳榔園 </p>
+<p> 選舉看板－饒慶鈴 風雨中東海岸掃街 </p>
+<p> 選舉看板－劉櫂豪母 感性談子從政路 </p>
+<p> 綜合》高屏春節計程車 按錶加收50元 </p>
+<p> 畜產所 加入國際畜政聯盟 </p>
+<p> 育種30年 賓朗豬誕生 </p>
+<p> 台塑 撥付麥寮鄉民回饋金2.56億元 </p>
+<p> 科學園區產學合作計畫 受理申請 </p>
+<p> 證券暨金融市場理論實務研討 </p>
+<p> 地方大代誌－鴻海中科首場就博會 明登場 </p>
+<p> var bwantcheck=false; </p>
+<p> document.write('<scr'+'ipt src="'+sRightADUrl+'"></scr'+'ipt>'); </p>
+<p> var bNeedCtiMenu=true; </p>
+<p> $("#comment").renderReply({                  Page_Size: 10              }, function(data) {                  $("#commentcount").html("<a href='#comment' class='comment'>迴響</a>：<span class='highlight'>" +                                          (typeof (data.ReplyCount) == "undefined" ? 0 : data.ReplyCount) + "篇</span>");              }); </p>
+<p> if(typeof(bwantcheck) == "undefined") var bwantcheck=false; 	if(bwantcheck==true) 	{ 		var sWantgaUrl="http://www.chinatimes.com/analytics/want-daily.js"; 		//document.write('<scr'+'ipt src="'+sWantgaUrl+'"></scr'+'ipt>'); 	}  bust = Math.floor(1000000*Math.random()); document.write('<'+'SCRIPT LANGUAGE="JavaScript1.1" SRC="http://ad2.dotmore.com.tw/verify.aspx?w=87&charset=big5&ord='+bust+'?">'); document.write('</'+'SCRIPT>'); </p>
+<p> var _gaq = _gaq || [];      _gaq.push(['_setAccount', 'UA-949390-1']);    _gaq.push(['_trackPageview']);   _gaq.push(['_trackPageLoadTime']);    (function() {     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);   })(); </p>
+<p> _atrk_opts = { atrk_acct: "JvLre1aYs600Mr", domain:"chinatimes.com"}; atrk (); </p>

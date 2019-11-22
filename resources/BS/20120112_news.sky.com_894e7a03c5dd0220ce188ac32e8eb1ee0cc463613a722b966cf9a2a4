@@ -1,0 +1,214 @@
+<p> Cosmetic Surgery: New Government Review Into Procedures Including Breast Implants And Dermal Fillers | Politics | Sky News </p>
+<p> var urlParts = document.location.href.split('/')[2].split('.'); 	            document.domain = urlParts[urlParts.length - 2] + '.' + urlParts[urlParts.length - 1]; 	            var serverUrl = "http://sl.sky.com/ver1.0/Direct/Process"; </p>
+<p> News </p>
+<p> Sports </p>
+<p> Email & Tools </p>
+<p> Sky Customers </p>
+<p> Join Sky </p>
+<p> Sky News HD - First for breaking news - Sky channel 517 </p>
+<p> Skip Navigation </p>
+<p> if (typeof(String.prototype.trim)==="undefined") { 	String.prototype.trim = function () { return this.replace(/(^\s*)|(\s*$)/g, ""); } }  function submitForm(form){ 	if ((form.searchType[1] != null && form.searchType[1].checked) || form.searchType.value == 'web') { 		parent.location.href = 'http://search.sky.com/web?channel=news&term=' + form.searchTextBox.value; 	} else {         parent.location.href = 'http://search.sky.com/news?term=' + form.searchTextBox.value.trim().replace(/\s+/g,"+");         //Former Sky News Search implementation 		//form.action = '/search'; 		//form.submit(); 	} }  function processKey(e,form) { 	if (e.keyCode == 13){ 		submitForm(form);     return false;   } else {     return true;   } } </p>
+<p> Sign up </p>
+<p> Sign in </p>
+<p> Site map </p>
+<p> Search Form </p>
+<p> Sky News </p>
+<p> Web </p>
+<p> Search Text </p>
+<p> enhanced by: </p>
+<p> AUTHENTICATION_LOGIN_URL = 'https://skyid.sky.com/signin/news?serviceContext=http%3A%2F%2Fnews.sky.com%2Fportal%2Fsite%2Fskynews%2Fmenuitem.ee7913f6661fec1eb2221910413071a0%2F%3Fvgnextoid%3D199430da10dc4310VgnVCM1000005d04170aRCRD%26vgnextchannel%3D4c4956cd978f7110VgnVCM1000009811d20aRCRD'; 	AUTHENTICATION_LOGOUT_URL = 'http://indepth.news.sky.com/InDepth/signout.jsp?rebound=http://mysky.sky.com/portal/servlet/logout'; 	AUTHENTICATION_PARTICIPATE_URL = 'http://indepth.news.sky.com/InDepth/participate.jsp?participateLink=https://skyid.sky.com/signin/news?serviceContext=http%3A%2F%2Fnews.sky.com%2Fportal%2Fsite%2Fskynews%2Fmenuitem.ee7913f6661fec1eb2221910413071a0%2F%3Fvgnextoid%3D199430da10dc4310VgnVCM1000005d04170aRCRD%26vgnextchannel%3D4c4956cd978f7110VgnVCM1000009811d20aRCRD'; 	AUTHENTICATION_COOKIE = 'hant'; 	AUTHENTICATION_SSO_COOKIE = 'skySSO'; </p>
+<p> ◄ </p>
+<p> ► </p>
+<p> function sendOmniture(destination) { sky.tracking.featuredContentClickManual('Primary Nav Region'.replace(/ +/g,'_').toLowerCase(),destination.replace(/ +/g,'_').toLowerCase()); return true; } </p>
+<p> Home </p>
+<p> UK News </p>
+<p> World News </p>
+<p> Business </p>
+<p> Politics </p>
+<p> video </p>
+<p> Showbiz News </p>
+<p> Technology </p>
+<p> Strange News </p>
+<p> Weather </p>
+<p> Your Videos </p>
+<p> Your Photos </p>
+<p> Blogs </p>
+<p> Contact Us </p>
+<p> Court Live </p>
+<p> //<![CDATA[ if (!AJAX_URLS) var AJAX_URLS={}; AJAX_URLS['flashnavigationbarportlet']='/portal/site/skynews/template.RAW/SkyNewsArticleDetail/?javax.portlet.tpst=5801492df8ba00549c2e82e0a0a0a0a0_ws_RW&javax.portlet.prp_5801492df8ba00549c2e82e0a0a0a0a0_viewID=sky_ajax_view&javax.portlet.begCacheTok=com.vignette.cachetoken&javax.portlet.endCacheTok=com.vignette.cachetoken&vgnextoid=199430da10dc4310VgnVCM1000005d04170aRCRD&vgnextchannel=4c4956cd978f7110VgnVCM1000009811d20aRCRD'; //]]> </p>
+<p> Woman Who Killed Her Son Gets Life </p>
+<p> No Spies Face Torture Prosecutions </p>
+<p> Tesco Hit Hard By Xmas Sales Plunge </p>
+<p> Former Cricketer Admits Spot-Fixing </p>
+<p> British Gas And SSE Cut Bills </p>
+<p> Breaking News </p>
+<p> NEWSBAR_URL="/portal/site/skynews/template.RAW/SkyNewsArticleDetail/?javax.portlet.tpst=5801492df8ba00549c2e82e0a0a0a0a0_ws_RW&javax.portlet.prp_5801492df8ba00549c2e82e0a0a0a0a0_viewID=sky_ajax_view&javax.portlet.begCacheTok=com.vignette.cachetoken&javax.portlet.endCacheTok=com.vignette.cachetoken&vgnextoid=58fca77621c34310VgnVCM1000005d04170aRCRD&vgnextchannel=845956cd978f7110VgnVCM1000009811d20aRCRD&content_type=xml&portletname=flashnavbar"; </p>
+<p> //<![CDATA[ if (!AJAX_URLS) var AJAX_URLS={}; AJAX_URLS['articleBodyCopyRegion']='/portal/site/skynews/template.RAW/SkyNewsArticleDetail/?javax.portlet.tpst=67772a9a1c4e7a0f0aa30aa3a9112da0_ws_RW&javax.portlet.prp_67772a9a1c4e7a0f0aa30aa3a9112da0_viewID=sky_ajax_view&javax.portlet.begCacheTok=com.vignette.cachetoken&javax.portlet.endCacheTok=com.vignette.cachetoken&vgnextoid=199430da10dc4310VgnVCM1000005d04170aRCRD&vgnextchannel=4c4956cd978f7110VgnVCM1000009811d20aRCRD'; //]]> </p>
+<p> function getFilteredURL(){var a=window.location.href;if(a.indexOf("?")!=-1){pos=a.indexOf("?");a=a.substr(0,pos)}return a+"?linkedfrom=fb"}TRACKER_CONTENT_ID="";LOGIN_URL="https://skyid.sky.com/signin/news?serviceContext&rebound="; </p>
+<p> #contentContainer {     float:none;     width:640px; } </p>
+<p> Cosmetic Procedures Face Safety Review </p>
+<p> Tweet </p>
+<p> To view this content you need Flash and Javascript enabled in your browser. </p>
+<p> Please </p>
+<p> download Flash </p>
+<p> from the Adobe download website. </p>
+<p> video.loadSkyMediaPlayer(jQuery("#video-container"),{defaultChannel:"skynews/home/politics",_sensitivityRating:0,videoDayportUniqueID:"0129747",videoHeadline:"cosmetic procedures face safety review",videoContentID:"news_16147307",flvURL:"http://static1.sky.com/feeds/skynews/latest/flash/110112-moore-1700.flv",configPath:"/sky-news/app/SkyMediaPlayer_v3.1.411/includes/config/p/playerOptions.xml",url:"http://static1.sky.com/feeds/skynews/latest/h264/700/2012/01/110112-moore-1700.mp4"}); </p>
+<p> 6:50pm UK, Wednesday January 11, 2012 </p>
+<p> The Health Secretary has announced a new review into all cosmetic procedures, including breast implants and dermal fillers. </p>
+<p> It will look at how quality and safety in the industry can be improved and better regulated. </p>
+<p> NHS medical director Professor Sir Bruce Keogh will lead the review, prompted by concerns clinics are not collecting data properly. </p>
+<p> Health Secretary Andrew Lansley </p>
+<p> told Sky News the review could open a "Pandora's box" but said he would rather tackle the issue proactively instead of waiting for problems to develop later. </p>
+<p> Andrew Lansley says the NHS should not pay if patients had PIP implants privately </p>
+<p> "I am going to make sure we cast the net widely," he said. </p>
+<p> "This is not just important for us in the wake of the breast implant scandal from France... We want to make it a proactive opportunity to look at safety." </p>
+<p> He said the move should not be interpreted as an attack on the industry. </p>
+<p> "I hope they will see it... as a real opportunity to get rigorous standard-setting and reporting," Mr Lansley said. </p>
+<p> It follows significant fears some silicone implants could be at risk of rupture after French firm Poly Implant Prothese (PIP) was closed down for using materials designed for use in mattresses. </p>
+<p> Around 40,000 women in Britain are believed to be affected and many wish to get the silicone removed. </p>
+<p> However, there has been a mixed response from the cosmetic surgery industry. The Harvey Medical Group, for example, has said it will not replace PIP implants free of charge. </p>
+<p> In Parliament earlier, shadow health secretary Andy Burnham said the Government had let down women who feared their implants were unsafe. </p>
+<p> Many of those who had the operations privately have struggled to gain access to their medical records, have faced lengthy delays or "hit a brick wall", he said. </p>
+<p> Mr Lansley said the NHS would be there for women who find their private clinic refuses to remove faulty implants. </p>
+<p> The Poly Implant Prothese implants that sparked concern </p>
+<p> "Any NHS service in this instance would only cover the removal of the implant, it would not include the replacement of private cosmetic implants," he said. </p>
+<p> "In these cases the Government would pursue private clinics to seek recovery of our costs." </p>
+<p> Mr Lansley said it would not be fair for the taxpayer "to foot the bill" for patients who went private. </p>
+<p> When the review into all procedures was announced, Sir Bruce said his priority was to ensure the safety of people who undergo cosmetic surgery. </p>
+<p> "The vast majority of practitioners in the cosmetic industry are professional and well skilled - but I'm concerned that the sector as a whole does not have the systems for monitoring the results for patients and alerting us to possible problems. </p>
+<p> "I will work with the industry to improve regulation and governance and increase consumer confidence," he added. </p>
+<p> Market analysts </p>
+<p> Mintel </p>
+<p> estimates that in 2010 there were 101,904 surgical procedures and 1,250,919 non-surgical procedures carried out in the UK. </p>
+<p> But this does not include privately-held "botox parties". </p>
+<p> The same year the market was worth £2.3bn and is expected to grow to £3.6bn in 2015. </p>
+<p> try{if(OB_SK_enabled){var OB_permalink=document.location.href.indexOf("news.sky.com")==-1?OB_SK_default_permalink:document.location.href;var OB_widgetId="AR_1";var OB_Template="customtemplate";var OB_langJS="http://widgets.outbrain.com/lang_en.js";if(typeof(OB_Script)!="undefined"){OutbrainStart()}else{var OB_Script=true;var str="<script src='http://widgets.outbrain.com/outbrainWidget.js' type='text/javascript'><\/script>";document.write(str)}}}catch(err){}; </p>
+<p> //<![CDATA[ if (!AJAX_URLS) var AJAX_URLS={}; AJAX_URLS['viewcomments']='/portal/site/skynews/template.RAW/SkyNewsArticleDetail/?javax.portlet.tpst=f947e6782c5867486e346e34a9112da0_ws_RW&javax.portlet.prp_f947e6782c5867486e346e34a9112da0_viewID=sky_ajax_view&javax.portlet.begCacheTok=com.vignette.cachetoken&javax.portlet.endCacheTok=com.vignette.cachetoken&vgnextoid=199430da10dc4310VgnVCM1000005d04170aRCRD&vgnextchannel=4c4956cd978f7110VgnVCM1000009811d20aRCRD'; //]]> </p>
+<p> var blogKey=pluckUtils.getBlogKey("null");var articleId="199430da10dc4310VgnVCM1000005d04170aRCRD";var articleKey=new ArticleKey(articleId);var articlePostKey=unescape("Blog:d5a76023-3321-4914-a35d-146c458f76b6Post:116821d4-8529-4218-a8f4-09d321961c93");var postIndex=articlePostKey.indexOf("Post:");var postKey=articlePostKey.substring(postIndex,articlePostKey.length);pluckUtils.SITE_URL="http://news.sky.com/";pluckUtils.WIDGET_LOGIN_BASE="https://skyid.sky.com/signin/news?serviceContext=http%3A%2F%2Fnews.sky.com%2Fportal%2Fsite%2Fskynews%2Fmenuitem.ee7913f6661fec1eb2221910413071a0%2F%3Fvgnextoid%3D199430da10dc4310VgnVCM1000005d04170aRCRD%26vgnextchannel%3D4c4956cd978f7110VgnVCM1000009811d20aRCRD";pluckUtils.WIDGET_REGISTER_BASE="https://skyid.sky.com/signup/news?serviceContext=http%3A%2F%2Fnews.sky.com%2Fportal%2Fsite%2Fskynews%2Fmenuitem.ee7913f6661fec1eb2221910413071a0%2F%3Fvgnextoid%3D199430da10dc4310VgnVCM1000005d04170aRCRD%26vgnextchannel%3D4c4956cd978f7110VgnVCM1000009811d20aRCRD";pluckUtils.DOMAIN="sky.com";pluckUtils.ROOT="http://blogs.news.sky.com/";pluckUtils.IMAGEPATH="/sky-news/app/img";pluckUtils.SITE_TITLE="Sky News";var _CommunitySiteNameVar="skynews";var atCookie="null"; </p>
+<p> Report this comment </p>
+<p> Email Story Form </p>
+<p> Reason </p>
+<p> Abusive, threatening or offensive </p>
+<p> Obscene or vulgar </p>
+<p> Irrelevant, off topic or spam </p>
+<p> Racist or sexist </p>
+<p> Unsuitable display name </p>
+<p> Other </p>
+<p> Additional details (Optional) </p>
+<p> function blogPostCommentRequest(){var a=new RequestBatch();a.AddToRequest(pluckUtils.makeCommentPageRequestObject(articleKey));a.BeginRequest(serverUrl,getComments)}function getComments(d){if(d.Responses.length!=0){if(d.Responses[0].CommentPage.NumberOfComments!="undefined"){var a='<span class="commentsTagBox">Comments</span>';var c=d.Responses[0].CommentPage.NumberOfComments;var b=c-0;if(b>999){c=(b.toPrecision(2)/1000)+"k"}if(b>=0){a='<span class="commentsNumberEnd"></span><span class="commentsNumberBox">'+c+"</span> "+a}jQuery("li.shareComments").css({display:"block"});jQuery("li.shareComments").html('<a title="Go to Comments Section" href="#comments">'+a+"</a>")}for(var e=0;e<3;e++){if(d.Responses[e].CommentPage!=null){d.Responses[0]=d.Responses[e];break}}pluckBlogComments.showBlogPostComments(d)}}blogPostCommentRequest(); </p>
+<p> <!-- if (window.adgroupid == undefined) {  window.adgroupid = Math.round(Math.random() * 1000); } document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|500|1287930|0|170|ADTECH;cookie=info;loc=100;target=_blank;key=key1+key2+key3+'+segQS+';grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>'); //--> </p>
+<p> div.articleShare li.shareComments { 	width: 120px; } /* ie6 silverlight inline player fix start */ .ie6 .live div.spPopVideo { 	position:absolute; top:0; left:0; } .ie6 .live div.body_text { 	float:none !important; 	margin-left:512px !important; } /* ie6 silverlight inline player fix end */ #sbRH a span.text span.item { 	padding-left: 13px; } #sbRH span.text { 	padding-right: 9px; } #primaryNav a {white-space:nowrap;} div.teaserColumnSmallImage a.linkTrackable span { 	width:95px; 	padding-right:5px; } /* FIX FOR LARGE IMAGE */ #article_body div.articleImage.large { margin-left:0 !important; } /**********************/ #w_detail a { 	visibility: hidden } #w_widget, #w_container { 	float:left; 	font-family:Arial,Verdana,Helvetica,sans-serif; 	width:310px; 	margin-bottom:10px; } #w_widget { 	display:none; } #w_container{background:#ececec;padding:10px 5px 15px 5px;width:300px;} #w_header{float:left;background:transparent 0 3px url(http://weather.news.sky.com/images/weatherwidgets/common/c_images/w_hslice.gif) repeat-x;width:305px;} #w_header h2{float:left;text-transform:uppercase;font-size:.75em;padding:0 5px 10px 5px;font-weight:bold;margin:0;} #w_container h3,#w_select h3{font-size:.65em;margin:0 0 10px 0;text-transform:none;} #w_five{float:left;color:#3f3f3f;text-transform:uppercase;} #w_detail{float:right;background:url(http://weather.news.sky.com/images/weatherwidgets/common/c_images/w_arrow.gif) no-repeat 0 -1px;padding:1px 0 0 18px;text-transform:none;} #w_title, #w_select { 	float:left; 	width:100%; 	margin:0 0 10px 0; } #w_select{margin:0;display:none;} #w_container h2{float:left;color:#0047ab;font-size:.75em;text-transform:uppercase;padding:0;min-height:0;background:none;font-weight:bold;margin:0;} #plinth_container,#data_container{float:left;width:100%;} div.w_plinths{float:left;width:50px;margin:0 10px 0 0;padding:0 0 10px 0;} div.w_first{margin:0 10px 0 5px;} div.w_last{margin:0;} div.w_icon,div.w_high,div.w_low{float:left;cursor:default;} div.w_icon{width:50px;} div.w_icon img{float:left;} div.w_high{background:transparent bottom left url(http://weather.news.sky.com/images/weatherwidgets/common/c_images/w_midslice.gif) repeat-x;width:40px;margin:0 0 1px 5px;padding:1px 0;} div.w_low{background:transparent bottom left url(http://weather.news.sky.com/images/weatherwidgets/common/c_images/w_botslice.gif) repeat-x;padding:1px 0;margin:0 0 0 5px;width:40px;} div.w_high span,div.w_low span{font-size:.8em;font-weight:bold;float:right;color:#3f3f3f;margin:0 2px 0 0;width:100%;text-align:center;} div.w_low span{color:#fff;} #w_container div.w_plinths h4{float:left;color:#3f3f3f;margin:0 0 4px 0;font-size:.6em;} #gmw{float:left;width:100%;}#gmw input{float:left;font-size:10px;} input.w_postcode{padding:0 0 0 3px;border-right:0 none;margin:3px 5px 0 0;width:188px;height:13px;background:transparent bottom left url(http://weather.news.sky.com/images/weatherwidgets/common/c_images/w_inputslice.gif) repeat-x;} #w_select h3{float:left;color:#bf0000;width:100%;} #w_select ul{margin:0 0 5px 5px;float:left;} #w_select ul li{background:transparent url(http://static.sky.com/images/skynews/icons/arr_r1.gif) no-repeat top left;list-style-image:none;list-style-position:outside;list-style-type:none;font-size:.7em;padding-bottom:4px;padding-left:17px;line-height:130%;width:270px;} #w_def{float:left;font-size:.7em;width:100%;} #w_select ul li a,#w_def a,#w_detail a{color:#000;} #w_select ul li a:hover,#w_def a,#w_detail a:hover{text-decoration:underline;} #w_def a:hover,#w_detail a,#w_select ul li a{text-decoration:none;} div.details_click{width:50px;height:45px;float:left;text-decoration:underline;vertical-align:middle;font-size:.8em;padding-left:10px;display:table-cell;} #error{float:left;width:100%;margin:5px 0 0 0;} p.error{float:left;width:100%;font-size:.7em;margin:0 0 5px 0;} *html div.w_high{margin:0 0 1px 2px;width:38px;} *html div.w_low{margin:0 0 0 2px;width:38px;} *html div.w_icon{margin:0 0 0 -1px;} *html h2.w_loc_name{float:none;} /*w_widget_v7 css*/ #w_widget { 	width:335px; 	height:210px; 	position:relative; } #w_container{width:305px;padding:5px 15px;} #w_header{width:320px;} #w_header h2{background:#c1c1c1;color:#444444;float:left;font-size:.75em;padding:5px 0 5px 15px;text-transform:uppercase;width:100%;} #w_header h2 a{background:transparent url(http://weather.news.sky.com/images/weatherwidgets/v7/c_images/w_headerIcon.gif) no-repeat scroll 60px 4px;padding-right:15px;color:#444444} input.w_postcode{margin:0;width:174px;} #w_detail{background:none;float:right;padding:1px 10pt 0 16px;text-transform:none;} #w_detail a{background:transparent url(http://weather.news.sky.com/images/weatherwidgets/v7/c_images/w_headerIcon.gif) no-repeat scroll 102px 3px;padding-right:14px;} #w_detail a:hover,#w_header a:hover{color:#E60000;text-decoration:none;}#w_header a{color:#FFF;text-decoration:none;} </p>
+<p> var v7 = true; </p>
+<p> Weather </p>
+<p> addLoadEvent(checkCookie); </p>
+<p> The weather servers are currently busy, please try again in a couple of minutes. </p>
+<p> Latest From Sky Sports </p>
+<p> Samba seeking Rovers exit </p>
+<p> Chris Samba has revealed that he is looking to leave Blackburn during the winter window, with the defender saying 'it is time for a change'. </p>
+<p> Westfield admits spot-fixing </p>
+<p> Former Essex paceman Mervyn Westfield has pleaded guilty to spot-fixing at his trial at the Old Bailey. </p>
+<p> Panesar pushes his claims </p>
+<p> Monty Panesar offered a timely reminder to the England selectors with a five-wicket haul against the Pakistan Cricket Board XI. </p>
+<p> Latest From Sky Living </p>
+<p> Michelle Heaton Gives Birth To Baby Daughter Faith Michelle Hanley </p>
+<p> Kirk Norcross & Natasha Giggs Kiss In Big Brother House </p>
+<p> Pictures Of Demi Moore With Reported New Boyfriend Blake Cori-Baietti </p>
+<p> Your Photos </p>
+<p> AUSTRIA SNOWFALL </p>
+<p> WILD WEATHER </p>
+<p> BEAUTIFUL BRITAIN </p>
+<p> BREAKING NEWS </p>
+<p> YOUR REPORT </p>
+<p> GENERAL </p>
+<p> SNOW DECEMBER 2011 </p>
+<p> CHRISTMAS 2011 </p>
+<p> YOUR DOGS </p>
+<p> YOUR CATS </p>
+<p> Upload your photos </p>
+<p> Your Videos </p>
+<p> Newquay fisherman </p>
+<p> A day in the country </p>
+<p> severe gales and rain </p>
+<p> Bodyboarder in Rough Water </p>
+<p> manonabeach in Cornwall. </p>
+<p> Panoramic view Cley Mill </p>
+<p> Beetham Tower Howling </p>
+<p> Hurricane </p>
+<p> Collapsed Wall </p>
+<p> Claire's Superhero Proposes </p>
+<p> Upload your videos </p>
+<p> Sky News Extra </p>
+<p> RSS </p>
+<p> SMS Alerts </p>
+<p> About Us </p>
+<p> Sky News International </p>
+<p> How To Get Sky News </p>
+<p> Sky News Panel </p>
+<p> Sky Player </p>
+<p> Podcast </p>
+<p> Sky News Radio </p>
+<p> MORE FROM SKY NEWS </p>
+<p> How to get Sky News (pdf) </p>
+<p> Sky News International </p>
+<p> Sky News Library Sales </p>
+<p> Get Sky News on your site </p>
+<p> function setSelectedSearchType(val) { 	var searchType=document.getElementById('search_type'); 	var search_type_list = document.getElementById('searchTypes'); 	searchType.value=val; 	switch(val) { 		case "news": 			search_type_list.getElementsByTagName('li')[0].innerHTML ='|<strong class="selectedTab">News</strong>|'; 			search_type_list.getElementsByTagName('li')[1].innerHTML ='<a href="javascript:setSelectedSearchType(\'web\')">Web</a> |'; 			break; 		case "web": 			search_type_list.getElementsByTagName('li')[1].innerHTML ='<strong class="selectedTab">Web</strong> |'; 			search_type_list.getElementsByTagName('li')[0].innerHTML = '| <a href="javascript:setSelectedSearchType(\'news\')">News</a> |'; 			break; 	} } </p>
+<p> | </p>
+<p> News </p>
+<p> | </p>
+<p> Web </p>
+<p> | </p>
+<p> enhanced by: </p>
+<p> Search For: </p>
+<p> Get the latest SKY NEWS headlines on Sky News Active. Press the red button on Sky digital channel 501. </p>
+<p> Home </p>
+<p> | </p>
+<p> UK News </p>
+<p> | </p>
+<p> World News </p>
+<p> | </p>
+<p> Business </p>
+<p> | </p>
+<p> Politics </p>
+<p> | </p>
+<p> video </p>
+<p> | </p>
+<p> Showbiz News </p>
+<p> | </p>
+<p> Technology </p>
+<p> | </p>
+<p> Strange News </p>
+<p> | </p>
+<p> Weather </p>
+<p> | </p>
+<p> Your Videos </p>
+<p> | </p>
+<p> Your Photos </p>
+<p> | </p>
+<p> Blogs </p>
+<p> | </p>
+<p> Contact Us </p>
+<p> | </p>
+<p> Court Live </p>
+<p> Copyright ©2012 BskyB </p>
+<p> About Sky News </p>
+<p> | </p>
+<p> Contact Sky News </p>
+<p> | </p>
+<p> Site Map </p>
+<p> | </p>
+<p> Sky News Panel </p>
+<p> | </p>
+<p> Feedback </p>
+<p> | </p>
+<p> Privacy </p>
+<p> | </p>
+<p> Accessibility </p>
+<p> | </p>
+<p> Terms & Conditions </p>
+<p> | </p>
+<p> Politics Feed </p>
+<p> <!-- if (window.adgroupid == undefined) {  window.adgroupid = Math.round(Math.random() * 1000); } document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|500|1287927|0|1|ADTECH;cookie=info;loc=100;target=_blank;key=key1+key2+key3+'+segQS+';grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>'); //--> </p>
+<p> DM_tag(); </p>
+<p> SKY_TRACKING={site:"sky/portal/news",section:"/politics",headline:"cosmetic_surgery:_new_government_review_into_procedures_including_breast_implants_and_dermal_fillers",browseMethod:"web",contentType:"article",contentId:"16147107",account:"bskybskynews,bskybnetworkglobal"}; </p>
+<p> (function(){function b(){if(arguments.callee.done){return}arguments.callee.done=true;sky.tracking.launch(SKY_TRACKING)}if(typeof(window.jQuery)!="undefined"){jQuery(b);return}try{if(window.addEventListener){window.addEventListener("load",b,false)}else{if(window.attachEvent){window.attachEvent("onload",b)}else{var c=window.onload;if(typeof window.onload!="function"){window.onload=b}else{window.onload=function(){if(c){c()}b()}}}}}catch(a){}})(); </p>

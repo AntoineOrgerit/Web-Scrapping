@@ -1,0 +1,271 @@
+<p> Ryszard Cyba skazany na dożywocie « Wirtualna Polonia </p>
+<p> /* <![CDATA[ */ 			if ( 'function' === typeof WPRemoteLogin ) { 				document.cookie = "wordpress_test_cookie=test; path=/"; 				if ( document.cookie.match( /(;|^)\s*wordpress_test_cookie\=/ ) ) { 					WPRemoteLogin(); 				} 			} 		/* ]]> */ </p>
+<p> /* <![CDATA[ */ function addLoadEvent(func){var oldonload=window.onload;if(typeof window.onload!='function'){window.onload=func;}else{window.onload=function(){oldonload();func();}}} /* ]]> */ </p>
+<p> /* <![CDATA[ */ 			/* ]]> */ </p>
+<p> .recentcomments a{display:inline !important;padding: 0 !important;margin: 0 !important;} </p>
+<p> table.recentcommentsavatar img.avatar {border: 0px; margin:0;} table.recentcommentsavatar a {border: 0px !important;background-color: transparent !important} td.recentcommentsavatartop {padding:0px 0px 1px 0px;margin:0px;background: ellow; } td.recentcommentsavatarend {padding:0px 0px 1px 0px;margin:0px;background: ellow; } td.recentcommentstexttop { border: none !important;padding:0px 0px 0px 10px;} td.recentcommentstextend { border: none !important;padding:0px 0px 2px 10px;} </p>
+<p> #aka,#aka:link,#aka:hover,#aka:visited,#aka:active{color:#fff;text-decoration:none} #aka:hover{border:none;text-decoration:none} #aka:hover #akismet1{display:none} #aka:hover #akismet2,#akismet1{display:block} #akismet2{display:none;padding-top:2px} #akismeta{font-size:16px;font-weight:bold;line-height:18px;text-decoration:none} #akismetcount{display:block;font:15px Verdana,Arial,Sans-Serif;font-weight:bold;text-decoration:none} #akismetwrap #akismetstats{background:url(http://wirtualnapolonia.com/wp-content/plugins/akismet/akismet.gif) no-repeat top left;border:none;color:#fff;font:11px 'Trebuchet MS','Myriad Pro',sans-serif;height:40px;line-height:100%;overflow:hidden;padding:8px 0 0;text-align:center;width:120px} </p>
+<p> Wirtualna Polonia </p>
+<p> “-Wyśmiewani za niemodny patriotyzm, wierni Bogu i ojczyźnie podnieśliśmy głowy.” </p>
+<p> Strona główna </p>
+<p> O nas </p>
+<p> Napisz do nas </p>
+<p> Wirtualna Polonia nie ponosi odpowiedzialności za treść opinii i komentarzy  wpisywanych przez użytkowników portalu. </p>
+<p> Redakcja </p>
+<p> (Napisz do nas) </p>
+<p> Archiwa </p>
+<p> Wybierz miesiąc </p>
+<p> Styczeń 2012  (54) </p>
+<p> Grudzień 2011  (110) </p>
+<p> Listopad 2011  (128) </p>
+<p> Październik 2011  (157) </p>
+<p> Wrzesień 2011  (173) </p>
+<p> Sierpień 2011  (152) </p>
+<p> Lipiec 2011  (138) </p>
+<p> Czerwiec 2011  (107) </p>
+<p> Maj 2011  (107) </p>
+<p> Kwiecień 2011  (142) </p>
+<p> Marzec 2011  (107) </p>
+<p> Luty 2011  (89) </p>
+<p> Styczeń 2011  (101) </p>
+<p> Grudzień 2010  (110) </p>
+<p> Listopad 2010  (139) </p>
+<p> Październik 2010  (149) </p>
+<p> Wrzesień 2010  (121) </p>
+<p> Sierpień 2010  (126) </p>
+<p> Lipiec 2010  (118) </p>
+<p> Czerwiec 2010  (112) </p>
+<p> Maj 2010  (138) </p>
+<p> Kwiecień 2010  (130) </p>
+<p> Marzec 2010  (107) </p>
+<p> Luty 2010  (111) </p>
+<p> Styczeń 2010  (102) </p>
+<p> Grudzień 2009  (103) </p>
+<p> Listopad 2009  (87) </p>
+<p> Październik 2009  (96) </p>
+<p> Wrzesień 2009  (94) </p>
+<p> Sierpień 2009  (79) </p>
+<p> Lipiec 2009  (81) </p>
+<p> Czerwiec 2009  (85) </p>
+<p> Maj 2009  (96) </p>
+<p> Kwiecień 2009  (106) </p>
+<p> Marzec 2009  (100) </p>
+<p> Luty 2009  (115) </p>
+<p> Styczeń 2009  (116) </p>
+<p> Grudzień 2008  (95) </p>
+<p> Listopad 2008  (87) </p>
+<p> Październik 2008  (110) </p>
+<p> Wrzesień 2008  (106) </p>
+<p> Sierpień 2008  (98) </p>
+<p> Lipiec 2008  (111) </p>
+<p> Czerwiec 2008  (46) </p>
+<p> Strony </p>
+<p> Napisz do nas </p>
+<p> O nas </p>
+<p> Linki </p>
+<p> Aleksander Ścios </p>
+<p> Arkadiusz Gacparski </p>
+<p> Artur Żukow – Galeria </p>
+<p> ASME </p>
+<p> Aspekt Polski </p>
+<p> BIBUŁA </p>
+<p> Goniec </p>
+<p> Głos Katolicki </p>
+<p> http://katolickie.media.pl </p>
+<p> http://prokapitalizm.pl </p>
+<p> informacje USA </p>
+<p> Julia Jaskolska </p>
+<p> Kapucynki – Przasnysz </p>
+<p> konserwatyzm.pl </p>
+<p> Ks. Isakowicz-Zaleski </p>
+<p> Ks. Piotr Natanek </p>
+<p> Leszek Biernacki – Galeria </p>
+<p> LPR </p>
+<p> Magazyn Wileński </p>
+<p> Marucha </p>
+<p> Mirosław Dakowski </p>
+<p> Mirosław Krupiński </p>
+<p> Mirosław Orzechowski </p>
+<p> Nasz Dziennik </p>
+<p> Niedziela </p>
+<p> Niezalezna.pl </p>
+<p> Nieznudzeni Polska </p>
+<p> Obywatelskie nieposłuszenstwo </p>
+<p> Opcja na prawo </p>
+<p> Organizacja Monarchistów Polskich </p>
+<p> Piotr Jakucki </p>
+<p> Piotrskarga.pl </p>
+<p> Polish Club Online </p>
+<p> Polonia Christiana </p>
+<p> Poloniainfo.se </p>
+<p> Prof. Pogonowski </p>
+<p> Radio Maryja </p>
+<p> Stanisław Michalkiewicz </p>
+<p> Stop aborcji </p>
+<p> Stowarzyszenie Teatralne Legion </p>
+<p> Tygodnik Wileńszczyzny </p>
+<p> USOPAŁ </p>
+<p> W obronie krzyza </p>
+<p> Warszawska Gazeta </p>
+<p> Wołanie z Wołynia </p>
+<p> Wydawnictwo Tradycji Katolickiej </p>
+<p> X. Jarek </p>
+<p> Administracja </p>
+<p> Zarejestruj się </p>
+<p> Zaloguj się </p>
+<p> Kanał </p>
+<p> RSS </p>
+<p> z wpisami </p>
+<p> Kanał </p>
+<p> RSS </p>
+<p> z komentarzami </p>
+<p> WordPress.com </p>
+<p> Najnowsze komentarze </p>
+<p> orzel </p>
+<p> on </p>
+<p> Polnisches KZ Auschwitz w… </p>
+<p> RE on </p>
+<p> Waldemar Glodek: “Lojalki” rów… </p>
+<p> zolnierzjakala </p>
+<p> on </p>
+<p> Andrzej Kumor: Bez zniecz… </p>
+<p> Lubomir on </p>
+<p> Klich gubi się w kłamstwa… </p>
+<p> Lubomir on </p>
+<p> Andrzej Rosiewicz: Donald T. s… </p>
+<p> beret on </p>
+<p> Klich gubi się w kłamstwa… </p>
+<p> Guła on </p>
+<p> Andrzej Rosiewicz: Donald T. s… </p>
+<p> Guła on </p>
+<p> Andrzej Rosiewicz: Donald T. s… </p>
+<p> Jacek on </p>
+<p> Powołano Obywatelską Komisję E… </p>
+<p> Jacek on </p>
+<p> Powołano Obywatelską Komisję E… </p>
+<p> Polonus on </p>
+<p> Powołano Obywatelską Komisję E… </p>
+<p> Jacek on </p>
+<p> „SALOMONOWE” ZAKOŃCZENIE PROCE… </p>
+<p> miroslaw krupinski </p>
+<p> on </p>
+<p> Andrzej Rosiewicz: Donald T. s… </p>
+<p> Jacek on </p>
+<p> Powołano Obywatelską Komisję E… </p>
+<p> Jacek on </p>
+<p> Powołano Obywatelską Komisję E… </p>
+<p> Najpopularniejsze wpisy </p>
+<p> „SALOMONOWE” ZAKOŃCZENIE PROCESU JANA  KOBYLAŃSKIEGO </p>
+<p> Andrzej Rosiewicz: Donald T. smutną ma twarz </p>
+<p> Waldemar Glodek: “Lojalki” również w Stanach nie służą suwerennym decyzjom. Ron Paul ciągle pod obstrzałem. </p>
+<p> Winny zbrodni komunistycznej, ale.. </p>
+<p> Stanisław Michalkiewicz: Zanim się zbuntujemy </p>
+<p> Spam Blocked </p>
+<p> 39 474 </p>
+<p> komentarze będące spamem </p>
+<p> wychwycone przez </p>
+<p> Akismeta </p>
+<p> « </p>
+<p> Islandzka lekcja dla całego świata </p>
+<p> „Staruch” usłyszał wyrok. Sam poddał się karze </p>
+<p> » </p>
+<p> Ryszard Cyba skazany na dożywocie </p>
+<p> Posted by Włodek Kuliński - Wirtualna Polonia w dniu 2011-12-20 </p>
+<p> 63-letni Ryszard Cyba, który w październiku ub. roku w łódzkiej siedzibie PiS zastrzelił Marka Rosiaka i ranił nożem drugiego pracownika – Pawła Kowalskiego, został skazany na dożywocie. Takiej kary domagał się prokurator </p>
+<p> . </p>
+<p> Sąd zdecydował, że Cyba będzie mógł ubiegać się o przedterminowe, warunkowe zwolnienie z więzienia po 30 latach i pozbawił go na 10 lat praw publicznych. </p>
+<p> Zgodnie z wyrokiem sadu Cyba ma też wypłacić zadośćuczynienie rodzinie Marka Rosiaka i Pawłowi Kowalskiemu, łącznie 140 tys. zł. Wyrok jest nieprawomocny. </p>
+<p> Komentując na gorąco w TVN 24 orzeczenie sądu, szef klubu PiS Mariusz Błaszczak powiedział: „Mieliśmy do czynienia z zaplanowaną zbrodnią. Oczekiwaliśmy najwyższego z możliwych wyroków”. – Do morderstwa doszło rok temu, sprawa była oczywista, zabójca przyznawał się do czynu – stwierdził polityk, dodając, że postępowanie nie było wcale „takie szybkie”. – Mieliśmy do czynienia ze wścieklizną polityczną, efektem jej było to morderstwo. Skutki tego mogą być tragiczne – powiedział Błaszczak. </p>
+<p> Z kolei były minister sprawiedliwości Krzysztof Kwiatkowski (PO) uważa, że „wyroku dożywotniego pozbawienia wolności można było się spodziewać z uwagi na okoliczności i motywy, którymi kierował się sprawca”. – Motywy zasługujące na potępienie – dodał, zaznaczając, że „Ryszard Cyba nigdy nie wyraził skruchy”. Kwiatkowski zwrócił uwagę, że „opinia publiczna i wszelkie środowiska jednoznacznie potępiły tę zbrodnię”. </p>
+<p> Proces toczył się przed łódzkim sądem okręgowym. Cyba przyznał się do winy i złożył obszerne wyjaśnienia. </p>
+<p> Sąd zgodził się na ujawnienie jego danych osobowych i wizerunku, a także utrwalenie przez media przebiegu rozprawy do czasu odczytania aktu oskarżenia. Później jednak proces utajnił na wniosek pełnomocników żony i syna Marka Rosiaka oraz Pawła Kowalskiego, którzy występują jako oskarżyciele posiłkowi. Motywowali to ważnym interesem prywatnym pokrzywdzonych, obawą o naruszenie ich prywatności oraz dobrego imienia zmarłego. </p>
+<p> Zabójstwo członka PiS </p>
+<p> Do zbrodni doszło 19 października ubiegłego roku. Jak ustalono, Ryszard Cyba wtargnął z bronią w ręku do łódzkiej siedziby PiS. Zastrzelił działacza partii i asystenta europosła Janusza Wojciechowskiego – Marka Rosiaka oraz ranił nożem Pawła Kowalskiego, asystenta posła Jarosława Jagiełły. </p>
+<p> Napastnika obezwładnił strażnik miejski. Według świadków tragedii Ryszard Cyba krzyczał, że chciał zabić Jarosława Kaczyńskiego i „powystrzelać pisowców”. </p>
+<p> Łódzka prokuratura oskarżyła Ryszarda Cybę o zabójstwo Rosiaka i usiłowanie zabójstwa Kowalskiego. Według prokuratury motywem zbrodni była przynależność polityczna obu ofiar. Odpowiada on także za nielegalne posiadanie broni – pistoletu Walther oraz 57 sztuk amunicji. Mężczyzna w śledztwie przyznał się do zarzucanych czynów, ale odmówił składania wyjaśnień. Biegli psychiatrzy uznali, że w czasie popełnienia przestępstwa był poczytalny. </p>
+<p> Ustalono, że w chwili zabójstwa Cyba był trzeźwy i nie znajdował się pod wpływem środków odurzających. Biegli psychiatrzy po obserwacji uznali, że w czasie popełnienia przestępstwa był on poczytalny. Według prokuratury dowody wykluczają, że współdziałał z innymi osobami. </p>
+<p> Po zabójstwie znaleziono przy nim ręcznie napisane przez niego „oświadczenie” z nazwiskami polityków. Śledczy nie ujawnili nazwisk ani treści „oświadczenia”, ale przyznali, że wymienieni byli w nim „trzej czołowi działacze PiS”, a z jego treści wynika, że Cyba nosił się z zamiarem „pozbawienia ich życia”. Chodziło o Jarosława Kaczyńskiego oraz europosłów, wówczas PiS: Jacka Kurskiego i Zbigniewa Ziobrę. Po zbrodni ochronę BOR zaproponowano w sumie kilkunastu politykom różnych opcji. </p>
+<p> Cyba to były taksówkarz; mieszkał w Częstochowie, ale przez lata pracował w Kanadzie. Ma podwójne obywatelstwo: polskie i kanadyjskie. Ustalono, że w lipcu ub.r. wymeldował się z częstochowskiego mieszkania i od tego czasu bywał w różnych miejscowościach. </p>
+<p> W styczniu prezes PiS Jarosław Kaczyński mówił, że Cyba przez rok był członkiem Platformy Obywatelskiej. Szefowa częstochowskiej PO Halina Rozpondek potwierdziła wówczas, że był on członkiem PO od kwietnia 2004 roku, a w styczniu 2006 został wykreślony z listy członków partii z powodu braku jakiejkolwiek aktywności. </p>
+<p> PAP </p>
+<p> Dodaj do ulubionych: </p>
+<p> Lubię </p>
+<p> Jeden bloger lubi ten . </p>
+<p> Ten wpis został dodany w 2011-12-20 @ 14:26						i znajduje się w kategorii </p>
+<p> Wiadomości </p>
+<p> . 												Możesz śledzić odpowiedzi do tego wpisu poprzez </p>
+<p> RSS 2.0 </p>
+<p> kanał.  													Możesz przeskoczyć na koniec i zostawić odpowiedź. Pingi w tej chwili nie są dozwolone. </p>
+<p> Odpowiedzi: 3 to “Ryszard Cyba skazany na dożywocie” </p>
+<p> pascalalter </p>
+<p> powiedział/a </p>
+<p> 2011-12-20 @ 14:40 </p>
+<p> Cytuję;Sąd zdecydował, że Cyba będzie mógł ubiegać się o przedterminowe, warunkowe zwolnienie z więzienia po 30 latach i pozbawił go na 10 lat praw publicznych. </p>
+<p> .. </p>
+<p> O wyrokach podobno się nie dyskutuje. </p>
+<p> Jednak biorąc pod uwagę wiek oskarżonego (63) i oczywiste zaburzenia psychiczne - </p>
+<p> kto wie, czy nie ciężką chorobę paranoidalną – to naprawdę drastyczne rozstrzygnięcie. </p>
+<p> Na szczęście nieprawomocne. </p>
+<p> .. </p>
+<p> Delikwent powinien być zbadany przez niezależnych psychiatrów. </p>
+<p> Poddany leczeniu, a nie drastycznemu odwetowi. </p>
+<p> Lubomir </p>
+<p> powiedział/a </p>
+<p> 2011-12-20 @ 14:53 </p>
+<p> Przecież ten Cyba mówił to samo co wygaduje przed niemiecko-PO -wskimi kamerami Palikot. Jak  to jest zatem, jednego bada psychiatra, a drugiego nie?. Tego, co obiecywał wypatroszyć mających odmienne zdanie, nie należy badać psychiatrycznie?. Może pokątnie robi to, o czym mówi do kamer?. </p>
+<p> @ + @ = @@ </p>
+<p> powiedział/a </p>
+<p> 2011-12-20 @ 15:25 </p>
+<p> Boję się, że w „nagrodę” Platforma Obywatelska zmieni jemu imię i nazwisko oraz „życiorys” w taki sposób, ażeby móc w następnych wyborach parlamentarnych wystawić GO na listach startujących kandydatów. Ryszard Cyba był Platformie bardzo potrzebny, bo załatwił tę śliską sprawę z opozycją dokładnie tak jak wcześniej zapowiadali to: Donald Tusk (wyginiecie jak dinozaury!), Radek Sikorski (wypatroszyć) i Janusz Palikot (powystrzelać jak „kaczki”). Jeśli zaś PO go nie wystawi, to ten „błąd” naprawi „RUCH(awka) Palikota” wciągając go na członka kandydata do europarlamentu. Nawijki Palikotowszczyzny oraz czołowych aktywistów PO są niemal takie same jak skutecznie zrealizowane groźby Ryszarda Cyby. </p>
+<p> Dodaj komentarz </p>
+<p> Anuluj pisanie odpowiedzi </p>
+<p> Wprowadź swój komentarz do tego pola... </p>
+<p> Wprowadź swoje dane lub kliknij jedną z tych ikon, aby się zalogować: </p>
+<p> E-mail </p>
+<p> (wymagane) </p>
+<p> (Nie zostanie upubliczniony) </p>
+<p> Podpis </p>
+<p> (wymagane) </p>
+<p> Witryna internetowa </p>
+<p> Please log in to WordPress.com to post a comment to your blog. </p>
+<p> You are commenting using your Twitter account. </p>
+<p> ( </p>
+<p> Log Out </p>
+<p> / </p>
+<p> Zmień </p>
+<p> ) </p>
+<p> You are commenting using your Facebook account. </p>
+<p> ( </p>
+<p> Log Out </p>
+<p> / </p>
+<p> Zmień </p>
+<p> ) </p>
+<p> Anuluj </p>
+<p> Connecting to %s </p>
+<p> Powiadom mnie o nowych komentarzach poprzez e-mail. </p>
+<p> Otrzymywanie zawiadomień o nowych pozycjach pocztą elektroniczną. </p>
+<p> jQuery(document).ready(function(){ 		HighlanderComments.comment_registration = ''; 		HighlanderComments.userIsLoggedIn = false; 			}); </p>
+<p> « </p>
+<p> Islandzka lekcja dla całego świata </p>
+<p> „Staruch” usłyszał wyrok. Sam poddał się karze </p>
+<p> » </p>
+<p> Blog na WordPress.com </p>
+<p> . | Theme: </p>
+<p> Andreas09 </p>
+<p> by </p>
+<p> Andreas Viklund </p>
+<p> . </p>
+<p> /* <![CDATA[ */ var WPGroHo = {"my_hash":""}; /* ]]> */ </p>
+<p> var _qevents = _qevents || [], wpcomQuantcastData = {"qacct":"p-18-mFEk4J448M","labels":",language.pl,type.wpcom"}; function wpcomQuantcastPixel( labels, options ) { 	var i, defaults = wpcomQuantcastData, data = { event: 'ajax' };  	labels  = labels  || ''; 	options = options || {};  	if ( typeof labels != 'string' ) 		options = labels;  	for ( i in defaults ) { 		data[i] = defaults[i]; 	}  	for ( i in options ) { 		data[i] = options[i]; 	}  	if ( data.labels ) { 		data.labels += ',' + labels; 	} else { 		data.labels = labels; 	}  	_qevents.push( data ); }; (function() {var elem = document.createElement('script');elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";elem.async = true;elem.type = "text/javascript";var scpt = document.getElementsByTagName('script')[0];scpt.parentNode.insertBefore(elem, scpt);  })(); _qevents.push( wpcomQuantcastData ); </p>
+<p> /* <![CDATA[ */ 		jQuery(document).ready( function($) {  			// Remove the login box when clicking the page 			$( document ).mousedown( function( e ) { 				if ( null == $( e.target ).closest( '#wpl-mustlogin' ).get( 0 ) ) { 					$( '#wpl-mustlogin' ).remove(); 				} 			});  			// Handle clicking the like button itself 			$('#wpl-button > a.like').click( function(e) { 				e.preventDefault(); 				 				$.post( 'http://wirtualnapolonia.com/wp-admin/admin-ajax.php', { 					'action': 'wpl_record_stat', 					'stat_name': 'loggedout_like_click' 				} );  				var tenMins = new Date(); 				tenMins.setTime( tenMins.getTime() + 600000 ); 				document.cookie = 'wpl_rand=915e1ffa6d; expires=' + tenMins.toGMTString() + '; domain=wordpress.com; path=/;';  				$('#wpl-count').after( '\ 					<div id="wpl-mustlogin"> \ 						<form action="https://wirtualnapolonia.wordpress.com/wp-login.php" method="post"> \ 							<p>Jeszcze tylko krok, aby dodać ten  do ulubionych:</p> \ 							<label><span>Nazwa użytkownika</span> <input type="text" name="log" id="user_login" class="input" value="" size="20" tabindex="80" /></label> \ 							<label><span>Hasło</span> <input type="password" name="pwd" id="user_pass" class="input" value="" size="20" tabindex="81" /></label> \ 							<input type="submit" name="wp-submit" id="wp-submit" class="button-primary" value="Zaloguj się" tabindex="82" /> \ 							<input type="hidden" name="redirect_to" value="http://wirtualnapolonia.com/2011/12/20/ryszard-cyba-skazany-na-dozywocie/?like=1" /> \ 							<input type="hidden" name="wpl_rand" value="915e1ffa6d" /> \ 							<p>Nie masz jeszcze konta? <a href="http://wordpress.com/signup/?ref=likebox" id="wpl-signup-link">Zarejestruj się w serwisie WordPress.com</a></p> \ 						</form> \ 					</div> \ 				');  				$('#wpl-mustlogin').hide().slideDown('fast'); 			} ); 			 			$('#wpl-mustlogin input.input').live( 'focus', function() { 				$(this).prev().hide(); 			}).live( 'blur', function() { 				if ( $(this).val() == '' ) 					$(this).prev().show(); 			}); 			 			$('#wpl-mustlogin input#wp-submit').live( 'click', function(e) { 				e.preventDefault(); 				 				$.post( 'http://wirtualnapolonia.com/wp-admin/admin-ajax.php', {  					'action': 'wpl_record_stat', 					'stat_name': 'loggedout_login_submit' 				}, function() { 					$('#wpl-mustlogin form').submit(); 				} ); 			});			 			 			$('#wpl-mustlogin a#wpl-signup-link').live( 'click', function(e) { 				e.preventDefault(); 				 				var link = $(this).attr('href'); 				 				$.post( 'http://wirtualnapolonia.com/wp-admin/admin-ajax.php', {  					'action': 'wpl_record_stat', 					'stat_name': 'loggedout_signup_click' 				}, function() { 					location.href = link; 				} ); 			});					 			 		}); 	/* ]]> */ </p>
+<p> jQuery(document).ready(function($){ Gravatar.profile_cb = function( h, d ) { WPGroHo.syncProfileData( h, d );	}; Gravatar.my_hash = WPGroHo.my_hash; Gravatar.init( 'body', '#wpadminbar' ); }); </p>
+<p> .reblog-from img                   { margin: 0 10px 0 0; vertical-align: middle; padding: 0; border: 0; } 				.reblogger-note img.avatar         { float: left; padding: 0; border: 0; } 				.reblogger-note-content            { margin: 0 0 20px 35px; } 				.reblog-post                       { border-left: 3px solid #eee; padding-left: 15px; } 				.reblog-post ul.thumb-list         { display: block; list-style: none; margin: 2px 0; padding: 0; clear: both; } 				.reblog-post ul.thumb-list li      { display: inline; margin: 0; padding: 0 1px; border: 0; } 				.reblog-post ul.thumb-list li a    { margin: 0; padding: 0; border: 0; } 				.reblog-post ul.thumb-list li img  { margin: 0; padding: 0; border: 0; } 				.reblog-post                       { border-left: 3px solid #eee; padding-left: 15px; } </p>
+<p> /* <![CDATA[ */ var HighlanderComments = {"loggingInText":"Logging In\u2026","submittingText":"Posting Comment\u2026","postCommentText":"Opublikuj komentarz","connectingToText":"Connecting to %s","commentingAsText":"%1$s: You are commenting using your %2$s account.","logoutText":"Wyloguj si\u0119","loginText":"Zaloguj si\u0119","connectURL":"http:\/\/wirtualnapolonia.wordpress.com\/public.api\/connect\/?action=request","homeURL":"http:\/\/wirtualnapolonia.com\/","postID":"15957","gravDefault":"mystery","enterACommentError":"Prosimy wprowadzi\u0107 komentarz","enterEmailError":"Wymagany jest adres e-mail","invalidEmailError":"Nieprawid\u0142owy adres elektr.","enterAuthorError":"Name required","gravatarFromEmail":"Your email address will be used to look up your Gravatar.","logInToExternalAccount":"Log in to use details from one of these accounts.","change":"Zmie\u0144","changeAccount":"Change Account"}; /* ]]> */ </p>
+<p> Follow </p>
+<p> Follow “Wirtualna Polonia” </p>
+<p> Otrzymuj każdy nowy wpis na swoją skrzynkę e-mail. </p>
+<p> Join 85 other followers </p>
+<p> Silnik: WordPress.com </p>
+<p> try{COMSCORE.beacon({c1:2,c2:7518284});}catch(e){} </p>
+<p> // <![CDATA[ (function() { try{   if ( window.external &&'msIsSiteMode' in window.external) {     if (window.external.msIsSiteMode()) {       var jl = document.createElement('script');       jl.type='text/javascript';       jl.async=true;       jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';       var s = document.getElementsByTagName('script')[0];       s.parentNode.insertBefore(jl, s);     }   } }catch(e){} })(); // ]]> </p>
+<p> st_go({'blog':'3896880','v':'wpcom','user_id':'0','post':'15957','subd':'wirtualnapolonia'}); ex_go({'crypt':'UE40eW5QN0p8M2Y/RE1mN3EvZSVbc0pOWUpER3d5cnliNiU3cm5bTVRqL2JmcmUyb1c0U0dtUHB+bnx5YkI2XXZwVFgwdD80VDItXUVtNWlhZGVWX2lUdGN1ak0xWTEwJVRuWmk0WFsxemt6THN4VEZ3WjNDYTdPYmpoajkuV0V3cU1rUzFsdyZYLWxJcjd0ZFJtT1NoZUp8V0tkX0hRcTBMLHRbUzZNWXc2dzJHMEg0UmU4RF1FTVpST1VHZjlHfjJneUVCdElGT2Z0VjZGdVB1Z1pnPzMvajZPRmcwbjVRWlJqWDZyZ3ZiMEJCRDY5PWxqfEJuX2NFSjM1JUlp'}); addLoadEvent(function(){linktracker_init('3896880',15957);}); </p>

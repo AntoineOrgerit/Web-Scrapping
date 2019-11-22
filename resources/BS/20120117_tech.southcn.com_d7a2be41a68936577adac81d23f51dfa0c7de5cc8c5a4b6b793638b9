@@ -1,0 +1,295 @@
+<p> 格兰仕独揽两项“红顶奖” 质量监督 南方网 </p>
+<p> <!--  --> </p>
+<p> <!--  --> </p>
+<p> <!--  --> </p>
+<p> <!--  --> </p>
+<p> /*head*/ #ScPageHead *{ padding:0px; margin:0px;} #ScPageHead{font-size:12px; color:#666666; font-family:"宋体"; background-color:#FFFFFF; padding-bottom:5px; width:980px; margin:0px auto; text-align:left;} .clearer{ line-height:0px; clear:both; font-size:1%; overflow:hidden;} #ScPageHead .ScNavi{ clear:both; } #ScPageHead ul,#ScPageHead li{ padding:0px; margin:0px; list-style:none;} #ScPageHead .ScNavi .logo{background:url(http://www.southcn.com/index08/style/snlogo2.gif) center 0px no-repeat; height:68px; width:159px; float:left; text-align:center;} #ScPageHead .ScNavi .logo .time{ padding-left:10px; padding-top:0px; text-align:center; color:#000000; font-family:Arial; line-height:14px; color:#000; background-image:none;} #ScPageHead .ScNavi .navi{ width:820px; float:right;} #ScPageHead .ScNavi .navi .row1{ position:relative; line-height:22px; clear:both; height:22px; background-image:url(http://www.southcn.com/index08/style/toolbg2.gif); margin:3px 0px; background-color:#FF9900; color:#000;} #ScPageHead .ScNavi .navi .row1 .corner{ background:url(http://www.southcn.com/index08/style/toolbg.gif) 0px 0px no-repeat; padding-left:12px; height:22px;} #ScPageHead .ScNavi .navi .row1 a,#ScPageHead .ScNavi .navi .row1 a:visited{ color:#FFFFFF; text-decoration:none;} #ScPageHead .ScNavi .navi .row1 a:hover{ text-decoration:underline;} #ScPageHead .ScNavi .navi .row2{ line-height:18px; font-size:12px; background-image:url(http://www.southcn.com/index08/style/navi2.gif); background-repeat:repeat-x; } #ScPageHead .ScNavi .navi .row2 .corner{ background:url(http://www.southcn.com/index08/style/navi1.gif) 0px 0px no-repeat; text-indent:0px; padding-top:3px; padding-left:3px;} #ScPageHead .ScNavi .navi .row3{ line-height:22px; font-size:12px; text-indent:0px; background-color:#FFFFFF; padding-left:3px;} #ScPageHead .ScNavi .navi .row2 a,#ScPageHead .ScNavi .navi .row2 a:visited, #ScPageHead .ScNavi .navi .row3 a,#ScPageHead .ScNavi .navi .row3 a:visited{color:#000; text-decoration:none; padding-left:2px;} #ScPageHead .ScNavi .navi .row2 a:hover,#ScPageHead .ScNavi .navi .row3 a:hover{text-decoration:underline;} #ScPageHead .ScSitelist{ font-size:12px; text-align:center; line-height:20px; clear:both; background:url(http://www.southcn.com/index08/style/btbg1.gif) 0px bottom repeat-x; border:1px solid #CCC; margin:0px 3px;} #ScPageHead .ScSitelist a,#ScPageHead .ScSitelist a:visited{ color:#333; text-decoration:none; padding:0px 3px;} #ScPageHead .ScSitelist a:hover{color:#CC3300;} #ScPageHead .SsSearchFormLabel{ font-weight:bold; color:#FFF;} #ScPageHead .SsSearchForm{ position:absolute; left:630px; top:0px;} #ScPageHead .ScCities{ text-align:center; clear:both; line-height:22px; background:url(http://www.southcn.com/index08/style/lbg11.gif) 0px bottom repeat-x; padding-left:10px; border-bottom:1px solid #bbb; } #ScPageHead .ScCities a,#ScPageHead .ScCities a:visited{ color:#000000; text-decoration:none; padding:0px 5px;} #ScPageHead .ScCities a:hover{ color:#CC3300;} #ScPageHead .ScCities .label{line-height:22px; font-weight:bold; } </p>
+<p> 天气预报 </p>
+<p> 新闻报料热线 </p>
+<p> 简体 </p>
+<p> 繁体 </p>
+<p> English </p>
+<p> 设为首页 </p>
+<p> 加入收藏 </p>
+<p> 最佳分辨率1024 </p>
+<p> 首页 </p>
+<p> 要闻 </p>
+<p> 中国 </p>
+<p> 广东 </p>
+<p> 港台 </p>
+<p> 国际 </p>
+<p> 经济 </p>
+<p> 社会 </p>
+<p> 专题 </p>
+<p> 滚动 </p>
+<p> 时评 </p>
+<p> 博客 </p>
+<p> 英文网 </p>
+<p> 热点网谈 </p>
+<p> 书城 </p>
+<p> 商城 </p>
+<p> 图库 </p>
+<p> 食品 </p>
+<p> 3D </p>
+<p> 收藏 </p>
+<p> 质量 </p>
+<p> 论坛 </p>
+<p> 旅游 </p>
+<p> 房产 </p>
+<p> 通信 </p>
+<p> 物志 </p>
+<p> 汽车 </p>
+<p> 女性 </p>
+<p> 时尚 </p>
+<p> 数码 </p>
+<p> 财经 </p>
+<p> 法治 </p>
+<p> 科技 </p>
+<p> 文娱 </p>
+<p> 动漫 </p>
+<p> 体育 </p>
+<p> 健康 </p>
+<p> 教育 </p>
+<p> 理论 </p>
+<p> 文书 </p>
+<p> 家居 </p>
+<p> 南方播报 </p>
+<p> 泛珠三角 </p>
+<p> 省政府 </p>
+<p> 应急办 </p>
+<p> 政法 </p>
+<p> 法治广东 </p>
+<p> 爱国教育 </p>
+<p> 新闻发布 </p>
+<p> 排头兵 </p>
+<p> 女性E家园 </p>
+<p> 食安网 </p>
+<p> 艺术 </p>
+<p> 消防 </p>
+<p> 外事 </p>
+<p> 侨网 </p>
+<p> 广州边检 </p>
+<p> 科学中心 </p>
+<p> 社科规划 </p>
+<p> 广东环保 </p>
+<p> 民宗网 </p>
+<p> 广东地市： </p>
+<p> 广州 </p>
+<p> 深圳 </p>
+<p> 东莞 </p>
+<p> 佛山 </p>
+<p> 珠海 </p>
+<p> 汕头 </p>
+<p> 韶关 </p>
+<p> 河源 </p>
+<p> 梅州 </p>
+<p> 惠州 </p>
+<p> 汕尾 </p>
+<p> 中山 </p>
+<p> 江门 </p>
+<p> 阳江 </p>
+<p> 湛江 </p>
+<p> 茂名 </p>
+<p> 肇庆 </p>
+<p> 潮州 </p>
+<p> 揭阳 </p>
+<p> 云浮 </p>
+<p> 清远 </p>
+<p> 广东黄页 </p>
+<p> 科技频道 </p>
+<p> 聚焦 </p>
+<p> 广东科技 </p>
+<p> 科学中心 </p>
+<p> 资讯 </p>
+<p> 产业经济 </p>
+<p> 创新人才 </p>
+<p> 业界 </p>
+<p> 企业新闻 </p>
+<p> 人物故事 </p>
+<p> 投资融资 </p>
+<p> 科学新知 </p>
+<p> 专题 </p>
+<p> 访谈直播 </p>
+<p> 视频 </p>
+<p> 政策法规 </p>
+<p> 项目申报 </p>
+<p> 中国科技报道 </p>
+<p> .GsSppd{ width:305px; height:28px; line-height:28px; background-image:url(http://www.southcn.com/public/detail/foodsiteinc/style/Gs10Label.gif); background-repeat:no-repeat;margin-left:5px; clear:both;} .GsSppd dt{ font-size:14px; font-weight:bold; float:left; line-height:28px; color:#fff; padding-left:10px; height:28px; width:70px;} .GsSppd dt a,.GsSppd dt a:visited{ color:#fff; text-decoration:none;} .GsSppd dt a:hover{ text-decoration:underline;} .GsSppd dd{ font-size:12px; float:left; line-height:28px; margin-left:10px; width:200px; height:28px;} .GsSppd dd a,.GsSppd dd a:visited{ color:#fff; text-decoration:none;} .GsSppd dd a:hover{ text-decoration:underline;} </p>
+<p> 食品新闻 </p>
+<p> 举报食品安全问题可奖30万元 </p>
+<p> “大胃王”8分钟吞131颗馄饨 </p>
+<p> 乳品新国标巨头定？ </p>
+<p> 美国传统饮料市场份额下跌 </p>
+<p> 有机奶粉市场走俏 </p>
+<p> 飞天茅台价格飞上天 </p>
+<p> 欧莱雅染发剂接连伤人 </p>
+<p> 吃糖误区大盘点 </p>
+<p> 15食物让你只养胎不长胖 </p>
+<p> 怎样把火锅涮出花样来(图) </p>
+<p> 今日聚焦 </p>
+<p> 广东大项目建设促经济加快转型 </p>
+<p> 广州春运便民服务:交通站场提供免费WiFi </p>
+<p> 温家宝呼吁 建立全球能源市场治理机制 </p>
+<p> 加快培育新兴产业 南海科技产业促进中心成立 </p>
+<p> 创新深圳:孔雀聚集高层次人才 企业唱主角 </p>
+<p> 新能源电池国家级工程研发检测中心落户深圳 </p>
+<p> 荷兰尝试在普通道路上铺设太阳能电池板 </p>
+<p> 我国临床必需短缺 基药有望获政策补贴 </p>
+<p> 科学普及浇灌创新沃土 科普事业进入新阶段 </p>
+<p> 中国网民规模达5.13亿 网站规模止跌回升 </p>
+<p> SNaddTabs("tab1",0,0); </p>
+<p> var youdao_client="1005"; var youdao_member="110382"; var youdao_template="text_300_300"; var youdao_width="300"; var youdao_height="300"; </p>
+<p> 广东农村信息直通车专栏 </p>
+<p> 广东农村信息直通车工程门户网站 </p>
+<p> 《农村信息直通车工程发展战略研究》通过验收 </p>
+<p> 李学勇书记考察广东农村信息直通车工程 </p>
+<p> 农村信息直通车工程萝岗区农村信息化项目启动 </p>
+<p> 科技惠农富农 萝岗现代都市农业服务珠三角 </p>
+<p> 资讯科技·企业与技术 </p>
+<p> 美国媒体曝光富士康使用童工并规避检查 </p>
+<p> 格兰仕独揽两项红顶奖 将向全白电全产业链转型 </p>
+<p> 苏泊尔又陷质量门家电业虚标问题引关注 </p>
+<p> 格兰仕质量问题不断 千亿跃进计划将遇阻 </p>
+<p> 资讯科技·产品与服务 </p>
+<p> 第一财经周刊:2011年度全球科技创新档案 </p>
+<p> 中美合作 第三代核电有能力抵御福岛类冲击 </p>
+<p> 科协举行发布会 2011年全国十大科普事件揭晓 </p>
+<p> 专家称应重视二恶英等空气污染物监测 </p>
+<p> 业界 </p>
+<p> 百度国际大厦深圳奠基 </p>
+<p> 16日，百度国际大厦深圳研发中心项目奠基仪式在南山高新区填海六区项目现场举行，王荣、许勤、李彦宏等出席仪式。省委常委、市委书记王荣，市长许勤，市委常委、秘书长李华楠，副市长陈彪，市政协副主席王学为及百度公司董事长兼首席执行官李彦宏等出席了大厦奠基典礼。 </p>
+<p> 专家称电商未来是刘强东的时代 马云已成过去时 </p>
+<p> “电商造血”是一个伪命题，因为它们一直都在造血，只是自身要求增长的速度过快，想用速度拖垮后面的追随者。小企业可以选择给平台供货，抑或选择在淘宝、拍拍、京东开店，电商平台是学习成本最低的地方，比较适合切入。 </p>
+<p> 消息称富士康将在斯洛伐克工厂裁员600人 </p>
+<p> 三大互联网巨头密集布局深圳南山区后海片区 </p>
+<p> 华为接班难题：真的离得开她的创始人吗？ </p>
+<p> iPhone4S一机难求 苹果还会被宠多久 </p>
+<p> 移动互联网已成为创业者的最新造梦机器 </p>
+<p> 综合新闻 </p>
+<p> 2011年全国十大科普事件揭晓 </p>
+<p> 记者今天（16日）从中国科协举行的发布会上获悉，由关注科普事业的两院院士和科普界、科技新闻界的专家学者及公众共同评选出的2011年全国十大科普事件评选结果揭晓。 </p>
+<p> “十二五”期间新兴产业成甘肃跨越发展着力点 </p>
+<p> 记者李琛奇、通讯员陈发明报道：“十二五”时期，甘肃将大力培育新能源、新材料、生物制药、现代服务业等具有增长潜力的产业集群，争取打造一批千亿元级的产业集群。2012年，甘肃省委、省政府提出了全省生产总值和城乡居民收入增长13%以上、固定资产投资增长力争达到40%、地方财政收入增长16%以上的目标。 </p>
+<p> 北京应对PM2.5 五六环之间增20万亩林地 </p>
+<p> 汪洋:把人民利益放在第一位 </p>
+<p> 报告称近五成海归月薪不足五千 多就职民营企业 </p>
+<p> 企业创新让广西柳州经济升级城市转型 </p>
+<p> 加强引导规范 安徽滁州抢占新能源产业制高点 </p>
+<p> 投资融资 </p>
+<p> 顺德相关企业可申报物联网专项资金 </p>
+<p> 佛山投1亿元扶持企业改制上市 </p>
+<p> 深圳建设公共服务平台助中小企业成长 </p>
+<p> 工信部:中小企业境外上市门槛将降 </p>
+<p> 深圳将力推优秀文化创意企业上市 </p>
+<p> 科学新知 </p>
+<p> 外星人、瘟疫、机器人？谁会毁灭地球？ </p>
+<p> 揭秘黄石公园：2012预言之源 </p>
+<p> 日本现未来世界水上巴士 形似太空飞船 </p>
+<p> 超级金球纳米耳机问世 可倾听细胞病变声音 </p>
+<p> 断肠草VS黄曲霉素 您知道哪个更毒吗？ </p>
+<p> 2011年度流言报告：你被忽悠了吗？ </p>
+<p> 巴基斯坦电脑神童夭折 9岁成微软认证工程师 </p>
+<p> 发霉食物：黄曲霉素致癌温床 </p>
+<p> 美军研制新型癌症疫苗 癌症复发率降低一半 </p>
+<p> “风云二号”07星发射成功 可全天候气象监视 </p>
+<p> 您现在： </p>
+<p> 南方网首页 </p>
+<p> > </p>
+<p> 科技 </p>
+<p> > </p>
+<p> 质量监督 </p>
+<p> 格兰仕独揽两项“红顶奖” </p>
+<p> 2012-01-17 10:36:43 </p>
+<p> 来源:  佛山日报网络版 </p>
+<p> 暂无网友评论 </p>
+<p> 分享到： </p>
+<p> <!-- (function(){ var p = { url:location.href, desc:'',/*默认分享理由(可选)*/ summary:'',/*摘要(可选)*/ title:'',/*分享标题(可选)*/ site:'',/*分享来源 如：腾讯网(可选)*/ pics:'' /*分享图片的路径(可选)*/ }; var s = []; for(var i in p){ s.push(i + '=' + encodeURIComponent(p[i]||'')); } document.write(['<a href="http://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?',s.join('&'),'" target="_blank" title="分享到QQ空间"><img src="http://qzonestyle.gtimg.cn/ac/qzone_v5/app/app_share/qz_logo.png" alt="分享到QQ空间" /></a>'].join('')); })(); --> </p>
+<p> 浏览字号： </p>
+<p> 大 </p>
+<p> 中 </p>
+<p> 小 </p>
+<p> | </p>
+<p> 打印本页 </p>
+<p> | </p>
+<p> 通过Email推荐给好友： </p>
+<p> 日前，中国高端家电评选“红顶奖”在北京颁布，格兰仕榜上有名。中国家用电器协会理事长姜风称，“红顶奖”的评审对促进家电产业转型升级有积极意义。 </p>
+<p> 据介绍，本届红顶奖经组委会委托专业公司对国内大城市高端人群进行调查、网络投票及专家评选三个环节，共颁出8项大奖，格兰仕以创新设计在微波炉类、厨房料理类独揽两项。 </p>
+<p> 格兰仕副总裁陆骥烈说，格兰仕的竞争优势在于产业链的完整性，“基本上从一根电线到元器件到核心部件，再到结构设计以及各个工序的制造生产等，格兰仕做任何技术上的革新和工艺上的改变以及质量体系的建设，都能够得到内部所有自控体系的呼应。” </p>
+<p> 据了解，1999年，格兰仕把微波炉产量做到世界第一后，确定了多元化全白电道路，于2000年9月进军空调制冷业，计划创建微波炉之后的第二个世界级研制中心。随后，格兰仕又将产业投资和布局扩展到小家电、冰箱、洗衣机等多种产品，获得了先进装备业和技术的沉淀，以确保未来十年的持续发展和领先。陆骥烈称，格兰仕目前已拥有超过1100项专利。（编辑 张颖） </p>
+<p> 作者：代进 </p>
+<p> 分享到： </p>
+<p> <!-- (function(){ var p = { url:location.href, desc:'',/*默认分享理由(可选)*/ summary:'',/*摘要(可选)*/ title:'',/*分享标题(可选)*/ site:'',/*分享来源 如：腾讯网(可选)*/ pics:'' /*分享图片的路径(可选)*/ }; var s = []; for(var i in p){ s.push(i + '=' + encodeURIComponent(p[i]||'')); } document.write(['<a href="http://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?',s.join('&'),'" target="_blank" title="分享到QQ空间"><img src="http://qzonestyle.gtimg.cn/ac/qzone_v5/app/app_share/qz_logo.png" alt="分享到QQ空间" /></a>'].join('')); })(); --> </p>
+<p> 点击心情：南方网心情排行 </p>
+<p> var youdao_client="1005"; var youdao_member="110382"; var youdao_template="text_670_100"; var youdao_width="670"; var youdao_height="100"; </p>
+<p> 企 </p>
+<p> 业 </p>
+<p> 服 </p>
+<p> 务 </p>
+<p> 深圳男科 性功能障碍咨询 </p>
+<p> 广州妇科医院哪家好 </p>
+<p> 广州最好的男科医院 </p>
+<p> 广州男科医院 </p>
+<p> 专家答疑-男科健康咨询 </p>
+<p> 广州男性专科医院 </p>
+<p> 解读神秘“处女膜修复术” </p>
+<p> 广州女子医院 </p>
+<p> 深圳医院 </p>
+<p> 狂干千次 25岁一夜白头 </p>
+<p> 广州女子医院妇科 </p>
+<p> 深圳最好的中医院 </p>
+<p> <!--  //AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0','width','1','height','1','wmode','opaque','src','http://live2.southcn.com/livemsgtester','pluginspage','http://www.macromedia.com/go/getflashplayer','bgcolor','#FFFFFF','movie','http://live2.southcn.com/livemsgtester' );  --> </p>
+<p> 更多相关内容 </p>
+<p> function southcn_mailto(mailaccount,maildomain) {  var html='';  html='<a href="mailto:'+mailaccount+'@'+maildomain+'">'+mailaccount+'@'+maildomain+'</a>';  document.write(html); } </p>
+<p> 南方网版权相关声明： </p>
+<p> ① 在本网转载其他媒体稿件是为传播更多的信息，此类稿件不代表本网观点。如果本网转载的稿件涉及您的版权、名益权等问题，请尽快与本网联系，本网将依照国家相关法律法规尽快妥善处理。联系方式： </p>
+<p> southcn_mailto('falv','southcn.com') </p>
+<p> ；联系电话：020-87373397 </p>
+<p> ② 本网欢迎各类媒体、出版社、影视公司等机构与本网进行长期的内容合作。联系方式： </p>
+<p> southcn_mailto('zhaoy','southcn.com') </p>
+<p> ③ 本网原创新闻信息均有明确、明显的标识，本网严正抗议所有以“南方网”稿源的名义转载发布非南方网原创的新闻信息的行为，并保留追究其法律责任的权利。 </p>
+<p> ④ 在本网BBS上发表言论者，文责自负。 </p>
+<p> /*error*/ #ScPageFoot *{ padding:0px; margin:0px;} #ScPageFoot{ clear:both;} #ScPageFoot .ScError{ text-align:center; line-height:25px; font-size:12px; color:#333333;font-size:12px; font-family:Arial, "宋体"; background-color:#FFFFFF;} #ScPageFoot .ScError strong{ font-weight:bold; color:#CC3300;} #ScPageFoot .ScError a,#ScPageFoot .ScError a:visited{ color:#CC3300; text-decoration:underline;} #ScPageFoot .ScFoot{ font-size:12px; font-family:Arial, "宋体"; padding-bottom:50px; background-color:#FFFFFF;} #ScPageFoot .ScFoot .navi{ text-align:center; height:25px; line-height:25px; font-size:12px; background-color:#990000; background-image:url(http://www.southcn.com/index08/style/btbg2.gif); color:#FDE7E1;} #ScPageFoot .ScFoot .navi a,#ScPageFoot .ScFoot .navi a:visited{ color:#FFFFFF; text-decoration:none;} #ScPageFoot .ScFoot .navi a:hover{ color:#FFF; text-decoration:underline;} #ScPageFoot .ScFoot .detail{ text-align:center; line-height:160%; padding:10px; color:#333333;} #ScPageFoot .ScFoot .detail a,#ScPageFoot .ScFoot .detail a:visited{ color:#003399; text-decoration:none;} #ScPageFoot .ScFoot .detail a:hover{ text-decoration:underline;} #ScPageFoot .ScLinks{ font-size:12px; line-height:30px; text-align:center; color:#333; border-top:1px solid #ddd;} #ScPageFoot .ScLinks a,#ScPageFoot .ScLinks a:visited{ color:#333;  text-decoration:none;} #ScPageFoot .ScLinks a:hover{color:#CC3300;} </p>
+<p> <!-- document.onkeydown = keyDown; function keyDown(e) {  var e=(typeof event!="undefined")?window.event:e;   // IE : Firefox  var s=(document.getSelection)?document.getSelection():document.selection.createRange().text;  if(e.ctrlKey && e.keyCode==13){   if (s!="")    {    window.open("/webelement/error/report/default.htm","","width=400,height=300");   }else{    alert("请先用鼠标选择出错的内容片断！");    return false;   }  } } --> </p>
+<p> 举报虚假新闻： </p>
+<p> 如果您在本页面发现虚假新闻和其他错误，请先 </p>
+<p> 用鼠标选择出错的内容片断 </p>
+<p> ，然后同时按下 </p>
+<p> “CTRL” </p>
+<p> 与 </p>
+<p> “ENTER” </p>
+<p> 键，填写举报邮件。 </p>
+<p> 举报电话：020-87373397。谢谢您的支持。 </p>
+<p> 南方日报 </p>
+<p> 南方农村报 </p>
+<p> 南方周末 </p>
+<p> 南方都市报　　21世纪经济报道 </p>
+<p> 《南方》 </p>
+<p> 网站地图 </p>
+<p> / </p>
+<p> 网站简介 </p>
+<p> / </p>
+<p> 广告服务 </p>
+<p> / </p>
+<p> 诚聘英才 </p>
+<p> / </p>
+<p> 联系我们 </p>
+<p> / </p>
+<p> 法律声明 </p>
+<p> / </p>
+<p> 友情链接 </p>
+<p> 本网站由南方新闻网版权所有，未经授权禁止复制或建立镜像 </p>
+<p> 广东南方网络信息科技有限公司负责制作维护 </p>
+<p> 新闻信息服务许可证 </p>
+<p> 增值电信业务经营许可证 </p>
+<p> 粤B2-20050252 </p>
+<p> 广告经营许可证 </p>
+<p> 广播电视节目制作经营许可证 </p>
+<p> 出版物经营许可证 </p>
+<p> 药品信息服务资格证 </p>
+<p> 互联网出版许可证 </p>
+<p> 信息网络传播视听节目许可证 </p>
+<p> 广东省通信管理局 </p>
+<p> <!--  InitScMoodPollBox("moodPollWrap",null,null,null,null);  --> </p>
+<p> <!--  InitScCommentBox("commentboxWrap",null,null,true,null,null,9,"http://www.southcn.com/public/ria/newslink/skin/default/default.css","http://newslink.southcn.com/v200811/template/default.htm");  --> </p>
+<p> <!--    --> </p>
+<p> <!--    --> </p>

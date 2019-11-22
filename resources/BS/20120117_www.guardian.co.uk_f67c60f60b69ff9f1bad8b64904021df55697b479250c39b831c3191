@@ -1,0 +1,1168 @@
+<p> document.domain = "guardian.co.uk"; </p>
+<p> //<![CDATA[ 				OAS_url = 'http://oas.guardian.co.uk/RealMedia/ads/'; 				OAS_sitepage = "www.guardian.co.uk/commentisfree/2012/jan/17/yves-saint-laurent-skin-cream-science/oas.html"; 				OAS_listpos = 'Top,Middle2,Right1,x31';  								OAS_query = 'k=lifeandstyle&k=beauty&k=fashion&k=yves-saint-laurent&k=world&cf=global+%28temp+commercial%29&pid=&ct=article&pt=article&pt=blog&'; 				OAS_target = '_blank';  				OAS_rn = '001234567890'; 				OAS_rns = '1234567890'; 				OAS_rn = new String (Math.random()); 				OAS_rns = OAS_rn.substring (2, 11); 			//]]> </p>
+<p> Yves Saint Laurent's new skin cream: ah, there's the science bit | Philip Ball | Comment is free | guardian.co.uk </p>
+<p> //<![CDATA[ 	if (!commonStaticRoot) {	 		var commonStaticRoot = "http://static.guim.co.uk/static/894d5be2fd27175b6273c0b4d3966c55a95bac8a/common/"; 	} 	if (!sectionStaticRoot) {	 		var sectionStaticRoot = "http://static.guim.co.uk/static/894d5be2fd27175b6273c0b4d3966c55a95bac8a/commentisfree/"; 	} 	if (!staticHost) {	 		var staticHost="http://www.guardian.co.uk/"; 	} 	if (!sitePrefixUrl) { 		var sitePrefixUrl = "http://www.guardian.co.uk"; 	} //]]> </p>
+<p> var _sf_startpt=(new Date()).getTime(); </p>
+<p> window.jQuery || document.write('<script src="http://static.guim.co.uk/static/894d5be2fd27175b6273c0b4d3966c55a95bac8a/common/scripts/libs/jquery/1.6.4/jquery.min.js">\x3C/script>') </p>
+<p> var jQ = jQuery.noConflict(); </p>
+<p> var thirdPartyReferralCookieService = new guardian.r2.ThirdPartyReferralCookieService(); 	thirdPartyReferralCookieService.setThirdPartyReferralCookie();  	var urlStack = new UrlStack(".guardian.co.uk"); 	var communitiesSite = false;  	 			   	//<![CDATA[ 	function init() { 		urlStack.clearUrlStack(); 		var signOutLink = document.getElementById("sign-out"); 		if (signOutLink) { 			signOutLink.onclick = signOut; 		} 		 		// Purely styling 		//jQ('.js-show').removeClass('js-show'); 	}	 	 	guardian.r2.resourceRoot = "http://resource.guim.co.uk/";     var pageUrl = "http://www.guardian.co.uk/commentisfree/2012/jan/17/yves-saint-laurent-skin-cream-science";     var pageSignature =  "38ee8368137040a7e4ab0a10328a86fcff3e2c2e3d0978b23d8ed30ee3f60f91";      guardian.r2.signInListeners = new guardian.r2.SignInListeners();     (function () {	 		var signInView = new guardian.r2.SignInView("http://static.guim.co.uk/static/894d5be2fd27175b6273c0b4d3966c55a95bac8a/common/scripts/md5.js", communitiesSite); 		guardian.r2.signInController = new guardian.r2.SignInController(signInView, guardian.r2.signInListeners, "http://www.guardian.co.uk/tools/signin", pageUrl, pageSignature); 		 	}) (); 	 	/* 	(function () { 		var profileLinkView = new guardian.r2.ProfileLinkView(); 		profileLinkController = new guardian.r2.ProfileLinkController(profileLinkView, "http://www.guardian.co.uk/discussion/user/"); 	}) (); 	*/   	jQ(document).ready(init);  	  	var SIGN_IN_URL = 'http://www.guardian.co.uk/tools/signin'; 	var RESOURCE_ROOT = 'http://resource.guim.co.uk/'; 	var PROFILE_LINK_VIEW = "http://www.guardian.co.uk/discussion/user/"; </p>
+<p> //<![CDATA[ 	function insertStyleSheet(href) { 		var styleObject = document.createElement('link'); 		styleObject.setAttribute('href', commonStaticRoot + href); 		styleObject.setAttribute('type', 'text/css'); 		styleObject.setAttribute('media', 'screen'); 		styleObject.setAttribute('rel', 'stylesheet'); 		var head = document.getElementsByTagName('head')[0]; 		head.appendChild(styleObject); 	} 	insertStyleSheet('styles/js-on.css'); 	insertPluckStylesheet = true; 	//]]> </p>
+<p> ensurePackage('guardian.r2.omniture'); guardian.r2.omniture.isAvailable = function(){ 			return true; 	} </p>
+<p> Turn autoplay off </p>
+<p> Turn autoplay on </p>
+<p> Please activate cookies in order to turn autoplay off </p>
+<p> Jump to content [s] </p>
+<p> Jump to comments [c] </p>
+<p> Jump to site navigation [0] </p>
+<p> Jump to search [4] </p>
+<p> Terms and conditions [8] </p>
+<p> Edition: </p>
+<p> UK </p>
+<p> US </p>
+<p> Sign in </p>
+<p> Mobile </p>
+<p> About us </p>
+<p> About us </p>
+<p> Contact us </p>
+<p> Press office </p>
+<p> Guardian Print Centre </p>
+<p> Guardian readers' editor </p>
+<p> Observer readers' editor </p>
+<p> Terms of service </p>
+<p> Privacy policy </p>
+<p> Advertising guide </p>
+<p> Digital archive </p>
+<p> Digital edition </p>
+<p> Guardian Weekly </p>
+<p> Buy Guardian and Observer photos </p>
+<p> Subscribe </p>
+<p> Today's paper </p>
+<p> The Guardian </p>
+<p> G2 features </p>
+<p> Comment and debate </p>
+<p> Editorials, letters and corrections </p>
+<p> Obituaries </p>
+<p> Other lives </p>
+<p> Sport </p>
+<p> EducationGuardian </p>
+<p> Subscribe </p>
+<p> Subscribe </p>
+<p> Subscribe to the Guardian </p>
+<p> iPhone app </p>
+<p> iPad edition </p>
+<p> Kindle </p>
+<p> Extra </p>
+<p> Guardian Weekly </p>
+<p> Digital edition </p>
+<p> All our services </p>
+<p> The Guardian </p>
+<p> Comment is free </p>
+<p> User comments </p>
+<p> Web </p>
+<p> News </p>
+<p> Sport </p>
+<p> Comment </p>
+<p> Culture </p>
+<p> Business </p>
+<p> Money </p>
+<p> Life & style </p>
+<p> Travel </p>
+<p> Environment </p>
+<p> TV </p>
+<p> Data </p>
+<p> Video </p>
+<p> Mobile </p>
+<p> Offers </p>
+<p> Jobs </p>
+<p> Comment is free </p>
+<p> Yves Saint Laurent's new skin cream: ah, there's the science bit </p>
+<p> Forever Youth Liberator has been hailed as anti-ageing's holy grail. But as a chemist I wanted to look beyond the puff pieces </p>
+<p> Tweet this </p>
+<p> reddit this </p>
+<p> omnitracker.omniTrackEVarEvent( 12, 16, 'Comment is free: Reddit', 'click', '.reddit a' ); </p>
+<p> Comments ( </p>
+<p> … </p>
+<p> ) </p>
+<p> Philip Ball </p>
+<p> guardian.co.uk </p>
+<p> , </p>
+<p> Tuesday 17 January 2012 11.32 GMT </p>
+<p> Article history </p>
+<p> About this article </p>
+<p> Close </p>
+<p> Yves Saint Laurent's new skin cream: ah, there's the science bit | Philip Ball </p>
+<p> This article was published on </p>
+<p> guardian.co.uk </p>
+<p> at </p>
+<p> 11.32 GMT on Tuesday 17 January 2012 </p>
+<p> . </p>
+<p> 'We've had skin creams loaded with nano-capsules, vitamins A, C and E, antioxidants and things with even longer names.' Photograph: David Levene for the Guardian </p>
+<p> I don't suppose I'm in the target group for Yves Saint Laurent's </p>
+<p> new skin cream </p>
+<p> Forever Youth Liberator – but what if I did want to know whether it's worth shelling out 60 quid for a 50ml tub? I could be wowed by the (strangely similar) media reports. "It is likely to be one of the most sought after face creams ever," says the Telegraph. "5,000 women have already pre-ordered a face cream using ingredients which scientists claimed would change the world." Or as the Daily Mail puts it, the cream is "hailed as the 'holy grail' of anti-ageing". (You have to read on to discover that it's </p>
+<p> Amandine Ohayon </p>
+<p> , general manager of Yves Saint Laurent, who is doing the hailing here.) </p>
+<p> But I'm hard to please. I want to know about the science supporting these claims. After all, cosmetics companies have been trying to blind us with science for years – perhaps ever since the white coats began to appear in the DuPont chemical company's ads (" </p>
+<p> Better things for better living … through chemistry </p>
+<p> ") in the 1930s. Recently we've had skin creams loaded with nano-capsules, vitamins A, C and E, antioxidants and things with even longer names. </p>
+<p> "The science behind the brand lies in the groundbreaking technology of Glycobiology," one puff piece tells us. "It's been noted as the future in the medical field, the fruit of more than 100 years of research and recognized by seven Nobel Prizes." The Telegraph, meanwhile, parrots the PR that, "the cream has been 20 years in development, and has the backing of the Max Planck Institute in Germany". </p>
+<p> I rather wish that, as a chemist, I could say this is all tripe. But it's not as simple as, say, claims by bottled-water companies to have a </p>
+<p> secret process that alters the molecular structure of water </p>
+<p> to assist hydration. For example, it's true that </p>
+<p> glycobiology </p>
+<p> is a big deal. This field studies an undervalued and once unfashionable ingredient of living cells: sugars. Glycans are complicated sugar molecules that play many important biological roles. Attached to proteins at the surfaces of our cells, such sugars act as labels that distinguish different cell types – for example, they determine your blood group. Glycans and related biochemicals are an essential component of the way our cells recognise and communicate with one another. </p>
+<p> Skin cells – essentially, tissue-generating cells called fibroblasts – produce glycans and other substances that form a surrounding extracellular matrix, Some of these glycans attract water and keep the skin plump and soft. But their production declines as fibroblasts age, and so the skin becomes dry and wrinkled. Skin creams routinely contain glycoproteins and glycans to redress this deficit. </p>
+<p> Fine – but what's so different about the new cream? It's based on a combination of artificial glycans trademarked Glycanactif. Selfridges tells us that they "unlock the cells to reactivate their vital functions and liberate the youth potential at all levels of the skin". Well, it would be nice if cells really were little boxes brimming with "youth potential", just waiting to be "unlocked", but this statement is basically voodoo. </p>
+<p> So I contact YSL. And – what do you know? – they sent me some useful science. It's surrounded by gloss and nonsense ("Youth is a state of mind that cannot live without science"), and exposed as the source of that garbled soundbite from Selfridges. But it also shows that YSL has enlisted some serious scientists, most notably </p>
+<p> Peter Seeberger </p>
+<p> , a specialist in glycan chemistry at the Max Planck Institute of Colloids and Interfaces in Berlin. And it explains that, instead of just supplying a source of glycans in the extracellular matrix to make up for their reduced production in ageing cells, Glycanactif apparently binds to glycan receptors on the cell surface and stimulates them to start making the molecules (including other glycans and related compounds) needed for healthy skin. </p>
+<p> Tough-skinned cynic that I am about the claims of cosmetics manufacturers, I am nonetheless emolliated – if not exactly rejuvenated. True, there's nothing in the leaflet to prove that FYL does a better job than other skin creams. And the science remains very sketchy in places so (this is true of any claims for cosmetics) we'd reserve judgment until the long-term clinical trials, if it were a drug. But I'm offered a troupe of serious scientists ready to talk about the work and I'm open to persuasion. </p>
+<p> Still, it puzzles me. How many of the thousands of advance orders, or no doubt the millions to come, will have been based on examination of the technical data? I know we lack the time, and usually the expertise, for such rigour. So what really informs our decision to shell out 60 quid on a tiny tub of youthfulness? And if the science was all nonsense, would it make a difference? </p>
+<p> Printable version </p>
+<p> Send to a friend </p>
+<p> Share </p>
+<p> Clip </p>
+<p> Contact us </p>
+<p> larger </p>
+<p> | </p>
+<p> smaller </p>
+<p> Email </p>
+<p> Close </p>
+<p> Recipient's email address </p>
+<p> Your first name </p>
+<p> Your surname </p>
+<p> Add a note (optional) </p>
+<p> Your IP address will be logged </p>
+<p> Share </p>
+<p> Close </p>
+<p> Short link for this page: </p>
+<p> http://gu.com/p/34mbq </p>
+<p> StumbleUpon </p>
+<p> reddit </p>
+<p> Tumblr </p>
+<p> Digg </p>
+<p> LinkedIn </p>
+<p> Google Bookmarks </p>
+<p> del.icio.us </p>
+<p> livejournal </p>
+<p> Facebook </p>
+<p> Twitter </p>
+<p> Contact us </p>
+<p> Close </p>
+<p> Report errors or inaccuracies: </p>
+<p> userhelp@guardian.co.uk </p>
+<p> Letters for publication should be sent to: </p>
+<p> letters@guardian.co.uk </p>
+<p> If you need help using the site: </p>
+<p> userhelp@guardian.co.uk </p>
+<p> Call the main Guardian and Observer switchboard: </p>
+<p> +44 (0)20 3353 2000 </p>
+<p> Advertising guide </p>
+<p> License/buy our content </p>
+<p> Fashion </p>
+<p> Beauty </p>
+<p> · </p>
+<p> Yves Saint Laurent </p>
+<p> Life and style </p>
+<p> World news </p>
+<p> More from </p>
+<p> Comment is free </p>
+<p> on </p>
+<p> Fashion </p>
+<p> Beauty </p>
+<p> · </p>
+<p> Yves Saint Laurent </p>
+<p> Life and style </p>
+<p> World news </p>
+<p> Related </p>
+<p> 7 Jun 2009 </p>
+<p> The insiders' ultimate beauty test </p>
+<p> 1 Apr 2006 </p>
+<p> Black beauty </p>
+<p> 7 Jun 2008 </p>
+<p> Anti-ageing treatments </p>
+<p> 2 Apr 2005 </p>
+<p> Tricks of the trade </p>
+<p> Printable version </p>
+<p> Send to a friend </p>
+<p> Share </p>
+<p> Clip </p>
+<p> Contact us </p>
+<p> Article history </p>
+<p> Email </p>
+<p> Close </p>
+<p> Recipient's email address </p>
+<p> Your first name </p>
+<p> Your surname </p>
+<p> Add a note (optional) </p>
+<p> Your IP address will be logged </p>
+<p> Share </p>
+<p> Close </p>
+<p> Short link for this page: </p>
+<p> http://gu.com/p/34mbq </p>
+<p> StumbleUpon </p>
+<p> reddit </p>
+<p> Tumblr </p>
+<p> Digg </p>
+<p> LinkedIn </p>
+<p> Google Bookmarks </p>
+<p> del.icio.us </p>
+<p> livejournal </p>
+<p> Facebook </p>
+<p> Twitter </p>
+<p> Contact us </p>
+<p> Close </p>
+<p> Report errors or inaccuracies: </p>
+<p> userhelp@guardian.co.uk </p>
+<p> Letters for publication should be sent to: </p>
+<p> letters@guardian.co.uk </p>
+<p> If you need help using the site: </p>
+<p> userhelp@guardian.co.uk </p>
+<p> Call the main Guardian and Observer switchboard: </p>
+<p> +44 (0)20 3353 2000 </p>
+<p> Advertising guide </p>
+<p> License/buy our content </p>
+<p> About this article </p>
+<p> Close </p>
+<p> Yves Saint Laurent's new skin cream: ah, there's the science bit | Philip Ball </p>
+<p> This article was published on </p>
+<p> guardian.co.uk </p>
+<p> at </p>
+<p> 11.32 GMT on Tuesday 17 January 2012 </p>
+<p> . </p>
+<p> google_ad_client = 'ca-guardian_js'; google_ad_channel = 'commentisfree'; </p>
+<p> google_max_num_ads = '3'; </p>
+<p> //<![CDATA[ 			if (true) { 					  writeScript("http://pagead2.googlesyndication.com/pagead/show_ads.js", false, function(){}); 			} 		// ]]> </p>
+<p> var cookie_domain = "www.guardian.co.uk"; </p>
+<p> Comments </p>
+<p> 58 comments, displaying </p>
+<p> oldest </p>
+<p> first </p>
+<p> Sort comments by </p>
+<p> Oldest </p>
+<p> Newest </p>
+<p> jQ('#sort-comments fieldset').addClass('hidden'); </p>
+<p> Sign in to comment </p>
+<p> or </p>
+<p> create your Guardian account </p>
+<p> to join the conversation </p>
+<p> Staff </p>
+<p> Contributor </p>
+<p> Latest </p>
+<p> 1 </p>
+<p> 2 </p>
+<p> Next </p>
+<p> All </p>
+<p> goto </p>
+<p> 17 January 2012 11:46AM </p>
+<p> 60 quids worth of beer goggles will do the same. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 22 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> fingerbobs </p>
+<p> 17 January 2012 11:54AM </p>
+<p> This comment was removed by a moderator because it didn't abide by our </p>
+<p> community standards </p>
+<p> . Replies may also be deleted. For more detail see </p>
+<p> our FAQs </p>
+<p> . </p>
+<p> urbanegorrila </p>
+<p> 17 January 2012 11:55AM </p>
+<p> Nice to see this kind of examination of a product launch and good to know that the company provided </p>
+<p> some </p>
+<p> kind of scientific explanation. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 6 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> BABELrevisited </p>
+<p> 17 January 2012 11:57AM </p>
+<p> All is vanity sayeth the teacher. Big money spinner though. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 2 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> rosemary152 </p>
+<p> 17 January 2012 11:57AM </p>
+<p> Fools and their money are soon parted. </p>
+<p> If the holy grail were really there, the cosmetic companies wouldn't have to apply glossy advertising full of half truths and claptrap. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 9 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> kizbot </p>
+<p> 17 January 2012 12:02PM </p>
+<p> So what really informs our decision to shell out 60 quid on a tiny tub of youthfulness? </p>
+<p> Not me.. Well, not at that price anyways.. Halve it and just maybe I might give it a go. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 10 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> dirkbruere </p>
+<p> 17 January 2012 12:07PM </p>
+<p> Whatever happened to Copper peptides? </p>
+<p> Not to mention high intensity deep red light, at 670nm </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 5 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> Westmorlandia </p>
+<p> 17 January 2012 12:07PM </p>
+<p> Their theories are fine, but where are the studies? You would think they would have done some tests - actually, you would think they would be </p>
+<p> required </p>
+<p> to have produced some experimental data before they're allowed to say that their new potion is the key to immortality. </p>
+<p> What did their studies show? Was their theory supported? </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 17 </p>
+<p> ) </p>
+<p> Responses (1) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> doomtrain </p>
+<p> 17 January 2012 12:07PM </p>
+<p> Glycerine B.P and palm oil. And listen to the rattle of a stick in a swill bucket. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 7 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> fingerbobs </p>
+<p> 17 January 2012 12:08PM </p>
+<p> Response to </p>
+<p> Valten78, 17 January 2012 12:02PM </p>
+<p> This comment was removed by a moderator because it didn't abide by our </p>
+<p> community standards </p>
+<p> . Replies may also be deleted. For more detail see </p>
+<p> our FAQs </p>
+<p> . </p>
+<p> RenaissanceManc </p>
+<p> 17 January 2012 12:09PM </p>
+<p> I suspect it's a mixture of status symbol coupled with delusion. My skin dehydrates a fair deal. I try to avoid anything remotely astringent apart from red wine, which I am prepared to suffer for - I find E45 (or P45 as I call it) is as good as anything else for remedying the situation. </p>
+<p> Only an absolute mug would pay that much for this 'Forever Youth Liberator' (LOL) - that said, some people will pay £800 for a handbag. I can only guess the world is full of mugs. </p>
+<p> I've got a Fluvial Overstride Extension Liberator for sale, if they're interested. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 9 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> miladear </p>
+<p> 17 January 2012 12:10PM </p>
+<p> Thanks for the article. That's exactly the type of skincare product reviews that are so needed. It doesn't stop to astonish me how people (well, women mostly) blindly accept cosmetics companies' claims and part themselves with large amounts of cash in exchange for more often than not useless products. I don't understand how cosmetics companies are allowed to get away with selling total rip offs either. The only way to counteract this until the legislation catches up is, us as consumers to get a chance to read more reviews like this. Personally, I use Paula Begoun's www.beautypedia.com all the time and her unbiased scientific reviews of thousands of products have saved me loads of money. </p>
+<p> I hope The Guardian make this as a permament feature column in the future. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 16 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> Pinkpearl </p>
+<p> 17 January 2012 12:10PM </p>
+<p> IF it works (IF) it would ony be maximally effective in conjunction with other activities which promote health (healthy diet, enough sleep, no cigarettes and staying out of the sun). If it doesn't work, well it's only £60 and would probably last you a couple of months so there are certainly more expensive vices to have. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 6 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> dorice </p>
+<p> 17 January 2012 12:12PM </p>
+<p> Sadly, it's all just and extension of the belief that homeopathy actually works. </p>
+<p> And it doesn't. </p>
+<p> I once overheard a family friend praising her new (and expensive) 'wonder lotion' to my ex. </p>
+<p> I couldn't resist it, and asked her to explain how the particular 'wonder ingredient' worked. </p>
+<p> Obviously, she had no idea, so I went upstairs and returned with a huge container of a general purpose cream I'd bought from the chemist. I used to climb. hill-walk, run,  and cycle a lot, and it helped chapped and damaged areas. </p>
+<p> My ex also used it as a moisturiser (dry skin). </p>
+<p> I showed her the 'wonder' ingredient in my cream, and yes, it was the same as hers. </p>
+<p> Mine came in small bucket size. </p>
+<p> Hers a tiny tub. </p>
+<p> Both had the same ingredients (mine wasn't perfumed though). </p>
+<p> Mine cost £4.50 </p>
+<p> Hers £33.99. </p>
+<p> Looks like nothing has changed - the gullible are still everywhere, and so are those who take advantage of them and their vanity. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 33 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> davidabsalom </p>
+<p> 17 January 2012 12:13PM </p>
+<p> Never mind the science - what twenty-something celeb is going to be paid to endorse it? Because that's what most of us will base our decision on. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 9 </p>
+<p> ) </p>
+<p> Responses (1) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> JohnRuddy </p>
+<p> 17 January 2012 12:16PM </p>
+<p> I'd like beauty products to be subject to the same sort of rigour as we apply to other drugs. How many times have we seen an advert where it claims to provide younger looking skin in 90% of cases - only to glimpse the small print showing that this was a study of 47 respondants to a magazine? </p>
+<p> Serious scientific trials need to be done before such manufacturers can make claims. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 11 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> Valten78 </p>
+<p> 17 January 2012 12:23PM </p>
+<p> I must admit to being rather amused when adverts claim that a new products makes ‘skin appear 3 times younger’ or some other such nonsense statement. </p>
+<p> How on earth have they come up with these statistics? Is there some internationally recognized unit of measurement for the youth of skin? </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 10 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> softMick </p>
+<p> 17 January 2012 12:26PM </p>
+<p> My wife informs me that unless you start using these anti-ageing creams liberally from age 18 they will be as much use as a tub of ordinary moisturising cream. </p>
+<p> But what do I know? </p>
+<p> I am just a rugged northerner who slathers his face with lard and thinks that all these airy fairy cosmetic zillionaires are a bunch of money grabbing reprobates. </p>
+<p> Perhaps if they tried the product out on Anne Widdecombe for a couple of years then revealed an unrecognisable younger version I would believe it, otherwise I'd advise her to keep rubbing on the lard. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 13 </p>
+<p> ) </p>
+<p> Responses (1) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> Pinkpearl </p>
+<p> 17 January 2012 12:34PM </p>
+<p> Response to </p>
+<p> softMick, 17 January 2012 12:26PM </p>
+<p> Your wife's right </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 5 </p>
+<p> ) </p>
+<p> Responses (1) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> JohnYardDog </p>
+<p> 17 January 2012 12:42PM </p>
+<p> Glycans are complicated sugar molecules that play many important biological roles. </p>
+<p> And they're also engaged in a centuries old battle with the Gvampires. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 34 </p>
+<p> ) </p>
+<p> Responses (1) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> cornerswell </p>
+<p> 17 January 2012 12:45PM </p>
+<p> Response to </p>
+<p> davidabsalom, 17 January 2012 12:13PM </p>
+<p> Quite. </p>
+<p> I'd take all these anti-wrinkle creams a bit more seriously if they used women who were old anough to </p>
+<p> actually have wrinkles </p>
+<p> to advertise them. </p>
+<p> The stupid thing is, most women who buy this sort of thing - and I'll include myself among them, though I hope I'm not daft enough to shell out </p>
+<p> sixty quid </p>
+<p> for this particular one - know they're buying into sheer fantasy. We know that creams are all pretty much the same, and the only things that stops your skin wrinkling are good health, good genes, and staying out of the sun. </p>
+<p> So there should be more articles like this, the press, on the whole, are far too uncritical and desperate for the advertising revenue to have a real go at this nonsensical pseudo-science. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 11 </p>
+<p> ) </p>
+<p> Responses (1) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> kizbot </p>
+<p> 17 January 2012 12:47PM </p>
+<p> Response to </p>
+<p> Pinkpearl, 17 January 2012 12:34PM </p>
+<p> Why is she right? Why do you have to start at 18? What would be the point? What 18 year old has wrinkles or other signs of ageing? I use a serum with hylarunic acid in it.. which just temporarily plumps up the skin a bit. As far as I'm aware that's about the most you can expect a product to do.. They don't rid you of wrinkles, they just (might) make them look a little less deep.. So where's the evidence for or the logic in slapping that stuff on at 18? </p>
+<p> I can see that keeping young skin simply moisturised would be a good idea to keep it supple... and telling young people to keep out of the sun and what not.. But anti-ageing creams? Surely not! </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 13 </p>
+<p> ) </p>
+<p> Responses (2) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> dirkbruere </p>
+<p> 17 January 2012 12:50PM </p>
+<p> Response to </p>
+<p> Westmorlandia, 17 January 2012 12:07PM </p>
+<p> What did their studies show? Was their theory supported? </p>
+<p> Their studies showed that they are going to sell a shed load of it. </p>
+<p> Their theory that it's going to make a load of cash is amply supported </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 10 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> Pinkpearl </p>
+<p> 17 January 2012 12:58PM </p>
+<p> Response to </p>
+<p> kizbot, 17 January 2012 12:47PM </p>
+<p> You have answered your own question. It's virtually impossible to get rid if wrinkles with a cream. Like you say, the best you can hope for is to plump up your lines temporarily with a serum. However continued use of a good product can </p>
+<p> prevent </p>
+<p> wrinkles from forming. This is the point about starting young. Prevention is better than cure. You don't use anti wrinkle cream at 18 to treat wrinkles, of course that's pridicllus. You use it to prevent them developing (although I agree 18 is maybe a little early). </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 4 </p>
+<p> ) </p>
+<p> Responses (1) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> goto </p>
+<p> 17 January 2012 1:05PM </p>
+<p> Response to </p>
+<p> JohnYardDog, 17 January 2012 12:42PM </p>
+<p> What are the connections for the six degrees of separation between John Galliano and a Glycan. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 3 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> kizbot </p>
+<p> 17 January 2012 1:11PM </p>
+<p> Response to </p>
+<p> Pinkpearl, 17 January 2012 12:58PM </p>
+<p> Is there any evidence that an anti-ageing cream will help prevent wrinkles any more than an ordinary moisturiser, a good diet and staying out of the sun? </p>
+<p> Correct me if I'm wrong that there isn't. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 4 </p>
+<p> ) </p>
+<p> Responses (1) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> PeterMaling </p>
+<p> 17 January 2012 1:11PM </p>
+<p> Response to </p>
+<p> cornerswell, 17 January 2012 12:45PM </p>
+<p> But they do use slightly older women - and then retouch the photos. Have we already forgotten the Julia Roberts brouhaha of a month ago? Can't remember what potion she was flogging, as I never use them. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 2 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> georgeat4 </p>
+<p> 17 January 2012 1:18PM </p>
+<p> As a blurk, and a northern one at that, I'm not interested in anti-ageing creams (unless this one turns out to really work, of course..). </p>
+<p> But I would second whoever it was that suggested a regular column of this type of thing, which would be a nice complement to Ben Goodacre's (and where </p>
+<p> is </p>
+<p> Ben these days?) </p>
+<p> Who knows, some of the science might reach Barbara Ellen by osmosis, and perhaps prevent her from embarrassing herself again, like she did last Sunday? </p>
+<p> Must be worth a try. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 13 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> MichaelBulley </p>
+<p> 17 January 2012 1:18PM </p>
+<p> the way our cells recognise and communicate with one another. </p>
+<p> I do wish scientists would stop using such metaphors. In the human body, there are events - changes describable in terms of cause and effect - involving cells. There is no "recognition" going on with these cells and certainly no "communication". </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 1 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> princessofhearts4 </p>
+<p> 17 January 2012 1:21PM </p>
+<p> you are all wrong! </p>
+<p> you have forgotten that </p>
+<p> Moisture is the essence of wetness, and wetness is the essence of beauty. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 10 </p>
+<p> ) </p>
+<p> Responses (1) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> 2345678 </p>
+<p> 17 January 2012 1:25PM </p>
+<p> The main thing I would do is check the list of ingredients.  Very few seem to be concerned about the complex mix of chemicals they are putting on their skins every day.  Many of these chemicals are absorbed into the body, as well as the skin, few of them are properöly tested. </p>
+<p> In addition, </p>
+<p> none </p>
+<p> of them have been tested in mixtures together, so we have no idea what chemical A does wihen mixed with chemical B and absorbed.. and processed through the organs or chemical A, B and C all together. </p>
+<p> This product like most I guess will have at least 20 ingredients... add that to the 5-10 other products people rountinely use each day.. the mess is horrible. </p>
+<p> If you want to stay healthy, and therefore usually younger looking, cut back on the chemicals and forget all this hype. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 1 </p>
+<p> ) </p>
+<p> Responses (1) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> not1fish </p>
+<p> 17 January 2012 1:26PM </p>
+<p> Response to </p>
+<p> kizbot, 17 January 2012 12:47PM </p>
+<p> Most skin damage is done by the age of 16 if parents don't keep kids' skin slathered in spf 20-30. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 0 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> pvcqueen </p>
+<p> 17 January 2012 1:27PM </p>
+<p> Response to </p>
+<p> princessofhearts4, 17 January 2012 1:21PM </p>
+<p> So. Pop down to Holland & Barrett. Buy a bottle of Hyaluronic Acid capsules and pop one a day. £10 per month should do it. Our cells lose this natural component as we age and HA helps cells to retain moisture. It is being added to face creams now but i would say better to take it than slap it on. </p>
+<p> And get off those wretched low-fat diets. Fat also being moist. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 2 </p>
+<p> ) </p>
+<p> Responses (1) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> pvcqueen </p>
+<p> 17 January 2012 1:30PM </p>
+<p> Response to </p>
+<p> 2345678, 17 January 2012 1:25PM </p>
+<p> Chemicals in food are especially a no-no. If you read a label and can't conceive of having all the ingredients in house to make the dish, ie the list looks like what you might find in a chemistry lab, do not put it in your  body. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 1 </p>
+<p> ) </p>
+<p> Responses (1) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> Puss </p>
+<p> 17 January 2012 1:32PM </p>
+<p> As George Orwell said "by the time you're 50, you get the face you deserve" so no overpriced pots of grease are going to make a scrap of difference. </p>
+<p> Unless of course you've seen "Dumplings" or read Xaviera Holland's Happy Hooker.  There's 2 ingredients that YSL aren't claiming to use. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 1 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> Shaggydabbydo </p>
+<p> 17 January 2012 1:32PM </p>
+<p> I'm going to have to start checking the joint account for £60 purchases.  The wife can put whatever she likes on her face as long as it's paid for out of her personal account, not our joint one. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 0 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> pvcqueen </p>
+<p> 17 January 2012 1:35PM </p>
+<p> Response to </p>
+<p> kizbot, 17 January 2012 1:11PM </p>
+<p> I do think a cream with an SPF of 15 at least is a good idea, but they can be had for £5 or so. </p>
+<p> And while i usually buy whatever is on offer in Superdrug, a friend gave me some Frankincense night cream from Neal'sYard and that did have a remarkable effect on my neck especially, even tho neck fine anyway, thanks to doing 2 minutes a day of  Eva Fraser's. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 0 </p>
+<p> ) </p>
+<p> Responses (2) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> pvcqueen </p>
+<p> 17 January 2012 1:35PM </p>
+<p> Response to </p>
+<p> pvcqueen, 17 January 2012 1:35PM </p>
+<p> Eva Frasers' facial exercises, as i meant to write </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 1 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> kizbot </p>
+<p> 17 January 2012 1:51PM </p>
+<p> Response to </p>
+<p> pvcqueen, 17 January 2012 1:35PM </p>
+<p> I do think a cream with an SPF of 15 at least is a good idea, but they can be had for £5 or so. </p>
+<p> Do you mean for young folk? Sure... I just don't buy into the very young slapping on expensive anti-ageing stuff as preventative.. That's just rubbish, in my book. </p>
+<p> But a decent cleansing routine (hot flannel for me), moisturising, laying off the fags and booze (oops... don't seem to be able to manage that one myself), and staying out of the sun or wearing a good spf when in it (don't over do it though... we need some vit D too)... </p>
+<p> And all exercise is good... and stay off the junk foods. All these will help keep your skin in relatively good nick.. whatever your age... </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 0 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> Koolio </p>
+<p> 17 January 2012 1:53PM </p>
+<p> Yves St Laurent died in 2008. Is it advisable to name a "rejuvenating" cream after a dead man? </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 2 </p>
+<p> ) </p>
+<p> Responses (1) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> gandrew </p>
+<p> 17 January 2012 1:54PM </p>
+<p> The fact that people a) buy this stuff and b) have enough money to spend on it suggest that a) we live in a very very superficial society and b) we need some radical redistribution of wealth to the poor. </p>
+<p> Some people deserve more austerity. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 3 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> princessofhearts4 </p>
+<p> 17 January 2012 1:57PM </p>
+<p> Response to </p>
+<p> pvcqueen, 17 January 2012 1:27PM </p>
+<p> Oh dearie me. </p>
+<p> Zoolander? </p>
+<p> I was taking the piss and that. </p>
+<p> I'll get me coat.... </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 1 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> lagrandeflaneuse </p>
+<p> 17 January 2012 2:01PM </p>
+<p> Sixty quid?  Peanuts!  I know a shop where they've got face cream on sale for FIVE HUNDRED EUROS! It comes from Switzerland and claims to contain caviar.  I don't know exactly what caviar is supposed to do to your skin, but there you are. </p>
+<p> I've got to the age of fifty-five with hardly any wrinkles.  And yes, I smoke, and my skincare routine has always been pretty sketchy.  You've got the genes, and you don't have the stress,  you won't age too much,  If you haven't, and you have, you will.  And nothing you rub in is going to make a blind bit of difference. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 4 </p>
+<p> ) </p>
+<p> Responses (1) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> princessofhearts4 </p>
+<p> 17 January 2012 2:03PM </p>
+<p> Response to </p>
+<p> Koolio, 17 January 2012 1:53PM </p>
+<p> you could call it "Elvis's Magical Spunkdust with enriched Fauxfoo" and if it worked, I would buy it... </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 0 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> princessofhearts4 </p>
+<p> 17 January 2012 2:05PM </p>
+<p> Response to </p>
+<p> lagrandeflaneuse, 17 January 2012 2:01PM </p>
+<p> Makes you smell like a fishmongers slab, I'd imagine...might as well rub a bit of haddock round yer fizzog...caviar is NASTY. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 1 </p>
+<p> ) </p>
+<p> Responses (1) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> lagrandeflaneuse </p>
+<p> 17 January 2012 2:13PM </p>
+<p> Response to </p>
+<p> princessofhearts4, 17 January 2012 2:05PM </p>
+<p> Amen to that, princessofhearts.  And apallingly unsustainable.  Greedy rich buggers will make sturgeons extinct before long. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 3 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> delonearth </p>
+<p> 17 January 2012 2:15PM </p>
+<p> A whole page of comments and no link to Mitchell and Webb's  Laboratoire Garnier sketch. </p>
+<p> http://www.youtube.com/watch?v=lOYCkHFMnVc </p>
+<p> The best thing for anti-aging : a healthy age-appropriate body image - it resists the five signs of insecurity-mongering snake-oil pedlars - whilst maintaining natural vigor, a fuller wallet and sense of dignity. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 4 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> MG62 </p>
+<p> 17 January 2012 2:26PM </p>
+<p> Response to </p>
+<p> pvcqueen, 17 January 2012 1:30PM </p>
+<p> Nice to see you here again, and yes if you can't pronounce it, don't eat it. Fat is moist and lush and you need some on your bod to store vit D for good bones. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 2 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> adman1982 </p>
+<p> 17 January 2012 2:27PM </p>
+<p> I have a simple rule when it comes to any of anti-ageing nonsense: </p>
+<p> don't waste your money - they are talking utter shite! </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 0 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> adman1982 </p>
+<p> 17 January 2012 2:31PM </p>
+<p> and to prove my point the photo in my profile is actually me - I'm 27 by the way! So who needs anti ageing cream! </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 1 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> Latest </p>
+<p> 1 </p>
+<p> 2 </p>
+<p> Next </p>
+<p> All </p>
+<p> Sign in to comment </p>
+<p> or </p>
+<p> create your Guardian account </p>
+<p> to join the conversation </p>
+<p> jQ(document).ready(function(){ 	// check jQuery UI hasn't been loaded in by a microapp. short-term fix. 	if (!jQuery.ui) { 	  	jQ.getScript('http://resource.guim.co.uk/discussion/static/1777/jquery-ui-1.7.3.custom.min.js'); 	} }); </p>
+<p> function fix_domain_for_careers(url){ 		var re, fixed_url; 		var careers_length = "careers".length; 		 		if (window.location.host.substr(0, careers_length) === "careers") { 			re = /http:\/\/www\./; 		    fixed_url = url.replace(re, "http://careers."); 		} else { 			re = /http:\/\/careers\./; 		    fixed_url = url.replace(re, "http://www."); 		} 		 		return fixed_url; 	} 	 	jQ(function() {         fixPluckCommentUrl('http://www.guardian.co.uk/discussion/api/resolvePluckCommentKey?pluck-comment-keys=&amp;callback='); 		var loading_box = jQ("<div class='report-form-loading'>Loading</div>");          jQ('a.report-abuse:not(.no-abuse-popup)').live('click', function(ev) { 			ev.preventDefault();  			loading_box.dialog({ 				title: "Abuse report", 				draggable: false, 				modal: true, 				width: 400, 				minHeight: 320, 				resizable: false, 				beforeclose: function(event, ui) { 					var readOnly = jQ('.report-abuse-ajax-readonly').length; 					if(readOnly == 1) return true;  					var reason = jQ('.report-abuse-ajax-form textarea#id_reason').val(); 					var thanksPage = jQ('.report-form-loading p[data-abuse-report-accepted-for-comment]').length; 					if (thanksPage == 0) { 					    thanksPage = jQ('.report-form-loading p[data-abuse-report-accepted-for-profile]').length; 					} 					if(thanksPage == 0) { 						if(reason == 0) { 							return true; 						} else { 							return confirm("Closing this window without pressing \"Report\" will result in your words being lost. Are you sure?"); 						} 					} 					else { 						return true; 					} 		        }, 				close: function(ev, ui) { loading_box.remove(); } 			}); 			 			abuse_report_url = this.href.replace('report-abuse', 'report-abuse-ajax');			 			abuse_report_url = fix_domain_for_careers(abuse_report_url); 			 			jQ.ajax({               url: abuse_report_url,               success: function(data){                   loading_box.html(data);               }             }); 		});  		jQ('body').delegate('.report-abuse-ajax-form form', 'submit', function(ev) { 			ev.preventDefault(); 			var form = jQ(this); 			var url = fix_domain_for_careers(form.attr('action')); 			jQ.post(url, form.serialize(), function(html) { 				form.parents('.ui-dialog-content').html(html); 				// Has the abuse report been accepted? 				var el = jQ(html); 				var comment_id = el.attr('data-abuse-report-accepted-for-comment'); 				var profile_id = el.attr('data-abuse-report-accepted-for-profile'); 				if (comment_id) { 					jQ('ul#comment-' + comment_id).find('li.abuse-report').remove(); 				} else if (profile_id) { 				    jQ('p.report-abuse').remove(); 				} 				var is_successful_submission = (comment_id || profile_id); 				if (is_successful_submission) { 					 					if(guardian.r2.omniture.isAvailable()) { 						// track with omniture 						s.linkTrackVars = 'events,eVar37'; 			        	s.linkTrackEvents = 'event37'; 			    		s.eVar37 = 'Comment:Report Abuse'; 			        	s.events = 'event37'; 			            s.tl(true, 'o', 'Comment report abuse'); 					} 					 				    window.setTimeout(function() { 					    loading_box.dialog("close"); 				    }, 3000); 				} 			}); 		}); 		 	    //make sure submit button is enabled onReady. 	    jQ('#newcommenting-form input[type=submit]' ).removeAttr('disabled');      	var newFormURL = window.location.protocol + '//' + window.location.host + window.location.pathname + '?#post-area';     	jQ('div#login-container form.post-your-comments').attr('action', newFormURL);      	jQ('div#signup-container input').click(function(){     		urlStack.clearUrlStack();     		urlStack.pushUrlOntoStack(newFormURL);     		document.location = 'http://users.guardian.co.uk/signup/tr/1,,-720,00.html';     	});           	    jQ('.recomended').show();          jQ('#newcommenting-form').submit(function(){             jQ('input[type=submit]', this).attr('disabled', 'disabled');         }); 	}); //end jQ ready  	function openAbuseBox(commentId) { 		jQ("#abuse-report-comment-id").val(commentId); 		var loading_box = jQ('<div class="report-form-loading">Loading</div>'); 		loading_box.dialog({ 			title:"Abuse report", 			draggable: false, 			modal:true, 			width:400, 			minHeight:320, 			resizable: false, 			beforeclose: function(event, ui) { 				var reason = jQ('textarea#id_reason').val(); 				if (reason != "") { 					return confirm("Closing this window without pressing \"Report\" will result in your words being lost. Are you sure?"); 				} else { 					return true; 				} 			} 		}); 	}  	function recommendComment(commentId) { 	    var post_url = "http://www.guardian.co.uk/discussion/handlers/recommendComment";	     	    post_url = fix_domain_for_careers(post_url); 	     		jQ.post(post_url, { comment_id: commentId }, function(data) { 			if (data == "OK") { 				var span = jQ("#recommended-count-" + commentId); 				span.prev('a').contents().unwrap(); 				span.text(parseInt(span.text(), 10)+1); 			} 			else { 				var span = jQ("#recommended-count-" + commentId); 				span.prev('a').contents().unwrap(); 			} 		}); 	} </p>
+<p> Comment is free on Twitter </p>
+<p> Latest news, views and links from Comment is free journalists and editors </p>
+<p> D_Shariatmadari: </p>
+<p> Stephen Lawrence school closure threat alarms parents </p>
+<p> http://t.co/vbim0e53 </p>
+<p> via </p>
+<p> @guardian </p>
+<p> about 21 minutes ago </p>
+<p> GeorgeMonbiot: </p>
+<p> Here's my response to </p>
+<p> @GregBarkerMP's </p>
+<p> attempt to answer my points in the Guardian: </p>
+<p> http://t.co/1XAf0kcS </p>
+<p> about 21 minutes ago </p>
+<p> GeorgeMonbiot: </p>
+<p> Greg Barker, </p>
+<p> #climatechange </p>
+<p> minister, fails woefully to answer my criticism of the Green Deal: </p>
+<p> http://t.co/rm4LJztV </p>
+<p> about 24 minutes ago </p>
+<p> • </p>
+<p> Find more tweets from our comment team </p>
+<p> • </p>
+<p> Follow our writers and editors on a Twitter list </p>
+<p> .m-zeitgeist .bd { float: left } /* for the IE6 lols */   .m-zeitgeist .hd { padding-bottom: 0px; margin-bottom: -12px}   .m-zeitgeist .hd h2 { padding-bottom: 12px; }   .m-zeitgeist #att-panes { background-color: #fff; float: left; } 	.m-zeitgeist .att-toggle-pane { min-width:280px; }   .m-zeitgeist ol { padding: 0 5px; }   .m-zeitgeist #most-zeitgeist ol { padding-left: 0; }   .m-zeitgeist .zg-date { color: #D61D00; padding-left:5px; padding-top: 5px; }   .m-zeitgeist ol li { clear: both; padding-left: 15px; }   .m-zeitgeist div#att-most-viewed ol li.l1,   .m-zeitgeist div#att-latest ol li.l1 { padding-bottom: 9px !important; }   .m-zeitgeist ol li.footer { clear: both; padding-left: 0px !important; padding-top: 5px !important; }   .m-zeitgeist .rank { float: left; margin-left: -15px; }   .m-zeitgeist .kicker { font-weight: bold; }   .m-zeitgeist ol li.thumb { padding-left: 0; }   .m-zeitgeist ol li.thumb .rank { margin-left: 0; }   .m-zeitgeist ol li img { float: left; margin: 0 10px 3px 0; }      .m-zeitgeist #most-zeitgeist ol li { border-top: none; padding: 0; border-top: none; }     .m-zeitgeist #most-zeitgeist ol li .zeit-link {background-color: #fff; padding: 5px 0 9px 5px; border-top: 1px dotted #999; margin-bottom: 0px;  }     .m-zeitgeist #most-zeitgeist ol li.footer { border-top:1px dotted #999; padding: 5px 0 9px 10px; margin-left: 5px }     .m-zeitgeist #most-zeitgeist .m-zeigeist ol { padding-left: 0}      /* zeit-up */   .m-zeitgeist #most-zeitgeist .what-is { float: none; padding: 0 3px; vertical-align: middle; cursor: pointer; }   .about-zeit { position: relative; }   .zeit-popup { position: absolute; display: none; background-color: #dbedf3; color: #333; padding: 6px; width: 200px; }      .fade-1 { border-left: 5px solid #0061A6 !important;} .fade-2 { border-left: 5px solid #2A7BB4 !important;} .fade-3 { border-left: 5px solid #5495C2 !important;} .fade-4 { border-left: 5px solid #7EAFD0 !important;} .fade-5 { border-left: 5px solid #A8C9DE !important;}  .m-zeitgeist div.hd { padding-bottom: 0; } .m-zeitgeist.most-viewed div.hd { padding-bottom: 7px; } </p>
+<p> jQ(function($){$('.about-zeit').each(function(){var distance=-10;var time=250;var hideDelay=500;var hideDelayTimer=null;var beingShown=false;var shown=false;var trigger=$('.what-is',this);var info=$('.zeit-popup',this).css('opacity',0);$([trigger.get(0),info.get(0)]).mouseover(function(){if(hideDelayTimer)clearTimeout(hideDelayTimer);if(beingShown||shown){return;}else{beingShown=true;info.css({top:-97,right:0,display:'block'}).animate({top:'-='+distance+'px',opacity:1},time,'swing',function(){beingShown=false;shown=true;});}return false;}).mouseout(function(){if(hideDelayTimer)clearTimeout(hideDelayTimer);hideDelayTimer=setTimeout(function(){hideDelayTimer=null;info.animate({top:'-='+distance+'px',opacity:0},time,'swing',function(){shown=false;info.css('display','none');});},hideDelay);return false;});});}); </p>
+<p> On Comment is free </p>
+<p> Most viewed </p>
+<p> Zeitgeist </p>
+<p> Latest </p>
+<p> Last 24 hours </p>
+<p> 1. </p>
+<p> Iran's nuclear scientists are not being assassinated. They are being murdered | Mehdi Hasan </p>
+<p> 2. </p>
+<p> The British boarding school remains a bastion of cruelty | George Monbiot </p>
+<p> 3. </p>
+<p> 'Welfare reform has us terrified' – families facing the worst speak out | Polly Toynbee </p>
+<p> 4. </p>
+<p> Abramovich, Berezovsky and the real story of Russia's lost billions | Alexander Lebedev </p>
+<p> 5. </p>
+<p> In praise of … Muhammad Ali at 70 | Editorial </p>
+<p> More most viewed </p>
+<p> Last 24 hours </p>
+<p> Did Stephen Colbert do for Jon Huntsman's GOP presidential run? | Poll </p>
+<p> 'Welfare reform has us terrified' – families facing the worst speak out | Polly Toynbee </p>
+<p> Steve Bell on Michael Gove's plans for the royal yacht – cartoon </p>
+<p> Here's a tip for Ed Miliband – study Tory victories | Tim Bale </p>
+<p> The British boarding school remains a bastion of cruelty | George Monbiot </p>
+<p> More zeitgeist </p>
+<p> What is Zeitgeist? </p>
+<p> Zeitgeist is an experiment in showing trending news, topics and articles from the Guardian. Find out more in </p>
+<p> our blog post </p>
+<p> . </p>
+<p> Last 24 hours </p>
+<p> 1. </p>
+<p> Can you turn Michael Jackson's lyrics into poetry worthy of Robert Burns? | Open thread </p>
+<p> 2. </p>
+<p> Bashing trial by jury is pathetically predictable | Michael Mansfield </p>
+<p> 3. </p>
+<p> The Shit Girls Say meme: friendly prejudice, but prejudice all the same | Thea Lim </p>
+<p> 4. </p>
+<p> We tell boys not to cry, then wonder about male suicide | Ally Fogg </p>
+<p> 5. </p>
+<p> The South Carolina GOP debate bruises Mitt Romney | Ana Marie Cox </p>
+<p> All today's stories </p>
+<p> Check your BMI </p>
+<p> Weight: </p>
+<p> 7 st </p>
+<p> 8 st </p>
+<p> 9 st </p>
+<p> 10 st </p>
+<p> 11 st </p>
+<p> 12 st </p>
+<p> 13 st </p>
+<p> 14 st </p>
+<p> 15 st </p>
+<p> 16 st </p>
+<p> 17 st </p>
+<p> 18 st </p>
+<p> 19 st </p>
+<p> 20 st </p>
+<p> 21 st </p>
+<p> 22 st </p>
+<p> 23 st </p>
+<p> 24 st </p>
+<p> 25 st </p>
+<p> 26 st </p>
+<p> 27 st </p>
+<p> 28 st </p>
+<p> 29 st </p>
+<p> 30 st </p>
+<p> 0 lbs </p>
+<p> 1 lbs </p>
+<p> 2 lbs </p>
+<p> 3 lbs </p>
+<p> 4 lbs </p>
+<p> 5 lbs </p>
+<p> 6 lbs </p>
+<p> 7 lbs </p>
+<p> 8 lbs </p>
+<p> 9 lbs </p>
+<p> 10 lbs </p>
+<p> 11 lbs </p>
+<p> 12 lbs </p>
+<p> 13 lbs </p>
+<p> Height: </p>
+<p> 4 ft </p>
+<p> 5 ft </p>
+<p> 6 ft </p>
+<p> 7 ft </p>
+<p> 0 ins </p>
+<p> 1 ins </p>
+<p> 2 ins </p>
+<p> 3 ins </p>
+<p> 4 ins </p>
+<p> 5 ins </p>
+<p> 6 ins </p>
+<p> 7 ins </p>
+<p> 8 ins </p>
+<p> 9 ins </p>
+<p> 10 ins </p>
+<p> 11 ins </p>
+<p> Gender: </p>
+<p> Female </p>
+<p> Male </p>
+<p> .m-guardianbookshop .rank { float: left; margin-left: -15px; } 	.m-guardianbookshop .thumb .rank { margin-left: 0; } 	.m-guardianbookshop h4 { border-top: none !important; font-weight: bold; margin-left: 5px !important; padding: 5px 0 8px 0 !important; } 	.m-guardianbookshop .bestsellers { background-color: #fff; padding-bottom: 17px;} 	.m-guardianbookshop ol { padding: 0 5px; } 	.m-guardianbookshop .l1 { clear: both; padding-left: 15px; } 	.m-guardianbookshop .thumb { padding-left: 0; } 	.m-guardianbookshop .thumb img { float: left; margin: 2px 10px 9px 0;} 	.m-guardianbookshop .price { display: inline; } 	.m-guardianbookshop .thumb .price { display: block; } 	.m-guardianbookshop .rank, .m-guardianbookshop .book-title { font-weight: bold; } 	.m-guardianbookshop input { border: 1px solid #999; width: 75%; min-height: 16px; margin-top: 8px; padding: 3px 2px;} </p>
+<p> This week's bestsellers </p>
+<p> 1. </p>
+<p> 100 Simple Things You Can Do to Prevent Alzheimer's </p>
+<p> by Jean Carper </p>
+<p> £10.99 </p>
+<p> 2. </p>
+<p> Stop What You're Doing and Read This! </p>
+<p> £4.99 </p>
+<p> 3. </p>
+<p> Bigger Message </p>
+<p> by Martin Gayford </p>
+<p> £18.95 </p>
+<p> 4. </p>
+<p> Short History of Western Thought </p>
+<p> by Stephen Trombley </p>
+<p> £14.99 </p>
+<p> 5. </p>
+<p> Send Up the Clowns </p>
+<p> by Simon Hoggart </p>
+<p> £8.99 </p>
+<p> Search the Guardian bookshop </p>
+<p> Search </p>
+<p> Bestsellers from the Guardian shop </p>
+<p> Loose top socks by HJ Hall - 12 pair pack </p>
+<p> Comfortable, light socks without elastic. Get twelve pairs in assorted colours and save over £20 off RRP. </p>
+<p> From: £24.99 </p>
+<p> Visit the Guardian reader offers shop </p>
+<p> See all offers and services from the Guardian </p>
+<p> comment is free… </p>
+<p> Latest posts </p>
+<p> 37min ago </p>
+<p> Can you turn Michael Jackson's lyrics into poetry worthy of Robert Burns? </p>
+<p> Open thread: </p>
+<p> A Jackson catalogue of songs based on Burns's poetry has been found – we'd like you to turn it around </p>
+<p> 1hr 18min ago </p>
+<p> Bashing trial by jury is pathetically predictable </p>
+<p> Michael Mansfield: </p>
+<p> Governments needing a facelift often attempt to curtail jury trial. Quick-fix supermarket justice must be resisted </p>
+<p> Comment from the paper </p>
+<p> Steve Bell: </p>
+<p> Steve Bell on Michael Gove's plans for the royal yacht – cartoon </p>
+<p> Tanya Gold: </p>
+<p> LSE Nazi games in context </p>
+<p> Mehdi Hasan: </p>
+<p> Iran's nuclear scientists are not being assassinated. They are being murdered </p>
+<p> Sponsored feature </p>
+<p> function showSponsoredFeaturex31(){                     if (window.sponJSON) {                         if(typeof(sponJSON) === 'object') {                           adx31 = sponJSON;                           var node = jQ('.json-features.x31');                           convertJSONtoAd(                               node.find('img:first-child'),                               node.find('a.t6'),                               node.find('p:last-child'),                               adx31,                               node.find('.hd').children().eq(0),                               'x31'                           );                         }                     }                 }                                  jQ(document).ready(function(){                     jQ('.x31-script-placeholder').writeCapture().replaceWith('<script>showSponsoredFeaturex31()<' + '/script>')                 }) </p>
+<p> Find the latest jobs in your sector: </p>
+<p> Arts & heritage </p>
+<p> Charities </p>
+<p> Education </p>
+<p> Environment </p>
+<p> Government </p>
+<p> Graduate </p>
+<p> Health </p>
+<p> Marketing & PR </p>
+<p> Media </p>
+<p> Sales </p>
+<p> Senior executive </p>
+<p> Social care </p>
+<p> Browse all jobs </p>
+<p> Development Project Manager </p>
+<p> London | Not Specified </p>
+<p> MTV NETWORKS EUROPE </p>
+<p> Related information </p>
+<p> Life and style </p>
+<p> Fashion </p>
+<p> Beauty </p>
+<p> · </p>
+<p> Yves Saint Laurent </p>
+<p> World news </p>
+<p> Exfoliation </p>
+<p> 21 Apr 2007 </p>
+<p> Emma Cook: Exfoliation is the holy grail of perfect skin, surpassed only by sunscreen and antioxidants, or so the beauty experts say. </p>
+<p> 15 Oct 1999 </p>
+<p> Five anti-ageing books </p>
+<p> 13 Jul 2000 </p>
+<p> His last bow?  Plenty of frills from Saint Laurent </p>
+<p> 8 Apr 2006 </p>
+<p> A thick skin protects against fear of ageing </p>
+<p> 23 Jan 2006 </p>
+<p> Trade secrets </p>
+<p> The new black </p>
+<p> 27 Aug 2005 </p>
+<p> Hannah Pool: While I hate the idea that ageing is a universally 'bad thing', my distaste doesn't extend to anti-ageing body products. </p>
+<p> License/buy our content </p>
+<p> | </p>
+<p> Privacy policy </p>
+<p> | </p>
+<p> Terms & conditions </p>
+<p> | </p>
+<p> Advertising guide </p>
+<p> | </p>
+<p> Accessibility </p>
+<p> | </p>
+<p> A-Z index </p>
+<p> | </p>
+<p> Inside the Guardian blog </p>
+<p> | </p>
+<p> About us </p>
+<p> | </p>
+<p> Work for us </p>
+<p> | </p>
+<p> Join our dating site today </p>
+<p> © 2012 Guardian News and Media Limited or its affiliated companies. All rights reserved. </p>
+<p> //<![CDATA[ 	if(true) { 		var s_account="guardiangu-blogs,guardiangu-network,guardiangu-commentisfree"; 		writeScript('http://static.guim.co.uk/static/534a025fbd5b6ca3cafea5df66abf4d49b01b6fd/common/scripts/omniture-H.22.4.js', false, function(){}); 	} 	//]]> </p>
+<p> //<![CDATA[ 	if(true) { 		if (false) { 		    s.pageName = document.title; 		} else { 			s.pageName="Yves Saint Laurent\'s new skin cream: ah, there\'s the science bit | Phili:Article:1689416"; 		} 		s.channel = "Comment is free"; 		s.pageType=""; 		s.server='52'; 		s.prop2='GUID:(none)';  					s['prop3']="GU.co.uk"; 					s['prop4']="Beauty,Yves Saint Laurent (Fashion),Fashion,Life and style,World news"; 					s['prop5']="Unclassified,Not commercially useful"; 					s['prop6']="Philip Ball"; 					s['prop7']="12-Jan-17"; 					s['prop8']="1689416"; 					s['prop9']="Article"; 					s['prop10']="Comment"; 					s['prop11']="Comment is free"; 					s['prop13']=""; 					s['prop25']="Comment is free"; 					s['prop30']="content"; 		 		s.hier2="GU/Comment is free/blog/Comment is free"; 		s.events=""; 		s.eVar23="";  		try { 			if (guardian.r2.OmnitureTrackingOverride) { 				new guardian.r2.OmnitureTrackingOverride(s); 			} 		} 		catch(err) { 		}          if(jQ.cookie("GU_OMNITURE") !== null) {             s.events = jQ.cookie("GU_OMNITURE");             jQ.cookie("GU_OMNITURE", null, { path: '/', domain: '.guardian.co.uk'});         }          var s_code=s.t();if(s_code)document.write(s_code); 	} 	//]]> </p>
+<p> var _qevents = _qevents || []; 		(function() { 			var elem = document.createElement('script');  			elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js"; 			elem.async = true; 			elem.type = "text/javascript"; 			var scpt = document.getElementsByTagName('script')[0]; 			scpt.parentNode.insertBefore(elem, scpt); 		})(); 		_qevents.push( { qacct:'p-73ktnlRTKQPTw', labels: 'commentisfree'} ); </p>
+<p> var qcResults = function (result) { 				for (var i = 0, len = result.segments.length; i < len; i++) { 					OAS_query += 'qc=' + result.segments[i].id + '&'; 				} 			} </p>
+<p> if (true) {     jQ(document).ready(function () {         jQ('a[data-cpt]').each(             function () {             jQ(this).click(                 function () {                 var cpId = jQ(this).attr('data-cpt').split("-")[1];                 var currentLink = jQ(this).attr('href');                  if (currentLink.indexOf('intcmp=') == -1) {                     if(currentLink.indexOf('?') == -1) {                         var separator = '?'                     } else {                         var separator = '&'                     }                      jQ(this).attr('href', currentLink + separator + "intcmp=" + cpId);                 }             });         });     }); } </p>
+<p> //<![CDATA[ 	if (false) {         // guardian.co.uk Connect Adprobe Tag, MPU [9814], Leaderboard [9815]         var wlOrd = new Date().getTime();         document.write('<scr' + 'ipt type="text/javascript" src="http://req.connect.wunderloop.net/AP/1566/5823/9815/js?cus=9815,9814&ord=' + wlOrd + '"></sc' + 'ript>'); 	} // ]]> </p>
+<p> //<![CDATA[ 	if (false) {         OAS_query += 'wl9815=' + wl9815camp + '&wl9814=' + wl9814camp + '&'; 	} // ]]> </p>
+<p> //<![CDATA[ 											function OAS_NORMAL(pos) { 							document.write('<A HREF="' + OAS_url + 'click_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + pos + '!' + pos + '?' + OAS_query + '" TARGET=' + OAS_target + '>'); 							document.write('<IMG SRC="' + OAS_url + 'adstream_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + pos + '!' + pos + '?' + OAS_query + '" BORDER=0></A>'); 						}  						OAS_version = 11; 						if ((navigator.userAgent.indexOf('Mozilla/3') != -1) || (navigator.userAgent.indexOf('Mozilla/4.0 WebTV') != -1)) OAS_version = 10;                          if (true) {                             if (OAS_version >= 11) document.write('<scr' + 'ipt src="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/script>');                         }  						function OAS_AD(pos) {                             if (true) {                                 if (typeof(OAS_RICH) !== 'undefined' && OAS_version >= 11) {                                     OAS_RICH(pos);                                 } else {                                     OAS_NORMAL(pos);                                 }                             } 						} 					 				//]]> </p>
+<p> //<![CDATA[                 jQ('#ad-placeholder-Top').writeCapture().replaceWith('<script>OAS_AD("Top")<' + '/script>');                 //]]> </p>
+<p> jQ('#ad-temp-Top').hide(); </p>
+<p> //<![CDATA[                 jQ('#ad-placeholder-Middle2').writeCapture().replaceWith('<script>OAS_AD("Middle2")<' + '/script>');                 //]]> </p>
+<p> jQ('#ad-temp-Middle2').hide(); </p>
+<p> //<![CDATA[                 jQ('#ad-placeholder-Right1').writeCapture().replaceWith('<script>OAS_AD("Right1")<' + '/script>');                 //]]> </p>
+<p> jQ('#ad-temp-Right1').hide(); </p>
+<p> //<![CDATA[                 jQ('#ad-placeholder-x31').writeCapture().replaceWith('<script>OAS_AD("x31")<' + '/script>');                 //]]> </p>
+<p> jQ('#ad-temp-x31').hide(); </p>
+<p> ensurePackage('guardian.r2.omniture');   guardian.r2.omniture.trackComponents = true; </p>
+<p> //	<![CDATA[ 	if(true) {         var OAS_taxonomy='&Paneled_Site=guardian.co.uk&Paneled_Section=commentisfree'; 		jQ(document).ready(function(){ 			jQ.getScript('http://static.guim.co.uk/static/894d5be2fd27175b6273c0b4d3966c55a95bac8a/common/scripts/kantarmedia.js'); 		}); 	} 	// ]]> </p>
+<p> if(true) {         		jQ(function() { 		  if ('undefined' !== typeof MatchingEngine) { 		    MatchingEngine.logEvent('article', 'id=http://www.guardian.co.uk/commentisfree/2012/jan/17/yves-saint-laurent-skin-cream-science'); 		  } 		}); 	} </p>
+<p> if (true) {         var _sf_async_config = {};         /** CONFIGURATION START **/         _sf_async_config.uid = 30676;         _sf_async_config.domain = document.domain;         _sf_async_config.sections = 'Comment is free';         _sf_async_config.authors = 'Philip Ball';         _sf_async_config.useCanonical = true;         /** CONFIGURATION END **/         (function() {             function loadChartbeat() {                 window._sf_endpt = (new Date()).getTime();                 var e = document.createElement('script');                 e.setAttribute('language', 'javascript');                 e.setAttribute('type', 'text/javascript');                 e.setAttribute('src',                         (('https:' == document.location.protocol) ? 'https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/' : 'http://static.chartbeat.com/') +                                 'js/chartbeat.js');                 document.body.appendChild(e);             }              var oldonload = window.onload;             window.onload = (typeof window.onload != 'function') ?                     loadChartbeat : function() {                 oldonload();                 loadChartbeat();             };         })();     } </p>

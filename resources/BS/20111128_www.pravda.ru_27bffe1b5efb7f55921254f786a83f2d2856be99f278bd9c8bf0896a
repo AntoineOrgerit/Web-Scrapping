@@ -1,0 +1,172 @@
+<p> Яйца и курица помогают сохранить память - Правда.Ру </p>
+<p> var _ed_name = 'pravda_admin_remember'; 	var _ed_url = 'http://www.pravda.ru/?area=ajaxAdminEditor'; </p>
+<p> <!-- 	function cl(link) 	{ 	 var img = new Image(1,1); 	 img.src = 'http://www.liveinternet.ru/click?*' + link; 	} 	//--> </p>
+<p> new adriver.Plugin.require("onScroll.adriver"); </p>
+<p> var WRInitTime=(new Date()).getTime(); </p>
+<p> <!-- 			new Image().src = "//counter.yadro.ru/hit;pravdaru?r"+ 			escape(document.referrer)+((typeof(screen)=="undefined")?"": 			";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth? 			screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+ 			";h"+escape(document.title.substring(0,80))+ 			";"+Math.random();//--> </p>
+<p> var img = new Image(); 					img.src = 'http://www.tns-counter.ru/V13a***R>' + document.referrer.replace(/\*/g,'%2a') + '*pravda_ru/ru/CP1251/tmsec=pravda_news/'; </p>
+<p> ENG </p>
+<p> RUS </p>
+<p> PT </p>
+<p> ITA </p>
+<p> // <!-- var prbnp_login = "pravda-main-728x90-header"; var prbnp_options = "options=NT"; var prbnp_random = Math.round(Math.random() * 100000); document.write('<iframe src="http://pravda.prbn.ru/cgi-bin/iframe/'+prbnp_login+'?'+prbnp_random+'&'+prbnp_options+'" width="728" height="90" marginwidth="0" marginheight="0" scrolling="no" frameborder="0"><a href="http://pravda.prbn.ru/cgi-bin/href/'+prbnp_login+'?'+prbnp_random +'" target="_blank"><img src="http://pravda.prbn.ru/cgi-bin/banner/'+prbnp_login+'?'+prbnp_random +'&'+prbnp_options+'" alt="Pravda" width="728" height="90" border="0" ismap="ismap"></a></iframe>'); // --> </p>
+<p> в почту </p>
+<p> профиль </p>
+<p> выйти </p>
+<p> Почта </p>
+<p> @pravda.ru </p>
+<p> Регистрация </p>
+<p> Имя: </p>
+<p> @pravda.ru </p>
+<p> Пароль: </p>
+<p> Войти </p>
+<p> запомнить </p>
+<p> забыли пароль? </p>
+<p> обычный вход </p>
+<p> var _info_name = 'pravdauin';                                     var _info_domain = '.pravda.ru';                                     var _info_url = 'http://www.pravda.ru/?area=loginFormHelper'+'&t='+Math.round(Math.random() * 100000);                                     setUserInfo(); </p>
+<p> Мир </p>
+<p> Наука </p>
+<p> Общество </p>
+<p> Здоровье </p>
+<p> Религия </p>
+<p> Красота </p>
+<p> Фото </p>
+<p> все разделы </p>
+<p> архив </p>
+<p> <!-- 		window.fbAsyncInit = function() { 			FB.init({appId: '218074068257314', status: true, cookie: true, 			         xfbml: true}); 		};  		if (/*@cc_on 1 | @*/ 0) { 			addLoadEvent(function() { 				var e = document.createElement('script'); e.async = true; 				e.src = document.location.protocol + 				  '//connect.facebook.net/ru_RU/all.js'; 				document.getElementById('fb-root').appendChild(e); 			}); 		} else { 			(function() { 				var e = document.createElement('script'); e.async = true; 				e.src = document.location.protocol + 				  '//connect.facebook.net/ru_RU/all.js'; 				document.getElementById('fb-root').appendChild(e); 			}()); 		}//--> </p>
+<p> Новости </p>
+<p> » </p>
+<p> Здоровье </p>
+<p> Названы продукты, улучшающие память </p>
+<p> 25.11.2011 | </p>
+<p> Источник: </p>
+<p> Правда.Ру </p>
+<p> Употребление в пищу морской рыбы, куриного мяса, яиц и бобовых позволяет замедлить старение головного мозга человека и улучшить память. К такому выводу пришли </p>
+<p> специалисты </p>
+<p> Бостонского университета. </p>
+<p> Дело в том, что в этих продуктах содержится холин – витамин B4, который оказывает благотворное воздействие на мозг. Люди, которые получали большое количество этого вещества, показали лучшие результаты на тестах памяти. Кроме того, они менее подвержены возрастным изменениям мозга. Это лишний раз доказывает, что диета может оказать серьезное воздействие на организм, в том числе на мозг человека, пишет " </p>
+<p> Утро.ru </p>
+<p> ". </p>
+<p> Читайте также: </p>
+<p> Жизнь начинается... после шестидесяти </p>
+<p> Ученные связывают удивительные свойства витамина с тем, что В4 является предшественником соединения мозга - ацетилхолина (играет важную роль с точки зрения памяти и прочих когнитивных функций; его низкая </p>
+<p> концентрация </p>
+<p> сопряжена с болезнью Альцгеймера). В целом, добавляет </p>
+<p> MedDaily </p>
+<p> , специалисты рекомендуют мужчинам потреблять 550 миллиграммов витамина в день, а женщинам - 425 миллиграммов витамина. </p>
+<p> Между тем группа немецких специалистов пришла к выводу, что выражение лица способно уменьшить или, наоборот, увеличить возраст женщины, сообщают " </p>
+<p> Аргументы.ру </p>
+<p> ". Обыкновенная искренняя улыбка делает представительниц прекрасного пола в глазах окружающих моложе на несколько лет. </p>
+<p> Читайте: </p>
+<p> Глупеем ли мы с возрастом? </p>
+<p> Такие выводы были сделаны после проведения эксперимента, в рамках которого добровольцам - мужчинам и женщинам - были показаны </p>
+<p> фотографии </p>
+<p> нескольких людей, возраст которых им предлагалось угадать. Часть изображенных на снимках незнакомцев при этом улыбались, а у остальных выражения лиц были серьезными. Выяснилось, что представители первой группы оценивались участниками как более молодые, чем они являлись в реальности. А угрюмые лица способствовали тому, что возраст их обладателей оценивался выше, отмечает " </p>
+<p> Раут.ру </p>
+<p> ". </p>
+<p> Все новости </p>
+<p> >>> </p>
+<p> $$('#article a').each(function(url){ 		if (url.href.indexOf('pravda.ru') == -1 && 			url.href.indexOf('bigness.ru') == -1 && 			url.href.indexOf('dailyshow.ru') == -1 && 			url.href.indexOf('ecosever.ru') == -1 && 			url.href.indexOf('entrynews.com') == -1 && 			url.href.indexOf('fark.ru') == -1 && 			url.href.indexOf('funreports.com') == -1 && 			url.href.indexOf('georgiatimes.info') == -1 && 			url.href.indexOf('glavtema.ru') == -1 && 			url.href.indexOf('medpulse.ru') == -1 && 			url.href.indexOf('missus.ru') == -1 && 			url.href.indexOf('moneytimes.ru') == -1 && 			url.href.indexOf('moscowtopnews.com') == -1 && 			url.href.indexOf('russiansentry.com') == -1 && 			url.href.indexOf('yoki.ru') == -1 && 			url.href.indexOf('politonline.ru') == -1 		) { 			url.href = 'http://www.pravda.ru/?area=show&url=' + url.href; 			url.observe('click', function(){ 				var IE='\v'=='v'; 				if (!IE && navigator.userAgent.toLowerCase().indexOf('opera') == -1) { 					window.open ("http://www.moneyday.ru/pub/1/", "moneyday"); 				} 			}) 		} 	}); </p>
+<p> <!-- 	function openPrint(url) { 		var printWin = window.open(url, 		   "print", 		   "width=800,height=600,resizable=yes,scrollbars=yes,status=yes" 		)  		printWin.focus(); 		return false; 	} 	var _php_url_send = 'http://www.pravda.ru/?area=popupSendToFriend&t=a&id=1099929'; 	function switchCodeBlock(){ 		var codeBlock = document.getElementById('code-block'); 		var blogCode = document.getElementById('blogCode'); 		if (codeBlock.style.display == 'none') { 			codeBlock.style.display = 'block'; 			blogCode.focus(); 			blogCode.select(); 		} else { 			codeBlock.style.display = 'none'; 		} 	} 	//--> </p>
+<p> Версия для печати </p>
+<p> Послать другу </p>
+<p> Код для вставки в блог </p>
+<p> <!-- 		if (!(/*@cc_on 1 | @*/ 0)) { 			facebox = new Facebox(); 		}//--> </p>
+<p> <!-- 	var text = '<table width="440" cellspacing="0" border="0" align="center" style="border: 1px solid rgb(223, 223, 223); font-family: Verdana,Helvetica,sans-serif; color: rgb(51, 51, 51);">  <tbody><tr>    <td style="padding: 10px 10px 0pt;" colspan="2"><a href="http://www.pravda.ru/"><img border="0" title="Pravda.ru / Новости" alt="Pravda.ru / Новости" src="http://www.pravda.ru/pix/logo.gif"/></a></td>  </tr>  <tr>    <td style="padding: 10px 10px 0pt; font-size: 18px; font-weight: bold;" colspan="2"><div style="border-bottom: 1px solid rgb(223, 223, 223); padding-bottom: 10px;"> <a style="text-decoration: none;color:#004694;font-family:Georgia;font-weight:normal;" href="http://www.pravda.ru/news/health/25-11-2011/1099929-starenie-0/">Названы продукты, улучшающие память</a></div></td>  </tr>  <tr>    <td valign="top" align="left" style="padding: 10px;"><a style="text-decoration: none;color:#004694;font-family:Georgia;font-weight:normal;" href="http://www.pravda.ru/news/health/25-11-2011/1099929-starenie-0/"><img   alt="Названы продукты, улучшающие память" title="Названы продукты, улучшающие память" src="http://pravda-team.ru/pravda/image/preview/article/9/2/9/1099929.jpeg" /></a></td>    <td align="left" style="padding: 10px; font-size: 11px;"><a style="text-decoration: none !important; color: inherit !important;border:inherit !important;" href="http://www.pravda.ru/news/health/25-11-2011/1099929-starenie-0/">Употребление в пищу морской рыбы, куриного мяса, яиц и бобовых позволяет замедлить старение головного мозга человека и улучшить память. К такому выводу пришли специалисты Бостонского университета.</a></td>  </tr>  <tr align="center" style="background-color: rgb(212, 212, 212); height: 20px; font-size: 12px;">    <td colspan="2"><a style="text-decoration: none; color: rgb(255, 255, 255);" href="http://www.pravda.ru/news/health/25-11-2011/1099929-starenie-0/">http://www.pravda.ru/news/health/25-11-2011/1099929-starenie-0/</a></td>  </tr></tbody></table>'; 	$('blogCode').value=text; 	//--> </p>
+<p> Поделись прочитанным: </p>
+<p> <!--                VK.init({                     apiId: 1962042,                     onlyWidgets: true                 });             //--> </p>
+<p> VK.Widgets.Like('vk_like',  {width: 150, type: "mini", pageTitle: 'Названы продукты, улучшающие память', pageDescription: 'Употребление в пищу морской рыбы, куриного мяса, яиц и бобовых позволяет замедлить старение головного мозга человека и улучшить память. К такому выводу пришли специалисты Бостонского университета.', pageUrl: 'http://www.pravda.ru/news/health/25-11-2011/1099929-starenie-0/'}, 1099929); </p>
+<p> 0 </p>
+<p> Твитнуть </p>
+<p> Поделиться </p>
+<p> widgets.comments({                         container: 'comments',                         siteId: 1,                         id: 1099929,                         type: 1                     }); </p>
+<p> (function(w, d, n, s, t) { w[n] = w[n] || []; w[n].push(function() { Ya.Direct.insertInto(64956, "yandex_ad", { site_charset: "utf-8", ad_format: "direct", font_size: 1, type: "horizontal", limit: 3, title_font_size: 3, site_bg_color: "FFFFFF", header_bg_color: "FEEAC7", title_color: "0000CC", url_color: "006600", all_color: "0000CC", text_color: "000000", hover_color: "0066FF", favicon: true }); }); t = d.documentElement.firstChild; s = d.createElement("script"); s.type = "text/javascript"; s.src = "http://an.yandex.ru/system/context.js"; s.setAttribute("async", "true"); t.insertBefore(s, t.firstChild); })(window, document, "yandex_context_callbacks"); </p>
+<p> fark_partner_id = '83'; 	fark_num_links = 3; 	fark_is_images = 1; 	fark_code_format = '2'; 	fark_code_style_a = ''; 	fark_code_style_td = '';  	fark_banner_draw(); </p>
+<p> Добавить свое объявление </p>
+<p> Загрузка... </p>
+<p> var MarketGidDate = new Date();     document.write('<scr'+'ipt type="text/javascript" '     +'src="http://jsn.dt00.net/p/r/pravda.ru.7778.js?t='+MarketGidDate.getYear()+MarketGidDate.getMonth()     + '" charset="utf-8" ></scr'+'ipt>'); </p>
+<p> Популярные галереи </p>
+<p> <!-- 	var popularPhotoLoader = new PopularPhotoLoader(2, true, 'gallery-id-2-t');//--> </p>
+<p> Фотосессия </p>
+<p> Американские хирурги разделили сиамских близнецов </p>
+<p> История, наука (42 фото) </p>
+<p> AMA-2011: победители и шоу </p>
+<p> Фото знаменитостей (174 фото) </p>
+<p> Новости. Тор 24 </p>
+<p> Тема дня: Кто победит на выборах в Южной Осетии? </p>
+<p> Басманный cуд отказался заочно арестовывать Крейверов </p>
+<p> Режиссер знаменитого мюзикла "Томми" скончался во сне </p>
+<p> Молодая пара разбилась, выпрыгнув из окна девятиэтажки </p>
+<p> Власти Одессы продают знаменитый рынок "Привоз" </p>
+<p> ДТП недели: неопытная водитель убила мужа, мать и свекровь </p>
+<p> Нацпромбанк остался без лицензии </p>
+<p> Поднявшаяся Нева смыла пляж у Петропавловской крепости </p>
+<p> Декоратор Краснов покинул Россию </p>
+<p> Баня повышает настроение и самооценку </p>
+<p> Тема дня: ФСБ разоблачила банду, вывезшую за рубеж около 100 миллиардов рублей </p>
+<p> Москве напророчили "еврозиму" </p>
+<p> "Неотложка" сбила автоинспектора в Москве </p>
+<p> Драка в московском кафе закончилась убийством </p>
+<p> Видеотека </p>
+<p> У православных начался Рождественский пост </p>
+<p> "Фобос-Грунт", похоже, утерян навсегда </p>
+<p> Самое читаемое на сайте </p>
+<p> "Аль-Арабия" пугает мир российскими кораблями </p>
+<p> Саудовский телеканал "Аль-Арабия" сообщил, что в территориальные воды Сирии вошли три корабля ВМФ России. Телеканал сослался на некий источник, приближенный к сирийским властям. По информации этого… </p>
+<p> Сирийская военная тайна США от России </p>
+<p> США перестанут информировать Россию о планах передислокации своих сил в рамках  Договора об ограничении обычных вооруженных сил в Европе (ДОВСЕ). Чем вызван американский демарш, грубо нарушающий… </p>
+<p> США не обсуждают ПРО со "слабаком" </p>
+<p> Разгром Каддафи возвысил Катар </p>
+<p> Все звезды породил магнит... </p>
+<p> В Китае возлюбили смертную казнь </p>
+<p> Секрет "гелендвагена" Тутанхамона </p>
+<p> КПРФ и "СР" уходят в минус </p>
+<p> Паразиты - незримые хозяева Земли </p>
+<p> <!-- if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); } if (typeof(document.referrer) != 'undefined') {   if (typeof(afReferrer) == 'undefined') {     afReferrer = escape(document.referrer);   } } else {   afReferrer = ''; } var addate = new Date();  document.write('<scr' + 'ipt type="text/javascript" src="http://ads.adfox.ru/164130/prepareCode?pp=g&amp;ps=nld&amp;p2=eizx&amp;pct=a&amp;plp=a&amp;pli=a&amp;pop=a&amp;pr=' + pr +'&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;prr=' + afReferrer + '"><\/scr' + 'ipt>'); // --> </p>
+<p> // <!-- var prbnp_login = "pravda-news-240x400-sa"; var prbnp_options = "options=T"; var prbnp_random = Math.round(Math.random() * 100000); document.write('<iframe src="http://pravda.prbn.ru/cgi-bin/iframe/'+prbnp_login+'?'+prbnp_random+'&'+prbnp_options+'" width="240" height="400" marginwidth="0" marginheight="0" scrolling="no" frameborder="0"><a href="http://pravda.prbn.ru/cgi-bin/href/'+prbnp_login+'?'+prbnp_random +'" target="_top"><img src="http://pravda.prbn.ru/cgi-bin/banner/'+prbnp_login+'?'+prbnp_random +'&'+prbnp_options+'" alt="Pravda" width="240" height="400" border="0" ismap="ismap"></a></iframe>'); // --> </p>
+<p> Мир </p>
+<p> Роколл: скала раздора в Атлантике </p>
+<p> "Аль-Арабия" пугает мир российскими кораблями </p>
+<p> Сирийская военная тайна США от России </p>
+<p> США не обсуждают ПРО со "слабаком" </p>
+<p> Загрузка... </p>
+<p> var MarketGidDate = new Date();     document.write('<scr'+'ipt type="text/javascript" '     +'src="http://jsn.dt00.net/p/r/pravda.ru.9955.js?t='+MarketGidDate.getYear()+MarketGidDate.getMonth()     + '" charset="utf-8" ></scr'+'ipt>'); </p>
+<p> Bigness.ru </p>
+<p> Российские корабелы вздохнули спокойно </p>
+<p> Американцы забирают деньги из банков </p>
+<p> Планшетники не выдержат конкуренции </p>
+<p> Валютный прогноз: доллар постепенно укрепляется </p>
+<p> Пенсии для мигрантов станут реальностью </p>
+<p> Россия ждет дешевого авиаперевозчика </p>
+<p> Загрузка... </p>
+<p> var MarketGidDate = new Date();     document.write('<scr'+'ipt type="text/javascript" '     +'src="http://jsn.dt00.net/p/r/pravda.ru.9951.js?t='+MarketGidDate.getYear()+MarketGidDate.getMonth()     + '" charset="utf-8" ></scr'+'ipt>'); </p>
+<p> Politonline.ru </p>
+<p> США: Либо воевать с РФ, либо дирижировать ей </p>
+<p> Москва готова к ядерной войне </p>
+<p> Кто выдумал демографическую катастрофу в России? </p>
+<p> У 'валящих из страны' отняли чемоданы </p>
+<p> Кто виноват в бедности россиян? </p>
+<p> Попытки Запада и бывших 'рулевых' влиять на выборы в РФ бесполезны </p>
+<p> var xmas = new Date(); var blocks = ['society3', 'georgiatimes3']; var block = blocks[Math.floor(Math.random() * blocks.length)];  document.write('<iframe scrolling="no" height="400" frameborder="0" width="240" src="http://www.pravda.ru/cache/cqc/'+block+'.html?t='+xmas.getTime().toString().substr(0,7)+'"></iframe>'); </p>
+<p> <!-- 			new Image().src = "http://www.cqc.ru/rn?h="+escape(document.title.substring(0,250))+";r="+Math.random(); 		//--> </p>
+<p> О проекте </p>
+<p> Архив </p>
+<p> Карта сайта </p>
+<p> RSS </p>
+<p> Контакты </p>
+<p> Вакансии </p>
+<p> РЕКЛАМА </p>
+<p> Форум </p>
+<p> Правда.ру в соцсетях: </p>
+<p> Нашли опечатку? Выделите ее мышкой и нажмите Ctrl+Enter </p>
+<p> Copyright © 1999-2011, технология и дизайн принадлежат ЗАО «Правда.Ру». </p>
+<p> Использование материалов сайта (распространение, воспроизведение, передача, перевод, переработка и др.) допускается только с письменного разрешения редакции. </p>
+<p> Мнения и взгляды авторов не всегда совпадают с точкой зрения редакции. </p>
+<p> var _gaq = _gaq || [];   _gaq.push(['_setAccount', 'UA-8933842-1']);   _gaq.push(['_trackPageview']);    (function() {     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);   })(); </p>
+<p> (function(L){if(typeof(ar_cn)=="undefined")ar_cn=1; var S='setTimeout(function(e){if(!self.CgiHref){document.close();e=parent.document.getElementById("ar_container_"+ar_bnum);e.parentNode.removeChild(e);}},3000);',     j=' type="text/javascript"',t=0,D=document,n=ar_cn;L+=escape(D.referrer||'unknown')+'&rnd='+Math.round(Math.random()*999999999); function _(){if(t++<100){var F=D.getElementById('ar_container_'+n);     if(F){try{var d=F.contentDocument||(window.ActiveXObject&&window.frames['ar_container_'+n].document);     if(d){d.write('<sc'+'ript'+j+'>var ar_bnum='+n+';'+S+'<\/sc'+'ript><sc'+'ript'+j+' src="'+L+'"><\/sc'+'ript>');t=0}     else setTimeout(_,100);}catch(e){try{F.src="javascript:{document.write('<sc'+'ript"+j+">var ar_bnum="+n+"; document.domain=\""     +D.domain+"\";"+S+"<\/sc'+'ript>');document.write('<sc'+'ript"+j+" src=\""+L+"\"><\/sc'+'ript>');}";return}catch(E){}}}else setTimeout(_,100);}} D.write('<div style="visibility:hidden;height:0px;left:-1000px;position:absolute;"><iframe id="ar_container_'+ar_cn     +'" width=1 height=1 marginwidth=0 marginheight=0 scrolling=no frameborder=0><\/iframe><\/div><div id="ad_ph_'+ar_cn     +'" style="display:none;"><\/div>');_();ar_cn++; })('http://ad.adriver.ru/cgi-bin/erle.cgi?sid=171112&target=top&bt=43&pz=0&tail256='); </p>
+<p> < </p>
+<p> <!-- var _ga1_channel='35'; var _ga1_inline_max=2; // --> </p>
+<p> if(document.location.protocol!='https:')   document.write(unescape("%3Cscript%20src='http://s.clicktale.net/WRb6.js'%20type='text/javascript'%3E%3C/script%3E")); </p>
+<p> if(typeof ClickTale=='function') ClickTale(10284,0.1,"www03"); </p>
+<p> var _MAIL = '!ohemp@ardv.aur'; </p>
+<p> function getAuthPopup() {         if (!Cookie.get('popupAuth')) {             Cookie.set('popupAuth', 1, 10, '/', '.pravda.ru');             facebox.reveal('<div id="auth_container"></div>');             widgets.auth({                 container: "auth_container",                 siteId: 1             })         }     }      addLoadEvent(         function() {             setTimeout('getAuthPopup()', 10000);         }     ); </p>

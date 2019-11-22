@@ -1,0 +1,179 @@
+<p> Новая прививка от кишечных инфекций спасет сотни тысяч детских жизней | Медицинский портал «Здоровье Украины» </p>
+<p> function togg_search() {$("#list").toggle(300);}  function togg_serv() {$("#server-list").toggle(300);}  $(window).bind("load", function() {  $("div#slider-video").slideViewerPro({          thumbs: 2,           thumbsPercentReduction: 100,  		thumbsHeight: 77, 		thumbsWidth: 125, 		picHeight: 175, 		picWidth: 300,         galBorderWidth: 0,          galBorderColor: "aqua",          thumbsTopMargin: 5,          thumbsRightMargin: 3,          thumbsBorderWidth: 0,          thumbsActiveBorderColor: "gold",          thumbsActiveBorderOpacity: 0.8,          thumbsBorderOpacity: 0,          buttonsTextColor: "#707070",          leftButtonInner: "<img src='/img/design/slider_button_left.jpg' alt='' />",          rightButtonInner: "<img src='/img/design/slider_button_right.jpg' alt='' />",          autoslide: true,           typo: true         });      	});  	 $(function() {     $(".photo-slide").jCarouselLite({         btnNext: ".left-btn",         btnPrev: ".right-btn", 		visible: 2, 		auto: 4000     }); });  $(function(){   $("#tabs").tabs(); }); </p>
+<p> var _gaq = _gaq || [];   _gaq.push(['_setAccount', 'UA-1451854-2']);   _gaq.push(['_setDomainName', '.health-ua.org']);   _gaq.push(['_trackPageview']);   _gaq.push(['_trackPageLoadTime']);   (function() {     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);   })(); </p>
+<p> <!-- bmN=navigator,bmD=document,bmD.cookie='b=b',i=0,bs=[],bm={o:1,v:16808571,s:16808571,t:6,c:bmD.cookie?1:0,n:Math.round((Math.random()* 1000000)),w:0}; for(var f=self;f!=f.parent;f=f.parent)bm.w++; try{if(bmN.plugins&&bmN.mimeTypes.length&&(x=bmN.plugins['Shockwave Flash']))bm.m=parseInt(x.description.replace(/([a-zA-Z]|\s)+/,'')); else for(var f=3;f<20;f++)if(eval('new ActiveXObject("ShockwaveFlash.ShockwaveFlash.'+f+'")'))bm.m=f}catch(e){;} try{bm.y=bmN.javaEnabled()?1:0}catch(e){;} try{bmS=screen;bm.v^=bm.d=bmS.colorDepth||bmS.pixelDepth;bm.v^=bm.r=bmS.width}catch(e){;} r=bmD.referrer.slice(7);if(r&&r.split('/')[0]!=window.location.host){bm.f=escape(r);bm.v^=r.length} bm.v^=window.location.href.length;for(var x in bm) if(/^[ovstcnwmydrf]$/.test(x)) bs[i++]=x+bm[x]; bmD.write('<sc'+'ript type="text/javascript" language="javascript" src="http://c.bigmir.net/?'+bs.join('&')+'"></sc'+'ript>'); //--> </p>
+<p> <!--//<![CDATA[    var m3_u = (location.protocol=='https:'?'https://a8.health-ua.org/www/delivery/ajs.php':'http://a8.health-ua.org/www/delivery/ajs.php');    var m3_r = Math.floor(Math.random()*99999999999);    if (!document.MAX_used) document.MAX_used = ',';    document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);    document.write ("?zoneid=2");    document.write ('&amp;cb=' + m3_r);    if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);    document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));    document.write ("&amp;loc=" + escape(window.location));    if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));    if (document.context) document.write ("&context=" + escape(document.context));    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");    document.write ("'><\/scr"+"ipt>"); //]]>--> </p>
+<p> На главную </p>
+<p> Карта портала </p>
+<p> Тесты онлайн </p>
+<p> Перевод текста онлайн </p>
+<p> Педиатрия </p>
+<p> Весь портал </p>
+<p> Новости </p>
+<p> Консультация </p>
+<p> Видео </p>
+<p> Статьи </p>
+<p> Фото </p>
+<p> Лекарства </p>
+<p> Весь портал </p>
+<p> Новости </p>
+<p> Видео </p>
+<p> Доступно о проблеме </p>
+<p> Горячая тема </p>
+<p> Фото </p>
+<p> Лекарственные средства </p>
+<p> Правовая консультация </p>
+<p> Главная </p>
+<p> » </p>
+<p> Новости медицины </p>
+<p> » </p>
+<p> Новая прививка от кишечных инфекций спасет сотни тысяч детских жизней </p>
+<p> <!--//<![CDATA[    var m3_u = (location.protocol=='https:'?'https://a8.health-ua.org/www/delivery/ajs.php':'http://a8.health-ua.org/www/delivery/ajs.php');    var m3_r = Math.floor(Math.random()*99999999999);    if (!document.MAX_used) document.MAX_used = ',';    document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);    document.write ("?zoneid=1&amp;charset=UTF-8");    document.write ('&amp;cb=' + m3_r);    if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);    document.write ('&amp;charset=UTF-8');    document.write ("&amp;loc=" + escape(window.location));    if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));    if (document.context) document.write ("&context=" + escape(document.context));    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");    document.write ("'><\/scr"+"ipt>"); //]]>--> </p>
+<p> Машины </p>
+<p> Hyundai </p>
+<p> в Украине: актуальные цены, лучшая база  	авто. </p>
+<p> Киноафиша, новости, </p>
+<p> фильмы </p>
+<p> на kino.ukr.net. </p>
+<p> Полная </p>
+<p> телепрограмма </p>
+<p> на все каналы. </p>
+<p> Новости спорта </p>
+<p> Украины и Мира на портале UKR.NET. </p>
+<p> Новости медицины и здоровья </p>
+<p> для вашего сайта </p>
+<p> Новости по теме </p>
+<p> Оправляясь в отпуск, узнайте, где скрывается «невидимый враг» </p>
+<p> Знаменитая сеть закусочных заплатит 8 000 000 долларов за отравление Моники </p>
+<p> Вчерашняя еда – серьезная угроза для здоровья </p>
+<p> Прививка от хламидиоза – скорая реальность </p>
+<p> Четверо японцев умерли, отведав "смертельный деликатес" </p>
+<p> Новости партнеров </p>
+<p> Последние новости </p>
+<p> 16:00 04 апреля 2013 г. </p>
+<p> Маленькие люди с обликом Купидона не болеют раком и диабетом </p>
+<p> 15:00 04 апреля 2013 г. </p>
+<p> Изобретено женское белье, защищающее от насильников </p>
+<p> 14:00 04 апреля 2013 г. </p>
+<p> Западные спецслужбы ловят «научных» шпионов и контрабандистов микробов </p>
+<p> 13:00 04 апреля 2013 г. </p>
+<p> Создан революционный метод радиотерапии рака без побочных эффектов </p>
+<p> 12:00 04 апреля 2013 г. </p>
+<p> Метод «реанимации» донорских легких поможет спасти множество жизней </p>
+<p> Консультации </p>
+<p> всего 123 880 консультаций </p>
+<p> Акушерство, гинекология, репродуктивная медицина </p>
+<p> Аллергия. Иммунитет </p>
+<p> Варикоз </p>
+<p> Гастроэнтерология </p>
+<p> Гепатология </p>
+<p> Головная боль </p>
+<p> Дерматология </p>
+<p> Детская и подростковая гинекология </p>
+<p> Избыточный вес. Диеты </p>
+<p> Изжога. Желудочно-пищеводный рефлюкс </p>
+<p> Инфекционные заболевания </p>
+<p> Кардиология </p>
+<p> Косметология </p>
+<p> Маммология </p>
+<p> Метеочувствительность </p>
+<p> Неврология </p>
+<p> Онкология </p>
+<p> Отоларингология </p>
+<p> Офтальмология </p>
+<p> Прививки </p>
+<p> Проктология </p>
+<p> Пульмонология, фтизиатрия </p>
+<p> Стоматология. Заболевания полости рта </p>
+<p> Стресс. Депрессия. Психологическое консультирование </p>
+<p> Травматология и ортопедия </p>
+<p> Урология и нефрология </p>
+<p> Эндокринология. Сахарный диабет </p>
+<p> Новая прививка от кишечных инфекций спасет сотни тысяч детских жизней </p>
+<p> 09 декабря 2011 г. </p>
+<p> Среди возбудителей вспышек желудочно-кишечных инфекций важное место занимают норовирусы. Иногда человек даже может погибнуть от этой вирусной инфекции. Скоро от нее можно будет защититься с помощью вакцины, распыляемой в виде аэрозоля в нос. </p>
+<p> Часто употребляемое в разговорах в сезон эпидемии гриппа выражение «желудочный грипп» на самом деле к гриппу не имеет никакого отношения. Сходные с гриппом симптомы, но только сопровождаемые и выраженным поражением желудочно-кишечного тракта вызывают норовирусы, о которых публикуется гораздо меньше информации чем, скажем, о свином или птичьем гриппе. </p>
+<p> Между тем, норовирусная инфекция очень заразна, попав в организм жертвы, норовирус быстро вызывает плохое самочувствие, рвоту и сильный понос. В некоторых случаях без лечения человек может погибнуть от обезвоживания организма – в бедных странах норовирусы ежегодно уносят жизни не менее 200 000 детей в возрасте до 5 лет. </p>
+<p> Особенно начинает «свирепствовать» этот вид вирусов в осенне-зимний период, совпадая по времени с сезоном гриппа. Многие симптомы норовирусной инфекции сходны с гриппом, что затрудняет лечение. </p>
+<p> До настоящего времени вакцины от этого заболевания не существовало, но недавно появилось сообщение, что американские ученые смогли создать прививку от этой напасти. </p>
+<p> Прорыв сумели совершить исследователи из медицинского колледжа Бейлора в штате Техас (Baylor College of Medicine, Texas), которыми руководил профессор Роберт Амтар (Robert Atmar). </p>
+<p> В опыте две группы добровольцев численностью по 45 человек каждая, получали двукратную вакцинацию с помощью назального спрея с интервалом между прививками 3 недели. Контрольная группа получал плацебо, а экспериментальная – вакцину, созданную учеными из группы Роберта Амтара. </p>
+<p> Затем в условиях стационара они выпивали взвесь, содержавшую норовирусы. </p>
+<p> Симптомы заболевания проявились у 69% участников из группы плацебо и только у 37% членов экспериментальной группы, причем у привитых участников симптомы были выражены намного слабее. </p>
+<p> Авторы ожидают, что полностью завершат работу над созданием вакцины в течение 5 лет. </p>
+<p> © www.health-ua.org </p>
+<p> Теги: </p>
+<p> Диагностика инфекционных заболеваний </p>
+<p> , </p>
+<p> Пищевое отравление </p>
+<p> , </p>
+<p> Другие прививки </p>
+<p> Больше по теме </p>
+<p> Доступно о проблеме: </p>
+<p> Папилломавирусная инфекция (пви) </p>
+<p> Папилломавирусная инфекция относится к заболеваниям, передаваемым половым путем. Папилломавирусы (ВПЧ)– широко распространенная и наиболее изменчивая группа вирусов, инфицирующих человека. Узнайте, какие типы вируса как себя проявляют и чем грозят. </p>
+<p> Читать дальше </p>
+<p> Горячая тема: </p>
+<p> Загадочный помощник – ИФА </p>
+<p> ИФА (иммуноферментный анализ) предназначен для определения наличия в организме антител к различным инфекциям. Но лучше ли он классических анализов крови? Если лучше, то чем? Давайте разберемся, почему сегодня все больше врачей используют ИФА в диагностике </p>
+<p> Читать дальше </p>
+<p> Медицинская консультация: </p>
+<p> Диагностика инфекционных заболеваний </p>
+<p> Добрый день. Уже третий год обращаюсь к врачам, сдаю анализы, но диагноза нет. Симптомы сдедующие. Начинается с того, что чувствую слабость, вялось, меряю температуру - 36,8−36,9. В течение дня может быть от 36,6 до 37,3. Такое состояние может держа </p>
+<p> Читать дальше </p>
+<p> Видео: </p>
+<p> Ботулизм </p>
+<p> Ботулизм – пищевое отравление, вызываемое клостридией ботулизма. Этот микроорганизм во внешней среде обычно находится в состоянии споры. В среде с пониженным содержанием кислорода, например, в закрытой емкости, она переходит в вегетативную форму и вырабат... </p>
+<p> Смотреть </p>
+<p> Разделы портала </p>
+<p> Новости </p>
+<p> Видео </p>
+<p> Доступно о проблеме </p>
+<p> Горячая тема </p>
+<p> Фото </p>
+<p> Лекарственные средства </p>
+<p> Правовая консультация </p>
+<p> Тесты онлайн </p>
+<p> Перевод текста онлайн </p>
+<p> Архив </p>
+<p> Написать нам </p>
+<p> Медицинская консультация онлайн </p>
+<p> Акушерство, гинекология, репродуктивная медицина </p>
+<p> Аллергия. Иммунитет </p>
+<p> Варикоз </p>
+<p> Гастроэнтерология </p>
+<p> Гепатология </p>
+<p> Головная боль </p>
+<p> Дерматология </p>
+<p> Детская и подростковая гинекология </p>
+<p> Избыточный вес. Диеты </p>
+<p> Изжога. Желудочно-пищеводный рефлюкс </p>
+<p> Инфекционные заболевания </p>
+<p> Кардиология </p>
+<p> Косметология </p>
+<p> Маммология </p>
+<p> Метеочувствительность </p>
+<p> Неврология </p>
+<p> Онкология </p>
+<p> Отоларингология </p>
+<p> Офтальмология </p>
+<p> Прививки </p>
+<p> Проктология </p>
+<p> Пульмонология, фтизиатрия </p>
+<p> Стоматология. Заболевания полости рта </p>
+<p> Стресс. Депрессия. Психологическое консультирование </p>
+<p> Травматология и ортопедия </p>
+<p> Урология и нефрология </p>
+<p> Эндокринология. Сахарный диабет </p>
+<p> Условия использования </p>
+<p> Мы в Google+ </p>
+<p> © 2006 - 2013 Медицинский портал «Здоровье Украины» </p>
+<p> <!-- function BM_Draw(oBM_STAT){ document.write('<table cellpadding="0" cellspacing="0" border="0" style="display:inline;margin-right:4px;"><tr><td><div style="font-family:Tahoma;font-size:10px;padding:0px;margin:0px;"><div style="width:7px;float:left;background:url(\'http://i.bigmir.net/cnt/samples/default/b56_left.gif\');height:17px;padding-top:2px;background-repeat:no-repeat;"></div><div style="float:left;background:url(\'http://i.bigmir.net/cnt/samples/default/b56_center.gif\');text-align:left;height:17px;padding-top:2px;background-repeat:repeat-x;"><a href="http://www.bigmir.net/" target="_blank" style="color:#0000ab;text-decoration:none;">bigmir<span style="color:#ff0000;">)</span>net</a>&nbsp;&nbsp;<span style="color:#eca8aa;">хиты</span>&nbsp;<span style="color:#d44348;font:10px Tahoma;">'+oBM_STAT.hits+'</span>&nbsp;<span style="color:#eca8aa;">хосты</span>&nbsp;<span style="color:#d44348;font:10px Tahoma;">'+oBM_STAT.hosts+'</span></div><div style="width:7px;float: left;background:url(\'http://i.bigmir.net/cnt/samples/default/b56_right.gif\');height:17px;padding-top:2px;background-repeat:no-repeat;"></div></div></td></tr></table>'); } //--> </p>
+<p> <!-- iS='<img src="http://r.i.ua/s?u7180&p213&n'+Math.random(); iD=document;if(!iD.cookie)iD.cookie="b=b; path=/";if(iD.cookie)iS+='&c1'; iS+='&d'+(screen.colorDepth?screen.colorDepth:screen.pixelDepth) +"&w"+screen.width+'&h'+screen.height; iT=iD.referrer.slice(7);iH=window.location.href.slice(7); ((iI=iT.indexOf('/'))!=-1)?(iT=iT.substring(0,iI)):(iI=iT.length); if(iT!=iH.substring(0,iI))iS+='&f'+escape(iD.referrer.slice(7)); iS+='&r'+escape(iH); iD.write(iS+'" border="0" width="160" height="19" />'); //--> </p>
+<p> (function(w, c) {     (w[c] = w[c] || []).push(function() {         try {             w.yaCounter9686719 = new Ya.Metrika({id:9686719, enableAll: true, webvisor:true});         }         catch(e) { }     }); })(window, "yandex_metrika_callbacks"); </p>
+<p> var MarketGidDate = new Date();     document.write('<scr'+'ipt type="text/javascript" '     +'src="http://jsn.dt00.net/h/e/health-ua.org.9759.js?t='+MarketGidDate.getYear()+MarketGidDate.getMonth()+MarketGidDate.getDay()+MarketGidDate.getHours()     + '" charset="utf-8" ></scr'+'ipt>'); </p>
+<p> var MarketGidDate = new Date();     document.write('<scr'+'ipt type="text/javascript" '     +'src="http://jsn.dt00.net/h/e/health-ua.org.12594.js?t='+MarketGidDate.getYear()+MarketGidDate.getMonth()+MarketGidDate.getDay()+MarketGidDate.getHours()     + '" charset="utf-8" ></scr'+'ipt>'); </p>
+<p> <!-- Cd=document;Cr="&"+Math.random();Cp="&s=1"; Cd.cookie="b=b";if(Cd.cookie)Cp+="&c=1"; Cp+="&t="+(new Date()).getTimezoneOffset(); if(self!=top)Cp+="&f=1"; //--> </p>
+<p> <!-- if(navigator.javaEnabled())Cp+="&j=1"; //--> </p>
+<p> <!-- if(typeof(screen)!='undefined')Cp+="&w="+screen.width+"&h="+ screen.height+"&d="+(screen.colorDepth?screen.colorDepth:screen.pixelDepth); //--> </p>
+<p> <!-- Cd.write("<img src='http://c.hit.ua/hit?i=89030&g=0&x=2"+Cp+Cr+ "&r="+escape(Cd.referrer)+"&u="+escape(window.location.href)+ "' border='0' wi"+"dth='1' he"+"ight='1'/>"); //--> </p>

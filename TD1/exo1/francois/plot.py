@@ -1,7 +1,7 @@
 import os
 import matplotlib.pyplot as plt
 
-path = "D:/DocumentsHDD/M2/WebScraping/Corpus_detourage/"
+path = "../../../resources/"
 targetFolder = "JT"
 
 pointsCleanChar = []

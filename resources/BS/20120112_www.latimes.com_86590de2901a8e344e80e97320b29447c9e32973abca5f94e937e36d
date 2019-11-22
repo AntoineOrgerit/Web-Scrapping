@@ -1,0 +1,374 @@
+<p> Homicide no longer a leading cause of death - latimes.com </p>
+<p> jQuery = $;  //rename $ function </p>
+<p> trblib.ns('trb').data = {   contentId: '67306512',   marketCode: 'lanews',   section: '/health/boostershots' }; </p>
+<p> xd.configure({           'https://latimes.signon.trb.com':{                sender : 'https://latimes.signon.trb.com/registration/xd/xd_sender.htm',               receiver : '/hive/common/includes/xd_receiver.html'           }                   }); </p>
+<p> carnival.init({"hostname":"https://latimes.signon.trb.com","apiKey":"","product":"lanews", "xd":"1", "activateMessages":"true",   "ssorNavBackgroundColor":"#000000", "ssorModalTextColor":"", "skipNewsletters":"0"    , "captchaType" : "reCaptcha" }); </p>
+<p> (function() {   var cookieName = 'tribanalyticscookie',       cookieData = readCookie(cookieName),       ssorId = carnival.user.profile().masterId,       data;      if (!cookieData) {     cookieData = guidGenerator();     createCookie(cookieName, cookieData, 3650);   }   data = 'k=viewcontent&u=' + cookieData + '&url=' + encodeURIComponent(window.location.href);   if (ssorId) data += '&es=' + ssorId;   if (trb.data.contentId) data += '&contentId=P2P-' + trb.data.contentId;   if (trb.data.marketCode) data += '&marketCode=' + trb.data.marketCode;   if (trb.data.section) data += '&section=' + encodeURIComponent(trb.data.section);    trblib.jQuery.ajax({     url: 'http://tribunegls.cloudapp.net/profiles/e949eb98-f19d-472c-92cd-ee7620ad47c7/analytics',     data: data,     dataType: 'script'   });    function guidGenerator() {     function s() {       return (((1+Math.random())*0x10000)|0).toString(16).substring(1);     }     return s()+s()+'-'+s()+'-'+s()+'-'+s()+'-'+s()+s()+s();   } })(); </p>
+<p> var _sf_startpt = (new Date()).getTime(); </p>
+<p> div.thumbnail span.credit {   font-weight: normal !important; } div.article div.articlerail ul li.relatedTitle, div.storygallery div.storyGalleryRail ul li.relatedTitle {   font-size: 12px !important; } </p>
+<p> Subscribe/Manage Account </p>
+<p> Place Ad </p>
+<p> LAT Store </p>
+<p> Jobs </p>
+<p> Cars </p>
+<p> Real Estate </p>
+<p> Rentals </p>
+<p> Classifieds </p>
+<p> Custom Publishing </p>
+<p> Booster Shots </p>
+<p> HOME </p>
+<p> Breaking </p>
+<p> Photos </p>
+<p> Video </p>
+<p> Crime </p>
+<p> Obituaries </p>
+<p> Weather </p>
+<p> Traffic </p>
+<p> Crosswords </p>
+<p> Games </p>
+<p> Horoscopes </p>
+<p> Apps </p>
+<p> Local </p>
+<p> L.A. Now </p>
+<p> Politics </p>
+<p> Crime </p>
+<p> Education </p>
+<p> O.C. </p>
+<p> Westside </p>
+<p> Neighborhoods </p>
+<p> Environment </p>
+<p> Obituaries </p>
+<p> FindLocal </p>
+<p> U.S. </p>
+<p> Politics </p>
+<p> Nation Now </p>
+<p> Politics Now </p>
+<p> Top of the Ticket </p>
+<p> Science & Environment </p>
+<p> Obituaries </p>
+<p> Religion </p>
+<p> World </p>
+<p> World Now </p>
+<p> Afghanistan war </p>
+<p> Africa </p>
+<p> Americas </p>
+<p> Asia </p>
+<p> Europe </p>
+<p> Middle East </p>
+<p> Business </p>
+<p> Money & Co. </p>
+<p> Technology </p>
+<p> Personal Finance </p>
+<p> Small Business </p>
+<p> Company Town </p>
+<p> Jobs </p>
+<p> Real Estate </p>
+<p> Cars </p>
+<p> Sports </p>
+<p> Lakers </p>
+<p> Clippers </p>
+<p> Dodgers </p>
+<p> Angels </p>
+<p> NFL </p>
+<p> Ducks/Kings </p>
+<p> USC </p>
+<p> UCLA </p>
+<p> College football </p>
+<p> Preps </p>
+<p> Scores/Stats </p>
+<p> Entertainment </p>
+<p> Movies </p>
+<p> TV </p>
+<p> Music </p>
+<p> Celebrity </p>
+<p> Arts & Culture </p>
+<p> Industry </p>
+<p> Awards </p>
+<p> Calendar </p>
+<p> Books </p>
+<p> FindLocal </p>
+<p> Health </p>
+<p> Booster Shots </p>
+<p> Medicine </p>
+<p> Fitness & Nutrition </p>
+<p> Mental Health </p>
+<p> Health Reform </p>
+<p> Diabetes </p>
+<p> Living </p>
+<p> Home </p>
+<p> Food </p>
+<p> Image </p>
+<p> Books </p>
+<p> Parenting </p>
+<p> FindLocal </p>
+<p> Magazine </p>
+<p> Comics </p>
+<p> Reader Photos </p>
+<p> Travel </p>
+<p> SoCal </p>
+<p> California </p>
+<p> Mexico </p>
+<p> Hawaii </p>
+<p> Las Vegas </p>
+<p> Europe </p>
+<p> Asia </p>
+<p> Australia </p>
+<p> Travel & Deal Blog </p>
+<p> Opinion </p>
+<p> Editorials </p>
+<p> Op-Ed </p>
+<p> Letters </p>
+<p> Opinion L.A. </p>
+<p> Readers' Rep </p>
+<p> Deals </p>
+<p> Daily Deals </p>
+<p> Travel </p>
+<p> Wine </p>
+<p> Subscribe/Manage Account </p>
+<p> Place Ad </p>
+<p> LAT Store </p>
+<p> Jobs </p>
+<p> Cars </p>
+<p> Real Estate </p>
+<p> Rentals </p>
+<p> Classifieds </p>
+<p> Custom Publishing </p>
+<p> eraseCookie("mainPage");   createCookie("mainPage","/health/boostershots","1");    Event.observe("navigation", 'load', menuFix());   Event.observe("navigation", 'load', tribHover()); </p>
+<p> Health Topics: </p>
+<p> British Drinking Guidelines </p>
+<p> nicotine </p>
+<p> antibiotics </p>
+<p> soda tax </p>
+<p> excedrin </p>
+<p> /*OVERWRITES*/ 	.adv_search { background-color: #fff; } 	#adv_search { background-color: #eee; } 	#adv_search .adv_search_head, 	#adv_help .adv_search_head { background-color: #000; } 	#search_overlay { background-color: #eee; } 	#search-results ul.advTabs { background-color: #000; } 	#search-results ul.advTabs li a { background-color: #000; } 	#search-results ul.advTabs li.advCurrTab a { background-color: #fff; color: #000; } 	div.panelTab { background: url("/images/adv_search/adv_panel_bg.png") no-repeat; } 	#adv_keywords_head { background-color: #000; } 	#adv_results .clearfix {display:block;} </p>
+<p> Advanced Search </p>
+<p> Advanced Search </p>
+<p> X </p>
+<p> include all of these words: </p>
+<p> include any of these words: </p>
+<p> include this exact phrase: </p>
+<p> exclude: </p>
+<p> Select a date range </p>
+<p> this week </p>
+<p> past 30 days </p>
+<p> past 3 months </p>
+<p> past year </p>
+<p> Create a custom date range </p>
+<p> From: </p>
+<p> To: </p>
+<p> Booster Shots: Oddities, musings and news from the health world </p>
+<p> Homicide no longer a leading cause of death </p>
+<p> Comments </p>
+<p> 4 </p>
+<p> trblib.jQuery(function() {                   trblib.require('http://w.sharethis.com/button/buttons.js', function() {                    stLight.options({                    publisher:'4b7449a5-38e2-462a-a6cd-97326133f123',                    onhover: false,                    newOrZero: 'zero'                    });                   });                 }); </p>
+<p> (function() { 					    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true; 					    po.src = 'https://apis.google.com/js/plusone.js'; 					    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s); 					  })(); </p>
+<p> Homicides are no longer one of the top 15 leading causes of death in the United States. </p>
+<p> ( </p>
+<p> Edel Rodriguez / For The Times </p>
+<p> ) </p>
+<p> function showExtras(elm, link, text){         var obj = $(elm);         var link = $(link);         var elmTop = (obj.getHeight() + 10) * (-1);         if(obj.style.display == 'none'){           obj.style.top = elmTop + "px";           link.innerHTML = 'Hide more ' + text + ' &raquo;';           new Effect.Parallel([             new Effect.Move(obj, { sync: true, x: link.getWidth(), y: (obj.getHeight() + 10) * (-1), mode: 'absolute' }),             new Effect.AppearItems(obj, { sync: true, from: 0, to: 1})           ], { duration: 1 });         } else {           new Effect.Parallel([             new Effect.Move(obj, { sync: true, x: link.getWidth() * (-1), y: 0, mode: 'absoulte' }),             new Effect.FadeItems(obj, { sync: true, from: 1, to: 0 })           ], { duration: 1 });           link.innerHTML = 'See more ' + text + ' &raquo;';         }       }       // These are customized methods b/c the scriptaculous ones where throwing error. These should be re-evaluated at a later date.       Effect.FadeItems = function(element) {         element = $(element);         var oldOpacity = 0;         var options = Object.extend({           from: element.getOpacity() || 1.0,           to:   0.0,           afterFinishInternal: function(effect) {             if (effect.options.to!=0) return;             effect.element.hide().setStyle({opacity: oldOpacity});             }         }, arguments[1] || { });         return new Effect.Opacity(element,options);       };       Effect.AppearItems = function(element) {         element = $(element);         var options = Object.extend({           from: (element.getStyle('display') == 'none' ? 0.0 : element.getOpacity() || 0.0),           to:   1.0,           // force Safari to render floated elements properly           afterFinishInternal: function(effect) {             if(Prototype.Browser.WebKit) {               effect.element.forceRerendering();             }           },           beforeSetup: function(effect) {             effect.element.setOpacity(effect.options.from).show();         }}, arguments[1] || { });         return new Effect.Opacity(element,options);       }; </p>
+<p> Also </p>
+<p> What a $1,000 genome could mean for medicine </p>
+<p> Diabetes could affect wages, jobs for young people </p>
+<p> Soda tax could prevent 26,000 premature deaths, study finds </p>
+<p> Improved care needed for atrial fibrillation </p>
+<p> By Shari Roan, Los Angeles Times / For the Booster Shots blog </p>
+<p> January 11, 2012 </p>
+<p> , </p>
+<p> 11:25 a.m. </p>
+<p> Homicide was not one of the nation's top 15 causes of death in 2010, according to new government statistics. That's the first time since 1965 that homicide has not ranked as a major killer of American citizens. </p>
+<p> The </p>
+<p> top 15 list </p>
+<p> , released Wednesday by the </p>
+<p> Centers for Disease Control and Prevention </p>
+<p> , analyzes data from death certificates. The report is preliminary; a more detailed analysis will be released later. </p>
+<p> The death rate fell the most from 2009 to 2010 for non-Latino black males with a nearly 2% decline in deaths. The death rate for non-Latino black females decreased 1.5%. </p>
+<p> The preliminary homicide rate for 2010 was 5.2 deaths per 100,000 people. </p>
+<p> Overall, life expectancy inched upward, from 78.6 in 2009 to 78.7 in 2010. </p>
+<p> Heart disease </p>
+<p> and </p>
+<p> cancer </p>
+<p> still account for about half of all deaths. </p>
+<p> HIV </p>
+<p> death rates fell 13.3% from 2009 to 2010. But the disease "remains a public health concern, especially for those between the ages of 15-64," the authors wrote. </p>
+<p> The leading causes of death are: </p>
+<p> Heart disease </p>
+<p> Cancer </p>
+<p> Lower </p>
+<p> respiratory diseases </p>
+<p> Stroke </p>
+<p> and related cerebrovascular diseases </p>
+<p> Accidents (unintentional injuries) </p>
+<p> Alzheimer's disease </p>
+<p> Diabetes </p>
+<p> Kidney </p>
+<p> diseases </p>
+<p> Influenza </p>
+<p> and </p>
+<p> pneumonia </p>
+<p> Suicide </p>
+<p> Septicemia </p>
+<p> Chronic </p>
+<p> liver disease </p>
+<p> and </p>
+<p> cirrhosis </p>
+<p> Hypertension and related </p>
+<p> renal disease </p>
+<p> Parkinson's disease </p>
+<p> Pneumonitis due to solids and liquids. </p>
+<p> Number 15 on the list -- pneumonitis -- refers to inflammation of the </p>
+<p> lungs </p>
+<p> caused by medications or other exposures, such as breathing something harmful over time. Death rates increased in 2010 for five conditions: Alzheimer's, </p>
+<p> kidney disease </p>
+<p> , chronic liver disease and cirrhosis, Parkinson's and pneumonitis. </p>
+<p> The infant mortality dropped 3.9% from 2009 to 2010. </p>
+<p> Return to </p>
+<p> Booster Shots blog </p>
+<p> . </p>
+<p> Follow me: twitter.com/LATShariRoan </p>
+<p> textSize() </p>
+<p> Copyright © 2012, </p>
+<p> Los Angeles Times </p>
+<p> Comments </p>
+<p> 4 </p>
+<p> trblib.jQuery(function() {                   trblib.require('http://w.sharethis.com/button/buttons.js', function() {                    stLight.options({                    publisher:'4b7449a5-38e2-462a-a6cd-97326133f123',                    onhover: false,                    newOrZero: 'zero'                    });                   });                 }); </p>
+<p> (function() { 					    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true; 					    po.src = 'https://apis.google.com/js/plusone.js'; 					    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s); 					  })(); </p>
+<p> var site=""; 	var obt="tribune"; 	var obwid = 'AR_1'; 	var obwidPhoto = 'AR_2';  	      site = "latimes";obt = "latimes"; obwid = 'AR_3'; obwidPhoto = 'AR_3';                                 	 	if(obt=="localtv") {address="http://www.latimes.com/health/boostershots/la-heb-death-rates-homicide-20120111,0,1761439.story";} 	else if(site=="") {address=document.location.href;} 	else {address="http://www."+site+".com/health/boostershots/la-heb-death-rates-homicide-20120111,0,1761439.story";} 	var OB_permalink= address; 	var OB_widgetId= obwid; 	var OB_Template = obt; 	var OB_langJS ='http://widgets.outbrain.com/lang_en.js'; 	if ( typeof(OB_Script)!='undefined' ) 	OutbrainStart(); 	else 	{ 	var OB_Script = true; 	var str = "<script src='http://widgets.outbrain.com/outbrainWidget.js' type='text/javascript'></"+"script>" 	document.write(str); 	} </p>
+<p> Comments (4) </p>
+<p> Add / View comments </p>
+<p> | </p>
+<p> Discussion FAQ </p>
+<p> JAKE 671 </p>
+<p> at 4:10 AM January 12, 2012 </p>
+<p> To aaaaaa5: I wonder what the list would look like if people ate responsibly, did not smoke, exercised regularly, and made sure their children followed that regimen. </p>
+<p> executivecoachphilip </p>
+<p> at 2:23 PM January 11, 2012 </p>
+<p> This is good news?  How could we allow homicide to be even in the top 100 causes for death in America.  How is it that the most dangerous animal in the forest are our fellow human beings?  One other major cause of death and permanent disability is automobile crashes.  More than 40,000 Americans die every year on the highways.  If we were to reduce the maximum speed to 30 miles per hour that would reduce deaths significantly and reduce our use of fuel significantly.  However, we are in such a hurry that we are willing to sacrifice the lives of tens of thousands of our neighbors, friends, and relatives just so we can travel fast.  One hundred fifty years ago if we were able to travel thirty miles in one day, we were happy.  Now, we have to be able to move at 60 miles plus per hour to feel good.  I consider every highway death that occurs at speeds above 30 miles per hour to be a form of murder.  I live in Orange County about 90 miles from downtown San Diego and about 45 miles from downtown Los Angeles.  At thirty miles per hour I should be able to get to Los Angeles in 90 miles and San Diego in three hours, oops that is about how long it takes me in normal conditions  If we really want to save lives all we have to do is change our expectations about what is normal.  Let's slow down and save lives.  Are you with me? </p>
+<p> aaaaaa5 </p>
+<p> at 1:44 PM January 11, 2012 </p>
+<p> I wonder what this list would look like if we  had universal health coverage. </p>
+<p> Comments are filtered for language and registration is required. The Times makes no guarantee of comments' factual accuracy. Readers may report inappropriate comments by clicking the Report Abuse link next to a comment. Here are the full </p>
+<p> legal terms </p>
+<p> you agree to by using this comment form. </p>
+<p> .promoRSS { border: 1px #ddd solid; padding: 5px; margin-bottom: 15px !important; margin-top: 10px; }  .promoRSS li a { font-family: "Georgia"; font-size: 15px; display: block; }  /*.feedMashup { border: 1px #ddd solid; padding: 10px; margin-bottom: 10px; }*/  .img_right { padding: 10px; background-color: #F2F2F2; margin: 10px 0px 10px 10px; float: right; }  .img_left { padding: 10px; background-color: #F2F2F2; margin: 10px 10px 10px 0px; float: left; }   .box_header { font-size: 18px; text-transform: none; border-bottom: 1px solid #ddd; padding-bottom: 5px; margin-bottom: 5px; }  .blog_header2 { background-color:#ffffff; color:#000000; font-size:24px; line-height:1.4em; margin-bottom:-25px; left:-20px; padding-left:5px; padding-right:5px; position:relative; top:-30px; width:200px; }  .blog_header { background-color:#ffffff; color:#000000; font-size:20px; text-transform:uppercase; line-height:1.4em; margin-bottom:-25px; left:-20px; padding-left:5px; margin-top: 10px; padding: 0px 5px 0px 10px; position:relative; top:-30px; width:170px; }  .embeddedStory { border-bottom: 1px dotted #000000; padding-bottom: 40px; }  .embedStoryHeadline a { font-size: 24px; }  /* .feedMasherList a { font-family: "Georgia"; font-size: 15px; display: block; } */  /* ul.feedMasherList a { font-family: "Georgia"; font-size: 15px; } */  .headlineItem .briefRight a { font-weight: bold; }  .hasByline .headlineBelow .headlineThumb { width:350px; height:197px; }  /* .feedMashup { border: 1px solid #ddd; padding: 10px; } */  /* .feedMashup .rssHeader { font-size: 16px; } */  .aboveHeadlinePos .headline { font-size: 30px; }  .headColumn1 { margin-bottom: 10px; } </p>
+<p> .classifiedAdLabel{color:#000;font-size-adjust:none;font-stretch:normal;letter-spacing:1px;text-transform:lowercase;position:relative;left:38%;top:-16px;font:normal normal 400 10px 10px Arial,Helvetica,sans-serif}#main_background{height:104px;border:1px solid #BCB9B9;width:334px;font-size:11px;margin-bottom:20px;font-weight:700}#main_background img{width:27px;height:27px;border:0;padding:2px}ul#root li a.mainNav span{padding-bottom:12px}#ssorNavHeader{background-color:transparent !important;padding-top:12px !important}div#classBarNav #ssorNavSignIn span,div#classBarNav #ssorNavSignIn a{background-color:transparent !important;color:#000 !important}div#classBarNav #ssorNavSignIn span.link,div#classBarNav #ssorNavSignIn a,table.connect_widget_button_count_summary{background-color:transparent !important}#ssorMiniModal{background-color:#fff !important;border:2px solid #000}#ssorNavSignIn a#carnivalModalClose span.carnivalCloseButton{color:#fff !important}#ssorNavSignIn.loggedIn .userName{background:url(http://www.latimes.com/extras/ssor_down_arrow.png) no-repeat 0 2px}input#search_where{color:#666;margin-right:3px;padding:4px 4px 3px;width:208px;font-size:10px;margin-bottom:6px}input#search_what{color:#666;margin-right:3px;padding:4px 4px 3px;width:208px;font-size:10px}#dates div{font-size:16px;font-weight:700;border:1px solid #000;float:left;width:20px;padding:5px;margin-right:11px;text-align:center;height:20px}#dates div a:hover{padding:5px;color:#fff;background-color:#000;font-size:16px;border:1px solid #000;float:left;width:20px;margin-right:11px;text-align:center;height:20px;position:relative;bottom:6px;right:6px;text-decoration:none}.goButton{text-transform:uppercase;font-size:10px;padding:3px 2px 2px}.font12{font-size:12px}.font13{font-size:13px}.font15{font-size:15px}.font16{font-size:16px}.font17{font-size:17px}.font18{font-size:18px}.font20{font-size:20px}.font22{font-size:22px}.font21{font-size:21px}.what_where{text-transform:uppercase;font-size:11px}.example,.font11{font-size:11px}#toolTip{position:absolute;padding:8px 5px 10px;color:#000;width:300px;border-top:1px solid #000;background-color:#FFF !important;border-bottom:2px solid #000;border-left:2px solid #000;border-right:2px solid #000;font-weight:700;line-height:16px;font-family:helvetica,arial sans-serif;font-size:12px;border-bottom-right-radius:5px;border-bottom-left-radius:5px;-moz-border-radius-bottomleft:5px;-moz-border-radius-bottomright:5px;height:29px}#tooltipPlace{width:100px}div.module.headlines.daily-deals.defaultHeadlines.headColumn1 div.headlineItem.rightHeadlinePos{padding:10px;background-color:#f3f2e0;border:1px solid #ddd}div.module.headlines.daily-deals.defaultHeadlines .rightHeadlinePos img.headlineThumb{background-color:#f0630f;padding:3px}div.module.headlines.daily-deals.defaultHeadlines .rightHeadlinePos h2{display:block !important;padding-left:120px;background:url('http://www.latimes.com/includes/dailydeals/tri.gif') 106px 50% no-repeat;margin-top:5px}*div.module.headlines.daily-deals.defaultHeadlines .rightHeadlinePos h2{zoom:1;padding-left:14px;background-position:center left;margin-top:5px}*div.module.headlines.daily-deals.defaultHeadlines .rightHeadlinePos h2 a{zoom:1}div.module.headlines.daily-deals.defaultHeadlines h2.title{border:none}div.module.headlines.daily-deals.defaultHeadlines .headline a{background-color:transparent}div.tabModuleContainer.three-tabs-new{padding-bottom:20px;margin-bottom:0;height:375px;overflow:hidden;border-left:1px solid #9d9d9d;border-right:1px solid #9d9d9d}div.tabModuleContainer div.tabs{background-color:#000}ul.tabModule li.tab{background-color:#000 !important;padding:0 8px;border-left:1px solid #fff}ul.tabModule li.tab:first-child{border-left:0}ul.tabModule li.tab a{color:#fff;font-family:Georgia, "Times New Roman", Times, serif;text-transform:none;font-size:15px}ul.tabModule li.curTab{background-color:#fff !important;border-right:1px solid #fff}ul.tabModule li.curTab a{color:#000}div.latest-footer{width:336px;color:#fff;text-align:right;margin-bottom:20px;height:23px;background:url('http://www.latimes.com/media/thumbnails/blurb/2009-10/49854930-14144442-33623.jpg') 0 0 no-repeat}div.tabModuleContainer.three-tabs-new div.headlines a,.font14{font-size:14px}div.tabModuleContainer.three-tabs-new ul.feedMasherList span{display:inline}div.tabModuleContainer.three-tabs-new ul.feedMasherList span.publishDate,div.tabModuleContainer.three-tabs ul.feedMasherList span.feedSourcetitle{font-size:12px;color:#9d9d9d}div.tabModuleContainer.three-tabs-new div.newContent.two.clearfix div.feedMashup,div.tabModuleContainer.three-tabs-new div.feedMashup{width:320px}.mviewed .publishDate{visibility:visible}div#classBarNav ul.classBarNavLink li.lastMenuItem a,ul#root li ul.level2 li.TomPetty a:hover{color:green}#fb-recommend{border:1px solid #DDD;padding:14px 10px 18px 16px;margin-bottom:20px}#fb-title-holder{font-size:16px;margin-bottom:10px}#fb-title-holder div.title{float:left; padding-top:3px;}#fb-title-holder div.like-button{position:relative;left:10px;top:2px}#fb-title-holder iframe{border:none;overflow:hidden;width:100px;height:21px}#fb-recommend-list{width:292px;height:150px;overflow-y:scroll;overflow-x:hidden}#fb-recommend-list div{width:290px;height:600px}#fb-recommend-list iframe{border:none;overflow:hidden;width:280px;height:600px}div#premiumVideo-player-container div#videoHeader,div.tabModuleContainer.three-tabs-new div.feedMashup div.rssHeader h2{display:none}  /* Videogallery styles AE 11-28-2011 */ div.premiumVideo.module h2.headline {font-size:20px;} </p>
+<p> #gallery-slideshow #photo-information #pgCaption{font-size:14px;line-height:18px;margin-top:6px}#photo-information h3,div#photo-information h1{font-weight:700;font-size:16px}.gallery-slideshow-photo{width:auto;height:auto;max-width:630px}div.module.headlines.incase-box-new{background-image:url('http://www.latimes.com/media/photo/2011-05/61857325.png');background-repeat:no-repeat;margin-bottom:20px;width:334px;padding-top:45px;border-bottom:0 solid #ccc}div.module.headlines.incase-box-new div:first-child{border:1px solid #ccc}div.module.headlines.incase-box-new img.headlineThumb{width:150px !important;height:84px !important}div.module.headlines.incase-box-new div.headlineItem.rightHeadlinePos.briefRight.lines{margin:0 10px 10px;padding-bottom:0;padding-top:10px;border-top:1px dotted #ccc;border-bottom:0}#topRightNarrow div.titleContainer+div.headlineItem.rightHeadlinePos.briefRight.lines,#rail div.titleContainer+div.headlineItem.rightHeadlinePos.briefRight.lines{border-top:none;padding-top:0}div.module.headlines.incase-box-new div.headlineItem.rightHeadlinePos.briefRight.lines:first-child{border:none}#rail #stockquotes div.module{border:2px solid #BCB9B9;padding:6px}#stockquotes #markets #datetime{width:307px;font-style:italic;font-size:11px;padding-bottom:4px}#stockquotes #markets #spx,#stockquotes #markets #comp,#stockquotes #markets #indu{width:305px}#stockquotes #markets #spx .negChange,#stockquotes #markets #spx .posChange,#stockquotes #markets #spx .company+.last,#stockquotes #markets #comp .negChange,#stockquotes #markets #comp .posChange,#stockquotes #markets #comp .company+.last,#stockquotes #markets #indu .negChange,#stockquotes #markets #indu .posChange,#stockquotes #markets #indu .company+.last{font-size:13px;font-weight:700}#rail #stockquotes #quote,.narrow #stockquotes #quote{width:304px;background-color:#fff;border:0}#rail #stockquotes .company,.narrow #stockquotes .company{font-size:13px}#rail #stockquotes #quote-label,.narrow #stockquotes #quote-label,#gallery-slideshow #photo-information{font-size:12px}#stockquotes{border:2px solid #ddd;padding-left:6px;padding-right:6px;text-align:center;padding-top:10px}#rail #stockquotes #quote-input,.narrow #stockquotes #quote-input{width:209px}#rail #stockquotes #quote,.narrow #stockquotes #quote{padding:5px 5px 5px 10px;text-align:left}#stockquotes #quote form{width:304px;padding-left:0}#stockquotes #quote-submit{zoom:1;vertical-align:middle}.feed-module-special{margin-top:10px;padding:8px;width:180px !important}#feed-top{background-color:#fff;position:relative;bottom:14px;right:14px;z-index:100;padding-bottom:8px}#feed-hed{font-size:20px}#feed-sub{font-size:12px;font-style:italic;position:relative;left:10px;text-transform:none}.classifiedAdRail.defaultHeadlines .headlineItem,#headlineContainer,.classifiedAdRail #headlineContainer .mainHeadline,.classifiedAdRail.mainSlideDetailsContents,.classifiedAdRail#leadcontent-bigstory{padding-right:10px}.classifiedAdRail .aboveHeadlinePos{margin-left:10px;padding-bottom:0;margin-bottom:0}.classifiedAdRail img.headlineThumb{padding-bottom:6px;padding-left:6px}.classifiedAdRail .titleContainer .title{border-bottom:0 solid #DDD;border-top:0 solid #000;background-color:#efefef;margin:1px;padding:0 !important 10px 0 6px}.classifiedAdRail .titleContainer .title .header{position:relative;top:-6px}.classifiedAdRail .sectionlink-head{margin-top:6px;margin-bottom:6px;margin-left:11px}.classifiedAdRail{border:1px solid #ddd}.classifiedAdRail .headlineTable{margin-right:6px;padding-left:6px;padding-right:6px}.rr_promo-box{padding:10px;margin-bottom:15px !important;border:2px solid #ddd !important}.rr_promo-header{font-size:24px;margin-bottom:5px}.rr_promo-text{margin-top:10px}.rr_promo-span{width:312px;height:105px}.rr_promo-lft{width:187px;height:105px;float:left;margin-right:10px}.rr_promo-rt{width:187px;height:105px;float:right;margin-left:10px}.more-sports,.module more-sports{margin-top:2px;margin-bottom:2px;border-top:2px double #000;border-bottom:2px solid #000;padding-left:5px;padding-bottom:8px}#promoheader h2{font-size:24px;margin-bottom:7px;margin-top:2px}.more-sports #textarea{padding-bottom:0;font-size:16px}.more-sports #textarea input{font-size:10px;padding:3px 2px 2px}blockquote.quote{font-size:24px;width:245px;float:left;padding:20px 20px 20px 25px;margin:10px 10px 10px 0;border-top:3px solid #000;border-bottom:3px solid #000;background:url(http://www.latimes.com/media/graphic/2011-07/63504926.png) no-repeat 0 22px;line-height:1.3em}blockquote.no-quote{font-size:24px;width:245px;float:left;padding:20px;margin:10px 10px 10px 0;border-top:3px solid #000;border-bottom:3px solid #000;line-height:1.3em}div#message-guidelines a {color:#2262cc;}  /* Make vertical photos clickable AE 12-12-2011 */ div.article div#story-body div.thumbnail {position:relative; z-index:1000;} </p>
+<p> jQuery('ul.classBarNavLink').prepend('<li id="tooltipPlace"><a class="toolTip" rel="Follow us on Facebook. Click Like, and we&#39;ll send top stories and features to your News Feed."><iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Flatimes&amp;layout=button_count&amp;show_faces=false&amp;width=100&amp;action=like&amp;font&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px; z-index: 2137483604;  position: relative; top: -4px; left: -10px; margin-bottom: -6px;" allowTransparency="true"></iframe></a></li>')  function mouseoverActiontooltip(event) { jQuery(".toolTip").before("<p id='toolTip'>"+ this.rel + "</p>"); jQuery("#toolTip").css("z-index", "2137483608"); jQuery("#toolTip").css("_margin-left", "-60px"); jQuery("#toolTip").css("margin-left", "-10px"); jQuery("#toolTip").css("margin-top", "21px"); }  function mouseoutActiontooltip(event) { jQuery("#toolTip").remove(); }  jQuery('.toolTip').bind('mouseover', mouseoverActiontooltip); jQuery('.toolTip').bind('mouseout', mouseoutActiontooltip);  jQuery(document).ready(function(){ 	// grab the headline of the first related item 	var testHeadline = jQuery('li.newRelatedItem:first a').text(); 	// test to see if the headline begins with 'Photos:', linking to a photo gallery 	if (testHeadline.indexOf('Photos:') !== -1) { 		// if true, grab the link 		var galleryLink = jQuery('li.newRelatedItem:first a').attr('href');	 		jQuery('div.holder').append('<p class="photoLink small" style="margin-top:5px; float:right; text-align:right; max-width:300px;"><a style="color:#2262cc;" title="' + testHeadline + '" href="' + galleryLink + '"><img style="display:inline; padding-right:3px;"src="http://www.latimes.com/media/graphic/2011-12/163605140-10132617.gif" />Related photos &raquo;</a></p>') 		jQuery('div.holder img').wrap('<a href="' + galleryLink + '" title="' + testHeadline + '" />'); 	} }); </p>
+<p> Recommended on Facebook </p>
+<p> Advertisement </p>
+<p> Favorite Twinkie moments on screen </p>
+<p> generateDate('', '', 'Updated', ''); </p>
+<p> Bryant scores 40 as Lakers top Jazz </p>
+<p> | </p>
+<p> Photos </p>
+<p> Video: </p>
+<p> Deputy strikes woman on Metro bus </p>
+<p> Daum: </p>
+<p> Santorum and the power of zealots </p>
+<p> $85 for Mini-Pinwheel Sandwich Platter + 48 Mini-Cupcake Tray (reg. $140) </p>
+<p> Most Viewed </p>
+<p> Most Emailed </p>
+<p> Latest News </p>
+<p> Clippers rise to the occasion in big win over Heat </p>
+<p> 01/12/2012, 12:08 a.m. </p>
+<p> Clippers beat the Heat in overtime, 95-89 </p>
+<p> 01/11/2012, 11:52 p.m. </p>
+<p> Lakers go a long way to beat Jazz, 90-87, in overtime </p>
+<p> 01/11/2012, 11:36 p.m. </p>
+<p> USC, commission post term sheet for modified Coliseum lease </p>
+<p> 01/11/2012, 9:04 p.m. </p>
+<p> Oscar show may exit Hollywood </p>
+<p> 01/11/2012, 7:50 p.m. </p>
+<p> Foreclosures expected to rise, pushing home prices lower </p>
+<p> 01/11/2012, 4:00 p.m. </p>
+<p> FDA halts orange juice imports to test for pesticide </p>
+<p> 01/11/2012, 2:45 p.m. </p>
+<p> Twinkies maker Hostess files for bankruptcy </p>
+<p> 01/11/2012, 12:04 p.m. </p>
+<p> Marijuana lung findings unlikely to change minds </p>
+<p> 01/11/2012, 10:30 a.m. </p>
+<p> Mogul is interested in owning Dodgers </p>
+<p> 01/10/2012, 10:56 p.m. </p>
+<p> Your commute: Live L.A. traffic conditions </p>
+<p> - L.A. Now </p>
+<p> 01/12/2012, 6:30 a.m. </p>
+<p> If you like Vegas, think Valentine's Day at the Mandarin </p>
+<p> - latimes.com - Travel </p>
+<p> 01/12/2012, 6:00 a.m. </p>
+<p> Tim Tebow inspires new version of 'St. Elmo's Fire' theme </p>
+<p> - The Fabulous Forum </p>
+<p> 01/12/2012, 6:00 a.m. </p>
+<p> Golden Gate Bridge Festival and more mark landmark's 75th year </p>
+<p> - latimes.com - Travel </p>
+<p> 01/12/2012, 5:30 a.m. </p>
+<p> Daughter talks about father slain in O.C. stabbings of homeless men </p>
+<p> - L.A. Now </p>
+<p> 01/12/2012, 5:30 a.m. </p>
+<p> h2.videoTitle {padding: 5px 0px 4px 0px; border-bottom:1px solid #DDDDDD; border-top:3px solid #000000; font-size:24px; margin-bottom:10px;} </p>
+<p> Videos </p>
+<p> Eliza Dushku can't live with out her Blackberry or Bug Vac Zapper. </p>
+<p> Eliza Dushku Entertainment Matters Ambassador cant live with out her Blackberry </p>
+<p> ... </p>
+<p> Eliza Dushku Entertainment Matters Ambassador cant live with out her Blackberry or Bug Vac Zapper. </p>
+<p> Expand </p>
+<p> Share Video: </p>
+<p> trblib.fn.plugins.register('bcvideo');     trblib.fn.plugins.register('player_configs');     trblib.fn.plugins.register('companionad');      window.currentMarket = "lanews";      function onTemplateLoaded(item_id) {       var id_number = item_id.replace("premiumVideo", "");       createNewVideoContainer(id_number, "lanews", "www.latimes.com");       jQuery(document).trigger( 'videoTemplateLoaded', { id: item_id });     }; </p>
+<p> div.link { font-size: 16px; padding-left: 10px; } </p>
+<p> About the Writers </p>
+<p> Eryn Brown </p>
+<p> Melissa Healy </p>
+<p> Karen Kaplan </p>
+<p> Amina Khan </p>
+<p> Rosie Mestel </p>
+<p> Shari Roan </p>
+<p> Jeannine Stein </p>
+<p> Southern California Moments » </p>
+<p> Share your photos of the Southland. Above, last year's Santa Claus parade in Hollywood. </p>
+<p> Photos: </p>
+<p> Midseason TV </p>
+<p> Watching the sun rise with 504 Buddhas in Indonesia </p>
+<p> Occasional marijuana use doesn't harm lungs </p>
+<p> Photos: </p>
+<p> Home Design Inspiration: Living room </p>
+<p> Amish journey from homespun to hipster </p>
+<p> More spotlights... </p>
+<p> Corrections </p>
+<p> Horoscopes </p>
+<p> Media Kit </p>
+<p> About Us </p>
+<p> Contact Us </p>
+<p> Site Map </p>
+<p> Burbank Leader </p>
+<p> Coastline Pilot </p>
+<p> Daily Pilot </p>
+<p> Huntington Beach Independent </p>
+<p> News Press </p>
+<p> Pasadena Sun </p>
+<p> Valley Sun </p>
+<p> KTLA </p>
+<p> Hoy </p>
+<p> Los Angeles Times Magazine </p>
+<p> Baltimore Sun </p>
+<p> Chicago Tribune </p>
+<p> Daily Press </p>
+<p> Hartford Courant </p>
+<p> Los Angeles Times </p>
+<p> Orlando Sentinel </p>
+<p> Sun Sentinel </p>
+<p> The Morning Call </p>
+<p> Terms of Service </p>
+<p> | </p>
+<p> Privacy Policy </p>
+<p> | </p>
+<p> About Our Ads </p>
+<p> | Los Angeles Times, 202 West 1st Street, Los Angeles, California, 90012 | Copyright 2012 </p>
+<p> A Tribune Newspaper website </p>
+<p> <!-- var corecookie = readCookie('ti_core'); if (corecookie) { 	var infocookie = readCookie('ti_info'); 	if (infocookie) 	{ 		if (cookieEncode(corecookie.substring(1,150)) == readCvalue(infocookie,"tisk")) 		{ 			var name = cookieDecode(readCvalue(infocookie,"uin")); 			document.writeln("<span>Hello</span>"); 			      		    document.writeln("<a href='/services/site/registration/' rel='nofollow'>"+ name +"</a>");      			 			 		    document.writeln("|");       			 			           			document.writeln("<a href='/services/site/registration/logout.register' rel='nofollow'>LOG OUT</a>");      			      		} else { 			document.write('<scr'+'ipt type="text/javascript" src="include-member.javascript"></scr'+'ipt>'); 		} 	} else {     	document.write('<scr'+'ipt type="text/javascript" src="include-member.javascript"></scr'+'ipt>'); 	} } else {    document.writeln("<span id='helloVisitor'>Hello Visitor</span>");           document.writeln("<a id='loginAnchor' href='/services/site/registration/show-login.register' rel='nofollow'>LOGIN</a>");              document.writeln("<span id='loginSeparator'> OR </span>");               document.writeln("<a id='registerAnchor' href='/services/site/registration/show-createprofile.register' rel='nofollow'>REGISTER</a>");       if (readCookie('ti_info'))   eraseCookie("ti_info"); } // --> </p>
+<p> document.getElementById('memberLoginInfo').innerHTML=document.getElementById('memberLoginInfoSwap').innerHTML; </p>
+<p> var s_account = "tribglobal"; </p>
+<p> s.pageName="Homicide no longer a leading cause of death - Latimes.com / health / boostershots - story.";  				 				s.prop38="story"; 				s.eVar21="story";  				  			 		 		 		 		  	s.server="latimes.com";  	  s.channel="Latimes.com:health"; s.prop3=""; if(!!window.carnival){ 	carnival_username_c_unm = readCookie('c_unm'); 	carnival_masterid_c_mid = carnival.metrics.getMetricsId(); 	if(carnival_username_c_unm!=null && carnival_masterid_c_mid){ 		s.prop28 = carnival_masterid_c_mid; 	} } if(s.prop28==null){ 	s.prop28 = ""; }	 s.prop32="";   s.prop36="Page ";   	s.prop37="Photo ";   /* Taxonomy Variables */ s.prop46="Health / ParkinsonsDisease";  /* E-commerce Variables */ s.events="";   s.eVar20="Latimes.com";  	s.hier1="Latimes.com:health:boostershots";  		s.hier2="health:boostershots"; 		s.hier4="health:boostershots"; 	 	              s.eVar42="By Shari Roan, Los Angeles Times / For the Booster Shots blog"; 	s.prop44="la-heb-death-rates-homicide-20120111";   //AD Block Detection //Description: 	Check if any IMG, IFRAME, or SCRIPT elements are ad blocked (set to not display). //		Also check for the occurance of any Norton installed code to block popups or ads ( ie.)SymError ). //		Only need to find 1 occurrance of any of the above to confirm ad blocking is used.  //		No need to continue searching through other portions of the page.  var imgArray = document.images; var iframeArray = document.getElementsByTagName("iframe"); var scriptArray = document.getElementsByTagName("script"); var isAdBlocked = 0;   if(window.SymError || window.SymWinOpen || window.SymRealWinOpen) { 	isAdBlocked=1; } if (!isAdBlocked) { 	for (var i=0; i<imgArray.length; i++) 	{ 		if(imgArray[i].style.display == 'none') 		{ 			isAdBlocked=1; 			break; 		} 	} }  if (!isAdBlocked) { 	for (var j=0; j<iframeArray.length; j++) 	{ 		if (iframeArray[j].style.display == 'none') 		{ 			isAdBlocked=1; 			break; 		} 	} }  if (!isAdBlocked) { 	for (var j=0; j<scriptArray.length; j++) 	{ 		if (scriptArray[j].style.display == 'none') 		{ 			isAdBlocked=1; 			break; 		} 	} }  if(isAdBlocked) { 	s.prop50="ad blocking"; }        /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/ var s_code=s.t();if(s_code)document.write(s_code)  --> </p>
+<p> <!-- if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-') //--> </p>
+<p> DM_addEncToLoc("Site", (s.server)); DM_addEncToLoc("channel", (s.channel)); DM_addEncToLoc("keyword", (s.prop3)); DM_cat(s.hier1); DM_tag(); </p>
+<p> (function() {  	   var old = s.ot;  	   s.ot = function(el) {  	       return el.tagUrn ? '' : old(el);  	   };  	})(); </p>
+<p> (function () {     var d = new Image(1, 1);     d.onerror = d.onload = function () {       d.onerror = d.onload = null;     };     d.src = ["//secure-us.imrworldwide.com/cgi-bin/m?ci=us-400338h&cg=0&cc=1&si=", escape(window.location.href), "&rp=", escape(document.referrer), "&ts=compact&rnd=", (new Date()).getTime()].join('');   })(); </p>
+<p> var _sf_async_config={uid:3908,domain:"latimes.com"}; (function(){ function loadChartbeat() { window._sf_endpt=(new Date()).getTime(); var e = document.createElement('script'); e.setAttribute('language', 'javascript'); e.setAttribute('type', 'text/javascript'); e.setAttribute('src', (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") + "static.chartbeat.com/js/chartbeat.js"); document.body.appendChild(e); } var oldonload = window.onload; window.onload = (typeof window.onload != 'function') ? loadChartbeat : function() { oldonload(); loadChartbeat(); }; })(); </p>

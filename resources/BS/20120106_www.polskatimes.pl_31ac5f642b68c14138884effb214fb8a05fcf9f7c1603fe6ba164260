@@ -1,0 +1,612 @@
+<p> Angina paciorkowcowa - atakuje dzieci - Polskatimes.pl </p>
+<p> function GR() { return; }; var oG_OSA = {'serwis':'polskatimes','sUrl':'http://s.polskatimes.pl','adOceanEmiter':'s1.gratkapl.adocean.pl', 'iframeReklama':'http://gratka.pl/reklama/', 'vat':{"stawka":0.23,"procent":23,"brutto":1.23} , trybReklamy: 'new', tracking: []}; </p>
+<p> if(GR&&!GR.DOM){jQuery=jQuery.noConflict(true);} </p>
+<p> <!--//--><![CDATA[//><!--       var pp_gemius_identifier = 'zChKsbBsj3YmWzHVmlNks7R5nO5yDQv5lds5e6T75Bz.R7';     //--><!]]> </p>
+<p> GR('oTrackGettracker', {prefix: '', account: 'UA-2770843-1', domain: '.polskatimes.pl'});           GR('oTrackGettracker', {prefix: 'b', account: 'UA-2770843-19', domain: '.polskatimes.pl'}); </p>
+<p> jQuery(function() {     jQuery("img.lazy").appear(function(){}); // hac     jQuery("img.lazy").removeClass('lazy').lazyload({       effect:"fadeIn",       threshold : 10,       failure_limit : 10     });     // inicjalizacja obsługi boksów asynchronicznych     GR('o_async_inicjalizuj', '/artykul/', '491773,angina-paciorkowcowa-atakuje-dzieci,id,t', 'html');   }); </p>
+<p> var adMiejsce = {"billboard":"adoceangratkaplladjgvehcl","pasek_520x30":"adoceangratkaplwmopojdtxk","halfpage_300x600":"adoceangratkaplscimqmsuvw","footer":"adoceangratkaplvlcrknjhfl","toplayer":"adoceangratkaplqojtkmnsae","button_300xN1":"adoceangratkaplpjplgrkpnd","button_300xN2":"adoceangratkaplmkgsjoeuiy","button_300xN3":"adoceangratkapltmlfewrrwn","button_300xN4":"adoceangratkaplqncmhtlgbm","intertext":"adoceangratkaplwenijxline","reklama_srodtext":"adoceangratkaplmachjvegcu","textlink_1":"adoceangratkaplybqmcmrpoa","textlink_2":"adoceangratkaplvchtfjlujv","textlink_3":"adoceangratkaplsdojjwejdu","textlink_4":"adoceangratkaplpefqmtonnp","textlink_5":"adoceangratkaplmfmgqqisik","textlink_6":"adoceangratkaplzfdndosgcj","rectangle_300x250":"adoceangratkaplrohhmkjgxb","pasek_770x126":"adoceangratkaplwoklkokpve","pasek_ecommerce":"adoceangratkapltprrnleufz","pasek_expand":"adoceangratkaplnlqfpthstj","textlink_7":"adoceangratkaploalrgletxo","textlink_8":"adoceangratkapllbcikiohcn","textlink_9":"adoceangratkaplybjonvhmqi","textlink_wiadomosci":"adoceangratkapltjjiivsqxd","billboard_mobile":"37512/256052/15648","richmedia_mobile":"37512/256052/15649","saxobank":"adoceangratkaplrbmgfrgmrl"}; </p>
+<p> GR('wywolajReklamy', 1, {"keys":["artykul,ros,pt,material,zdrowie,leksykon_chorob"],"vars":[],"minSzerokosc":960,"kodMaster":"onKnsLbclxgrpXZJrBtOJPDinC1HCzArw9DcrdVUDNr.E7"}); </p>
+<p> GR('inicjalizujSmartAdserver'); </p>
+<p> var pianoVariables = {   service_id: '213',   mode: 'bar_normal',   open_capping: 1,   method_verify: true };  var pianoHostProtocol = (("https:" == document.location.protocol) ? "https://" : "http://"); (function() {   var s = document.createElement('script');   s.type = 'text/javascript';   s.async = true;   s.src = pianoHostProtocol + 'pl.bar.pianomedia.eu/bar.js';   var p = document.getElementsByTagName('script')[0]; p.parentNode.insertBefore(s, p); })(); </p>
+<p> iPhone/iPad </p>
+<p> Android </p>
+<p> Program TV </p>
+<p> E-wydania </p>
+<p> Forum </p>
+<p> RSS </p>
+<p> Zaloguj </p>
+<p> przez Facebook </p>
+<p> GR('wstawReklameSmartAdserver', 'billboard_mobile', '#ad-billboard-mobile'); </p>
+<p> GR("wstawReklame", {nazwa: "billboard", rodzic: '#ad-billboard', cssClass: "marginGD", szerokosc: 960}); </p>
+<p> Menu </p>
+<p> Region </p>
+<p> Dziennik Bałtycki </p>
+<p> Dziennik Łódzki </p>
+<p> Dziennik Zachodni </p>
+<p> Gazeta Krakowska </p>
+<p> Gazeta Wrocławska </p>
+<p> Głos Wielkopolski </p>
+<p> Kurier Lubelski </p>
+<p> Białystok </p>
+<p> Kielce </p>
+<p> Koszalin </p>
+<p> Kujawy </p>
+<p> Lubuskie </p>
+<p> Mazowsze </p>
+<p> Olsztyn </p>
+<p> Opole </p>
+<p> Rzeszów </p>
+<p> Szczecin </p>
+<p> Warszawa </p>
+<p> Wybierz Twój dziennik </p>
+<p> Dziennik Bałtycki </p>
+<p> Dziennik Łódzki </p>
+<p> Dziennik Zachodni </p>
+<p> Gazeta Krakowska </p>
+<p> Gazeta Wrocławska </p>
+<p> Głos Wielkopolski </p>
+<p> Kurier Lubelski </p>
+<p> Białystok </p>
+<p> Kielce </p>
+<p> Koszalin </p>
+<p> Kujawy </p>
+<p> Lubuskie </p>
+<p> Mazowsze </p>
+<p> Olsztyn </p>
+<p> Opole </p>
+<p> Rzeszów </p>
+<p> Szczecin </p>
+<p> Warszawa </p>
+<p> (function() {   	  	function wstaw_lajka() {     	    szerokosc_okna = jQuery(window).width();     	    if (szerokosc_okna >= 480) {     	        jQuery('.like').append('<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2FPolskatimes&amp;layout=button_count&amp;show_faces=false&amp;width=150&amp;action=like&amp;colorscheme=light&amp;height=22" style="border: none; overflow: hidden; width: 150px; height: 22px" scrolling="no" frameborder="0" allowTransparency="true"></iframe>');     	      	return true;     	    }     	    return false;   	  	}         var resizeTimeout;         var czy_wstawic_lajka = true;          if (!wstaw_lajka()) {             jQuery(window).resize(function() {                 clearTimeout(resizeTimeout);                 resizeTimeout = setTimeout(function() {                     if (czy_wstawic_lajka) {                         czy_wstawic_lajka = !wstaw_lajka();                     }                 }, 200);             });         }   	})();          FB.init({         appId: '263165880441313',         cookie: true,         xfbml: true,         oauth: true     });     oG_OSA['facebookZainicjalizowany'] = true;     GR('pFacebookInitlogin', 'facebook-zaloguj-naglowek');            GR("wstawReklame", {nazwa: "toplayer", cssClass: "adTopLayer", rodzic: '#ad-toplayer', szerokosc: 970, mierzOkno: true});          jQuery('#wybierz-region').change(function () {         window.location.href = this.options[this.selectedIndex].value;     });          (function(tr){         tr.push({elements: [$('naglowek-link-logo')], href: '/naglowek/logo'});         tr.push({elements: [$('naglowek-link-gryonline')], href: '/naglowek/gryonline'});         tr.push({elements: [$('naglowek-link-forum')], href: '/naglowek/forum'});         tr.push({elements: [$('naglowek-link-programtv')], href: '/naglowek/programtv'});         tr.push({elements: [$('naglowek-link-ewydania')], href: '/naglowek/ewydania'});         tr.push({elements: [$('naglowek-link-rss')], href: '/naglowek/rss'});         tr.push({elements: [$('naglowek-link-ios')], href: '/naglowek/ios'});         tr.push({elements: [$('naglowek-link-android')], href: '/naglowek/android'});         tr.push({elements: [$('naglowek-link-mobilna')], href: '/naglowek/mobilna'});         tr.push({elements: [$('naglowek-link-extra')], href: '/naglowek/mobilna'});         tr.push({elements: [$('naglowek-link-login')], href: '/naglowek/wyloguj'});         tr.push({elements: [$('wyszukiwarka-szukaj-przycisk')], href: '/wyszukiwarka/szukaj'});     })(oG_OSA.tracking);          jQuery('.wybierzRegion').click(function() {       jQuery('#dzienniki-s-lista').toggle();       return false; }); </p>
+<p> Fakty </p>
+<p> Opinie </p>
+<p> Sport </p>
+<p> Pieniądze </p>
+<p> Zdrowie </p>
+<p> Kultura </p>
+<p> Historia </p>
+<p> Edukacja </p>
+<p> Dodatki </p>
+<p> Magazyny </p>
+<p> Akcje </p>
+<p> Te materiały są płatne. Uzyskaj dostęp do wielu wartościowych treści - </p>
+<p> zarejestruj się już dziś </p>
+<p> w systemie Piano. </p>
+<p> Kosecki: Nie ma powodu, aby zwalniać Fornalika. Wciąż mamy szanse awansu na mundial </p>
+<p> - Mój syn uważa, że może być lepszy niż ja. Powiedziałem mu, że jak zakończy karierę, to sobie usiądziemy przy kawce albo czymś mocniejszym i porównamy sukcesy tatusia i synusia. Z Romanem... </p>
+<p> Żurawski vel Grajewski: Kwestia Jamału II pokazuje konfuzję polskiego rządu </p>
+<p> Rozmowa z dr. Przemysławem Żurawskim vel Grajewskim, politologiem z Uniwersytetu Łódzkiego. </p>
+<p> Zobacz także: </p>
+<p> Kontrowersje wokół abp Sławoja Leszka Głódzia. OPINIE nt. oświadczenia metropolity gdańskiego </p>
+<p> Głos na puszczy? </p>
+<p> Płk Łukaszewicz: Bezpośrednie przyczyny tej tragedii zostały wyjaśnione już dawno temu </p>
+<p> Czyja jest Anna German? Polsko-ruska awantura o Anię </p>
+<p> Budniok: Dlaczego Śląsk nie może być autonomiczny? Nie wracajmy do przeszłości </p>
+<p> Astronom amator ze Zgierza odkrył planetę poza naszym Układem Słonecznym </p>
+<p> Michał Fajbusiewicz wraca do telewizji z "Magazynem Kryminalnym 997" </p>
+<p> Fakty </p>
+<p> Zobacz wszystkie artykuły w kategorii </p>
+<p> Fakty </p>
+<p> Kraj </p>
+<p> Polityka </p>
+<p> Świat </p>
+<p> Wybory parlamentarne </p>
+<p> Katastrofa smoleńska </p>
+<p> Trzecia rocznica katastrofy smoleńskiej: Tusk o świcie złożył kwiaty na Powązkach [ZDJĘCIA] </p>
+<p> Od rana trwają obchody trzeciej rocznicy katastrofy smoleńskiej. Przed godziną 6 premier Donald Tusk złożył kwiaty i zapalił znicz przed pomnikiem na Cmentarzu Wojskowym na warszawskich Powązkach.... </p>
+<p> Pomnik Jana Pawła II w Częstochowie jeszcze nie został postawiony. Przez pogodę [ZDJĘCIA] </p>
+<p> Dzisiaj powinna zostać ustawiona statua Jana Pawła II w częstochowskim Parku Miniatur. Wczoraj połączenie wszystkich elementów było niemożliwe ze względu na pogodę. Niska temperatura powodowała, że... </p>
+<p> Zobacz także: </p>
+<p> Dlaczego papież Franciszek nie mówi w językach obcych?... </p>
+<p> Wypadek pod Sobótką. Pasażer nie żyje, kierowca w ciężkim... </p>
+<p> Korea Północna planuje wystrzelenie rakiet z dwóch... </p>
+<p> Specjaliści od nazw ulic: Nie ma zgody na Bulwar... </p>
+<p> Najczęściej komentowane: </p>
+<p> Wypadek pod Sobótką. Pasażer nie żyje, kierowca... </p>
+<p> 290 </p>
+<p> Będzie bulwar Kaczyńskich. Tak Wrocław... </p>
+<p> 176 </p>
+<p> Racięcin: Wielka pomoc dla rodziny, która... </p>
+<p> 1 </p>
+<p> Opinie </p>
+<p> Zobacz wszystkie artykuły w kategorii </p>
+<p> Opinie </p>
+<p> Komentarze </p>
+<p> Felietony </p>
+<p> Wywiady </p>
+<p> Polityczny konfesjonał </p>
+<p> Forum Autorów </p>
+<p> Autorski przegląd prasy </p>
+<p> Macierewicz: Tusk celowo i z premedytacją oddał smoleńskie śledztwo Rosji </p>
+<p> - Rosjanie propagowali na całym świecie tezę, że to był zamach; puszczali film, który pokazywał, że samolot został zdmuchnięty wybuchem. Prezydent Miedwiediew pisze, że chce podejmować wspólne... </p>
+<p> Nie będzie już prawdy o Smoleńsku </p>
+<p> Czas to sobie w końcu powiedzieć. Nie będzie żadnej smoleńskiej zgody, żadnego smoleńskiego consensusu. Ani w imię ofiar, ani w imię państwa nie nastąpi już w Polsce żadne ponad-polityczne czy... </p>
+<p> Zobacz także: </p>
+<p> Przegląd prasy, 9 kwietnia: Śmierć Margaret Thatcher,... </p>
+<p> Margaret Thatcher nie żyje. Janusz Steinhoff ocenia jej... </p>
+<p> Miller: PiS robi wszystko, by Lecha Kaczyńskiego... </p>
+<p> Kosecki: Nie ma powodu, aby zwalniać Fornalika. Wciąż... </p>
+<p> Najczęściej komentowane: </p>
+<p> Budniok: Dlaczego Śląsk nie może być... </p>
+<p> 77 </p>
+<p> Płk Łukaszewicz: Bezpośrednie przyczyny tej... </p>
+<p> 67 </p>
+<p> Sport </p>
+<p> Zobacz wszystkie artykuły w kategorii </p>
+<p> Sport </p>
+<p> Piłka nożna </p>
+<p> Tenis </p>
+<p> Lekkoatletyka </p>
+<p> Siatkówka </p>
+<p> Koszykówka </p>
+<p> Boks </p>
+<p> Formuła 1 </p>
+<p> Skoki narciarskie </p>
+<p> Igrzyska olimpijskie 2012 </p>
+<p> Euro 2012 </p>
+<p> BTL Tenis </p>
+<p> T-Mobile Ekstraklasa </p>
+<p> Ćwierćfinały Ligi Mistrzów: Galatasaray Stambuł - Real Madryt 3:2 [ZDJĘCIA] </p>
+<p> W drugiej wtorkowej parze wydawało się, że emocje skończyły się już po pierwszym meczu w Madrycie, zakończonym zwycięstwem Realu nad Galatasaray Stambuł 3:0. Na dodatek już w siódmej minucie... </p>
+<p> Nie żyje Antoni Juroszek, 15-letni skoczek i kombinator norweski z Istebnej [PRZYCZYNY] </p>
+<p> W niedzielę zmarł 15-letni Antoni Juroszek, zawodnik Klubu Sportowego Wisła Ustronianka trenujący skoki narciarskie i kombinację norweską, uczeń trzeciej klasy gimnazjum SMS w Szczyrku. POZNAJ... </p>
+<p> Zobacz także: </p>
+<p> Ruch remisuje z Legią w półfinale Pucharu Polski.... </p>
+<p> Drogba chce wrócić do wielkiej gry: Setki razy mówili, że... </p>
+<p> "Mam nadzieję, że połamią ci nogi": Borussia... </p>
+<p> Wisła wynosi się do Katowic. Miastu zostanie pusty stadion? </p>
+<p> Najczęściej komentowane: </p>
+<p> Wisła wynosi się do Katowic. Miastu zostanie... </p>
+<p> 105 </p>
+<p> Anatomia upadku ŁKS. Tak umierał zasłużony klub </p>
+<p> 44 </p>
+<p> Kosecki: Nie ma powodu, aby zwalniać Fornalika.... </p>
+<p> 7 </p>
+<p> Pieniądze </p>
+<p> Zobacz wszystkie artykuły w kategorii </p>
+<p> Pieniądze </p>
+<p> Twoje finanse </p>
+<p> Eurokalejdoskop </p>
+<p> Twój portfel </p>
+<p> Gospodarka </p>
+<p> Technologia </p>
+<p> Internet </p>
+<p> Nieruchomości </p>
+<p> Motoryzacja </p>
+<p> Jarosław Zagórowski prezesem JSW. Trzeci raz </p>
+<p> Jarosław Zagórowski został po raz trzeci prezesem zarządu Jastrzębskiej Spółki Węglowej SA. Wyboru dokonała dziś rada nadzorcza przedsiębiorstwa. Przeczytaj nasz wywiad z Jarosławem Zagórowskim. </p>
+<p> Wiosna spóźniona, ale bezrobocie spada. Po raz pierwszy od ośmiu miesięcy </p>
+<p> Pierwsza od ośmiu miesięcy dobra informacja z rynku pracy: stopa bezrobocia przestała rosnąć. W marcu spadła do 14,3 proc. z 14,4 proc. w lutym - wynika z najnowszych szacunków powiatowych urzędów... </p>
+<p> Zobacz także: </p>
+<p> Citroen Berlingo 1.6 HDI XTR - wrażenia z jazdy </p>
+<p> Syrena Sport w nowej odsłonie </p>
+<p> BMW M6 Gran Coupe Safety Car zadebiutuje w Katarze </p>
+<p> Renault Twin-Z - zapowiedź nowego Twingo? </p>
+<p> Najczęściej komentowane: </p>
+<p> Francuski gigant zainwestuje w Niepołomicach,... </p>
+<p> 7 </p>
+<p> Wiosna spóźniona, ale bezrobocie spada. Po raz... </p>
+<p> 4 </p>
+<p> Zdrowie </p>
+<p> Zobacz wszystkie artykuły w kategorii </p>
+<p> Zdrowie </p>
+<p> Badania laboratoryjne </p>
+<p> Leksykon chorób </p>
+<p> Szczepienia </p>
+<p> Prawa pacjenta </p>
+<p> Sanatoria </p>
+<p> Pierwsza pomoc </p>
+<p> Leki bez recepty </p>
+<p> Suplementy diety </p>
+<p> Zdrowe odżywianie </p>
+<p> Osoby starsze i niepełnosprawne - opieka </p>
+<p> Światowy Dzień Autyzmu: Poczuj to, co czują chorzy na autyzm [DOŚWIADCZENIE CUBE] </p>
+<p> Wyobraźmy sobie taki świat, w którym wszystko przysypane jest śniegiem. Żeby z jednego domu dojść do drugiego, trzeba łopatą przerąbać tunel. Żeby uzyskać kontakt z autystycznym dzieckiem, trzeba... </p>
+<p> Grypa w święta też daje się we znaki. Ile kosztuje chorowanie i jak się bronić? </p>
+<p> Specjaliści szacują, że tegoroczne koszty grypy w Polsce sięgną 5 miliardów złotych. Badania przeprowadziła firma Ernst & Young. Według jej ekspertów, koszty bezpośrednie grypy w Polsce wynoszą... </p>
+<p> Zobacz także: </p>
+<p> Dwa jaja dziennie - to minimum każdego obywatela </p>
+<p> Kobiety też chorują na zawał serca. Tego nie można... </p>
+<p> 70 kg mniej, rozstępy i obwisła skóra: Brutalnie szczery... </p>
+<p> Europę nawiedziła "grypa żołądkowa". Czym tak... </p>
+<p> Kultura </p>
+<p> Zobacz wszystkie artykuły w kategorii </p>
+<p> Kultura </p>
+<p> Film </p>
+<p> Teatr </p>
+<p> Książki </p>
+<p> Muzyka </p>
+<p> Wystawy </p>
+<p> Brad Pitt jako Poncjusz Piłat? W Hollywood szykuje się wysyp filmów opartych na Biblii </p>
+<p> Hollywoodzcy producenci pełnymi garściami czerpią z historii opisanych w Biblii. Aby przyciągnąć widza, często tworzą obrazy, które chrześcijanie uznają za obrazoburcze i obraźliwe - John Harlow. </p>
+<p> Jerzy "Duduś" Matuszkiewicz kończy 85 lat [FILM] </p>
+<p> Jedna z najważniejszych osobistości polskiej sceny jazzowej, saksofonista Jerzy "Duduś" Matuszkiewicz kończy 10 kwietnia 85 lat. Był współzałożycielem łódzkiej grupy jazzowej "Melomani", ważnym... </p>
+<p> Zobacz także: </p>
+<p> Zagrobelny symfonicznie. "Udało mi się uniknąć... </p>
+<p> "Przemilczana historia USA". Amerykańskie... </p>
+<p> Czyja jest Anna German? Polsko-ruska awantura o Anię </p>
+<p> MacKenzie Bezos. Pisarka, żona szefa Amazon.com i... </p>
+<p> Najczęściej komentowane: </p>
+<p> Czyja jest Anna German? Polsko-ruska awantura o... </p>
+<p> 6 </p>
+<p> Zagrobelny symfonicznie. "Udało mi się... </p>
+<p> 1 </p>
+<p> Historia </p>
+<p> Zobacz wszystkie artykuły w kategorii </p>
+<p> Historia </p>
+<p> Spór o "Kamienie na szaniec". Wachowicz: Kamiński pomagał Żydom. Zośka i Rudy mieli dziewczyny </p>
+<p> - "Kamienie na szaniec" powinny pozostać w kanonie lektur szkolnych - pisze Barbara Wachowicz, autorka książek o Aleksandrze Kamińskim i Szarych Szeregach. Z tym samym apelem występują do... </p>
+<p> Czy UFO lądowało w Roswell? FBI: Sorry, nie sprawdzaliśmy </p>
+<p> FBI otrzymało w 1950 r. raport swego agenta o domniemanym lądowaniu UFO w stanie Nowy Meksyk. Uznało jednak historię za nieprawdopodobną i nie sprawdziło jej. </p>
+<p> Zobacz także: </p>
+<p> "Żydzi aktywnie uczestniczyli w mordowaniu swego... </p>
+<p> Szpilman policjantem w getcie? Bartoszewski: Gdyby tak... </p>
+<p> Clemmie czy Violet? Miłosne dylematy premiera Winstona... </p>
+<p> Sensacja! W Zagłębiu ukarano nie strajkujących, ale... </p>
+<p> Najczęściej komentowane: </p>
+<p> Szpilman policjantem w getcie? Bartoszewski:... </p>
+<p> 13 </p>
+<p> "Żydzi aktywnie uczestniczyli w mordowaniu... </p>
+<p> 13 </p>
+<p> Edukacja </p>
+<p> Zobacz wszystkie artykuły w kategorii </p>
+<p> Edukacja </p>
+<p> Sprawdzian szóstoklasisty 2013 z CKE [ARKUSZE, ODPOWIEDZI] </p>
+<p> Zobacz arkusze i przykładowe odpowiedzi do sprawdzianu szóstoklasisty, który uczniowie rozwiązywali 4 kwietnia 2013 r.  Test został przygotowany przez Centralną Komisję Edukacyjną. </p>
+<p> Sprawdzian szóstoklasisty 2013: Wiemy, jakie zadania rozwiązywali uczniowie! [ZDJĘCIA] </p>
+<p> Sprawdzian szóstoklasisty 2013. Uczniowie już po sprawdzianie. Musieli rozwiązać 26 zadań. Wychodząc z sali byli zadowoleni. </p>
+<p> Zobacz także: </p>
+<p> Uczniowie napiszą dziś sprawdzian szóstoklasisty 2013 </p>
+<p> Sprawdzian 2013: Szóstoklasisto, zobacz czy umiesz... </p>
+<p> Sprawdzian 2013. Szóstoklasisto, sprawdź swoje... </p>
+<p> Sprawdzian 2013. Szóstoklasisto, sprawdź, czy rozwiążesz... </p>
+<p> Dodatki </p>
+<p> Zobacz wszystkie artykuły w kategorii </p>
+<p> Dodatki </p>
+<p> Vademecum 50+ </p>
+<p> Magazyn The Times </p>
+<p> Rozmaitości </p>
+<p> Konkursy </p>
+<p> Związek partnerski siedmiu krasnoludków i inne przypadki. Kultura zweryfikowana płciowo [GALERIA] </p>
+<p> Dr Elżbieta Janicka z PAN, dla której młodzi bohaterowie "Kamieni na szaniec" tworzyli zalążki dzisiejszego ruchu LGBT, postawiła pierwszy krok na drodze wyświetlenia seksualnych narracji w... </p>
+<p> Kamilla Baar: Kamera zagląda do duszy. Żyję, kiedy gram [ZDJĘCIA] </p>
+<p> Kamilla Baar, aktorka z Tychów, laureatka Wiktora w kategorii Telewizyne Odkrycie Roku, mówi o życiu po Wiktorze i swoim aktorstwie. </p>
+<p> Zobacz także: </p>
+<p> Magda Gessler stanie przed sądem za Kuchenne rewolucje!... </p>
+<p> Jerzy "Duduś" Matuszkiewicz kończy 85 lat [FILM] </p>
+<p> Zagrobelny symfonicznie. "Udało mi się uniknąć... </p>
+<p> Czyja jest Anna German? Polsko-ruska awantura o Anię </p>
+<p> Najczęściej komentowane: </p>
+<p> Michał Fajbusiewicz wraca do telewizji z... </p>
+<p> 2 </p>
+<p> Te gadżety są wyłącznie dla kobiet (CENY, OPIS,... </p>
+<p> 2 </p>
+<p> Magazyny </p>
+<p> Zobacz wszystkie artykuły w kategorii </p>
+<p> Magazyny </p>
+<p> Magazyn POLSKI </p>
+<p> Magazyn THE TIMES </p>
+<p> Focus </p>
+<p> Forum </p>
+<p> Czy UFO lądowało w Roswell? FBI: Sorry, nie sprawdzaliśmy </p>
+<p> FBI otrzymało w 1950 r. raport swego agenta o domniemanym lądowaniu UFO w stanie Nowy Meksyk. Uznało jednak historię za nieprawdopodobną i nie sprawdziło jej. </p>
+<p> Kosecki: Nie ma powodu, aby zwalniać Fornalika. Wciąż mamy szanse awansu na mundial </p>
+<p> - Mój syn uważa, że może być lepszy niż ja. Powiedziałem mu, że jak zakończy karierę, to sobie usiądziemy przy kawce albo czymś mocniejszym i porównamy sukcesy tatusia i synusia. Z Romanem... </p>
+<p> Zobacz także: </p>
+<p> Kto trzyma pieniądze w rajach podatkowych: ICIJ ujawnia... </p>
+<p> "Przemilczana historia USA". Amerykańskie... </p>
+<p> Clemmie czy Violet? Miłosne dylematy premiera Winstona... </p>
+<p> Płk Łukaszewicz: Bezpośrednie przyczyny tej tragedii... </p>
+<p> Najczęściej komentowane: </p>
+<p> Płk Łukaszewicz: Bezpośrednie przyczyny tej... </p>
+<p> 67 </p>
+<p> Okrucieństwo, pijaństwo i pazerność. Jak... </p>
+<p> 8 </p>
+<p> Akcje </p>
+<p> Zobacz wszystkie artykuły w kategorii </p>
+<p> Akcje </p>
+<p> Zadbaj o swoją przyszłość </p>
+<p> Szkoła bez przemocy </p>
+<p> Ekologiczna Polska </p>
+<p> Korki we wtorki </p>
+<p> Forum Polska </p>
+<p> Patronaty </p>
+<p> Fiat Auto Poland w Tychach: Lawina zwolnień ruszyła </p>
+<p> Od środy 1060 pierwszych pracowników ma już wypowiedzenia w ręku. Zwalniają jak leci. Nie patrzą na żadne grudniowe ustalenia. Liczy się tylko ocena. Wypowiedzenia dostają też jedyni żywiciele rodzin. </p>
+<p> Afera Amber Gold: Jest zgoda na odwołanie szefowej prokuratury Gdańsk-Wrzeszcz </p>
+<p> Marzanna Majstrowicz straci stanowisko szefowej Prokuratury Rejonowej Gdańsk Wrzeszcz. Tłumaczenia przełożonej wrzeszczańskich śledczych nie przekonały członków Krajowej Rady Prokuratury. Ta... </p>
+<p> Zobacz także: </p>
+<p> Londyn 2012: Kszczot w półfinale w biegu na 800 m </p>
+<p> Wydawnictwo Polskapresse otrzymało World Young Reader Prize </p>
+<p> Konkurs na Wychowawcę Roku 2012: Sylwetki finalistów </p>
+<p> Konkurs na Wychowawcę Roku 2012 </p>
+<p> Ogłoszenia </p>
+<p> Nieruchomości </p>
+<p> Inwestycja Miasteczko Regaty Etap 5 I 6 </p>
+<p> Warszawa </p>
+<p> Dom Development SA </p>
+<p> Nowe mieszkania Warszawa </p>
+<p> Domy na sprzedaż Warszawa </p>
+<p> Pokoje do wynajęcia Warszawa </p>
+<p> Lokale do wynajęcia Warszawa </p>
+<p> Motoryzacja </p>
+<p> Seat Leon Spirit Fresh Up </p>
+<p> 16500 PLN </p>
+<p> 2003 r. 102880 km 1,6 gaz </p>
+<p> Samochody używane Warszawa </p>
+<p> Samochody używane Wrocław </p>
+<p> Samochody używane Kraków </p>
+<p> Samochody używane Gdańsk </p>
+<p> Ogłoszenia drobne </p>
+<p> Odzież używana Warszawa </p>
+<p> Meble używane Warszawa </p>
+<p> Używane AGD Warszawa </p>
+<p> Używane książki Warszawa </p>
+<p> Oferty pracy </p>
+<p> Praca Warszawa </p>
+<p> Praca Wrocław </p>
+<p> Praca Kraków </p>
+<p> Praca Gdańsk </p>
+<p> Dodaj ogłoszenie </p>
+<p> Ogłoszenie możesz także zamieścić w serwisie </p>
+<p> (function () {     /*      * funkcja dodaje widgety ogloszen      */     (function () {                function wstaw_widgety() {             szerokosc_okna = jQuery(window).width();             var czy_jest_zewnetrzny = jQuery("#widget_zewnetrzny").html();             var czy_jest_lodzki = jQuery("#widget-lodzki").html();                          if (czy_jest_zewnetrzny == "" || czy_jest_lodzki == "") {                 if (szerokosc_okna >= 480) {                     var div_widget_lodzki = document.getElementById("widget-lodzki");                     var div_widget_zewnetrzny = document.getElementById("widget_zewnetrzny");                     if (div_widget_lodzki == null && div_widget_zewnetrzny != null) {                         jQuery('#widget_zewnetrzny').append('<iframe src="http://ogloszenia.gratka.pl/widget_zewn.html?id_widget=widget_&id_gazeta=&referer=" scrolling="no" allowTransparency="true" frameborder=0></iframe>');                         return true;                     }                     return false;                 }             }         }                  var resizeTimeout;         var czy_wstawic_widget = true;          if (!wstaw_widgety()) {             jQuery(window).resize(function() {                 clearTimeout(resizeTimeout);                 resizeTimeout = setTimeout(function() {                     if (czy_wstawic_widget) {                         czy_wstawic_widget = !wstaw_widgety();                     }                 }, 200);             });         }      })();               var klikniecieMenu = function () {         return false;     }     jQuery('.menu1Poziom').bind('click', klikniecieMenu);     GR('pPolskatimesMenuInicjalizuj', function () {         jQuery('.menu1Poziom').unbind('click', klikniecieMenu);     }); })(); (function(tr){     var nazwa;     GR('$$', 'menu1Poziom', $('menu-glowne'), '', function(e) {         nazwa = e.innerHTML.trim().replace(/<\/?b>/ig, '').toLowerCase();         if (e.parentNode.id == 'dodaj-ogloszenie') {             nazwa = 'dodaj-ogloszenie';         } else if (e.parentNode.id == 'kategoria-platne') {             nazwa = 'piano';         }         tr.push({elements: [e], href: '/menu/menu_belka-' + nazwa});         jQuery(e.parentNode).find('.listaKat li a').each(function() {             var nazwa_podkategorii = this.innerHTML.trim().replace(/<\/?b>/ig, '').toLowerCase();             tr.push({elements: [this], href: '/menu/podmenu-' + nazwa + '-podkategoria-' + nazwa_podkategorii});         });                  var licznik = 1;         jQuery(e.parentNode).find('.wybranyArt a').each(function (){             tr.push({elements: [this], href: '/menu/podmenu-' + nazwa + '-link-' + licznik++});         });         jQuery(e.parentNode).find('.zobaczTakze a').each(function (){             tr.push({elements: [this], href: '/menu/podmenu-' + nazwa + '-link-' + licznik++});         });         jQuery(e.parentNode).find('.kolInne .komentowane a').each(function (){             tr.push({elements: [this], href: '/menu/podmenu-' + nazwa + '-link-' + licznik++});         });     });              jQuery("#dodaj-ogloszenie").each(function () {         var id = this.id,             licznik = 1;         jQuery('#' + id + ' #li-ogl-dom a').each(function (){             tr.push({elements: [this], href: '/ogloszenia/gratkadom/lista:' + licznik++});         });         licznik = 1;         jQuery('#' + id + ' #li-ogl-praca a').each(function (){             tr.push({elements: [this], href: '/ogloszenia/gratkapraca/lista:' + licznik++});         });         licznik = 1;         jQuery('#' + id + ' #li-ogl-ale a').each(function (){             tr.push({elements: [this], href: '/ogloszenia/alegratka/lista:' + licznik++});         });         licznik = 1;         jQuery('#' + id + ' #li-ogl-moto a').each(function (){             tr.push({elements: [this], href: '/ogloszenia/gratkamoto/lista:' + licznik++});         });     });     licznik = 1;     tr.push({elements: jQuery("#h-ogl-dom"), href: '/ogloszenia/gratkadom/naglowek'});     tr.push({elements: jQuery("#h-ogl-moto"), href: '/ogloszenia/gratkamoto/naglowek'});     tr.push({elements: jQuery("#h-ogl-ale"), href: '/ogloszenia/alegratka/naglowek'});     tr.push({elements: jQuery("#h-ogl-praca"), href: '/ogloszenia/gratkapraca/naglowek'});     tr.push({elements: jQuery("#img-ogl-dom"), href: '/ogloszenia/gratkadom/glowny'});     tr.push({elements: jQuery("#img-ogl-moto"), href: '/ogloszenia/gratkamoto/glowny'}); })(oG_OSA.tracking); </p>
+<p> Polska </p>
+<p> Zdrowie </p>
+<p> Angina paciorkowcowa - atakuje dzieci </p>
+<p> GR("wstawReklame", {nazwa: "pasek_expand", pokazUkryjRodzica: true, rodzic: '#pasek-expand', szerokosc: 960, cssClass: "marginD" }); </p>
+<p> aktualnaStrona = 0; </p>
+<p> GR("zaladujPlikJS", "http://s.polskatimes.pl/p/js/akcja.js", "plik"); </p>
+<p> GR("dodajOnload", function() { addthis.init(); } ); </p>
+<p> Angina paciorkowcowa - atakuje dzieci </p>
+<p> Data dodania: </p>
+<p> 2012-01-09 12:43:12 </p>
+<p> Ostatnia aktualizacja: </p>
+<p> 2012-02-09 13:59:07 </p>
+<p> Marcin Pustkowski/lekarz rodzinny </p>
+<p> Prześlij </p>
+<p> Drukuj </p>
+<p> Dodaj komentarz </p>
+<p> Poleć znajomemu ten artykuł </p>
+<p> Adres email: </p>
+<p> Wyślij </p>
+<p> Najważniejszym objawem jest ból gardła, któremu towarzyszą często trudności w przełykaniu, gorączka oraz ból głowy. </p>
+<p> (© shutterstock) </p>
+<p> Choroba powszechna, szczególnie wśród dzieci, z bólem gardła i gorączką. Trzeba ją leczyć antybiotykiem, aby się nie rozprzestrzeniła i nie wywołała powikłań. </p>
+<p> Głównym winowajcą jest bakteria zwana paciorkowcem ropotwórczym. Najczęściej chorują dzieci od 5. do 15. roku życia. Dla anginy typowa jest </p>
+<p> wysoka gorączka </p>
+<p> , ale nie katar, towarzyszące raczej przeziębieniu. Paciorkowiec bardzo łatwo przenosi się na inne osoby, przede wszystkim poprzez kichanie </p>
+<p> i kasłanie. Niebezpieczne jest również wspólne używanie przedmiotów. </p>
+<p> Objawy i powikłania </p>
+<p> Najważniejszym objawem jest ból gardła, któremu towarzyszą często trudności w przełykaniu, gorączka oraz ból głowy. Dzieci mogą skarżyć się też na ból brzucha i nudności. Migdałki są powiększone i czerwone, zwykle z białymi, ropnymi plamkami (nalotami). </p>
+<p> ∨ Czytaj dalej </p>
+<p> GR("wstawReklame","reklama_srodtext"); </p>
+<p> Do powikłań należą: ropień około migdałkowy, zapalenie ucha środkowego, </p>
+<p> zapalenie zatok </p>
+<p> , zapalenie nerek i gorączka reumatyczna. </p>
+<p> Czytaj także: </p>
+<p> Jak walczyć z grypą? </p>
+<p> Rozpoznanie i leczenie </p>
+<p> Wymienione objawy spotyka się również w innych chorobach. Wygląd gardła również nie jest charakterystyczny. </p>
+<p> Aby upewnić się w rozpoznaniu, lekarz może pobrać wymaz (sterylnym wacikiem) z tylnej części gardła. Jeśli na specjalnej pożywce wyrośnie paciorkowiec, to stwierdza się anginę. Na wyniki czeka się przynajmniej 2-3 dni. Można to zrobić szybciej za pomocą testów antygenowych. Lekarz zapewne zleci antybiotyki, które zapobiegają powikłaniom i skracają objawy. </p>
+<p> Jak pomóc sobie samodzielnie? </p>
+<p> Na ból gardła pomagają leki dostępne bez recepty. Poza tym należy pić dużo płynów, odpoczywać, płukać gardło wodą z solą i używać w pokoju nawilżacza. Pożywienie powinno być łatwe do połknięcia i niezbyt ostre. </p>
+<p> Paciorkowiec w 5 minut </p>
+<p> Lekarze mogą już w 5 minut stwierdzić, czy w organizmie obecny jest paciorkowiec. Test jest prosty, lekarz pobiera wymaz wacikiem z tylnej ściany gardła i z migdałków. Jednak aż w 20% przypadków tak przeprowadzonego badania można przeoczyć infekcję. </p>
+<p> CZYTAJ TEŻ: </p>
+<p> Układ oddechowy - leki bez recepty </p>
+<p> Wyjazd dzieci do sanatorium </p>
+<p> Produkty pszczele działają jak szczepionka </p>
+<p> Z gorących tropików do porcji antybiotyków </p>
+<p> Tagi: </p>
+<p> Angina paciorkowcowa </p>
+<p> angina paciorkowcowa u dzieci </p>
+<p> angina u dzieci zdjęcia </p>
+<p> leczenie anginy </p>
+<p> leksykon chorób </p>
+<p> objawy anginy </p>
+<p> paciorkowiec u dzieci </p>
+<p> paciorkowiec u dziecka </p>
+<p> powikłania angina </p>
+<p> zdrowie </p>
+<p> GR("dodajOnload", function() { addthis.init(); } ); </p>
+<p> (function() {  (function(d){var c=1,b,f=$("material-tagi").getElementsByTagName("a"),a=f.length;for(b=0;b<a;b++){var e=f[b].innerHTML.replace(" ","-").toLowerCase();d.push({elements:[f[b]],href:"/tag/"+e})}GR("$$","materialZrodlo",$("material"),"",function(g){d.push({elements:[g],href:"/zrodlo/link"})});d.push({elements:[GR("$","zmniejszTekst")],href:"/narzedzia/tekst-zmniejsz"});d.push({elements:[GR("$","powiekszTekst")],href:"/narzedzia/tekst-powieksz"});d.push({elements:[GR("$","narzedzia-komentarze")],href:"/narzedzia/komentarze"});d.push({elements:[GR("$","narzedzia-przeslij")],href:"/narzedzia/przeslij"});d.push({elements:[GR("$","narzedzia-drukuj")],href:"/narzedzia/drukuj"});d.push({elements:[$("zmniejszTekst")],href:"/material/zmniejsz-tekst"});d.push({elements:[$("powiekszTekst")],href:"/material/powieksz-tekst"});d.push({elements:[$("narzedziaWyslijZnajomym")],href:"/material/wyslij-znajomym"});d.push({elements:[$("drukuj_gora")],href:"/material/drukuj-gora"});jQuery("#mat-podobne a").each(function(){d.push({elements:[this],href:"/boks-podobne/link-"+c++})})})(oG_OSA.tracking);(function(){var d=GR("$","sm-sa"),c=GR("pobierzPozycje",d),a=40;function b(){var f=GR("pobierzPozycjeScroll");if(f[1]>c.y-a){d.style.position="fixed";d.style.top=a+"px"}else{d.style.position="absolute";d.style.top=0+"px"}}GR("dodajOnload",function(){setTimeout(function(){c=GR("pobierzPozycje",d);Zdarzenia.zaczep(window,"scroll",b);Zdarzenia.zaczep(window,"resize",b);b()},1000)});var e="medium";przesunPodobneNaDol=function(f){var h,g=typeof f=="undefined"||f.matches;if(g&&e!="small"){h=jQuery("#podobne-sonda-mobile");if(h){h.append(jQuery(".podobneSonda aside:visible"));e="small"}}},przeniesPodobneDoTresci=function(f){var g=typeof f=="undefined"||f.matches;if(g&&e=="small"){jQuery(".podobneSonda:visible").append(jQuery("#podobne-sonda-mobile aside"));e="medium"}},obsluzZmianeRozmiaru=function(){var f=jQuery(window).width();if(f<480){przesunPodobneNaDol()}else{przeniesPodobneDoTresci()}};if(window.matchMedia){smallCheck=window.matchMedia("(max-width: 479px)");fullCheck=window.matchMedia("(min-width: 480px)");smallCheck.addListener(przesunPodobneNaDol);fullCheck.addListener(przeniesPodobneDoTresci)}else{jQuery(window).resize(obsluzZmianeRozmiaru);obsluzZmianeRozmiaru()}obsluzZmianeRozmiaru()}()); })(); </p>
+<p> GR('wywolajReklamy', 1, 'WajrcbEjiE5NjjhWT.F9hszEw4SmgtKB.na2_lQK19n.L7', function() {     if ('function' === typeof adoceangratkaplrfdfgrfhgt) {         adoceangratkaplrfdfgrfhgt();     } }); GR('wstawReklame', 'intertext'); </p>
+<p> GR("wstawReklame", {nazwa: "pasek_770x126", tytul: 'REKLAMA', rodzic: '#pasek-770-126', szerokosc: 1200, mierzOkno: true}); </p>
+<p> Komentarze </p>
+<p> Dodajesz jako: </p>
+<p> Gość </p>
+<p> Ilość znaków do wpisania: </p>
+<p> Dodając komentarz, akceptujesz </p>
+<p> regulamin forum </p>
+<p> Zaloguj przez Facebook </p>
+<p> GR('pFacebookInitlogin', 'facebook-zaloguj-komentarz', 491773); </p>
+<p> Dodając komentarz, akceptujesz </p>
+<p> regulamin forum </p>
+<p> Uzasadnij naruszenie regulaminu: </p>
+<p> GR("o_formularz_inicjalizuj", "form-komentarz", {multi: "fK", "plik": sUrl + "/p/js/komentarze_formularz.js"});      jQuery(document).ready(function(){     var max = 4000;          function przelicz_znaki() {       var self = jQuery('#komentarz-tresc');       if(jQuery(self).val().length > max){         jQuery(self).val(jQuery(self).val().substr(0, max));       }        ilosc_znakow = max - jQuery(self).val().length;       ilosc_enterow = jQuery(self).val().split(/\\n/).length - 1;       ilosc_znakow = ilosc_znakow + ilosc_enterow - ilosc_enterow*100;       jQuery('#komentarz-tresc-limit > b').html(''+(ilosc_znakow)+'');     }        przelicz_znaki();     jQuery('#komentarz-tresc').keyup(function() {       przelicz_znaki();     });   });   podepnij_kciuki = function(idx, self) {     var tmp = jQuery(self).attr('id').split('-'), id_post = tmp[1], ocena = tmp[0] == 'plus' ? 1 : -1,        id_watek = tmp[2], strona = tmp[3], sortowanie = tmp[4];     jQuery(self).click(function(event) {       event.preventDefault();       ocen(id_post, ocena, id_watek, strona, sortowanie, jQuery(this));     });   };      jQuery('.kciukGora, .kciukDol').each(podepnij_kciuki);         (function(){     var dane_kontroler = {       katalog : "/artykul/",       wartosc : "491773,angina-paciorkowcowa-atakuje-dzieci,id,t",       rozszerzenie : "html",       strona : 1,       async: 1     };     id_modul = 41;     liczba_stron = 1;          jQuery.getScript("http://s.polskatimes.pl/p/js/komentarze.js");           var wiecej = jQuery(document.createElement('input')).attr('id', 'komentarze-wiecej').attr('type', 'button')       .val('pokaż więcej komentarzy').addClass('gradientJasny').click(function() {         dane_kontroler.strona++;          jQuery.get('/ajax/laduj_asynchronicznie/'+id_modul+'.html', dane_kontroler, function(data) {           jQuery('#art-komentarze').append(data).find('.kciukGora, .kciukDol').each(podepnij_kciuki);         });          if (liczba_stron <= dane_kontroler.strona) {           jQuery('#komentarze-wiecej').remove();         }       });     jQuery('#art-komentarze .stronicowanie').remove();      if (liczba_stron > dane_kontroler.strona) {       jQuery('#art-komentarze').after(wiecej);       tr = [];            }          tr = [];     tr.push({elements: GR('$$', 'regulamin-link', $('dodaj-komentarz')), href: '/komentarze/dodaj-komentarz-regulamin-link'});     tr.push({elements: GR('$$', 'regulamin-link', $('dodaj-odpowiedz')), href: '/komentarze/dodaj-odpowiedz-regulamin-link'});     tr.push({elements: GR('$$', 'przyciskWyslij', $('dodaj-komentarz')), href: '/komentarze/dodaj-komentarz-wyslij'});     tr.push({elements: GR('$$', 'przyciskWyslij', $('dodaj-odpowiedz')), href: '/komentarze/dodaj-odpowiedz-wyslij'});     tr.push({elements: [$('link-zwin-rozwin-wszystkie')], href: '/komentarze/zwin-wszystkie'});     tr.push({elements: GR('$$', 'kciukGora', $('art-komentarze')), href: '/komentarze/kciuk-gora'});     tr.push({elements: GR('$$', 'kciukDol', $('art-komentarze')), href: '/komentarze/kciuk-dol'});     tr.push({elements: GR('$$', 'komentarzOdpowiedz', $('art-komentarze')), href: '/komentarze/odpowiedz'});     GR('$$', 'ikonaNarzedzia', $('art-komentarze'), '', function(e) {       var nazwa = e.innerHTML.replace(" ", "-");       tr.push({elements: [e], href: '/komentarze/' + nazwa.trim()});     });     tr.push({elements: [$('komentarze-wiecej')], href: '/komentarze/pokaz-wiecej'});     GR('oTrackEvents', tr);        })(); </p>
+<p> GR("wstawReklame", {nazwa: "pasek_520x30", cssClass: "marginGD", pokazUkryjRodzica: true, rodzic: '#pasek520x30', szerokosc: 520}); </p>
+<p> (function () {           var resizeTimeout;           function pokazUkryjModul() {             var pokazOd = 801,                 idModul = 137,                 szerokoscOkna = jQuery(window).width(),                 modul = jQuery('#modul_asynchroniczny_' + idModul);             if (szerokoscOkna >= pokazOd && !modul.is(":visible")) {               modul.show();             } else if (szerokoscOkna < pokazOd && modul.is(":visible")) {               modul.hide();             }           }           pokazUkryjModul();           jQuery(window).resize(function () {             clearTimeout(resizeTimeout);             resizeTimeout = setTimeout(function () {               pokazUkryjModul();             }, 200);           });         })(); </p>
+<p> Aktualności </p>
+<p> Z regionów </p>
+<p> 08:30 </p>
+<p> Dziennik Zachodni: </p>
+<p> Bielscy wędkarze: Tu pływają pstrągi i musi być czysto! </p>
+<p> 08:21 </p>
+<p> Gazeta Wrocławska: </p>
+<p> Szafy, lekarstwa, nagrody i premie? Czyli czym zajmują Dolnoślązacy w Sejmie </p>
+<p> 08:20 </p>
+<p> Dziennik Łódzki: </p>
+<p> Cudowna woda z Łagiewnik dla maratończyków </p>
+<p> 08:18 </p>
+<p> Głos Wielkopolski: </p>
+<p> Poznań: Utrudnienia na S-11 </p>
+<p> 08:10 </p>
+<p> Kurier Lubelski: </p>
+<p> Remont Centrum Kultury przy ul. Peowiaków w liczbach (ZDJĘCIA) </p>
+<p> 08:01 </p>
+<p> Gazeta Wrocławska: </p>
+<p> Wrocław: Pijanym kierowcom zatrzymano prawo jazdy </p>
+<p> GR("wstawReklame", {nazwa:"textlink_1", rodzic: '#ranking-ad-1', szerokosc: 801, mierzOkno: true}); </p>
+<p> zobacz więcej </p>
+<p> Aktualności </p>
+<p> Z kraju i świata </p>
+<p> 08:20 </p>
+<p> Niemcy winne Grecji miliardy? Ateny ujawniły raport o reperacjach za II wojnę światową </p>
+<p> 08:02 </p>
+<p> Dlaczego papież Franciszek nie mówi w językach obcych? "Mam wielkie problemy..." </p>
+<p> 07:46 </p>
+<p> Pomnik Jana Pawła II w Częstochowie jeszcze nie został postawiony. Przez pogodę [ZDJĘCIA] </p>
+<p> 07:46 </p>
+<p> CBA weszło do ZIKiT. Zbada przetarg za ponad pół miliona zł </p>
+<p> 07:30 </p>
+<p> Korea Północna planuje wystrzelenie rakiet z dwóch miejsc. Można się go spodziewać już dziś </p>
+<p> 07:05 </p>
+<p> Prognoza pogody na 10 i 11 kwietnia </p>
+<p> GR("wstawReklame", {nazwa:"textlink_1", rodzic: '#ranking-ad-2', szerokosc: 801, mierzOkno: true}); </p>
+<p> zobacz więcej </p>
+<p> Najczęściej czytane </p>
+<p> Wypadek pod Sobótką. Pasażer nie żyje, kierowca w ciężkim stanie (ZDJĘCIA) </p>
+<p> Wisła wynosi się do Katowic. Miastu zostanie pusty stadion? </p>
+<p> Będzie bulwar Kaczyńskich. Tak Wrocław uhonoruje prezydencką parę (WIZUALIZACJE) </p>
+<p> Nie żyje Margaret Thatcher, była premier Wielkiej Brytanii. Miała 87 lat [ZDJĘCIA ARCHIWALNE] </p>
+<p> Nie żyje Antoni Juroszek, 15-letni skoczek i kombinator norweski z Istebnej [PRZYCZYNY] </p>
+<p> Przez Polskę przejechał tajny pociąg z uranem: Ładunek trafił do Rosji, bo USA... [ZDJĘCIA] </p>
+<p> GR("wstawReklame", {nazwa:"textlink_1", rodzic: '#ranking-ad-3', szerokosc: 801, mierzOkno: true}); </p>
+<p> Najczęściej komentowane </p>
+<p> 292 </p>
+<p> Wypadek pod Sobótką. Pasażer nie żyje, kierowca w ciężkim stanie (ZDJĘCIA) </p>
+<p> 176 </p>
+<p> Będzie bulwar Kaczyńskich. Tak Wrocław uhonoruje prezydencką parę (WIZUALIZACJE) </p>
+<p> 105 </p>
+<p> Wisła wynosi się do Katowic. Miastu zostanie pusty stadion? </p>
+<p> 87 </p>
+<p> Biskupi o in vitro: Plemniki uzyskuje się od ojca w akcie samogwałtu, dziecko staje się produktem </p>
+<p> 141 </p>
+<p> Jarosław Kaczyński witany w Środzie Wielkopolskiej jako przyszły premier [ZDJĘCIA] </p>
+<p> 77 </p>
+<p> Budniok: Dlaczego Śląsk nie może być autonomiczny? Nie wracajmy do przeszłości </p>
+<p> GR("wstawReklame", {nazwa:"textlink_1", rodzic: '#ranking-ad-4', szerokosc: 801, mierzOkno: true}); </p>
+<p> (function() {  (function(g){var d=0,h,f=["aktualnosci","polska","popularne","komentowane"],a=["pierwsza","druga","trzecia","czwarta"],b,c,e;GR("$$","zakladka-link",$("rankingi-lista"),"",function(i){c=i.getElementsByTagName("a").item(0);h=f[d++];g.push({elements:[c],href:"/aktualnosci/zakladka-"+h.trim()})});e=a.length;for(b=0;b<e;b++){d=1;GR("$$","artykul-link-zakladka-"+f[b],$("najpopularniejsze-box-linki"),"",function(i){g.push({elements:[i],href:"/aktualnosci/"+f[b]+"-link-"+d++})})}e=a.length;for(b=0;b<e;b++){if($("zakladka-ranking_"+a[b])){GR("$$","wiecej",$("zakladka-ranking_"+a[b]),"",function(i){var j=""+f[b];g.push({elements:[i.getElementsByTagName("a").item(0)],href:"/aktualnosci/zakladka-"+j+"/wiecej"})})}}})(oG_OSA.tracking);jQuery(".zakladka-link-tytul").click(function(a){var b=this.parentNode;jQuery(".zakladka-link").each(function(){if(b.id==this.id&&!jQuery(this).hasClass("aktywny")){jQuery(this).addClass("aktywny");jQuery("#"+this.id+" .zakladkaRanking").slideDown()}else{jQuery(this).removeClass("aktywny");jQuery("#"+this.id+" .zakladkaRanking").slideUp()}});a.preventDefault()});(function(){var a="medium";przesunRankingiPodJedynke=function(b){var d,c=typeof b=="undefined"||b.matches;if(c&&a!="small"){d=jQuery("#najpopularniejsze-box-linki-goralewa");if(d){d.append(jQuery("#rankingi-lista"));a="small"}}},przesunRankingiDoPrawejKolumny=function(b){var c=typeof b=="undefined"||b.matches;if(c&&a=="small"){jQuery("#najpopularniejsze-box-linki").append(jQuery("#rankingi-lista"));a="medium"}},obsluzZmianeRozmiaru=function(){var b=jQuery(window).width();if(b<801){przesunRankingiPodJedynke()}else{przesunRankingiDoPrawejKolumny()}};if(window.matchMedia){smallCheck=window.matchMedia("(max-width: 800px)");fullCheck=window.matchMedia("(min-width: 801px)");smallCheck.addListener(przesunRankingiPodJedynke);fullCheck.addListener(przesunRankingiDoPrawejKolumny)}else{jQuery(window).resize(obsluzZmianeRozmiaru);obsluzZmianeRozmiaru()}obsluzZmianeRozmiaru()})(); })(); </p>
+<p> Zapisz się do Newslettera </p>
+<p> (function(tr){         tr.push({elements: jQuery('#newsletter-box a'), href: '/newsletter/link'});         tr.push({elements: [$('zapisz-przycisk')], href: '/newsletter/wyslij'});     })(oG_OSA.tracking); </p>
+<p> T-Mobile Ekstraklasa - ZAPOWIEDZI, RELACJE, ZDJĘCIA, WIDEO, KOMENTARZE </p>
+<p> Tylko w "Polsce" </p>
+<p> The Krasnals idą na wojnę. Krytykują wszystko i wszystkich [GALERIA] </p>
+<p> Jedzą chusteczki byle się odchudzić. Była naczelna ''Vogue'a'' ujawnia kulisy świata mody [ZDJĘCIA] </p>
+<p> Kto trzyma pieniądze w rajach podatkowych: ICIJ ujawnia sekrety polityków i celebrytów [RAPORT+ZDJĘCIA] </p>
+<p> (function(tr){       var licznik = 1,           pozycja = 'srodek';       tr.push({elements: GR('$$', 'autopromocjaTytul', $('autopromocja_1378_srodek')), href: '/autopromocja-' + pozycja + '/nazwa'});       GR('$$', 'autopromo-link', $('autopromocja_1378_srodek'), '', function(e) {           tr.push({elements: [e], href: '/autopromocja-' + pozycja + '/tytul-' + licznik++});       });   })(oG_OSA.tracking); </p>
+<p> Reklama </p>
+<p> GR("wstawReklame", {nazwa: "button_300xN3", cssStyle: "margin-bottom: 5px", rodzic: '#button_300xN3', szerokosc: 300}); </p>
+<p> GR("wstawReklame", {nazwa: "button_300xN4", cssStyle: "margin-bottom: 5px", rodzic: '#button_300xN4', szerokosc: 300}); </p>
+<p> GR("wstawReklame", {nazwa : "halfpage_300x600", rodzic : '#halfpage300x600', szerokosc: 300}); </p>
+<p> GR("wstawReklame", {nazwa: "button_300xN1", cssStyle: "margin-bottom: 5px", rodzic: '#button_300xN1', szerokosc: 300}); </p>
+<p> GR("wstawReklame", {nazwa: "button_300xN2", cssStyle: "margin-bottom: 5px", rodzic: '#button_300xN2', szerokosc: 300}); </p>
+<p> Nie przegap </p>
+<p> Kim Dzong Un szykuje własny Dzień Słońca. O władzę walczy z "jastrzębiami" z armii, starszymi braćmi i... ciotką [ZDJĘCIA] </p>
+<p> Władimir Putin i Angela Merkel na targach w Hanowerze. Zaatakowały ich działaczki Femen [ZDJĘCIA+VIDEO] </p>
+<p> Okrucieństwo, pijaństwo i pazerność. Jak czerwonoarmista Nikulin pomaszerował zdobyć Berlin </p>
+<p> (function(tr){       var licznik = 1,           pozycja = 'gora';       tr.push({elements: GR('$$', 'autopromocjaTytul', $('autopromocja_1378_gora')), href: '/autopromocja-' + pozycja + '/nazwa'});       GR('$$', 'autopromo-link', $('autopromocja_1378_gora'), '', function(e) {           tr.push({elements: [e], href: '/autopromocja-' + pozycja + '/tytul-' + licznik++});       });   })(oG_OSA.tracking); </p>
+<p> Reklama </p>
+<p> GR("wstawReklame", {         nazwa: "rectangle_300x250",         pokazUkryjRodzica: true,         cssClass: "marginD",         rodzic: '#rectangle300x250',         szerokosc: 300,         onServerEmissionEmpty: function () {             jQuery("#ad-rectangle300x250").hide();         }       }); </p>
+<p> Zobacz koniecznie </p>
+<p> Była primabalerina Anastazja Wołoczkowa oskarża: Teatr Bolszoj to dom publiczny dla oligarchów [ZDJĘCIA] </p>
+<p> Władimir Putin ma dzieci z 29-letnią Aliną Kabajewą? Rosja żyje plotkami o ''drugiej żonie'' prezydenta [ZDJĘCIA] </p>
+<p> Tunezja: Amina Tyler z Femen zniknęła. Islamiści chcą, by została ukamienowana [ZDJĘCIA 18+] </p>
+<p> (function(tr){       var licznik = 1,           pozycja = 'dol';       tr.push({elements: GR('$$', 'autopromocjaTytul', $('autopromocja_1378_dol')), href: '/autopromocja-' + pozycja + '/nazwa'});       GR('$$', 'autopromo-link', $('autopromocja_1378_dol'), '', function(e) {           tr.push({elements: [e], href: '/autopromocja-' + pozycja + '/tytul-' + licznik++});       });   })(oG_OSA.tracking); </p>
+<p> jQuery('#modul_asynchroniczny_182').appear(function() {         var modul = '<div id="boks-facebook" class="clear mobile-hidden">  <iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2FPolskatimes&amp;connections=12&amp;height=260&amp;header=false&amp;stream=false"></iframe></div>';         try {             jQuery(this).replaceWith(jQuery(modul));         } catch (ex) {}       }); </p>
+<p> (function () {           var resizeTimeout;           function pokazUkryjModul() {             var pokazOd = 480,                 idModul = 182,                 szerokoscOkna = jQuery(window).width(),                 modul = jQuery('#modul_asynchroniczny_' + idModul);             if (szerokoscOkna >= pokazOd && !modul.is(":visible")) {               modul.show();             } else if (szerokoscOkna < pokazOd && modul.is(":visible")) {               modul.hide();             }           }           pokazUkryjModul();           jQuery(window).resize(function () {             clearTimeout(resizeTimeout);             resizeTimeout = setTimeout(function () {               pokazUkryjModul();             }, 200);           });         })(); </p>
+<p> GR("wstawReklame",{nazwa: "footer", rodzic: '#reklama-footer', szerokosc: 970, mierzOkno: true}); </p>
+<p> GR("wstawReklame", {nazwa: "pasek_ecommerce", rodzic: "#pasek-ecommerce", szerokosc: 970}); </p>
+<p> Serwisy branżowe: </p>
+<p> Ogłoszenia </p>
+<p> Mieszkania Warszawa </p>
+<p> Domy Warszawa </p>
+<p> Motoryzacja </p>
+<p> Samochody Warszawa </p>
+<p> Praca </p>
+<p> Oferty pracy Warszawa </p>
+<p> Ogłoszenia drobne </p>
+<p> Turystyka </p>
+<p> Serwisy partnerskie: </p>
+<p> Grupa Wydawnicza Polskapresse </p>
+<p> Informacje lokalne </p>
+<p> Warszawa </p>
+<p> Wiadomości </p>
+<p> Program TV </p>
+<p> Samochody </p>
+<p> Piłka nożna </p>
+<p> Dzienniki regionalne: </p>
+<p> Aktualności </p>
+<p> Wiadomości Trójmiasto </p>
+<p> Wiadomości Śląsk </p>
+<p> Wiadomości Łódź </p>
+<p> Dziennik Polski </p>
+<p> Wiadomości Lublin </p>
+<p> Wiadomości Kraków </p>
+<p> Wiadomości Wrocław </p>
+<p> Wiadomości Poznań </p>
+<p> Express Ilustrowany </p>
+<p> Kategorie: </p>
+<p> Fakty </p>
+<p> Opinie </p>
+<p> Sport </p>
+<p> Pieniądze </p>
+<p> Zdrowie </p>
+<p> Kultura </p>
+<p> Historia </p>
+<p> Edukacja </p>
+<p> Dodatki </p>
+<p> Magazyny </p>
+<p> Akcje </p>
+<p> Nasze dzienniki: </p>
+<p> Dziennik Bałtycki </p>
+<p> Dziennik Łódzki </p>
+<p> Dziennik Polski </p>
+<p> Dziennik Zachodni </p>
+<p> Express Ilustrowany </p>
+<p> Gazeta Krakowska </p>
+<p> Gazeta Wrocławska </p>
+<p> Głos Wielkopolski </p>
+<p> Kurier Lubelski </p>
+<p> Powrót do góry </p>
+<p> Strona główna </p>
+<p> Mapa serwisu </p>
+<p> Dla prasy </p>
+<p> Kontakt </p>
+<p> O nas </p>
+<p> Regulamin </p>
+<p> Prywatność </p>
+<p> Reklama </p>
+<p> eGazety </p>
+<p> Sklep internetowy </p>
+<p> Newsletter </p>
+<p> © 2000 - 2013 </p>
+<p> Polskapresse Sp. z o.o. </p>
+<p> Dziennik Bałtycki </p>
+<p> Dziennik Łódzki </p>
+<p> Dziennik Polski </p>
+<p> Dziennik Zachodni </p>
+<p> Express Ilustrowany </p>
+<p> Gazeta Krakowska </p>
+<p> Gazeta Wrocławska </p>
+<p> Głos Wielkopolski </p>
+<p> Kurier Lubelski </p>
+<p> Polska Times </p>
+<p> Polskapresse sp. z.o.o informuje, że wszystkie treści ukazujące się w serwisie Polskatimes.pl podlegają ochronie. </p>
+<p> Dowiedz się więcej </p>
+<p> . </p>
+<p> Jesteś zainteresowany kupnem treści? </p>
+<p> Dowiedz się więcej </p>
+<p> . </p>
+<p> GR('wstawReklameSmartAdserver', 'richmedia_mobile', '#ad-richmedia-mobile'); </p>
+<p> (function() {         document.write('<script type="text/javascript" id="cafenews.pl#7648bfca304b70cf5006abd38e8fc43f"><\/script><div id="cafenews.pls#cvb64mnc8vg4jd8gksd653jkadg7j6"><\/div>');setTimeout(function(){var d=new Date();document.getElementById("cafenews.pl#7648bfca304b70cf5006abd38e8fc43f").src='http://webservices.cafenews.pl/mpl/Static/Static.js?id=cafenews.pl#cvb64mnc8vg4jd8gksd653jkadg7j6&d='+d.getFullYear()+d.getMonth()+d.getDate();},250);     })();          (function(tr){     var nazwa;     GR('$$', 'branzowe-link', $('modul-stopka'), '', function(e) {         nazwa = e.innerHTML;         tr.push({elements: [e], href: '/stopka/branzowe:' + nazwa.trim()});     });     GR('$$', 'partnerskie-link', $('modul-stopka'), '', function(e) {         nazwa = e.innerHTML;         tr.push({elements: [e], href: '/stopka/partnerskie:' + nazwa.trim()});     });     GR('$$', 'regionalne-link', $('modul-stopka'), '', function(e) {         nazwa = e.innerHTML;         tr.push({elements: [e], href: '/stopka/regionalne:' + nazwa.trim()});     });     GR('$$', 'tematyczne-link', $('modul-stopka'), '', function(e) {         nazwa = e.innerHTML;         tr.push({elements: [e], href: '/stopka/tematyczne:' + nazwa.trim()});     });     GR('$$', 'stopka-link', $('modul-stopka'), '', function(e) {         nazwa = e.innerHTML;         tr.push({elements: [e], href: '/stopka/link:' + nazwa.trim()});     });     GR('$$', 'copy-link', $('modul-stopka'), '', function(e) {         nazwa = e.innerHTML;         tr.push({elements: [e], href: '/stopka/copyright:' + nazwa.trim()});     });     GR('$$', 'stopkaLogo', $('stopka-dzienniki'), '', function(e) {         nazwa = e.innerHTML.replace(' ', '-').toLowerCase();         tr.push({elements: [e], href: '/stopka/' + nazwa.trim()});     }); })(oG_OSA.tracking); </p>
+<p> /* <![CDATA[ */ var google_conversion_id = 1014071205; var google_conversion_language = "en"; var google_conversion_format = "3"; var google_conversion_color = "666666"; var google_conversion_label = "a0vPCKOO2QEQpf_F4wM"; var google_conversion_value = 0; /* ]]> */ </p>
+<p> oG_OSA.conversionLink='http://www.googleadservices.com/pagead/conversion.js';     if ('https:' == document.location.protocol) {         oG_OSA.conversionLink='https://www.googleadservices.com/pagead/conversion.js';       };     document.write('<script src=\''+oG_OSA.conversionLink+'\' type=\'text/javascript\'><\/script>') </p>
+<p> W ramach naszej witryny stosujemy pliki cookies w celu świadczenia Państwu usług na najwyższym poziomie,         w sposób dostosowany do Państwa indywidualnych potrzeb i preferencji, w celu emisji możliwie indywidualnie przygotowanej         reklamy. Korzystanie z witryny bez zmiany ustawień dotyczących cookies oznacza, że będą one zamieszczane w Państwa urządzeniu         końcowym. Możecie Państwo dokonać w każdym czasie zmiany ustawień dotyczących przechowywania i uzyskiwania dostępu do cookies przy         pomocy ustawień przeglądarki lub urządzenia końcowego, z których Państwo korzystacie. Więcej szczegółów w naszej </p>
+<p> Polityce Prywatności </p>
+<p> . </p>
+<p> Zamknij </p>
+<p> .cookieTooltipKontener {     position: relative;   }   .cookieTooltip {     position: fixed;     bottom: 15px;     right: 15px;     background: #333;     width: 800px;     padding: 10px;     opacity: 0.9;     font-size: 11px;     border-radius: 5px;     box-shadow: 0 0 5px rgba(0,0,0,0.5);     z-index: 999999;   }   .cookieTooltip p {     color: #fff;     margin-bottom: 10px;   }   .cookieTooltip a {     color: #fff;     text-decoration: underline;   }   .cookieTooltip .tooltipZamknij {     display: block;     float: right;     margin-right: 10px;     background: #fff;     padding: 5px 10px;     color: #000;     text-decoration: none;     border-radius: 5px;     font-weight: bold;   }   .cookieTooltip .tooltipZamknij:hover {     background: #ddd;   } </p>
+<p> (function ($) {     var przycisk = $('a.tooltipZamknij');     przycisk.click(function(event) {         event.preventDefault();         $('.cookieTooltipKontener').hide();         var data = new Date();         data.setDate(data.getDate() + 365);         data = data.toUTCString();         document.cookie = 'polityka_prywatnosci_cookies=true; expires=' + data + '; path = /';     }); })(jQuery); </p>
+<p> oG_OSA.onclick_id = 'SA';   GR('oTrackEvents', oG_OSA.tracking); </p>
+<p> GR('oAnonimid'); </p>

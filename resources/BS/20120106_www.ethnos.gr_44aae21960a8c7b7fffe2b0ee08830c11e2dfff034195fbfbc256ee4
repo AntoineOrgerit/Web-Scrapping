@@ -1,0 +1,576 @@
+<p> Καλπάζει το AIDS στην Ελλάδα   | κοινωνια  | ethnos.gr </p>
+<p> setAsyncElementLoading(); </p>
+<p> $(document).ready(function() { $(".search_btn img[title]").tooltip2();  }); </p>
+<p> var counterplus = 0; var countermin = 0;  function increaseFont() { if(counterplus<3){ $('#arttext').each(function(){ var oldf = parseInt( jQuery(this).css('font-size') ); var oldl = parseInt( jQuery(this).css('line-height') ); $(this).css({ 'font-size' : oldf + 2 + 'px', 'line-height' : oldl + 2 + 'px' }); });  counterplus++;  countermin++; }  }   function decreaseFont() { if(countermin>-2){ $('#arttext').each(function(){ var oldf = parseFloat( jQuery(this).css('font-size') ); var oldl = parseFloat( jQuery(this).css('line-height') ); $(this).css({ 'font-size' : oldf - 2 + 'px', 'line-height' : oldl - 2 + 'px' }); });  counterplus--;  countermin--; } } </p>
+<p> <!-- function HideContent(d) { if(d.length < 1) { return; } document.getElementById(d).style.display = "none"; } function ShowContent(d) { if(d.length < 1) { return; } document.getElementById(d).style.display = "block"; } function ReverseContentDisplay(d) { if(d.length < 1) { return; } if(document.getElementById(d).style.display == "none") { document.getElementById(d).style.display = "block";} else { document.getElementById(d).style.display = "none"; } } //--> </p>
+<p> // <![CDATA[[ if (typeof Adman === 'undefined' || /MSIE [456]/.test(navigator['appVersion'])) document.write ('<scr'+'ipt src="http://static.adman.gr/adman.js" language="javascript" type="text/javascript"></'+'sc'+'ript>'); var now=parseInt((new Date()).getTime()); if (!window.admantpid) window.admantpid = now; var rnd=Math.floor(Math.random()*900000)+100,cdp=screen.width+"x"+screen.height+"x"+(navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth),burst="?"+rnd+":="+window.admantpid +"@"+cdp+"?"; document.write("<scr"+"ipt language=\"Javascript\" src=\"http://ads.e-go.gr/gbanner/?"+now+"|30/728x90"+burst+"/\">"); document.write("</"+"sc"+"ript>"); // ]]> </p>
+<p> Τρίτη, 9/4/2013 </p>
+<p> O καιρός σήμερα </p>
+<p> set_url("1E7C3DC7-AE56-4064-A193-8CBA8806722C", "http://service.24media.gr/app/forecast/details/horizontal.html?loc=37.9966,23.741,0:40.6382,22.9369,0:38.2372,21.7407,0:39.6679,20.8512,0:35.3325,25.1346,0&label=%CE%91%CE%B8%CE%AE%CE%BD%CE%B1:%CE%98%CE%B5%CF%83%CF%83%CE%B1%CE%BB%CE%BF%CE%BD%CE%AF%CE%BA%CE%B7:%CE%A0%CE%AC%CF%84%CF%81%CE%B1:%CE%99%CF%89%CE%AC%CE%BD%CE%BD%CE%B9%CE%BD%CE%B1:%CE%97%CF%81%CE%AC%CE%BA%CE%BB%CE%B5%CE%B9%CE%BF&css=/css/horizontal-num140.css&color=GREY"); </p>
+<p> ΝΕΑ ΣΕ 10" </p>
+<p> ΠΟΛΙΤΙΚΗ </p>
+<p> ΠΑΡΑΠΟΛΙΤΙΚΑ </p>
+<p> ΣΚΙΤΣA </p>
+<p> ΚΟΙΝΩΝΙΑ </p>
+<p> ΟΙΚΟΝΟΜΙΑ </p>
+<p> ΔΙΕΘΝΗ </p>
+<p> ΑΛΛΗ ΟΨΗ </p>
+<p> ΠΕΡΙΒΑΛΛΟΝ </p>
+<p> ΑΡΘΡΟΓΡΑΦΙΑ </p>
+<p> ΕΘΝΟΣΠΟΡ </p>
+<p> ΠΟΛΙΤΙΣΜΟΣ </p>
+<p> ΑΤΖΕΝΤΑ </p>
+<p> SHOWBIZ </p>
+<p> ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ </p>
+<p> ΘΕΑΤΡΟ </p>
+<p> ΜΟΥΣΙΚΗ </p>
+<p> ΕΙΚΑΣΤΙΚΑ </p>
+<p> ΒΙΒΛΙΟ </p>
+<p> ΦΕΣΤΙΒΑΛ </p>
+<p> ΕΝΘΕΤΑ </p>
+<p> TV ΕΘΝΟΣ </p>
+<p> ΕΠΑΓΓΕΛΜΑΤΙΚΕΣ ΕΥΚΑΙΡΙΕΣ </p>
+<p> ΕΡΓΑΣΙΑ </p>
+<p> ΠΑΙΔΕΙΑ </p>
+<p> ΣΥΝΤΑΞΕΙΣ </p>
+<p> ΚΥΝΗΓΙ </p>
+<p> ΥΓΕΙΑ </p>
+<p> FORUM ΕΘΝΟΣ </p>
+<p> ΨΑΡΕΜΑ & ΦΟΥΣΚΩΤΟ </p>
+<p> WHEELS + MOTORS </p>
+<p> ΕΘΝΟΣΠΟΡ </p>
+<p> REPORTAGE </p>
+<p> ΤΑΞΙΔΙ </p>
+<p> COOK BOOK </p>
+<p> ΧΡΗΣΙΜΑ </p>
+<p> ΣΑΝ ΣΗΜΕΡΑ </p>
+<p> ΚΑΙΡΟΣ </p>
+<p> ΦΑΡΜΑΚΕΙΑ </p>
+<p> ΝΟΣΟΚΟΜΕΙΑ </p>
+<p> ΔΡΟΜΟΛΟΓΙΑ ΠΛΟΙΩΝ </p>
+<p> MARKET NEWS </p>
+<p> function updateFormActionEthnos(){  document.getElementById("catid").value  = "23552"; } function updateFormActionWeb(){  document.getElementById("catid").value = "23552"; } function updateFormActionFile() {  document.getElementById("catid").value = "23551"; } </p>
+<p> ethnos.gr </p>
+<p> Αρχείο </p>
+<p> Web </p>
+<p> ΑΝΑΖΗΤΗΣΗ </p>
+<p> Enter your search terms </p>
+<p> Submit search form </p>
+<p> $(document).ready(function() { $(".search_btn").click(function () {       var status = $(".searchbar").css("display");       if(status == "block"){            $(".searchbar").css("display","none");            $("div.menu").css("marginBottom","18px");       }else{            $(".searchbar").css("display","block");                  $("div.menu").css("marginBottom","1px");       } }); }); </p>
+<p> ΚΟΙΝΩΝΙΑ </p>
+<p> ΒΡΙΣΚΕΣΤΕ ΕΔΩ: </p>
+<p> ΚΟΙΝΩΝΙΑ </p>
+<p> ΕΘΝΟΣ </p>
+<p> «E» 22/11/2011 </p>
+<p> Μέγεθος γραμμάτων </p>
+<p> Email </p>
+<p> Εκτύπωση </p>
+<p> Tweet </p>
+<p> ΠΡΩΤΗ ΕΙΔΗΣΗ ΤΩΡΑ </p>
+<p> ΣΤΟΧΟ Η ΣΥΜΦΩΝΙΑ ΠΡΙΝ ΑΠΟ ΤΟ EUROGROUP </p>
+<p> Στις 4.00 το νέο ραντεβού Στουρνάρα - τρόικας </p>
+<p> 9/4 </p>
+<p> ΚΟΙΝΩΝΙΑ: </p>
+<p> ΔΙΑΒΑΣΤΕ ΑΚΟΜΑ </p>
+<p> Νόμιμα όλα τα αυθαίρετα προ του 1975 </p>
+<p> 9/4 </p>
+<p> Ακροδεξιά παρέλαση στην Καβάλα </p>
+<p> 9/4 </p>
+<p> Σύλληψη και προσαγωγές για τα χθεσινά επεισόδια στην Πάτρα </p>
+<p> 9/4 </p>
+<p> Τρίτη ημέρα ερευνών για τον εντοπισμό του αγνοούμενου </p>
+<p> 9/4 </p>
+<p> Νεαρός ποδοσφαιριστής και φίλος του νεκροί σε τροχαίο </p>
+<p> 9/4 </p>
+<p> Συνήγορος του Πολίτη: Προσφυγές κυρίως για θέματα κοινωνικής ασφάλισης </p>
+<p> 9/4 </p>
+<p> Συγκρούσεις αναρχικών με μέλη της Χρυσής Αυγής </p>
+<p> 9/4 </p>
+<p> Δεμένα τα πλοία στις 16 Απριλίου </p>
+<p> 9/4 </p>
+<p> Κηδεύεται σήμερα ο ναύαρχος Ν. Παππάς </p>
+<p> 9/4 </p>
+<p> Βεβαιώθηκαν 2.345 παραβάσεις σε ελέγχους της Τροχαίας </p>
+<p> 9/4 </p>
+<p> «Αντίο Ελλάδα» από 120.000 επιστήμονες </p>
+<p> 9/4 </p>
+<p> Συναγερμός για υπερχείλιση Στρυμόνα - Κερκίνης </p>
+<p> 9/4 </p>
+<p> Η κρίση χτυπά τις γυναίκες </p>
+<p> 9/4 </p>
+<p> Τριβές κυβέρνησης - ΓΣΕΕ </p>
+<p> 9/4 </p>
+<p> «Καλπάζει» η νοθεία στο κρέας </p>
+<p> 9/4 </p>
+<p> 1 </p>
+<p> 2 </p>
+<p> 3 </p>
+<p> addPrototypeElement('21216','AJAXREST','incl/v5EthnosRestArticlesAjax_21216.asp','pageid=639&catid=22768&subid=2&pubid=63561878&catidlocal=22768&subidlocal=2',false,''); </p>
+<p> .deal { 	border: 1px solid #1971a3; 	padding: 0; 	margin: 20px 0; 	text-align: left; 	width: 158px;         background: white; font-family: Verdana; }  .deal td {          border: none; }  .deal td.logo { 	margin: 0; 	padding: 8px 0 0px 10px;         background: none;         border-bottom: none; }  td.offertxt { 	margin: 0; 	padding: 0 0 8px 0; 	line-height: 14px;         text-align: left;         border-bottom: none; }  td.offertxt h1 { 	margin: 0px 0 3px 0; 	padding: 0; 	font-size: 11px; 	font-weight: bold; 	color: #015581;         text-align: left; }  td.offertxt h1 a { 	color: #015581; 	text-decoration: none; }  td.offertxt h2 { 	margin: 0 0 10px 0; 	padding: 0; 	font-size: 11px; 	font-weight: normal; 	color: #2295d6;         text-align: left; }  .prices { 	background: url(images/dmd/bg_prices_leftcol.gif) no-repeat; <!--	width: 148px; 	height: 58px; --> 	margin: 0 0 2px 2px; }  .prices td.price1 { 	padding: 0; 	width: 54px; 	color: #fff; line-height: 18px;         border-bottom: none; background: transparent; }   .prices td.price1 h1 { 	margin: 0; 	padding: 8px 0 0 0; 	color: #005782; 	font-size: 13px; 	text-align: center; font-weight: bold; }  .prices td.price2 { 	padding: 5px 0 0 4px; 	width: 80px; 	color: #fff; 	font-size: 13px; 	text-align: center; 	font-weight: bold; line-height: 16px;         border-bottom: none; background: transparent; }  .prices td.price2 a { 	color: #fff; 	text-decoration: none; }  .prices .newprice { 	margin: 3px 0 0 0; 	padding: 0 3px; 	color: #fff; 	font-size: 18px; display: inline-block;  } </p>
+<p> Ένας usb φορτιστής αυτοκινήτου συμβατός με κινητά τηλέφωνα, PDA, tablets, mp3 players </p>
+<p> από το ηλεκτρονικό κατάστημα designbastards.gr </p>
+<p> Από 10€ </p>
+<p> Αγόρασέ το </p>
+<p> 4.20€ </p>
+<p> // <![CDATA[[ if (typeof Adman === 'undefined' || /MSIE [456]/.test(navigator['appVersion'])) document.write ('<scr'+'ipt src="http://static.adman.gr/adman.js" language="javascript" type="text/javascript"></'+'sc'+'ript>'); var now=parseInt((new Date()).getTime()); if (!window.admantpid) window.admantpid = now; var rnd=Math.floor(Math.random()*900000)+100,cdp=screen.width+"x"+screen.height+"x"+(navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth),burst="?"+rnd+":="+window.admantpid +"@"+cdp+"?"; document.write("<scr"+"ipt language=\"Javascript\" src=\"http://ads.e-go.gr/gbanner/?"+now+"|29/120x600"+burst+"/\">"); document.write("</"+"sc"+"ript>"); // ]]> </p>
+<p> ΑΥΞΗΣΗ 52,7% ΣΕ ΣΧΕΣΗ ΜΕ ΠΕΡΥΣΙ </p>
+<p> Καλπάζει το AIDS στην Ελλάδα </p>
+<p> Στους χρήστες ενδοφλέβιων ναρκωτικών και στις εκδιδόμενες γυναίκες αποδίδουν οι ειδικοί την αλματώδη μετάδοση της νόσου. Στην πλειονότητά τους οι ασθενείς είναι άνδρες </p>
+<p> Στο «κόκκινο» βρίσκεται η επιδημία του AIDS στην Ελλάδα. </p>
+<p> Εως το τέλος Οκτωβρίου, ο αριθμός των νέων κρουσμάτων ήταν ήδη κατά 52,7% μεγαλύτερος από εκείνον που είχε καταγραφεί ολόκληρο το 2010. Πρόκειται για τη δεύτερη χειρότερη επίδοση της χώρας μας, στα 30 χρόνια που κλείνουν φέτος από την εμφάνιση της νόσου. </p>
+<p> Οι ειδικοί αποδίδουν την τεράστια αυτή αύξηση στον πληθυσμό των χρηστών ενδοφλέβιων ναρκωτικών και στις εκδιδόμενες γυναίκες. Στους τοξικομανείς, τα νέα κρούσματα είναι φέτος αυξημένα κατά 1.250%. Στις γυναίκες, η χρήση συνδέεται με την πορνεία, η οποία θεωρείται κερκόπορτα για την εισβολή του ιού στην ελληνική οικογένεια. </p>
+<p> Τα παραπάνω ανέφεραν χθες η πρόεδρος του Κέντρου Ελέγχου και Πρόληψης Νοσημάτων (ΚΕΕΛΠΝΟ) Τζένη Κουρέα ? Κρεμαστινού, ο πρόεδρος της Εταιρείας Μελέτης και Αντιμετώπισης του AIDS Μάριος Λαζανάς και ο λοιμωξιολόγος Παναγιώτης Γαργαλιάνος, με αφορμή το 23ο Πανελλήνιο Συνέδριο του AIDS, το οποίο πραγματοποιείται από τις 25 έως τις 27 Νοεμβρίου στην Αθήνα. </p>
+<p> Από τα στοιχεία του ΚΕΕΛΠΝΟ φαίνεται ότι έως τις 31 Οκτωβρίου έχουν δηλωθεί 803 νέες περιπτώσεις λοίμωξης με τον ιό HIV (686 άνδρες και 117 γυναίκες). Σύμφωνα με τους ειδικούς, το 2011 παρατηρείται μια σημαντική αλλαγή στα χαρακτηριστικά της επιδημίας στην Ελλάδα. </p>
+<p> Τα επίπεδα λοίμωξης στον πληθυσμό των τοξικομανών ήταν πάντα σε χαμηλά επίπεδα, καθώς ο βασικός τρόπος μετάδοσης ήταν η ομοφυλοφιλική επαφή μεταξύ ανδρών. Αυτό δεν ισχύει φέτος, καθώς ένα στα τέσσερα νέα κρούσματα φέτος αφορά χρήστη ενδοφλέβιων ναρκωτικών. </p>
+<p> Τρία παιδιά </p>
+<p> Η χρήση ουσιών στις γυναίκες συνοδεύεται και από πορνεία. Στο ΚΕΕΛΠΝΟ έχουν αναφερθεί τρεις περιπτώσεις παιδιών ελληνικής υπηκοότητας (δύο αγόρια και ένα κορίτσι), τα οποία μολύνθηκαν από «κάθετη» μετάδοση, δηλαδή από τη μητέρα τους. </p>
+<p> Ο συνολικός αριθμός των κρουσμάτων του AIDS στην Ελλάδα ανέρχεται σε 11.340. Από αυτούς, οι 3.235 έχουν νοσήσει, 5.500 υποβάλλονται σε αντιρετροϊκή αγωγή, ενώ 2.152 έχουν χάσει τη ζωή τους εξαιτίας της νόσου. </p>
+<p> Οι επιστήμονες ανέφεραν ότι ?παρά τη χρήση της ισχυρής συνδυαστικής αντιρετροϊκής θεραπείας? η εκρίζωση της νόσου δεν έχει ακόμη επιτευχθεί. </p>
+<p> Αυτό δεν αποτελεί το μόνο αρνητικό: Σε ορισμένες περιπτώσεις, η χρόνια λοίμωξη από τον ιό HIV συνοδεύεται από απώτερες μεταβολικές διαταραχές, καρδιαγγειακά νοσήματα, διαβήτη, ηπατοπάθεια, νεφροπάθεια, παθήσεις των οστών και νεοπλασίες. </p>
+<p> ΥΠΟΥΡΓΕΙΟ ΥΓΕΙΑΣ </p>
+<p> Καμπάνια με δωρεάν σύριγγες - προφυλακτικά </p>
+<p> Πολύ σημαντική χαρακτήρισε την αυξητική μεταβολή των κρουσμάτων ο υπουργός Υγείας. Σχολιάζοντας τα στοιχεία του ΚΕΕΛΠΝΟ, ο κ. Ανδρέας Λοβέρδος εστίασε στο γεγονός ότι το 63% των κρουσμάτων αφορά χρήστες ενδοφλέβιων ναρκωτικών. Στον σταθμό του ΚΕΕΛΠΟ της Ομόνοιας ?είπε? ένας στους τέσσερις χρήστες είναι οροθετικός. Ο υπουργός έδωσε έμφαση και στην πορνεία, λέγοντας ότι στην Αθήνα λειτουργούν 600 παράνομοι οίκοι ανοχής και μόλις πέντε ή έξι είναι νόμιμοι ή ημινόμιμοι: «Αν δεν προσεχθούν οι εκδιδόμενες γυναίκες, ο ιός του AIDS θα εισβάλει στην ελληνική οικογένεια», ανέφερε χαρακτηριστικά. Αναφερόμενος στις δράσεις κατά της επιδημίας, επεσήμανε ότι θα διανεμηθούν 100.000 σύριγγες μίας χρήσης και 100.000 προφυλακτικά, ενώ το ΚΕΕΛΠΝΟ διοργανώνει ενημερωτικές εκδηλώσεις σε όλη τη χώρα. </p>
+<p> ΔΗΜΗΤΡΗΣ ΚΑΡΑΓΙΩΡΓΟΣ </p>
+<p> var google_adnum = 0; function google_ad_request_done(google_ads) { var s = ''; var i; if (google_ads.length == 0) { return; } if (google_ads[0].type == "flash") { s += '<a href=\"' + google_info.feedback_url + '\" style="color:000000">Ads by Google</a><br>' +  '<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"' + ' codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" WIDTH="' +  google_ad.image_width +	'" HEIGHT="' +  google_ad.image_height + '"> <PARAM NAME="movie" VALUE="' +  google_ad.image_url + '">' +  '<PARAM NAME="quality" VALUE="high">' +  '<PARAM NAME="AllowScriptAccess" VALUE="never">' +  '<EMBED src="' +  google_ad.image_url + '" WIDTH="' +  google_ad.image_width + '" HEIGHT="' +  google_ad.image_height +  '" TYPE="application/x-shockwave-flash"' +  ' AllowScriptAccess="never" ' +  ' PLUGINSPAGE="http://www.macromedia.com/go/getflashplayer"></EMBED></OBJECT>'; } else if (google_ads[0].type == "image") { s += '<a href=\"' + google_info.feedback_url + '\" style="color:000000">Ads by Google</a><br> <a href="' +  google_ads[0].url + '" target="_top" title="go to ' +  google_ads[0].visible_url + '" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to ' +  google_ads[0].visible_url + '\';return true"><img border="0" src="' +  google_ads[0].image_url + '"width="' +  google_ads[0].image_width + '"height="' +  google_ads[0].image_height + '"></a>'; } else if (google_ads[0].type == "html") { s += '<a href=\"' + google_info.feedback_url + '\" style="color:000000">Διαφημίσεις Google</a><br>' +  google_ads[0].snippet; } else { if (google_ads.length > 1) { s += "<table id=\"ethnosgads\" cellspacing=\"0\" cellpadding=\"0\">";  s += "  <tr>"; s += "    <td id=\"head\">"; s += '<a href=\"' + google_info.feedback_url + '\">Διαφημίσεις Google</a>' s += " <\/td>"; s += " <\/tr>"; s += " <tr>"; s += " <td>"; for(i = 0; i < google_ads.length; ++i) { s += '<br><a id=\"title\" target="_blank" target="_blank" href="' +  google_ads[i].url + '" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to '+ google_ads[i].visible_url + '\';return true"> <span>' +  google_ads[i].line1 + '</span></a> <span>' + google_ads[i].line2 + '</span><br/> <a id=\"adlink\" target="_blank" href="' +  google_ads[i].url + '" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to ' + google_ads[i].visible_url + '\';return true"><span>' +  google_ads[i].visible_url + '</span></a><br>'; } s += " <\/td>"; s += " <\/tr>"; s += " <\/table>"; }} if (google_ads[0].bidtype == "CPC") { google_adnum = google_adnum + google_ads.length; } document.write(s); return; } google_ad_client = 'pub-9628004899418467'; google_ad_channel = '5560398006'; google_ad_output = 'js'; google_max_num_ads = '4'; google_ad_type = 'text'; google_feedback = 'on'; google_encoding = 'UTF-8'; google_adtest = 'off'; google_language = 'el'; </p>
+<p> ΦΩΤΟΓΡΑΦΙΕΣ </p>
+<p> Εκτύπωση </p>
+<p> Email </p>
+<p> Tweet </p>
+<p> Επικοινωνία </p>
+<p> ΕΠΙΚΟΙΝΩΝΙΑ </p>
+<p> Απόκτηση παλαιότερων τευχών, φύλλων & προσφορών </p>
+<p> chrisoulam@pegasus.gr </p>
+<p> Πληροφορίες για διαφήμιση στην έντυπη έκδοση </p>
+<p> mdiamantaki@pegasus.gr </p>
+<p> Αποστολή βιογραφικών </p>
+<p> emavroudi@pegasus.gr </p>
+<p> Πληροφορίες για διαφήμιση στην ηλεκτρονική έκδοση </p>
+<p> advertising@pegasusinteractive.gr </p>
+<p> NEWSROOM </p>
+<p> 14:37 </p>
+<p> Η «βασίλισσα» Θάτσερ πέθανε - Γκάφα καναλιού της Ταϊβάν </p>
+<p> 14:17 </p>
+<p> Νεαρός ποδοσφαιριστής και φίλος του νεκροί σε τροχαίο </p>
+<p> 14:16 </p>
+<p> Καμπάνια της Daily Mail για την Θάτσερ: «Της αξίζει μια καλύτερη κηδεία» </p>
+<p> 14:15 </p>
+<p> Ικανοποιημένη η Noble από τις έρευνες στην κυπριακή ΑΟΖ </p>
+<p> 14:11 </p>
+<p> Χρυσή Αυγή: Κακοστημένη παρωδία οι δήθεν διαπραγματεύσεις </p>
+<p> 14:07 </p>
+<p> Δεμένα τα πλοία στις 16 Απριλίου </p>
+<p> 14:01 </p>
+<p> Κύπρος: 6.000 καταθέτες απέσυραν εκατομμύρια ευρώ </p>
+<p> 13:56 </p>
+<p> Στις 4.00 το νέο ραντεβού Στουρνάρα - τρόικας </p>
+<p> 13:55 </p>
+<p> Μπερσάνι: Σε ξέρω, Μπερλουσκόνι...μασκαράκο </p>
+<p> 13:55 </p>
+<p> Συνήγορος του Πολίτη: Προσφυγές κυρίως για θέματα κοινωνικής ασφάλισης </p>
+<p> 13:50 </p>
+<p> ΥΠΟΙΚ: θα παραμείνει δημόσιος ο χαρακτήρας της φορολογικής διοίκησης </p>
+<p> 13:49 </p>
+<p> ΣΥΡΙΖΑ: Αποφασισμένη για απολύσεις η κυβέρνηση </p>
+<p> 13:39 </p>
+<p> Κηδεύεται σήμερα ο ναύαρχος Ν. Παππάς </p>
+<p> 13:38 </p>
+<p> Αντίδραση Σόιμπλε για τις αμερικανικές «συμβουλές δημόσια» </p>
+<p> 13:37 </p>
+<p> Δε μετράει μόνο το... μέγεθος </p>
+<p> 13:35 </p>
+<p> ΟΔΔΗΧ: 1,3 δισ. ευρώ άντλησε το Δημόσιο </p>
+<p> 13:33 </p>
+<p> Φάιμαν: Θα διαπραγματευθούμε την άρση του τραπεζικού απορρήτου για τους ξένους </p>
+<p> 13:27 </p>
+<p> BlackRock προς Fed: Μειώστε το πρόγραμμα αγοράς ομολόγων </p>
+<p> 13:20 </p>
+<p> Πουλήθηκε το γιοτ του Μπερεζόφσκι </p>
+<p> 13:16 </p>
+<p> Την Πέμπτη ξεκινά το 19ο Συνέδριο του ΚΚΕ </p>
+<p> 13:14 </p>
+<p> «Δεν φτάνει η συγγνώμη» για την φονική ισραηλινή επιδρομή </p>
+<p> 13:08 </p>
+<p> Την επόμενη Τετάρτη η κηδεία της Θάτσερ </p>
+<p> 13:07 </p>
+<p> Νέα «ανεξήγητη» διαρροή ραδιενεργού ύδατος στην Φουκουσίμα </p>
+<p> 13:02 </p>
+<p> Βεβαιώθηκαν 2.345 παραβάσεις σε ελέγχους της Τροχαίας </p>
+<p> 12:42 </p>
+<p> Πεπελάσης: Δεν αποκλείω επιστροφή στη δραχμή </p>
+<p> 12:40 </p>
+<p> WikiLeaks: Μυστική συνάντηση Ετζεβίτ - αμερικανού πρέσβη πριν από τον Αττίλα </p>
+<p> 12:31 </p>
+<p> Στο 1 δισ. ευρώ περιορίστηκε το εμπορικό έλλειμμα το Φεβρουάριο </p>
+<p> 12:28 </p>
+<p> «Η Θάτσερ πέθανε...Επιτέλους!» </p>
+<p> 12:13 </p>
+<p> Κτηνοτρόφοι: Δεν πουλάμε κάτω από 6 ευρώ/κιλό τα αμνοερίφια </p>
+<p> 12:12 </p>
+<p> Αποπληθωρισμός τον Μάρτιο με -0,2%. Για πρώτη φορά μετά από 45 χρόνια </p>
+<p> 12:07 </p>
+<p> Τρίτη ημέρα ερευνών για τον εντοπισμό του αγνοούμενου </p>
+<p> 12:05 </p>
+<p> Fitch:Αναβάθμιση των ελληνικών τραπεζών αν προσελκύσουν ιδιωτικά κεφάλαια </p>
+<p> 11:56 </p>
+<p> «Ναι» στο ευρώ λένε 7 στους 10 Γερμανούς </p>
+<p> 11:52 </p>
+<p> «Ξένιος Ζεύς»: Συνελήφθησαν 19 αλλοδαποί στο κέντρο της Αθήνας </p>
+<p> 11:48 </p>
+<p> Hellastat: Συρρικνώνεται ο κλάδος των ταχυμεταφορών </p>
+<p> 11:47 </p>
+<p> Ερχονται οι νέοι γίγαντες των θαλασσών </p>
+<p> 11:46 </p>
+<p> Την επόμενη εβδομάδα η κηδεία της Θάτσερ - Θα αποτεφρωθεί η σορός της </p>
+<p> 11:42 </p>
+<p> Βενιζέλος: Αγκάθι το Δημόσιο στις διαπραγματεύσεις </p>
+<p> 11:18 </p>
+<p> Συνεδριάζουν σήμερα τα ΔΣ Εθνικής - Eurobank </p>
+<p> 11:11 </p>
+<p> Συνεχίζονται οι έλεγχοι σε καταστήματα, επιχειρήσεις και ιατρεία </p>
+<p> 11:09 </p>
+<p> Συναγερμός για υπερχείλιση Στρυμόνα - Κερκίνης </p>
+<p> 11:05 </p>
+<p> Σύλληψη και προσαγωγές για τα χθεσινά επεισόδια στην Πάτρα </p>
+<p> 11:05 </p>
+<p> Internet για... γιαγιάδες </p>
+<p> 10:57 </p>
+<p> Να εγκαταλείψουν τη Ν.Κορέα «διατάσσει» τους ξένους ο Κιμ Γιονγκ Ουν </p>
+<p> 10:56 </p>
+<p> Ισπανία: Να αναλάβει δράση η ΕΚΤ </p>
+<p> 10:43 </p>
+<p> Με επτά άτομα ενισχύθηκε η φρουρά του Νίκου Αναστασιάδη </p>
+<p> 10:42 </p>
+<p> Στο Νομικό Συμβούλιο η έκθεση για τις γερμανικές αποζημιώσεις </p>
+<p> 10:26 </p>
+<p> «Η ναυτιλία συνεχίζει να στηρίζει την κυπριακή οικονομία» </p>
+<p> 10:18 </p>
+<p> Αυστηρότερα μέτρα κατά της οπλοκατοχής ζητά από το Κονγκρέσο ο Ομπάμα </p>
+<p> 10:08 </p>
+<p> Τροχαίο στην Αθηνών - Λαμίας στο ύψος της Αχαρνών </p>
+<p> 10:03 </p>
+<p> Τετράχρονος το πρώτο θύμα του H5N1 φέτος στο Βιετνάμ </p>
+<p> 9:55 </p>
+<p> Σερβία: 60χρονος σκότωσε το γιο του και 12 συγχωριανούς του </p>
+<p> 9:00 </p>
+<p> «Aρχων» του Πατριαρχείου και των... πόθεν έσχες! </p>
+<p> 9:00 </p>
+<p> Μετά την αρχική βουτιά, η αγορά αντέδρασε θετικά </p>
+<p> 9:00 </p>
+<p> Οριστικά μείωση 15% στο χαράτσι </p>
+<p> 9:00 </p>
+<p> Στόχος η συμφωνία τα επόμενα 24ωρα εν όψει Eurogroup </p>
+<p> 9:00 </p>
+<p> Αγώνας για να γίνουν 10.000 οι αποχωρήσεις το 2014 </p>
+<p> 9:00 </p>
+<p> Κίνδυνος επιστροφής στο καθεστώς της αβεβαιότητας </p>
+<p> 9:00 </p>
+<p> "Πράσινο" για ξενοδοχεία στη Σητεία </p>
+<p> 9:00 </p>
+<p> Νόμιμη η επένδυση στην Κασσιόπη Κέρκυρας </p>
+<p> 9:00 </p>
+<p> Επιστρέφει ευρώ σε θύματα κερδοσκόπων </p>
+<p> 9:00 </p>
+<p> Μποναμάς 35 εκατ. ευρώ σε κτηνοτρόφους </p>
+<p> 9:00 </p>
+<p> Αντικειμενικό σύστημα με αμετάβλητες τιμές για το καθαρό εισόδημα </p>
+<p> 9:00 </p>
+<p> Πέντε μέτρα κατά των ελληνοποιήσεων ξένων αμνοεριφίων </p>
+<p> 9:00 </p>
+<p> Τι χάνει η Κύπρος αν φύγει από το ευρώ </p>
+<p> 9:00 </p>
+<p> Ασφαλείς οι καταθέτες, αγωνία από τους μετόχους </p>
+<p> 9:00 </p>
+<p> Μάρτυρες Ντέμης και Κανάκης </p>
+<p> 9:00 </p>
+<p> Χειρουργήθηκε ο 15χρονος </p>
+<p> 9:00 </p>
+<p> Συλλήψεις για χρέη προς το Δημόσιο </p>
+<p> 9:00 </p>
+<p> Οι δύο όψεις της Φυλής </p>
+<p> 9:00 </p>
+<p> Βόλτες στα νησιά με το... κινητό </p>
+<p> 9:00 </p>
+<p> Νέες εστίες καίνε και στον πυρήνα της Ευρωζώνης </p>
+<p> 9:00 </p>
+<p> Eφυγε η γυναίκα που σημάδεψε τον αιώνα </p>
+<p> 9:00 </p>
+<p> Καμπανάκι Πούτιν για Β. Κορέα </p>
+<p> 9:00 </p>
+<p> Πόλεμος με «Liberation» για κρυφό λογαριασμό </p>
+<p> 9:00 </p>
+<p> Οι κατακτήσεις του άτακτου πρίγκιπα </p>
+<p> 9:00 </p>
+<p> Γυμνόστηθη διαμαρτυρία από ακτιβίστριες </p>
+<p> 9:00 </p>
+<p> Φυλάκιση για το σκάνδαλο </p>
+<p> 9:00 </p>
+<p> «Αντίο Ελλάδα» από 120.000 επιστήμονες </p>
+<p> 9:00 </p>
+<p> Συγκρούσεις αναρχικών με μέλη της Χρυσής Αυγής </p>
+<p> 9:00 </p>
+<p> «Καλπάζει» η νοθεία στο κρέας </p>
+<p> 9:00 </p>
+<p> Τριβές κυβέρνησης - ΓΣΕΕ </p>
+<p> 9:00 </p>
+<p> Η κρίση χτυπά τις γυναίκες </p>
+<p> 9:00 </p>
+<p> Ακροδεξιά παρέλαση στην Καβάλα </p>
+<p> 9:00 </p>
+<p> «Οχι» στις οριζόντιες απολύσεις </p>
+<p> 9:00 </p>
+<p> Βενιζέλος: Η χώρα δεν αντέχει νέα μέτρα </p>
+<p> 9:00 </p>
+<p> Το «ναι» σε όλα κυρίαρχη ιδεολογία από την κυβέρνηση </p>
+<p> 9:00 </p>
+<p> Κόντρα Στουρνάρα - Λαφαζάνη </p>
+<p> 9:00 </p>
+<p> Προβληματισμός αλλά και χαμηλοί τόνοι από Μαξίμου </p>
+<p> 8:53 </p>
+<p> Πάτριοτ στο Τόκιο υπό το φόβο χτυπήματος της Β.Κορέας </p>
+<p> 8:32 </p>
+<p> Ομογενής σκότωσε 72χρονο για... πέντε ντοματιές </p>
+<p> 8:15 </p>
+<p> Βορειοκορεατικό μποϊκοτάζ στο Κεσόνγκ - Πρώτη διακοπή λειτουργίας από το 2004 </p>
+<p> 7:27 </p>
+<p> Καμία αντίδραση από την Αργεντινή για το θάνατο της Θάτσερ </p>
+<p> 7:12 </p>
+<p> Σεισμός 4,9 Ρίχτερ στη Νεάπολη Λακωνίας </p>
+<p> 7:00 </p>
+<p> Νόμιμα όλα τα αυθαίρετα προ του 1975 </p>
+<p> 0:27 </p>
+<p> Χειρουργήθηκε ο 15χρονος από την Πάτρα </p>
+<p> 23:44 </p>
+<p> Επιδείνωση της ύφεσης προβλέπει το ΙΟΒΕ για το 2013 </p>
+<p> 23:32 </p>
+<p> Επεισόδια μεταξύ αντιεξουσιαστών και χρυσαυγιτών στην Πάτρα </p>
+<p> 23:23 </p>
+<p> Στουρνάρας: Δεν ναυάγησε το deal Εθνικής-Eurobank </p>
+<p> 22:58 </p>
+<p> Εκκληση Ναπολιτάνο για το «μεγάλο συνασπισμό» </p>
+<p> addPrototypeElement('28582_19','NEWS','incl/100newse_28582.asp','pageid=639&catid=22768&subid=2&catidlocal=28042&subidlocal=2',false,''); </p>
+<p> setInitialTipEnvironment('bubbleSpan','tipDiv',100,350,'<table border="0" cellpadding="0" cellspacing="0"><tr><td valign="top" class="tipContainer"><div class="advContent">','</div></td><td width="10" class="rightSide"> </td></tr><tr><td height="10" class="bottomSide" align="center"><img src="js/contextual/images/arrow.png" class="arrow"></td><td height="10" class="bottomRight"></td></tr></table>') </p>
+<p> ΤΑ ΠΙΟ ΔΗΜΟΦΙΛΗ </p>
+<p> Νόμιμα όλα τα αυθαίρετα προ του 1975 </p>
+<p> [ «E» 9/4 ] </p>
+<p> Spiegel: Η Γερμανία χρωστάει 162 δισ. στην Ελλάδα </p>
+<p> [ 12:37 8/4 ] </p>
+<p> Συγκίνηση στη Βρετανία για τον θάνατο της Μάργκαρετ Θάτσερ </p>
+<p> [ 14:53 8/4 ] </p>
+<p> Οριστικά μείωση 15% στο χαράτσι </p>
+<p> [ «E» 9/4 ] </p>
+<p> «Αντίο Ελλάδα» από 120.000 επιστήμονες </p>
+<p> [ «E» 9/4 ] </p>
+<p> ΤΕΛΕΥΤΑΙΑ ΝΕΑ - ΠΟΛΙΤΙΚΗ </p>
+<p> Χρυσή Αυγή: Κακοστημένη παρωδία οι δήθεν διαπραγματεύσεις </p>
+<p> [ 14:11 9/4 ] </p>
+<p> ΣΥΡΙΖΑ: Αποφασισμένη για απολύσεις η κυβέρνηση </p>
+<p> [ 13:49 9/4 ] </p>
+<p> Την Πέμπτη ξεκινά το 19ο Συνέδριο του ΚΚΕ </p>
+<p> [ 13:16 9/4 ] </p>
+<p> Βενιζέλος: Αγκάθι το Δημόσιο στις διαπραγματεύσεις </p>
+<p> [ 11:42 9/4 ] </p>
+<p> Στο Νομικό Συμβούλιο η έκθεση για τις γερμανικές αποζημιώσεις </p>
+<p> [ 10:42 9/4 ] </p>
+<p> ΤΕΛΕΥΤΑΙΑ ΝΕΑ - OIKONOMIA </p>
+<p> Ικανοποιημένη η Noble από τις έρευνες στην κυπριακή ΑΟΖ </p>
+<p> [ 14:15 9/4 ] </p>
+<p> Κύπρος: 6.000 καταθέτες απέσυραν εκατομμύρια ευρώ </p>
+<p> [ 14:01 9/4 ] </p>
+<p> Στις 4.00 το νέο ραντεβού Στουρνάρα - τρόικας </p>
+<p> [ 13:56 9/4 ] </p>
+<p> ΥΠΟΙΚ: θα παραμείνει δημόσιος ο χαρακτήρας της φορολογικής διοίκησης </p>
+<p> [ 13:50 9/4 ] </p>
+<p> ΟΔΔΗΧ: 1,3 δισ. ευρώ άντλησε το Δημόσιο </p>
+<p> [ 13:35 9/4 ] </p>
+<p> ΤΕΛΕΥΤΑΙΑ ΝΕΑ - ΔΙΕΘΝΗ </p>
+<p> Η «βασίλισσα» Θάτσερ πέθανε - Γκάφα καναλιού της Ταϊβάν </p>
+<p> [ 14:37 9/4 ] </p>
+<p> Καμπάνια της Daily Mail για την Θάτσερ: «Της αξίζει μια καλύτερη κηδεία» </p>
+<p> [ 14:16 9/4 ] </p>
+<p> Μπερσάνι: Σε ξέρω, Μπερλουσκόνι...μασκαράκο </p>
+<p> [ 13:55 9/4 ] </p>
+<p> Αντίδραση Σόιμπλε για τις αμερικανικές «συμβουλές δημόσια» </p>
+<p> [ 13:38 9/4 ] </p>
+<p> Δε μετράει μόνο το... μέγεθος </p>
+<p> [ 13:37 9/4 ] </p>
+<p> ΕΘΝΟΣΠΟΡ </p>
+<p> Τον πνίγει «θηλιά» 15 εκατ.€ </p>
+<p> [ 10:03 9/4 ] </p>
+<p> Τελειώνουν Λίνεν και... ΑΕΚ </p>
+<p> [ 07:19 9/4 ] </p>
+<p> Επιστροφή Ζαγοράκη έπειτα από πρέσινγκ Σαββίδη </p>
+<p> [ 10:03 9/4 ] </p>
+<p> Στόχος να «σπάσει» την έδρα </p>
+<p> [ 10:03 9/4 ] </p>
+<p> Αμφισβητίας ο Αγουέρο </p>
+<p> [ 10:03 9/4 ] </p>
+<p> jQuery('#accordion').accordion({ header: 'h1',selectedClass:'active',autoheight:true}); </p>
+<p> imerisia.gr | ΕΠΙΛΟΓΗ </p>
+<p> Τι αλλάζει στον τραπεζικό χάρτη της χώρας μετά το ναυάγιο της συγχώνευσης </p>
+<p> "Η" 9/4 </p>
+<p> Η Κύπρος βαδίζει προς την έξοδο από το ευρώ </p>
+<p> "Η" Online 8/4 19:03 </p>
+<p> Κατάθεση Ντέμη Νικολαΐδη και Αντώνη Κανάκη για  σκάνδαλο τοκογλυφίας </p>
+<p> "Η" Online 9/4 09:18 </p>
+<p> Πουλήθηκε ο Σκορπιός του Ωνάση σε Ρώσο δισεκατομμυριούχο </p>
+<p> "Η" Online 9/4 09:53 </p>
+<p> Θαύμα! Ο παράλυτος ζητιάνος... περπάτησε </p>
+<p> "Η" Online 8/4 22:49 </p>
+<p> Τι σημαίνει για  μετόχους και καταθέτες το «ναυάγιο» του deal  Εθνικής - Eurobank </p>
+<p> "Η" Online 8/4 09:32 </p>
+<p> Σφραγίζει οριστικά μείωση 15% στο χαράτσι </p>
+<p> "Η" Online 9/4 07:06 </p>
+<p> Οι οφειλές στο Δημόσιο θα εξοφλούνται σε 48 δόσεις </p>
+<p> "Η" Online 9/4 03:49 </p>
+<p> elle.gr | ΕΠΙΛΟΓΗ </p>
+<p> Μπλε μακιγιάζ για κορίτσια που λατρεύουν τη θάλασσα </p>
+<p> elle.gr </p>
+<p> Αξεσουάρ έργα-τέχνης: Όταν η μόδα δημιουργεί γλυπτά </p>
+<p> elle.gr </p>
+<p> Τα νέα It shoes των celebrities </p>
+<p> elle.gr </p>
+<p> 4 ανοιξιάτικες συνταγές για το τραπέζι σας </p>
+<p> elle.gr </p>
+<p> Ελιξίρια ομορφιάς για υπέροχα μαλλιά </p>
+<p> elle.gr </p>
+<p> 8 νέα επαναστατικά προϊόντα νύχτας για να νικήσετε το χρόνο </p>
+<p> elle.gr </p>
+<p> Τάση: Το πλαστικό φέτος παίζει δυνατά στη μόδα </p>
+<p> elle.gr </p>
+<p> Navy ρολόγια που φέρνουν το καλοκαίρι! </p>
+<p> elle.gr </p>
+<p> // <![CDATA[[ if (typeof Adman === 'undefined' || /MSIE [456]/.test(navigator['appVersion'])) document.write ('<scr'+'ipt src="http://static.adman.gr/adman.js" language="javascript" type="text/javascript"></'+'sc'+'ript>'); var now=parseInt((new Date()).getTime()); if (!window.admantpid) window.admantpid = now; var rnd=Math.floor(Math.random()*900000)+100,cdp=screen.width+"x"+screen.height+"x"+(navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth),burst="?"+rnd+":="+window.admantpid +"@"+cdp+"?"; document.write("<scr"+"ipt language=\"Javascript\" src=\"http://ads.e-go.gr/gbanner/?"+now+"|33/300x250"+burst+"/\">"); document.write("</"+"sc"+"ript>"); // ]]> </p>
+<p> /***      Simple jQuery Slideshow Script     Released by Jon Raasch (jonraasch.com) under FreeBSD license: free to use or modify, not responsible for anything, etc.  Please link out to me if you like it :) ***/  function slideSwitch() {     var $active = $('#promoshow li.active');      if ( $active.length == 0 ) $active = $('#promoshow li:last');      // use this to pull the images in the order they appear in the markup     var $next =  $active.next().length ? $active.next()         : $('#promoshow li:first');      // uncomment the 3 lines below to pull the images in random order          // var $sibs  = $active.siblings();     // var rndNum = Math.floor(Math.random() * $sibs.length );     // var $next  = $( $sibs[ rndNum ] );       $active.addClass('last-active');      $next.css({opacity: 0.0})         .addClass('active')         .animate({opacity: 1.0}, 1000, function() {             $active.removeClass('active last-active');         }); }  $(function() {     setInterval( "slideSwitch()", 22000 ); }); </p>
+<p> #promoshow {   background: url("images/divider_lines.gif") repeat-x scroll center bottom transparent;   margin: 0 0 15px;   min-height: 180px;   padding: 0 0 25px;   position: relative;   width: 300px; }  #promoshow li {     position:absolute;     top:0;     left:0;     z-index:8;     list-style: none;     opacity:0.0; }  #promoshow li.active {     z-index:10;     opacity:1.0; }  #promoshow li.last-active {     z-index:9; } </p>
+<p> if (typeof multimediawrite!="undefined") {multimediawrite('<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" CODEBASE="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab" id="banner" width="300" height="180"><param name="wmode" value="opaque" /><param name="movie" value="http://content-mcdn.ethnos.gr/pegasus/Multimedia/swf/TuesdayToday0904_id28594251.swf"><param name="allowScriptAccess" value="always"><param name="Autostart" value="true"><embed src="http://content-mcdn.ethnos.gr/pegasus/Multimedia/swf/TuesdayToday0904_id28594251.swf"   swliveconnect="true" wmode="opaque" width="300" height="180" allowScriptAccess="always" name="banner" type="application/x-shockwave-flash" pluginspace="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></embed></object>'); } else { document.write('<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" CODEBASE="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab" id="banner" width="300" height="180"><param name="wmode" value="opaque" /><param name="movie" value="http://content-mcdn.ethnos.gr/pegasus/Multimedia/swf/TuesdayToday0904_id28594251.swf"><param name="allowScriptAccess" value="always"><param name="Autostart" value="true"><embed src="http://content-mcdn.ethnos.gr/pegasus/Multimedia/swf/TuesdayToday0904_id28594251.swf"   swliveconnect="true" wmode="opaque" width="300" height="180" allowScriptAccess="always" name="banner" type="application/x-shockwave-flash" pluginspace="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></embed></object>');}; </p>
+<p> ΑΡΘΡΟΓΡΑΦΙΑ </p>
+<p> ΕΘΝΟΣ ΓΝΩΜΗ </p>
+<p> Το ισχυρότερο όπλο μας </p>
+<p> [ «E» 9/4 ] </p>
+<p> ...» </p>
+<p> ΠΑΝΤΕΛΗΣ ΚΑΨΗΣ </p>
+<p> Διαζύγια και δράκοι... </p>
+<p> [ «E» 9/4 ] </p>
+<p> ...» </p>
+<p> ΕΡΡΙΚΟΣ ΜΠΑΡΤΖΙΝΟΠΟΥΛΟΣ </p>
+<p> Ομολογούν ανέτοιμοι </p>
+<p> [ «E» 9/4 ] </p>
+<p> ...» </p>
+<p> ΠΑΝΑΓΙΩΤΗΣ ΠΑΝΑΓΙΩΤΟΥ </p>
+<p> Αλλαγή «τραπεζικού δόγματος» </p>
+<p> [ «E» 9/4 ] </p>
+<p> ...» </p>
+<p> ΓΙΩΡΓΟΣ ΔΕΛΑΣΤΙΚ </p>
+<p> Αρπαγή καταθέσεων είναι η επίσημη πολιτική της ΕΕ </p>
+<p> [ «E» 9/4 ] </p>
+<p> ...» </p>
+<p> ΘΑΝΑΣΗΣ ΛΥΡΤΣΟΓΙΑΝΝΗΣ </p>
+<p> Casus belli οι απαιτήσεις της τρόικας για Εθνική και Eurobank </p>
+<p> [ «E» 2/4 ] </p>
+<p> ...» </p>
+<p> ΕΠΩΝΥΜΩΣ </p>
+<p> Νωχελικός κυβερνητισμός </p>
+<p> [ «E» 9/4 ] </p>
+<p> ...» </p>
+<p> ΠΑΝΑΓΙΩΤΗΣ ΛΑΜΨΙΑΣ </p>
+<p> Η αισιοδοξία ως επιλογή θα επιβραβεύσει τους τολμηρούς </p>
+<p> [ «E» 7/4 ] </p>
+<p> ...» </p>
+<p> ΜΙΧΑΛΗΣ ΙΓΝΑΤΙΟΥ </p>
+<p> Κάθαρση από αδιάφθορους δικαστές </p>
+<p> [ «E» 7/4 ] </p>
+<p> ...» </p>
+<p> ΧΡΗΣΤΟΣ ΜΑΧΑΙΡΑΣ </p>
+<p> Να μη χαρίσουμε μια γενιά στο χάος </p>
+<p> [ forum ] </p>
+<p> ...» </p>
+<p> ΝΙΚΟΣ ΜΕΛΕΤΗΣ </p>
+<p> Ο έρωτας περνάει απ’ τα συμφέροντα </p>
+<p> [ forum ] </p>
+<p> ...» </p>
+<p> ΠΡΟΤΑΣΕΙΣ </p>
+<p> Deal my Day: </p>
+<p> Κάντε τις αγορές σας και μπείτε δωρεάν στην κλήρωση για να κερδίσετε πλούσια δώρα! </p>
+<p> var google_adnum = 0; function google_ad_request_done(google_ads) { var s = ''; var i; if (google_ads.length == 0) { return; } if (google_ads[0].type == "flash") { s += '<a href=\"' + google_info.feedback_url + '\" style="color:000000">Ads by Google</a><br>' +  '<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"' + ' codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" WIDTH="' +  google_ad.image_width +	'" HEIGHT="' +  google_ad.image_height + '"> <PARAM NAME="movie" VALUE="' +  google_ad.image_url + '">' +  '<PARAM NAME="quality" VALUE="high">' +  '<PARAM NAME="AllowScriptAccess" VALUE="never">' +  '<EMBED src="' +  google_ad.image_url + '" WIDTH="' +  google_ad.image_width + '" HEIGHT="' +  google_ad.image_height +  '" TYPE="application/x-shockwave-flash"' +  ' AllowScriptAccess="never" ' +  ' PLUGINSPAGE="http://www.macromedia.com/go/getflashplayer"></EMBED></OBJECT>'; } else if (google_ads[0].type == "image") { s += '<a href=\"' + google_info.feedback_url + '\" style="color:000000">Ads by Google</a><br> <a href="' +  google_ads[0].url + '" target="_top" title="go to ' +  google_ads[0].visible_url + '" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to ' +  google_ads[0].visible_url + '\';return true"><img border="0" src="' +  google_ads[0].image_url + '"width="' +  google_ads[0].image_width + '"height="' +  google_ads[0].image_height + '"></a>'; } else if (google_ads[0].type == "html") { s += '<a href=\"' + google_info.feedback_url + '\" style="color:000000">Διαφημίσεις Google</a><br>' +  google_ads[0].snippet; } else { if (google_ads.length > 1) { s += "<table id=\"ga_ethnosgads\" cellspacing=\"0\" cellpadding=\"0\">";  s += "  <tr>"; s += "    <td id=\"ga_head\">"; s += '<a href=\"' + google_info.feedback_url + '\">Διαφημίσεις Google</a>' s += " <\/td>"; s += " <\/tr>"; s += " <tr>"; s += " <td>"; for(i = 0; i < google_ads.length; ++i) { s += '<br><a id=\"ga_title\" target="_blank" href="' +  google_ads[i].url + '" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to '+ google_ads[i].visible_url + '\';return true"> <span>' +  google_ads[i].line1 + '</span></a> <br><span>' + google_ads[i].line2 + '</span><br/> <a id=\"ga_adlink\" target="_blank" href="' +  google_ads[i].url + '" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to ' + google_ads[i].visible_url + '\';return true"><span>' +  google_ads[i].visible_url + '</span></a>'; } s += " <\/td>"; s += " <\/tr>"; s += " <\/table>"; }} if (google_ads[0].bidtype == "CPC") { google_adnum = google_adnum + google_ads.length; } document.write(s); return; } google_ad_client = 'pub-9628004899418467'; google_ad_channel = '2746532400'; google_ad_output = 'js'; google_max_num_ads = '4'; google_ad_type = 'text'; google_feedback = 'on'; google_encoding = 'UTF-8'; google_adtest = 'off'; google_language = 'el'; </p>
+<p> // <![CDATA[[ if (typeof Adman === 'undefined' || /MSIE [456]/.test(navigator['appVersion'])) document.write ('<scr'+'ipt src="http://static.adman.gr/adman.js" language="javascript" type="text/javascript"></'+'sc'+'ript>'); var now=parseInt((new Date()).getTime()); if (!window.admantpid) window.admantpid = now; var rnd=Math.floor(Math.random()*900000)+100,cdp=screen.width+"x"+screen.height+"x"+(navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth),burst="?"+rnd+":="+window.admantpid +"@"+cdp+"?"; document.write("<scr"+"ipt language=\"Javascript\" src=\"http://ads.e-go.gr/gbanner/?"+now+"|1043/300x250"+burst+"/\">"); document.write("</"+"sc"+"ript>"); // ]]> </p>
+<p> Αν είστε ήδη εγγεγραμμένοι κάντε κλικ </p>
+<p> εδώ </p>
+<p> $(document).ready(function() {      $('.nlinput').focus(function() {       $(this).val("");    })    $('.subnl').click(function() {       var con = $('.nlinput').val();       if( ( con != "Εισάγετε εδώ το mail σας") && (con !="") ){           document.location.href = "r.asp?catid=23637&mreg=" + con;       }    }) }) </p>
+<p> cookie_rnd = Math.floor(Math.random() * 900000000000) + 100000000000;                 cookie_url = 'http://stats.e-go.gr/?nWebSrvID=100230&nCatID=22768&nStampRightID=&nLevelid=2&nPubID=63561878&nServID=' + '&nocache=' + cookie_rnd;                 document.write('<img src="' + cookie_url + '" border=0 width=1 height=1>'); </p>
+<p> _uacct="UA-1074537-2"; urchinTracker(); </p>
+<p> ΝΕΑ ΣΕ 10" </p>
+<p> ΠΟΛΙΤΙΚΗ </p>
+<p> ΚΟΙΝΩΝΙΑ </p>
+<p> ΟΙΚΟΝΟΜΙΑ </p>
+<p> ΔΙΕΘΝΗ </p>
+<p> ΠΕΡΙΒΑΛΛΟΝ </p>
+<p> ΑΡΘΡΟΓΡΑΦΙΑ </p>
+<p> ΕΘΝΟΣΠΟΡ </p>
+<p> ΠΟΛΙΤΙΣΜΟΣ </p>
+<p> ΕΝΘΕΤΑ </p>
+<p> ΧΡΗΣΙΜΑ </p>
+<p> ΕΠΙΚΟΙΝΩΝΙΑ </p>
+<p> ΠΡΟΣΦΟΡΕΣ </p>
+<p> ΔΙΑΦΗΜΙΣΗ </p>
+<p> ΑΠΑΓΟΡΕΥΕΤΑΙ η αναδημοσίευση, η αναπαραγωγή, ολική, μερική ή περιληπτική ή κατά παράφραση ή διασκευή απόδοση του περιεχομένου του παρόντος web site με οποιονδήποτε τρόπο, ηλεκτρονικό, μηχανικό, φωτοτυπικό, ηχογράφησης ή άλλο, χωρίς προηγούμενη γραπτή άδεια του εκδότη. Νόμος 2121/1993 και κανόνες Διεθνούς Δικαίου που ισχύουν στην Ελλάδα.  Copyright © 2011 ΕΚΔΟΣΕΙΣ ΕΘΝΟΣ Α.Ε. </p>
+<p> var pvar = { cid: "gr-pegasus", content: "0", server: "secure-uk" };  var feat = { surveys_enabled: 1, sample_rate: 0.05 };  var trac = nol_t(pvar, feat);  var _rsND = trac.getSchemeHost(); // For compatibility with v53 surveys  var _rsCI = "gr-pegasus"; // For compatibility with v53 surveys  trac.record().post().do_sample(); </p>
+<p> Μόδα </p>
+<p> , </p>
+<p> Ομορφιά, </p>
+<p> Υπέροχο Κορμί. </p>
+<p> Κουζίνα </p>
+<p> , </p>
+<p> Elle Deco. </p>
+<p> Διαγωνισμοί. </p>
+<p> Περισσότερα στο www.elle.gr </p>
+<p> Ειδησεογραφία: </p>
+<p> Οικονομία </p>
+<p> & </p>
+<p> Αγορές </p>
+<p> . </p>
+<p> Ελληνικές </p>
+<p> & </p>
+<p> Ξένες επιχειρήσεις </p>
+<p> . </p>
+<p> Μετοχές </p>
+<p> , </p>
+<p> Χρηματιστήριο </p>
+<p> , </p>
+<p> Απόψεις </p>
+<p> . </p>
+<p> Περισσότερα στο www.imerisia.gr </p>
+<p> Ποδόσφαιρο: </p>
+<p> Ελλάδα </p>
+<p> & </p>
+<p> Διεθνή </p>
+<p> . </p>
+<p> Μπάσκετ </p>
+<p> , </p>
+<p> Βόλεϊ </p>
+<p> και </p>
+<p> άλλα σπορ </p>
+<p> . </p>
+<p> DailyBet </p>
+<p> & </p>
+<p> Παρασκήνια </p>
+<p> . </p>
+<p> Περισσότερα στο www.sentragoal.gr </p>
+<p> Ειδήσεις </p>
+<p> για την </p>
+<p> Ελλάδα </p>
+<p> και τον </p>
+<p> κόσμο </p>
+<p> . </p>
+<p> Ενημέρωση & Ψυχαγωγία </p>
+<p> . </p>
+<p> Lifestyle </p>
+<p> , </p>
+<p> μόδα </p>
+<p> , </p>
+<p> ομορφιά </p>
+<p> , </p>
+<p> αστρολογία </p>
+<p> . </p>
+<p> Περισσότερα στο www.e-go.gr </p>
+<p> // <![CDATA[[ if (typeof Adman === 'undefined' || /MSIE [456]/.test(navigator['appVersion'])) document.write ('<scr'+'ipt src="http://static.adman.gr/adman.js" language="javascript" type="text/javascript"></'+'sc'+'ript>'); var now=parseInt((new Date()).getTime()); if (!window.admantpid) window.admantpid = now; var rnd=Math.floor(Math.random()*900000)+100,cdp=screen.width+"x"+screen.height+"x"+(navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth),burst="?"+rnd+":="+window.admantpid +"@"+cdp+"?"; document.write("<scr"+"ipt language=\"Javascript\" src=\"http://ads.e-go.gr/gbanner/?"+now+"|1320/120x600"+burst+"/\">"); document.write("</"+"sc"+"ript>"); // ]]> </p>
+<p> // <![CDATA[[ if (typeof Adman === 'undefined' || /MSIE [456]/.test(navigator['appVersion'])) document.write ('<scr'+'ipt src="http://static.adman.gr/adman.js" language="javascript" type="text/javascript"></'+'sc'+'ript>'); var now=parseInt((new Date()).getTime()); if (!window.admantpid) window.admantpid = now; var rnd=Math.floor(Math.random()*900000)+100,cdp=screen.width+"x"+screen.height+"x"+(navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth),burst="?"+rnd+":="+window.admantpid +"@"+cdp+"?"; document.write("<scr"+"ipt language=\"Javascript\" src=\"http://ads.e-go.gr/gbanner/?"+now+"|1217/120x600"+burst+"/\">"); document.write("</"+"sc"+"ript>"); // ]]> </p>

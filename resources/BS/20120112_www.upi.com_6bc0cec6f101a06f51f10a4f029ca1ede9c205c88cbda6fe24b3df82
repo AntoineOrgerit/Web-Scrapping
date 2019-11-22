@@ -1,0 +1,250 @@
+<p> Advocates want free booze for alcoholics - UPI.com </p>
+<p> var _sf_startpt=(new Date()).getTime() </p>
+<p> function c_stat(u, p) {jQuery.post(u, 'ref='+encodeURIComponent(document.referrer)+'&'+p);} 	jQuery.noConflict(); 	enl_cfg = {iframe: 1, x: 1150, y: jQuery(window).height()-50, resize: 1}; 	jQuery(document).ready(function(){ 		jQuery('ul.sf-menu').superfish({ 			pathClass:  'current',			 			autoArrows: false 		}); 			}); </p>
+<p> GS_googleAddAdSenseService("ca-pub-8092808895818477"); 	  GS_googleEnableAllServices(); </p>
+<p> GA_googleAddSlot("ca-pub-8092808895818477", "UPI_Top_News_728x90_top"); 	GA_googleAddSlot("ca-pub-8092808895818477", "UPI_Top_News_300x250_right"); 		GA_googleAddSlot("ca-pub-8092808895818477", "UPI_Top_News_300x250_embed"); 	GA_googleAddSlot("ca-pub-8092808895818477", "UPI_Top_News_300x250_right1"); 	GA_googleAddSlot("ca-pub-8092808895818477", "UPI_Top_News_160x600_right3"); 		GA_googleAddSlot("ca-pub-8092808895818477", "UPI_Top_News_728x90_bottom"); 	GA_googleAddSlot("ca-pub-8092808895818477", "UPI_Top_News_RichMedia_x09_1x1"); </p>
+<p> GA_googleFetchAds(); </p>
+<p> Mobile UPI </p>
+<p> | </p>
+<p> About UPI </p>
+<p> | </p>
+<p> UPI en Español </p>
+<p> | </p>
+<p> UPI Arabic </p>
+<p> | </p>
+<p> UPIU </p>
+<p> | </p>
+<p> My Account </p>
+<p> Search: </p>
+<p> Articles </p>
+<p> Photos </p>
+<p> Go </p>
+<p> var sq = jQuery('.search_i'); 					var search_txt = "Type in your Search Term"; 					jQuery('#searchFormT').submit(function() {if(sq.val() == search_txt || sq.val() == '') {return false;}}); 					sq.click(function() {sq.removeClass('s_ita').addClass('s_no_ita');if(sq.val() == search_txt) sq.val('');}); </p>
+<p> GA_googleFillSlot('UPI_Top_News_728x90_top'); </p>
+<p> Home </p>
+<p> Top News </p>
+<p> U.S. News </p>
+<p> World News </p>
+<p> Local News </p>
+<p> Special Reports </p>
+<p> Analysis </p>
+<p> News Photos </p>
+<p> Audio Archives </p>
+<p> Entertainment </p>
+<p> Movies </p>
+<p> Music </p>
+<p> TV </p>
+<p> Entertainment Photos </p>
+<p> Broadway News </p>
+<p> Odd News </p>
+<p> Horoscope </p>
+<p> Almanac </p>
+<p> Best of Odd News </p>
+<p> Business </p>
+<p> Energy Resources </p>
+<p> Security Industry </p>
+<p> Crude Oil Report </p>
+<p> Analysis: Economic Outlook </p>
+<p> Consumer Corner </p>
+<p> Sports </p>
+<p> Football </p>
+<p> Baseball </p>
+<p> Basketball </p>
+<p> Tennis </p>
+<p> Golf </p>
+<p> Sports Photos </p>
+<p> College Basketball </p>
+<p> College Football </p>
+<p> Science </p>
+<p> Health </p>
+<p> Pet Parade </p>
+<p> Real Estate </p>
+<p> Home Value </p>
+<p> Find a Home </p>
+<p> Find a Realtor </p>
+<p> Photos </p>
+<p> News Photos </p>
+<p> Features </p>
+<p> Entertainment </p>
+<p> Sports </p>
+<p> Photos of the Day </p>
+<p> Photos of the Week </p>
+<p> Archives </p>
+<p> Analysis </p>
+<p> Commentary: Arnaud De Borchgrave </p>
+<p> Walker's World </p>
+<p> Outside View </p>
+<p> You are here: </p>
+<p> Home </p>
+<p> / </p>
+<p> Top News </p>
+<p> / </p>
+<p> World News </p>
+<p> / </p>
+<p> Advocates want free booze for alcoholics </p>
+<p> View archive </p>
+<p> | </p>
+<p> RSS Feed </p>
+<p> Receive Free UPI Newsletter </p>
+<p> World News </p>
+<p> Advocates want free booze for alcoholics </p>
+<p> Published: Jan. 11, 2012 at 11:27 AM </p>
+<p> Comments </p>
+<p> Email </p>
+<p> Print </p>
+<p> Listen </p>
+<p> Tweet </p>
+<p> document.write('Downtown Vancouver, British Columbia.    File/UPI/Brian Kersey&nbsp;<a style="float: right;" href="http://www.upi.com/enl-win/cf8a7d7fcc369e120f3feea64e57ce25/UPI-12371326299258/" onclick="upi_ol.go(this.href, {iframe: 1, x: 1000, y: jQuery(window).height()-100, resize: 1}); return false;"><img src="http://www.upi.com/img/clear.gif" width="15" height="15" class="photo_magnify"></a><div style="clear: both;"></div>'); </p>
+<p> var sp_fill = function(o, uid) { 		upi_pt_c('/story/photos/fill/UPI-12371326299258/'+o+'/', '', 'story_w_photos', uid); 		jQuery.ajax({ 			type: 'GET', cache: false,  			url: '/story/photos/fill/UPI-12371326299258/'+o+'/',  			dataType: 'json',  			success: function(d) { 				var sp_pn = jQuery('#sp .pn'); 				var sp_photo = jQuery('#sp .photo'); 				var sp_cap = jQuery('#sp .caption'); 				sp_pn.html(d.pn); 				sp_photo.fadeOut('fast', function() {sp_photo.html(d.photo);}).fadeIn('fast'); 				sp_cap.fadeOut('fast', function() {sp_cap.html(d.caption);}).fadeIn('fast'); 			} 		}); 	} 	jQuery(document).ready(function() {jQuery('#si .scroll').hover(function() {var pn = jQuery(this).attr('id');jQuery(this).addClass(pn+'_h');}, function() {var pn = jQuery(this).attr('id');jQuery(this).removeClass(pn+'_h');});}); </p>
+<p> google_ad_client = "ca-pub-8092808895818477";google_ad_slot = "1186361128";google_ad_width = 300;google_ad_height = 250; </p>
+<p> VANCOUVER, British Columbia, Jan. 11 (UPI) -- An advocacy group in Canada is calling for government funding to provide alcoholics with free alcohol to curb the drinking of hand sanitizer and mouthwash. </p>
+<p> The proposal is from Vancouver's Eastside Illicit Drinkers Group for Education, which was formed in July and received a $52,000 grant to research alcohol maintenance programs in British Columbia. </p>
+<p> Spokesman Rob Morgan said he is among thousands of alcoholics who buy and drink hand sanitizer stolen from hospitals, and also drink mouthwash or rubbing alcohol, The (Vancouver) Province reported. </p>
+<p> Vancouver already has centers where heroin addicts can inject with safe syringes and Morgan said the time has come to give the same protection to alcoholics, </p>
+<p> "It would be members-only because once word gets out it is free alcohol everyone that just wants a free drink would show up," he told the newspaper. </p>
+<p> Preliminary estimates show it would cost about $350 per month per drinker, but the group maintains that would be cheaper than the costs of emergency medical treatment for people drinking unsafe alcohol. </p>
+<p> A proposed drinker's lounge would be stocked with vodka, sherry and high-alcohol beer, Morgan said. </p>
+<p> © 2012 United Press International, Inc. All Rights Reserved. Any reproduction, republication, redistribution and/or modification of any UPI content is expressly prohibited without UPI's prior written consent. </p>
+<p> Order reprints </p>
+<p> Join the conversation </p>
+<p> var upi_c_page_id = '12371326299258'; 		var upi_c_page_type = 'story'; </p>
+<p> Most Popular Collections </p>
+<p> The anniversary of the Tucson massacre </p>
+<p> Mitt Romney on the campaign trail </p>
+<p> The 1st Airborne Brigade in Japan </p>
+<p> Bull Riders in New York City </p>
+<p> NFL wild card games </p>
+<p> Ring Entering Ceremony at Meiji Shrine </p>
+<p> Additional World News Stories </p>
+<p> Top News </p>
+<p> Video claims Marines urinated on corpses </p>
+<p> KABUL, Afghanistan, Jan. 12 (UPI) -- </p>
+<p> The U.S. Marine Corps said it is investigating the origins of a video posted on the Internet that claims to show Marines urinating on the corpses of insurgents. </p>
+<p> Triple killing sparked by teen feud? </p>
+<p> Dog sniffs out 130 pounds of cocaine </p>
+<p> South Sudan accuses Sudan of stealing oil </p>
+<p> Study ranks countries' nuclear safety </p>
+<p> Entertainment News </p>
+<p> People in the news </p>
+<p> The latest news on today's hottest celebrities ... </p>
+<p> 'Potter' wins big at People's Choice show </p>
+<p> 'Mother,' Perry nab Choice Awards </p>
+<p> 'One Life' stars join 'GH' cast </p>
+<p> 'Cougar Town' to prowl back for Season 3 </p>
+<p> Business News </p>
+<p> India buys MBDA missiles </p>
+<p> NEW DELHI, Jan. 12 (UPI) -- </p>
+<p> India will buy 500 air-to-air missiles from European guided weapons manufacturer MBDA for its Mirage 2000 aircraft in a contract worth around $1.2 billion. </p>
+<p> Bell Mobility guts call center staff </p>
+<p> China Dec. inflation eases to 4.1 percent </p>
+<p> U.S. foreclosures expected to rise in 2012 </p>
+<p> Yemen LNG optimistic despite unrest </p>
+<p> Local News </p>
+<p> Bison drop third straight conference game on the road </p>
+<p> Steve Aoki's Debut Album Wonderland Available Now; Full Track-by-Track Review </p>
+<p> Torian's Bill Could Spark Rail Movement </p>
+<p> Rockville Ranks Low on National Commuting Index </p>
+<p> Feds File Charges Against Harry Thomas Jr. </p>
+<p> GA_googleFillSlot('UPI_Top_News_300x250_right'); </p>
+<p> #rc_cols .rc_box		{ margin-bottom: 5px; border: 1px solid #cccccc; padding: 11px; } 			#rc_cols .rc_header		{ color:#990000; font-size: 18px; } 			#rc_cols .rc_block		{ margin-bottom: 11px; } 			#rc_cols .rc_block img	{ padding: 1px; border: 1px solid #cccccc; } </p>
+<p> UPI News Photos </p>
+<p> The New Hampshire Primary </p>
+<p> North American International Auto Show </p>
+<p> CES 2012 </p>
+<p> Alabama tops LSU in the BCS Championship </p>
+<p> Professional Bull Riders in New York City </p>
+<p> Most Popular </p>
+<p> 1. </p>
+<p> Man with unusual name arrested in Wis. </p>
+<p> 2. </p>
+<p> Excedrin, Bufferin, Gas-X, NoDoz recalled </p>
+<p> 3. </p>
+<p> Identical quadruplets born in Germany </p>
+<p> 4. </p>
+<p> Jakarta cops seize drugs worth $34 million </p>
+<p> 5. </p>
+<p> Pair remarries after husband becomes woman </p>
+<p> Stories </p>
+<p> Photos </p>
+<p> People </p>
+<p> Comments </p>
+<p> function load_mp(t, i) { 		jQuery.ajax({type: 'GET', async: true, cache: false, url: '/mp/'+i+'/', dataType: 'html', success: function(data) {jQuery('.mp_btn').removeClass('selected'); 		jQuery(t).addClass('selected'); 		var n = jQuery('#most_popular_side');n.fadeOut('fast', function() {n.html(data)}).fadeIn('fast');}}); 		 		upi_pt('http://www.upi.com/mp/'+i+'/', 'Most Popular - '+i); 	} </p>
+<p> sign up to receive our daily newsletter </p>
+<p> GA_googleFillSlot('UPI_Top_News_300x250_right1'); </p>
+<p> Featured Photos </p>
+<p> 1 of 24 </p>
+<p> View Caption </p>
+<p> Enlarge Photo </p>
+<p> Republican presidential candidate Jon Huntsman addresses the crowd at his primary night party at The Black Brimmer Bar and Grill in Manchester, New Hampshire on primary election night on January 10, 2012.   Huntsman placed third in the nations first primary behind Ron Paul and winner Mitt Romney.  UPI/Matthew Healey </p>
+<p> var potd = { 			fill: function(o) { 				jQuery.ajax({ 					type: 'GET', cache: false,  					url: '/potd/fill/'+o+'/',  					dataType: 'json',  					success: function(d) { 						var potd_pn = jQuery('.potd_m .pn'); 						var potd_photo = jQuery('.potd_m .photo'); 						var potd_cap = jQuery('.potd_m .caption'); 						var potd_enlg = jQuery('#enlg'); 						potd_pn.html(d.pn); 						jQuery('.potd_m .scroll').hover(function() {var pn = jQuery(this).attr('id');jQuery(this).addClass(pn+'_h');}, function() {var pn = jQuery(this).attr('id');jQuery(this).removeClass(pn+'_h');}); 						potd_photo.fadeOut('fast', function() {potd_photo.html(d.photo);}).fadeIn('fast'); 						potd_cap.html(d.caption); 						potd_enlg.html(d.enlg); 					} 				}); 			}, 			cap_sh: function() { 				var potd_cap_sh = jQuery('.potd_m .caption'); 				if(potd_cap_sh.is(":visible")) { 					potd_cap_sh.slideUp('fast'); 				}else{ 					potd_cap_sh.slideDown('fast'); 				} 			} 		} 		jQuery('.potd_m .scroll').hover(function() {var pn = jQuery(this).attr('id');jQuery(this).addClass(pn+'_h');}, function() {var pn = jQuery(this).attr('id');jQuery(this).removeClass(pn+'_h');}); </p>
+<p> divFill('/quick_poll/Top_News/World-News/', 'current_poll'); </p>
+<p> The truth about Internet addiction... besides that hairy palms thing </p>
+<p> White whale defends decision to kill hammerhead sharks </p>
+<p> The name's Bond. James Bond. My friends call me Harriette </p>
+<p> Photoshop ESOC </p>
+<p> Hulk ROB </p>
+<p> Sir, you've been in an accident and skinned your knee, so we're rushing you to the emergency room.... </p>
+<p> GA_googleFillSlot('UPI_Top_News_160x600_right3'); </p>
+<p> c_stat('/story/stat/12371326299258/', ''); </p>
+<p> Official Government Wires </p>
+<p> | </p>
+<p> About UPI </p>
+<p> | </p>
+<p> Site Map </p>
+<p> | </p>
+<p> Terms of Use </p>
+<p> | </p>
+<p> Privacy Policy </p>
+<p> | </p>
+<p> Advertise Online </p>
+<p> | </p>
+<p> Contact Us </p>
+<p> | </p>
+<p> UPI Mailing Address </p>
+<p> Top News </p>
+<p> | </p>
+<p> Entertainment News </p>
+<p> | </p>
+<p> Odd News </p>
+<p> | </p>
+<p> Business news </p>
+<p> | </p>
+<p> Sports News </p>
+<p> | </p>
+<p> Science News </p>
+<p> | </p>
+<p> Health News </p>
+<p> | </p>
+<p> Real Estate News </p>
+<p> | </p>
+<p> News Photos </p>
+<p> Archive </p>
+<p> | </p>
+<p> Job News </p>
+<p> | </p>
+<p> World News </p>
+<p> | </p>
+<p> Local News </p>
+<p> | </p>
+<p> U.S News </p>
+<p> | </p>
+<p> Special Reports </p>
+<p> Resources: </p>
+<p> Celebrity Keynote Speakers Bureau </p>
+<p> - </p>
+<p> Motivational Speaker </p>
+<p> - </p>
+<p> Auto Dealers </p>
+<p> © 2012 </p>
+<p> United Press International, Inc </p>
+<p> . All Rights Reserved. </p>
+<p> UPI.com is your trusted source for world news, top news, science news, health news and current events. </p>
+<p> We thank you for visiting us and we hope that we will be your daily stop for news updates. </p>
+<p> © 2012 United Press International, Inc.  All Rights Reserved. 				UPI.com contains copyrighted material, trademarks and other proprietary information  				of United Press International, Inc. ("UPI") and its third-party licensors, including, but not limited to, text, photos,  				videos, and graphics.  Visitors to UPI.com may use this Web site solely for their own personal and non-commercial use.   				Any reproduction, republication and/or redistribution of any content on the Web site is expressly prohibited without the  				prior written consent of UPI or its applicable third-party licensors.  UPI and United Press International are registered  				trademarks in the United States and in other countries. </p>
+<p> GA_googleFillSlot('UPI_Top_News_728x90_bottom'); GA_googleFillSlot('UPI_Top_News_RichMedia_x09_1x1'); </p>
+<p> BF_BB_DATA = null; (function( ){ 	document.write('<div id="BF_BUZZBOX" style="height: 0px; width: 0px;"></div>'); 	var sid="75MWP7";	var c=""; var b="";	    	BF_BB_SCRIPT=document.createElement('script'); BF_BB_SCRIPT.type="text/javascript";    	BF_BB_SRC="http://buzzbox.buzzfeed.com/wd/BuzzBox?sid=" + sid + c + b + '&it=1&cb=' + (new Date()).getTime();					   	setTimeout(function() { document.getElementById('BF_BUZZBOX').appendChild(BF_BB_SCRIPT); BF_BB_SCRIPT.src=BF_BB_SRC; },1); })(); </p>
+<p> window.fbAsyncInit = function() {FB.init({appId: '130795020312660', status: true, cookie: true, xfbml: true});   };   (function() {     var e = document.createElement('script'); e.async = true;     e.src = document.location.protocol +       '//connect.facebook.net/en_US/all.js';     document.getElementById('fb-root').appendChild(e);   }()); </p>
+<p> function upi_pt(url, title) {_gaq.push(['_trackPageview', url]);} 	function upi_pt_c(url, title, c_n, c_v) {_gaq.push(['_setCustomVar', 1, c_n, c_v, 3], ['_trackPageview', url]);} </p>
+<p> var _gaq = _gaq || []; 	  _gaq.push(['_setAccount', 'UA-1342607-1']); 	  _gaq.push(['_setCustomVar', 1, 'story_w_photos', '342', 3], ['_setCustomVar', 2, 'hs', 'tn', 3], ['_trackPageview']); 	   	  (function() { 	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; 	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); 	  })(); </p>
+<p> var _sf_async_config={uid:4027,domain:"www.upi.com"}; 		(function(){function loadChartbeat() { 			window._sf_endpt=(new Date()).getTime(); 			var e = document.createElement('script'); 			e.setAttribute('language', 'javascript'); 			e.setAttribute('type', 'text/javascript'); 			e.setAttribute('src', (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://")+"static.chartbeat.com/js/chartbeat.js"); 			document.body.appendChild(e);} 		var oldonload = window.onload; 		window.onload = (typeof window.onload != 'function') ? loadChartbeat : function() { oldonload(); loadChartbeat(); };})(); </p>
+<p> if(document.location.protocol=='http:'){ 	 var Tynt=Tynt||[];Tynt.push('dV-kEWgDir4krbadbi-bpO'); 	 (function(){var s=document.createElement('script');s.async="async";s.type="text/javascript";s.src='http://tcr.tynt.com/ti.js';var h=document.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);})(); 	} </p>

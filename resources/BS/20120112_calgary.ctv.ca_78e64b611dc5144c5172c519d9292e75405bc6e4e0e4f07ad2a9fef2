@@ -1,0 +1,861 @@
+<p> var szone="cal/news/story"; var smode=""; var sadpg="cal/news/story"; var sarena="arena=_UNDEFINED_VALUE_;"; var sMAXPOP=1; </p>
+<p> @import "http://images.ctv.ca/mar/css/shared990/story990.css"; </p>
+<p> .storyFeatureItem img.inline {display:none!important} </p>
+<p> var pageNameHBX="CGY_bowel_ibd_120111";  var pageLocationHBX="/ctvnews/affiliates/calgary/CalgaryHome/;/ctvnews/affiliates/calgary/CalgaryHome/"; </p>
+<p> Global study on IBD underway | CTV Calgary </p>
+<p> @import "http://www.ctv.ca/mar/css/shared990/ctvlocal990.css"; </p>
+<p> .dynamicMenu { position:absolute; margin-left: -163px;} </p>
+<p> /*  function showMenu(id)    {    var element = document.getElementById(id);    if (element.style.visibility == "hidden")    {    element.style.visibility = "visible";    }    else    {    element.style.visibility= "hidden";    }    }   */ </p>
+<p> HOME </p>
+<p> | </p>
+<p> News </p>
+<p> | </p>
+<p> Canada AM </p>
+<p> | </p>
+<p> W5 </p>
+<p> | </p>
+<p> Weather </p>
+<p> | </p>
+<p> Video </p>
+<p> | </p>
+<p> Sports </p>
+<p> | </p>
+<p> Entertainment </p>
+<p> | </p>
+<p> Programs </p>
+<p> | </p>
+<p> TV Listing </p>
+<p> | </p>
+<p> Autos </p>
+<p> | </p>
+<p> Contests </p>
+<p> .locationHeader td {padding-right: 0px!important; padding-left: 1px!important}    table.Weather {     height: 92px;     width: 246px;  }    #weatherboxlink {  	background-color:transparent;  	padding-left:40px;  	padding-top:30px;  	position:absolute;  	width:200px;  	top: 146px;  	height: 70px;  } </p>
+<p> <!--    var image = new Array();    image[0] = 'http://www.ctv.ca/mar/images/local990/calweather/WEB_BannerDavid.jpg' ;  image[1] = 'http://www.ctv.ca/mar/images/local990/calweather/WEB_BannerVickie.jpg' ;  image[2] = 'http://www.ctv.ca/mar/images/local990/calweather/WEB_BannerSteve.jpg' ;  image[3] = 'http://www.ctv.ca/mar/images/local990/calweather/WEB_BannerTodd.jpg' ;  image[4] = 'http://www.ctv.ca/mar/images/local990/calweather/WEB_BannerTodd.jpg' ;  image[5] = 'http://www.ctv.ca/mar/images/local990/calweather/WEB_BannerDavid.jpg' ;   var index = Math.floor(Math.random() * image.length);  document.write('<style type="text/css"> table.Weather { background-image: url('+ image[index] +') } </style>');  //--> </p>
+<p> CTV News Calgary </p>
+<p> | </p>
+<p> Weather </p>
+<p> | </p>
+<p> Traffic </p>
+<p> | </p>
+<p> Consumer </p>
+<p> | </p>
+<p> Medical </p>
+<p> | </p>
+<p> Crime </p>
+<p> | </p>
+<p> Community Calendar </p>
+<p> | </p>
+<p> Lottery </p>
+<p> | </p>
+<p> Contests </p>
+<p> | </p>
+<p> About Us </p>
+<p> | </p>
+<p> Contact Us </p>
+<p> Newsletters </p>
+<p> Wireless </p>
+<p> RSS </p>
+<p> placeRandom728x90Img() </p>
+<p> CTV Calgary </p>
+<p> h3.jhl {color:#000000; font-size:18px!important;} 				#mainTableLeft h3 {margin:3px 10px} </p>
+<p> Global study on IBD underway </p>
+<p> .topPhoto, .photo { width:440px; } </p>
+<p> Researchers are looking at a link between industrialization and IBD. </p>
+<p> Updated:  Wed Jan. 11 2012 17:05:16 </p>
+<p> var byString = "";   var sourceString = "ctvcalgary.ca";   if ((sourceString != "") && (byString != "")) {       document.write(byString + ", ");   } else {     document.write(byString);   } </p>
+<p> ctvcalgary.ca </p>
+<p> Inflammatory Bowel Disease is on the rise around the world and now a group of health investigators in the city are looking to find out why. </p>
+<p> Dr. Gil Kaplan is one of 36 IBD specialists in Alberta and he is trying to find out why the disease is impacting so many people in developed countries. </p>
+<p> Researchers say they typically see more incidents of Crohn's Disease and ulcerative colitis, which are classified as IBD illnesses, in Canada, the United States and Europe. </p>
+<p> They are looking at a link between industrialization and IBD. </p>
+<p> Dr. Kaplan says the Alberta IBD Consortium is looking at environmental factors that may be leading to more cases of IBD. </p>
+<p> "Where do we need to go next? Identify the key gaps and that will then focus us on the right research that will lead us down the road and be able to eventually have better diagnosis, better therapeutics, and hopefully prevent the disease all together," said Dr. Kaplan. </p>
+<p> Another theory they are investigating is whether a lack of Vitamin D increases the incidence of the disease in areas that get less sunlight, like Canada. </p>
+<p> Dr. Kaplan says Canadians tend to stay indoors when it is cold out and don't get as much sun light as countries with warmer climates. </p>
+<p> Mark Rievaj has suffered from Crohn's for the last ten years and is one of Dr. Kaplan's patients. </p>
+<p> "I think it's just a problem in Alberta and Canada and a lot of the industrialized countries that is just going to keep increasing until we can get a handle on what is causing it," said Rievaj. </p>
+<p> Researchers say in the last ten years they've identified over 100 genes that can make people susceptible to Inflammatory Bowel Disease. </p>
+<p> People between the ages of 20 and 40 have the highest incidence of IBD and the disease occurs equally in females and males. </p>
+<p> Funding for the consortium comes through Alberta Innovates-Health Solutions, and Alberta Health and Wellness. </p>
+<p> The study's findings were published in the </p>
+<p> American Gastroenterological Association Journal </p>
+<p> . </p>
+<p> a.please { -moz-background-clip:border; -moz-background-inline-policy:continuous; -moz-background-origin:padding; background:transparent url(http://images.ctv.ca/v2/images/icon/share/comment2.jpg) no-repeat scroll 0 0; font-size:13px !important; font-weight:bold; padding-bottom:11px; padding-left:32px; padding-top:7px; float:left } </p>
+<p> If you have any questions or comments about this story </p>
+<p> click here </p>
+<p> .   If you have information to add </p>
+<p> click here </p>
+<p> .   To contribute your own photos or videos </p>
+<p> click here </p>
+<p> . </p>
+<p> function getSzone(){  return "VideoCalgaryVideo";  }    function simpleAd(){  if(!ord){var abc=Math.random()+"";var ord=abc.substring(2,abc.length);}  szone=getSzone();  sadpg=szone;  isbroadband=true;  placeRandom("728x90");  }    function setAdsCookie(){  var tmpDate1=new Date();  var titleOfVideo;  var pathOfVideo;  var tmpDate2=new Date();  var tmpSeconds = tmpDate1.getSeconds() + (8*60);  tmpDate2.setSeconds(tmpSeconds);  var cookieE = document.cookie.indexOf(escape("playVideo") + '=');  if (cookieE == -1)  {  setCookie("playVideo", "playVideo", tmpDate2, "/");  }  }  var storyInfo = "&hub=CalgaryHome&subhub=video&no_ads=&sortdate=20120111&slug=CGY_bowel_ibd_120111&archive=CTVNews";  var currentVolume = getCookie("EmbedBroadVol");  if (currentVolume == null)  {  setCookie("EmbedBroadVol",23,one_year,"/");  currentVolume = 23;  }  var countFalseAd;  var sourcePlayer = "story";  var playAd;  var waitForCompleteAd;  var maxPosT = 0;  var maxPosM = 0;  var maxPos = 0;  var currentPos = 1;  var previousTime = 0;   var totalTime;  var cT = "T";  var x = -1;  var countForHBX = 0;  var stateI="pause";  function switchMostTabs(item)  {  var topStories = document.getElementById("BroadTopStories");  var mostPopular = document.getElementById("BroadMostPopular");  if (item == 1)  {  maxPos = maxPosT;  cT = "T";  document.getElementById("AllTopStoriesVideo").style.display = "block";  document.getElementById("AllMostPopularVideo").style.display = "none";  topStories.getElementsByTagName("a")[0].style.color = "white";  mostPopular.getElementsByTagName("a")[0].style.color = "#515151";  topStories.style.backgroundImage = "url(http://www.ctv.ca/mar/images/local990/broadBandMostPopularOn.jpg)";  mostPopular.style.backgroundImage= "url(http://www.ctv.ca/mar/images/local990/broadBandMostPopularOff.jpg)";  }  else  {  maxPos = maxPosM + 1;  cT = "M";  document.getElementById("AllTopStoriesVideo").style.display = "none";  document.getElementById("AllMostPopularVideo").style.display = "block";  topStories.getElementsByTagName("a")[0].style.color = "#515151";  mostPopular.getElementsByTagName("a")[0].style.color = "white";  topStories.style.backgroundImage = "url(http://www.ctv.ca/mar/images/local990/broadBandMostPopularOff.jpg)";  mostPopular.style.backgroundImage= "url(http://www.ctv.ca/mar/images/local990/broadBandMostPopularOn.jpg)";    }  }    function moveSlider(event)  {  previousTime = 0;  var movePosition = (event.clientX - findPos(document.getElementById("slider"))[0]);  if (document.getElementById("VIDEO") != null && document.getElementById("VIDEO").controls != null && playAd == "false")  {  document.getElementById("VIDEO").controls.currentPosition = (movePosition/168) * totalTime;  document.getElementById("slider").style.paddingLeft = movePosition + "px";  }  }  var canMoveVol;  function startVolMove(val)  {  canMoveVol = val;  }  function moveSliderVolC(event)  {  canMoveVol = 1;  moveSliderVol(event);  canMoveVol = 0;  }    function moveSliderVol(event)  {  if (canMoveVol == 1)  {  var movePosition = (event.clientX - findPos(document.getElementById("volslider"))[0]);  if (movePosition <= 5)  {  movePosition = 0;  }  if (movePosition >= 23)  {  movePosition = 23;  }  if (document.getElementById("VIDEO") != null && document.getElementById("VIDEO").controls != null)  {  document.getElementById("VIDEO").settings.volume = movePosition * 4;  }  document.getElementById("volslider").style.paddingLeft = movePosition + "px";  setCookie("EmbedBroadVol",movePosition,one_year,"/");  currentVolume = movePosition ;    }  }    function findPos(obj) {  	var curleft = curtop = 0;  	if (obj.offsetParent) {  		curleft = obj.offsetLeft  		curtop = obj.offsetTop  		while (obj = obj.offsetParent) {  			curleft += obj.offsetLeft  			curtop += obj.offsetTop  		}  	}  	return [curleft,curtop];  }  function showInfo(ID)  {     var videoElement =  document.getElementById("blurbVideo" + ID + cT);     if (videoElement.style.display == "none")     {     videoElement.style.display = "block";     document.getElementById("infoRowImage" + ID + cT).setAttribute("src", "http://www.ctv.ca/mar/images/local990/broadbandminus.png");     }     else     {     videoElement.style.display = "none";  document.getElementById("infoRowImage" + ID + cT).setAttribute("src", "http://www.ctv.ca/mar/images/local990/broadbandplus.png");     }  }    function clearVideoSelection(currentPosition, type)  {  for (i = 1; i < maxPos; i++)  {  var element = document.getElementById("videoSelection" + i + type);  if (element != null && i != currentPosition)  {  element.style.backgroundColor = "#dcdcdc";  }  else if(element != null)  {  element.style.backgroundColor = "#f2f2f2";  }  }  }    function switchHubVideo(URLString, URLStringLow, clip_start, clip_end, clip_id, currentPosition, titleT)  {  titleOfVideo = URLString;  //changeVideo(URLString, URLStringLow, clip_start, clip_end, clip_id, currentPosition);  var newVideo = new Video( { ClipId:clip_id, Format:'FLV', Permalink:'http://watch.ctv.ca/news/Redirect/?ClipId=' + clip_id, Title:titleT}); Playlist.GetInstance().Play(newVideo); var element = document.getElementById("videoSelection1T");  element.style.backgroundColor = "#dcdcdc";  location.hash="#TopVideoAn";  }    function returnTimeVideo(timeString)  {  return parseInt(timeString.substring(0, 2)*3600) + parseInt(timeString.substring(3, 5)*60) + parseInt(timeString.substring(6,8))    }    function changeVideo(URLString, URLStringLow, clip_start, clip_end, clip_id, currentPosition)  {    /*if (cT == "T")  {  clearVideoSelection(-1, "M");  clearVideoSelection(currentPosition, "T");  }  else  {  clearVideoSelection(currentPosition, "M");  clearVideoSelection(-1, "T");  }*/   //totalTime = parseInt(clip_end.substring(0, 2))*3600 + parseInt(clip_end.substring(3,5))* 60 + parseInt(clip_end.substring(6,8))  //clip_end = "-1";   currentPos = currentPosition;  //switchVideo("http://www.ctv.ca/servlet/HTMLTemplate/nocompress?content_type=video/x-ms-asf&brand=generic&tf=/ctv/generic/video/videoplayer.asx&cf=/ctv/generic/video/player.cfg&url=" + URLString + "&start=" + clip_start + "&end=" + clip_end + "&spd=hi&hub=CalgaryHome"); Playlist.GetInstance().Play(VideoPlaying[currentPosition])         }      function controlVideo(action)  {  previousTime = 0;  if (action == 1)  {  document.getElementById("VIDEO").controls.stop();  }  else if (action == 2)  {  document.getElementById("VIDEO").controls.play();  }  else if (action == 3)  {  if (x == -1)  {  startVideo();  }  else  {  if (stateI == "pause")  {  document.getElementById("pausePlay").setAttribute('src', 'http://www.ctv.ca/mar/images/local990/broadbandpause.jpg');  document.getElementById("VIDEO").controls.play();  stateI = "play";  }  else  {  stateI = "pause";  document.getElementById("pausePlay").setAttribute('src', 'http://www.ctv.ca/mar/images/local990/broadbandplay.gif');  document.getElementById("VIDEO").controls.pause();  }  }  }  else if (action == 4)  {  currentPos++;  if (currentPos == maxPos )  {  currentPos = 1;  }  functionName = document.getElementById("videoSelection" + currentPos + cT).getElementsByTagName('a')[0].getAttribute('href');  parseCurrentVideo(functionName);      //alert(functionName);  }  else if (action == 5)  {  currentPos--;  if (currentPos == 0)  {  currentPos = maxPos - 1;  }  functionName = document.getElementById("videoSelection" + currentPos + cT).getElementsByTagName('a')[0].getAttribute('href');  parseCurrentVideo(functionName);      //document.getElementById("VIDEO").controls.stop();  }  else if (action == 6)  {  alert(document.getElementById("VIDEO").fullScreen);  document.getElementById("VIDEO").fullScreen = true;  }  else if (action == 7)  {  alert(event);  }  }    function parseCurrentVideo(functionName)  {  functionName = functionName.replace("javascript:", "");  functionName = functionName.replace("changeVideo(", "");  functionName = functionName.replace(/'/g,"");    changeVideo(functionName.split(",")[0],functionName.split(",")[1],functionName.split(",")[2],functionName.split(",")[3],functionName.split(",")[4],functionName.split(",")[5].replace(")",""));      }    var mediaString;  function switchVideoT()  {  document.getElementById("defaultBroad").style.display="none";  newString = '<OBJECT name="VIDEO" id="VIDEO" width="300" height="225" CLASSID="CLSID:6BF52A52-394A-11D3-B153-00C04F79FAA6" type="application/x-oleobject">' + mediaString + '</OBJECT>';  document.getElementById("mainVideo").innerHTML = newString;  }      function switchVideo(inString)  {  inString = inString + "&ads=" + playAd + "";  if (playAd == "true")  {  simpleAd();  }  //mediaString = '<OBJECT name="VIDEO" id="VIDEO" width="300" height="225" CLASSID="CLSID:6BF52A52-394A-11D3-B153-00C04F79FAA6" type="application/x-oleobject">';  mediaString = "";  mediaString = mediaString + '<PARAM NAME="SendPlayStateChangeEvents" VALUE="True">';  mediaString = mediaString + '<PARAM NAME="TransparentAtStart" VALUE="True">';  mediaString = mediaString + '<PARAM NAME="AutoStart" VALUE="1">';  mediaString = mediaString + '<PARAM name="uiMode" value="none">';  mediaString = mediaString + '<PARAM name="fullScreen" value="false">';  mediaString = mediaString + '<PARAM name="PlayCount" value="1">';  mediaString = mediaString + '<PARAM NAME="CurrentPosition" VALUE="-1">';  mediaString = mediaString + '<PARAM NAME="Volume" VALUE="' + (currentVolume * 4) + '">';  mediaString = mediaString + '<PARAM NAME="URL" VALUE="' + inString + '">';  //mediaString = mediaString + '</OBJECT>';  if (x == -1)  {  z = setTimeout("switchVideoT()",1000);  }  else  {  //switchVideoT();  //	document.getElementById("VIDEO").innerHTML = mediaString;  document.getElementById("VIDEO").URL = inString;    }    }      function playVideo()  {  document.getElementById("VIDEO").controls.play();  } </p>
+<p> CTV NEWS VIDEO PLAYER </p>
+<p> Top Stories </p>
+<p> Most Popular </p>
+<p> Viewer </p>
+<p> function selectNewVideo(Video) {     currentPosition = -1;     for (o = 1; o < VideoPlaying.length; o++) 	{ 	    if (VideoPlaying[o] == Video) 	    { 	        currentPosition = o; 	    }	         	}     if (currentPosition == -1)     {        return;     }  	if (cT == "T")     {     clearVideoSelection(-1, "M");     clearVideoSelection(currentPosition, "T");     }     else     {     clearVideoSelection(currentPosition, "M");     clearVideoSelection(-1, "T");     } }  Interface.SetUpNext = function( pVideo ) { 	//selectNewVideo(pVideo); }   Interface.GetInstance().PlayerViewer = document.getElementById("Viewer");  Interface.SetNowPlaying = function( Video ) { 	if( Playlist.GetInstance && Playlist.GetInstance() && Playlist.GetInstance().Current ) 	{ 		var isAd = Playlist.GetInstance().Current.IsAd; 	} 	selectNewVideo(Video);   //totalTime = parseInt(clip_end.substring(0, 2))*3600 + parseInt(clip_end.substring(3,5))* 60 + parseInt(clip_end.substring(6,8))  //clip_end = "-1";    	 	//document.getElementById( "Video1" ).style.fontWeight = (Video == Video1 ? "bold" : ""); 	//document.getElementById( "Video4" ).style.fontWeight = (Video == Video4 ? "bold" : ""); 	//document.getElementById( "Video2" ).style.fontWeight = (Video == Video2 ? "bold" : ""); 	 	document.getElementById("AdArea").innerHTML = ( isAd ? "<em>Video will play after advertisement</em>" : "" ); }                                             new Framework( Format.FlashVideo, 3, "chumtvctv", "CTV News OneClip Player - Calgary", "ctv.ctvcalgarywatch.ca", "http://watch.ctv.ca/news/themes/CTVNews/player/onecliptheme.aspx","http://images.ctv.ca/archives/CTVNews/img2/20111018/300_CGY_tara_heli_videoplayer_111018.jpg" ); </p>
+<p> #BroadTopStories {display:none}  #BroadMostPopular {display:none} </p>
+<p> var VideoPlaying = new Array();  var t; </p>
+<p> #infoRowImage1T {visibility: hidden}  #infoRowImage23T,#infoRowImage24T,#infoRowImage25T,#infoRowImage26T,#infoRowImage27T,#infoRowImage28T,#infoRowImage29T,#infoRowImage30T,#infoRowImage31T {visibility: hidden} </p>
+<p> Kevin Fleming reports on an IBS study </p>
+<p> VideoPlaying[1] = new Video( { ClipId:599349, Title:"CTVNews : Kevin Fleming reports on an IBS study", Format:'FLV'} ); </p>
+<p> function startVideo()  {                                        changeVideo('','CFCN0111_fleming','00:00:00.00','00:02:04.00','599349','1'); } if (sourcePlayer == "story") { //document.getElementById("videoPopup").setAttribute('href','http://www.ctv.ca/servlet/HTMLTemplate?tf=/ctv/mar/video/new_player_local.html&cf=ctv/mar/ctv.cfg&current_clip_id=' + '599349' + '&clip_start=' + '00:00:00.00' + '&clip_end=' + '00:02:04.00'+ '&video_link_high=' + '' + '&video_link_low=' + 'CFCN0111_fleming' + '&sourceV=' + sourcePlayer + storyInfo);  } else { //document.getElementById("videoPopup").setAttribute('href','http://www.ctv.ca/servlet/HTMLTemplate?tf=/ctv/mar/video/new_player_local.html&cf=ctv/mar/ctv.cfg&current_clip_id=' + '599349' + '&clip_start=' + '00:00:00.00' + '&clip_end=' + '00:02:04.00' + '&video_link_high=' + '' + '&video_link_low=' + 'CFCN0111_fleming' + '&sourceV=' + cT + "&chub=CalgaryVideo&csection=Top&clip_caption=Kevin Fleming reports on an IBS study"); } </p>
+<p> Playlist.FeaturedVideos = new Array(); for (i = 1; i < 2; i++) { Playlist.FeaturedVideos.push( VideoPlaying[i]); }  maxPosT = 2;  maxPos = 2;  //document.getElementById("volslider").style.paddingLeft = currentVolume + "px"; </p>
+<p> Interface.PermalinkClicked = function( pUrl ) {  if( pUrl.indexOf ( "ad.doubleclick.net" ) > -1 ) //should probably use a regular expression     {         //document.location = pUrl; //might want to use a new window?         window.open(pUrl, "player");     } else { openW = window.open(pUrl,'bctvVideo','width=1010,height=850,status=no,scrollbars=1,resizable=1,toolbar=0'); if (openW) { FlashController.GetInstance().Wait(); } }  } </p>
+<p> Web Links </p>
+<p> American Gastroenterological Association Journal </p>
+<p> function printStory() {           var printUrl = '/servlet/an/plocal/CTVNews/20120111/CGY_bowel_ibd_120111/20120111/?hub=CalgaryHome';           window.open(printUrl, 'PopUpPrintStory', 'height=445,width=696,menubar=yes,toolbar=yes,navbar=no,scrollbars=yes,resizable=yes');           return false;       }; </p>
+<p> User Tools </p>
+<p> del.icio.us </p>
+<p> DIGG </p>
+<p> Share on Twitter </p>
+<p> Facebook </p>
+<p> Print This Page </p>
+<p> Email Story </p>
+<p> var addthis_config = {"data_track_clickback":true}; </p>
+<p> Feedback </p>
+<p> Fonts: </p>
+<p> Bigger </p>
+<p> Smaller </p>
+<p> Advertisement </p>
+<p> placeRandom("300x250"); </p>
+<p> What's On </p>
+<p> var s_link0 = null; var s_link1 = null; var s_link2 = null; var s_link3 = null; var s_link4 = null; </p>
+<p> var tempTitle = "Remember the Times: The Michael Jackson Memorial"; if (s_link0 != null) { if (s_link0.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic0").setAttribute('href', 'http://www.ctv.ca/servlet/ArticleNews/show/CTVShows/20090702/special_jackson_memorial/20090702/'); } } </p>
+<p> Thu </p>
+<p> Fri </p>
+<p> Sat </p>
+<p> Sun </p>
+<p> Mon </p>
+<p> Toronto </p>
+<p> Thu, Jan 12, 12 </p>
+<p> 8:00pm </p>
+<p> The Big Bang Theory </p>
+<p> var tempTitle = "The Big Bang Theory"; if (s_link0 != null) { if (s_link0.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic0").setAttribute('href', 'http://shows.ctv.ca/TheBigBangTheory.aspx'); } } </p>
+<p> 8:30pm </p>
+<p> Up All Night </p>
+<p> var tempTitle = "Up All Night"; if (s_link0 != null) { if (s_link0.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic0").setAttribute('href', 'http://shows.ctv.ca/UpAllNight.aspx'); } } </p>
+<p> 9:00pm </p>
+<p> Grey's Anatomy </p>
+<p> var tempTitle = "Grey's Anatomy"; if (s_link0 != null) { if (s_link0.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic0").setAttribute('href', 'http://shows.ctv.ca/GreysAnatomy.aspx'); } } </p>
+<p> 10:00pm </p>
+<p> The Mentalist </p>
+<p> var tempTitle = "The Mentalist"; if (s_link0 != null) { if (s_link0.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic0").setAttribute('href', 'http://shows.ctv.ca/TheMentalist.aspx'); } } </p>
+<p> 8:00pm </p>
+<p> The Mentalist </p>
+<p> var tempTitle = "The Mentalist"; if (s_link0 != null) { if (s_link0.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic0").setAttribute('href', 'http://shows.ctv.ca/TheMentalist.aspx'); } } </p>
+<p> 9:00pm </p>
+<p> The Big Bang Theory </p>
+<p> var tempTitle = "The Big Bang Theory"; if (s_link0 != null) { if (s_link0.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic0").setAttribute('href', 'http://shows.ctv.ca/TheBigBangTheory.aspx'); } } </p>
+<p> 9:30pm </p>
+<p> Up All Night </p>
+<p> var tempTitle = "Up All Night"; if (s_link0 != null) { if (s_link0.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic0").setAttribute('href', 'http://shows.ctv.ca/UpAllNight.aspx'); } } </p>
+<p> 10:00pm </p>
+<p> Grey's Anatomy </p>
+<p> var tempTitle = "Grey's Anatomy"; if (s_link0 != null) { if (s_link0.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic0").setAttribute('href', 'http://shows.ctv.ca/GreysAnatomy.aspx'); } } </p>
+<p> 7:00pm </p>
+<p> The Big Bang Theory </p>
+<p> var tempTitle = "The Big Bang Theory"; if (s_link0 != null) { if (s_link0.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic0").setAttribute('href', 'http://shows.ctv.ca/TheBigBangTheory.aspx'); } } </p>
+<p> 7:30pm </p>
+<p> Up All Night </p>
+<p> var tempTitle = "Up All Night"; if (s_link0 != null) { if (s_link0.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic0").setAttribute('href', 'http://shows.ctv.ca/UpAllNight.aspx'); } } </p>
+<p> 8:00pm </p>
+<p> Grey's Anatomy </p>
+<p> var tempTitle = "Grey's Anatomy"; if (s_link0 != null) { if (s_link0.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic0").setAttribute('href', 'http://shows.ctv.ca/GreysAnatomy.aspx'); } } </p>
+<p> 9:00pm </p>
+<p> The Mentalist </p>
+<p> var tempTitle = "The Mentalist"; if (s_link0 != null) { if (s_link0.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic0").setAttribute('href', 'http://shows.ctv.ca/TheMentalist.aspx'); } } </p>
+<p> 7:00pm </p>
+<p> The Big Bang Theory </p>
+<p> var tempTitle = "The Big Bang Theory"; if (s_link0 != null) { if (s_link0.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic0").setAttribute('href', 'http://shows.ctv.ca/TheBigBangTheory.aspx'); } } </p>
+<p> 7:30pm </p>
+<p> Up All Night </p>
+<p> var tempTitle = "Up All Night"; if (s_link0 != null) { if (s_link0.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic0").setAttribute('href', 'http://shows.ctv.ca/UpAllNight.aspx'); } } </p>
+<p> 8:00pm </p>
+<p> Grey's Anatomy </p>
+<p> var tempTitle = "Grey's Anatomy"; if (s_link0 != null) { if (s_link0.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic0").setAttribute('href', 'http://shows.ctv.ca/GreysAnatomy.aspx'); } } </p>
+<p> 9:00pm </p>
+<p> The Mentalist </p>
+<p> var tempTitle = "The Mentalist"; if (s_link0 != null) { if (s_link0.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic0").setAttribute('href', 'http://shows.ctv.ca/TheMentalist.aspx'); } } </p>
+<p> 8:00pm </p>
+<p> The Big Bang Theory </p>
+<p> var tempTitle = "The Big Bang Theory"; if (s_link0 != null) { if (s_link0.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic0").setAttribute('href', 'http://shows.ctv.ca/TheBigBangTheory.aspx'); } } </p>
+<p> 8:30pm </p>
+<p> Up All Night </p>
+<p> var tempTitle = "Up All Night"; if (s_link0 != null) { if (s_link0.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic0").setAttribute('href', 'http://shows.ctv.ca/UpAllNight.aspx'); } } </p>
+<p> 9:00pm </p>
+<p> Grey's Anatomy </p>
+<p> var tempTitle = "Grey's Anatomy"; if (s_link0 != null) { if (s_link0.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic0").setAttribute('href', 'http://shows.ctv.ca/GreysAnatomy.aspx'); } } </p>
+<p> 10:00pm </p>
+<p> The Mentalist </p>
+<p> var tempTitle = "The Mentalist"; if (s_link0 != null) { if (s_link0.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic0").setAttribute('href', 'http://shows.ctv.ca/TheMentalist.aspx'); } } </p>
+<p> 8:00pm </p>
+<p> The Mentalist </p>
+<p> var tempTitle = "The Mentalist"; if (s_link0 != null) { if (s_link0.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic0").setAttribute('href', 'http://shows.ctv.ca/TheMentalist.aspx'); } } </p>
+<p> 9:00pm </p>
+<p> The Big Bang Theory </p>
+<p> var tempTitle = "The Big Bang Theory"; if (s_link0 != null) { if (s_link0.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic0").setAttribute('href', 'http://shows.ctv.ca/TheBigBangTheory.aspx'); } } </p>
+<p> 9:30pm </p>
+<p> Up All Night </p>
+<p> var tempTitle = "Up All Night"; if (s_link0 != null) { if (s_link0.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic0").setAttribute('href', 'http://shows.ctv.ca/UpAllNight.aspx'); } } </p>
+<p> 10:00pm </p>
+<p> Grey's Anatomy </p>
+<p> var tempTitle = "Grey's Anatomy"; if (s_link0 != null) { if (s_link0.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic0").setAttribute('href', 'http://shows.ctv.ca/GreysAnatomy.aspx'); } } </p>
+<p> 8:00pm </p>
+<p> The Mentalist </p>
+<p> var tempTitle = "The Mentalist"; if (s_link0 != null) { if (s_link0.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic0").setAttribute('href', 'http://shows.ctv.ca/TheMentalist.aspx'); } } </p>
+<p> 9:00pm </p>
+<p> The Big Bang Theory </p>
+<p> var tempTitle = "The Big Bang Theory"; if (s_link0 != null) { if (s_link0.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic0").setAttribute('href', 'http://shows.ctv.ca/TheBigBangTheory.aspx'); } } </p>
+<p> 9:30pm </p>
+<p> Up All Night </p>
+<p> var tempTitle = "Up All Night"; if (s_link0 != null) { if (s_link0.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic0").setAttribute('href', 'http://shows.ctv.ca/UpAllNight.aspx'); } } </p>
+<p> 10:00pm </p>
+<p> Grey's Anatomy </p>
+<p> var tempTitle = "Grey's Anatomy"; if (s_link0 != null) { if (s_link0.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic0").setAttribute('href', 'http://shows.ctv.ca/GreysAnatomy.aspx'); } } </p>
+<p> 8:00pm </p>
+<p> The Big Bang Theory </p>
+<p> var tempTitle = "The Big Bang Theory"; if (s_link0 != null) { if (s_link0.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic0").setAttribute('href', 'http://shows.ctv.ca/TheBigBangTheory.aspx'); } } </p>
+<p> 8:30pm </p>
+<p> Up All Night </p>
+<p> var tempTitle = "Up All Night"; if (s_link0 != null) { if (s_link0.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic0").setAttribute('href', 'http://shows.ctv.ca/UpAllNight.aspx'); } } </p>
+<p> 9:00pm </p>
+<p> Grey's Anatomy </p>
+<p> var tempTitle = "Grey's Anatomy"; if (s_link0 != null) { if (s_link0.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic0").setAttribute('href', 'http://shows.ctv.ca/GreysAnatomy.aspx'); } } </p>
+<p> 10:00pm </p>
+<p> The Mentalist </p>
+<p> var tempTitle = "The Mentalist"; if (s_link0 != null) { if (s_link0.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic0").setAttribute('href', 'http://shows.ctv.ca/TheMentalist.aspx'); } } </p>
+<p> 8:00pm </p>
+<p> The Big Bang Theory </p>
+<p> var tempTitle = "The Big Bang Theory"; if (s_link0 != null) { if (s_link0.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic0").setAttribute('href', 'http://shows.ctv.ca/TheBigBangTheory.aspx'); } } </p>
+<p> 8:30pm </p>
+<p> Up All Night </p>
+<p> var tempTitle = "Up All Night"; if (s_link0 != null) { if (s_link0.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic0").setAttribute('href', 'http://shows.ctv.ca/UpAllNight.aspx'); } } </p>
+<p> 9:00pm </p>
+<p> Grey's Anatomy </p>
+<p> var tempTitle = "Grey's Anatomy"; if (s_link0 != null) { if (s_link0.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic0").setAttribute('href', 'http://shows.ctv.ca/GreysAnatomy.aspx'); } } </p>
+<p> 10:00pm </p>
+<p> The Mentalist </p>
+<p> var tempTitle = "The Mentalist"; if (s_link0 != null) { if (s_link0.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic0").setAttribute('href', 'http://shows.ctv.ca/TheMentalist.aspx'); } } </p>
+<p> 8:00pm </p>
+<p> The Big Bang Theory </p>
+<p> var tempTitle = "The Big Bang Theory"; if (s_link0 != null) { if (s_link0.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic0").setAttribute('href', 'http://shows.ctv.ca/TheBigBangTheory.aspx'); } } </p>
+<p> 8:30pm </p>
+<p> Up All Night </p>
+<p> var tempTitle = "Up All Night"; if (s_link0 != null) { if (s_link0.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic0").setAttribute('href', 'http://shows.ctv.ca/UpAllNight.aspx'); } } </p>
+<p> 9:00pm </p>
+<p> Grey's Anatomy </p>
+<p> var tempTitle = "Grey's Anatomy"; if (s_link0 != null) { if (s_link0.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic0").setAttribute('href', 'http://shows.ctv.ca/GreysAnatomy.aspx'); } } </p>
+<p> 10:00pm </p>
+<p> The Mentalist </p>
+<p> var tempTitle = "The Mentalist"; if (s_link0 != null) { if (s_link0.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic0").setAttribute('href', 'http://shows.ctv.ca/TheMentalist.aspx'); } } </p>
+<p> 8:00pm </p>
+<p> The Big Bang Theory </p>
+<p> var tempTitle = "The Big Bang Theory"; if (s_link0 != null) { if (s_link0.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic0").setAttribute('href', 'http://shows.ctv.ca/TheBigBangTheory.aspx'); } } </p>
+<p> 8:30pm </p>
+<p> Up All Night </p>
+<p> var tempTitle = "Up All Night"; if (s_link0 != null) { if (s_link0.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic0").setAttribute('href', 'http://shows.ctv.ca/UpAllNight.aspx'); } } </p>
+<p> 9:00pm </p>
+<p> Grey's Anatomy </p>
+<p> var tempTitle = "Grey's Anatomy"; if (s_link0 != null) { if (s_link0.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic0").setAttribute('href', 'http://shows.ctv.ca/GreysAnatomy.aspx'); } } </p>
+<p> 10:00pm </p>
+<p> The Mentalist </p>
+<p> var tempTitle = "The Mentalist"; if (s_link0 != null) { if (s_link0.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic0").setAttribute('href', 'http://shows.ctv.ca/TheMentalist.aspx'); } } </p>
+<p> 6:00am </p>
+<p> Live 8 </p>
+<p> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world. </p>
+<p> var tempTitle = "Live 8 <br /> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world."; if (s_link0 != null) { if (s_link0.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic0").setAttribute('href', 'http://www.ctv.ca/generic/WebSpecials/live8/index.html'); } } </p>
+<p> 6:00am </p>
+<p> Live 8 </p>
+<p> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world. </p>
+<p> var tempTitle = "Live 8 <br /> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world."; if (s_link0 != null) { if (s_link0.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic0").setAttribute('href', 'http://www.ctv.ca/generic/WebSpecials/live8/index.html'); } } </p>
+<p> 6:00am </p>
+<p> Live 8 </p>
+<p> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world. </p>
+<p> var tempTitle = "Live 8 <br /> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world."; if (s_link0 != null) { if (s_link0.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic0").setAttribute('href', 'http://www.ctv.ca/generic/WebSpecials/live8/index.html'); } } </p>
+<p> 6:00am </p>
+<p> Live 8 </p>
+<p> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world. </p>
+<p> var tempTitle = "Live 8 <br /> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world."; if (s_link0 != null) { if (s_link0.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic0").setAttribute('href', 'http://www.ctv.ca/generic/WebSpecials/live8/index.html'); } } </p>
+<p> 7:00am </p>
+<p> Live 8 </p>
+<p> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world. </p>
+<p> var tempTitle = "Live 8 <br /> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world."; if (s_link0 != null) { if (s_link0.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic0").setAttribute('href', 'http://www.ctv.ca/generic/WebSpecials/live8/index.html'); } } </p>
+<p> 7:00am </p>
+<p> Live 8 </p>
+<p> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world. </p>
+<p> var tempTitle = "Live 8 <br /> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world."; if (s_link0 != null) { if (s_link0.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic0").setAttribute('href', 'http://www.ctv.ca/generic/WebSpecials/live8/index.html'); } } </p>
+<p> 8:00am </p>
+<p> Live 8 </p>
+<p> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world. </p>
+<p> var tempTitle = "Live 8 <br /> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world."; if (s_link0 != null) { if (s_link0.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic0").setAttribute('href', 'http://www.ctv.ca/generic/WebSpecials/live8/index.html'); } } </p>
+<p> 6:00am </p>
+<p> Live 8 </p>
+<p> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world. </p>
+<p> var tempTitle = "Live 8 <br /> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world."; if (s_link0 != null) { if (s_link0.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic0").setAttribute('href', 'http://www.ctv.ca/generic/WebSpecials/live8/index.html'); } } </p>
+<p> Select Your CTV </p>
+<p> Customize </p>
+<p> Toronto </p>
+<p> Wed, Jan 11, 12 </p>
+<p> 8:00pm </p>
+<p> CSI: NY </p>
+<p> var tempTitle = "CSI: NY"; if (s_link1 != null) { if (s_link1.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic1").setAttribute('href', 'http://shows.ctv.ca/CSINY.aspx'); } } </p>
+<p> 9:00pm </p>
+<p> Grimm </p>
+<p> var tempTitle = "Grimm"; if (s_link1 != null) { if (s_link1.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic1").setAttribute('href', 'http://shows.ctv.ca/Grimm.aspx'); } } </p>
+<p> 10:00pm </p>
+<p> Blue Bloods </p>
+<p> var tempTitle = "Blue Bloods"; if (s_link1 != null) { if (s_link1.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic1").setAttribute('href', 'http://shows.ctv.ca/BlueBloods.aspx'); } } </p>
+<p> 8:00pm </p>
+<p> Blue Bloods </p>
+<p> var tempTitle = "Blue Bloods"; if (s_link1 != null) { if (s_link1.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic1").setAttribute('href', 'http://shows.ctv.ca/BlueBloods.aspx'); } } </p>
+<p> 9:00pm </p>
+<p> CSI: NY </p>
+<p> var tempTitle = "CSI: NY"; if (s_link1 != null) { if (s_link1.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic1").setAttribute('href', 'http://shows.ctv.ca/CSINY.aspx'); } } </p>
+<p> 10:00pm </p>
+<p> Grimm </p>
+<p> var tempTitle = "Grimm"; if (s_link1 != null) { if (s_link1.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic1").setAttribute('href', 'http://shows.ctv.ca/Grimm.aspx'); } } </p>
+<p> 7:00pm </p>
+<p> CSI: NY </p>
+<p> var tempTitle = "CSI: NY"; if (s_link1 != null) { if (s_link1.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic1").setAttribute('href', 'http://shows.ctv.ca/CSINY.aspx'); } } </p>
+<p> 8:00pm </p>
+<p> Grimm </p>
+<p> var tempTitle = "Grimm"; if (s_link1 != null) { if (s_link1.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic1").setAttribute('href', 'http://shows.ctv.ca/Grimm.aspx'); } } </p>
+<p> 9:00pm </p>
+<p> Blue Bloods </p>
+<p> var tempTitle = "Blue Bloods"; if (s_link1 != null) { if (s_link1.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic1").setAttribute('href', 'http://shows.ctv.ca/BlueBloods.aspx'); } } </p>
+<p> 7:00pm </p>
+<p> CSI: NY </p>
+<p> var tempTitle = "CSI: NY"; if (s_link1 != null) { if (s_link1.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic1").setAttribute('href', 'http://shows.ctv.ca/CSINY.aspx'); } } </p>
+<p> 8:00pm </p>
+<p> Grimm </p>
+<p> var tempTitle = "Grimm"; if (s_link1 != null) { if (s_link1.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic1").setAttribute('href', 'http://shows.ctv.ca/Grimm.aspx'); } } </p>
+<p> 9:00pm </p>
+<p> Blue Bloods </p>
+<p> var tempTitle = "Blue Bloods"; if (s_link1 != null) { if (s_link1.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic1").setAttribute('href', 'http://shows.ctv.ca/BlueBloods.aspx'); } } </p>
+<p> 8:00pm </p>
+<p> CSI: NY </p>
+<p> var tempTitle = "CSI: NY"; if (s_link1 != null) { if (s_link1.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic1").setAttribute('href', 'http://shows.ctv.ca/CSINY.aspx'); } } </p>
+<p> 9:00pm </p>
+<p> Grimm </p>
+<p> var tempTitle = "Grimm"; if (s_link1 != null) { if (s_link1.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic1").setAttribute('href', 'http://shows.ctv.ca/Grimm.aspx'); } } </p>
+<p> 10:00pm </p>
+<p> Blue Bloods </p>
+<p> var tempTitle = "Blue Bloods"; if (s_link1 != null) { if (s_link1.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic1").setAttribute('href', 'http://shows.ctv.ca/BlueBloods.aspx'); } } </p>
+<p> 8:00pm </p>
+<p> Blue Bloods </p>
+<p> var tempTitle = "Blue Bloods"; if (s_link1 != null) { if (s_link1.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic1").setAttribute('href', 'http://shows.ctv.ca/BlueBloods.aspx'); } } </p>
+<p> 9:00pm </p>
+<p> CSI: NY </p>
+<p> var tempTitle = "CSI: NY"; if (s_link1 != null) { if (s_link1.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic1").setAttribute('href', 'http://shows.ctv.ca/CSINY.aspx'); } } </p>
+<p> 10:00pm </p>
+<p> Grimm </p>
+<p> var tempTitle = "Grimm"; if (s_link1 != null) { if (s_link1.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic1").setAttribute('href', 'http://shows.ctv.ca/Grimm.aspx'); } } </p>
+<p> 8:00pm </p>
+<p> Blue Bloods </p>
+<p> var tempTitle = "Blue Bloods"; if (s_link1 != null) { if (s_link1.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic1").setAttribute('href', 'http://shows.ctv.ca/BlueBloods.aspx'); } } </p>
+<p> 9:00pm </p>
+<p> CSI: NY </p>
+<p> var tempTitle = "CSI: NY"; if (s_link1 != null) { if (s_link1.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic1").setAttribute('href', 'http://shows.ctv.ca/CSINY.aspx'); } } </p>
+<p> 10:00pm </p>
+<p> Grimm </p>
+<p> var tempTitle = "Grimm"; if (s_link1 != null) { if (s_link1.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic1").setAttribute('href', 'http://shows.ctv.ca/Grimm.aspx'); } } </p>
+<p> 8:00pm </p>
+<p> CSI: NY </p>
+<p> var tempTitle = "CSI: NY"; if (s_link1 != null) { if (s_link1.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic1").setAttribute('href', 'http://shows.ctv.ca/CSINY.aspx'); } } </p>
+<p> 9:00pm </p>
+<p> Grimm </p>
+<p> var tempTitle = "Grimm"; if (s_link1 != null) { if (s_link1.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic1").setAttribute('href', 'http://shows.ctv.ca/Grimm.aspx'); } } </p>
+<p> 10:00pm </p>
+<p> Blue Bloods </p>
+<p> var tempTitle = "Blue Bloods"; if (s_link1 != null) { if (s_link1.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic1").setAttribute('href', 'http://shows.ctv.ca/BlueBloods.aspx'); } } </p>
+<p> 8:00pm </p>
+<p> CSI: NY </p>
+<p> var tempTitle = "CSI: NY"; if (s_link1 != null) { if (s_link1.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic1").setAttribute('href', 'http://shows.ctv.ca/CSINY.aspx'); } } </p>
+<p> 9:00pm </p>
+<p> Grimm </p>
+<p> var tempTitle = "Grimm"; if (s_link1 != null) { if (s_link1.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic1").setAttribute('href', 'http://shows.ctv.ca/Grimm.aspx'); } } </p>
+<p> 10:00pm </p>
+<p> Blue Bloods </p>
+<p> var tempTitle = "Blue Bloods"; if (s_link1 != null) { if (s_link1.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic1").setAttribute('href', 'http://shows.ctv.ca/BlueBloods.aspx'); } } </p>
+<p> 8:00pm </p>
+<p> CSI: NY </p>
+<p> var tempTitle = "CSI: NY"; if (s_link1 != null) { if (s_link1.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic1").setAttribute('href', 'http://shows.ctv.ca/CSINY.aspx'); } } </p>
+<p> 9:00pm </p>
+<p> Grimm </p>
+<p> var tempTitle = "Grimm"; if (s_link1 != null) { if (s_link1.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic1").setAttribute('href', 'http://shows.ctv.ca/Grimm.aspx'); } } </p>
+<p> 10:00pm </p>
+<p> Blue Bloods </p>
+<p> var tempTitle = "Blue Bloods"; if (s_link1 != null) { if (s_link1.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic1").setAttribute('href', 'http://shows.ctv.ca/BlueBloods.aspx'); } } </p>
+<p> 8:00pm </p>
+<p> CSI: NY </p>
+<p> var tempTitle = "CSI: NY"; if (s_link1 != null) { if (s_link1.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic1").setAttribute('href', 'http://shows.ctv.ca/CSINY.aspx'); } } </p>
+<p> 9:00pm </p>
+<p> Grimm </p>
+<p> var tempTitle = "Grimm"; if (s_link1 != null) { if (s_link1.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic1").setAttribute('href', 'http://shows.ctv.ca/Grimm.aspx'); } } </p>
+<p> 10:00pm </p>
+<p> Blue Bloods </p>
+<p> var tempTitle = "Blue Bloods"; if (s_link1 != null) { if (s_link1.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic1").setAttribute('href', 'http://shows.ctv.ca/BlueBloods.aspx'); } } </p>
+<p> 6:00am </p>
+<p> Live 8 </p>
+<p> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world. </p>
+<p> var tempTitle = "Live 8 <br /> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world."; if (s_link1 != null) { if (s_link1.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic1").setAttribute('href', 'http://www.ctv.ca/generic/WebSpecials/live8/index.html'); } } </p>
+<p> 6:00am </p>
+<p> Live 8 </p>
+<p> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world. </p>
+<p> var tempTitle = "Live 8 <br /> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world."; if (s_link1 != null) { if (s_link1.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic1").setAttribute('href', 'http://www.ctv.ca/generic/WebSpecials/live8/index.html'); } } </p>
+<p> 6:00am </p>
+<p> Live 8 </p>
+<p> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world. </p>
+<p> var tempTitle = "Live 8 <br /> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world."; if (s_link1 != null) { if (s_link1.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic1").setAttribute('href', 'http://www.ctv.ca/generic/WebSpecials/live8/index.html'); } } </p>
+<p> 6:00am </p>
+<p> Live 8 </p>
+<p> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world. </p>
+<p> var tempTitle = "Live 8 <br /> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world."; if (s_link1 != null) { if (s_link1.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic1").setAttribute('href', 'http://www.ctv.ca/generic/WebSpecials/live8/index.html'); } } </p>
+<p> 7:00am </p>
+<p> Live 8 </p>
+<p> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world. </p>
+<p> var tempTitle = "Live 8 <br /> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world."; if (s_link1 != null) { if (s_link1.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic1").setAttribute('href', 'http://www.ctv.ca/generic/WebSpecials/live8/index.html'); } } </p>
+<p> 7:00am </p>
+<p> Live 8 </p>
+<p> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world. </p>
+<p> var tempTitle = "Live 8 <br /> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world."; if (s_link1 != null) { if (s_link1.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic1").setAttribute('href', 'http://www.ctv.ca/generic/WebSpecials/live8/index.html'); } } </p>
+<p> 8:00am </p>
+<p> Live 8 </p>
+<p> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world. </p>
+<p> var tempTitle = "Live 8 <br /> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world."; if (s_link1 != null) { if (s_link1.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic1").setAttribute('href', 'http://www.ctv.ca/generic/WebSpecials/live8/index.html'); } } </p>
+<p> 6:00am </p>
+<p> Live 8 </p>
+<p> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world. </p>
+<p> var tempTitle = "Live 8 <br /> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world."; if (s_link1 != null) { if (s_link1.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic1").setAttribute('href', 'http://www.ctv.ca/generic/WebSpecials/live8/index.html'); } } </p>
+<p> Select Your CTV </p>
+<p> Customize </p>
+<p> Toronto </p>
+<p> Tue, Jan 10, 12 </p>
+<p> 8:00pm </p>
+<p> CTV News </p>
+<p> var tempTitle = "CTV News"; if (s_link2 != null) { if (s_link2.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic2").setAttribute('href', 'http://www.ctv.ca/news'); } } </p>
+<p> 9:00pm </p>
+<p> CTV Movie: HOT SHOTS </p>
+<p> var tempTitle = "CTV Movie: HOT SHOTS"; if (s_link2 != null) { if (s_link2.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic2").setAttribute('href', 'http://www.ctv.ca/generic/generated/shows/movie.html'); } } </p>
+<p> 9:00pm </p>
+<p> Flashpoint </p>
+<p> var tempTitle = "Flashpoint"; if (s_link2 != null) { if (s_link2.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic2").setAttribute('href', 'http://shows.ctv.ca/FlashPoint.aspx'); } } </p>
+<p> 10:00pm </p>
+<p> The Big Bang Theory </p>
+<p> var tempTitle = "The Big Bang Theory"; if (s_link2 != null) { if (s_link2.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic2").setAttribute('href', 'http://shows.ctv.ca/TheBigBangTheory.aspx'); } } </p>
+<p> 10:30pm </p>
+<p> The Big Bang Theory </p>
+<p> var tempTitle = "The Big Bang Theory"; if (s_link2 != null) { if (s_link2.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic2").setAttribute('href', 'http://shows.ctv.ca/TheBigBangTheory.aspx'); } } </p>
+<p> 7:00pm </p>
+<p> NFL </p>
+<p> var tempTitle = "NFL"; if (s_link2 != null) { if (s_link2.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic2").setAttribute('href', 'http://shows.ctv.ca/NFL.aspx'); } } </p>
+<p> 10:00pm </p>
+<p> Man Up! </p>
+<p> var tempTitle = "Man Up!"; if (s_link2 != null) { if (s_link2.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic2").setAttribute('href', ''); } } </p>
+<p> 10:30pm </p>
+<p> Man Up! </p>
+<p> var tempTitle = "Man Up!"; if (s_link2 != null) { if (s_link2.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic2").setAttribute('href', ''); } } </p>
+<p> 7:00pm </p>
+<p> NFL </p>
+<p> var tempTitle = "NFL"; if (s_link2 != null) { if (s_link2.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic2").setAttribute('href', 'http://shows.ctv.ca/NFL.aspx'); } } </p>
+<p> 10:00pm </p>
+<p> Man Up! </p>
+<p> var tempTitle = "Man Up!"; if (s_link2 != null) { if (s_link2.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic2").setAttribute('href', ''); } } </p>
+<p> 10:30pm </p>
+<p> Man Up! </p>
+<p> var tempTitle = "Man Up!"; if (s_link2 != null) { if (s_link2.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic2").setAttribute('href', ''); } } </p>
+<p> 7:30pm </p>
+<p> NFL Today </p>
+<p> var tempTitle = "NFL Today"; if (s_link2 != null) { if (s_link2.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic2").setAttribute('href', 'http://shows.ctv.ca/NFL.aspx'); } } </p>
+<p> 8:00pm </p>
+<p> NFL </p>
+<p> var tempTitle = "NFL"; if (s_link2 != null) { if (s_link2.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic2").setAttribute('href', 'http://shows.ctv.ca/NFL.aspx'); } } </p>
+<p> 8:30pm </p>
+<p> NFL Today </p>
+<p> var tempTitle = "NFL Today"; if (s_link2 != null) { if (s_link2.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic2").setAttribute('href', 'http://shows.ctv.ca/NFL.aspx'); } } </p>
+<p> 9:00pm </p>
+<p> NFL </p>
+<p> var tempTitle = "NFL"; if (s_link2 != null) { if (s_link2.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic2").setAttribute('href', 'http://shows.ctv.ca/NFL.aspx'); } } </p>
+<p> 9:00pm </p>
+<p> Flashpoint </p>
+<p> var tempTitle = "Flashpoint"; if (s_link2 != null) { if (s_link2.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic2").setAttribute('href', 'http://shows.ctv.ca/FlashPoint.aspx'); } } </p>
+<p> 10:00pm </p>
+<p> The Big Bang Theory </p>
+<p> var tempTitle = "The Big Bang Theory"; if (s_link2 != null) { if (s_link2.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic2").setAttribute('href', 'http://shows.ctv.ca/TheBigBangTheory.aspx'); } } </p>
+<p> 10:30pm </p>
+<p> The Big Bang Theory </p>
+<p> var tempTitle = "The Big Bang Theory"; if (s_link2 != null) { if (s_link2.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic2").setAttribute('href', 'http://shows.ctv.ca/TheBigBangTheory.aspx'); } } </p>
+<p> 7:30pm </p>
+<p> NFL Today </p>
+<p> var tempTitle = "NFL Today"; if (s_link2 != null) { if (s_link2.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic2").setAttribute('href', 'http://shows.ctv.ca/NFL.aspx'); } } </p>
+<p> 8:00pm </p>
+<p> NFL </p>
+<p> var tempTitle = "NFL"; if (s_link2 != null) { if (s_link2.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic2").setAttribute('href', 'http://shows.ctv.ca/NFL.aspx'); } } </p>
+<p> 7:30pm </p>
+<p> NFL Today </p>
+<p> var tempTitle = "NFL Today"; if (s_link2 != null) { if (s_link2.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic2").setAttribute('href', 'http://shows.ctv.ca/NFL.aspx'); } } </p>
+<p> 8:00pm </p>
+<p> NFL </p>
+<p> var tempTitle = "NFL"; if (s_link2 != null) { if (s_link2.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic2").setAttribute('href', 'http://shows.ctv.ca/NFL.aspx'); } } </p>
+<p> 7:30pm </p>
+<p> NFL Today </p>
+<p> var tempTitle = "NFL Today"; if (s_link2 != null) { if (s_link2.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic2").setAttribute('href', 'http://shows.ctv.ca/NFL.aspx'); } } </p>
+<p> 8:00pm </p>
+<p> NFL </p>
+<p> var tempTitle = "NFL"; if (s_link2 != null) { if (s_link2.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic2").setAttribute('href', 'http://shows.ctv.ca/NFL.aspx'); } } </p>
+<p> 7:30pm </p>
+<p> NFL Today </p>
+<p> var tempTitle = "NFL Today"; if (s_link2 != null) { if (s_link2.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic2").setAttribute('href', 'http://shows.ctv.ca/NFL.aspx'); } } </p>
+<p> 8:00pm </p>
+<p> NFL </p>
+<p> var tempTitle = "NFL"; if (s_link2 != null) { if (s_link2.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic2").setAttribute('href', 'http://shows.ctv.ca/NFL.aspx'); } } </p>
+<p> 6:00am </p>
+<p> Live 8 </p>
+<p> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world. </p>
+<p> var tempTitle = "Live 8 <br /> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world."; if (s_link2 != null) { if (s_link2.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic2").setAttribute('href', 'http://www.ctv.ca/generic/WebSpecials/live8/index.html'); } } </p>
+<p> 6:00am </p>
+<p> Live 8 </p>
+<p> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world. </p>
+<p> var tempTitle = "Live 8 <br /> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world."; if (s_link2 != null) { if (s_link2.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic2").setAttribute('href', 'http://www.ctv.ca/generic/WebSpecials/live8/index.html'); } } </p>
+<p> 6:00am </p>
+<p> Live 8 </p>
+<p> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world. </p>
+<p> var tempTitle = "Live 8 <br /> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world."; if (s_link2 != null) { if (s_link2.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic2").setAttribute('href', 'http://www.ctv.ca/generic/WebSpecials/live8/index.html'); } } </p>
+<p> 6:00am </p>
+<p> Live 8 </p>
+<p> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world. </p>
+<p> var tempTitle = "Live 8 <br /> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world."; if (s_link2 != null) { if (s_link2.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic2").setAttribute('href', 'http://www.ctv.ca/generic/WebSpecials/live8/index.html'); } } </p>
+<p> 7:00am </p>
+<p> Live 8 </p>
+<p> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world. </p>
+<p> var tempTitle = "Live 8 <br /> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world."; if (s_link2 != null) { if (s_link2.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic2").setAttribute('href', 'http://www.ctv.ca/generic/WebSpecials/live8/index.html'); } } </p>
+<p> 7:00am </p>
+<p> Live 8 </p>
+<p> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world. </p>
+<p> var tempTitle = "Live 8 <br /> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world."; if (s_link2 != null) { if (s_link2.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic2").setAttribute('href', 'http://www.ctv.ca/generic/WebSpecials/live8/index.html'); } } </p>
+<p> 8:00am </p>
+<p> Live 8 </p>
+<p> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world. </p>
+<p> var tempTitle = "Live 8 <br /> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world."; if (s_link2 != null) { if (s_link2.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic2").setAttribute('href', 'http://www.ctv.ca/generic/WebSpecials/live8/index.html'); } } </p>
+<p> 6:00am </p>
+<p> Live 8 </p>
+<p> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world. </p>
+<p> var tempTitle = "Live 8 <br /> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world."; if (s_link2 != null) { if (s_link2.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic2").setAttribute('href', 'http://www.ctv.ca/generic/WebSpecials/live8/index.html'); } } </p>
+<p> Select Your CTV </p>
+<p> Customize </p>
+<p> Toronto </p>
+<p> Mon, Jan 9, 12 </p>
+<p> 8:00pm </p>
+<p> Once Upon a Time </p>
+<p> var tempTitle = "Once Upon a Time"; if (s_link3 != null) { if (s_link3.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic3").setAttribute('href', 'http://shows.ctv.ca/OnceUponATime.aspx'); } } </p>
+<p> 9:00pm </p>
+<p> Desperate Housewives </p>
+<p> var tempTitle = "Desperate Housewives"; if (s_link3 != null) { if (s_link3.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic3").setAttribute('href', 'http://shows.ctv.ca/DesperateHousewives.aspx'); } } </p>
+<p> 10:00pm </p>
+<p> Pan Am </p>
+<p> var tempTitle = "Pan Am"; if (s_link3 != null) { if (s_link3.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic3").setAttribute('href', 'http://shows.ctv.ca/PanAm.aspx'); } } </p>
+<p> 9:00pm </p>
+<p> Once Upon a Time </p>
+<p> var tempTitle = "Once Upon a Time"; if (s_link3 != null) { if (s_link3.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic3").setAttribute('href', 'http://shows.ctv.ca/OnceUponATime.aspx'); } } </p>
+<p> 10:00pm </p>
+<p> Desperate Housewives </p>
+<p> var tempTitle = "Desperate Housewives"; if (s_link3 != null) { if (s_link3.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic3").setAttribute('href', 'http://shows.ctv.ca/DesperateHousewives.aspx'); } } </p>
+<p> 7:00pm </p>
+<p> The 69th Annual Golden Globe Awards </p>
+<p> var tempTitle = "The 69th Annual Golden Globe Awards"; if (s_link3 != null) { if (s_link3.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic3").setAttribute('href', ''); } } </p>
+<p> 10:00pm </p>
+<p> Once Upon a Time </p>
+<p> var tempTitle = "Once Upon a Time"; if (s_link3 != null) { if (s_link3.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic3").setAttribute('href', 'http://shows.ctv.ca/OnceUponATime.aspx'); } } </p>
+<p> 7:00pm </p>
+<p> The 69th Annual Golden Globe Awards </p>
+<p> var tempTitle = "The 69th Annual Golden Globe Awards"; if (s_link3 != null) { if (s_link3.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic3").setAttribute('href', ''); } } </p>
+<p> 10:00pm </p>
+<p> Once Upon a Time </p>
+<p> var tempTitle = "Once Upon a Time"; if (s_link3 != null) { if (s_link3.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic3").setAttribute('href', 'http://shows.ctv.ca/OnceUponATime.aspx'); } } </p>
+<p> 7:00pm </p>
+<p> Once Upon a Time </p>
+<p> var tempTitle = "Once Upon a Time"; if (s_link3 != null) { if (s_link3.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic3").setAttribute('href', 'http://shows.ctv.ca/OnceUponATime.aspx'); } } </p>
+<p> 8:00pm </p>
+<p> The 69th Annual Golden Globe Awards </p>
+<p> var tempTitle = "The 69th Annual Golden Globe Awards"; if (s_link3 != null) { if (s_link3.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic3").setAttribute('href', ''); } } </p>
+<p> 7:00pm </p>
+<p> Once Upon a Time </p>
+<p> var tempTitle = "Once Upon a Time"; if (s_link3 != null) { if (s_link3.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic3").setAttribute('href', 'http://shows.ctv.ca/OnceUponATime.aspx'); } } </p>
+<p> 8:00pm </p>
+<p> The 2012 Golden Globe Arrivals Special </p>
+<p> var tempTitle = "The 2012 Golden Globe Arrivals Special"; if (s_link3 != null) { if (s_link3.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic3").setAttribute('href', ''); } } </p>
+<p> 9:00pm </p>
+<p> The 69th Annual Golden Globe Awards </p>
+<p> var tempTitle = "The 69th Annual Golden Globe Awards"; if (s_link3 != null) { if (s_link3.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic3").setAttribute('href', ''); } } </p>
+<p> 9:00pm </p>
+<p> Once Upon a Time </p>
+<p> var tempTitle = "Once Upon a Time"; if (s_link3 != null) { if (s_link3.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic3").setAttribute('href', 'http://shows.ctv.ca/OnceUponATime.aspx'); } } </p>
+<p> 10:00pm </p>
+<p> Desperate Housewives </p>
+<p> var tempTitle = "Desperate Housewives"; if (s_link3 != null) { if (s_link3.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic3").setAttribute('href', 'http://shows.ctv.ca/DesperateHousewives.aspx'); } } </p>
+<p> 7:00pm </p>
+<p> Once Upon a Time </p>
+<p> var tempTitle = "Once Upon a Time"; if (s_link3 != null) { if (s_link3.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic3").setAttribute('href', 'http://shows.ctv.ca/OnceUponATime.aspx'); } } </p>
+<p> 8:00pm </p>
+<p> The 69th Annual Golden Globe Awards </p>
+<p> var tempTitle = "The 69th Annual Golden Globe Awards"; if (s_link3 != null) { if (s_link3.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic3").setAttribute('href', ''); } } </p>
+<p> 7:00pm </p>
+<p> Once Upon a Time </p>
+<p> var tempTitle = "Once Upon a Time"; if (s_link3 != null) { if (s_link3.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic3").setAttribute('href', 'http://shows.ctv.ca/OnceUponATime.aspx'); } } </p>
+<p> 8:00pm </p>
+<p> The 69th Annual Golden Globe Awards </p>
+<p> var tempTitle = "The 69th Annual Golden Globe Awards"; if (s_link3 != null) { if (s_link3.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic3").setAttribute('href', ''); } } </p>
+<p> 7:00pm </p>
+<p> Once Upon a Time </p>
+<p> var tempTitle = "Once Upon a Time"; if (s_link3 != null) { if (s_link3.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic3").setAttribute('href', 'http://shows.ctv.ca/OnceUponATime.aspx'); } } </p>
+<p> 8:00pm </p>
+<p> The 69th Annual Golden Globe Awards </p>
+<p> var tempTitle = "The 69th Annual Golden Globe Awards"; if (s_link3 != null) { if (s_link3.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic3").setAttribute('href', ''); } } </p>
+<p> 7:00pm </p>
+<p> Once Upon a Time </p>
+<p> var tempTitle = "Once Upon a Time"; if (s_link3 != null) { if (s_link3.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic3").setAttribute('href', 'http://shows.ctv.ca/OnceUponATime.aspx'); } } </p>
+<p> 8:00pm </p>
+<p> The 69th Annual Golden Globe Awards </p>
+<p> var tempTitle = "The 69th Annual Golden Globe Awards"; if (s_link3 != null) { if (s_link3.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic3").setAttribute('href', ''); } } </p>
+<p> 6:00am </p>
+<p> Live 8 </p>
+<p> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world. </p>
+<p> var tempTitle = "Live 8 <br /> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world."; if (s_link3 != null) { if (s_link3.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic3").setAttribute('href', 'http://www.ctv.ca/generic/WebSpecials/live8/index.html'); } } </p>
+<p> 6:00am </p>
+<p> Live 8 </p>
+<p> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world. </p>
+<p> var tempTitle = "Live 8 <br /> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world."; if (s_link3 != null) { if (s_link3.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic3").setAttribute('href', 'http://www.ctv.ca/generic/WebSpecials/live8/index.html'); } } </p>
+<p> 6:00am </p>
+<p> Live 8 </p>
+<p> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world. </p>
+<p> var tempTitle = "Live 8 <br /> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world."; if (s_link3 != null) { if (s_link3.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic3").setAttribute('href', 'http://www.ctv.ca/generic/WebSpecials/live8/index.html'); } } </p>
+<p> 6:00am </p>
+<p> Live 8 </p>
+<p> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world. </p>
+<p> var tempTitle = "Live 8 <br /> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world."; if (s_link3 != null) { if (s_link3.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic3").setAttribute('href', 'http://www.ctv.ca/generic/WebSpecials/live8/index.html'); } } </p>
+<p> 7:00am </p>
+<p> Live 8 </p>
+<p> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world. </p>
+<p> var tempTitle = "Live 8 <br /> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world."; if (s_link3 != null) { if (s_link3.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic3").setAttribute('href', 'http://www.ctv.ca/generic/WebSpecials/live8/index.html'); } } </p>
+<p> 7:00am </p>
+<p> Live 8 </p>
+<p> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world. </p>
+<p> var tempTitle = "Live 8 <br /> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world."; if (s_link3 != null) { if (s_link3.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic3").setAttribute('href', 'http://www.ctv.ca/generic/WebSpecials/live8/index.html'); } } </p>
+<p> 8:00am </p>
+<p> Live 8 </p>
+<p> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world. </p>
+<p> var tempTitle = "Live 8 <br /> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world."; if (s_link3 != null) { if (s_link3.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic3").setAttribute('href', 'http://www.ctv.ca/generic/WebSpecials/live8/index.html'); } } </p>
+<p> 6:00am </p>
+<p> Live 8 </p>
+<p> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world. </p>
+<p> var tempTitle = "Live 8 <br /> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world."; if (s_link3 != null) { if (s_link3.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic3").setAttribute('href', 'http://www.ctv.ca/generic/WebSpecials/live8/index.html'); } } </p>
+<p> Select Your CTV </p>
+<p> Customize </p>
+<p> Toronto </p>
+<p> Sun, Jan 8, 12 </p>
+<p> 8:00pm </p>
+<p> Betty White's Off Their Rockers </p>
+<p> var tempTitle = "Betty White's Off Their Rockers"; if (s_link4 != null) { if (s_link4.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic4").setAttribute('href', ''); } } </p>
+<p> 8:30pm </p>
+<p> Two and a Half Men </p>
+<p> var tempTitle = "Two and a Half Men"; if (s_link4 != null) { if (s_link4.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic4").setAttribute('href', 'http://shows.ctv.ca/twoAndAHalfMen.aspx'); } } </p>
+<p> 9:00pm </p>
+<p> Two and a Half Men </p>
+<p> var tempTitle = "Two and a Half Men"; if (s_link4 != null) { if (s_link4.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic4").setAttribute('href', 'http://shows.ctv.ca/twoAndAHalfMen.aspx'); } } </p>
+<p> 9:30pm </p>
+<p> Mike & Molly </p>
+<p> var tempTitle = "Mike & Molly"; if (s_link4 != null) { if (s_link4.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic4").setAttribute('href', 'http://shows.ctv.ca/MikeAndMolly.aspx'); } } </p>
+<p> 10:00pm </p>
+<p> Castle </p>
+<p> var tempTitle = "Castle"; if (s_link4 != null) { if (s_link4.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic4").setAttribute('href', 'http://shows.ctv.ca/Castle.aspx'); } } </p>
+<p> 8:00pm </p>
+<p> Castle </p>
+<p> var tempTitle = "Castle"; if (s_link4 != null) { if (s_link4.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic4").setAttribute('href', 'http://shows.ctv.ca/Castle.aspx'); } } </p>
+<p> 9:00pm </p>
+<p> Betty White's Off Their Rockers </p>
+<p> var tempTitle = "Betty White's Off Their Rockers"; if (s_link4 != null) { if (s_link4.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic4").setAttribute('href', ''); } } </p>
+<p> 9:30pm </p>
+<p> Two and a Half Men </p>
+<p> var tempTitle = "Two and a Half Men"; if (s_link4 != null) { if (s_link4.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic4").setAttribute('href', 'http://shows.ctv.ca/twoAndAHalfMen.aspx'); } } </p>
+<p> 10:00pm </p>
+<p> Two and a Half Men </p>
+<p> var tempTitle = "Two and a Half Men"; if (s_link4 != null) { if (s_link4.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic4").setAttribute('href', 'http://shows.ctv.ca/twoAndAHalfMen.aspx'); } } </p>
+<p> 10:30pm </p>
+<p> Mike & Molly </p>
+<p> var tempTitle = "Mike & Molly"; if (s_link4 != null) { if (s_link4.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic4").setAttribute('href', 'http://shows.ctv.ca/MikeAndMolly.aspx'); } } </p>
+<p> 7:00pm </p>
+<p> Betty White's Off Their Rockers </p>
+<p> var tempTitle = "Betty White's Off Their Rockers"; if (s_link4 != null) { if (s_link4.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic4").setAttribute('href', ''); } } </p>
+<p> 7:30pm </p>
+<p> Two and a Half Men </p>
+<p> var tempTitle = "Two and a Half Men"; if (s_link4 != null) { if (s_link4.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic4").setAttribute('href', 'http://shows.ctv.ca/twoAndAHalfMen.aspx'); } } </p>
+<p> 8:00pm </p>
+<p> Two and a Half Men </p>
+<p> var tempTitle = "Two and a Half Men"; if (s_link4 != null) { if (s_link4.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic4").setAttribute('href', 'http://shows.ctv.ca/twoAndAHalfMen.aspx'); } } </p>
+<p> 8:30pm </p>
+<p> Mike & Molly </p>
+<p> var tempTitle = "Mike & Molly"; if (s_link4 != null) { if (s_link4.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic4").setAttribute('href', 'http://shows.ctv.ca/MikeAndMolly.aspx'); } } </p>
+<p> 9:00pm </p>
+<p> Castle </p>
+<p> var tempTitle = "Castle"; if (s_link4 != null) { if (s_link4.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic4").setAttribute('href', 'http://shows.ctv.ca/Castle.aspx'); } } </p>
+<p> 7:00pm </p>
+<p> Betty White's Off Their Rockers </p>
+<p> var tempTitle = "Betty White's Off Their Rockers"; if (s_link4 != null) { if (s_link4.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic4").setAttribute('href', ''); } } </p>
+<p> 7:30pm </p>
+<p> Two and a Half Men </p>
+<p> var tempTitle = "Two and a Half Men"; if (s_link4 != null) { if (s_link4.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic4").setAttribute('href', 'http://shows.ctv.ca/twoAndAHalfMen.aspx'); } } </p>
+<p> 8:00pm </p>
+<p> Two and a Half Men </p>
+<p> var tempTitle = "Two and a Half Men"; if (s_link4 != null) { if (s_link4.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic4").setAttribute('href', 'http://shows.ctv.ca/twoAndAHalfMen.aspx'); } } </p>
+<p> 8:30pm </p>
+<p> Mike & Molly </p>
+<p> var tempTitle = "Mike & Molly"; if (s_link4 != null) { if (s_link4.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic4").setAttribute('href', 'http://shows.ctv.ca/MikeAndMolly.aspx'); } } </p>
+<p> 9:00pm </p>
+<p> Castle </p>
+<p> var tempTitle = "Castle"; if (s_link4 != null) { if (s_link4.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic4").setAttribute('href', 'http://shows.ctv.ca/Castle.aspx'); } } </p>
+<p> 8:00pm </p>
+<p> Betty White's Off Their Rockers </p>
+<p> var tempTitle = "Betty White's Off Their Rockers"; if (s_link4 != null) { if (s_link4.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic4").setAttribute('href', ''); } } </p>
+<p> 8:30pm </p>
+<p> Two and a Half Men </p>
+<p> var tempTitle = "Two and a Half Men"; if (s_link4 != null) { if (s_link4.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic4").setAttribute('href', 'http://shows.ctv.ca/twoAndAHalfMen.aspx'); } } </p>
+<p> 9:00pm </p>
+<p> Two and a Half Men </p>
+<p> var tempTitle = "Two and a Half Men"; if (s_link4 != null) { if (s_link4.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic4").setAttribute('href', 'http://shows.ctv.ca/twoAndAHalfMen.aspx'); } } </p>
+<p> 9:30pm </p>
+<p> Mike & Molly </p>
+<p> var tempTitle = "Mike & Molly"; if (s_link4 != null) { if (s_link4.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic4").setAttribute('href', 'http://shows.ctv.ca/MikeAndMolly.aspx'); } } </p>
+<p> 10:00pm </p>
+<p> Castle </p>
+<p> var tempTitle = "Castle"; if (s_link4 != null) { if (s_link4.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic4").setAttribute('href', 'http://shows.ctv.ca/Castle.aspx'); } } </p>
+<p> 8:00pm </p>
+<p> Castle </p>
+<p> var tempTitle = "Castle"; if (s_link4 != null) { if (s_link4.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic4").setAttribute('href', 'http://shows.ctv.ca/Castle.aspx'); } } </p>
+<p> 9:00pm </p>
+<p> Betty White's Off Their Rockers </p>
+<p> var tempTitle = "Betty White's Off Their Rockers"; if (s_link4 != null) { if (s_link4.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic4").setAttribute('href', ''); } } </p>
+<p> 9:30pm </p>
+<p> Two and a Half Men </p>
+<p> var tempTitle = "Two and a Half Men"; if (s_link4 != null) { if (s_link4.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic4").setAttribute('href', 'http://shows.ctv.ca/twoAndAHalfMen.aspx'); } } </p>
+<p> 10:00pm </p>
+<p> Two and a Half Men </p>
+<p> var tempTitle = "Two and a Half Men"; if (s_link4 != null) { if (s_link4.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic4").setAttribute('href', 'http://shows.ctv.ca/twoAndAHalfMen.aspx'); } } </p>
+<p> 10:30pm </p>
+<p> Mike & Molly </p>
+<p> var tempTitle = "Mike & Molly"; if (s_link4 != null) { if (s_link4.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic4").setAttribute('href', 'http://shows.ctv.ca/MikeAndMolly.aspx'); } } </p>
+<p> 8:00pm </p>
+<p> Castle </p>
+<p> var tempTitle = "Castle"; if (s_link4 != null) { if (s_link4.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic4").setAttribute('href', 'http://shows.ctv.ca/Castle.aspx'); } } </p>
+<p> 9:00pm </p>
+<p> Betty White's Off Their Rockers </p>
+<p> var tempTitle = "Betty White's Off Their Rockers"; if (s_link4 != null) { if (s_link4.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic4").setAttribute('href', ''); } } </p>
+<p> 9:30pm </p>
+<p> Two and a Half Men </p>
+<p> var tempTitle = "Two and a Half Men"; if (s_link4 != null) { if (s_link4.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic4").setAttribute('href', 'http://shows.ctv.ca/twoAndAHalfMen.aspx'); } } </p>
+<p> 10:00pm </p>
+<p> Two and a Half Men </p>
+<p> var tempTitle = "Two and a Half Men"; if (s_link4 != null) { if (s_link4.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic4").setAttribute('href', 'http://shows.ctv.ca/twoAndAHalfMen.aspx'); } } </p>
+<p> 10:30pm </p>
+<p> Mike & Molly </p>
+<p> var tempTitle = "Mike & Molly"; if (s_link4 != null) { if (s_link4.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic4").setAttribute('href', 'http://shows.ctv.ca/MikeAndMolly.aspx'); } } </p>
+<p> 8:00pm </p>
+<p> Betty White's Off Their Rockers </p>
+<p> var tempTitle = "Betty White's Off Their Rockers"; if (s_link4 != null) { if (s_link4.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic4").setAttribute('href', ''); } } </p>
+<p> 8:30pm </p>
+<p> Two and a Half Men </p>
+<p> var tempTitle = "Two and a Half Men"; if (s_link4 != null) { if (s_link4.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic4").setAttribute('href', 'http://shows.ctv.ca/twoAndAHalfMen.aspx'); } } </p>
+<p> 9:00pm </p>
+<p> Two and a Half Men </p>
+<p> var tempTitle = "Two and a Half Men"; if (s_link4 != null) { if (s_link4.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic4").setAttribute('href', 'http://shows.ctv.ca/twoAndAHalfMen.aspx'); } } </p>
+<p> 9:30pm </p>
+<p> Mike & Molly </p>
+<p> var tempTitle = "Mike & Molly"; if (s_link4 != null) { if (s_link4.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic4").setAttribute('href', 'http://shows.ctv.ca/MikeAndMolly.aspx'); } } </p>
+<p> 10:00pm </p>
+<p> Castle </p>
+<p> var tempTitle = "Castle"; if (s_link4 != null) { if (s_link4.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic4").setAttribute('href', 'http://shows.ctv.ca/Castle.aspx'); } } </p>
+<p> 8:00pm </p>
+<p> Betty White's Off Their Rockers </p>
+<p> var tempTitle = "Betty White's Off Their Rockers"; if (s_link4 != null) { if (s_link4.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic4").setAttribute('href', ''); } } </p>
+<p> 8:30pm </p>
+<p> Two and a Half Men </p>
+<p> var tempTitle = "Two and a Half Men"; if (s_link4 != null) { if (s_link4.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic4").setAttribute('href', 'http://shows.ctv.ca/twoAndAHalfMen.aspx'); } } </p>
+<p> 9:00pm </p>
+<p> Two and a Half Men </p>
+<p> var tempTitle = "Two and a Half Men"; if (s_link4 != null) { if (s_link4.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic4").setAttribute('href', 'http://shows.ctv.ca/twoAndAHalfMen.aspx'); } } </p>
+<p> 9:30pm </p>
+<p> Mike & Molly </p>
+<p> var tempTitle = "Mike & Molly"; if (s_link4 != null) { if (s_link4.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic4").setAttribute('href', 'http://shows.ctv.ca/MikeAndMolly.aspx'); } } </p>
+<p> 10:00pm </p>
+<p> Castle </p>
+<p> var tempTitle = "Castle"; if (s_link4 != null) { if (s_link4.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic4").setAttribute('href', 'http://shows.ctv.ca/Castle.aspx'); } } </p>
+<p> 8:00pm </p>
+<p> Betty White's Off Their Rockers </p>
+<p> var tempTitle = "Betty White's Off Their Rockers"; if (s_link4 != null) { if (s_link4.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic4").setAttribute('href', ''); } } </p>
+<p> 8:30pm </p>
+<p> Two and a Half Men </p>
+<p> var tempTitle = "Two and a Half Men"; if (s_link4 != null) { if (s_link4.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic4").setAttribute('href', 'http://shows.ctv.ca/twoAndAHalfMen.aspx'); } } </p>
+<p> 9:00pm </p>
+<p> Two and a Half Men </p>
+<p> var tempTitle = "Two and a Half Men"; if (s_link4 != null) { if (s_link4.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic4").setAttribute('href', 'http://shows.ctv.ca/twoAndAHalfMen.aspx'); } } </p>
+<p> 9:30pm </p>
+<p> Mike & Molly </p>
+<p> var tempTitle = "Mike & Molly"; if (s_link4 != null) { if (s_link4.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic4").setAttribute('href', 'http://shows.ctv.ca/MikeAndMolly.aspx'); } } </p>
+<p> 10:00pm </p>
+<p> Castle </p>
+<p> var tempTitle = "Castle"; if (s_link4 != null) { if (s_link4.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic4").setAttribute('href', 'http://shows.ctv.ca/Castle.aspx'); } } </p>
+<p> 8:00pm </p>
+<p> Betty White's Off Their Rockers </p>
+<p> var tempTitle = "Betty White's Off Their Rockers"; if (s_link4 != null) { if (s_link4.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic4").setAttribute('href', ''); } } </p>
+<p> 8:30pm </p>
+<p> Two and a Half Men </p>
+<p> var tempTitle = "Two and a Half Men"; if (s_link4 != null) { if (s_link4.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic4").setAttribute('href', 'http://shows.ctv.ca/twoAndAHalfMen.aspx'); } } </p>
+<p> 9:00pm </p>
+<p> Two and a Half Men </p>
+<p> var tempTitle = "Two and a Half Men"; if (s_link4 != null) { if (s_link4.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic4").setAttribute('href', 'http://shows.ctv.ca/twoAndAHalfMen.aspx'); } } </p>
+<p> 9:30pm </p>
+<p> Mike & Molly </p>
+<p> var tempTitle = "Mike & Molly"; if (s_link4 != null) { if (s_link4.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic4").setAttribute('href', 'http://shows.ctv.ca/MikeAndMolly.aspx'); } } </p>
+<p> 10:00pm </p>
+<p> Castle </p>
+<p> var tempTitle = "Castle"; if (s_link4 != null) { if (s_link4.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic4").setAttribute('href', 'http://shows.ctv.ca/Castle.aspx'); } } </p>
+<p> 6:00am </p>
+<p> Live 8 </p>
+<p> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world. </p>
+<p> var tempTitle = "Live 8 <br /> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world."; if (s_link4 != null) { if (s_link4.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic4").setAttribute('href', 'http://www.ctv.ca/generic/WebSpecials/live8/index.html'); } } </p>
+<p> 6:00am </p>
+<p> Live 8 </p>
+<p> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world. </p>
+<p> var tempTitle = "Live 8 <br /> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world."; if (s_link4 != null) { if (s_link4.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic4").setAttribute('href', 'http://www.ctv.ca/generic/WebSpecials/live8/index.html'); } } </p>
+<p> 6:00am </p>
+<p> Live 8 </p>
+<p> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world. </p>
+<p> var tempTitle = "Live 8 <br /> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world."; if (s_link4 != null) { if (s_link4.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic4").setAttribute('href', 'http://www.ctv.ca/generic/WebSpecials/live8/index.html'); } } </p>
+<p> 6:00am </p>
+<p> Live 8 </p>
+<p> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world. </p>
+<p> var tempTitle = "Live 8 <br /> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world."; if (s_link4 != null) { if (s_link4.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic4").setAttribute('href', 'http://www.ctv.ca/generic/WebSpecials/live8/index.html'); } } </p>
+<p> 7:00am </p>
+<p> Live 8 </p>
+<p> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world. </p>
+<p> var tempTitle = "Live 8 <br /> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world."; if (s_link4 != null) { if (s_link4.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic4").setAttribute('href', 'http://www.ctv.ca/generic/WebSpecials/live8/index.html'); } } </p>
+<p> 7:00am </p>
+<p> Live 8 </p>
+<p> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world. </p>
+<p> var tempTitle = "Live 8 <br /> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world."; if (s_link4 != null) { if (s_link4.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic4").setAttribute('href', 'http://www.ctv.ca/generic/WebSpecials/live8/index.html'); } } </p>
+<p> 8:00am </p>
+<p> Live 8 </p>
+<p> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world. </p>
+<p> var tempTitle = "Live 8 <br /> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world."; if (s_link4 != null) { if (s_link4.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic4").setAttribute('href', 'http://www.ctv.ca/generic/WebSpecials/live8/index.html'); } } </p>
+<p> 6:00am </p>
+<p> Live 8 </p>
+<p> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world. </p>
+<p> var tempTitle = "Live 8 <br /> A historic day of rock 'n' roll as CTV broadcasts concerts from around the world."; if (s_link4 != null) { if (s_link4.toLowerCase() == tempTitle.toLowerCase()) { document.getElementById("linkPic4").setAttribute('href', 'http://www.ctv.ca/generic/WebSpecials/live8/index.html'); } } </p>
+<p> Select Your CTV </p>
+<p> Customize </p>
+<p> var currentID = 0; document.getElementById("currentData").innerHTML = "<table>" + document.getElementById("whatson" + "CFCN" + "0").innerHTML + "</table>"; document.getElementById("pictureSpot").innerHTML = document.getElementById("mappingData0").innerHTML; </p>
+<p> function clickDay(ID) { for (i = 0; i< 5; i++) { document.getElementById("day" + i).style.backgroundColor = "#dcdcdc";  } document.getElementById("day" + ID).style.backgroundColor = "#a9a9a9"; document.getElementById("currentData").innerHTML = "<table>" + document.getElementById("whatson" + "CFCN" + ID).innerHTML + "</table>";  currentID = ID;  document.getElementById("pictureSpot").innerHTML = document.getElementById("mappingData" + ID).innerHTML; } </p>
+<p> removeFeatureBox(); </p>
+<p> writeFooterLocal(); </p>
+<p> var videoPathHBX; var _hbEC=0,_hbE=new Array;function _hbEvent(a,b){b=_hbE[_hbEC++]=new Object();b._N=a;b._C=0;return b;} var hbx=_hbEvent("pv");hbx.vpc="HBX0100u";hbx.gn="ehg-ctv.hitbox.com";  //BEGIN EDITABLE SECTION //CONFIGURATION VARIABLES hbx.acct="DM551230O5NE71EN3;DM561030KMRC71EN3";//ACCOUNT NUMBER(S) hbx.pn="CGY_bowel_ibd_120111";;//PAGE NAME(S)  hbx.mlc="/ctvnews/affiliate/Calgary/Story;/ctv/ctvnews/affiliate/Calgary/Story";//MULTI-LEVEL CONTENT CATEGORY videoPathHBX = "/ctvnews/affiliate/Calgary/Video;/ctv/ctvnews/affiliate/Calgary/Video";   hbx.pndef="title";//DEFAULT PAGE NAME hbx.ctdef="full";//DEFAULT CONTENT CATEGORY hbx.hc1=hbx.pn;  //OPTIONAL PAGE VARIABLES //ACTION SETTINGS hbx.fv="3";//FORM VALIDATION MINIMUM ELEMENTS OR SUBMIT FUNCTION NAME hbx.lt="auto";//LINK TRACKING hbx.dlf="n";//DOWNLOAD FILTER hbx.dft="n";//DOWNLOAD FILE NAMING hbx.elf="n";//EXIT LINK FILTER  //REQUIRED SECTION. CHANGE "YOURSERVER" TO VALID LOCATION ON YOUR WEB SERVER (HTTPS IF FROM SECURE SERVER) </p>
+<p> var _sf_async_config={uid:2895,domain:'ctv.ca'};(function(){function loadPublishflow() {window._sf_endpt=(new Date()).getTime();var e = document.createElement('script');e.setAttribute('language', 'javascript');e.setAttribute('type', 'text/javascript');e.setAttribute('src',(('https:' == document.location.protocol) ? 'https://s3.amazonaws.com/' : 'http://s3.amazonaws.com/') + 'publishflow/javascript/data.js');document.body.appendChild(e);}var oldonload = window.onload;window.onload = (typeof window.onload != 'function') ?loadPublishflow : function() { oldonload(); loadPublishflow(); };})(); </p>

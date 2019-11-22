@@ -1,0 +1,69 @@
+<p> 自由電子報 - 固定運動的人 薪水比不運動者多 </p>
+<p> var _gaq = _gaq || [];   _gaq.push(['_setAccount', 'UA-2887146-7']);   _gaq.push(['_trackPageview']);   (function() {     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);   })(); </p>
+<p> <!-- function MM_preloadImages() { //v3.0   var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();     var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)     if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}} } function MM_reloadPage(init) {  //reloads the window if Nav4 resized   if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {     document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}   else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload(); } MM_reloadPage(true); function AD_openWindow(ano,target) { //v2.0    window.open('http://iservice.libertytimes.com.tw/IService2/ad.php?ano='+ano+'&target='+target+'&source='+document.URL); }  function printScreen() {             var title = document.getElementById('newtitle').innerHTML; 		var content = document.getElementById('newcontent').innerHTML; 		var date = document.getElementById('date').innerHTML; 		var top = '<div id="header_print"><div class="logo"><a href="http://www.libertytimes.com.tw" target="_blank"><img src="http://www.libertytimes.com.tw/2008/images/img_auto/005/logo_s.gif" alt="" border="0" /></a></div><div class="ad"></div><div id="clear"></div></div><table width="700" border="0" align="center" cellspacing="0" class="text" style="border: 1px solid #E0E0E0; margin-top: 6px; text-align:left;"><tr><td width="747" valign="top" style="border-right: 1px solid #E0E0E0; padding:20px;" class="print">'; 		var bot = '</td></tr></table><table width="700" border="0" align="center" class="t13" style="margin-top:8px;"><tr><td height="44" background="http://www.libertytimes.com.tw/2008/images/img_auto/005/service_bgfooter.gif"><div align="center">自由電子報 版權所有 不得轉載 &copy; 2012 The Liberty Times.       All Rights Reserved.</div></td></tr></table>';     var printdetail = window.open("","新聞列印","");     printdetail.document.open();     printdetail.document.write('<HTML><head><link href="http://www.libertytimes.com.tw/css/index/style7.css" rel="stylesheet" type="text/css" /><link href="http://www.libertytimes.com.tw/css/service/style_order.css" rel="stylesheet" type="text/css" /></head><BODY onload="window.print();window.opener=null;window.close();">');      printdetail.document.write(top);      printdetail.document.write('<span class="insubject1">'+title+'</span><span class="date">('+date+')</span>');  		printdetail.document.write(content);      printdetail.document.write(bot);     printdetail.document.close("</BODY></HTML>"); } //--> </p>
+<p> yes123求職網 </p>
+<p> 新聞發言台 </p>
+<p> 爆料投訴 </p>
+<p> 廣告刊登 </p>
+<p> 訂報 </p>
+<p> RSS </p>
+<p> 聯絡我們 </p>
+<p> 自由新聞 </p>
+<p> 影音娛樂 </p>
+<p> 3C 科技 </p>
+<p> 讀者園地 </p>
+<p> 旅遊玩樂 </p>
+<p> 好康報報 </p>
+<p> TAIPEI TIMES </p>
+<p> Blog </p>
+<p> 新聞查詢： </p>
+<p> 服務專區 </p>
+<p> 我要爆料 </p>
+<p> ． </p>
+<p> 自由徵才 </p>
+<p> 廣告刊登 </p>
+<p> ． </p>
+<p> 訂報服務 </p>
+<p> 活動刊登 </p>
+<p> ． </p>
+<p> 登山活動 </p>
+<p> 樂透彩券 </p>
+<p> ． </p>
+<p> 統一發票 </p>
+<p> 首頁 </p>
+<p> > 國際新聞 </p>
+<p> 2012-1-16 </p>
+<p> 字型： </p>
+<p> ∣ </p>
+<p> 看推薦 </p>
+<p> ∣ </p>
+<p> 發言 </p>
+<p> ∣ </p>
+<p> 列印 </p>
+<p> ∣ </p>
+<p> 轉寄 </p>
+<p> 固定運動的人 薪水比不運動者多 </p>
+<p> 〔編譯陳成良／綜合報導〕規律運動不僅有助強化心肺循環系統、增加免疫功能並維持身材苗條，美國一項研究又給運動找了個好理由：相較於不運動的人，固定運動者的薪水可能多出達9％。 </p>
+<p> 先前的研究已發現，運動有助消除壓力、排解憂鬱、療傷及預防疾病，但這項研究成果可能是首度建立運動與個人收入之間的關係。研究指出，老闆可能會認為常運動的人不但較有決心，對工作也較投入，所以願意委以重任；愛運動的員工也更可能基於維持身材苗條的精神與身體益處，而更努力工作。 </p>
+<p> 克里夫蘭大學研究人員以問卷形式，分析1 萬2000人的運動量和薪水之間的關係，發現從事游泳、慢跑，甚至只是在健身房隨意舉舉重的人，薪水比不運動的人高9％；即使是從事像快步走等溫和運動的人，也能帶來較多收入。 </p>
+<p> 研究人員發現，相較於不運動的人，一星期運動3次者的薪水高出6％至9％；就算1個月只運動1到3次，薪水也多出5％。 </p>
+<p> 研究報告作者柯斯堤教授說，除了對心臟、體重及其他醫療問題的正面效應外，運動可增進心理功能及精力，這些特點都可以轉化成更高的薪水。 </p>
+<p> ▲TOP </p>
+<p> 國際新聞 </p>
+<p> 棄乘客先逃命 義郵輪落跑船長被捕 </p>
+<p> 上任兩天就凸槌 日防相果真外行 </p>
+<p> 武警射殺藏人？國際關注北京沉默 </p>
+<p> 失業婦哭窮 羅尼直接給現金50元 </p>
+<p> 東京前線︰日媒見證台灣成熟民主 </p>
+<p> 《中英對照讀新聞》Women pop to the doctor more often than men ’because they really are the sicker sex’ 女人比男人更常看醫生「因她們真的較常生病」 </p>
+<p> 挖地道偷領提款機 只夠買二手車 </p>
+<p> 美國實境秀選美 23歲佳麗摘后冠 </p>
+<p> 固定運動的人 薪水比不運動者多 </p>
+<p> 回首頁 </p>
+<p> ｜ </p>
+<p> 我要投稿 </p>
+<p> ｜ </p>
+<p> 關於我們 </p>
+<p> ｜ </p>
+<p> 隱私權政策聲明 </p>
+<p> 自由電子報 版權所有 不得轉載 © 2012 The Liberty Times. All Rights Reserved. </p>

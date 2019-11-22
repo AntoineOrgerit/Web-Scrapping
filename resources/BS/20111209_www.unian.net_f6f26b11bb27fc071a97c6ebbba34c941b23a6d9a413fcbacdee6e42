@@ -1,0 +1,287 @@
+<p> Харьковские нейрохирурги провели уникальную операцию : Новости УНИАН </p>
+<p> <!-- var RndNum4NoCash = Math.round(Math.random() * 1000000000); var ar_Tail='unknown'; if (document.referrer) ar_Tail = escape(document.referrer); document.write('<sc' + 'ript language="JavaScript" type="text/javascript" src="http://ad.adriver.ru/cgi-bin/erle.cgi?sid=142102&sz=ukraine&bn=1&target=blank&bt=16&pz=1&rnd=' + RndNum4NoCash + '&tail256=' + ar_Tail + '"><\/sc' + 'ript>'); //--> </p>
+<p> информационное агентство </p>
+<p> среда, 10 апреля 2013 </p>
+<p> укр </p>
+<p> | </p>
+<p> eng </p>
+<p> new adriver("adriver_banner_1804584947", {sid:142102, bt:52, sz:'ukraine', pz:2}); </p>
+<p> ФОТО </p>
+<p> | </p>
+<p> ПРОДУКЦИЯ </p>
+<p> | </p>
+<p> УСЛУГИ </p>
+<p> | </p>
+<p> ПРЕСС-КОНФЕРЕНЦИИ </p>
+<p> | </p>
+<p> МОНИТОРИНГ </p>
+<p> | </p>
+<p> РЕЛИЗЫ </p>
+<p> | </p>
+<p> КОНТАКТЫ </p>
+<p> | </p>
+<p> ПОДПИСЧИКАМ </p>
+<p> Экономика </p>
+<p> Армия </p>
+<p> Культура </p>
+<p> Новости ЕС </p>
+<p> Здоровье </p>
+<p> Киев </p>
+<p> Харьков </p>
+<p> Транспорт </p>
+<p> Религии </p>
+<p> Архив </p>
+<p> Энергетика </p>
+<p> var BANDWITH = 0;   var BANDWITH_CONDITION_LIMIT = 2100;   var FILESIZE = 291812;   var FILESRC = "http://tsn.ua/static/file/metter.jpg?ac="+Math.random();    function trim(string) {     return string.replace(/(^\s+)|(\s+$)/g, "");   }    function speedTest() {     $('#top_banner_video').html('<img id="image_test" style="display:none;" src="'+FILESRC+'" onload="onLoadImage()" />');   }    function onLoadImage() {     var t1 = new Date();     var tend = t1.getTime();      var timeloading = (tend - tstart)/1000;     FILESIZE = FILESIZE*8;     BANDWITH = FILESIZE/timeloading;     BANDWITH = Math.round(BANDWITH/1000);      var expire = new Date();     expire.setTime(expire.getTime() + (7*24*60*60*1000));      set_cookie('bandwith',BANDWITH,expire);     showBanner(BANDWITH, BANDWITH_CONDITION_LIMIT);      $.ajax({       type: "GET",       url: "http://tsn.ua/speed_connection_stat/?bandwith="+BANDWITH,       dataType: "text/html",       success: function(data){       }     });   }    var cookies = document.cookie;   var cookies_data = cookies.split(';');   for (var i=0; i<cookies_data.length; i++) {     var cookie_val = cookies_data[i].split('=');     if(trim(cookie_val[0]) == 'bandwith') {       BANDWITH = Math.round(parseInt(trim(cookie_val[1])));       break;     }   }    if(BANDWITH <= 0) {     var t = new Date();     var tstart = t.getTime();     speedTest();   }   else {     showBanner(BANDWITH, BANDWITH_CONDITION_LIMIT);   }    function showBanner(BANDWITH, BANDWITH_CONDITION_LIMIT) {     if(BANDWITH < BANDWITH_CONDITION_LIMIT) {       $('#top_banner_video').html('<div id="alt_fullvideo"></div>');       new adriver("alt_fullvideo", {sid:142102, bt:52, sz:'ukraine', bn:10, pz:1});     }     else {       $('#top_banner_video').html('<div id="Fullvideo_banner"></div>');       new adriver("Fullvideo_banner", {sid:142102, bt:52, sz:'ukraine', bn:1, pz:1});     }   } </p>
+<p> function set_cookie(name, value, expires) {     var argv = this.set_cookie.arguments;     var argc = this.set_cookie.arguments.length;     var expires = (argc > 2) ? argv[2] : null;     var path = (argc > 3) ? argv[3] : null;     var domain = (argc > 4) ? argv[4] : null;     var secure = (argc > 5) ? argv[5] : false;     document.cookie = name + "=" + escape(value) +     ((expires == null) ? "" : ("; expires=" + expires)) +     ((path == null) ? "" : ("; path=" + path)) +     ((domain == null) ? "" : ("; domain=" + domain)) +     ((secure == true) ? "; secure" : "");   } </p>
+<p> ПУБЛИКАЦИИ </p>
+<p> Татьяна Урбанская: </p>
+<p> Юре – волю, Юля – в неволе </p>
+<p> Татьяна Урбанская: </p>
+<p> Помилование – не значит реабилитация. Хроника судебных дел против Луценко </p>
+<p> Евгений Магда: </p>
+<p> Вехи недели. Столица на паузе, казуистика в действии и возвращение Луценко </p>
+<p> Анастасия Береза: </p>
+<p> Неделя в цифрах </p>
+<p> Россия предлагает вместе лететь на Луну </p>
+<p> Сенат разрешил однополые браки во Франции </p>
+<p> Киевское Динамо оспорит решение УЕФА </p>
+<p> 08.12.2011 17:42 , </p>
+<p> ПОСЛЕДНИЕ НОВОСТИ </p>
+<p> Харьковские нейрохирурги провели уникальную операцию </p>
+<p> document.write(VK.Share.button(false,{type: "round", text: ""})); </p>
+<p> Оборудованию нет аналогов в Украине </p>
+<p> Впервые в Украине в Харьковском государственном детском центре нейрохирургии, с применением уникального медицинского оборудования «Nicolet: Endeavor CR», не имеющего аналогов в Украине, провели операцию по удалению опухоли в стволе головного мозга. </p>
+<p> Как сообщили УНИАН в пресс-службе народного депутата Александра ФЕЛЬДМАНА, оперативное вмешательство стало возможным благодаря оборудованию, приобретенному в рамках программы фонда Александра Фельдмана «Будущее - в глазах детей». </p>
+<p> Аппарат «Nicolet: Endeavor CR» помогает следить за нейрофизиологическими показателями головного мозга во время сложных операций. </p>
+<p> Главный врач больницы скорой и неотложной помощи Елена КОВАЛЕВА в этой связи отметила: «Когда в головном мозге появляется опухоль, очень важно знать ее границы. А это оборудование позволяет определить: где находится здоровая ткань, а где - пораженная раковыми клетками. Аналогов такого аппарата в Украине нет, поэтому мы можем назвать эту операцию уникальной». </p>
+<p> По мнению руководителя Центра нейрохирургии Александра ДУХОВСКОГО, данное оборудование поможет спасти жизни десяткам тысяч онкобольных. По его словам, то, что раньше было невозможным, стало реальностью: люди, которых сегодня считают неизлечимыми, благодаря этому оборудованию получили шанс на выздоровление, и в их семьи вернулась надежда. </p>
+<p> <!-- var vhblockID=2027, date=new Date(); document.write('<scr'+'ipt type="text/javascript" src="http://i.holder.com.ua/t/content.y'+(date.getFullYear()%100)+date.getMonth()+date.getDate()+'.js"></scr'+'ipt>'); //--> </p>
+<p> new adriver("informer", {sid:142102, bt:52, bn:7, pz:1}); </p>
+<p> версия для печати </p>
+<p> С более полной информационной картиной дня можно ознакомиться, подписавшись на новостные ленты агентства УНИАН </p>
+<p> Если вы заметили ошибку, выделите ее мышкой и нажмите Ctrl+Enter. </p>
+<p> <!-- var RndNum4NoCash = Math.round(Math.random() * 1000000000); var ar_Tail='unknown'; if (document.referrer) ar_Tail = escape(document.referrer); document.write( '<iframe src="http://ad.adriver.ru/cgi-bin/erle.cgi?' + 'sid=142102&sz=ukraine&bn=1&target=blank&bt=1&pz=1&rnd=' + RndNum4NoCash + '&tail256=' + ar_Tail + '" frameborder=0 vspace=0 hspace=0 width=468 height=60 marginwidth=0' + ' marginheight=0 scrolling=no></iframe>'); //--> </p>
+<p> правила размещения комментариев </p>
+<p> добавить комментарий </p>
+<p> function show_comments2(lang_id,news_id,page) { 	var rnd = Math.round(Math.random() * 1000000000); 	$('#comment_div').html('loading...'); 	$('#show_all_comments').val('loading...'); 	$.ajax({ 		type: "POST", 		url: "/news/comments/ajax_list_comments.php", 		data: "&id="+news_id+"&lang="+lang_id+'&page='+page+"&rnd="+rnd, 		success: function(msg){ 			//$.each(msg, function(key, value){ 				//$('#comment_div').html(value); 				$('#comment_div').html(msg); 			 // }); 		} 	}); }; </p>
+<p> РЕЗОНАНСНЫЕ ТЕМЫ </p>
+<p> ПРОТИВОСТОЯНИЕ НА КОРЕЙСКОМ ПОЛУОСТРОВЕ </p>
+<p> ЗАКЛЮЧЕНИЕ ТИМОШЕНКО </p>
+<p> ОСВОБОЖДЕНИЕ ЛУЦЕНКО </p>
+<p> new adriver("adriver_banner_1485761279", {sid:142102, bt:52, sz:'ukraine', pz:3}); </p>
+<p> ПОСЛЕДНИЕ НОВОСТИ </p>
+<p> 09:30 </p>
+<p> Землетрясение в Иране: 37 погибших, 850 раненых </p>
+<p> 09:14 </p>
+<p> Кабмин изменил список наркотических средств </p>
+<p> 09:11 </p>
+<p> СМИ: Сегодня Луценко сделают операцию </p>
+<p> 08:38 </p>
+<p> Луценко собрал костяк своего движения из соратников по Майдану </p>
+<p> 08:32 </p>
+<p> Hyundai и Kia отзывают свыше 160 тысяч автомобилей из-за проблем с тормозами </p>
+<p> 08:06 </p>
+<p> Южная Корея просит Китай и Россию помочь сдержать КНДР </p>
+<p> 07:49 </p>
+<p> Сенат разрешил однополые браки во Франции </p>
+<p> 07:18 </p>
+<p> Лутковская думает, что обращением о помиловании Луценко, создала прецедент </p>
+<p> 06:44 </p>
+<p> Томенко требует от чиновников не зарываться, когда они судятся с журналистами </p>
+<p> 06:21 </p>
+<p> Украина платит 200 млн долл. за хранение ядерных отходов в России </p>
+<p> 06:01 </p>
+<p> «Киевгорстрой» намерен построить в Киеве завод </p>
+<p> 05:34 </p>
+<p> С помощью начальника охраны уголь с шахты крали тоннами </p>
+<p> 05:14 </p>
+<p> Профсоюз: шахтостроители на грани голодного бунта </p>
+<p> 04:40 </p>
+<p> Легкость ведения бизнеса будет повышаться по плану </p>
+<p> 04:06 </p>
+<p> Стоимость торговых площадей в Киеве (по районам) </p>
+<p> 04:00 </p>
+<p> Официальный курс валют на 10 апреля </p>
+<p> 03:46 </p>
+<p> Эксперты: весь мир начал вкладывать в коммерческую недвижимость </p>
+<p> 03:32 </p>
+<p> Прокуратура лишила премий чиновников, отвечающих за дороги </p>
+<p> 03:00 </p>
+<p> Милиционер требовал от охранной фирмы 500 долларов ежемесячно </p>
+<p> 02:33 </p>
+<p> Студент ранил 14 человек в техасском колледже </p>
+<p> 02:14 </p>
+<p> В "Софии Киевской" открыли школу-студию мозаики </p>
+<p> 01:45 </p>
+<p> Статус «Мать-героиня» в этом году получат 30 тысяч женщин </p>
+<p> 01:15 </p>
+<p> Янукович инициирует допуск на территорию Украины иностранных военных (список) </p>
+<p> 00:58 </p>
+<p> Избили активиста "Дорожного контроля" </p>
+<p> 00:33 </p>
+<p> Россия предлагает вместе лететь на Луну </p>
+<p> все новости » </p>
+<p> Погода </p>
+<p> Погода в </p>
+<p> Киеве </p>
+<p> влажность: </p>
+<p> давление: </p>
+<p> ветер: </p>
+<p> Погода в Харькове </p>
+<p> Погода в Луганске </p>
+<p> АНОНСЫ </p>
+<p> 10:00 </p>
+<p> Круглый стол по созданию новых рабочих мест в банковском секторе </p>
+<p> 11:00 </p>
+<p> Выставка-ярмарка «Сезон ВЕСНА» в Киевском Дворце Спорта </p>
+<p> 11:00 </p>
+<p> 11.04.2013: </p>
+<p> Круглый стол "Украина на пороге парламентского кризиса" </p>
+<p> все события » </p>
+<p> пресс-анонс » </p>
+<p> &nbsp </p>
+<p> теле-анонс » </p>
+<p> &nbsp </p>
+<p> <!-- var RndNum4NoCash = Math.round(Math.random() * 1000000000); var ar_Tail='unknown'; if (document.referrer) ar_Tail = escape(document.referrer); document.write( '<iframe src="http://ad.adriver.ru/cgi-bin/erle.cgi?' + 'sid=142102&sz=ukraine&bn=1&target=blank&w=285&h=130&bt=8&pz=3&rnd=' + RndNum4NoCash + '&tail256=' + ar_Tail + '" frameborder=0 vspace=0 hspace=0 width=285 height=130 marginwidth=0' + ' marginheight=0 scrolling=no></iframe>'); //--> </p>
+<p> Апрель </p>
+<p> « </p>
+<p> 2013 </p>
+<p> » </p>
+<p> Пн </p>
+<p> Вт </p>
+<p> Ср </p>
+<p> Чт </p>
+<p> Пт </p>
+<p> Сб </p>
+<p> Вс </p>
+<p> 1 </p>
+<p> 2 </p>
+<p> 3 </p>
+<p> 4 </p>
+<p> 5 </p>
+<p> 6 </p>
+<p> 7 </p>
+<p> 8 </p>
+<p> 9 </p>
+<p> 10 </p>
+<p> 11 </p>
+<p> 12 </p>
+<p> 13 </p>
+<p> 14 </p>
+<p> 15 </p>
+<p> 16 </p>
+<p> 17 </p>
+<p> 18 </p>
+<p> 19 </p>
+<p> 20 </p>
+<p> 21 </p>
+<p> 22 </p>
+<p> 23 </p>
+<p> 24 </p>
+<p> 25 </p>
+<p> 26 </p>
+<p> 27 </p>
+<p> 28 </p>
+<p> 29 </p>
+<p> 30 </p>
+<p> ««« </p>
+<p> • </p>
+<p> »»» </p>
+<p> Лутковская думает, что обращением о помиловании Луценко, создала прецедент </p>
+<p> ОКНО </p>
+<p> Участники международной конференции «Память жива!» предложили создать при Президенте Украины Координационный совет по вопросам увековечения памяти жертв войн и репрессий </p>
+<p> Определена команда-победитель национального чемпионата по стратегическому менеджменту GlobalManagementChallenge 2013 </p>
+<p> Международная конференция «Память жива!» открылась в Киеве </p>
+<p> За 2012 год СК «Арсенал Страхование» собрала 503,140 млн. грн. страховых премий </p>
+<p> Определены обладатели премий «Человек года – 2012» </p>
+<p> Блинные рекорды «Новой Масляной» </p>
+<p> В Одессе пройдет ежегодная конференция интернет-маркетологов </p>
+<p> все новости » </p>
+<p> Способ доставки </p>
+<p> Прайс-лист </p>
+<p> Заказ на подписку </p>
+<p> at_attach("menu_3", "sub_menu_3", "hover", "y", "pointer"); </p>
+<p> Баннерная реклама </p>
+<p> Технические требования к рекламным материалам </p>
+<p> at_attach("menu_4", "sub_menu_4", "hover", "y", "pointer"); </p>
+<p> Памятка заказчику </p>
+<p> Прайс на пресс-конференции </p>
+<p> Заявка на проведение пресс-конференции </p>
+<p> Трансляция </p>
+<p> Анонс конференций в УНИАН </p>
+<p> Пресс-релизы с конференций в УНИАН </p>
+<p> Новости с конференций в УНИАН </p>
+<p> Про пресс-центр </p>
+<p> Услуга Wi-Fi </p>
+<p> Фото c конференций </p>
+<p> at_attach("menu_5", "sub_menu_5", "hover", "y", "pointer"); </p>
+<p> Образование </p>
+<p> Крым </p>
+<p> Львовщина </p>
+<p> Виннитчина </p>
+<p> Права человека </p>
+<p> Право </p>
+<p> Elite </p>
+<p> Новости потребителя </p>
+<p> Энергетика on-line (русский) </p>
+<p> Криминал </p>
+<p> Stock Market (eng) </p>
+<p> Фонд. рынок </p>
+<p> Кировоградщина </p>
+<p> Киевщина </p>
+<p> Одесса </p>
+<p> Право </p>
+<p> Прозрачная власть </p>
+<p> F1 H </p>
+<p> 2 </p>
+<p> O </p>
+<p> Выборы-2006 </p>
+<p> Партийные новости </p>
+<p> Выборы-2004 </p>
+<p> УНИАН-Киев-Прес </p>
+<p> Культура </p>
+<p> Выборы-2002 </p>
+<p> Выборы-1999 </p>
+<p> at_attach("menu_11", "sub_menu_11", "hover", "y", "pointer"); </p>
+<p> <!-- var RndNum4NoCash = Math.round(Math.random() * 1000000000); var ar_Tail='unknown'; if (document.referrer) ar_Tail = escape(document.referrer); document.write( '<iframe src="http://ad.adriver.ru/cgi-bin/erle.cgi?' + 'sid=142102&sz=ukraine&bn=3&target=blank&bt=1&pz=3&rnd=' + RndNum4NoCash + '&tail256=' + ar_Tail + '" frameborder=0 vspace=0 hspace=0 width=468 height=60 marginwidth=0' + ' marginheight=0 scrolling=no></iframe>'); //--> </p>
+<p> <!-- var RndNum4NoCash = Math.round(Math.random() * 1000000000); var ar_Tail='unknown'; if (document.referrer) ar_Tail = escape(document.referrer); document.write( '<iframe src="http://ad.adriver.ru/cgi-bin/erle.cgi?' + 'sid=142102&sz=ukraine&bn=3&target=blank&bt=1&pz=3&rnd=' + RndNum4NoCash + '&tail256=' + ar_Tail + '" frameborder=0 vspace=0 hspace=0 width=468 height=60 marginwidth=0' + ' marginheight=0 scrolling=no></iframe>'); //--> </p>
+<p> Экпорт в RSS </p>
+<p> | </p>
+<p> Контакты </p>
+<p> | </p>
+<p> ПОДПИСЧИКАМ </p>
+<p> &copy 2001 - 2013 www.unian.net			Все права защищены. </p>
+<p> Согласно статье 26 Закона Украины "Об информационных агентствах" право собственности на продукцию информационного агентства охраняется действующим законодательством Украины. </p>
+<p> Информация, которую публикует УНИАН и сайт www.unian.net являются собственностью ООО "УНИАН".  	Любое копирование, в т.ч. отдельных частей текстов или изображений, публикация и републикация, перепечатка или любое другое распространение информации УНИАН,  	в какой бы форме и каким бы техническим способом оно не осуществлялось, строго запрещается без предварительного письменного согласия со стороны УНИАН. Во время цитирования информации подписчиками Агентства ссылки на УНИАН обязательны.  	Допускается цитирование материалов сайта unian.net без получения предварительного согласия, но в объеме не более одного абзаца и с обязательной прямой, открытой для поисковых систем гиперссылкой на unian.net не ниже, чем в первом абзаце текста. Материалы в разделе "Окно" публикуются на правах рекламы.  	Логотип УНИАН является зарегистрированным товарным знаком (знаком обслуживания) УНИАН. </p>
+<p> <!-- document.writeln( '<iframe name="send_frame1" frameborder=0 vspace=0 hspace=0 width=0 height=0 scrolling=no style="position:absolute;visibility:hidden;left:-10px;top:-10px;"></iframe>' + '<div style="display:none">' + '<form name=err_send_form target=send_frame1 action="/inc/send_error.php" method=POST>' + '  <input type=hidden name="URL" value="">' + '  <input type=hidden name="ERR_TEXT" value="">' + '  <input type=hidden name="REF_URL" value="">' + '</form></div>' );  var is_ok = false; var err_text;  function on_key_press(key_press) {   if(is_ok){     var kC;     var cK;     var kM;     if(window.event){kC=window.event.keyCode;cK=window.event.ctrlKey;kM=2;}     else       if(parent&&parent.event){kC=parent.event.keyCode;cK=parent.event.ctrlKey;kM=2;}       else{kC=key_press.keyCode;cK=key_press.ctrlKey;         if(key_press.modifiers!=undefined){kM=key_press.modifiers;cK=2;kC=key_press.which;}         else kM=2;       }     if(cK&&kM==2&&(kC==13||kC==10))send_error();   } }  function send_error() {   var form=document.err_send_form;   if(!form) return;    var wnd = (window.name=='send_frame')?parent:window;   var sel_text = null;   if(wnd.getSelection) err_text=wnd.getSelection();   else     if(wnd.document.getSelection) err_text=wnd.document.getSelection();     else sel_text = wnd.document.selection;    if(sel_text) {     err_text = sel_text.createRange().text;     var b_text= sel_text.createRange();     var a_text= sel_text.createRange();     sel_text = err_text;     b_text.moveStart("word",-10);     b_text.moveEnd("character",-err_text.length);     a_text.moveStart("character",err_text.length);     a_text.moveEnd("word",10);     sel_text = b_text.text+' ##'+err_text+'## '+a_text.text;   }   else {     if (window.document.body != undefined) {       if (wnd.document.body.innerText != undefined)         sel_text=wnd.document.body.innerText;       else         sel_text=wnd.document.body.innerHTML;        var nn=sel_text.indexOf(err_text);       if (nn != -1){         var tmp_str=err_text+"";         sel_text = sel_text.substring(nn-70, nn)+' ##'+err_text+'## '+sel_text.substring(nn+tmp_str.length, nn+tmp_str.length+70);       }       else sel_text = ' ##'+err_text+'## ';     }     else sel_text = ' ##'+err_text+'## ';   }    if(err_text.length==0||err_text==" ") return;        if(confirm("Фрагмент текста, в котором Вы обнаружили ошибку:\n     "+sel_text+"\n\nАдрес страницы:\n     "+wnd.document.location+"\n\nОтправить сообщение об этой ошибке редактору сайта?")){           form["URL"].value=unescape(wnd.document.URL);     form["ERR_TEXT"].value=sel_text;     form["REF_URL"].value=unescape(top.document.URL);     form.submit();   } }  if(parent)parent.document.onkeypress=on_key_press; document.onkeypress=on_key_press; is_ok = true; //--> </p>
+<p> <!-- var RndNum4NoCash = Math.round(Math.random() * 1000000000); var ar_Tail='unknown'; if (document.referrer) ar_Tail = escape(document.referrer); document.write('<sc' + 'ript language="JavaScript" type="text/javascript" src="http://ad.adriver.ru/cgi-bin/erle.cgi?sid=142102&sz=ukraine&bn=1&target=blank&bt=16&pz=3&rnd=' + RndNum4NoCash + '&tail256=' + ar_Tail + '"><\/sc' + 'ript>'); //--> </p>
+<p> <!--//--><![CDATA[//><!-- var pp_gemius_identifier = new String('nGDrCcRciMX2msd6y5cmTsWonOmBz1iKANfybIVkVE..M7'); //--><!]]> </p>
+<p> (function(w, c) {      (w[c] = w[c] || []).push(function() {          try {              w.yaCounter12865648 = new Ya.Metrika({id:12865648,  enableAll: true, webvisor:true});          }          catch(e) { }      }); })(window, "yandex_metrika_callbacks"); </p>
+<p> <!-- 	bmN=navigator,bmD=document,bmD.cookie='b=b',i=0,bs=[],bm={o:1,v:12815,s:12815,t:6,c:bmD.cookie?1:0,n:Math.round((Math.random()* 1000000)),w:0}; 	for(var f=self;f!=f.parent;f=f.parent)bm.w++; 	try{if(bmN.plugins&&bmN.mimeTypes.length&&(x=bmN.plugins['Shockwave Flash']))bm.m=parseInt(x.description.replace(/([a-zA-Z]|\s)+/,'')); 	else for(var f=3;f<20;f++)if(eval('new ActiveXObject("ShockwaveFlash.ShockwaveFlash.'+f+'")'))bm.m=f}catch(e){;} 	try{bm.y=bmN.javaEnabled()?1:0}catch(e){;} 	try{bmS=screen;bm.v^=bm.d=bmS.colorDepth||bmS.pixelDepth;bm.v^=bm.r=bmS.width}catch(e){;} 	r=bmD.referrer.slice(7);if(r&&r.split('/')[0]!=window.location.host){bm.f=escape(r);bm.v^=r.length} 	bm.v^=window.location.href.length;for(var x in bm) if(/^[ovstcnwmydrf]$/.test(x)) bs[i++]=x+bm[x]; 	bmD.write('<sc'+'ript type="text/javascript" language="javascript" src="http://c.bigmir.net/?'+bs.join('&')+'"></sc'+'ript>'); 	//--> </p>
+<p> <!-- 	function BM_Draw(oBM_STAT){ 	document.write('<table cellpadding="0" cellspacing="0" border="0" style="display:inline;margin-right:4px;"><tr><td><div style="margin:0px;padding:0px;font-size:1px;width:88px;"><div style="background:url(\'http://i.bigmir.net/cnt/samples/diagonal/b59_top.gif\') no-repeat bottom;">&nbsp;</div><div style="font:10px Tahoma;background:url(\'http://i.bigmir.net/cnt/samples/diagonal/b59_center.gif\');"><div style="text-align:center;"><a href="http://www.bigmir.net/" target="_blank" style="color:#0000ab;text-decoration:none;font:10px Tahoma;">bigmir<span style="color:#ff0000;">)</span>net</a></div><div style="margin-top:3px;padding: 0px 6px 0px 6px;color:#003596;"><div style="float:left;font:10px Tahoma;">'+oBM_STAT.hosts+'</div><div style="float:right;font:10px Tahoma;">'+oBM_STAT.hits+'</div></div><br clear="all"/></div><div style="background:url(\'http://i.bigmir.net/cnt/samples/diagonal/b59_bottom.gif\') no-repeat top;">&nbsp;</div></div></td></tr></table>'); 	} 	//--> </p>
+<p> <!-- 	document.write("<img src='http://counter.yadro.ru/hit?r"+ 	escape(document.referrer)+((typeof(screen)=="undefined")?"": 	";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth? 	screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+ 	";"+Math.random()+ 	"' width=1 height=1 alt=''>")//--> </p>
+<p> var _gaq = _gaq || []; 	_gaq.push(['_setAccount', 'UA-32196466-1']); 	_gaq.push(['_setDomainName', 'unian.net']); 	_gaq.push(['_trackPageview']);    (function() {     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);   })(); </p>
+<p> document.write('<iframe src="http://informers.ukr.net/partner/banner.php?sid=112026&bn=3&pz=1&rnd=' + Math.round(Math.random() * 1000000000) + '&sizewidth='+screen.width+'&sizeheight='+screen.height+'&colors='+screen.colorDepth+'&referrer='+encodeURIComponent(window.document.referrer)+'" width="1" height="1" frameborder="0" vspace="0" hspace="0" marginwidth="0" marginheight="0" scrolling="no" style="position:absolute; top:-1000px; left:-1000px;"></iframe>'); </p>
+<p> var tns_already; if ("undefined"==typeof(tns_already) || null==tns_already || 0==tns_already) { tns_already=1; var i=new Image(); i.src="http://juke.mmi.bemobile.ua/bug/pic.gif?siteid=unian.net&j=1&nocache="+Math.random();  (function(){ var p=document.getElementsByTagName('head')[0]; var s=document.createElement("script"); s.type="text/javascript"; s.src="http://source.mmi.bemobile.ua/cm/cm.js"; s.async = true; p.appendChild(s); })(); }; </p>
+<p> document.getElementById("counters").innerHTML=document.getElementById("counters_none").innerHTML; document.getElementById("counters").style.display='block'; </p>
+<p> (function(d, s, id) {   var js, fjs = d.getElementsByTagName(s)[0];   if (d.getElementById(id)) return;   js = d.createElement(s); js.id = id;   js.src = "//connect.facebook.net/ru_RU/all.js#xfbml=1&appId=259981617361447";   fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk')); </p>
+<p> window.___gcfg = {lang: 'ru'};  (function() {     var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;     po.src = 'https://apis.google.com/js/plusone.js';     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);   })(); </p>
+<p> new adriver("art_banner", {sid:142102, bt:52, sz:'ukraine', bn:3, pz:1}); </p>
+<p> document.write('<iframe src="http://teaser.mbn.com.ua/cgi-bin/iframe/unian1?options=B&id=' + Math.round(Math.random() * 100000) + '" style="width:200px; height: 50px; margin: 0px; overflow: hidden; border: 0px;" scrolling=no frameborder=0><\/iframe>'); </p>
+<p> Teaser MBN </p>
+<p> document.write('<iframe src="http://teaser.mbn.com.ua/cgi-bin/iframe/unian1?options=B&id=' + Math.round(Math.random() * 100000) + '" style="width:200px; height: 50px; margin: 0px; overflow: hidden; border: 0px;" scrolling=no frameborder=0><\/iframe>'); </p>
+<p> Teaser MBN </p>
+<p> document.write('<iframe src="http://teaser.mbn.com.ua/cgi-bin/iframe/unian1?options=B&id=' + Math.round(Math.random() * 100000) + '" style="width:200px; height: 50px; margin: 0px; overflow: hidden; border: 0px;" scrolling=no frameborder=0><\/iframe>'); </p>
+<p> Teaser MBN </p>
+<p> loading... </p>
+<p> document.getElementById('rus_informers').innerHTML=document.getElementById('rus_informers_tmp').innerHTML; 	innerHTML=document.getElementById('rus_informers_tmp').innerHTML=""; </p>
+<p> Мета-Новости </p>
+<p> div#meta_news_block2139 td {font-weight: bold;}  		div#meta_news_block2139 td a.title {margin-top: -5px;} </p>
+<p> document.write('<iframe src="http://teaser.mbn.com.ua/cgi-bin/iframe/unian1?options=B&id=' + Math.round(Math.random() * 100000) + '&arg1=11&arg2=000000' + '" style="width:200px; height: 50px; margin: 0px; overflow: hidden; border: 0px;" scrolling=no frameborder=0><\/iframe>'); </p>
+<p> Teaser MBN </p>
+<p> document.write('<iframe src="http://teaser.mbn.com.ua/cgi-bin/iframe/unian1?options=B&id=' + Math.round(Math.random() * 100000) + '&arg1=11&arg2=000000' + '" style="width:200px; height: 50px; margin: 0px; overflow: hidden; border: 0px;" scrolling=no frameborder=0><\/iframe>'); </p>
+<p> Teaser MBN </p>
+<p> traffim.com </p>
+<p> traffim.com </p>
+<p> document.getElementById('rus_detail_informers').innerHTML=document.getElementById('rus_detail_informers_tmp').innerHTML; </p>

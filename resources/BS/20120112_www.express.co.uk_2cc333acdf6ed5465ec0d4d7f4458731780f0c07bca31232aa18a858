@@ -1,0 +1,350 @@
+<p> Express.co.uk - Home of the Daily and Sunday Express | UK News :: Simple jab that could cure Britains obesity crisis </p>
+<p> InSkinParams['myPageSkin'] = { 		'srv_SectionID':		'124245', 		'srv_Keywords':			'UK-News,News-Showbiz', 		'srv_UseSAS':			false,  		'sas_PauseAdTag':		'', 		 		 		'plr_ContentType':		'PAGESKIN',                  		'plr_ContentID':		'myContent', 		'plr_ContentW':			1010,  		'plr_FrameTop':			90, 		'plr_FrameSide':		130, 		'plr_FrameBottom':		90, 		 		'plr_HideElementsByID':		'hugebanner', 		'plr_HideElementsByClass':	'flotsamcontainer, noinskin', 		 		'plr_OverflowContentContainer': 'true', 		'plr_NoSkinInSkinResize':	true,  		'plr_GetParamsFromMeta':	['srv_Keywords', 'keywords'] 	};  	var objPageSkin = new InSkin.Base('myPageSkin'); 	objPageSkin.addEventListener('adServed', function() { document.getElementById('hugebanner').style.marginTop = '10px'; }); </p>
+<p> <!-- if (window.adgroupid == undefined) { 	window.adgroupid = Math.round(Math.random() * 1000); } document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|729|1829303|0|225|ADTECH;cookie=info;loc=100;target=_blank;key=key1+key2+key3+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>'); //--> </p>
+<p> Our Paper </p>
+<p> Front and Back Pages, E-Edition and Back Issues... </p>
+<p> Weather </p>
+<p> 11 </p>
+<p> °C </p>
+<p> London </p>
+<p> Horoscope </p>
+<p> #twitterbutton {background:url('http://cdn.images.dailyexpress.co.uk/img/buttons/twitterfollow.gif');width:143px; height:18px;display:inline-block;margin-left:14px;margin-right:11px;} 	#facebookbutton {background:url('http://cdn.images.dailyexpress.co.uk/img/buttons/facebookjoin.gif');width:138px; height:18px;display:inline-block;margin-right:22px;} 	#rssbutton {background:url('http://cdn.images.dailyexpress.co.uk/img/buttons/rssfeed.gif');width:133px; height:17px;display:inline-block;} 	#rssbutton span, #facebookbutton span, #twitterbutton span {display:none;} </p>
+<p> Thursday 12th January 2012 </p>
+<p> Site </p>
+<p> Google </p>
+<p> Daily Express Twitter Feed </p>
+<p> Daily Express Facebook Page </p>
+<p> Express RSS Feeds </p>
+<p> setTargetSelf('cse-search-box','/') </p>
+<p> a.subsubnav { background:url('http://cdn.images.dailyexpress.co.uk/img/common/dots/111.gif') no-repeat bottom left #c2c0cd;} /* border-bottom:1px solid #ffffff !important; */ a:hover.subsubnav, a.subsubnav:hover { background:url('http://cdn.images.dailyexpress.co.uk/img/common/dots/111.gif') no-repeat bottom left #9a96ac !important; width:111px !important;} a.subsubnavactive { color:#ffffff;background-color: #9a96ac;border-bottom:1px solid #ffffff !important;} </p>
+<p> Quickly Find... </p>
+<p> Home | Front Page </p>
+<p> Lottery </p>
+<p> Big Brother </p>
+<p> Reader Offers </p>
+<p> iPad App </p>
+<p> Puzzle App </p>
+<p> MyEXPRESS </p>
+<p> - My Homepage </p>
+<p> - View My Profile </p>
+<p> - Edit My Profile </p>
+<p> - View All Profiles </p>
+<p> - Birthdays </p>
+<p> Have Your Say </p>
+<p> News / Showbiz </p>
+<p> - UK News </p>
+<p> - World News </p>
+<p> - Showbiz </p>
+<p> - Odd News </p>
+<p> Sunday Express </p>
+<p> Scottish </p>
+<p> Sport </p>
+<p> - Latest Sport </p>
+<p> - Olympics 2012 </p>
+<p> - Football </p>
+<p> - Score Centre </p>
+<p> - My Club </p>
+<p> - Cricket </p>
+<p> - Rugby Union </p>
+<p> - Rugby League </p>
+<p> - Golf </p>
+<p> - Tennis </p>
+<p> - Motorsport </p>
+<p> - Racing </p>
+<p> - Racing iCard </p>
+<p> - Other Sport </p>
+<p> Pictures </p>
+<p> Features </p>
+<p> - Day & Night </p>
+<p> - Express Yourself </p>
+<p> - Health </p>
+<p> - Fashion & Beauty </p>
+<p> - Gardening </p>
+<p> - Food & Recipes </p>
+<p> Horoscope </p>
+<p> Our Comment </p>
+<p> - Columnists </p>
+<p> - Express Comment </p>
+<p> The Crusader </p>
+<p> Entertainment </p>
+<p> - Music </p>
+<p> - Film </p>
+<p> - DVD </p>
+<p> - Stage </p>
+<p> - Books </p>
+<p> - Technology </p>
+<p> TV Guide </p>
+<p> TV Listings </p>
+<p> Money </p>
+<p> - City & Business </p>
+<p> - YourMoney </p>
+<p> Motoring </p>
+<p> - Cars For Sale </p>
+<p> Travel </p>
+<p> Careers </p>
+<p> Fun / Competitions </p>
+<p> Express Games </p>
+<p> Promotions </p>
+<p> Cartoon </p>
+<p> Blogs </p>
+<p> Forgotten Verse </p>
+<p> Have a Story? </p>
+<p> Contact Us </p>
+<p> Polls </p>
+<p> - Online Polls </p>
+<p> - Phone Polls </p>
+<p> Retirement </p>
+<p> Property </p>
+<p> Our Paper </p>
+<p> Print Archive </p>
+<p> Home | Front Page </p>
+<p> Lottery </p>
+<p> Big Brother </p>
+<p> Reader Offers </p>
+<p> iPad App </p>
+<p> Puzzle App </p>
+<p> MyEXPRESS </p>
+<p> Have Your Say </p>
+<p> News / Showbiz </p>
+<p> - UK News </p>
+<p> - World News </p>
+<p> - Showbiz </p>
+<p> - Odd News </p>
+<p> Sunday Express </p>
+<p> Scottish </p>
+<p> Sport </p>
+<p> Pictures </p>
+<p> Features </p>
+<p> Horoscope </p>
+<p> Our Comment </p>
+<p> The Crusader </p>
+<p> Entertainment </p>
+<p> TV Guide </p>
+<p> TV Listings </p>
+<p> Money </p>
+<p> Motoring </p>
+<p> Travel </p>
+<p> Careers </p>
+<p> Fun / Competitions </p>
+<p> Express Games </p>
+<p> Promotions </p>
+<p> Cartoon </p>
+<p> Blogs </p>
+<p> Forgotten Verse </p>
+<p> Have a Story? </p>
+<p> Contact Us </p>
+<p> Polls </p>
+<p> Retirement </p>
+<p> Property </p>
+<p> Our Paper </p>
+<p> Print Archive </p>
+<p> Finance Guides </p>
+<p> Family History </p>
+<p> Cruises </p>
+<p> Casino </p>
+<p> Dating </p>
+<p> Bingo </p>
+<p> Lose Weight </p>
+<p> Franchising </p>
+<p> Shopping </p>
+<p> Book Shop </p>
+<p> Wine Shop </p>
+<p> Columnists </p>
+<p> Peter Hill </p>
+<p> Read the latest column now </p>
+<p> Richard and Judy </p>
+<p> Read the latest column now </p>
+<p> Nick Ferrari </p>
+<p> Read the latest column now </p>
+<p> Frederick Forsyth </p>
+<p> Read the latest column now </p>
+<p> Ann Widdecombe </p>
+<p> Read the latest column now </p>
+<p> Leo McKinstry </p>
+<p> Read the latest column now </p>
+<p> Jennifer Selway </p>
+<p> Read the latest column now </p>
+<p> Patrick O'Flynn </p>
+<p> Read the latest column now </p>
+<p> David Robson </p>
+<p> Read the latest column now </p>
+<p> Camilla Tominey </p>
+<p> Read the latest column now </p>
+<p> <!-- if (window.adgroupid == undefined) { 	window.adgroupid = Math.round(Math.random() * 1000); } document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|729.1|3464888|0|433|ADTECH;cookie=info;loc=100;target=_blank;key=key1+key2+key3+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>'); //--> </p>
+<p> function loadBanner(banner,href){ 	// add code here to place banner on page  	// and add link to it.  	// "banner" - the URL of the banner ad image 	// "href" - the click-thru URL  	var bannerIMG = banner; 	var clickThruHref = href; 	    var bannerLower = bannerIMG.toLowerCase();            var bannerHTML = bannerIMG;  	if ("" == clickThruHref || "DHTML" == clickThruHref || "null" == clickThruHref || 0 < bannerLower.indexOf(".swf") || 0 < bannerLower.indexOf(".html")) { 		bannerHTML = '<HTML><IFRAME src="' + bannerIMG + '" frameborder="0" scrolling="no" width="100%" height="100%" marginwidth="0" marginheight="0"/></HTML>'; 	} else if (0 == bannerHTML.indexOf("http")) {  	  bannerHTML = '<HTML><CENTER><A HREF="' + clickThruHref + '" target="_blank"><IMG SRC="' + bannerIMG + '" border="0"></A></CENTER></HTML>';		 	} else {  	  bannerHTML = '<HTML>' + bannerIMG + '</HTML>'; 	}  	var oDiv = document.getElementById("lcBannerDiv");  	oDiv.innerHTML = bannerHTML;  } </p>
+<p> HOME </p>
+<p> > </p>
+<p> NEWS / SHOWBIZ </p>
+<p> > </p>
+<p> UK NEWS </p>
+<p> > </p>
+<p> Simple jab that could cure Britains obesity crisis </p>
+<p> UK NEWS </p>
+<p> SIMPLE JAB THAT COULD CURE BRITAINS OBESITY CRISIS </p>
+<p> A simple once-a-day fat-busting jab could be the key to battling ­Britains obesity crisis </p>
+<p> Wednesday January 11,2012 </p>
+<p> By </p>
+<p> Jo Willey </p>
+<p> Have your say(5) </p>
+<p> A SIMPLE once-a-day fat-busting jab could be the key to battling ­Britains obesity crisis. </p>
+<p> In trials of the drug, patients have lost at least half a stone (7lb). One apparently shed up to four stone after taking the treatment. </p>
+<p> Injections of the hormone can also cut blood pressure and cholesterol levels. </p>
+<p> One obesity expert hailed the ground-breaking findings as ­potentially revolutionary. </p>
+<p> Doctors already use it to treat diabetics. The hormone, called glucagon-like peptide-1 (GLP-1), is secreted from the intestine when we eat and is the bodys natural way of ­suppressing appetite. </p>
+<p> People taking it feel less hungry and it is already used in Britain to treat type 2 diabetes because of its ability to regulate blood sugar levels. </p>
+<p> Dr David Haslam, chairman of the National Obesity Forum, said: These new injections really have the potential for revolutionising treatment. Safety-wise they are pretty good. I am using them on my patients and have had a lot of ­success. For some they have been dramatically successful, with one losing about four stone and having blood sugar under control for the first time ever. </p>
+<p> Modification of diet and lifestyle remains the cornerstone of the treatment of type 2 diabetes </p>
+<p> Professor Raj Padwal, of the ­University of Alberta, in an accompanying BMJ editorial </p>
+<p> Researchers at the University of Copenhagen in Denmark analysed the results of 25 trials involving more than 6,000 patients to assess the effect of GLP-1 on weight loss, blood pressure, cholesterol and liver enzyme levels, as well as blood sugar control. </p>
+<p> They found that patients given a daily dose for at least 20 weeks achieved weight loss of half a stone. </p>
+<p> However, common side-effects included nausea, vomiting and diarrhoea. But researchers say it did not appear to affect the numbers dropping out of the trials, suggesting that overall patient ­satisfaction with the treatment is relatively high. </p>
+<p> Professor Tina Vilsboll, who led the research published in the ­British Medical Journal, said: Our analysis provides convincing ­evidence that GLP-1 chemicals, when given to obese patients with or without diabetes, result in ­clinically relevant beneficial effects on body weight. </p>
+<p> SEARCH UK NEWS for: </p>
+<p> Additional beneficial effects on blood pressure and total cholesterol might also be achieved. </p>
+<p> The researchers believe that the treatment should be considered in patients with diabetes who are obese or overweight. </p>
+<p> Professor Raj Padwal, of the ­University of Alberta, in an accompanying BMJ editorial, said: ­Modification of diet and lifestyle remains the cornerstone of the treatment of type 2 diabetes. </p>
+<p> var OB_Template='Express'; 						var OB_permalink= 'http://www.express.co.uk/posts/view/294881/294881'; 						if ( typeof(OB_Script)!='undefined' ) 						OutbrainStart(); 						else 						{ 						var OB_Script = true; 						document.write(unescape("%3Cscript src=\'http://widgets.outbrain.com/outbrainWidget.js\' type=\'text/javascript\'%3E%3C/script%3E")); } </p>
+<p> OBESITY! </p>
+<p> 11.01.12, 11:44pm </p>
+<p> Whatever happened to good old-fashioned personal responsibility, and self-discipline? </p>
+<p> One accepts that there is a small percentage of obese people who have a specific medical problem.  However, the vast majority simply don't seem capable of stopping stuffing their faces as they lounge in front of a TV screen.  Many of those whom I know are even doing it at my expense (they talk about 'benefits'; I talk about 'taxes'!!). </p>
+<p>  Posted by: </p>
+<p> Truthseeker1944 </p>
+<p>  </p>
+<p> Report Comment </p>
+<p> SIMPLE JAB THAT COULD CURE BRITAINS OBESITY CRISIS </p>
+<p> 11.01.12, 10:03pm </p>
+<p> Enough of this clinical trials. Let us get on with the real action. I see so many obese in my Town they would be happy to have this cure willingly saving taxpayers lot of money on benefits given to these poor people? </p>
+<p>  Posted by: </p>
+<p> Jasmin </p>
+<p>  </p>
+<p> Report Comment </p>
+<p> THOMAT </p>
+<p> 11.01.12, 10:08am </p>
+<p> Do you have a cure for a hurting brain? </p>
+<p>  Posted by: </p>
+<p> DEVAD </p>
+<p>  </p>
+<p> Report Comment </p>
+<p> PREVENTION IS SURELY BETTER THAN A CURE IN THIS CASE </p>
+<p> 11.01.12, 8:55am </p>
+<p> Once again time and money has been spent researching a solution to a problem that with better education wouldn't exist. </p>
+<p> Healthy eating, regular exercise and the opportunity for your body to do what it does naturally will get better more sustainable results. </p>
+<p> This is a lazy solution for lazy people. </p>
+<p>  Posted by: </p>
+<p> Chandler </p>
+<p>  </p>
+<p> Report Comment </p>
+<p> AND I HAD BTHOUGHT THAT THE HEADLINE MEANT.. </p>
+<p> 11.01.12, 3:05am </p>
+<p> a jab of truth. Alas, that is not  to be for a while yet. </p>
+<p> The truth isthat it i8s the carbs that fatten. Digested carbs first top-up liver and muscle glycogen stiores, the rest rapidly converts to bodyfat in the cells mitochondria via the Krebs and citric acid cycles. Fruit`s fructose converts directly to9 bnodyfat in the liver.digested fats only slowly convert to useable nergy molecules in the liver. </p>
+<p> howver, that5 info9 is taboo.  dieticdians mUST follow thier big brother Assn, te US one. That one is, unfortunately for the ehalths eeker, funded by producers of foodst5uffs, of food procyts, b\\ofb beverages, of confections, of fast foods, by a giant biotech company, and ibnduitrecftly by big pharma. thios clearly shows why they6 stick t9o falose 1970s dogam. </p>
+<p> The raeson we are staurated with the saturated fat and calories nonsense is so that big pharma can market their useless and highly tos\\xin statins, to combat a non diseaswe condition.  If the dieticians had  advised all to eat the healthgiving butter, egg yolks, and red and organ meats with their fat, then ibn the next bereath they woould nOT be able to sell you their to9xic statin drugs. </p>
+<p> http://articles.mercola.com/sites/articles/archive/2009/12/05/does-high-cholesterol-really-cause-heart-disease.aspx </p>
+<p> http://articles.mercola.com/sites/articles/archive/2011/11/28/are-statin-drugs-harmful-to-health.aspx </p>
+<p> Honest guidance for losing bodyfat would be to greatly reduce the carbohydrates, carbs intake. To eat most of the daily carbs at breakfast, and to eat no carbs after 5pm.To zero all sugars, Be VERY wary of high fructose corn syrup, the KILLER!! (Sugar has 70+ harmful health effects), and, minimise refined grains. </p>
+<p> Also  do the Peak 8 cardio 3 times a weeki, that taking only 20 minutes each time. . Mercola R,  Dr.,  2011. </p>
+<p> That advice is the sinplest jab to  start your way to slim, ,robust,  med-free health. </p>
+<p> Needle jabs can also give you mercury, aspartame, aluminium etc, and maybe a few live viruses, as well as any as  yet unknown side effects from the medication. </p>
+<p> You have free will. Choose your path. </p>
+<p>  Posted by: </p>
+<p> ThomaT </p>
+<p>  </p>
+<p> Report Comment </p>
+<p> To view all 'Have Your Say' comments, click this button... </p>
+<p> Share... </p>
+<p> addthis_pub  = 'netro42'; </p>
+<p> • </p>
+<p> Got A Story? Get in touch online </p>
+<p> • </p>
+<p> Email the news desk directly here! </p>
+<p> Next story... </p>
+<p> £32.7bn high-speed rail link arriving in... 2026 </p>
+<p> CONTROVERSIAL plans for the ­­­£32.7billion High Speed 2 rail line from London to Manc... </p>
+<p> <!-- google_ad_client = "pub-7663259432931645"; /* 468x60 Express - sits under content */ google_ad_slot = "9183686854"; google_ad_width = 468; google_ad_height = 60; //--> </p>
+<p> Print This Article </p>
+<p> Email To A Friend </p>
+<p> Contact Us About Article </p>
+<p> Get RSS </p>
+<p> MORE UK NEWS </p>
+<p> 'Help find Madeleine' fund dwindles </p>
+<p> Kate and Gerry McCann's fund to help find their missing daughter Madeleine dwind... </p>
+<p>  </p>
+<p> Read More </p>
+<p> Have Your Say(2) </p>
+<p> Scots plan 2014 vote on break-up of UK </p>
+<p> THE Scottish government last night named autumn 2014 as the date it wants to giv... </p>
+<p>  </p>
+<p> Read More </p>
+<p> Have Your Say(15) </p>
+<p> Women 'coerced into offending' </p>
+<p> Too many foreign women are behind bars after being coerced or trafficked into of... </p>
+<p>  </p>
+<p> Read More </p>
+<p> Have Your Say(0) </p>
+<p> Dating </p>
+<p> Wine Shop </p>
+<p> Bingo </p>
+<p> var Timer; var stop_Timer=0;  function stop_inInterval(){ 	clearInterval(Timer); 	stop_Timer=1; }  clearInterval(Timer); 	 function start_rotate_div(){ 	if(stop_Timer==0) 	Timer=setInterval("change_div()", 5000); } start_rotate_div(); </p>
+<p> <!-- if (window.adgroupid == undefined) { 	window.adgroupid = Math.round(Math.random() * 1000); } document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|729|1829305|0|170|ADTECH;cookie=info;loc=100;target=_blank;key=key1+key2+key3+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>'); //--> </p>
+<p> __it={publisherLayout:14,local:0}; </p>
+<p> HOROSCOPES </p>
+<p> Choose One... </p>
+<p> Aries </p>
+<p> Taurus </p>
+<p> Gemini </p>
+<p> Cancer </p>
+<p> Leo </p>
+<p> Virgo </p>
+<p> Libra </p>
+<p> Scorpio </p>
+<p> Sagittarius </p>
+<p> Capricorn </p>
+<p> Aquarius </p>
+<p> Pisces </p>
+<p> TV GUIDE </p>
+<p> Todays best TV right here for you at the Express. </p>
+<p>  See Guide </p>
+<p> TODAY'S CARTOON </p>
+<p> The Political Cartoonist of the Year </p>
+<p> <!-- if (window.adgroupid == undefined) { 	window.adgroupid = Math.round(Math.random() * 1000); } document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|729|1829304|0|168|ADTECH;cookie=info;loc=100;target=_blank;key=key1+key2+key3+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>'); //--> </p>
+<p> Home </p>
+<p> | </p>
+<p> Archive </p>
+<p> | </p>
+<p> NEWS </p>
+<p> | </p>
+<p> SPORT </p>
+<p> | </p>
+<p> FEATURES </p>
+<p> | </p>
+<p> MONEY </p>
+<p> | </p>
+<p> HOROSCOPE </p>
+<p> | </p>
+<p> TRAVEL </p>
+<p> OK! Magazine </p>
+<p> | </p>
+<p> The Daily Star </p>
+<p> | </p>
+<p> new! Magazine </p>
+<p> | </p>
+<p> Star Magazine </p>
+<p> Sitemap </p>
+<p> | </p>
+<p> Print Archive </p>
+<p> | </p>
+<p> Contact </p>
+<p> | </p>
+<p> Advertise Here </p>
+<p> | </p>
+<p> Site Credits </p>
+<p> Copyright ©2006 Northern and Shell Media Publications. "Daily Express" is a registered trademark. </p>
+<p> All rights reserved. By viewing this site you agree to our </p>
+<p> Terms and Conditions </p>
+<p> and </p>
+<p> Privacy Policy </p>
+<p> . </p>
+<p> var _gaq = _gaq || [];   _gaq.push(['_setAccount', 'UA-545303-1']);   _gaq.push(['_trackPageview']);    (function() {     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);   })(); </p>
+<p> objPageSkin.init(); </p>

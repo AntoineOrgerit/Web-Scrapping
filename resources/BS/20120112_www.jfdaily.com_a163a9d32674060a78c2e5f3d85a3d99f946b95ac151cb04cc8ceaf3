@@ -1,0 +1,262 @@
+<p> 途牛发布春节出游调查报告 六成受调者选择自助游 消费_新闻中心_解放牛网 </p>
+<p> function sendToFriend(title){ 		var url = window.location.href; 		url = url.replace("&","*"); 		var gourl = '/MainServlet?go=JFDAILY_TOPIC_PG_TopicInfoSendToFriendPre&title='+title+'&url='+url 		gourl=encodeURI(gourl);         gourl=encodeURI(gourl); 		showIframe('发给朋友',gourl,480,300,true); 	} 	function showComments(id,pageNum) { 		var page = ""; 		if(pageNum != null) { 			page = "&pagelist.currentPage="+pageNum; 		} 		$("#comment").load('/MainServlet?go=JFDAILY_COMMENT_PG_CommentSearch&d'+new Date().getTime()+'&searchBean.relatedType=n&searchBean.relatedId='+id+page); 		//$("#comment").load('/MainServlet?go=JFDAILY_COMMENT_PG_CommentSearch&searchBean.relatedType=n&searchBean.relatedId='+id+page); 	} 	 	$(document).ready(function(){ 		$('#hrefCollect').click(function(){ 		 			var aId='1'; 			$.ajax({ 				url: '/MainServlet?go=Tag_PG_FavoritesAdd', 				type: 'post', 				data: {'favorites.ownerId' : aId,'favorites.relatedType':'n','favorites.relatedId':'2504142','favorites.title':'途牛发布春节出游调查报告&nbsp;六成受调者选择自助游','favorites.url':location.href,'isAjax':'1'}, 				error: function(){ 					showDialog(0); 				}, 				success: function(msg){ 					if($.trim(msg)=="false")	 						showDialogAcc('106','null'); 					else if($.trim(msg)=="login")	 						showLogin(); 					else if($.trim(msg)=="exception") 						//showMsg(0);				 						showDialog('0'); 					else if($.trim(msg)=='true'){ 						//showMsg(1); 						$('#addFav').html(parseInt($('#addFav').html())+1); 						showDialogAcc('105','null'); 					}else{ 						var url=location.href; 						var index=url.indexOf("http://"); 						index=url.indexOf("/",index+7); 						url=url.substring(index+1,url.length); 						location.href='/MainServlet?go=PUB_AUTH_PG_GoToLogin&url='+url; 					} 				} 			}); 		}); 	}); 	 	function digg(id, digg) { 		if(!$.isReady){ 			return; 		} 		$.ajax({ 			url: '/MainServlet?go=Tag_PG_DiggAdd', 			type: 'post', 			data:{ 				'digg.relatedId' : id, 				'digg.relatedType' : '1', 				'digg.diggType' : digg 				}, 			error: function(){ 				alert("顶出了问题！"); 			}, 			success: function(msg){ 				if($.trim(msg) == "false" || $.trim(msg)=="exception") { 					showDialog(10); 				} else { 					if(digg == '1') 						$('#diggNum').html(parseInt($('#diggNum').html())+1); 					//showDialog(1); 				} 			} 		}); 	} </p>
+<p> try{ top.document.title; } catch(e){ top.location.href = self.location.href; }   //$(document).ready(function(){showFeedback();}); </p>
+<p> var _gaq = _gaq || [];   _gaq.push(['_setAccount', 'UA-9252455-15']);   _gaq.push(['_setDomainName', '.jfdaily.com']);   _gaq.push(['_trackPageview']);    (function() {     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);   })(); </p>
+<p> 解放牛网首页 </p>
+<p> | </p>
+<p> 新闻中心 </p>
+<p> 专题 </p>
+<p> 牛选话题 </p>
+<p> | </p>
+<p> 放牛社区 </p>
+<p> 我爱放牛 </p>
+<p> 牛人知道 </p>
+<p> | </p>
+<p> 新闻涨停版 </p>
+<p> | </p>
+<p> 定制 </p>
+<p> 牛油 </p>
+<p> | </p>
+<p> 电子报 </p>
+<p> 专稿首页 </p>
+<p> | </p>
+<p> 记者即时播报 </p>
+<p> | </p>
+<p> 社会 </p>
+<p> | </p>
+<p> 国际 </p>
+<p> | </p>
+<p> 国内 </p>
+<p> | </p>
+<p> 上海 </p>
+<p> | </p>
+<p> 财经 </p>
+<p> | </p>
+<p> 娱乐 </p>
+<p> | </p>
+<p> 体育 </p>
+<p> | </p>
+<p> 消费 </p>
+<p> | </p>
+<p> 生活 </p>
+<p> | </p>
+<p> 图片 </p>
+<p> | </p>
+<p> 视频 </p>
+<p> 您所在的位置： </p>
+<p> 首页 </p>
+<p> > </p>
+<p> 本网专稿 </p>
+<p> > </p>
+<p> 消费 </p>
+<p> > 正文 </p>
+<p> 【记者即时播报】途牛发布春节出游调查报告 六成受调者选择自助游 </p>
+<p> 发布者： </p>
+<p> 李宝花 </p>
+<p> 时间：2012-01-12 15:34:35 来源：解放牛网 </p>
+<p> 【 </p>
+<p> 收藏 </p>
+<p> 】[ </p>
+<p> 0 </p>
+<p> ] </p>
+<p> 【 </p>
+<p> 评论 </p>
+<p> 0 </p>
+<p> 查看 </p>
+<p> 】 	【 </p>
+<p> 我要评论 </p>
+<p> 】 </p>
+<p> 【 </p>
+<p> 发起话题 </p>
+<p> 】 </p>
+<p> 途牛发布春节出游调查报告 </p>
+<p> 六成受调者选择自助游 </p>
+<p> 记者 李宝花 </p>
+<p> 晨报讯 龙年将至，不少市民已经提前安排好了春节出游计划。日前，途牛旅游网针对价格、热点、出游方式等消费者最为关心的出游问题在网民中进行了问卷调查。途牛旅游网《春节出游问卷调查》数据显示，出游目的地、出游方式、出游费用是受访网民最为关注的几大问题。 </p>
+<p> 途牛旅游网《春节出游问卷调查》数据显示，春节旅游国内线路将呈现南北两头热的局面，南方以海南为首，北方以哈尔滨等地区的冰雪游为主；我国港澳以及出境短线的东南亚、出境长线的中东、日韩等比较受市民青睐。途牛旅游网度假产品部总监魏斌称，由于今年元旦与春节假期相隔较近，因此元旦期间以短线游为主，市场较为平缓，大部分游客的出游需求转移到春节。龙年春节期间市场总体形势可以概括为：国内游稳中有升，出境游持续火爆。 </p>
+<p> 途牛旅游网《春节出游问卷调查》数据显示，45%的受访者年龄在26-34岁，39%的受访者年龄在18-25岁，70、80后消费者的出游热情，将给春节旅游市场带来巨大的拉动。另一组调查数据显示，70%的受访者为女性，女性在对于春节的计划中，除了日常传统的购物外，对出游的关注较男性更为明显。目前，在线预订旅游线路日趋成为年轻市民出游的首选。其中，47%的受访者有春节出游经验，很大一部分年轻市民度过春节的方式已经从传统的逐家拜年转变成了春节出游。有春节出游经验的受访者中，六成以上的网民选择了自驾游、自助游或半自助游的春节出游方式，自由度较高的出游方式更受欢迎；暂无春节出游经验的网民同样倾向于自助游或半自助游的出游方式。 </p>
+<p> 在春节出游时间的选择上，63%的受访网民倾向在大年初一至大年初四出游，18%的受访网民倾向在春节前出游，19%的网民倾向在大年初五以后出游。途牛旅游网度假产品部总监魏斌称，由于春节期间机位、住宿较紧张，出游市民尽量选择将年假与春节黄金周结合起来，前几天回家过年，后几天出游，避开客流高峰。数据显示，春节团期的价格变化极为明显，价格高位主要集中在大年初一至初三，最高涨幅甚至翻番。调查数据显示，春节出游逐渐成为年轻家庭的一种生活方式后，市民更加注重丰富的旅游体验，个性化、便捷化的旅游趋势越来越强，出游市民也更加乐意为优质的旅游服务支付一定的旅游费用，近7成的受访网民最为接受人均3000元左右的出游消费标准。 </p>
+<p> $("#relatedTopic").load("/message/topic_inc.jsp?d"+new Date().getTime(),{'articleId' : 2504142}); </p>
+<p> 本文栏目： </p>
+<p> 消费 </p>
+<p> 作者： </p>
+<p> 李宝花 </p>
+<p> 1 </p>
+<p> 写进博客 </p>
+<p> 发起话题 </p>
+<p> 提问作者 </p>
+<p> 新闻首页 </p>
+<p> 分享到开心网 </p>
+<p> 分享到QQ微博 </p>
+<p> 分享到新浪微博 </p>
+<p> 分享到人人网 </p>
+<p> 分享到淘江湖 </p>
+<p> 分享到网易微博 </p>
+<p> 延展阅读 </p>
+<p> //非法字符过滤( or---->或,not_----->非,and ----->与 )  // 过滤空格，实现java中的trim功能： String.prototype.trim=function(){ 	return this.replace(/(^\s*)|(\s*$)/g, ""); } function judgeValue(SearchKey,isValid){        	var reExpression=/(%|\*|\+|\=|\-|\/|\?|\.|\。|\&|\:|\：)+/g;		 	var x=reExpression.test(SearchKey); 	if(isValid && x) { 		alert("检索词中含有非法字符!"); 		$('#key').val(''); 	} 	return x; }  function submitSearchContentIt() { 	var keyWords = $("#key").val(); 	// 去掉前后的空格： 	keyWords = keyWords.trim(); 	if(keyWords=="") { 		showDialog(99); 		return false; 	} 	if(judgeValue(keyWords)) { 		showDialog(997); 		$('#keyWords').val(''); 		return false; 	} 	var searchwordTemp="";  	var keywordsValueArray = keyWords.split(" "); 	var sTemp=""; 	var element = ""; 	var j = 0; 	for(var i=0;i<keywordsValueArray.length;i++) { 		element = keywordsValueArray[i]; 		if(element=="" || element=="not" || element=="or" || element=="and" || element=="in"){ 			continue; 		} 		j++; 		if(j==1){ 			sTemp = element; 			continue; 		} 		sTemp = sTemp + " and " + element; 	} 	searchwordTemp = " doctitle =("+sTemp+") or contents =("+sTemp+") ";  	var searchForm = document.getElementById("searchContentForm"); 	document.getElementById("word").value = searchwordTemp; 	document.getElementById("id").value = "1121"; 	searchForm.action = "http://find.jfdaily.com/search_utf.asp"; 	searchForm.submit(); } </p>
+<p> 查看更多相关新闻 </p>
+<p> showComments(2504142); </p>
+<p> loadCommentPannel("","n"); </p>
+<p> 本文版权归解放牛网所有，任何媒体、网站或个人未经本网协议授权不得转载、链接、转帖或以其他方式复制发布/发表。 </p>
+<p> function sendMail(id){ 	  var email = /^\w+([-+.]\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*$/; 	  if(!email.exec(id)){ 	  alert("请输入正确的email地址"); 	  return false; 	  }else 	  	   window.open("http://niuyou.jfdaily.com/NewMediaClient/Register.aspx?email="+id,'',''); 	  } </p>
+<p> 订阅 </p>
+<p> inputText($("#search_id"), "输入您的E-mail地址订阅牛油"); </p>
+<p> 发布此文的牛人 </p>
+<p> 我要注册 </p>
+<p> | </p>
+<p> 牛友登录 </p>
+<p> 李宝花 </p>
+<p> 三级牛仔 </p>
+<p> 积分: </p>
+<p> 3504 </p>
+<p> 新闻晨报 </p>
+<p> 其他记者信息 </p>
+<p> 文章： </p>
+<p> 336 </p>
+<p> 博客： </p>
+<p> 93 </p>
+<p> 评论： </p>
+<p> 7 </p>
+<p> 话题： </p>
+<p> 0 </p>
+<p> 圈子：暂无加入圈子 </p>
+<p> [加为好友] </p>
+<p> [我要提问] </p>
+<p> [逛逛牛舍] </p>
+<p> 李宝花 </p>
+<p> 发布的更多牛文 </p>
+<p> ·[ </p>
+<p> 新闻 </p>
+<p> ] </p>
+<p> 中西部航线50元超值自游飞 </p>
+<p> ·[ </p>
+<p> 新闻 </p>
+<p> ] </p>
+<p> 途牛发布春节出游调查报告 六成受调者选择自助游 </p>
+<p> ·[ </p>
+<p> 新闻 </p>
+<p> ] </p>
+<p> 洋山保税港区拟扩区 </p>
+<p> ·[ </p>
+<p> 新闻 </p>
+<p> ] </p>
+<p> 两年内浦东中小学心理教师持证上岗 </p>
+<p> ·[ </p>
+<p> 新闻 </p>
+<p> ] </p>
+<p> 临港产业区公共租赁房开工 </p>
+<p> ·[ </p>
+<p> 新闻 </p>
+<p> ] </p>
+<p> 浦东九成标准化菜场食品信息可追溯 </p>
+<p> ·[ </p>
+<p> 新闻 </p>
+<p> ] </p>
+<p> 锦江电商获支付业务许可证 “锦江e卡通”持证上岗 </p>
+<p> ·[ </p>
+<p> 新闻 </p>
+<p> ] </p>
+<p> 浦东1路延伸至2号线广兰路站 </p>
+<p> 我也要发表 </p>
+<p> [放牛] </p>
+<p> [话题] </p>
+<p> [博客] </p>
+<p> 本文栏目： </p>
+<p> 新闻频道 </p>
+<p> | </p>
+<p> 消费 </p>
+<p> 关注本文的用户热荐栏目内容... </p>
+<p> · </p>
+<p> 钱币邮票收藏有人气没“钱途” </p>
+<p> · </p>
+<p> 《2012》带火旅游地 西藏、黄石公园大热 </p>
+<p> · </p>
+<p> 春节营销早早启动 金龙来了年味浓了 </p>
+<p> · </p>
+<p> 海口免税店开业“烧旺”岁末海南游 </p>
+<p> · </p>
+<p> 800公里以上航线  燃油费降至130元 </p>
+<p> · </p>
+<p> 鲜牛奶一年间涨价15% </p>
+<p> · </p>
+<p> 商圈集体促销不打烊 店堂爆棚“血拼”迎新(图) </p>
+<p> · </p>
+<p> 血拼狂潮来袭，管住你的卡 </p>
+<p> · </p>
+<p> 八佰伴跨年血拼 iPhone4一小时抢光(图) </p>
+<p> · </p>
+<p> 婴幼儿奶粉“超高端”之路能走多远 </p>
+<p> 商圈集体促销不打烊 店堂爆棚“血拼”迎新(图) </p>
+<p> 八佰伴跨年血拼 iPhone4一小时抢光(图) </p>
+<p> 老字号“触电”网上卖糖炒栗子(图) </p>
+<p> 孕妇冒雨赶场“抢”打折婴儿用品(图) </p>
+<p> 他们可能与你有同样的喜好 </p>
+<p> 更多 </p>
+<p> >> </p>
+<p> alison </p>
+<p> 六月 </p>
+<p> 缓慢下坠 </p>
+<p> 遗弃之子 </p>
+<p> 咖啡厅里 </p>
+<p> yay </p>
+<p> 哈三花四 </p>
+<p> 爆牙Jane </p>
+<p> 热门新闻股 </p>
+<p> 更多 </p>
+<p> >> </p>
+<p> 谢霆锋与张柏芝真的复合了吗？ </p>
+<p> 详情 </p>
+<p> 现价: </p>
+<p> 50 </p>
+<p> 发行: </p>
+<p> 2012-01-04 </p>
+<p> 看涨买入 </p>
+<p> 投反对票 </p>
+<p> 新闻股 </p>
+<p> 如何下单 </p>
+<p> 如何撤单 </p>
+<p> 炒股窍门 </p>
+<p> 牛币 </p>
+<p> WBSMZ </p>
+<p> 微博会全面实行实名制吗？ </p>
+<p> 现价：50 </p>
+<p> HYBZ </p>
+<p> 上海会大规模实施公交车沪语报 </p>
+<p> 现价：62 </p>
+<p> ZBJV </p>
+<p> 存款准备金率会连续下调吗？ </p>
+<p> 现价：40 </p>
+<p> CPDJ </p>
+<p> 上海车牌拍卖价还会连续下跌吗 </p>
+<p> 现价：49 </p>
+<p> LCPC </p>
+<p> 浙江绿城会成为中超的“雷曼兄 </p>
+<p> 现价：41 </p>
+<p> 专 题 </p>
+<p> 更多>> </p>
+<p> 2012年上海两会 </p>
+<p> 转型之路如何走得更顺畅，哪些非热点不该被忽视？市政协探索建言献策新方式 </p>
+<p> 记者新春走基层 </p>
+<p> 两位小姑娘坚守“春运售票大卖场”咨询台，每天站立9小时答疑挨骂手冻僵 </p>
+<p> | </p>
+<p> 集团视频 </p>
+<p> | </p>
+<p> 集团概况 </p>
+<p> | </p>
+<p> 集团行风监督 </p>
+<p> | </p>
+<p> 集团招聘信息 </p>
+<p> | </p>
+<p> 集团采购信息 </p>
+<p> | </p>
+<p> 集团资料检索 </p>
+<p> | </p>
+<p> 广告服务 </p>
+<p> | </p>
+<p> 网站地图 </p>
+<p> | </p>
+<p> 解放牛网 版权所有   未经许可不得转载 </p>
+<p> 沪ICP证010099 </p>
+<p> 广播电视节目制作经营许可证 沪字第335号 信息网络传播视听节目许可证 0908329 </p>
+<p> var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); </p>
+<p> try {var pageTracker = _gat._getTracker("UA-9252455-4");pageTracker._trackPageview();} catch(err) {} </p>

@@ -1,0 +1,67 @@
+<p> 大成基金对持有重庆啤酒进行估值调整  - 『中国证券网』 </p>
+<p> var _gaq = _gaq || [];   _gaq.push(['_setAccount', 'UA-490224-17']);   _gaq.push(['_setDomainName', '.cnstock.com']);   _gaq.push(['_trackPageview']); </p>
+<p> 选择频道 </p>
+<p> 论坛 </p>
+<p> 博客 </p>
+<p> 荐股 </p>
+<p> 专题 </p>
+<p> 要闻 </p>
+<p> 公司 </p>
+<p> 上海证券报 </p>
+<p> 产业 </p>
+<p> 直播 </p>
+<p> 公告 </p>
+<p> 研报 </p>
+<p> 解禁 </p>
+<p> 股校 </p>
+<p> 海外 </p>
+<p> 港股 </p>
+<p> 新股 </p>
+<p> 信披平台 </p>
+<p> 基金 </p>
+<p> 期货 </p>
+<p> 金融 </p>
+<p> 地产 </p>
+<p> 博客 </p>
+<p> 手机产品 </p>
+<p> Young财经 </p>
+<p> 论坛 </p>
+<p> 上证微博 </p>
+<p> 股金在线 </p>
+<p> function OnSearch()  {  		var searchValue=document.getElementById("searchText").value; 		var searchType=document.getElementById("SouceCode").value;         var sUrl = "http://search.cnstock.com/go.aspx?q=" + escape(searchValue) + "&c=" +searchType ;          window.open(sUrl); } </p>
+<p> 中国证券网 </p>
+<p> -> </p>
+<p> 08首页频道 </p>
+<p> -> </p>
+<p> 滚动播报 </p>
+<p> 【设为首页】 </p>
+<p> 【加入收藏】 </p>
+<p> 【字体： </p>
+<p> 大 </p>
+<p> 中 </p>
+<p> 小 </p>
+<p> 】 </p>
+<p> 大成基金对持有重庆啤酒进行估值调整 </p>
+<p> 作者： </p>
+<p> 来源： </p>
+<p> 证券时报网 </p>
+<p> 2011-12-09 21:13:14 </p>
+<p> 《证券时报》从大成基金获悉，12月8日，重庆啤酒（600132）发布了《重庆啤酒股份有限公司董事会关于“治疗用（合成肽）乙型肝炎疫苗”研究进度暨复牌公告》，根据相关文件规定，大成基金管理有限公司经与托管银行商定,自2011年12月8日起对公司旗下基金持有的重庆啤酒采用估值模型进行估值调整。 </p>
+<p> 大成基金称，已向上市公司正式发函督促其充分履行信息披露义务，并将密切关注上市公司的后续动向，积极与上市公司沟通相关事宜。待该股票其交易体现了活跃市场交易特征后，将恢复为采用当日收盘价格进行估值，届时不再另行公告。 </p>
+<p> （《证券时报》快讯中心） </p>
+<p> var leftHeight=$("#div_areaLeft").height();var rightHeight = $("#div_areaRight").height();if(leftHeight && rightHeight){if(leftHeight < rightHeight){rightHeight = Math.max(leftHeight, 1800);}else{rightHeight = leftHeight;}$("#div_areaRight").height(rightHeight);} </p>
+<p> 美股全搜索 一键尽网罗 </p>
+<p> 名博推荐 </p>
+<p> 相关新闻 </p>
+<p> 零售业：增速或放缓 机会在个股 2011-12-09 11:08 </p>
+<p> 煤价下行抑制行业估值回升 2011-12-09 10:25 </p>
+<p> 周俊生：“一字跌停”重啤醉倒谁来医？ 2011-12-09 10:13 </p>
+<p> 基金"盲调"重庆啤酒估值 大成发函促公司充分信披 2011-12-09 10:07 </p>
+<p> 王晓明的防御术：现在拿得最多的行业是金融 2011-12-09 09:53 </p>
+<p> 留言板 </p>
+<p> 网友评论 </p>
+<p> var leftHeight=$("#div_areaLeft").height(); 			var rightHeight = $("#div_areaRight").height(); 			if(leftHeight && rightHeight){ 				if(leftHeight < rightHeight){ 					rightHeight = Math.max(leftHeight, 1800); 				}else{ 					rightHeight = leftHeight; 				} 				$("#div_areaRight").height(rightHeight); 			}  			var totalPage = parseInt($("#hid_totalPage").val()); 			var currentPageId = "IDNewsDtail"; 			if(totalPage && totalPage > 1){ 				var docId = $("#hid_docId").val(); 				var $div0=$("#doc_"+docId+"_0"); 				$("div[id^='doc_"+docId+"_']").each(function(index, domObj){if(index>0){$(this).insertAfter($div0);$div0 = $(this);}}); 				var page=0; 				var param=location.search.match(new RegExp("[\?&]page=([^&]*)(&?)", "i")); 				if(param && !isNaN(param[1])){page = parseInt(param[1])-1;} 				if(page<0)page=0; 				if(page>=totalPage)page=totalPage-1; 				currentPageId = "doc_"+docId+"_"+page; 				try{ 					$("div[id^='doc_"+docId+"_']").hide(); 					$("#"+currentPageId).show(); 					if(page==0) 						$("#span_previous_page").hide(); 					if(page==(totalPage-1)) 						$("#span_next_page").hide(); 					var $spanPageNumbers = $("span[id^='span_pagerNumber_']").removeClass().addClass("otherPages"); 					$("#span_pagerNumber_" + page).removeClass().addClass("currentPage"); 					if(totalPage>11){ 						$spanPageNumbers.each(function(i, ele){ 							if(i<page-5 || i>page+5)$(ele).hide(); 						}); 					}else{ 						$("#span_total_page").hide(); 					} 				}catch(e){} 			} 			/*if($("#"+currentPageId+" img,#"+currentPageId+" table").length>0){*/      		if($("#"+currentPageId+" table").length>0){ 				$("#adframe").hide(); 			} 		 			function goPage(p){ 				var page=parseInt(p)+1; 				var pos=location.href.indexOf("?"); 				if(pos>0){ 					location=location.href.substring(0, pos+1) + "page=" + page; 				}else{ 					location += "?page=" + page; 				} 			} //设置字体的大小 function ChangeShow(x) {   switch (x){     case 1:       document.getElementById("IDNewsDtail").className="fbig";       break;     case 2:       document.getElementById("IDNewsDtail").className="fnomal";       break;     case 3:       document.getElementById("IDNewsDtail").className="fsmall";       break;   } }  var commentUrl = 'http://comment1.cnstock.com/newscomments/'; var newsUrl = document.location.href; var i = newsUrl.indexOf("?"); if(i > 0){ 	newsUrl = newsUrl.substring(0,i); } var newsTitle = escape($.trim($(".newstitle").text())) ; var newsGuid = newsUrl.match(/.*[/\\](\d+)\..*/)[1]; var data = { 	NewsUrl: newsUrl, 	NewsTitle: newsTitle, 	NewsGUID: newsGuid }; $.getJSON(commentUrl + "CommentXml.aspx?jsoncallback=?", data, function(jsonObj){ 	var htmlCode = jsonObj.commnetNumber; 	if(htmlCode.indexOf("还没有网友发表评论")>0){ 		htmlCode = htmlCode.replace("还没有网友发表评论","") 	}else{ 		//htmlCode = htmlCode.replace("我要评论","") 	} 	htmlCode = htmlCode.replace(/CommentsList.aspx\?/g, commentUrl+"CommentsList.aspx?").replace(/&quot;?|&#34;?/ig,"\"").replace(/&#39;?/ig,"\'");	$("#CommentCount").html(htmlCode); 	$("#div_CommentCount_0").html(htmlCode); }); $.getJSON(commentUrl + "ShortList.aspx?jsoncallback=?", data, function(jsonObj){     $("#CommentList").html(jsonObj.commnetNumber.replace(/CommentsList.aspx\?/g, commentUrl+"CommentsList.aspx?").replace(/&quot;?|&#34;?/ig,"\"").replace(/&#39;?/ig,"\'"));}); $("#iframe_comment").attr("src", commentUrl+"CommentAdd.aspx?NewsUrl="+newsUrl+"&NewsTitle="+ newsTitle +"&NewsGUID="+newsGuid); </p>
+<p> function rightBottomAd(){  var abc = document.getElementById('AdLayer1');  abc.style.top = document.documentElement.scrollTop+document.documentElement.clientHeight-225+"px";//120是这个层的高度；   setTimeout(function(){rightBottomAd();},20); }  function closediv() { document.getElementById('AdLayer1').style.display = "none";   } </p>
+<p> 关闭 </p>
+<p> rightBottomAd(); </p>
+<p> (function() {     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);   })(); </p>

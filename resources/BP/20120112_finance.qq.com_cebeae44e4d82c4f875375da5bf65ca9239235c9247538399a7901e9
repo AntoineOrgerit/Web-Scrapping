@@ -1,0 +1,8 @@
+<HTML xmlns="http://www.w3.org/1999/xhtml">
+<style type="text/css">
+A:before { content:' '; } 
+A:after { content:' '; } 
+SPAN:before { content:' '; } 
+SPAN:after { content:' '; } 
+</style>
+<BODY id="Article-QQ"><DIV class="wrapper" id="Main-Article-QQ"><DIV class="bd" id="MainL"><DIV class="main"><DIV id="C-Main-Article-QQ" class="mod-left"><DIV class="bd"><DIV id="Cnt-Main-Article-QQ" bosszone="content"><P style="TEXT-INDENT: 2em">今天由于上交所发错了静态数据（在集合竞价实时数据里做了修正），导致<SPAN onmouseover="ShowInfo(this,&quot;601519&quot;, &quot;1&quot;, &quot;-1&quot;,event);"><A class="a-tips-Article-QQ" href="http://stockhtm.finance.qq.com/sstock/ggcx/601519.shtml" target="_blank">大智慧</A></SPAN>、<SPAN onmouseover="ShowInfo(this,&quot;300033&quot;, &quot;51&quot;, &quot;-1&quot;,event);"><A class="a-tips-Article-QQ" href="http://stockhtm.finance.qq.com/sstock/ggcx/300033.shtml" target="_blank">同花顺</A></SPAN>、乾隆等多家公司的L2<A class="a-tips-Article-QQ" href="http://stockapp.finance.qq.com/mstats/" target="_blank">行情</A>出现异常，营业部现场行情也出现异常，现已修复。(21世纪网)</P><P style="TEXT-INDENT: 2em">今日上午上交所错发静态数据，导致部分股票报价出现异常，行情软件显示8只股票涨幅超过10%的涨停幅度，甚至出现20%涨幅的异常情况，不过其后已恢复。</P><P style="TEXT-INDENT: 2em">有证券业人士表示事件并无大碍，只是数字不对。</P></DIV></DIV></DIV></DIV></DIV></DIV></BODY></HTML>

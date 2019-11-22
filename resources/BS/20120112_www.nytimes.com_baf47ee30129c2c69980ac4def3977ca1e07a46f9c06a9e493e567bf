@@ -1,0 +1,148 @@
+<p> Publisher Has Deal for Elton John Book - NYTimes.com </p>
+<p> function getMetaValue(name) {   var els = document.getElementsByName(name);   if (els && els[0]) { return els[0].content; }   return ""; }  <!-- Begin KRUX Digital Control Tag for New York Times -->  KRUXSetup = {    pubid: "79816aa8-435a-471a-be83-4b3e0946daf2",    site: "NYTimes",    section: getMetaValue('CG'),    subSection: getMetaValue('SCG'),    pageAttributes: {       page_type: getMetaValue('PT')    } }; </p>
+<p> Log In </p>
+<p> Register Now </p>
+<p> Help </p>
+<p> Home Page </p>
+<p> Today's Paper </p>
+<p> Video </p>
+<p> Most Popular </p>
+<p> Times Topics </p>
+<p> window.setTimeout(function() {   var login = document.getElementById('memberToolsLogin');   if (login) {     login.href += "?URI=" + window.location.href;   } }, 0) </p>
+<p> Search All NYTimes.com </p>
+<p> Books </p>
+<p> World </p>
+<p> U.S. </p>
+<p> N.Y. / Region </p>
+<p> Business </p>
+<p> Technology </p>
+<p> Science </p>
+<p> Health </p>
+<p> Sports </p>
+<p> Opinion </p>
+<p> Arts </p>
+<p> Art & Design </p>
+<p> Books </p>
+<p> Sunday Book Review </p>
+<p> Best Sellers </p>
+<p> Dance </p>
+<p> Movies </p>
+<p> Music </p>
+<p> Television </p>
+<p> Theater </p>
+<p> Video Games </p>
+<p> Events </p>
+<p> Style </p>
+<p> Travel </p>
+<p> Jobs </p>
+<p> Real Estate </p>
+<p> Autos </p>
+<p> <!-- 	google_ad_client = 'ca-nytimes_display_html'; 	google_alternate_ad_url = 'http://www.nytimes.com/ads/remnant/networkredirect-leaderboard.html'; 	google_ad_width = 728;  	google_ad_height = 90; 	google_ad_format = '728x90_pas_abgc'; 	google_ad_type = 'image,flash'; 	google_encoding = 'utf8';  	google_safe = 'high'; 	google_targeting = 'site_content'; 	google_ad_channel = 'books_leaderboard'; // --> </p>
+<p> Advertise on NYTimes.com </p>
+<p> Arts, Briefly </p>
+<p> Publisher Has Deal for Elton John Book </p>
+<p> By </p>
+<p> JULIE BOSMAN </p>
+<p> ; Compiled by ADAM W. KEPLER </p>
+<p> Published: January 8, 2012 </p>
+<p> var articleToolsShareData = {"url":"http:\/\/www.nytimes.com\/2012\/01\/09\/books\/publisher-has-deal-for-elton-john-book.html","headline":"Publisher Has Deal for Elton John Book","description":"Little, Brown & Company is expected to announce Monday that Elton John has signed up to write his first book, about his experience in fighting AIDS.","keywords":"Books and Literature,Rock Music,Acquired Immune Deficiency Syndrome,John  Elton,Little Brown %26,Elton John Aids Foundation","section":"books","sub_section":null,"section_display":"Books","sub_section_display":null,"byline":"By <a rel=\"author\" href=\"http:\/\/topics.nytimes.com\/top\/reference\/timestopics\/people\/b\/julie_bosman\/index.html?inline=nyt-per\" title=\"More Articles by Julie Bosman\" class=\"meta-per\">JULIE BOSMAN<\/a>; Compiled by ADAM W. KEPLER","pubdate":"January 8, 2012","passkey":null}; function getShareURL() {     return encodeURIComponent(articleToolsShareData.url); } function getShareHeadline() {     return encodeURIComponent(articleToolsShareData.headline); } function getShareDescription() {     return encodeURIComponent(articleToolsShareData.description); } function getShareKeywords() {     return encodeURIComponent(articleToolsShareData.keywords); } function getShareSection() {     return encodeURIComponent(articleToolsShareData.section); } function getShareSubSection() { 	return encodeURIComponent(articleToolsShareData.sub_section); } function getShareSectionDisplay() {     return encodeURIComponent(articleToolsShareData.section_display); } function getShareSubSectionDisplay() {     return encodeURIComponent(articleToolsShareData.sub_section_display); } function getShareByline() {     return encodeURIComponent(articleToolsShareData.byline); } function getSharePubdate() {     return encodeURIComponent(articleToolsShareData.pubdate); } function getSharePasskey() {     return encodeURIComponent(articleToolsShareData.passkey); } </p>
+<p> Sign In to E-Mail </p>
+<p> Print </p>
+<p> function submitCCCForm(){ 		var PopUp = window.open('', '_Icon','location=no,toolbar=no,status=no,width=650,height=550,scrollbars=yes,resizable=yes'); 		var form = document.forms["cccform"]; 		// ensure that we are operating on the Form, not a NodeList 		if (form.nodeName == "FORM") { 			form.submit(); 		} else if (form[0] && form[0].nodeName == "FORM") { 			form[0].submit(); 		} 	} </p>
+<p> Reprints </p>
+<p> Fans of </p>
+<p> Elton John </p>
+<p> , below, will have to wait a little longer for his memoir of sex, drugs and rock ’n’ roll. But his publisher is expected to announce Monday that Mr. John, 64, has signed up to write his first book, about his experience in fighting AIDS. The book, titled “Love Is the Cure,” will be “the very personal stories of Sir Elton’s life during the AIDS epidemic, including his agony at seeing friend after friend perish needlessly,” said his publisher, Little, Brown & Company. Mr. John had long wondered why greater effort was not made to cure the disease. “Why are we not doing more?” he wrote in an e-mail from his publisher. “This is a question I have thought deeply about, and wish to answer — and to help change — by writing this book.” Mr. John, a longtime AIDS activist, founded the Elton John Aids Foundation in 1992. </p>
+<p> Michael Pietsch </p>
+<p> , the publisher of Little, Brown, will edit the book, to be released in July. A number of musicians, including </p>
+<p> Keith Richards </p>
+<p> , </p>
+<p> Patti Smith </p>
+<p> , </p>
+<p> Pete Townshend </p>
+<p> and </p>
+<p> Sammy Hagar </p>
+<p> , have lined up in recent years to write memoirs. </p>
+<p> Robert Barnett </p>
+<p> , the Washington lawyer who represented Mr. John in the deal, said that Mr. John had no such plans. </p>
+<p> A version of this brief appeared in print on January 9, 2012, on page C3 of the New York edition with the headline: Publisher Has Deal For Elton John Book. </p>
+<p> Sign In to E-Mail </p>
+<p> Print </p>
+<p> function submitCCCForm(){ 		var PopUp = window.open('', '_Icon','location=no,toolbar=no,status=no,width=650,height=550,scrollbars=yes,resizable=yes'); 		var form = document.forms["cccform"]; 		// ensure that we are operating on the Form, not a NodeList 		if (form.nodeName == "FORM") { 			form.submit(); 		} else if (form[0] && form[0].nodeName == "FORM") { 			form[0].submit(); 		} 	} </p>
+<p> Reprints </p>
+<p> writePost(); </p>
+<p> Connect with The New York Times on Facebook. </p>
+<p> Get Free E-mail Alerts on These Topics </p>
+<p> Books and Literature </p>
+<p> Rock Music </p>
+<p> Acquired Immune Deficiency Syndrome </p>
+<p> John, Elton </p>
+<p> google_hints="Publisher Has Deal for Elton John Book";google_ad_channel="archive, archive_books, archive_Books"; </p>
+<p> // Sponlink_short      NYTD.GoogleAds.getGoogleAds("AFC", {          google_ad_client:'nytimes_article_var', 	google_ad_channel:'left',         ad_target_list:'sponLink'     }); </p>
+<p> <!-- if (!window.nyt_google_count) { var nyt_google_count = 0; } if ((!window.nyt_google_ad_channel) && (window.google_ad_channel)) { var nyt_google_ad_channel = google_ad_channel; } if ((!window.nyt_google_hints) && (window.google_hints)) { var nyt_google_hints = google_hints; } if ((!window.nyt_google_contents) && (window.google_contents)) { var nyt_google_contents = google_contents; } function ss(w,id) {window.status = w;return true;}function cs(){window.status='';}function ha(a){  pha=document.getElementById(a); nhi=pha.href.indexOf("&nh=");if(nhi < 1) {phb=pha.href+"&nh=1";} pha.href=phb;}function ca(a) {  pha=document.getElementById(a); nci=pha.href.indexOf("&nc=");if(nci < 1) {phb=pha.href+"&nc=1";} pha.href=phb;window.open(document.getElementById(a).href);}function ga(o,e) {if (document.getElementById) {a=o.id.substring(1);p = "";r = "";g = e.target;if (g) {t = g.id;f = g.parentNode;if (f) {p = f.id;h = f.parentNode;if (h)r = h.id;}} else {h = e.srcElement;f = h.parentNode;if (f)p = f.id;t = h.id;}if (t==a || p==a || r==a)return true;pha=document.getElementById(a); nbi=pha.href.indexOf("&nb=");if(nbi < 1) {phb=pha.href+"&nb=1";} pha.href=phb;window.open(document.getElementById(a).href);}}   function google_ad_request_done(ads) {     var s = '';     var i;       if (ads.length == 0) {         return;     }       if (ads[0].type == "image") {         s += '<a href="' + ads[0].url +         '" target="_blank" title="go to ' + ads[0].visible_url +         '"><img border="0" src="' + ads[0].image_url +         '"width="' + ads[0].image_width +         '"height="' + ads[0].image_height + '"></a>';     } else if (ads[0].type == "flash") {         s += '<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"' +         ' codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0"' +         ' WIDTH="' + google_ad.image_width +         '" HEIGHT="' + google_ad.image_height + '">' +         '<PARAM NAME="movie" VALUE="' + google_ad.image_url + '">' +         '<PARAM NAME="quality" VALUE="high">' +         '<PARAM NAME="AllowScriptAccess" VALUE="never">' +         '<EMBED src="' + google_ad.image_url +         '" WIDTH="' + google_ad.image_width +         '" HEIGHT="' + google_ad.image_height +         '" TYPE="application/x-shockwave-flash"' +         ' AllowScriptAccess="never" ' +         ' PLUGINSPAGE="http://www.macromedia.com/go/getflashplayer"></EMBED></OBJECT>';     } else if (ads[0].type == "text") {         nyt_google_count += ads.length;         google_ad_section_line_height = "14px";         google_ad_section_padding_left = "7px";         google_title_link_font_size = "12px";         google_ad_text_font_size = "11px";         google_visible_url_font_size = "10px";           s += '<table width="100%" height="" border="0" cellspacing="0" cellpadding="0" style="text-align:left; width:100%; border-style: solid; border-width: 1px; border-color: #9da3ad" >\n<tr>\n<td style="font-family:Arial,Helvetica,sans-serif; font-size:12px; color:#333333;" valign="top"><table width="100%" height="100%" cellspacing="0" cellpadding="0" border="0" style="width:100%; height:100%;">\n<tr>\n <td style="background-color:#9da3ad; width:70%; height:20px; padding-top:2px; padding-left:11px; padding-bottom:2px; font-family:Arial,Helvetica,sans-serif; font-size:12px; color:#333333;" width="70%" height="20" bgcolor="#9da3ad" ><span style="font-size: 12px; font-weight: normal; color:#ffffff;" >Ads by Google</span></td>\n<td style="padding-top:2px; padding-bottom:2px; width:30%; height:20px; align:right; background-color:#9da3ad; font-family:Arial,Helvetica,sans-serif; font-size:12px; color:#333333;" width="30%" height="20" align="right" bgcolor="#9da3ad" ><span><a style="font-family:Arial,Helvetica,sans-serif; color: white; font-size:12px; padding-right:7px;" href="http://www.nytimes.com/ref/membercenter/faq/linkingqa16.html" onclick="window.open(\'\',\'popupad\',\'left=100,top=100,width=390,height=390,resizable,scrollbars=no\')" target="popupad">what\'s this?</a></span></td>\n</tr>\n</table>\n</td>\n</tr>\n<tr>\n<td style="height:110px; font-family:Arial,Helvetica,sans-serif; font-size:12px; color:#333333;" valign="top" height="110"><table height="100%" width="100%" cellpadding="4" cellspacing="0" border="0" bgcolor="#f8f8f9" style="height:100%; width:100%; padding:4px; background-color:#f8f8f9;">\n';         for (i = 0; i < ads.length; ++i) {             s += '<tr>\n<td style="cursor:pointer; cursor:hand; font-family:Arial,Helvetica,sans-serif; font-size:12px; color:#333333; background-color:#f8f8f9;" id="taw' + i + '" valign="middle" onFocus="ss(\'go to ' + ads[i].visible_url + '\',\'aw' + i + '\')" onMouseOver="ss(\'go to ' + ads[i].visible_url + '\',\'aw' + i + '\')"  onMouseOut="cs()" onClick="ga(this,event)"><div style="line-height:' + google_ad_section_line_height + '; padding-left:' + google_ad_section_padding_left + '; padding-bottom:5px;" ><a id="aw' + i + '" href="' + ads[i].url + '" target="_blank" style="font-size:' + google_title_link_font_size + '; color:#000066; font-weight:bold; text-decoration:underline;" onFocus="ss(\'go to ' + ads[i].visible_url + '\',\'aw' + i + '\')" onClick="ha(\'aw' + i + '\')" onMouseOver="return ss(\'go to ' + ads[i].visible_url + '\',\'aw' + i + '\')"  onMouseOut="cs()">' + ads[i].line1 + '</a><br>\n<a href="' + ads[i].url + '" target="_blank" style="font-family:Arial,Helvetica,sans-serif; font-size:' + google_ad_text_font_size + ';color:#333333;text-decoration:none;">' + ads[i].line2 + ' ' + ads[i].line3 + '</a><br>\n<a href="' + ads[i].url + '" target="_blank" style="font-size:' + google_visible_url_font_size + '; color:#000066; font-weight:normal; text-decoration:none;">' + ads[i].visible_url + '</a></div>\n</td>\n</tr>\n';         }         s += '</table>\n</td>\n</tr>\n</table>';     }     document.write(s);     return; } google_ad_client = 'ca-nytimes_display_html'; google_ad_format = '336x280_pas_abgc'; google_ad_output = 'js'; google_max_num_ads = '6'; google_ad_type = 'text,image,flash'; google_image_size = '336x280'; google_safe = 'high'; google_targeting = 'site_content'; if (window.nyt_google_contents) { google_contents = nyt_google_contents; } else if (window.nyt_google_hints) { google_hints = nyt_google_hints; } // --> </p>
+<p> Advertise on NYTimes.com </p>
+<p> Showing star qualities </p>
+<p> ALSO IN THEATER » </p>
+<p> Anatomy of a murder, in raging rock </p>
+<p> Are you ready for your close-ups? </p>
+<p> Advertisements </p>
+<p> Help New Yorkers in need. </p>
+<p> Donate Today. </p>
+<p> // Sponlink_A_Short       if (document.getElementById("MiddleRight")) { google_targeting = 'content'; }      NYTD.GoogleAds.getGoogleAds("AFC", {          google_ad_client:'nytimes_article_var',         ad_target_list:'sponLinkA'      }); </p>
+<p> Inside NYTimes.com </p>
+<p> Home & Garden » </p>
+<p> Bang for the Buck </p>
+<p> Music » </p>
+<p> Rap Cameos That Pack Some Electric Punches </p>
+<p> Fashion & Style » </p>
+<p> Zoom In, Zumba Away </p>
+<p> Opinion » </p>
+<p> Op-Ed: A Law Whose Time Has Passed </p>
+<p> A mining law from 1872 has outlived its purpose, and its environmental consequences have been severe. </p>
+<p> Great Homes » </p>
+<p> In Greenwich Village, a Place to Rest in Luxury </p>
+<p> Opinion » </p>
+<p> When the Fire Hydrant Was the End Zone </p>
+<p> Style » </p>
+<p> The Pre-Autumn Leaves Start Changing Color </p>
+<p> Home & Garden » </p>
+<p> Warm Hearts and Freeze-Dried Pets </p>
+<p> Opinion » </p>
+<p> Will Women Earn More Than Men? </p>
+<p> Women are pursuing degrees during this slump, while men settle for so-so jobs. Room for Debate asks: Which approach will pay off? </p>
+<p> Television » </p>
+<p> Comedy Gatekeeper Who Makes Letterman Laugh </p>
+<p> Opinion » </p>
+<p> Kristof Blog: Melinda Gates on Development </p>
+<p> Health » </p>
+<p> Exercise Hormone Keeps Us Healthy </p>
+<p> Home </p>
+<p> World </p>
+<p> U.S. </p>
+<p> N.Y. / Region </p>
+<p> Business </p>
+<p> Technology </p>
+<p> Science </p>
+<p> Health </p>
+<p> Sports </p>
+<p> Opinion </p>
+<p> Arts </p>
+<p> Style </p>
+<p> Travel </p>
+<p> Jobs </p>
+<p> Real Estate </p>
+<p> Autos </p>
+<p> Site Map </p>
+<p> © 2012 </p>
+<p> The New York Times Company </p>
+<p> Privacy </p>
+<p> Your Ad Choices </p>
+<p> Terms of Service </p>
+<p> Terms of Sale </p>
+<p> Corrections </p>
+<p> RSS </p>
+<p> Help </p>
+<p> Contact Us </p>
+<p> Work for Us </p>
+<p> Advertise </p>
+<p> <!--           var dcsvid="0";           var regstatus="non-registered";         //--> </p>

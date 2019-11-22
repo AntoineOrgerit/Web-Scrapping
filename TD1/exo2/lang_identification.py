@@ -23,7 +23,7 @@ def jt_langid_treatement(input_file, output_file):
 
 
 def main():
-    extract("../../../resources/JT/", "../../../resources/JT_langid/", jt_langid_treatement)
+    extract("../../resources/JT/", "../../resources/JT_langid/", jt_langid_treatement)
 
 if __name__ == '__main__':
     main()

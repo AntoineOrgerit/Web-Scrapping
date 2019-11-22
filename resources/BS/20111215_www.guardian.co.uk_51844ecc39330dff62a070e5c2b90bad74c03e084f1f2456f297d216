@@ -1,0 +1,439 @@
+<p> document.domain = "guardian.co.uk"; </p>
+<p> //<![CDATA[ 				OAS_url = 'http://oas.guardian.co.uk/RealMedia/ads/'; 				OAS_sitepage = "www.guardian.co.uk/society/2011/dec/12/chronic-fatigue-syndrome-schools/oas.html"; 				OAS_listpos = 'Top,Middle2,Right1,x31';  								OAS_query = 'k=children&k=chronic-fatigue-syndrome&k=schools&k=education&k=society&k=truancy&cf=health&pid=&ct=article&pt=article&'; 				OAS_target = '_blank';  				OAS_rn = '001234567890'; 				OAS_rns = '1234567890'; 				OAS_rn = new String (Math.random()); 				OAS_rns = OAS_rn.substring (2, 11); 			//]]> </p>
+<p> Study warns of higher ME rates among pupils | Society | The Guardian </p>
+<p> //<![CDATA[ 	if (!commonStaticRoot) {	 		var commonStaticRoot = "http://static.guim.co.uk/static/b5c4e8d780aa8be3b8dd5e21c7bbe4b6245fb74c/common/"; 	} 	if (!sectionStaticRoot) {	 		var sectionStaticRoot = "http://static.guim.co.uk/static/b5c4e8d780aa8be3b8dd5e21c7bbe4b6245fb74c/society/"; 	} 	if (!staticHost) {	 		var staticHost="http://www.guardian.co.uk/"; 	} 	if (!sitePrefixUrl) { 		var sitePrefixUrl = "http://www.guardian.co.uk"; 	} //]]> </p>
+<p> var _sf_startpt=(new Date()).getTime(); </p>
+<p> window.jQuery || document.write('<script src="http://static.guim.co.uk/static/b5c4e8d780aa8be3b8dd5e21c7bbe4b6245fb74c/common/scripts/libs/jquery/1.6.4/jquery.min.js">\x3C/script>') </p>
+<p> var jQ = jQuery.noConflict(); </p>
+<p> //<![CDATA[ 	function insertStyleSheet(href) { 		var styleObject = document.createElement('link'); 		styleObject.setAttribute('href', commonStaticRoot + href); 		styleObject.setAttribute('type', 'text/css'); 		styleObject.setAttribute('media', 'screen'); 		styleObject.setAttribute('rel', 'stylesheet'); 		var head = document.getElementsByTagName('head')[0]; 		head.appendChild(styleObject); 	} 	insertStyleSheet('styles/js-on.css'); 	insertPluckStylesheet = true; 	//]]> </p>
+<p> //<![CDATA[ 	function init() { 		urlStack.clearUrlStack(); 		var signOutLink = document.getElementById("sign-out"); 		if (signOutLink) { 			signOutLink.onclick = signOut; 		} 		 		// Purely styling 		jQ('.js-show').removeClass('js-show'); 	}      guardian.r2.resourceRoot = "http://resource.guim.co.uk/";     var pageUrl = "http://www.guardian.co.uk/society/2011/dec/12/chronic-fatigue-syndrome-schools";     var pageSignature =  "85f459005526d988a8c03969e69904f724015d1ebf9bb9c6119957823cafe898";      	var thirdPartyReferralCookieService = new guardian.r2.ThirdPartyReferralCookieService(); 	thirdPartyReferralCookieService.setThirdPartyReferralCookie(); 		 	var urlStack = new UrlStack(".guardian.co.uk");	 	var communitiesSite = false;                    	guardian.r2.signInListeners = new guardian.r2.SignInListeners();     (function () {	 		var signInView = new guardian.r2.SignInView("http://static.guim.co.uk/static/b5c4e8d780aa8be3b8dd5e21c7bbe4b6245fb74c/common/scripts/md5.js", communitiesSite); 		guardian.r2.signInController = new guardian.r2.SignInController(signInView, guardian.r2.signInListeners, "http://www.guardian.co.uk/tools/signin", pageUrl, pageSignature); 		 	}) (); 	 	(function () { 		var profileLinkView = new guardian.r2.ProfileLinkView(); 		profileLinkController = new guardian.r2.ProfileLinkController(profileLinkView, "http://www.guardian.co.uk/discussion/user/"); 	}) ();  	jQ(document).ready(init); 	//]]> </p>
+<p> Turn autoplay off </p>
+<p> Turn autoplay on </p>
+<p> Please activate cookies in order to turn autoplay off </p>
+<p> Jump to content [s] </p>
+<p> Jump to site navigation [0] </p>
+<p> Jump to search [4] </p>
+<p> Terms and conditions [8] </p>
+<p> Edition: </p>
+<p> UK </p>
+<p> US </p>
+<p> Sign in </p>
+<p> Mobile </p>
+<p> About us </p>
+<p> About us </p>
+<p> Contact us </p>
+<p> Press office </p>
+<p> Guardian Print Centre </p>
+<p> Guardian readers' editor </p>
+<p> Observer readers' editor </p>
+<p> Terms of service </p>
+<p> Privacy policy </p>
+<p> Advertising guide </p>
+<p> Digital archive </p>
+<p> Digital edition </p>
+<p> Guardian Weekly </p>
+<p> Buy Guardian and Observer photos </p>
+<p> Subscribe </p>
+<p> Today's paper </p>
+<p> The Guardian </p>
+<p> G2 features </p>
+<p> Comment and debate </p>
+<p> Editorials, letters and corrections </p>
+<p> Obituaries </p>
+<p> Other lives </p>
+<p> Sport </p>
+<p> Subscribe </p>
+<p> Subscribe </p>
+<p> Subscribe to the Guardian </p>
+<p> iPhone app </p>
+<p> iPad edition </p>
+<p> Kindle </p>
+<p> Extra </p>
+<p> Guardian Weekly </p>
+<p> Digital edition </p>
+<p> All our services </p>
+<p> ensurePackage('guardian.r2');  	guardian.r2.dropDownMenu = function () { 	 		// bar set up 		jQ('.top-navigation').show().addClass('top-navigation-js'); 		jQ('#fake-bar').remove();  		// functionality 		jQ('.drop-down').mouseover(function() { 			jQ(this).find('ul').css('display', 'block'); 		});  		jQ('.drop-down').mouseout(function() { 			jQ(this).find('ul').css('display', 'none'); 		});  	};	 	 	jQ(document).ready(function() { 		var myDropDownMenu = new guardian.r2.dropDownMenu(); 	}); </p>
+<p> The Guardian </p>
+<p> Society </p>
+<p> User comments </p>
+<p> Web </p>
+<p> News </p>
+<p> Sport </p>
+<p> Comment </p>
+<p> Culture </p>
+<p> Business </p>
+<p> Money </p>
+<p> Life & style </p>
+<p> Travel </p>
+<p> Environment </p>
+<p> TV </p>
+<p> Data </p>
+<p> Video </p>
+<p> Mobile </p>
+<p> Offers </p>
+<p> Jobs </p>
+<p> News </p>
+<p> Society </p>
+<p> Chronic fatigue syndrome </p>
+<p> Study warns of higher ME rates among pupils </p>
+<p> More children than previously thought miss school because of misdiagnosed chronic fatigue syndrome, according to research </p>
+<p> Tweet this </p>
+<p> reddit this </p>
+<p> omnitracker.omniTrackEVarEvent( 12, 16, 'Society: Reddit', 'click', '.reddit a' ); </p>
+<p> Denis Campbell </p>
+<p> guardian.co.uk </p>
+<p> , </p>
+<p> Monday 12 December 2011 23.30 GMT </p>
+<p> Article history </p>
+<p> About this article </p>
+<p> Close </p>
+<p> Study warns of higher ME rates among pupils </p>
+<p> This article was published on </p>
+<p> guardian.co.uk </p>
+<p> at </p>
+<p> 23.30 GMT on Monday 12 December 2011 </p>
+<p> .  					   	A version appeared  on p14 of the </p>
+<p> Main section </p>
+<p> section of </p>
+<p> the Guardian </p>
+<p> on </p>
+<p> Tuesday 13 December 2011 </p>
+<p> .  					   	It was last modified at </p>
+<p> 00.39 GMT on Tuesday 13 December 2011 </p>
+<p> . </p>
+<p> Chronic fatigue syndrome is more common in schoolchildren than was previously thought, according to reasearch.  Photograph: Rex Features </p>
+<p> Far more </p>
+<p> children </p>
+<p> than previously thought miss a lot of schooling because of </p>
+<p> chronic fatigue syndrome </p>
+<p> which has not been diagnosed, according to research. </p>
+<p> The illness is identified as a significant source of absenteeism and the study suggests more efforts need to be made to identify sufferers. Around one in 100 secondary age pupils suffer from the condition, also known as myalgic encephalomyelitis (ME), the findings in the medical journal BMJ Open claim. With 3.3 million pupils in state-funded secondary </p>
+<p> schools </p>
+<p> in England, that means that 33,000 children aged between 11 and 16 may have it, according to calculations done for the study. This is far higher than two previous surveys which estimated that just 0.06% of schoolchildren have chronic fatigue and another which found only seven sufferers among 8,839 children in 10 schools. The new figure is also higher than estimates of 0.1% to 0.5% for the prevalence of ME generally. </p>
+<p> The conclusions are based on a study of 2,855 pupils aged 11-16 at three secondary schools in and around Bath, of whom 461 had missed 20% of their lessons, or at least a day a week, over a six-week period. Some 315 of the 461 had an identified reason for such regular absenteeism, such as a medical illness, a bout of ill-health or persistent truanting, and three of the 315 had already been diagnosed as having CFS. Of the 146 others who had unexplained absence, 112 attended a school clinic for an assessment, and of those 48 were then invited to a specialist CFS/ME clinic, of whom 42 attended. Two of those had also been previously diagnosed with CFS, though their school had not been told, and a further 23 were also diagnosed as having the illness. </p>
+<p> That gave a total of 28 pupils out of the 2,855 who were classed as having CFS, or a rate of 1%. </p>
+<p> "This project suggests that undiagnosed chronic fatigue syndrome/ME may be an important and under-appreciated cause of school absence in children aged 11-16 years," said the authors, led by Dr Esther Crawley. She is a consultant senior lecturer at Bristol University and a paediatrician who runs the country's largest clinic for young people with CFS, at the Royal National Hospital for Rheumatic Diseases in Bath. </p>
+<p> "GPs have always thought that this is really rare in under-16s. But this paper shows that it's not that rare," said Crawley. Schools should assess pupils who are missing 20% or more of days, consider CFS as a likely cause and refer them to a specialist service, she added. </p>
+<p> Schools should start screening pupils who miss at least 20% of lessons for signs of CFS, especially as the average length of time between the onset of symptoms and diagnosis is 22 months, she added. </p>
+<p> A spokeswoman for Action for ME said: "Dr Crawley's findings suggest that many more pupils than previously estimated may have ME. We estimate that there are 250,000 people in the UK with ME and that as many as 25,000 of these are children and young people. The youngest person to be diagnosed ever in the UK was two." </p>
+<p> The Department for Education reacted cautiously to the findings, believing it unwise to draw any conclusions about the picture nationally from a study of just three schools, especially with a condition that is hard to diagnose accurately. </p>
+<p> A spokesman said: "Absence from school, even for one day, is hugely detrimental to pupil's prospects. Where there is an underlying medical problem, schools and the local authority should work with parents to minimise the impact of the long term illnesses on a pupil's education." </p>
+<p> Peter White, a professor of psychological medicine at the Barts and The London School of Medicine and Dentistry at Queen Mary University of London, said: "This well-conducted study shows that schoolchildren who miss school without explanation fall between the stools of school and the health service, and do so for two main reasons: emotional ill-health and chronic fatigue syndrome (CFS). </p>
+<p> "Both of these can delay or even prevent a child from reaching their educational and personal potential." </p>
+<p> Case study </p>
+<p> Ruth Haughton fell ill just before taking her GCSEs. "I initially got glandular fever three weeks before my GCSEs in May 2005, when I was 15, and that mutated into ME. I was diagnosed within eight weeks, which is unusually quick. The exam board said that I had to try to take at least one of my exams. I ended up taking three but, because I was bedbound with severe muscle fatigue, I had to take them at my kitchen table, as I couldn't leave the house. I was pretty delirious, in a feverish stupor, and could barely read. I think I got ill because I'm a perfectionist and was pushing myself to get an A-star in all my 10 subjects. But it then took me three years to get just one A-level, in art, and I had to abandon my ambition of doing medicine." I'm now doing the foundation year of a geology degree instead. Yes, ME was devastating for me. But it's also brought some positives, like teaching me that I can't push my body too hard or it will break." </p>
+<p> Printable version </p>
+<p> Send to a friend </p>
+<p> Share </p>
+<p> Clip </p>
+<p> Contact us </p>
+<p> larger </p>
+<p> | </p>
+<p> smaller </p>
+<p> Email </p>
+<p> Close </p>
+<p> Recipient's email address </p>
+<p> Your first name </p>
+<p> Your surname </p>
+<p> Add a note (optional) </p>
+<p> Your IP address will be logged </p>
+<p> Share </p>
+<p> Close </p>
+<p> Short link for this page: </p>
+<p> http://gu.com/p/343k4 </p>
+<p> StumbleUpon </p>
+<p> reddit </p>
+<p> Tumblr </p>
+<p> Digg </p>
+<p> LinkedIn </p>
+<p> Google Bookmarks </p>
+<p> del.icio.us </p>
+<p> livejournal </p>
+<p> Facebook </p>
+<p> Twitter </p>
+<p> Contact us </p>
+<p> Close </p>
+<p> Contact the Society editor </p>
+<p> editor@societyguardian.co.uk </p>
+<p> Report errors or inaccuracies: </p>
+<p> reader@guardian.co.uk </p>
+<p> Letters for publication should be sent to: </p>
+<p> letters@guardian.co.uk </p>
+<p> If you need help using the site: </p>
+<p> userhelp@guardian.co.uk </p>
+<p> Call the main Guardian and Observer switchboard: </p>
+<p> +44 (0)20 3353 2000 </p>
+<p> Advertising guide </p>
+<p> License/buy our content </p>
+<p> Society </p>
+<p> Chronic fatigue syndrome </p>
+<p> · </p>
+<p> Children </p>
+<p> · </p>
+<p> Health </p>
+<p> Education </p>
+<p> Schools </p>
+<p> · </p>
+<p> Truancy </p>
+<p> · </p>
+<p> Pupil behaviour </p>
+<p> UK news </p>
+<p> More 			news </p>
+<p> Related </p>
+<p> 18 Feb 2011 </p>
+<p> Study finds therapy and exercise best for ME </p>
+<p> 19 Sep 1999 </p>
+<p> Pesticides 'making half a million ill' </p>
+<p> 25 Aug 2010 </p>
+<p> Truancies from primary schools increase </p>
+<p> 20 Nov 2011 </p>
+<p> Schools must engage pupils better, warns Michael Gove's behaviour tsar </p>
+<p> Printable version </p>
+<p> Send to a friend </p>
+<p> Share </p>
+<p> Clip </p>
+<p> Contact us </p>
+<p> Article history </p>
+<p> Email </p>
+<p> Close </p>
+<p> Recipient's email address </p>
+<p> Your first name </p>
+<p> Your surname </p>
+<p> Add a note (optional) </p>
+<p> Your IP address will be logged </p>
+<p> Share </p>
+<p> Close </p>
+<p> Short link for this page: </p>
+<p> http://gu.com/p/343k4 </p>
+<p> StumbleUpon </p>
+<p> reddit </p>
+<p> Tumblr </p>
+<p> Digg </p>
+<p> LinkedIn </p>
+<p> Google Bookmarks </p>
+<p> del.icio.us </p>
+<p> livejournal </p>
+<p> Facebook </p>
+<p> Twitter </p>
+<p> Contact us </p>
+<p> Close </p>
+<p> Contact the Society editor </p>
+<p> editor@societyguardian.co.uk </p>
+<p> Report errors or inaccuracies: </p>
+<p> reader@guardian.co.uk </p>
+<p> Letters for publication should be sent to: </p>
+<p> letters@guardian.co.uk </p>
+<p> If you need help using the site: </p>
+<p> userhelp@guardian.co.uk </p>
+<p> Call the main Guardian and Observer switchboard: </p>
+<p> +44 (0)20 3353 2000 </p>
+<p> Advertising guide </p>
+<p> License/buy our content </p>
+<p> About this article </p>
+<p> Close </p>
+<p> Study warns of higher ME rates among pupils </p>
+<p> This article was published on </p>
+<p> guardian.co.uk </p>
+<p> at </p>
+<p> 23.30 GMT on Monday 12 December 2011 </p>
+<p> .  					   	A version appeared  on p14 of the </p>
+<p> Main section </p>
+<p> section of </p>
+<p> the Guardian </p>
+<p> on </p>
+<p> Tuesday 13 December 2011 </p>
+<p> .  					   	It was last modified at </p>
+<p> 00.39 GMT on Tuesday 13 December 2011 </p>
+<p> . </p>
+<p> google_ad_client = 'ca-guardian_js'; google_ad_channel = 'society'; </p>
+<p> google_max_num_ads = '3'; </p>
+<p> //<![CDATA[ 			if (true) { 					  writeScript("http://pagead2.googlesyndication.com/pagead/show_ads.js", false, function(){}); 			} 		// ]]> </p>
+<p> Find the latest jobs in your sector: </p>
+<p> Arts & heritage </p>
+<p> Charities </p>
+<p> Education </p>
+<p> Environment </p>
+<p> Government </p>
+<p> Graduate </p>
+<p> Health </p>
+<p> Marketing & PR </p>
+<p> Media </p>
+<p> Sales </p>
+<p> Senior executive </p>
+<p> Social care </p>
+<p> Browse all jobs </p>
+<p> Team Manager, Early Intervention & Youth Development </p>
+<p> North London | £42,015 - £48,060 </p>
+<p> HARROW COUNCIL </p>
+<p> #query-trailblock li {border-top: 1px solid #929292; margin-bottom: 16px;} 	#query-trailblock li h2 {font-size: 1.4em; margin: 0 0 4px;} 	#query-trailblock li:last-child {margin-bottom: 0; border-top: 1px dotted #929292;} 	#query-trailblock li:last-child h2 {margin-top: 10px; font-size: 12px; font-family: sans-serif;} 	#query-trailblock .strapline {border-bottom: 1px dotted #929292; font-weight: bold; padding: 5px 0 5px; margin-bottom: 5px;} 	#query-trailblock .trail-comment-count {padding-top: 3px;} </p>
+<p> Healthcare Network </p>
+<p> Technology key to 'new model' of NI health and social care </p>
+<p> Northern Ireland to introduce e-patient records and expand telehealth and telecare as part of its shake up of health and social care </p>
+<p> Healthcare Network </p>
+<p> Achieving foundation status a 'tall order' for many NHS trusts </p>
+<p> Financial and leadership problems are among the obstacles preventing NHS trusts from gaining foundation status, sayMPs </p>
+<p> More from our Healthcare Network </p>
+<p> .m-zeitgeist .bd { float: left } /* for the IE6 lols */   .m-zeitgeist .hd { padding-bottom: 0px; margin-bottom: -12px}   .m-zeitgeist .hd h2 { padding-bottom: 12px; }   .m-zeitgeist #att-panes { background-color: #fff; float: left; } 	.m-zeitgeist .att-toggle-pane { min-width:280px; }   .m-zeitgeist ol { padding: 0 5px; }   .m-zeitgeist #most-zeitgeist ol { padding-left: 0; }   .m-zeitgeist .zg-date { color: #D61D00; padding-left:5px; padding-top: 5px; }   .m-zeitgeist ol li { clear: both; padding-left: 15px; }   .m-zeitgeist div#att-most-viewed ol li.l1,   .m-zeitgeist div#att-latest ol li.l1 { padding-bottom: 9px !important; }   .m-zeitgeist ol li.footer { clear: both; padding-left: 0px !important; padding-top: 5px !important; }   .m-zeitgeist .rank { float: left; margin-left: -15px; }   .m-zeitgeist .kicker { font-weight: bold; }   .m-zeitgeist ol li.thumb { padding-left: 0; }   .m-zeitgeist ol li.thumb .rank { margin-left: 0; }   .m-zeitgeist ol li img { float: left; margin: 0 10px 3px 0; }      .m-zeitgeist #most-zeitgeist ol li { border-top: none; padding: 0; border-top: none; }     .m-zeitgeist #most-zeitgeist ol li .zeit-link {background-color: #fff; padding: 5px 0 9px 5px; border-top: 1px dotted #999; margin-bottom: 0px;  }     .m-zeitgeist #most-zeitgeist ol li.footer { border-top:1px dotted #999; padding: 5px 0 9px 10px; margin-left: 5px }     .m-zeitgeist #most-zeitgeist .m-zeigeist ol { padding-left: 0}      /* zeit-up */   .m-zeitgeist #most-zeitgeist .what-is { float: none; padding: 0 3px; vertical-align: middle; cursor: pointer; }   .about-zeit { position: relative; }   .zeit-popup { position: absolute; display: none; background-color: #dbedf3; color: #333; padding: 6px; width: 200px; }      .fade-1 { border-left: 5px solid #801100 !important;} .fade-2 { border-left: 5px solid #95382A !important;} .fade-3 { border-left: 5px solid #AA5F54 !important;} .fade-4 { border-left: 5px solid #BF867E !important;} .fade-5 { border-left: 5px solid #D4ADA8 !important;}  .m-zeitgeist div.hd { padding-bottom: 0; } .m-zeitgeist.most-viewed div.hd { padding-bottom: 7px; } </p>
+<p> jQ(function($){$('.about-zeit').each(function(){var distance=-10;var time=250;var hideDelay=500;var hideDelayTimer=null;var beingShown=false;var shown=false;var trigger=$('.what-is',this);var info=$('.zeit-popup',this).css('opacity',0);$([trigger.get(0),info.get(0)]).mouseover(function(){if(hideDelayTimer)clearTimeout(hideDelayTimer);if(beingShown||shown){return;}else{beingShown=true;info.css({top:-97,right:0,display:'block'}).animate({top:'-='+distance+'px',opacity:1},time,'swing',function(){beingShown=false;shown=true;});}return false;}).mouseout(function(){if(hideDelayTimer)clearTimeout(hideDelayTimer);hideDelayTimer=setTimeout(function(){hideDelayTimer=null;info.animate({top:'-='+distance+'px',opacity:0},time,'swing',function(){shown=false;info.css('display','none');});},hideDelay);return false;});});}); </p>
+<p> On Society </p>
+<p> Most viewed </p>
+<p> Zeitgeist </p>
+<p> Latest </p>
+<p> Last 24 hours </p>
+<p> 1. </p>
+<p> Housing benefit cuts defeated by House of Lords in welfare reform vote </p>
+<p> 2. </p>
+<p> Me? Competitive? I can't help it – I'm almost 50 </p>
+<p> 3. </p>
+<p> Cameron puts £400m into helping families out of 'responsibility deficit' </p>
+<p> 4. </p>
+<p> David Cameron unveils £448m plan to help 'problem families' </p>
+<p> 5. </p>
+<p> How can rising suicide rates be reversed in the face of cuts to mental health services? </p>
+<p> More most viewed </p>
+<p> Last 24 hours </p>
+<p> David Cameron unveils £448m plan to help 'problem families' </p>
+<p> Society daily 15.12.11 </p>
+<p> Tomorrow's People - Guardian Christmas charity appeal video </p>
+<p> How can rising suicide rates be reversed in the face of cuts to mental health services? </p>
+<p> Housing benefit cuts defeated by House of Lords in welfare reform vote </p>
+<p> More zeitgeist </p>
+<p> What is Zeitgeist? </p>
+<p> Zeitgeist is an experiment in showing trending news, topics and articles from the Guardian. Find out more in </p>
+<p> our blog post </p>
+<p> . </p>
+<p> Last 24 hours </p>
+<p> 1. </p>
+<p> Premature baby in California third smallest in world to survive </p>
+<p> 2. </p>
+<p> Christmas charity appeal: Guardian and Observer writers take to the phones </p>
+<p> 3. </p>
+<p> Five community organisations win Guardian Charity Awards </p>
+<p> 4. </p>
+<p> Assisted suicide: GMC to draw up new advice </p>
+<p> 5. </p>
+<p> David Cameron unveils £448m plan to help 'problem families' </p>
+<p> All today's stories </p>
+<p> SocietyGuardian on Twitter </p>
+<p> Latest news, views and links from the SocietyGuardian team </p>
+<p> patrickjbutler: </p>
+<p> Cameron unveils £448m plan to help 'problem families' </p>
+<p> http://t.co/lflZ3xUj </p>
+<p> << largely based on Labour's family intervention model </p>
+<p> #localgov </p>
+<p> about 10 minutes ago </p>
+<p> pollycurtis: </p>
+<p> IPPR: £450m for family intervention projects will cover 20k-25k families for 4 years, missing government's 120k target (via </p>
+<p> @alantravis40) </p>
+<p> about 3 hours, 55 minutes ago </p>
+<p> sarahboseley: </p>
+<p> Global health funding so far weathering the economic storm </p>
+<p> http://t.co/j1NIBwbD </p>
+<p> about 3 hours, 59 minutes ago </p>
+<p> • </p>
+<p> Read more tweets from our Society team </p>
+<p> • </p>
+<p> Follow our Society team on a Twitter list </p>
+<p> Bestsellers from the Guardian shop </p>
+<p> The Killing: Series 1 on DVD </p>
+<p> Save £27 on the RRP. </p>
+<p> Revisit the first series of the Danish murder mystery TV hit before season 2 starts in autumn. </p>
+<p> From: £32.99 </p>
+<p> Visit the Guardian reader offers shop </p>
+<p> See all offers and services from the Guardian </p>
+<p> .m-guardianbookshop .rank { float: left; margin-left: -15px; } 	.m-guardianbookshop .thumb .rank { margin-left: 0; } 	.m-guardianbookshop h4 { border-top: none !important; font-weight: bold; margin-left: 5px !important; padding: 5px 0 8px 0 !important; } 	.m-guardianbookshop .bestsellers { background-color: #fff; padding-bottom: 17px;} 	.m-guardianbookshop ol { padding: 0 5px; } 	.m-guardianbookshop .l1 { clear: both; padding-left: 15px; } 	.m-guardianbookshop .thumb { padding-left: 0; } 	.m-guardianbookshop .thumb img { float: left; margin: 2px 10px 9px 0;} 	.m-guardianbookshop .price { display: inline; } 	.m-guardianbookshop .thumb .price { display: block; } 	.m-guardianbookshop .rank, .m-guardianbookshop .book-title { font-weight: bold; } 	.m-guardianbookshop input { border: 1px solid #999; width: 75%; min-height: 16px; margin-top: 8px; padding: 3px 2px;} </p>
+<p> This week's bestsellers </p>
+<p> 1. </p>
+<p> Secret Life of Bletchley Park </p>
+<p> by Sinclair McKay </p>
+<p> £8.99 </p>
+<p> 2. </p>
+<p> How to be a Woman </p>
+<p> by Caitlin Moran </p>
+<p> £11.99 </p>
+<p> 3. </p>
+<p> My Horse Warrior </p>
+<p> by Jack Seely </p>
+<p> £14.99 </p>
+<p> 4. </p>
+<p> All Hell Let Loose </p>
+<p> by Max Hastings </p>
+<p> £30.00 </p>
+<p> 5. </p>
+<p> Thinking Fast and Slow </p>
+<p> by Daniel Kahneman </p>
+<p> £25.00 </p>
+<p> Search the Guardian bookshop </p>
+<p> Search </p>
+<p> Sponsored feature </p>
+<p> function showSponsoredFeaturex31(){                     if (window.sponJSON) {                         if(typeof(sponJSON) === 'object') {                           adx31 = sponJSON;                           var node = jQ('.json-features.x31');                           convertJSONtoAd(                               node.find('img:first-child'),                               node.find('a.t6'),                               node.find('p:last-child'),                               adx31,                               node.find('.hd').children().eq(0),                               'x31'                           );                         }                     }                 }                                  jQ(document).ready(function(){                     jQ('.x31-script-placeholder').writeCapture().replaceWith('<script>showSponsoredFeaturex31()<' + '/script>')                 }) </p>
+<p> Related information </p>
+<p> Education </p>
+<p> Schools </p>
+<p> · </p>
+<p> Truancy </p>
+<p> · </p>
+<p> Pupil behaviour </p>
+<p> UK news </p>
+<p> Society </p>
+<p> Chronic fatigue syndrome </p>
+<p> · </p>
+<p> Children </p>
+<p> · </p>
+<p> Health </p>
+<p> Pupils skip school for holidays </p>
+<p> 31 Jul 2008 </p>
+<p> Truancy rates have fallen, but children who skip school are increasingly on family holidays, government figures revealed today </p>
+<p> 9 Feb 2005 </p>
+<p> Children 'learn more from holidays' </p>
+<p> 12 Jun 2003 </p>
+<p> Primary pupils admit playing truant </p>
+<p> 27 Nov 2008 </p>
+<p> Truancy: Number of parents jailed trebles </p>
+<p> 22 Sep 2005 </p>
+<p> Parents face jail  as ministers target rising truancy </p>
+<p> Truancy rates on the rise </p>
+<p> 20 Oct 2009 </p>
+<p> More children are missing lessons despite tough line from schools </p>
+<p> License/buy our content </p>
+<p> | </p>
+<p> Privacy policy </p>
+<p> | </p>
+<p> Terms & conditions </p>
+<p> | </p>
+<p> Advertising guide </p>
+<p> | </p>
+<p> Accessibility </p>
+<p> | </p>
+<p> A-Z index </p>
+<p> | </p>
+<p> Inside the Guardian blog </p>
+<p> | </p>
+<p> About us </p>
+<p> | </p>
+<p> Work for us </p>
+<p> | </p>
+<p> Join our dating site today </p>
+<p> © 2011 Guardian News and Media Limited or its affiliated companies. All rights reserved. </p>
+<p> .ten-col .important-story {      border-bottom-color: #fff !important;  } </p>
+<p> //<![CDATA[ 	if(true) { 		var s_account="guardiangu-society,guardiangu-network"; 		writeScript('http://static.guim.co.uk/static/b5c4e8d780aa8be3b8dd5e21c7bbe4b6245fb74c/common/scripts/omniture-H.22.4.js', false, function(){}); 	} 	//]]> </p>
+<p> //<![CDATA[ 	if(true) { 		if (false) { 		    s.pageName = document.title; 		} else { 			s.pageName="Study warns of higher ME rates among pupils:Article:1675786"; 		} 		s.channel = "Society"; 		s.pageType=""; 		s.server='01'; 		s.prop2='GUID:(none)';  					s['prop3']="Guardian"; 					s['prop4']="Chronic fatigue syndrome (Society),Schools,Truancy,Children (Society),Society,Education,UK news,Pupil behaviour,Health (Society)"; 					s['prop5']="Society Weekly,Not commercially useful,Education Weekly Education,Health Society,Health,Children Society,Schools Education"; 					s['prop6']="Denis Campbell"; 					s['prop7']="11-Dec-13"; 					s['prop8']="1675786"; 					s['prop9']="Article"; 					s['prop10']="News"; 					s['prop11']="Society"; 					s['prop13']=""; 					s['prop25']=""; 					s['prop30']="content"; 		 		s.hier2="GU/Society/Chronic fatigue syndrome"; 		s.events=""; 		s.eVar23="";  		try { 			if (guardian.r2.OmnitureTrackingOverride) { 				new guardian.r2.OmnitureTrackingOverride(s); 			} 		} 		catch(err) { 		}          if(jQ.cookie("GU_OMNITURE") !== null) {             s.events = jQ.cookie("GU_OMNITURE");             jQ.cookie("GU_OMNITURE", null, { path: '/', domain: '.guardian.co.uk'});         }          var s_code=s.t();if(s_code)document.write(s_code); 	} 	//]]> </p>
+<p> var _qevents = _qevents || []; 		(function() { 			var elem = document.createElement('script');  			elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js"; 			elem.async = true; 			elem.type = "text/javascript"; 			var scpt = document.getElementsByTagName('script')[0]; 			scpt.parentNode.insertBefore(elem, scpt); 		})(); 		_qevents.push( { qacct:'p-73ktnlRTKQPTw', labels: 'society'} ); </p>
+<p> var qcResults = function (result) { 				for (var i = 0, len = result.segments.length; i < len; i++) { 					OAS_query += 'qc=' + result.segments[i].id + '&'; 				} 			} </p>
+<p> if (true) {     jQ(document).ready(function () {         jQ('a[data-cpt]').each(             function () {             jQ(this).click(                 function () {                 var cpId = jQ(this).attr('data-cpt').split("-")[1];                 var currentLink = jQ(this).attr('href');                  if (currentLink.indexOf('intcmp=') == -1) {                     if(currentLink.indexOf('?') == -1) {                         var separator = '?'                     } else {                         var separator = '&'                     }                      jQ(this).attr('href', currentLink + separator + "intcmp=" + cpId);                 }             });         });     }); } </p>
+<p> //<![CDATA[ 	if (false) {         // guardian.co.uk Connect Adprobe Tag, MPU [9814], Leaderboard [9815]         var wlOrd = new Date().getTime();         document.write('<scr' + 'ipt type="text/javascript" src="http://req.connect.wunderloop.net/AP/1566/6033/10343/js?cus=10343,10344&ord=' + wlOrd + '"></sc' + 'ript>'); 	} // ]]> </p>
+<p> //<![CDATA[ 	if (false) {         OAS_query += 'wl10343=' + wl10343camp + '&wl10344=' + wl10344camp + '&'; 	} // ]]> </p>
+<p> //<![CDATA[  	if(true) { 		ensurePackage("guardian.r2.revsci");  		guardian.r2.revsci.cookieDomain = '.guardian.co.uk'; 		guardian.r2.revsci.gu_geo_country = '(none)'; 		guardian.r2.revsci.siteName = 'Society'; 					guardian.r2.revsci.commercialFolder = 'Health' 				 		addEvent(null, 'load', function () { 			writeScript('http://js.revsci.net/gateway/gw.js?csid=E05516', true, function() { 				writeScript('http://static.guim.co.uk/static/b5c4e8d780aa8be3b8dd5e21c7bbe4b6245fb74c/common/scripts/revsci.js', true, function() { 					rs_initTracking(); 				}) 			}) 		}); 	}  	// ]]> </p>
+<p> //<![CDATA[ 											function OAS_NORMAL(pos) { 							document.write('<A HREF="' + OAS_url + 'click_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + pos + '!' + pos + '?' + OAS_query + '" TARGET=' + OAS_target + '>'); 							document.write('<IMG SRC="' + OAS_url + 'adstream_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + pos + '!' + pos + '?' + OAS_query + '" BORDER=0></A>'); 						}  						OAS_version = 11; 						if ((navigator.userAgent.indexOf('Mozilla/3') != -1) || (navigator.userAgent.indexOf('Mozilla/4.0 WebTV') != -1)) OAS_version = 10;                          if (true) {                             if (OAS_version >= 11) document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/SCRIPT>');                         }  						function OAS_AD(pos) {                             if (true) {                                 if (typeof(OAS_RICH) !== 'undefined' && OAS_version >= 11) {                                     OAS_RICH(pos);                                 } else {                                     OAS_NORMAL(pos);                                 }                             } 						} 					 				//]]> </p>
+<p> //<![CDATA[                 jQ('#ad-placeholder-Top').writeCapture().replaceWith('<script>OAS_AD("Top")<' + '/script>');                 //]]> </p>
+<p> jQ('#ad-temp-Top').hide(); </p>
+<p> //<![CDATA[                 jQ('#ad-placeholder-Middle2').writeCapture().replaceWith('<script>OAS_AD("Middle2")<' + '/script>');                 //]]> </p>
+<p> jQ('#ad-temp-Middle2').hide(); </p>
+<p> //<![CDATA[                 jQ('#ad-placeholder-Right1').writeCapture().replaceWith('<script>OAS_AD("Right1")<' + '/script>');                 //]]> </p>
+<p> jQ('#ad-temp-Right1').hide(); </p>
+<p> //<![CDATA[                 jQ('#ad-placeholder-x31').writeCapture().replaceWith('<script>OAS_AD("x31")<' + '/script>');                 //]]> </p>
+<p> jQ('#ad-temp-x31').hide(); </p>
+<p> ensurePackage('guardian.r2.omniture'); guardian.r2.omniture.isAvailable = function(){ 			return true; 	} </p>
+<p> //	<![CDATA[ 	if(true) {         var OAS_taxonomy='&Paneled_Site=guardian.co.uk&Paneled_Section=society'; 		jQ(document).ready(function(){ 			jQ.getScript('http://static.guim.co.uk/static/b5c4e8d780aa8be3b8dd5e21c7bbe4b6245fb74c/common/scripts/kantarmedia.js'); 		}); 	} 	// ]]> </p>
+<p> if(true) {         		jQ(function() { 		  if ('undefined' !== typeof MatchingEngine) { 		    MatchingEngine.logEvent('article', 'id=http://www.guardian.co.uk/society/2011/dec/12/chronic-fatigue-syndrome-schools'); 		  } 		}); 	} </p>
+<p> if (true) {         var _sf_async_config = {};         /** CONFIGURATION START **/         _sf_async_config.uid = 30676;         _sf_async_config.domain = document.domain;         _sf_async_config.sections = 'Society';         _sf_async_config.authors = 'Denis Campbell';         /** CONFIGURATION END **/         (function() {             function loadChartbeat() {                 window._sf_endpt = (new Date()).getTime();                 var e = document.createElement('script');                 e.setAttribute('language', 'javascript');                 e.setAttribute('type', 'text/javascript');                 e.setAttribute('src',                         (('https:' == document.location.protocol) ? 'https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/' : 'http://static.chartbeat.com/') +                                 'js/chartbeat.js');                 document.body.appendChild(e);             }              var oldonload = window.onload;             window.onload = (typeof window.onload != 'function') ?                     loadChartbeat : function() {                 oldonload();                 loadChartbeat();             };         })();     } </p>

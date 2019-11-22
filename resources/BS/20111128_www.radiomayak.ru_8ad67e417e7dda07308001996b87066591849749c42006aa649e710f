@@ -1,0 +1,76 @@
+<p> Радио "Маяк" / В День матери Светлана Медведева посетила Перинатальный кардиологический центр </p>
+<p> <!-- if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); } if (typeof(document.referrer) != 'undefined') {   if (typeof(afReferrer) == 'undefined') {     afReferrer = escape(document.referrer);   } } else {   afReferrer = ''; } var addate = new Date();  document.write('<scr' + 'ipt type="text/javascript" src="http://ads.adfox.ru/167410/prepareCode?p1=bdpdq&amp;p2=ekks&amp;pct=a&amp;pfc=a&amp;pfb=a&amp;plp=a&amp;pli=a&amp;pop=a&amp;pr=' + pr +'&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;prr=' + afReferrer + '"><\/scr' + 'ipt>'); // --> </p>
+<p> (function(L){if(typeof(ar_cn)=="undefined")ar_cn=1; var S='setTimeout(function(e){if(!self.CgiHref){document.close();e=parent.document.getElementById("ar_container_"+ar_bnum);e.parentNode.removeChild(e);}},3000);',     j=' type="text/javascript"',t=0,D=document,n=ar_cn;L+=escape(D.referrer||'unknown')+'&rnd='+Math.round(Math.random()*999999999); function _(){if(t++<100){var F=D.getElementById('ar_container_'+n);     if(F){try{var d=F.contentDocument||(window.ActiveXObject&&window.frames['ar_container_'+n].document);     if(d){d.write('<sc'+'ript'+j+'>var ar_bnum='+n+';'+S+'<\/sc'+'ript><sc'+'ript'+j+' src="'+L+'"><\/sc'+'ript>');t=0}     else setTimeout(_,100);}catch(e){try{F.src="javascript:{document.write('<sc'+'ript"+j+">var ar_bnum="+n+"; document.domain=\""     +D.domain+"\";"+S+"<\/sc'+'ript>');document.write('<sc'+'ript"+j+" src=\""+L+"\"><\/sc'+'ript>');}";return}catch(E){}}}else setTimeout(_,100);}} D.write('<div style="visibility:hidden;height:0px;left:-1000px;position:absolute;"><iframe id="ar_container_'+ar_cn     +'" width=1 height=1 marginwidth=0 marginheight=0 scrolling=no frameborder=0><\/iframe><\/div><div id="ad_ph_'+ar_cn     +'" style="display:none;"><\/div>');_();ar_cn++; })('http://ad.adriver.ru/cgi-bin/erle.cgi?sid=171118&target=top&bt=43&pz=0&tail256='); </p>
+<p> // <!--  var vgtrkRekl_login = "radiomayak_770x90.770x90";  var vgtrkRekl_options = "options=T";  var vgtrkRekl_random = Math.round(Math.random() * 100000);  document.write('<iframe src="http://reklama.mb.vesti.ru/cgi-bin/iframe/'+vgtrkRekl_login+'?'+vgtrkRekl_random+'&'+vgtrkRekl_options+'" width="770" height="90" marginwidth="0" marginheight="0" scrolling="no" frameborder="0"><a href="http://reklama.mb.vesti.ru/cgi-bin/href/'+vgtrkRekl_login+'?'+vgtrkRekl_random +' <http://reklama.mb.vesti.ru/cgi-bin/href/'+vgtrkRekl_login+'?'+vgtrkRekl_random%20+'> " target="_top"><img src="http://reklama.mb.vesti.ru/cgi-bin/banner/'+vgtrkRekl_login+'?'+vgtrkRekl_random +'&'+vgtrkRekl_options+' <http://reklama.mb.vesti.ru/cgi-bin/banner/'+vgtrkRekl_login+'?'+vgtrkRekl_random%20+'&'+vgtrkRekl_options+'> " alt="VGTRK" width="770" height="90" border="0" ismap="ismap"></a></iframe>');  // --> </p>
+<p> $(function() {     $(".videoSlider1").jCarouselLite({         circular: true,         visible: 5, 	auto: 1000, 	speed: 1000,         start: 0     }); }); </p>
+<p> <!-- (function(L){if(typeof(ar_cn)=="undefined")ar_cn=1; var S='setTimeout(function(e){if(!self.CgiHref){document.close();e=parent.document.getElementById("ar_container_"+ar_bnum);e.parentNode.removeChild(e);}},3000);',   j=' type="text/javascript"',t=0,D=document,n=ar_cn;L+=escape(D.referrer||'unknown')+'&rnd='+Math.round(Math.random()*999999999); function _(){if(t++<100){var F=D.getElementById('ar_container_'+n);   if(F){try{var d=F.contentDocument||(window.ActiveXObject&&window.frames['ar_container_'+n].document);   if(d){d.write('<sc'+'ript'+j+'>var ar_bnum='+n+';'+S+'<\/sc'+'ript><sc'+'ript'+j+' src="'+L+'"><\/sc'+'ript>');t=0}   else setTimeout(_,100);}catch(e){try{F.src="javascript:{document.write('<sc'+'ript"+j+">var ar_bnum="+n+"; document.domain=\""   +D.domain+"\";"+S+"<\/sc'+'ript>');document.write('<sc'+'ript"+j+" src=\""+L+"\"><\/sc'+'ript>');}";return}catch(E){}}}else setTimeout(_,100);}} D.write('<div style="visibility:hidden;height:0px;left:-1000px;position:absolute;"><iframe id="ar_container_'+ar_cn   +'" width=1 height=1 marginwidth=0 marginheight=0 scrolling=no frameborder=0><\/iframe><\/div><div id="ad_ph_'+ar_cn   +'" style="display:none;"><\/div>');_();ar_cn++; })('http://ad.adriver.ru/cgi-bin/erle.cgi?sid=173697&target=blank&bt=49&tail256='); //--> </p>
+<p> var vgtrkRekl_random = Math.round(Math.random() * 100000); document.write("<script src='http://reklama.mb.vesti.ru/cgi-bin/iframe/tgb_rrs?"+vgtrkRekl_random+"&options=FT'></scr"+"ipt>"); </p>
+<p> Сделать стартовой </p>
+<p> Добавить в закладки </p>
+<p> Поиск </p>
+<p> Разделы </p>
+<p> Политика </p>
+<p> Экономика </p>
+<p> Происшествия </p>
+<p> Общество </p>
+<p> Армия </p>
+<p> В мире </p>
+<p> Культура </p>
+<p> Спорт </p>
+<p> Зоны вещания </p>
+<p> НОВОСТИ </p>
+<p> ГОСТИ </p>
+<p> СПОРТ </p>
+<p> ФОРУМЫ </p>
+<p> Радио "Маяк" </p>
+<p> ПРЯМОЙ ЭФИР </p>
+<p> О КОМПАНИИ </p>
+<p> СЕТКА ВЕЩАНИЯ </p>
+<p> ГОРОДА ВЕЩАНИЯ </p>
+<p> ПРОГРАММЫ </p>
+<p> РЕКЛАМНАЯ СЛУЖБА </p>
+<p> СМС-ПОРТАЛ МАЯКА </p>
+<p> 27.11.2011 19:48 "радио "Маяк" " </p>
+<p> В День матери Светлана Медведева посетила Перинатальный кардиологический центр </p>
+<p> Слушать </p>
+<p> Отправить ссылку </p>
+<p> Светлана Медведева в День матери, который сегодня отмечается в России, побывала в Перинатальном кардиологическом центре, действующем в составе Научного центра сердечно-сосудистой хирургии им. Бакулева. </p>
+<p> Супругу президента сопровождал руководитель центра Лео Бокерия. Он показал Светлане Медведевой отделения диагностики, неотложной хирургии и реанимации. Супруга главы государства встретилась с пациентами - беременными женщинами. </p>
+<p> В ходе чаепития Медведева выразила надежду, что со временем вся Россия будет покрыта сетью таких центров. Кроме того, она подарила всем будущим мамам небольшие пояски, освященные на поясе Пресвятой Богородицы. </p>
+<p> Слушать </p>
+<p> Отправить ссылку </p>
+<p> Новости дня </p>
+<p> Загружается, подождите... </p>
+<p> ... </p>
+<p> Скоро на Маяке </p>
+<p> 28.11.2011 19:05 "Шоу "Центральный комитет"" </p>
+<p> Екатерина  Гусева </p>
+<p> актриса. </p>
+<p> Верховный совет </p>
+<p> 29.11.2011 00:08 "Ночное шоу "Первый отряд"" </p>
+<p> Татьяна  Ремезова </p>
+<p> ведущая программы "Вести". </p>
+<p> Рубрика "Свои" </p>
+<p> Загрузка... </p>
+<p> var vgtrkRekl_random = Math.round(Math.random() * 100000);  document.write("<script src='http://reklama.mb.vesti.ru/cgi-bin/iframe/radiomayak3_120x300?"+vgtrkRekl_random+"&options=FT&n=3'></scr"+"ipt>"); </p>
+<p> // <!--  var vgtrkRekl_login = "radiomayak.slot_120x600_verh"; var vgtrkRekl_options = "options=T"; var vgtrkRekl_random = Math.round(Math.random() * 100000); document.write('<iframe src="http://reklama.mb.vesti.ru/cgi-bin/iframe/'+vgtrkRekl_login+'?'+vgtrkRekl_random+'&'+vgtrkRekl_options+'" width="120" height="600" marginwidth="0" marginheight="0" scrolling="no" frameborder="0"><a href="http://reklama.mb.vesti.ru/cgi-bin/href/'+vgtrkRekl_login+'?'+vgtrkRekl_random +'" target="_top"><img src="http://reklama.mb.vesti.ru/cgi-bin/banner/'+vgtrkRekl_login+'?'+vgtrkRekl_random +'&'+vgtrkRekl_options+'" alt="VGTRK" width="120" height="600" border="0" ismap="ismap"></a></iframe>'); // --> </p>
+<p> var vgtrkRekl_random = Math.round(Math.random() * 100000);  document.write("<script src='http://reklama.mb.vesti.ru/cgi-bin/iframe/radiomayak_120x300.shlop?"+vgtrkRekl_random+"&options=FT'></scr"+"ipt>"); </p>
+<p> // <!--  var vgtrkRekl_login = "radiomayak.slot_120x600_niz"; var vgtrkRekl_options = "options=T"; var vgtrkRekl_random = Math.round(Math.random() * 100000); document.write('<iframe src="http://reklama.mb.vesti.ru/cgi-bin/iframe/'+vgtrkRekl_login+'?'+vgtrkRekl_random+'&'+vgtrkRekl_options+'" width="120" height="600" marginwidth="0" marginheight="0" scrolling="no" frameborder="0"><a href="http://reklama.mb.vesti.ru/cgi-bin/href/'+vgtrkRekl_login+'?'+vgtrkRekl_random +'" target="_top"><img src="http://reklama.mb.vesti.ru/cgi-bin/banner/'+vgtrkRekl_login+'?'+vgtrkRekl_random +'&'+vgtrkRekl_options+'" alt="VGTRK" width="120" height="600" border="0" ismap="ismap"></a></iframe>'); // --> </p>
+<p> Наши партнеры </p>
+<p> <!-- function adriverPoster(L){     if(typeof(ar_cn)=="undefined")ar_cn=1;     var W=window,D=document,E=D.documentElement,T=0,N=ar_cn,P=0,C=D.compatMode=="CSS1Compat",         X='<scr'+'ipt type="text/javascript">var ar_bnum='+N+';setTimeout(function(e){if(!self.CgiHref){document.close();e=parent.document.getElementById("ar_container_"+ar_bnum);e.parentNode.removeChild(e)}},3000);',         Y='<\/sc'+'ript><sc'+'ript type="text/javascript" src="'+L+'&tail256='+escape(D.referrer||'unknown')+'&rnd='+Math.round(Math.random()*999999999)+'"><\/sc'+'ript>';     function G(){if(T++<100){var o=D.getElementById('ar_container_'+N);if(o){try{var d=o.contentDocument||(W.ActiveXObject&&W.frames['ar_container_'+N].document);if(d){d.write(X+Y)}else setTimeout(arguments.callee,100)}catch(e){try{o.src = "javascript:{document.write('"+X+'document.domain="'+D.domain+'";'+Y+"')}";return}catch(E){}}}else setTimeout(arguments.callee,100)}}     function A(e,t,f){if(e.addEventListener)e.addEventListener(t,f,false);else if(e.attachEvent)e.attachEvent('on'+t,f)}     function R(e,t,f){if(e.removeEventListener)e.removeEventListener(t,f,false);else if(e.detachEvent)e.detachEvent('on'+t,f)}     function S(){var ch=self.innerHeight||C&&E.clientHeight||D.body.clientHeight,st=self.pageYOffset||C&&E.scrollTop||D.body.scrollTop;if(P>=st&&st+ch>=P){R(W,'scroll',S);G()}}     A(W,'load',function(){var o=D.getElementById('ad_ph_'+N);if(o){while(o.offsetParent){P+=o.offsetTop;o=o.offsetParent}A(W,'scroll',S);S()}});     D.write('<div style="position:absolute;visibility:hidden;height:0px;"><iframe id="ar_container_'+N+'" width=1 height=1 marginwidth=0 marginheight=0 scrolling=no frameborder=0><\/iframe><\/div><div id="ad_ph_'+N+'"><\/div>');     ar_cn++; } adriverPoster("http://ad.adriver.ru/cgi-bin/erle.cgi?sid=166262&target=top&bt=49&pz=0"); //--> </p>
+<p> © 2001-2011, радиокомпания "Маяк". Техническое сопровождение: Дирекция информационных технологий ВГТРК. </p>
+<p> E-mail: </p>
+<p> www@radiomayak.ru </p>
+<p> На сайте функционирует система коррекции ошибок. Обнаружив неточность в тексте, выделите ее </p>
+<p> и нажмите </p>
+<p> Ctrl+Enter. </p>
+<p> u="u168.49.spylog.com";d=document;nv=navigator;na=nv.appName;p=1;  bv=Math.round(parseFloat(nv.appVersion)*100);  n=(na.substring(0,2)=="Mi")?0:1;rn=Math.random(); z="p="+p+"&rn="+rn;y="";  y+="<a href='http://"+u+"/cnt?f=3&p="+p+"&rn="+rn+"' target=_blank>";  y+="<img src='http://"+u+"/cnt?"+z+  "&r="+escape(d.referrer)+ "&pg="+escape(window.location.href)+"' border=0 width=88 height=31 alt='SpyLOG'>";  y+="</a>"; d.write(y); if(!n) { d.write("<"+"!--"); } //--> </p>
+<p> <!--  if(!n) { d.write("--"+">"); }//--> </p>
+<p> <!-- d=document;var a='';a+=';r='+escape(d.referrer) js=10//--> </p>
+<p> <!-- a+=';j='+navigator.javaEnabled() js=11//--> </p>
+<p> <!-- s=screen;a+=';s='+s.width+'*'+s.height a+=';d='+(s.colorDepth?s.colorDepth:s.pixelDepth) js=12//--> </p>
+<p> <!-- js=13//--> </p>
+<p> <!-- d.write('<a href="http://top.mail.ru/jump?from=65166"'+ ' target=_top><img src="http://de.cf.b0.a0.top.list.ru/counter'+ '?id=65166;t=230;js='+js+a+';rand='+Math.random()+ '" alt="пЕИРХМЦ@Mail.ru"'+' border=0 height=31 width=88/><\/a>') if(11<js)d.write('<'+'!-- ')//--> </p>
+<p> <!-- if(11<js)d.write('--'+'>')//--> </p>
+<p> <!-- document.write('<a href="http://www.liveinternet.ru/click" '+ 'target=_blank><img src="http://counter.yadro.ru/hit?t24.2;r'+ escape(document.referrer)+((typeof(screen)=='undefined')?'': ';s'+screen.width+'*'+screen.height+'*'+(screen.colorDepth? screen.colorDepth:screen.pixelDepth))+';u'+escape(document.URL)+ ';'+Math.random()+ '" title="liveinternet.ru" '+ 'border=0 width=88 height=15></a>')//--> </p>
+<p> var vgtrkRekl_random = Math.round(Math.random() * 100000);  document.write("<script src='http://reklama.mb.vesti.ru/cgi-bin/iframe/radiomayak_up?"+vgtrkRekl_random+"&options=FO'></scr"+"ipt>"); </p>

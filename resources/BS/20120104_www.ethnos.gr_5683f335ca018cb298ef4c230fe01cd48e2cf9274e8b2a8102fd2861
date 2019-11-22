@@ -1,0 +1,254 @@
+<p> Νέα Κρήτη - Παγκρήτια εφημερίδα - Το ατέλειωτο πάρτυ της μίζας στις εφορίες και τα τελωνεία </p>
+<p> function timedRefresh(timeoutPeriod) {                 setTimeout("location.reload(true);", timeoutPeriod);             }             document.onload = timedRefresh(900000); </p>
+<p> SA.redirection_mobile({                         mobile_url: "mobile.neakriti.gr/?docid=882054&srvid=96",                         mobile_prefix: "http",                         noredirection_param: "true",                         tablet_redirection: "false"                     }); </p>
+<p> <!-- var theForm = document.forms['Form1']; if (!theForm) {     theForm = document.Form1; } function __doPostBack(eventTarget, eventArgument) {     if (!theForm.onsubmit || (theForm.onsubmit() != false)) {         theForm.__EVENTTARGET.value = eventTarget;         theForm.__EVENTARGUMENT.value = eventArgument;         theForm.submit();     } } // --> </p>
+<p> var addthis_config = { services_expanded: 'facebook, twitter, myspace, google, digg, live, delicious, stumbleupon, more'} </p>
+<p> (function($) {                 $.fn.jshowoff = function(settings) {                     var config = { animatePause: true, autoPlay: true, changeSpeed: 600, controls: true, controlText: { play: 'Play', pause: 'Pause', next: 'Next', previous: 'Previous' }, effect: 'fade', hoverPause: true, links: true, speed: 3000 }; if (settings) $.extend(true, config, settings); if (config.speed < (config.changeSpeed + 20)) { alert('jShowOff: Make speed at least 20ms longer than changeSpeed; the fades aren\'t always right on time.'); return this; }; this.each(function(i) {                         var $cont = $(this); var gallery = $(this).children().remove(); var timer = ''; var counter = 0; var preloadedImg = []; var howManyInstances = $('.jshowoff').length + 1; var uniqueClass = 'jshowoff-' + howManyInstances; var cssClass = config.cssClass != undefined ? config.cssClass : ''; $cont.css('position', 'relative').wrap('<div class="jshowoff ' + uniqueClass + '" />'); var $wrap = $('.' + uniqueClass); $wrap.css('position', 'relative').addClass(cssClass); $(gallery[0]).clone().appendTo($cont); preloadImg(); if (config.controls) { addControls(); if (config.autoPlay == false) { $('.' + uniqueClass + '-play').addClass(uniqueClass + '-paused jshowoff-paused').text(config.controlText.play); }; }; if (config.links) { addSlideLinks(); $('.' + uniqueClass + '-slidelinks a').eq(0).addClass(uniqueClass + '-active jshowoff-active'); }; if (config.hoverPause) { $cont.hover(function() { if (isPlaying()) pause('hover'); }, function() { if (isPlaying()) play('hover'); }); }; if (config.autoPlay && gallery.length > 1) { timer = setInterval(function() { play(); }, config.speed); }; if (gallery.length < 1) { $('.' + uniqueClass).append('<p>For jShowOff to work, the container element must have child elements.</p>'); }; function transitionTo(gallery, index) {                         var oldCounter = counter; if ((counter >= gallery.length) || (index >= gallery.length)) { counter = 0; var e2b = true; }                                                          else if ((counter < 0) || (index < 0)) { counter = gallery.length - 1; var b2e = true; }                             else { counter = index; }                             if (config.effect == 'slideLeft') { var newSlideDir, oldSlideDir; function slideDir(dir) { newSlideDir = dir == 'right' ? 'left' : 'right'; oldSlideDir = dir == 'left' ? 'left' : 'right'; }; counter >= oldCounter ? slideDir('left') : slideDir('right'); $(gallery[counter]).clone().appendTo($cont).slideIt({ direction: newSlideDir, changeSpeed: config.changeSpeed }); if ($cont.children().length > 1) { $cont.children().eq(0).css('position', 'absolute').slideIt({ direction: oldSlideDir, showHide: 'hide', changeSpeed: config.changeSpeed }, function() { $(this).remove(); }); }; } else if (config.effect == 'fade') { $(gallery[counter]).clone().appendTo($cont).hide().fadeIn(config.changeSpeed, function() { if ($.browser.msie) this.style.removeAttribute('filter'); }); if ($cont.children().length > 1) { $cont.children().eq(0).css('position', 'absolute').fadeOut(config.changeSpeed, function() { $(this).remove(); }); }; } else if (config.effect == 'none') { $(gallery[counter]).clone().appendTo($cont); if ($cont.children().length > 1) { $cont.children().eq(0).css('position', 'absolute').remove(); }; }; if (config.links) { $('.' + uniqueClass + '-active').removeClass(uniqueClass + '-active jshowoff-active'); $('.' + uniqueClass + '-slidelinks a').eq(counter).addClass(uniqueClass + '-active jshowoff-active'); };                         }; function isPlaying() { return $('.' + uniqueClass + '-play').hasClass('jshowoff-paused') ? false : true; }; function play(src) {                             if (!isBusy()) {                                 counter++; transitionTo(gallery, counter); if (src == 'hover' || !isPlaying()) { timer = setInterval(function() { play(); }, config.speed); }                                 if (!isPlaying()) { $('.' + uniqueClass + '-play').text(config.controlText.pause).removeClass('jshowoff-paused ' + uniqueClass + '-paused'); }                              };                         }; function pause(src) { clearInterval(timer); if (!src || src == 'playBtn') $('.' + uniqueClass + '-play').text(config.controlText.play).addClass('jshowoff-paused ' + uniqueClass + '-paused'); if (config.animatePause && src == 'playBtn') { $('<p class="' + uniqueClass + '-pausetext jshowoff-pausetext">' + config.controlText.pause + '</p>').css({ fontSize: '62%', textAlign: 'center', position: 'absolute', top: '40%', lineHeight: '100%', width: '100%' }).appendTo($wrap).addClass(uniqueClass + 'pauseText').animate({ fontSize: '600%', top: '30%', opacity: 0 }, { duration: 500, complete: function() { $(this).remove(); } }); } }; function next() { goToAndPause(counter + 1); }; function previous() { goToAndPause(counter - 1); }; function isBusy() { return $cont.children().length > 1 ? true : false; }; function goToAndPause(index) { $cont.children().stop(true, true); if ((counter != index) || ((counter == index) && isBusy())) { if (isBusy()) $cont.children().eq(0).remove(); transitionTo(gallery, index); pause(); }; }; function preloadImg() { $(gallery).each(function(i) { $(this).find('img').each(function(i) { preloadedImg[i] = $('<img>').attr('src', $(this).attr('src')); }); }); }; function addControls() { $wrap.append('<p class="jshowoff-controls ' + uniqueClass + '-controls"><a class="jshowoff-play ' + uniqueClass + '-play" href="#null">' + config.controlText.pause + '</a> <a class="jshowoff-prev ' + uniqueClass + '-prev" href="#null">' + config.controlText.previous + '</a> <a class="jshowoff-next ' + uniqueClass + '-next" href="#null">' + config.controlText.next + '</a></p>'); $('.' + uniqueClass + '-controls a').each(function() { if ($(this).hasClass('jshowoff-play')) $(this).click(function() { isPlaying() ? pause('playBtn') : play(); return false; }); if ($(this).hasClass('jshowoff-prev')) $(this).click(function() { previous(); return false; }); if ($(this).hasClass('jshowoff-next')) $(this).click(function() { next(); return false; }); }); }; function addSlideLinks() { $wrap.append('<p class="jshowoff-slidelinks ' + uniqueClass + '-slidelinks"></p>'); $.each(gallery, function(i, val) { var linktext = $(this).attr('title') != '' ? $(this).attr('title') : i + 1; $('<a class="jshowoff-slidelink-' + i + ' ' + uniqueClass + '-slidelink-' + i + '" href="#null">' + linktext + '</a>').bind('click', { index: i }, function(e) { goToAndPause(e.data.index); return false; }).appendTo('.' + uniqueClass + '-slidelinks'); }); };                     }); return this;                     };                 })(jQuery); (function($) { $.fn.slideIt = function(settings, callback) { var config = { direction: 'left', showHide: 'show', changeSpeed: 600 }; if (settings) $.extend(config, settings); this.each(function(i) { $(this).css({ left: 'auto', right: 'auto', top: 'auto', bottom: 'auto' }); var measurement = (config.direction == 'left') || (config.direction == 'right') ? $(this).outerWidth() : $(this).outerHeight(); var startStyle = {}; startStyle['position'] = $(this).css('position') == 'static' ? 'relative' : $(this).css('position'); startStyle[config.direction] = (config.showHide == 'show') ? '-' + measurement + 'px' : 0; var endStyle = {}; endStyle[config.direction] = config.showHide == 'show' ? 0 : '-' + measurement + 'px'; $(this).css(startStyle).animate(endStyle, config.changeSpeed, callback); }); return this; }; })(jQuery); </p>
+<p> $(document).ready(function() { }); </p>
+<p> menuCurrentId = 0; 					function VerticalMenu(current,child,image) 					{ 						menuCurrentId  = current; 				         						if (child+'' != '0' && false==false) 						{ 							childMenu = document.getElementById(''+child+'');                             image = document.getElementById(''+image+''); 				             							if (childMenu) 							{ 								if (childMenu.style.display == 'none') 								{ 									childMenu.style.display = 'block'; 									childMenu.style.visibility = 'visible';                                     image.src = 'img/main/links-bullet.gif'; 								} 								else 								{ 									childMenu.style.display = 'none'; 									childMenu.style.visibility = 'hidden';                                     image.src = 'img/main/links_bullet.gif'; 								} 							} 						} 					} </p>
+<p> <!-- var __cultureInfo = '{"name":"el-GR","numberFormat":{"CurrencyDecimalDigits":2,"CurrencyDecimalSeparator":",","IsReadOnly":true,"CurrencyGroupSizes":[3],"NumberGroupSizes":[3],"PercentGroupSizes":[3],"CurrencyGroupSeparator":".","CurrencySymbol":"€","NaNSymbol":"μη αριθμός","CurrencyNegativePattern":8,"NumberNegativePattern":1,"PercentPositivePattern":1,"PercentNegativePattern":1,"NegativeInfinitySymbol":"-Άπειρο","NegativeSign":"-","NumberDecimalDigits":2,"NumberDecimalSeparator":",","NumberGroupSeparator":".","CurrencyPositivePattern":3,"PositiveInfinitySymbol":"Άπειρο","PositiveSign":"+","PercentDecimalDigits":2,"PercentDecimalSeparator":",","PercentGroupSeparator":".","PercentSymbol":"%","PerMilleSymbol":"‰","NativeDigits":["0","1","2","3","4","5","6","7","8","9"],"DigitSubstitution":1},"dateTimeFormat":{"AMDesignator":"πμ","Calendar":{"MinSupportedDateTime":"\/Date(-62135596800000)\/","MaxSupportedDateTime":"\/Date(253402293599999)\/","AlgorithmType":1,"CalendarType":1,"Eras":[1],"TwoDigitYearMax":2029,"IsReadOnly":true},"DateSeparator":"/","FirstDayOfWeek":1,"CalendarWeekRule":0,"FullDateTimePattern":"dddd, d MMMM yyyy h:mm:ss tt","LongDatePattern":"dddd, d MMMM yyyy","LongTimePattern":"h:mm:ss tt","MonthDayPattern":"dd MMMM","PMDesignator":"μμ","RFC1123Pattern":"ddd, dd MMM yyyy HH\u0027:\u0027mm\u0027:\u0027ss \u0027GMT\u0027","ShortDatePattern":"d/M/yyyy","ShortTimePattern":"h:mm tt","SortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd\u0027T\u0027HH\u0027:\u0027mm\u0027:\u0027ss","TimeSeparator":":","UniversalSortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd HH\u0027:\u0027mm\u0027:\u0027ss\u0027Z\u0027","YearMonthPattern":"MMMM yyyy","AbbreviatedDayNames":["Κυρ","Δευ","Τρι","Τετ","Πεμ","Παρ","Σαβ"],"ShortestDayNames":["Κυ","Δε","Τρ","Τε","Πε","Πα","Σά"],"DayNames":["Κυριακή","Δευτέρα","Τρίτη","Τετάρτη","Πέμπτη","Παρασκευή","Σάββατο"],"AbbreviatedMonthNames":["Ιαν","Φεβ","Μαρ","Απρ","Μαϊ","Ιουν","Ιουλ","Αυγ","Σεπ","Οκτ","Νοε","Δεκ",""],"MonthNames":["Ιανουάριος","Φεβρουάριος","Μάρτιος","Απρίλιος","Μάιος","Ιούνιος","Ιούλιος","Αύγουστος","Σεπτέμβριος","Οκτώβριος","Νοέμβριος","Δεκέμβριος",""],"IsReadOnly":true,"NativeCalendarName":"Γρηγοριανό Ημερολόγιο","AbbreviatedMonthGenitiveNames":["Ιαν","Φεβ","Μαρ","Απρ","Μαϊ","Ιουν","Ιουλ","Αυγ","Σεπ","Οκτ","Νοε","Δεκ",""],"MonthGenitiveNames":["Ιανουαρίου","Φεβρουαρίου","Μαρτίου","Απριλίου","Μαΐου","Ιουνίου","Ιουλίου","Αυγούστου","Σεπτεμβρίου","Οκτωβρίου","Νοεμβρίου","Δεκεμβρίου",""]}}';// --> </p>
+<p> <!-- function WebForm_OnSubmit() { if (typeof(ValidatorOnSubmit) == "function" && ValidatorOnSubmit() == false) return false; return true; } // --> </p>
+<p> window.___gcfg = { lang: 'el' };                      (function() {                         var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;                         po.src = 'https://apis.google.com/js/plusone.js';                         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);                     })(); </p>
+<p> Ηράκλειο, 12.2-19.4 </p>
+<p> ο </p>
+<p> C </p>
+<p> Τετάρτη 10 Απριλίου 2013 </p>
+<p> $(document).ready(function() {         $("ul.sf-menu").superfish({             pathClass: 'current'         });     }); </p>
+<p> ΚΡΗΤΗ </p>
+<p> | </p>
+<p> ΕΛΛΑΔΑ </p>
+<p> | </p>
+<p> ΔΙΕΘΝΗ </p>
+<p> ΓΝΩΜΗ </p>
+<p> ΑΡΘΡΑ </p>
+<p> | </p>
+<p> ΠΑΡΑΠΟΛΙΤΙΚΗ </p>
+<p> | </p>
+<p> ΣΚΙΤΣΑ </p>
+<p> | </p>
+<p> ΣΥΝΕΝΤΕΥΞΕΙΣ </p>
+<p> ΟΙΚΟΝΟΜΙΑ </p>
+<p> ΕΙΔΗΣΕΙΣ </p>
+<p> | </p>
+<p> ΚΡΗΤΗ </p>
+<p> | </p>
+<p> ΕΠΙΧΕΙΡΗΣΕΙΣ </p>
+<p> | </p>
+<p> ΔΙΕΘΝΗ </p>
+<p> | </p>
+<p> ΕΡΓΑΣΙΑΚΑ </p>
+<p> | </p>
+<p> ΑΓΡΟΤΙΚΑ </p>
+<p> | </p>
+<p> ΦΟΡΟΛΟΓΙΑ </p>
+<p> | </p>
+<p> ΧΡΗΜΑΤΙΣΤΗΡΙΟ </p>
+<p> ΠΟΛΙΤΙΣΜΟΣ </p>
+<p> ΕΙΔΗΣΕΙΣ </p>
+<p> | </p>
+<p> ΒΙΒΛΙΟ </p>
+<p> | </p>
+<p> ΤΕΧΝΕΣ </p>
+<p> | </p>
+<p> ΠΟΛΙΤΙΣΤΙΚΟΙ ΣΥΛΛΟΓΟΙ </p>
+<p> ΠΕΡΙΒΑΛΛΟΝ </p>
+<p> ΤΕΧΝΟΛΟΓΙΑ </p>
+<p> ΔΙΑΔΙΚΤΥΟ </p>
+<p> | </p>
+<p> GADGETS </p>
+<p> ΠΟΔΟΣΦΑΙΡΟ </p>
+<p> | </p>
+<p> ΜΠΑΣΚΕΤ </p>
+<p> | </p>
+<p> ΜΗΧΑΝΟΚΙΝΗΤΑ ΣΠΟΡ </p>
+<p> | </p>
+<p> ΑΛΛΑ ΣΠΟΡ </p>
+<p> | </p>
+<p> ΣΤΟΙΧΗΜΑ </p>
+<p> | </p>
+<p> BΑΘΜΟΛΟΓΙΕΣ </p>
+<p> ΕΝΤΥΠO PDF </p>
+<p> H ΕΦΗΜΕΡΙΔΑ ΣΕ PDF </p>
+<p> | </p>
+<p> ΕΝΘΕΤΑ  ΣΕ PDF </p>
+<p> | </p>
+<p> ΗΛΕΚΤΡΟΝΙΚΟ ΑΡΧΕΙΟ </p>
+<p> ΜΕDIA </p>
+<p> $(document).ready(function() {         $("ul.sf-menu").superfish({             pathClass: 'current'         });     }); </p>
+<p> LIFESTYLE </p>
+<p> ΖΩΗ </p>
+<p> | </p>
+<p> ΠΟΛΗ </p>
+<p> | </p>
+<p> ΠΑΡΑΞΕΝΑ </p>
+<p> | </p>
+<p> ΚΟΥΣ ΚΟΥΣ </p>
+<p> ΕΚΠΑΙΔΕΥΣΗ </p>
+<p> ΠΑΝΕΠΙΣΤΗΜΙΟ ΚΡΗΤΗΣ </p>
+<p> | </p>
+<p> ΙΔΡΥΜΑ ΤΕΧΝΟΛΟΓΙΑΣ & ΕΡΕΥΝΑΣ </p>
+<p> | </p>
+<p> ΦΟΙΤΗΤΕΣ </p>
+<p> ΥΓΕΙΑ </p>
+<p> ΔΙΑΤΡΟΦΗ </p>
+<p> | </p>
+<p> ΕΥΕΞΙΑ </p>
+<p> ΓΥΝΑΙΚΑ </p>
+<p> ΟΜΟΡΦΙΑ </p>
+<p> | </p>
+<p> FASHION </p>
+<p> | </p>
+<p> SHOPPING </p>
+<p> | </p>
+<p> ΜΑΓΕΙΡΙΚΗ </p>
+<p> | </p>
+<p> ΟΙΚΟΓΕΝΕΙΑ </p>
+<p> | </p>
+<p> ΠΑΙΔΙ </p>
+<p> ΤΑΞΙΔΙΑ </p>
+<p> ΣΤΗΝ ΚΡΗΤΗ </p>
+<p> | </p>
+<p> ΣΤΗΝ ΕΛΛΑΔΑ </p>
+<p> | </p>
+<p> ΣΤΟ ΕΞΩΤΕΡΙΚΟ </p>
+<p> ΨΥΧΑΓΩΓΙΑ </p>
+<p> CINEMA </p>
+<p> | </p>
+<p> ΜΟΥΣΙΚΗ </p>
+<p> | </p>
+<p> ΕVENTS </p>
+<p> | </p>
+<p> ΕΞΟΔΟΣ </p>
+<p> | </p>
+<p> AGENDA </p>
+<p> ΑUTOMOTO </p>
+<p> AYTOKINHTO </p>
+<p> | </p>
+<p> ΜΟΤΟΣΙΚΛΕΤΑ </p>
+<p> | </p>
+<p> ΧΙΛΙΟΜΕΤΡΙΚΕΣ ΑΠΟΣΤΑΣΕΙΣ </p>
+<p> ΧΡΗΣΙΜΑ </p>
+<p> Ο ΚΑΙΡΟΣ </p>
+<p> | </p>
+<p> ΑΓΓΕΛΙΕΣ </p>
+<p> | </p>
+<p> ΕΦΗΜΕΡΙΕΣ </p>
+<p> | </p>
+<p> ΠΤΗΣΕΙΣ </p>
+<p> | </p>
+<p> ΠΛΟΙΑ </p>
+<p> | </p>
+<p> TV ΠΡΟΓΡΑΜΜΑ </p>
+<p> | </p>
+<p> ΩΡΟΣΚΟΠΙΟ </p>
+<p> | </p>
+<p> Newsletters </p>
+<p> | </p>
+<p> Newsdesk </p>
+<p> | </p>
+<p> ΝΕΑ ΚΡΗΤΗ ΜΟΒΙLE </p>
+<p> .NA_NewsItem_HomeHeadline__ctl13 {     color:#1f3e65;     font-size: 18px;     font-weight:bold; }  .NA_NewsItem_DateTime__ctl13 {     color:#666666;     font-size: 12px; } a.NA_NewsItem_HomeHeadline_List__ctl13:link  {     color:			#333333;      font-size:		16px; }        a.NA_NewsItem_HomeHeadline__ctl13:link  { 	color:#1f3e65;     font-size: 18px;     font-weight:bold; }       a.NA_NewsItem_HomeHeadline__ctl13:visited  { 	color:#1f3e65;     font-size: 18px;     font-weight:bold; }   a.NA_NewsItem_HomeHeadline__ctl13:hover  { 	color:#cc0000;     font-size: 18px;     font-weight:bold;     text-decoration:underline; }   a.NA_NewsItem_HomeHeadline__ctl13:active  { 	color:#cc0000;     font-size: 18px;     font-weight:bold; } a.NA_NewsItem_Relevant_Link__ctl13:link  {     color:			#333333;      font-size:		12px;     background-color:Transparent; } a.NA_NewsItem_Relevant_Link__ctl13:visited  {     color:			#333333;      font-size:		12px;     background-color:Transparent; }   a.NA_NewsItem_Relevant_Link__ctl13:hover  {     color:			#e40d21;      font-size:		12x;     background-color:Transparent; }   a.NA_NewsItem_Relevant_Link__ctl13:active  {     color:			#e40d21;      font-size:		12px; } .NA_NewsItem_Relevant_Link_bg__ctl13 { 	background-image:url(Files/ImageGallery/new_layout/sxetikes_eidhseis_back.jpg);      background-repeat:repeat-x;     width:600px;     height:37px;     padding-left:5px;     line-height:37px; }  .NA_NewsItem_SxetikesEidiseis_Head__ctl13 { 	color:			#999999;      font-size:		15pt;     font-weight:    bold; } .NA_NewsItem_HomeSubTitle__ctl13 {     color:#666666;     font-size: 12px; } .NA_NewsItem_NAText__ctl13 { 	color:#666666;     font-size: 12px !important;     font-family:Verdana !important; }  .NA_NewsItem_NAText__ctl13 div { 	color:#666666;     font-family:Verdana !important; }  .NA_NewsItem_NAText__ctl13 a { 	color:blue !important;     font-size: 12px !important;     font-family:Verdana !important;     text-decoration:underline !important; }  .NA_NewsItem_NAText__ctl13 div a { 	color:blue !important;     font-size: 12px !important;     font-family:Verdana !important;     text-decoration:underline !important; }  .NA_NewsItem_NAText__ctl13 span { 	color:#666666;     font-family:Verdana !important; }  .NA_NewsItem_NAText__ctl13 span a { 	color:blue !important;     font-size: 12px !important;     font-family:Verdana !important;     text-decoration:underline !important; }  .NA_NewsItem_NAInitiator__ctl13 {      } .NA_NewsItem_PhotoText__ctl13 {     color:#666666;     font-size: 10px;     width:100%; } </p>
+<p> function showPlayer() {                  $('#mediaspace').css('visibility', 'visible');         $('#mediaspace').css('width', '618px');         $('#mediaspace').css('height', '22px');                   if (plyAudioPlayer.view) {             plyAudioPlayer.sendEvent('PLAY');         } else {             setTimeout(startPlayer, 100);         }     }      function startPlayer() {         try {             plyAudioPlayer.sendEvent('PLAY');         }         catch (ex) { }     } </p>
+<p> Το ατέλειωτο πάρτυ της μίζας στις εφορίες και τα τελωνεία </p>
+<p> var cnt = document.getElementById("mediaspace");                             var src = 'JWPlayer/audioplayer.xaml';                             var cfg = {                                 file: '',                                 image: '',                                 height: '20',                                 width: '618',                                 backcolor: '010101',                                 frontcolor: 'cf161c',                                 showdigits: false                             };                             var plyAudioPlayer = new jeroenwijering.Player(cnt, src, cfg); ; </p>
+<p> Απίστευτες αποκαλύψεις για τη δράση των κυκλωμάτων που θησαύριζαν σε βάρος του Δημοσίου. Στις εφορίες κάποιοι υπάλληλοι «άνοιξαν σαμπάνιες», όταν το υπουργείο Οικονομικών εξήγγειλε ρυθμίσεις για περαίωση, ενώ τελωνειακοί εδώ και έναν χρόνο έχουν βραχυκυκλώσει την... </p>
+<p> εγκατάσταση μηχανισμού ελέγχου στα βενζινάδικα για την αποτροπή λαθρεμπορίου καυσίμων. Στον ίδιο «ρυθμό» και στελέχη της Δημοτικής Αστυνομίας που ενέχονται στη μαφία του παραεμπορίου </p>
+<p> Ενα ατέλειωτο πάρτι μίζας στις εφορίες και στα τελωνεία σε βάρος των φορολογουμένων έχει στηθεί από επίορκους υπαλλήλους, όπως αποκαλύπτει δικαστική έρευνα. </p>
+<p> Την ίδια στιγμή, ανώτερο στέλεχος του υπουργείου Ανάπτυξης, Ανταγωνιστικότητας και Ναυτιλίας σε συνομιλία που είχε χθες με δημοσιογράφους αφήνει αιχμές για συμμετοχή υπαλλήλων της Δημοτικής Αστυνομίας μεγάλων δήμων στο παραεμπόριο, ενώ γνωστοποιεί την αντίδραση τελωνειακών και εφοριακών στην εγκατάσταση του συστήματος εισροών - εκροών καυσίμων στα βενζινάδικα, με αποτέλεσμα το λαθρεμπόριο να οργιάζει... </p>
+<p> Πιο συγκεκριμένα η έρευνα των δικαστικών αρχών βγάζει στο φως τη δράση κυκλώματος εφοριακών που «κούρευαν», κατά το δοκούν, τα πρόστιμα περαίωσης. Δικαστική λειτουργός εντόπισε περίπτωση ανώνυμης εταιρείας που πλήρωσε για περαίωση εξαετίας μόλις 20.000 ευρώ έναντι παραβάσεων ύψους 620.000 ευρώ. </p>
+<p> Αποκαλυπτικές είναι και οι καταγγελίες αξιωματούχου του υπουργείου Ανάπτυξης, σύμφωνα με τις οποίες εδώ κι έναν χρόνο «ο μηχανισμός του υπουργείου Οικονομικών, εφοριακοί και τελωνειακοί αλλά κι έμποροι πετρελαιοειδών αντιδρούν στην τοποθέτηση του ειδικού συστήματος μέτρησης εισροών - εκροών καυσίμων στις δεξαμενές των βενζινάδικων». </p>
+<p> Με το σύστημα αυτό αντιμετωπίζεται δραστικά η παράνομη διακίνηση βενζίνης και ντίζελ, που στερεί στο Δημόσιο 500 εκατ. έως και 1 δισ. ευρώ ετησίως. Απαιτείται η έκδοση απόφασης από το υπουργείο Οικονομικών και στις 14 Δεκεμβρίου, έναν χρόνο μετά την πρώτη απόφαση των υπουργείων Ανάπτυξης και Μεταφορών, ο υπουργός Οικονομικών Ευάγγελος Βενιζέλος έδωσε εντολή να εκδοθεί και η απόφαση που λαμβάνει ως φορολογικά στοιχεία τις ποσότητες εισόδου κι εξόδου καυσίμων βάσει του ειδικού μηχανισμού μέτρησης. </p>
+<p> Το ίδιο στέλεχος κάνει λόγο πως «η ΕΥΠ παρακολουθεί κορυφαία στελέχη της Δημοτικής Αστυνομίας μεγάλων δήμων. Ερευνά αν εμπλέκονται σε παραεμπόριο». Η λαθραία διακίνηση παράνομων εμπορευμάτων κοστίζει φόρους 4,5 με 5 δισ. ευρώ ετησίως στο Δημόσιο. </p>
+<p> Η υψηλόβαθμη πηγή περιγράφει τις κόντρες ανάμεσα στα υπουργεία Ανάπτυξης και Οικονομικών για την εγκατάσταση του συστήματος εισροών - εκροών καυσίμων, αλλά και την απροθυμία συνεργασίας του ΣΔΟΕ στο παραεμπόριο. </p>
+<p> Ανατριχιαστικές... είναι και οι αφηγήσεις για τους τρόπους της λαθραίας εμπορίας πετρελαιοειδών και βιομηχανικών προϊόντων. </p>
+<p> 20.000 € ΑΝΤΙ ΓΙΑ 620.000 ΕΥΡΩ </p>
+<p> Το κόλπο με την περαίωση </p>
+<p> Αφορμή για τη δικαστική έρευνα, που «δείχνει» την ύπαρξη κυκλώματος, το οποίο «κούρευε» πρόστιμα περαίωσης από φορολογούμενους, ήταν -σύμφωνα με πληροφορίες- η... παρατηρητικότητα δικαστικής λειτουργού στο Διοικητικό Πρωτοδικείο. </p>
+<p> Η ίδια εξετάζοντας την περίπτωση ανώνυμης εταιρείας εντόπισε αναντιστοιχία μεταξύ των φορολογικών παραβάσεών της σε σχέση με το μικρό πρόστιμο που πλήρωσε για περαίωση εξαετίας και το οποίο έφτανε μόλις τα 20.000 ευρώ. Η δικαστική λειτουργός το έψαξε ζητώντας στοιχεία από το υπουργείο Οικονομικών και διαπιστώθηκε ότι η εν λόγω εταιρεία αντί των 20.000 ευρώ έπρεπε να πληρώσει πρόστιμο 620.000 ευρώ. </p>
+<p> Σύμφωνα με τις πληροφορίες από τα στοιχεία που της εστάλησαν, φάνηκε ότι οι αρμόδιοι υπάλληλοι, που είχαν ελέγξει την εταιρεία, είχαν καταχωρίσει στο σύστημα Taxis συνολικά... τρία σημειώματα. Σύμφωνα με το πρώτο, έπρεπε η εταιρεία να καταβάλει για την περαίωση 420.000 ευρώ, σύμφωνα με το δεύτερο 20.000 ευρώ, ενώ στο τρίτο 620.000 ευρώ. Ωστόσο, η εν λόγω υπόθεση είχε περαιωθεί με το εκκαθαριστικό που ζητούσε 20.000 ευρώ. </p>
+<p> ΕΘΝΟΣ </p>
+<p> | </p>
+<p> Περισσότερα </p>
+<p> Εκτύπωση </p>
+<p> window.___gcfg = { lang: 'el' };                                          (function() {                                             var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;                                             po.src = 'https://apis.google.com/js/plusone.js';                                             var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);                                         })(); </p>
+<p> $(document).ready(function() {             var RotateSpeed = $('#_ctl14__ctl0_hfBannerSpeed').val();             $('#features_1314').jshowoff(                 {                     speed: RotateSpeed,                     controls: false,                     hoverPause: false,                     links: false,                     effect: 'none'                 });             $('#features_holder_1314').removeClass("m_banner_hide");             $('#features_holder_1314').addClass("m_banner_show");         });         function floatClose(objId) {             objId = '#' + objId;             $(objId).removeClass("m_banner_show");             $(objId).addClass("m_banner_hide");             return false;         } </p>
+<p> .m_banner_hide{ 	    display:none;     }     .m_banner_show{ 	    display:block;     } </p>
+<p> <!-- google_ad_client = "ca-pub-2829208774884013"; /* Banner esoteriko */ google_ad_slot = "9604174046"; google_ad_width = 468; google_ad_height = 60; //--> </p>
+<p> .NA_NewsItem_HomeHeadline__ctl16 {     color:#1f3e65;     font-size: 18px;     font-weight:bold; }  .NA_NewsItem_DateTime__ctl16 {     color:#666666;     font-size: 12px; } a.NA_NewsItem_HomeHeadline_List__ctl16:link  {     color:			#333333;      font-size:		16px; }        a.NA_NewsItem_HomeHeadline__ctl16:link  { 	color:#1f3e65;     font-size: 18px;     font-weight:bold; }       a.NA_NewsItem_HomeHeadline__ctl16:visited  { 	color:#1f3e65;     font-size: 18px;     font-weight:bold; }   a.NA_NewsItem_HomeHeadline__ctl16:hover  { 	color:#cc0000;     font-size: 18px;     font-weight:bold;     text-decoration:underline; }   a.NA_NewsItem_HomeHeadline__ctl16:active  { 	color:#cc0000;     font-size: 18px;     font-weight:bold; } a.NA_NewsItem_Relevant_Link__ctl16:link  {     color:			#333333;      font-size:		12px;     background-color:Transparent; } a.NA_NewsItem_Relevant_Link__ctl16:visited  {     color:			#333333;      font-size:		12px;     background-color:Transparent; }   a.NA_NewsItem_Relevant_Link__ctl16:hover  {     color:			#e40d21;      font-size:		12x;     background-color:Transparent; }   a.NA_NewsItem_Relevant_Link__ctl16:active  {     color:			#e40d21;      font-size:		12px; } .NA_NewsItem_Relevant_Link_bg__ctl16 { 	background-image:url(Files/ImageGallery/new_layout/sxetikes_eidhseis_back.jpg);      background-repeat:repeat-x;     width:600px;     height:37px;     padding-left:5px;     line-height:37px; }  .NA_NewsItem_SxetikesEidiseis_Head__ctl16 { 	color:			#999999;      font-size:		15pt;     font-weight:    bold; } .NA_NewsItem_HomeSubTitle__ctl16 {     color:#666666;     font-size: 12px; } .NA_NewsItem_NAText__ctl16 { 	color:#666666;     font-size: 12px !important;     font-family:Verdana !important; }  .NA_NewsItem_NAText__ctl16 div { 	color:#666666;     font-family:Verdana !important; }  .NA_NewsItem_NAText__ctl16 a { 	color:blue !important;     font-size: 12px !important;     font-family:Verdana !important;     text-decoration:underline !important; }  .NA_NewsItem_NAText__ctl16 div a { 	color:blue !important;     font-size: 12px !important;     font-family:Verdana !important;     text-decoration:underline !important; }  .NA_NewsItem_NAText__ctl16 span { 	color:#666666;     font-family:Verdana !important; }  .NA_NewsItem_NAText__ctl16 span a { 	color:blue !important;     font-size: 12px !important;     font-family:Verdana !important;     text-decoration:underline !important; }  .NA_NewsItem_NAInitiator__ctl16 {      } .NA_NewsItem_PhotoText__ctl16 {     color:#666666;     font-size: 10px;     width:100%; } </p>
+<p> .NA_MainArticleHeader__ctl17 {     color:#2e3192;     font-size: 14px;     font-weight:bold; }  .NA_DateTime__ctl17 {     color:#666666;     font-size: 12px;     font-weight:bold; }  .NA_MainArticleHeader__ctl17 a:link  { 	color:#2e3192;     font-size: 14px;     font-weight:bold; }        .NA_MainArticleHeader__ctl17 a:visited  { 	color:#2e3192;     font-size: 14px;     font-weight:bold; }    .NA_MainArticleHeader__ctl17 a:hover  { 	color:#cc0000;     font-size: 14px;     font-weight:bold; }    .NA_MainArticleHeader__ctl17 a:active  { 	color:#cc0000;     font-size: 14px;     font-weight:bold; }  .NA_ArticleHeader__ctl17 {     color:#2e3192;     font-size: 12px;     padding:0px 7px 0px 7px;     text-align:left;     font-weight:bold; }  .NA_ArticleHeader__ctl17 a:link  { 	color:#2e3192;     font-size: 12px;     font-weight:bold; }        .NA_ArticleHeader__ctl17 a:visited  { 	color:#1f3e65;     font-size: 12px;     font-weight:bold; }    .NA_ArticleHeader__ctl17 a:hover  { 	color:#cc0000;     font-size: 12px;     font-weight:bold; }    .NA_ArticleHeader__ctl17 a:active  { 	color:#cc0000;     font-size: 12px;     font-weight:bold; }  .NA_ListArticleHeader__ctl17 {     color:#2e3192;     font-size: 14px;     text-align:left;     font-weight:bold; }  .NA_ListArticleHeader__ctl17 a:link  { 	color:#2e3192;     font-size: 14px;     font-weight:bold; }        .NA_ListArticleHeader__ctl17 a:visited  { 	color:#1f3e65;     font-size: 14px;     font-weight:bold; }    .NA_ListArticleHeader__ctl17 a:hover  { 	color:#cc0000;     font-size: 14px;     font-weight:bold; }    .NA_ListArticleHeader__ctl17 a:active  { 	color:#cc0000;     font-size: 14px;     font-weight:bold; }   .NA_Header__ctl17 {     background-image:url(img/NK/title_red.gif);     background-repeat:repeat-x;     height:32px;     font-size:12px;     text-align:center;     color:#ffffff;     font-weight:bold; }  .NA_HeaderRight__ctl17 {     background-image:url(img/NK/title_grey.gif);     background-repeat:repeat-x;     height:32px;     font-size:12px;     color:#ffffff;     font-weight:bold; }  .NA_Header__ctl17 a {     font-size:12px;     text-decoration:none;     color:#ffffff;     font-weight:bold; }  .carousel__ctl17 { 	 }  .carousel__ctl17 li {    width:114px;    height:180px;    float:left;    text-align:center;    list-style-type:none; }  .next__ctl17 {    cursor:pointer; }  .prev__ctl17 {    cursor:pointer; }  .listImg__ctl17 { 	float:left; 	margin-right:10px; 	margin-bottom:2px; } </p>
+<p> $(function() {         $(".anyClass_ctl17").jCarouselLite({             btnNext: ".next_ctl17",             btnPrev: ".prev_ctl17",             visible: 4,             circular: false,             start: 0,             speed: 100,             scroll: 1         });     });      function ShowCaption(i, count) {         for (j = 1; j < count; j++) {             var psj = document.getElementById('ps_' + j);             if (i == j) {                 psj.style.display = 'block';             }             else {                 psj.style.display = 'none';             }         }     } </p>
+<p> Άρθρα κατηγορίας </p>
+<p> ΕΛΛΑΔΑ ΝΕΑ </p>
+<p> Τσίπρας: Συμμαχία του νότου απέναντι στην Γερμανία </p>
+<p> Συμμαχία των χωρών του νότου απέναντι στη γερμανική κυριαρχία στην... </p>
+<p> περισσότερα &raquo </p>
+<p> Αποχωρεί από την ηγεσία του ΚΚΕ η Αλέκα Παπαρήγα; </p>
+<p> Ύστερα από 22 χρόνια, η Αλέκα Παπαρήγα αφήνει το τιμόνι του ΚΚΕ.... </p>
+<p> περισσότερα &raquo </p>
+<p> Παπανδρέου: Δεν γνώριζα το περιεχόμενο της λίστας... </p>
+<p> Μ’ ένα τετρασέλιδο υπόμνημα κατέθεσε ο πρώην πρωθυπουργός Γιώργος... </p>
+<p> περισσότερα &raquo </p>
+<p> 76.444 oι φετινοί εισακτέοι σε ΑΕΙ και ΤΕΙ </p>
+<p> Oριστικοποιήθηκε ο αριθμός των εισακτέων στην Τριτοβάθμια Εκπαίδευση.... </p>
+<p> περισσότερα &raquo </p>
+<p> Η ανακοίνωση της ΕΛ.ΑΣ. για τα επεισόδια στη... </p>
+<p> Ανακοίνωση εξέδωσε η ΕΛ.ΑΣ. για επεισόδια που εκτυλίχτηκαν τα... </p>
+<p> περισσότερα &raquo </p>
+<p> Από σήμερα οι αιτήσεις για μετεγγραφές φοιτητών </p>
+<p> Από σήμερα Τετάρτη 10 Απριλίου έως και τις 26 Απριλίου θα μπορούν οι... </p>
+<p> περισσότερα &raquo </p>
+<p> <!-- google_ad_client = "ca-pub-2829208774884013"; /* banner 300x250 */ google_ad_slot = "9667208328"; google_ad_width = 300; google_ad_height = 250; //--> </p>
+<p> TOP </p>
+<p> ΕΙΔΗΣΕΙΣ </p>
+<p> | </p>
+<p> ΓΝΩΜΗ </p>
+<p> | </p>
+<p> ΟΙΚΟΝΟΜΙΑ </p>
+<p> | </p>
+<p> ΠΟΛΙΤΙΣΜΟΣ </p>
+<p> | </p>
+<p> ΠΕΡΙΒΑΛΛΟΝ </p>
+<p> | </p>
+<p> ΤΕΧΝΟΛΟΓΙΑ </p>
+<p> | </p>
+<p> ΑΘΛΗΤΙΣΜΟΣ </p>
+<p> | </p>
+<p> ΕΝΤΥΠΟ PDF </p>
+<p> | </p>
+<p> MEDIA </p>
+<p> | </p>
+<p> LIFESTYLE </p>
+<p> | </p>
+<p> EΚΠΑΙΔΕΥΣΗ </p>
+<p> | </p>
+<p> ΥΓΕΙΑ </p>
+<p> | </p>
+<p> ΓΥΝΑΙΚΑ </p>
+<p> | </p>
+<p> ΤΑΞΙΔΙΑ </p>
+<p> | </p>
+<p> ΨΥΧΑΓΩΓΙΑ </p>
+<p> | </p>
+<p> AUTOMOTO </p>
+<p> | </p>
+<p> BLOGS </p>
+<p> | </p>
+<p> ΧΡΗΣΙΜΑ </p>
+<p> TOP </p>
+<p> Επικοινωνία </p>
+<p> ΚΥΚΛΟΣ Α.Ε. ΕΚΔΟΣΕΙΣ </p>
+<p> ΒΙ. ΠΕ. Ηρακλείου Τ.Κ. 71601 </p>
+<p> Τηλ: 2810398100 </p>
+<p> Fax: 2810398015 </p>
+<p> Marketing: 2810398112-113 </p>
+<p> Αγγελίες: 2810398101,152 </p>
+<p> info@neakriti.gr </p>
+<p> portal@neakriti.gr </p>
+<p> NEWSLETTER </p>
+<p> ΤΑΥΤΟΤΗΤΑ </p>
+<p> ΟΡΟΙ ΧΡΗΣΗΣ </p>
+<p> ΔΙΑΦΗΜΙΣΗ </p>
+<p> var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");                 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); </p>
+<p> try {                     var pageTracker = _gat._getTracker("UA-16257636-1");                     pageTracker._trackPageview();                 } catch (err) { } </p>
+<p> <!-- var Page_ValidationSummaries =  new Array(document.getElementById("_ctl9__ctl0_validationSummary")); var Page_Validators =  new Array(document.getElementById("_ctl9__ctl0_rfvRequired"), document.getElementById("_ctl9__ctl0_regexSearch")); // --> </p>
+<p> <!--  var Page_ValidationActive = false; if (typeof(ValidatorOnLoad) == "function") {     ValidatorOnLoad(); }  function ValidatorOnSubmit() {     if (Page_ValidationActive) {         return ValidatorCommonOnSubmit();     }     else {         return true;     } }         Sys.Application.initialize(); // --> </p>

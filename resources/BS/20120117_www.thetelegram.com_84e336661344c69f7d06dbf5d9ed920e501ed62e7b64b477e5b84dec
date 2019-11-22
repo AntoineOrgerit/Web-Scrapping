@@ -1,0 +1,205 @@
+<p> Flu shot still available to residents: government - Local - The Telegram </p>
+<p> var $j = jQuery.noConflict(); </p>
+<p> function changeColor(colorCode,hide){ $('color_css').href='/css/color.css.php?code='+colorCode.style.backgroundColor.replace(/#/,'|'); if(hide)Effect.toggle('color_picker', 'blind'); return false; } </p>
+<p> Shadowbox.loadSkin('classic', '/scripts/shadowbox_standalone/src/skin/'); Shadowbox.loadLanguage('en', '/scripts/shadowbox_standalone/build/lang/'); Shadowbox.loadPlayer(['html', 'img'], '/scripts/shadowbox_standalone/build/player/'); window.onload = Shadowbox.init; </p>
+<p> (function(d, s, id) {   var js, fjs = d.getElementsByTagName(s)[0];   if (d.getElementById(id)) {return;}   js = d.createElement(s); js.id = id;   js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";   fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk')); </p>
+<p> {lang: 'en'} </p>
+<p> printAdTag('728x90','tc.thetelegram','news',''); </p>
+<p> #add_top > a, #add_top > object, #add_top > div { display: block; }         div#add_top_1 { float: left; padding-left: 2px; }         div#add_top_2 { width: 728px; padding-right:2px; float:right; } </p>
+<p> Choose a colour for the page </p>
+<p> Turquoise </p>
+<p> Lilac </p>
+<p> Sky Blue </p>
+<p> Aqua </p>
+<p> Green </p>
+<p> Violet </p>
+<p> Purple </p>
+<p> Pink </p>
+<p> Olive </p>
+<p> Brown </p>
+<p> Gray </p>
+<p> Red </p>
+<p> Orange </p>
+<p> Customize your website </p>
+<p> changeDefaultColor = function (colorCode){     $('color_css').href='/css/color.css.php?Defaultcode='+colorCode;     return false;     }          changeDefaultColor('0159A1'); </p>
+<p> January 17th 2012 </p>
+<p> The Telegram Weeklies </p>
+<p> St. John’s - www.thetelegram.com </p>
+<p> no-reply@transcontinentalmedia.com </p>
+<p> Weather forecast </p>
+<p> document.observe("dom:loaded", function() {                 cacheBuster=Math.random()*10000000000000000;                 var flashvars = {};                 var params = {};                 params.wmode = "transparent";                 var attributes = {};                 swfobject.embedSWF("http://www.thetelegram.com/images/flash/meteo.swf?siteid=5&cacheBuster="+cacheBuster, "weather_content", "150", "69", "9.0.0", false, flashvars, params, attributes);                 }); </p>
+<p> printAdTag('125x25','tc.thetelegram','puzzles-games',''); </p>
+<p> Login </p>
+<p> Register </p>
+<p> Contact us </p>
+<p> Site search </p>
+<p> Search </p>
+<p> » Advanced search </p>
+<p> Home </p>
+<p> Latest News </p>
+<p> News </p>
+<p> Sports </p>
+<p> Arts - Life </p>
+<p> Business </p>
+<p> Opinion </p>
+<p> Puzzles / Games </p>
+<p> Special Sections </p>
+<p> Autos </p>
+<p> The Telegram </p>
+<p> - </p>
+<p> News </p>
+<p> - </p>
+<p> Local </p>
+<p> Article </p>
+<p> Print </p>
+<p> Send to a friend </p>
+<p> Comment ( </p>
+<p> 0 </p>
+<p> ) </p>
+<p> var size = 1;       $('select_size').addClassName('size_'+size);       new Control.Slider('slider_control','slider_handle',{         onSlide:function(v){updateSlider(v)},         onChange:function(v){updateSlider(v)},         range:$R(1,5),         sliderValue:size       });       function updateSlider(v){         document.cookie='textSize='+Math.round(v);         $('select_size').removeClassName('size_'+size);         size = Math.round(v);         $('select_size').addClassName('size_'+size);       } </p>
+<p> Send to a friend </p>
+<p> Send this article to a friend. </p>
+<p> Last name* </p>
+<p> Email* </p>
+<p> Your name* </p>
+<p> Your email* </p>
+<p> Comments </p>
+<p> var fName = new LiveValidation( 'send_name', { validMessage: "" } );             fName.add( Validate.Presence, { failureMessage: "Required !" } );             fName.add( Validate.Format, { pattern: /^[a-zA-Z'\"\ \,\-éÉèÈêÊëËçÇàÀÂâüÜôÏï\&\.]+$/i, failureMessage: "Wrong name format" } );                          var fEmail = new LiveValidation( 'send_email', { validMessage: "" } );             fEmail.add( Validate.Presence, { failureMessage: "Required !" } );             fEmail.add( Validate.Format, { pattern: /^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$/i , failureMessage: "Wrong name format" } );                          var yName = new LiveValidation( 'send_your_name', { validMessage: "" } );             yName.add( Validate.Presence, { failureMessage: "Required !" } );             yName.add( Validate.Format, { pattern: /^[a-zA-Z'\"\ \,\-éÉèÈêÊëËçÇàÀÂâüÜôÏï\&\.]+$/i, failureMessage: "Wrong name format" } );                          var yEmail = new LiveValidation( 'send_your_email', { validMessage: "" } );             yEmail.add( Validate.Presence, { failureMessage: "Required !" } );             yEmail.add( Validate.Format, { pattern: /^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$/i , failureMessage: "Wrong name format" } ); </p>
+<p> Flu shot still available to residents: government </p>
+<p> Tweet </p>
+<p> Dr. Faith Stratton. Telegram file photo </p>
+<p> Published on </p>
+<p> January 17, 2012 </p>
+<p> Published on </p>
+<p> January 17, 2012 </p>
+<p> printAdTag('300x250,300x80','tc.thetelegram','news','pos=but3'); </p>
+<p> Topics : </p>
+<p> Department of Health and Community </p>
+<p> , </p>
+<p> Newfoundland and Labrador </p>
+<p> The seasonal influenza vaccination is still available throughout the province, the Department of Health and Community Services reminded the public today. </p>
+<p> The flu shot can be obtained through a family physician or a public health office. </p>
+<p> “We are beginning to see some initial confirmed cases of influenza B in the province,” said Dr. Faith Stratton, Chief Medical Officer of Health for Newfoundland and Labrador. </p>
+<p> “While the number of cases is low and symptoms are mild, receiving the seasonal flu shot, along with practising regular hand washing, is the most effective way to protect against influenza viruses.” </p>
+<p> The influenza vaccine is provided at no cost for individuals at high risk for complications from influenza, including: </p>
+<p> • Adults and children with chronic conditions requiring regular medical or hospital care such as respiratory disorders, cardiac disease, renal disease, metabolic disorders and mobility impairment; </p>
+<p> • Persons in residential care, including residents and staff; </p>
+<p> • Persons age 60 and over; </p>
+<p> • Children age six months to 23 months; </p>
+<p> • Health care workers including those in the community or chronic care facilities; </p>
+<p> • Essential service workers (e.g. police, ambulance, firefighters); </p>
+<p> • Aboriginal people; </p>
+<p> • Household contacts of people at high risk of influenza complications; </p>
+<p> • Pregnant women; and, </p>
+<p> • Poultry and swine industry workers. </p>
+<p> “Although the flu season often begins in the fall, Newfoundland and Labrador is now reporting its first cases,” Stratton said. “Flu symptoms include rapid onset of cough, fever, headache, chills and general body aches and pains.” </p>
+<p> Individuals are encouraged to practise the three principles of personal hygiene, Clean, Cover and Contain, to help prevent the spread of influenza. It is recommended to practise thorough hand washing, cover coughs and sneezes, and to stay home when sick. </p>
+<p> setStarsToText({'star1': 'Horrible','star2': 'Poor','star3': 'Good','star4': 'Very good','star5': 'Excellent'}); </p>
+<p> Rate </p>
+<p> Top of the page </p>
+<p> Submit a Comment </p>
+<p> Submit a Comment </p>
+<p> This form is NOT used for emailing the article to a friend. Please use the "Send to a friend" link at the top of the page for that purpose. </p>
+<p> The Telegram is not responsible for posted comments. Please be polite and confine your comments to the subject of the posted story. </p>
+<p> If you have an account, please sign on to it. </p>
+<p> . </p>
+<p> Your name* </p>
+<p> Email* </p>
+<p> (we keep all emails private) </p>
+<p> Comment* </p>
+<p> Agreement </p>
+<p> We ask that users remain courteous. You may not post insulting, discriminatory or inappropriate content, which may be removed at our discretion. We are not responsible for user content and opinions. Use of this site as well as content submission & ownership are governed by our </p>
+<p> Conditions of Use </p>
+<p> and </p>
+<p> Privacy Policy. </p>
+<p> Member organizations should be non-profit in nature, and promote legal activities. Any organization found promoting illegal activities or commercial products or services will be deleted from the site. </p>
+<p> Conditions </p>
+<p> I agree with these conditions. </p>
+<p> Validation* </p>
+<p> var RecaptchaOptions = {     	theme : 'clean',     	lang : 'en'    	  	}; </p>
+<p> Please copy the text above in this box. </p>
+<p> function validation(parentId, postfix) { 	$('recaptcha_'+parentId+postfix).insert($('captchathing'));	 	Effect.SlideDown( 'captchathing', 'blind', { duration: 3.0 }); 		 } </p>
+<p> /* <![CDATA[ */ 	var fName = new LiveValidation( "submit_name_root", { validMessage: "" } );	 	fName.add( Validate.Presence, { failureMessage: "Required !" } ); 	fName.add( Validate.Format, { pattern: /^[a-zA-Z'\"\ \,\-éÉèÈêÊëËçÇàÀÂâüÜôÏï\&\.]+$/i, failureMessage: "Wrong name format" } ); 	     	var email = new LiveValidation( "submit_email_root", { validMessage: "" } ); 	email.add( Validate.Presence, { failureMessage: "Required !" } ); 	email.add( Validate.Email, { failureMessage: "Wrong email format" } ); 	 	var condition = new LiveValidation( 'conditionroot', { validMessage: "" } ); 	condition.add( Validate.Acceptance, { failureMessage: "Required !" } ); 	 	var comment = new LiveValidation( "post_comment_root", { validMessage: "" } ); 	comment.add( Validate.Presence, { failureMessage: "Required !" } ); 		 /* ]]> */ </p>
+<p> Advertising </p>
+<p> printAdTag('300x250,300x600','tc.thetelegram','news','pos=but1'); </p>
+<p> printAdTag('300x65','tc.thetelegram','news',''); </p>
+<p> Services </p>
+<p> Births </p>
+<p> Obituaries - In Memoriam </p>
+<p> Classifieds </p>
+<p> Jobs </p>
+<p> Subscriber Sign In </p>
+<p> Subscribe to your version of The Telegram </p>
+<p> Tenders, Request for Proposals & Notices </p>
+<p> Newsletter </p>
+<p> Please enter your email to receive our free newsletter </p>
+<p> Subscribe to news alerts </p>
+<p> loading... </p>
+<p> Death Notices and Obituaries </p>
+<p> Recent Announcements </p>
+<p> Stanford </p>
+<p> , Reginald "Skipper" </p>
+<p> Leave a tribute </p>
+<p> Current Obituaries in The Telegram </p>
+<p> var checkForm = function() {         if($('inMemoriam_first_name').getValue() == 'First name') {             $('inMemoriam_first_name').clear();         }         if($('inMemoriam_last_name').getValue() == 'Last name') {             $('inMemoriam_last_name').clear();         }     };     Event.observe('find_obituary', 'submit', checkForm); </p>
+<p> Tely Twitter </p>
+<p> new TWTR.Widget({ version: 2, type: 'search', search: 'newfoundland OR @telegram', interval: 1000, title: 'Newfoundland on Twitter', subject: 'What people are saying...', width: 300, height: 270, theme: { shell: { background: '#0159a1', color: '#ffffff' }, tweets: { background: '#ffffff', color: '#444444', links: '#1985b5' } }, features: { scrollbar: true, loop: true, live: true, hashtags: true, timestamp: true, avatars: true, behavior: 'default' } }).render().start(); </p>
+<p> Advertising </p>
+<p> printAdTag('300x250,300x600','tc.thetelegram','news','pos=but2'); </p>
+<p> printAdTag('728x90','tc.thetelegram','news',''); </p>
+<p> Sections </p>
+<p> News </p>
+<p> Sports </p>
+<p> Arts - Life </p>
+<p> Business </p>
+<p> Opinion </p>
+<p> Autos </p>
+<p> Services </p>
+<p> Births </p>
+<p> Obituaries - In Memoriam </p>
+<p> Classifieds </p>
+<p> Jobs </p>
+<p> Subscriber Sign In </p>
+<p> Subscribe to your version of The Telegram </p>
+<p> Tenders, Request for Proposals & Notices </p>
+<p> About </p>
+<p> Our team </p>
+<p> Contact us </p>
+<p> NIE - Newspaper in Education </p>
+<p> Telegram iPad app Authorization Process </p>
+<p> History of The Telegram </p>
+<p> The Telegram Herder Memorial Hockey Championship Series History </p>
+<p> Site Map </p>
+<p> See our advertisers </p>
+<p> Carrier Application </p>
+<p> Links </p>
+<p> <!--                                                     function ajustHeight( className ) {                                                         var elements = document.getElementsByClassName( className );                                                         var maxPos = 0;                                                         var stack = new Array(); 			                                                         /* Find sub-elements */                                                         elements = elements[ 0 ].childNodes;                                                         for( var i = 0; i < elements.length; i++ ) {                                                             if( elements[ i ].nodeName == 'DIV' && elements[ i ].className != 'hr' ) {                                                                 if( elements[ i ].clientHeight > maxPos ) maxPos = elements[ i ].clientHeight;                                                                 stack[ stack.length ] = elements[ i ];                                                             }                                                         } 			                                                         /* Apply style to all sub-elements */                                                         for( i = 0; i < stack.length; i++ ) stack[ i ].style.height = maxPos + 'px';                                                     }                                                     ajustHeight( 'fix_me' );                                                 --> </p>
+<p> Our Network </p>
+<p> List of sites within the network </p>
+<p> Digital Transcontinental Information - Newspapers group </p>
+<p> Transcontinental Numérique - Groupe Journaux </p>
+<p> Street Address </p>
+<p> 8770 boul. Langelier </p>
+<p> Extended Address </p>
+<p> bureau 210 Saint-Léonard </p>
+<p> Locality </p>
+<p> Montréal </p>
+<p> Region </p>
+<p> QC </p>
+<p> Country </p>
+<p> CA </p>
+<p> Postal Code </p>
+<p> H1P 3C6 </p>
+<p> Latitude </p>
+<p> 45° 29' 55" N </p>
+<p> Longitude </p>
+<p> 73° 34' 12" O </p>
+<p> Work </p>
+<p> +1 514 899 5885 </p>
+<p> Fax </p>
+<p> +1 514 899 5884 </p>
+<p> © Copyright 2008 - 2012 </p>
+<p> Conditions of Use </p>
+<p> Privacy Policy </p>
+<p> var _gaq = _gaq || []; 	_gaq.push( 		['_setAccount', 'UA-3427417-1'], // global tracker 		['_setDomainName', 'none'], 		['_setAllowLinker', true], 		['_trackPageview'], 		['b._setAccount', 'UA-2921995-17'], // site tracker 		['b._setDomainName', 'none'], 		['b._setAllowLinker', true], 		['b._trackPageview'] 	); 	(function() { 		var ga = document.createElement('script'); ga.type = 'text/javascript';          ga.async = true; 		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; 		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); 	})(); </p>
+<p> var _rsCI="us-bpaww";         var _rsCG="0";         var _rsDN="//secure-us.imrworldwide.com/";         var _rsPLfl=0;         var _rsSE=1;         var _rsSM=1.0;         var _rsCL=1; </p>

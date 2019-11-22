@@ -1,0 +1,112 @@
+<p> SeaGen in Co. Down Given Environmental Green Light » Inside Ireland </p>
+<p> GS_googleAddAdSenseService("ca-pub-8189982064790487"); GS_googleEnableAllServices(); </p>
+<p> GA_googleAddAttr("Category", "business");  GA_googleAddSlot("ca-pub-8189982064790487", "Footer-Left-ROS-478x65"); GA_googleAddSlot("ca-pub-8189982064790487", "Footer-Right-ROS-478x65"); GA_googleAddSlot("ca-pub-8189982064790487", "Left-Sidebar-1-ROS-160x600"); GA_googleAddSlot("ca-pub-8189982064790487", "Left-Sidebar-2-ROS-160x600"); GA_googleAddSlot("ca-pub-8189982064790487", "Right-Sidebar-1"); GA_googleAddSlot("ca-pub-8189982064790487", "Right-Sidebar-2"); GA_googleAddSlot("ca-pub-8189982064790487", "Right-Sidebar-3-Custom"); GA_googleAddSlot("ca-pub-8189982064790487", "Right-Sidebar-4-Custom"); GA_googleAddSlot("ca-pub-8189982064790487", "Top_of_site_left_ROS_728x90"); GA_googleAddSlot("ca-pub-8189982064790487", "Top_of_site_right_ROS_225x90"); GA_googleAddSlot("ca-pub-8189982064790487", "Listings-Page-Rect-300x250"); </p>
+<p> GA_googleFetchAds(); </p>
+<p> var $ = jQuery;   var tb_pathToImage = "http://insideireland.ie/wp-content/themes/insideireland/thickbox/loadingAnimation.gif"; </p>
+<p> jQuery(function($){   var sharewindow = null;   $('a.open-window').click(function(){         if ( sharewindow != null && !sharewindow.closed )            sharewindow.close();         sharewindow  = window.open(            $(this).attr('href'),            'journalwindow',            'status,scrollbars,location,resizable,width=800,height=500,top='+((screen.height/2)-320)+',left='+((screen.width/2)-400)        );        sharewindow.focus();         return false;    });  }); </p>
+<p> function show_comment_form(){     var form = document.getElementById('commentform');     form.style.display = 'block';   } </p>
+<p> <!-- 		function clearText(thefield){ 		  if (thefield.defaultValue==thefield.value){ 		    thefield.value = ""; 		    jQuery(thefield).removeClass('default'); 		  } 		}  		function defaultText(thefield, def){ 		  if (thefield.value==""){ 		    thefield.value = def; 		    jQuery(thefield).addClass('default'); 		  } 		}  		 	//--> </p>
+<p> Home </p>
+<p> Business & News </p>
+<p> Entertainment </p>
+<p> Sport </p>
+<p> Technology </p>
+<p> Tourism </p>
+<p> Lifestyle </p>
+<p> Competitions </p>
+<p> Search </p>
+<p> GA_googleFillSlot("Top_of_site_left_ROS_728x90"); </p>
+<p> GA_googleFillSlot("Top_of_site_right_ROS_225x90"); </p>
+<p> January 17 2012 </p>
+<p> Entertainment </p>
+<p> ‘Groundbreaking’ Irish Journalist Mary Raftery Dies </p>
+<p> Sport </p>
+<p> Kearney Jr to make Heineken Cup debut </p>
+<p> Technology </p>
+<p> What Will Happen in the Telecom, Media and Technology Industries in 2012? </p>
+<p> Tourism </p>
+<p> Ryanair adds 19 new routes from Girona </p>
+<p> Lifestyle </p>
+<p> Temple Street Children’s Hospital wins €5,000 prize </p>
+<p> Competitions </p>
+<p> None Found </p>
+<p> GA_googleFillSlot("Left-Sidebar-1-ROS-160x600"); </p>
+<p> GA_googleFillSlot("Left-Sidebar-2-ROS-160x600"); </p>
+<p> Home </p>
+<p> » </p>
+<p> Business & News </p>
+<p> &raquo </p>
+<p> SeaGen in Co. Down Given Environmental Green Light </p>
+<p> SeaGen in Co. Down Given Environmental Green Light </p>
+<p> January 17, 2012 </p>
+<p> Share </p>
+<p> Tweet </p>
+<p> By Daniela Cavaliere </p>
+<p> The tidal wave energy source at Strangford Lough in Co. Down has been given the green light today as it poses little threat to marine life, a report has found. Seals or porpoises have not been affected either. </p>
+<p> The SeaGen, the worlds largest commercial tidal energy generator, is capable of producing enough clean power for 1,500 homes in the area. </p>
+<p> Originally installed in 2008, SeaGen operates by a two-blade rotary system that turns 14 times per minute. </p>
+<p> Until now, SeaGen has only operated in daylight hours but today’s news could give the all-clear for night time usage also. </p>
+<p> Environment Minister Alex Attwood spoke positively of the news saying: “Marine Current Turbines has proved that the power of the seas can be harnessed in harmony with marine life. </p>
+<p> “The results of their work will give everyone greater confidence in realising the economic and environmental benefits that tidal and wave energy can offer to Northern Ireland, elsewhere in the UK and Ireland as well as other parts of the world.” </p>
+<p> SeaGen was built at the historic Harland and Wolff shipyard in Belfast. </p>
+<p> Comments </p>
+<p> Leave a Reply </p>
+<p> Cancel reply </p>
+<p> Your email address will not be published. Required fields are marked </p>
+<p> * </p>
+<p> Name </p>
+<p> * </p>
+<p> Email </p>
+<p> * </p>
+<p> Website </p>
+<p> Comment </p>
+<p> You may use these </p>
+<p> HTML </p>
+<p> tags and attributes: </p>
+<p> <a href="" title=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <cite> <code> <del datetime=""> <em> <i> <q cite=""> <strike> <strong> </p>
+<p> var RecaptchaOptions = { theme : 'red', lang : 'en' , tabindex : 5 }; </p>
+<p> #submit {display:none;} </p>
+<p> Latest Business & News </p>
+<p> Extra 8% – 12% chance of employment for UL Graduates </p>
+<p> A recent graduate survey has showed that 84% of graduates from the University of Limerick are either employed or pursuing further study, with UL graduate employment rates continuing to exceed the national average. </p>
+<p> Líofa momentum builds with roadshows in Belfast and Cookstown </p>
+<p> In a bid to increase the numbers of people learning and speaking Irish, the Culture Minister has brought the Líofa roadshow to Belfast and Cookstown. </p>
+<p> Smart Meters Help Reduce Energy Consumption </p>
+<p> Dublin-based Sysnet Global Solution in €1.34m investment </p>
+<p> SeaGen in Co. Down Given Environmental Green Light </p>
+<p> Related Articles </p>
+<p> OpenHydro to create 20 jobs </p>
+<p> Irish company OpenHydro is to recruit 20 staff as part of its expansion programme. </p>
+<p> Kildare wind firm to create 50 jobs </p>
+<p> Kildare-based wind and solar energy firm, Natural Power Company, is to create 50 new jobs. </p>
+<p> ESRI calls for cuts to wind and wave subsidies </p>
+<p> Ocean energy could create 70,000 jobs – Bord Gáis </p>
+<p> ESB leads €20m investment in Wind Energy Direct </p>
+<p> Latest News </p>
+<p> Extra 8% – 12% chance of employment for UL Graduates </p>
+<p> A recent graduate survey has showed that 84% of graduates from the University of Limerick are either employed or pursuing further study, with UL graduate employment rates continuing to exceed the national average. </p>
+<p> Líofa momentum builds with roadshows in Belfast and Cookstown </p>
+<p> In a bid to increase the numbers of people learning and speaking Irish, the Culture Minister has brought the Líofa roadshow to Belfast and Cookstown. </p>
+<p> Smart Meters Help Reduce Energy Consumption </p>
+<p> Dublin-based Sysnet Global Solution in €1.34m investment </p>
+<p> SeaGen in Co. Down Given Environmental Green Light </p>
+<p> Most Popular </p>
+<p> What Will Happen in the Telecom, Media and Technology Industries in 2012? </p>
+<p> Deloitte today published a report with predictions for the telecom, media and technology industries for 2012. </p>
+<p> Shipwrecked liner rescue mission continues </p>
+<p> The hunt for survivors aboard the stricken cruise ship Costa Concordia has continued this morning. </p>
+<p> Second date added for Titanic Belfast’s auditions </p>
+<p> Search Continues for Missing Fishermen in Co. Cork </p>
+<p> Indian journalists visit Ireland </p>
+<p> GA_googleFillSlot("Right-Sidebar-1"); </p>
+<p> GA_googleFillSlot("Right-Sidebar-2"); </p>
+<p> GA_googleFillSlot("Right-Sidebar-3-Custom"); </p>
+<p> GA_googleFillSlot("Right-Sidebar-4-Custom"); </p>
+<p> Home </p>
+<p> Contact </p>
+<p> Adman Multimedia LTD, 5 University St, Belfast, BT7 1FY, 048 9024 6624, </p>
+<p> info@insideireland.ie </p>
+<p> var sub = document.getElementById('submit');                 document.getElementById('recaptcha-submit-btn-area').appendChild (sub);                 document.getElementById('submit').tabIndex = 6;                 if ( typeof _recaptcha_wordpress_savedcomment != 'undefined') {                         document.getElementById('comment').value = _recaptcha_wordpress_savedcomment;                 }                 document.getElementById('recaptcha_table').style.direction = 'ltr'; </p>
+<p> GA_googleFillSlot("Footer-Left-ROS-478x65"); </p>
+<p> GA_googleFillSlot("Footer-Right-ROS-478x65"); </p>
+<p> var _gaq = _gaq || [];   _gaq.push(['_setAccount', 'UA-9857260-1']);   _gaq.push(['_trackPageview']);    (function() {     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);   })(); </p>

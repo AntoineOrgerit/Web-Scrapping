@@ -1,0 +1,319 @@
+<p> U.S. launches national war on Alzheimer's - USATODAY.com </p>
+<p> var mjx_req = 'www.usatoday.com/yourlife/health';  var usat_analytics_url = mjx_req; </p>
+<p> usat.contentID='52603476.story'; var tagID = 52603476;  jQuery(document).ready(function(){ var popeyeOptions1 = { caption: 'permanent', navigation: 'permanent', direction: 'right', fixed: 'false', opacity: 1 } jQuery('.ppy1, .ppy2').popeye(popeyeOptions1);  jQuery('a#stories-expand').click(function () { jQuery('.addPopularStories').slideToggle(); return false; }); jQuery('a#videos-expand').click(function () { jQuery('.addPopularVideos').slideToggle(); return false; }); jQuery('a#photos-expand').click(function () { jQuery('.addPopularPhotos').slideToggle(); return false; }); jQuery.ajax({ url: "/loadRemote.ashx?url=/_common/_includes/_community/taboola-async.ssi",  success: function (html) { jQuery("#Adv4").append(html); } });  // series bar dropdown function megaHoverOver(){ jQuery(this).find(".sub, .sub-sponsorship").stop().fadeTo('fast', 1).show(); } function megaHoverOut(){  jQuery(this).find(".sub, .sub-sponsorship").stop().fadeTo('fast', 0, function() { jQuery(this).hide();  }); } var config = {     sensitivity: 2, // number = sensitivity threshold (must be 1 or higher)     interval: 100, // number = milliseconds for onMouseOver polling interval     over: megaHoverOver, // function = onMouseOver callback (REQUIRED)     timeout: 500, // number = milliseconds delay before onMouseOut     out: megaHoverOut // function = onMouseOut callback (REQUIRED)     }; jQuery("ul#topnav li .sub, ul#topnav li .sub-sponsorship").css({'opacity':'0'}); jQuery("ul#topnav li").hoverIntent(config); // overlay var overlaySettings = { mask: '#000', top: 'center' }; var fixedMinHeight = 720; // max height of embed + 120 if (jQuery(window).height() < fixedMinHeight){ jQuery.extend(overlaySettings, { fixed: false }); } jQuery(".buttonModal[rel]").overlay(overlaySettings); }); // end doc ready var partnerID=1660; function getClickExpire() { if (self.clickExpire) return clickExpire;  return ""; } function appendAndEscape(origUrl, appendix){ if(appendix == "") return escape(origUrl); var returnUrl =""; var i = origUrl.indexOf(appendix); var j = origUrl.indexOf("?"); if(i == -1){ if(j == -1){ returnUrl = origUrl+"?"+appendix; }else{ returnUrl = origUrl+"&"+appendix; } }else{ returnUrl = origUrl; } return escape(returnUrl); } function getClickURL() { if (self.clickURL) return clickURL; return document.location.href; } function getClickTitle() { if (self.clickTitle) return clickTitle; return document.title; } function PT () { FDCPUrl('http://www.printthis.clickability.com/pt/printThis?clickMap=printThis'+getLocation(),true);  } function getLocation () { var theUrl = escape(getClickURL()); var theTitle = escape(getClickTitle()); theUrl = appendAndEscape(getClickURL(),"") var theLoc = "&fb=Y&url="+theUrl+"&title="+theTitle+"&random="+Math.random()+"&partnerID="+partnerID+"&expire="+escape(getClickExpire()); return theLoc; } function PTMouseOver () { window.status='PRINT THIS'; return true; } function PTMouseOut () { window.status=''; return true; } var originalPath= window.location.toString().toLowerCase();  var adfileSsts= (originalPath+'////').split('/'); function RightslinkPopUp() { if (typeof(rightsLink) !== "undefined") { /* the xsl, which is needed to define the rightsLink, does not allow html output.   * this workaround replaces &amp; with & to get the url to work */  rightsLink = rightsLink.replace(/\&amp;/g,'&'); PopUp = window.open( rightsLink,  "Rightslink", "toolbar=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=650,height=550"); } } function niceDate(fullDate) { if(fullDate==""||!fullDate) { return " "; } try { var strNow=new Date(); var dateParts=fullDate.split(/[\/ :]/); var month=parseInt(dateParts[0])-1; var hr=dateParts[3]; if(dateParts[5]=='PM' || (dateParts[6] && dateParts[6]=='PM')) { if(hr!=12) { hr=parseInt(hr)+parseInt(12); } } else if(hr==12) { hr=parseInt(hr)-parseInt(12); } var strDate=new Date(dateParts[2],month,dateParts[1],hr,dateParts[4]); } catch(e) { return fullDate; } return dateDiff(strNow,strDate,fullDate); } function dateDiff(date1,date2,fullDate){ var niceDateStr=''; var diff=new Date(); var COMMENT = "the next line must be adjusted for DST: 5 for standard, 4 for DST"; var tzo=(date1.getTimezoneOffset()/60)-5; diff.setTime(Math.abs(date1.getTime()-(date2.getTime()-(tzo*60*60*1000)))); var timediff=diff.getTime(); var years=Math.floor(timediff/(1000*60*60*24*365)); timediff-=years*(1000*60*60*24*365); var days=Math.floor(timediff/(1000*60*60*24)); timediff-=days*(1000*60*60*24); var hours=Math.floor(timediff/(1000*60*60)); timediff-=hours*(1000*60*60); var mins=Math.floor(timediff/(1000*60)); timediff-=mins*(1000*60); var secs=Math.floor(timediff/1000); timediff-=secs*1000; // If older than 7 days, return the full date  if(diff.getTime()>(7*24*60*60*1000)) { return fullDate; } if(years>0){ niceDateStr=years+"y"; if(days==0){ niceDateStr+=" ago";}else{ niceDateStr+=" "+days+"d ago";}}else if(days>0){ niceDateStr=days+"d"; if(hours==0||days>=7){ niceDateStr+=" ago";}else if(days<7){ niceDateStr+=" "+hours+"h ago";}}else if(hours>0){ niceDateStr=hours+"h"; if(mins==0){ niceDateStr+=" ago";}else{ niceDateStr+=" "+mins+"m ago";}}else if(mins>0){ niceDateStr=mins+"m ago";}else{ niceDateStr="<1m ago";} return niceDateStr;} function MM_openBrWindow(theURL,winName,features) { //v2.0 window.open(theURL,winName,features); } </p>
+<p> USA TODAY </p>
+<p> Your Life </p>
+<p> Get Home Delivery </p>
+<p> Mobile </p>
+<p> Home </p>
+<p> News </p>
+<p> Travel </p>
+<p> Money </p>
+<p> Sports </p>
+<p> Life </p>
+<p> Your Life </p>
+<p> Tech </p>
+<p> Weather </p>
+<p> Your Life </p>
+<p> Your Life Main </p>
+<p> Recipes </p>
+<p> Diseases & Conditions </p>
+<p> Experts & Columnists </p>
+<p> New: Hospital Mortality Rates </p>
+<p> Health </p>
+<p> Health Main </p>
+<p> Alzheimer's </p>
+<p> Breast Cancer </p>
+<p> Cancer </p>
+<p> Depression </p>
+<p> Diabetes </p>
+<p> Heart Disease </p>
+<p> Obesity </p>
+<p> Fitness & Food </p>
+<p> Fitness & Food Main </p>
+<p> Recipes </p>
+<p> Diet & Weight Loss </p>
+<p> Farm to Table </p>
+<p> New! Kick-Start To a Healthier New You </p>
+<p> Family & Parenting </p>
+<p> Family & Parenting Main </p>
+<p> Pregnancy & Baby </p>
+<p> Children's Health </p>
+<p> Teens & Pre-Teens </p>
+<p> Sex & Relationships </p>
+<p> Sex & Relationships Main </p>
+<p> Relationships </p>
+<p> Marriage </p>
+<p> Your Look </p>
+<p> Your Look Main </p>
+<p> Beauty </p>
+<p> Blogs </p>
+<p> Kindness Blog </p>
+<p> Paw Print Post </p>
+<p> NEW: Nutrition Nation Blog </p>
+<p> NEW: Healthy Perspective Blog </p>
+<p> NEW: Life Solutions Blog </p>
+<p> OAS_AD("Top728x90"); </p>
+<p> body { margin: 0px !important; padding: 0px !important; } .afs_header { width: 239px; } #seriesWrap { font-size: 16px; } #seriesWrap a { font-weight: normal; } #seriesWrap p { margin-top: 1em; margin-bottom: 1em; } #footer p { text-align:center; } #largeTopper { margin: 10px 0; } </p>
+<p> U.S. launches national war on Alzheimer's </p>
+<p> By </p>
+<p> Janice Lloyd </p>
+<p> , USA TODAY </p>
+<p> Updated </p>
+<p> document.write(niceDate("1/17/2012 10:28 AM")); </p>
+<p> Comments </p>
+<p> 14 </p>
+<p> Reprints & Permissions </p>
+<p> var rightsLink = "https://s100.copyright.com/AppDispatchServlet" + "?publisherName=" + escape( "USATODAY" )// required, hard-coded + "&amp;publication=" + escape( "USATODAY" )             // required, hard-coded + "&amp;title=" + escape( "U.S. launches national war on Alzheimer's" )  // required + "&amp;publicationDate=" + escape( "1/16/2012 5:47:09 PM") // required + "&amp;author=" + escape( "By Janice Lloyd, USA TODAY" ) + "&amp;contentID="+ escape( "http://www.usatoday.com/yourlife/health/medical/alzheimers/story/2012-01-13/Alzheimers-funding-Bob-Carol-Blackwell-disease-dementia/52603476/1" )// required + "&amp;orderBeanReset=true";// required, hard-coded </p>
+<p> // </p>
+<p> // </p>
+<p> GREAT FALLS, Va. – When doctors told Carol Blackwell that her husband — her best friend and the love of her life — had Alzheimer's disease, they assured her "a cure was just around the corner." </p>
+<p> Doug Kapustin, for USA TODAY </p>
+<p> Carol and Bob Blackwell take a daily walk near their suburban Virginia home. </p>
+<p> Enlarge </p>
+<p> Close </p>
+<p> Doug Kapustin, for USA TODAY </p>
+<p> Carol and Bob Blackwell take a daily walk near their suburban Virginia home. </p>
+<p> display_afs_ads(afs_top_ads, "topsponsoredLinks"); </p>
+<p> Bob Blackwell was 64, recently retired from the </p>
+<p> CIA </p>
+<p> as an analyst on the former </p>
+<p> Soviet Union </p>
+<p> and Europe and still functioning normally.  "He was brilliant then." </p>
+<p> That was five years ago. </p>
+<p> MORE: </p>
+<p> Living with Alzheimer's: The Blackwell's blog </p>
+<p> PHOTOS: </p>
+<p> One man's struggle with Alzheimer's disease </p>
+<p> INTERACTIVE: </p>
+<p> A time to remember: Share your Alzheimer's story </p>
+<p> "Here we are, and there's no cure and no promise of a cure," Carol says, sitting in her family room, eyes wet with tears. </p>
+<p> More Alzheimer's coverage: </p>
+<p> To learn more about the Blackwell family's journey with Alzheimer's over the last three years, check out other USA TODAY stories below. Click the photo to read their blog. </p>
+<p> New Alzheimer's law aims to coordinate efforts, strategy </p>
+<p> The Blackwells and others talk politics and research dollars </p>
+<p> Alzheimer's experts: Don't hesitate to get paid help </p>
+<p> The pros and cons of hiring extra caregiving help </p>
+<p> Husband and wife cope with Alzheimer's progression </p>
+<p> Bob and Carol Blackwell: marriage and Alzheimer's </p>
+<p> Caregivers get no holiday, though friends, family help </p>
+<p> Carol Blackwell and others who care for loved ones with Alzheimer's </p>
+<p> Family shares journey after early Alzheimer's diagnosis </p>
+<p> First story in series - Bob, young-onset Alzheimer's </p>
+<p> She is Bob's primary caregiver, and the last couple of months have been "tough," she says.  There are days when Bob doesn't know she's his wife. "I've been through a lot of grieving," she says. "I know it's too late for a cure for Bob, the disease has moved into too many parts of his brain, but I'm praying for my children and grandchildren. We have to find a cure." </p>
+<p> Carol will be paying close attention to government meetings Tuesday and Wednesday in Washington  where Health and Human Services officials are gathering with other medical experts to discuss the framework for the first national plan to fight the disease. The No. 1 goal stated in the early draft  of the National Alzheimer's Project Act  is to prevent and effectively treat Alzheimer's by 2025. Although the funding levels have not been determined, disease experts compare the multi-agency federal approach of NAPA to the wars on heart disease and cancer. </p>
+<p> function AdjustHeight(elementID, val){if (navigator.appName.indexOf("Microsoft") != -1) {$(elementID).height=val;}else{document[elementID].height = val;}} </p>
+<p> Growth of Alzheimer's </p>
+<p> Projected number of people 65 and over in the U.S. with Alzheimer's disease* in millions. </p>
+<p> * Does not include early onset </p>
+<p> ** Projected </p>
+<p> Alzheimer's, which is a form of dementia that causes progressive loss of intellectual and social skills, is the only disease among the top killers for which there is no  prevention, cure or treatment that will slow its progression. </p>
+<p> "I think the potential impact of this plan is huge," says Ron Petersen, chairman of the NAPA non-federal advisory council and director of the Mayo Clinic's Alzheimer's Disease Research Center. "Given the economic problems, it's a bit of a challenge, but this is our chance to make a bold statement." </p>
+<p> President Obama </p>
+<p> signed NAPA into law last January. Experts have spent a year formulating the framework for the plan, and the final draft is due on the desk of HHS Secretary Kathleen Sebelius this month or early February. George Vradenburg, a member of the research committee with Petersen, says the early plan is good overall but needs to move faster:  "It's the first time the government has talked about a time-based goal to stop Alzheimer's. I'm going to urge we accelerate the time. I'm committed to 2020." </p>
+<p> The task before them is an urgent one. The disease runs in families — Bob Blackwell's grandmother died from it, and his mother has it — and affects more than 5 million people in the USA. About half the people 85 and older have the disease. The number of cases, including early-onset Alzheimer's like Bob Blackwell's, is likely to triple by 2050 as the Baby Boomers  grow old, at which point annual costs are likely to soar to $1 trillion. The illness costs the Medicare and Medicaid programs $130 billion a year. </p>
+<p> "My mother-in-law has been in a facility for 15 years," Carol Blackwell says. "In 2005, after her husband died …  she'd used up all her money (for care), and Bob had to file for Medicaid for her. She's been living at the government's expense since then. We have to prevent those costs down the road." </p>
+<p> Carol and Bob Blackwell have marched on </p>
+<p> Capitol Hill </p>
+<p> with members of the </p>
+<p> Alzheimer's Association </p>
+<p> to push for more research dollars, funding that falls behind many other diseases. In a survey last year by the </p>
+<p> Harvard School of Public Health </p>
+<p> , nearly 70% of  respondents said the government should increase spending for Alzheimer's research. </p>
+<p> Changing perceptions </p>
+<p> Harry Johns, president of the Alzheimer's Association, says the research amount needs to grow to at least $2 billion. He was in charge of strategic initiatives for the </p>
+<p> American Cancer Society </p>
+<p> before taking this post. </p>
+<p> "People have different opinions about the success of the war on cancer," Johns says, "but people are living longer (with cancer) and have hope. There is better diagnosis and drugs for some cancers. NAPA has the potential to also change the course of a disease." </p>
+<p> He aims to eliminate the stigma. "Back in the 1960s, people didn't talk about it," he says. "They were ashamed of it and wanted to hide it. We need to change that public discussion." </p>
+<p> He is hopeful that new, high-profile faces of Alzheimer's will help bring that about and put the national spotlight on the disease as </p>
+<p> Betty Ford </p>
+<p> did for breast cancer. Both Tennessee women's basketball coach </p>
+<p> Pat Summitt </p>
+<p> and singer </p>
+<p> Glen Campbell </p>
+<p> announced last  year they have Alzheimer's and are continuing to work for as long as possible. </p>
+<p> "No (celebrity)  has gone public with Alzheimer's since </p>
+<p> Ronald Reagan </p>
+<p> , and when he announced it, we didn't see much of him anymore," Johns says. "Pat and Glen going public have been watershed moments for the cause." </p>
+<p> Finding a drug that would slow the progress of Alzheimer's for just five years would greatly reduce government costs and the toll on families, Johns says: "There really isn't another disease that has this kind of impact. It is disproportionately under-invested." </p>
+<p> Where the money will come from is the key question.  The </p>
+<p> National Institutes of Health </p>
+<p> oversees the bulk of the groundbreaking research against diseases. </p>
+<p> Francis Collins </p>
+<p> , director of the </p>
+<p> NIH </p>
+<p> , told USA TODAY in July that the agency's budget was cut $321 million in the fiscal year, the second time in 40 years the NIH has had a budget that was less than the preceding year. </p>
+<p> The government spent about $500 million in 2011 on research for Alzheimer's and related dementias. By comparison, approximately $521 million was spent on complementary and alternative medicine and $823 million on obesity. Cancer drew a $6 billion check in 2011 for starters, with additional funding allocated for breast, brain and lung cancers. </p>
+<p> "We're still in the process of getting feedback and making recommendations about funding levels," Petersen says. "But the plan will have to be in tune with the fiscal realities everyone is facing right now." </p>
+<p> Petersen expects HHS to finalize the plan for NAPA by late April in time for a research summit in May at the </p>
+<p> National Institute on Aging </p>
+<p> . </p>
+<p> Encouraging progress </p>
+<p> Petersen is encouraged by progress in the past five years. Researchers identified genes associated with  the disease and have  a clearer idea of when the disease begins — often as early as 10 or 15 years before symptoms appear — and what causes it. They have discovered some of the disease's biomarkers  in a variety of tests, potentially making diagnosis possible years before the disease causes damage. Before, the only way to identify Alzheimer's was through an autopsy of the brain. </p>
+<p> Researchers suspect that plaques and tangles growing in the brain are destroying nerve cells and pathways  in some forms of the disease.  Researchers hope ultimately to treat the disease by targeting risk factors, such as the plaques,  with drugs. Petersen compares the process to preventing or slowing heart disease. </p>
+<p> "By knowing the risk factors for heart disease, doctors can treat those risk factors and prevent the heart attack," he says. The aim is  to identify drugs to treat the risk factors for Alzheimer's in the same way statins lower bad cholesterol levels, one of the primary risk factors for heart disease. </p>
+<p> The drugs for Alzheimer's only treat the symptoms. Once symptoms appear, it is too late to stop the disease from progressing and killing more brain cells. </p>
+<p> Bob Blackwell takes Aricept and Namenda, drugs approved by the Food and Drug Administration to treat two different brain-messaging symptoms at different stages of the disease. Their effect is usually modest. </p>
+<p> "They helped enormously, especially in the beginning," Carol says. "It was like getting Bob back for a year." </p>
+<p> She hoped the fact that Bob was in good physical health would help. Both she and Bob are slim and fit. "We've done everything right," she says. "We've eaten right, exercised, done all the things they recommend to ward off disease. But it doesn't work (against Alzheimer's). I've seen this disease take down the best and brightest." </p>
+<p> A growing list of 'lasts' </p>
+<p> She takes Bob to adult day care two days a week, where he does activities with other Alzheimer's patients. </p>
+<p> "He didn't like it at first," she says, but  she had no other option. She works part-time and could not leave him alone at home. "I tried that once, and he called my daughter and daughter-in-law, and he said he'd been abandoned." </p>
+<p> Bob has always been a photography buff,  but his illness makes it difficult for him to remember the settings on the camera. He has boxes full of images from trips to St. Petersburg, Russia, and to a family cottage in Michigan. </p>
+<p> "The neurologist told me we couldn't travel anymore because of how his disease has progressed," Carol says. "It's too confusing for him." </p>
+<p> In a blog she keeps for USA TODAY, she has been writing about "the season of lasts" — listing things Bob has done for the last time. He has been a lifelong fan of </p>
+<p> University of Georgia </p>
+<p> football, for instance, but following the games last fall was too challenging. Exhibiting his photos in shows also is too taxing. </p>
+<p> The past couple of weeks, Bob has been getting up around 5:30 a.m. and wandering around the house. </p>
+<p> "He was fully dressed the first time, and I'm surprised I didn't hear him," Carol says. "He doesn't try to go outside because he likes to be in the house and hates the cold, but I'm going to have to take precautions and turn on the house alarm." </p>
+<p> She says Bob is frustrated, sometimes asking her why he can't get a job. </p>
+<p> She shows a visitor photos on the family room wall of a trip Bob took on Air Force II with then-Vice President George H.W. Bush to the former Soviet Union. Bob smiles, raises a finger and points at himself in the photo sitting across from Bush. </p>
+<p> He does not remember the vice president's name. </p>
+<p> For more information about </p>
+<p> reprints & permissions </p>
+<p> , visit our FAQ's. To report corrections and clarifications, contact Standards Editor </p>
+<p> Brent Jones </p>
+<p> . For publication consideration in the newspaper, send comments to </p>
+<p> letters@usatoday.com </p>
+<p> . Include name, phone number, city and state for verification. To view our corrections, go to </p>
+<p> corrections.usatoday.com </p>
+<p> . </p>
+<p> Posted </p>
+<p> document.write(niceDate("1/16/2012 5:47 PM")); </p>
+<p> | Updated </p>
+<p> document.write(niceDate("1/17/2012 10:28 AM")); </p>
+<p> jQuery(document).ready(function(){ jQuery.getScript("http://widgets.outbrain.com/outbrain.js"); }); </p>
+<p> usat.contentID='52603476.story'; </p>
+<p> USA TODAY is now using Facebook Comments on our stories and blog posts to provide an enhanced user experience. To post a comment, log into Facebook and then "Add" your comment. To report spam or abuse, click the "X" in the upper right corner of the comment box. To find out more, read the </p>
+<p> FAQ </p>
+<p> and </p>
+<p> Conversation Guidelines </p>
+<p> . </p>
+<p> (function(d){ var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;} js = d.createElement('script'); js.id = id; js.async = true; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; d.getElementsByTagName('head')[0].appendChild(js); }(document)); </p>
+<p> display_afs_ads(afs_bottom_ads, "bottomsponsoredLinks"); </p>
+<p> OAS_AD("Poster3"); </p>
+<p> Advertisment </p>
+<p> Most Popular </p>
+<p> Stories </p>
+<p> Ga. nurse donates kidney to patient she... </p>
+<p> Paula Deen spreads word about diabetes in... </p>
+<p> U.S. launches national war on Alzheimer's </p>
+<p> 'Team Amelia' backs transplant for special... </p>
+<p> Best diets for your brain and heart </p>
+<p> Videos </p>
+<p> Today in History for Jan. 16th </p>
+<p> Rivals assail Romney in South Carolina debate </p>
+<p> Nurse donates kidney to 23-year-old patient </p>
+<p> Rough Seas Put Costa Concordia Operations on Hold </p>
+<p> Costa Concordia search back on </p>
+<p> Most Popular E-mail Newsletter </p>
+<p> Sign up to get: </p>
+<p> Top viewed stories, photo galleries and community posts of the day </p>
+<p> Most popular right now: </p>
+<p> Helping breast health </p>
+<p> Your Life: </p>
+<p> Health </p>
+<p> OAS_AD("Bottom728x90"); </p>
+<p> USA Today Your Life </p>
+<p> Your Life </p>
+<p> USA Today </p>
+<p> Health </p>
+<p> Alternative </p>
+<p> Alzheimer’s </p>
+<p> Autism </p>
+<p> Breast cancer </p>
+<p> Cancer </p>
+<p> Cold & flu </p>
+<p> Dental </p>
+<p> Depression </p>
+<p> Diabetes </p>
+<p> Heart disease </p>
+<p> Kids’ health </p>
+<p> Men’s health </p>
+<p> Mental health </p>
+<p> Women’s health </p>
+<p> Fitness </p>
+<p> Exercise </p>
+<p> Family fitness challenge </p>
+<p> Food </p>
+<p> Recipes & cooking </p>
+<p> Diet & nutrition </p>
+<p> Safety </p>
+<p> Family </p>
+<p> Babies </p>
+<p> Daycare </p>
+<p> Pregnancy </p>
+<p> Special needs </p>
+<p> Teens & young adults </p>
+<p> Relationships </p>
+<p> Dating </p>
+<p> Marriage </p>
+<p> Mind & Soul </p>
+<p> Doing Good </p>
+<p> Spirituality </p>
+<p> Education </p>
+<p> Health Care </p>
+<p> Hospitals </p>
+<p> Government </p>
+<p> Doctors & nurses </p>
+<p> Pets </p>
+<p> Cats </p>
+<p> Dogs </p>
+<p> Home </p>
+<p> | </p>
+<p> News </p>
+<p> | </p>
+<p> Travel </p>
+<p> | </p>
+<p> Money </p>
+<p> | </p>
+<p> Sport </p>
+<p> | </p>
+<p> Life </p>
+<p> | </p>
+<p> Your Life </p>
+<p> | </p>
+<p> Tech </p>
+<p> | </p>
+<p> Weather </p>
+<p> Visit our Partners: </p>
+<p> USA WEEKEND </p>
+<p> | </p>
+<p> USA TODAY LIVE </p>
+<p> | </p>
+<p> Sports Weekly </p>
+<p> | </p>
+<p> Education </p>
+<p> | </p>
+<p> Space.com </p>
+<p> | </p>
+<p> Travel Tips </p>
+<p> Contact us </p>
+<p> | </p>
+<p> Advertise </p>
+<p> | </p>
+<p> Pressroom </p>
+<p> | </p>
+<p> Developer </p>
+<p> | </p>
+<p> Media Lounge </p>
+<p> | </p>
+<p> Jobs </p>
+<p> | </p>
+<p> FAQ </p>
+<p> | </p>
+<p> Reprints/Permissions </p>
+<p> | </p>
+<p> Privacy Notice/Your California Privacy Rights </p>
+<p> | </p>
+<p> Ad Choices </p>
+<p> | </p>
+<p> Terms of Service </p>
+<p> | </p>
+<p> Site Index </p>
+<p> 2012 USA Today, a division of </p>
+<p> Gannett Co. Inc. </p>
+<p> jQuery(document).ready(function(){ usatAuth.initialSetup(); // initialize UAS }); </p>
+<p> var addthis_config =  {  username: 'usatshare', data_track_clickback: false, services_expanded: 'digg,email,facebook,fark,gmail,googlebuzz,linkedin,mixx,posterous,reddit,stumbleupon,tumblr,twitter,buzz', services_compact: 'digg,email,facebook,fark,gmail,googlebuzz,linkedin,mixx,posterous,reddit,stumbleupon,tumblr,twitter,buzz' }; var addthis_share =  { templates: { twitter: '{{title}} {{url}} via @USATODAY' }, url_transforms : {  shorten: { twitter: 'bitly' } }, shorteners : { bitly : { login: 'usatoday', apiKey: 'R_fa9e62b61f9dc04aa65ea7c615e5d4f0'  } } }; </p>
+<p> jQuery(window).load(function(){     usatAuth.flashTag = new Array("adPoster","adPoster2");// Hide flash ads when UAS dialogs appear }); </p>

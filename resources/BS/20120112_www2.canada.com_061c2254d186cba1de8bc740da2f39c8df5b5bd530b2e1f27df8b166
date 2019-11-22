@@ -1,0 +1,208 @@
+<p> ul.bullet li {background:transparent url(http://www2.canada.com/images/bullet_333333.gif) center left no-repeat;} </p>
+<p> Treating depression can help economy: Study </p>
+<p> function getCookies() { return ""; } </p>
+<p> Array.prototype.unique = function ()                         { 	                        var r = new Array(); 	                        o:for(var i = 0, n = this.length; i < n; i++) 	                        { 		                        for(var x = 0, y = r.length; x < y; x++) 		                        { 			                        if(r[x]==this[i]) 			                        { 				                        continue o; 			                        } 		                        } 		                        r[r.length] = this[i]; 	                        } 	                        return r;                         }                          function setSurroundCookie(value)                         { 	                        document.cookie = "surroundId=" + escape(value) + "; path=/";                         }                          function getCookie(cookieName)                         { 	                        var dc = document.cookie;  	                        //load external cookies from .canada.com                           	                        var url = new Array(); 	                        url = location.href.split("/");  	                        var domain_arr = new Array(); 	                        domain_arr = url[2].split("."); 	                        if (domain_arr.length >= 2) 	                        { 		                        var current_domain = (domain_arr[domain_arr.length - 2] + "." + domain_arr[domain_arr.length - 1]);		                         		                        if (current_domain != "canada.com") //load cookies from canada.com if not on canada.com 		                        { 			                        //load cookies 			                        dc += ";" + getCookies(); //append to existing document cookie 		                        } 	                        }  	                        var dc_array = new Array(); 	                        dc_array = dc.split("; "); 	                        var cookie_str = ""; //this string will contain the value of the cookie name  	                        for (x = 0; x < dc_array.length; x++) //cycles through all cookie names in cookie array, looking for all cookieName matches 	                        { 		                        var cookie = new Array(); 		                        var split = dc_array[x].indexOf("="); 		                        cookie[0] = dc_array[x].substring(0,split);  		                        if (cookie[0].indexOf(cookieName) != -1) //cookiename was found 		                        { 			                        cookie[1] = dc_array[x].substring(split+1,dc_array[x].length); 			                        if (cookie[1] != "") 			                        cookie_str += cookie[1] + ","; //concatenate cookie string with new cookie value 		                        } 	                        }  	                        cookie_str = cookie_str.replace(/,,/g,","); //remove empty values 	                        var cookie_str_array = cookie_str.split(",").unique(); //remove duplicates 	                        cookie_str = cookie_str_array.join(",");  	                        cookie_str = cookie_str.replace(/,/g,";"); //change commas to semicolons, was necessary b/c of values separation in cookie 	                        return unescape(cookie_str);                         }                          function getAdCookie()                         { 	                        return getCookie("adcookie");                         }                          function getSurroundCookie()                         { 	                        var dc = document.cookie; 	                        var prefix = "surroundId="; 	                        var begin = dc.indexOf("; " + prefix); 	                        if (begin == -1) 	                        { 		                        begin = dc.indexOf(prefix); 		                        if (begin != 0) return null; 	                        } 	                        else 	                        { 		                        begin += 2; 	                        } 	                        var end = document.cookie.indexOf(";", begin); 	                        if (end == -1) end = dc.length; 	                        return unescape(dc.substring(begin + prefix.length, end));                         }                          // Setup for surround session.                         var adid = ""; // used in the ad to start a surround session                         var surroundTag = getSurroundCookie(); // Get surround session id from the cookie                         if(surroundTag == null) // check if there was a surround session id in the cookie                         { 	                        surroundTag = "";                         }                         else                         { 	                        surroundTag = "srnd="+surroundTag; // finish setting up the key-value for the ad tags                         }                          //Setup for adcookie.                         var adcookieTag = getAdCookie(); // Get the ad cookie string </p>
+<p> adcookieTag = (typeof adcookieTag !== 'undefined') ? (adcookieTag) : ('');                         dartad_tile = (typeof dartad_tile !== 'undefined') ? (dartad_tile + 1) : (1);                          var dartad_url = "http://ad.ca.doubleclick.net/N3081/adj/ndn.com/nanaimodailynews/news/story;loc=theTop;loc=top;sz=468x60,728x90;dcopt=ist;kw=ron;kw=nanaimodailynews;kw=news;nk=print;pr=nanaimodailynews;ck=nanaimodailynews;sck=news;page=story;tile="+dartad_tile+";"+adcookieTag+surroundTag+"ord=47829830?"; // script ad code with adcookie, used for debug                           document.write('<script language="JavaScript1.1" src="http://ad.ca.doubleclick.net/N3081/adj/ndn.com/nanaimodailynews/news/story;loc=theTop;loc=top;sz=468x60,728x90;dcopt=ist;kw=ron;kw=nanaimodailynews;kw=news;nk=print;pr=nanaimodailynews;ck=nanaimodailynews;sck=news;page=story;tile='+dartad_tile+';'+adcookieTag+surroundTag+'ord=47829830?"><\/script>'); </p>
+<p> if(adid != "") // check if the ad should start a surround session only if a surround session has not yet started                          {                             surroundTag = "srnd="+adid; // setup the key-value for a surround session                             setSurroundCookie(adid); // store the surround session id in a cookie.                         } </p>
+<p> #logorow .weathercontent {float:right;} #logorow .logocontainer .logo {width:192px;} </p>
+<p> Jump to: Newspapers </p>
+<p> Home </p>
+<p> News </p>
+<p> Sports </p>
+<p> Entertainment </p>
+<p> Health </p>
+<p> Travel </p>
+<p> National Post </p>
+<p> Victoria Times Colonist </p>
+<p> The Province (Vancouver) </p>
+<p> Vancouver Sun </p>
+<p> Edmonton Journal </p>
+<p> Calgary Herald </p>
+<p> Regina Leader-Post </p>
+<p> Saskatoon StarPhoenix </p>
+<p> Windsor Star </p>
+<p> Ottawa Citizen </p>
+<p> The Gazette (Montreal) </p>
+<p> DOSE </p>
+<p> Postmedia Community Publishing </p>
+<p> Nanaimo Daily News </p>
+<p> classifieds </p>
+<p> jobs </p>
+<p> cars </p>
+<p> obituaries </p>
+<p> celebrating </p>
+<p> shopping </p>
+<p> homes </p>
+<p> personals </p>
+<p> Â </p>
+<p> Â </p>
+<p> Weather Centre </p>
+<p> Â </p>
+<p> Â </p>
+<p> Â </p>
+<p> 2°C </p>
+<p> Â </p>
+<p> Unknown </p>
+<p> Nanaimo </p>
+<p> Detailed Forecast </p>
+<p> Â </p>
+<p> Nanaimo Home </p>
+<p> Search for </p>
+<p> in the Daily News </p>
+<p> in canada.com </p>
+<p> 10 year archive in FPinfomart </p>
+<p> function doSearch() { 								var q = document.getElementById("q").value; 								if (q.length == 0) { 									alert("Please enter your search criteria"); 									return; 								}  								var type = document.getElementById("searchtype").value; 								switch (type) { 									case "newspaper": 										document.location.href="http://www.canada.com/nanaimodailynews/search_results.html?searchtype=0&searchfor=" + escape(q); 										break; 									case "marketplace": 										document.location.href="http://shopping.nanaimodailynews.canada.com/shared/search.aspx?s=" + escape(q); 										break; 									case "canada": 										document.location.href="http://www.canada.com/findit/search/site/index.html?q=" + escape(q); 										break; 									case "fp": 										document.forms["searchform"].method="POST"; 										document.forms["searchform"].action ="http://www.fpinfomart.ca/ar/ar_cc_landing.php"; 										document.getElementById("t1").value = q; 										document.forms["searchform"].submit(); 										break; 								} 							} </p>
+<p> Home </p>
+<p> > </p>
+<p> Site Index </p>
+<p> News </p>
+<p> Editorial </p>
+<p> Special Section </p>
+<p> Sports </p>
+<p> Entertainment </p>
+<p> Driving </p>
+<p> Columnists </p>
+<p> Nanaimo Daily News: 135 Years </p>
+<p> Live Green </p>
+<p> Obituaries </p>
+<p> Cars </p>
+<p> Contact Us </p>
+<p> Stocks Pages </p>
+<p> Carrier Application </p>
+<p> Back Issues </p>
+<p> Harbour City Star </p>
+<p> Latest from the Star </p>
+<p> Classified </p>
+<p> classifieds </p>
+<p> obituaries </p>
+<p> cars </p>
+<p> working (jobs) </p>
+<p> homes </p>
+<p> personals </p>
+<p> shopping </p>
+<p> Island Papers </p>
+<p> Select... </p>
+<p> Alberni Pennyworth </p>
+<p> Alberni Valley Times </p>
+<p> CR Courier Islander </p>
+<p> Comox Valley Echo </p>
+<p> Cowichan Valley Citizen </p>
+<p> Harbour City Star </p>
+<p> Nanaimo Daily News </p>
+<p> Oceanside Star </p>
+<p> The Westerly </p>
+<p> Victoria Times Colonist </p>
+<p> Spotlight </p>
+<p> Features </p>
+<p> Driving </p>
+<p> eFlyers </p>
+<p> adcookieTag = (typeof adcookieTag !== 'undefined') ? (adcookieTag) : ('');                         dartad_tile = (typeof dartad_tile !== 'undefined') ? (dartad_tile + 1) : (1);                          var dartad_url = "http://ad.ca.doubleclick.net/N3081/adj/ndn.com/nanaimodailynews/news/story;loc=top_box;loc=top;sz=250x250,300x250;kw=ron;kw=nanaimodailynews;kw=news;nk=print;pr=nanaimodailynews;ck=nanaimodailynews;sck=news;page=story;tile="+dartad_tile+";"+adcookieTag+surroundTag+"ord=47829830?"; // script ad code with adcookie, used for debug                           document.write('<script language="JavaScript1.1" src="http://ad.ca.doubleclick.net/N3081/adj/ndn.com/nanaimodailynews/news/story;loc=top_box;loc=top;sz=250x250,300x250;kw=ron;kw=nanaimodailynews;kw=news;nk=print;pr=nanaimodailynews;ck=nanaimodailynews;sck=news;page=story;tile='+dartad_tile+';'+adcookieTag+surroundTag+'ord=47829830?"><\/script>'); </p>
+<p> if(adid != "") // check if the ad should start a surround session only if a surround session has not yet started                          {                             surroundTag = "srnd="+adid; // setup the key-value for a surround session                             setSurroundCookie(adid); // store the surround session id in a cookie.                         } </p>
+<p> Â </p>
+<p> Â </p>
+<p> Â </p>
+<p> Related Links </p>
+<p> Â </p>
+<p> Â </p>
+<p> Â </p>
+<p> Antidepressant, talk therapy fail to beat placebo </p>
+<p> Mental illness affecting productivity </p>
+<p> Too little exercise, too much TV tied to depression </p>
+<p> Living well with mental illness </p>
+<p> Â </p>
+<p> adcookieTag = (typeof adcookieTag !== 'undefined') ? (adcookieTag) : ('');                         dartad_tile = (typeof dartad_tile !== 'undefined') ? (dartad_tile + 1) : (1);                          var dartad_url = "http://ad.ca.doubleclick.net/N3081/adj/ndn.com/nanaimodailynews/news/story;loc=skyscraper;loc=top;sz=120x240,160x600;kw=ron;kw=nanaimodailynews;kw=news;nk=print;pr=nanaimodailynews;ck=nanaimodailynews;sck=news;page=story;tile="+dartad_tile+";"+adcookieTag+surroundTag+"ord=47829830?"; // script ad code with adcookie, used for debug                           document.write('<script language="JavaScript1.1" src="http://ad.ca.doubleclick.net/N3081/adj/ndn.com/nanaimodailynews/news/story;loc=skyscraper;loc=top;sz=120x240,160x600;kw=ron;kw=nanaimodailynews;kw=news;nk=print;pr=nanaimodailynews;ck=nanaimodailynews;sck=news;page=story;tile='+dartad_tile+';'+adcookieTag+surroundTag+'ord=47829830?"><\/script>'); </p>
+<p> if(adid != "") // check if the ad should start a surround session only if a surround session has not yet started                          {                             surroundTag = "srnd="+adid; // setup the key-value for a surround session                             setSurroundCookie(adid); // store the surround session id in a cookie.                         } </p>
+<p> Treating depression can help economy: Study </p>
+<p> Derek Abma, 				Postmedia News </p>
+<p> Published:Â Wednesday, January 11, 2012 </p>
+<p> On top of the personal anguish suffered by someone afflicted with </p>
+<p> depression </p>
+<p> , a new study shows that, gone untreated, this form of </p>
+<p> mental illness </p>
+<p> also takes a toll on the economy. </p>
+<p> Research from the Toronto-based </p>
+<p> Centre for Addiction and Mental Health </p>
+<p> indicates treatment for depression can help people suffering from the condition stay productive on the job. </p>
+<p> Mental illness. </p>
+<p> Stock photo </p>
+<p> Email to a friend </p>
+<p> Printer friendly </p>
+<p> Font: </p>
+<p> * </p>
+<p> * </p>
+<p> * </p>
+<p> * </p>
+<p> var addthis_pub = 'canada.com';  							function textCounter(field,cntfield,maxlimit) 							{ 							if (field.value.length > maxlimit) // if too long...trim it! 							field.value = field.value.substring(0, maxlimit); 							// otherwise, update 'characters left' counter 							else 							{ 							var divLabel = document.getElementById("divLabel"); 							divLabel.innerHTML = maxlimit - field.value.length + " characters remaining";  							} 							} </p>
+<p> The centre said mental illness, in general, costs the Canadian economy about $51 billion a year, with one-third of that due to lost productivity. </p>
+<p> Surveys of 3,000 Alberta workers in 2009 found that, among the 255 people indicating they suffered a depressive episode within a year of being interviewed, those who received treatment were more likely to report being able to function at a highly productive level at work. </p>
+<p> Carolyn Dewa, who heads the centre's research division for workplace health, said such finds make sense, given common symptoms of depression, such as concentration loss and </p>
+<p> insomnia </p>
+<p> . </p>
+<p> "To get help with some of those symptoms would really help people to better function," she said. </p>
+<p> Those who reported experiencing a severe depressive episode were seven times more likely to report being able to perform at a highly productive rate if they had received treatment compared to those untreated. </p>
+<p> For those who went through a moderate episode, treatment made them 2.5 times more likely to reach this optimum level of productivity, the study found. </p>
+<p> The effect of treatment on those who had gone through a mildly depressive episode was not found to be significant. </p>
+<p> To be considered as having been depressed, a respondent had to point out at least a two-week period in the year previous to the interview when they felt depressed and had a lack of interest in regular activities. The degree of severity was determined by how many other symptoms they reported, such as a loss of appetite, low self-esteem and suicidal thoughts. </p>
+<p> In this study, it was found that 40 per cent of those who had experienced a severe depressive episode did not get treatment for it - which would include therapy, medication or both - 57 per cent reporting a moderate episode were untreated, and it was 82 per cent for those with mild symptoms. </p>
+<p> The centre called on employers to make treatment options for depression more accessible to their workers. </p>
+<p> "It's not even just about out-of-pocket payments and things like that," Dewa said. "Can people get time off to go to the doctor or to get counselling? Because to get those kinds of treatment, often you have to go during working hours." </p>
+<p> She highlighted the value in employer-benefits plans that cover drugs and therapy for depression. </p>
+<p> Dewa said it typically costs an employer about $18,000 if a worker takes a leave of absence due to mental illness, due to the disruption in workflow. While it's unclear what it would cost organizations to improve the accessibility of treatment options - which also could include a communications policy to reduce the stigma associated with mental illness - she said it would be less expensive than having the employee take leave. </p>
+<p> She added that including mental-health drugs and therapy under the umbrella of universal, publicly funded health care is worth consideration. </p>
+<p> The Centre for Addiction and Mental Health's study follows a report from the </p>
+<p> Organization for Economic Development and Co-operation </p>
+<p> last month pointing out the drag mental illness has on worker productivity in industrialized countries all over the world, and how it hurts individuals' chances of employment. </p>
+<p> dabma@postmedia.com </p>
+<p> Twitter.com/derekabma </p>
+<p> Â© Postmedia News 2012 </p>
+<p> Ads by Google </p>
+<p> <!--          google_ad_client   = 'ca-pub-1718995873402338';          google_ad_output   = 'js';          google_max_num_ads = '3';          google_hints       = 'canada';          google_safe        = 'high';          google_kw_color    = '#E2A9A9';          google_ad_channel  = '1504089218';          google_adtest = 'off' // --> </p>
+<p> <!-- function google_ad_request_done(google_ads) {   var i;   // Display each ad in turn for(i = 0; i < google_ads.length; ++i) { document.write('<div style="text-align:left;padding-top: 5px;border-bottom: solid #CECECE;border-bottom-width: 1px"><a style="color:black;text-align:left;font-weight:bold;padding-bottom:0px;padding-top:0px;width:100%;" href=' + google_ads[i].url +'>' + google_ads[i].line1 + '</a><br />' + google_ads[i].line2 + '<br />' + google_ads[i].line3 + '<br /><a style="color:black;text-align:left;font-weight:bold;border-style:none;padding-bottom:8px;text-decoration:none;width:100%;" href=' + google_ads[i].url +'>' + google_ads[i].visible_url + '</a></div>'); } } // --> </p>
+<p> var detect=""; detect = window.location.search + "";  		if (detect.indexOf("sponsor=food") > -1) document.getElementById("sponsorbox").innerHTML="<img src='/holiday-guide/images/HG_140-food.gif' alt='' />";  		if (detect.indexOf("sponsor=hgtv") > -1) document.getElementById("sponsorbox").innerHTML="<img src='/holiday-guide/images/HG_140-hgtv.gif' alt='' />";  		if (detect.indexOf("sponsor=slice") > -1) document.getElementById("sponsorbox").innerHTML="<img src='/holiday-guide/images/HG_140-slice.gif' alt='' />"; </p>
+<p> #footernews01, #footernews02 {display:block;} #footernews03, #footernews04, #footernews05, #footernews06 {display:none;}  #footer_news {display:block;} #footer_news .footer_news_wrapper {padding:5px 10px 0 15px;} #footer_news .footer_news_container {float:left;border:1px solid gray;width:700px;} .footer_news_col {float:left;width:230px;padding:8px 0 0 0;} /* #body .footer_news_col .mediumimageright {float:left;} */ #page .footer_news_col .contentbox h4 a {color:#333;} #page .footer_news_col .mediumimageright {float:left;} /* Story headline alignment */ #page .footer_news_col .contentbox h4 {float:right;width:140px;} #page .footer_news_col #videocontent_medium .contentbox h4 {float:none;width:auto;}  #body .footer_news_col .contentbox {padding:0 5px 0 5px;} #body #footer .rule {display: block;} </p>
+<p> Inside the </p>
+<p> canada.com Network </p>
+<p> . </p>
+<p> Newspapers: </p>
+<p> National Post </p>
+<p> Victoria Times Colonist </p>
+<p> The Province (Vancouver) </p>
+<p> Vancouver Sun </p>
+<p> Edmonton Journal </p>
+<p> Calgary Herald </p>
+<p> Regina Leader-Post </p>
+<p> Saskatoon StarPhoenix </p>
+<p> Windsor Star </p>
+<p> Ottawa Citizen </p>
+<p> The Gazette (Montreal) </p>
+<p> DOSE </p>
+<p> Postmedia Community Publishing </p>
+<p> VING Newspapers: </p>
+<p> Alberni Valley Pennyworth </p>
+<p> Alberni Valley Times </p>
+<p> Campbell River Courier Islander </p>
+<p> Comox Valley Echo </p>
+<p> Cowichan Valley Citizen </p>
+<p> Harbour City Star </p>
+<p> Nanaimo Daily News </p>
+<p> Oceanside Star </p>
+<p> Tofino-Ucluelet Westerly </p>
+<p> Marketplace: </p>
+<p> working.com </p>
+<p> driving.ca </p>
+<p> remembering </p>
+<p> househunting </p>
+<p> shopping </p>
+<p> Swarmjam Sweet Deals </p>
+<p> About canada.com </p>
+<p> Site Map </p>
+<p> FAQs </p>
+<p> Privacy </p>
+<p> Terms </p>
+<p> Contact Us </p>
+<p> Copyright & Permission Rules </p>
+<p> © 2009 Postmedia Network Inc. All rights reserved. Unauthorized distribution, transmission or republication strictly prohibited. </p>
+<p> <!-- function getURLParam(strParamName){ var strReturn = ""; var strHref = window.location.href; if ( strHref.indexOf("?") > -1 ){ var strQueryString = strHref.substr(strHref.indexOf("?")).toLowerCase(); var aQueryString = strQueryString.split("&"); for ( var iParam = 0; iParam < aQueryString.length; iParam++ ){ if (  aQueryString[iParam].indexOf(strParamName + "=") > -1 ){ var aParam = aQueryString[iParam].split("="); strReturn = aParam[1]; break; } } } return strReturn; }   var storyid = getURLParam("id"); window.onload = function() { try { var object = document.getElementById("footer_news"); if (!storyid) {	   object.style.display = "none"; object.style.visibility = "hidden";  }	 else { 	 object.style.display = "block";  object.style.visibility = "visible";  } } catch (error) {} }  var expDays = 365;	 var exp = new Date();  exp.setTime(exp.getTime() + (expDays*24*60*60*1000));  function getCookieVal (offset) {   var endstr = document.cookie.indexOf (";", offset); if (endstr == -1)     endstr = document.cookie.length;   return unescape(document.cookie.substring(offset, endstr)); }  function GetCookie (name) {   var arg = name + "=";   var alen = arg.length;   var clen = document.cookie.length;   var i = 0;   while (i < clen) {     var j = i + alen;     if (document.cookie.substring(i, j) == arg)       return getCookieVal (j);     i = document.cookie.indexOf(" ", i) + 1;     if (i == 0) break;    }   return null; }  function SetCookie (name, value) {   var argv = SetCookie.arguments;   var argc = SetCookie.arguments.length;   var expires = (argc > 2) ? argv[2] : null;   var path = (argc > 3) ? argv[3] : null;   var domain = (argc > 4) ? argv[4] : null;   var secure = (argc > 5) ? argv[5] : false;   document.cookie = name + "=" + escape (value) +  ((expires == null) ? "" : ("; expires=" + expires.toGMTString())) +  ((path == null) ? "" : ("; path=" + path)) +   ((domain == null) ? "" : ("; domain=" + domain)) +     ((secure == true) ? "; secure" : ""); } function DeleteCookie (name) {   var exp = new Date();   exp.setTime (exp.getTime() - 1);   var cval = GetCookie (name);   document.cookie = name + "=" + cval + "; expires=" + exp.toGMTString(); }  var count = 0; function passItOn(objectID) { var countvalue = GetCookie ('newscount'); if(countvalue <= 5){ countvalue++; } SetCookie('newscount', countvalue, exp);  var savedObject = GetCookie (objectID); if(!savedObject){ SetCookie(objectID, objectID, exp); } }   function checkCookie(){	 try { var countvalue = GetCookie ('newscount'); var k = 1; for (j = 1; j <= 6; j++){ var objectname = 'footernews0' + j; var cookiedobject = GetCookie (objectname); var showobject = GetCookie ('showobject'); if(cookiedobject){ if((countvalue == 6) || (countvalue == 5)){ var pageobject = document.getElementById(cookiedobject); pageobject.style.display = 'block'; break; } else { var pageobject = document.getElementById(cookiedobject); pageobject.style.display = 'none'; } }else { var pageobject = document.getElementById(objectname); if (k <= 2){ pageobject.style.display = 'block'; //alert(k + objectname); k++; } }  } } catch (err) {}  }   //--> </p>
+<p> checkCookie(); </p>
+<p> <!--                         /* You may give each page an identifying name, server, and channel on                         the next lines. */                         s.pageName='/nanaimodailynews/news/story.html';                         s.server=window.location.hostname.toLowerCase();                         s.channel='nanaimodailynews';                         s.pageType='';                         s.prop1='nanaimodailynews/news';                         s.prop2='nanaimodailynews/news';                         s.prop3='canwest';                         s.prop4='Non-Registered';                         s.prop5=s.prop4 + ': ' + s.pageName;                         s.prop6='Postmedia News/FREE';                         s.prop7='Postmedia News';                         s.prop8='5979921';                         s.prop9='';                         s.prop10='';                         s.prop13='';                         s.prop23=document.title;                         s.prop24=s.prop8;                         s.prop25='story';                         s.prop26='nanaimodailynews';                                     s.prop27='nanaimodailynews/news';                           s.prop28='';                          s.prop29='';                          s.prop36='Depression';                          s.prop37='ndn.com';                                                  /* E-commerce Variables */                         s.state='';                         s.zip='';                         s.events='';                         s.products='';                         s.purchaseID='';                         s.transactionID = s.purchaseID;                         /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/                         var s_code=s.t();if(s_code)document.write(s_code)//--> </p>
+<p> <!--                         if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')                         //--> </p>

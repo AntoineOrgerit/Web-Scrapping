@@ -1,0 +1,183 @@
+<p> "中国巴菲特"家暴妻子 有钱后搞婚外情_国内_正北方网 </p>
+<p> var contentid = 638219; </p>
+<p> // <![CDATA[ function copy_url(){ var clipBoardContent=""; clipBoardContent+=document.title; //获取标題 clipBoardContent+="\n"; clipBoardContent+=this.location.href; //获取地址 if (window.clipboardData){ window.clipboardData.setData("Text", clipBoardContent);} else if (window.netscape){ netscape.security.PrivilegeManager.enablePrivilege('UniversalXPConnect'); var clip = Components.classes['@mozilla.org/widget/clipboard;1'].createInstance(Components.interfaces.nsIClipboard); if (!clip) return; var trans = Components.classes['@mozilla.org/widget/transferable;1'].createInstance(Components.interfaces.nsITransferable); if (!trans) return; trans.addDataFlavor('text/unicode'); var str = new Object(); var len = new Object(); var str = Components.classes["@mozilla.org/supports-string;1"].createInstance(Components.interfaces.nsISupportsString); var copytext=clipBoardContent; str.data=copytext; trans.setTransferData("text/unicode",str,copytext.length*2); var clipid=Components.interfaces.nsIClipboard; if (!clip) return false; clip.setData(trans,null,clipid.kGlobalClipboard);} alert("已复制"+clipBoardContent) //return false; } // ]]> </p>
+<p> function posttoWb(){ var _t = encodeURI(document.title); 		var _url = encodeURIComponent(document.location); 		var _appkey = encodeURI("85abc8be530b476aac4da4c7d20f8441");//你从腾讯获得的appkey 		var _pic = encodeURI('');//（例如：var _pic='图片url1|图片url2|图片url3....） 		var _site = 'http://www.northnews.cn';//你的网站地址 		var _u = 'http://v.t.qq.com/share/share.php?url='+_url+'&appkey='+_appkey+'&site='+_site+'&pic='+_pic+'&title='+_t; 		window.open( _u,'', 'width=700, height=680, top=0, left=0, toolbar=no, menubar=no, scrollbars=no, location=yes, resizable=no, status=no' ); } </p>
+<p> .lq{width:450px;height:90px; border:1px solid #dedede;padding:2px;margin:0 auto} .copyright{margin-top:10px;} .haierad img{margin:0;width:600px;height:110px; float:left;} .thelogo{width:160px;height:50px; float:right;} </p>
+<p> 内蒙古日报传媒集团主管·北方新报社主办 </p>
+<p> 内蒙古人的新闻首页 -- 内蒙古最具影响力的网络媒体 -- </p>
+<p> 中国百强新闻网站 </p>
+<p> 首页 </p>
+<p> | </p>
+<p> 内蒙古 </p>
+<p> | </p>
+<p> 呼和浩特 </p>
+<p> | </p>
+<p> 国内 </p>
+<p> | </p>
+<p> 国际 </p>
+<p> | </p>
+<p> 评论 </p>
+<p> | </p>
+<p> 99街 </p>
+<p> | </p>
+<p> 独家 </p>
+<p> | </p>
+<p> 旅游 </p>
+<p> | </p>
+<p> 游戏 </p>
+<p> | </p>
+<p> 数码 </p>
+<p> | </p>
+<p> 手机报 </p>
+<p> 社会 </p>
+<p> | </p>
+<p> 数字报 </p>
+<p> | </p>
+<p> 青城故事 </p>
+<p> | </p>
+<p> 视频 </p>
+<p> | </p>
+<p> 专题 </p>
+<p> | </p>
+<p> 娱乐 </p>
+<p> | </p>
+<p> 体育 </p>
+<p> | </p>
+<p> 读图 </p>
+<p> | </p>
+<p> 汽车 </p>
+<p> | </p>
+<p> 房产 </p>
+<p> | </p>
+<p> 商街 </p>
+<p> | </p>
+<p> 团购网 </p>
+<p> 新闻搜索： </p>
+<p> 正北方网 </p>
+<p> > </p>
+<p> 新闻 </p>
+<p> > </p>
+<p> 国内新闻 </p>
+<p> > </p>
+<p> 国内 </p>
+<p> > 正文 </p>
+<p> "中国巴菲特"家暴妻子孩子 有钱后搞婚外情 </p>
+<p> 正有 </p>
+<p> 0 </p>
+<p> 人评论 </p>
+<p> 我来说两句 </p>
+<p> 2012年01月12日 16:30    来源： </p>
+<p> 凤凰网 </p>
+<p> 编辑：杨苏雯 </p>
+<p> >>>手机看新闻 </p>
+<p> 复制链接发给好友 </p>
+<p> | </p>
+<p> 分享到新浪微博 </p>
+<p> | </p>
+<p> 分享到腾讯微博 </p>
+<p> | </p>
+<p> 分享到网易微博 </p>
+<p> "中国巴菲特"家暴妻子 有钱后搞婚外情 </p>
+<p> “疯狂英语”李阳家暴美籍妻子还没有尘埃落定。被誉为"中国巴菲特"的赵丙贤家暴妻子，也将自己推上风口浪尖。“中国巴菲特”被指家暴？引来社会各界的关注。赵丙贤因投资屡获成功被称为中国的“巴菲特”。但陆娟说，社会的风气和公司发展的压力也严重影响了丈夫，赵丙贤自有钱后回家越来越少，发生婚外情，并对她和孩子实施家庭暴力，导致她两次报警。 </p>
+<p> 中证万融投资集团有限公司董事长赵丙贤，因以股票起家又主做投资银行业务，被业界称为“中国巴菲特”。昨天记者获悉，其妻子陆娟向法院提起离婚诉讼，并要求分割夫妻共同财产，孩子归自己抚养。这起财富总数超过20个亿的天价离婚案，诉讼过程一波三折，目前已被从朝阳法院转送至通州法院，后者尚未发出立案通知。 </p>
+<p> 富豪被指婚外情家庭暴力 </p>
+<p> 陆娟提交的起诉书显示，她与赵丙贤1988年结婚，双方育有一个女儿和一个儿子。1992年两人分别从部队转业到地方，并共同开办了第一个公司，此后发展从小到大，控股、参股了几家上市公司，创造并积累了可观的财富。而赵丙贤也因投资屡获成功被称为中国的“巴菲特”。但陆娟说，社会的风气和公司发展的压力也严重影响了丈夫，赵丙贤自有钱后回家越来越少，发生婚外情，并对她和孩子实施家庭暴力，导致她两次报警。 </p>
+<p> 上一页 </p>
+<p> 1 </p>
+<p> 2 </p>
+<p> 3 </p>
+<p> 下一页 </p>
+<p> >>请相信网络的力量! </p>
+<p> 加入收藏 </p>
+<p> | </p>
+<p> 设为首页 </p>
+<p> | 将本文分享到： </p>
+<p> 更多内蒙古新闻>> </p>
+<p> 今日内蒙古 </p>
+<p> 吃饭起争执丈夫捅死妻子 </p>
+<p> 不满儿子管教孙子老人负气离家出走 </p>
+<p> 婚宴双方各执一词只等证据“说话” </p>
+<p> 街头“灯歪歪 牌斜斜”究竟谁来管 </p>
+<p> 呼市6位老人将空竹抖上内蒙古春晚 </p>
+<p> 呼和浩特市84岁老人骑游改变生活 </p>
+<p> var youdao_client="1005"; 					var youdao_member="112406"; 					var youdao_template="text_620_120"; 					var youdao_width="620"; 					var youdao_height="120"; </p>
+<p> alimama_pid="mm_29490811_2477810_9426414";  					alimama_titlecolor="0000FF";  					alimama_descolor ="000000";  					alimama_bgcolor="FFFFFF";  					alimama_bordercolor="E6E6E6";  					alimama_linkcolor="008000"; 					alimama_bottomcolor="FFFFFF"; 					alimama_anglesize="0";  					alimama_bgpic="0";  					alimama_icon="0";  					alimama_sizecode="9999";  					alimama_width="600";  					alimama_height="90";  					alimama_type=2; </p>
+<p> 更多>> </p>
+<p> 读图 </p>
+<p> 2012央视春晚看点早 </p>
+<p> 惊爆眼球的另类囧照 </p>
+<p> 女星惨遭富商"揩油" </p>
+<p> 众星变身"吃情"男女 </p>
+<p> 版权声明： </p>
+<p> 凡注明来源为"正北方网"的所有文字、图片、音视频、美术设计和程序等作品，版权均属内蒙古正北方网或相关权利人专属所有或持有所有。未经本网书面授权，不得进行一切形式的下载、转载或建立镜像。否则以侵权论，依法追究相关法律责任。 </p>
+<p> 查看所有评论 </p>
+<p> 正有 </p>
+<p> ( </p>
+<p> 0 </p>
+<p> ) </p>
+<p> 人在评论 </p>
+<p> 网友评论仅供网友表达个人看法，并不表明本网同意其观点或证实其描述 </p>
+<p> 验证码： </p>
+<p> 换一张 </p>
+<p> var islogin = 0+0; var loginUrl = "http://app.northnews.cn/?app=member&controller=index&action=login"; var username = "网友"; var defaultname = "网友";  var commentTpl = "<dt><span class='user-info'>{location}"+defaultname+" [{nickname}]： </span><span class='post-time'>{date}</span></dt><dd><p>{content}</p><div class='hr-dotted hr-h10'></div></dd>"; $(function(){ 	var topicid = $("#commentForm input[name='topicid']").val(); 	getCommemt(topicid,$('#commentWrapper'),function(json) { 		$('.comments').html(json.total); 		if(json.total >0 ) $('.view-comment').show(); 	}); 	//评论提交 	$('#commentForm').submit(function() { 		if ($('textarea[name=content]', '#commentForm').val() == '') { 			alert('评论内容不能为空'); 			return false; 		} 		if (islogin == 1 && !$.cookie(COOKIE_PRE+'auth')) { 			alert('请登录后再发表评论'); 			return false; 		} 		return true; 	}); 	if ($.cookie(COOKIE_PRE+'auth')) { 		//已登录 		username = $.cookie(COOKIE_PRE+'username'); 		if(username == null) username = defaultname; 		$('#nickname').html(username); 		$('#quickLogout').show(); 		$('#quickLogin').hide(); 	} else { 		if(islogin == 1) { 			//需要登录才能评论 			$('#nickname').html('请登录后再发表评论'); 			$('#anonymous').hide(); 		} else { 			//不需要登录 			$('#anonymous').hide(); 			$('#nickname').html(defaultname); 		} 	} 	 	$('#quickLogin > a').click(function() { 		var _t = $(this); 		var _d  = $('#fastLoginDiv'); 		var _lp = _t.offset().left; 		var _tp = _t.offset().top; 		var _v = _d.attr('value'); 			_d.css({'position':'absolute','left':_lp+50+'px','top':_tp-50+'px'}) 			 		if(_v == 0) { 			_d.fadeIn(); 			_d.attr('value',"1"); 			_t.html('关闭登录'); 		} else { 			_d.fadeOut(); 			_d.attr('value',"0"); 			_t.html('快速登录'); 			$('#loginUsername').focus(); 		} 	}); 	$('#quickLogout > a').click(function() { 		$.getJSON(APP_URL+'?app=member&controller=index&action=ajaxlogout&jsoncallback=?', function(json){ 			if(json.state) { 				if(islogin == 1) { 					//需要登录 					$('#nickname').html('请登录后再发表评论'); 				} else { 					$('#nickname').html(defaultname); 				} 				$('#anonymous,#quickLogout').hide(); 				$('#quickLogin').show(); 				username = ''; 			} else { 				alert('退出失败'); 			} 		}); 	}); });  //取评论函数 function getCommemt(topicid,wrapper,callback) { 	if(!topicid) return ; 	$.getJSON(APP_URL+'?app=comment&controller=comment&action=get&topicid='+topicid+'&jsoncallback=?', function(json){ 		if(json.total) { 			for (var i=0,item;item=json.data[i++];) {                 var html = commentTpl; 				for (var key in item) { 					html = html.replace(new RegExp('{'+key+'}',"gm"), item[key]); 				} 				wrapper.append(html); 			} 		} 		typeof callback == 'function' && callback(json); 	}); }  function login() { 	var username = $('#loginUsername').val(); 	var password = $('#loginPassword').val(); 	if ( username == '') { 		alert('用户名不能为空'); 		return false; 	} 	if ( password == '') { 		alert('密码不能为空'); 		return false; 	}  	$.getJSON(APP_URL+'?app=member&controller=index&action=ajaxlogin&username='+encodeURIComponent(username)+'&password='+encodeURIComponent(password)+'&jsoncallback=?', function(json){ 		if(json.state) { 			username = json.username; 			$('#nickname').html(username); 			$('#fastLoginDiv,#quickLogin').hide(); 			$('#quickLogout,#anonymous').show(); 		} else { 			alert(json.error); 		} 	}); } </p>
+<p> 新闻热线 </p>
+<p> 0471-3344555 </p>
+<p> 社区爆料 </p>
+<p> QQ爆料 </p>
+<p> 今日重要新闻 </p>
+<p> "北大校花"李思思主持春晚 </p>
+<p> "苏妲己"傅艺伟母子私房照 </p>
+<p> 中国巴菲特被指婚外情家暴 妻子闹离婚被威胁 </p>
+<p> 李思思爆冷成春晚主持人 成名史曝光[图] </p>
+<p> 炒股亏了八九百万 女星卫莱服药自杀[图] </p>
+<p> 春晚女主持阵容曝光 历届春晚美女主持大PK </p>
+<p> 传刘德华妻子朱丽倩怀上女三胞胎[图] </p>
+<p> 张柏芝抱着何炅转圈 抡开膀子PK谢娜[图] </p>
+<p> alimama_pid="mm_29490811_2477810_9426317"; 			alimama_titlecolor="0000FF"; 			alimama_descolor ="000000"; 			alimama_bgcolor="FFFFFF"; 			alimama_bordercolor="E6E6E6"; 			alimama_linkcolor="008000"; 			alimama_bottomcolor="FFFFFF"; 			alimama_anglesize="0"; 			alimama_bgpic="0"; 			alimama_icon="0"; 			alimama_sizecode="37"; 			alimama_width=300; 			alimama_height=250; 			alimama_type=2; </p>
+<p> var youdao_client="1005"; 					var youdao_member="112406"; 					var youdao_template="text_338_180"; 					var youdao_width="335"; 					var youdao_height="180"; </p>
+<p> 网友关注排行 </p>
+<p> 李思思换下周涛主持春晚 "北大校花"惊艳写 </p>
+<p> "苏妲己"傅艺伟蜕变亿万富婆 母子私房照曝 </p>
+<p> 深圳最牛工资单与清洁工工资单差距之大(图) </p>
+<p> 龙年春晚女主持人阵容曝光 历届春晚美女主 </p>
+<p> 吃饭起争执丈夫捅死妻子 </p>
+<p> 电话订票加价 一分钟另加9毛钱(图) </p>
+<p> 苏有朋出席《红白艺能大赏》 林心如现身挺 </p>
+<p> 英媒恶毒攻击中国花游队员 中国官方强烈不 </p>
+<p> 一男子在医院候诊大厅死亡 警方其寻找家属 </p>
+<p> 炒股亏了八九百万 女星卫莱服安眠药自杀[图 </p>
+<p> 99街图吧 </p>
+<p> 让人爆笑的一瞬间 </p>
+<p> 大学这神秘又牛叉的组织 </p>
+<p> 内衣  熟女 小蛮腰 </p>
+<p> 尤物养眼！最媚台球妹子！ </p>
+<p> 网友爆料关注排行 </p>
+<p> 联想99街新春猜贴迷送大礼 </p>
+<p> 新反扒暗语：你的包真漂亮！ </p>
+<p> 电视购物买回问题手机，真是坑爹呀！ </p>
+<p> [眼力大考验]10秒能看出来你就能做侦探了 </p>
+<p> 笑死我了，看了第一个哥没能hold住 </p>
+<p> 都来围观小学生期末作文，要笑岔气了！ </p>
+<p> 亲，你敢晒出你的网购个人年度账单吗？ </p>
+<p> 惊！看山寨内衣展让人目瞪口呆 </p>
+<p> 面对全裸美女，摄像师终于坚持不住了 </p>
+<p> 瞠目结舌:国外派对男女间挑逗如此有放荡 </p>
+<p> 网站介绍 </p>
+<p> | </p>
+<p> 广告报价 </p>
+<p> | </p>
+<p> 联系方式 </p>
+<p> | </p>
+<p> 法律声明 </p>
+<p> | </p>
+<p> 对外合作 </p>
+<p> | </p>
+<p> 友情链接 </p>
+<p> | </p>
+<p> 网站地图 </p>
+<p> 版权声明：正北方网版权所有，未经授权， 请勿转载或建立镜像，违者依法必究。  Email：northnews@126.com </p>
+<p> 正北方网新闻热线：0471-3344555  本站客服电话：0471-6635129 本站商务合作：0471-6635388 </p>
+<p> 正北方网(原北方新闻网) Copyright © 2004-2011 northnews.cn All Rights Reserved. 蒙ICP备10000005号 国新网许可证编号： </p>
+<p> 1512011001 </p>
+<p> var content = '';//第一页内容缓存 var context = '';//全文内容缓存 var isfulltext = false; $(function(){ 	digg.get(contentid); 	content = $('#ctrlfscont').html(); 	var font = $.cookie(COOKIE_PRE+'font');//根据cookie设置字体大小并初始化按钮 	if(font){ 		$('#ctrlfssummary,#ctrlfscont').addClass(font); 		if(font == 'fs-big'){ 		 	$('#bfont').addClass('cor-current'); 			$('#sfont').removeClass('cor-current'); 		} 	} 	$.getJSON(APP_URL+'?app=system&controller=content&action=stat&jsoncallback=?&contentid='+contentid); 	 	$('form[id^="vote"]').each(function(){ 		var contentid = $(this).find('>input[name="contentid"]:hidden').val(); 		var maxoptions = $(this).find('>input[name="maxoptions"]:hidden').val(); 		$(this).submit(function(){ 			var checkeds = $(this).find('input:checked').length; 			if(checkeds == 0){ 				alert('请选择投票选项'); 				return false; 			} 			if(maxoptions){ 				if(checkeds > parseInt(maxoptions)){ 					alert('最多允许选'+maxoptions+'项'); 					return false; 				} 			} 		}) 	}) }) function fulltext(){  //单页阅读 		if(context =='') 		$.getJSON(APP_URL+'?app=article&controller=article&action=fulltext&jsoncallback=?&contentid='+contentid,function(data){ 			context = data.content; 			$('#ctrlfscont').html(data.content); 			$('#show-all-cont').html('分页阅读').parent().siblings().hide(); 			$('.bor-ccc').hide(); 			isfulltext = true; 			holdpic(); 		}); 		else{ 			$('#ctrlfscont').html(isfulltext?content:context); 			$('#show-all-cont').html(isfulltext?'单页阅读':'分页阅读').parent().siblings().toggle(isfulltext === true); 			isfulltext = (isfulltext === false); 			$('.bor-ccc').show(); 			holdpic(); 		} } function holdpic(){//控制内容区域的的图片大小并为过大的图片添加查看原图 	var options = { 		imageLoading:IMG_URL+'js/lib/lightBox/lightbox-ico-loading.gif', 		imageBtnPrev:IMG_URL+'js/lib/lightBox/lightbox-btn-prev.gif', 		imageBtnNext:IMG_URL+'js/lib/lightBox/lightbox-btn-next.gif', 		imageBtnClose:IMG_URL+'js/lib/lightBox/lightbox-btn-close.gif', 		imageBlank:IMG_URL+'js/lib/lightBox/lightbox-blank.gif' 	}; 	$('#ctrlfscont').find('img').each(function(){ 		var img = this; 		if (img.width>608) { 			img.style.width = '600px'; 			$(img).removeAttr('height'); 			var aTag = document.createElement('a'); 			aTag.href = img.src; 			$(aTag).addClass('bPic') 			.insertAfter(img).append(img) 			.lightBox(options); 		} 	}); } $(window).load(function(){ 	holdpic(); }); function copyToClipboard(txt) {  //复制网址 	if(window.clipboardData) { 		window.clipboardData.clearData(); 		window.clipboardData.setData("Text", txt); 		alert("复制链接成功！"); 	} else if(navigator.userAgent.indexOf("Opera") != -1) { 		window.location = txt; 	} else if (window.netscape) { 		try { 			netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect"); 		} catch (e) { 			alert(" 被浏览器拒绝！\n请在浏览器地址栏输入'about:config'并回车\n然后将 'signed.applets.codebase_principal_support'设置为'true'"); 		} 		var clip = Components.classes['@mozilla.org/widget/clipboard;1'].createInstance(Components.interfaces.nsIClipboard); 		if (!clip) 		return; 		var trans = Components.classes['@mozilla.org/widget/transferable;1'].createInstance(Components.interfaces.nsITransferable); 		if (!trans) 		return; 		trans.addDataFlavor('text/unicode'); 		var str = new Object(); 		var len = new Object(); 		var str = Components.classes["@mozilla.org/supports-string;1"].createInstance(Components.interfaces.nsISupportsString); 		var copytext = txt; 		str.data = copytext; 		trans.setTransferData("text/unicode",str,copytext.length*2); 		var clipid = Components.interfaces.nsIClipboard; 		if (!clip) 		return false; 		clip.setData(trans,null,clipid.kGlobalClipboard); 		alert("复制链接成功！"); 	} }  function changeFont(t){ //改变字号 	var tosmall = (t.innerHTML=='小')?true:false; 	if(tosmall&&$(t).hasClass('cor-current')) return; 	$('.cor-current').removeClass('cor-current'); 	$(t).addClass('cor-current'); 	$.cookie(COOKIE_PRE+'font',tosmall?'fs-small':'fs-big',{domain:COOKIE_DOMAIN,path:COOKIE_PATH,expires:300}); 	$('#ctrlfssummary,#ctrlfscont').removeClass(tosmall?'fs-big':'fs-small').addClass(tosmall?'fs-small':'fs-big'); } </p>
+<p> document.body.oncopy = function () { setTimeout( function () { var text = clipboardData.getData("text"); if (text) { text = text + "\r\n本文来源:正北方网——内蒙古人的新闻主页 关注你最关心的新闻 原文地址："+location.href; clipboardData.setData("text", text); } }, 100 ) } </p>

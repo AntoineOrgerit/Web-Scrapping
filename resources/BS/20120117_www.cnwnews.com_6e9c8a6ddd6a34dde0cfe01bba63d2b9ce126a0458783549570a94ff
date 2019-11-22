@@ -1,0 +1,153 @@
+<p> 汽车三包规定再征意见 预计将于年内出台 - 中网资讯中心 </p>
+<p> function Digg(divId,aid){    var taget_obj = document.getElementById(divId+''+aid);    var myajax = new DedeAjax(taget_obj,false,false,"","","");    myajax.SendGet2("/digg.php?action=digg&aid="+aid);    DedeXHTTP = null; } </p>
+<p> .context{ width:638px; clear:both;} .diggArea{ padding:0px;margin:0px;background-image:url('/plus/img/diggbg2.gif');width:60px; height:58px;line-height:23px;float:left; } .diggNum{ margin:0px; text-align:center; padding:0px;  font-size:12px; font-weight:bold; color:#CC0000;width:58px; height:23px; margin-top:8px; } .diggLink{ margin:0px; text-align:center; padding:0px;  font-size:14px; font-weight:bold;width:58px;  height:23px;  } .diggLink a{ font-size:14px; font-weight:bold; } .logo {margin:5px 9px 0 3px; float:left;} </p>
+<p> .NTES_passport {clear:both; width:100%; height:29px; line-height:29px; background:url(http://www.cnwnews.com/templets/css/index/all_icon.png) left -322px repeat-x #fff;} .NTES_passport .main {width:960px; margin:0 auto;} .NTES_passport .login {float:left; padding-left:8px;} .NTES_passport .mailLink {float:right; padding-right:12px;} .login form {float:left;} .login .label {overflow:hidden; float:left; margin:5px 0 0; _margin-top:4px; height:20px; padding:2px 0 0; line-height:16px; color:#4b4b4b;} .login .login_ipt {overflow:hidden; float:left; margin:5px 0 0; _margin-top:4px; height:20px; line-height:16px; color:#4b4b4b;} .ipt input {border:none; background:none; height:18px; width:50px; overflow:hidden; font-size:12px; line-height:16px;} .login .ipt {float:left; overflow:hidden; width:54px; height:18px; margin:5px 5px 0; font-size:12px; padding:0 0 0 2px; background:url(http://www.cnwnews.com/templets/css/index/all_icon.png) right -294px no-repeat #fff;} .login .btn_submit {_display:inline; float:left; width:39px; height:18px; margin:5px 11px 0 6px; font-size:12px; color:#4B4B4B; cursor:pointer; border:none; background:url(http://www.cnwnews.com/templets/css/index/skin_blue1117.png) -231px top no-repeat #fff;} .i_setIndex {padding:2px 0 0 19px; cursor:pointer; background:url(http://www.cnwnews.com/templets/css/index/all_icon.png) -62px 1px no-repeat;} .i_mobileUE {padding:2px 0 0 15px; background:url(http://www.cnwnews.com/templets/css/index/all_icon.png) -64px -32px no-repeat;} /* 频道通用导航 */ .NTES_nav_ {width:960px; line-height:30px; margin:0 auto;} .NTES_nav_ .nav_link {float:left; color:#B3B3B3;} .NTES_nav_ .nav_link a,.NTES_nav_ .nav_link a:visited {padding:0 3px; color:#2b2b2b;} .NTES_nav_ .nav_link a:hover {color:#ba2636;} .NTES_nav_ .rightCon {float:right;} .NTES_nav_ .rightCon .rss{display:inline; float:right; margin:8px 6px 0 6px;} .NTES_nav_ .NTES_link {float:left; color:#B3B3B3;} .NTES_nav_ .NTES_link a,.NTES_nav_ .NTES_link a:visited {padding:0 2px 0 3px; color:#1E50A2;} .NTES_nav_ .NTES_link a:hover {color:#ba2636;} </p>
+<p> 中网首页 </p>
+<p> - </p>
+<p> 资讯中心 </p>
+<p> - </p>
+<p> 商业 </p>
+<p> - </p>
+<p> 内幕 </p>
+<p> - </p>
+<p> 商评 </p>
+<p> - </p>
+<p> 财经 </p>
+<p> - </p>
+<p> 股市 </p>
+<p> - </p>
+<p> 精英 </p>
+<p> - </p>
+<p> 科技 </p>
+<p> - </p>
+<p> 互联网 </p>
+<p> - </p>
+<p> 创业 </p>
+<p> - </p>
+<p> 汽车 </p>
+<p> - </p>
+<p> 企业 </p>
+<p> - </p>
+<p> 专题 </p>
+<p> - </p>
+<p> 娱乐 </p>
+<p> - </p>
+<p> 社会 </p>
+<p> - </p>
+<p> 图片 </p>
+<p> - </p>
+<p> 问吧 </p>
+<p> 注册会员 </p>
+<p> | </p>
+<p> 会员登陆 </p>
+<p> | </p>
+<p> 我要报料 </p>
+<p> 主页 </p>
+<p> > </p>
+<p> 汽车频道 </p>
+<p> > </p>
+<p> 交通政策 </p>
+<p> > </p>
+<p> 搜索内容 </p>
+<p> 搜索标题 </p>
+<p> 汽车三包规定再征意见 预计将于年内出台 </p>
+<p> 来源： </p>
+<p> 腾讯 </p>
+<p> 时间： </p>
+<p> 2012-01-17 19:58:16 </p>
+<p> 资料图 </p>
+<p> 中新网1月17日电 国家质检总局根据2011年年底进行的听证会，对汽车三包征求意见稿一些关键内容进行了修改，并将修改后的意见稿再次向社会公开征求意见。 </p>
+<p> 昨日，国家质检总局昨日公布了《家用汽车产品修理、更换、退货责任规定(第二次征求意见稿)》，与2011年年底的征求意见稿相比，最新的意见稿进行了五方面的重大修改，从而使消费者利益更大化。 </p>
+<p> 据悉，从国家质检总局第一次针对汽车三包规定公开征求意见的2004年至今，已经有7年多的时间了，其间经历了2011年9月份的第二次公开征求意见，和2011年10月26日的立法听证会。 </p>
+<p> 国家质检总局法规司司长刘兆彬在接受央视采访时表示，质检总局根据2011年年底进行的立法听证会上，各方的大量意见建议，对征求意见稿一些关键内容进行了修改，对修改后的内容再次公开征求意见，能够促使汽车三包规定更加严谨和完善。2012年的最新意见稿有5方面改进，这些改进将更好的维护消费者权益。 </p>
+<p> 刘兆彬表示，汽车三包规定出台的条件和时机已经成熟，质检总局法规司在此次征求意见后，将对大家的意见进行整理和归纳，并尽快报请局委会讨论通过，预计年内能够正式出台。 </p>
+<p> 作者： </p>
+<p> 责任编辑： </p>
+<p> 易清 </p>
+<p> [ </p>
+<p> 收藏 </p>
+<p> ] </p>
+<p> [ </p>
+<p> 推荐 </p>
+<p> ] </p>
+<p> [ </p>
+<p> 评论 </p>
+<p> ] </p>
+<p> [ </p>
+<p> 打印 </p>
+<p> ] </p>
+<p> [ </p>
+<p> 关闭 </p>
+<p> ] </p>
+<p> 要了解更多，可继续查阅相关资讯: </p>
+<p> 暂无关联文章，您可通过站内搜索查询相关文章 </p>
+<p> 0 </p>
+<p> 顶一下 </p>
+<p> 上一篇： </p>
+<p> 车内空气国标3月1日起实施 非强制性要求 </p>
+<p> 下一篇：没有了 </p>
+<p> 最新评论 </p>
+<p> 共有 0 位网友发表了评论 </p>
+<p> 查看所有评论 </p>
+<p> 发表评论 </p>
+<p> 评论内容： </p>
+<p> 不能超过250字，需审核，请自觉遵守互联网相关政策法规。 </p>
+<p> 用户名： </p>
+<p> 密码： </p>
+<p> 匿名? </p>
+<p> 注册 </p>
+<p> 推荐新闻图片 </p>
+<p> 热点关注 </p>
+<p> 广东车船税今年实施新标准 近5成可减60元 </p>
+<p> 校车新国标或将于3月实施 标准比美国更高 </p>
+<p> 北京政协委员建议尾号限行改为特定时段限行 </p>
+<p> 环保部宣布对汽油车全国实行国IV标准 </p>
+<p> 一批经济新规今起实施 87%车主车船税不增 </p>
+<p> 公安部已着手修改驾照规范 违法成本将提高 </p>
+<p> 宇通否认“绑架”校车标准 被指脱离实际 </p>
+<p> 汽车工业“十二五”节能减排相关政策一览 </p>
+<p> 二手车取消购置税过户、转籍、变更业务 </p>
+<p> 国内首条高速公路元旦停止收费 </p>
+<p> 杭州购买新车 车主可网上自选车牌号 </p>
+<p> 广州拟约束私人使用小汽车 但不考虑限牌 </p>
+<p> 热点图片新闻 </p>
+<p> 评论热文 </p>
+<p> 一批经济新规今起实施 87%车主车船税不增 </p>
+<p> 广东车船税今年实施新标准 近5成可减60元 </p>
+<p> 杭州购买新车 车主可网上自选车牌号 </p>
+<p> 国内首条高速公路元旦停止收费 </p>
+<p> 二手车取消购置税过户、转籍、变更业务 </p>
+<p> 2012年公交提升计划 服务不合格将终止运营 </p>
+<p> 49款新能源车纳入免征车船税车型目录 </p>
+<p> 四川：尾气排放不达标 车辆不能上路 </p>
+<p> 车购税过户将取消 高龄二手车价可能微涨 </p>
+<p> 公安部已着手修改驾照规范 违法成本将提高 </p>
+<p> 宇通否认“绑架”校车标准 被指脱离实际 </p>
+<p> 校车新国标意见征集结束 客车企业意见不一 </p>
+<p> 推荐文章 </p>
+<p> 汽车三包再次征求意见 违规行为最高罚3万 </p>
+<p> 校车安全条例草案意见公布 7000条意见激辩 </p>
+<p> 校车新国标或将于3月实施 标准比美国更高 </p>
+<p> 北京政协委员建议尾号限行改为特定时段限行 </p>
+<p> 环保部宣布对汽油车全国实行国IV标准 </p>
+<p> 宇通否认“绑架”校车标准 被指脱离实际 </p>
+<p> 公安部已着手修改驾照规范 违法成本将提高 </p>
+<p> 关于我们 </p>
+<p> | </p>
+<p> 保护隐私权 </p>
+<p> | </p>
+<p> 网站声明 </p>
+<p> | </p>
+<p> 投稿办法 </p>
+<p> | </p>
+<p> 广告服务 </p>
+<p> | </p>
+<p> 联系我们 </p>
+<p> | </p>
+<p> 网站导航 </p>
+<p> | </p>
+<p> 友情链接 </p>
+<p> | </p>
+<p> 不良信息举报：yunying#cnwnews.com(将#换成@即可) </p>
+<p> Copyright © 2004-2010 Cnwnews.com. All Rights Reserved 中网资讯中心 版权所有 </p>
+<p> 京ICP备05004402号 </p>

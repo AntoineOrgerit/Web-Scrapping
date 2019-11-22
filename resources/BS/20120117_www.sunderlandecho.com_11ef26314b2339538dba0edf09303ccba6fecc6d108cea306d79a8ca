@@ -1,0 +1,555 @@
+<p> var siteKey = 'sejj'; </p>
+<p> Under-fire Washington care home is improving - Local - Sunderland Echo </p>
+<p> var randomnumber=Math.floor(Math.random()*10000000000); 	var tileNumber = 1; </p>
+<p> //<!-- 	  var gs_topics = "DEFAULT"; 	  document.write('<scr' + 'ipt type="text/javascript" src="http://johnston.grapeshot.co.uk/topics.cgi?url=' + escape(top.location.href) + '"></scr' + 'ipt>');   // --> </p>
+<p> //<!-- 		var rsi_segs = []; 		var segs_beg = document.cookie.indexOf('rsi_segs='); 		if (segs_beg >= 0) { 		    segs_beg = document.cookie.indexOf('=', segs_beg) + 1; 		    if (segs_beg > 0) { 		        var segs_end = document.cookie.indexOf(';', segs_beg); 		        if (segs_end == -1) segs_end = document.cookie.length; 		        rsi_segs = document.cookie.substring(segs_beg, segs_end).split('|'); 		    }  		} 		var segLen = 20; 		var segQS = ""; 		if (rsi_segs.length < segLen) { segLen = rsi_segs.length } 		for (var i = 0; i < segLen; i++) { 		    segQS += ("rsi" + "=" + rsi_segs[i] + ";") 		}	 	// --> </p>
+<p> DM_tag(); </p>
+<p> document.write('<script src="http://ad.uk.doubleclick.net/adj/sunderland.jp/local;nav=news;nav=local;pgid=14149372;tile='+tileNumber+';sz=728x90;' + (typeof(segQS) != "undefined" ? segQS : "") + ';gs_cat='+gs_topics+';dcopt=ist;ord='+randomnumber+'?" type="text/javascript"></scr'+'ipt>'); tileNumber++; </p>
+<p> Sign Up For Newsletter Now </p>
+<p> Daily news delivered direct to your inbox </p>
+<p> Sign Up For Newsletter Now </p>
+<p> Daily news delivered direct to your inbox </p>
+<p> News </p>
+<p> Local </p>
+<p> North East </p>
+<p> National </p>
+<p> Business </p>
+<p> Latest news </p>
+<p> Job News </p>
+<p> Find a job </p>
+<p> Education </p>
+<p> Politics </p>
+<p> Crime </p>
+<p> Health </p>
+<p> Environment </p>
+<p> Sunderland Eco </p>
+<p> Traffic and Travel </p>
+<p> Talking Pages </p>
+<p> Sponsored by </p>
+<p> Sport </p>
+<p> Sunderland AFC </p>
+<p> SAFC news </p>
+<p> Fixtures & Tables </p>
+<p> Gary Rowell column </p>
+<p> Chris Young column </p>
+<p> Football </p>
+<p> Newcastle United </p>
+<p> Hartlepool United </p>
+<p> Local football </p>
+<p> Women's football </p>
+<p> Junior football </p>
+<p> Sports video highlights </p>
+<p> Local sport </p>
+<p> Angling </p>
+<p> Athletics </p>
+<p> Bowls </p>
+<p> Boxing </p>
+<p> Cricket </p>
+<p> Darts </p>
+<p> Rugby </p>
+<p> Snooker </p>
+<p> National sport </p>
+<p> Lifestyle </p>
+<p> Showbiz news </p>
+<p> The Guide </p>
+<p> Sunderland Experience </p>
+<p> Music </p>
+<p> Cinema </p>
+<p> Gaming </p>
+<p> Pubs </p>
+<p> Seen In The City </p>
+<p> Eating out </p>
+<p> Theatre </p>
+<p> Books </p>
+<p> Columnists </p>
+<p> Richard Ord </p>
+<p> Linda Colling </p>
+<p> Alison Goulding </p>
+<p> Benefits Expert </p>
+<p> Dad's Life </p>
+<p> Mum's Life </p>
+<p> Steve Colman </p>
+<p> On The Waterfront </p>
+<p> Bridget Phillipson </p>
+<p> Travel </p>
+<p> News </p>
+<p> Reviews </p>
+<p> Reader Holidays </p>
+<p> Motoring </p>
+<p> Property </p>
+<p> Reader Offers </p>
+<p> Reader competitions </p>
+<p> E-magazines </p>
+<p> Your Digital World </p>
+<p> ETC </p>
+<p> Schools Report </p>
+<p> Citizens' Guide </p>
+<p> Bingo </p>
+<p> Wine Club </p>
+<p> Reader Travel </p>
+<p> Buy A Photo </p>
+<p> Community </p>
+<p> Find It </p>
+<p> Opinion </p>
+<p> Letters </p>
+<p> Submit Your Story </p>
+<p> Reader Panel </p>
+<p> Nostalgia </p>
+<p> Retro </p>
+<p> Wearside Echoes </p>
+<p> Ex-pats </p>
+<p> Announcements </p>
+<p> In Memoriam </p>
+<p> Birthdays </p>
+<p> Weddings </p>
+<p> Anniversaries </p>
+<p> Special Day Notices </p>
+<p> Best Wishes </p>
+<p> Newspaper </p>
+<p> Classifieds </p>
+<p> Public notices </p>
+<p> Photo sales </p>
+<p> Subscribe </p>
+<p> Advertise </p>
+<p> Events & Exhibitions </p>
+<p> Search site </p>
+<p> $("#frm-search-term").val(getQuerystring('freeTextQuery','')); </p>
+<p> Tuesday 17 January 2012 </p>
+<p> Log in </p>
+<p> Register </p>
+<p> Welcome </p>
+<p> Change profile </p>
+<p> Log out </p>
+<p> Welcome </p>
+<p> Log out </p>
+<p> Find it </p>
+<p> Jobs </p>
+<p> Property </p>
+<p> Motors </p>
+<p> Announcements </p>
+<p> var loginStatusResponse; 	var loginResponseSet = false; 	var loginHandlers = new Array();      function loadLogin(json) { 		loginStatusResponse = json;         if (json.loginStatus.loggedIn) {             if (json.loginStatus.accessProfile) {                 $('#profileLogoutPanel').show();                 $('#logoutPanel').hide();                 $('#loginRegisterPanel').hide();                 $('#username1').text( json.loginStatus.screenname );             } else {                 $('#profileLogoutPanel').hide();                 $('#logoutPanel').show();                 $('#loginRegisterPanel').hide();                 $('#username2').text( json.loginStatus.screenname );             }                         $('#subscribeNLWidgetLoggedOut').hide();             $('#subscribeNLWidgetLoggedIn').show();         } else {             $('#loginRegisterPanel').show();             $('#logoutPanel').hide();             $('#profileLogoutPanel').hide();             $('#subscribeNLWidgetLoggedIn').hide();             $('#subscribeNLWidgetLoggedOut').show();         }  		loginResponseSet = true; 		$(document).trigger('loginResponse');		     }          				$(document).ready(function() {     	if (($.cookie("sessionKey") == null) && ($.cookie("rememberMe") == null) ) {     		loadLogin({loginStatus:{loggedIn:false}});     	} else {             $.getJSON('/ajax?action=loginStatus', loadLogin);     	} 	}); </p>
+<p> You are here </p>
+<p> News </p>
+<p> > </p>
+<p> Local </p>
+<p> function testfunction(commentid) {                 var commentidvar = commentid;                 $("input#reportcommentid").val( commentidvar );             } </p>
+<p> Sponsored by </p>
+<p> Under-fire Washington care home is improving </p>
+<p> Washington Grange Care Home in Barmston, Washington. </p>
+<p> Published on </p>
+<p> Tuesday 17 January 2012 10:59 </p>
+<p> A CARE home criticised in a damning report has been praised after a second inspection. </p>
+<p> The Washington Grange, in Barmston, came under scrutiny by watchdog the Care Quality Commission (CQC) after inspectors found pensioners were being washed and dressed by night staff in the early hours of the morning because colleagues on the day shift did not have enough time. </p>
+<p> Inspectors visiting the 40-bed care home after an anonymous tip-off found at least 15 residents up when they visited before 6am, most of them asleep in armchairs. </p>
+<p> A report from October saw the home fail on four out of five Government standards. </p>
+<p> It said: “We had received information from an anonymous source alleging that people suffering from dementia were being woken, taken out of bed and then washed and dressed from 4am onwards irrespective of their wishes or care needs. </p>
+<p> “Due to their mental health problems these people were unable to protest and the informant stated ‘even if they did, they would have no option anyway’.” </p>
+<p> Inspectors also found that just three night staff were on duty to look after 37 people. </p>
+<p> A former care worker from the home, who turned whistleblower, contacted the Echo to say how shocked they were by the initial report. </p>
+<p> They said: “I wanted people to be aware of what was going on. I don’t work in care any more, so I’ve got no grudges.” </p>
+<p> But an unannounced follow-up visit in December revealed major improvements at the home. </p>
+<p> The former worker said: “The outcome of the new report is great. I’m pleased that something has come out about it. </p>
+<p> “For me the residents always came first. I was getting them up at 3.30am. It was ridiculous.” </p>
+<p> The second report saw the home pass all five Government markers. </p>
+<p> It said: “The atmosphere was relaxed, peaceful and seasonal throughout the home. Staff were relaxed and told us how they were able to attend to individual needs and requests without feeling under pressure. </p>
+<p> “They knew about people’s individual preferences and normal routines and described how these were adhered to.” </p>
+<p> However, the report writer did recommend that staffing levels be monitored and ask the owners to report back to the CQC within 14 days. </p>
+<p> The home is owned by Barchester Healthcare, which cares for more than 10,000 people at more than 200 different locations. </p>
+<p> A spokeswoman for the company said: “At Washington Grange care home the well-being of our residents is of the utmost importance. </p>
+<p> “We’re very pleased to have received this well-balanced report from the Care Quality Commission which highlights the high standards of the care provided to the residents of Washington Grange. </p>
+<p> “It also reflects the commitment and great work of the team at Washington Grange care home.” </p>
+<p> Twitter: @janethejourno </p>
+<p> Email to a friend </p>
+<p> Print this page </p>
+<p> Top stories </p>
+<p> Jobs boost as yet another new supermarket is coming to Wearside </p>
+<p> Pervert fondled teens at Sunderland bowling alley </p>
+<p> Police hunt Sunderland robber who left 84-year-old woman injured </p>
+<p> Middlesbrough fans furious as Sunderland give them only 3,000 seats for FA Cup derby clash </p>
+<p> Horden gunman had threatened to kill before </p>
+<p> News </p>
+<p> Local </p>
+<p> North East </p>
+<p> National </p>
+<p> Business </p>
+<p> Education </p>
+<p> Politics </p>
+<p> Crime </p>
+<p> Health </p>
+<p> Environment </p>
+<p> Traffic and Travel </p>
+<p> Talking Pages </p>
+<p> loading... </p>
+<p> document.write('<script src="http://ad.uk.doubleclick.net/adj/sunderland.jp/local;nav=news;nav=local;pgid=14149372;tile='+tileNumber+';sz=300x250;' + (typeof(segQS) != "undefined" ? segQS : "") + ';gs_cat='+gs_topics+';ord='+randomnumber+'?" type="text/javascript"></scr'+'ipt>'); tileNumber++; </p>
+<p> $(document).ready(function() {          $.get('http://www.sunderlandecho.com/news/local/7.95494?ot=johnstonpress.AjaxPageLayout.ot&showResult=$showResult&pollContentId=$pollContentId&r=http://www.sunderlandecho.com/news/local/under_fire_washington_care_home_is_improving_1_4149372', loadPoll7_95494HTML);       });       function loadPoll7_95494HTML(pollHTML) {          $('div#poll7_95494').html(pollHTML);       } </p>
+<p> Popular </p>
+<p> Most comments </p>
+<p> Most shared </p>
+<p> Sunderland boss O’Neill eyes recruits after Kilgallon’s Chelsea woe </p>
+<p> TRANSFER WINDOW: Algerian wonderkid offered Newcastle trial </p>
+<p> Sunderland community’s shock as robbers attack elderly couple in their own home </p>
+<p> Jobs boost as yet another new supermarket is coming to Wearside </p>
+<p> Bendtner has attacking faith despite Sunderland’s Chelsea blank </p>
+<p> Sunderland boss O’Neill eyes recruits after Kilgallon’s Chelsea woe </p>
+<p> Michael Turner eager to keep his Sunderland place under Martin O’Neill </p>
+<p> Bendtner has attacking faith despite Sunderland’s Chelsea blank </p>
+<p> Jobs boost as yet another new supermarket is coming to Wearside </p>
+<p> Middlesbrough fans furious as Sunderland give them only 3,000 seats for FA Cup derby clash </p>
+<p> Jobs boost as yet another new supermarket is coming to Wearside </p>
+<p> Grand total for a worthy cause </p>
+<p> Couple’s dream comes true as Sunderland church hosts gay wedding blessing </p>
+<p> Hospital parking nightmare for blue badge holders </p>
+<p> A rise in help for community projects </p>
+<p> Search for: </p>
+<p> (Plumber, Taxi, McDonalds...) </p>
+<p> Where? </p>
+<p> (town, county etc.) </p>
+<p> "Business owner? - Claim your business and Advertise with us" </p>
+<p> In association with </p>
+<p> function performJobSearch() {     var strUrl = "http://www.jobstoday.co.uk/cgi-bin/advsearch?search_type=quick&location_within=10&reqd_salary_low=ANY&reqd_salary_hifh=ANY&daysback=7&location_include=Sunderland,Tyne and Wear&fp_skill_include="; 	     window.open(strUrl + $('#jobSearchFrm #keywords').val() + "&SiteKey=" + siteKey); }  function performCarSearch() {     var manufactureId = $('#carSearchFrm #make option:selected').val();     var maufactureName = $('#carSearchFrm #make option:selected').text();     var modelId = $('#carSearchFrm #model option:selected').val();     var modelName = $('#carSearchFrm #model option:selected').text();     if(modelName == "Any Model")     {         modelName = "";     }     var minPrice = $('#carSearchFrm #priceFrom option:selected').val();     var maxPrice = $('#carSearchFrm #priceTo option:selected').val();          var strUrl = "http://www.motorstoday.co.uk/results.aspx?location=Sunderland&keywords=&manufacturerid=" + manufactureId + "&manufacturername=" + maufactureName + "&modelid=" + modelId + "&modelname=" + modelName + "&minage=-1&maxage=-1&minprice=" + minPrice + "&maxprice=" + maxPrice + "&maxmileage=-1&radius=10&type=3&sortorder=2&page=1&searchtype=1&derivitive=&fueltype=-1&bodytype=-1&doors=-1&colour=-1&enginesize=-1&transmission=-1"; 	strUrl = strUrl + "&SiteKey=" + siteKey; 	     window.open(strUrl); }  function performPropertySearch() {     var orderType = $('#propertySearchFrm input[name=buyRent]:checked').val();     var maxPrice = (orderType == 0)                     ? $('#propertySearchFrm #priceToBuy option:selected').val()                     : $('#propertySearchFrm #priceToRent option:selected').val();     var minPrice = (orderType == 0)                     ? $('#propertySearchFrm #priceFromBuy option:selected').val()                     : $('#propertySearchFrm #priceFromRent option:selected').val();     var bedrooms = $('#propertySearchFrm #bedrooms option:selected').val();          var strUrl = "http://www.propertytoday.co.uk/propertyresults.aspx?Town=Sunderland&MaxPrice=" + maxPrice + "&MinPrice=" + minPrice + "&Radius=5&OrderType=1&Bedrooms=" + bedrooms;     if(orderType == 1)     {         strUrl += "&Rent=true";     }     strUrl = strUrl + "&SiteKey=" + siteKey; 	     window.open(strUrl); } </p>
+<p> Looking for... </p>
+<p> Featured advertisers </p>
+<p> Jobs </p>
+<p> Search for a job </p>
+<p> Keywords: </p>
+<p> Search </p>
+<p> Motors </p>
+<p> Search for a car </p>
+<p> Make </p>
+<p> Model </p>
+<p> Any Model </p>
+<p> Price from </p>
+<p> £0 </p>
+<p> £500 </p>
+<p> £1,000 </p>
+<p> £2,000 </p>
+<p> £3,000 </p>
+<p> £4,000 </p>
+<p> £5,000 </p>
+<p> £6,000 </p>
+<p> £7,000 </p>
+<p> £8,000 </p>
+<p> £9,000 </p>
+<p> £20,000 </p>
+<p> £10,000 </p>
+<p> £11,000 </p>
+<p> £12,000 </p>
+<p> £13,000 </p>
+<p> £14,000 </p>
+<p> £15,000 </p>
+<p> £16,000 </p>
+<p> £17,000 </p>
+<p> £18,000 </p>
+<p> £19,000 </p>
+<p> £22,500 </p>
+<p> £27,500 </p>
+<p> £30,000 </p>
+<p> £35,000 </p>
+<p> £40,000 </p>
+<p> £50,000 </p>
+<p> £75,000 </p>
+<p> £100,000 </p>
+<p> £250,000 </p>
+<p> Price to </p>
+<p> £500 </p>
+<p> £1,000 </p>
+<p> £2,000 </p>
+<p> £3,000 </p>
+<p> £4,000 </p>
+<p> £5,000 </p>
+<p> £6,000 </p>
+<p> £7,000 </p>
+<p> £8,000 </p>
+<p> £9,000 </p>
+<p> £20,000 </p>
+<p> £10,000 </p>
+<p> £11,000 </p>
+<p> £12,000 </p>
+<p> £13,000 </p>
+<p> £14,000 </p>
+<p> £15,000 </p>
+<p> £16,000 </p>
+<p> £17,000 </p>
+<p> £18,000 </p>
+<p> £19,000 </p>
+<p> £22,500 </p>
+<p> £27,500 </p>
+<p> £30,000 </p>
+<p> £35,000 </p>
+<p> £40,000 </p>
+<p> £50,000 </p>
+<p> £75,000 </p>
+<p> £100,000 </p>
+<p> £250,000 </p>
+<p> £500,000 </p>
+<p> Search </p>
+<p> Property </p>
+<p> Search for a house </p>
+<p> Buy </p>
+<p> Rent </p>
+<p> Bedrooms </p>
+<p> 1 </p>
+<p> 2 </p>
+<p> 3 </p>
+<p> 4 </p>
+<p> 5+ </p>
+<p> Price from </p>
+<p> under £30,000 </p>
+<p> £30,000 </p>
+<p> £40,000 </p>
+<p> £50,000 </p>
+<p> £60,000 </p>
+<p> £70,000 </p>
+<p> £80,000 </p>
+<p> £90,000 </p>
+<p> £100,000 </p>
+<p> £125,000 </p>
+<p> £150,000 </p>
+<p> £175,000 </p>
+<p> £200,000 </p>
+<p> £225,000 </p>
+<p> £250,000 </p>
+<p> £275,000 </p>
+<p> £300,000 </p>
+<p> £325,000 </p>
+<p> £350,000 </p>
+<p> £375,000 </p>
+<p> £400,000 </p>
+<p> £425,000 </p>
+<p> £450,000 </p>
+<p> £475,000 </p>
+<p> £500,000 </p>
+<p> £550,000 </p>
+<p> £600,000 </p>
+<p> £650,000 </p>
+<p> £700,000 </p>
+<p> £800,000 </p>
+<p> £900,000 </p>
+<p> £1,000,000 </p>
+<p> £1,500,000 </p>
+<p> £2,000,000 </p>
+<p> £3,000,000 </p>
+<p> Price from </p>
+<p> £200 </p>
+<p> £300 </p>
+<p> £400 </p>
+<p> £500 </p>
+<p> £600 </p>
+<p> £700 </p>
+<p> £800 </p>
+<p> £900 </p>
+<p> £1,000 </p>
+<p> £1,250 </p>
+<p> £1,500 </p>
+<p> £1,750 </p>
+<p> £2,000 </p>
+<p> £2,250 </p>
+<p> £2,500 </p>
+<p> £2,750 </p>
+<p> £3,000 </p>
+<p> £3,500 </p>
+<p> £4,000 </p>
+<p> £4,500 </p>
+<p> £5,000 </p>
+<p> £6,000 </p>
+<p> £7,000 </p>
+<p> £8,000 </p>
+<p> £9,000 </p>
+<p> £10,000 </p>
+<p> Price to </p>
+<p> £30,000 </p>
+<p> £30,000 </p>
+<p> £40,000 </p>
+<p> £50,000 </p>
+<p> £60,000 </p>
+<p> £70,000 </p>
+<p> £80,000 </p>
+<p> £90,000 </p>
+<p> £100,000 </p>
+<p> £125,000 </p>
+<p> £150,000 </p>
+<p> £175,000 </p>
+<p> £200,000 </p>
+<p> £225,000 </p>
+<p> £250,000 </p>
+<p> £275,000 </p>
+<p> £300,000 </p>
+<p> £325,000 </p>
+<p> £350,000 </p>
+<p> £375,000 </p>
+<p> £400,000 </p>
+<p> £425,000 </p>
+<p> £450,000 </p>
+<p> £475,000 </p>
+<p> £500,000 </p>
+<p> £550,000 </p>
+<p> £600,000 </p>
+<p> £650,000 </p>
+<p> £700,000 </p>
+<p> £800,000 </p>
+<p> £900,000 </p>
+<p> £1,000,000 </p>
+<p> £1,500,000 </p>
+<p> £2,000,000 </p>
+<p> £3,000,000 </p>
+<p> Price to </p>
+<p> £200 </p>
+<p> £300 </p>
+<p> £400 </p>
+<p> £500 </p>
+<p> £600 </p>
+<p> £700 </p>
+<p> £800 </p>
+<p> £900 </p>
+<p> £1,000 </p>
+<p> £1,250 </p>
+<p> £1,500 </p>
+<p> £1,750 </p>
+<p> £2,000 </p>
+<p> £2,250 </p>
+<p> £2,500 </p>
+<p> £2,750 </p>
+<p> £3,000 </p>
+<p> £3,500 </p>
+<p> £4,000 </p>
+<p> £4,500 </p>
+<p> £5,000 </p>
+<p> £6,000 </p>
+<p> £7,000 </p>
+<p> £8,000 </p>
+<p> £9,000 </p>
+<p> £10,000 + </p>
+<p> Search </p>
+<p> document.write('<script src="http://ad.uk.doubleclick.net/adj/sunderland.jp/local;nav=news;nav=local;pgid=14149372;tile='+tileNumber+';sz=120x600,160x600;' + (typeof(segQS) != "undefined" ? segQS : "") + ';gs_cat='+gs_topics+';ord='+randomnumber+'?" type="text/javascript"></scr'+'ipt>'); tileNumber++; </p>
+<p> Weather for Sunderland </p>
+<p> Tuesday 17 January 2012 </p>
+<p> 5 day forecast </p>
+<p> Today </p>
+<p> Sunny spells </p>
+<p> Temperature: 2 C to 4 C </p>
+<p> Wind Speed: 8 mph </p>
+<p> Wind direction:  South west </p>
+<p> Tomorrow </p>
+<p> Light rain </p>
+<p> Temperature: 3 C to 10 C </p>
+<p> Wind Speed: 16 mph </p>
+<p> Wind direction:  West </p>
+<p> <!--     google_ad_client = "pub-3983566827577797";     /* 336x280, created 21/12/09 */     google_ad_slot = "4162618247";     google_ad_width = 336;     google_ad_height = 280;     //--> </p>
+<p> Home </p>
+<p> Home </p>
+<p> Contact us </p>
+<p> Register </p>
+<p> Topics A-Z </p>
+<p> News </p>
+<p> Local </p>
+<p> North East </p>
+<p> National </p>
+<p> Business </p>
+<p> Education </p>
+<p> Politics </p>
+<p> Crime </p>
+<p> Health </p>
+<p> Environment </p>
+<p> Traffic and Travel </p>
+<p> Talking Pages </p>
+<p> Sport </p>
+<p> Sunderland AFC </p>
+<p> Football </p>
+<p> Sports video highlights </p>
+<p> Local sport </p>
+<p> National sport </p>
+<p> Lifestyle </p>
+<p> Showbiz news </p>
+<p> The Guide </p>
+<p> Columnists </p>
+<p> Travel </p>
+<p> Motoring </p>
+<p> Property </p>
+<p> Reader Offers </p>
+<p> Reader competitions </p>
+<p> E-magazines </p>
+<p> Bingo </p>
+<p> Wine Club </p>
+<p> Reader Travel </p>
+<p> Buy A Photo </p>
+<p> Community </p>
+<p> Opinion </p>
+<p> Nostalgia </p>
+<p> Ex-pats </p>
+<p> Announcements </p>
+<p> Newspaper </p>
+<p> Events & Exhibitions </p>
+<p> Services & Offers </p>
+<p> Jobs </p>
+<p> Motors </p>
+<p> Property </p>
+<p> Local Business </p>
+<p> Family Announcements </p>
+<p> Special Offers </p>
+<p> Competitions </p>
+<p> Buy a Photo </p>
+<p> Shop </p>
+<p> Dating </p>
+<p> Save on your energy bills </p>
+<p> Wine Club </p>
+<p> Reader Travel </p>
+<p> Advertise With Us </p>
+<p> Contact us </p>
+<p> Help </p>
+<p> Accessibility </p>
+<p> Terms and Conditions </p>
+<p> Disclaimer and Cookie Policy </p>
+<p> All rights reserved © </p>
+<p> Johnston Publishing Ltd. </p>
+<p> This website and its associated newspaper adheres to the Press Complaints Commission’s Code of Practice. If you have a complaint about editorial content which relates to inaccuracy or intrusion, then contact the Editor by </p>
+<p> clicking  here </p>
+<p> . </p>
+<p> If you remain dissatisfied with the response provided then you can contact the PCC by </p>
+<p> clicking here </p>
+<p> . </p>
+<p> Close </p>
+<p> Send to a friend </p>
+<p> Your Friend's Name </p>
+<p> Please enter a username </p>
+<p> Your Friend's e-mail Address </p>
+<p> Please enter an email address </p>
+<p> Your Name </p>
+<p> Please enter your username </p>
+<p> Your e-mail Address </p>
+<p> Please enter your email address </p>
+<p> Your message </p>
+<p> Please enter a message </p>
+<p> Send </p>
+<p> Close </p>
+<p> Report </p>
+<p> Your reason for report </p>
+<p> Please enter a message </p>
+<p> Submit </p>
+<p> $(document).bind('loginResponse',function() { 	if (loginStatusResponse.loginStatus.loggedIn) {			 			$('#reportemail').attr( "value", loginStatusResponse.loginStatus.email );             $('#reportname').attr( "value", loginStatusResponse.loginStatus.screenname ); 		} 	}); </p>
+<p> Close </p>
+<p> Weather for Sunderland </p>
+<p> Wednesday 18 January 2012 </p>
+<p> Light rain </p>
+<p> Temperature: 3 C to 10 C </p>
+<p> Wind Speed: 16 mph </p>
+<p> Wind direction:  West </p>
+<p> Thursday 19 January 2012 </p>
+<p> Light showers </p>
+<p> Temperature: 2 C to 6 C </p>
+<p> Wind Speed: 21 mph </p>
+<p> Wind direction:  West </p>
+<p> Friday 20 January 2012 </p>
+<p> Light sleet showers </p>
+<p> Temperature: 5 C to 7 C </p>
+<p> Wind Speed: 18 mph </p>
+<p> Wind direction:  West </p>
+<p> Saturday 21 January 2012 </p>
+<p> Sunny spells </p>
+<p> Temperature: 3 C to 8 C </p>
+<p> Wind Speed: 22 mph </p>
+<p> Wind direction:  West </p>
+<p> Sunday 22 January 2012 </p>
+<p> Sunny spells </p>
+<p> Temperature: 2 C to 7 C </p>
+<p> Wind Speed: 18 mph </p>
+<p> Wind direction:  West </p>

@@ -1,0 +1,285 @@
+<p> Życie Bogumiła Kobieli było domkiem z kart         | rp.pl </p>
+<p> window.___gcfg = {         lang: 'pl'     }; 		     (function(){         var po = document.createElement('script');         po.type = 'text/javascript';         po.async = true;         po.src = 'https://apis.google.com/js/plusone.js';         var s = document.getElementsByTagName('script')[0];         s.parentNode.insertBefore(po, s);     })(); </p>
+<p> <!--//--><![CDATA[//><!-- var gemius_identifier = new String('bJuaAZReG1znT.SukcZ4BqdFj54ggpsOEC0VpQ8RFh7.c7'); //--><!]]> </p>
+<p> Szkolenia i konferencje </p>
+<p> Poznaj nasze produkty </p>
+<p> e-sklep </p>
+<p> Komunikaty </p>
+<p> Newsletter </p>
+<p> Zaloguj </p>
+<p> Załóż konto </p>
+<p> Kod SMS </p>
+<p> Pliki cookies </p>
+<p> Czym są pliki cookies </p>
+<p> Używamy plików cookies, by ułatwić korzystanie z naszych serwisów. </p>
+<p> Jeśli nie chcesz, by pliki cookies były zapisywane na Twoim dysku                 zmień ustawienia swojej przeglądarki. </p>
+<p> OK </p>
+<p> REKLAMA </p>
+<p> + </p>
+<p> zaawansowane </p>
+<p> + </p>
+<p> pomoc </p>
+<p> Szukaj w dziale Ekonomia </p>
+<p> Szukaj w dziale Kraj </p>
+<p> Szukaj w dziale Prawo </p>
+<p> Szukaj w dziale Świat </p>
+<p> Kraj </p>
+<p> Świat </p>
+<p> Ekonomia24 </p>
+<p> Prawo </p>
+<p> Nieruchomości </p>
+<p> Praca </p>
+<p> Foto </p>
+<p> Opinie </p>
+<p> Kultura </p>
+<p> Nauka </p>
+<p> Sport </p>
+<p> Styl </p>
+<p> Warszawa </p>
+<p> Historia </p>
+<p> Weekend </p>
+<p> tv.rp.pl </p>
+<p> Film </p>
+<p> Teatr </p>
+<p> Muzyka </p>
+<p> Taniec </p>
+<p> Telewizja </p>
+<p> Sztuka </p>
+<p> Literatura </p>
+<p> Historia </p>
+<p> Tutaj jesteś: </p>
+<p> rp.pl </p>
+<p> » </p>
+<p> Wiadomości </p>
+<p> » </p>
+<p> Kultura </p>
+<p> » </p>
+<p> Film </p>
+<p> function showModalBox() {  	jQuery('#dialogBox').empty();  	jQuery('#glassBox').fadeTo(400, 0.2); 	jQuery('#notLoggedInBox').clone().appendTo('#dialogBox'); 	jQuery('#dialogBox').find('.noAccessLoginBox').attr('id', 			'notLoggedInBoxModal').find('.noAccessLoginBox_closeIcon').show(); 	jQuery('#dialogBox').find('.closeBoxString').show(); 	jQuery('#dialogBox').show().addClass('noAccessLoginBoxDialog') 			.css( 					'left', 					(document.body.clientWidth - jQuery('#dialogBox') 							.outerWidth()) / 2);  	jQuery('.noAccessLoginBox_closeIcon').bind('click', function(event) { 		jQuery('#dialogBox').hide().empty(); 		jQuery('#glassBox').fadeOut(400); 		jQuery(".storyContent").find('p').show(); 		jQuery('#dialogBox').removeClass('noAccessLoginBoxDialog'); 		setCookie('closeId', '786691_1313247'); 		location.href = 'http://www.rp.pl/artykul/9146,786691-Zycie-Bogumila-Kobieli-bylo-domkiem-z-kart.html'; 	}); 	jQuery('.closeBoxString').bind('click', function(event) { 		jQuery('#dialogBox').hide().empty(); 		jQuery('#glassBox').fadeOut(400); 		jQuery(".storyContent").find('p').show(); 		jQuery('#dialogBox').removeClass('noAccessLoginBoxDialog'); 		setCookie('closeId', '786691_1313247'); 		location.href = 'http://www.rp.pl/artykul/9146,786691-Zycie-Bogumila-Kobieli-bylo-domkiem-z-kart.html'; 	}); }  function hideAndShow() { 	jQuery("#story").find('p').hide(); 	jQuery("#story").find('p.lead').show(); 	jQuery("#story").find('p:eq(1)').show();  }  jQuery(document).ready( 	function() { 	jQuery('.articleLoginInput').live('focus', function(event) { 		if(jQuery(this).val() == jQuery(this).attr("data-default")){ 			jQuery(this).val(""); 		} 	}).live('blur', function(event) { 		if(jQuery.trim(jQuery(this).val()) == ""){ 			jQuery(this).val(jQuery(this).attr("data-default")); 		} 	});  	jQuery('.articleLoginInputPass').live( 			'focus', 			function() { 				if (jQuery(this).attr('type') == 'text') { 					this.type = "password"; 				} 				if(jQuery(this).val() == jQuery(this).attr("data-default")){ 					jQuery(this).val(""); 				} 			}).live('blur', function(){ 				if(jQuery.trim(jQuery(this).val()) == "" || jQuery.trim(jQuery(this).val()) == jQuery(this).attr("data-default")){ 					this.type = "text"; 					this.value = jQuery(this).attr("data-default"); 				} 			}); 			 	jQuery('.noAccessLoginBox_smsInput').bind('focus', function(event) { 		if(jQuery(this).val() == jQuery(this).attr("data-default")){ 			jQuery(this).val(""); 		} 	}); }); </p>
+<p> Film </p>
+<p> Zezowate szczęście w życiu i filmie </p>
+<p> Jacek Cieślak </p>
+<p> 04-01-2012, ostatnia aktualizacja 04-01-2012 08:02 </p>
+<p> Komentuj </p>
+<p> var addthis_config = { 		                services_exclude: 'print, email', 		                ui_language: "pl" 		            } </p>
+<p> A </p>
+<p> A </p>
+<p> A </p>
+<p> źródło: __Archiwum__ </p>
+<p> Magdalena Przyborowska Bogumił Kobiela.  Sztuka aktorska słowo/obraz/terytoria 2011 </p>
+<p> + Zobacz więcej zdjęć </p>
+<p> Redakcja poleca: </p>
+<p> W hołdzie Kuklińskiemu </p>
+<p> Ani zbrodnia, ani kara </p>
+<p> Spotkania z Cybulskim </p>
+<p> „Bogumił Kobiela. Sztuka aktorska” Magdaleny Przyborowskiej odsłania mniej znane szczegóły biografii artysty </p>
+<p> „Życie – domek z kart" – ta kwestia Drewnowskiego, którego Kobiela zagrał w „Popiele i diamencie", może być kluczem do biografii aktora (1931 – 1969). Przeżył wypadek samochodowy. Zmarł kilka dni później, podczas operacji. Dał o sobie znać dziwny pech – zezowate szczęście, naczelna cecha filmowych i teatralnych postaci Bobka. </p>
+<p> Zobacz na Empik.rp.pl </p>
+<p> Rzeczpospolita </p>
+<p> Dostęp do treści serwisu jest limitowany. </p>
+<p> Przeczytaj 				ten artykuł </p>
+<p> Zarejestruj się aby uzyskać bezpłatny dostęp </p>
+<p> do 25 				artykułów miesięcznie. </p>
+<p> Nie masz jeszcze konta? </p>
+<p> Zarejestruj się </p>
+<p> Nie pamiętam hasła </p>
+<p> Chcesz mieć nielimitowany dostęp do wszystkich treści? </p>
+<p> Wykup dostęp </p>
+<p> Bezpłatny 				dostęp dla prenumeratorów wydania papierowego </p>
+<p> jQuery(document).ready(function() { 			//hideAndShow(); 			//showModalBox(); 		}) </p>
+<p> Formularz otrzymania bezpłatnego dostepu do Pakietu Standard dla prenumeratorów wydania papierowego </p>
+<p> Prenumeratorom "Rzeczpospolitej" przysługuje prawo bezpłatnego dostępu do Pakietu Standard. W tym celu proszę o uzupełnienie poniższej rejestracji. </p>
+<p> Imię i Nazwisko </p>
+<p> * </p>
+<p> E-mail (Login) </p>
+<p> * </p>
+<p> Telefon </p>
+<p> Podany numer telefonu przypisany jest już do innego konta </p>
+<p> Nazwa firmy/instytucji </p>
+<p> ** </p>
+<p> NIP </p>
+<p> * </p>
+<p> Ulica, nr </p>
+<p> * </p>
+<p> Miasto </p>
+<p> * </p>
+<p> Kod pocztowy </p>
+<p> * </p>
+<p> - </p>
+<p> Numer faktury </p>
+<p> * </p>
+<p> Dostawca </p>
+<p> * </p>
+<p> RUCH S.A. </p>
+<p> KOLPORTER D.P. </p>
+<p> GARMOND PRESS </p>
+<p> Poczta Polska </p>
+<p> AS PRESS </p>
+<p> G.L.M </p>
+<p> Media Regionalne </p>
+<p> POLSKAPRESS </p>
+<p> TRANSPOL </p>
+<p> eGAzety.pl (e-wydania) </p>
+<p> Ilość prenumerat </p>
+<p> Dodawanie kolejnych użytkowników </p>
+<p> (adresów e-mail) odbywa się po zalogowaniu </p>
+<p> w "Twoje konto/Zarządzanie usługami". </p>
+<p> Okres prenumeraty </p>
+<p> * </p>
+<p> od </p>
+<p> do </p>
+<p> Podaj daty określające termin prenumeraty w poprawnym formacie </p>
+<p> Klikając opcję "Uzyskaj dostęp", przyjmujesz: </p>
+<p> Regulamin korzystania z serwisów Rzeczpospolitej </p>
+<p> * Pole obowiązkowe </p>
+<p> ** Pole obowiązkowe tylko w przypadku gdy prenumeratorem jest firma/instytucja </p>
+<p> * </p>
+<p> Oświadczam, że wyżej podane dane są prawdziwe i jako prenumerator przysługuje mi prawo darmowego dostępu do Pakietu Standard. 										 Jednocześnie w przypadku uzyskania dostępu do Pakietu w sposób nieuprawniony tj. bez wykupienia aktualnej prenumeraty wydania papierowego „Rzeczpospolitej”, 										  zgadzam się na obciążenie mnie kwotą 990zł (promocyjna cena rocznego dostępu do Pakietu Standard). </p>
+<p> To pole jest wymagane </p>
+<p> * </p>
+<p> Wyrażam zgodę na przetwarzanie przez Presspublica sp. z o.o. z siedzibą w Warszawie przy ul. Prostej 51   								(dalej: Presspublica) moich danych osobowych w celu prowadzenia marketingu towarów i usług Presspublica.  								Oświadczam, że zostałem poinformowany, iż administratorem moich danych osobowych będzie Presspublica,  								przysługuje mi prawo dostępu do treści moich danych oraz ich poprawiania,  								a podanie danych osobowych jest dobrowolne. </p>
+<p> To pole jest wymagane </p>
+<p> * </p>
+<p> Wyrażam zgodę na przetwarzanie przez Presspublica sp. z o.o. z siedzibą w Warszawie przy ul. Prostej 51  								(dalej: Presspublica) moich danych osobowych w celu prowadzenia przez Presspublica marketingu towarów i usług osób trzecich. Oświadczam,  								że zostałem poinformowany, iż administratorem moich danych osobowych będzie Presspublica, przysługuje mi prawo dostępu do treści moich danych oraz ich poprawiania,  								a podanie danych osobowych jest dobrowolne. </p>
+<p> To pole jest wymagane </p>
+<p> * </p>
+<p> Wyrażam zgodę na otrzymywanie od Presspublica sp. z o.o. z siedzibą w Warszawie przy ul. Prostej 51,  								informacji handlowych w rozumieniu ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną,  								z wykorzystaniem środków komunikacji elektronicznej, w szczególności na przesyłanie przez Presspublica sp. z o.o.  								informacji handlowych na podany wyżej adres poczty elektronicznej lub numer telefonu komórkowego. </p>
+<p> Zaznaczaczając tę opcję prosimy również o zaznaczenie jednej z powyższych </p>
+<p> To pole jest wymagane </p>
+<p> Dodatkowe informacje 22 46 30 066 </p>
+<p> Anuluj </p>
+<p> Uzyskaj dostęp </p>
+<p> jQuery(document).ready(function(){ 	jQuery('.productFormAgreeCheck').live('click', function(){ 		if(jQuery(this).is('.CheckIn')){ 			jQuery(this).removeClass('CheckIn').addClass('CheckOut'); 			jQuery(this).find('input').val('nie') 			jQuery(this).parent().find('.error_msg').show() 		}else if(jQuery(this).is('.CheckOut')){ 			jQuery(this).removeClass('CheckOut').addClass('CheckIn') 			jQuery(this).find('input').val('tak') 			jQuery(this).parent().find('.error_msg').hide()	 		} 	}) 	function closeModalBox(){ 		jQuery('#dialogBox').hide().empty(); 		jQuery('#glassBox').fadeOut(400, function(){ 			jQuery("#story").find('p').show(); 		}); 		setCookie('closeId', '786691_1313247'); 		 	} 	function showModalFormBox(){ 		 		jQuery('#dialogBox').empty(); 		jQuery('#glassBox').fadeTo(400, 0.5); 		 		jQuery('.subscriptFormBox').clone().appendTo('#dialogBox').show(); 		jQuery('#dialogBox').show(); 		 		 	} 	 	function closeAndShowModalBox(){ 		 		jQuery('html, body').animate({scrollTop: '0px'}, 300); 		if(jQuery('#glassBox').is(":hidden")){ 			jQuery('#dialogBox').css({ 				'position' : 'absolute', 				'top' : '50px', 				'bottom' : 'auto' 			}); 			jQuery('#dialogBox').empty(); 			jQuery('.subscriptFormBox').clone().appendTo('#dialogBox').show("fast", function(){ 				jQuery('#glassBox').fadeTo(400, 0.5, function(){ 					jQuery('#dialogBox').addClass('noAccessLoginBoxDialog').css('left', (document.body.clientWidth - jQuery('#dialogBox').outerWidth()) / 2); 					jQuery('#dialogBox').fadeIn(300, function(){ 						jQuery('#dialogBox').find('.subscriptForm').attr('id', 'subscriptFormSender') 						jQuery('#dialogBox').find('.subscriptForm').find('.dateto').attr('id', 'dateto') 						jQuery('#dialogBox').find('.subscriptForm').find('.datefrom').attr('id', 'datefrom') 						 						jQuery('#subscriptFormSender').validate({ 							submitHandler : function(form) { 								jQuery(form).ajaxSubmit({ 									url : '/call-action', 									type : 'POST', 									success: showResponse, 									error: showError 								}); 							}, 							groups: { 								postal: "postal1 postal2", 								date: "datefrom dateto" 							}, 	  						errorPlacement: function(error, element) { 	     						if (element.attr("name") == "postal1" || element.attr("name") == "postal2" ) 	   								error.insertAfter("#subscriptFormSender #postal2"); 	    						else if (element.attr("name") == "datefrom" || element.attr("name") == "dateto" ) 	   								error.insertAfter("#subscriptFormSender #dateto"); 	       						else 	       							error.insertAfter(element); 	   							} 						}) 						 					}); 				});	 			}); 			 			 		}else{ 			jQuery('#dialogBox').css({ 				'position' : 'absolute', 				'top' : '50px', 				'bottom' : 'auto' 			});		 			jQuery('#dialogBox').fadeOut(300, function(){ 				jQuery(this).empty(); 				jQuery('.subscriptFormBox').clone().appendTo('#dialogBox').show(); 				jQuery(this).fadeIn(300, function(){ 					jQuery('#dialogBox').find('.subscriptForm').attr('id', 'subscriptFormSender') 					jQuery('#dialogBox').find('.subscriptForm').find('.dateto').attr('id', 'dateto') 					jQuery('#dialogBox').find('.subscriptForm').find('.datefrom').attr('id', 'datefrom') 					jQuery('#subscriptFormSender').validate({ 						submitHandler : function(form) { 							jQuery(form).ajaxSubmit({ 								url : '/call-action', 								type : 'POST', 								success: showResponse, 								error: showError 							}); 							 						}, 						groups: { 							postal: "postal1 postal2", 							date: "datefrom dateto" 						},   						errorPlacement: function(error, element) {      						if (element.attr("name") == "postal1" || element.attr("name") == "postal2" )    								error.insertAfter("#subscriptFormSender #postal2");     						else if (element.attr("name") == "datefrom" || element.attr("name") == "dateto" )    								error.insertAfter("#subscriptFormSender #dateto");        						else        							error.insertAfter(element);    							}    							    							 					}) 				}) 			}); 		} 		 	} 	 	function showResponse(responseText, statusText, xhr, $form){ 		jQuery('html, body').animate({scrollTop: '0px'}, 300); 		responseText = jQuery.trim(responseText); 		if(responseText == 'duplicatePhone'){ 			jQuery('.duplicatePhone').show(); 		}else if(responseText == 'wrongDate'){ 			jQuery('.wrongDate').show(); 		}else{ 			jQuery('#dialogBox').find('.subscriptFormBox_responseBox').html(responseText);	 		} 		jQuery('#dialogBox').undelegate('.confirmFormBtn','click', function(){ 			return false 		}) 	} 	function showError(){ 		jQuery('html, body').animate({scrollTop: '0px'}, 300); 		jQuery('#dialogBox').find('.subscriptFormBox_formBody').slideUp(300,function(){ 			jQuery('#dialogBox').find('.subscriptFormBox_Info').html('<strong class="errorLabel">Wysłanie formularza nie powiodło się</strong><br />prosimy spróbować ponownie później');	 		});		 	} 	jQuery(function(a) {a.datepicker.regional.pl = { 			closeText : "Zamknij", 			prevText : "&#x3c;Poprzedni", 			nextText : "Następny&#x3e;", 			currentText : "Dziś", 			monthNames : ["Styczeń", "Luty", "Marzec", "Kwiecień", "Maj", "Czerwiec", "Lipiec", "Sierpień", "Wrzesień", "Październik", "Listopad", "Grudzień"], 			monthNamesShort : ["Sty", "Lu", "Mar", "Kw", "Maj", "Cze", "Lip", "Sie", "Wrz", "Pa", "Lis", "Gru"], 			dayNames : ["Niedziela", "Poniedziałek", "Wtorek", "Środa", "Czwartek", "Piątek", "Sobota"], 			dayNamesShort : ["Nie", "Pn", "Wt", "Śr", "Czw", "Pt", "So"], 			dayNamesMin : ["N", "Pn", "Wt", "Śr", "Cz", "Pt", "So"], 			weekHeader : "Tydz", 			dateFormat : "yy-mm-dd", 			firstDay : 1, 			isRTL : !1, 			showMonthAfterYear : !1, 			yearSuffix : "", 			changeMonth: true, 			changeYear: true 		}, a.datepicker.setDefaults(a.datepicker.regional.pl) 	}) 	 	jQuery('#datefrom').live('focus', function(event) { 		jQuery(this).datepicker(); 	}); 	jQuery('#dateto').live('focus', function(event) { 		jQuery(this).datepicker(); 	}); 	jQuery('.subscriptionBtn').bind('click', function(){ 		closeAndShowModalBox(); 	}) 	jQuery('.cancelFormBtn').live('click', function(){ 		closeModalBox() 	}) 	 	jQuery('#dialogBox').delegate('.confirmFormBtn','click', function(){ 		var sender = false; 		jQuery('.valid_checkAgree').each(function(index) { 			  if(jQuery(this).val() != 'tak'){ 			  	jQuery(this).parent().parent().find('.error_msg').show(); 			  	sender = false; 			  }else{ 				sender = true 			  } 		}); 		if(sender = true){ 			jQuery('#subscriptFormSender').submit();	 		}else{ 			return false; 		} 		 	}) 	 	jQuery('.subscriptFormBox_closeIcon').live('click', function(){ 		closeModalBox() 	}) 	 }) </p>
+<p> Sonda: Rocznica katastrofy smoleńskiej </p>
+<p> Premiera Tuska nie będzie w Smoleńsku. Będzie w Nigerii. Jak to oceniasz? </p>
+<p> To wymówka, by uniknąć trudnej sytuacji </p>
+<p> To oznaka lekceważenia rocznicy katastrofy </p>
+<p> Na Smoleńsku świat się nie kończy, premier ma inne zobowiązania dyplomatyczne </p>
+<p> Obecność premiera w Smoleńsku tylko spotęgowałaby konflikty </p>
+<p> Trudno powiedzieć </p>
+<p> Nie obchodzi mnie to </p>
+<p> Nie wiem, o co chodzi </p>
+<p> Głosuj! </p>
+<p> Newsletter "Rzeczpospolitej" </p>
+<p> Zobacz przykładowy newsletter </p>
+<p> Polecamy </p>
+<p> POLSKA INNOWACYJNA </p>
+<p> Wygraj z "Rz" szkolenia w Krzemowej Dolinie </p>
+<p> MARKI POLSKIE 2012 </p>
+<p> Ranking najcenniejszych polskich marek </p>
+<p> LISTA 2000 </p>
+<p> Największe polskie przedsiębiorstwa - Edycja 2012 </p>
+<p> Prawo budowlane </p>
+<p> Jak uniknąć pułapek, realizując inwestycję budowlaną </p>
+<p> PIT za 2012 rok </p>
+<p> PIT 2012: 50 problemów – 50 odpowiedzi </p>
+<p> Wspólnoty mieszkaniowe </p>
+<p> Jakie prawa ma członek wspólnoty mieszkaniowej </p>
+<p> MOJE PIENIĄDZE </p>
+<p> Grube miliony za Picassa </p>
+<p> NIERUCHOMOŚCI </p>
+<p> Firmy dalej tną koszty najmu </p>
+<p> SPORT </p>
+<p> Panie płoszą panów </p>
+<p> STYL ŻYCIA </p>
+<p> Chorzy na RZS mogą się zgłosić na międzynarodowe badania </p>
+<p> NAUKA </p>
+<p> Gigant w polskim porcie </p>
+<p> KULTURA </p>
+<p> Artystyczne wyjście z niszy </p>
+<p> ŻYCIE WARSZAWY </p>
+<p> Poświęcą część pomnika, na resztę poczekamy </p>
+<p> PLUS MINUS </p>
+<p> Smoleński węzeł </p>
+<p> E-booki "Rzeczpospolitej" </p>
+<p> Co się od 2013 roku zmieni w przepisach emerytalnych </p>
+<p> Poradnik prawny dla przyszłych emerytów </p>
+<p> Rozwody, separacje, alimenty </p>
+<p> Rozwód czy separacja to zawsze porażka, często finansowa. Z reguły jednak okazuje się mniejszym złem, niż formalne pozostawanie w związku, którego nie da się utrzymać </p>
+<p> Testamenty, spadki, darowizny </p>
+<p> Poradnik o regułach dziedziczenia oraz praktyczne wskazówki dotyczące sporządzania testamentu </p>
+<p> empik.rp.pl poleca </p>
+<p> Brak kategorii do wyświetlenia. </p>
+<p> jQuery(document).ready(function() { 			empikBox_76904_tabsInit();		 		});  		function getAjaxProductParams(componentId, categoryId) 		{ 			try 			{ 				var url = '/ComponentAjax?componentId='+componentId+'&categoryId='+categoryId; 				jQuery.ajax({ 					type: "GET", 					url: url, 					success: function(data) { 						jQuery('#empikBox_'+componentId+'_productsBox').html(data); 					} 				}); 			} 			catch(err) 			{ 			} 		} 		 		function empikBox_76904_tabsInit() { 				var sComponentId = jQuery('#empikBox_76904').attr('id').replace('empikBox_', ''); 				try 				{ 					getAjaxProductParams(sComponentId, jQuery('#empikBox_76904').find('.empikBox_tabs').children('li:nth-child(1)').attr('id').replace('empikBox_76904_tab_','')); 					jQuery('#empikBox_76904').find('.empikBox_tabs').children('li:nth-child(1)').children('span').addClass('empikBox_tabActive'); 					empikBox_76904_fakePics(); 				} 				catch(err) 				{ 				} 			 			jQuery('#empikBox_76904').find('.empikBox_tabs').children('li').bind('click', function(){ 				var sComponentId = jQuery('#empikBox_76904').attr('id').replace('empikBox_', ''); 				try 				{ 					getAjaxProductParams(sComponentId, jQuery(this).attr('id').replace('empikBox_76904_tab_','')); 					empikBox_tabsEngine(jQuery(this)); 					empikBox_76904_fakePics(); 				} 				catch(err) 				{ 				}				 			}); 		} 	 		function empikBox_tabsEngine(oActiveElement) { 			oActiveElement.parent('.empikBox_tabs').find('span').removeClass('empikBox_tabActive'); 			oActiveElement.find('span').addClass('empikBox_tabActive'); 		} 		 		function empikBox_76904_fakePics() { 			jQuery('#empikBox_76904_productsBox').find('.empikBox_productImg').find('img').bind('error', function(){ 				jQuery(this).attr('src', 'http://www.rp.pl/static/img/empikbox_img.jpg'); 			}); 		} </p>
+<p> Kraj </p>
+<p> Tusk: przyjdzie dzień, że ta rocznica nie będzie Polaków dzieliła </p>
+<p> Delegacja rządowa w drodze z Moskwy do Smoleńska i Katynia </p>
+<p> Relacja na żywo. Obchody rocznicy katastrofy </p>
+<p> Świat </p>
+<p> Delegacja rządowa w drodze do Smoleńska i Katynia </p>
+<p> Chiny: Już 9 ofiar ptasiej grypy </p>
+<p> RPA: Zamach, który zatrząsł krajem </p>
+<p> Ekonomia </p>
+<p> Firmy i osoby prywatne niechętnie się zadłużają </p>
+<p> Gdzie taniej kupisz niż wynajmiesz </p>
+<p> Dowgielewicz wicegubernatorem Banku Rozwoju Rady Europy </p>
+<p> PRAWO </p>
+<p> Prawo w czasie kryzysu </p>
+<p> Zakup bankowozu sposobem na pełne odliczenie VAT </p>
+<p> Jak racjonalnie używać pojęcia budowla </p>
+<p> Sport </p>
+<p> Wspólny trening Woodsa i Guana </p>
+<p> Noc pełna magii </p>
+<p> Wyeksportować Superpuchar </p>
+<p> Kultura </p>
+<p> Wygraj książkę Joanny Racewicz o katastrofie w Smoleńsku </p>
+<p> Artystyczne wyjście z niszy </p>
+<p> Grafomańskie frazy dopisane poczciwemu Sofoklesowi </p>
+<p> Opinie </p>
+<p> Władzy zabrakło determinacji </p>
+<p> Komentarz rysunkowy. Jak długo macie zamiar pamiętać o Smoleńsku? </p>
+<p> Majewski: Przybywa pytań o Smoleńsk </p>
+<p> Styl Życia </p>
+<p> Fretki na psich papierach </p>
+<p> Polacy wolą biegać, niż jeździć na rowerze </p>
+<p> Karolina lansuje La Palmę (wideo) </p>
+<p> Nieruchomości </p>
+<p> Rodzina królewska zgadza się na kontrolę finansów </p>
+<p> Karzaj porozmawia z talibami? </p>
+<p> Świętowanie znakomitych pomyłek </p>
+<p> Tu nas znajdziesz: </p>
+<p> DO GÓRY </p>
+<p> Przeczytaj też: </p>
+<p> Rozdajemy bilety na filmy AfryKamery </p>
+<p> Już jutro w warszawskim kinie Luna rozpocznie się Festiwal Filmów Afrykańskich AfryKamera 2013. Dla naszych czytelników mamy zaproszenia </p>
+<p> <!--  google_ad_client = "ca-pub-6667207745023366";  /* 234x60, utworzono 10-08-24 */  google_ad_slot = "4719381694";  google_ad_width = 234;  google_ad_height = 60;  //--> </p>
+<p> <!--  google_ad_client = "ca-pub-6667207745023366";  /* 234x60, utworzono 10-08-24 */  google_ad_slot = "4719381694";  google_ad_width = 234;  google_ad_height = 60;  //--> </p>
+<p> <!--  google_ad_client = "ca-pub-6667207745023366";  /* 234x60, utworzono 10-08-24 */  google_ad_slot = "4719381694";  google_ad_width = 234;  google_ad_height = 60;  //--> </p>
+<p> NASZE PRODUKTY </p>
+<p> NASZE SERWISY </p>
+<p> Gremi Media: </p>
+<p> O nas </p>
+<p> | </p>
+<p> Regulamin </p>
+<p> | </p>
+<p> Reklama </p>
+<p> | </p>
+<p> Napisz do nas </p>
+<p> | </p>
+<p> Kontakt </p>
+<p> | </p>
+<p> Pliki cookies </p>
+<p> © Copyright by GREMI MEDIA Sp. z o.o. </p>
+<p> document.write(unescape('%3Csc'+'rip'+'t type="text/javascript" id="cafenews.pl#adaaaf77e75e8e12eb5449a808eaeac4"%3E%3C/s'+'cri'+'pt%3E%3Cdiv id="cafenews.pl#cvb64mnc8vg4jd8gksd653jkadg7j6"%3E%3C/div%3E'));setTimeout('var d=new Date();document.getElementById("cafenews.pl#adaaaf77e75e8e12eb5449a808eaeac4").src="http://webservices.cafenews.pl/mpl/Static/Static.js?id=cafenews.pl#cvb64mnc8vg4jd8gksd653jkadg7j6&d="+d.getFullYear()+d.getMonth()+d.getDate();',250); </p>
+<p> var _smid = "8bo7ex8u23mg66xi";             (function() {                 var sm = document.createElement('script'); sm.type = 'text/javascript'; sm.async = true;                 sm.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'www.salesmanago.pl/static/sm.js';                 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sm, s);             })(); </p>
+<p> <!--//--><![CDATA[//><!-- var pp_gemius_identifier ='ByA6sStUCyQuziH0jS.P3cVl7FmZczf.Krxam8xvNmT.87'; //--><!]]> </p>
+<p> /* <![CDATA[ */  var bbkeywords=''; //fill in: 'key1;key2;..' bmone2n.addPosition('901.9.1.1',''); bmone2n.addPosition('901.9.1.2',''); bmone2n.addPosition('901.9.1.3',''); bmone2n.addPosition('901.9.1.4',''); bmone2n.addPosition('901.9.1.7',''); bmone2n.addPosition('901.9.2.2',''); bmone2n.addPosition('901.9.2.7',''); bmone2n.addPosition('901.9.3.7',''); bmone2n.addPosition('901.9.4.7',''); bmone2n.addPosition('901.9.5.7',''); bmone2n.addPosition('901.9.6.7',''); bmone2n.addPosition('901.9.7.7',''); bmone2n.addPosition('901.9.8.7',''); bmone2n.addPosition('901.9.9.7',''); bmone2n.getAd('go.idmnet.bbelements.com',bbkeywords,''+(typeof(bburlparam)=='string'?'&'+bburlparam:''),'iso-8859-2');/* ]]> */ </p>
+<p> /* <![CDATA[ */ bmone2n.makeAd('901.9.1.1'); /* ]]> */ </p>
+<p> /* <![CDATA[ */ bmone2n.makeAd('901.9.1.2'); /* ]]> */ </p>
+<p> /* <![CDATA[ */ bmone2n.makeAd('901.9.1.3'); /* ]]> */ </p>
+<p> /* <![CDATA[ */ bmone2n.makeAd('901.9.1.4'); /* ]]> */ </p>
+<p> /* <![CDATA[ */ bmone2n.makeAd('901.9.1.7'); /* ]]> */ </p>
+<p> /* <![CDATA[ */ bmone2n.makeAd('901.9.2.2'); /* ]]> */ </p>
+<p> /* <![CDATA[ */ bmone2n.makeAd('901.9.2.7'); /* ]]> */ </p>
+<p> /* <![CDATA[ */ bmone2n.makeAd('901.9.3.7'); /* ]]> */ </p>
+<p> /* <![CDATA[ */ bmone2n.makeAd('901.9.4.7'); /* ]]> */ </p>
+<p> /* <![CDATA[ */ bmone2n.makeAd('901.9.5.7'); /* ]]> */ </p>
+<p> /* <![CDATA[ */ bmone2n.makeAd('901.9.6.7'); /* ]]> */ </p>
+<p> /* <![CDATA[ */ bmone2n.makeAd('901.9.7.7'); /* ]]> */ </p>
+<p> /* <![CDATA[ */ bmone2n.makeAd('901.9.8.7'); /* ]]> */ </p>
+<p> /* <![CDATA[ */ bmone2n.makeAd('901.9.9.7'); /* ]]> */ </p>
+<p> /* <![CDATA[ */ bmone2n.moveAd(); /* ]]> */ </p>
+<p> common </p>
+<p> var ghmxy_align = 'center'; 		var ghmxy_type = 'absolute'; 		var ghmxy_identifier = new String("dvZKuMdp8_sHBqa8kksWWLQZP_0KwHr0WZGaM4jH_rL.L7"); </p>
+<p> window.fbAsyncInit = function() { 		FB.init({appId: '103391779803385', status: true, cookie: true, xfbml: true, oauth: true}); 	 	 		jQuery('#fbbox').html('<a href="https://graph.facebook.com/oauth/authorize?client_id=103391779803385&display=page&scope=email&zalogujFB=zaloguj&redirect_uri=http://www.rp.pl/artykul/786691.html"><img src="http://static.presspublica.pl/web/rp/img/layout/fb_icons/polacz_z_fb.png" /></a>');  		jQuery('#fbbox2').html('<a href="https://graph.facebook.com/oauth/authorize?client_id=103391779803385&display=page&scope=email&zalogujFB=zaloguj&redirect_uri=http://www.rp.pl/artykul/786691.html"><img src="http://static.presspublica.pl/web/rp/img/layout/fb_icons/polacz_z_fb.png" /></a>');  	 	};   (function() {    var e = document.createElement('script');    e.type = 'text/javascript';    e.src = document.location.protocol +      '//connect.facebook.net/pl_PL/all.js';    e.async = true;    document.getElementById('fb-root').appendChild(e);  }()); </p>
+<p> zamknij </p>

@@ -1,0 +1,206 @@
+<p> Зимой женщины рискуют выглядеть на 5 лет старше – косметологи - Комментарии </p>
+<p> VK.init({apiId: 2037776, onlyWidgets: true}); </p>
+<p> var _gaq = _gaq || [];   _gaq.push(['_setAccount', 'UA-19572315-1']);   _gaq.push(['_setDomainName', '.comments.ua']);   _gaq.push(['_setCustomVar',1,'subtype','news',3]);   _gaq.push(['_setCustomVar',2,'type','life',3]);   _gaq.push(['_setCustomVar',3,'chapter','none',3]);   _gaq.push(['_setCustomVar',4,'author','none',3]);   _gaq.push(['_setAllowAnchor', true]);    _gaq.push(['_trackPageview']);   (function() {     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);   })(); </p>
+<p> <!--//--><![CDATA[//><!-- var pp_gemius_identifier = new String('pyA7y7NS1IGCeff0LelcAWYkzZW1G5sY0pmPMFsSyCX.V7'); //--><!]]> </p>
+<p> div.site{         padding: 0 20px;         background: url('/_im/zakladki/ht_bg.png') repeat-y;     }      #bl_img_2{background-image: url('/_im/zakladki/pic_2.png');} #bl_img_3{background-image: url('/_im/zakladki/pic_3.png');} #bl_img_10{background-image: url('/_im/zakladki/pic_10.png');} </p>
+<p> Лицо украинской власти </p>
+<p> 10 </p>
+<p> Апр </p>
+<p> Продолжаем обучение на курсах и вечером выпили... </p>
+<p> Дневник эмигранта </p>
+<p> Рейтинг губернаторов Украины </p>
+<p> function ovr(wiz,id){var ct = document.getElementById(id).style.backgroundPosition='0 -' + wiz + 'px';}     function out(id){var ct = document.getElementById(id).style.backgroundPosition='0 0';} </p>
+<p> jQuery(document).ready(function(){ 	/* функция кроссбраузерного определения отступа от верха документа к текущей позиции скроллера прокрутки */ 	function getScrollTop() { 	   var scrOfY = 0; 	   if(typeof(window.pageYOffset) == "number"){ 		   //Netscape compliant 		   scrOfY = window.pageYOffset; 	   }else if(document.body && (document.body.scrollLeft || document.body.scrollTop)){ 		   //DOM compliant 		   scrOfY = document.body.scrollTop; 	   }else if(document.documentElement && (document.documentElement.scrollLeft || document.documentElement.scrollTop)){ 		   //IE6 Strict 		   scrOfY = document.documentElement.scrollTop; 	   } 	   return scrOfY; 	} 	/* пересчитываем отступ при прокрутке экрана */ 	jQuery(window).scroll(function() { 		fixPaneRefresh(); 	}); 	function fixPaneRefresh(){ 		if (jQuery("#blc_r").length) { 			var top  = getScrollTop(); 			if (top < 240) jQuery("#blc_r").css("top",240-top+"px"); /* 240 - это наш отступ */ 			else jQuery("#blc_r").css("top","20px"); 		}         if (jQuery("#blc_l").length) { 			var top  = getScrollTop(); 			if (top < 240) jQuery("#blc_l").css("top",240-top+"px"); /* 240 - это наш отступ */ 			else jQuery("#blc_l").css("top","20px"); 		} 	} }); </p>
+<p> (function($) { 	$(function() { 		$("#scroller").simplyScroll({direction:'backwards'}); 	}); })(jQuery); </p>
+<p> .top_menu .simply-scroll {width: 722px;height: 40px;overflow: hidden;float: left;margin-left: 10px;} .top_menu .simply-scroll-clip {position: relative;overflow: hidden;} .top_menu .simply-scroll-list {overflow: hidden;margin: 0;padding: 0;list-style: none;} .top_menu .simply-scroll-list li {float: left;width: 800px;height: 40px;} #scroller {margin: 0px;padding: 0px;width: 722px;height: 40px;overflow: hidden;float: left;margin-left: 10px;} </p>
+<p> МИР </p>
+<p> УКРАИНА </p>
+<p> КИЕВ </p>
+<p> ХАРЬКОВ </p>
+<p> ДНЕПРОПЕТРОВСК </p>
+<p> ЗАПОРОЖЬЕ </p>
+<p> ДОНЕЦК </p>
+<p> ЛУГАНСК </p>
+<p> ОДЕССА </p>
+<p> КРЫМ </p>
+<p> ЛЬВОВ </p>
+<p> КИРОВОГРАД </p>
+<p> ЧЕРНОВЦЫ </p>
+<p> 09:18 </p>
+<p> 11.04 </p>
+<p> <!-- bmN=navigator,bmD=document,bmD.cookie='b=b',i=0,bs=[],bm={o:1,v:54,s:54,t:6,c:bmD.cookie?1:0,n:Math.round((Math.random()* 1000000)),w:0}; for(var f=self;f!=f.parent;f=f.parent)bm.w++; try{if(bmN.plugins&&bmN.mimeTypes.length&&(x=bmN.plugins['Shockwave Flash']))bm.m=parseInt(x.description.replace(/([a-zA-Z]|\s)+/,'')); else for(var f=3;f<20;f++)if(eval('new ActiveXObject("ShockwaveFlash.ShockwaveFlash.'+f+'")'))bm.m=f}catch(e){;} try{bm.y=bmN.javaEnabled()?1:0}catch(e){;} try{bmS=screen;bm.v^=bm.d=bmS.colorDepth||bmS.pixelDepth;bm.v^=bm.r=bmS.width}catch(e){;} r=bmD.referrer.slice(7);if(r&&r.split('/')[0]!=window.location.host){bm.f=escape(r);bm.v^=r.length} bm.v^=window.location.href.length;for(var x in bm) if(/^[ovstcnwmydrf]$/.test(x)) bs[i++]=x+bm[x]; bmD.write('<sc'+'ript type="text/javascript" language="javascript" src="http://c.bigmir.net/?'+bs.join('&')+'"></sc'+'ript>'); //--> </p>
+<p> <!-- iS='<img src="http://r.i.ua/s?u1121&p0&n'+Math.random(); iD=document;iD.cookie="iua=1";if(iD.cookie)iS+='&c1'; try{ iS+='&d'+(screen.colorDepth?screen.colorDepth:screen.pixelDepth)+"&w"+screen.width+'&h'+screen.height }catch(e){ } iT=iD.referrer.slice(7);iS+='&r'+escape(iH=window.location.href.slice(7)); ((iI=iT.indexOf('/'))!=-1)?(iT=iT.substring(0,iI)):(iI=iT.length); if(iT!=iH.substring(0,iI))iS+='&f'+escape(iD.referrer.slice(7)); iD.write(iS+'" border="0" width="1" height="1" />'); //--> </p>
+<p> <!-- document.write('<img src="http://counter.yadro.ru/hit?r'+ escape(document.referrer)+((typeof(screen)=='undefined')?'': ';s'+screen.width+'*'+screen.height+'*'+(screen.colorDepth? screen.colorDepth:screen.pixelDepth))+';u'+escape(document.URL)+ ';i'+escape('Жж'+document.title.substring(0,80))+';'+Math.random()+ '" width=1 height=1 alt="">')//--> </p>
+<p> (function(w, c) {     (w[c] = w[c] || []).push(function() {         try {             w.yaCounter6274405 = new Ya.Metrika({id:6274405,                     clickmap:true,                     trackLinks:true});         }         catch(e) { }     }); })(window, 'yandex_metrika_callbacks'); </p>
+<p> НОВОСТИ </p>
+<p> ТЕСТЫ </p>
+<p> ДАЙДЖЕСТ </p>
+<p> ФОРУМ </p>
+<p> ДОСЬЕ </p>
+<p> LIVEBLOG </p>
+<p> ФОТО </p>
+<p> ВИДЕО </p>
+<p> KYIVWEEKLY </p>
+<p> КОММЕНТАРИИ </p>
+<p> власть </p>
+<p> деньги </p>
+<p> стиль жизни </p>
+<p> hi-tech </p>
+<p> спорт </p>
+<p> мир </p>
+<p> .spec_projects_submenu {position: absolute; top: 30px; left: 640px; z-index: 1999; background-color: #f1f1f1; border-left: 1px solid #dedede; border-top: 1px solid #dedede; border-right: 1px solid #dedede; padding-top: 0px; display: none;} .spec_projects {border-bottom: 1px solid #dedede;} .spec_projects a {background-image: url(/_im/materials_list_item.jpg); background-position: 10px 14px; background-repeat: no-repeat; color: #525252; float: left; font-size: 10px; text-transform: uppercase; font-family: Arial; display: block; padding-left: 25px; padding-right: 15px; padding-bottom: 10px; padding-top: 10px;} .spec_projects a:hover {color: #cf1141; text-decoration: none;} .spec_extra_button {z-index: 99; background-image: url(/_im/vibori2012/extra_spec.gif); background-repeat: no-repeat; font-family: arial; font-size: 11px; color: white; display: block !important; height: 25px !important; width: 84px !important; padding: 0px !important; margin: 0px !important; position: absolute !important; right: 252px !important; top: 5px !important;} .spec_extra_button:hover {color: white;} </p>
+<p> $(document).ready(function(){ 	$(".spec_extra_button").click(function() { 		$(".spec_projects_submenu").show(); 		return false; 	}); 	$(".spec_projects_submenu").click(function() { 		$(".spec_projects_submenu").hide(); 	}); 	$(document).click(function() { 		$(".spec_projects_submenu").hide(); 	}); 	$(".spec_projects_submenu").click(function(e) { 		e.stopPropagation(); 	}); 	$('.scrollable').scrollable({   	    size: 3, 	    speed:400, 		easing: 'swing' 	}).circular(); }); </p>
+<p> Лицо украинской власти </p>
+<p> Герои и Антигерои 2012 года </p>
+<p> 21 год независимости: превращение в украинца </p>
+<p> Дневник эмигранта: Хорошо ли там, где нас нет? </p>
+<p> ОНЛАЙН Трансляции </p>
+<p> Верховная Рада VII созыва: кто есть кто </p>
+<p> Словарь Януковича </p>
+<p> function querySt(ji) { hu = window.location.search.substring(1); gy = hu.split("&"); for(i=0;i<gy.length;i++) { ft = gy[i].split("="); if(ft[0]==ji) return ft[1]; } return 0; } var cursm = null; var sm_a = new Array(6); sm_a[10]="politics";sm_a[12]="money";sm_a[13]="life";sm_a[14]="ht";sm_a[16]="sport";sm_a[17]="world"; var curHref = window.location.href; var a_curHref = curHref.split("/"); var a_host = a_curHref[3]; if(a_curHref[3]=='news') $("#m_news").addClass("active"); if(cursm==null&&(a_curHref[3]=='news'||a_curHref[3]=='articles')) { cursm = sm_a[querySt("tid")]; } if(cursm==null) { for(var ii=0;ii<sm_a.length;ii++) {  if(a_host==sm_a[ii]) cursm = sm_a[ii];  } } if(cursm!=null) { $("#sm_"+cursm).attr("className","text_red_menu"); $("#sm_"+cursm+" img").attr("src","/_im/icon_"+cursm+"_menu.jpg"); } var m_a = new Array(6); m_a[10]="news";m_a[11]="live";m_a[12]="foto";m_a[13]="digest";m_a[14]="video"; for(var ii=0;ii<m_a.length;ii++) {  if(a_host==m_a[ii]) $("#m_"+m_a[ii]).addClass("active"); } </p>
+<p> function checkSearch(it) { if(it.s.value==""||it.s.value=="Поиск..") { $("#search_field").css('background-color','#FFCCCC'); it.s.focus(); return false; } return true; } </p>
+<p> $("#search_field").val('Пoиск..'); </p>
+<p> Темные круги – самая распространенная проблема кожи зимой </p>
+<p> Зимой женщины рискуют выглядеть на 5 лет старше – косметологи </p>
+<p> 09/12/2011 </p>
+<p> 15:14 </p>
+<p> 0 </p>
+<p> Автор: </p>
+<p> материалы по теме: </p>
+<p> Любители ночных перекусов быстрее лишаются зубов – ученые </p>
+<p> Ученые нашли полезный заменитель шоколада </p>
+<p> Недоношенные мальчики растут психопатами – исследование </p>
+<p> Ученые: повышенный сахар в крови ускорит старость </p>
+<p> VK.Widgets.Like("vk_like", {type: "mini"}); </p>
+<p> Твитнуть </p>
+<p> !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs"); </p>
+<p> window.___gcfg = {lang: 'ru'};    (function() {     var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;     po.src = 'https://apis.google.com/js/plusone.js';     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);   })(); </p>
+<p> Косметологи и прочие эксперты в области красоты предупреждают: мешки  под глазами, делающие женщину визуально примерно на пять лет старше, -  неизменный атрибут зимы </p>
+<p> Они специально проанализировали состояние 5000 женщин в возрасте 27-60 лет. Исследователи хотели выяснить, как смена сезона влияет на кожу. </p>
+<p> Оказалось,  зима старила в среднем на четыре года и восемь месяцев. Из-за нехватки  солнечного света кожа становилась более бледной, что подчеркивало мешки  под глазами. Проблема усугублялась при повышенном уровне усталости в  виду дефицита витамина D, продуцируемого в теле под воздействием  солнечного света, и при нехватке серотонина, дающего приятные ощущения. </p>
+<p> Почти  так же дела обстоят и с мужчинами, говорит исследование, проводившееся в  американской лаборатории компании AMA Laboratories. Итак, 82% женщин  жаловались на круги под глазами и отечность в зимний период. Летом с  подобными проблемами сталкивались лишь 38% женщин. </p>
+<p> По словам  Марка Бинетта, эксперта в области старения, последние изыскания все чаще  связывают наличие отечности и кругов под глазами с нехваткой витаминов D  и K. Притом, темные круги - самая распространенная проблема. </p>
+<p> Нередко  она вызвана тем, что маленькие капилляры пропускают крови, которая  скапливается под поверхностью кожи. Кровь начинает окисляться и  становится темной. Так как зимой кожа становится более прозрачной,  особенно видно, когда под глазами скапливается жидкость. </p>
+<p> Читайте новости </p>
+<p> Comments.UA </p>
+<p> в социальных сетях </p>
+<p> facebook </p>
+<p> и </p>
+<p> twitter </p>
+<p> . </p>
+<p> Источник: </p>
+<p> «Newsland» </p>
+<p> Источник фото: </p>
+<p> likar.info </p>
+<p> Теги: </p>
+<p> косметологи </p>
+<p> , </p>
+<p> зима </p>
+<p> , </p>
+<p> мешки под глазами </p>
+<p> , </p>
+<p> старение </p>
+<p> , </p>
+<p> круги под глазами </p>
+<p> Версия для печати </p>
+<p> <!-- var vhblockID=2469, date=new Date(); document.write('<scr'+'ipt type="text/javascript" src="http://i.holder.com.ua/t/content.y'+ (date.getFullYear()%100)+date.getMonth()+date.getDate()+'.js"></scr'+'ipt>'); //--> </p>
+<p> VK.Widgets.Subscribe("vk_subscribe", {soft: 1}, -35657649); </p>
+<p> А ТЫ уже читаешь нас Вконтакте? </p>
+<p> VK.Widgets.Group("vk_groups", {mode: 0, width: "660", height: "100"}, 35657649); </p>
+<p> var disqus_shortname = 'commentsua'; 	var disqus_identifier = 'id_308282_ru_life_news'; 	var disqus_category_id = 587118; 	var disqus_url = 'http://comments.ua/life/308282-zimoy-zhenshchini-riskuyut-viglyadet.html'; 	var disqus_title = 'Зимой женщины рискуют выглядеть на 5 лет старше – косметологи';   (function() {    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.charset = 'utf-8'; dsq.async = true;    dsq.src = 'http://commentsua.disqus.com/embed.js';    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);   })(); </p>
+<p> Пожалуйста включите JavaScript для просмотра </p>
+<p> комментариев powered by Disqus. </p>
+<p> комментарии powered by </p>
+<p> Disqus </p>
+<p> Украинские горы продают по европейским ценам </p>
+<p> Семь барьеров для переохлаждения: бульон, носки и трезвый образ жизни </p>
+<p> Чиновники повернут время в московскую сторону </p>
+<p> Кто украинцам будет отключать тепло </p>
+<p> Украинская молодежь хочет научиться обходить закон </p>
+<p> Украинцы массово отказываются от мучного </p>
+<p> Валерий Хорошковский: политический портрет </p>
+<p> var cur_act = 0; var max_act = 6; function nextAct() { 	var next_act = cur_act==max_act ? 0 : cur_act+1; 	$("#actual_"+cur_act).css("z-index","998"); 	$("#actual_"+next_act).css("z-index","999"); 	$("#actual_"+next_act).slideDown('slow',function() { 		$("#actual_"+cur_act).hide(0,function(){ 			cur_act = next_act; 		}); 	}); } $(document).ready(function(){  	var topActualId = setInterval(function() { 		nextAct(); 	}, 15000); 	$('.photo_box').hover(  		function() { clearInterval(topActualId); }  	);   }); </p>
+<p> new adriver("adriver_banner_37626188", {sid:173406, bt:52, sz:'main'}); </p>
+<p> (function (zid, phid, bid, bhash) {         var w = window, d = document;         iu = 'http://ad.admixer.net/adsource_async.js?zone=' + zid + '&phid=' + phid;         bid && (iu += '&item=' + bid + '&ihash=' + bhash);         d.referrer && (iu += "&ref=" + encodeURIComponent(d.referrer));         iu += '&pg=' + encodeURIComponent(w.location.href);         w.pvId || (w.pvId = new Date().getTime());         iu += '&pvId=' + w.pvId;         var h = d.getElementsByTagName("head")[0], s = document.createElement("script");         s.setAttribute("type", "text/javascript");         s.setAttribute("src", iu);         h.insertBefore(s, h.firstChild);     })('c97a22f5-638a-46c1-8b46-b4029a22fb65', 'admixer_async_1412305779'); </p>
+<p> Погода </p>
+<p> Погода в </p>
+<p> Киеве </p>
+<p> влажность: </p>
+<p> давление: </p>
+<p> ветер: </p>
+<p> Последние новости </p>
+<p> 09:13 </p>
+<p> Google выпустила бета-версию Chrome 27 для Android </p>
+<p> 09:10 </p>
+<p> «Шахтеру» и «Динамо» нужен украинец из Израиля </p>
+<p> 09:03 </p>
+<p> Том Круз впервые прокомментировал развод с Кэти Холмс </p>
+<p> 09:00 </p>
+<p> Продажи ПК в мире рухнули впервые за 20 лет </p>
+<p> 08:58 </p>
+<p> Захватчик пожарных в Джорджии убит при штурме </p>
+<p> 08:57 </p>
+<p> Однополые браки легализовали в Уругвае </p>
+<p> 08:56 </p>
+<p> Под Конституционный суд заблаговременно согнали милицию </p>
+<p> 08:56 </p>
+<p> Власти Малави назвали Мадонну грубиянкой </p>
+<p> 08:55 </p>
+<p> Премьер Палестинской автономии подал в отставку </p>
+<p> 08:36 </p>
+<p> Киев чуть не залило фекалиями (ФОТО) </p>
+<p> Читать все </p>
+<p> » </p>
+<p> Последние статьи </p>
+<p> Топ-5 самых востребованных профессий за рубежом </p>
+<p> » </p>
+<p> Вузы хотят заменить интернет-обучением </p>
+<p> » </p>
+<p> Читать все </p>
+<p> » </p>
+<p> Регионы </p>
+<p> Донецк </p>
+<p> В падении АН-24 в Донецке обвинили пилотов </p>
+<p> » </p>
+<p> Крым </p>
+<p> Мэрия Ялты запретила поздравлять Боярчука </p>
+<p> » </p>
+<p> Луганск </p>
+<p> Какие сюрпризы могут ждать предвыборный Алчевск </p>
+<p> » </p>
+<p> вакансия Одесса сантехник </p>
+<p> , </p>
+<p> гороскоп для львов </p>
+<p> , </p>
+<p> авто сэйл </p>
+<p> власть </p>
+<p> деньги </p>
+<p> стиль жизни </p>
+<p> hi-tech </p>
+<p> спорт </p>
+<p> мир </p>
+<p> window.___gcfg = {lang: 'ru'};    (function() {     var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;     po.src = 'https://apis.google.com/js/plusone.js';     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);   })(); </p>
+<p> Архив </p>
+<p> Экспорт </p>
+<p> О проекте / Контакт </p>
+<p> Информатор </p>
+<p> if(cursm!=null) { $("#smb_"+cursm).attr("className","text_red_menu"); $("#smb_"+cursm+" img").attr("src","/_im/icon_"+cursm+"_menu.jpg"); } for(var ii=0;ii<m_a.length;ii++) {  if(a_host==m_a[ii]) $("#mb_"+m_a[ii]).addClass("active"); } </p>
+<p> НОВОСТИ </p>
+<p> ТЕСТЫ </p>
+<p> ДАЙДЖЕСТ </p>
+<p> ФОРУМ </p>
+<p> ДОСЬЕ </p>
+<p> LIVEBLOG </p>
+<p> ФОТО </p>
+<p> ВИДЕО </p>
+<p> KYIVWEEKLY </p>
+<p> КОММЕНТАРИИ </p>
+<p> © </p>
+<p> «Комментарии:» </p>
+<p> , 2013 </p>
+<p> <!-- function BM_Draw(oBM_STAT){ document.write('<table cellpadding="0" cellspacing="0" border="0" style="display:inline;margin-right:4px;"><tr><td><div style="margin:0px;padding:0px;font-size:1px;width:88px;"><div style="background:url(\'http://i.bigmir.net/cnt/samples/diagonal/b58_top.gif\') no-repeat bottom;"> </div><div style="font:10px Tahoma;background:url(\'http://i.bigmir.net/cnt/samples/diagonal/b58_center.gif\');"><div style="text-align:center;"><a href="http://www.bigmir.net/" target="_blank" rel="nofollow" style="color:#0000ab;text-decoration:none;font:10px Tahoma;">bigmir<span style="color:#ff0000;">)</span>net</a></div><div style="margin-top:3px;padding: 0px 6px 0px 6px;color:#003596;"><div style="float:left;font:10px Tahoma;">'+oBM_STAT.hosts+'</div><div style="float:right;font:10px Tahoma;">'+oBM_STAT.hits+'</div></div><br clear="all"/></div><div style="background:url(\'http://i.bigmir.net/cnt/samples/diagonal/b58_bottom.gif\') no-repeat top;"> </div></div></td></tr></table>'); } //--> </p>
+<p> var tns_already; if ("undefined"==typeof(tns_already) || null==tns_already || 0==tns_already) { tns_already=1; var i=new Image(); i.src="http://juke.mmi.bemobile.ua/bug/pic.gif?siteid=comments.ua&j=1&nocache="+Math.random();  (function(){ var p=document.getElementsByTagName('head')[0]; var s=document.createElement("script"); s.type="text/javascript"; s.src="http://source.mmi.bemobile.ua/cm/cm.js"; s.async = true; p.appendChild(s); })(); }; </p>
+<p> При воспроизведении или цитировании статей, опубликованных на Информационно-аналитическом портале «КОММЕНТАРИИ:» (comments.ua), указания имени авторов и источника обязательно. Интернет-ресурсам запрещено цитировать и воспроизводить текстовые материалы Информационно-аналитического портала «КОММЕНТАРИИ:» (comments.ua) без указания активной гиперссылки на www.comments.ua (не закрытой от индексирования поисковыми системами) непосредственно в тексте новости, не ниже второго абзаца, а также вносить изменения в тексты без письменного разрешения редакции портала. Перепечатка, копирование или воспроизведение информации, содержащей ссылку на информационные агентства «Интерфакс-Украина», «Українськi новини», УНИАН, в каком-либо виде строго запрещены. Фотографии, изображения принадлежат правообладателям. Редакция портала может не разделять мнение автора и не несет ответственности за авторские материалы. Оценочные суждения не подлежат опровержению и доказыванию их правдивости. За достоверность и содержание рекламы ответственность несет рекламодатель. В разделе «Дайджест» публикуются материалы, ранее опубликованные другими СМИ. </p>
+<p> var disqus_shortname = a_curHref[3]=='live' ? 'livecomments' : 'commentsua';     (function () {         var s = document.createElement('script'); s.async = true;         s.type = 'text/javascript';         s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';         (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);     }()); </p>
+<p> (function () { 	var w = window, d = document; 	w.admixZArr = (w.admixZArr || []); 	w.admixerSmOptions = (w.admixerSmOptions || {}); 	w.admixerSmOptions.showAdsOnLoad = true; 	if (!w.admixerSm) { 	    var adms = document.createElement('script'); 	    adms.async = true; 	    adms.type = 'text/javascript'; 	    adms.src = 'http://cdn.admixer.net/scriptlib/asm2.js?v=3'; 	    var node = d.getElementsByTagName('script')[0]; 	    node.parentNode.insertBefore(adms, node); 	} })(); </p>
+<p> window.admixZArr = (window.admixZArr || []);     window.admixZArr.push({ z: '7274e280-fb98-452e-a4bb-f9ef1a7e942d', ph: 'admixer_async_1590858848'}); </p>

@@ -1,0 +1,296 @@
+<p> Η γνώμη των αναγνωστών - Ελλάδα - Επικαιρότητα - Τα Νέα Οnline </p>
+<p> var NvPage = {"PageId":14,"LanguageId":1,"PageHierarchy":".4.13.14.","IsPreview":false,"DesignMode":false}; </p>
+<p> // <![CDATA[[ if (typeof Adman === 'undefined' || /MSIE [456]/.test(navigator['appVersion'])) document.write ('<scr'+'ipt src="http://static.adman.gr/adman.js" language="javascript" type="text/javascript"></'+'sc'+'ript>'); var now=parseInt((new Date()).getTime()); if (!window.admantpid) window.admantpid = now; var rnd=Math.floor(Math.random()*900000)+100,cdp=screen.width+"x"+screen.height+"x"+(navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth),burst="?"+rnd+":="+window.admantpid +"@"+cdp+"?"; document.write("<scr"+"ipt language=\"Javascript\" src=\"http://adman.in.gr/gbanner/?"+now+"|1955/1x1"+burst+"/\">"); document.write("</"+"sc"+"ript>"); // ]]> </p>
+<p> Πέμπτη 11 Απριλίου 2013 </p>
+<p> Αθήνα </p>
+<p> 12 </p>
+<p> ο </p>
+<p> C </p>
+<p> Θεσσαλονίκη </p>
+<p> 7 </p>
+<p> ο </p>
+<p> C </p>
+<p> Καιρός </p>
+<p> από freemeteo.com </p>
+<p> ΕΙΣΟΔΟΣ </p>
+<p> PREMIUM </p>
+<p> ΥΠΗΡΕΣΙΕΣ ΓΙΑ ΣΥΝΔΡΟΜΗΤΕΣ </p>
+<p> PDF όπως στο χαρτί </p>
+<p> Ανάγνωση E-BOOK </p>
+<p> Newsletters </p>
+<p> Τροποποίηση Στοιχείων Μέλους </p>
+<p> Υποστήριξη Συνδρομητών </p>
+<p> Γίνετε Συνδρομητής </p>
+<p> Θάτσερ </p>
+<p> Φορολογικοί παράδεισοι </p>
+<p> Μανιτάκης </p>
+<p> λίστα Λαγκάρντ </p>
+<p> Εθνική-Eurobank </p>
+<p> Wikileaks </p>
+<p> Πρώτη σελίδα </p>
+<p> Επικαιρότητα </p>
+<p> Απόψεις </p>
+<p> Υγεία </p>
+<p> Life & Style </p>
+<p> tanea360° </p>
+<p> NEATV </p>
+<p> Εικόνες </p>
+<p> Infographics </p>
+<p> Τα Νεα </p>
+<p> Επικαιρότητα </p>
+<p> Ελλάδα </p>
+<p> Νόμος </p>
+<p> Εργασία </p>
+<p> Εκπαίδευση </p>
+<p> Μεταφορές </p>
+<p> Κοινότητες </p>
+<p> Θεσσαλονίκη </p>
+<p> Συμβαίνει τώρα: </p>
+<p> Αλλαγές και ταλαιπωρία στα δρομολόγια του Προαστιακού </p>
+<p> $(document).ready(function () {         var tick = new TickerWithFade("div.ticker");         tick.Initialize();     }); </p>
+<p> var h = $("[id=header] div.row2").css({ height: "auto" }).height();     $("[id=header] div.row2").css({ height: "34px" });     if (h > 40) {         $("div.foldmenu").show();     }     $(document).ready(function () {         $("div.foldmenu").click(function () {             if ($(this).attr("closed") == "true") {                 $("[id=header] div.row2").animate({ height: h });                 $(this).attr("closed", "false")                 $(this).find("img").attr("src", "/themes/1/default/media/images/header_menu_multiple_opened.png");             } else {                 $("[id=header] div.row2").animate({ height: 34 });                 $(this).attr("closed", "true");                 $(this).find("img").attr("src", "/themes/1/default/media/images/header_menu_multiple_closed.png");             }         });     }); </p>
+<p> var ArticleID = 4684862,         IsOldNea = false,         Content, LastSizeCssClass = 'fontsmall';     $(document).ready(function () {         $('#print-me').click(function () {             window.open('/PrintArticle/?article=4684862&iid=2');             return false;         });         Content = $.merge($('#article-content'), $('#article-content div'));                  $('#font-small').click(function () { return ChangeFontSize('fontsmall'); });         $('#font-medium').click(function () { return ChangeFontSize('fontmedium'); });         $('#font-large').click(function () { return ChangeFontSize('fontlarge'); });         // $('.thumbsup').click(function (e) { return IncreaseCommentRating(e.target, true); });         // $('.thumbsdown').click(function (e) { return IncreaseCommentRating(e.target, false); });     });     function ChangeFontSize(cssClass) {         Content.removeClass(LastSizeCssClass);         LastSizeCssClass = cssClass;         Content.addClass(LastSizeCssClass);         return false;     }     //function IncreaseCommentRating(target, positive) {     //    var $target = $(target),     //        commentId = $target.parent().next().attr('id').slice(1);     //    $.ajax({     //        url: '/WebServices/CommentManager.asmx/IncreaseCommentRating?commentId=' + commentId + '&positive=' + positive,     //        type: 'GET',     //        cache: false,     //        success: function(response) { $target.text($(response).first().text()); }     //    });     //    return false;     //} </p>
+<p> .fontsmall, .fontsmall div {         font-size: 14px;     }      .fontmedium, .fontmedium div {         font-size: 16px;     }      .fontlarge, .fontlarge div {         font-size: 18px;     } </p>
+<p> Η γνώμη των αναγνωστών </p>
+<p> ΔΗΜΟΣΙΕΥΣΗ </p>
+<p> : 03/01/2012 07:15 | </p>
+<p> ΤΕΛΕΥΤΑΙΑ ΕΝΗΜΕΡΩΣΗ </p>
+<p> : 03/01/2012 20:00 | </p>
+<p> function SponsorLink() {         window.open('/googleAdsCode/sponsorLinks.htm', 'winSelectCategory', 'status=no,toolbars=no,scrollbars=no,location=no,menubar=no,resizable=no,width=400,height=440');     }      function google_ad_request_done(google_ads) {          var s;         var i;          if (google_ads.length == 0) {              return;         }          if (google_ads[0].type == "text") {              if (google_ads.length > 0) {                 s = '<div class="promoTitle"><a href="#" onclick="SponsorLink();return false;" target="_blank">ΠΡΟΒΕΒΛΗΜΕΝΕΣ ΚΑΤΑΧΩΡΗΣΕΙΣ</a></div>'; for (i = 0; i < google_ads.length; ++i) {                     s += '<div class="manyAds">' + 				    '<div class="addTitle">' + 					    '<a target="_blank" href="' + google_ads[i].url + '"onmouseout="window.status=\'\';return true"' + 					    'onmouseover="window.status=\'go to ' + google_ads[i].visible_url + '\';return true" style="text-decoration:none">' + 					    google_ads[i].line1 + 					    '</a>' + 				    '</div>' + 				    '<div class="addText">' + 					    '<span>' + google_ads[i].line2 + '&nbsp;' + google_ads[i].line3 + '</span>' + 				    '</div>' + 				    '<div class="addUrl">' + 					    '<a target="_blank" href="' + google_ads[i].url + '"onmouseout="window.status=\'\';return true"' + 					    'onmouseover="window.status=\'go to ' + google_ads[i].visible_url + '\';return true" style="text-decoration:none">' + 					    google_ads[i].visible_url + 					    '</a>' + 				    '</div>' + 			    '</div>';                 }                  var gAdsDiv = document.getElementById('gAdsDiv');                 if (gAdsDiv == null)                     return;                 gAdsDiv.innerHTML = s;             }         }           return;     }       google_ad_client = 'pub-4891712477108158';     google_ad_output = 'js';     google_language = 'gr';     google_encoding = 'utf8';     google_safe = 'high';     google_feedback = 'on';     google_ad_type = 'text';     google_ad_channel = '5543249489';     google_ad_width = 728;     google_ad_height = 90;      /*						     google_ad_type = 'text_html';     google_image_size = '728x90'; 			     */ </p>
+<p> google_max_num_ads = 1; </p>
+<p> $(document).ready(function () {         try {              var e = document.getElementByID('like-button-addthis');             e.createAttribute('fb:like:layout', 'button_count');             e = document.getElementByID('plusone-addthis-button');             e.createAttribute('g:plusone:size', 'medium');              // gapi.plusone.render('9ecd5fefa60913f1ab0f45d68fed4489', { "size": "medium", "href": "http://www.tanea.gr/news/greece/article/4684862/" });             addthis.toolbox('#9ecd5fefa60913f1ab0f45d68fed4489toolbox', {}, { url: 'http://www.tanea.gr/news/greece/article/4684862/', title: 'Η γνώμη των αναγνωστών', description: 'Η γνώμη των αναγνωστών' });              //            var inter = setInterval(function () {             //                addthis.counter('#9ecd5fefa60913f1ab0f45d68fed4489Counter', {}, { url: 'http://www.tanea.gr/news/greece/article/4684862/', title: 'Η γνώμη των αναγνωστών', description: 'Η γνώμη των αναγνωστών' });             //                $('#9ecd5fefa60913f1ab0f45d68fed4489Counter').fadeIn();             //                clearInterval(inter);             //            }             //                                , 1000);         } catch (e) { }     }); </p>
+<p> Σύγχρονο σοσιαλδημοκρατικό κόμμα Το ΠΑΣΟΚ εάν θέλει να ανταποκριθεί στις απαιτήσεις της εποχής οφείλει να κάνει μια μεγάλη πολιτική υπέρβαση.... </p>
+<p> $("a.login-article-button").click(function(){                 ShowPopupIfUserHasNotAccessToUrl("false");                 return false;             }); </p>
+<p> 0 </p>
+<p> Σχόλια </p>
+<p> αναγνωστών </p>
+<p> ΤΕΛΕΥΤΑΙΑ </p>
+<p> ΝΕΑ </p>
+<p> Η Κύπρος διαψεύδει ότι σκοπεύει να πουλήσει μέρος των αποθεμάτων χρυσού της </p>
+<p> Πριν 6' </p>
+<p> • </p>
+<p> Σε θέση εκτόξευσης βρίσκονται οι πύραυλοι της βόρειας Κορέας </p>
+<p> Πριν 22' </p>
+<p> • </p>
+<p> Στον Εισαγγελέα οι επτά συλληφθέντες για τα επεισόδια στο Πανεπιστήμιο Πειραιά </p>
+<p> Πριν 48' </p>
+<p> • </p>
+<p> Οι αεροπορικές επιδρομές στη Συρία έχουν στόχο τους αμάχους καταγγέλλει το Παρατηρητήριο Ανθρωπίνων Δικαιωμάτων </p>
+<p> Πριν 49' </p>
+<p> • </p>
+<p> Δεκάδες χιλιάδες διαδήλωσαν στις ΗΠΑ για τη βελτίωση του μεταναστευτικού νόμου </p>
+<p> Πριν 51' </p>
+<p> • </p>
+<p> Όλες οι ενότητες </p>
+<p> Πολιτική </p>
+<p> Οικονομία </p>
+<p> Ελλάδα </p>
+<p> Κόσμος </p>
+<p> Επιστήμη & Τεχνολογία </p>
+<p> Πολιτισμός </p>
+<p> Σπορ </p>
+<p> Life & Style </p>
+<p> tanea360° </p>
+<p> Η Κύπρος διαψεύδει ότι σκοπεύει να πουλήσει μέρος των αποθεμάτων χρυσού της </p>
+<p> Πριν 7' </p>
+<p> Σε θέση εκτόξευσης βρίσκονται οι πύραυλοι της βόρειας Κορέας </p>
+<p> Πριν 23' </p>
+<p> Στον Εισαγγελέα οι επτά συλληφθέντες για τα επεισόδια στο Πανεπιστήμιο Πειραιά </p>
+<p> Πριν 49' </p>
+<p> Οι αεροπορικές επιδρομές στη Συρία έχουν στόχο τους αμάχους καταγγέλλει το Παρατηρητήριο Ανθρωπίνων Δικαιωμάτων </p>
+<p> Πριν 50' </p>
+<p> Δεκάδες χιλιάδες διαδήλωσαν στις ΗΠΑ για τη βελτίωση του μεταναστευτικού νόμου </p>
+<p> Πριν 52' </p>
+<p> Αλλάζει το χρώμα του αίματος για χάρη των Κινέζων </p>
+<p> 08:00 </p>
+<p> Επηρεάζουν το 40% της βάσης </p>
+<p> 08:00 </p>
+<p> [Μικροπολιτικός] Τηλεφωνούσε ξημερώματα στον Σαμαρά </p>
+<p> 08:00 </p>
+<p> [Μικροπολιτικός] Βγήκαν μαχαίρια </p>
+<p> 08:00 </p>
+<p> Υπογραφή συμβάσεων έργων 1 δισ. ευρώ έως τον Ιούνιο </p>
+<p> 08:00 </p>
+<p> όλες οι τελευταίες </p>
+<p> ειδήσεις </p>
+<p> $(function () {             $('#newsroom').newsroom({                 UrlPrefix: '/WebServices/ArticleManager.asmx/GetLastArticleBoxROI?catId=',                 LinkPostText: ' τελευταίες <span class=\"section\" id=\"eidiseis\">ειδήσεις</span>',                 CategoriesInfo: function () {                     var n = 'news/', a = '/articlelist/';                     return {                         '-1': { l: 'όλες οι', u: 'news' + a },                         '4': { l: 'Πολιτική', u: n + 'politics' + a },                         '10': { l: 'Ελλάδα', u: n + 'greece' + a },                         '16': { l: 'Κόσμος', u: n + 'world' + a },                         '18': { l: 'Life &amp; Style', u: 'life-style' + a },                         '28': { l: 'Επιστήμη &amp; Τεχνολογία', u: n + 'sience-technology' + a },                         '30': { l: 'Οικονομία', u: n + 'economy' + a },                         '43': { l: 'Πολιτισμός', u: n + 'culture' + a },                         '57': { l: 'Σπορ', u: n + 'sports' + a },                         '67': { l: 'tanea360°', u: 'tanea360' + a }                     };                 } ()             });         }); </p>
+<p> $(document).ready(function () {         var tabC = new TabController("div.box[id='userarticles']", "div.header", "div.items");         tabC.Init();     }); </p>
+<p> ΔΙΑΒΑΣΜΕΝΑ </p>
+<p> ΣΧΟΛΙΑΣΜΕΝΑ </p>
+<p> ΜΟΙΡΑΣΜΕΝΑ </p>
+<p> 1 </p>
+<p> Θανατηφόρο τροχαίο με εγκατάλειψη στη Λ.Κηφισίας </p>
+<p> 07/04/2013 23:47 </p>
+<p> • </p>
+<p> 9 </p>
+<p> 2 </p>
+<p> Δύο ληστείες τα ξημερώματα σε ξενοδοχεία της λεωφ. Ποσειδώνος </p>
+<p> 07/04/2013 13:13 </p>
+<p> • </p>
+<p> 4 </p>
+<p> 3 </p>
+<p> «Δεν είδα τον φόβο του πολέμου στα πρόσωπα των ανθρώπων», λέει στα «ΝΕΑ» η μοναδική Ελληνίδα της Βόρειας Κορέας </p>
+<p> 06/04/2013 18:50 </p>
+<p> • </p>
+<p> 69 </p>
+<p> 4 </p>
+<p> Ενας αγνοούμενος στην Ιεράπετρα από ανατροπή φουσκωτού </p>
+<p> 07/04/2013 14:52 </p>
+<p> • </p>
+<p> 5 </p>
+<p> Ακτινογραφία στα κοιτάσματα πετρελαίου σε Ιόνιο και Κρήτη </p>
+<p> 06/04/2013 08:00 </p>
+<p> • </p>
+<p> 8 </p>
+<p> 1 </p>
+<p> «Οχι» από τους πρυτάνεις στη διαγραφή των «αιώνιων» φοιτητών </p>
+<p> 07/04/2013 18:49 </p>
+<p> • </p>
+<p> 92 </p>
+<p> 2 </p>
+<p> «Δεν είδα τον φόβο του πολέμου στα πρόσωπα των ανθρώπων», λέει στα «ΝΕΑ» η μοναδική Ελληνίδα της Βόρειας Κορέας </p>
+<p> 06/04/2013 18:50 </p>
+<p> • </p>
+<p> 69 </p>
+<p> 3 </p>
+<p> Spiegel: «Η Γερμανία χρωστά 162 δισ. ευρώ για πολεμικές αποζημιώσεις στην Ελλάδα» </p>
+<p> 08/04/2013 09:23 </p>
+<p> • </p>
+<p> 25 </p>
+<p> 4 </p>
+<p> Φραστική επίθεση δέχτηκε ο Θεόδωρος Πάγκαλος στη λίμνη Βουλιαγμένης </p>
+<p> 07/04/2013 19:09 </p>
+<p> • </p>
+<p> 18 </p>
+<p> 5 </p>
+<p> Πόλεμος για τον γκέι νταλικέρη </p>
+<p> 06/04/2013 08:00 </p>
+<p> • </p>
+<p> 14 </p>
+<p> 1 </p>
+<p> Πένθος για την απώλεια του ναυάρχου Νίκου Παππά, κυβερνήτη του θρυλικού «Βέλους» </p>
+<p> 05/04/2013 14:02 </p>
+<p> • </p>
+<p> 39 </p>
+<p> 2 </p>
+<p> Spiegel: «Η Γερμανία χρωστά 162 δισ. ευρώ για πολεμικές αποζημιώσεις στην Ελλάδα» </p>
+<p> 08/04/2013 09:23 </p>
+<p> • </p>
+<p> 25 </p>
+<p> 3 </p>
+<p> Φοιτητής εισέπραξε γροθιές επειδή δεν πλήρωσε χωρίς απόδειξη </p>
+<p> 03/04/2013 08:00 </p>
+<p> • </p>
+<p> 43 </p>
+<p> 4 </p>
+<p> «Δεν είδα τον φόβο του πολέμου στα πρόσωπα των ανθρώπων», λέει στα «ΝΕΑ» η μοναδική Ελληνίδα της Βόρειας Κορέας </p>
+<p> 06/04/2013 18:50 </p>
+<p> • </p>
+<p> 69 </p>
+<p> 5 </p>
+<p> Ο Μίσα δεν ξύπνησε ποτέ </p>
+<p> 02/04/2013 17:30 </p>
+<p> • </p>
+<p> (function(d, s, id) {   var js, fjs = d.getElementsByTagName(s)[0];   if (d.getElementById(id)) return;   js = d.createElement(s); js.id = id;   js.src = "//connect.facebook.net/el_GR/all.js#xfbml=1&appId=333792420065268";   fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk')); </p>
+<p> $(document).ready(function () {         $("select[name='moreUrlNavigateSelect']").change(function () {             $("select option:selected").each(function () {                 if ($(this).attr('value') != 'null') {                     window.open($(this).attr('value'), "newwindow");                  }             });         });           ///Search/?area=0&author=&cid=-1&so=1&sa=0&pt=5&words=          $("input[id=searchInputFooter]").keypress(function (e) {             var code = (e.keyCode ? e.keyCode : e.which);             if (code == 13 || code == 10) {                 searchFromFooter();                 return false;             }             return true;         });          $("img[id=searchButtonImage]").click(function () {             searchFromFooter();         });      });      function searchFromFooter() {         var words = "";         $("input[id=searchInputFooter]").each(function () {             words += $(this).val();         });         window.location.href = "/Search/?area=0&author=&cid=-1&so=1&sa=0&pt=3&words=" + decodeURI(words);     } </p>
+<p> Ελλάδα </p>
+<p> Νόμος </p>
+<p> Εργασία </p>
+<p> Εκπαίδευση </p>
+<p> Μεταφορές </p>
+<p> Κοινότητες </p>
+<p> Θεσσαλονίκη </p>
+<p> Πολιτική </p>
+<p> Ευρωπαϊκή Ένωση </p>
+<p> Βουλή </p>
+<p> Διπλωματία & 'Αμυνα </p>
+<p> Αυτοδιοίκηση </p>
+<p> Μικροπολιτικός </p>
+<p> Οικονομία </p>
+<p> Ειδήσεις </p>
+<p> Αγορές </p>
+<p> Επιχειρήσεις </p>
+<p> Καταναλωτής </p>
+<p> Φορολογία </p>
+<p> Εργασία </p>
+<p> Τουρισμός </p>
+<p> Ανακοινώσεις </p>
+<p> Πολιτισμός </p>
+<p> Αρχιτεκτονική & Design </p>
+<p> Αρχαιολογία </p>
+<p> Σινεμά </p>
+<p> Θέατρο & Χορός </p>
+<p> Μουσική </p>
+<p> Εικαστικά </p>
+<p> Βιβλίο </p>
+<p> Για το παιδί </p>
+<p> Σπορ </p>
+<p> Ποδόσφαιρο </p>
+<p> Μπάσκετ </p>
+<p> Στίβος </p>
+<p> Μηχανοκίνητα </p>
+<p> Απόψεις </p>
+<p> Όλες οι Απόψεις </p>
+<p> Αρθρογράφοι </p>
+<p> Blogs </p>
+<p> Απόψεις αναγνωστών </p>
+<p> Συζητάμε </p>
+<p> Γελοιογραφίες </p>
+<p> Βίντεο </p>
+<p> Φωτογραφίες </p>
+<p> Life & Style </p>
+<p> Γεύση </p>
+<p> Μόδα & Ομορφιά </p>
+<p> Ταξίδια </p>
+<p> Αυτοκίνητο </p>
+<p> Σχέσεις </p>
+<p> Κοσμικά </p>
+<p> Facebook </p>
+<p> Twitter </p>
+<p> Google+ </p>
+<p> RSS </p>
+<p> $("a.rssFooter").attr("href", "/rss.axd?pgid=" + NvPage.PageId); </p>
+<p> Κόσμος </p>
+<p> Επιστήμη & Τεχνολογία </p>
+<p> Υγεία </p>
+<p> tanea360° </p>
+<p> NEATV </p>
+<p> Εικόνες </p>
+<p> Infographics </p>
+<p> Ταυτότητα </p>
+<p> | </p>
+<p> Επικοινωνία </p>
+<p> | </p>
+<p> Διαφήμιση </p>
+<p> | </p>
+<p> Όροι χρήσης </p>
+<p> © Δημοσιογραφικός Οργανισμός Λαμπράκη </p>
+<p> Άλλοι δικτυακοί τόποι </p>
+<p> in.gr </p>
+<p> tovima.gr </p>
+<p> imommy.gr </p>
+<p> marie claire.gr </p>
+<p> gamos.gr </p>
+<p> Vita.gr </p>
+<p> cosmopolitan.gr </p>
+<p> diakopes.gr </p>
+<p> dol.gr </p>
+<p> powered by </p>
+<p> NETVOLUTION </p>
+<p> $("html").attr("xmlns:fb","http://ogp.me/ns/fb#"); </p>
+<p> jQuery.ready(); </p>
+<p> jQuery.ready(); </p>
+<p> CustomAds.push(['BMIBanner485','#Banner728x90Header','TaNeaEllada728x90Header']); </p>
+<p> // <![CDATA[[ if (typeof Adman === 'undefined' || /MSIE [456]/.test(navigator['appVersion'])) document.write ('<scr'+'ipt src="http://static.adman.gr/adman.js" language="javascript" type="text/javascript"></'+'sc'+'ript>'); var now=parseInt((new Date()).getTime()); if (!window.admantpid) window.admantpid = now; var rnd=Math.floor(Math.random()*900000)+100,cdp=screen.width+"x"+screen.height+"x"+(navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth),burst="?"+rnd+":="+window.admantpid +"@"+cdp+"?"; document.write("<scr"+"ipt language=\"Javascript\" src=\"http://adman.in.gr/gbanner/?"+now+"|1956/728x90"+burst+"/\">"); document.write("</"+"sc"+"ript>"); // ]]> </p>
+<p> CustomAds.push(['BMIBanner486','#Banner300xRight1','TaNeaEllada300x_Right1']); </p>
+<p> // <![CDATA[[ if (typeof Adman === 'undefined' || /MSIE [456]/.test(navigator['appVersion'])) document.write ('<scr'+'ipt src="http://static.adman.gr/adman.js" language="javascript" type="text/javascript"></'+'sc'+'ript>'); var now=parseInt((new Date()).getTime()); if (!window.admantpid) window.admantpid = now; var rnd=Math.floor(Math.random()*900000)+100,cdp=screen.width+"x"+screen.height+"x"+(navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth),burst="?"+rnd+":="+window.admantpid +"@"+cdp+"?"; document.write("<scr"+"ipt language=\"Javascript\" src=\"http://adman.in.gr/gbanner/?"+now+"|1957/300x250"+burst+"/\">"); document.write("</"+"sc"+"ript>"); // ]]> </p>
+<p> CustomAds.push(['BMIBanner487','#Banner300xRight2','TaNeaEllada300x_Right2']); </p>
+<p> // <![CDATA[[ if (typeof Adman === 'undefined' || /MSIE [456]/.test(navigator['appVersion'])) document.write ('<scr'+'ipt src="http://static.adman.gr/adman.js" language="javascript" type="text/javascript"></'+'sc'+'ript>'); var now=parseInt((new Date()).getTime()); if (!window.admantpid) window.admantpid = now; var rnd=Math.floor(Math.random()*900000)+100,cdp=screen.width+"x"+screen.height+"x"+(navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth),burst="?"+rnd+":="+window.admantpid +"@"+cdp+"?"; document.write("<scr"+"ipt language=\"Javascript\" src=\"http://adman.in.gr/gbanner/?"+now+"|1958/300x250"+burst+"/\">"); document.write("</"+"sc"+"ript>"); // ]]> </p>
+<p> CustomAds.push(['BMIBanner488','#Banner230x250Middle','TaNeaEllada230x250_Middle']); </p>
+<p> // <![CDATA[[ if (typeof Adman === 'undefined' || /MSIE [456]/.test(navigator['appVersion'])) document.write ('<scr'+'ipt src="http://static.adman.gr/adman.js" language="javascript" type="text/javascript"></'+'sc'+'ript>'); var now=parseInt((new Date()).getTime()); if (!window.admantpid) window.admantpid = now; var rnd=Math.floor(Math.random()*900000)+100,cdp=screen.width+"x"+screen.height+"x"+(navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth),burst="?"+rnd+":="+window.admantpid +"@"+cdp+"?"; document.write("<scr"+"ipt language=\"Javascript\" src=\"http://adman.in.gr/gbanner/?"+now+"|1959/230x250"+burst+"/\">"); document.write("</"+"sc"+"ript>"); // ]]> </p>
+<p> CustomAds.push(['BMIBanner489','#Banner234x27VAI','TaNeaEllada234x27_VAI']); </p>
+<p> // <![CDATA[[ if (typeof Adman === 'undefined' || /MSIE [456]/.test(navigator['appVersion'])) document.write ('<scr'+'ipt src="http://static.adman.gr/adman.js" language="javascript" type="text/javascript"></'+'sc'+'ript>'); var now=parseInt((new Date()).getTime()); if (!window.admantpid) window.admantpid = now; var rnd=Math.floor(Math.random()*900000)+100,cdp=screen.width+"x"+screen.height+"x"+(navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth),burst="?"+rnd+":="+window.admantpid +"@"+cdp+"?"; document.write("<scr"+"ipt language=\"Javascript\" src=\"http://adman.in.gr/gbanner/?"+now+"|1960/234x27"+burst+"/\">"); document.write("</"+"sc"+"ript>"); // ]]> </p>
+<p> jQuery.ready();         try{   		  MoveCustomAds();  	}catch(err) {} </p>
+<p> CleanUpAds(); </p>
+<p> var _rsCI = "ingr";     var _rsCG = "0";     var _rsDN = "//secure-uk.imrworldwide.com/";     var _rsCC = 0;     var _rsSE = 1;     var _rsSM = 0.05; </p>
+<p> var _gaq = _gaq || [];   _gaq.push(['_setAccount', 'UA-28563335-4']);   _gaq.push(['_trackPageview']);    (function() {     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);   })(); </p>

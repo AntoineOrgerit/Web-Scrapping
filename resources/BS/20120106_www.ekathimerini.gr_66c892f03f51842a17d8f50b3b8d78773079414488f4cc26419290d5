@@ -1,0 +1,109 @@
+<p> var _sf_startpt=(new Date()).getTime() </p>
+<p> kathimerini.gr | Στην Ελλάδα, το 20% έχει ολοκληρωμένη σχέση </p>
+<p> {"lang": "en-GB", "parsetags": "explicit"} </p>
+<p> function openshow(pURL,features){  new_window = window.open(pURL, "popup_window", features); new_window.focus(); } </p>
+<p> var _gaq = _gaq || [];   _gaq.push(['_setAccount', 'UA-31707306-1']);   _gaq.push(['_setDomainName', 'kathimerini.gr']);   _gaq.push(['_trackPageview']);    (function() {     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);   })(); </p>
+<p> Home </p>
+<p> | </p>
+<p> Mobile </p>
+<p> | </p>
+<p> Newsletter </p>
+<p> | </p>
+<p> E-paper </p>
+<p> | </p>
+<p> RSS </p>
+<p> | </p>
+<p> Χρήσιμα </p>
+<p> | </p>
+<p> Shopping </p>
+<p> | </p>
+<p> English Edition </p>
+<p> Βρείτε μας: </p>
+<p> Tετάρτη, 10 Aπριλίου 2013 </p>
+<p> Ημερ. έκδοσης </p>
+<p> 17/09/2011 </p>
+<p> function validate2(target) 			{ 				if (!target) x=document.search_form2.keyword.value; 				else var x=target.keyword.value; 				if (x.length<4) 				{ 					alert("Πάνω απο 3 χαρακτήρες!"); 					return false; 				} 				if (x=="") 				{ 					empty2(); 					return false; 				}  				if (x==" Αναζήτηση") 				{ 					alert("Δώστε λέξη για αναζήτηση"); 					return false; 				} 				return true; 			} 			function empty2() 			{ 				var x=document.search_form2.keyword.value; 				if (x=="") document.search_form2.keyword.value=""; 				if (x==" Αναζήτηση") document.search_form2.keyword.value=""; 			} </p>
+<p> input.formSearch2 {     border: 1px solid #d4d0c7; 	font-family:"Courier New", Courier, monospace;     font-size: 12px; 	height:21px; 	letter-spacing:0.01em; } </p>
+<p> Σύνθετη Αναζήτηση </p>
+<p> | </p>
+<p> Αρχείο Εκδόσεων </p>
+<p> Επικαιρότητα </p>
+<p> Εντυπη </p>
+<p> Απόψεις </p>
+<p> Αφιερώματα </p>
+<p> Ταξίδια </p>
+<p> Αγγελίες </p>
+<p> Γυναίκα </p>
+<p> Πρώτη Σελίδα </p>
+<p> Πολιτική </p>
+<p> Ελλάδα </p>
+<p> Κόσμος </p>
+<p> Οικονομία </p>
+<p> Επιχειρήσεις </p>
+<p> Διεθνής οικονομία </p>
+<p> Πολιτισμός </p>
+<p> Αθλητισμός </p>
+<p> Μόνιμες στήλες </p>
+<p> // <![CDATA[[ if (typeof Adman === 'undefined' || /MSIE [456]/.test(navigator['appVersion'])) document.write ('<scr'+'ipt src="http://static.adman.gr/adman.js" language="javascript" type="text/javascript"></'+'sc'+'ript>'); var now=parseInt((new Date()).getTime()); if (!window.admantpid) window.admantpid = now; var rnd=Math.floor(Math.random()*900000)+100,cdp=screen.width+"x"+screen.height+"x"+(navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth),burst="?"+rnd+":="+window.admantpid +"@"+cdp+"?"; document.write("<scr"+"ipt language=\"Javascript\" src=\"http://adman.kathimerini.gr/gbanner/?"+now+"|29/950x200"+burst+"/\">"); document.write("</"+"sc"+"ript>"); // ]]> </p>
+<p> function pop_me_up(pURL,features){  new_window = window.open(pURL, "popup_window", features); new_window.focus(); }  function popupMessage() {   var to = "";   var cc = "";   var bcc = "";   var subject = "Kathimerini - Articles";   var body = "http://news.kathimerini.gr/4dcgi/_w_articles_ell_100010_17/09/2011_456367"    var doc = "mailto:" + to +      "?subject=" + escape(subject) +      "&body=" + escape(body);    window.location = doc; }  function win_up(pURL,features){  new_window = window.open(pURL, "popup_window", features); new_window.focus(); } </p>
+<p> EΛΛAΔA </p>
+<p> Hμερομηνία δημοσίευσης </p>
+<p> : </p>
+<p> 17-09-11 </p>
+<p> Στην Ελλάδα, το 20% έχει ολοκληρωμένη σχέση </p>
+<p> Εντονη σύγχυση μοιάζει να επικρατεί στο μυαλό των Ελλήνων εφήβων σχετικά με τους τρόπους προφύλαξης από τα σεξουαλικώς μεταδιδόμενα νοσήματα, αλλά και τις μεθόδους αντισύλληψης, την ώρα που ξεκινούν με ορμή τη σεξουαλική τους ζωή από τις πρώτες κιόλας τάξεις του Γυμνασίου... </p>
+<p> Σύμφωνα με πρόσφατη έρευνα της Μονάδας Εφηβικής Υγείας του Νοσοκομείου Παίδων «Αγλαΐα Κυριακού» σε παιδιά 15 ετών από την Αττική, το 40% είχε ήδη να δηλώσει «κάποια» σεξουαλική εμπειρία (εκτός της διεισδυτικής επαφής), ενώ το 20% των εφήβων είχε ξεκινήσει «κανονικά» τη σεξουαλική του ζωή. Ιδιαίτερη εντύπωση προκαλεί το γεγονός ότι το 4% των εφήβων δηλώνει ότι πιέστηκε να ξεκινήσει σεξουαλική δραστηριότητα. </p>
+<p> Από τους σεξουαλικώς ενεργούς εφήβους, το 44,3% έχει κάνει πρώτη φορά έρωτα πριν από τα 14, το 10,2% πριν από τα 13%, ενώ το 5,7% ξεκίνησε τις πρώτες επαφές ήδη από τα 12. Το 10% δεν χρησιμοποιούσε καμία αντισυλληπτική μέθοδο, το 39% εφάρμοζε αναξιόπιστες μεθόδους όπως η απόσυρση, το 51% χρησιμοποιούσε προφυλακτικό, ενώ 5% είχαν ξεκινήσει το «χάπι». </p>
+<p> Οσον αφορά τις γνώσεις τους για τα σεξουαλικώς μεταδιδόμενα νοσήματα, οι περισσότεροι γνώριζαν μόνο το AIDS (35%), το 22,1% γνώριζε το ΑIDS και την ηπατίτιδα Β, ενώ πολύ μικρά ήταν τα ποσοστά εκείνων που μπορούσαν να αναφέρουν άλλα νοσήματα, όπως τα χλαμύδια, η γονόρροια, ο έρπης ή ο ιός των ανθρωπίνων θηλωμάτων. </p>
+<p> Ενδεικτικό της πλήρους απουσίας προγραμμάτων σεξουαλικής διαπαιδαγώγησης στα σχολεία (το σχετικό πρόγραμμα που είχε ξεκινήσει το 2009 στα δημοτικά «κόπηκε» λόγω έλλειψης χρηματοδότησης) είναι ότι κύριες πηγές ενημέρωσης των εφήβων για το σεξ είναι οι γονείς (22%) και οι φίλοι (21%). Οι έφηβοι που ενημερώθηκαν από τους φίλους τους μάλιστα εμπιστεύονταν συχνότερα αναξιόπιστες μεθόδους αντισύλληψης, όπως η μέθοδος των γόνιμων ημερών. </p>
+<p> Οι ειδικοί εκτιμούν ότι κάθε χρόνο το 25% των σεξουαλικώς ενεργών εφήβων μολύνεται από κάποιο σεξουαλικώς μεταδιδόμενο νόσημα, ενώ σύμφωνα με το Ινστιτούτο Ψυχικής και Σεξουαλικής Υγείας, στην Ελλάδα πραγματοποιούνται ετησίως 40.000 αμβλώσεις από κορίτσια κάτω των 18 ετών. </p>
+<p> ΣXETIKA ΘEMATA </p>
+<p> Γνωρίζουν το σεξ νωρίς, αγνοούν τους κινδύνους _(...EΛΛAΔA...) </p>
+<p> Δημοσίευση :  17-09-11 </p>
+<p> function fbs_click()  {u=location.href;  t=document.title;  window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(u)+'&t='+encodeURIComponent(t),'sharer','toolbar=0,status=0,width=626,height=436');return false;} </p>
+<p> html .fb_share_button   { display: -moz-inline-block; display:inline-block; padding:1px 11px 0 5px; height:15px; border:1px solid #d8dfea; background:url(http://static.ak.facebook.com/images/share/facebook_share_icon.gif?6:26981) no-repeat top right;   }    html .fb_share_button:hover { color:#fff; border-color:#295582; background:#3b5998 url(http://static.ak.facebook.com/images/share/facebook_share_icon.gif?6:26981) no-repeat top right; text-decoration:none; } </p>
+<p> gapi.plusone.render("plusone",    {"size": "medium", "count": "false" }); </p>
+<p> // <![CDATA[[ if (typeof Adman==='undefined'|| /MSIE [456]/.test(navigator['appVersion'])) document.write ('<scr'+'ipt src="http://static.adman.gr/adman.js" language="javascript" type="text/javascript"></'+'sc'+'ript>'); var now=parseInt((new Date()).getTime()),ce=''; try{(ce=document.characterSet)||(ce=document.charset)||(ce=document.defaultCharset);}catch(e){} window.admantpid||(window.admantpid=now); var rnd=Math.floor(Math.random()*900000)+100,cdp=screen.width+"x"+screen.height+"x"+(navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth),burst="?"+rnd+":="+window.admantpid +"@"+cdp+"@CS:"+ce+"?"; document.write("<scr"+"ipt language=\"Javascript\" src=\"http://talos.adman.gr/gbanner/?"+now+"|6190/1x1"+burst+"/\">"); document.write("</"+"sc"+"ript>"); // ]]> </p>
+<p> <!--  var google_adnum = 0; /* only insert this line for your first ad unit */  function google_ad_request_done(google_ads) {  /* * This function is required and is used to display * the ads that are returned from the JavaScript * request. You should modify the document.write * commands so that the HTML they write out fits * with your desired ad layout. */  var s = ''; var i;  /* * Verify that there are actually ads to display. */  if (google_ads.length == 0) { return; }  /* * If an image, flash or html ad is returned, display that ad. * Otherwise, build a string containing all of the ads and * then use a document.write() command to print that string. */  if (google_ads[0].type == "html") {     s += '<a href=\"' + google_info.feedback_url + '\" style="color:0a5781">Ads by Google</a><br>' + google_ads[0].snippet;  } else {  if (google_ads.length == 1) {  /* * Partners should adjust text sizes * so ads occupy the majority of ad space. */     s += '<div id="google_ads_container" style="width:615px;height:auto;background-color:#ffffff;padding:0px;border:solid 0px #a7acca;margin-bottom:10px;"><div style="background-color:#ffffff;padding:2px 8px"><a href=\"' + google_info.feedback_url + '\" style="font-family:Georgia;font-size:14px;color:#0a5781;text-decoration:none">Ads by Google</a></div><div class="google_ad_item" style="padding:4px 3px"><div style="border-width:1px; border-top-style:dotted; border-color:#000000; padding:4px 3px;"></div> <a style="text-decoration:none" href="' + google_ads[0].url + '" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to ' + google_ads[0].visible_url + '\';return true"><span style="font-weight:normal;color:#0a5781;text-decoration:none;font-family:Georgia;font-size:12px;margin-right:5px"> <b>' + google_ads[0].line1 + '</b></span></a><br><span style="font-weight:normal;color:#000000;text-decoration:none;font-family:Georgia;font-size:12px;margin-right:5px">' + google_ads[0].line2 + '&nbsp;' + google_ads[0].line3 + '<br></span> <a style="color:#0a5781;text-decoration:none" href="' + google_ads[0].url + '" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to ' + google_ads[0].visible_url + '\';return true"><span>' + google_ads[0].visible_url + '</span></a></div>';  } else if (google_ads.length > 1) {     s += '<div id="google_ads_container" style="width:615px;height:auto;background-color:#ffffff;padding:0px;border:solid 0px #a7acca;margin-bottom:10px;"><div style="background-color:#ffffff;padding:2px 8px"><a href=\"' + google_info.feedback_url + '\" style="font-family:Georgia;font-size:14px;color:#0a5781;text-decoration:none">Ads by Google</a></div><div class="google_ads_wrapper" style="">'    /*   * For text ads, append each ad to the string.   */  for(i = 0; i < google_ads.length; ++i) {  s += '<div class="google_ad_item" style="padding:4px 3px"><div style="border-width:1px; border-top-style:dotted; border-color:#000000; padding:4px 3px;"></div><a style="color:#0a5781;text-decoration:none;font-family:Georgia;font-size:12px;font-weight:bold;margin-right:5px" href="' + google_ads[i].url + '" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to ' + google_ads[i].visible_url + '\';return true"> <span style="font-weight:normal;color:#0a5781;text-decoration:none;font-family:Georgia;font-size:12px;margin-right:5px"> <b>' + google_ads[i].line1 + '</b></span></a><br><span style="font-weight:normal;color:#000000;text-decoration:none;font-family:Georgia;font-size:12px;margin-right:5px">' + google_ads[i].line2 + '' + google_ads[i].line3 + '<br></span> <a style="color:#0a5781;text-decoration:none" href="' + google_ads[i].url + '" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to ' + google_ads[i].visible_url + '\';return true"><span>' + google_ads[i].visible_url + '</span></a></div>'; }  }s += '</div><div style="height:20px;"></div><div style="background-color:#023d81; height:1px;"></div></div>';     }  if (google_ads[0].bidtype == "CPC") { /* insert this snippet for each ad call */ google_adnum = google_adnum + google_ads.length; }      document.write(s);     return;   }  google_ad_client = 'pub-5242430365160383'; google_ad_channel = '1728248214'; google_ad_output = 'js'; google_max_num_ads = '3'; google_ad_type = 'text'; google_language = 'el'; // --> </p>
+<p> $("#acontent").load("/getportal/4DCGI/4DCGI/local_203_id05n255254fqx"); </p>
+<p> [ Aρχή σελίδας ] </p>
+<p> Oικονομικές ειδήσεις </p>
+<p> | </p>
+<p> Γενικές ειδήσεις </p>
+<p> Γραφήματα </p>
+<p> Χρήσιμα </p>
+<p> Καιρός </p>
+<p> Aφιερώματα </p>
+<p> // <![CDATA[[ if (typeof Adman === 'undefined' || /MSIE [456]/.test(navigator['appVersion'])) document.write ('<scr'+'ipt src="http://static.adman.gr/adman.js" language="javascript" type="text/javascript"></'+'sc'+'ript>'); var now=parseInt((new Date()).getTime()); if (!window.admantpid) window.admantpid = now; var rnd=Math.floor(Math.random()*900000)+100,cdp=screen.width+"x"+screen.height+"x"+(navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth),burst="?"+rnd+":="+window.admantpid +"@"+cdp+"?"; document.write("<scr"+"ipt language=\"Javascript\" src=\"http://adman.kathimerini.gr/gbanner/?"+now+"|28/300x600"+burst+"/\">"); document.write("</"+"sc"+"ript>"); // ]]> </p>
+<p> APXEIO - Eντυπη έκδοση </p>
+<p> Οι Ελληνες στην Απω Ανατολή </p>
+<p> Οι άγνωστοι Ελληνες μετανάστες της Απω Ανατολής </p>
+<p> Νέα μείωση κονδυλίων για ΑΕΙ </p>
+<p> Δύο ζωές διασταυρώνονται στο Πλανητάριο </p>
+<p> ΣYNTOMA </p>
+<p> Καινοτομίες στον δρόμο για την κατανάλωση </p>
+<p> Γνωρίζουν το σεξ νωρίς, αγνοούν τους κινδύνους </p>
+<p> Στην Ελλάδα, το 20% έχει ολοκληρωμένη σχέση </p>
+<p> Χωρίς ελεγκτική αρχή η αγορά της υποβοηθούμενης αναπαραγωγής </p>
+<p> NOMIKH ENHMEPΩΣH </p>
+<p> Μέτρα που οδηγούν στο «τέλος» της ακίνητης περιουσίας… </p>
+<p> Η πτώση ελικοπτέρου Σινούκ και οι πράσινες ζώνες δήμων </p>
+<p> «Καλλικράτης» 9 μήνες μετά, ένα στοίχημα που πρέπει να κερδηθεί </p>
+<p> // <![CDATA[[ if (typeof Adman === 'undefined' || /MSIE [456]/.test(navigator['appVersion'])) document.write ('<scr'+'ipt src="http://static.adman.gr/adman.js" language="javascript" type="text/javascript"></'+'sc'+'ript>'); var now=parseInt((new Date()).getTime()); if (!window.admantpid) window.admantpid = now; var rnd=Math.floor(Math.random()*900000)+100,cdp=screen.width+"x"+screen.height+"x"+(navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth),burst="?"+rnd+":="+window.admantpid +"@"+cdp+"?"; document.write("<scr"+"ipt language=\"Javascript\" src=\"http://adman.kathimerini.gr/gbanner/?"+now+"|109/300x600"+burst+"/\">"); document.write("</"+"sc"+"ript>"); // ]]> </p>
+<p> Όροι χρήσης </p>
+<p> | </p>
+<p> Προστασία προσωπικών δεδομένων </p>
+<p> | </p>
+<p> Company profile </p>
+<p> | </p>
+<p> Eπικοινωνία </p>
+<p> | </p>
+<p> Site map </p>
+<p> | </p>
+<p> Προσφορές </p>
+<p> © 2013 </p>
+<p> H KAΘHMEPINH </p>
+<p> All rights reserved. </p>
+<p> // <![CDATA[[ if (typeof Adman === 'undefined' || /MSIE [456]/.test(navigator['appVersion'])) document.write ('<scr'+'ipt src="http://static.adman.gr/adman.js" language="javascript" type="text/javascript"></'+'sc'+'ript>'); var now=parseInt((new Date()).getTime()); if (!window.admantpid) window.admantpid = now; var rnd=Math.floor(Math.random()*900000)+100,cdp=screen.width+"x"+screen.height+"x"+(navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth),burst="?"+rnd+":="+window.admantpid +"@"+cdp+"?"; document.write("<scr"+"ipt language=\"Javascript\" src=\"http://adman.kathimerini.gr/gbanner/?"+now+"|30/160x600"+burst+"/\">"); document.write("</"+"sc"+"ript>"); // ]]> </p>
+<p> var pvar = { cid: "gr-kathimerini", content: "PrintEdition-Ellada", server: "secure-uk" };  var feat = { surveys_enabled: 1, sample_rate: 0.05 };  var trac = nol_t(pvar, feat);  trac.record().post().do_sample(); </p>
+<p> var _sf_async_config={uid:30525,domain:"news.kathimerini.gr"}; (function(){   function loadChartbeat() {     window._sf_endpt=(new Date()).getTime();     var e = document.createElement('script');     e.setAttribute('language', 'javascript');     e.setAttribute('type', 'text/javascript');     e.setAttribute('src',        (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +        "js/chartbeat.js");     document.body.appendChild(e);   }   var oldonload = window.onload;   window.onload = (typeof window.onload != 'function') ?      loadChartbeat : function() { oldonload(); loadChartbeat(); }; })(); </p>

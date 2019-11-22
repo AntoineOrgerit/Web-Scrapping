@@ -1,0 +1,186 @@
+<p> Doktór zbada, wyleczy i doradzi - 9 stycznia 2012 </p>
+<p> // <![CDATA[ $(document).ready(function(){     // col300     $('#boxForum').tabs();     $('#boxMostRead').tabs();     $('#pollMini').pollmini("NASZDOKTOR01");     $("#boxGalleries ul").jcarousel({scroll: 3});     $("#boxGalleriesInternet ul").jcarousel({scroll: 3});     $("#boxVideos ul").jcarousel({scroll: 3}); }); // ]]> </p>
+<p> // <![CDATA[ $(document).ready(function(){     $('a.wykop').attr("href","javascript:location.href='http://www.wykop.pl/dodaj?url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title)+'&amp;desc='+encodeURIComponent(document.getSelection?document.getSelection():document.selection.createRange().text);");     $('a.rss').attr("href","/rss");     $('a.report').click(function(){         window.open('/apps/pbcs.dll/misc?URL=/templates/gen_report.pbs&link=http%3A%2F%2Fwww.pomorska.pl%2Fapps%2Fpbcs.dll%2Farticle%3FAID%3D%2F20120109%2FNASZDOKTOR01%2F794375778',"ShowProdWindow","menubars=0,scrollbars=1,resizable=1,height=380,width=300").focus(); return false;     });     $('a.tiplink').click(function(){         window.open('/apps/pbcs.dll/art_tips?Date=20120109&Category=NASZDOKTOR01&ArtNo=794375778&SiteData=PO&SectionCat=',"ShowProdWindow","menubars=0,scrollbars=1,resizable=1,height=380,width=300").focus(); return false;     });     $('a.print').click(function(){         window.open('/apps/pbcs.dll/article?AID=/20120109/NASZDOKTOR01/794375778&Template=printpicart',"Print").focus(); return false;     });     $('a.video').popupwindow("height:465,width:400,toolbar:0,scrollbars:0,status:0,resizable:0,left:50,top:50");     $('a.A1').zoomArticleText(11);     $('a.A2').zoomArticleText(12);     $('a.A3').zoomArticleText(14);     $('#articleVideo ul li a').click(function(){         showPlayer(0,$(this).attr("href"),0,270,230);         return false;     }); }); // ]]> </p>
+<p> <!--//--><![CDATA[//><!-- var gemius_identifier = new String('10XrsON8SIE0zOKJr6PGAZRMXoyu9u9MTyQa0pAuDVj.W7'); //--><!]]> </p>
+<p> Serwis jest częścią portalu </p>
+<p> Strona główna </p>
+<p> Lekarz rodzinny </p>
+<p> Pielęgniarka </p>
+<p> Położna </p>
+<p> Ratownik medyczny </p>
+<p> Przychodnia </p>
+<p> Jak zgłaszać </p>
+<p> Regulamin </p>
+<p> Nagrody </p>
+<p> Zdrowie </p>
+<p> naszdoktor </p>
+<p> » </p>
+<p> Plebiscyt Medyczny 2012 - artykuły </p>
+<p> A </p>
+<p> A </p>
+<p> A </p>
+<p> dodano: </p>
+<p> 9 stycznia 2012, 16:45 </p>
+<p> tagi: </p>
+<p> plebiscyt medyczny </p>
+<p> przychodnia sępólno </p>
+<p> Doktór zbada, wyleczy i doradzi </p>
+<p> BARBARA ZYBAJŁO-NERKOWSKA </p>
+<p> Sępoleńska przychodnia wciąż zyskuje pacjentów i sympatię </p>
+<p> Alina Knapik z "Doktora” </p>
+<p> W rejestracji spotkać można przemiłe panie pielęgniarki. </p>
+<p> (BARBARA ZYBAJŁO-NERKOWSKA) </p>
+<p> Gabinety lekarskie przy ul. Hallera to znana na Krajnie marka. W ubiegłym roku docenili Państwo tę placówkę, bo właśnie ona zajęła pierwsze miejsce w kategorii przychodni przyjaznych pacjentowi. </p>
+<p> I do tego pacjenci "Doktora”, którym od lat kieruje Teresa Ruthendorf-Przewoska, z usług lekarzy mogą korzystać od godz. 7 do 19. </p>
+<p> Przychodnia działa też w soboty od godz. 8 do 12 i jest ewenementem, bo przeważnie pomoc lekarza rodzinnego uzyskać można tylko do godz. 18. </p>
+<p> Wydłużenie godzin działania jest wyjątkowo dogodne dla pacjentów, bo teraz z pracy wychodzi się o różnych porach, a i choroba nie wybiera - źle można się poczuć przecież także o 18 czy w weekend.  - Godziny pracy to rzecz, która nas bardzo wyróżnia - podkreśla Maria Kiełbasińska, prezeska zarządu spółki "Doktór”. - Cały czas zyskujemy nowych pacjentów. Mamy też nowego pediatrę. </p>
+<p> Zobacz rankinki Plebiscytu Medycznego w kategoriach: </p>
+<p> - lekarz </p>
+<p> - pielęgniarka </p>
+<p> - położna </p>
+<p> - ratownik medyczny </p>
+<p> - przychodnia </p>
+<p> - apteka </p>
+<p> Maluchy w "Doktorze” od września leczy Piotr Galantowicz. A poza tym załoga to stali i sprawdzeni ludzie, którym pacjenci bez wahania powierzają swoje zdrowie. Jeszcze do niedawna na ul. Hallera zaglądali głównie mieszkańcy Sępólna, ale sytuacja się zmieniła i teraz przybywa pacjentów z okolicznych wsi. </p>
+<p> Doktór to nie tylko sprawdzona marka i stabilność, ale i wygoda, bo przy budynku jest winda, z której mogą skorzystać niepełnosprawni. Przychodnia położona jest w centrum miasta, a tuż przy niej ulokowała się apteka, więc z realizacją recept też nie ma problemu. </p>
+<p> W ubiegłym roku - dzięki Państwa głosom - Doktór otrzymał laury dla najlepszej przychodni. Także i w tym roku zgłosili Państwo tę placówkę do naszego plebiscytu, w którym w tym roku wybieramy nie tylko przychodnię czy aptekę przyjazną pacjentom, ale także lekarza, pielęgniarkę, położną i ratownika medycznego. Głosujemy telefonicznie, a koszt  jednego SMS-a to 1,23 zł.  Szczegóły i lista kandydatów na stronie www.pomorska.pl/medyczny oraz w środę w "Pomorskiej”. </p>
+<p> Przeczytaj więcej </p>
+<p> Wandale zniszczyli windę niepełnosprawnej włocławianki </p>
+<p> (13-01-2012) </p>
+<p> Po zmianach, w przychodni jak na froncie </p>
+<p> (11-01-2012) </p>
+<p> Dlaczego Przychodnia "Łomżyńska”? </p>
+<p> (11-01-2012) </p>
+<p> // ustaw wielkosc czcionki w artykule setArticleTextSize(); $('a.picture').popupwindow("height:640,width:600,toolbar:0,scrollbars:1,status:0,resizable:1,left:50,top:50"); </p>
+<p> A </p>
+<p> A </p>
+<p> A </p>
+<p> Forum </p>
+<p> coach factory outlet </p>
+<p> | dodano: 14 marca, 10:32 </p>
+<p> The [url=http://www.coachfactoryoutletsonlineus.com]coach factory outlet has been in business for many years. You can log in to find more information about its products and services.[url=http://www.coachfactoryoutletsonlineus.com]coach factory outlet online offer New Signature bags which is a the [...] </p>
+<p> coach outlet </p>
+<p> | dodano: 14 marca, 09:57 </p>
+<p> [url=http://www.coachoutleting.com]coach outlet handbags's special design and fashion is certainly and so eye-catching, I hope you are able to get much more attention towards the Cheap Coach Crossbody.The Bags that you can buy in [url=http://www.coachoutleting.com] tend to be affordable, feel [...] </p>
+<p> Anna </p>
+<p> | dodano: 27 stycznia, 18:01 </p>
+<p> Problemy ze zdrowiem? Czekasz na wizytę u specjalisty zbyt długo?    SIGNUM oferuje dostęp do kompleksowej opieki medycznej. Szybko, komfortowo, solidnie, bez kolejek i niekończących się wydatków na lekarzy. 1000 placówek medycznych w całej Polsce. Dołącz do zadowolonych użytkowników [...] </p>
+<p> Wszystkie komentarze (6) </p>
+<p> Znajdź kandydata </p>
+<p> // <![CDATA[ $("#ajaxMenu").ajaxMenu({category:"NASZDOKTOR98"}); // ]]> </p>
+<p> Box partnerzy </p>
+<p> var flashvars = {}; var params = {"wmode": "opaque"}; swfobject.embedSWF("/files/naszdoktor/partner.swf", "boxWebcamHolder", "300", "600", "9.0.0", "", flashvars, params); </p>
+<p> Najczęściej czytane </p>
+<p> dzisiaj </p>
+<p> ostatni tydzień </p>
+<p> ostatni miesiąc </p>
+<p> Delecta Bydgoszcz przegrała z Jastrzębskim Węglem </p>
+<p> Koncertowa gra Energi Manekina. Superliga nadal w Toruniu </p>
+<p> Kujawskie morsy pożegnały zimę [zobacz zdjęcia] </p>
+<p> Grudziądz. 5-letnia dziewczynka wbiegła pod policyjne auto. Jej matka była w domu... pijana </p>
+<p> Powiat wąbrzeski. Pijany "tatuś”  z trudem szedł, a niósł niemowlaka </p>
+<p> Brak zespołowości w Anwilu Włocławek i porażka w Zgorzelcu </p>
+<p> Zima wiosną będzie nas słono kosztować. Czy we Włocławku zabraknie soli i piasku? </p>
+<p> Operator monitoringu obserwuje sytuacje w kilkudziesięciu punktach Włocławka </p>
+<p> Fala powodziowa na Wiśle nadejdzie. Czy grozi nam powódź? </p>
+<p> Poseł oskarżył marszałek Kopacz, a teraz zaprzecza </p>
+<p> Pierwsze numery IKP schodzą z taśmy w nowej drukarni na Wzgórzu Wolności </p>
+<p> Włocłavia w półfinale Pucharu Polski. Wygrana z Kujawianką 4:1 [wideo] </p>
+<p> Uprawiał marihuanę w namiocie [zobacz zdjęcie i wideo] </p>
+<p> Wstyd Anwilu Włocławek! Porażka z osłabionym Asseco Prokomem [wideo, zdjęcia] </p>
+<p> Most w Toruniu - jak wygląda budowa? [zdjęcia od Internauty] </p>
+<p> Artykuły </p>
+<p> Zdjęcia </p>
+<p> Do Wąbrzeźna zagląda nieśmiało wiosna </p>
+<p> Torun Superliga Tenisa Stołowego KST Energa - GKS Gorzovia </p>
+<p> Cysterna z gazem wpadła do rowu na DK 62 </p>
+<p> Toruń  Miedzynarodowy Dzień Teatru  - nagrody marszałka </p>
+<p> Interwencja strażników miejskich w Bydgoszczy </p>
+<p> Wystawa Twarzą w Twarz w brodnickiej Bramie Chełmińskiej </p>
+<p> Inowrocław. Odkopano fragmenty fundamentów synagogi </p>
+<p> III Otwarte Mistrzostwa Polski Karate Shotokan NSKF Polska - Brodnica 2013 </p>
+<p> Prawo Agaty -sceny kręcone w Bydgoszczy </p>
+<p> Osoby z regionu w 'Mam talent' </p>
+<p> Toruń  Budynek dawnych młynów Richtera </p>
+<p> Kujawskie Morsy pożegnały zimę </p>
+<p> więcej » </p>
+<p> | </p>
+<p> safeEmail('online','pomorska.pl','wyślij zdjęcie &raquo;'); </p>
+<p> Wideo </p>
+<p> Pierwszy trening żużlowców składywęgla.pl Polonii Bydgoszcz </p>
+<p> Sparing Włocłavia - Orlęta Aleksandrów Kujawski 2:1 </p>
+<p> Bydgoscy piłkarze po meczu Zawisza Bydgoszcz - Arka Gdynia </p>
+<p> Trener Jurij Szatałow po meczu Zawisza Bydgoszcz - Arka Gdynia </p>
+<p> TBL. Anwil Włocławek - Stelmet Zielona Góra 85:84. Konferencja prasowa (1) </p>
+<p> TBL. Anwil Włocławek - Stelmet Zielona Góra 85:84. Konferencja prasowa (2) </p>
+<p> Poseł handluje prawdą </p>
+<p> Jaki był wasz pierwszy telefon komórkowy? </p>
+<p> Milija Bogicević trenerem Anwilu w sezonie 2013/14 </p>
+<p> Napad! 93-latka nie żyje </p>
+<p> Wypadek na Rondzie Jagiellonów w Bydgoszczy </p>
+<p> Bramki z meczu Pucharu Polski Włocłavia - Kujawianka 4:1 </p>
+<p> więcej » </p>
+<p> | </p>
+<p> safeEmail('online','pomorska.pl','wyślij film &raquo;'); </p>
+<p> Forum </p>
+<p> Ostatnie </p>
+<p> Popularne </p>
+<p> wczoraj, 15:08 </p>
+<p> Kremy przeciwzmarszkowe naprawdę działają. Pod jednym warunkiem... </p>
+<p> wczoraj, 15:05 </p>
+<p> Jak wyglądać młodziej ? </p>
+<p> wczoraj, 15:04 </p>
+<p> Co najlepsze na ból stawów? </p>
+<p> wczoraj, 15:00 </p>
+<p> E-papieros warto? </p>
+<p> wczoraj, 14:57 </p>
+<p> Jak wybrać zdrowe, dobre jajka? Są na to sposoby </p>
+<p> wczoraj, 14:56 </p>
+<p> Jakich kosmetyków używać </p>
+<p> więcej » </p>
+<p> [4] </p>
+<p> Jak wybrać zdrowe, dobre jajka? Są na to sposoby </p>
+<p> [2] </p>
+<p> Kremy przeciwzmarszkowe naprawdę działają. Pod jednym warunkiem... </p>
+<p> [2] </p>
+<p> Podatek może dobić szpitale. I pacjentów </p>
+<p> [2] </p>
+<p> Nowa Lista Leków Refundowanych [ważna od 1 marca 2013] </p>
+<p> [1] </p>
+<p> NFZ odrzuca większość wniosków o finansowanie indywidualnego leczenia pacjentów </p>
+<p> [1] </p>
+<p> Przedłużanie włosów </p>
+<p> więcej » </p>
+<p> Sonda </p>
+<p> var pollExists=false; </p>
+<p> Brak ankiety. </p>
+<p> if (!pollExists) { $("#pollMini").preloader(); } </p>
+<p> Tagi </p>
+<p> Przepraszamy, w tej chwili nie ma tagów. </p>
+<p> kontakt </p>
+<p> reklama </p>
+<p> redakcja </p>
+<p> Wszelkie prawa zastrzeżone. Media Regionalne sp. z o.o. 2001-2013 </p>
+<p> // <![CDATA[ var pianoVariables = {     service_id: "284",     mode: "bar_normal",     method_verify: true }; var pianoHostProtocol = (("https:" == document.location.protocol) ? "https://" : "http://"); (function() {     var s = document.createElement('script');     s.type = 'text/javascript';     s.async = true;     s.src = pianoHostProtocol + 'pl.bar.pianomedia.eu/bar.js';     var p = document.getElementsByTagName('script')[0]; p.parentNode.insertBefore(s, p); })(); // ]]> </p>
+<p> /* (c)AdOcean 2003-2010 */ 	if(typeof ado!=="object"){ado={};ado.config=ado.preview=ado.placement=ado.master=ado.slave=function(){};}  	ado.config({mode: "new", xml: false, characterEncoding: true}); 	ado.preview({enabled: true, emiter: "ad.adocean.pl", id: "es0MDtR27TJ5qmPbU1oLvl44zanRnCboWYQVAmmCUj..77"}); </p>
+<p> $('.adholder_gora').attr('id','ado-7aVG8mM94q7G3mVDWUbZu3g4cu1ouX4NtbMgtzkVZL3.D7'); /* (c)AdOcean 2003-2011, media_regionalne.pomorska.pl.gora.naszdoktor */ ado.placement({id: 'ado-7aVG8mM94q7G3mVDWUbZu3g4cu1ouX4NtbMgtzkVZL3.D7', server: 'ad.adocean.pl' }); </p>
+<p> $('.adholder_logosponsora').attr('id','ado-xbdGoYBE4grOp1Vwbg_.3mHCH2sPuq8ft7ZBFqMMoGP.T7'); /* (c)AdOcean 2003-2011, media_regionalne.pomorska.pl.logoSponsora.naszdoktor */ ado.placement({id: 'ado-xbdGoYBE4grOp1Vwbg_.3mHCH2sPuq8ft7ZBFqMMoGP.T7', server: 'ad.adocean.pl' }); </p>
+<p> $('.adholder_lewa1').attr('id','ado-eEzwgv6E10DVYsepyUsfF4RL0mtSrD3ZfNB9PrxmtT3.17'); /* (c)AdOcean 2003-2011, media_regionalne.pomorska.pl.lewa1.naszdoktor */ ado.placement({id: 'ado-eEzwgv6E10DVYsepyUsfF4RL0mtSrD3ZfNB9PrxmtT3.17', server: 'ad.adocean.pl' }); </p>
+<p> $('.adholder_lewa2').attr('id','ado-jUWlVYMnTdoAq0_DYjm5kmtt4hjDFd47jXYg9tWZhDj.x7'); /* (c)AdOcean 2003-2011, media_regionalne.pomorska.pl.lewa2.naszdoktor */ ado.placement({id: 'ado-jUWlVYMnTdoAq0_DYjm5kmtt4hjDFd47jXYg9tWZhDj.x7', server: 'ad.adocean.pl' }); </p>
+<p> $('.adholder_lewa3').attr('id','ado-h.acHuzo7eHSpxRaSgwGkjW2UVj9PieCLNQtjHbq_Zr.K7'); /* (c)AdOcean 2003-2011, media_regionalne.pomorska.pl.lewa3.naszdoktor */ ado.placement({id: 'ado-h.acHuzo7eHSpxRaSgwGkjW2UVj9PieCLNQtjHbq_Zr.K7', server: 'ad.adocean.pl' }); </p>
+<p> $('.adholder_lewa4').attr('id','ado-dOMB.y0MbDNXzBFo8Anbyh7TQPU5pYcuk9OaOsLOe_v.h7'); /* (c)AdOcean 2003-2011, media_regionalne.pomorska.pl.lewa4.naszdoktor */ ado.placement({id: 'ado-dOMB.y0MbDNXzBFo8Anbyh7TQPU5pYcuk9OaOsLOe_v.h7', server: 'ad.adocean.pl' }); </p>
+<p> $('.adholder_lewa5').attr('id','ado-Nu08wKMO3agvv341q7D83Fa.zR4lnCdw6q5Fw18bk0v.37'); /* (c)AdOcean 2003-2011, media_regionalne.pomorska.pl.lewa5.naszdoktor */ ado.placement({id: 'ado-Nu08wKMO3agvv341q7D83Fa.zR4lnCdw6q5Fw18bk0v.37', server: 'ad.adocean.pl' }); </p>
+<p> $('.adholder_belka').attr('id','ado-q6PxkLeUDIyaCdJsOKpY1TxRUQ3efydwtb5ajBJkjZr.r7'); /* (c)AdOcean 2003-2011, media_regionalne.pomorska.pl.belka.naszdoktor */ ado.placement({id: 'ado-q6PxkLeUDIyaCdJsOKpY1TxRUQ3efydwtb5ajBJkjZr.r7', server: 'ad.adocean.pl' }); </p>
+<p> $('.adholder_belka1').attr('id','ado-i7asvge9TcVamTP_AmAWUdBpLUjvcubGvOc4a1mrLVT.E7'); /* (c)AdOcean 2003-2011, media_regionalne.pomorska.pl.belka1.naszdoktor */ ado.placement({id: 'ado-i7asvge9TcVamTP_AmAWUdBpLUjvcubGvOc4a1mrLVT.E7', server: 'ad.adocean.pl' }); </p>
+<p> $('.adholder_srodek1').attr('id','ado-kJE2ItvygsRJNhrFLRb8_sxyLUie7_ewBR91rwHLIwn.d7'); /* (c)AdOcean 2003-2011, media_regionalne.pomorska.pl.srodek1.naszdoktor */ ado.placement({id: 'ado-kJE2ItvygsRJNhrFLRb8_sxyLUie7_ewBR91rwHLIwn.d7', server: 'ad.adocean.pl' }); </p>
+<p> $('.adholder_srodek2').attr('id','ado-e.0F..5E7ZBrg6.6ymaGWqE3rr7XjhuKpmGrWyftpZv.47'); /* (c)AdOcean 2003-2011, media_regionalne.pomorska.pl.srodek2.naszdoktor */ ado.placement({id: 'ado-e.0F..5E7ZBrg6.6ymaGWqE3rr7XjhuKpmGrWyftpZv.47', server: 'ad.adocean.pl' }); </p>
+<p> $('.adholder_link').attr('id','ado-1Yj6KXCuQz50eS2bdn3BBHasIGf1L_OIiuDqK1klLqb.47'); /* (c)AdOcean 2003-2011, media_regionalne.pomorska.pl.link.naszdoktor */ ado.placement({id: 'ado-1Yj6KXCuQz50eS2bdn3BBHasIGf1L_OIiuDqK1klLqb.47', server: 'ad.adocean.pl' }); </p>
+<p> $('.adholder_prawa1').attr('id','ado-lfo1R4MT3R0wGMCYNrCwFSSQH03iFq9OnGgErGwMTEP.07'); /* (c)AdOcean 2003-2011, media_regionalne.pomorska.pl.prawa1.naszdoktor */ ado.placement({id: 'ado-lfo1R4MT3R0wGMCYNrCwFSSQH03iFq9OnGgErGwMTEP.07', server: 'ad.adocean.pl' }); </p>
+<p> $('.adholder_prawa2').attr('id','ado-NZKsDT.dTaDZgSlbot9c3RXa4hmFxt472lSG6w8InLT..7'); /* (c)AdOcean 2003-2011, media_regionalne.pomorska.pl.prawa2.naszdoktor */ ado.placement({id: 'ado-NZKsDT.dTaDZgSlbot9c3RXa4hmFxt472lSG6w8InLT..7', server: 'ad.adocean.pl' }); </p>
+<p> $('.adholder_prawa3').attr('id','ado-1fhBL_L6vH1.NYF2Oz0hXQRU4WCSYMeb79maC_7i3X3.T7'); /* (c)AdOcean 2003-2011, media_regionalne.pomorska.pl.prawa3.naszdoktor */ ado.placement({id: 'ado-1fhBL_L6vH1.NYF2Oz0hXQRU4WCSYMeb79maC_7i3X3.T7', server: 'ad.adocean.pl' }); </p>
+<p> $('.adholder_prawa4').attr('id','ado-FrU8viLd3XDPxzR_0a6w7uSszT3CACeAT5Ulmf_mUWX.J7'); /* (c)AdOcean 2003-2011, media_regionalne.pomorska.pl.prawa4.naszdoktor */ ado.placement({id: 'ado-FrU8viLd3XDPxzR_0a6w7uSszT3CACeAT5Ulmf_mUWX.J7', server: 'ad.adocean.pl' }); </p>
+<p> $('.adholder_dol').attr('id','ado-n36bPVluSAbdL64gXP6QbHqZ3vYLyC9UagRxuOJw4Gv.I7'); /* (c)AdOcean 2003-2011, media_regionalne.pomorska.pl.dol.naszdoktor */ ado.placement({id: 'ado-n36bPVluSAbdL64gXP6QbHqZ3vYLyC9UagRxuOJw4Gv.I7', server: 'ad.adocean.pl' }); </p>
+<p> $('.adholder_pasek').attr('id','ado-DLqQgb.rN0YwLe06G11yEwoY7z6bOM8fWnVRYyh_bsn.37'); /* (c)AdOcean 2003-2011, media_regionalne.pomorska.pl.pasek.naszdoktor */ ado.placement({id: 'ado-DLqQgb.rN0YwLe06G11yEwoY7z6bOM8fWnVRYyh_bsn.37', server: 'ad.adocean.pl' }); </p>
+<p> $('.adholder_watermark').attr('id','ado-4wgMi1oc7Ycb8BQx0CaA7b8BE4ZJDvJU0MYWktGVOMD.i7'); /* (c)AdOcean 2003-2011, media_regionalne.pomorska.pl.watermark.naszdoktor */ ado.placement({id: 'ado-4wgMi1oc7Ycb8BQx0CaA7b8BE4ZJDvJU0MYWktGVOMD.i7', server: 'ad.adocean.pl' }); </p>
+<p> // <![CDATA[ function sitestat(u){var d=document,l=d.location;ns_pixelUrl=u+"&ns__t="+(new Date().getTime());u=ns_pixelUrl+"&ns_c="+((d.characterSet)?d.characterSet:d.defaultCharset)+"&ns_ti="+escape(d.title)+"&ns_jspageurl="+escape(l&&l.href?l.href:d.URL)+"&ns_referrer="+escape(d.referrer);(d.images)?new Image().src=u:d.write('<'+'div><img src="'+u+'" height="1" width="1" alt="*"><'+'/div>');}; sitestat("http://int.sitestat.com/mr/pomorska/s?styl_zycia.nasz_doktor.plebiscyt-medyczny-2012.plebiscyt-medyczny-2012-artykuly.artykul.doktor-zbada-wyleczy-i-doradzi-20120109&amp;mr_grupa=pr&amp;mr_serwis=pomorska&amp;mr_tematycznie=styl_zycia&amp;mr_oddzial=bydgoszcz"); // ]]> </p>
+<p> var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-637524-1']); _gaq.push(['_setDomainName', '.pomorska.pl']); _gaq.push(['_setVar', 'NASZDOKTOR']); _gaq.push(['_addOrganic', 'onet.pl', 'qt']); _gaq.push(['_addOrganic', 'szukaj.onet.pl', 'qt']); _gaq.push(['_addOrganic', 'katalog.onet.pl', 'qt']); _gaq.push(['_addOrganic', 'wp.pl', 'szukaj']); _gaq.push(['_addOrganic', 'szukaj.wp.pl', 'szukaj']); _gaq.push(['_addOrganic', 'netsprint.pl', 'q']); _gaq.push(['_addOrganic', 'google.interia.pl', 'q']); _gaq.push(['_addOrganic', 'gooru.pl', 'PHRASE']); _gaq.push(['_addOrganic', 'szukaj.gazeta.pl', 'slowo']); _gaq.push(['_addOrganic', 'szukaj2.o2.pl', 'qt']); _gaq.push(['_addOrganic', 'szukacz.pl', 'q']); _gaq.push(['_addOrganic', 'search.live.com', 'q']); _gaq.push(['_addOrganic', 'katalog.interia.pl', 'q']); _gaq.push(['_addOrganic', 'szukaj.wow.pl', 'q']); _gaq.push(['_addOrganic', 'szukaj.gery.pl', 'q']); _gaq.push(['_trackPageview']); (function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })(); </p>

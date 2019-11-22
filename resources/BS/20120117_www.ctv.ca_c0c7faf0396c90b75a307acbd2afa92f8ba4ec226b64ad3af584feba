@@ -1,0 +1,717 @@
+<p> var ctv_mobile_device = new Array("iphone", "ipod", "blackberry"); var agent = navigator.userAgent.toLowerCase();	 for(var i=0; i<ctv_mobile_device.length;i++){		 	if (ctv_mobile_device[i] != "" && agent.indexOf(ctv_mobile_device[i]) > -1) {			 		window.location = getMobileURL(); 	}  } function getMobileURL(){ 	var mobileURL = "http://m.ctv.ca";	 	var hub = "Health"; 	var hub = hub.toLowerCase(); 	if(hub == "topstoriesv2") 		hub = "topstories"; 	if(hub == "entertainmentv2") 		hub = "entertainment"; 	if(hub == "nationalnews") 		hub = "thedesk"; 	if(hub == "scitech") 		hub = "tech"; 	var slug = "prescription-medication-costs-afford-120116"; 	var date = "20120116"; 	mobileURL = mobileURL + "/" + hub + "/" + date + "/" + slug + ".html"; 	return mobileURL; } </p>
+<p> One in 10 Canadians cannot afford prescription meds | CTV News </p>
+<p> var szone=getAdName("Health"); </p>
+<p> iBox.setPath('http://www.ctv.ca/v2/js/'); 		iBox.padding = 50; 		iBox.inherit_frames = false; </p>
+<p> _AUTO_TRACK = false; </p>
+<p> var _gaq = _gaq || []; 		  _gaq.push(['_setAccount', 'UA-17793158-1']); 		  _gaq.push(['_setDomainName', 'ctv.ca']); 		  _gaq.push(['_trackPageview']); 		  (function() { 			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; 			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); 		  })(); </p>
+<p> if(document.location.protocol=='http:'){ 			 			var Tynt=Tynt||[];Tynt.push('bBoFce7OKr4lajacwqm_6l');Tynt.i={"ap":"Read more:"}; 			 			(function(){var s=document.createElement('script');s.async="async";s.type="text/javascript";s.src='http://tcr.tynt.com/ti.js';var h=document.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);})(); 			 			} </p>
+<p> @media screen and (-webkit-min-device-pixel-ratio:0) { 	.moreStory .clear {height: 10px!important; } } </p>
+<p> if ("" == "ad=n&") { var showTop="N"; setNoAd(); } </p>
+<p> _AUTO_TRACK = false; </p>
+<p> var _gaq = _gaq || [];   _gaq.push(['_setAccount', 'UA-17793158-1']);   _gaq.push(['_setDomainName', '.ctv.ca']);   _gaq.push(['_trackPageview']);    (function() {     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);   })(); </p>
+<p> placeRandom("728x90"); </p>
+<p> CTV </p>
+<p> CTV.ca </p>
+<p> Mobile </p>
+<p> Canada AM </p>
+<p> Autos </p>
+<p> Entertainment </p>
+<p> Olympics </p>
+<p> Contests </p>
+<p> Local Stations </p>
+<p> Pick your location </p>
+<p> Atlantic </p>
+<p> British Columbia </p>
+<p> Calgary </p>
+<p> Edmonton </p>
+<p> Montreal </p>
+<p> Northern Ontario </p>
+<p> Ottawa </p>
+<p> Regina </p>
+<p> Saskatoon </p>
+<p> Southwestern Ontario </p>
+<p> Toronto </p>
+<p> Winnipeg </p>
+<p> All CTV Stations </p>
+<p> #share7 {background-image:url(http://images.ctv.ca/v2/images/buttons/minus.gif)!important;} 					#rate7 {display: block!important} </p>
+<p> Health </p>
+<p> - </p>
+<p> <!-- Hide script from old browsers 	document.write(dayName[now.getDay()] + "&nbsp;" + monName[now.getMonth()] + ".&nbsp;" + now.getDate() + ",&nbsp;" + now.getFullYear())  	// End hiding script from old browsers --> </p>
+<p> News Sections </p>
+<p> Top Stories </p>
+<p> Canada </p>
+<p> Atlantic </p>
+<p> British Columbia </p>
+<p> Calgary </p>
+<p> Edmonton </p>
+<p> Montreal </p>
+<p> Northern Ontario </p>
+<p> Ottawa </p>
+<p> Regina </p>
+<p> Saskatoon </p>
+<p> Southwestern Ontario </p>
+<p> Toronto </p>
+<p> Winnipeg </p>
+<p> World </p>
+<p> Canada in Afghanistan </p>
+<p> Canadian Casualties </p>
+<p> Entertainment </p>
+<p> Photo Galleries </p>
+<p> Movie Reviews </p>
+<p> TIFF </p>
+<p> About </p>
+<p> e </p>
+<p> talk </p>
+<p> Oscars </p>
+<p> Junos </p>
+<p> Sports </p>
+<p> CTV Olympics </p>
+<p> TSN Scoreboard </p>
+<p> Business </p>
+<p> Current Markets </p>
+<p> Sci-Tech </p>
+<p> Webnation </p>
+<p> Health </p>
+<p> MedNews Express </p>
+<p> Health Blog </p>
+<p> Avis Favaro </p>
+<p> Dr. Marla Shapiro </p>
+<p> Dr. Rhonda Low </p>
+<p> Politics </p>
+<p> CTV Question Period </p>
+<p> Power Play </p>
+<p> Election 2011 </p>
+<p> Weather </p>
+<p> Canada </p>
+<p> United States </p>
+<p> International </p>
+<p> Weather Restrictions </p>
+<p> News Programs </p>
+<p> CTV National News with Lisa LaFlamme </p>
+<p> Watch CTV National News </p>
+<p> Canada AM </p>
+<p> Canada AM Family </p>
+<p> Recipes </p>
+<p> Food </p>
+<p> Travel Tips </p>
+<p> Health </p>
+<p> Movies </p>
+<p> Gardening </p>
+<p> Home & Decor </p>
+<p> Nutrition </p>
+<p> Fitness </p>
+<p> Consumer Alert </p>
+<p> W5 </p>
+<p> W5 archive </p>
+<p> Victor Malarek </p>
+<p> Power Play </p>
+<p> Question Period </p>
+<p> Features </p>
+<p> Autos </p>
+<p> Consumer </p>
+<p> Browse: </p>
+<p> Video </p>
+<p> Galleries </p>
+<p> MyNews </p>
+<p> 1 </p>
+<p> Home </p>
+<p> : </p>
+<p> Health </p>
+<p> : </p>
+<p> One in 10 Canadians cannot afford prescription meds </p>
+<p> One in 10 Canadians cannot afford prescription meds </p>
+<p> var photoVal = null; function getSzone(){ return "VideoNational"; } function simpleAd(){ if(!ord){var abc=Math.random()+"";var ord=abc.substring(2,abc.length);} szone=getSzone(); sadpg=szone; isbroadband=true; placeRandom("728x90"); } function setAdsCookie(){ var tmpDate1=new Date(); var titleOfVideo; var pathOfVideo; var tmpDate2=new Date(); var tmpSeconds = tmpDate1.getSeconds() + (8*60); tmpDate2.setSeconds(tmpSeconds); var cookieE = document.cookie.indexOf(escape("playVideo") + '='); if (cookieE == -1) { } } var storyInfo = "&hub=Health&subhub=video&no_ads=&sortdate=20120116&slug=prescription-medication-costs-afford-120116&archive=CTVNews"; var currentVolume = getCookie("EmbedBroadVol"); if (currentVolume == null) { currentVolume = 23; } var countFalseAd; var sourcePlayer = "story"; var playAd; var waitForCompleteAd; var maxPosT = 0; var maxPosM = 0; var maxPos = 0; var currentPos = 1; var previousTime = 0;  var totalTime; var cT = "T"; var x = -1; var countForHBX = 0; var stateI="pause"; function switchMostTabs(item) { var topStories = document.getElementById("BroadTopStories"); var mostPopular = document.getElementById("BroadMostPopular"); if (item == 1) { maxPos = maxPosT; cT = "T"; document.getElementById("AllTopStoriesVideo").style.display = "block"; document.getElementById("AllMostPopularVideo").style.display = "none"; topStories.getElementsByTagName("a")[0].style.color = "white"; mostPopular.getElementsByTagName("a")[0].style.color = "#515151"; topStories.style.backgroundImage = "url(http://www.ctv.ca/mar/images/local990/broadBandMostPopularOn.jpg)"; mostPopular.style.backgroundImage= "url(http://www.ctv.ca/mar/images/local990/broadBandMostPopularOff.jpg)"; } else { maxPos = maxPosM + 1; cT = "M"; document.getElementById("AllTopStoriesVideo").style.display = "none"; document.getElementById("AllMostPopularVideo").style.display = "block"; topStories.getElementsByTagName("a")[0].style.color = "#515151"; mostPopular.getElementsByTagName("a")[0].style.color = "white"; topStories.style.backgroundImage = "url(http://www.ctv.ca/mar/images/local990/broadBandMostPopularOff.jpg)"; mostPopular.style.backgroundImage= "url(http://www.ctv.ca/mar/images/local990/broadBandMostPopularOn.jpg)"; } } function moveSlider(event) { previousTime = 0; var movePosition = (event.clientX - findPos(document.getElementById("slider"))[0]); if (document.getElementById("VIDEO") != null && document.getElementById("VIDEO").controls != null && playAd == "false") { document.getElementById("VIDEO").controls.currentPosition = (movePosition/168) * totalTime; document.getElementById("slider").style.paddingLeft = movePosition + "px"; } } var canMoveVol; function startVolMove(val) { canMoveVol = val; } function moveSliderVolC(event) { canMoveVol = 1; moveSliderVol(event); canMoveVol = 0; } function moveSliderVol(event) { if (canMoveVol == 1) { var movePosition = (event.clientX - findPos(document.getElementById("volslider"))[0]); if (movePosition <= 5) { movePosition = 0; } if (movePosition >= 23) { movePosition = 23; } if (document.getElementById("VIDEO") != null && document.getElementById("VIDEO").controls != null) { document.getElementById("VIDEO").settings.volume = movePosition * 4; } document.getElementById("volslider").style.paddingLeft = movePosition + "px"; currentVolume = movePosition ; } } function findPos(obj) { 	var curleft = curtop = 0; 	if (obj.offsetParent) { 		curleft = obj.offsetLeft 		curtop = obj.offsetTop 		while (obj = obj.offsetParent) { 			curleft += obj.offsetLeft 			curtop += obj.offsetTop 		} 	} 	return [curleft,curtop]; } function showInfo(ID) {    var videoElement =  document.getElementById("blurbVideo" + ID + cT);    if (videoElement.style.display == "none")    {    videoElement.style.display = "block";    document.getElementById("infoRowImage" + ID + cT).setAttribute("src", "http://www.ctv.ca/mar/images/local990/broadbandminus.png");    }    else    {    videoElement.style.display = "none"; document.getElementById("infoRowImage" + ID + cT).setAttribute("src", "http://www.ctv.ca/mar/images/local990/broadbandplus.png");    } } function clearVideoSelection(currentPosition, type) { for (i = 1; i < maxPos; i++) { var element = document.getElementById("videoSelection" + i + type); if (element != null && i != currentPosition) { element.style.backgroundColor = "#FFFFFF"; } else if(element != null) { element.style.backgroundColor = "#FFFFFF"; } } } function switchHubVideo(URLString, URLStringLow, clip_start, clip_end, clip_id, currentPosition, titleT) { titleOfVideo = URLString; //changeVideo(URLString, URLStringLow, clip_start, clip_end, clip_id, currentPosition); var newVideo = new Video( { ClipId:clip_id, Format:'FLV', Permalink:'http://watch.ctv.ca/news/Redirect/?ClipId=' + clip_id, Title:titleT}); Playlist.GetInstance().Play(newVideo); var element = document.getElementById("videoSelection1T"); element.style.backgroundColor = "#dcdcdc"; location.hash="#TopVideoAn"; } function returnTimeVideo(timeString) { return parseInt(timeString.substring(0, 2)*3600) + parseInt(timeString.substring(3, 5)*60) + parseInt(timeString.substring(6,8)) } function changeVideo(URLString, URLStringLow, clip_start, clip_end, clip_id, currentPosition) { /*if (cT == "T") { clearVideoSelection(-1, "M"); clearVideoSelection(currentPosition, "T"); } else { clearVideoSelection(currentPosition, "M"); clearVideoSelection(-1, "T"); }*/ //totalTime = parseInt(clip_end.substring(0, 2))*3600 + parseInt(clip_end.substring(3,5))* 60 + parseInt(clip_end.substring(6,8)) //clip_end = "-1"; currentPos = currentPosition; //switchVideo("http://www.ctv.ca/servlet/HTMLTemplate/nocompress?content_type=video/x-ms-asf&brand=generic&tf=/ctv/generic/video/videoplayer.asx&cf=/ctv/generic/video/player.cfg&url=" + URLString + "&start=" + clip_start + "&end=" + clip_end + "&spd=hi&hub=Health"); Playlist.GetInstance().Play(VideoPlaying[currentPosition]) } function controlVideo(action) { previousTime = 0; if (action == 1) { document.getElementById("VIDEO").controls.stop(); } else if (action == 2) { document.getElementById("VIDEO").controls.play(); } else if (action == 3) { if (x == -1) { startVideo(); } else { if (stateI == "pause") { document.getElementById("pausePlay").setAttribute('src', 'http://www.ctv.ca/mar/images/local990/broadbandpause.jpg'); document.getElementById("VIDEO").controls.play(); stateI = "play"; } else { stateI = "pause"; document.getElementById("pausePlay").setAttribute('src', 'http://www.ctv.ca/mar/images/local990/broadbandplay.gif'); document.getElementById("VIDEO").controls.pause(); } } } else if (action == 4) { currentPos++; if (currentPos == maxPos ) { currentPos = 1; } functionName = document.getElementById("videoSelection" + currentPos + cT).getElementsByTagName('a')[0].getAttribute('href'); parseCurrentVideo(functionName); //alert(functionName); } else if (action == 5) { currentPos--; if (currentPos == 0) { currentPos = maxPos - 1; } functionName = document.getElementById("videoSelection" + currentPos + cT).getElementsByTagName('a')[0].getAttribute('href'); parseCurrentVideo(functionName); //document.getElementById("VIDEO").controls.stop(); } else if (action == 6) { alert(document.getElementById("VIDEO").fullScreen); document.getElementById("VIDEO").fullScreen = true; } else if (action == 7) { alert(event); } } function parseCurrentVideo(functionName) { functionName = functionName.replace("javascript:", ""); functionName = functionName.replace("changeVideo(", ""); functionName = functionName.replace(/'/g,""); changeVideo(functionName.split(",")[0],functionName.split(",")[1],functionName.split(",")[2],functionName.split(",")[3],functionName.split(",")[4],functionName.split(",")[5].replace(")","")); } var mediaString; function switchVideoT() { document.getElementById("defaultBroad").style.display="none"; newString = '<OBJECT name="VIDEO" id="VIDEO" width="300" height="225" CLASSID="CLSID:6BF52A52-394A-11D3-B153-00C04F79FAA6" type="application/x-oleobject">' + mediaString + '</OBJECT>'; document.getElementById("mainVideo").innerHTML = newString; } function switchVideo(inString) { inString = inString + "&ads=" + playAd + ""; if (playAd == "true") { simpleAd(); } //mediaString = '<OBJECT name="VIDEO" id="VIDEO" width="300" height="225" CLASSID="CLSID:6BF52A52-394A-11D3-B153-00C04F79FAA6" type="application/x-oleobject">'; mediaString = ""; mediaString = mediaString + '<PARAM NAME="SendPlayStateChangeEvents" VALUE="True">'; mediaString = mediaString + '<PARAM NAME="TransparentAtStart" VALUE="True">'; mediaString = mediaString + '<PARAM NAME="AutoStart" VALUE="1">'; mediaString = mediaString + '<PARAM name="uiMode" value="none">'; mediaString = mediaString + '<PARAM name="fullScreen" value="false">'; mediaString = mediaString + '<PARAM name="PlayCount" value="1">'; mediaString = mediaString + '<PARAM NAME="CurrentPosition" VALUE="-1">'; mediaString = mediaString + '<PARAM NAME="Volume" VALUE="' + (currentVolume * 4) + '">'; mediaString = mediaString + '<PARAM NAME="URL" VALUE="' + inString + '">'; //mediaString = mediaString + '</OBJECT>'; if (x == -1) { z = setTimeout("switchVideoT()",1000); } else { //switchVideoT(); //	document.getElementById("VIDEO").innerHTML = mediaString; document.getElementById("VIDEO").URL = inString; } } function playVideo() { document.getElementById("VIDEO").controls.play(); } </p>
+<p> Viewer </p>
+<p> function selectNewVideo(Video) {     currentPosition = -1;     for (o = 1; o < VideoPlaying.length; o++) 	{ 	    if (VideoPlaying[o] == Video) 	    { 	        currentPosition = o; 	    }	         	}     if (currentPosition == -1)     {        return;     } 	if (cT == "T")     {     clearVideoSelection(-1, "M");     clearVideoSelection(currentPosition, "T");     }     else     {     clearVideoSelection(currentPosition, "M");     clearVideoSelection(-1, "T");     } } Interface.SetUpNext = function( pVideo ) { 	//selectNewVideo(pVideo); } Interface.GetInstance().PlayerViewer = document.getElementById("Viewer"); Interface.SetNowPlaying = function( Video ) { 	if( Playlist.GetInstance && Playlist.GetInstance() && Playlist.GetInstance().Current ) 	{ 		var isAd = Playlist.GetInstance().Current.IsAd; 	} 	selectNewVideo(Video); //totalTime = parseInt(clip_end.substring(0, 2))*3600 + parseInt(clip_end.substring(3,5))* 60 + parseInt(clip_end.substring(6,8)) //clip_end = "-1"; 	//document.getElementById( "Video1" ).style.fontWeight = (Video == Video1 ? "bold" : ""); 	//document.getElementById( "Video4" ).style.fontWeight = (Video == Video4 ? "bold" : ""); 	//document.getElementById( "Video2" ).style.fontWeight = (Video == Video2 ? "bold" : ""); 	document.getElementById("AdArea").innerHTML = ( isAd ? "<em>Video will play after advertisement</em>" : "" ); } </p>
+<p> var VideoPlaying = new Array(); var t; function timedCount() { //alert(document.getElementById("VIDEO").controls.currentPosition); if (countForHBX == 3 && playAd == "false") {     hbx.media="VIDEO";     writeHBX();     //var html_doc = document.getElementsByTagName('head').item(0);     //js2 = document.createElement('script');     //js2.setAttribute('type', 'text/javascript');     //js2.setAttribute('src', "http://www.ctv.ca/mar/hbx/hbxmedia.js");     //html_doc.appendChild(js2);     hbx.pn=titleOfVideo;//PAGE NAME(S)     if ("National" == "CanadaAMV2")     {     pathOfVideo="/ctvnews/CanadaAM/video;/ctvnews/CanadaAM/video";//MULTI-LEVEL CONTENT CATEGORY     }     else     {     pathOfVideo=videoPathHBX;     }     html_doc = document.getElementsByTagName('head').item(0);     js2 = document.createElement('script');     js2.setAttribute('type', 'text/javascript');     js2.setAttribute('src', "http://www.ctv.ca/mar/hbx/broadvideohbx.js");     html_doc.appendChild(js2); //getElementById("VideoTracking").innerHTML = '<script type="text/javascript" src="http://www.ctv.ca/mar/hbx/hbxmedia.js"><script>'; } if (playAd == "false") { countForHBX++; } if (document.getElementById("VIDEO") != null && document.getElementById("VIDEO").controls != null) { //if (totalTime == "-1") { //totalTime = 0; //totalTime = VIDEO.Duration; //alert(totalTime); totalTime = document.getElementById("VIDEO").currentMedia.duration; //alert("FDS"); } percent = parseInt(document.getElementById("VIDEO").controls.currentPosition/totalTime * 168); if (percent > 163) { percent = 163; } document.getElementById("slider").style.paddingLeft = percent + "px"; //if (waitForCompleteAd == "true") //{ //countFalseAd++; //if (countFalseAd == 10) //{ //waitForCompletedAd = "false"; //} //} if (waitForCompleteAd == "true" && percent != 0) {     waitForCompleteAd = "false"; } if (previousTime > 0 && percent == 0 && waitForCompleteAd == "false") { if (playAd == "true") { waitForCompleteAd = "true"; playAd = "false"; countFalseAd = 0; simpleAd(); } else { controlVideo(4); } } previousTime = percent; } x = setTimeout("timedCount()",1000); } </p>
+<p> CTV News Video </p>
+<p> photoVal = "http://images.ctvdigital.com/images/pub2upload/30/2009_9_22/470_pills.jpg"; </p>
+<p> CTV News: Canada lacks universal drug coverage </p>
+<p> Although Canada has publicly funded health care for hospital and physician services, the country lacks universal drug coverage. Avis Favaro reports. </p>
+<p> VideoPlaying[1] = new Video( { ClipId:601924, Title:"CTVNews : CTV News: Canada lacks universal drug coverage", Format:'FLV'} ); </p>
+<p> function startVideo()  {                                        changeVideo('','470_pills','00:00:00.00','00:00:00.00','601924','1'); } if (sourcePlayer == "story") { //document.getElementById("videoPopup").setAttribute('href','http://www.ctv.ca/servlet/HTMLTemplate?tf=/ctv/mar/video/new_player_local.html&cf=ctv/mar/ctv.cfg&current_clip_id=' + '601924' + '&clip_start=' + '00:00:00.00' + '&clip_end=' + '00:00:00.00'+ '&video_link_high=' + '' + '&video_link_low=' + '470_pills' + '&sourceV=' + sourcePlayer + storyInfo);  } else { //document.getElementById("videoPopup").setAttribute('href','http://www.ctv.ca/servlet/HTMLTemplate?tf=/ctv/mar/video/new_player_local.html&cf=ctv/mar/ctv.cfg&current_clip_id=' + '601924' + '&clip_start=' + '00:00:00.00' + '&clip_end=' + '00:00:00.00' + '&video_link_high=' + '' + '&video_link_low=' + '470_pills' + '&sourceV=' + cT + "&chub=National&csection=Top&clip_caption=CTV News: Canada lacks universal drug coverage"); } </p>
+<p> Canada AM: Dr. Marla Shapiro on pricey prescriptions </p>
+<p> Canada AM's medical specialist explains how a new study shows one in ten Canadians are having problems affording medications they have been prescribed, while one in four people without drug insurance cannot afford to have their prescriptions filled at all. </p>
+<p> VideoPlaying[2] = new Video( { ClipId:602261, Title:"CTVNews : Canada AM: Dr. Marla Shapiro on pricey prescriptions", Format:'FLV'} ); </p>
+<p> Watch: </p>
+<p> See all Videos in the Player </p>
+<p> Playlist.FeaturedVideos = new Array(); for (i = 1; i < 3; i++) { Playlist.FeaturedVideos.push( VideoPlaying[i]); } maxPosT = 3; maxPos = 3; //document.getElementById("volslider").style.paddingLeft = currentVolume + "px"; </p>
+<p> if (photoVal == null) { new Framework( Format.FlashVideo, 3, "chumtvctv", "CTV News OneClip Player", "ctv.ctvwatch.ca/news/oneclip", "http://watch.ctv.ca/news/themes/CTVNews/player/470x264_Blue_OneClip.aspx?cachebreaker=asdassdfsdfs","_UNDEFINED_VALUE_" ); } else { new Framework( Format.FlashVideo, 3, "chumtvctv", "CTV News OneClip Player", "ctv.ctvwatch.ca/news/oneclip", "http://watch.ctv.ca/news/themes/CTVNews/player/470x264_Blue_OneClip.aspx?cachebreaker=asdassdfsdfs",photoVal ); }  Interface.PermalinkClicked = function( pUrl ) {  if( pUrl.indexOf ( "ad.doubleclick.net" ) > -1 ) //should probably use a regular expression     {         document.location = pUrl; //might want to use a new window?     } else { openW = window.open(pUrl,'bctvVideo','width=1010,height=850,status=no,scrollbars=1,resizable=1,toolbar=0'); if (openW) { FlashController.GetInstance().Wait(); } } } </p>
+<p> .fb_share_count_top{font-size: 15px!important; font-weight:bold} 	.fb_share_count {font-family:Arial, Helvetica, sans-serif!important} 	.storyUserTop {border-top: 1px solid #cecdcb; border-bottom: 1px solid #cecdcb; border-left: none; border-right: none; background-color: #edecea; height:60px} 	.storyUserTop a:hover {text-decoration:underline!important} 	.storyUserTop a {color: #006699!important; font-size: 11px} 	.fbtw {margin-left: 195px; position:absolute} </p>
+<p> function printStory() {           var printUrl = 'http://www.ctv.ca/servlet/ArticleNews/print/CTVNews/20120116/prescription-medication-costs-afford-120116/20120116/?hub=Health&subhub=PrintStory';           window.open(printUrl, 'PopUpPrintStory', 'height=445,width=696,menubar=yes,toolbar=yes,navbar=no,scrollbars=yes,resizable=yes');           return false;       }; </p>
+<p> A </p>
+<p> A </p>
+<p> | </p>
+<p> Email </p>
+<p> | </p>
+<p> .fbtw {margin-left: 115px} </p>
+<p> Print </p>
+<p> | </p>
+<p> Comments (62) </p>
+<p> Tweet </p>
+<p> Share </p>
+<p> .slideImage{filter:progid:DXImageTransform.Microsoft.Fade()} </p>
+<p> <!--  var SLIDES = new slideshow("SLIDES"); SLIDES.timeout = 1000; SLIDES.prefetch = -1; SLIDES.repeat = true;         		                    win_width1 = 650; win_height1 = 650; win_prop1 = "width="+win_width1+",height="+win_height1+",status=no,scrollbars=0,resizable=1,toolbar=no,left=1,screenX=1,screenY=0"; //alert(win_prop1); //FULL SIZE IS http://images.ctv.ca/archives/CTVNews/img2/20120116/800_prescription_bottle_120116.jpg      	  	       ss = new slide(); ss.src = "http://images.ctv.ca/archives/CTVNews/img2/20120116/800_prescription_bottle_120116_225128.jpg?2";      ss.text = unescape("<p>A study that appeared in the Canadian Medical Association Journal suggests that one in 10 Canadians have problems affording their prescription medication, often because they don't have insurance to help pay the costs.</p>");      ss.link = "/servlet/HTMLTemplate?tf=ctv/v2/photoBeta.html&cf=ctv/v2/ctv.cfg&pname=http://images.ctv.ca/archives/CTVNews/img2/20120116/800_prescription_bottle_120116&win_width=&description=A study that appeared in the Canadian Medical Association Journal suggests that one in 10 Canadians have problems affording their prescription medication, often because they don't have insurance to help pay the costs.&hub=Health,TopStoriesV2,MSNHome,WinnipegHome,Saskatoon,Regina,EdmontonHome,CanadaAMV2,OttawaHome,CalgaryHome,TorontoNewHome,BritishColumbiaHome,MedExpress";            ss.target = ""; ss.attr = ""; ss.filter = ""; SLIDES.add_slide(ss);                      		                    win_width2 = 650; win_height2 = 650; win_prop2 = "width="+win_width2+",height="+win_height2+",status=no,scrollbars=0,resizable=1,toolbar=no,left=1,screenX=1,screenY=0"; //alert(win_prop2); //FULL SIZE IS http://images.ctv.ca/archives/CTVNews/img2/20120116/800_dr_michael_law_120116.jpg         ss = new slide(); ss.src = "http://images.ctv.ca/archives/CTVNews/img2/20120116/800_dr_michael_law_120116_225128.jpg?2";      ss.text = unescape("<p>Dr. Michael Law, of the Centre for Health Services and Policy Research at the University of British Columbia, speaks with CTV News in this undated photo.</p>");      ss.link = "/servlet/HTMLTemplate?tf=ctv/v2/photoBeta.html&cf=ctv/v2/ctv.cfg&pname=http://images.ctv.ca/archives/CTVNews/img2/20120116/800_dr_michael_law_120116&win_width=&description=Dr. Michael Law, of the Centre for Health Services and Policy Research at the University of British Columbia, speaks with CTV News in this undated photo.&hub=Health,TopStoriesV2,MSNHome,WinnipegHome,Saskatoon,Regina,EdmontonHome,CanadaAMV2,OttawaHome,CalgaryHome,TorontoNewHome,BritishColumbiaHome,MedExpress";            ss.target = ""; ss.attr = ""; ss.filter = ""; SLIDES.add_slide(ss);                     if (false) SLIDES.shuffle();  //--> </p>
+<p> Photos </p>
+<p> <!-- // For browsers that cannot change the HTML on the page, // display all of the text from the slideshow. // I place this within the DIV, so browers won't see it // if they can change the DIV. nodivtext = SLIDES.get_all_text("<li>", "<p>\n"); if (nodivtext) {   document.write("<UL>\n" + nodivtext + "\n</UL>"); } //--> </p>
+<p> View Larger Image </p>
+<p> document.getElementById("slideShowThing").onclick = iBox.handleTag; </p>
+<p> <!--  if (document.images) {  SLIDES.image = document.images.SLIDESIMG;  // Create a function to ramp up the image opacity in Mozilla var fadein_opacity = 0.04; var fadein_img = SLIDES.image; function fadein(opacity) {   if (typeof opacity != 'undefined') { fadein_opacity = opacity; }   if (fadein_opacity < 0.99 && fadein_img && fadein_img.style &&       typeof fadein_img.style.MozOpacity != 'undefined') {      fadein_opacity += .05;     fadein_img.style.MozOpacity = fadein_opacity;     setTimeout("fadein()", 50);   } }  // Tell the slideshow to call our function whenever the slide is changed SLIDES.post_update_hook = function() { fadein(0.04); }  }   //--> </p>
+<p> <!-- if (document.images) {   SLIDES.image = document.images.SLIDESIMG;   SLIDES.textid = "SLIDESTEXT";   SLIDES.update();    } //--> </p>
+<p> SLIDES.showHideViewT(); </p>
+<p> More on this topic </p>
+<p> CMAJ: The effect of cost on adherence to prescription medications in Canada </p>
+<p> Selected Comment </p>
+<p> Only one in ten.  That really surprises me.  I think prescription medications are over-prescribed and then one relies on them. </p>
+<p> JB in Ontario </p>
+<p> One in 10 Canadians cannot afford prescription meds </p>
+<p> document.write(document.getElementById("quoteTopSel").getElementsByTagName("h4")[0].innerHTML); </p>
+<p> talking about </p>
+<p> One in 10 Canadians cannot afford prescription meds </p>
+<p> Got something to say? </p>
+<p> Angela Mulholland, CTVNews.ca </p>
+<p> Date: </p>
+<p> Mon. Jan. 16 2012 10:22 PM ET </p>
+<p> One in 10 Canadians have problems affording their prescription medication, often because they don't have insurance to help pay the costs, a new study has found. </p>
+<p> The study, which appears in the Canadian Medical Association Journal, found that for Canadians without drug plans through work or private drug insurance, one in four cannot afford their medications. </p>
+<p> The findings come from a review of a 2007 Statistics Canada survey, called the Canada Community Health Survey. </p>
+<p> Researchers from the University of British Columbia and the University of Toronto found that among the 5,700 respondents who said they had been given a prescription for a medication, 9.6 per cent had either not filled the prescription for cost reasons, or deliberately skipped doses to save money. </p>
+<p> More than 26 per cent of those who did not have drug insurance reported not being able to afford to pay for their prescription drugs. That compares to only 6.8 per cent of those who did have drug insurance. </p>
+<p> In all, people without drug insurance were 4.5 times more likely to avoid taking prescribed medications because of cost. </p>
+<p> Perhaps not surprisingly, having a low income increased the likelihood that patients hadn't taken a prescribed medication. Canadians with low incomes were 3.3 times more likely not to take their prescription drugs because they could not afford them. </p>
+<p> Canadians who reported fair or poor health status did not take their prescribed medications 2.6 times more often than those who reported good or excellent health. As well, those with chronic conditions were 1.6 times more likely to not take their medicines as directed because of cost. </p>
+<p> Patients in British Columbia were most likely to say they didn't take their prescribed medications because of the cost. That finding surprised the authors, who said it might result from B.C.'s high-deductible public drug plan or the high level of personal debt among B.C. residents. </p>
+<p> "The findings of our study are really troubling," says one of the study's authors, Dr. Michael Law, of the Centre for Health Services and Policy Research at the University of British Columbia. </p>
+<p> "We claim to have a universal system and we have that for hospitals and physicians. But in Canada, we can't claim to have a universal health care system if one in 10 are reporting they can't afford their prescription drugs." </p>
+<p> Law notes that more is spent on prescription drugs in Canada than on doctors and that it makes no sense that says prescription medications are not included in the country's medicare system. </p>
+<p> Law and the other study authors point out that when patients are unable to afford their medications, it can lead to higher costs down the road for the health care system. </p>
+<p> "Reducing cost-related non-adherence would likely improve health and reduce spending in other areas, such as admissions to hospital for acute care," they write. </p>
+<p> "As drug costs continue to increase I think we will see more and more people will fall into the category of not being able to afford to take their drugs as directed," he said. </p>
+<p> Dr. Danielle Martin, chair of Canadian Doctors for Medicare says her group believes that all prescription medications should be included in the Canada Health Act. </p>
+<p> "It is time Canada treated prescription drugs like the lifesaving interventions they are," she said in a statement. </p>
+<p> Martin says studies have shown that paying for medications can lead to cost savings down the line. </p>
+<p> She points to a recent study in the New England Journal of Medicine which found that providing free medications to heart attack patients actually helped save money. </p>
+<p> Even though the medications were free, the costs to the insurer did not increase because patients who regularly took their medications were hospitalized less often. </p>
+<p> "The evidence shows that providing prescription drugs for free in many situations is not only the right thing to do, but it also makes economic sense," said Martin. </p>
+<p> Dr. Law says his team's findings are timely given that the premiers are meeting this week to discuss health care. </p>
+<p> "As the provincial premiers meet in Victoria this week, they should consider expanding and improving public coverage for prescription drugs to reduce the influence of cost on whether or not Canadians can afford their prescription drugs," he said in a statement. </p>
+<p> With files from CTV's medical specialist Avis Favaro and producer Elizabeth St. Philip </p>
+<p> var numComments = 62; </p>
+<p> Comments are now closed for this story </p>
+<p> Judy </p>
+<p> said </p>
+<p> One of the problems is not the cost of the medication but the cost to fill it...$10.95 to dump pills from one bottle into another.....that is ridiculous cost to any one purchasing a perscription.  One prescription I purchase is $5.45 but the cost of filling it is $l0.95 thus the prescription is $l6.40 plus taxes.Perhaps the gov't should make pharmacies accountable for that cost.  $10.95 to count out 20 pills....come on get real. </p>
+<p> Mq </p>
+<p> said </p>
+<p> @will:  They did that too my cousin.  He spent 2 years in rehab trying to get off the 'good choice' from veteran affairs.  But hey, you know everything right? </p>
+<p> Trish </p>
+<p> said </p>
+<p> To MJ, if people can't afford their prescriptions, they sure as heck can't afford a vegan diet. Do you know how expensive that is? </p>
+<p> Mq </p>
+<p> said </p>
+<p> I haven't taken a prescription in 20 years.  Sure I've had some prescribed to me, however when I go to fill said prescriptions out, only to find out it would cost me 98$ for 20 pills.  I go to the doctor if I get sick, if I'm not dying, I usually toss the piece of paper in the garbage on the way out the office.  In fact, ive pretty much given up on doctors.  They don't know crap, all you get is a 10 year educated guess.  For years I've had pain in my hip, after waiting almost 2 years for a MRI, just to get... we don't know whats wrong, but here have some more pain killers and muscle relaxants.  Great modern age medicine there.  Don't bother with doctors today, they all work for drug companies, not you. </p>
+<p> Don't buy it. </p>
+<p> said </p>
+<p> I've worked in the pharmacy industry for a long time.  The vast majority of patients are covered by NIHB, ODB, Trillium or a private plan.  Very few actually have to cover their own medications.  Generic is mandated by the Ontario government.  Most generic blood pressure, cholesterol, diabetes etc. medications are affordable.  Viagra?  Not so much.  Cancer medications are starting to be covered even for those without a drug plan.  Anyone on homecare is covered while on the program.  So 1 in 10 seems a little high to me.   In some cases I think people complain because they have other things they'd RATHER spend their disposable income on.  (ie: parent wouldn't buy child's medication because it wasn't covered -it was an OTC med - but stops to buys scratch tickets on the way out of the store.) </p>
+<p> Paula </p>
+<p> said </p>
+<p> I am a type 1 diabetic since the early age of 18 and have many complications due to that and am only 49 I have had 3 operations in my left foot and am still on long term disability since jan 16th of 2010, I find that people with chronic diseases should have full coverage of their medications it is not fair nor human to have people with these diseases to have to chose between their health or food, they would not tolerate this on animals. Just to add that if I was an addict to a drug that the goverment would supply me with the syringes free of charge so tell me why we have to suffer these diseases without help when we are fighting for our lives. I have to either re-use my supplies(needles) and cut my doses of insulins  and minimize my blood sugar monitering to the once a day from 4 or more times a day. Diabetic supplies are very expensive and that is besides the other medications. I think that he goverment should really look at this has a major issue. </p>
+<p> devils advocate </p>
+<p> said </p>
+<p> You know, some people should stop assuming they know everything about everything and that anyone who says something they don't agree with is a liar. Yes, any veteran of the CF can retain some health care and dental benefits once retired but most will be required to pay premiums. The drug coverage is not even close to 100% of everything.  Just like any plan some things are not covered at all. As a result, we currently pay over $300.00  3 times a year for an injection that enables my husband to walk relatively pain free and help slow the process of further joint deterioration. For now we can scrape up the dough but when that is no longer true, without the injections his knee will continue to deteriorate until inevitably a replacement is required at which point the provincial medical plan will pay without question. How much sense does that make when he could get probably 30 years worth of injections for the price of the replacement? Part of the myth that good health care is fiscally "unsustainable" relates directly to such nonsense. A risky potentially debilitating option is offered without question from within the system while other sensible alternatives are only available to those who can pay privately. For most people it isn't even a question - you go with what the system offers you because you can't afford the alternative. </p>
+<p> Ashley </p>
+<p> said </p>
+<p> In retirement, benefits are at your expense, and unfortunately, most do not cover "pre-existing conditions".  Therefore, if you have had asthma all your life, and you have been covered by your employers benefits, don't Believe you will be covered in retirement benefits such as Blue Cross.....I have had these benefits for over a year, and they have denied most of my claims. </p>
+<p> Eric Kramer Hodge </p>
+<p> said </p>
+<p> Provincial health care systems need to get their financial houses in order and stop robbing Peter to pay Paul.  Ontario and Quebec are very good examples of just that, where funding is moved from healthcare to take pay for political projects.  That is why the Federal Government who transfers the money to the provinces want to have a little more control over how the provinces are spending it. </p>
+<p> Sue </p>
+<p> said </p>
+<p> "I am so ticked off, over this situation! I am a severe addict, and require a new drug called, "Suboxone."  I have been waiting, as has my sister for months to have this medication, specially covered! If I don't get it soon I will probably die! I spent most of May, 2011 in intensive care on life support! Why? Because, our  so-called government, thinks only of, MONEY!!!!! I am currently seeing a special doctor for this, and he is trying so hard for myself and my sister! He has put many requests in, but still, NO ANSWER! Please!? Some one out there has to understand that addiction is just as much a disease as cancer or any other serious diseases! Thank the Lord, some one has finally brought this to the public attention! Please keep on fighting!!!! We will!!! </p>
+<p> Peggy </p>
+<p> said </p>
+<p> I can't imagine why the government didn't know this before, however they have not been able to figure out our health cares system is 'ill' until lately.  How bad does it need to get! </p>
+<p> Robert B </p>
+<p> said </p>
+<p> Well people Did you ever notice that when the pharmacy finds out your medication is covered by EHC the prescription doubles in price?? who is gouging who ? </p>
+<p> Canadian Bob </p>
+<p> said </p>
+<p> There is a huge underground economy that's growing as we speak. The trade and barter system works wonderful and the cash that changes hands is untraceable, un-reportable, and non-taxable. If Harper can give the big corporations tax breaks, build unneeded prisons, free trade our industries to other countries and put us further into debt, then people need to look out for number one! Non-Conservative Canadians cannot afford to send MacKay on any more joy rides, or have our planes sent to pick up law breaking military personal from other countries. They can't afford to pay for shipments of rocks and sand from Afghanistan back to Canada because some moron didn't do the job our money went to pay him to do. We all have to look out for our own pensions because we don't have the luxury of earning an over thirty thousand dollar a year pension like these undeserving MP's receive after just 6 years, even though we've paid into the CPP our entire lives. It's time for people to think very differently given Harper and Company's negligence in representing the majority of Canadians. The more money we put in his hands, the more he will waste, and give to his pals. It's time folks. It's time to say enough is enough, and there's no better way to say it, than to not hand it over. </p>
+<p> It will get worse </p>
+<p> said </p>
+<p> Let's see if we can't increase that number by bringing in private health care and ending government involvement shall we? </p>
+<p> Will </p>
+<p> said </p>
+<p> Shame, this is not a Harper issue, nor a McKay one.  "Sapper's" story is questionable, as anyone who has ever  served knows about the long term medical coverage for those released after injury.  I smell a rat, and not just a "public servant" at veteran's affairs. Plus, VAC wouldn't just reject a legal medical prescription for non-adictive non-opiates. </p>
+<p> Doctors stealing from our system </p>
+<p> said </p>
+<p> There was a report that concluded that anti-depressants do not work for the vast majority of patients, and that ADHD is over diagnosed. Perhaps its time to curb those drugs or at least have the patient pay a larger proportional costs on these prescriptions based on the drugs efficacy. I mean, why should the tax payer pay full cost when the drug only helps 20% of its patients and why are doctors still prescribing these drugs to the 80% who arent benefiting at all? We have to save where we can and cant continue this road and wasting money. If you feel your anti depessionh drugs havent helped you at all its probably time to consult your doctor about weaning you off..its not getting better and he will continue prescribing because thats how he makes his money. </p>
+<p> Canadians Should Be Priority #1! </p>
+<p> said </p>
+<p> I'm willing to bet that the number that cannot afford prescription medications is even higher than 1 in 10 but facts are stifled because the Government doesn't want too many alarm bells ringing on the truth.   I know many people who cannot afford prescriptions.   Many people are using home remedies as ways to skirt having to go without.  Some may help to some degree but that does not change the fact that too much of our upper-crust political elites are handing massive amounts of our Canadian treasury to over-seas military operations and disasters in foreign countries rather than helping the people in their own "Canadian" backyard.  Canadians need to be paramount and on the apex of priority in respects to money being spent and not foreign issues.  It's not enough to hand Quebec 60% of equalization transfers for over-the-top social programs such as free IVF or $7 a day daycare and then wash your hands of the rest when many regions across Canada go without.  Politicians in Ottawa on all sides of the aisle live in an Alice in Wonderland existence and know nothing of the reality of struggling Canadians whom do not have the lovely pension plans, medical benefits and salaries that they feel themselves entitle to and with our tax dollars paying for it too! </p>
+<p> Veteran </p>
+<p> said </p>
+<p> Sapper & Scott: if sapper had really served in the CF He would know, having been briefed and signed the document, that he can elect to retain his PSHCP coverage once released on medical grounds. Obviously a lack of knowlege of how things work shows he is not who who claims to be. As for VAC, the nureaucracy has a life and purpose all of its own, the bureaucrats don't like change and don't approve anything until you've been through the appeal process at least once. </p>
+<p> Judy Adams </p>
+<p> said </p>
+<p> It makes common sense to provide prescriptions drugs to all Canadians under the Canadian Health Act.  A person's well being is a social responsability to all provinces.  People who need drugs need them to function in life.  I am not surprised by the findings of the researchers.  Every citizen has the Right to prescribed medication for their well being. </p>
+<p> MJ </p>
+<p> said </p>
+<p> Some drugs are needed, but so many people are taking drugs instead of changing their lifestyle (the amount of documentation on people getting of cholestoral and type 2 diabetes medication by switching to a vegan diet is overwhelming). I was told to take a drug everyday for life; then I could take it every second or third day. Now I only take the drug when I get a flare-up of my condition. I don't want to support the drug companies and I don't appreciate the side effects of long-term use of pharmaceuticals. </p>
+<p> Luanne </p>
+<p> said </p>
+<p> I bet Bob Rae , Stephen Harper and the rest of the bunch have no trouble at all paying for prescriptions because "you, me and the rest of Canadians are paying for them! </p>
+<p> Shame on Mr Harper </p>
+<p> said </p>
+<p> Sapper's story is the new story for all new injured Vets. The new Veteran's Charter, founded in 2005 and implemented in 2006, has cut vet's pensions and medical coverage in half. There is a two class system of treating injured vets in Canada, the well taken care of older vets, and the pushed to the side new injured vets. This will be reflected on the streets of Canadian cities with homeless injured vets in the years to come. Thanks Mr Mckay, and thanks Mr Harper. You say you support the troops, do something about this! </p>
+<p> Average Joe </p>
+<p> said </p>
+<p> I think the biggest part of the problem is the markup on prescription drugs.. Some of them are upwards of 300% profit for the drug companies which Gov. gets their share through taxes. Of course people can't afford them without a good plan. I also think many of peoples illnesses could be treated naturally with healthy lifestyle changes. Proper diet (non GMO foods) exercise and natural medicine have kept me away from the pharmacy counter for over a decade. Unfortunately, most seem to want a quick fix without doing anything for themselves... </p>
+<p> irene Ratz </p>
+<p> said </p>
+<p> There has been many times in the past few years that I could not afford to buy the meds needed.  but my doctor has been able to get me free samples and that helped. </p>
+<p> Hung over and broke </p>
+<p> said </p>
+<p> You supported the purchase of billions of dollars worth of military jets, and wanted to host the Olympics, now the party is over, you are bit hung over but the bill is outstanding and its coming out of your taxes leaving you with hardly any money left over after rent, transportation, heat and food. Next time elect the next govt carefully. You have to live with the consequence of your choice. Stop crying about it. Go find a 3rd job or 4th or do what others are doing - join the underground economy and dont declare your earnings. </p>
+<p> Peter M </p>
+<p> said </p>
+<p> I'm one of 10. I'm healthy but I never know....when I can get sick and need treatment, and I cannot afford. Then I can get sicker and sicker and have to go to hospital where the treatment will probably cost 40 more times. Where is the government savings? Isn't interesting how the government approves for sex change surgeries but not for antibiotics or other vital treatments? Something is very wrong in Canadian's healthcare system, and who doesn't see it, needs a pair of thick glasses. 2007 Statistic Canada survey? From 2007 till now, we can add one more million people(most of them immigrants), in  Canadian system. Most of them coming here from third world countries already with serious problems and ready for hospitals.Then about 40% of Canadians are working part-time jobs where no benefits, no medical and dental plans. How healthy system is this when only employers are benefiting? But we don't care about our people sending money to other countries with problems. If the CEO,top managers, and other people in top positions get lots of money, if politicians are elected and get big salaries why care for the rest? Legalizing euthanasia will be the best thing to do, and people sick with no money can die with dignity not committing suicide or stealing. If I am sick and tired of my poor life why I can't die when I like? </p>
+<p> Stu </p>
+<p> said </p>
+<p> Another example of how those low corporate taxes trickle money out of your pocket. Drugs are there to help people it should be non profit. Oh no not another one of those social programs. Any thing to do with health should not be a business. </p>
+<p> Ranger Rick </p>
+<p> said </p>
+<p> I believe it is more than what the report says, with many people losing their jobs, companies now hiring people for less pay and no benefits and governments big time short on cash, nobody is willing to pay for peoples drug plans or benefits.  The cost for prescription medication is climbing, fortunately the medication that I need to take and that my wife needs to take is absorbed by our benefits, but if either of us were to lose our jobs for whatever reason, we would be in a terrible position of not being able to afford our medications that we need.  I will probably be like stented to death, where I will just choose not to use any medication and live what ever life I have remaining drug free.  How did our ancestors ever cope without all these prescription drugs? </p>
+<p> Mel Blake </p>
+<p> said </p>
+<p> My parents are slowly going bankrupt because of their medications.  The medicare system is a joke.  They have just enough in pensions ($7 over the limit, yeah that's right $7) not to qualify for drug aid, but not enough to actually afford all the medications they need.  They also don't qualify for home care help for the same reason ($500/month out of pocket).  I laugh when I hear praise for the health system. </p>
+<p> FedUp </p>
+<p> said </p>
+<p> Forget the medication!  In Quebec, you can't even find a family doctor!  No doctor, No referrals, No meds!!!  You have to go to emergency to get any care, thus taking up everyone's valuable time. So much for socialized medicine! </p>
+<p> AbbasSheikh </p>
+<p> said </p>
+<p> How can we say that we are a social society where every one is getting a fare chance to live? Mr. Haper and Mr. Flaherty think twice "One day you must be asked about your deeds" </p>
+<p> Will </p>
+<p> said </p>
+<p> Canadian bob (or is it boob?) you must be one of those who can't afford to fill their prescriptions, because you are certainly off your meds. This isn't a political party issue, the prblem has existed for years regardless of what party forms the government. Save your harper hating for something real-if you can find such a thing. </p>
+<p> Chris In Calgary </p>
+<p> said </p>
+<p> My mother who is 59, has been on meds for almost 10 years now, total cost in Alberta = $1200 / month .. which is extremely stupid as her income is $2700 / month that's almost one half of her income. Her income is medical benefits as she cannot work. When she was in the Yukon, it cost her $200 for the same medications. Unfortunately, the cost of heating in the winter up there is outrageous. Heating oil was costing her $1400 a month v.s. $200 down here. six of one and and a dozen of another. The taxes we pay should be helping the medical costs, not building stupid crap in MP's ridings, or lining the pockets of MP's. Just my opinion. </p>
+<p> Katie </p>
+<p> said </p>
+<p> I don't want anyone to do without essential medication, but let me tell you so many people have been prescribed expensive, useless cholesterol drugs and opiates like Oxycontin that simply are not needed.  Our health care system simply cannot afford to pay for people to be addicted to pain killers or taking medications like statins and others. </p>
+<p> Jaid in Toronto </p>
+<p> said </p>
+<p> My question here is that those on medication, is there ever really a way to stop other than taking the initiative yourself? It's as if these have you hooked on for life. </p>
+<p> Scott  (Alberta Party country) </p>
+<p> said </p>
+<p> @ Sapper.  I'm guessing that, having the rank of Sapper, you weren't in long enough to have ported your medical/dental etc. with you when you got out.  If you got out on a medical, then one would assume you would have been provided the appropriate meds for the condition.  Sorry to see that DND wouldn't bite when you wanted a more non-addictive med (and good for you).  We appreciate your service Sapper. </p>
+<p> Stented to death </p>
+<p> said </p>
+<p> At 59,43 years of paying taxes,well two years ago I lost my job of 22 years after getting 12 stents and a pacemaker.I have earned $168 since then.I have no benefits of any kind.I've sold everything I've owned.My drug costs were $500 a month.Six months ago I gave up and said to hell with the drugs.To hell with a life no longer worth living.Stents cost me nothing.If I can save the expense of getting way overpriced drugs and get free stents instead,why not.I can't get a job anyways.I now feel better than I did taking all those drugs.If I die sooner,at least I won't be in a ward full of people desperately hanging on to life at all costs.So put me in the 10% that can't or won't take their drugs because of cost,lack of insurance,lack of benefits,etc </p>
+<p> Anne </p>
+<p> said </p>
+<p> Yes, most of us already know this is the case. So put a moritorium on sending money outside of our borders and lets look after our own for a change. Wouldn't that be a novel idea??? And while we are at it, lets take a look at how many cannot afford outrageously expensive basic dental care as well. We are a nation of hard workers, who are pretty easy going - its about frigging time our excessive tax dollars go for our own. </p>
+<p> vik the pharmacist </p>
+<p> said </p>
+<p> Depending on the income level, I think it can be more than 1/10. </p>
+<p> In Ontario, where I work, those caught in between the system i.e. the working poor, fair worst. </p>
+<p> They are not eligible for government aid, which covers almost the entire cost and covers 80% of drugs on the market (welfare, senior, special needs) or they do not have a private plan through work have problems paying for medication. </p>
+<p> I encourage people to apply to Trillium offered by the government in Ontario, which can subsidize your medications after paying a yearly deductible (the deductible is based on your tax return). </p>
+<p> MotherofThree </p>
+<p> said </p>
+<p> Firstly, generic drugs are not a replica of a brand name drug. They do not do the research that the big drug companies to and only have to provide 60% of the same ingredients. Boycott!!! Also, drug companies WILL provide you with free samples if you cannot afford the drugs. Ask your doctor and they should be willing to contact the drug rep. Finally, as two self-employed parents with 3 young kids, the cost of private drug coverage is insane. $350 a month and only 70% coverage and it tops out at 10K a year. Most people are screwed when they get cancer etc. Just spent $245 on meds for 3 kids with ear infections and strep throat. But if we were on welfare it would all be free. What's wrong with this picture!!! </p>
+<p> Janet </p>
+<p> said </p>
+<p> I agree with the duh comment.  I could have told you that for free.  People who don't have a drug plan avoid going to the doctor because they know it will mean a presciription they can't afford.  The gov't could at lease make the entire amount a tax deductable but to get the tax break you almost have to be at poverty level and then you will get benefits anyway because you will be on welfare.  Governement workers all have benefits so they don't get it. </p>
+<p> Sapper D </p>
+<p> said </p>
+<p> I am a disabled veteran. Veterans Affairs is quick to cover harsh opiates as pain killers, but when I wanted to try a non-addictive synthetic pain reliever, they would not cover it. It costs me about $200 per month for this medication. I have no coverage for medical/dental/ or most drugs. </p>
+<p> KevinHamilton </p>
+<p> said </p>
+<p> People should just start stealing their meds if they can afford them. That way they will be sent to those new prisons and get all the free meds they need. That's the Conservative solution to this problem. </p>
+<p> Lynne </p>
+<p> said </p>
+<p> I am a person with a drug plan, (paid by taxpayers as are my wages). In 20 years I have put thru no claims as I have been lucky with health. How many others are there like me? Maybe drugs should not be considered a benefit and a necessity. How much money is paid to private insurance on behalf of employees that do not need drugs? I believe all drugs, eyecare and dental should be streamlied through our health care system for all. </p>
+<p> Christine </p>
+<p> said </p>
+<p> I am also one of the ten....  at least I was...  or won't be for just THIS year anyway.  My husband owns his own commonly known franchise, which has taken a MAJOR hit as cutbacks in our area have really affected the business.  We used to pay for a plan, but can no longer afford it....  and we found that you end up paying twice as much for the plan than if you just paid for the meds out right - then only 70% was covered.   My husband is no longer covered.  My son has autism and I have to schedule my work around his appointments and specialized care - which means I don't always acquire my full yearly hours to qualify for my work's plan to cover myself, son and daughter.  It is a terrible feeling... </p>
+<p> Just Say No </p>
+<p> said </p>
+<p> 8 of 10 Canadians don't need prescription drugs.  The statistic of 1 in 10 not being able to afford meds, is skewed by doctors who adhere to what they are taught, and not what they see.  The medical profession is absolutely years behind reality.  You think not?  Next week you'll hear of what was good is now bad and vice versa.  Exercise, eat right and take 2 to 3 times more Vitamin C and D than the bottle says.  Then you'll lower your cholesterol and get off statins.  The local clinic doctor is a glorified vending machine. </p>
+<p> Duke </p>
+<p> said </p>
+<p> You voted for it. </p>
+<p> Canadian Bob </p>
+<p> said </p>
+<p> Let me guess... The blame lies with previous Liberal governments as does everything else that reflects poorly on Harper and Company. Only the fools are fooled. BUILD MORE PRISONS! </p>
+<p> M James </p>
+<p> said </p>
+<p> I blew my eardrum after loosing my job a couple of years ago and was prescribed eardrops and pills.  It was a real eye-opener when I realized I could only afford one of the two.  All I could think of was "Imagine if I had kids and had to decide between prescriptions or food".  It's a shame that the only way to get assistance is to go on Welfare. </p>
+<p> Rosita </p>
+<p> said </p>
+<p> I am one of those people who does not have a company drug plan and private plans are prohibitive in cost. I take one quarter of blood pressure meds to make them last longer. I can no longer afford meds for rheumatoid arthritis as they cost hundreds of dollars a month. I'm still fairly young but if I didn't have my husband I would require an assisted living facility. I think that would cost more. I'm actually looking forward to turning 65 when drugs will be covered. </p>
+<p> Canzara </p>
+<p> said </p>
+<p> I am so sick of the rational "business' will just take advantage, so we have to protect governments from these crappy business, screw the peoples best interest.Thats for you Doug. We as a society should not be allowing business to control our health and wellbeing us in this way and as long as people make idiotic rationals like you just did, they will continue to. Business needs us, we don't need them and its about team PEOPLE started to realize this. If nobody went to work tomorrow, nothing would change. If nobody went to work for weeks at a time, all that would change is we would need to start growing our own food again rather then counting on the grocer. THEY NEED US! </p>
+<p> susie-q Mtl. </p>
+<p> said </p>
+<p> I know 3-4 people who are having problems paying for their meds. To compensate for this they are using over the counter drugs. Sometimes it's difficult to find a generic replacement. You can't keep borrowingmoney from family & friends to help pay for these drugs. Thank God I don't need any.  I haven't been to a doctor in years. Forget the last time  I used theEmergency ward. Keep well. Susie-q out. </p>
+<p> Ken </p>
+<p> said </p>
+<p> 90% of our health issues are caused by life style choices. </p>
+<p> Use the internet and cure yourself. </p>
+<p> Ken </p>
+<p> David J </p>
+<p> said </p>
+<p> JB... perhaps in some cases.I am taking meds for high blood pressure and diabetes. I'm pretty sure my doctors aren't just pill-pushers, and that I need to take these medications, which cost me about $100 per month. I have no insurance or drug plan -- I could purchase drug benefits through my employer, but that would cost me about $100 per month. </p>
+<p> omega </p>
+<p> said </p>
+<p> Until the government figures out that certain aspects of health care are important, this will continue. How many people are still wearing the same glasses they've had for almost a decade? How many avoid the dentist?  I'm lucky I don't need prescriptions.  I'd never be able to afford them. </p>
+<p> Doug ^^^ BC </p>
+<p> said </p>
+<p> As always,the devil is in the details.If this study is a huge concern to you,make sure you get all the details before you start pulling your hair out.  For example,if you are a low income senior in BC,the "pharmacare" program will pay the entire cost of  most presecritions.As your income rises, what you pay out of your pocket rises in a direct proportion.  What troubles me,is that if government now has to pay the entire costs of all the drugs that all of us want or need,drug companies will up their prices accordingly.What better way to raise the price of your product or service,than to force government to pay for it?  We do need to offer care to people who cannot afford to pay for it.BUT,subsidizing prescription drugs for people who can afford to smoke or drink, for example,is just another way to make our health care system more expensive.That ultimately weakens a system already deemed unsustainable my a lot of people in the know.  It's a bit like a person who spends all of his or her money on consumer goods like cell phones and TV's,and has lots of money for cigarettes and liquor,but still comes calling for welfare because they can't afford food.  We need to deal with this.But let's be sure that no one lines their pockets at taxpayers expense. To that end,we have to know what each special interest group is calling for what.And why. </p>
+<p> mimimin </p>
+<p> said </p>
+<p> as much as I know, over 50% of working people couldn't go to the clinic. they are busy working to survive. the Government yet said the cost of prescription was soared. what is this? </p>
+<p> Matt </p>
+<p> said </p>
+<p> With the hst in effect, prescription meds should be covered by healthcare, but only to those who pay the provincial portion. </p>
+<p> shawbrooke </p>
+<p> said </p>
+<p> There's more to do here than just give people money for pills.A lot or people are taking meds they don't need, but the patient does not know that and if s/he does, the patient does not know which ones are needed and which are not. A couple of years ago a senior senior I know was faced with new medication and decided that what he needed was off of some of them. It took months to get a specialist appointment and when he did, the specialist heartily agreed with him. The point is that the family doctor listened to his wife and almost refused to refer him. Only the support of the kids convinced the wife to reduce her opposition, and then the referral came. Which makes one wonder about that doctor who was both wrong and relied on relatives rather than his own analysis. </p>
+<p> joe canada </p>
+<p> said </p>
+<p> I think it is more then one in ten. I am lucky now because I have employment with benefits, but in the past I took many seizures because of spreading my medication thin to make it last. I could not afford to take my proper dose. I know other people that have to choose between meds and groceries at times. </p>
+<p> JB in Ontario </p>
+<p> said </p>
+<p> Only one in ten.  That really surprises me.  I think prescription medications are over-prescribed and then one relies on them. </p>
+<p> Marc </p>
+<p> said </p>
+<p> DUH!  How much was spent figuring out the obvious? </p>
+<p> User Tools </p>
+<p> Print Article </p>
+<p> Feedback </p>
+<p> Share with your social Network: </p>
+<p> .time {display:none!important} </p>
+<p> placeRandom("300x250"); </p>
+<p> Advertisement </p>
+<p> Related Stories </p>
+<p> Doctor: Health care can survive baby boomer 'tsunami' </p>
+<p> 'Sicker' Canadians struggle to obtain treatment: report </p>
+<p> Integrated health care needed as Canada ages: report </p>
+<p> var so1 = new SWFObject("/v2/swf/contestRotatorBeta.swf", "CTVContestSWF", "300", "100", "9", "transparent"); 	so1.addParam("allowScriptAccess", "always"); 	so1.addParam("wmode", "transparent"); 	so1.addVariable("theFile", "/generic/generated/news/ContestImagesBeta.html");  // pass in whatever you want for the playlist parameter here. 	so1.useExpressInstall('http://www.ctv.ca/v2/expressinstall.swf');  // this will auto-upgrade the user if necessary without them having to leave the site 	so1.write("flashContest");  // "Flashbase" is the HTML ID of the container you want the SWF to reside in. </p>
+<p> Contest </p>
+<p> document.getElementById("flashContest").style.display = "none"; </p>
+<p> .contest-box {display:none} .underContest {margin-top:0px;} </p>
+<p> Subscribe! </p>
+<p> CTV MedNews Express </p>
+<p> Sign up for our weekly medical newsletter, delivered for free to your inbox. </p>
+<p> CTV.ca Blogs </p>
+<p> Health Blog </p>
+<p> Check out what our guest medical experts and CTV health reporters are writing about. </p>
+<p> Twitter </p>
+<p> Follow us on Twitter </p>
+<p> Follow CTV medical specialist Avis Favaro on Twitter. </p>
+<p> Most Popular </p>
+<p> Canadian found shot to death on Mexican street </p>
+<p> Five more bodies found in Italian cruise wreckage </p>
+<p> Wikipedia plans to go dark in protest of legislation </p>
+<p> Gervais' agent has been told not to let him host again </p>
+<p> Accidents involving headphone-wearing pedestrians on the rise </p>
+<p> Megan Fox, Lindsay Lohan competing to play Liz Taylor </p>
+<p> BoC keeps interest rate unchanged at 1 per cent </p>
+<p> Make helmets mandatory on the slopes, doctors urge </p>
+<p> Today's Health Stories </p>
+<p> Make helmets mandatory on the slopes, doctors urge </p>
+<p> More </p>
+<p> 32 </p>
+<p> //create_date 20120117 //date 20120117 </p>
+<p> Accidents involving headphone-wearing pedestrians on the rise </p>
+<p> More </p>
+<p> 17 </p>
+<p> //create_date 20120117 //date 20120117 </p>
+<p> Tests to determine if toxic ecstasy killed B.C. boy </p>
+<p> More </p>
+<p> 7 </p>
+<p> //create_date 20120117 //date 20120117 </p>
+<p> Most Viewed News Stories </p>
+<p> Canadian found shot to death on Mexican street </p>
+<p> Five more bodies found in Italian cruise wreckage </p>
+<p> Wikipedia plans to go dark in protest of legislation </p>
+<p> Gervais' agent has been told not to let him host again </p>
+<p> Accidents involving headphone-wearing pedestrians on the rise </p>
+<p> Megan Fox, Lindsay Lohan competing to play Liz Taylor </p>
+<p> BoC keeps interest rate unchanged at 1 per cent </p>
+<p> Make helmets mandatory on the slopes, doctors urge </p>
+<p> View More News Stories </p>
+<p> Most Talked about Stories </p>
+<p> Technology was supposed to make man smarter; we've become antisocial, lazy and perhaps even less intelligent.  Put down the blackberries/iphones and talk to your neighbour, be it across the table or street. </p>
+<p> David H in Ottawa </p>
+<p> Accidents involving headphone-wearing pedestrians on the rise </p>
+<p> Got something to say? Share on CTV News </p>
+<p> if (document.getElementsByTagName("title")[0].innerHTML == ("")) { if (document.getElementsByTagName("title")[1] != null) { document.title = document.getElementsByTagName("title")[1].innerHTML; } else if (document.getElementsByTagName("META")[4] != null) { document.title = document.getElementsByTagName("META")[4].content } } </p>
+<p> if (document.getElementById("content") != null) { var atags = document.body.getElementsByTagName("a"); var tempLink; for (i = 0; i < atags.length; i++) { tempLink = atags[i].getAttribute('href'); if (tempLink != null && tempLink.indexOf("twitter.com") == -1 && tempLink.indexOf("mailto:") == -1) { if (atags[i].getAttribute('href').indexOf("mini") == -1 && atags[i].getAttribute('href').indexOf("storyv2") == -1 && atags[i].getAttribute('href').indexOf("/servlet/HTMLTemplate/!ctvPop/News/") == -1) { } atags[i].setAttribute("href", atags[i].getAttribute('href').replace("businessBN/ctv-business", "businessBN/ctv-business?ctvBeta=yes"));  if (atags[i].getAttribute('href').charAt(0) == "/" && atags[i].getAttribute('href').indexOf("mini") == -1) { } } } } includeTracking(); </p>
+<p> function sendEmailOmn()     {               }  var locBar = window.location.href; var nullURL = ""; //for stories if (typeof(window["hbx"]) == "undefined") {        	if (locBar.indexOf("page-not-found-101122") != -1){ 		//do nothing 	}     else if (locBar.indexOf("servlet/ArticleNews/story/CTVNews") != -1 || locBar.indexOf("www.ctv.ca/CTVNews") != -1 || locBar.indexOf("autos.ctv.ca/CTVNews") != -1)     { 	    var hubVal = switchHubs("Health"); 	    var pnn = "prescription-medication-costs-afford-120116"; 	    Tracking.SetSiteSection( "ctvnews" ); 	    Tracking.SetContentTitle(pnn.toLowerCase()); 	    var creditL = "CTVNews.ca"; 	    var s1 = hubVal.toLowerCase(); 	    var s2 = "story"; 	    var s3; 	    if (creditL.indexOf("Associated Press") != -1 || creditL.indexOf("Canadian Press") != -1) 	    {		 		    s3 = "cp"; 	    } 	    else 	    { 		    s3 = null; 	    } 	    var totalString = "ctvnews : " + chec(s1) + chec(s2) + chec(s3) + pnn.toLowerCase(); 	    Tracking.SetPageName(totalString.toLowerCase()); 		/* 		if(pnn == "page-not-found-101122"){ 			Tracking.SetPageType("errorPage"); 		} 		*/ 	    Tracking.SetSubSections(cap(s1), cap(s2), cap(s3)); 	    Tracking.Track();	     }	 else if (locBar.indexOf("servlet/ArticleNews/corp/CTVShows") != -1)     {             var pnn = "prescription-medication-costs-afford-120116";             Tracking.SetSiteSection( "corporate" );             Tracking.SetContentTitle(pnn.toLowerCase());             var s1 = "general"; 	    if ("Top,Top,Top,Top,Top,ViewMoreStories,Top,Top,Top,Top,Top,Top,Top" == "Top")             {                 s1 = "annoucements";             }             var s2 = null;             var s3 = null;      	    var totalString = "corporate : " + chec(s1) + chec(s2) + chec(s3) + pnn.toLowerCase();             Tracking.SetPageName(totalString.toLowerCase());             Tracking.SetSubSections(cap(s1), cap(s2), cap(s3));             Tracking.Track();     }     else if (locBar.indexOf("autos.ctv.ca/cgi-bin") != -1) {         Tracking.SetSiteSection( "ctvnews" );         var s1 = "autos";         var s2 = null;         var s3 = null;         var pnn = "Inside";         var totalString = "ctvnews : " + chec(s1) + chec(s2) + chec(s3) + pnn.toLowerCase();         Tracking.SetPageName(totalString.toLowerCase());         Tracking.SetSubSections(cap(s1), cap(s2), cap(s3));         Tracking.Track(); } else if (locBar.indexOf("autos.ctv.ca/reviews") != -1) {         Tracking.SetSiteSection( "ctvnews" );         var s1 = "autos";         var s2 = null;         var s3 = null;         var pnn = "reviews";         var totalString = "ctvnews : " + chec(s1) + chec(s2) + chec(s3) + pnn.toLowerCase();         Tracking.SetPageName(totalString.toLowerCase());         Tracking.SetSubSections(cap(s1), cap(s2), cap(s3));         Tracking.Track(); } else if (locBar.indexOf("autos.ctv.ca/cartips") != -1) {         Tracking.SetSiteSection( "ctvnews" );         var s1 = "autos";         var s2 = null;         var s3 = null;         var pnn = "cartips";         var totalString = "ctvnews : " + chec(s1) + chec(s2) + chec(s3) + pnn.toLowerCase();         Tracking.SetPageName(totalString.toLowerCase());         Tracking.SetSubSections(cap(s1), cap(s2), cap(s3));         Tracking.Track(); } else if (locBar.indexOf("autos.ctv.ca/greendriving") != -1) {         Tracking.SetSiteSection( "ctvnews" );         var s1 = "autos";         var s2 = null;         var s3 = null;         var pnn = "greendriving";         var totalString = "ctvnews : " + chec(s1) + chec(s2) + chec(s3) + pnn.toLowerCase();         Tracking.SetPageName(totalString.toLowerCase());         Tracking.SetSubSections(cap(s1), cap(s2), cap(s3));         Tracking.Track(); } else if (locBar.indexOf("autos.ctv.ca/photos") != -1) {         Tracking.SetSiteSection( "ctvnews" );         var s1 = "autos";         var s2 = null;         var s3 = null;         var pnn = "photos";         var totalString = "ctvnews : " + chec(s1) + chec(s2) + chec(s3) + pnn.toLowerCase();         Tracking.SetPageName(totalString.toLowerCase());         Tracking.SetSubSections(cap(s1), cap(s2), cap(s3));         Tracking.Track(); } else if (locBar.indexOf("autos.ctv.ca") != -1 && locBar.indexOf("testautos.ctv.ca") == -1) {         Tracking.SetSiteSection( "ctvnews" );         var s1 = "autos";         var s2 = null;         var s3 = null;         var pnn = "Home";         var totalString = "ctvnews : " + chec(s1) + chec(s2) + chec(s3) + pnn.toLowerCase();         Tracking.SetPageName(totalString.toLowerCase());         Tracking.SetSubSections(cap(s1), cap(s2), cap(s3));         Tracking.Track(); }     else if (typeof(window["siteSectionOmn"]) != "undefined")     {         Tracking.SetSiteSection( siteSectionOmn.toLowerCase() );         var s1 = s1Omn;         var s2 = s2Omn;         var s3 = s3Omn;         var pnn = pageOmn;         var totalString = siteSectionOmn.toLowerCase() + " : " + chec(s1) + chec(s2) + chec(s3) + pnn.toLowerCase();         Tracking.SetPageName(totalString.toLowerCase());         Tracking.SetSubSections(cap(s1), cap(s2), cap(s3));                 Tracking.Track();         }         else if ("Health" != nullURL)     {         var hubVal = switchHubs("Health");         var siteNameI = "ctvnews";         if ("Health" == "home")         {             siteNameI = "ctvhome";         }                 Tracking.SetSiteSection( siteNameI );         var pnn = hubVal.toLowerCase();         var s1 = hubVal.toLowerCase(); 	    var s2 = "hub"; 	    var s3 = null; 	    var totalString = siteNameI + " : " + chec(s1) + chec(s2) + chec(s3) + pnn.toLowerCase(); 	    Tracking.SetPageName(totalString.toLowerCase()); 	    Tracking.SetSubSections(cap(s1), cap(s2), cap(s3)); 	    Tracking.Track();		     } 	else if (locBar.indexOf("swo.ctv.ca/gallery/html") != -1)     {         Tracking.SetSiteSection( "ctvnews" );         var s1 = "affiliate"; 		var galName = locBar.replace("http://swo.ctv.ca/gallery/html/", "");         var pnn = "photo_0"; 		galName = galName.replace("/gallery_.html", "")         var s2 = "southwesternontario";//galName;         var s3 = "photogallery";         var totalString = "ctvnews : " + chec(s1) + chec(s2) + chec(s3) + pnn.toLowerCase();         Tracking.SetPageName(totalString.toLowerCase());         Tracking.SetSubSections(cap(s1), cap(s2), cap(s3));         Tracking.SetContentId(galName);         Tracking.Track();         } 	else if (locBar.indexOf("saskatoon.ctv.ca/gallery/html") != -1)     {         Tracking.SetSiteSection( "ctvnews" );         var s1 = "affiliate"; 		var galName = locBar.replace("http://saskatoon.ctv.ca/gallery/html/", "");         var pnn = "photo_0"; 		galName = galName.replace("/gallery_.html", "")         var s2 = "saskatoon";//galName;         var s3 = "photogallery";         var totalString = "ctvnews : " + chec(s1) + chec(s2) + chec(s3) + pnn.toLowerCase();         Tracking.SetPageName(totalString.toLowerCase());         Tracking.SetSubSections(cap(s1), cap(s2), cap(s3));         Tracking.SetContentId(galName);         Tracking.Track();         } 	else if (locBar.indexOf("regina.ctv.ca/gallery/html") != -1)     {         Tracking.SetSiteSection( "ctvnews" );         var s1 = "affiliate"; 		var galName = locBar.replace("http://regina.ctv.ca/gallery/html/", "");         var pnn = "photo_0"; 		galName = galName.replace("/gallery_.html", "")         var s2 = "regina";//galName;         var s3 = "photogallery";         var totalString = "ctvnews : " + chec(s1) + chec(s2) + chec(s3) + pnn.toLowerCase();         Tracking.SetPageName(totalString.toLowerCase());         Tracking.SetSubSections(cap(s1), cap(s2), cap(s3));         Tracking.SetContentId(galName);         Tracking.Track();         } 	else if (locBar.indexOf("toronto.ctv.ca/gallery/html") != -1)     {         Tracking.SetSiteSection( "ctvnews" );         var s1 = "affiliate"; 		var galName = locBar.replace("http://toronto.ctv.ca/gallery/html/", "");         var pnn = "photo_0"; 		galName = galName.replace("/gallery_.html", "")         var s2 = "toronto";//galName;         var s3 = "photogallery";         var totalString = "ctvnews : " + chec(s1) + chec(s2) + chec(s3) + pnn.toLowerCase();         Tracking.SetPageName(totalString.toLowerCase());         Tracking.SetSubSections(cap(s1), cap(s2), cap(s3));         Tracking.SetContentId(galName);         Tracking.Track();         } 	else if (locBar.indexOf("atlantictest.ctv.ca/gallery/html") != -1)     {         Tracking.SetSiteSection( "ctvnews" );         var s1 = "affiliate"; 		var galName = locBar.replace("http://atlantictest.ctv.ca/gallery/html/", "");         var pnn = "photo_0"; 		galName = galName.replace("/gallery_.html", "")         var s2 = "atlantic";//galName;         var s3 = "photogallery";         var totalString = "ctvnews : " + chec(s1) + chec(s2) + chec(s3) + pnn.toLowerCase();         Tracking.SetPageName(totalString.toLowerCase());         Tracking.SetSubSections(cap(s1), cap(s2), cap(s3));         Tracking.SetContentId(galName);         Tracking.Track();         }     else if (locBar.indexOf("www.ctv.ca/gallery/html") != -1)     {         Tracking.SetSiteSection( "ctvnews" );         var s1 = "photogallery";         var galName = locBar.replace("http://www.ctv.ca/gallery/html/", "");         var pnn = "photo_0";         galName = galName.replace("/photo_0.html", "")         galName = galName.replace("/index_.html", "")         var s2 = galName;         var s3 = null;         var totalString = "ctvnews : " + chec(s1) + chec(s2) + chec(s3) + pnn.toLowerCase();         Tracking.SetPageName(totalString.toLowerCase());         Tracking.SetSubSections(cap(s1), cap(s2), cap(s3));         Tracking.SetContentId(galName);         Tracking.Track();         }     else if (locBar.indexOf("weatherCity") != -1)     {         Tracking.SetSiteSection( "ctvnews" );         var s1 = "weather";         var s2 = "hub";         var s3 = null;         var pnn = "";         var totalString = "ctvnews : " + chec(s1) + chec(s2) + chec(s3) + pnn.toLowerCase();         Tracking.SetPageName(totalString.toLowerCase());         Tracking.SetSubSections(cap(s1), cap(s2), cap(s3));         Tracking.Track();         }     else if (locBar.indexOf("/servlet/HTMLTemplate/!ctv/Search") != -1)     {         Tracking.SetSiteSection( "ctvnews" );         var s1 = "search";         var s2 = "hub";         var s3 = null;         var pnn = "searchnews";//document.getElementById("searchText").innerHTML;         var totalString = "ctvnews : " + chec(s1) + chec(s2) + chec(s3) + pnn.toLowerCase();         Tracking.SetPageName(totalString.toLowerCase());         Tracking.SetSubSections(cap(s1), cap(s2), cap(s3));         Tracking.TrackSearch(document.getElementById("searchText").innerHTML, 0);         Tracking.Track();         } 	else if (locBar.indexOf("/search") != -1)     {         Tracking.SetSiteSection( "ctvhome" );         var s1 = "searchctv_ca";         var s2 = "hub";         var s3 = null;         var pnn = "searchctv_ca";//document.getElementById("searchText").innerHTML;         var totalString = "ctvhome : " + chec(s1) + chec(s2) + chec(s3) + pnn.toLowerCase();         Tracking.SetPageName(totalString.toLowerCase());         Tracking.SetSubSections(cap(s1), cap(s2), cap(s3));         Tracking.TrackSearch(document.getElementById("searchText").innerHTML, 0);         Tracking.Track();         }     else if (locBar.indexOf("www.tsnn.ca/ctvnews") != -1 || locBar.indexOf("www.tsn.ca/ctvnews") != -1)     {      }         else     {      } } </p>
+<p> About CTV </p>
+<p> Careers </p>
+<p> Bell Media Announcements </p>
+<p> Advertise on CTV </p>
+<p> Bell Media PR </p>
+<p> Privacy Policy </p>
+<p> Terms and Conditions </p>
+<p> Contact Us </p>
+<p> Producer Guidelines </p>
+<p> Use of this Website assumes acceptance of </p>
+<p> Terms & Conditions </p>
+<p> and </p>
+<p> Privacy Policy </p>
+<p> © 2012 </p>
+<p> CTV </p>
+<p> All rights reserved </p>
+<p> Bell Media Television </p>
+<p> var _sf_async_config={uid:2895,domain:'ctv.ca'};(function(){function loadPublishflow() {window._sf_endpt=(new Date()).getTime();var e = document.createElement('script');e.setAttribute('language', 'javascript');e.setAttribute('type', 'text/javascript');e.setAttribute('src',(('https:' == document.location.protocol) ? 'https://s3.amazonaws.com/' : 'http://s3.amazonaws.com/') + 'publishflow/javascript/data.js');document.body.appendChild(e);}var oldonload = window.onload;window.onload = (typeof window.onload != 'function') ?loadPublishflow : function() { oldonload(); loadPublishflow(); };})(); </p>
+<p> s.trackExternalLinks = false; </p>
+<p> $(document).ready(function () {         var megaMenu = new CTV.modules.MegaMenu({             ctvShowsMenuButtonSelector: "#ctv-shows-menu-button",             ctvTwoShowsMenuButtonSelector: "#ctvtwo-shows-menu-button",             ctvShowsMenuSelector: "#ctv-shows-menu-content",             ctvTwoShowsMenuSelector: "#ctvtwo-shows-menu-content"         });     }); </p>
+<p> Shows </p>
+<p> Filter: </p>
+<p> CTV </p>
+<p> CTV Two </p>
+<p> Primetime/Late Night </p>
+<p> The Amazing Race </p>
+<p> American Idol </p>
+<p> Anger Management </p>
+<p> Betty White's Off Their Rockers </p>
+<p> The Big Bang Theory </p>
+<p> Blue Bloods </p>
+<p> Castle </p>
+<p> The Colbert Report </p>
+<p> Conan </p>
+<p> Criminal Minds </p>
+<p> CSI </p>
+<p> CSI: New York </p>
+<p> The Daily Show </p>
+<p> Dancing with the Stars </p>
+<p> Degrassi </p>
+<p> Desperate Housewives </p>
+<p> etalk </p>
+<p> Flashpoint </p>
+<p> GCB </p>
+<p> Gossip Girl </p>
+<p> Grey's Anatomy </p>
+<p> Grimm </p>
+<p> Hot in Cleveland </p>
+<p> Law and Order: Special Victims Unit </p>
+<p> The Listener </p>
+<p> The Mentalist </p>
+<p> Mike & Molly </p>
+<p> Missing </p>
+<p> Once Upon A Time </p>
+<p> Pan Am </p>
+<p> Shark Tank </p>
+<p> Skate Canada </p>
+<p> Smash </p>
+<p> The L.A. Complex </p>
+<p> The River </p>
+<p> TMZ </p>
+<p> Two and a Half Men </p>
+<p> Unforgettable </p>
+<p> Up All Night </p>
+<p> The Voice </p>
+<p> Whitney </p>
+<p> The X Factor </p>
+<p> Daytime </p>
+<p> Anderson </p>
+<p> The Bold and the Beautiful </p>
+<p> The Dr. Oz Show </p>
+<p> Dr. Phil </p>
+<p> The Ellen DeGeneres Show </p>
+<p> Fashion Television </p>
+<p> Live! With Kelly </p>
+<p> The Marilyn Denis Show </p>
+<p> NFL </p>
+<p> The View </p>
+<p> CTV Movies & Specials </p>
+<p> The 84th Annual Academy Awards </p>
+<p> The Golden Globes </p>
+<p> More CTV & CTV Two Movie Listings </p>
+<p> The Twilight Saga: New Moon </p>
+<p> Online Exclusives </p>
+<p> The Bridge </p>
+<p> Comedy Inc. </p>
+<p> Comedy Now! </p>
+<p> The Confession </p>
+<p> Defying Gravity </p>
+<p> Hiccups </p>
+<p> So You Think You Can Dance Canada </p>
+<p> CTV.ca Originals </p>
+<p> CTV.ca Insider </p>
+<p> TheRoyals.ca - William & Kate </p>
+<p> Listener Vision Buster Game </p>
+<p> Primetime/Late Night </p>
+<p> Access Hollywood </p>
+<p> American Idol </p>
+<p> America's Next Top Model </p>
+<p> The Big Bang Theory </p>
+<p> Blue Bloods </p>
+<p> Castle </p>
+<p> Criminal Minds </p>
+<p> CSI: Miami </p>
+<p> CSI: New York </p>
+<p> Dan For Mayor </p>
+<p> Dateline </p>
+<p> Degrassi </p>
+<p> Desperate Housewives </p>
+<p> etalk </p>
+<p> Flashpoint </p>
+<p> Gossip Girl </p>
+<p> Late Night with Jimmy Fallon </p>
+<p> Law and Order: Special Victims Unit </p>
+<p> The Listener </p>
+<p> Man Up! </p>
+<p> The Mentalist </p>
+<p> Nikita </p>
+<p> Once Upon A Time </p>
+<p> The Protector </p>
+<p> Sanctuary </p>
+<p> Shark Tank </p>
+<p> The Tonight Show with Jay Leno </p>
+<p> Undercover Boss </p>
+<p> Unforgettable </p>
+<p> Up All Night </p>
+<p> The Vampire Diaries </p>
+<p> The X Factor </p>
+<p> Daytime </p>
+<p> Anderson </p>
+<p> The Bold and the Beautiful </p>
+<p> The Ellen DeGeneres Show </p>
+<p> Fashion Television </p>
+<p> Look-A-Like </p>
+<p> The Marilyn Denis Show </p>
+<p> CTV Movies & Specials </p>
+<p> More CTV & CTV Two Movie Listings </p>
+<p> Online Exclusives </p>
+<p> The Bridge </p>
+<p> Comedy Inc. </p>
+<p> Comedy Now! </p>
+<p> Defying Gravity </p>
+<p> Hiccups </p>
+<p> CTV.ca Originals </p>
+<p> CTV.ca Insider </p>
+<p> Listener Vision Buster Game </p>
+<p> Video </p>
+<p> Watch Videos </p>
+<p> The Amazing Race </p>
+<p> Anderson </p>
+<p> Anger Management </p>
+<p> Betty White's Off Their Rockers </p>
+<p> The Big Bang Theory </p>
+<p> The Bold and the Beautiful </p>
+<p> The Bridge </p>
+<p> Castle </p>
+<p> The Colbert Report </p>
+<p> Comedy Inc. </p>
+<p> Comedy Now! </p>
+<p> Conan </p>
+<p> The Confession </p>
+<p> Criminal Minds </p>
+<p> The Daily Show </p>
+<p> Dan For Mayor </p>
+<p> Defying Gravity </p>
+<p> Desperate Housewives </p>
+<p> The Dr. Oz Show </p>
+<p> The Ellen DeGeneres Show </p>
+<p> etalk </p>
+<p> FaceTime with Jeanne Beker </p>
+<p> Flashpoint </p>
+<p> Grey's Anatomy </p>
+<p> Grimm </p>
+<p> Hiccups </p>
+<p> In The Name Of The Family </p>
+<p> Late Night with Jimmy Fallon </p>
+<p> Law and Order: Special Victims Unit </p>
+<p> The Listener </p>
+<p> Look-A-Like </p>
+<p> Man Up! </p>
+<p> The Marilyn Denis Show </p>
+<p> The Mentalist </p>
+<p> Nikita </p>
+<p> Once Upon A Time </p>
+<p> Pan Am </p>
+<p> The Protector </p>
+<p> Sanctuary </p>
+<p> Shameless Idealists </p>
+<p> Smash </p>
+<p> So You Think You Can Dance Canada </p>
+<p> The View </p>
+<p> TMZ </p>
+<p> The Tonight Show with Jay Leno </p>
+<p> Two and a Half Men </p>
+<p> Unforgettable </p>
+<p> Up All Night </p>
+<p> The Vampire Diaries </p>
+<p> Whitney </p>
+<p> More Video Options </p>
+<p> CTV Video Player </p>
+<p> CTV News Video Player </p>
+<p> Browse All Video </p>
+<p> News </p>
+<p> Go to the News Home Page </p>
+<p> CTVNews </p>
+<p> Top Stories </p>
+<p> Canada </p>
+<p> World </p>
+<p> Entertainment </p>
+<p> Health </p>
+<p> Sports </p>
+<p> Business </p>
+<p> Sci-Tech </p>
+<p> Politics </p>
+<p> Weather </p>
+<p> News Programs </p>
+<p> CTV National News with Lisa LaFlamme </p>
+<p> Canada AM </p>
+<p> W5 </p>
+<p> PowerPlay </p>
+<p> Question Period </p>
+<p> CTV News Channel </p>
+<p> Home </p>
+<p> Watch Live </p>
+<p> CTV News Team </p>
+<p> Lisa LaFlamme </p>
+<p> Sandie Rinaldo </p>
+<p> See All </p>
+<p> Features </p>
+<p> Autos </p>
+<p> Consumer Alert </p>
+<p> Health Blog </p>
+<p> Local News </p>
+<p> All CTV Stations </p>
+<p> Browse </p>
+<p> Video </p>
+<p> Photo Galleries </p>
+<p> MyNews </p>
+<p> Services </p>
+<p> CTV News Mobile </p>
+<p> Newsletters </p>
+<p> RSS </p>
+<p> CTV News Stox </p>
+<p> Contact CTV News </p>
+<p> Schedule </p>
+<p> function validateSearch() 				{ 					if(document.searchShow.query.value == "") { 						alert("Please enter a search term!"); 						return false; 					}  					else { 						if (document.searchShow.site_codename[1].checked == true){ 							document.searchShow.submit(); 						} 					} 				} </p>
+<p> Related TV Shows </p>
+<p> Gossip Girl </p>
+<p> Watch Show </p>
+<p> Show Page </p>
+<p> Gossip Girl </p>
+<p> Watch Show </p>
+<p> Show Page </p>
+<p> Gossip Girl </p>
+<p> Watch Show </p>
+<p> Show Page </p>
+<p> Gossip Girl </p>
+<p> Watch Show </p>
+<p> Show Page </p>
+<p> Gossip Girl </p>
+<p> Watch Show </p>
+<p> Show Page </p>

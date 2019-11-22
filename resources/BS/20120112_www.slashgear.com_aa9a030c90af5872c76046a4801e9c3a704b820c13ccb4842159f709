@@ -1,0 +1,140 @@
+<p> Fit pill could treat obesity and related disorders - SlashGear </p>
+<p> // <![CDATA[ 	jQuery(document).ready(function($){ 		$(".gallery").each(function(index, obj){ 			var galleryid = Math.floor(Math.random()*10000); 			$(obj).find("a").colorbox({rel:galleryid, maxWidth:"95%", maxHeight:"95%"}); 		}); 		$("a.lightbox").colorbox({maxWidth:"95%", maxHeight:"95%"}); 	}); // ]]> </p>
+<p> // <![CDATA[   jQuery(document).ready(function() {       jQuery("#headerslider").css("width","960px").css("padding-left","0");       jQuery('#featured_slider').jcarousel({wrap: 'both',auto:9});    }); // ]]> </p>
+<p> SlashGear </p>
+<p> Feeding Your Gadget and Tech Obsessions </p>
+<p> Tip Us </p>
+<p> SlashGear JP </p>
+<p> CES 2012 Smart TV Round-Up </p>
+<p> CES 2012 Smartphone Round-Up </p>
+<p> CES 2012 Ultrabook Round-Up </p>
+<p> Dell XPS 13 Ultrabook hands-on </p>
+<p> Razer Blade gaming laptop hands on </p>
+<p> Nokia Lumia 900 AT&T LTE hands-on </p>
+<p> HTC Titan II hands-on </p>
+<p> CES 2012 Is Go: Ultrabooks fast out of the blocks </p>
+<p> Home </p>
+<p> Reviews </p>
+<p> Columns </p>
+<p> Archive </p>
+<p> Videos </p>
+<p> GALLERY </p>
+<p> Tegra Phones / Tablets </p>
+<p> SG on Facebook </p>
+<p> SG on Google+ </p>
+<p> Trending </p>
+<p> CES 2012 </p>
+<p> Galaxy Note Review </p>
+<p> Apple </p>
+<p> Galaxy Nexus Review </p>
+<p> Samsung Hub </p>
+<p> iPad 3 </p>
+<p> Fit pill could treat obesity and related disorders </p>
+<p> Shane McGlaun </p>
+<p> , Jan 12th 2012 </p>
+<p> Discuss [0] </p>
+<p> <!-- google_ad_client = "pub-3201252381583585"; google_alternate_ad_url = "http://www.slashgear.com/forum/ads/random300.php"; google_ad_width = 300; google_ad_height = 250; google_ad_format = "300x250_as"; google_ad_type = "text_image"; //2006-10-27: SlashGearUS300X250-PostView google_ad_channel = "2292982637"; google_color_border = "DCDBDB"; google_color_bg = "F9F9F9"; google_color_link = "1293C3"; google_color_text = "333333"; google_color_url = "1293C3"; //--> </p>
+<p> Worth Reading? </p>
+<p> If you watch the health reports on the news or read any health related material online or in print and you will generally run across some articles that are talking about the obesity epidemic in America and other countries. There are a number of health issues that come from being overweight and many of them can be lethal if not treated. One of the best treatments for the obese and the disorders that go with being overweight is exercise. </p>
+<p> The catch is that some are simply too ill to exercise. Researcher are now claiming that they have created a pill that is promised to give the person taking it the same benefits of exercise, without having to exercise. The hormone in the pill is being called irisin and occurs naturally in the body. According to the researchers, this hormone is found in normal muscle cells and triggers the calorie burning effects of exercise. </p>
+<p> Experts from Harvard Medical School believe that the new hormone could lead to treatments for obesity, diabetes, and possibly even cancer along with all sorts of other conditions that can benefit from exercise. So far, the medication has been testing in mice and in tests, the researchers found that glucose control improved and the mice lost small amounts of weight. It will be a long time yet before the medication hits the market. </p>
+<p> [ </p>
+<p> via </p>
+<p> Telegraph] </p>
+<p> <!-- google_ad_client = "pub-3201252381583585"; /* 468x60, created 5/3/08 */ google_ad_slot = "9409734753"; google_ad_width = 468; google_ad_height = 60; //--> </p>
+<p> POPULAR STORIES TODAY: </p>
+<p> Sony shows off Crystal LED Display at CES </p>
+<p> CES 2012 Ultrabook Round-Up </p>
+<p> Motorola plans pared and polished Android range in 2012 </p>
+<p> ASUS Transformer Prime 700 Series hands-on </p>
+<p> Tags: </p>
+<p> medicine </p>
+<p> , </p>
+<p> research </p>
+<p> , </p>
+<p> Science </p>
+<p> GS_googleAddAdSenseService("ca-pub-9484501593949307"); GS_googleEnableAllServices(); </p>
+<p> GA_googleAddSlot("ca-pub-9484501593949307", "FalloverUnit"); </p>
+<p> GA_googleFetchAds(); </p>
+<p> GA_googleFillSlot("FalloverUnit"); </p>
+<p> Subscribe via </p>
+<p> RSS </p>
+<p> or </p>
+<p> Email </p>
+<p> | Read </p>
+<p> 517 </p>
+<p> times </p>
+<p> Must Read Bits & Bytes </p>
+<p> ShowStopppers at CES 2012 Wrap-up </p>
+<p> Razer Project Fiona gaming tablet revealed </p>
+<p> Sony outs 2nd-Gen Google TV boxes with streamlined remote </p>
+<p> AT&T Nokia Lumia 900 LTE official </p>
+<p> Apple promises “Education Announcement” at Jan 19 event </p>
+<p> More Must Read Bits & Bytes » </p>
+<p> /* <![CDATA[ */     var disqus_url = 'http://www.slashgear.com/fit-pill-could-treat-obesity-and-related-disorders-12208974/';     var disqus_identifier = '208974 http://www.slashgear.com/?p=208974';     var disqus_container_id = 'disqus_thread';     var disqus_domain = 'disqus.com';     var disqus_shortname = 'slashgeardotcom';     var disqus_title = "Fit pill could treat obesity and related disorders";         var disqus_config = function () {         var config = this; // Access to the config object          /*            All currently supported events:             * preData — fires just before we request for initial data             * preInit - fires after we get initial data but before we load any dependencies             * onInit  - fires when all dependencies are resolved but before dtpl template is rendered             * afterRender - fires when template is rendered but before we show it             * onReady - everything is done          */          config.callbacks.preData.push(function() {             // clear out the container (its filled for SEO/legacy purposes)             document.getElementById(disqus_container_id).innerHTML = '';         });                 config.callbacks.onReady.push(function() {             // sync comments in the background so we don't block the page             DISQUS.request.get('?cf_action=sync_comments&post_id=208974');         });                     };     var facebookXdReceiverPath = 'http://www.slashgear.com/wp-content/plugins/disqus-comment-system/xd_receiver.htm'; /* ]]> */ </p>
+<p> /* <![CDATA[ */     var DsqLocal = {         'trackbacks': [         ],         'trackback_url': "http:\/\/www.slashgear.com\/fit-pill-could-treat-obesity-and-related-disorders-12208974\/trackback\/"    }; /* ]]> */ </p>
+<p> /* <![CDATA[ */ (function() {     var dsq = document.createElement('script'); dsq.type = 'text/javascript';     dsq.async = true;     dsq.src = 'http://' + disqus_shortname + '.' + disqus_domain + '/embed.js?pname=wordpress&pver=2.70';     (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq); })(); /* ]]> */ </p>
+<p> REVIEWS </p>
+<p> Android Ice Cream Sandwich review </p>
+<p> Galaxy Nexus Review </p>
+<p> iOS 5 Review </p>
+<p> iPhone 4S Review [Updated] </p>
+<p> AAXA P4 Pico Projector Review </p>
+<p> HP ENVY 15 Review </p>
+<p> Philips goLITE BLU Energy Light Review </p>
+<p> Three WiFi Hub ZTE MF10 Review </p>
+<p> More Reviews » </p>
+<p> GS_googleAddAdSenseService("ca-pub-3201252381583585"); GS_googleEnableAllServices(); </p>
+<p> GA_googleAddSlot("ca-pub-3201252381583585", "SlashGear-160x600-Primary"); GA_googleAddSlot("ca-pub-3201252381583585", "SlashGear-300x250-Primary"); </p>
+<p> GA_googleFetchAds(); </p>
+<p> GA_googleFillSlot("SlashGear-300x250-Primary"); </p>
+<p> Columns </p>
+<p> The Problem With Pink Gadgets: Not Enough Of Them </p>
+<p> Philip Berne </p>
+<p> The CES 2012 Crap Tablet Gush Begins </p>
+<p> Chris Davies </p>
+<p> Why Netflix Will Die If Yahoo! Acquires It </p>
+<p> Don Reisinger </p>
+<p> Your Pod Coffee Tastes Bad </p>
+<p> Chris Davies </p>
+<p> Stop Whining and Go To Las Vegas </p>
+<p> Philip Berne </p>
+<p> More Columns » </p>
+<p> Poll </p>
+<p> Are you convinced by Ultrabooks? </p>
+<p> Definitely! I've already bought one </p>
+<p> Yes, I'm planning to buy one soon </p>
+<p> I'm not sure they're powerful enough for me </p>
+<p> I'd rather have a MacBook Air </p>
+<p> They're too expensive right now </p>
+<p> I'm a desktop user instead </p>
+<p> What's an Ultrabook? </p>
+<p> View Results </p>
+<p> Loading ... </p>
+<p> Related News: </p>
+<p> All about Ultrabooks </p>
+<p> VIDEOS </p>
+<p> Philips DiamondClean review </p>
+<p> PRADA Phone by LG 3.0 SG hands-on </p>
+<p> Nokia Lumia 800 event </p>
+<p> Nokia N9 Review </p>
+<p> See all videos » </p>
+<p> RECENT COMMENTS </p>
+<p> Copyright © 2006-2012 SlashGear, All Rights Reserved. </p>
+<p> About </p>
+<p> / </p>
+<p> Advertise </p>
+<p> / </p>
+<p> Contact </p>
+<p> / </p>
+<p> Privacy Policy </p>
+<p> / </p>
+<p> Terms of Use </p>
+<p> // <![CDATA[         var disqus_shortname = 'slashgeardotcom';         var disqus_domain = 'disqus.com';         (function () {             var nodes = document.getElementsByTagName('span');             for (var i = 0, url; i < nodes.length; i++) {                 if (nodes[i].className.indexOf('dsq-postid') != -1) {                     nodes[i].parentNode.setAttribute('data-disqus-identifier', nodes[i].getAttribute('rel'));                     url = nodes[i].parentNode.href.split('#', 1);                     if (url.length == 1) url = url[0];                     else url = url[1]                     nodes[i].parentNode.href = url + '#disqus_thread';                 }             }             var s = document.createElement('script'); s.async = true;             s.type = 'text/javascript';             s.src = 'http://' + disqus_domain + '/forums/' + disqus_shortname + '/count.js';             (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);         }());     //]]> </p>
+<p> /* <![CDATA[ */ var pollsL10n = {"ajax_url":"http:\/\/www.slashgear.com\/wp-content\/plugins\/wp-polls\/wp-polls.php","text_wait":"Your last request is still being processed. Please wait a while ...","text_valid":"Please choose a valid poll answer.","text_multiple":"Maximum number of choices allowed: ","show_loading":"1","show_fading":"1"}; /* ]]> */ </p>
+<p> /* <![CDATA[ */ var ratingsL10n = {"plugin_url":"http:\/\/www.slashgear.com\/wp-content\/plugins\/wp-postratings","ajax_url":"http:\/\/www.slashgear.com\/wp-content\/plugins\/wp-postratings\/wp-postratings.php","text_wait":"Please rate only 1 post at a time.","image":"plusminus","image_ext":"gif","max":"2","show_loading":"0","show_fading":"1","custom":"1"}; var ratings_1_mouseover_image=new Image();ratings_1_mouseover_image.src=ratingsL10n.plugin_url+"/images/"+ratingsL10n.image+"/rating_1_over."+ratingsL10n.image_ext;var ratings_2_mouseover_image=new Image();ratings_2_mouseover_image.src=ratingsL10n.plugin_url+"/images/"+ratingsL10n.image+"/rating_2_over."+ratingsL10n.image_ext; /* ]]> */ </p>
+<p> st_go({v:'ext',j:'1:1.2.2',blog:'4555266',post:'208974'}); 	var load_cmc = function(){linktracker_init(4555266,208974,2);}; 	if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc); 	else load_cmc(); </p>
+<p> var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); </p>
+<p> var pageTracker = _gat._getTracker("UA-645197-1"); pageTracker._initData(); pageTracker._trackPageview(); </p>
+<p> _qacct="p-19xNj0LY6-xa-";quantserve(); </p>
+<p> (function() {     var nstrack = document.createElement("script"), el_nstrack = document.getElementsByTagName("script")[0]; nstrack.async = true;     nstrack.src = "http://track.netshelter.net/async/js/sites/slashgear.com-async.js";     el_nstrack.parentNode.insertBefore(nstrack, el_nstrack);   })(); </p>

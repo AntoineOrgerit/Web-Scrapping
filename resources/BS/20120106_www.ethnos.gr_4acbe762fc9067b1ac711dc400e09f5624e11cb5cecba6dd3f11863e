@@ -1,0 +1,382 @@
+<p> Η αλήθεια για τα κρούσματα ελονοσίας στην Πελοπόννησο | κοινωνια  | ethnos.gr </p>
+<p> setAsyncElementLoading(); </p>
+<p> $(document).ready(function() { $(".search_btn img[title]").tooltip2();  }); </p>
+<p> var counterplus = 0; var countermin = 0;  function increaseFont() { if(counterplus<3){ $('#arttext').each(function(){ var oldf = parseInt( jQuery(this).css('font-size') ); var oldl = parseInt( jQuery(this).css('line-height') ); $(this).css({ 'font-size' : oldf + 2 + 'px', 'line-height' : oldl + 2 + 'px' }); });  counterplus++;  countermin++; }  }   function decreaseFont() { if(countermin>-2){ $('#arttext').each(function(){ var oldf = parseFloat( jQuery(this).css('font-size') ); var oldl = parseFloat( jQuery(this).css('line-height') ); $(this).css({ 'font-size' : oldf - 2 + 'px', 'line-height' : oldl - 2 + 'px' }); });  counterplus--;  countermin--; } } </p>
+<p> <!-- function HideContent(d) { if(d.length < 1) { return; } document.getElementById(d).style.display = "none"; } function ShowContent(d) { if(d.length < 1) { return; } document.getElementById(d).style.display = "block"; } function ReverseContentDisplay(d) { if(d.length < 1) { return; } if(document.getElementById(d).style.display == "none") { document.getElementById(d).style.display = "block";} else { document.getElementById(d).style.display = "none"; } } //--> </p>
+<p> ΕΘΝΟΣ </p>
+<p> | </p>
+<p> ΗΜΕΡΗΣΙΑ </p>
+<p> | </p>
+<p> SENTRAGOAL </p>
+<p> | </p>
+<p> E-GO </p>
+<p> | </p>
+<p> ΣΙΝΕΜΑ </p>
+<p> | </p>
+<p> ΙΔΑΝΙΚΟ ΣΠΙΤΙ </p>
+<p> | </p>
+<p> SPORTY </p>
+<p> | </p>
+<p> ΑΣΤΡΑ & ΟΡΑΜΑ </p>
+<p> | </p>
+<p> WHEELS & MOTORS </p>
+<p> | </p>
+<p> WOMENONLY.GR </p>
+<p> | </p>
+<p> COOK BOOK </p>
+<p> ΕΘΝΟΣΠΟΡ </p>
+<p> | </p>
+<p> TV ΕΘΝΟΣ </p>
+<p> | </p>
+<p> ΚΥΝΗΓΙ </p>
+<p> | </p>
+<p> ΨΑΡΕΜΑ & ΦΟΥΣΚΩΤΟ </p>
+<p> | </p>
+<p> REPORTAGE </p>
+<p> | </p>
+<p> ΥΓΕΙΑ </p>
+<p> | </p>
+<p> ΤΑΞΙΔΙ </p>
+<p> | </p>
+<p> ΣΥΝΤΑΞΕΙΣ </p>
+<p> | </p>
+<p> ΕΠΑΓΓΕΛΜΑΤΙΚΕΣ ΕΥΚΑΙΡΙΕΣ </p>
+<p> | </p>
+<p> ΕΡΓΑΣΙΑ </p>
+<p> | </p>
+<p> ΠΑΙΔΕΙΑ </p>
+<p> // <![CDATA[[ if (typeof Adman === 'undefined' || /MSIE [456]/.test(navigator['appVersion'])) document.write ('<scr'+'ipt src="http://static.adman.gr/adman.js" language="javascript" type="text/javascript"></'+'sc'+'ript>'); var now=parseInt((new Date()).getTime()); if (!window.admantpid) window.admantpid = now; var rnd=Math.floor(Math.random()*900000)+100,cdp=screen.width+"x"+screen.height+"x"+(navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth),burst="?"+rnd+":="+window.admantpid +"@"+cdp+"?"; document.write("<scr"+"ipt language=\"Javascript\" src=\"http://ads.e-go.gr/gbanner/?"+now+"|30/728x90"+burst+"/\">"); document.write("</"+"sc"+"ript>"); // ]]> </p>
+<p> // <![CDATA[[ if (typeof Adman === 'undefined' || /MSIE [456]/.test(navigator['appVersion'])) document.write ('<scr'+'ipt src="http://static.adman.gr/adman.js" language="javascript" type="text/javascript"></'+'sc'+'ript>'); var now=parseInt((new Date()).getTime()); if (!window.admantpid) window.admantpid = now; var rnd=Math.floor(Math.random()*900000)+100,cdp=screen.width+"x"+screen.height+"x"+(navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth),burst="?"+rnd+":="+window.admantpid +"@"+cdp+"?"; document.write("<scr"+"ipt language=\"Javascript\" src=\"http://ads.e-go.gr/gbanner/?"+now+"|66/220x90"+burst+"/\">"); document.write("</"+"sc"+"ript>"); // ]]> </p>
+<p> // <![CDATA[[ if (typeof Adman === 'undefined' || /MSIE [456]/.test(navigator['appVersion'])) document.write ('<scr'+'ipt src="http://static.adman.gr/adman.js" language="javascript" type="text/javascript"></'+'sc'+'ript>'); var now=parseInt((new Date()).getTime()); if (!window.admantpid) window.admantpid = now; var rnd=Math.floor(Math.random()*900000)+100,cdp=screen.width+"x"+screen.height+"x"+(navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth),burst="?"+rnd+":="+window.admantpid +"@"+cdp+"?"; document.write("<scr"+"ipt language=\"Javascript\" src=\"http://ads.e-go.gr/gbanner/?"+now+"|1239/980x280"+burst+"/\">"); document.write("</"+"sc"+"ript>"); // ]]> </p>
+<p> Σάββατο, 14/1/2012 </p>
+<p> O καιρός σήμερα </p>
+<p> set_url("1E7C3DC7-AE56-4064-A193-8CBA8806722C", "http://service.24media.gr/app/forecast/details/horizontal.html?loc=37.9966,23.741,0:40.6382,22.9369,0:38.2372,21.7407,0:39.6679,20.8512,0:35.3325,25.1346,0&label=%CE%91%CE%B8%CE%AE%CE%BD%CE%B1:%CE%98%CE%B5%CF%83%CF%83%CE%B1%CE%BB%CE%BF%CE%BD%CE%AF%CE%BA%CE%B7:%CE%A0%CE%AC%CF%84%CF%81%CE%B1:%CE%99%CF%89%CE%AC%CE%BD%CE%BD%CE%B9%CE%BD%CE%B1:%CE%97%CF%81%CE%AC%CE%BA%CE%BB%CE%B5%CE%B9%CE%BF&css=/css/horizontal-num140.css&color=GREY"); </p>
+<p> ΠΟΛΙΤΙΚΗ </p>
+<p> ΠΑΡΑΠΟΛΙΤΙΚΑ </p>
+<p> ΣΚΙΤΣA </p>
+<p> ΚΟΙΝΩΝΙΑ </p>
+<p> ΟΙΚΟΝΟΜΙΑ </p>
+<p> ΔΙΕΘΝΗ </p>
+<p> ΑΛΛΗ ΟΨΗ </p>
+<p> ΠΕΡΙΒΑΛΛΟΝ </p>
+<p> ΑΡΘΡΟΓΡΑΦΙΑ </p>
+<p> ΕΘΝΟΣΠΟΡ </p>
+<p> ΠΟΛΙΤΙΣΜΟΣ </p>
+<p> ΑΤΖΕΝΤΑ </p>
+<p> ΠΡΟΣΩΠΑ </p>
+<p> SHOWBIZ </p>
+<p> ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ </p>
+<p> ΘΕΑΤΡΟ </p>
+<p> ΜΟΥΣΙΚΗ </p>
+<p> ΕΙΚΑΣΤΙΚΑ </p>
+<p> ΒΙΒΛΙΟ </p>
+<p> ΦΕΣΤΙΒΑΛ </p>
+<p> ΕΝΘΕΤΑ </p>
+<p> ΕΠΑΓΓΕΛΜΑΤΙΚΕΣ ΕΥΚΑΙΡΙΕΣ </p>
+<p> ΕΡΓΑΣΙΑ </p>
+<p> ΠΑΙΔΕΙΑ </p>
+<p> ΣΥΝΤΑΞΕΙΣ </p>
+<p> ΚΥΝΗΓΙ </p>
+<p> ΥΓΕΙΑ </p>
+<p> FORUM </p>
+<p> ΨΑΡΕΜΑ & ΦΟΥΣΚΩΤΟ </p>
+<p> WHEELS + MOTORS </p>
+<p> ΕΘΝΟΣΠΟΡ </p>
+<p> REPORTAGE </p>
+<p> ΤΑΞΙΔΙ </p>
+<p> COOK BOOK </p>
+<p> TV ΕΘΝΟΣ </p>
+<p> ΧΡΗΣΙΜΑ </p>
+<p> ΣΑΝ ΣΗΜΕΡΑ </p>
+<p> ΚΑΙΡΟΣ </p>
+<p> ΦΑΡΜΑΚΕΙΑ </p>
+<p> ΝΟΣΟΚΟΜΕΙΑ </p>
+<p> ΔΡΟΜΟΛΟΓΙΑ ΠΛΟΙΩΝ </p>
+<p> function updateFormActionEthnos(){  document.getElementById("catid").value  = "23552"; } function updateFormActionWeb(){  document.getElementById("catid").value = "23552"; } function updateFormActionFile() {  document.getElementById("catid").value = "23551"; } </p>
+<p> ethnos.gr </p>
+<p> Αρχείο </p>
+<p> Web </p>
+<p> ΑΝΑΖΗΤΗΣΗ </p>
+<p> Enter your search terms </p>
+<p> Submit search form </p>
+<p> $(document).ready(function() { $(".search_btn").click(function () {       var status = $(".searchbar").css("display");       if(status == "block"){            $(".searchbar").css("display","none");            $("div.menu").css("marginBottom","18px");       }else{            $(".searchbar").css("display","block");                  $("div.menu").css("marginBottom","1px");       } }); }); </p>
+<p> ΚΟΙΝΩΝΙΑ </p>
+<p> ΒΡΙΣΚΕΣΤΕ ΕΔΩ: </p>
+<p> ΚΟΙΝΩΝΙΑ </p>
+<p> ΕΘΝΟΣ On Line </p>
+<p> 12:29 5/1 </p>
+<p> Μέγεθος γραμμάτων </p>
+<p> Email </p>
+<p> Εκτύπωση </p>
+<p> Tweet </p>
+<p> ΚΟΙΝΩΝΙΑ: </p>
+<p> ΔΙΑΒΑΣΤΕ ΑΚΟΜΑ </p>
+<p> Χωρίς δουλειά και μέλλον η γενιά της κρίσης </p>
+<p> 14/1 </p>
+<p> «Πράσινο φως» για Κερατέα-Γραμματικό </p>
+<p> 14/1 </p>
+<p> Απαράδεκτη η απόφαση υπέρ Εφραίμ </p>
+<p> 14/1 </p>
+<p> Κλείνει ο κύκλος της εξέτασης </p>
+<p> 14/1 </p>
+<p> Συνελήφθησαν Τούρκοι που διακινούσαν λαθρομετανάστες </p>
+<p> 14/1 </p>
+<p> Στον εισαγγελέα η υπόθεση για το «καζίνο» της Συγγρού </p>
+<p> 14/1 </p>
+<p> Καμπάνες στους δήμους για τη διαχείριση των απορριμμάτων </p>
+<p> 14/1 </p>
+<p> Παράταση για την πρώτη δόση </p>
+<p> 14/1 </p>
+<p> Παρέμβαση Μόσιαλου μετά την αποκάλυψη του «Εθνους» για την ΕΡΤ </p>
+<p> 14/1 </p>
+<p> 600 άνεργοι την ημέρα στον ιδιωτικό τομέα </p>
+<p> 13/1 </p>
+<p> Δείχνει το... μονοπάτι στον τουρισμό </p>
+<p> 14/1 </p>
+<p> Οταν ο καιρός δείχνει τα δόντια του </p>
+<p> 14/1 </p>
+<p> Ναρκωτικά με... καμουφλάζ στο Internet </p>
+<p> 14/1 </p>
+<p> Αγριο έγκλημα με θύμα 76χρονη </p>
+<p> 14/1 </p>
+<p> Παράνομο καζίνο </p>
+<p> 14/1 </p>
+<p> 1 </p>
+<p> 2 </p>
+<p> 3 </p>
+<p> addPrototypeElement('21216','AJAXREST','incl/v5EthnosRestArticlesAjax_21216.asp','pageid=639&catid=22768&subid=2&pubid=63599244&catidlocal=22768&subidlocal=2',false); </p>
+<p> // <![CDATA[[ if (typeof Adman === 'undefined' || /MSIE [456]/.test(navigator['appVersion'])) document.write ('<scr'+'ipt src="http://static.adman.gr/adman.js" language="javascript" type="text/javascript"></'+'sc'+'ript>'); var now=parseInt((new Date()).getTime()); if (!window.admantpid) window.admantpid = now; var rnd=Math.floor(Math.random()*900000)+100,cdp=screen.width+"x"+screen.height+"x"+(navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth),burst="?"+rnd+":="+window.admantpid +"@"+cdp+"?"; document.write("<scr"+"ipt language=\"Javascript\" src=\"http://ads.e-go.gr/gbanner/?"+now+"|29/160x600"+burst+"/\">"); document.write("</"+"sc"+"ript>"); // ]]> </p>
+<p> ΣΥΣΚΕΨΗ ΜΕΤΑ ΤΑ 57 ΚΡΟΥΣΜΑΤΑ </p>
+<p> Η αλήθεια για τα κρούσματα ελονοσίας στην Πελοπόννησο </p>
+<p> Ο «χορός» δημοσιευμάτων για τα υγειονομικά προβλήματα στην Πελοπόννησο προκάλεσε άμεση αντίδραση από την Περιφέρεια. Δείτε αναλυτικά τα προληπτικά μέτρα και τα επίσημα στοιχεία του ΚΕΕΛΠΝΟ για την κατάσταση στην περιοχή. </p>
+<p> Ο περιφερειάρχης Πέτρος Τατούλης αναφέρθηκε διεξοδικά στην καταπολέμηση των κουνουπιών στην Πελοπόννησο, τονίζοντας ότι προκαλούν κινδύνους για τη δημόσια υγεία, την αγροτική οικονομία και την προώθηση του τουριστικού προϊόντος. </p>
+<p> Στην περιφέρεια εφαρμόζεται ήδη πρόγραμμα καταπολέμησης κουνουπιών, σημείωσε ο αρμόδιος αντιπεριφερειάρχης Ανδρέας Πουλάς, επισημαίνοντας ότι οι κύριες προβληματικές περιοχές που «χρήζουν» παρεμβάσεων είναι: </p>
+<p> Πύλος </p>
+<p> Μεθώνη </p>
+<p> Καλαμάτα </p>
+<p> Μελιγαλάς </p>
+<p> υγρότοπος Μουστού, </p>
+<p> Φωκιανός (Λεωνίδιο) </p>
+<p> οι χώροι κοντά σε βιολογικούς καθαρισμούς </p>
+<p> αποστραγγιστικά κανάλια και λιμνάζοντα ύδατα στην πεδιάδα του Αργους </p>
+<p> ζώνη στην περιοχή της Ερμιόνης </p>
+<p> Φέτος έχει προγραμματιστεί σειρά ψεκασμών με σκευάσματα δημόσιας υγείας, εγκεκριμένα από το υπουργείο Αγροτικής Ανάπτυξης και Τροφίμων και εάν απαιτηθούν αεροψεκασμοί θα πραγματοποιηθούν από το υπουργείο ανάλογα με την περιοχή, όπως είπε ο κ.Πουλάς. </p>
+<p> Το Κέντρο Ελέγχου και Πρόληψης Νοσημάτων (ΚΕΕΛΠΝΟ) εξέδωσε την Τετάρτη αναλυτική ανακοίνωση προκειμένου να απαντήσει σε δημοσιεύματα περί θανατηφόρων περιστατικών ελονοσίας στην περιοχή. </p>
+<p> Οπως αναφέρει σε αυτή, το 2011 δηλώθηκαν 57 κρούσματα ελονοσίας: </p>
+<p> 27 σε Έλληνες, χωρίς ιστορικό μετακίνησης σε χώρες ενδημικές για ελονοσία </p>
+<p> 7 σε αλλοδαπούς από μη ενδημικές χώρες </p>
+<p> 23 σε αλλοδαπούς από ενδημικές χώρες (κυρίως από το Πακιστάν) </p>
+<p> Ειδικά στη Λακωνία όλα οφείλονται στο πλασμώδιο vivax (P.vivax), το οποίο εμφανίζει συνήθως ηπιότερη κλινική εικόνα, όπως τονίζεται, ενώ δεν έχουν καταγραφεί θάνατοι που οφείλονται στην ελονοσία. Περίπτωση θανάτου υπερήλικα που νοσούσε στη Λακωνία οφειλόταν σε σοβαρά υποκείμενα νοσημάτα. </p>
+<p> Το ΚΕΕΛΠΝΟ πραγματοποιεί ενεργητική αναζήτηση κρουσμάτων στο επίκεντρο της επιδημίας, την περιοχή Σκάλας Λακωνίας, όπως αναφέρεται στην ίδια ανακοίνωση. Το τελευταίο περιστατικό σε Έλληνα υπήκοο ανέφερε έναρξη συμπτωμάτων στις 18 Οκτωβρίου 2011. </p>
+<p> Μάλιστα, σημειώνει ότι τα μέτρα που ελήφθησαν οδήγησαν το Κέντρο Ελέγχου και Πρόληψης Νοσημάτων των ΗΠΑ (CDC-Atlanta) να άρει σχετική ταξιδιωτική οδηγία για τη Λακωνία, η οποία είχε εκδοθεί στα τέλη Οκτωβρίου. </p>
+<p> Αλλος ιός είναι αυτός του Δυτικού Νείλου </p>
+<p> Η ανακοίνωση τονίζει ότι αυτές οι περιπτώσεις δεν έχουν σχέση με τον ιό του Δυτικού Νείλου που εντοπίστηκε τα τελευταία χρόνια σε πτηνά στην Βόρεια Ελλάδα. </p>
+<p> Η μετάδοση του συγκεκριμένου ιού σε ανθρώπους καταγράφηκε για πρώτη φορά στην Ελλάδα το 2010. Το καλοκαίρι αυτής της χρονιάς, καταγράφηκαν 262 εργαστηριακά επιβεβαιωμένα κρούσματα λοίμωξης από ιό του !Ν στην περιοχή της Κεντρικής Μακεδονίας, από τα οποία 191 παρουσίασαν εκδηλώσεις από το κεντρικό νευρικό σύστημα (εγκεφαλίτιδα ή/και μηνιγγίτιδα). </p>
+<p> Καταγράφηκαν συνολικά 35 θάνατοι, όλοι σε υπερήλικα άτομα με υποκείμενα νοσήματα. </p>
+<p> Κατά τη διάρκεια του 2011 διαγνώστηκαν συνολικά 101 κρούσματα λοίμωξης από τον ιό του !Ν, από τα οποία 76 εμφάνισαν εκδηλώσεις από το κεντρικό νευρικό σύστημα. Σημειώθηκαν επίσης 8 θάνατοι σε ασθενείς άνω των 65 ετών με υποκείμενα νοσήματα. Τα κρούσματα λοίμωξης από τον ιό του !Ν εμφανίστηκαν σε νοτιότερες περιοχές της χώρας, κυρίως δε στις περιοχές της Θεσσαλίας και της Αττικής. Το τελευταίο περιστατικό εμφάνισε συμπτώματα στις 18 Οκτωβρίου 2011. </p>
+<p> Η δραστική μείωση των κρουσμάτων αντικατοπτρίζει και την αποτελεσματικότητα των μέτρων που ελήφθησαν, υποστηρίζει το ΚΕΕΛΠΝΟ. </p>
+<p> Εκτύπωση </p>
+<p> Email </p>
+<p> Tweet </p>
+<p> Επικοινωνία </p>
+<p> ΕΠΙΚΟΙΝΩΝΙΑ </p>
+<p> Απόκτηση παλαιότερων τευχών, φύλλων & προσφορών </p>
+<p> chrisoulam@pegasus.gr </p>
+<p> Πληροφορίες για διαφήμιση στην έντυπη έκδοση </p>
+<p> pzante@pegasus.gr </p>
+<p> Αποστολή βιογραφικών </p>
+<p> emavroudi@pegasus.gr </p>
+<p> Πληροφορίες για διαφήμιση στην ηλεκτρονική έκδοση </p>
+<p> advertising@pegasusinteractive.gr </p>
+<p> var google_adnum = 0; function google_ad_request_done(google_ads) { var s = ''; var i; if (google_ads.length == 0) { return; } if (google_ads[0].type == "flash") { s += '<a href=\"' + google_info.feedback_url + '\" style="color:000000">Ads by Google</a><br>' +  '<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"' + ' codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" WIDTH="' +  google_ad.image_width +	'" HEIGHT="' +  google_ad.image_height + '"> <PARAM NAME="movie" VALUE="' +  google_ad.image_url + '">' +  '<PARAM NAME="quality" VALUE="high">' +  '<PARAM NAME="AllowScriptAccess" VALUE="never">' +  '<EMBED src="' +  google_ad.image_url + '" WIDTH="' +  google_ad.image_width + '" HEIGHT="' +  google_ad.image_height +  '" TYPE="application/x-shockwave-flash"' +  ' AllowScriptAccess="never" ' +  ' PLUGINSPAGE="http://www.macromedia.com/go/getflashplayer"></EMBED></OBJECT>'; } else if (google_ads[0].type == "image") { s += '<a href=\"' + google_info.feedback_url + '\" style="color:000000">Ads by Google</a><br> <a href="' +  google_ads[0].url + '" target="_top" title="go to ' +  google_ads[0].visible_url + '" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to ' +  google_ads[0].visible_url + '\';return true"><img border="0" src="' +  google_ads[0].image_url + '"width="' +  google_ads[0].image_width + '"height="' +  google_ads[0].image_height + '"></a>'; } else if (google_ads[0].type == "html") { s += '<a href=\"' + google_info.feedback_url + '\" style="color:000000">Ads by Google</a><br>' +  google_ads[0].snippet; } else { if (google_ads.length == 1) { s += '<a href=\"' + google_info.feedback_url + '\" style="color:000000">Ads by Google</a> <a style="text-decoration:none" href="' +  google_ads[0].url + '" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to ' + google_ads[0].visible_url + '\';return true"> <span style="text-decoration:underline;font-size:20pt"> <b>' +  google_ads[0].line1 + '</b><br></span></a> <span style="color:#000000; font-size:16pt">' + google_ads[0].line2 + '&nbsp;' + google_ads[0].line3 + '<br></span> <a style="color:#008000;font-size:44pt;text-decoration:none" href="' +  google_ads[0].url + '" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to ' + google_ads[0].visible_url + '\';return true"><span>' +  google_ads[0].visible_url + '</span></a><br>'; } else if (google_ads.length > 1) { s += "<table id=\"ethnosgads\" cellspacing=\"0\" cellpadding=\"0\">";  s += "  <tr>"; s += "    <td id=\"head\">"; s += '<a href=\"' + google_info.feedback_url + '\">Ads by Google</a>' s += " <\/td>"; s += "  <\/tr>"; s += "  <tr>"; s += "    <td>"; for(i = 0; i < google_ads.length; ++i) { s += '<br><a id=\"title\" href="' +  google_ads[i].url + '" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to ' + google_ads[i].visible_url + '\';return true"> <span>' +  google_ads[i].line1 + '</span></a> <span>' + google_ads[i].line2 + '</span><br/> <a id=\"adlink\" href="' +  google_ads[i].url + '" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to ' + google_ads[i].visible_url + '\';return true"><span>' +  google_ads[i].visible_url + '</span></a><br>'; } s += "   &nbsp;<\/td>"; s += "  <\/tr>"; s += "<\/table>"; }} if (google_ads[0].bidtype == "CPC") { google_adnum = google_adnum + google_ads.length; } document.write(s); return; } google_ad_client = 'pub-9628004899418467'; google_ad_channel = '7821180107'; google_ad_output = 'js'; google_max_num_ads = '4'; google_ad_type = 'text'; google_feedback = 'on'; google_encoding = 'UTF-8'; google_adtest = 'off'; google_language = 'el'; </p>
+<p> setInitialTipEnvironment('bubbleSpan','tipDiv',100,350,'<table border="0" cellpadding="0" cellspacing="0"><tr><td valign="top" class="tipContainer"><div class="advContent">','</div></td><td width="10" class="rightSide"> </td></tr><tr><td height="10" class="bottomSide" align="center"><img src="js/contextual/images/arrow.png" class="arrow"></td><td height="10" class="bottomRight"></td></tr></table>') </p>
+<p> ΤΑ ΠΙΟ ΔΗΜΟΦΙΛΗ </p>
+<p> Ληστής νεκρός σε συμπλοκή με αστυνομικούς στα Μέγαρα </p>
+<p> [ 23:18 13/1 ] </p>
+<p> Τρεις νεκροί και 70 αγνοούμενοι στο ναυάγιο του Concordia- Σώοι οι Ελληνες επιβάτες </p>
+<p> [ 07:50 14/1 ] </p>
+<p> Παπανδρέου: Εκλογή από τη βάση τον Μάρτιο - Δεν συναινώ σε άλλη πρόταση </p>
+<p> [ 17:12 14/1 ] </p>
+<p> Νόμιμα όλα τα καταπατημένα </p>
+<p> [ «E» 14/1 ] </p>
+<p> Ερευνα για το «πόθεν έσχες» </p>
+<p> [ «E» 14/1 ] </p>
+<p> ΤΕΛΕΥΤΑΙΑ ΝΕΑ - ΠΟΛΙΤΙΚΗ </p>
+<p> Η ομιλία του Γ. Παπανδρέου στο ΕΘνικό Συμβούλιο </p>
+<p> [ 20:50 14/1 ] </p>
+<p> Ντόρα: Ο κίνδυνος της χρεοκοπίας δεν έχει εκλείψει </p>
+<p> [ 20:17 14/1 ] </p>
+<p> Τσίπρας: Δημοκρατική εκτροπή η νομοθετική πράξη για τους μισθούς </p>
+<p> [ 20:07 14/1 ] </p>
+<p> Γκάλοπ: Προβάδισμα 16,5 μονάδων της ΝΔ </p>
+<p> [ 19:44 14/1 ] </p>
+<p> Μιχελάκης: «Αμετανόητος ο Παπανδρέου» </p>
+<p> [ 18:35 14/1 ] </p>
+<p> ΤΕΛΕΥΤΑΙΑ ΝΕΑ - OIKONOMIA </p>
+<p> Οργανωμένες επιθέσεις κατά του ευρώ καταγγέλλει ο Ρέσλερ </p>
+<p> [ 22:28 14/1 ] </p>
+<p> Συγκράτηση μισθών και αύξηση παραγωγικότητας προτείνει ο Ράιχενμπαχ </p>
+<p> [ 19:46 14/1 ] </p>
+<p> Οριστική κατάρρευση των διαπραγματεύσεων φοβάται η S&P </p>
+<p> [ 19:11 14/1 ] </p>
+<p> «Θα τα βρούμε με τους πιστωτές» </p>
+<p> [ 15:34 14/1 ] </p>
+<p> Η διαγνωστική μελέτη παραδόθηκε στην ΤτΕ </p>
+<p> [ «E» 14/1 ] </p>
+<p> ΤΕΛΕΥΤΑΙΑ ΝΕΑ - ΔΙΕΘΝΗ </p>
+<p> Φόβοι για δεκάδες νεκρούς στο ναυάγιο του Concordia </p>
+<p> [ 22:11 14/1 ] </p>
+<p> Σκόπια: «Κήδεψαν» την Ελλάδα και έκαψαν την γαλανόλευκη </p>
+<p> [ 22:03 14/1 ] </p>
+<p> Την αποστολή στρατευμάτων στη Συρία προτείνει το Κατάρ </p>
+<p> [ 21:28 14/1 ] </p>
+<p> Στα 5,4 εκατ. οι άνεργοι στην Ισπανία </p>
+<p> [ 18:36 14/1 ] </p>
+<p> Ευρωπαϊκή δυσφορία για τις υποβαθμίσεις </p>
+<p> [ 16:06 14/1 ] </p>
+<p> ΕΘΝΟΣΠΟΡ </p>
+<p> Η συνάντηση κορυφής και ο Λούτσο Γκονζάλες </p>
+<p> [ 12:16 14/1 ] </p>
+<p> Στα Γιάννενα κουβαλά το βάρος του αποκλεισμού </p>
+<p> [ 12:16 14/1 ] </p>
+<p> «Καμπανάκι» από Κωστένογλου </p>
+<p> [ 12:16 14/1 ] </p>
+<p> Πήρε τον «νόμο» στα χέρια του </p>
+<p> [ 12:16 14/1 ] </p>
+<p> Το Μιλάνο χωρίζεται στα δύο </p>
+<p> [ 12:16 14/1 ] </p>
+<p> jQuery('#accordion').accordion({ header: 'h1',selectedClass:'active',autoheight:false}); </p>
+<p> rnd = Math.floor(Math.random()*900000)+100; now = parseInt((new Date()).getTime()); burst="?"+rnd+":?"; document.write("<scr"+"ipt language=\"Javascript\" src=\"http://ads.e-go.gr/gbanner/?"+now+"|31/300x250"+burst+"/\">"); document.write("</sc"+"ript>"); </p>
+<p> /***      Simple jQuery Slideshow Script     Released by Jon Raasch (jonraasch.com) under FreeBSD license: free to use or modify, not responsible for anything, etc.  Please link out to me if you like it :) ***/  function slideSwitch() {     var $active = $('#promoshow li.active');      if ( $active.length == 0 ) $active = $('#promoshow li:last');      // use this to pull the images in the order they appear in the markup     var $next =  $active.next().length ? $active.next()         : $('#promoshow li:first');      // uncomment the 3 lines below to pull the images in random order          // var $sibs  = $active.siblings();     // var rndNum = Math.floor(Math.random() * $sibs.length );     // var $next  = $( $sibs[ rndNum ] );       $active.addClass('last-active');      $next.css({opacity: 0.0})         .addClass('active')         .animate({opacity: 1.0}, 1000, function() {             $active.removeClass('active last-active');         }); }  $(function() {     setInterval( "slideSwitch()", 22000 ); }); </p>
+<p> #promoshow {   background: url("images/divider_lines.gif") repeat-x scroll center bottom transparent;   margin: 0 0 15px;   min-height: 180px;   padding: 0 0 25px;   position: relative;   width: 300px; }  #promoshow li {     position:absolute;     top:0;     left:0;     z-index:8;     list-style: none;     opacity:0.0; }  #promoshow li.active {     z-index:10;     opacity:1.0; }  #promoshow li.last-active {     z-index:9; } </p>
+<p> if (typeof multimediawrite!="undefined") {multimediawrite('<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" CODEBASE="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab" id="banner" width="300" height="180"><param name="wmode" value="opaque" /><param name="movie" value="http://content-mcdn.ethnos.gr/pegasus/Multimedia/swf/PanagiotakisCreation_id28459158.swf"><param name="allowScriptAccess" value="always"><param name="Autostart" value="true"><embed src="http://content-mcdn.ethnos.gr/pegasus/Multimedia/swf/PanagiotakisCreation_id28459158.swf"   swliveconnect="true" wmode="opaque" width="300" height="180" allowScriptAccess="always" name="banner" type="application/x-shockwave-flash" pluginspace="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></embed></object>'); } else { document.write('<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" CODEBASE="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab" id="banner" width="300" height="180"><param name="wmode" value="opaque" /><param name="movie" value="http://content-mcdn.ethnos.gr/pegasus/Multimedia/swf/PanagiotakisCreation_id28459158.swf"><param name="allowScriptAccess" value="always"><param name="Autostart" value="true"><embed src="http://content-mcdn.ethnos.gr/pegasus/Multimedia/swf/PanagiotakisCreation_id28459158.swf"   swliveconnect="true" wmode="opaque" width="300" height="180" allowScriptAccess="always" name="banner" type="application/x-shockwave-flash" pluginspace="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></embed></object>');}; </p>
+<p> ΑΡΘΡΟΓΡΑΦΙΑ </p>
+<p> ΕΘΝΟΣ ΓΝΩΜΗ </p>
+<p> Θυσίες με αντίκρισμα </p>
+<p> [ «E» 14/1 ] </p>
+<p> ...» </p>
+<p> ΕΡΡΙΚΟΣ ΜΠΑΡΤΖΙΝΟΠΟΥΛΟΣ </p>
+<p> Οι συνέπειες μιας καθυστέρησης </p>
+<p> [ «E» 13/1 ] </p>
+<p> ...» </p>
+<p> ΠΑΝΑΓΙΩΤΗΣ ΠΑΝΑΓΙΩΤΟΥ </p>
+<p> Το δύσκολο «στοίχημα» του ΠΑΣΟΚ </p>
+<p> [ «E» 14/1 ] </p>
+<p> ...» </p>
+<p> ΓΙΩΡΓΟΣ ΔΕΛΑΣΤΙΚ </p>
+<p> Οι τράπεζες τσέπωσαν το μισό τρισ.! </p>
+<p> [ «E» 13/1 ] </p>
+<p> ...» </p>
+<p> ΘΑΝΑΣΗΣ ΛΥΡΤΣΟΓΙΑΝΝΗΣ </p>
+<p> Πλασματική η σύνδεση αποδοχών και ανεργίας </p>
+<p> [ «E» 14/1 ] </p>
+<p> ...» </p>
+<p> ΜΙΧΑΛΗΣ ΙΓΝΑΤΙΟΥ </p>
+<p> Η Κύπρος ξανά στο μάτι του κυκλώνα </p>
+<p> [ «E» 7/1 ] </p>
+<p> ...» </p>
+<p> ΠΑΝΑΓΙΩΤΗΣ ΛΑΜΨΙΑΣ </p>
+<p> Παπική αυθεντία </p>
+<p> [ «E» 7/1 ] </p>
+<p> ...» </p>
+<p> ΧΡΗΣΤΟΣ ΜΑΧΑΙΡΑΣ </p>
+<p> Τα δύο διλήμματα </p>
+<p> [ «E» 14/1 ] </p>
+<p> ...» </p>
+<p> ΕΠΩΝΥΜΩΣ </p>
+<p> Η κρίση δεν ανακυκλώνεται </p>
+<p> [ «E» 14/1 ] </p>
+<p> ...» </p>
+<p> ΠΡΟΤΑΣΕΙΣ </p>
+<p> Κάνε την εγγραφή σου </p>
+<p> ΤΩΡΑ </p>
+<p> και κέρδισε μεγάλα δώρα! </p>
+<p> .deal { 	border: 1px solid #1971a3; 	padding: 0; 	margin: 10px 0 0 2px; 	text-align: left; 	width: 300px;         background: white; }  .deal td.logo { 	margin: 0; 	padding: 0 14px 8px 8px;         background: none;         width: 119px; }  td.offertxt { 	margin: 0; 	padding: 0 5px 8px 0; 	line-height: 14px; }  td.offertxt h1 { 	margin: 7px 0 3px 0; 	padding: 0; 	font-size: 11px; 	font-weight: bold; 	color: #015581; }  td.offertxt h1 a { 	color: #015581; 	text-decoration: none; }  td.offertxt h2 { 	margin: 0; 	padding: 0; 	font-size: 11px; 	font-weight: normal; 	color: #2295d6; }  table.prices { 	background: url(http://www.e-go.gr/images/dmd/bg_prices.gif) no-repeat; 	width: 296px; 	height: 33px; 	margin: 0 0 2px 2px; }  table.prices td.price1 { 	padding: 0; 	width: 131px; 	color: #fff; line-height: 18px; }   table.prices td.price1 h1 { 	margin: 0; 	padding: 3px 0 0 0; 	color: #005782; 	font-size: 14px; 	text-align: center; }  table.prices td.price2 { 	padding: 0; 	width: 165px; 	height: 33px; 	color: #fff; 	font-size: 14px; 	text-align: center; 	font-weight: bold; line-height: 16px; }  table.prices td.price2 a { 	color: #fff; 	text-decoration: none; }  table.prices .newprice { 	margin: 0; 	padding: 0 3px; 	color: #fff; 	font-size: 18px;  } </p>
+<p> 4 προγράμματα Διατροφής, Λιπομέτρηση, Μέτρηση Σπλαχνικού λίπους, Υγρού σώματος και μυικής μάζας, από το διαιτολογικό γραφείο Ισορροπία στην Αγ. Παρασκ </p>
+<p> από το διαιτολογικό γραφείο Ισορροπία στην Αγ. Παρασκευή </p>
+<p> Από 170€ </p>
+<p> Αγόρασέ το </p>
+<p> 39.90€ </p>
+<p> ΑΓΟΡΕΣ </p>
+<p> Αν είστε ήδη εγγεγραμμένοι κάντε κλικ </p>
+<p> εδώ </p>
+<p> $(document).ready(function() {      $('.nlinput').focus(function() {       $(this).val("");    })    $('.subnl').click(function() {       var con = $('.nlinput').val();       if( ( con != "Εισάγετε εδώ το mail σας") && (con !="") ){           document.location.href = "r.asp?catid=23637&mreg=" + con;       }    }) }) </p>
+<p> cookie_rnd = Math.floor(Math.random()*900000000000)+100000000000; 	cookie_url = 'http://stats.e-go.gr/?nWebSrvID=100230&nCatID=22768&nStampRightID=&nLevelid=2&nPubID=63599244&nServID=' + '&nocache=' + cookie_rnd; 	document.write('<img src="' + cookie_url + '" border=0 width=1 height=1>'); </p>
+<p> _uacct="UA-1074537-2"; urchinTracker(); </p>
+<p> ΠΟΛΙΤΙΚΗ </p>
+<p> ΚΟΙΝΩΝΙΑ </p>
+<p> ΟΙΚΟΝΟΜΙΑ </p>
+<p> ΔΙΕΘΝΗ </p>
+<p> ΠΕΡΙΒΑΛΛΟΝ </p>
+<p> ΑΡΘΡΟΓΡΑΦΙΑ </p>
+<p> ΕΘΝΟΣΠΟΡ </p>
+<p> ΠΟΛΙΤΙΣΜΟΣ </p>
+<p> ΕΝΘΕΤΑ </p>
+<p> TV ΕΘΝΟΣ </p>
+<p> ΧΡΗΣΙΜΑ </p>
+<p> ΕΠΙΚΟΙΝΩΝΙΑ </p>
+<p> ΠΡΟΣΦΟΡΕΣ </p>
+<p> ΔΙΑΦΗΜΙΣΗ </p>
+<p> ΑΠΑΓΟΡΕΥΕΤΑΙ η αναδημοσίευση, η αναπαραγωγή, ολική, μερική ή περιληπτική ή κατά παράφραση ή διασκευή απόδοση του περιεχομένου του παρόντος web site με οποιονδήποτε τρόπο, ηλεκτρονικό, μηχανικό, φωτοτυπικό, ηχογράφησης ή άλλο, χωρίς προηγούμενη γραπτή άδεια του εκδότη. Νόμος 2121/1993 και κανόνες Διεθνούς Δικαίου που ισχύουν στην Ελλάδα.  Copyright © 2011 ΕΚΔΟΣΕΙΣ ΕΘΝΟΣ Α.Ε. </p>
+<p> var pvar = { cid: "gr-pegasus", content: "0", server: "secure-uk" };  var feat = { surveys_enabled: 1, sample_rate: 0.05 };  var trac = nol_t(pvar, feat);  var _rsND = trac.getSchemeHost(); // For compatibility with v53 surveys  var _rsCI = "gr-pegasus"; // For compatibility with v53 surveys  trac.record().post().do_sample(); </p>
+<p> Επικαιρότητα: </p>
+<p> Πολιτική </p>
+<p> , </p>
+<p> Κοινωνία, </p>
+<p> Οικονομία, </p>
+<p> Διεθνή, </p>
+<p> Πολιτισμός. </p>
+<p> Αρθρογραφία. </p>
+<p> Ένθετα, </p>
+<p> TV Εθνος, </p>
+<p> Χρήσιμα. </p>
+<p> Περισσότερα στο www.ethnos.gr </p>
+<p> Ειδησεογραφία: </p>
+<p> Οικονομία </p>
+<p> & </p>
+<p> Αγορές </p>
+<p> . </p>
+<p> Ελληνικές </p>
+<p> & </p>
+<p> Ξένες επιχειρήσεις </p>
+<p> . </p>
+<p> Μετοχές </p>
+<p> , </p>
+<p> Χρηματιστήριο </p>
+<p> , </p>
+<p> Απόψεις </p>
+<p> . </p>
+<p> Περισσότερα στο www.imerisia.gr </p>
+<p> Ποδόσφαιρο: </p>
+<p> Ελλάδα </p>
+<p> & </p>
+<p> Διεθνή </p>
+<p> . </p>
+<p> Μπάσκετ </p>
+<p> , </p>
+<p> Βόλεϊ </p>
+<p> και </p>
+<p> άλλα σπορ </p>
+<p> . </p>
+<p> DailyBet </p>
+<p> & </p>
+<p> Παρασκήνια </p>
+<p> . </p>
+<p> Περισσότερα στο www.sentragoal.gr </p>
+<p> Ειδήσεις </p>
+<p> για την </p>
+<p> Ελλάδα </p>
+<p> και τον </p>
+<p> κόσμο </p>
+<p> . </p>
+<p> Ενημέρωση & Ψυχαγωγία </p>
+<p> . </p>
+<p> Lifestyle </p>
+<p> , </p>
+<p> μόδα </p>
+<p> , </p>
+<p> ομορφιά </p>
+<p> , </p>
+<p> αστρολογία </p>
+<p> . </p>
+<p> Περισσότερα στο www.e-go.gr </p>

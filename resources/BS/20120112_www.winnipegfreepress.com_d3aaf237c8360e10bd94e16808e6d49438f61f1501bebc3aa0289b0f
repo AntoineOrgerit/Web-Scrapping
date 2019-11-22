@@ -1,0 +1,388 @@
+<p> Province supports program for families affected by Alzheimer's - Winnipeg Free Press </p>
+<p> .loggedin{display: none;}.loggedout{display: none;}.isSbscrbr{display: none;}.isNotSbscrbr{display: none;} </p>
+<p> var cid =  137106213 ; 			var did =  400584 ; </p>
+<p> var _sf_startpt=(new Date()).getTime() </p>
+<p> var publiczone = 'breakingnews'; 			var publickeyword = 'kw=breakingnews'; 			var publicchannel = 'ck=breakingnews'; 			var publicrandom = '7474617'; </p>
+<p> swfobject.registerObject("cp_flash_content", "9.0.0"); </p>
+<p> { 			'zone':"lKjknedEkQoIC_cFyxoRGb", 			'mode':"meter", 			'debug':0 		} </p>
+<p> var toggleDivs = function() { 				for (var i=0; i < arguments.length; i++) { 					var el = document.getElementById(arguments[i]); 					el.style.display = (el.style.display == 'none')? '' : 'none'; 				} 			}; </p>
+<p> stLight.options({publisher:'1a9e6b34-2573-4ce0-92a3-36b39a1a643c',onhover:false}); </p>
+<p> var js="0.0"; </p>
+<p> js="1.0"; </p>
+<p> js="1.1"; </p>
+<p> js="1.2"; </p>
+<p> js="1.3"; </p>
+<p> js="1.4"; </p>
+<p> js="1.5"; </p>
+<p> js="1.6"; </p>
+<p> js="1.7"; </p>
+<p> js="1.8"; </p>
+<p> js="1.9"; </p>
+<p> <!--  var bb=new Image();var _ti=910;var _q="";var na=(navigator.appName=="Netscape");var ns=(navigator.appName.substring(0,9)=="Microsoft");var _qDate=new Date();var _r=(document.referrer.indexOf(getdomain(location))>-1?"":document.referrer);_q+="&5="+parseInt(_qDate.getTimezoneOffset());_q+="&35="+parseInt(_qDate.toString().indexOf("aylight")>-1?1:0);_q+="&6=137106213";_q+="&7=400584";_q+="&8="+encodeURIComponent(document.location);_q+="&9="+encodeURIComponent(_r);_q+="&10="+encodeURIComponent(document.title);_q+="&11="+encodeURIComponent(navigator.userAgent);_q+="&12="+encodeURIComponent((na?navigator.language:navigator.userLanguage));_q+="&13="+((navigator.javaEnabled()?'1':'0'));_q+="&14="+encodeURIComponent(js);if(document.cookie.indexOf("cc")==-1)document.cookie="cc=t;";_q+="&15="+((document.cookie.indexOf("cc")==-1)?"0":"1");_q+="&16="+encodeURIComponent((screen.width+'x'+screen.height));_q+="&17="+encodeURIComponent(((ns)?screen.colorDepth:screen.pixelDepth));_q+="&18="+encodeURIComponent(Math.random());_q+="&19="+_ti;bb.src="http://s.clickability.com/s?"+_q; function setonclicks(a,b){var i=0;var retval=true;while(document.links[i]!=a){i++;}if(b.li[i])retval=b.li[i].oldonclick();bye(a);return retval;} function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.links.length;lnks.li=new Array(sze);for (var i=0; i<sze; i++){if(document.links[i].onclick){lnks.li[i]=document.links[i];lnks.li[i].oldonclick=document.links[i].onclick;}eval("document.links[i].onclick=function(){return setonclicks(this,lnks);}");}}function bye(a){if(a.href.toLowerCase().indexOf('http')!=0)return true;if(getdomain(location)==getdomain(a))return true;if(a.href.toLowerCase().indexOf('http')!=0)return true;var _qc="http://s.clickability.com/s?19=912";_qc+="&6=137106213";_qc+="&7=400584";_qc+="&18="+encodeURIComponent(Math.random());_qc+="&100="+a.href;_qc+="&101="+encodeURIComponent(a.text);var cc=new Image();if(na){cc.src=_qc;pc(100);}else cc.src=_qc;return true;}function pc(a){d = new Date(); while (1){m =new Date(); df = m-d;if( df > a ) {break;}}}function getdomain(a){var i=a.host.indexOf(":");return (i>=0)?a.host.substring(0,i):a.host;}if(self['setupalready']){var dosetup = false;alert('There are two $imware.tracker calls on this page. Please alert Client Services');}else{var dosetup = true;var hasonload=false;}if(dosetup && ((window.screen)||((new Array()).toSource)||((new Array()).shift&&ns))&&(navigator.userAgent.indexOf('Mac')<0)){if(window.onload){oldonld=window.onload;hasonload=true;}window.onload=newonld;var setupalready = true;}//--> </p>
+<p> Accessibility/Mobile Features </p>
+<p> Skip Navigation </p>
+<p> Skip to Content </p>
+<p> Mobile </p>
+<p> | </p>
+<p> Subscribe </p>
+<p> | </p>
+<p> E-Editions </p>
+<p> | </p>
+<p> Photo Store </p>
+<p> | </p>
+<p> Flyertown </p>
+<p> | </p>
+<p> Publications </p>
+<p> | </p>
+<p> Advertising </p>
+<p> | </p>
+<p> Contests </p>
+<p> | </p>
+<p> Store </p>
+<p> | </p>
+<p> Retail Locations </p>
+<p> | </p>
+<p> News CafÃ© </p>
+<p> | </p>
+<p> Submit a News Tip </p>
+<p> function setSurroundCookie(value) { 	document.cookie = "surroundId=" + escape(value) + "; path=/"; }  function getSurroundCookie() { 	var dc = document.cookie; 	var prefix = "surroundId="; 	var begin = dc.indexOf("; " + prefix); 	if (begin == -1) { 		begin = dc.indexOf(prefix); 		if (begin != 0) return null; 		} else begin += 2; 	var end = document.cookie.indexOf(";", begin); 	if (end == -1) end = dc.length; 	return unescape(dc.substring(begin + prefix.length, end)); }  // Setup for surround session. var adid=""; // used in the ad to start a surround session var surroundTag=getSurroundCookie(); // Get surround session id from the cookie if(surroundTag == null){ // check if there was a surround session id in the cookie 	surroundTag=""; 	}else{ 	surroundTag=";srnd="+surroundTag; // finish setting up the key-value for the ad tags 	} var ord = Math.floor(Math.random()*100000000001); </p>
+<p> leaderboardTag("breakingnews", "kw=breakingnews", "ck=breakingnews"); </p>
+<p> if(adid != ""){ // check if the ad should start a surround session only if a surround session has not yet started  surroundTag=";srnd="+adid; // setup the key-value for a surround session setSurroundCookie(adid); // store the surround session id in a cookie. } </p>
+<p> earlugTag("breakingnews", "kw=breakingnews", "ck=breakingnews"); </p>
+<p> January 12, 2012 </p>
+<p> RECYCLING DAY  4 </p>
+<p> SCHOOL DAY  2 </p>
+<p> -19°c </p>
+<p> A few clouds </p>
+<p> Full Forecast </p>
+<p> Login </p>
+<p> | </p>
+<p> Register </p>
+<p> | </p>
+<p> Manage Subscription </p>
+<p> Logged in </p>
+<p> | </p>
+<p> Logout </p>
+<p> | </p>
+<p> Manage Subscription </p>
+<p> Advanced Search </p>
+<p> | </p>
+<p> Archives </p>
+<p> Editor’s Bulletin </p>
+<p> Sign up for: </p>
+<p> Breaking News Alerts </p>
+<p> | </p>
+<p> Editorial News </p>
+<p> News </p>
+<p> Local </p>
+<p> Canada </p>
+<p> World </p>
+<p> Special Coverage </p>
+<p> Forums </p>
+<p> Corrections </p>
+<p> Staff Biographies </p>
+<p> Submit a News Tip </p>
+<p> Arts & Life </p>
+<p> Arts & Entertainment </p>
+<p> Food & Drink </p>
+<p> Life & Style </p>
+<p> Diversions </p>
+<p> Puzzles </p>
+<p> Celebrities </p>
+<p> Forums </p>
+<p> Upcoming Events </p>
+<p> Arts & Life Club </p>
+<p> Business </p>
+<p> Breaking News </p>
+<p> Agriculture </p>
+<p> Business Books </p>
+<p> Personal Finance </p>
+<p> Sports </p>
+<p> Breaking News </p>
+<p> Winnipeg Jets </p>
+<p> Bomber Report </p>
+<p> Curling </p>
+<p> Football </p>
+<p> Golf </p>
+<p> Hockey </p>
+<p> Soccer </p>
+<p> Amateur Sports </p>
+<p> Travel </p>
+<p> It’s Manitoba Time Events </p>
+<p> Africa </p>
+<p> Asia </p>
+<p> Canada </p>
+<p> Caribbean </p>
+<p> Central America </p>
+<p> Cruises </p>
+<p> Europe </p>
+<p> Mexico </p>
+<p> South America </p>
+<p> United States </p>
+<p> Opinion </p>
+<p> Editorials </p>
+<p> Letters to the Editor </p>
+<p> The View from the West </p>
+<p> FYI </p>
+<p> Columnists </p>
+<p> Bloggers </p>
+<p> Send a letter to the Editor </p>
+<p> Media </p>
+<p> Live Chat </p>
+<p> P.O.V. </p>
+<p> Slideshows </p>
+<p> Videos </p>
+<p> Classified Sites </p>
+<p> Obituaries </p>
+<p> Careers </p>
+<p> Flyertown </p>
+<p> Classifieds </p>
+<p> Autos </p>
+<p> Homes </p>
+<p> Winnipeg Free Press </p>
+<p> > </p>
+<p> Latest News </p>
+<p> > </p>
+<p> Province supports program for families affected by Alzheimer's </p>
+<p> var trkcid=137106213;var partnerID=400584; var _hb=1; </p>
+<p> Latest News </p>
+<p> Winnipeg Free Press - ONLINE EDITION </p>
+<p> Province supports program for families affected by Alzheimer's </p>
+<p> By: </p>
+<p> Staff Writer </p>
+<p> Posted: </p>
+<p> 01/11/2012 12:16 PM </p>
+<p> | </p>
+<p> Comments: </p>
+<p> 0 </p>
+<p> (including replies) </p>
+<p> getCommentCount(137106213) </p>
+<p> Print </p>
+<p> Eâmail </p>
+<p> Report Error </p>
+<p> The province will give $555,000 to the Alzheimer Society of Manitoba (ASM) over the next three years to support the new First Link program that helps families affected by Alzheimer's disease, Premier Greg Selinger said today. </p>
+<p> First Link brings services and supports to people affected by Alzheimer's disease or related dementia as soon as possible after diagnosis. Supports include information, support groups, education sessions and referral to other health agencies or resources. While physicians and health-care providers can make referrals to First Link, individuals and their families can also contact ASM directly. </p>
+<p> More than 19,000 Manitobans have Alzheimer's disease or other forms of dementia. In 2011 alone, more than 4,300 Manitobans over 65 developed Alzheimer's disease or another form of dementia. </p>
+<p> To access First Link, contact ASM directly at 204-943-6622, toll-free at 1-800-378-6699 or online at </p>
+<p> www.alzheimer.mb.ca/ </p>
+<p> . </p>
+<p> Print </p>
+<p> Eâmail </p>
+<p> Report Error </p>
+<p> You can comment on most stories on </p>
+<p> winnipegfreepress.com </p>
+<p> . You can also agree or disagree with other comments.  				All you need to do is </p>
+<p> register </p>
+<p> and/or </p>
+<p> login </p>
+<p> and you can join the conversation and give your feedback. </p>
+<p> The Winnipeg Free Press does not necessarily endorse any of the views posted. By submitting your comment, you agree to our </p>
+<p> Terms and Conditions </p>
+<p> . These terms were revised effective April 16, 2010; </p>
+<p> View the changes </p>
+<p> . New to commenting? Check out our </p>
+<p> Frequently Asked Questions </p>
+<p> . </p>
+<p> Follow </p>
+<p> WFP Hockey </p>
+<p> Download our new hockey app for the iPhone for Winnipeg Jets updates </p>
+<p> Editor's Bulletin </p>
+<p> Sign up for daily bulletins from editor Margo Goodhand </p>
+<p> Winnipeg Jets </p>
+<p> All things NHL on our Jets landing page </p>
+<p> Twitter </p>
+<p> Follow our reporters and our news feeds on Twitter </p>
+<p> News Cafe </p>
+<p> Check out the menu, read our blog posts or get info on coming events </p>
+<p> Facebook Fanpage </p>
+<p> Follow our Facebook Fanpage for story links, contests and special events </p>
+<p> Ads by Google </p>
+<p> <!-- google_ad_client = "pub-7301453661632918"; /* 468x60, created 9/10/09 */ google_ad_slot = "2755223684"; google_ad_width = 648; google_ad_height = 60; //--> </p>
+<p> Back to Top </p>
+<p> Return to </p>
+<p> Latest News </p>
+<p> Make text: </p>
+<p> Larger </p>
+<p> | </p>
+<p> Smaller </p>
+<p> bigboxTag("breakingnews", "kw=breakingnews", "ck=breakingnews"); </p>
+<p> Top Jobs </p>
+<p> PREVIOUS </p>
+<p> NEXT </p>
+<p> All Jobs </p>
+<p> Our Communities </p>
+<p> Poll </p>
+<p> Do you smoke marijuana? </p>
+<p> Regularly and often. </p>
+<p> Occasionally. </p>
+<p> I have in the past, but not anymore. </p>
+<p> Not yet, but I might give it a try sometime. </p>
+<p> Never. </p>
+<p> View Results </p>
+<p> View Related Story </p>
+<p> Most Popular </p>
+<p> Most Views </p>
+<p> Most Comments </p>
+<p> Most Emails </p>
+<p> Today </p>
+<p> | </p>
+<p> Week </p>
+<p> | </p>
+<p> Month </p>
+<p> Misericordia demolition resumes after wrecking ball reattached </p>
+<p> Search for truck that fell through ice has positive ending </p>
+<p> City has no agreement with First Nation despite $8-M charges: Katz </p>
+<p> Divorced man suing over wedding photos says case is about broken promise </p>
+<p> Winnipeg man killed in B.C. collision involving 6 semis </p>
+<p> George Clooney keeps girlfriend Stacy 'locked up' </p>
+<p> Kane comes under fire </p>
+<p> Rapid transit line being tested, public advised to stay off route </p>
+<p> Murdoch MacKay students suspended over racist images </p>
+<p> One man's crusade against photo radar </p>
+<p> Driver killed in head-on crash with ambulance </p>
+<p> Shot in the eye, woman insists on finishing beer </p>
+<p> Group's speed-limit sign removed from Pembina Highway </p>
+<p> This million-dollar gift 50 years in the making </p>
+<p> Local shooting spoofed on SNL </p>
+<p> Missing man found dead </p>
+<p> Winnipeg man admits to gruesome murder of family friend </p>
+<p> Misericordia demolition resumes after wrecking ball reattached </p>
+<p> Big funeral planned for 'sweetheart' killed in crash </p>
+<p> Third person dies after  head-on highway collision </p>
+<p> Parents get belly tattoos to support son on insulin pump for Type 1 diabetes </p>
+<p> Driver killed in head-on crash with ambulance </p>
+<p> Fire that destroyed Linden Woods home deemed accidental </p>
+<p> Shot in the eye, woman insists on finishing beer </p>
+<p> Group's speed-limit sign removed from Pembina Highway </p>
+<p> Drivers urged to not pay photo radar tickets </p>
+<p> Former 'Hockey Night in Canada' executive Doug Sellars dies at age 50 </p>
+<p> Body found at U of M </p>
+<p> Bomb squad responds to two-car crash </p>
+<p> Ride gone wrong: When taking a taxi turns ugly </p>
+<p> Today </p>
+<p> | </p>
+<p> Week </p>
+<p> | </p>
+<p> Month </p>
+<p> Today </p>
+<p> | </p>
+<p> Week </p>
+<p> | </p>
+<p> Month </p>
+<p> Misericordia demolition resumes after wrecking ball reattached </p>
+<p> Search for truck that fell through ice has positive ending </p>
+<p> 12 accessible superfoods for 2012 </p>
+<p> City has no agreement with First Nation despite $8-M charges: Katz </p>
+<p> Font of calm or disease? Water wall in hospital sets off legionnaires' outbreak </p>
+<p> Residents want violence to stop </p>
+<p> Marijuana users can breathe easier: Lung function not harmed in 20-year study </p>
+<p> Jamming in L.A. with Sly's little bro </p>
+<p> Homes market on a high </p>
+<p> Trans-Siberian to recreate Beethovenâs Last Night </p>
+<p> Shot in the eye, woman insists on finishing beer </p>
+<p> Local shooting spoofed on SNL </p>
+<p> 4 dead in northern Ontario plane crash </p>
+<p> Stem cells in eyes offer hope for reversing leading cause of blindness in seniors </p>
+<p> Thomson named new Hydro boss </p>
+<p> Group's speed-limit sign removed from Pembina Highway </p>
+<p> City's first urban reserve open </p>
+<p> Misericordia demolition resumes after wrecking ball reattached </p>
+<p> Arab Spring deals Iran losing cards </p>
+<p> Dishin' up some delights </p>
+<p> Drivers urged to not pay photo radar tickets </p>
+<p> Shot in the eye, woman insists on finishing beer </p>
+<p> Fire that destroyed Linden Woods home deemed accidental </p>
+<p> Disney on Ice tickets available for $1 each </p>
+<p> Local shooting spoofed on SNL </p>
+<p> Ode to the male shopper </p>
+<p> Use them or lose them: Air Miles sets expiry date on unused reward miles </p>
+<p> Sweetie turns sour </p>
+<p> Parents get belly tattoos to support son on insulin pump for Type 1 diabetes </p>
+<p> Winnipeg Drummer Boy hits 1-M views </p>
+<p> Top Comment </p>
+<p> Most Popular Commenters </p>
+<p> “ </p>
+<p> Watching this slow progress makes me so MAD! AAHHHH HULK SMASH!!! </p>
+<p> ” </p>
+<p> Posted by: </p>
+<p> erik_thordarson </p>
+<p> Article: </p>
+<p> Misericordia demolition stops after wrecking ball comes loose </p>
+<p> ol#toppop_comments>li img { height: 30px; float: left; padding: 4px 5px 4px 0; width: 30px; } 					    #most_popular .pop_item_middle span.lb12px { clear: left; } </p>
+<p> Events </p>
+<p> January 12, 2012 </p>
+<p> Submit an Event </p>
+<p> News CafÃ© Event Booking </p>
+<p> Search Events </p>
+<p> Previous </p>
+<p> 1 of 30 </p>
+<p> Next </p>
+<p> NHL Hockey Winnipeg Jets vs San Jose Sharks </p>
+<p> Ticketmaster 204-780-3333 ... </p>
+<p> [ </p>
+<p> View Full Event information </p>
+<p> ] </p>
+<p> Thu </p>
+<p> 12 </p>
+<p> Fri </p>
+<p> 13 </p>
+<p> Sat </p>
+<p> 14 </p>
+<p> Sun </p>
+<p> 15 </p>
+<p> Mon </p>
+<p> 16 </p>
+<p> Tue </p>
+<p> 17 </p>
+<p> Wed </p>
+<p> 18 </p>
+<p> proudly sponsored by: </p>
+<p> skyscraperTag("breakingnews", "kw=breakingnews", "ck=breakingnews"); </p>
+<p> General: </p>
+<p> Contact Us </p>
+<p> | </p>
+<p> History </p>
+<p> | </p>
+<p> Internships </p>
+<p> | </p>
+<p> Advertising </p>
+<p> | </p>
+<p> Privacy Policy </p>
+<p> | </p>
+<p> Reader Rewards </p>
+<p> | </p>
+<p> Sponsorship </p>
+<p> | </p>
+<p> Subscribe </p>
+<p> | </p>
+<p> Customer Service </p>
+<p> On-line: </p>
+<p> RSS Feeds </p>
+<p> | </p>
+<p> E-Editions </p>
+<p> | </p>
+<p> Archives </p>
+<p> | </p>
+<p> Photo Store </p>
+<p> Related: </p>
+<p> Newspaper in Education </p>
+<p> | </p>
+<p> Autos </p>
+<p> | </p>
+<p> Homes </p>
+<p> | </p>
+<p> Swarm Jam </p>
+<p> | </p>
+<p> Classifieds </p>
+<p> | </p>
+<p> Celebrations </p>
+<p> | </p>
+<p> Careers </p>
+<p> | </p>
+<p> Obituaries </p>
+<p> | </p>
+<p> FP Newspapers Inc. </p>
+<p> © 2012 Winnipeg Free Press. All Rights Reserved. </p>
+<p> submitPluckBatch(); </p>
+<p> var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); </p>
+<p> try { var pageTracker = _gat._getTracker("UA-350959-30"); pageTracker._trackPageview(); } catch(err) {} </p>

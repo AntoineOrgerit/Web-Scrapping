@@ -1,0 +1,370 @@
+<p> Светлана Медведева поблагодарила сотрудников Перинатального кардиологического центра - Первый канал </p>
+<p> _userv=0; urchinTracker(); </p>
+<p> $(document).ready(function() {         $('.clearField').clearField();         $.smoothAnchors('fast', 'linear', false); }); </p>
+<p> $(document).ready(function() {         	         	$('#link_copy-blog').bind('click', function(e){         		$("div.insert_blogs_full").show().toggleClass("none");         		e.preventDefault();         		var clip = new ZeroClipboard.Client();         		var copy = $('#copytextarea').text();         		clip.setText(copy);         		clip.glue('inp_copy');         		clip.addEventListener( 'complete', function(client, text) {         		  alert("Текст скопирован в ваш буфер обмена!");         		});         	});         	$('#close_copy-blog').bind('click', function(e){         		$("div.insert_blogs_full").hide().toggleClass("none");         		e.preventDefault();         	});           	document.onkeydown = catchKey; 	function catchKey (event) { 		if (window.event) event = window.event; 		if (event.ctrlKey) { 			switch (event.keyCode ? event.keyCode : event.which ? event.which : null) { 				case 45: 				   if ($("insert_blogs_aded02")) { 					var txt = ""; 					if (document.getSelection) { 						txt = document.getSelection(); 					} else if (document.selection && document.selection.createRange) { 						txt = document.selection.createRange().text; 					} 							if (txt) { 							   var txt1 = $("#copytextarea").val(); 							   if (!document.getElementById("insert_blogs_add")) { 								$(".insert_blogs_full-head").after('<div id="insert_blogs_add" style="display: none; visibility: hidden;"></div>'); 							   } 							   $("#insert_blogs_add").html(txt1); 							   $("#insert_blogs_aded01").text(txt); 							   $("#copytextarea").val($("#insert_blogs_add").html()); 							   $("#insert_blogs_aded02").text(txt); 						} 				   } 				   break; 			} 		} 	} 	 }); </p>
+<p> $(function(){ 	$('#link_sb_mail').bind('click', function(e){ 		$("#sb_mail").show().toggleClass("none"); 		e.preventDefault(); 	}); 	$('#close_sb_mail').bind('click', function(e){ 		$("#sb_mail").hide().toggleClass("none"); 		e.preventDefault(); 	}); 	$('#link_form-send').bind('click', function(e){ 		$("div.all_form-send").show().toggleClass("none"); 		e.preventDefault(); 	}); 	$('#close_form-send').bind('click', function(e){ 		$("div.all_form-send").hide().toggleClass("none"); 		e.preventDefault(); 	}); 	$('#link_sb_01').bind('click', function(e){ 		$("#sb_01").show().toggleClass("none"); 		e.preventDefault(); 	}); 	$('#close_sb_01').bind('click', function(e){ 		$("#sb_01").hide().toggleClass("none"); 		e.preventDefault(); 	}); 	$('#link_sb_top').bind('click', function(e){ 		$("#sb_top").show().toggleClass("none"); 		e.preventDefault(); 	}); 	$('#close_sb_top').bind('click', function(e){ 		$("#sb_top").hide().toggleClass("none"); 		e.preventDefault(); 	}); 	$('#o_form-video-frm1').bind('click', function(e){ 		$("#frm1").show().removeClass("none"); 		$("#frm2").hide().addClass("none"); 		$('#o_form-video-frm1').addClass("select"); 		$('#o_form-video-frm2').removeClass("select"); 		e.preventDefault(); 	}); 	$('#o_form-video-frm2').bind('click', function(e){ 		$("#frm2").show().removeClass("none"); 		$("#frm1").hide().addClass("none"); 		$('#o_form-video-frm2').addClass("select"); 		$('#o_form-video-frm1').removeClass("select"); 		e.preventDefault(); 	}); }); </p>
+<p> $(function() {     $("#lava").lavaLamp({       fx: "easeOutExpo",       speed: 700,       click: function(event, menuItem) {         return true;       }     });     $("#topnav").lavaLamp({       fx: "easeOutExpo",       speed: 0,       click: function(event, menuItem) {         return true;       }     });   }); </p>
+<p> $(document).ready(function() {                 function megaHoverOver(){                         $(this).find(".sub-frame").slideDown(250);                 }                  function megaHoverOut(){                         $(this).find(".sub-frame").slideUp(0);                 }                  var config = {                          sensitivity: 1, // number = sensitivity threshold (must be 1 or higher)                          interval: 0, // number = milliseconds for onMouseOver polling interval                          over: megaHoverOver, // function = onMouseOver callback (REQUIRED)                          timeout: 0, // number = milliseconds delay before onMouseOut                          out: megaHoverOut // function = onMouseOut callback (REQUIRED)                 };                  $("ul#topnav li.mm_link").hoverIntent(config);         }); </p>
+<p> $(document).ready(function() {          	$('#tabed1').bind('click', function(e){          		$(".tab1").show().removeClass("none");          		$(".tab2").hide().addClass("none");          		$(".tab3").hide().addClass("none");          		$(".tab4").hide().addClass("none");          		$('#tabed1').addClass("selected");          		$('#tabed2').removeClass("selected");          		$('#tabed3').removeClass("selected");          		$('#tabed4').removeClass("selected");          		e.preventDefault();          	});          	$('#tabed2').bind('click', function(e){          		$(".tab1").hide().addClass("none");          		$(".tab2").show().removeClass("none");          		$(".tab3").hide().addClass("none");          		$(".tab4").hide().addClass("none");          		$('#tabed2').addClass("selected");          		$('#tabed1').removeClass("selected");          		$('#tabed3').removeClass("selected");          		$('#tabed4').removeClass("selected");          		e.preventDefault();          	});          	$('#tabed3').bind('click', function(e){          		$(".tab1").hide().addClass("none");          		$(".tab2").hide().addClass("none");          		$(".tab3").show().removeClass("none");          		$(".tab4").hide().addClass("none");          		$('#tabed3').addClass("selected");          		$('#tabed1').removeClass("selected");          		$('#tabed2').removeClass("selected");          		$('#tabed4').removeClass("selected");          		e.preventDefault();          	});          	$('#tabed4').bind('click', function(e){          		$(".tab1").hide().addClass("none");          		$(".tab2").hide().addClass("none");          		$(".tab3").hide().addClass("none");          		$(".tab4").show().removeClass("none");          		$('#tabed4').addClass("selected");          		$('#tabed3').removeClass("selected");          		$('#tabed1').removeClass("selected");          		$('#tabed2').removeClass("selected");          		e.preventDefault();          	});          }); </p>
+<p> {lang: 'ru'} </p>
+<p> $(function(){              	 setPageUrls();	                  function setPageUrls() {                    $("#list_abc_search div.all_pagination a").click(function() {                      $.get($(this).attr("href"), function(data){                        $("#list_abc_search").empty().prepend(data);              //          window.scroll(0,190);                        setPageUrls();                      });                      return false;                    });                  }                   }                   ); </p>
+<p> $(document).ready(function() {                 $("#vote_shed").ajaxForm( {beforeSubmit:vote_shedValidate, target:  "#vote_rez", success: hide_vote} );});                 function getRadioGroupValue(radioGroupObj)                 {                   for (var i=0; i < radioGroupObj.length; i++)                     if (radioGroupObj[i].checked) return radioGroupObj[i].value;                                    return null;                 }                 function vote_shedValidate(formData, jqForm, options) {                   var form = jqForm[0];                   if (!getRadioGroupValue(form.radio01)) {                     alert("Выберите ответ.");                     return false;                   }                   return true;                 }                 function hide_vote(){                   $("#vote_div").hide();                   $("#vote_rez").show();                 } </p>
+<p> $(document).ready(function() {              	$('.clearField').clearField();              }); </p>
+<p> $(document).ready(function(){     $('#news_archive_search').datepick({onSelect: pickedDate_news_archive_search, changeMonth: false, changeYear: false, navigationAsDateFormat: false, prevText: '<', nextText: '>', hideIfNoPrevNext: false, dateFormat: 'dd.mm.yy', maxDate: '28.11.2011', yearRange: '1998:2011', currentText: " "       });   });  function pickedDate_news_archive_search(value, date, inst) {    document.location='http://www.1tv.ru/newsarchive/'+value; } </p>
+<p> $(document).ready(function() { 	    $("#mnews").announce({open : 1});         }); </p>
+<p> var img = new Image(); img.src = 'http://www.tns-counter.ru/V13a***R>' + document.referrer.replace(/\*/g,'%2a') + '*1tv_ru/ru/CP1251/tmsec=1tv_news/'; </p>
+<p> $(document).ready(function() {          if ((navigator.userAgent.indexOf('iPhone') != -1) || (navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {              $('#m_banner13').css('display','none');              $('#m_banner13_ipad').css('display','block');          }          else 		 {              $('#m_banner13_ipad').css('display','none');              $('#m_banner13').css('display','block'); 		  		 }		  		       }); </p>
+<p> new adriver("rashlop", {sid:171392, bt:52, sz:"0002", bn:4}); </p>
+<p> // <!--  document.write('\<'+'iframe src="http://www.1tv.ru/rotobanner/g6447/w728/h90/ipt1" width="728" height="90" marginwidth="0" marginheight="0" scrolling="no" frameborder="0"'+'\>'+'\<'+'/'+'iframe\>');  // --> </p>
+<p> Понедельник, 28 ноября 2011 </p>
+<p> Москва </p>
+<p> Выбрать регион </p>
+<p> function FormRegionClick () {             var str = $("#eRegion").serialize();             $.post("/main/change_region", str, function(data) {                         $("#eRegionResult").html(data);                         $("#eRegionResult").show(); 					    $("#sb_top").hide();                       });                     } </p>
+<p> Выберите регион </p>
+<p> Алтайский край </p>
+<p> Амурская область </p>
+<p> Архангельская область </p>
+<p> Астраханская область </p>
+<p> Белгородская область </p>
+<p> Брянская область </p>
+<p> Владимирская область </p>
+<p> Волгоградская область </p>
+<p> Вологодская область </p>
+<p> Воронежская область </p>
+<p> Еврейская АО </p>
+<p> Забайкальский край </p>
+<p> Ивановская область </p>
+<p> Иркутская область </p>
+<p> Кабардино-Балкарская Республика </p>
+<p> Калининградская область </p>
+<p> Калужская область </p>
+<p> Камчатский край </p>
+<p> Карачаево-Черкесская Республика </p>
+<p> Кемеровская область </p>
+<p> Кировская область </p>
+<p> Костромская область </p>
+<p> Краснодарский край </p>
+<p> Красноярский край </p>
+<p> Курганская область </p>
+<p> Курская область </p>
+<p> Ленинградская область </p>
+<p> Липецкая область </p>
+<p> Магаданская область </p>
+<p> Москва </p>
+<p> Московская область </p>
+<p> Мурманская область </p>
+<p> Ненецкий АО </p>
+<p> Нижегородская область </p>
+<p> Новгородская область </p>
+<p> Новосибирская область </p>
+<p> Омская область </p>
+<p> Оренбургская область </p>
+<p> Орловская область </p>
+<p> Пензенская область </p>
+<p> Пермский край </p>
+<p> Приморский край </p>
+<p> Псковская область </p>
+<p> Республика Адыгея </p>
+<p> Республика Алтай </p>
+<p> Республика Башкортостан </p>
+<p> Республика Бурятия </p>
+<p> Республика Дагестан </p>
+<p> Республика Ингушетия </p>
+<p> Республика Калмыкия </p>
+<p> Республика Карелия </p>
+<p> Республика Коми </p>
+<p> Республика Марий Эл </p>
+<p> Республика Мордовия </p>
+<p> Республика Саха (Якутия) </p>
+<p> Республика Северная Осетия-Алания </p>
+<p> Республика Татарстан </p>
+<p> Республика Тыва </p>
+<p> Республика Хакасия </p>
+<p> Ростовская область </p>
+<p> Рязанская область </p>
+<p> Самарская область </p>
+<p> Санкт-Петербург </p>
+<p> Саратовская область </p>
+<p> Сахалинская область </p>
+<p> Свердловская область </p>
+<p> Смоленская область </p>
+<p> Ставропольский край </p>
+<p> Тамбовская область </p>
+<p> Тверская область </p>
+<p> Томская область </p>
+<p> Тульская область </p>
+<p> Тюменская область </p>
+<p> Удмуртская Республика </p>
+<p> Ульяновская область </p>
+<p> Хабаровский край </p>
+<p> Ханты-Мансийский АО </p>
+<p> Челябинская область </p>
+<p> Чеченская Республика </p>
+<p> Чувашская Республика </p>
+<p> Чукотский АО </p>
+<p> Ямало-Ненецкий АО </p>
+<p> Ярославская область </p>
+<p> Вещание за рубежом </p>
+<p> Новости </p>
+<p> Видеоновости </p>
+<p> Политика </p>
+<p> Выборы </p>
+<p> Экономика </p>
+<p> Общество </p>
+<p> В мире </p>
+<p> Криминал </p>
+<p> Технологии </p>
+<p> Здоровье </p>
+<p> Культура </p>
+<p> Спорт </p>
+<p> Другие новости </p>
+<p> Про 1tv </p>
+<p> Однако </p>
+<p> За и против </p>
+<p> | </p>
+<p> Премьеры </p>
+<p> Все премьеры </p>
+<p> Развлекательные </p>
+<p> Ток-шоу </p>
+<p> Познавательные </p>
+<p> Интервью </p>
+<p> Игровые </p>
+<p> Трансляции </p>
+<p> Фильмы </p>
+<p> Сериалы </p>
+<p> Документальное кино </p>
+<p> | </p>
+<p> Телепроекты </p>
+<p> Сайты телепроектов </p>
+<p> Передачи </p>
+<p> Кино </p>
+<p> Документальное кино </p>
+<p> | </p>
+<p> Лица </p>
+<p> Ведущие </p>
+<p> Корреспонденты </p>
+<p> Режиссеры </p>
+<p> Подготовка эфира </p>
+<p> Руководство </p>
+<p> Мемориал </p>
+<p> | </p>
+<p> $(document).ready(function() {          if ((navigator.userAgent.indexOf('iPhone') != -1) || (navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {              $('#link1').css('display','none');              $('#link1_ipad').css('display','block');              $('#link2').css('display','none');              $('#link2_ipad').css('display','block');          }          else 		 {              $('#link1_ipad').css('display','none');              $('#link1').css('display','block'); 		               $('#link2_ipad').css('display','none');              $('#link2').css('display','block'); 		 }		  		       }); </p>
+<p> Онлайн </p>
+<p> Онлайн </p>
+<p> Потоковое вещание </p>
+<p> Потоковое вещание </p>
+<p> Тематические интернет-каналы </p>
+<p> Видеоархив </p>
+<p> | </p>
+<p> Интерактив </p>
+<p> Онлайн-конференции </p>
+<p> Форум </p>
+<p> Обратная связь </p>
+<p> Участвуй! </p>
+<p> Ваше видео </p>
+<p> | </p>
+<p> Телепрограмма </p>
+<p> 1 канал </p>
+<p> За рубежом </p>
+<p> Потоковое вещание </p>
+<p> Новости </p>
+<p> Москва </p>
+<p> Видеоновости </p>
+<p> Политика </p>
+<p> Выборы </p>
+<p> Экономика </p>
+<p> Общество </p>
+<p> В мире </p>
+<p> Криминал </p>
+<p> Технологии </p>
+<p> Здоровье </p>
+<p> Культура </p>
+<p> Спорт </p>
+<p> Другие новости </p>
+<p> Про 1tv </p>
+<p> Однако </p>
+<p> За и против </p>
+<p> 28  ноября 2011, Понедельник, </p>
+<p> 18:12 </p>
+<p> Здоровье </p>
+<p> медицина[530] </p>
+<p> , </p>
+<p> врачи[299] </p>
+<p> , </p>
+<p> медведева[17] </p>
+<p> Светлана Медведева поблагодарила сотрудников Перинатального кардиологического центра </p>
+<p> Версия для печати </p>
+<p> Код для вставки в блог </p>
+<p> Код для вставки в блог </p>
+<p> | </p>
+<p> Посмотреть результат </p>
+<p> Выделите любой фрагмент прямо в тексте статьи и нажмите Ctrl+Insert </p>
+<p> или скопируйте готовый код: </p>
+<p> Раздел: Новости </p>
+<p> Светлана Медведева поблагодарила сотрудников Перинатального кардиологического центра </p>
+<p> 28.11.2011 </p>
+<p> В Москве врачи Научного центра сердечно-сосудистой хирургии имени Бакулева освоили методики, которые позволяют оказать помощь беременным женщинам,... </p>
+<p> Подробнее » </p>
+<p> Мы весьма признательны всем, кто использует наши тексты в блогах и форумах. </p>
+<p> Пожалуйста, уважайте труд журналистов: не перепечатывайте в блогах статьи целиком (они всегда доступны по этому адресу), не забывайте ставить ссылки на полный текст на нашем сайте. </p>
+<p> Раздел: Новости </p>
+<p> Светлана Медведева поблагодарила сотрудников Перинатального кардиологического центра </p>
+<p> 28.11.2011 </p>
+<p> В Москве врачи Научного центра сердечно-сосудистой хирургии имени Бакулева освоили методики, которые позволяют оказать помощь беременным женщинам,... </p>
+<p> Подробнее » </p>
+<p> $(document).ready(function() {             	$('#bc_copy').bind('click', function(e){             		$(".cb_tab1").show().removeClass("none");             		$(".cb_tab2").hide().addClass("none"); 					$('#bc_result').removeClass("selected"); 					$('#bc_copy').addClass("selected");             		e.preventDefault();             	}); 				$('#bc_result').bind('click', function(e){             		$(".cb_tab2").show().removeClass("none");             		$(".cb_tab1").hide().addClass("none"); 					$('#bc_copy').removeClass("selected"); 					$('#bc_result').addClass("selected");             		e.preventDefault();             	}); 			}); </p>
+<p> jwplayer('flashvideoportal_1').setup({                         'id': 'playerID',                         'width': '460',                         'height': '353',                         'logo.hide': 'true',                          'playlist':  [ { 'image': 'http://img1.1tv.ru/imgsize480x360/PR20111128182103.JPG',  'file': 'http://www-download.1tv.ru/Video/2011_11/export_2011-11-28T18-15-32.mp4',  'title': 'Светлана Медведева поблагодарила сотрудников Перинатального кардиологического центра' } ]  						,                         'players': [                             {type: 'flash', src: 'http://img2.1tv.ru/images/one/video_player.swf?file=http://www.1tv.ru/swfxml/news/192172'},                              {type: 'html5'},                              {type: 'download'}                          ]                     }); </p>
+<p> В Москве врачи Научного центра сердечно-сосудистой хирургии имени Бакулева освоили методики, которые позволяют оказать помощь беременным женщинам, у чьих детей ещё до рождения были выявлены серьёзные кардиопатологии. Специализированный Перенатальный центр, куда приезжают будущие мамы со всей страны, посетила Светлана Медведева. </p>
+<p> О его работе супруге Президента рассказал глава Бакулевского центра Лео Бакерия. Он показал гостье отделение диагностики, где порок сердца у ребёнка можно выявить на самом раннем сроке беременности. В среднем специалисты Перинатального центра, признанного одним из крупнейших в мире, проводят до 12 тысяч сложнейших операций в год. В разговоре с Лео Бакерия Светлана Медведева отметила, что необходимо сделать всё, чтобы будущие мамы получали всестороннюю помощь и поддержку. </p>
+<p> Светлана Медведева поблагодарила всех матерей "за их любовь, за их труд, за их жертвенность во благо наших детей". Она пожелала им здоровья, любви, счастья и чтобы "глаза мам светились, когда с ними рядом их дети". Также Светлана Медведева поблагодарила сотрудников научного центра и Лео Антоновича Бакерию "за колоссальный труд". </p>
+<p> < Предыдущая новость </p>
+<p> Следующая новость > </p>
+<p> $(document).ready(function() {         $('.bookmarks').bookmark({icons: 'http://img2.1tv.ru/images/one/bookmarks.gif', sites: ['facebook', 'twitter', 'vkontakte', 'livejournal', 'mailru', 'odnoklassniki']}); }); </p>
+<p> $(document).ready(function() {          $('#link_copy-blog').bind('click', function(e){                 $("div.insert_blogs_full").show().toggleClass("none");                 e.preventDefault();                 var clip = new ZeroClipboard.Client();                 var copy = $('#copytextarea').text();                 clip.setText(copy);                 clip.glue('inp_copy');                 clip.addEventListener( 'complete', function(client, text) {                   alert("Текст скопирован в ваш буфер обмена!");                 });         });         $('#close_copy-blog').bind('click', function(e){                 $("div.insert_blogs_full").hide().toggleClass("none");                 e.preventDefault();         });          document.onkeydown = catchKey;         function catchKey (event) {                 if (window.event) event = window.event;                 if (event.ctrlKey) {                         switch (event.keyCode ? event.keyCode : event.which ? event.which : null) {                                 case 45:                                    if ($("insert_blogs_aded02")) {                                         var txt = "";                                         if (document.getSelection) {                                                 txt = document.getSelection();                                         } else if (document.selection && document.selection.createRange) {                                                 txt = document.selection.createRange().text;                                         }                                                         if (txt) {                                                            var txt1 = $("#copytextarea").val();                                                            if (!document.getElementById("insert_blogs_add")) {                                                                 $(".insert_blogs_full-head").after('<div id="insert_blogs_add" style="display: none; visibility: hidden;"></div>');                                                            }                                                            $("#insert_blogs_add").html(txt1);                                                            $("#insert_blogs_aded01").text(txt);                                                            $("#copytextarea").val($("#insert_blogs_add").html());                                                            $("#insert_blogs_aded02").text(txt);                                                 }                                    }                                    break;                         }                 }         }  }); </p>
+<p> Поделиться: </p>
+<p> VK.init({apiId: 2289971, onlyWidgets: true}); </p>
+<p> VK.Widgets.Like("vk_like", {type: "mini"}); </p>
+<p> Фото </p>
+<p> Светлана Медведева </p>
+<p> $(document).ready(function() {          if ((navigator.userAgent.indexOf('iPhone') != -1) || (navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {              $('#m_banner9').css('display','none');              $('#m_banner9_ipad').css('display','block');          }          else                  {              $('#m_banner9_ipad').css('display','none');              $('#m_banner9').css('display','block');                   }       }); </p>
+<p> Ссылки по теме </p>
+<p> медицина [530] </p>
+<p> 28  ноября 2011 </p>
+<p> В Волгодонске благодаря программе модернизации здравоохранения заработал неонатальный центр </p>
+<p> 22  ноября 2011 </p>
+<p> Федеральный закон "Об основах охраны здоровья граждан" подписал Дмитрий Медведев </p>
+<p> врачи [299] </p>
+<p> 28  ноября 2011 </p>
+<p> В Ростовской области врачи неонатального центра осваивают новое оборудование </p>
+<p> 24  ноября 2011 </p>
+<p> Врачам доплатят за работу в провинции </p>
+<p> медведева [17] </p>
+<p> 06  сентября 2011 </p>
+<p> Светлана Медведева и королевская чета Дании открыли уникальную выставку датских мастеров в Москве </p>
+<p> 09  июля 2011 </p>
+<p> В Муроме Дмитрий и Светлана Медведевы поздравили участников праздника с Днем семьи, любви и верности </p>
+<p> Главные новости </p>
+<p> 18:00 </p>
+<p> Дмитрий Медведев побывал с рабочей  поездкой в Екатеринбурге </p>
+<p> 18:01 </p>
+<p> В спасательной операции сухогруза "Свонлэнд" задействованы 11 бригад британских спасателей </p>
+<p> 15:01 </p>
+<p> У берегов Британии ищут российских моряков с затонувшего сухогруза "Свонлэнд" </p>
+<p> 18:02 </p>
+<p> В Донецке проходят новые столкновения митингующих с силами правопорядка </p>
+<p> $(document).ready(function() {          if ((navigator.userAgent.indexOf('iPhone') != -1) || (navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {              $('#m_banner10').css('display','none');              $('#m_banner10_ipad').css('display','block');          }          else                  {              $('#m_banner10_ipad').css('display','none');              $('#m_banner10').css('display','block');                   }       }); </p>
+<p> Ссылки по разделу Другие новости </p>
+<p> 28.11.2011 14:17 </p>
+<p> В Великобритании произошло уникальное событие во время обычной игры в карты </p>
+<p> великобритания </p>
+<p> , </p>
+<p> хобби </p>
+<p> 28.11.2011 14:15 </p>
+<p> Моторную лодку с трактором скрестили французские инженеры и дизайнеры </p>
+<p> франция </p>
+<p> , </p>
+<p> транспорт </p>
+<p> , </p>
+<p> изобретения </p>
+<p> 28.11.2011 14:11 </p>
+<p> "Народная экономика" выяснила, зачем едут в Латвию проблемные заемщики из соседних стран </p>
+<p> латвия </p>
+<p> , </p>
+<p> кредиты </p>
+<p> , </p>
+<p> народная экономика </p>
+<p> 28.11.2011 14:09 </p>
+<p> Степень защиты талонов техосмотра решено снизить </p>
+<p> техосмотр </p>
+<p> 28.11.2011 14:07 </p>
+<p> У всех православных начинается Рождественский пост </p>
+<p> религия </p>
+<p> , </p>
+<p> рождество </p>
+<p> 28.11.2011 14:05 </p>
+<p> Армейские командиры собственными деньгами будут отвечать за дедовщину </p>
+<p> законодательство </p>
+<p> , </p>
+<p> дедовщина </p>
+<p> $(document).ready(function() {          if ((navigator.userAgent.indexOf('iPhone') != -1) || (navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {              $('#m_banner4').css('display','none');              $('#m_banner4_ipad').css('display','block');          }          else                  {              $('#m_banner4_ipad').css('display','none');              $('#m_banner4').css('display','block');                   }       }); </p>
+<p> new adriver("240x400", {sid:171392, bt:52, sz:"0002",  bn:3}); </p>
+<p> // <!--  document.write('\<'+'iframe src="http://www.1tv.ru/rotobanner/g6447/w240/h400/ipt1" width="240" height="400" marginwidth="0" marginheight="0" scrolling="no" frameborder="0"'+'\>'+'\<'+'/'+'iframe\>');  // --> </p>
+<p> $(document).ready(function() {          if ((navigator.userAgent.indexOf('iPhone') != -1) || (navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {              $('#m_banner8').css('display','none');              $('#m_banner8_ipad').css('display','block');          }          else                  {              $('#m_banner8_ipad').css('display','none');              $('#m_banner8').css('display','block');                   }       }); </p>
+<p> // <!--  document.write('\<'+'iframe src="http://www.1tv.ru/rotobanner/g9125/w240/h136" width="240" height="136" marginwidth="0" marginheight="0" scrolling="no" frameborder="0"'+'\>'+'\<'+'/'+'iframe\>');  // --> </p>
+<p> // <!--  document.write('\<'+'iframe src="http://www.1tv.ru/rotobanner/g6831/w240/h136/ipt1" width="240" height="136" marginwidth="0" marginheight="0" scrolling="no" frameborder="0"'+'\>'+'\<'+'/'+'iframe\>');  // --> </p>
+<p> new TWTR.Widget({                   version: 2,                   type: 'list',                   rpp: 30,                   interval: 10000,                   title: '',                   subject: 'Первый канал &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Тwitter',                   width: 'auto',                   height: 300,                   theme: {                     shell: {                       background: '#3B5998',                       color: '#ffffff'                     },                     tweets: {                       background: '#ffffff',                       color: '#424242',                       links: '#0660c6'                     }                   },                   features: {                     scrollbar: true,                     loop: true,                     live: true,                     hashtags: true,                     timestamp: true,                     avatars: true,                     behavior: 'default'                   }                 }).render().setList('channelone_rus', 'tv1-rus').start(); </p>
+<p> VK.init({apiId: 2289971, onlyWidgets: true}); </p>
+<p> // rewrite function of creating group with returning widget id                 VK.Widgets.NewRecommended = function(objId, options) {                     VK.Widgets.Recommended(objId, options);                     return this.count;                 }                   // call creating widget                 var widget_id = VK.Widgets.NewRecommended("vk_recommend", {                     period: 'week',                     limit: 6,                     max: 6,                     verb: 1,                     width: "280",                     height: "300"                 });                   $(document).ready(function(){                     var vk_recomend_iframe = $("#vk_recommend").find("iframe");                       // call resize becouse vk do resize 3 iteration                     // ( first width settings height, and double resize with height value = offsetHeight )                     $("#vk_page_link").click(function(){                         VK.Widgets.RPC[ widget_id ].methods.resize(400)                     });                     // fix src and content of iframe bug                     vk_recomend_iframe.attr("src", vk_recomend_iframe.attr("src"));                 }); </p>
+<p> Новости телепроектов </p>
+<p> 28 ноября, Понедельник </p>
+<p> Хочу знать </p>
+<p> Друг за друга; музей пейзажа; воздушные марионетки; джем; конь–мах </p>
+<p> 28 ноября, Понедельник </p>
+<p> ЖКХ </p>
+<p> В программу «ЖКХ» обратилась мама пятилетней Маши. Женщина уверена, что ее ребенок отравился в калужском санатории, и требует выплаты компенсации </p>
+<p> 28 ноября, Понедельник </p>
+<p> Доброе утро </p>
+<p> Виртуальные диеты или новый способ обмана доверчивых граждан. </p>
+<p> 28 ноября, Понедельник </p>
+<p> Модный приговор </p>
+<p> Обвиняется в непонимании: хватит страдать – пора воплощать мечты в реальность </p>
+<p> 28 ноября, Понедельник </p>
+<p> Жить здорово! </p>
+<p> Три ошибки в еде; салат с сыром тофу; как лечить брюшной тиф; необычное применение трубки от туалетной бумаги </p>
+<p> 28 ноября, Понедельник </p>
+<p> Контрольная закупка </p>
+<p> Лучше всего человеческий организм усваивает муку из цельносмолотого зерна </p>
+<p> $(document).ready(function() {          if ((navigator.userAgent.indexOf('iPhone') != -1) || (navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {              $('#m_banner3').css('display','none');              $('#m_banner3_ipad').css('display','block');          }          else                  {              $('#m_banner3_ipad').css('display','none');              $('#m_banner3').css('display','block');                   }       }); </p>
+<p> // <!--  document.write('\<'+'iframe src="http://www.1tv.ru/rotobanner/g6446/w728/h90" width="728" height="90" marginwidth="0" marginheight="0" scrolling="no" frameborder="0"'+'\>'+'\<'+'/'+'iframe\>');  // --> </p>
+<p> // <!--  document.write('\<'+'iframe src="http://www.1tv.ru/rotobanner/g6446/w728/h90/ipt1" width="728" height="90" marginwidth="0" marginheight="0" scrolling="no" frameborder="0"'+'\>'+'\<'+'/'+'iframe\>');  // --> </p>
+<p> Потоковое вещание </p>
+<p> Видеоархив </p>
+<p> Новости </p>
+<p> Премьеры </p>
+<p> Телепроекты </p>
+<p> Лица </p>
+<p> Онлайн </p>
+<p> Переписка </p>
+<p> Телепрограмма </p>
+<p> Рейтинги </p>
+<p> Анонсы </p>
+<p> Передачи </p>
+<p> Конференции </p>
+<p> Видео </p>
+<p> Форум </p>
+<p> Публикации </p>
+<p> SMS-портал </p>
+<p> О компании </p>
+<p> Акции </p>
+<p> Работа </p>
+<p> Идеи </p>
+<p> Участвуй! </p>
+<p> Сервисы </p>
+<p> Координаты </p>
+<p> Письмо в редакцию </p>
+<p> Письмо в редакцию Первого канала </p>
+<p> Заполните поля формы </p>
+<p> Ваше имя: </p>
+<p> Электронная почта: </p>
+<p> Текст письма: </p>
+<p> Введите текст с картинки: </p>
+<p> обновить картинку </p>
+<p> Интернет-отдел </p>
+<p> 127427, Россия, Москва, Академика Королева ул., д.19 </p>
+<p> © 1996-2011, Первый канал. Все права защищены. Полное или частичное копирование материалов запрещено. </p>
+<p> При согласованном использовании материалов сайта необходима ссылка на ресурс. </p>
+<p> Код для вставки в блоги и другие ресурсы, размещенный на нашем сайте, можно использовать без согласования. </p>
+<p> Реклама на сайте: </p>
+<p> рекламное агентство "Мандарин" </p>
+<p> , e-mail </p>
+<p> mandarin@mandarin-tv.ru </p>
+<p> , тел. +7 (495) 646-34-52 </p>
+<p> <!-- document.write("<img src='http://counter.yadro.ru/hit?r"+ escape(document.referrer)+((typeof(screen)=="undefined")?"": ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth? screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+ ";"+Math.random()+ "' width='1' height='1' alt=''/>")//--> </p>
+<p> var _gaq = _gaq || [];                 _gaq.push(['_setAccount', 'UA-9747492-1']);                 _gaq.push(['_trackPageview']);                                (function() {                   var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;                   ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';                   var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);                 })(); </p>
+<p> (function(w, c) {                    (w[c] = w[c] || []).push(function() {                        try {                            w.yaCounter3913696 = new Ya.Metrika(3913696);                             yaCounter3913696.clickmap(true);                             yaCounter3913696.trackLinks(true);                                                } catch(e) { }                    });                })(window, 'yandex_metrika_callbacks'); </p>
+<p> //<![CDATA[ d=document;var a='';a+=';r='+escape(d.referrer);js=10;//]]> </p>
+<p> //<![CDATA[ a+=';j='+navigator.javaEnabled();js=11;//]]> </p>
+<p> //<![CDATA[ s=screen;a+=';s='+s.width+'*'+s.height; a+=';d='+(s.colorDepth?s.colorDepth:s.pixelDepth);js=12;//]]> </p>
+<p> //<![CDATA[ js=13;//]]> </p>
+<p> //<![CDATA[ d.write('<a href="http://top.mail.ru/jump?from=268366" target="_top">'+ '<img src="http://d8.c1.b4.a0.top.mail.ru/counter?id=268366;t=76;js='+js+ a+';rand='+Math.random()+'" alt="Рейтинг@Mail.ru" border="0" '+ 'height="31" width="38" \/><\/a>');if(11<js)d.write('<'+'!-- ');//]]> </p>
+<p> //<![CDATA[ if(11<js)d.write('--'+'&#062');//]]> </p>

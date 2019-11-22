@@ -1,0 +1,158 @@
+<p> Hong Kong health department recalls Teva drug - Globes </p>
+<p> var passVar=""; var IntPassMadadim=null;  function checkIEVersion() 	{ 	   if(navigator.appName=="Microsoft Internet Explorer") 	       { 	       var IE_VER=navigator.appVersion; 	       IE_VER=IE_VER.substr(22,3); 	       if(IE_VER=="6.0") 	           return true; 	       } 	   return false; 	} 	  	 function  hide_passmaddadim_IE6() 	{  	PassMadadimOBJ.style.display="none"; 	document.onmousemove = Show_passmaddadim_IE6; 	setTimeout("Show_passmaddadim_IE6",3000) 	} 	 function  Show_passmaddadim_IE6() 	{ 	PassMadadimOBJ.style.display="block"; 	PassMadadimOBJ.style.bottom="-1px"; 	}  if(!checkIEVersion()) 	{ 	passVar+='<div id="Globes_PassMadadim" style="bottom:0px; left:0px; width:100%; height:35px; z-index:5; position:fixed;">'; 	} else 	{ 	window.onscroll = hide_passmaddadim_IE6; 	passVar+='<div id="Globes_PassMadadim" style="bottom:0px; left:0px; width:100%; height:35px; z-index:5; position:absolute;">';	 	}	 	 	passVar+='<iframe id="iframeBar" src="/serveen/mddim/" style="border-top: solid 1px #c0c0c0;" frameborder="0" marginheight="0" marginwidth="0" height="35" width="100%" scrolling="No"></iframe>'; 	passVar+='</div>'; 	document.write(passVar); 	 	var PassMadadimOBJ=document.getElementById("Globes_PassMadadim"); </p>
+<p> var dc_handler = new c_DoubleClick(100987,'en',null) </p>
+<p> document.write(ad.banner({width:728,height:90})) </p>
+<p> <!-- 	//today = new Date 	today=ta_time; 	weekDayName = new Array ("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday") 	monthName = new Array ("January","February","March","April","May","June","July","August","September","October","November","December") 	function printDate() 	{  		//document.write(weekDayName[today.getDay()]+ " " + monthName[today.getMonth()] + " " + today.getDate()+" " + today.getFullYear() + ", Israel "+today.getHours()+":" +today.getMinutes()) 		var obj=document.getElementById("p_current_time") 		if(obj) 		{ 			var dateStr=weekDayName[today.getDay()]+ " " + monthName[today.getMonth()] + " " + today.getDate()+" " + today.getFullYear() + ", Israel "+today.getHours()+":" +today.getMinutes(); 			obj.innerHTML=dateStr; 		} 		today.setTime(today.getTime()+60000); 		window.setTimeout("printDate()",60000) 	}  --> </p>
+<p> עברית </p>
+<p> printDate() </p>
+<p> Show more about : </p>
+<p> Aerospace, defense </p>
+<p> Basic industries </p>
+<p> Employment </p>
+<p> Energy, water </p>
+<p> Environment </p>
+<p> Financial services </p>
+<p> Healthcare </p>
+<p> Information technology </p>
+<p> Israeli stocks in Europe </p>
+<p> Israeli stocks on Wall St </p>
+<p> Macro economics </p>
+<p> ' </p>
+<p> Media, marketing </p>
+<p> Mergers & acquisitions </p>
+<p> Politics, foreign affairs </p>
+<p> Privatization </p>
+<p> Real estate </p>
+<p> Telecoms </p>
+<p> Tourism </p>
+<p> Transport, infrastructure </p>
+<p> Start-ups & VC </p>
+<p> var reqKeyWord=''; 		if(reqKeyWord !='') {document.getElementById("ddl_more_about").value=reqKeyWord;} </p>
+<p> Search </p>
+<p> Front </p>
+<p> > </p>
+<p> News </p>
+<p> Front </p>
+<p> News </p>
+<p> Views </p>
+<p> Features </p>
+<p> Real estate </p>
+<p> Israel resources </p>
+<p> Market prices </p>
+<p> Events </p>
+<p> Services </p>
+<p> RSS </p>
+<p> Newsletters </p>
+<p> Advertising </p>
+<p> About </p>
+<p> var pirsum_shdera_items = [[1000595935,'http://images.globes.co.il/Images/NewGlobesEng/FixedPromoLeft.120x75/2010/120x75_Conferences.gif width=120 height=75 alt=\"Globes events\"'],[1000617190,'http://images.globes.co.il/Images/NewGlobesEng/FixedPromoLeft.120x75/2011/240111.jpg width=120 height=75 alt=\"NTD\"'],[1000621497,'http://images.globes.co.il/Images/NewGlobesEng/FixedPromoLeft.120x75/2011/bll_120-75.jpg width=120 height=75 alt=\"USA\"'],[1000675992,'http://images.globes.co.il/Images/NewGlobesEng/FixedPromoLeft.120x75/2011/Ipad_english.2011828T170952.png width=120 height=75 title=\"ipad\" alt=\"ipad\"'],[1000574393,'http://images.globes.co.il/Images/NewGlobesEng/FixedPromoLeft.120x75/2010/120x75_GlobesAechive.gif width=120 height=75 alt=\"Archive\"'],[1000574400,'http://images.globes.co.il/Images/NewGlobesEng/FixedPromoLeft.120x75/2010/120x75_GlobesDigital.gif width=120 height=75 alt=\"GlobesDigital\"'],[1000595933,'http://images.globes.co.il/Images/NewGlobesEng/FixedPromoLeft.120x75/2010/120x75_GlobesTwitter.gif width=120 height=75 alt=\"Twitter\"'],[1000574406,'http://images.globes.co.il/Images/NewGlobesEng/FixedPromoLeft.120x75/2010/120x75_GlobesNewsletters.gif width=120 height=75 alt=\"GlobesNewsletters\"']] for(var i=0; i < 5 ;i++) {document.write('<div class="nav_item">' + ad.banner({width:100,height:75}) + '</div>')} </p>
+<p> <!-- google_ad_client = "pub-3620763991134279"; /* HomeLeft120x600, created 6/16/10 */ google_ad_slot = "6740295629"; google_ad_width = 120; google_ad_height = 600; //--> </p>
+<p> News </p>
+<p> Hong Kong health department recalls Teva drug </p>
+<p> The Allopurinol tablets, reportedly produced by Teva's Hungarian plant, are used to treat hyperuricaemia and gout. </p>
+<p> 16 January 12 17:47, </p>
+<p> Inbal Omer </p>
+<p> InitFacebookConnect(); </p>
+<p> Tweet </p>
+<p> Hong Kong's Department of Health today ordered a recall of a batch of Allopurinol tablets made by </p>
+<p> Teva Pharmaceutical Industries Ltd. </p>
+<p> (Nasdaq: </p>
+<p> TEVA </p>
+<p> ; TASE: </p>
+<p> TEVA </p>
+<p> ), after black substances were found on some tablets in two blisters of the product. Allopurinol is used to treat hyperuricaemia and gout. </p>
+<p> According to the Hong Kong distributor, International Medical Co. Ltd., the tablets are made by Teva Pharmaceutical Works Private Ltd Co. in Hungary. </p>
+<p> An investigation by the Department of Health found no fungal elements, and that the black substances, which adhered on the surfaces of some tablets, bear similar features as used in hydrocarbon oil. It added that the substances might be a quality issue. The Department of Health has received no reports about adverse events related to the product, but advised patients to examine the tablets before taking them. </p>
+<p> A total of 22,965 boxes had been imported into Hong Kong and were supplied to the Health Authority, local pharmacies and private doctors. </p>
+<p> Department of Health spokesman said, "In this instance, contravention of the Public Health and Municipal Services Ordinance, selling drugs not of the nature, substance or quality demanded by the purchaser, might have occurred. The maximum penalty involved is $10,000 and three months imprisonment." </p>
+<p> Published by Globes [online], Israel business news - </p>
+<p> www.globes-online.com </p>
+<p> - on January 16, 2012 </p>
+<p> © Copyright of Globes Publisher Itonut (1983) Ltd. 2012 </p>
+<p> var OutbrainPermaLink = 'http://www.globes.co.il/serveen/globes/docview.asp?did=1000716239'; var OB_MP_feed = 'http://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=1725'; var OB_Template = 'globes.english'; var OB_langJS = 'http://widgets.outbrain.com/lang_en.js'; if (typeof(OB_Script) != 'undefined') { OutbrainStart(); } else { var OB_Script = true; var str = '<' + 'script src="/redirector.asp?http://widgets.outbrain.com/OutbrainRater.js" type="text/javascript"><' + '/script>'; document.write(str); } </p>
+<p> Next article : </p>
+<p> Brodet postpones deadline for Leumi CEO candidates </p>
+<p> function mail_article() {window.open("/serveen/globes/sendIT.asp?did=1000716239","Send_Doc","width=350, height=150, left=100, top=100, screenx=150, screeny=0, resizable=no, scrollbars=auto")} 			function wo() { 				if(navigator.appName == "Microsoft Internet Explorer") {window.external.AddFavorite(location.href,window.document.title)} else {features = "toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=no, resizable=yes, left=0, top=0, width=400, height=350";window.open("addbookmarkN.htm","instructions",features)}} 				function onclickStr() {window.open("http://myweb2.search.yahoo.com/myresults/bookmarklet?t=Hong+Kong+health+department+recalls+Teva+drug&u=" + encodeURIComponent(window.location.href) + "&ei=utf-8","","width=600px,height=500px,status=0,location=0,resizable=1,scrollbars=1",0);return false} </p>
+<p> function mail_article() {window.open("/serveen/globes/sendIT.asp?did=1000716239","Send_Doc","width=350, height=150, left=100, top=100, screenx=150, screeny=0, resizable=no, scrollbars=auto")} function wo() { if(navigator.appName == "Microsoft Internet Explorer") {window.external.AddFavorite(location.href,window.document.title)} else {features = "toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=no, resizable=yes, left=0, top=0, width=400, height=350";window.open("addbookmarkN.htm","instructions",features)}} function onclickStr() {window.open("http://myweb2.search.yahoo.com/myresults/bookmarklet?t=Hong+Kong+health+department+recalls+Teva+drug&u=" + encodeURIComponent(window.location.href) + "&ei=utf-8","","width=600px,height=500px,status=0,location=0,resizable=1,scrollbars=1",0);return false} </p>
+<p> Save article </p>
+<p> Send to a friend </p>
+<p> Print article </p>
+<p> Digg it! </p>
+<p> dell.icio.us </p>
+<p> reddit </p>
+<p> Facebook </p>
+<p> stumbleupon </p>
+<p> Yahoo! </p>
+<p> Responses </p>
+<p> Subject </p>
+<p> Name </p>
+<p> Date </p>
+<p> function show_responses() {var x = ((window.ActiveXObject) ? new ActiveXObject("Microsoft.XMLHTTP") : new XMLHttpRequest()); x.open("GET","responses.ashx?did=1000716239&t=" + (new Date()).getTime() ,true); x.onreadystatechange = function() { if (x.readyState == 4 && x.status == 200) { try {	var t = document.getElementById("responses_table"); var responses = x.responseText.split("\n"); for(var i in responses) { var ri = responses[i].split(","); if (ri.length < 4) {continue} var row = t.insertRow(t.rows.length); row.setAttribute("valign","top"); row.insertCell(0).innerHTML = "<span style='font-family:arial;font-size:11px; '>"+(parseInt(i)+1).toString()+".&nbsp;</span>";  row.insertCell(1).innerHTML = '<a style="font-size:11px;" href="javascript:readResponse(1000716239, ' + ri[0] + ')">' + (ri[3] ? ri[3] : "no subject") + '</a>' // subject row.insertCell(2).innerHTML = "&nbsp;<span style='font-family:arial;font-size:11px;color:#cc0000; '>" + (ri[2] ? ri[2] : "no name")+"</span>" // username row.insertCell(3).innerHTML = "&nbsp;<span style='font-family:arial;font-size:11px;color:#6d6d6d; '>" + ri[1].substring(0,(ri[1].length-6)).replace(/ /g,"&nbsp;") // datetime } } catch(ex) {} } } x.send(null) } show_responses() </p>
+<p> Previous </p>
+<p> Home </p>
+<p> Back to top </p>
+<p> Next </p>
+<p> document.write(dc_handler.div('spot')) </p>
+<p> VIEWS </p>
+<p> Shlomi Cohen </p>
+<p> Nova's year of transition </p>
+<p> Nova Measuring Instruments has learned to manage market expectations, which will be vital as it gears up to serve next generation chip production. </p>
+<p> Tali Tsipori </p>
+<p> Comverse dividend is admission of failure </p>
+<p> A dividend in kind is usually made on a once-great asset that is unwanted and has a grim future. </p>
+<p> Batya Feldman </p>
+<p> VC fails to tempt Israeli financial institutions </p>
+<p> Despite the incentives, local institutions are not taking the bait, and it's not surprising. </p>
+<p> MOST POPULAR </p>
+<p> function Fill_SpokenArticles(divId,a) { 		var sb = [] 		for(var i=0; i < a.length ;i++) { 			var ai = a[i] 			sb.push('<a href=/serveen/globes/docview.asp?did=' + ai[0] + '>' + ai[1] + '</a><div class=\"G_divTopSpace5\">&nbsp;</div>') 		} 		var div=document.getElementById(divId) 		div.innerHTML = sb.join('') 	} 	function SwapTabs(tabName) 	{ 		var tabs=['Today','Week','Month']; 		for(var i=0;i<3;i++) 		{ 			if(tabs[i]==tabName) 			{ 				document.getElementById('tab'+tabs[i]).className='tab_on'; 				document.getElementById('div'+tabs[i]).style.display=''; 			} 			else 			{ 				document.getElementById('tab'+tabs[i]).className='tab'; 				document.getElementById('div'+tabs[i]).style.display='none'; 			} 		} 	} </p>
+<p> Today </p>
+<p> Week </p>
+<p> Month </p>
+<p> Fill_SpokenArticles('divToday',Daily) </p>
+<p> Fill_SpokenArticles('divWeek',Weekly) </p>
+<p> Fill_SpokenArticles('divMonth',Monthly) </p>
+<p> MARKET PRICES </p>
+<p> Stocks and bonds </p>
+<p> Tel Aviv market report </p>
+<p> Tel Aviv Stock Exchange </p>
+<p> Israeli stocks in NY </p>
+<p> Arbitrage gaps for dual-listed stocks </p>
+<p> Israeli stocks in Europe </p>
+<p> Israeli stocks on other markets </p>
+<p> Tel Aviv 25 options </p>
+<p> Mutual funds </p>
+<p> Exchange rates </p>
+<p> Current representative shekel rates </p>
+<p> Historical representative shekel rates </p>
+<p> Bank shekel rates </p>
+<p> Shekel/dollar options </p>
+<p> Price indices </p>
+<p> Monthly indices </p>
+<p> Annual movements </p>
+<p> Market prices </p>
+<p> | </p>
+<p> Newsletters </p>
+<p> | </p>
+<p> About us </p>
+<p> | </p>
+<p> Support </p>
+<p> | </p>
+<p> Advertise </p>
+<p> | </p>
+<p> עברית </p>
+<p> | </p>
+<p> Front </p>
+<p> | </p>
+<p> News </p>
+<p> | </p>
+<p> Views </p>
+<p> | </p>
+<p> Features </p>
+<p> | </p>
+<p> Real estate </p>
+<p> | </p>
+<p> Israel resources </p>
+<p> | </p>
+<p> International </p>
+<p> © Globes.All rights reserved. </p>
+<p> dc_handler.activate() </p>

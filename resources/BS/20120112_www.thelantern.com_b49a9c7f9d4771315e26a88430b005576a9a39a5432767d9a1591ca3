@@ -1,0 +1,140 @@
+<p> Anti-smoker bans in workplaces are discriminatory - Opinion - The Lantern - Ohio State University </p>
+<p> var webserverpath = "web25.collegepublisher.com" + "/se/" + "The_Lantern"; var omniSectionName = "opinion"; var articleTitle="The Lantern - Anti-smoker bans in workplaces are discriminatory"; </p>
+<p> var anCPCd = "5"; var anCPPipe = "2"; var paperID = "333"; var omniSectionName = "Opinion"; var omniPaperName = "The Lantern"; var omniPaperUrl = "http://www.thelantern.com"; var omniPaperID = "333"; var omniURLPath = document.location.pathname.toString(); var omniPIPE = "PIPE2"; </p>
+<p> CPN_PARTNER = "false"; (function() { var _r = Math.floor(Math.random()*1000000); if (_r < 300000) { CPN_PARTNER = "true"; } })(); </p>
+<p> /* <![CDATA[ */ (function() { var proto = "http:"; var host = "cdn.adgear.com"; var bucket = "a"; if (window.location.protocol == "https:") { proto = "https:"; host = "a.adgear.com"; bucket = ""; } document.writeln('<scr' + 'ipt type="text/ja' + 'vascr' + 'ipt" s' + 'rc="' + proto + '//' + host + '/' + bucket + '/adgear.js/current/adgear.js' + '"></scr' + 'ipt>'); })(); /* ]]> */ </p>
+<p> /* <![CDATA[ */ ADGEAR.tags.script.init(); ADGEAR.lang.namespace("ADGEAR.site_callbacks");  /* * Make this return a hash of key/value pairs you would like to have automatically * sent through to AdGear via the querystring in every impression: */ ADGEAR.site_callbacks.variables = function() { return { }; } /* ]]> */ </p>
+<p> ADGEAR.site_callbacks.variables = function() { return { "CPN_PARTNER": CPN_PARTNER }; } </p>
+<p> var isChrome = navigator.userAgent.toLowerCase().indexOf("safari") > -1; var adGearSeg_adPaperID= "333"; adGearSeg_adPaperID=adGearSeg_adPaperID.toString().trim(); var url=document.location.toString(); var adGearSeg_Section1="Opinion"; var adGearSeg_Section=document.location.pathname;   if (url.indexOf("guide.")>0)     adGearSeg_Section="/fromguide"+adGearSeg_Section; var adGearSeg_Zone=adGearSeg_Section; var papername="The Lantern"; </p>
+<p> getAdGearCMNSections(adGearSeg_adPaperID); </p>
+<p> var linkrss='http://www.thelantern.com/se/lantern-css-1.60050';  linkrss=linkrss.replace('/se/','/se/localcss-'); document.writeln('<link rel="stylesheet" type="text/css" href="' + linkrss + '"/>'); </p>
+<p> var linkrss='http://www.thelantern.com/se/jquery-css-1.1643969';  linkrss=linkrss.replace('/se/','/se/localcss-'); document.writeln('<link rel="stylesheet" type="text/css" href="' + linkrss + '"/>'); </p>
+<p> var linkrss='http://www.thelantern.com/se/opinion-css-7.150';  linkrss=linkrss.replace('/se/','/se/localcss-'); document.writeln('<link rel="stylesheet" type="text/css" href="' + linkrss + '"/>'); </p>
+<p> jQuery(document).ready(function() { $(".spotlight ul").addClass("jcarousel-skin-tango"); jQuery('.spotlight ul').jcarousel({ scroll: 4 });  }); </p>
+<p> jQuery(document).ready(function() {  $("#tabComments ul").tabs({ selected: 1 });  }); </p>
+<p> startList = function() { navRoot = document.getElementById("primeNav"); for (i=0; i<navRoot.childNodes.length; i++) { node = navRoot.childNodes[i]; if (node.className == "drop") { node.onmouseover=function() { this.className+=" over"; }; node.onmouseout=function() { this.className=this.className.replace("over", ""); }; }; }; }; window.onload=startList; </p>
+<p> var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); </p>
+<p> var anCPPaperUrl=omniPaperUrl.substring(omniPaperUrl.indexOf("http://")+7, omniPaperUrl.length); var anCPPaperName=omniPaperName.replace(/_/gi, " ").replace(/%20/g," "); var anCPPaperId=omniPaperID; anCPPaperId.replace(/^\s*/,""); anCPPaperId.replace(/\s*/,""); anCPPaperId.replace(/%20/g,"");  try { var pageTracker = _gat._getTracker("UA-1064236-19"); pageTracker._setCustomVar(1, "pu", anCPPaperUrl, 3); pageTracker._setCustomVar(2, "pi", anCPPaperId, 3); pageTracker._setCustomVar(3, "pn", anCPPaperName, 3); pageTracker._setCustomVar(4, "ppp", anCPPipe, 3); pageTracker._setCustomVar(5, "pcp", anCPCd, 3); pageTracker._trackPageview(); } catch(err) {} </p>
+<p> var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); </p>
+<p> var anCPPaperUrl=omniPaperUrl.substring(omniPaperUrl.indexOf("http://")+7, omniPaperUrl.length); var anCPPaperName=omniPaperName; var anCPPaperId=omniPaperID; anCPPaperId.replace(/^\s*/,""); anCPPaperId.replace(/\s*/,""); anCPPaperId.replace(/%20/g,"");  try { var pageTracker = _gat._getTracker("UA-18994242-2"); pageTracker._setCustomVar(1, "pu", anCPPaperUrl, 3); pageTracker._setCustomVar(2, "pi", anCPPaperId, 3); pageTracker._setCustomVar(3, "pn", anCPPaperName, 3); pageTracker._setCustomVar(4, "ppp", anCPPipe, 3); pageTracker._setCustomVar(5, "pcp", anCPCd, 3); pageTracker._trackPageview(); } catch(err) {} </p>
+<p> var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-10751034-1']); _gaq.push(['_trackPageview']); _gaq.push(['_trackPageLoadTime']);  (function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })(); </p>
+<p> Top College News </p>
+<p> Subscribe to the Newsletter </p>
+<p> document.writeln('<iframe id="adframe" src="http://admanager.collegepublisher.com/003F3B/adscript/ad_source_cmn.html?' + adGearSeg_adPaperID + '&' + '11' + '&' + adGearSeg_Section + '&' + papername + '" width="728" height="' + (isChrome ? 98 : 90) + '" marginwidth="0" frameborder="0" vspace="0" hspace="0" scrolling="no" seamless></iframe>'); </p>
+<p> Home </p>
+<p> Login </p>
+<p> | </p>
+<p> Register </p>
+<p> Receive campus news in your inbox. Sign up for the email edition. </p>
+<p> Home </p>
+<p> Campus </p>
+<p> Weather </p>
+<p> Crime Briefs </p>
+<p> Sports </p>
+<p> Football </p>
+<p> Soccer </p>
+<p> Volleyball </p>
+<p> Basketball </p>
+<p> Golf </p>
+<p> Cross Country </p>
+<p> Others </p>
+<p> [a+e] </p>
+<p> Game Solutions </p>
+<p> Opinion </p>
+<p> Letters </p>
+<p> Multimedia </p>
+<p> Classifieds </p>
+<p> Print Edition </p>
+<p> The Lantern </p>
+<p> > </p>
+<p> Opinion </p>
+<p> var secParents = "$content.securityparent.content.name"; </p>
+<p> FB.init({ appId:'165641466807545', cookie:true, status:true, xfbml:true }); </p>
+<p> Anti-smoker bans in workplaces are discriminatory </p>
+<p> var author = "Tanija Smoot".replace("'","");  author=author.replace('|'," frame "); //alert(author); //document.write("<p class='author'><span class='by'>By</span> <a href='/search?q=&quot;"+author+"&quot;'>Tanija Smoot</a></p>"); document.write("<p class='author'><span class='by'>By</span> <a href='/search?q="+author.replace('+',' ')+"'>Tanija Smoot</a></p>"); </p>
+<p> smoot.43@osu.edu </p>
+<p> Published: </p>
+<p> Sunday, January 8, 2012 </p>
+<p> Updated: </p>
+<p> Sunday, January 8, 2012 22:01 </p>
+<p> var fullArticle=(window.location).toString(); if(fullArticle.indexOf("?") > -1) fullArticle= fullArticle.substring(0,fullArticle.indexOf("?"));  function printwholeArticle(urllink){  //var myPopup = window.createPopup();  //myPopup.show(100,100,100,200,document.body);  var printWindow = window.open(urllink, 'prnwindowName2', 'width=200, height=77, toolbar=yes,location=yes,directories=yes,status=yes,menubar=yes,scrollbars=yes,copyhistory=yes,resizable=yes,visible=false ');  //printWindow.document.write(printContent.innerHTML); //printWindow.location=urllink; printWindow.focus(); //printWindow.style.visibility="hidden"; //printWindow.print(); //printWindow.close(); } </p>
+<p> var addthis_config = {"data_track_addressbar":true}; </p>
+<p> While reading </p>
+<p> USA Today </p>
+<p> , I stumbled upon an article about a new trend of prospective hospital employees who have tested positive for nicotine being rejected by potential employers. According to the article, these tobacco-hiring policies are reinforced to encourage a healthy lifestyle and reduce insurance premiums. The Centers for Disease Control and Prevention (CDC) estimates that smoking costs America $193 billion in health bills, all the while taking more than 400,000 lives annually. </p>
+<p> As a nursing student and a non-smoker, I fully understand the deadly consequences of prolonged tobacco use and appreciate the logistics behind smoking bans. As a hospital employee, however, I find this anti-smokers' ban to be discriminatory. Although I support a smoking ban within hospital perimeters and public areas, I cannot support employers discriminating against hard-working Americans who choose to smoke outside of work. In my opinion, discriminating against smokers will open a gateway to other unconstitutional bans and create a slippery slope. If employers start banning smokers from the workplace, who will they discriminate against next? </p>
+<p> One reason employers discriminate against smokers is to decrease insurance premiums. However, according to CDC, the No. 1 killer in America is heart disease. Increased rates of heart disease are closely related to the staggering obesity epidemic in America. Logically, it would make sense for employers to single out obese workers also. Like smoking, obesity can be controlled, yet if employers started to discriminate against obese workers, America would be outraged. How is this fair? </p>
+<p> Fortunately for smokers, the tobacco industry lobbied for smokers' rights and 29 states now protect smokers' rights. The unfortunate news is that the federal government does not recognize smokers as a protected class and non-profit organizations and health care companies can still openly discriminate against those who choose to smoke in their own homes. </p>
+<p> Instead of focusing on what a person chooses to do outside of the workplace, employers should be focusing on the person's work ethic while on the job. The last time I checked, smoking — unlike many other substances — is considered legal. It is not the employer's job to govern what a person chooses to do with his or her own free time unless those activities are affecting the person's work performance. </p>
+<p> Recommended: </p>
+<p> Articles that may interest you </p>
+<p> var OutbrainPermaLink=(window.location).toString(); var OB_Template = "cmn"; var OB_demoMode = false; var OBITm = "1249506835342"; var OB_langJS ='http://widgets.outbrain.com/lang_en.js'; if ( typeof(OB_Script)!='undefined' ) OutbrainStart(); else { var OB_Script = true; var str = '<script src="http://widgets.outbrain.com/OutbrainRater.js" type="text/javascript"><\/script>'; document.write(str); } var articleId = '2738866'; //alert(articleId); //articleId=articleId.substring(articleId.indexOf("1."), articleId.lastIndexOf(".")); </p>
+<p> Facebook Comments </p>
+<p> Site Comments </p>
+<p> function clearField(el) { 	if (el.value == el.defaultValue) el.value = ''; }  function resetField(el) {  	if (el.value == '') el.value = el.defaultValue; } </p>
+<p> 1 comments </p>
+<p> Forces International </p>
+<p> Tue Jan 10 2012 18:32 </p>
+<p> Actually, it was the ACLU who is behind the legislation to protect smokers from discrimination, not the tobacco industry. </p>
+<p> Add comment </p>
+<p> I am not posting spam. </p>
+<p> I understand posting spam or other comments that are unrelated to this article will cause my comment to be flagged for deletion and possibly cause my IP address to be permanently banned from this server. </p>
+<p> var serverName='www.thelantern.com';          serverName=serverName.replace('www.','');         document.write('<img src="http://'+serverName+':80/kaptcha.jpg" />'); </p>
+<p> Enter the characters in the image above: </p>
+<p> function enabledSubmit(){ 					document.getElementById('submitComment').disabled=false; 				              if(document.getElementById('kaptcha_answer')){                                                 var kaptcha_value=(document.getElementById('kaptcha_answer')).value;                                                 if(kaptcha_value==""){                                                    alert("Enter the characters in the image above:");                                                    document.getElementById('submitComment').disabled=true;                                                    return false;                                                    }                                         } 				} 				function checkComment(){ 				        if(document.getElementById('body')){                                          var comment_value=(document.getElementById('body')).value;             if(!document.getElementById('accept').checked) 		alert("Please check the \"I am not posting spam\" box");                                          if( comment_value == ""){                                                 alert("Please enter a comment.");                                                 document.getElementById('submitComment').disabled=true;                                                 return false;                                           }                                         } 				} 				function checkCaptcha(){                                               if(document.getElementById('kaptcha_answer')){                                                var kaptchaEntry=(document.getElementById('kaptcha_answer')).value;                                                 if(kaptchaEntry==""){                                                    alert("Enter the characters in the image above:");                                                    document.getElementById('submitComment').disabled=true;                                                    return false;                                                    } 					} 				}                                 function enableButton(){                                         document.getElementById('submitComment').disabled=false;                                 }  				function getnewurl() 				{  					var formurl=(document.getElementsByName('formURL'))[0].value; 					if(formurl.indexOf("?")!=-1){ 						formurl=formurl.substring(0,formurl.indexOf("?")); 					} 					(document.getElementsByName('formURL'))[0].value=formurl; 					(document.getElementsByName('formID'))[0].value="comments"; 				} 				function getlogout() 				{ 					getnewurl(); 					window.location= "/jsp/logout.jsp?returnTo="+(document.getElementsByName('formURL'))[0].value; 				} </p>
+<p> log out </p>
+<p> var curUrl=document.URL; 		function refresh(){ 		     if(curUrl.indexOf("&http")!=-1){ 			curUrl=curUrl.substring(curUrl.indexOf("&http")); 			curUrl=curUrl.substring(curUrl.indexOf("&http")+1,curUrl.indexOf("=")); 			curUrl=curUrl+"?formURL=refresh"; 				setTimeout("window.location=curUrl",1000); 		//	javascript:location.reload(true); 		  } 		} </p>
+<p> javascript:refresh(); </p>
+<p> $(document).ready(function(){ $("#tabs_article_comments > ul").tabs(); }); </p>
+<p> document.writeln('<iframe id="adframe" src="http://admanager.collegepublisher.com/003F3B/adscript/ad_source_cmn.html?' + adGearSeg_adPaperID + '&' + '23' + '&' + adGearSeg_Section + '&' + papername + '" width="468" height="' + (isChrome ? 68 : 60) + '" marginwidth="0" frameborder="0" vspace="0" hspace="0" scrolling="no" seamless></iframe>'); </p>
+<p> document.writeln('<iframe id="adframe" src="http://admanager.collegepublisher.com/003F3B/adscript/ad_source_cmn.html?' + adGearSeg_adPaperID + '&' + '12' + '&' + adGearSeg_Section + '&' + papername + '" width="300" height="' + (isChrome ? 258 : 250) + '" marginwidth="0" frameborder="0" vspace="0" hspace="0" scrolling="no" seamless></iframe>'); </p>
+<p> document.writeln('<iframe id="adframe" src="http://admanager.collegepublisher.com/003F3B/adscript/ad_source_cmn.html?' + adGearSeg_adPaperID + '&' + '22' + '&' + adGearSeg_Section + '&' + papername + '" width="300" height="' + (isChrome ? 258 : 250) + '" marginwidth="0" frameborder="0" vspace="0" hspace="0" scrolling="no" seamless></iframe>'); </p>
+<p> The Best </p>
+<p> Las Vegas Hotel Deals </p>
+<p> and Casino Rates </p>
+<p> Anywhere </p>
+<p> ! </p>
+<p> US Immigration </p>
+<p> Columbus </p>
+<p> criminal defense lawyers </p>
+<p> have </p>
+<p> prosecuted all different types of legal cases with the goal of letting justice prevail for all. </p>
+<p> Thinking of travelling downunder you can get great </p>
+<p> travel insurance </p>
+<p> at </p>
+<p> cheap rates come visit Australia soon. </p>
+<p> If you have been injured in an accident in Philadelphia you should call a </p>
+<p> Philadelphia Injury Lawyer </p>
+<p> for a free consultation. </p>
+<p> var templateNo="/se/template1.custom.css"; if(templateNo.indexOf("template9") == -1) { document.writeln('<iframe id="adframe" src="http://admanager.collegepublisher.com/003F3B/adscript/ad_source_cmn.html?' + adGearSeg_adPaperID + '&' + '21' + '&' + adGearSeg_Section + '&' + papername + '" width="160" height="' + (isChrome ? 608 : 600) + '" marginwidth="0" frameborder="0" vspace="0" hspace="0" scrolling="no" seamless></iframe>'); } else if(templateNo.indexOf("template9") > -1 && 1 == 0) { document.writeln('<iframe id="adframe" src="http://admanager.collegepublisher.com/003F3B/adscript/ad_source_cmn.html?' + adGearSeg_adPaperID + '&' + '21' + '&' + adGearSeg_Section + '&' + papername + '" width="160" height="' + (isChrome ? 608 : 600) + '" marginwidth="0" frameborder="0" vspace="0" hspace="0" scrolling="no" seamless></iframe>'); } </p>
+<p> document.writeln('<iframe id="adframe" src="http://admanager.collegepublisher.com/003F3B/adscript/ad_source_cmn.html?' + adGearSeg_adPaperID + '&' + '31' + '&' + adGearSeg_Section + '&' + papername + '" width="300" height="' + (isChrome ? 258 : 250) + '" marginwidth="0" frameborder="0" vspace="0" hspace="0" scrolling="no" seamless></iframe>'); </p>
+<p> Home </p>
+<p> Campus </p>
+<p> Sports </p>
+<p> [a+e] </p>
+<p> Opinion </p>
+<p> Entertainment </p>
+<p> Multimedia </p>
+<p> Classifieds </p>
+<p> Blog </p>
+<p> Contact Us </p>
+<p> Advertise with The Lantern </p>
+<p> Place a Classified Ad </p>
+<p> var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); </p>
+<p> try { var pageTracker = _gat._getTracker("UA-3435891-1"); pageTracker._trackPageview(); } catch(err) {} </p>
+<p> The Lantern Logo </p>
+<p> © </p>
+<p> document.write(new Date().getFullYear()); </p>
+<p> The Lantern. All Rights Reserved. </p>
+<p> Follow us on Twitter </p>
+<p> Find us on Facebook </p>
+<p> Subscribe to RSS </p>
+<p> Sign up for Newsletter </p>
+<p> This site is powered by: </p>
+<p> is a member of the </p>
+<p> Official Music Sponsor: </p>
+<p> document.write(webserverpath); </p>
+<p> var short_domain="http://www.thelantern.com"; var matchbin_domain = "http://directory." + short_domain.substring(short_domain.indexOf("www.")+4, short_domain.length); </p>
+<p> document.writeln('<a href=' + matchbin_domain + '><b>CMN Local Business Directory</b></a> powered by:'); </p>
+<p> var paperNameFooter = "The_Lantern".toLowerCase(); paperNameFooter =paperNameFooter.replace(/^\s+|\s+$/g,""); var articleId = ""; articleId = "article 1.1746";articleId = articleId.substring(articleId.indexOf("article")+8, articleId.length);  document.write("<a href=\"/" + "Privacy Policy".replace(/ /gi, "-").replace("(", "").replace(")", "").replace("/", "-").replace("/", "-") + "-" + articleId + "\" >" + "Privacy Policy" + "</a>"); articleId = "article 1.1747";articleId = articleId.substring(articleId.indexOf("article")+8, articleId.length);  document.write("|"); document.write("<a href=\"/" + "Terms of Use".replace(/ /gi, "-").replace("(", "").replace(")", "").replace("/", "-").replace("/", "-") + "-" + articleId + "\" >" + "Terms of Use" + "</a>"); </p>
+<p> showNetworkBanner(41); </p>

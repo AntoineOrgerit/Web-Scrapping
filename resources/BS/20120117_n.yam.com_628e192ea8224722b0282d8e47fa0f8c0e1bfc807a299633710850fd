@@ -1,0 +1,179 @@
+<p> 流感又增4死 皆未接種流感疫苗 春節注意防疫-健康新聞-yam蕃薯藤新聞 </p>
+<p> document.write(unescape("%3Cscript src='" + (("https:" == document.location.protocol) ? "https://" : "http://") + "admd.yam.com/JS/yam_AD_ajax.js' type='text/javascript'%3E%3C/script%3E")); </p>
+<p> $(function() {   window.fbAsyncInit = function()    {       FB.init({appId: '241039752194', status: true, cookie: true, xfbml: true});       //FB.Canvas.setAutoResize(); 	  FB.Event.subscribe('edge.create', function(response) { 		$.ajax({ 			url: 'http://n.yam.com/api/facebook_share_count.php', 			type: "GET", 			data: "nid=20120117825794", 			success: function(data) {} 		}); 	  }); 	  FB.Event.subscribe('comment.create', function(response) { 		$.ajax({ 			url: 'http://n.yam.com/api/facebook_share_count.php', 			type: "GET", 			data: "nid=20120117825794", 			success: function(data) {} 		}); 	  });   };     (function() {     var e = document.createElement('script'); e.async = true;     e.src = document.location.protocol + '//connect.facebook.net/zh_TW/all.js';     document.getElementById('fb-root').appendChild(e);   }()); }); </p>
+<p> document.write(unescape("%3Cscript src='" + (("https:" == document.location.protocol) ? "https://" : "http://") + "admd.yam.com/AD_L/?LID=A15._B_*-_.ACF_*-.8-3*4-.C6FA*45&CID=F16._B_*-_.FEF_*-.5-D*1-.ED74*31&IMP=33B._3_*-_.F29_*-.8-D*9-.C108*69&PV=A03._8_*-_.E63_*-.4-2*C-.60F7*06&MODE=33B._3_*-_.F29_*-.8-D*9-.C108*69&APP=" + location.hash.replace(/[#]/g,"") + "&Charset=" + (document.characterSet ? document.characterSet.toUpperCase() : (document.charset ? document.charset.toUpperCase() : "UTF-8")) + "&RID=" + Math.random() + "&yamAD.js' type='text/javascript'%3E%3C/script%3E")); </p>
+<p> 首頁 </p>
+<p> 即時 </p>
+<p> 影音 </p>
+<p> 專輯 </p>
+<p> 政治 </p>
+<p> 財經 </p>
+<p> 娛樂 </p>
+<p> 運動 </p>
+<p> 社會 </p>
+<p> 兩岸 </p>
+<p> 國際 </p>
+<p> 生活 </p>
+<p> 科技 </p>
+<p> 健康 </p>
+<p> 即時 </p>
+<p> 專輯 </p>
+<p> 排行 </p>
+<p> 討論 </p>
+<p> 圖片 </p>
+<p> 影音 </p>
+<p> 民生@報 </p>
+<p> 壹電視影音 </p>
+<p> 教育 </p>
+<p> 藝文 </p>
+<p> 汽車 </p>
+<p> 美食 </p>
+<p> 旅行 </p>
+<p> 流感又增4死 皆未接種流感疫苗 春節注意防疫 </p>
+<p> function share_facebook() 				{ 					//window.open('http://n.yam.com/api/facebook_publish/facebook_publish.php?nid=20120117825794','facebook_share','toolbar=0,status=0,width=626,height=450,location=0,scrollbars=1'); 					u=location.href;t=document.title; 					window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(u)+'&t='+encodeURIComponent(t),'sharer','toolbar=0,status=0,width=626,height=436'); 					 					$.ajax({ 						url: 'http://n.yam.com/api/facebook_share_count.php', 						type: "GET", 						data: "nid=20120117825794", 						success: function(data) {} 					}); 					 					return false; 				} </p>
+<p> {lang: 'zh-TW'} </p>
+<p> 欣傳媒╱記者丁彥伶／台北報導 2012-01-17 17:43 </p>
+<p> 討論 </p>
+<p> ( </p>
+<p> + </p>
+<p> ) </p>
+<p> 調整字級： </p>
+<p> 春節在即，大家都忙著採買年貨、送禮，沒法顧及「不要到人多的公共場所」的流行病防護建言，眼見衛生署預估的流感最高峰即將來到，衛署疾病管制局今（17）日再度發布新增4例流感死亡病例，全都是B型病毒，而且4人都未接種流感疫苗。 </p>
+<p> 疾管局流感疫情監測資料顯示，上周新增145例流感併發重症，較上上周的147例略少兩例。本流感季自100年7月1日起，迄今累計共587例流感併發症確定病例，和上個流感季同期的851例相較，併發症病例少3成1。本流行季共有28例死亡，上個流感季同期是85例，流感併發症發生率為每百萬人口25，死亡率為1.2，預估於農曆年前後達到最高峰。 </p>
+<p> 疾管局副局長周志浩表示，新增的4名流感死亡病例，分別是2歲女童、81歲女性及64歲男性，以及台北市48歲男性，其中3例成人都有高血壓慢性病史，另64歲男性有慢性阻塞性肺病，而女童則有潛在之腦部疾病。4例均未接種流感疫苗，皆感B型病毒，發病後分別因心肺衰竭、敗血性休克及細菌感染肺炎等因素死亡。 </p>
+<p> 農曆春節期間返鄉及旅遊人潮眾多，為避免流感病毒傳播，周志浩提醒民眾要注意「咳嗽禮節」，如有呼吸道症務必戴上口罩。為降低感染流感後併發嚴重併發症機率，家中若有發生流感併發症的高危險族群，如嬰幼兒、年長者及具慢性疾病患者，於感染流感後應提高警覺。 </p>
+<p> 必須特別注意是否出現如呼吸短促、呼吸困難、發紺、血痰或濃痰、胸痛、意識改變、低血壓或高燒持續72小時等危險症狀，應即刻前往大醫院治療，掌握黃金治療時間。春節期間流感防疫也不打烊，疾管局已請各縣市協調約210家急診服務合約醫院，於春節期間開診持續提供公費藥劑予民眾使用，民眾如不知可到何處求治，可洽所在地衛生局，或撥打24小時免費防疫諮詢專線「1922」詢問。 </p>
+<p> 圖說:為避免流感病毒傳播，疾管局提醒民眾要注意「咳嗽禮節」，如有呼吸道症務必戴上口罩。（記者盧育君攝） </p>
+<p> 最多人看的健康新聞 </p>
+<p> 沒事亂補維他命  專家警告有生命危險 </p>
+<p> 來台灣跨年 馬來西亞遊客眼睛蟲蟲入侵.. </p>
+<p> 吃含過氧化氫食材傷腸胃！教您檢測法 </p>
+<p> 車禍導致老二變短　男子獲賠2.2億台幣 </p>
+<p> 清理內心的垃圾　才是真正的「清屯」 </p>
+<p> B型流感又奪命！4死都未打疫苗 </p>
+<p> 李國修術後復原良好　王月感謝各界關心 </p>
+<p> 遭蜱蟲叮咬眼瞼好痛！愛狗婦人遭殃 </p>
+<p> 異物侵眼　竟是狗兒寄生蟲 </p>
+<p> 炸年糕好吃熱量也高　2塊等於1個便當 </p>
+<p> 即時電視新聞 </p>
+<p> 大魯閣號撞車 台鐵：估23:00雙向通車 </p>
+<p> 國文作文「自勝者強」 考生喊好難 </p>
+<p> 砰！火車撞聯結車頂進車站 1死22傷 </p>
+<p> 火車撞車西幹線癱 影響20萬人次 </p>
+<p> 「雙手沾血有快感」 白衣天使失言 </p>
+<p> 扯！離譜毒夫妻 被抓棄兒女獨自逃 </p>
+<p> 沈富雄預言 2016朱立倫戰賴清德 </p>
+<p> 蔡英文敗選 綠營籲面對92共識 </p>
+<p> 滅鼠藥亂丟 愛犬誤食全身出血抽搐 </p>
+<p> 搶頭香換新鈔 紅色百元鈔限換萬元 </p>
+<p> document.write(unescape("%3Cscript src='" + (("https:" == document.location.protocol) ? "https://" : "http://") + "admd.yam.com/AD_L/?LID=E4.-1-_0AA.5_E**0*93.-_4AA17&CID=2D.-5-_121.7_0**B*E6.-_512D9&IMP=AB.-6-_6E4.2_7**2*68.-_17CF1&PV=A0.-3-_8E6.3_4**2*C6.-_0F706&MODE=AB.-6-_6E4.2_7**2*68.-_17CF1&APP=" + location.hash.replace(/[#]/g,"") + "&Charset=" + (document.characterSet ? document.characterSet.toUpperCase() : (document.charset ? document.charset.toUpperCase() : "UTF-8")) + "&RID=" + Math.random() + "&yamAD.js' type='text/javascript'%3E%3C/script%3E")); </p>
+<p> twysm_ad_id = "twysm_ad1"; twysm_ad_channel = "news_article"; twysm_ad_unit = "3_h"; </p>
+<p> 加值服務 </p>
+<p> document.write(unescape("%3Cscript src='" + (("https:" == document.location.protocol) ? "https://" : "http://") + "admd.yam.com/AD_L/?LID=1_-.*AB-72*.F8-0._0*1EE64_93&CID=2_-.*D5-12*.17-0._B*E6512_D9&IMP=A_-.*31-6E*.3E-4._9*3FAEF_BA&PV=A_-.*03-8E*.63-4._2*C60F7_06&MODE=A_-.*31-6E*.3E-4._9*3FAEF_BA&APP=" + location.hash.replace(/[#]/g,"") + "&Charset=" + (document.characterSet ? document.characterSet.toUpperCase() : (document.charset ? document.charset.toUpperCase() : "UTF-8")) + "&RID=" + Math.random() + "&yamAD.js' type='text/javascript'%3E%3C/script%3E")); </p>
+<p> 優惠情報 </p>
+<p> document.write(unescape("%3Cscript src='" + (("https:" == document.location.protocol) ? "https://" : "http://") + "admd.yam.com/AD_L/?LID=19_*.-*.6._5*2-78-C5C*_.8_-43C12&CID=2-D*__5-.12.1*7*__0-B.E6-5.12*D9&IMP=A-3*__1-.6E.3*E*__4-9.3F-A.EF*BA&PV=A-0*__3-.8E.6*3*__4-2.C6-0.F7*06&MODE=A-3*__1-.6E.3*E*__4-9.3F-A.EF*BA&APP=" + location.hash.replace(/[#]/g,"") + "&Charset=" + (document.characterSet ? document.characterSet.toUpperCase() : (document.charset ? document.charset.toUpperCase() : "UTF-8")) + "&RID=" + Math.random() + "&yamAD.js' type='text/javascript'%3E%3C/script%3E")); </p>
+<p> document.write(unescape("%3Cscript src='" + (("https:" == document.location.protocol) ? "https://" : "http://") + "admd.yam.com/AD_L/?LID=E*-C5**0.-.496_9A1__*.15-.4_E-0E&CID=2*-D5**1.-.217_0BE__*.65-.1_2-D9&IMP=C*-EA**4.-.F8B_3F2__*.5E-.C_6-89&PV=A*-03**8.-.E63_42C__*.60-.F_7-06&MODE=C*-EA**4.-.F8B_3F2__*.5E-.C_6-89&APP=" + location.hash.replace(/[#]/g,"") + "&Charset=" + (document.characterSet ? document.characterSet.toUpperCase() : (document.charset ? document.charset.toUpperCase() : "UTF-8")) + "&RID=" + Math.random() + "&yamAD.js' type='text/javascript'%3E%3C/script%3E")); </p>
+<p> document.write(unescape("%3Cscript src='" + (("https:" == document.location.protocol) ? "https://" : "http://") + "admd.yam.com/AD_L/?LID=2EC_-E75*.A2*-.3C-.*_67_-7.F_*3C&CID=F16_-BFE*.F5*-.D1-.*_ED_-7.4_*31&IMP=A27_-C5A*.20*-.2E-.*_E2_-D.E_*B1&PV=A03_-8E6*.34*-.2C-.*_60_-F.7_*06&MODE=A27_-C5A*.20*-.2E-.*_E2_-D.E_*B1&APP=" + location.hash.replace(/[#]/g,"") + "&Charset=" + (document.characterSet ? document.characterSet.toUpperCase() : (document.charset ? document.charset.toUpperCase() : "UTF-8")) + "&RID=" + Math.random() + "&yamAD.js' type='text/javascript'%3E%3C/script%3E")); </p>
+<p> 即時健康新聞 </p>
+<p> 來台灣跨年 馬來西亞遊客.. </p>
+<p> [17:03] 01-17 </p>
+<p> 流感又增4死 皆未接種流感.. </p>
+<p> [17:43] 01-17 </p>
+<p> 腦死女病患器捐 遺愛人間 </p>
+<p> [17:24] 01-17 </p>
+<p> 異物侵眼　竟是狗兒寄生蟲 </p>
+<p> [16:52] 01-17 </p>
+<p> 春節期間 210家醫院有免費.. </p>
+<p> [16:31] 01-17 </p>
+<p> B型流感又奪命！4死都未打.. </p>
+<p> [16:23] 01-17 </p>
+<p> 新聞專輯 </p>
+<p> NEWS最新 </p>
+<p> HOT熱門 </p>
+<p> 春節放長假 健康不NG </p>
+<p> 年關將近，媒體報導年菜的相關新聞，其中豐富的菜色令人垂涎三尺、十指大...«全文» </p>
+<p> 驚！速食套餐超油 過半破.. </p>
+<p> [10:08] 12-31 </p>
+<p> 流感疫情猛 咳嗽發燒要小.. </p>
+<p> [08:51] 12-30 </p>
+<p> NEWS最新 </p>
+<p> HOT熱門 </p>
+<p> 流感疫情猛 咳嗽發燒.. </p>
+<p> 台中市在週二、週三分別傳出國一女、五歲男童因流感併發症死亡，兩例都是...«全文» </p>
+<p> 驚！速食套餐超油 過半破.. </p>
+<p> [10:08] 12-31 </p>
+<p> 春節放長假 健康不NG </p>
+<p> [11:23] 01-15 </p>
+<p> $(document).ready(function(){ 		$("#lastnewsfocusbtn").bind('click', function(){ 			$("#hottnewsfocus").hide(); 			$("#lastnewsfocus").show(); 		}); 		$("#hottnewsfocusbtn").bind('click', function(){ 			$("#lastnewsfocus").hide(); 			$("#hottnewsfocus").show(); 		}); 	}); </p>
+<p> document.write(unescape("%3Cscript src='" + (("https:" == document.location.protocol) ? "https://" : "http://") + "admd.yam.com/AD_L/?LID=F.14_2*E_57B0EF3D--*-.2_*.62&CID=2.D5_1*2_170BE651--*-.2_*.D9&IMP=A.B6_6*E_42726817--*-.C_*.F1&PV=A.03_8*E_6342C60F--*-.7_*.06&MODE=A.B6_6*E_42726817--*-.C_*.F1&APP=" + location.hash.replace(/[#]/g,"") + "&Charset=" + (document.characterSet ? document.characterSet.toUpperCase() : (document.charset ? document.charset.toUpperCase() : "UTF-8")) + "&RID=" + Math.random() + "&yamAD.js' type='text/javascript'%3E%3C/script%3E")); </p>
+<p> 圖片專輯 </p>
+<p> NEWS最新 </p>
+<p> HOT熱門 </p>
+<p> 第69屆金球獎星光大道 </p>
+<p> 今年的金球獎典禮紅地毯，依舊是爭奇鬥艷，有許多驚喜，安潔莉娜裘莉、莎...«全文» </p>
+<p> 迎曙光 全台槓龜 </p>
+<p> [06:00] 01-02 </p>
+<p> 跨年演唱多組藝人趕場 </p>
+<p> [06:01] 01-02 </p>
+<p> 迎2012 跨年夜璀璨 </p>
+<p> [01:27] 01-01 </p>
+<p> 士林夜市迎賓 人潮擠爆現.. </p>
+<p> [19:00] 12-25 </p>
+<p> NEWS最新 </p>
+<p> HOT熱門 </p>
+<p> 士林夜市迎賓 人潮擠爆.. </p>
+<p> 新士林市場耶誕假期正式開幕迎賓，傍晚起，大批饕客從捷運站、搭遊覽車趕......«全文» </p>
+<p> 迎曙光 全台槓龜 </p>
+<p> [06:00] 01-02 </p>
+<p> 迎2012 跨年夜璀璨 </p>
+<p> [01:27] 01-01 </p>
+<p> 跨年演唱多組藝人趕場 </p>
+<p> [07:37] 01-02 </p>
+<p> 第69屆金球獎星光大道 </p>
+<p> [15:59] 01-16 </p>
+<p> $(document).ready(function(){ 		$("#lastphotofocusbtn").bind('click', function(){ 			$("#hotphotofocus").hide(); 			$("#lastphotofocus").show(); 		}); 		$("#hotphotofocusbtn").bind('click', function(){ 			$("#lastphotofocus").hide(); 			$("#hotphotofocus").show(); 		}); 	}); </p>
+<p> 熱門討論 </p>
+<p> 討論最新 </p>
+<p> 討論最熱 </p>
+<p> 大選直擊／目前得票最低　宋臉.. </p>
+<p> [20:06] 01-14 </p>
+<p> 流感再奪2命 累計20死 </p>
+<p> [10:08] 01-11 </p>
+<p> 討論最新 </p>
+<p> 討論最熱 </p>
+<p> 流感再奪2命 累計20死 </p>
+<p> [10:08] 01-11 </p>
+<p> 大選直擊／目前得票最低　宋臉.. </p>
+<p> [20:06] 01-14 </p>
+<p> $(document).ready(function(){ 		$("#lastforumbtn").bind('click', function(){ 			$("#hotforum").hide(); 			$("#lastforum").show(); 		}); 		$("#hotforumbtn").bind('click', function(){ 			$("#lastforum").hide(); 			$("#hotforum").show(); 		}); 	}); </p>
+<p> 雜誌最新 </p>
+<p> ■洪寶山：找工作如.. </p>
+<p> 上周出席一場新書發表會，會後幾位我的廣播節目「理財我最...«全文» </p>
+<p> ■NB廠反撲 供應鏈動起來 </p>
+<p> ■總統大選前 北部建商強.. </p>
+<p> 健康推薦新聞 </p>
+<p> 乾杯！酒精使人心情變好？ </p>
+<p> [14:56] 01-17 </p>
+<p> 邊走邊聽音樂　行人事故風險增3.. </p>
+<p> [14:00] 01-17 </p>
+<p> 國健局教你聰明吃零食　健康過好.. </p>
+<p> [11:57] 01-17 </p>
+<p> 年節食品抽查　蠶豆含漂白劑　豆.. </p>
+<p> [10:46] 01-17 </p>
+<p> 防冬季濕疹香港腳 醫師：足部保.. </p>
+<p> [12:24] 01-17 </p>
+<p> 春節聚餐應酬多  小心身材走樣 </p>
+<p> [11:19] 01-17 </p>
+<p> 9天假期踏青森林浴　芬多精抗焦.. </p>
+<p> [12:13] 01-17 </p>
+<p> 寵物界帝寶　奢華狗屋要價近14萬 </p>
+<p> [11:35] 01-17 </p>
+<p> 流感又增4死 皆未接種流感疫苗 .. </p>
+<p> [17:43] 01-17 </p>
+<p> 幾家歡樂幾家愁　大選後憂鬱症多.. </p>
+<p> [13:32] 01-17 </p>
+<p> document.write(unescape("%3Cscript src='" + (("https:" == document.location.protocol) ? "https://" : "http://") + "admd.yam.com/AD_L/?LID=74C_3**..*9D*_-E.2D-_.A--B_B5CAE&CID=2D5_1**..*21*_-7.0B-_.E--6_512D9&IMP=AA8_A**..*CA*_-F.D6-_.3--1_AECDA&PV=A03_8**..*E6*_-3.42-_.C--6_0F706&MODE=AA8_A**..*CA*_-F.D6-_.3--1_AECDA&APP=" + location.hash.replace(/[#]/g,"") + "&Charset=" + (document.characterSet ? document.characterSet.toUpperCase() : (document.charset ? document.charset.toUpperCase() : "UTF-8")) + "&RID=" + Math.random() + "&yamAD.js' type='text/javascript'%3E%3C/script%3E")); </p>
+<p> //相關新聞 		$(document).ready(function(){ 			$.ajax({ 				url: 'http://n.yam.com/api/similar_article.php', 				type: "GET", 				data: "nid=20120117825794", 				success: function(data) { 					$('#similar').html(data); 				} 			}); 		 			$("#sbtn").bind('click', function(){ 				$("#content").removeClass().addClass("LeftPhotoInfo_S"); 				btn_init(); 				$("#sbtn").attr({ src: "/i/content/wsize01_2.gif" }); 			}); 			$("#mbtn").bind('click', function(){ 				$("#content").removeClass().addClass("LeftPhotoInfo_M"); 				btn_init(); 				$("#mbtn").attr({ src: "/i/content/wsize02_2.gif" }); 			}); 			$("#lbtn").bind('click', function(){ 				$("#content").removeClass().addClass("LeftPhotoInfo_L"); 				btn_init(); 				$("#lbtn").attr({ src: "/i/content/wsize03_2.gif" }); 			}); 			$("#xlbtn").bind('click', function(){ 				$("#content").removeClass().addClass("LeftPhotoInfo_XL"); 				btn_init(); 				$("#xlbtn").attr({ src: "/i/content/wsize04_2.gif" }); 			}); 		}); 		function btn_init() 		{ 			$("#sbtn").attr({ src: "/i/content/wsize01.gif" }); 			$("#mbtn").attr({ src: "/i/content/wsize02.gif" }); 			$("#lbtn").attr({ src: "/i/content/wsize03.gif" }); 			$("#xlbtn").attr({ src: "/i/content/wsize04.gif" }); 		} </p>
+<p> try{     var _gaq = _gaq || [];     _gaq.push(         ['news._setAccount', 'UA-8466594-3'],         ['news._setDomainName', '.yam.com'],         ['news._trackPageview'] ,          ['yam_all._setAccount', 'UA-16227618-1'],         ['yam_all._setDomainName', '.yam.com'],         ['yam_all._trackPageview']     );     (function() {         var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;         ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);     })(); } catch(err){} </p>
+<p> document.write(unescape("%3Cscript src='" + (("https:" == document.location.protocol) ? "https://" : "http://") + "admd.yam.com/AD_L/?LID=627ABE_1.-_9_-2.1-.0***081D1&CID=2D5121_7.-_0_-B.E-.6***512D9&IMP=14FD4E_0.-_2_-6.6-.3***FC935&PV=70CDC9_4.-_B_-2.5-.3***5CD5B&MODE=14FD4E_0.-_2_-6.6-.3***FC935&APP=" + location.hash.replace(/[#]/g,"") + "&Charset=" + (document.characterSet ? document.characterSet.toUpperCase() : (document.charset ? document.charset.toUpperCase() : "UTF-8")) + "&RID=" + Math.random() + "&yamAD.js' type='text/javascript'%3E%3C/script%3E")); </p>
+<p> $('#fb_share').click(function(){ _gaq.push(['news._trackEvent',"單文-fb_share",'click','single_fb_share']); }); $('#pt_share').click(function(){ _gaq.push(['news._trackEvent',"單文-pt_share",'click','single_pt_share']); }); $('#font_size').click(function(){ _gaq.push(['news._trackEvent',"單文-調整字級",'click','single_font_size']); }); $('#pk_btn').click(function(){ _gaq.push(['news._trackEvent',"單文-pk此新聞",'click','single_pk_btn']); }); $('#ec_like').click(function(){ _gaq.push(['news._trackEvent',"單文-ec_假的讚",'click','single_ec_like']); }); $('.LeftPhotoImg img').click(function(){ _gaq.push(['news._trackEvent',"單文-內文_圖",'click',$(this).attr('src')]); }); $('#similar').click(function(){ _gaq.push(['news._trackEvent',"單文-相關新聞",'click','單文-相關新聞']); }); $('#ad_600_100').click(function(){ _gaq.push(['news._trackEvent',"單文-ad_600_100",'click','single_ad_600_100']); }); $('#service').click(function(){ _gaq.push(['news._trackEvent',"單文-加值服務",'click','single_service']); }); $('#info').click(function(){ _gaq.push(['news._trackEvent',"單文-優惠情報",'click','single_info']); }); $('#ad_300_250').click(function(){ _gaq.push(['news._trackEvent',"單文-ad_300_250",'click','single_ad_300_250']); }); $('#ad_300_100').click(function(){ _gaq.push(['news._trackEvent',"單文-ad_300_100",'click','single_ad_300_100']); }); $('#ad_adqoo').click(function(){ _gaq.push(['news._trackEvent',"單文-ad_adqoo",'click','single_ad_adqoo']); }); $('#ad_cnyes').click(function(){ _gaq.push(['news._trackEvent',"單文-ad_cnyes",'click','single_ad_cnyes']); });  $('#lastnewsfocus a').click(function(){ _gaq.push(['news._trackEvent',"單文-最新新聞專輯",'click',$(this).text()]); }); $('#hottnewsfocus a').click(function(){ _gaq.push(['news._trackEvent',"單文-熱門新聞專輯",'click',$(this).text()]); }); $('#lastphotofocus a').click(function(){ _gaq.push(['news._trackEvent',"單文-最新圖片專輯",'click',$(this).text()]); }); $('#hotphotofocus a').click(function(){ _gaq.push(['news._trackEvent',"單文-熱門圖片專輯",'click',$(this).text()]); });  $('#lastforum a').click(function(){ _gaq.push(['news._trackEvent',"單文-最新討論",'click',$(this).text()]); }); $('#hotforum a').click(function(){ _gaq.push(['news._trackEvent',"單文-熱門討論",'click',$(this).text()]); }); $('#hotnews a').click(function(){ _gaq.push(['news._trackEvent',"單文-分類推薦新聞",'click',$(this).text()]); }); $('#lastmagazine a').click(function(){ _gaq.push(['news._trackEvent',"單文-雜誌最新",'click',$(this).text()]); });  $('.MenuOtherDiv a').click(function(){ _gaq.push(['news._trackEvent',"單文-次目錄",'click',$(this).text()]); });  $('#hotview').click(function(){ _gaq.push(['news._trackEvent',"單文-最多人看的新聞",'click','hot']); }); $('#realvideo a').click(function(){ _gaq.push(['news._trackEvent',"單文-即時電視新聞",'click',$(this).text()]); });  $('.headerList a').click(function(){ _gaq.push(['news._trackEvent',"單文-最上方登入bar",'click',$(this).text()]); }); </p>

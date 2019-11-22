@@ -1,0 +1,250 @@
+<p> Россияне считают элитой В.  Путина и А.  Пугачеву :: Общество :: Top.rbc.ru </p>
+<p> function noError(){return true;}   window.onerror = noError; </p>
+<p> function recordOutboundLink(link, category, action) { 			try { 				_gat._createTracker("UA-35962676-1","myT"); 				_gat._getTrackerByName("myT")._trackEvent(category, action); 				setTimeout('document.location = "' + link.href + '"', 100); 			} catch(err) {} 		} </p>
+<p> var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-35962676-1']); _gaq.push(['_setDomainName', 'top.rbc.ru']); ['_addOrganic', 'images.yandex.ru', 'text', true],  ['_addOrganic', 'blogsearch.google.ru', 'q', true],  ['_addOrganic', 'blogs.yandex.ru', 'text', true] _gaq.push(['_trackPageview']); _gaq.push(['_setAllowLinker', true]);   (function() {     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })(); </p>
+<p> (function (d, w, c) {     (w[c] = w[c] || []).push(function() {         try {             w.yaCounter16443178 = new Ya.Metrika({id:16443178, enableAll: true, webvisor:true});         } catch(e) { }     });          var n = d.getElementsByTagName("script")[0],         s = d.createElement("script"),         f = function () { n.parentNode.insertBefore(s, n); };     s.type = "text/javascript";     s.async = true;     s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";      if (w.opera == "[object Opera]") {         d.addEventListener("DOMContentLoaded", f);     } else { f(); } })(document, window, "yandex_metrika_callbacks"); </p>
+<p> <!--  document.write("<img src='http://counter.yadro.ru/hit;RBCRU?r"+  escape(document.referrer)+((typeof(screen)=="undefined")?"":  ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?  screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+  ";"+Math.random()+  "' width=1 height=1 alt=''>")//--> </p>
+<p> var img = new Image(); img.src = 'http://www.tns-counter.ru/V13a***R>' + document.referrer.replace(/\*/g,'%2a') + '*rbc_ru/ru/UTF-8/tmsec=rbc_total/' + Math.round(Math.random() * 1000000000); </p>
+<p> Bbody.next(".4babd35f000"); if ( Cookie && typeof(Cookie) == 'object') { 	var cookie_var = ""; 	if( cookie_var.length > 0 && cookie_var != '(none)' && cookie_var.indexOf('CUR_SHOW') == -1 ) { 	Cookie.set("count_nielsen_general.20081013133438.85304", cookie_var, 1); 	} } </p>
+<p> <!-- var random = Math.floor(Math.random() * 1000000000); document.write('<scr' + 'ipt language="JavaScript" src="http://engine.rbc.medialand.ru/code?pid=1239&gid=6&oin=1&rid=' + random +'"></scr' + 'ipt>'); // --> </p>
+<p> <!-- 		u="count.rbc.ru/p52.gif";d=document;nv=navigator;na=nv.appName;p=0;j="N"; 		n=(na.substring(0,2)=="Mi")?0:1;y=""; 		y+="<img src='http://"+u+"?r="+escape(d.referrer)+"&width="+screen.width+"&height="+screen.height+"&hash="+escape(d.location.hash.substr(1))+"&rn="+Math.random(); 		y+="' border=0 width=1 height=1 alt='count'>"; 		d.write(y);if(!n) { d.write("<"+"!--"); }//--> </p>
+<p> <!-- 		if(!n) { d.write("--"+">"); }//--> </p>
+<p> <!-- var random = Math.floor(Math.random() * 1000000000); document.write('<scr' + 'ipt language="JavaScript" src="http://engine.rbc.medialand.ru/code?pid=1137&gid=2&oin=1&rid=' + random +'"></scr' + 'ipt>'); // --> </p>
+<p> РБК </p>
+<p> regionBlock.setData("world");                 regionChoose.setData("world"); </p>
+<p> //create init $(function(){ 	RBCWeatherWidget.init( '#w-weather_clock' ); }); </p>
+<p> <!-- var random = Math.floor(Math.random() * 1000000000); document.write('<scr' + 'ipt language="JavaScript" src="http://engine.rbc.medialand.ru/code?pid=1155&gid=2&oin=1&rid=' + random +'"></scr' + 'ipt>'); // --> </p>
+<p> Доллар </p>
+<p> 31.055 </p>
+<p> -0.21% </p>
+<p> Евро </p>
+<p> 40.620 </p>
+<p> 0.12% </p>
+<p> Авто </p>
+<p> Спорт </p>
+<p> Недвижимость </p>
+<p> Quote </p>
+<p> РБК-ТВ </p>
+<p> Стиль </p>
+<p> Рейтинги </p>
+<p> Кредиты </p>
+<p> Исследования </p>
+<p> ТВ </p>
+<p> CNews </p>
+<p> RBK Money </p>
+<p> Туризм </p>
+<p> <!-- var random = Math.floor(Math.random() * 1000000000); var dreferrer = document.referrer; try { dreferrer = window.parent.document.referrer } catch(e) {} try { dreferrer = dreferrer.substr(0, 256) } catch(e) { dreferrer = "" } document.write('<scr' + 'ipt language="JavaScript" src="http://engine.rbc.medialand.ru/code?pid=1371&gid=2&oin=1&rid=' + random +'&dreferer='+escape(dreferrer)+'"></scr' + 'ipt>'); // --> </p>
+<p> Политика </p>
+<p> Экономика </p>
+<p> Происшествия </p>
+<p> Общество </p>
+<p> Прямая речь </p>
+<p> Здоровье </p>
+<p> Потребрынок </p>
+<p> Календарь </p>
+<p> Фоторепортажи </p>
+<p> Общество </p>
+<p> Россияне считают элитой В.Путина и А.Пугачеву </p>
+<p> назад </p>
+<p> вперед </p>
+<p> РБК </p>
+<p> РБК </p>
+<p> Статьи по теме: </p>
+<p> Среди россиян набирают популярность М.Прохоров и партия "Яблоко" </p>
+<p> Социологи зафиксировали снижение рейтинга В.Путина </p>
+<p> Всероссийский центр изучения общественного мнения (ВЦИОМ) провел опрос жителей страны о том, кого они считают элитой российского общества. </p>
+<p> Рейтинг элиты в этом году, как и прежде, возглавляет премьер-министр </p>
+<p> Владимир Путин </p>
+<p> , за него высказались 58% опрошенных. </p>
+<p> Далее следует президент </p>
+<p> Дмитрий Медведев </p>
+<p> с 42%. Затем идут примадонна российской эстрады Алла Пугачева (19%), лидер ЛДПР </p>
+<p> Владимир Жириновский </p>
+<p> , председатель КПРФ </p>
+<p> Геннадий Зюганов </p>
+<p> и миллиардер </p>
+<p> Михаил Прохоров </p>
+<p> – с 12% голосов. Лидер "Справедливой России" </p>
+<p> Сергей Миронов </p>
+<p> и ведущий Андрей Малахов набрали по 10% голосов. </p>
+<p> Первую десятку российской элиты замыкают патриарх Кирилл и певец Филипп Киркоров (по 9%). </p>
+<p> В первой четверти рейтинга расположились также популярный юморист Максим Галкин, режиссер Никита Михалков, детский врач Леонид Рошаль, актер Сергей Безруков, мэр Москвы </p>
+<p> Сергей Собянин </p>
+<p> , основатель партии "Яблоко" Григорий Явлинский. </p>
+<p> Инициативный всероссийский опрос ВЦИОМ проведён 24-25 декабря 2011г. Опрошено 1600 человек в 138 населенных пунктах в 46 областях, краях и республиках России. Статистическая погрешность не превышает 3,4%. </p>
+<p> Теги: </p>
+<p> Путин Владимир Владимирович </p>
+<p> , </p>
+<p> ВЦИОМ </p>
+<p> , </p>
+<p> Пугачев </p>
+<p> , </p>
+<p> российское общество </p>
+<p> , </p>
+<p> общественное мнение </p>
+<p> 04 января 2012 г. </p>
+<p> function ashare( el ) {             if ( el.tagName.toLowerCase() != 'a' ) {                 return;             }             var p = {                     w : 600,                     h : 380,                     l : ( this.w - 600 ) / 2,                     t : ( this.h - 400 ) / 2             };             if ( p.l < 0 || p.t < 0 ) {                 p.l = p.t = 0;             }             var w = window.open( '', 'Article share', 'top='+p.t+',left='+p.l+',width='+p.w+',height='+p.h );             w.document.write( 'Loading...' );             w.location.href = el.href;         } </p>
+<p> Tweet </p>
+<p> 0 </p>
+<p> обсудить на форуме </p>
+<p> | </p>
+<p> печать </p>
+<p> | </p>
+<p> вставить в блог </p>
+<p> | </p>
+<p> отправить на e-mail </p>
+<p> | </p>
+<p> document.write('<img src="http://pics.top.rbc.ru/top_pics/s.gif?id=632598&pub=20120104">'); </p>
+<p> // <![CDATA[ Bbody.next(".6de0c3b1000"); if ( Cookie && typeof(Cookie) == 'object') {    var cookie_var = "";    if( cookie_var.length > 0 && cookie_var != '(none)' && cookie_var.indexOf('CUR_SHOW') == -1 ) {        Cookie.set("top_informers.20111102161023.142818", cookie_var, 1);    } } // ]]> </p>
+<p> <!-- var random = Math.floor(Math.random() * 1000000000); document.write('<scr' + 'ipt language="JavaScript" src="http://engine.rbc.medialand.ru/code?pid=1245&gid=15&oin=1&rid=' + random +'"></scr' + 'ipt>'); // --> </p>
+<p> Статьи дня: </p>
+<p> В Нижегородской области под землю провалились три здания </p>
+<p> С.Степашин может уступить Т.Голиковой место в Счетной палате </p>
+<p> Устроивший бойню в техасском колледже орудовал резаком </p>
+<p> "Аэроэкспрессы" в Домодедово отменены из-за ДТП в Подмосковье </p>
+<p> Сеул: КНДР запустит баллистическую ракету уже сегодня </p>
+<p> Авантюрист с бесконечным обаянием. Юбилей Жан-Поля Бельмондо </p>
+<p> В Испании скончалась одна из самых красивых актрис ХХ века </p>
+<p> Мобильный прорыв Facebook - новый сервис Home </p>
+<p> В России впервые родился трубкозуб </p>
+<p> <!-- function ml_ph(p){document.write('<div id="magnaph'+p+'" style="display:none"></div>');}function ml_c(p){document.write('<div style="visibility:hidden;position:absolute"><iframe id="ml_c'+p+'" width=1 height=1 marginwidth=0 marginheight=0 scrolling=no frameborder=0></iframe></div>');}function ml_getCode(n,p,s){var d;if(n<10){try{if(document.all && !window.opera){d = window.frames['ml_c'+p].document;}else if(document.getElementById){d=document.getElementById('ml_c'+p).contentDocument;}}catch(e){}try{s+=(location.href!==undefined&&location.href!=''?'&l='+encodeURI(location.href):'')+(document.referrer!==undefined&&document.referrer!=''?'&r='+encodeURI(document.referrer):'');}catch(e){}if(d){d.write('<scr'+'ipt  charset="utf-8" src="'+s+'"></scr'+'ipt>');}else {setTimeout('ml_getCode('+(++n)+','+p+',"'+s+'")', 100);}}}var place_id ='6017';ml_ph(place_id); ml_c(place_id);ml_getCode(1,place_id,'http://adv.magna.ru/?id='+place_id+'&rid=' + Math.round(Math.random()*100000)); --> </p>
+<p> Материалы наших партнеров: </p>
+<p> function randomize_items0()  {  var arr = new Array();  			 		arr[0]='<li><a href="http://www.quote.ru/topnews/2013/04/10/33923043.html"><b>Quote.ru:</b> HSBC: Рост ВВП России вступает в фазу оживления </a></li>'; 		arr[1]='<li><a href="http://lf.rbc.ru/news/press/2013/04/09/224986.shtml"><b>Личные Финансы:</b> Потребительская активность россиян выросла за год на 16%</a></li>';var ind = Math.floor( Math.random() * (arr.length) );   document.write(arr[ind]);  } randomize_items0(); </p>
+<p> function randomize_items()  				{  					var arr = [];  					 		arr[0]='<li><a href="http://www.quote.ru/topnews/2013/04/10/33923043.html"><b>Quote.ru:</b> HSBC: Рост ВВП России вступает в фазу оживления </a></li>'; 		arr[1]='<li><a href="http://lf.rbc.ru/news/press/2013/04/09/224986.shtml"><b>Личные Финансы:</b> Потребительская активность россиян выросла за год на 16%</a></li>'; 					arr[0] = []; 				 				arr[0][0]='<li><a href="http://realty.rbc.ru/articles/29/03/2013/562949986390032.shtml"><b>Недвижимость</b>: Полонский благоустроил свою тюрьму</a></li>'; 			 					arr[1] = []; 				 				arr[1][0]='<li><a href="http://sport.rbc.ru/?news=scandals/newsline/20/03/2013/384687.shtml"><b>Спорт:</b> Фотографии олимпийской чемпионки на "сайте для взрослых" стали хитом</a></li>'; 			 				arr[1][1]='<li><a href="http://sport.rbc.ru/?news=winter/newsline/20/03/2013/384664.shtml"><b>Спорт:</b> Лучшие биатлонисты мира устроили стриптиз на трассе в России. Видео</a></li>'; 			 					arr[2] = []; 				 				arr[2][0]='<li><a href="http://style.rbc.ru/person/2013/03/07/15516/?from=look"><b>Стиль</b>: В Сети появились фото несуразной "Мисс России"</a></li>'; 			 					arr[3] = []; 				 				arr[3][0]='<li><a href="http://www.autonews.ru/automarket_news/news/1752680/"><b>Autonews.ru</b>: Допустимые 0,5 промилле признали законными</a></li>'; 			 				arr[3][1]='<li><a href="http://www.autonews.ru/automarket_news/news/1754160/"><b>Autonews.ru:</b> Новый скоростной режим введут с 1 мая</a></li>'; 			 				arr[3][2]='<li><a href="http://www.autonews.ru/autobusiness/news/1752674/"><b>Autonews.ru:</b> Самые красивые девушки мотор-шоу в Женеве. Фото</a></li>'; 			 		arr[9] = '<li><a href="http://www.iglobe.ru/promo/may/beach"><b>iGlobe:</b> Пляжный отдых на майские праздники по выгодным ценам</a></li>'; 	 					for( var i = 0; i < arr.length; i++ ){ 						 					arr[0] = []; 				 				arr[0][0]='<li><a href="http://realty.rbc.ru/articles/29/03/2013/562949986390032.shtml"><b>Недвижимость</b>: Полонский благоустроил свою тюрьму</a></li>'; 			 					arr[1] = []; 				 				arr[1][0]='<li><a href="http://sport.rbc.ru/?news=scandals/newsline/20/03/2013/384687.shtml"><b>Спорт:</b> Фотографии олимпийской чемпионки на "сайте для взрослых" стали хитом</a></li>'; 			 				arr[1][1]='<li><a href="http://sport.rbc.ru/?news=winter/newsline/20/03/2013/384664.shtml"><b>Спорт:</b> Лучшие биатлонисты мира устроили стриптиз на трассе в России. Видео</a></li>'; 			 					arr[2] = []; 				 				arr[2][0]='<li><a href="http://style.rbc.ru/person/2013/03/07/15516/?from=look"><b>Стиль</b>: В Сети появились фото несуразной "Мисс России"</a></li>'; 			 					arr[3] = []; 				 				arr[3][0]='<li><a href="http://www.autonews.ru/automarket_news/news/1752680/"><b>Autonews.ru</b>: Допустимые 0,5 промилле признали законными</a></li>'; 			 				arr[3][1]='<li><a href="http://www.autonews.ru/automarket_news/news/1754160/"><b>Autonews.ru:</b> Новый скоростной режим введут с 1 мая</a></li>'; 			 				arr[3][2]='<li><a href="http://www.autonews.ru/autobusiness/news/1752674/"><b>Autonews.ru:</b> Самые красивые девушки мотор-шоу в Женеве. Фото</a></li>'; 			var ind = Math.floor( Math.random() * (arr[i].length) ); 						document.write(arr[i][ind]); 					} 				} 				randomize_items(); </p>
+<p> function randomize_items2() {  				var arr = new Array(); 					 		arr[0] = '<li><a href="http://www.iglobe.ru/promo/may/beach"><b>iGlobe:</b> Пляжный отдых на майские праздники по выгодным ценам</a></li>'; 	var ind = Math.floor( Math.random() * (arr.length) ); 				document.write(arr[ind]); 			} 			randomize_items2(); </p>
+<p> Snob.ru: </p>
+<p> Казаки отправятся на «Селигер» </p>
+<p> <!-- var random = Math.floor(Math.random() * 1000000000); document.write('<scr' + 'ipt language="JavaScript" src="http://engine.rbc.medialand.ru/code?pid=1134&gid=2&oin=1&rid=' + random +'"></scr' + 'ipt>'); // --> </p>
+<p> $(document).ready(function() {         $('.content-wrapper .box').addtocopy({                 htmlcopytxt: '<br><br>Читать полностью: <a href="'+window.location.href+'">'+window.location.href+'</a>',                 minlen:35,                 addcopyfirst: false         }); 	Readmore.init(); }); </p>
+<p> Читайте также </p>
+<p> Самые красивые девушки мотор-шоу в Женеве. Фото </p>
+<p> Звезда "Дома-2" сразила Сеть своими фото </p>
+<p> Оставшиеся в живых мужчины вызвали небывалый ажиотаж </p>
+<p> Выбор редакции </p>
+<p> В Ереване произошли столкновения оппозиционеров с полицией </p>
+<p> Казаки научат участников "Селигера" ножевому бою </p>
+<p> Британская полиция разогнала праздновавших смерть Маргарет Тэтчер </p>
+<p> ЕС убеждает КНДР: Провокаций со стороны США и Южной Кореи нет </p>
+<p> <!-- var random = Math.floor(Math.random() * 1000000000); var dreferrer = document.referrer; try { dreferrer = window.parent.document.referrer } catch(e) {} try { dreferrer = dreferrer.substr(0, 256) } catch(e) { dreferrer = "" } document.write('<scr' + 'ipt language="JavaScript" src="http://engine.rbc.medialand.ru/code?pid=1130&gid=2&oin=1&rid=' + random +'&dreferer='+escape(dreferrer)+'"></scr' + 'ipt>'); // --> </p>
+<p> Autonews.Ru </p>
+<p> <!-- var random = Math.floor(Math.random() * 1000000000); var ml_informer_config =  {                     bannerWidth : 145, //ширина картинки баннера                     bannerHeight : 96,  //высота картинки баннера                                          placeholders :                      [                         {                             id : "auto_informer1_10_rbctop", //Ид элемента куда выводить баннеры                             total_banners : 1, //Сколько всего баннеров выводить                             align : "list", //как выводить баннеры (вертикально / горизонтально)                             bannerWidth : 145, //ширина картинки баннеров в этом плейсхолдера                             bannerHeight : 96 //высота картинки баннеров в этом плейсхолдера                         }                     ]             } document.write('<scr' + 'ipt language="JavaScript" src="http://engine.rbc.medialand.ru/code?pid=1290&gid=18&oin=1&rid=' + random +'"></scr' + 'ipt>');  // --> </p>
+<p> var arrayWithItems = [ 				 			]; 			 			 				var REDIRECT_URI = 'http://redir.rbc.ru/cgi-bin/redirect.cgi?'; 				var ITEMS_TO_SHOW = 1;  				var Cookie = { 					/** 					 * Установка значения куки 					 * 1) если на задавать параметр expires, то кука установится на год 					 * 2) чтобы удалить куку нужно задать отрицательное значение параметра expires 					 * 3) если задать параметр expires как "session", то кука станет сессионной 					 * @param {String} name 					 * @param {String} value 					 * @param {Number} expires 					 */ 					set: function( name, value, expires, domain ){ 						// дата истечения срока действия куки 						var expiresValue = ''; 						if( expires !== 'session' ){ 							expiresValue = 'expires=' + 								( new Date( new Date().getTime() + ( expires || 365 ) * 86400000 ) ).toGMTString() + '; ' 						} 						// запись куки 						document.cookie = name + '=' + value + '; ' + expiresValue + 'path=/' + ((domain) ? '; domain=' + domain : '');  					}, 					/** 					 * Получение значения куки 					 * @param {String} name 					 * @return значение куки с именем name 					 * @type String 					 */ 					get: function( name ){ 						var re = new RegExp( '\\s*' + name + '=' ); 						var cookies = document.cookie.split(';'); 						// проверка всех кук страницы 						for( var i = cookies.length; i--; ){ 							var c = cookies[i]; 							if ( re.test( c ) ){ return c.replace( re, '' ); } 						} 						return ''; 					} 				};  				 				window.onload = show_informers(); 				 				function show_informers() { 					var countInf = 0; 					return function() { 						if ( countInf++ > 0 ) return; 						//Cookie.set('someCounter','3'); 	 						//загружаем массив из куки 						var firstElementNumber = Cookie.get('firstElementNumber'); 						if (firstElementNumber) { 							var newArray = []; 							var y = firstElementNumber; 							for (var i = 0; i < arrayWithItems.length; i++) { 								newArray.push(arrayWithItems[y]); 								y++; 								if (y == arrayWithItems.length) { 									y = 0; 								} 							} 							arrayWithItems = newArray; 						} 						firstElementNumber++; 						if (firstElementNumber >= arrayWithItems.length) { 							firstElementNumber = 0; 						} 						//записываем новый порядок к куку 						Cookie.set('firstElementNumber', firstElementNumber); 	 						var informerContainer = document.getElementById('informer'); 						var oldContent = informerContainer.innerHTML; 	 						informerContainer.innerHTML = ''; 						var htmlCache = printInformer( arrayWithItems, ITEMS_TO_SHOW ); 	 						for ( var i = 0; i < htmlCache.length; i++ ) { 							informerContainer.appendChild( htmlCache[i] ); 						} 	 						informerContainer.innerHTML += oldContent; 					}  				} 				                  function create_element_first( itemToShow ) {                     var div = document.createElement('div');                     div.align = 'center';                      var href = document.createElement('a');                     href.href = REDIRECT_URI + itemToShow.url;                     href.title = itemToShow.header;                      var img = document.createElement('img');                     img.src = itemToShow.imgSrc;                     img.alt = itemToShow.header;                     img.width = 145;                     img.height = 96;                      href.appendChild( img );                     div.appendChild( href );                      img = null; href = null;                      return div;                 }                  function create_element_seconds( itemToShow ) {                     var li = document.createElement('li');                      var href = document.createElement('a');                     href.href = REDIRECT_URI + itemToShow.url;                     href.title = itemToShow.header;                      var text = document.createTextNode( itemToShow.header );                     href.appendChild( text );                      li.appendChild( href );                      href = null; text = null;                      return li;                 }  				function printInformer(array, numberOfItemsToShow) { 					htmlCache = []; 					var itemToShow = get_informer( array[0] ); 					if ( itemToShow ) { 						htmlCache.push( create_element_first( itemToShow ) ); 						htmlCache.push( create_element_seconds( itemToShow ) ); 					} 					for ( var i = 1; i < numberOfItemsToShow; i++ ) { 						itemToShow = get_informer( array[i] ); 						if ( itemToShow ) { 							htmlCache.push( create_element_seconds( itemToShow ) ); 						} 					}  					return htmlCache; 				}  				function get_informer( infpl ) { 					if ( ! infpl )			return false; 					if ( ! infpl.length )	return false; 					var num = Math.floor( Math.random() * infpl.length ); 					return infpl[ num ]; 				} </p>
+<p> Yтро.ru </p>
+<p> Монахиня спустила церковные деньги в казино </p>
+<p> Голикову отправят на поиски коррупционеров </p>
+<p> США хотели договориться с корейцами тайно </p>
+<p> Стиль </p>
+<p> По репутации Абрамовича нанесен серьезный удар. Видео </p>
+<p> Русская женщина привела в ужас Тома Круза </p>
+<p> Каково быть женой олигарха </p>
+<p> Недвижимость </p>
+<p> Подмосковные дачники теряют деньги из-за снегопадов </p>
+<p> В Солнцево построят новый микрорайон на 200 тыс. кв. м </p>
+<p> Башню "Россия" в "Москва-Сити" построят турки </p>
+<p> iGlobe - отели и билеты </p>
+<p> Выгодные предложения для отдыха в Европе на майские праздники </p>
+<p> Получите 6000 миль для Вашего путешествия </p>
+<p> Бонусные билеты на рейсы любой авиакомпании мира от 1000 миль </p>
+<p> РБК-Кредит </p>
+<p> Лучшие кредиты марта </p>
+<p> Выбор клиентов </p>
+<p> Горящие кредиты </p>
+<p> <!-- var random = Math.floor(Math.random() * 1000000000); var dreferrer = document.referrer; try { dreferrer = window.parent.document.referrer } catch(e) {} try { dreferrer = dreferrer.substr(0, 256) } catch(e) { dreferrer = "" } document.write('<scr' + 'ipt language="JavaScript" src="http://engine.rbc.medialand.ru/code?pid=1120&gid=2&oin=1&rid=' + random +'&dreferer='+escape(dreferrer)+'"></scr' + 'ipt>'); // --> </p>
+<p> Главное </p>
+<p> "Аэроэкспрессы" в Домодедово отменены из-за ДТП в Подмосковье </p>
+<p> Новости раздела </p>
+<p> Московским родителям сообщат об успеваемости их детей по SMS </p>
+<p> Российский банкир возглавил ФК "Монако" </p>
+<p> Сенат Франции разрешил однополые браки </p>
+<p> последние новости </p>
+<p> <!-- var random = Math.floor(Math.random() * 1000000000); var dreferrer = document.referrer; try { dreferrer = window.parent.document.referrer } catch(e) {} try { dreferrer = dreferrer.substr(0, 256) } catch(e) { dreferrer = "" } document.write('<scr' + 'ipt language="JavaScript" src="http://engine.rbc.medialand.ru/code?pid=1131&gid=2&oin=1&rid=' + random +'&dreferer='+escape(dreferrer)+'"></scr' + 'ipt>'); // --> </p>
+<p> Политика </p>
+<p> Сеул: КНДР запустит баллистическую ракету уже сегодня </p>
+<p> С.Степашин может уступить Т.Голиковой место в Счетной палате </p>
+<p> ЕС убеждает КНДР: Провокаций со стороны США и Южной Кореи нет </p>
+<p> последние новости </p>
+<p> Quote </p>
+<p> HSBC: Рост ВВП России вступает в фазу оживления </p>
+<p> Евро крепнет на борьбе с офшорами </p>
+<p> Минимумы по драгметаллам позади </p>
+<p> <!-- var random = Math.floor(Math.random() * 1000000000); document.write('<scr' + 'ipt language="JavaScript" src="http://engine.rbc.medialand.ru/code?pid=1141&gid=2&oin=1&rid=' + random +'"></scr' + 'ipt>'); // --> </p>
+<p> Экономика </p>
+<p> Л.Лаудер подарил музею картин на миллиард долларов </p>
+<p> Доллар снова медленно дорожает </p>
+<p> Биржа вновь идет вверх </p>
+<p> последние новости </p>
+<p> Происшествия </p>
+<p> "Аэроэкспрессы" в Домодедово отменены из-за ДТП в Подмосковье </p>
+<p> В аэропорту Красноярска у приземлившегося Boeing 767 загорелось шасси </p>
+<p> Устроивший бойню в техасском колледже орудовал резаком </p>
+<p> последние новости </p>
+<p> <!-- var random = Math.floor(Math.random() * 1000000000); document.write('<scr' + 'ipt language="JavaScript" src="http://engine.rbc.medialand.ru/code?pid=1124&gid=2&oin=1&rid=' + random +'"></scr' + 'ipt>'); // --> </p>
+<p> Спорт </p>
+<p> Андрей Аршавин обдумывает завершение карьеры </p>
+<p> СМИ: Сборная России проведет матч с Северной Ирландией 11 июня </p>
+<p> Kerzhakoved: Лучший форвард сборной России не забивает 150 дней </p>
+<p> CNews.ru </p>
+<p> Главу "Вконтакте" обвинили в наезде на полицейского </p>
+<p> Из "Роснано" уволился ИТ-директор </p>
+<p> Sony назвала цены новых телевизоров формата 4K </p>
+<p> Новости туризма </p>
+<p> Авиакомпании потеряли 26 миллионов чемоданов </p>
+<p> Россиянина в Паттайе ограбил леди-бой </p>
+<p> Red Wings превратят в лоукостер </p>
+<p> РБК </p>
+<p> О компании </p>
+<p> Услуги </p>
+<p> Реклама </p>
+<p> Контакты </p>
+<p> Вакансии </p>
+<p> Инвесторам </p>
+<p> Наша история </p>
+<p> Карта сайта </p>
+<p> Другие продукты РБК </p>
+<p> Loveplanet.ru - знакомства </p>
+<p> Readme.ru - новостной агрегатор </p>
+<p> qip.ru - общение </p>
+<p> tvidi.ru - детская соцсеть </p>
+<p> pochta.ru - почта </p>
+<p> anekdot.ru - юмор </p>
+<p> VideoLink - рекламная сеть </p>
+<p> Магна - контекстная реклама </p>
+<p> Хостинговые услуги </p>
+<p> КупонГид - все скидки </p>
+<p> Воспользуйтесь этим </p>
+<p> Новости </p>
+<p> Архив </p>
+<p> Семинары </p>
+<p> Кредит </p>
+<p> Бизнес Журнал </p>
+<p> Все замечания и пожелания присылайте на </p>
+<p> webmaster@top.rbc.ru </p>
+<p> . </p>
+<p> <!-- var random = Math.floor(Math.random() * 1000000000); var dreferrer = document.referrer; try { dreferrer = window.parent.document.referrer } catch(e) {} try { dreferrer = dreferrer.substr(0, 256) } catch(e) { dreferrer = "" } document.write('<scr' + 'ipt language="JavaScript" src="http://engine.rbc.medialand.ru/code?pid=1128&gid=4&oin=1&rid=' + random +'&dreferer='+escape(dreferrer)+'"></scr' + 'ipt>'); // --> </p>
+<p> Все права защищены и охраняются законом. © 1995 - 2013 РосБизнесКонсалтинг. </p>
+<p> Информация об ограничениях © </p>
+<p> Reuters </p>
+<p> , © </p>
+<p> AP </p>
+<p> . </p>
+<p> Подробнее о </p>
+<p> соблюдении авторских прав </p>
+<p> и </p>
+<p> размещении рекламы </p>
+<p> . </p>
+<p> initClickHeat( 				'top_rbc_ru_item', 				'http://ch.rbc.ru/click', 				[ 				'div.submenu', 				'div.content-wrapper div.container div.box-wrapper', 				'div.main-wrapper div.announce div.container', 				'.navigation', 				'.b-main-menu', 				'.header-top', 				'div.page-wrapper div.top-ad', 				'div.footer', 				] 			); </p>
+<p> <!-- if(!('_px_107134' in window)){_px_107134=new Image();_px_107134.src="http://pics.rbc.ru/ve49yj6fy/aaw8/img.gif?_s=ga_TOP.20090908152150.107134&_l=ga_TOP&_b=GoodAdvert/toprbc&r="+(Math.random()*65535);}//--> </p>
+<p> <!-- //var ml_start_point = "id_of_block";  var ml_markers = {'allow': '_ga1_on_', 'deny':'_ga1_off_'}; var ml_max_links = 5;  var random = Math.floor(Math.random() * 1000000000); document.write('<scr' + 'ipt language="JavaScript" src="http://engine.video-link.ru/code?pid=45755&gid=23&oin=1&rid=' + random +'"></scr' + 'ipt>'); // --> </p>
+<p> Bbody.next(".e4305b1a000"); if ( Cookie && typeof(Cookie) == 'object') {     var cookie_var = "";     if( cookie_var.length > 0 && cookie_var != '(none)' && cookie_var.indexOf('CUR_SHOW') == -1 ) {         Cookie.set("ga_TOP.20090908152150.107134", cookie_var, 1);     } } </p>
+<p> Мы умеем дружить! </p>
+<p> Добавьте РБК в друзья. </p>
+<p> Ищите нас на Facebook </p>
+<p> Нажмите кнопку «Мне нравится» (Like) </p>
+<p> Нажмите «Подписаться на новости» </p>
+<p> Дружите с РБК </p>
+<p> в Одноклассниках </p>
+<p> Добавьте РБК </p>
+<p> в свой Твиттер </p>
+<p> Закрыть окно </p>
+<p> $(document).ready(function() {         initFB(); 		tryVK(); 	}); 	 	function tryVK() { 		requirejs.config({ 		   baseUrl: 'http://userapi.com/js/api/', 		   urlArgs: '' 		}); 		 		require(['openapi'], function () { 			initVK(); 			tryTwitter(); 		}, function (err) { 			tryTwitter(); 		}); 	}; 	 	function tryTwitter() { 		requirejs.config({ 		   baseUrl: 'http://platform.twitter.com/' 		}); 		 		require(['widgets'], function () { 			initTwitter(); 			tryOdkl(); 		}, function (err) { 			tryOdkl(); 		}); 	}; 	 	function tryOdkl() { 		requirejs.config({ 		   baseUrl: 'http://stg.odnoklassniki.ru/share/' 		}); 		 		require(['odkl_share'], function () { 			initOdkl(); 		}, function (err) {}); 	}; 	 	function initFB() { 		if ( window.FB ) { 			$('.facebookButtonBig').css({visibility: 'visible'}); 			_ga.trackFacebook(); 		}; 	}; 	 	function initVK() { 		if ( window.VK ) { 			$('.VKbuttonBig').css({visibility: 'visible'}); 			try { VK.init({apiId: 2947582, onlyWidgets: true}) } catch(err) {};  			var title_654651 = $('TITLE').text(); 			try { 				VK.Widgets.Like("vk_like", {width: 130, pageTitle: title_654651, type: "button"}); 				_ga.trackVkontakte(); 			} catch(err) { $('.VKbuttonBig').hide() } 		}; 	}; 	 	function initTwitter() { 		if ( window.__twttrlr ) { 			$('.twitterButtonBig').css({visibility: 'visible'}); 			_ga.trackTwitter(); 		} 	}; 	 	function initOdkl() { 		if ( window.ODKL ) { 			$(window).load(function() { 				try { 					$('BODY').append('<link href="http://stg.odnoklassniki.ru/share/odkl_share.css" rel="stylesheet" />'); 					$('.odnoklassnikiButtonBig').css({visibility: 'visible'}); 					ODKL.init(); 				} catch(err) {} 			}); 		}; 	}; </p>
+<p> var _gaq = _gaq || [];     _gaq.push(['_setAccount', 'UA-35962676-1']);     _gaq.push(['_trackPageview']);     (function() {         var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;         ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);     })(); </p>

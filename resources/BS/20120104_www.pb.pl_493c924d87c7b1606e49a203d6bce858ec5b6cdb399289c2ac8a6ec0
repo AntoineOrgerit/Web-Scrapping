@@ -1,0 +1,402 @@
+<p> /* <![CDATA[ */ (function() {     var _min_d = Math.min(screen.width, screen.height);     if(_min_d>0 && _min_d<600) window.location = '/2538665,22337,apple-szykuje-niespodzianke?dimension='+_min_d; })(); /* ]]> */ </p>
+<p> Apple szykuje niespodziankę  | Tech - Puls Biznesu - telekomunikacja, programy, sprzęt, internet, gadżety </p>
+<p> var adoKeys = []; var adoVars = ""; </p>
+<p> /* (c)AdOcean 2003-2011 */ if(typeof ado!=="object"){ado={};ado.config=ado.preview=ado.placement=ado.master=ado.slave=function(){};}  ado.config({mode: "old", xml: false, characterEncoding: true}); ado.preview({enabled: true, emiter: "myao.adocean.pl", id: "y6g3tTbLJv6vLRZ.AfyeiXkCPM0gL3CNAik2rwTzhKD.N7"}); </p>
+<p> cookies_alert(); </p>
+<p> /* (c)AdOcean 2003-2012, pulsbiznesu.teleinformatyka.pb.pl.Panorama article */ ado.placement({id: 'ado-b5BLJumXmGFd38O7Z598q1vMDYJe1KcimAaopheq3rP.X7', server: 'myao.adocean.pl' }); </p>
+<p> Daj cynk </p>
+<p> Wersja na tablet </p>
+<p> Newsletter </p>
+<p> Prenumerata </p>
+<p> Sklep </p>
+<p> Archiwum </p>
+<p> Mój profil </p>
+<p> (function() {     var pbname = $.cookie('pbname');     if( pbname )     {         var name = '';         if( pbname.search(/^[-0-9]+$/)>=0 )         {             var aname = pbname.split("-");             for(var i in aname)                 name += String.fromCharCode(aname[i]);         }         else             name = pbname.replace(/\"/g,'');         if( name )         {             $('#profile_text').hide();             $('#username').html(name);         }     } })(); </p>
+<p> tech.pb.pl </p>
+<p> pb.pl </p>
+<p> Puls Inwestora </p>
+<p> Notowania </p>
+<p> Firma </p>
+<p> Ludzie biznesu </p>
+<p> Weekend </p>
+<p> Gazele </p>
+<p> Konferencje </p>
+<p> Blogi </p>
+<p> Wideo </p>
+<p> Tech </p>
+<p> Programy </p>
+<p> Sprzęt </p>
+<p> Usługi </p>
+<p> Internet </p>
+<p> Gadżety </p>
+<p> Apple szykuje niespodziankę </p>
+<p> function pb_popup(url) {     window.open( url, "pbpopup", "width=700,height=400,scrollbars=yes" );     return false; } </p>
+<p> 2012-01-03 09:06 </p>
+<p> KUP LICENCJĘ </p>
+<p> TR </p>
+<p> (function(d, s, id) {   var js, fjs = d.getElementsByTagName(s)[0];   if (d.getElementById(id)) return;   js = d.createElement(s); js.id = id;   js.src = "//connect.facebook.net/pl_PL/all.js#xfbml=1";   fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk')); </p>
+<p> // wykopywarka wersja kompaktowa (100x20)             var wykop_url=location.href;	// Link do strony             var wykop_title=encodeURIComponent(document.title);	// Tytuł strony (pobierany z <title>)             var wykop_desc=encodeURIComponent('Przykładowy opis');             var widget_bg='FFFFFF';             var widget_type='compact2';             var widget_bold=true;	// pogrubienie napisu Wykop - domyślnie true             var widget_url='http://www.wykop.pl/dataprovider/diggerwidget/?url='+(wykop_url)+'&title='+(wykop_title)+'&desc='+(wykop_desc)+'&bg='+(widget_bg)+'&type='+(widget_type)+'&bold='+(widget_bold);             document.write('<div><iframe src="'+widget_url+'" style="border:none;width:100px;height:20px;overflow:hidden;margin:0;padding:0;" frameborder="0" border="0"></iframe></div>'); </p>
+<p> Tweetnij </p>
+<p> !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs"); </p>
+<p> Apple zorganizuje konferencję prasową w drugiej połowie stycznia – informuje portal All Things D. </p>
+<p> Sklep Apple (Fot. Apple) </p>
+<p> Tagi </p>
+<p> Świat </p>
+<p> , </p>
+<p> Informatyka, internet </p>
+<p> , </p>
+<p> Po Godzinach </p>
+<p> , </p>
+<p> Gadżety </p>
+<p> <!-- google_ad_client = "ca-pub-0444287293673271"; /* artykul pod tagami 200x200 */ google_ad_slot = "6340925788"; google_ad_width = 200; google_ad_height = 200; //--> </p>
+<p> Konferencja nie będzie jednak dotyczyć debiutu iPada 3 bądź innego z urządzeń mobilnych, ale nowych rozwiązań wprowadzonych na platformach mediowych Apple. </p>
+<p> Materiał chroniony prawem autorskim - wszelkie prawa zastrzeżone. Wszelkie prawa w tym Autora, Wydawcy i Producenta bazy danych zastrzeżone. Jakiekolwiek dalsze rozpowszechnianie artykułów zabronione. Korzystanie z serwisu izamieszczonych w nim utworów i danych wyłącznie na zasadach określonych w Regulaminie Korzystania z Serwisu. </p>
+<p> Zapoznaj się z regulaminem. </p>
+<p> // wykopywarka wersja kompaktowa (100x20)             var wykop_url=location.href;	// Link do strony             var wykop_title=encodeURIComponent(document.title);	// Tytuł strony (pobierany z <title>)             var wykop_desc=encodeURIComponent('Przykładowy opis');             var widget_bg='FFFFFF';             var widget_type='compact2';             var widget_bold=true;	// pogrubienie napisu Wykop - domyślnie true             var widget_url='http://www.wykop.pl/dataprovider/diggerwidget/?url='+(wykop_url)+'&title='+(wykop_title)+'&desc='+(wykop_desc)+'&bg='+(widget_bg)+'&type='+(widget_type)+'&bold='+(widget_bold);             document.write('<div><iframe src="'+widget_url+'" style="border:none;width:100px;height:20px;overflow:hidden;margin:0;padding:0;" frameborder="0" border="0"></iframe></div>'); </p>
+<p> Tweetnij </p>
+<p> !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs"); </p>
+<p> /* (c)AdOcean 2003-2012, pulsbiznesu.teleinformatyka.pb.pl.po artykule */ ado.placement({id: 'ado-ddUG5JBskmxJGFtlkhK324E2UyNXy3HVE7Jp1AhWkxH.W7', server: 'myao.adocean.pl' }); </p>
+<p> var __nc_widgets = __nc_widgets || [];   var __nc_j = __nc_j || null;    __nc_widgets.push(['6CE0-2CE8-89BE-999C-1Sn8Y8', 'pb.pl', 'recommendation', 1, 1]);    (function() {     var __nc = document.createElement('script'); __nc.type = 'text/javascript'; __nc.async = true; __nc.id = 'Nextclick_Manager';     __nc.src = 'http://nextclick.pl/widget/widget.recommendation.1.js';     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(__nc, s);   })(); </p>
+<p> Komentarze </p>
+<p> więcej </p>
+<p> Wiadomości dnia na tech.pb.pl </p>
+<p> Microsoft i inni donoszą na Google </p>
+<p> Samsung pracuje nad „gigantycznym” Galaxy </p>
+<p> Hakerzy zagrażają polskim firmom </p>
+<p> Świat zaleją tablety i smartfony </p>
+<p> Google wykonuje miliard tłumaczeń dziennie </p>
+<p> Twórca Amazona zainwestował w portal biznesowy </p>
+<p> Zyski Samsunga biją prognozy </p>
+<p> „W 2017 roku Microsoft straci znaczenie” </p>
+<p> Unia sypnie 2,5 mld EUR na Polskę Cyfrową </p>
+<p> Columbus kończy działalność w Polsce </p>
+<p> Snajper 2 wystrzelił ćwierć miliona razy </p>
+<p> Piracki rekord pobity </p>
+<p> Superpracodawcy IT </p>
+<p> Bez szacunku dla służbowego tabletu </p>
+<p> Google wierzy w wiatr i słońce </p>
+<p> Wyświetl, co chcesz powiedzieć </p>
+<p> Prywatny sprzęt w pracy </p>
+<p> Półkownicy XXI wieku </p>
+<p> Polacy stworzą grę o podboju kosmosu </p>
+<p> 10 ulubionych banków polskich internautów </p>
+<p> $( function() {     makeHScroller($('#id_downunder')[0]) } ) </p>
+<p> function cnsr(c) {     $.get('/cnsr/' + c, function(data) {alert('Dziękujemy za zgłoszenie'); }); } </p>
+<p> nhi = new Image; nhi.src = '/hit/2538665?ref=&r=' + Math.random() + '&p=1'; </p>
+<p> window.___gcfg = {lang: 'pl'};    (function() {     var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;     po.src = 'https://apis.google.com/js/plusone.js';     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);   })(); </p>
+<p> /* (c)AdOcean 2003-2011, pulsbiznesu.teleinformatyka.pb.pl.3_kol_po_0 */ ado.placement({id: 'ado-fyo7qKlzOI2T.hNdEoc3dIvukbX_16ewCDoaSxPcGmf.F7', server: 'myao.adocean.pl' }); </p>
+<p> Polecamy </p>
+<p> Biznes rusza na łowy w Afryce </p>
+<p> Kulczyk zainwestuje 1 miliard dolarów </p>
+<p> Cukrowa rewolucja w biotechnologii </p>
+<p> Chiński handel zaskoczył deficytem </p>
+<p> Polaku, kontroluj wydatki </p>
+<p> new TWTR.Widget({   version: 2,   type: 'list',   rpp: 30,   interval: 30000,   title: 'tego nie możesz przegapić',   subject: 'Newsroom pb.pl',   width: 300,   height: 250,   theme: {     shell: {       background: '#745071',       color: '#1c1609'     },     tweets: {       background: '#ffffff',       color: '#444444',       links: '#b740c2'     }   },   features: {     scrollbar: true,     loop: false,     live: true,     behavior: 'all'   } }).render().setList('puls_biznesu', 'newsroom').start(); </p>
+<p> Przegląd </p>
+<p> Giełda </p>
+<p> Świat </p>
+<p> euro </p>
+<p> 4,12 </p>
+<p> +0.07% </p>
+<p> frank </p>
+<p> 3,37 </p>
+<p> +0.10% </p>
+<p> dolar </p>
+<p> 3,15 </p>
+<p> +0.10% </p>
+<p> DJ INDUSTRIAL </p>
+<p> 14673,46 </p>
+<p> +0.41% </p>
+<p> WIG20 </p>
+<p> – </p>
+<p> – </p>
+<p> więcej </p>
+<p> charts = [] var charturl = new Image; charturl.src = 'http://notowania.pb.pl/chart_hourly/SmallChart/PBWALEUR/110/80'; charts.push(charturl) var charturl = new Image; charturl.src = 'http://notowania.pb.pl/chart_hourly/SmallChart/PBWALCHF/110/80'; charts.push(charturl) var charturl = new Image; charturl.src = 'http://notowania.pb.pl/chart_hourly/SmallChart/PBWALUSD/110/80'; charts.push(charturl) var charturl = new Image; charturl.src = 'http://notowania.pb.pl/chart_hourly/SmallChart/PBFDJINDUSTRIAL/110/80'; charts.push(charturl) var charturl = new Image; charturl.src = 'http://notowania.pb.pl/chart_hourly/SmallChart/PL9999999987/110/80'; charts.push(charturl) </p>
+<p> Portfel PB </p>
+<p> 8314,35 </p>
+<p> +0.00% </p>
+<p> WIG20 </p>
+<p> – </p>
+<p> – </p>
+<p> WIG </p>
+<p> – </p>
+<p> – </p>
+<p> mWIG40 </p>
+<p> – </p>
+<p> – </p>
+<p> sWIG80 </p>
+<p> – </p>
+<p> – </p>
+<p> więcej </p>
+<p> charts = [] var charturl = new Image; charturl.src = 'http://notowania.pb.pl/chart_hourly/SmallChart/PBWALLPB/110/80'; charts.push(charturl) var charturl = new Image; charturl.src = 'http://notowania.pb.pl/chart_hourly/SmallChart/PL9999999987/110/80'; charts.push(charturl) var charturl = new Image; charturl.src = 'http://notowania.pb.pl/chart_hourly/SmallChart/PL9999999995/110/80'; charts.push(charturl) var charturl = new Image; charturl.src = 'http://notowania.pb.pl/chart_hourly/SmallChart/PL9999999912/110/80'; charts.push(charturl) var charturl = new Image; charturl.src = 'http://notowania.pb.pl/chart_hourly/SmallChart/PL9999999979/110/80'; charts.push(charturl) </p>
+<p> XETRA DAX PF </p>
+<p> 7637,51 </p>
+<p> -0.33% </p>
+<p> CAC 40 INDEX </p>
+<p> 3670,72 </p>
+<p> +0.11% </p>
+<p> DJ INDUSTRIAL </p>
+<p> 14673,46 </p>
+<p> +0.41% </p>
+<p> NAS  COMPSITE </p>
+<p> 3237,86 </p>
+<p> +0.48% </p>
+<p> NIKKEI 225 INDEX </p>
+<p> 13288,13 </p>
+<p> +0.73% </p>
+<p> więcej </p>
+<p> charts = [] var charturl = new Image; charturl.src = 'http://notowania.pb.pl/chart_hourly/SmallChart/PBFXETRADAXPF/110/80'; charts.push(charturl) var charturl = new Image; charturl.src = 'http://notowania.pb.pl/chart_hourly/SmallChart/PBFCAC40INDEX/110/80'; charts.push(charturl) var charturl = new Image; charturl.src = 'http://notowania.pb.pl/chart_hourly/SmallChart/PBFDJINDUSTRIAL/110/80'; charts.push(charturl) var charturl = new Image; charturl.src = 'http://notowania.pb.pl/chart_hourly/SmallChart/PBFNASCOMPSITE/110/80'; charts.push(charturl) var charturl = new Image; charturl.src = 'http://notowania.pb.pl/chart_hourly/SmallChart/PBFNIKKEI225INDEX/110/80'; charts.push(charturl) </p>
+<p> $(function() { 		$( "#TabSetControl513137913" ).tabs(); 	}); </p>
+<p> /* (c)AdOcean 2003-2012, pulsbiznesu.teleinformatyka.pb.pl.kol3sponsorowany */ ado.placement({id: 'ado-KlVa4LRTUy7DNi2la_eGcsIiE6BPT.IQJIC5ysfUFTL.37', server: 'myao.adocean.pl' }); </p>
+<p> Najnowsze </p>
+<p> Czytane </p>
+<p> Komentowane </p>
+<p> 08:15 </p>
+<p> Porównywarka kantorów w telefonie </p>
+<p> 08:15 </p>
+<p> To musisz wiedzieć przed sesją na GPW </p>
+<p> 08:12 </p>
+<p> RPP w centrum uwagi </p>
+<p> 08:11 </p>
+<p> "Kupuj" ATM </p>
+<p> 08:11 </p>
+<p> Demontaż OFE zaboli inwestorów z Książęcej </p>
+<p> 08:10 </p>
+<p> GPW i Wiener Boerse: związek z rozsądku </p>
+<p> więcej </p>
+<p> Columbus kończy działalność w Polsce </p>
+<p> 3 </p>
+<p> „W 2017 roku Microsoft straci znaczenie” </p>
+<p> 2 </p>
+<p> Google wierzy w wiatr i słońce </p>
+<p> Twórca Amazona zainwestował w portal biznesowy </p>
+<p> Czy to będzie nowy iPhone? </p>
+<p> Świat zaleją tablety i smartfony </p>
+<p> Koniec wiary w spadek cen mieszkań </p>
+<p> 9 </p>
+<p> Rybiński: najpierw operacja OFE, potem dewaluacja </p>
+<p> 9 </p>
+<p> Polskie obligacje najdroższe w historii </p>
+<p> 6 </p>
+<p> Budżet miał najgorszy start od dwóch dekad </p>
+<p> 6 </p>
+<p> Młodzi chcą trzy tysiące na rękę </p>
+<p> 6 </p>
+<p> Umowy śmieciowe to mit </p>
+<p> 5 </p>
+<p> $(function() { 		$( "#TabSetControl381293530" ).tabs(); 	}); </p>
+<p> Opinie </p>
+<p> » </p>
+<p> Eugeniusz Twaróg </p>
+<p> Porównywarka kantorów w telefonie </p>
+<p> Konrad Ryczko </p>
+<p> RPP w centrum uwagi </p>
+<p> Jacek Zalewski </p>
+<p> Wraca problem zrzucania z sań </p>
+<p> Juliusz Windorbski </p>
+<p> Zakupy na Zachodzie coraz droższe </p>
+<p> Marek Wierciszewski </p>
+<p> Wciąż bez przełomu na GPW </p>
+<p> $(window).load(function(){makeCarousel($("#opinie_node")[0], true)}) </p>
+<p> Wideo </p>
+<p> » </p>
+<p> Spokojnie, to tylko nalot </p>
+<p> Puls Inwestora </p>
+<p> Demontaż OFE zaboli inwestorów </p>
+<p> GPW i Wiener Boerse: związek z rozsądku </p>
+<p> Medycyna znów przyniosła zyski </p>
+<p> To musisz wiedzieć przed sesją na GPW </p>
+<p> Obligacje: 10 proc. odsetek to nie wyjątek </p>
+<p> więcej </p>
+<p> Forum </p>
+<p> » </p>
+<p> 1 </p>
+<p> no i dobrze. wysysają kapitał z całego świata, dosyć tego. </p>
+<p> 1 </p>
+<p> Sprytnie to zabójcze państwo chce skierować uwagę na banki zagraniczne w Polsce,by one przejeły zyski parabanków.Rezultat i tak będzie gorszy... </p>
+<p> 1 </p>
+<p> Różnica jest taka, że tym razem nie będzie już żadnego ratunku. </p>
+<p> Więcej </p>
+<p> /* (c)AdOcean 2003-2013, pulsbiznesu.teleinformatyka.pb.pl.skyscraper */ ado.placement({id: 'ado-KlVa4LRTUy7DNi2la_eGcsIiE6BPT.IQJIC5ysfUFTL.37', server: 'myao.adocean.pl' }); </p>
+<p> /* (c)AdOcean 2003-2013, pulsbiznesu.teleinformatyka.pb.pl.belka */ ado.placement({id: 'ado-Mt8LDebSSEbatbl8kY.qI0N7HRZaSEbGUbGF.OWW05D.87', server: 'myao.adocean.pl' }); </p>
+<p> Polecamy </p>
+<p> /* (c)AdOcean 2003-2013, pulsbiznesu.teleinformatyka.pb.pl.polecane 1 box */ ado.placement({id: 'ado-yCrrZO5CiKjlQ5OqFiAnBMB6ItfvwF3QQ87Q8ZzW1lX.m7', server: 'myao.adocean.pl' }); </p>
+<p> Weekend </p>
+<p> » </p>
+<p> Brytyjski Danone reglamentuje mleko dla dzieci </p>
+<p> Moto </p>
+<p> » </p>
+<p> Najlepiej sprzedające się auto świata, to... </p>
+<p> Kariera </p>
+<p> » </p>
+<p> Skoczkowie w centrach usług </p>
+<p> Nieruchomości </p>
+<p> » </p>
+<p> Polska ziemia tańsza od unijnej średniej </p>
+<p> Tech </p>
+<p> » </p>
+<p> Microsoft i inni donoszą na Google </p>
+<p> Logistyka </p>
+<p> » </p>
+<p> Lufthansa zatrudni w Krakowie </p>
+<p> Makro </p>
+<p> » </p>
+<p> Budżet miał najgorszy start od dwóch dekad </p>
+<p> New Connect </p>
+<p> » </p>
+<p> Fiten nie gra w zielone </p>
+<p> Emerytura </p>
+<p> » </p>
+<p> Prywatyzacja się kończy, nacjonalizacja... zaczyna </p>
+<p> $(window).load( function() {     setInterval( function(){makeCarousel( $("#recommended")[0] );}, 1000); } ) </p>
+<p> Sekcje </p>
+<p> Puls Inwestora </p>
+<p> » </p>
+<p> Demontaż OFE zaboli inwestorów </p>
+<p> GPW i Wiener Boerse: związek z rozsądku </p>
+<p> Medycyna znów przyniosła zyski </p>
+<p> To musisz wiedzieć przed sesją na GPW </p>
+<p> Firma </p>
+<p> » </p>
+<p> Polska: trzeci świat innowacji </p>
+<p> Zamieszanie na kasie </p>
+<p> Reprezentacja wciąż bez definicji </p>
+<p> W crowdfundingu postaw na wiarygodność </p>
+<p> Kariera </p>
+<p> » </p>
+<p> Skoczkowie w centrach usług </p>
+<p> Lufthansa zatrudni w Krakowie </p>
+<p> Zarobki w zarządzie OFE, to 53 tys. zł </p>
+<p> Młodzi chcą trzy tysiące na rękę </p>
+<p> Forex </p>
+<p> » </p>
+<p> „To jest niebezpieczne” </p>
+<p> Argentyński kryzys wraca po 12 latach </p>
+<p> Najlepsze waluty miesiąca </p>
+<p> Stawiają na koronę szwedzką </p>
+<p> Samorządy </p>
+<p> » </p>
+<p> Happy end w Toruniu? </p>
+<p> Poznań podpisał umowę </p>
+<p> na spalarnię w PPP </p>
+<p> 100 mln zł poszło „w błoto” </p>
+<p> Inwestycje w nekropoliach </p>
+<p> Eurokasa </p>
+<p> » </p>
+<p> 2 mld zł dla mikrofirm spoza metropolii </p>
+<p> Obierz kurs na szkolenie </p>
+<p> Ostatnie dotacje na Mazowszu </p>
+<p> MSP mniej skłonne do ryzyka </p>
+<p> Kontrakty </p>
+<p> » </p>
+<p> Zaprojektuj i wybuduj wieżę </p>
+<p> Wyjedź i promuj się za darmo w Moskwie </p>
+<p> Olsztyn znów zaprasza do budowy sortowni </p>
+<p> Ekologiczni konsultanci poszukiwani </p>
+<p> Energetyka </p>
+<p> » </p>
+<p> Talisman szykuje odwrót znad Wisły </p>
+<p> Tauron wyda 4 mld zł </p>
+<p> Zobacz energetykę przyszłości </p>
+<p> Spółki energetyczne straciły urok </p>
+<p> New Connect </p>
+<p> » </p>
+<p> Fiten nie gra w zielone </p>
+<p> Kuzyn Stąporkowa wchodzi na giełdę </p>
+<p> EI inwestuje w Elemental Holding </p>
+<p> Plasma System rośnie z energetyką </p>
+<p> Logistyka </p>
+<p> » </p>
+<p> Lufthansa zatrudni w Krakowie </p>
+<p> Najlepiej sprzedające się auto osobowe świata, to... </p>
+<p> Volkswagen wybiera między Polską i Turcją </p>
+<p> Rosyjska kolej zmienia zwrotnicę na Polskę </p>
+<p> Makro </p>
+<p> » </p>
+<p> Budżet miał najgorszy start od dwóch dekad </p>
+<p> Rząd chce płacić prezesom jak biznes </p>
+<p> BGK – ostatni bastion kominiarzy </p>
+<p> Słabość rynku pracy cementuje się na lata </p>
+<p> Emerytura </p>
+<p> » </p>
+<p> Prywatyzacja się kończy, nacjonalizacja... zaczyna </p>
+<p> "Nie można dopuścić, by atak na oszczędności Polaków okazał się skuteczny" </p>
+<p> "Najpierw operacja OFE, potem dewaluacja </p>
+<p> Rostowski: Rząd nie zlikwiduje OFE </p>
+<p> Nieruchomości </p>
+<p> » </p>
+<p> Polska ziemia tańsza od unijnej średniej </p>
+<p> Niepewność wokół dopłat </p>
+<p> Mieszkania jak przed dekadą </p>
+<p> Koniec wiary w spadek cen mieszkań </p>
+<p> Moto </p>
+<p> » </p>
+<p> Najlepiej sprzedające się auto świata, to... </p>
+<p> Volkswagen wybiera między Polską i Turcją </p>
+<p> Polska bardziej konkurencyjna od Brazylii </p>
+<p> Koreańczycy inwestują na Śląsku </p>
+<p> Tech </p>
+<p> » </p>
+<p> Microsoft i inni donoszą na Google </p>
+<p> Samsung pracuje nad „gigantycznym” Galaxy </p>
+<p> Hakerzy zagrażają polskim firmom </p>
+<p> Świat zaleją tablety i smartfony </p>
+<p> Retailing </p>
+<p> » </p>
+<p> Tesco kończy z lepszą marką </p>
+<p> Auchan wskoczył do sieci </p>
+<p> Handel dusi się pod kartami </p>
+<p> Jaśniejsza przyszłość ciemnego piwa </p>
+<p> $(window).load( function() {     makeCarousel( $("#id_sections")[0] ) } ) </p>
+<p> /* (c)AdOcean 2003-2013, pulsbiznesu.teleinformatyka.pb.pl.rectangle dolny */ ado.placement({id: 'ado-0XL6Pq9eQ1ClBTfPyhRV2l3pLzbRwU8zEMlntBl8aAv.x7', server: 'myao.adocean.pl' }); </p>
+<p> Oferty Pulsu Biznesu </p>
+<p> Tablet </p>
+<p> PB+ 3 miesiące </p>
+<p> Prenumerata </p>
+<p> E-prenumerata „Pulsu Biznesu” 6 miesiące + Tablet </p>
+<p> Prenumerata </p>
+<p> Kup bieżące e-wydanie Pulsu Biznesu </p>
+<p> $(window).load( function() {     makeCarousel( $("#id_pboffers")[0] ) } ) </p>
+<p> linker.go(); </p>
+<p> Zobacz o czym piszemy </p>
+<p> Serwisy </p>
+<p> Puls Inwestora </p>
+<p> » </p>
+<p> Notowania </p>
+<p> » </p>
+<p> Wersja na tablet </p>
+<p> » </p>
+<p> Konferencje </p>
+<p> » </p>
+<p> E-wydanie </p>
+<p> » </p>
+<p> Wersja mobilna </p>
+<p> » </p>
+<p> DODAJ NAS </p>
+<p> BBP </p>
+<p> O nas </p>
+<p> Pracuj u nas </p>
+<p> CSR </p>
+<p> Kontakt </p>
+<p> Sklep </p>
+<p> Prenumerata </p>
+<p> Publikacje </p>
+<p> Pakiety specjalne </p>
+<p> Raporty </p>
+<p> Konferencje </p>
+<p> Puls Biznesu </p>
+<p> Archiwum </p>
+<p> E-wydanie </p>
+<p> Reklama </p>
+<p> Pb.pl </p>
+<p> Regulamin </p>
+<p> Newsletter </p>
+<p> Widgety </p>
+<p> Reklama </p>
+<p> <!--//--><![CDATA[//><!-- var gemius_identifier = new String('d2LrqQdELFIaMxC.2uz.zbQX.F5KAOPFJzUuDLiPJHP.C7'); //--><!]]> </p>
+<p> /* <![CDATA[ */  bmone2n.addPosition('2610.1.2.30',''); bmone2n.getAd('go.arbopl.bbelements.com','',''+(typeof(bburlparam)=='string'?'&'+bburlparam:''),'iso-8859-2'); /* ]]> */ </p>
+<p> /* <![CDATA[ */ bmone2n.makeAd('2610.1.2.30'); /* ]]> */ </p>
+<p> /* <![CDATA[ */ bm12n_orig_onload = (window.onload) ? window.onload : null; function bm12n_onLoad() { bmone2n.moveAd();  if (bm12n_orig_onload) {bm12n_orig_onload();} } window.onload = bm12n_onLoad; /* ]]> */ </p>
+<p> /* <![CDATA[ */ {document.write('<script type="text/javascript" id="cafenews.pl#7648bfca304b70cf5006abd38e8fc43f"></'+'script><div id="cafenews.pl#cvb64mnc8vg4jd8gksd653jkadg7j6"></div>');setTimeout(function(){var d=new Date();document.getElementById("cafenews.pl#7648bfca304b70cf5006abd38e8fc43f").src='http://webservices.cafenews.pl/mpl/Static/Static.js?id=cafenews.pl#cvb64mnc8vg4jd8gksd653jkadg7j6&d='+d.getFullYear()+d.getMonth()+d.getDate();},250);} /* ]]> */ </p>
+<p> var bbSite='http___www.pb.pl'; var bbMainDomain='new.smartcontext.pl'; </p>
+<p> (function(){   function loadChartbeat() {     window._sf_endpt=(new Date()).getTime();     var e = document.createElement('script');     e.setAttribute('language', 'javascript');     e.setAttribute('type', 'text/javascript');     e.setAttribute('src',        (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +        "js/chartbeat.js");     document.body.appendChild(e);   }   var oldonload = window.onload;   window.onload = (typeof window.onload != 'function') ?      loadChartbeat : function() { oldonload(); loadChartbeat(); }; })(); </p>

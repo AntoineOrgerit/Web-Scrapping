@@ -1,0 +1,187 @@
+<p> var Window; // This fixes a Mootools conflict 			document.write('<style type="text/css">.esi { display: none; }</style>'); // Hides the ESI included comments </p>
+<p> Boring office environments make workers hit the booze  | Metro.co.uk </p>
+<p> var s_account="andmetroprod"; </p>
+<p> MetroMootools.articleId = '887114'; 			MetroMootools.categories = [ 			'news/uk' 			]; 			MetroMootools.channel = 'news'; 			MetroMootools.articleUrl = '/news/887114-boring-office-environments-make-workers-hit-the-booze'; 			MetroMootools.articleUrlFullCategory = '/news/887114-boring-office-environments-make-workers-hit-the-booze'; 			MetroMootools.articleHeadline = 'Boring office environments make workers hit the booze'; 			MetroMootools.facebookAppId = '176908729004638'; </p>
+<p> <!--[CDATA[ 		 			var adVars={ 				dartSiteId:"metro.uk", 				adAreaSiteId:"metro", 				adAreaId:"news", 				adSubareaId: 				 						"news" 					 				, 				adSection:"", 				adPageType:"ap", 				adContent:"", 				adArticleId:"887114", 				enableAds:true, 				env:"prod"}	 		 //]]--> </p>
+<p> Skip to main navigation </p>
+<p> Skip to main content </p>
+<p> Skip to search </p>
+<p> /* You may give each page an identifying name, server, and channel on the next lines. */s.pageName='/news/887114-boring-office-environments-make-workers-hit-the-booze';s.prop4='article';s.prop5='Boring office environments make workers hit the booze';s.prop6='887114';s.prop23='11-01-2012';s.prop24='18.45.42';var __request_props = {scrape:'',         trackingChannel:'',         trackingSubChannel:'',         trackingPageName:''         };s.channel=document.location.hostname;         s.prop1='news';         						 		s.prop2='news';  		s.prop11= AND.getCookie('authid') ? 'Logged In' : 'Logged Out';         s.prop21= AND.getCookie('userid') ? AND.getCookie('userid') : '';         s.prop22= '';         s.prop27='12/01/2012';         s.prop28='13:50:19';                  	var hasHadMyTopics=AND.getCookie('hasHadMyTopics');         	s.prop47 = (null != hasHadMyTopics) ? 'true' : 'false';                  	if (document.referrer) {          		var docReferrerHostMatches = new RegExp("://([^/]*)/.*").exec(document.referrer);         		/* Check just to be safe */         		if (docReferrerHostMatches) {         			var docReferrerHost = docReferrerHostMatches[1];         			s.prop29 = (docReferrerHost.indexOf(window.location.host) != -1) ? "" : docReferrerHost;         		}         	} else {         		s.prop29 = "direct";         	}                      if(__request_props.scrape == 'true') {                 if(!__request_props.trackingChannel || __request_props.trackingChannel == ''){                     s.prop1=document.location.hostname;                 }                 if(!__request_props.trackingSubChannel || __request_props.trackingSubChannel == ''  ) {                     s.prop2 = s.prop1;                 }                 if(!__request_props.trackingPageName || __request_props.trackingPageName == ''  ) {                     s.pageName=window.location.pathname;                 }else{                     s.pageName=__request_props.trackingPageName;                 }             }         /* Hierarchy Variables */         s.hier1=s.prop2; 		/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/ 		var s_code=s.t();if(s_code)document.write(s_code) </p>
+<p> <!-- 		if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-') 		//--> </p>
+<p> var _gaq = _gaq || [];         _gaq.push(['_setAccount', 'UA-17125577-1']);         _gaq.push(['_setDomainName', 'none']);         _gaq.push(['_setAllowLinker', true]);         _gaq.push(['_setCampSourceKey', 'ito']);         _gaq.push(['_trackPageLoadTime']);                                _gaq.push(['_setCustomVar', 1, 'author', 'METRO REPORTER', 3]);                                  _gaq.push(['_setCustomVar', 2, 'published_date', '2012-01-11', 3]);                          _gaq.push(['_trackPageview']);                       (function() {         var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;         ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);         })(); </p>
+<p> if(document.location.protocol=='http:'){                 var Tynt=Tynt||[];Tynt.push('astDOQVZCr37p2adbi-bpO');                 (function(){var s=document.createElement('script');s.async="async";s.type="text/javascript";s.src='http://tcr.tynt.com/ti.js';var h=document.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);})();                 } </p>
+<p> Metro </p>
+<p> Facebook </p>
+<p> Twitter </p>
+<p> Foursquare </p>
+<p> Home </p>
+<p> News </p>
+<p> Sport </p>
+<p> Showbiz </p>
+<p> TV </p>
+<p> Music </p>
+<p> Film </p>
+<p> Gaming </p>
+<p> Competitions </p>
+<p> More + </p>
+<p> Weird </p>
+<p> Tech & Gadgets </p>
+<p> Lifestyle </p>
+<p> Travel </p>
+<p> Pictures </p>
+<p> Video </p>
+<p> Football </p>
+<p> London 2012 Olympics </p>
+<p> Odd Balls </p>
+<p> Fantasy Football </p>
+<p> Footy Stats </p>
+<p> TV Reviews </p>
+<p> Film Reviews </p>
+<p> Music Reviews </p>
+<p> Restaurant Reviews </p>
+<p> Fashion Shop </p>
+<p> Holiday Offers </p>
+<p> Weather </p>
+<p> Money </p>
+<p> Contact Us </p>
+<p> About Us </p>
+<p> Explore </p>
+<p> Close this </p>
+<p> Search </p>
+<p> Casino </p>
+<p> | </p>
+<p> Bingo </p>
+<p> | </p>
+<p> Arcade </p>
+<p> | </p>
+<p> Fantasy Football </p>
+<p> | </p>
+<p> Holiday Rentals </p>
+<p> | </p>
+<p> Jobs </p>
+<p> | </p>
+<p> Dating </p>
+<p> | </p>
+<p> Tickets </p>
+<p> | </p>
+<p> Courses </p>
+<p> | </p>
+<p> Daily Deals </p>
+<p> Metro </p>
+<p> News </p>
+<p> UK </p>
+<p> Log out </p>
+<p> View your profile </p>
+<p> Welcome </p>
+<p> Sign up </p>
+<p> Log in </p>
+<p> Search field </p>
+<p> Search </p>
+<p> <!--[CDATA[ 			    adverts.initialize(); 				adverts.addToArray('728x90,468x60','728x90,468x60'); 			//]]--> </p>
+<p> <!--[CDATA[ 				    	adverts.initialize(); 						adverts.addToArray('900x250','900x250'); 					//]]--> </p>
+<p> By METRO REPORTER </p>
+<p> -  12th January 2012 </p>
+<p> window.fbAsyncInit = function() {                         FB.init({appId: '176908729004638', status: true, cookie: true, xfbml: true});                     };                         (function() {                            var e = document.createElement('script'); e.async = true;                            e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';                            document.getElementById('fb-root').appendChild(e);                         }()); </p>
+<p> Tweet </p>
+<p> Boring office environments make workers hit the booze </p>
+<p> A boring office environment is likely to see staff reaching for the booze, new research has found. </p>
+<p> Bored staff are heading for the booze (Picture: Stock) </p>
+<p> Work drudgery was well documented in The Office but chronic boredom could have you reaching for the chocolate bar – or even the bottle. </p>
+<p> Office tedium is a worry for a quarter of staff who comfort eat at work and booze afterwards. </p>
+<p> Half of the 102 workers in a study by the University of Central Lancashire made mistakes out of boredom. </p>
+<p> ‘Managers might consider using boredom proneness as a tool when selecting staff,’ said researcher Dr Sandi Mann. </p>
+<p> 'My analysis suggests that the most significant cause of office boredom is an undemanding workload, so managers should look at ways of reducing sources of workplace boredom and encourage better ways of coping. </p>
+<p> 'This could involve enrichment programmes such as job rotation, multi-skilling and empowerment. Encouraging healthier ways of coping with boredom could include education or providing healthy snacks and drinks in canteens.' </p>
+<p> <!--[CDATA[ 				google_ad_client='ca-an-metro',google_ad_output='js',google_ad_type='text',google_language='en',google_encoding='utf8',google_safe='high',google_ad_section='s1 s2',google_ad_channel='sky',google_max_num_ads=5,google_skip=met.google_skip; 				met.google_skip+=5; 				 //]]--> </p>
+<p> Tweet </p>
+<p> What would you like to say? </p>
+<p> To add a YouTube video, insert its web address here </p>
+<p> Send </p>
+<p> to Metro </p>
+<p> and share on: </p>
+<p> Newest </p>
+<p> Oldest </p>
+<p> Most Popular </p>
+<p> Least Popular </p>
+<p> /* Hiding comments container - we will fade it in later when repopulated */                                     var commentsEl = document.getElementById('commentsRetrieval');                                     if (commentsEl != undefined) {                                     commentsEl.style.opacity = 0;                                     commentsEl.style.filter = 'alpha(opacity=0)';                                     } </p>
+<p> MetroMootools.hasComments = true; </p>
+<p> Related </p>
+<p> items </p>
+<p> Alcohol is more appealing when loud music is playing, claims new research </p>
+<p> Sex gets better with age, say US researchers </p>
+<p> Families' loan debts eat up half of income, says new research </p>
+<p> <!--[CDATA[ met.has(null,'lightbox',{cc:'news'}); //]]--> </p>
+<p> Rock </p>
+<p> the week files </p>
+<p> Modern Warfare 3: Rock the week </p>
+<p> More </p>
+<p> Rugby World Cup: Rock the Week </p>
+<p> More </p>
+<p> Celebrity Big Brother 2011: Rock The Week </p>
+<p> More </p>
+<p> Clapham's broom army: Rock the Week </p>
+<p> More </p>
+<p> Cesc Fabregas transfer saga: Rock the Week </p>
+<p> More </p>
+<p> Reading and Leeds Festival 2011: Rock The Week </p>
+<p> More </p>
+<p> <!--[CDATA[ 		    met.has('met-3','carousel',{itemSize:188,offset:197,autoPlay:false,autoPlayTime:5,duration:0.4,hiddenOffset:4}); 			//]]--> </p>
+<p> 5 day forecast | Local Weather </p>
+<p> adverts.initialize();                                 adverts.addToArray('300x250','300x250'); </p>
+<p> adverts.initialize(); 							adverts.addToArray('300x120_top','300x120'); </p>
+<p> For </p>
+<p> your iPad: Metro tablet edition launched </p>
+<p> Metro has launched its first interactive version of the newspaper designed especially for the iPad - and it's free... </p>
+<p> Our </p>
+<p> choice </p>
+<p> Most </p>
+<p> read </p>
+<p> Wayne Rooney outclassed on FIFA 12 by world champion </p>
+<p> This Morning's Holly Willoughby left red-faced after naughty cheese mix-up </p>
+<p> Emma Watson snuggles up to mystery man as he plants a kiss on her cheek </p>
+<p> Lee Steele sacked by Oxford City over Gareth Thomas homophobic tweet </p>
+<p> Graduate told to work for free or lose benefits </p>
+<p> In their words: Scottish debate </p>
+<p> Roald Dahl celebrated with stamps </p>
+<p> Randy the ram sires 33 lambs in 24hrs </p>
+<p> Nudist shock in kids' clothing advert </p>
+<p> Vinnie Jones on how to perform CPR </p>
+<p> <!--[CDATA[ 		    met.has('met-8','faded-tabs',{linkCls:'l-cc lh-cc'}); 			//]]--> </p>
+<p> <!--[CDATA[ 							adverts.initialize(); 							adverts.addToArray('120x600','120x600'); 						//]]--> </p>
+<p> adverts.initialize(); 							adverts.addToArray('300x120_bottom','300x120'); </p>
+<p> adverts.initialize();                                 adverts.addToArray('300x250','300x250'); </p>
+<p> var janrainpath = '/janrain'; 				var janrainLoginIframeSrc = 'https://profile.metro.co.uk/oauth/signin?response_type=code&recover_password_callback=CAPTURE.recoverPasswordCallback&redirect_uri=http://www.metro.co.uk/janrain/oauth_redirect&client_id=d6sk2r2b8f6darv2exzwdx6cht7t2r84&xd_receiver=http://www.metro.co.uk/xdcomm.html&flags=stay_in_window'; 				var janrainRegIframeSrc = 'https://profile.metro.co.uk/oauth/legacy_register?response_type=code&redirect_uri=http://www.metro.co.uk/janrain/oauth_redirect&client_id=d6sk2r2b8f6darv2exzwdx6cht7t2r84&xd_receiver=http://www.metro.co.uk/xdcomm.html&flags=stay_in_window'; 				var janraincaptureurl = 'https://profile.metro.co.uk'; 				var janrainclientid = 'd6sk2r2b8f6darv2exzwdx6cht7t2r84'; 				var janrainXdReceiver =  'http://www.metro.co.uk/xdcomm.html';   				CAPTURE = { 					resize: function(jargs) { 						MetroMootools.log('calling CAPTURE.resize()'); 					}, 					 					recoverPasswordCallback: function (jargs) { 						MetroMootools.log('calling CAPTURE.recoverPasswordCallback()');                         $('loginCaptureFrame').set('src', '/janrain/passwd_reset_confirm'); 					}, 					 					finishRecoverPasswordCallback: function (jargs) { 						//var locationToRedirect = '/janrain/recover_password_landing_page'; 						var locationToRedirect = '/janrain/validation_confirmation?message=' + encodeURI('Thanks, your password has been changed.'); 						MetroMootools.log('calling CAPTURE.finishRecoverPasswordCallback(). Redirecting to ' + locationToRedirect); 						window.location = locationToRedirect; 					}, 					 					finishDisplayNameOnlyFormCallback: function (jargs) { 						var locationToRedirect = janrainpath + '/do-http-post-get-logged-user-from-validation-confirmation';  						MetroMootools.log('calling CAPTURE.finishDisplayNameOnlyFormCallback(). Redirecting to ' + locationToRedirect); 						window.location = locationToRedirect; 					}, 					 					finishProfileCallback: function (jargs) { 						MetroMootools.log('calling CAPTURE.resize()'); 					} 				}; </p>
+<p> Metro </p>
+<p> Extras </p>
+<p> Metro Moneyback </p>
+<p> Up to 45% cashback & vouchers. £5 free </p>
+<p> Holiday Rentals </p>
+<p> UK and abroad from £20 per night, book now </p>
+<p> Up to 70% off </p>
+<p> Designer Fashion, Homeware, Travel & Accessories at Secretsales.com </p>
+<p> Win a pair of Ugg Boots </p>
+<p> Win thanks to our friends at topfox.co.uk </p>
+<p> Urban Dating </p>
+<p> Meet thousands of single professionals online near you </p>
+<p> Tickets </p>
+<p> Music, sport, theatre, comedy, cinema and more </p>
+<p> Metro Money </p>
+<p> Receive your free Experian credit report </p>
+<p> Fashion Shop </p>
+<p> Great deals powered by LynkU.com </p>
+<p> © 2011 Associated Newspapers Limited </p>
+<p> Advertising.metro.co.uk </p>
+<p> Terms and conditions </p>
+<p> Contact </p>
+<p> About Metro </p>
+<p> Privacy </p>
+<p> Top </p>
+<p> This is Money </p>
+<p> | </p>
+<p> Villa Renters </p>
+<p> | </p>
+<p> Daily Mail </p>
+<p> (function() { 						var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true; 						po.src = 'https://apis.google.com/js/plusone.js'; 						var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s); 					})(); </p>
+<p> <!--[CDATA[ 		met.init(); 		//]]--> </p>
+<p> <!--[CDATA[ 		DM_tag(); 		//]]--> </p>
+<p> met.inText(); </p>

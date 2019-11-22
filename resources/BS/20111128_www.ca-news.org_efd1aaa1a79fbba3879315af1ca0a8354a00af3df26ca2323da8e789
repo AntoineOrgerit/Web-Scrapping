@@ -1,0 +1,175 @@
+<p> CA-NEWS : В Ташкенте пройдёт акция, посвященная Всемирному дню борьбы со СПИДом </p>
+<p> BODY { font-family:arial; font-size:10pt; /*background:#DFEEF5; background:#DEDFE1; */ background:#FFF; margin:0px; /*margin-top:8px; */}  TD { /*background:#EFF7FB; */ /*background:#e1eff3;*/ }  P { font-family: arial; font-size:10pt; margin-top:0px; margin-bottom:9px; } .newstext A { font-family: arial; font-size:10pt; color:#006596; border-bottom: dashed 1px #006596; } .newstext A:hover { font-family: arial; font-size:10pt; color:#006596; border-bottom: solid 1px #006596; text-decoration:none; } .newstext IMG {padding:0 8px; border:none; } .main { width:180px; vertical-align:top; font-size:9pt; padding-right:10px; color:#006596; } .main P { font-size:9pt; } .rowlist { width:158px; vertical-align:top; } A { font-size: 9pt; color:#274274; color:#000; font-family: arial; text-decoration:none; font-weight:normal; } A:hover { color:#4D648F; color:#000; text-decoration:underline; }  .TOPMENU { /*border:1px solid #4D648F;*/ background:#cfe3eb; margin-bottom:6px; padding:3px 0; } .TOPMENU TD{ text-align:center; background:#cfe3eb; /*border-left:1px solid #dedFE1; border-right:1px solid #dedFE1;*/ } .TOPMENU A { color: #000; }  .GEOMENU { height: 23px; margin-top:6px;} .GEOMENU TR { background: url('http://static.ca-news.org/.iface/img/menu.bg.png'); } .GEOMENU TD { text-align:center; background: url('http://static.ca-news.org/.iface/img/menu.bg.png'); } .GEOMENU .delim { background: url('http://static.ca-news.org/.iface/img/menu.delim.png') center no-repeat; } .GEOMENU A { color: #cfe3eb; font-weight:bold; } /* ********************************************************** */ .newsday_rows { width:600px; margin-bottom:3px; } .newsday_title { /*background:#4D648F; color:white;*/ text-align:center;  background:#006596;color:#cfe3eb; /*text-align:left;  padding-left:54px;*/ } .newsday_date { width:50px; text-align:center; font-size:8pt;} .newsday_name A { font-size:10pt; }  .text_date { font-size:7pt; color:#222; } .lastnews { width:100%; } /*.lastnews TD { background:#C4DFF2; }*/ .topnews { width:100%; } .topnews a { font-size:8pt; } .link_sub {font-size:10pt;}  .menurc { color:#274274; } /* ********************************************************** */ FORM { padding:0px; margin:0px; } INPUT { width:100px; border:1px solid black;font-size:8pt;}      #cdata { text-align: center; color:black; font-weight:bold; font-size:11px; font-family:tahoma; } #cpre { width: 25px; text-align: center; color:lightblue; font-size:11px; font-family:tahoma; } #cact { width: 25px; text-align: center; color:darkblue; font-size:11px; font-weight:bold; font-family:tahoma; } #cpass { width: 25px; text-align: center; color:darkblue; font-size:11px; font-family:tahoma; } #cpost { width: 25px; text-align: center; color:lightblue; font-size:11px; font-family:tahoma; }  #cact_now { width: 25px; text-align: center; color:darkblue; border:1px solid red; font-size:11px; font-weight:bold; font-family:tahoma; }  .billboard_link {text-align:center;margin: 0 auto; }	 .billboard_link table { width:100%; background:#EFF7FB; border:0px solid #DEDFE1; } .billboard_link img{width:27px; border:none;} .billboard_link th{vertical-align:middle; text-align:left; border-top:1px dashed #DEDFE1;  border-bottom:1px dashed #DEDFE1; } .billboard_link td{vertical-align:middle; text-align:right; border-top:1px dashed #DEDFE1;  border-bottom:1px dashed #DEDFE1; } .billboard_link A {font-size:13px;text-decoration:none;font-weight:bold;font-family:Verdana;color:#9a0000;} .billboard_link A:hover {text-decoration:underline;}  .reginfo { padding:4px 4px; background:#FF6565; color: #FFF; text-align:center; font-weight:bold; } .reginfo A {color: #FFF; font-weight:bold; } .reginfoline { border-top: 2px solid #FF6565; }  .titlenews { color: #ff0404; font-size:10pt; font-weight:bold; text-align:center; border-bottom: 2px solid #ff6363; background:#FFF; } .titlenews A { color: #ff0404; font-size:10pt; font-weight:bold; }  .blocks { background:#e1eff3; } .blockshead { background: url('http://static.ca-news.org/.iface/img/menu.bg.png'); color:#cfe3eb; } .blockshead2 { background: url('http://static.ca-news.org/.iface/img/menu.bg2.png'); color:#FFF; }  .datetitle { text-align:right; color:#006697; padding-right:24px; font-weight:bold; font-family:verdana;} .titles { color: #ff0404; font-size:12pt; font-weight:bold; text-align:center; }  	#autocarousel { visibility:hidden;  width:200px; overflow:hidden; padding-top:5px; text-align:left;background:#B3D1D0; } 	#autocarousel ul { list-style: none; width:1600px; margin: 0; padding: 0; position:relative; } 	#autocarousel li { display:inline; float:left; } 	#autocarousel .carouseladv { background:#B3D1D0; width:200px; height:185px; font-family:arial,tahoma,verdana; color:#333; font-size:11px; overflow:hidden; }  	#autocarousel .carouseladv DIV { /*height:140px;*/ margin:3px 5px; overflow:hidden; } /**/ 	#autocarousel A { color: #333; text-decoration: none; font-size:11px; } 	#autocarousel A:hover { text-decoration: underline; }  	#carousel { visibility:hidden;  width:200px; overflow:hidden; padding-top:5px; text-align:left;} 	#carousel ul { list-style: none; width:1600px; margin: 0; padding: 0; position:relative; } 	#carousel li { display:inline; float:left; } 	#carousel .carouseladv { background:#B3D1D0; width:200px; height:150px; font-family:arial,tahoma,verdana; color:#333; font-size:11px; overflow:hidden; } 	#carousel .carouseladv H1{ font-family: 'Times New Roman',serif; font-size:14px; font-size-adjust:none; font-style:normal; font-variant:normal; font-weight:normal; line-height:18px; margin:0px; margin-bottom:5px; color:#007973; } 	#carousel .carouseladv span{ font-family: 'Times New Roman',serif; font-size:14px; color: #923000; } 	#carousel .carouseladv DIV { height:120px; margin:5px; overflow:hidden; } 	#carousel A { color: #333; text-decoration: none; font-size:11px; } 	#carousel A:hover { text-decoration: underline; }  .textlinkaaa { 	margin-bottom:3px } .textlinkaaa A { 	display:block; 	padding:4px 0; 	color:red; 	text-decoration:none; } .textlinkaaa A:hover { 	text-decoration:underline; }  .comments { padding:5px;margin:0 6px; text-align:left; background:#FFF} .comments .ban { text-align:center; } .comments IMG { width:183px; } .comments a { font-size: 10px; color: #000;  text-decoration: none;font-weight: normal} .comments a:hover { text-decoration: underline; } </p>
+<p> .send_comm{         margin:5px;padding:5px;width:auto;background:#006596;color:white;border:4px solid #bbb;cursor:pointer;font-size:12px;         -webkit-border-radius:10px;-moz-border-radius:10px;border-radius:10px;       }       .send_comm:hover{         margin:4px;padding:6px;font-size:12px;         -webkit-box-shadow:0px 2px 5px #888;-moz-box-shadow:0px 2px 5px #888;box-shadow:0px 2px 5px #888;       }       .edit_msg{display: none;} </p>
+<p> function show(id){         $('#'+id).toggle();       } </p>
+<p> $(function(){   	$('#autocarousel').infiniteCarousel({ 		displayThumbnails:0, 		displayTime : 6000 	});   	$('#autocarousel').css('visibility','visible');  	$('#carousel').infiniteCarousel({ 		displayThumbnails:0, 		displayTime : 4000 	});   	$('#carousel').css('visibility','visible'); }) </p>
+<p> 20:58 (Бишкек) </p>
+<p> 28 ноября 2011 </p>
+<p> .langchange{         text-align: center;padding: 5px;font-size: 110%;cursor: pointer;         -webkit-border-radius: 5px;-moz-border-radius: 5px;border-radius: 5px;       }       .langchange:hover{         background: #e1eff3;text-decoration: underline;         -moz-box-shadow: 0px 0px 5px #ccc;-webkit-box-shadow: 0px 0px 5px #ccc;box-shadow: 0px 0px 5px #ccc;       } </p>
+<p> [РУС] </p>
+<p> [ENG] </p>
+<p> .lnktomain a{font-size:110%;font-weight:bold;color:white;} </p>
+<p> Главная </p>
+<p> азия и мир </p>
+<p> казахстан </p>
+<p> кыргызстан </p>
+<p> таджикистан </p>
+<p> туркменистан </p>
+<p> узбекистан </p>
+<p> По странам </p>
+<p> По рубрикам </p>
+<p> Who is Who </p>
+<p> о нас </p>
+<p> Вакансии </p>
+<p> Реклама </p>
+<p> Подписка </p>
+<p> on-line подписка </p>
+<p> последние новости </p>
+<p> 28-11-2011, 17:53 </p>
+<p> Президент Р.Отунбаева даст итоговую пресс-конференцию </p>
+<p> 28-11-2011, 17:39 </p>
+<p> С 28 ноября по 1 декабря на нескольких постах дороги Бишкек-Ош будет закрыт проезд автотранспортных средств </p>
+<p> 28-11-2011, 17:38 </p>
+<p> В Ташкенте пройдёт акция, посвященная Всемирному дню борьбы со СПИДом </p>
+<p> 28-11-2011, 17:32 </p>
+<p> Центризбирком Казахстана надеется, что в парламент пройдут представители нескольких партий </p>
+<p> 28-11-2011, 17:31 </p>
+<p> Комитет ЖК одобрил законопроект по усилению мер по предотвращению продажи алкоголя несовершеннолетним </p>
+<p> 28-11-2011, 17:30 </p>
+<p> Как изменится работа депутатов по новому Регламенту Жогорку Кенеша </p>
+<p> 28-11-2011, 17:23 </p>
+<p> В мэрии Бишкека пройдет второй тур конкурса «Депозит молодого учителя» </p>
+<p> 28-11-2011, 17:23 </p>
+<p> Треть казахстанцев на работе играют в компьютерные "стрелялки" и файтинги </p>
+<p> 28-11-2011, 17:22 </p>
+<p> В Бишкеке «Северэлектро» производит замену проводов ЛЭП 35 кВ «Промышленная-Кара-Жигач» </p>
+<p> 28-11-2011, 17:20 </p>
+<p> Принимаемые правительством КР меры по предупреждению возможных ЧС из-за схода лавин на горных дорогах </p>
+<p> auto.doska.kg </p>
+<p> за сегодня </p>
+<p> Mercedes-Benz E klasse (W211 кузов) </p>
+<p> 2006г — </p>
+<p> $35000 </p>
+<p> Lexus GX 470 </p>
+<p> 2006г — </p>
+<p> $41000 </p>
+<p> Bombardier GTI LE </p>
+<p> 2011г — </p>
+<p> $600 </p>
+<p> Mercedes-Benz S klasse (W140 кузов) </p>
+<p> 1998г — </p>
+<p> $15600 </p>
+<p> Toyota Land Cruiser </p>
+<p> 2011г — </p>
+<p> $37500 </p>
+<p> BMW 5 series (E39) </p>
+<p> 2000г — </p>
+<p> $11000 </p>
+<p> Mercedes-Benz E klasse (W210 кузов) </p>
+<p> 1996г — </p>
+<p> $7800 </p>
+<p> BMW 3 series (E46) </p>
+<p> 1999г — </p>
+<p> $8000 </p>
+<p> Rover прочие </p>
+<p> 2001г — </p>
+<p> $7000 </p>
+<p> BMW X5 (E53) </p>
+<p> 2002г — </p>
+<p> $18000 </p>
+<p> Nissan Pathfinder </p>
+<p> 2005г — </p>
+<p> $21000 </p>
+<p> Subaru Forester </p>
+<p> 2001г — </p>
+<p> $6300 </p>
+<p> Suzuki XL7 </p>
+<p> 2003г — </p>
+<p> $16100 </p>
+<p> Mercedes-Benz E klasse (W210 кузов) </p>
+<p> 1996г — </p>
+<p> $10300 </p>
+<p> Subaru Forester </p>
+<p> 2002г — </p>
+<p> $9500 </p>
+<p> БЕСПЛАТНО </p>
+<p> <!-- 		google_ad_client = 'pub-7782362590249548'; 		/* кнопка 125x125, создано 02.04.09 */ 		google_ad_slot = '2108989899'; 		google_ad_width = 125; 		google_ad_height = 125; 		//--> </p>
+<p> узбекистан </p>
+<p> , </p>
+<p> общество </p>
+<p> В Ташкенте пройдёт акция, посвященная Всемирному дню борьбы со СПИДом </p>
+<p> 28 ноября 2011, </p>
+<p> 17:38 </p>
+<p> CA-NEWS (UZ) </p>
+<p> - В Ташкенте 1 декабря состоится акция, посвященная Всемирному дню борьбы со СПИДом, с рамках которой пройдут выставка фотографий демонстрация роликов, посвященных вопросам ВИЧ/СПИД и концерт артистов узбекской эстрады. </p>
+<p> Как сообщают организаторы, программа акции, наряду с выступлениями представителей государственных, международных и общественных организаций, включает выставку фотографий и информационных материалов организаций, работающих в сфере профилактики ВИЧ/СПИД, демонстрацию роликов, посвященных вопросам ВИЧ/СПИД, и концертную программу с участием звезд узбекской эстрады. </p>
+<p> Цели мероприятия – повышение глобальной осведомленности о ВИЧ/СПИДе и демонстрация международной солидарности перед лицом пандемии. </p>
+<p> Основной информационный посыл акции – необходимость формирования толерантного отношения к людям, живущим с ВИЧ (ЛЖВ). Мероприятие  также направлено на привлечение внимания к проблеме распространения ВИЧ-инфекции и повышение ответственности каждого за сохранение своего здоровья и здоровья близких. </p>
+<p> В 2011 г. Узбекистан получил грант Глобального фонда для борьбы со СПИДом, туберкулёзом и малярией "Продолжение расширения масштабов противодействия ВИЧ-инфекции в Республике Узбекистан, сфокусированного на особо уязвимых слоях населения". Представительство ПРООН в республике стало основным исполнителем гранта. </p>
+<p> Проектом запланировано оказание психосоциальной помощи и обеспечение доступа к качественным медико-социальным услугам 1800 людей с ВИЧ. </p>
+<p> Организаторами выступили Фонд поддержки социальных инициатив, Фонд Форум, ПРООН/Глобальный Фонд, Центр молодежных инициатив "Келажак овози" при участии представительств UNFPA, UNAIDS в Узбекистане, Министерства здравоохранения и Министерства народного образования. </p>
+<p> [ Комментариев 0 ]   [ </p>
+<p> версия для печати </p>
+<p> ] </p>
+<p> <!-- 			google_ad_client = 'pub-7782362590249548'; 			/* 468x15, создано 02.04.09 */ 			google_ad_slot = '0709915133'; 			google_ad_width = 580; 			google_ad_height = 15; 			//--> </p>
+<p> Имя: </p>
+<p> Текст комментария: </p>
+<p> MarketGid </p>
+<p> загрузка... </p>
+<p> Загрузка... </p>
+<p> рубрики </p>
+<p> анализ и комментарии </p>
+<p> здоровье </p>
+<p> культура </p>
+<p> наука и технологии </p>
+<p> новости компаний </p>
+<p> обзоры прессы </p>
+<p> общество </p>
+<p> погода </p>
+<p> политика </p>
+<p> проект Синдикат </p>
+<p> происшествия </p>
+<p> спорт </p>
+<p> экономика </p>
+<p> авторизация </p>
+<p> логин </p>
+<p> пароль </p>
+<p> • </p>
+<p> Талантбек Батыралиев </p>
+<p> Нужны международные критерии при назначении ректоров ВУЗов, НЦ и НИИ </p>
+<p> • </p>
+<p> В Оше открыт новый медицинский центр «Ош-Кардио» </p>
+<p> • </p>
+<p> Что такое синкопальное состояние? </p>
+<p> поиск </p>
+<p> архив </p>
+<p> ReLoad("/calendar.php",""); </p>
+<p> Туроператоры КР </p>
+<p> Курорты и санатории КР </p>
+<p> Горнолыжные базы, охота, рафтинг и рыбалка </p>
+<p> Гостиницы и Отели </p>
+<p> <!-- 		google_ad_client = 'pub-7782362590249548'; 		/* кнопка 125x125, создано 02.04.09 */ 		google_ad_slot = '2108989899'; 		google_ad_width = 125; 		google_ad_height = 125; 		//--> </p>
+<p> <!-- d=document;var a='';a+=';r='+escape(d.referrer) js=10//--> </p>
+<p> <!-- a+=';j='+navigator.javaEnabled() js=11//--> </p>
+<p> <!-- s=screen;a+=';s='+s.width+'*'+s.height a+=';d='+(s.colorDepth?s.colorDepth:s.pixelDepth) js=12//--> </p>
+<p> <!-- js=13//--> </p>
+<p> <!-- d.write('<a href="http://top.mail.ru/jump?from=80666"'+ ' target=_blank><img src="http://top.list.ru/counter'+ '?id=80666;t=212;js='+js+a+';rand='+Math.random()+ '" alt="Mail.ru"'+' border=0 height=31 width=88/><\/a>') if(11<js)d.write('<'+'!-- ')//--> </p>
+<p> <!-- if(11<js)d.write('--'+'>')//--> </p>
+<p> java="1.0"; java1=""+"refer="+escape(document.referrer)+"&page="+ escape(window.location.href); document.cookie="astratop=1; path=/"; java1+="&c="+(document.cookie?"yes":"now"); </p>
+<p> java="1.1";java1+="&java="+(navigator.javaEnabled()?"yes":"now") </p>
+<p> java="1.2"; java1+="&razresh="+screen.width+'x'+screen.height+"&cvet="+ (((navigator.appName.substring(0,3)=="Mic"))? screen.colorDepth:screen.pixelDepth) </p>
+<p> java="1.3" </p>
+<p> java1+="&jscript="+java+"&rand="+Math.random(); document.write("<a href='http://www.net.kg/?fromsite=174' target='_blank'><img "+ " src='http://www.net.kg/img.php?id=174&"+java1+"&' border=0 alt='WWW.NET.KG' width='88' height='31'></a>") </p>
+<p> <!-- document.write("<a href='http://www.liveinternet.ru/click' "+ "target=_blank><img src='http://counter.yadro.ru/hit?t14.11;r"+ escape(document.referrer)+((typeof(screen)=="undefined")?"": ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth? screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+ ";"+Math.random()+ "' alt='' title='LiveInternet'"+ "border=0 width=88 height=31><\/a>")//--> </p>
+<p> <!-- cz_user=10758;cz_type=1;cz_str="&wd="+screen.width; cz_str+="&hg="+screen.height+"&du="+escape(document.URL); cz_str+="&rf="+escape(document.referrer); cz_str="<a href='http://zero.kz/?u="+cz_user+"' target='_blank'>"+ "<img src='http://zero.kz/c.php?u="+cz_user+"&t="+cz_type+cz_str+"'"+ " border='0px' width='88' height='31' alt='CountZero' /><\/a>"; document.write(cz_str);//--> </p>
+<p> (function(w, c) {     (w[c] = w[c] || []).push(function() {         try {             w.yaCounter8143930 = new Ya.Metrika({id:8143930, enableAll: true});         }         catch(e) { }     }); })(window, "yandex_metrika_callbacks"); </p>
+<p> © CA-NEWS: Центральноазиатская новостная служба, 2007-2011. </p>
+<p> Все права защищены и охраняются законом. Любое использование материалов сайта допустимо при условии ссылки на </p>
+<p> CA-NEWS </p>
+<p> . Редакция не несет ответственности за достоверность информации, опубликованной в рекламных объявлениях. </p>
+<p> Редакция может не разделять мнения авторов статей в рубрике "Обзор прессы" и "Анализы и комментарии". </p>
+<p> Наш адрес: </p>
+<p> Кыргызстан, г.Бишкек, ул. Московская 189 </p>
+<p> news@ca-news.org </p>
+<p> var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://"); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); </p>
+<p> try { var pageTracker = _gat._getTracker("UA-179005-6"); pageTracker._setDomainName(".ca-news.org");  pageTracker._setVar("uz"); pageTracker._trackPageview(); } catch(err) {} </p>

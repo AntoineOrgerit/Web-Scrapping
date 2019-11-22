@@ -1,0 +1,72 @@
+<p> 龍年春節闔家遊 15條國家步道走春 ｜新聞速報｜中時樂活｜中時電子報 </p>
+<p> var sChannel = 'life'; //在此設定主頻道列代碼      var FocusCategory = "T01"; </p>
+<p> 樂活首頁 </p>
+<p> 新聞速報 </p>
+<p> 引用 </p>
+<p> 轉寄 </p>
+<p> 列印 </p>
+<p> 字體： </p>
+<p> 小 </p>
+<p> ． </p>
+<p> 中 </p>
+<p> ． </p>
+<p> 大 </p>
+<p> document.write('<span class="google-plusone"><g:plusone size="small" href="' + encodeURIComponent(String(window.location)) + '"></g:plusone></span>'); </p>
+<p> document.write('<iframe src="http://www.facebook.com/plugins/like.php?href='+ encodeURIComponent(String(window.location))+'&amp;layout=button_count&amp;show_faces=false&amp;width=90&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border: none; overflow: hidden; width: 90px; height: 21px; position: relative; top: 5px;" allowTransparency="true"></iframe>'); </p>
+<p> 龍年春節闔家遊 15條國家步道走春 </p>
+<p> 2012-01-17 </p>
+<p> 新聞速報 </p>
+<p> 台灣醒報／李宛儒 </p>
+<p> 山區野溪匯流而下，雪山聖稜線上的白雪，徜徉在先民古道之上，如此美景讓人想要一探究竟。今年春節假期，林務局特別列出全台15條國家級森林步道，提供民眾「走春」好選擇。林務局推廣科科長夏榮生說，這些困難度較低的步道，非常適合全家大小出遊。 </p>
+<p> 林務局推動全國步道系統屆滿10年，依照步道困難度分成5個等級，因應龍年春節假期長，特別從全台百條步道中精選出15條難度較低的登山步道，遍布台灣各地。 </p>
+<p> 這15條步道分別有，北台灣的宜蘭九寮溪自然步道、台北烏來桶后越嶺步道、桃園東滿步道、新竹五指山登山步道、苗栗馬那邦山登山步道；中台灣的台中斯可巴步道、彰化清水岩之中央嶺森林步道、南投奧萬大國家森林遊樂區步道群。 </p>
+<p> 南部地區包含雲林龍過脈森林步道、嘉義獨立山步道、台南崁頭山步道、高雄六義山、屏東虎寮山，東部則有台東關山紅石步道和花蓮鯉魚山。 </p>
+<p> 林務局森林育樂組組長謝尚達表示，國人在春節期間習慣在家中打牌，他建議民眾可以規畫一到兩天的出外踏青活動，讓全家大小一起走入山林，有助於抒解工作壓力。 </p>
+<p> 夏榮生則提醒民眾出外踏青，務必發揮愛護山林行動，不干擾自然生態，不隨意採摘植物，她也特別強調，「避免攜帶家中寵物進入山林，防止引入外來種病菌。」 </p>
+<p> 謝尚達也提醒，部分步道有遊客總量管制，民眾可在行車途中收聽廣播路上訊息，或者配合當地警察交通疏導，避免因遊客過多敗興而歸。相關資訊可上林務局山林悠遊導覽網站：http://recreation.forest.gov.tw/ </p>
+<p> <!-- function delCookie(name){ 	document.cookie = name + "=; expires=Thu, 01-Jan-70 00:00:01 GMT" + "; path=/"; } delCookie("UNI_ID"); var Channel = "LIFE";																			//頻道 var UNI_ID = "132012011701273";																	//文章ID var define_content_1 = "龍年春節闔家遊 15條國家步道走春 ";													//標題 var define_content_2 = "http://life.chinatimes.com/2009Cti/Channel/Life/life-article/0,5047,130518+132012011701273,00.html";		//連結 var define_content_3 = "中時樂活";																	//分類名稱 var define_content_4 = "130518";															//分類ID var define_content_5 = "2012.01.17";	 var define_content_6 = "18";	 //--> </p>
+<p> MakeCTIweb20 (); </p>
+<p> var param_partner = "cti_tw_life_cm"; 		  		var param_ctxtID="cti_tw_travel_001";  		 var ysm_maxCount = 4;         document.write("<script src='http://www.chinatimes.com/2009Cti/cthead/Scripts-utf8/yahoo.js' charset='utf-8'></sc" + "ript>"); </p>
+<p> 更多 新聞速報  新聞 </p>
+<p> 流感週週增  估春節達高峰 </p>
+<p> 春節期間 210家醫院有免費克流感 </p>
+<p> 異物侵眼　竟是狗兒寄生蟲 </p>
+<p> B流感又奪4命   未打疫苗有慢性病或腦疾病 </p>
+<p> 調查：上班族有選舉症候群 </p>
+<p> 辦公族經常忘了站起來走走 </p>
+<p> 春節聚餐應酬多  小心身材走樣 </p>
+<p> 選後壓力仍大 運動、飲食有助舒壓 </p>
+<p> 防冬季濕疹香港腳 醫師：足部保通風 </p>
+<p> 治療腦中風患者 銀杏萃取物見療效 </p>
+<p> <!-- 	function Gotoform(sel) { 	j=sel.selectedIndex; 	s=sel.options[j].value; 	if ( s != "null" ) parent.location= s; 	} 	//--> </p>
+<p> -----------------更多 新聞速報 ---------------- </p>
+<p> 春遊避免接觸禽鳥  蛋肉煮熟吃 </p>
+<p> 學測國文   作文「自勝者強」 </p>
+<p> 學測數學  具基本觀念易拿分 </p>
+<p> 學測數學  考生：中間偏易 </p>
+<p> 學測國文  補教：5年來最簡單 </p>
+<p> 學測國文  武俠小說新聞入題 </p>
+<p> 學測國文  金庸、林懷民入題 </p>
+<p> 學測國文  考生：中間偏難 </p>
+<p> 學測國文  三地試場延誤考生入場 </p>
+<p> 學測首日  3試場凸槌延時收卷 </p>
+<p> 學測登場 身障生克服困難堅持應試 </p>
+<p> 學測登場  逾15萬考生上場 </p>
+<p> 陪腦麻兒應考  母子情深溢言表 </p>
+<p> 學測登場  屏東骨折考生多 </p>
+<p> 肌萎鬥士拚學測  目標台大資工 </p>
+<p> 四技二專技優保送  18日放榜 </p>
+<p> 學測落點  高工生設計免費軟體 </p>
+<p> 市售發熱衣  6成未標示發熱成分 </p>
+<p> 春節蔬果供應足 菜價略漲 水果較去年便宜 </p>
+<p> spac_writeAd ( "/SITE=CHINATIMES.TW/AREA=NEWS.HP/AAMSZ=292X22/POSITION=RIGHT01" ); </p>
+<p> spac_writeAd ( "/SITE=CHINATIMES.TW/AREA=NEWS.HP/AAMSZ=292X22/POSITION=RIGHT02" ); </p>
+<p> spac_writeAd ( "/SITE=CHINATIMES.TW/AREA=NEWS.HP/AAMSZ=292X22/POSITION=RIGHT03" ); </p>
+<p> spac_writeAd ( "/SITE=CHINATIMES.TW/AREA=NEWS.HP/AAMSZ=292X22/POSITION=RIGHT04" ); </p>
+<p> spac_writeAd ( "/SITE=CHINATIMES.TW/AREA=NEWS.HP/AAMSZ=292X22/POSITION=RIGHT05" ); </p>
+<p> spac_writeAd ( "/SITE=CLIFE.TW/AREA=LIFE.CP/AAMSZ=300X100/POSITION=RIGHTC" ); </p>
+<p> var bNeedCtiMenu=true; </p>
+<p> $("#comment").renderReply({                  Page_Size: 10              }, function(data) {                  $("#commentcount").html("<a href='#comment' class='comment'>迴響</a>：<span class='highlight'>" +                                          (typeof (data.ReplyCount) == "undefined" ? 0 : data.ReplyCount) + "篇</span>");              }); </p>
+<p> bust = Math.floor(1000000*Math.random()); document.write('<'+'SCRIPT LANGUAGE="JavaScript1.1" SRC="http://ad2.dotmore.com.tw/verify.aspx?w=84&charset=big5&ord='+bust+'?">'); document.write('</'+'SCRIPT>'); </p>
+<p> var _gaq = _gaq || [];      _gaq.push(['_setAccount', 'UA-949390-1']);    _gaq.push(['_trackPageview']);   _gaq.push(['_trackPageLoadTime']);    (function() {     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);   })(); </p>
+<p> _atrk_opts = { atrk_acct: "JvLre1aYs600Mr", domain:"chinatimes.com"}; atrk (); </p>

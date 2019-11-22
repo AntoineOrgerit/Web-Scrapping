@@ -1,0 +1,261 @@
+<p> Ecstasy laced with meth blamed in 5 Calgary deaths - Calgary - CBC News </p>
+<p> var WRInitTime=(new Date()).getTime(); </p>
+<p> //<![CDATA[ 		var advertising_zone="canada"; 		var advertising_section="canada"; 		var advertising_category="calgary"; 		//]]> </p>
+<p> /* <![CDATA[ */ advertising_content_category = 'Canada'; /* ]]> */ </p>
+<p> /* <![CDATA[ */ advertising_content_category = 'Calgary'; /* ]]> */ </p>
+<p> Accessibility Links </p>
+<p> Skip to main content </p>
+<p> Skip to CBC accessibility page </p>
+<p> /* <[![CDATA */  		 			var q = "/ept/html/story/2012/01/11/calgary-ecstasy-meth-deaths.html"; 		 		try { 			if(window.top !== window.self) { 				Ads.iframeSrcParse(); 			} 		} catch(e) {} 		Ads.displayAd();	 		/* ]]> */ </p>
+<p> CBC Global Header Navigation </p>
+<p> CBC.ca </p>
+<p> News </p>
+<p> news drop down menu </p>
+<p> Sports </p>
+<p> sports drop down menu </p>
+<p> Radio </p>
+<p> radio drop down menu </p>
+<p> TV </p>
+<p> tv drop down menu </p>
+<p> My Region </p>
+<p> drop down menu </p>
+<p> More </p>
+<p> drop down menu </p>
+<p> Watch </p>
+<p> Watch </p>
+<p> drop down menu </p>
+<p> Listen </p>
+<p> Listen </p>
+<p> drop down menu </p>
+<p> Search CBC.ca </p>
+<p> Submit Search </p>
+<p> Sign Up </p>
+<p> Log In </p>
+<p> if (!_CBC_LOADER.modules.cbc_globalnav) _CBC_LOADER.modules.cbc_globalnav = { type:"js", fullpath:"/i/o/globalnav/v10/globalnav-min.js", requires: ['cbc_core', 'node', 'event'] }; if (!_CBC_LOADER.modules.cbc_globalnav_menu_style) _CBC_LOADER.modules.cbc_globalnav_menu_style = { type:"css", fullpath:"/i/o/globalnav/v10/css/dropdown.css" }; YUI(_CBC_LOADER).use('cbc_globalnav', function(Y, result){ 	if (result.success){ 		CBC.namespace("CBC.APP").globalnav = new CBC.APP.Globalnav(); 		var params = {}; 		 		 		CBC.APP.globalnav.init(Y, params); 		CBC.APP.Instances.add("globalnav",CBC.APP.globalnav); 	} }); </p>
+<p> Calgary </p>
+<p> LIVE </p>
+<p> Calgary </p>
+<p> More Streams </p>
+<p> Calgary Eyeopener </p>
+<p> Listen Live </p>
+<p> CBC News </p>
+<p> Canada </p>
+<p> Major Stories </p>
+<p> In The News </p>
+<p> CBC in Syria </p>
+<p> U.S. campaign blog </p>
+<p> Detroit auto show </p>
+<p> Haiti two years later </p>
+<p> CBC News Navigation </p>
+<p> Home </p>
+<p> World </p>
+<p> Canada </p>
+<p> Politics </p>
+<p> Business </p>
+<p> Health </p>
+<p> Arts & Entertainment </p>
+<p> Technology & Science </p>
+<p> Community </p>
+<p> Weather </p>
+<p> Video </p>
+<p> Canada </p>
+<p> Calgary </p>
+<p> News </p>
+<p> Events </p>
+<p> Weather </p>
+<p> Programs </p>
+<p> Video </p>
+<p> Audio </p>
+<p> Contact Us </p>
+<p> Ecstasy laced with meth blamed in 5 Calgary deaths </p>
+<p> CBC News </p>
+<p> Posted:  Jan 11, 2012  11:32 AM MT </p>
+<p> Last Updated:   Jan 12, 2012   5:06 AM MT </p>
+<p> Related </p>
+<p> Related Links </p>
+<p> Ecstasy prompts health alert in Calgary </p>
+<p> The street drug ecstasy that was responsible for five recent Calgary-area overdose deaths was laced with other, more potent compounds, according to toxicology results. </p>
+<p> Ecstasy laced with other drugs, including methamphetamine, has been found by toxicology tests to have been ingested by five recent overdose fatality victims. Calgary police showed this ecstasy Wednesday at a news conference. </p>
+<p> (CBC) </p>
+<p> Paramethoxymethamphetamine (PMMA) and methamphetamine were present in the lab results for each of the recent deaths, the chief medical examiner's office said. </p>
+<p> Officials believe each of the overdose victims thought they were taking straight ecstasy (MDMA). </p>
+<p> “This is a prime example of the gamble people take when they use illegal drugs,” said Calgary police drug unit staff Sgt. Mike Bossley. </p>
+<p> “You never know what is in your drug: yesterday, it was MDMA, today, it’s PMMA, and tomorrow, it could be something else. There is no safe street drug, and no safe dose of a street drug,” he said. </p>
+<p> Dr. Mark Yarema, medical director of the province’s Poison and Drug Information Service (PADIS), said while they can look similar, there are important differences between ecstasy and methamphetamine. </p>
+<p> “Although all have toxic effects, PMMA is considered more toxic than MDMA, with a higher incidence of seizures and elevated body temperature.” </p>
+<p> Methamphetamine can also be slower to act, prompting users to take several tablets to get the desired effect, he said. </p>
+<p> Police are still investigating the source of the drugs taken in each of the deaths. The names of the victims are not being released for privacy reasons. </p>
+<p> Share Tools </p>
+<p> Report Typo </p>
+<p> Send Feedback </p>
+<p> Stay Connected with CBC News </p>
+<p> Mobile </p>
+<p> Facebook </p>
+<p> Podcasts </p>
+<p> Twitter </p>
+<p> Alerts </p>
+<p> Newsletter </p>
+<p> Big Box Advertisement </p>
+<p> /* <![CDATA[ */ 				if(typeof(Ads) != "undefined") { 					Ads.displayBigBox(); 				} else { 					document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/'+ advertising_site + '/' + advertising_zone + ';pos=topbox;tile=2;sz=300x250;page='+ advertising_page_type +';section='+advertising_section+';category='+advertising_category+';contcat='+advertising_content_category+';'+advertising_keyword+advertising_surround_session+'ord=' + ord + '?" type="text/javascript"><\/script>'); 				} 			/* ]]> */ </p>
+<p> Latest Calgary News Headlines </p>
+<p> Naheed Nenshi ready to take on Rob Ford in fitness fight </p>
+<p> Calgary Mayor Naheed Nenshi says he is ready to take on Toronto Mayor Rob Ford in a battle of the bulge. </p>
+<p> more </p>
+<p> » </p>
+<p> Environmentalists, residents protest Castle logging plans </p>
+<p> A few dozen environmentalists and local residents were on hand in the Castle Wilderness Area on Wednesday to protest logging plans for the area. </p>
+<p> more </p>
+<p> » </p>
+<p> Redford meets with Quebec Premier Jean Charest </p>
+<p> Premier Alison Redford was in Quebec Wednesday to meet with Premier Jean Charest in advance of the Council of the Federation meeting next week in Victoria. </p>
+<p> more </p>
+<p> » </p>
+<p> Viterra expects gains with end of wheat board monopoly </p>
+<p> Agriculture giant Viterra says it expects to benefit from the end of the Canadian Wheat Board's monopoly. </p>
+<p> more </p>
+<p> » </p>
+<p> New Keystone XL route almost ready </p>
+<p> TransCanada Corp., the Canadian company attempting to build a $7 billion pipeline to carry oil from Canada to refineries along the Gulf Coast, soon will have a new route that seeks to allay worries of U.S. regulators, a company executive said Wednesday. </p>
+<p> more </p>
+<p> » </p>
+<p> Most Recent </p>
+<p> Watch </p>
+<p> Listen </p>
+<p> Show previous slide </p>
+<p> var o = { 				  containerId: 'promoContainer-0slides',                   categoryId: '1305515274',                   categoryPath: '/News/Canada/Calgary',                   startIndex: '1',                   endIndex: '6'               }; </p>
+<p> Show next slide </p>
+<p> Show previous slide </p>
+<p> var o = { 				  containerId: 'promoContainer-1slides',                   categoryId: '1558579352',                   categoryPath: '/Radio/Local_Shows/Alberta',                   startIndex: '1',                   endIndex: '6'               }; </p>
+<p> Show next slide </p>
+<p> Top News Headlines </p>
+<p> Syria protests continue against defiant Assad </p>
+<p> Anti-government protesters rallied for another night on the outskirts of Damascus, hours after Syrian President Bashar al-Assad made a surprise appearance at a pro-regime rally in the city centre, where he again vowed to end the months-long revolt against his rule. </p>
+<p> more </p>
+<p> » </p>
+<p> Afghan president condemns U.S. marines urination video </p>
+<p> Afghan President Hamid Karzai condemns a video depicting what appears to be four U.S. marines urinating on the corpses of Taliban fighters, calling the apparent actions "completely inhumane" and demanding that the U.S. military punish the marines. </p>
+<p> more </p>
+<p> » </p>
+<p> RCMP spied on Bob Rae in 1960s </p>
+<p> Newly declassified documents reveal the RCMP spied on Bob Rae during his student activist days and likely amassed a personal file on the future interim Liberal leader. </p>
+<p> more </p>
+<p> » </p>
+<p> Haiti's struggle to build better homes after quake </p>
+<p> Innovative building technology is one hope for the future in Haiti, where more than 500,000 people still live in temporary camps two years after a devastating earthquake. </p>
+<p> more </p>
+<p> » </p>
+<p> U.K. spies won't face charges for Guantanamo torture </p>
+<p> Agents working for Britain's spy agencies won't face criminal charges over their alleged complicity in the mistreatment of former Guantanamo detainees, the country's top prosecutor says. </p>
+<p> more </p>
+<p> » </p>
+<p> More Headlines </p>
+<p> » </p>
+<p> Most Viewed </p>
+<p> Most Commented </p>
+<p> Ecstasy laced with meth blamed in 5 Calgary deaths </p>
+<p> Naheed Nenshi ready to take on Rob Ford in fitness fight </p>
+<p> Driver charged in deadly weekend crash </p>
+<p> Environmentalists, residents protest Castle logging plans </p>
+<p> Paroled child killer back behind bars </p>
+<p> Accused serial abuser brought to Alberta to face charges </p>
+<p> Redford meets with Quebec Premier Jean Charest </p>
+<p> Viterra expects gains with end of wheat board monopoly </p>
+<p> New Keystone XL route almost ready </p>
+<p> var o = {                      commentsEnabled: false,                      iconsContainerIds: ['headlines'],                      discoveries: [                          {                              activity: 'Commented',                              containerId: 'cmtContainerId',                              age: 7,                              count: 9,                              sections: ['canada'],                             categories: ['calgary']                         }                     ]                  }; </p>
+<p> Features </p>
+<p> » </p>
+<p> Map </p>
+<p> Paul Karchut's Ski Report </p>
+<p> Find out what's happening with conditions as winter weather kicks into gear </p>
+<p> Interactive </p>
+<p> Calgary Gas Prices </p>
+<p> Where is the cheapest gas in Calgary? Let us know </p>
+<p> Big Box Advertisement </p>
+<p> // <![CDATA[ 			document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/cbc.remnant.ca/' + advertising_zone + ';pos=bottombox;tile=3;sz=300x250;page='+ advertising_page_type +';section='+advertising_section+';category='+advertising_category+';contcat='+advertising_content_category+';'+advertising_keyword+advertising_surround_session+'ord=' + ord + '?" type="text/javascript"><\/script>'); 			// ]]> </p>
+<p> Show previous slide </p>
+<p> Don't Miss </p>
+<p> Top Stories </p>
+<p> Month-by-month list of the most viewed news stories </p>
+<p> Most viewed stories on cbc.ca/calgary in 2011 ran the gamut from celebrations </p>
+<p> Your Photos </p>
+<p> Send us your images of Calgary's weather </p>
+<p> Send us your images of Calgary's weather </p>
+<p> FAQs </p>
+<p> Keystone XL oil pipeline project </p>
+<p> TransCanada Corp. proposal would carry Alberta crude to U.S. Gulf Coast </p>
+<p> PROFILE </p>
+<p> Alison Redford, Alberta premier </p>
+<p> Tories elect new leader </p>
+<p> Calgary Flames </p>
+<p> Latest headlines, scores and player stats </p>
+<p> Latest headlines, scores and player stats </p>
+<p> Photos </p>
+<p> Great Fire of 1886 sparks 'Sandstone City' </p>
+<p> Calgary Homicides </p>
+<p> Homicides to date </p>
+<p> Homicides to date </p>
+<p> Tories at 40 </p>
+<p> Timeline of a political dynasty </p>
+<p> Timeline of a political dynasty </p>
+<p> Show next slide </p>
+<p> CBC Global Footer Navigation </p>
+<p> CBC.ca </p>
+<p> Aboriginal </p>
+<p> Books </p>
+<p> Contests </p>
+<p> Digital Archives </p>
+<p> Documentaries </p>
+<p> Kids </p>
+<p> Kids' CBC Preschool </p>
+<p> Kids' CBC Wonder World </p>
+<p> News </p>
+<p> Parents </p>
+<p> Program Guide </p>
+<p> Radio </p>
+<p> Sports </p>
+<p> Television </p>
+<p> CBC Member Centre </p>
+<p> CBC Player </p>
+<p> CBC Shop </p>
+<p> Corporate </p>
+<p> About CBC </p>
+<p> Transparency and Accountability </p>
+<p> Jobs </p>
+<p> Visit the Canadian Broadcasting Centre </p>
+<p> Production Facilities </p>
+<p> Mobile Production Rentals </p>
+<p> Ombudsman </p>
+<p> CBC: Get the Facts </p>
+<p> Independent Producers </p>
+<p> Pitch a Radio or Audio Program </p>
+<p> Program and Content Sales </p>
+<p> Archive Sales </p>
+<p> Educational Sales </p>
+<p> Tapes, Transcripts and Image Assets </p>
+<p> Digital TV </p>
+<p> Stay Connected </p>
+<p> Mobile </p>
+<p> RSS </p>
+<p> Podcasts </p>
+<p> Member Services: </p>
+<p> Newsletters & Alerts </p>
+<p> CBC Links </p>
+<p> Terms Of Use </p>
+<p> Reuse & Permissions </p>
+<p> Advertise </p>
+<p> Privacy </p>
+<p> Site Map </p>
+<p> Contact Us </p>
+<p> CBC Radio-Canada </p>
+<p> Copyright © CBC 2012 </p>
+<p> cbc.radio-canada.ca </p>
+<p> cbc.ca </p>
+<p> radio-canada.ca </p>
+<p> YUI(_CBC_LOADER).use('cbc_core', 'node', 'gigya', function(Y, result){ 		if (result.success){ 			var conf = { 				APIKey:CBC.SETTINGS.getVal('gigyaApiKey') 			}; 				 			var ua = new gigya.services.socialize.UserAction(); 			ua.setUserMessage("Share this CBC content"); 			ua.setLinkBack(document.location.href); 			 			ua.setTitle("Ecstasy laced with meth blamed in 5 Calgary deaths"); 			 			var cid = ''; 			 				cid = "Canada"; 			 			var params1 ={ 				userAction:ua, 				shareButtons:'facebook, twitter, google-plusone, share, email', 				containerID: "sharecount", 				cid:cid, 				layout:'vertical' 			}; 			var params2 ={ 				userAction:ua, 				shareButtons:'facebook, twitter, google-plusone, share, email', 				containerID: "sharetools", 				showCounts: "none", 				cid:cid, 				layout:'horizontal' 			}; 			var params3 ={ 				userAction:ua, 				shareButtons:'facebook, twitter, google-plusone, share, email', 				containerID: "sharetoolstwo", 				showCounts: "none", 				cid:'', 				layout:'horizontal' 			}; 			if(Y.one("#sharecount")) 				gigya.services.socialize.showShareBarUI(conf,params1); 			if (Y.one("#sharetools")) 				gigya.services.socialize.showShareBarUI(conf,params2); 			if (Y.one("#sharetoolstwo")) 				gigya.services.socialize.showShareBarUI(conf,params3); 		} 	}); </p>
+<p> var o = { 		iconsContainerIds: ['storyhead','right'], 		commentsContainerId: 'socialcomments', 		articleKey: '2000480258', 		commentsEnabled: true, 		scmo: 'ApprovalRequired', 		scped: '2012/01/14 11:59:00 PM', 		scpm: 'Comments are [B]open[/B] and welcome until January 14, 2012 at 11:59 p.m. ET.\nWe reserve the right to close comments before then.', 		scem: 'This story is now closed to commenting.', 		cd: '2012/01/12 09:28:27' 	}; </p>
+<p> //<![CDATA[ 	if (!_CBC_LOADER.modules.video_json_request) _CBC_LOADER.modules.video_json_request = { type:"js", fullpath:"/video/js/JSONRequest.js" }; 	if (!_CBC_LOADER.modules.video_theplatform_playlist) _CBC_LOADER.modules.video_theplatform_playlist = { type:"js", fullpath:"/video/js/ThePlatformPlaylist.js", requires: ['video_json_request', 'yui2_domevent', 'cbc_old_core']}; 	if (!_CBC_LOADER.modules.cbc_story_media) _CBC_LOADER.modules.cbc_story_media = { type:"js", fullpath:"/i/js/v11/media.js", requires: ['cbc_core', 'node', 'event-custom', 'event', 'video_theplatform_playlist']}; 	  	YUI(_CBC_LOADER).use('cbc_story_media', function(Y, result){ 		if (result.success){ 			CBC.namespace("CBC.APP").storymedia = new CBC.APP.StoryMedia(); 	  	var params = {}; 	  	params.instance = "storymedia"; 	  	 params.videoids = '2186179617'; 	  	 	  	 	  	CBC.APP.storymedia.init(Y, params); 	  	CBC.APP.Instances.add("storymedia",CBC.APP.storymedia); 		} 	}); 	//]]> </p>
+<p> /* <![CDATA[ */ 	if (!_CBC_LOADER.modules.news_link_track) _CBC_LOADER.modules.news_link_track = { type:"js", fullpath:"/i/news/v10/js/linktrack.js", requires: ['cbc_core', 'node', 'event']}; 	YUI(_CBC_LOADER).use('news_link_track', function(Y, result){ 		if (result.success){ 			CBC.namespace("CBC.APP").newslinktrack = new CBC.APP.NewsLinkTrack(); 	  	var params = {}; 	  	params.instance = "newslinkstrack"; 	  	 params.mode = 'sp'; 	  	CBC.APP.newslinktrack.init(Y, params); 	  	CBC.APP.Instances.add("newslinktrack",CBC.APP.newslinktrack); 		} 	}); /* ]]> */ </p>
+<p> //<![CDATA[ try{ 	if(!CBC) { var CBC = {}; } 	if(!CBC.APP) { CBC.APP = {}; } 	if(!CBC.APP.SC) { CBC.APP.SC = {}; } 	CBC.APP.SC.QueryString = "contentarea=news&amp;contenttype=story&amp;title=2012/01/11/calgary-ecstasy-meth-deaths&amp;subsection1=regions&amp;subsection2=calgary"; 	 		CBC.APP.SC.storyTitle = "Ecstasy%20laced%20with%20meth%20blamed%20in%205%20Calgary%20deaths"; 	 }catch(e){ } //]]> </p>
+<p> if (typeof COMSCORE == 'undefined') { 	YUI(_CBC_LOADER).use('comscore', function(Y,result) { 		if (result.success) { 		if (typeof advertising_zone != 'string')  			var advertising_zone = ''; 				COMSCORE.beacon({c1:2,c2:3005684,c3:"",c4:escape(window.location.href),c5:"CBC.ca-CanadianNewsSportsEntertainmentKidsDocsRadioTV",c6:advertising_zone,c7:escape(window.location.href),c8:escape(document.title),c9:escape(document.referrer),c15:""}); 		} 	}); } </p>
+<p> document.write(unescape("%3Cscript%20src='"+ (document.location.protocol=='https:'?'https://clicktale.pantherssl.com/':'http://s.clicktale.net/')+ "WRc5.js'%20type='text/javascript'%3E%3C/script%3E")); </p>
+<p> var ClickTaleSSL=1; 		if(typeof ClickTale=='function') ClickTale(2944,0.003,"www08"); </p>

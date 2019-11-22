@@ -1,0 +1,176 @@
+<p> Dad, I ate my icecream money | Bay of Plenty News | Local News in Bay of Plenty </p>
+<p> var ads_site, ads_area, siteTarget, keyword, smrec_pos;      ads_site = 'REGBOPT';     ads_area = 'NEWS.STY';     siteTarget = ['SITE=', ads_site, '/AREA=', ads_area].join("");     keyword = 'news';     smrec_pos = 'ContentRect'; </p>
+<p> Wednesday January 18, 2012 1:57AM NZDT </p>
+<p> Weather </p>
+<p> Rotorua </p>
+<p> Whakatane </p>
+<p> Hamilton </p>
+<p> var weatherData = {             "rotorua": {                     image:"http://media.apnonline.com.au/65.1/images/rnnweather/mostly_sunny.gif", description: "Mostly sunny", min: "13", max: "22"                                },             "whakatane": {                     image:"http://media.apnonline.com.au/65.1/images/rnnweather/mostly_sunny.gif", description: "Mostly sunny", min: "15", max: "24"                                },             "hamilton": {                     image:"http://media.apnonline.com.au/65.1/images/rnnweather/mostly_sunny.gif", description: "Mostly sunny", min: "13", max: "24"                                }             }; </p>
+<p> Hi, </p>
+<p> Register </p>
+<p> My Profile </p>
+<p> Login </p>
+<p> Logout </p>
+<p> RenderAd(760, 120, 'bigbanner','BigBanner',''); </p>
+<p> Dad, I ate my icecream money | Bay of Plenty News | Local News in Bay of Plenty </p>
+<p> « </p>
+<p> » </p>
+<p> Visit our marketplace </p>
+<p> Send a letter to the editor </p>
+<p> Fabulous food and wine event </p>
+<p> #mastHead #mastHeadPromo { height:80px; }   body #mastHead { height:64px !important ; } </p>
+<p> $("head").append("<meta http-equiv='X-UA-Compatible' content='IE=8' />"); $("head").find('meta[content="IE=edge,chrome=1"]').remove(); </p>
+<p> Home </p>
+<p> Rena Oil Spill </p>
+<p> News </p>
+<p> Te Puke </p>
+<p> Tauranga </p>
+<p> Katikati </p>
+<p> Opinion </p>
+<p> Sport </p>
+<p> Business </p>
+<p> Property </p>
+<p> Life & Style </p>
+<p> Motoring </p>
+<p> Rural </p>
+<p> Photos </p>
+<p> Buy photos </p>
+<p> Classifieds </p>
+<p> Jobs </p>
+<p> Property </p>
+<p> Motoring </p>
+<p> Book your ad </p>
+<p> Sell your car </p>
+<p> Dad, I ate my icecream money </p>
+<p> by Kiri Gillespie  |                           Tuesday, January 17, 2012 8:11 </p>
+<p> X-ray images reveal just how wedged in a $2 coin was. </p>
+<p> Supplied </p>
+<p> A 10-year-old boy's trip to the shop ended up with a midnight trip to hospital after he swallowed a $2 coin meant for an icecream. </p>
+<p> The Tauranga boy, his brother and sister were on their way to their local shop to buy an icecream about 4pm on Sunday. </p>
+<p> The boy's father, radio identity Grayson Ottaway, said his son could not remember what happened next, other than the moment of swallowing the $2 coin. </p>
+<p> "It was a bit traumatic for him. We seem to think he was playing around and had it sitting in the side of his mouth, maybe he was tying his shoes laces or something," Mr Ottaway said. </p>
+<p> "He seems to remember when he swallowed it, then the instant reaction was that he vomited. It was that gag reflex." </p>
+<p> Mr Ottaway's son continued to throw up when he got home, with the gag reflexes out of control. </p>
+<p> "He was really violently ill and, of course, his mother was wondering what the hell was going on," he said. </p>
+<p> "She was thinking 'maybe it's something he'd eaten'. Then he said 'Mum, what happens if you swallow a bit of metal?"' </p>
+<p> The boy was taken to Tauranga Hospital where an X-ray revealed the golden culprit sitting wedged in his oesophagus. </p>
+<p> "They looked at the X-ray and saw where it was and said there's no way he's going to be able to cough that up." </p>
+<p> Transfer plans were made to take Mr Ottaway's son to Waikato Hospital, where he could be operated on and the coin safely removed. Mr Ottaway said the incident left his son too weak to stand that day but he was grateful it was not in his windpipe. </p>
+<p> The boy was given a general anaesthetic about midnight and taken into theatre, where doctors used long medical tongs to retrieve the coin. </p>
+<p> "It literally took 15 minutes, if that," Mr Ottaway said. </p>
+<p> Yesterday, his son was back to normal and a "chirpy little bugger". "He's absolutely fine now," his father said. </p>
+<p> The boy said although his ordeal was scary the rescue helicopter flight was fun. He said he was really sick but was now feeling "good, just a bit sore" in his throat. Mr Ottaway asked that his son not be named but said it was important to get the message out there of how easily something like this could happen. </p>
+<p> Medical experts say they often see children who have swallowed dangerous and foreign objects. </p>
+<p> Waikato Hospital clinical nurse manager Diana Knight said she had seen children swallow pins, coins, hard biscuits, keys and more. </p>
+<p> Ms Knight said if a child had swallowed something and it was lodged in the throat, provided they were still breathing, people should try to keep the child calm, conscious and alert. </p>
+<p> "If the child is unconscious, turn them over and give them firm pats on the back, this may dislodge the object enough to allow air in. Take the child to an emergency department." </p>
+<p> She said the best advice for parents, particularly of babies who were crawling, was to regularly vacuum and keep things off the floor. </p>
+<p> "Babies will eat anything," she said. </p>
+<p> John Bonning, clinical unit leader, said the most dangerous thing for any child to swallow was button batteries, which were dangerous and must be removed surgically. </p>
+<p> "Make your house child-proof. Keep laundry items locked up and 'grandma's pills" out of the way," Dr Bonning said. </p>
+<p> Senior doctor at Tauranga Hospital Tina Bergen said the emergency department saw on average one case every few weeks of an adult or child swallowing an object. </p>
+<p> function renderContentAd() {                             RenderAd(300, 250, 'rectangle','ContentRect','/SR=1/POS=2');                             RenderAd(300, 50, 'minibanner','MiniBanner','');                         } </p>
+<p> Special Offers </p>
+<p> Ghan Train 10% off </p>
+<p> 7 Nights Med Cruise from $1225 pp </p>
+<p> 40 Days Europe Tour $10999.00 </p>
+<p> Check out local deals in one place with the Bay of Plenty Times Marketplace. </p>
+<p> Want free access to Les Mills gyms? Find out more! </p>
+<p> Checking for comments... </p>
+<p> $('#comments').show();         var commentsURL = '/comments/view/news/newsentry/1240171/'; </p>
+<p> /comments/view/news/newsentry/1240171/ </p>
+<p> $(document).ready(function(){         $('span.esi-include').each(function(){             var esi = $(this);             var url = '/comments/view/news/newsentry/1240171/';             if (esi.text() == url) {                 $.ajax({                     'url': url,                     'context': esi,                     'success': function(response) {                         $(this).replaceWith(response);                     }                 });             }         });     }); </p>
+<p> $.get("/record/hit/28/1240171/"); </p>
+<p> Share </p>
+<p> Email </p>
+<p> Print </p>
+<p> Most Recent </p>
+<p> Fire destroys shed in Welcome Bay </p>
+<p> Straight shooter aims for the top </p>
+<p> Mount's hidden slice of paradise </p>
+<p> Richard Moore: No place for zealots </p>
+<p> 500 containers are still missing </p>
+<p> Most Recent Archive </p>
+<p> RenderAd(300, 250, 'rectangle','HeadlineRect','/SR=0/POS=1'); </p>
+<p> Popular </p>
+<p> 1 </p>
+<p> Family fuming as baby forced out of cafe </p>
+<p> 96 Comments </p>
+<p> 2 </p>
+<p> Wanted by Tauranga police </p>
+<p> Have your say </p>
+<p> 3 </p>
+<p> Stress after dental care wait </p>
+<p> 2 Comments </p>
+<p> 4 </p>
+<p> Welcome Bay drowning: 'He was just gone' </p>
+<p> Have your say </p>
+<p> 5 </p>
+<p> Robbery at Bureta Pharmacy </p>
+<p> Have your say </p>
+<p> #salesCarouselContainer {border:1px solid #ddd; background:#fff; position:relative; padding: 10px 0 8px; margin-top: 3px; width: 298px;} #salesCarousel {margin:0;overflow:hidden;}  #salesCarousel ul {font-size:100%; clear:both; height:166px; overflow:hidden;} #salesCarousel li {font-size:100%;height:166px;padding:0 11px;width:276px; list-style-type: none;} #salesCarousel li .copyColumn {float:right;width:165px;} #salesCarousel li .wideCopyColumn {float:none;width:auto;}  #salesCarousel h6 {font-size:85%;line-height:16px;margin-bottom:2px;} #salesCarousel img {float:left;margin:0px 8px 0 0;} /*#salesCarousel img {float:left;margin:4px 8px 0 0;}*/  #salesCarouselNav { padding: 0 10px; margin-top: 6px; } #salesCarouselNav a {     height: 6px;     width: 6px;     display: inline-block;     text-indent: -99999px;     overflow: hidden;     margin:0 1px 0 0;     background: transparent url("http://media.apnonline.com.au/65.1/nzrnn/images/bg_carouselDot.gif") no-repeat scroll center center;     cursor: pointer; 	cursor: hand; } #salesCarouselNav .current {     background: transparent url("http://media.apnonline.com.au/65.1/nzrnn/images/bg_carouselDotSelected.gif") no-repeat scroll center center; } #salesCarouselController {background:#EBEBEB;color:#8b8b8b;display:none;position:absolute;right:1px;bottom:4px;padding-right:5px;z-index:1000;} #salesCarouselController p {background:none;} #salesCarouselController a {color:#AC360A;} #salesCarouselContainer .grey-hd {     float: right;     margin-left: 10px;     margin-right: 10px;     margin-top: -24px;     padding: 0.1em 0.5em; } </p>
+<p> « </p>
+<p> | </p>
+<p> » </p>
+<p> 1 </p>
+<p> 2 </p>
+<p> 3 </p>
+<p> 4 </p>
+<p> 5 </p>
+<p> 6 </p>
+<p> 7 </p>
+<p> 8 </p>
+<p> 9 </p>
+<p> 10 </p>
+<p> 11 </p>
+<p> Buy Local </p>
+<p> $("body").bind("APNCore.Advertising.complete", function () {     var $salesCarousel, $salesCarouselItems, $bindItems, bindItemsArray, interval, assignedInterval;      //Cache     $salesCarouselContainer = $("#salesCarouselContainer");     $salesCarousel = $("#salesCarousel");     $salesCarouselNav = $("#salesCarouselNav");          //Ad cleanup for bserver items     $salesCarousel.find(".salesCarouselItem:hidden").each(function() {         //remove the a link based off 'id' naming         var itemNum = $(this).attr('id').split('salesCarouselAd',2);         var itemName = "#salesCarouselNav ."+itemNum[1];         $(itemName).remove();         $(this).remove(); //remove the hidden div     });          //Prepare a list of selectors to feed to the plugin after cleanup has occurred above     $bindItems = $salesCarouselNav.children("a");      if ($salesCarousel.find(".salesCarouselItem").length > 0) {         if ($salesCarousel.find(".salesCarouselItem").length > 1) {                          //Show, and highlight the first item - which should have been after cleanup.             $salesCarouselNav.show().children(":first").addClass("current");                          //While hovered, the adverts don't continue.             interval = 5000;             assignedInterval = setInterval("$('#nextSalesCarouselItem').trigger('click');", interval);             $('#salesCarouselContainer').hover(function() {               assignedInterval = clearInterval(assignedInterval);             }, function() {               assignedInterval = setInterval("$('#nextSalesCarouselItem').trigger('click');", interval);             });                          $salesCarousel.jCarouselLite({                 //auto: 5000,                 btnNext: "#nextSalesCarouselItem",                 btnPrev: "#prevSalesCarouselItem",                 visible: 1,                 scroll: 1,                 btnGo: $bindItems,                 afterEnd: function(a) {                     var salesCarouselItem =  a.attr('id').split('salesCarouselAd',2);                     var theItem = "#salesCarouselNav ."+salesCarouselItem[1];                     //console.log(theItem);                     $(theItem).addClass("current").siblings().removeClass("current");                 }             });                                                }     } else {         $salesCarouselContainer.hide();     } }); </p>
+<p> Jobs </p>
+<p> Property </p>
+<p> Cars </p>
+<p> Subscriptions </p>
+<p> Bay of Plenty Times </p>
+<p> About us </p>
+<p> Contact us </p>
+<p> Make us your Homepage </p>
+<p> Competitions </p>
+<p> Services </p>
+<p> Online advertising </p>
+<p> Print advertising </p>
+<p> Digital edition </p>
+<p> Advertise with us </p>
+<p> Photo sales </p>
+<p> Site registration </p>
+<p> Your feedback </p>
+<p> Letters to the Editor </p>
+<p> Like us on Facebook </p>
+<p> Follow us on Twitter </p>
+<p> Our Partners </p>
+<p> Grabone </p>
+<p> Sella </p>
+<p> Eventfinder </p>
+<p> NZ Herald </p>
+<p> Regional Websites </p>
+<p> The Aucklander </p>
+<p> Bay of Plenty Times </p>
+<p> Rotorua Daily Post </p>
+<p> Hawkes Bay Today </p>
+<p> Northern Advocate </p>
+<p> Stratford Press </p>
+<p> Wairarapa Times-Age </p>
+<p> Wanganui Chronicle </p>
+<p> Star Canterbury </p>
+<p> Oamaru Mail </p>
+<p> if(window.location.pathname == '/rugby-world-cup-2011/fixtures/') {   $('div#RWCwidgets').show();   $('div.promoContainer').hide();   } </p>
+<p> $("div.marketPlaceItem a").attr("target", "_blank"); </p>
+<p> Privacy Policy </p>
+<p> Terms of Use </p>
+<p> Copyright 2012, APN Holdings NZ Limited </p>
+<p> .vio-container { padding:0; border:none; } </p>
+<p> // highlight the menu item              $('#mainNav > ul > li > a.mt_news:first').addClass('current');         $('#mainNav > ul > li > ul.mt_news:first').addClass('current');               /*     We need to drop in an adSpace if the Content (not including html elements) is GT 1500 characters     */     $(document).ready(function() {         if ($(".storyContent .entryAdspace").length > 0) {             var lengthCheck = 1250;             var storyContent = $(".storyContent");             if (storyContent.children("p").text().length > lengthCheck) {                 count = 0;                 // In ported data the story content uses double br tags instead of paragraph tags, the following is to deal with that                 if (storyContent.children("p").length == 1) {                     var text = storyContent.children("p").html();                     var adInsert = false;                     var running = 0;                     var pos = 0;                     var textManip = text;                     // loop through story content finding br tags and find a good safe position to insert the adspace div                     while (adInsert == false) {                         pos = textManip.indexOf("<br>");                         // if a <br isn't found... ABORT!                         if (pos == -1) {                             adInsert = true;                         } else {                                 if (running+pos >= 1250) {                                 adInsert = true;                             } else {                                 running += pos;                                 textManip = textManip.substr(pos, textManip.length);                                 textManip = textManip.replace("<br>", '');                                 // add 4 characters to compensate for the stripped out <br> tag                                 running += 4;                             }                         }                     }                     if (running > 0) {                         var pre = text.substring(0, running);                         var post = text.substring(running, text.length);                         // get the html of the adspace including itself                         var ad = $(".storyContent .entryAdspace").clone().wrap('<div></div>').parent().html();                         $(".storyContent .entryAdspace").remove();                         $(".storyContent").children("p").html(pre+ad+post);                     }                     renderContentAd();                 } else {                     $.each(storyContent.children("p"), function() {                         count += $(this).text().length;                         if (lengthCheck < count) {                             $(this).after($(".storyContent .entryAdspace"));                             renderContentAd();                             return false;                         }                     });                 }             }         }     }); </p>
+<p> APNCore.Config.set("slugs", {             item_slug: "dad-i-ate-my-icecream-money",             section_slug: null,             page_slug: null,             category_slug: "news",             default_slug: "default"         });         $(document).ready(function () {               APNCore.init('NZRNNMode', 'NZRNN', 'NZRNNPage', 'Contentupload');   //bserver calling code - only used for the advertising carousel atm.   var adIDs = [     'salesCarouselAd1',     'salesCarouselAd2',     'salesCarouselAd3',     'salesCarouselAd4',     'salesCarouselAd5',     'salesCarouselAd6',     'salesCarouselAd7',     'salesCarouselAd8',     'salesCarouselAd9',     'salesCarouselAd10',     'salesCarouselAd11',     'salesCarouselAd12',     'salesCarouselAd13',     'salesCarouselAd14',     'salesCarouselAd15',     'salesCarouselAd16',     'salesCarouselAd17',     'salesCarouselAd18',     'salesCarouselAd19',     'salesCarouselAd20',     'salesCarouselAd21',     'salesCarouselAd22',     'salesCarouselAd23',     'salesCarouselAd24' ]; var doNotShuffleAds = doNotShuffleAds || false; if (!doNotShuffleAds) {    adIDs.sort(function () {       return 0.5 - Math.random();   }); } APNCore.Advertising.ads.push(     {id: adIDs.pop(),    tag: 'B1/SIZE=carousel/POS=1'},   // Local Carousel Ad     {id: adIDs.pop(),    tag: 'B2/SIZE=carousel/POS=2'},   // Local Carousel Ad     {id: adIDs.pop(),    tag: 'B3/SIZE=carousel/POS=3'},   // Local Carousel Ad     {id: adIDs.pop(),    tag: 'B4/SIZE=carousel/POS=4'},   // Local Carousel Ad     {id: adIDs.pop(),    tag: 'B5/SIZE=carousel/POS=5'},   // Local Carousel Ad     {id: adIDs.pop(),    tag: 'B6/SIZE=carousel/POS=6'},   // Local Carousel Ad     {id: adIDs.pop(),    tag: 'B7/SIZE=carousel/POS=7'},   // Local Carousel Ad     {id: adIDs.pop(),    tag: 'B8/SIZE=carousel/POS=8'},   // Local Carousel Ad     {id: adIDs.pop(),    tag: 'B9/SIZE=carousel/POS=9'},   // Local Carousel Ad     {id: adIDs.pop(),    tag: 'B10/SIZE=carousel/POS=10'},  // Local Carousel Ad     {id: adIDs.pop(),    tag: 'B11/SIZE=carousel/POS=11'},   // Local Carousel Ad     {id: adIDs.pop(),    tag: 'B12/SIZE=carousel/POS=12'},   // Local Carousel Ad     {id: adIDs.pop(),    tag: 'B13/SIZE=carousel/POS=13'},   // Local Carousel Ad     {id: adIDs.pop(),    tag: 'B14/SIZE=carousel/POS=14'},  // Local Carousel Ad     {id: adIDs.pop(),    tag: 'B15/SIZE=carousel/POS=15'},   // Local Carousel Ad     {id: adIDs.pop(),    tag: 'B16/SIZE=carousel/POS=16'},   // Local Carousel Ad     {id: adIDs.pop(),    tag: 'B17/SIZE=carousel/POS=17'},   // Local Carousel Ad     {id: adIDs.pop(),    tag: 'B18/SIZE=carousel/POS=18'},   // Local Carousel Ad     {id: adIDs.pop(),    tag: 'B19/SIZE=carousel/POS=19'},   // Local Carousel Ad     {id: adIDs.pop(),    tag: 'B20/SIZE=carousel/POS=20'},  // Local Carousel Ad     {id: adIDs.pop(),    tag: 'B21/SIZE=carousel/POS=21'},   // Local Carousel Ad     {id: adIDs.pop(),    tag: 'B22/SIZE=carousel/POS=22'},   // Local Carousel Ad     {id: adIDs.pop(),    tag: 'B23/SIZE=carousel/POS=23'},   // Local Carousel Ad     {id: adIDs.pop(),    tag: 'B24/SIZE=carousel/POS=24'}  // Local Carousel Ad );   APNCore.Advertising.automate({     url:       'http://data.apn.co.nz/apnnz/bserver',     site:      'REGBOPT',     area:      'NEWS.STY',     keyword:   'news' });           }); </p>
+<p> /*      * Initialise FB      */      window.fbAsyncInit = function() {          if ( $.browser.msie && $.browser.version <= 9.0 ) {             // Taking the channel out for IE 7/8/9 users             FB.init({appId: '227245930623113', status: true, cookie: true, xfbml: true, oauth: true});         } else {             FB.init({appId: '227245930623113', status: true, cookie: true, xfbml: true, oauth: true, channelUrl: 'http://www.bayofplentytimes.co.nz/fb_channel.html'});         }          // This code solves a FB bug         FB.UIServer.setLoadedNode = function (a, b) {             FB.UIServer._loadedNodes[a.id] = b;         };          FB.Event.subscribe('edge.create', function(response) {             var key = "like:";             if (typeof Activity !== "undefined") {                 if (response.indexOf('://') > -1) {                     key = key + "/" + response.split("/").slice(3).join("/");                 } else {                     key = key + response;                 }                 Activity.record(key);             }         });     };      // Load the SDK Asynchronously     (function(d){         var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}         js = d.createElement('script'); js.id = id; js.async = true;         js.src = "//connect.facebook.net/en_GB/all.js";         d.getElementsByTagName('head')[0].appendChild(js);     }(document));      function facebookConnect(next) {         next = next ? next : '/';         FB.getLoginStatus(function(response) {             if (response.authResponse) {                 // user is logged in and granted some permissions.                 window.location = '/facebook/login/?next=' + next;             } else {                 // user cancelled login or did not grant authorization, try login                 FB.login(function(response) {                     if (response.authResponse) {                         window.location = '/facebook/login/?next=' + next;                     }                 }, {scope: 'email'});             }             return false;         });         return false;     } </p>
+<p> //<![CDATA[     var _rsCI="nz-apn";     var _rsCG="nzbopt";     var _rsDN="//secure-nz.imrworldwide.com/";     var _rsCC=0;     var _rsSE=0;     var _rsSM=0;      //]]> </p>
+<p> <!-- /* You may give each page an identifying name, server, and channel on the next lines. */ s.pageName="BOPT:article:dadiatemyicecreammoney:1240171" s.server="" s.channel="BOPT:local" s.pageType="" s.prop1="article" s.prop2="wednesday" s.prop3="01:00" s.prop4="BOPT" s.prop5="1240171" s.prop6="" s.prop7="articleshort" s.prop8=($.cookie('apn_account_id') || "") s.prop9=""  /* Conversion Variables */ s.campaign="" s.state="" s.zip="" s.events="" s.products="" s.purchaseID="" s.eVar1="" s.eVar2="" s.eVar3="" s.eVar4="" s.eVar5=""  /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/ var s_code=s.t();if(s_code)document.write(s_code)//--> </p>
+<p> <!-- if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-') //--> </p>
+<p> {lang: 'en-GB'} </p>

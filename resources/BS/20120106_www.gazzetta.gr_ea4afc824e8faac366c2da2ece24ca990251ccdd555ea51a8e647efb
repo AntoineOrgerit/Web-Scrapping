@@ -1,0 +1,488 @@
+<p> Παίρνει εξιτήριο ο «Μαύρος Πάνθηρας»! | gazzetta.gr </p>
+<p> <!--//--><![CDATA[//><!-- jQuery.extend(Drupal.settings, { "basePath": "/", "googleanalytics": { "trackOutgoing": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip" }, "lightbox2": { "rtl": "0", "file_path": "/(\\w\\w/)sites/default/files", "default_image": "/sites/all/modules/lightbox2/images/brokenimage.jpg", "border_size": 10, "font_color": "000", "box_color": "fff", "top_position": "", "overlay_opacity": "0.8", "overlay_color": "000", "disable_close_click": 1, "resize_sequence": 0, "resize_speed": 400, "fade_in_speed": 400, "slide_down_speed": 600, "use_alt_layout": 0, "disable_resize": 1, "disable_zoom": 0, "force_show_nav": 0, "show_caption": 1, "loop_items": 0, "node_link_text": "", "node_link_target": 0, "image_count": "Image !current of !total", "video_count": "Video !current of !total", "page_count": "Page !current of !total", "lite_press_x_close": "press \x3ca href=\"#\" onclick=\"hideLightbox(); return FALSE;\"\x3e\x3ckbd\x3ex\x3c/kbd\x3e\x3c/a\x3e to close", "download_link_text": "", "enable_login": false, "enable_contact": false, "keys_close": "c x 27", "keys_previous": "p 37", "keys_next": "n 39", "keys_zoom": "z", "keys_play_pause": "32", "display_image_size": "original", "image_node_sizes": "(\\.thumbnail)", "trigger_lightbox_classes": "", "trigger_lightbox_group_classes": "img.inline,img.flickr-photo-img,img.flickr-photoset-img,img.ImageFrame_image,img.ImageFrame_none,img.image-img_assist_custom,img.thumbnail, img.image-thumbnail", "trigger_slideshow_classes": "", "trigger_lightframe_classes": "", "trigger_lightframe_group_classes": "", "custom_class_handler": 0, "custom_trigger_classes": "", "disable_for_gallery_lists": true, "disable_for_acidfree_gallery_lists": true, "enable_acidfree_videos": true, "slideshow_interval": 5000, "slideshow_automatic_start": 0, "slideshow_automatic_exit": 0, "show_play_pause": 0, "pause_on_next_click": 0, "pause_on_previous_click": 1, "loop_slides": 0, "iframe_width": 600, "iframe_height": 400, "iframe_border": 1, "enable_video": 0 }, "wajcomments": { "nid": "252638" } }); //--><!]]> </p>
+<p> <!--//--><![CDATA[//><!-- $(function() {        $("img.imagecache:not(.imagecache-gallery_home,.imagecache-gallery_home_thumbnail,.imagecache-multimedia_home_big,imagecache-mobile, .imagecache-weeekend_gallery)").lazyload({   	    threshhold 	: 0,         placeholder : "/sites/all/modules/lazy_image_loader/images/grey.gif",         event 		: "scroll",         effect 		: "fadeIn",         failurelimit	: 10       });     }); //--><!]]> </p>
+<p> <!--//--><![CDATA[//><!--   		$(document).ready(function(){ 			$.ajax({ 					url: "/ajaxblock_cs/latest-news",dataType: "html",type: "GET",success: function(htmlVal){ 						$("#block-wblocks-12 .content .quicktabs_wrapper").html(htmlVal); 						initLatestnews(); 						Drupal.customviews.articleviews() 					} 				}); 		}); 	 //--><!]]> </p>
+<p> <!--//--><![CDATA[//><!-- document.write(unescape("%3Cscript src='http://partner.googleadservices.com/gampad/google_service.js' type='text/javascript'%3E%3C/script%3E"));  //--><!]]> </p>
+<p> <!--//--><![CDATA[//><!-- GS_googleAddAdSenseService("ca-pub-5476722225080506"); GS_googleEnableAllServices();  //--><!]]> </p>
+<p> <!--//--><![CDATA[//><!-- GA_googleAddAttr("v-main-cat", "Eyrvph"); GA_googleAddAttr("v-main-cat", "Podosfairo");  //--><!]]> </p>
+<p> <!--//--><![CDATA[//><!-- GA_googleAddSlot("ca-pub-5476722225080506", "Gazzetta_Article_TextLink_Top_155x235"); GA_googleAddSlot("ca-pub-5476722225080506", "Gazzetta_InsideArticles_300x250"); GA_googleAddSlot("ca-pub-5476722225080506", "Gazzetta_Article_TextLink_Bottom_661x86"); GA_googleAddSlot("ca-pub-5476722225080506", "Gazzetta_Football_728x90"); GA_googleAddSlot("ca-pub-5476722225080506", "Gazzetta_ROS_Header_240x90"); GA_googleAddSlot("ca-pub-5476722225080506", "Gazzetta_PushDown_973x55"); GA_googleAddSlot("ca-pub-5476722225080506", "Gazzetta_Expandable_975x30_ROS"); GA_googleAddSlot("ca-pub-5476722225080506", "Gazzetta_Article_Banner_Bottom_660x100"); GA_googleAddSlot("ca-pub-5476722225080506", "Gazzetta_Football_Top_300x250"); GA_googleAddSlot("ca-pub-5476722225080506", "Gazzetta_Meteorologos_ROS"); GA_googleAddSlot("ca-pub-5476722225080506", "Gazzetta_TVSchedule_ROS_287x88"); GA_googleAddSlot("ca-pub-5476722225080506", "Gazzetta_ROS_300x250_2"); GA_googleAddSlot("ca-pub-5476722225080506", "Gazzetta_FootballMenu_Branding"); GA_googleAddSlot("ca-pub-5476722225080506", "Gazzetta_BloggersList_660x100_1"); GA_googleAddSlot("ca-pub-5476722225080506", "Gazzetta_BloggersList_660x100_2"); GA_googleAddSlot("ca-pub-5476722225080506", "Gazzetta_Home_AboveSlider_528x50"); GA_googleAddSlot("ca-pub-5476722225080506", "Gazzetta_Home_BelowSlider_446x50");  //--><!]]> </p>
+<p> <!--//--><![CDATA[//><!-- GA_googleFetchAds();  //--><!]]> </p>
+<p> try {         window.external.msSiteModeCreateJumplist('Ενημέρωση');          window.external.msSiteModeAddJumpListItem 		('Ποδόσφαιρο', 		 'http://www.gazzetta.gr/football', 		 'http://services.wedia.gr/gazzettafpwidget/icons/football.ico');         window.external.msSiteModeAddJumpListItem 		('Μπάσκετ', 		 'http://www.gazzetta.gr/basket', 		 'http://services.wedia.gr/gazzettafpwidget/icons/basket.ico');         window.external.msSiteModeAddJumpListItem 		('Πρωτοσέλιδα', 		 'http://www.gazzetta.gr/newsstand', 		 'http://services.wedia.gr/gazzettafpwidget/icons/newspapers.ico');         window.external.msSiteModeAddJumpListItem 		('Βαθμολογίες', 		 'http://www.gazzetta.gr/vathmologia-superleague', 		 'http://services.wedia.gr/gazzettafpwidget/icons/bathmologies.ico');         window.external.msSiteModeAddJumpListItem 		('Bloggers', 		 'http://www.gazzetta.gr/bloggers', 		 'http://services.wedia.gr/gazzettafpwidget/icons/bloggers.ico');         window.external.msSiteModeAddJumpListItem 		('MediaCafe', 		 'http://www.gazzetta.gr/Media-Cafe', 		 'http://services.wedia.gr/gazzettafpwidget/icons/mediacafe.ico');         window.external.msSiteModeAddJumpListItem 		('Πρωταγωνιστές', 		 'http://www.gazzetta.gr/protagonistes', 		 'http://services.wedia.gr/gazzettafpwidget/icons/stars.ico');         window.external.msSiteModeAddJumpListItem 		('Μαύρο Κουτί', 		 'http://www.gazzetta.gr/black-box', 		 'http://services.wedia.gr/gazzettafpwidget/icons/blackbox.ico');         window.external.msSiteModeAddJumpListItem 		('Gazzetta Community', 		 'http://community.gazzetta.gr/', 		 'http://services.wedia.gr/gazzettafpwidget/icons/community.ico');          window.external.msSiteModeShowJumplist();     }     catch (ex) {     } </p>
+<p> /* Team Backgrounds */ .team-panauhnaikos #page-wrapper1 { background:#fff url(/sites/all/themes/basic/images/teambackgrounds/pao.jpg) 50% 0 no-repeat; } body.team-panauhnaikos { background:none; }  .team-olympiakos #page-wrapper1 { background:#fff url(/sites/all/themes/basic/images/teambackgrounds/osfp.jpg) 50% 0 no-repeat; } body.team-olympiakos { background:none; }  .team-paok #page-wrapper1 { background:#EFEFEF url(/sites/all/themes/basic/images/teambackgrounds/paok.jpg) 50% 0 no-repeat; } body.team-paok { background:none; }  .team-aek #page-wrapper1 { background:#F5E8C8 url(/sites/all/themes/basic/images/teambackgrounds/aek.jpg) 50% 0 no-repeat; } body.team-aek { background:none; }  .team-arhs #page-wrapper1 { background:#FFF9DD url(/sites/all/themes/basic/images/teambackgrounds/aris.jpg) 50% 0 no-repeat; } body.team-arhs { background:none; }  .team-larisa #page-wrapper1 { background:#F9ECF3 url(/sites/all/themes/basic/images/teambackgrounds/larisa.jpg) 50% 0 no-repeat; } body.team-larisa { background:none; }  .team-panivnios #page-wrapper1 { background:#F6ECEA url(/sites/all/themes/basic/images/teambackgrounds/panionios.jpg) 50% 0 no-repeat; } body.team-panivnios { background:none; }  .team-hraklhs #page-wrapper1 { background:#E7F5F8 url(/sites/all/themes/basic/images/teambackgrounds/iraklis.jpg) 50% 0 no-repeat; } body.team-hraklhs { background:none; }  .team-panserraikos #page-wrapper1 { background:#fff url(/sites/all/themes/basic/images/teambackgrounds/panseraikos.jpg) 50% 0 no-repeat; } body.team-panserraikos { background:none; }  body.team-olympiakos_boloy, body.team-kerkyra, body.team-football_league { background:#01202c url(/sites/all/themes/basic/images/bgRepeat.gif) repeat-y 50% 0px; }   .team-chelsea #page-wrapper1 { background:#D2D7EB url(/sites/all/themes/basic/images/teambackgrounds/chelsea.jpg) 50% 0 no-repeat; } body.team-chelsea { background:none; }  .team-manchester_united #page-wrapper1 { background:#F8EDE7 url(/sites/all/themes/basic/images/teambackgrounds/manchester.jpg) 50% 0 no-repeat; } body.team-manchester_united { background:none; }  .team-arsenal #page-wrapper1 { background:#F3F3EB url(/sites/all/themes/basic/images/teambackgrounds/arsenal.jpg) 50% 0 no-repeat; } body.team-arsenal { background:none; }  .team-liverpool #page-wrapper1 { background:#EBF5F6 url(/sites/all/themes/basic/images/teambackgrounds/liverpool.jpg) 50% 0 no-repeat; } body.team-liverpool { background:none; }  .team-barcelona #page-wrapper1 { background:#ECD2D1 url(/sites/all/themes/basic/images/teambackgrounds/barcelona.jpg) 50% 0 no-repeat; } body.team-barcelona { background:none; }  .team-real #page-wrapper1 { background:#F9F3E7 url(/sites/all/themes/basic/images/teambackgrounds/real.jpg) 50% 0 no-repeat; } body.team-real { background:none; }  .team-inter #page-wrapper1 { background:#F8F4E8 url(/sites/all/themes/basic/images/teambackgrounds/inter.jpg) 50% 0 no-repeat; } body.team-inter { background:none; }  .team-milan #page-wrapper1 { background:#EDF1F2 url(/sites/all/themes/basic/images/teambackgrounds/milan.jpg) 50% 0 no-repeat; } body..team-milan { background:none; }  .team-juventus #page-wrapper1 { background:#F6F2E7 url(/sites/all/themes/basic/images/teambackgrounds/juventus.jpg) 50% 0 no-repeat; } body.team-juventus { background:none; }  .team-bayern #page-wrapper1 { background:#CDEAF0 url(/sites/all/themes/basic/images/teambackgrounds/bayern.jpg) 50% 0 no-repeat; } body.team-bayern { background:none; }  .team-eunikh_ellados #page-wrapper1 { background:#CFE5F0 url(/sites/all/themes/basic/images/teambackgrounds/ellada.jpg) 50% 0 no-repeat; } body.team-eunikh { background:none; }  .team-ellada #page-wrapper1 { background:#CFE5F0 url(/sites/all/themes/basic/images/teambackgrounds/ellada.jpg) 50% 0 no-repeat; } body.team-ellada { background:none; } </p>
+<p> gazzetta.gr </p>
+<p> Καυγάς Κόρμπου-Ιωάννου στα αποδυτήρια για το ποιος είναι ο σκόρερ του αυτογκόλ... </p>
+<p> Σάββατο, 14 Ιαν 2012 </p>
+<p> Follow @gazzetta_gr </p>
+<p> Gazzetta Community </p>
+<p> Ολυμπιακός </p>
+<p> Παναθηναϊκός </p>
+<p> ΠΑΟΚ </p>
+<p> ΑΕΚ </p>
+<p> Αρης </p>
+<p> Λάρισα </p>
+<p> Πανιώνιος </p>
+<p> Ηρακλής </p>
+<p> Κέρκυρα </p>
+<p> Παναιτωλικός </p>
+<p> ΠΑΣ Γιάννινα </p>
+<p> ΟΦΗ </p>
+<p> Ατρόμητος Αθηνών </p>
+<p> Ξάνθη </p>
+<p> Εργοτέλης </p>
+<p> Chelsea </p>
+<p> Manchester United </p>
+<p> Arsenal </p>
+<p> Liverpool </p>
+<p> Barcelona </p>
+<p> Real </p>
+<p> Inter </p>
+<p> Milan </p>
+<p> Juventus </p>
+<p> Bayern </p>
+<p> Εθνική Ελλάδος </p>
+<p> Football League </p>
+<p> GA_googleFillSlot("Gazzetta_Expandable_975x30_ROS"); </p>
+<p> Home </p>
+<p> Ποδόσφαιρο </p>
+<p> Μπάσκετ </p>
+<p> Βόλεϊ </p>
+<p> AutoGazzetta </p>
+<p> Άλλα Σπορ </p>
+<p> Poker </p>
+<p> Βαθμολογίες </p>
+<p> Livescore </p>
+<p> Gallery </p>
+<p> Live Center </p>
+<p> GA_googleFillSlot("Gazzetta_FootballMenu_Branding"); </p>
+<p> Super League </p>
+<p> Ελλάδα </p>
+<p> Κύπρος </p>
+<p> Champions League </p>
+<p> Ευρώπη </p>
+<p> Κύπελλο </p>
+<p> Europa League </p>
+<p> Gazzetta Weekend </p>
+<p> Κόσμος </p>
+<p> Εθνική Ομάδα </p>
+<p> Euro 2012 </p>
+<p> Ειδήσεις Ποδόσφαιρο </p>
+<p> 22:51 </p>
+<p> Εκνευρισμός Μαρινάκη για NOVA </p>
+<p> 22:23 </p>
+<p> Σάββας: «Να ξυπνήσουν στην ΚΕΔ!» </p>
+<p> 22:14 </p>
+<p> Κουίνσι: «Μπορούμε το πρωτάθλημα» </p>
+<p> 22:02 </p>
+<p> Βαλβέρδε: «Στάθηκε καλά ο Ντιόγο» </p>
+<p> 22:02 </p>
+<p> Αισιόδοξος ο Τριανταφυλλόπουλος </p>
+<p> 21:55 </p>
+<p> Φουστέρ: «Κάναμε αυτό που θέλαμε» </p>
+<p> 21:49 </p>
+<p> Με... φόντο τη δεκάδα! (vid) </p>
+<p> 21:45 </p>
+<p> «Μπορούσαμε να τον αγχώσουμε πιο πολύ» </p>
+<p> 21:45 </p>
+<p> Ιωάννου: «Να διορθώσουμε τα λάθη μας» </p>
+<p> A1 </p>
+<p> A1 Αγωνιστική </p>
+<p> Ελλάδα </p>
+<p> Κόσμος </p>
+<p> Euroleague </p>
+<p> Euroleague - Παναθηναϊκός </p>
+<p> Euroleague - Ολυμπιακός </p>
+<p> Euro Cup </p>
+<p> NBA </p>
+<p> Ευρώπη </p>
+<p> Εθνική ομάδα </p>
+<p> Ειδήσεις Μπάσκετ </p>
+<p> 22:49 </p>
+<p> Ξανά σούπερ ο Έτσεγκ με Μπεσίκτας </p>
+<p> 22:38 </p>
+<p> Να επιβάλλει τον ρυθμό του ο Ίκαρος </p>
+<p> 22:37 </p>
+<p> Νίκες για Ουνικάχα, Μπιλμπάο, όχι για Βαλένθια </p>
+<p> 22:30 </p>
+<p> «Μάθετε για τον Παναθηναϊκό και τα ξαναλέμε!» </p>
+<p> 22:14 </p>
+<p> Αλεξανδρής: «Να νικάμε και τις... αντιξοότητες» </p>
+<p> 21:53 </p>
+<p> Μπόγρης: «Μας έδινε το ματς, αλλά...» </p>
+<p> 21:31 </p>
+<p> Είχε υψηλό κίνητρο ο Πανιώνιος </p>
+<p> 21:22 </p>
+<p> Απογοήτευση και... μπύρες στον Κολοσσό </p>
+<p> 21:09 </p>
+<p> Στάθηκε σε δύο στοιχεία ο Φλεβαράκης </p>
+<p> Βόλεϊ </p>
+<p> Α1 </p>
+<p> Α1 Γυναικών </p>
+<p> Εθνική ομάδα βόλεϊ </p>
+<p> Ειδήσεις Βόλεϊ </p>
+<p> 20:38 </p>
+<p> «Τρίποντο» για ΠΑΟΚ </p>
+<p> 23:59 </p>
+<p> «Κίτρινος» ο Τζελάτης </p>
+<p> 22:38 </p>
+<p> «Μπορούμε να αντιμετωπίσουμε τα προβλήματα» </p>
+<p> 22:24 </p>
+<p> Σε δύο φάσεις το Κύπελλο </p>
+<p> 20:16 </p>
+<p> Απάντηση ΕΣΑΠ σε Πάλμερ </p>
+<p> 17:42 </p>
+<p> Στην CEV για Ηρακλή η ΤΣΣΚΑ! </p>
+<p> 16:06 </p>
+<p> Πήρε Καραγιάννη η ΕΑΠ </p>
+<p> 01:22 </p>
+<p> Έσωσε το γόητρο η ΑΕΚ </p>
+<p> 23:13 </p>
+<p> Πρώτο βήμα με Λιβαθηνό για Ολυμπιακό </p>
+<p> Formula 1 </p>
+<p> WRC </p>
+<p> Cars </p>
+<p> Super Cars </p>
+<p> Moto GP </p>
+<p> Υπόλοιπα </p>
+<p> Νέα </p>
+<p> Παρουσιάσεις </p>
+<p> Τεστ </p>
+<p> Εκθέσεις </p>
+<p> Παρασκήνια </p>
+<p> Βίντεο </p>
+<p> Τιμοκατάλογοι </p>
+<p> Ειδήσεις Motosport </p>
+<p> 17:15 </p>
+<p> Φινάλε με θέαμα στον πάγο! (vids & pics) </p>
+<p> 10:35 </p>
+<p> Hλεκτρικό κελεπούρι! (vid & pics) </p>
+<p> 22:49 </p>
+<p> Προβάδισμα για Κόμα </p>
+<p> 22:02 </p>
+<p> Αλλαγές στο Moto GP το 2013 </p>
+<p> 21:16 </p>
+<p> Ανακοίνωσε το γκριντ η FIM </p>
+<p> 17:59 </p>
+<p> Με ονομασία προέλευσης (vid & pics) </p>
+<p> 10:30 </p>
+<p> Πρεμιέρα στην οθόνη! (vid & pics) </p>
+<p> 18:02 </p>
+<p> To Ηοnda NSX επιστρέφει! (vid & pics) </p>
+<p> 10:30 </p>
+<p> Το μελλοντικό Toyota Prius (vid & pics) </p>
+<p> Στίβος </p>
+<p> Πόλο </p>
+<p> Κολύμβηση </p>
+<p> Τένις </p>
+<p> Χάντμπολ </p>
+<p> Ολυμπιακοί Αγώνες </p>
+<p> Υπόλοιπα Αθλήματα </p>
+<p> Μπιτς βόλεϊ </p>
+<p> Ειδήσεις Sport </p>
+<p> 21:41 </p>
+<p> Ερυθρόλευκα βλέμματα στο Αϊντχόφεν </p>
+<p> 21:26 </p>
+<p> Νίκες για Ορμή, Νέα Ιωνία </p>
+<p> 20:42 </p>
+<p> Οι μεγάλες «δυνάμεις» στη Σερβία </p>
+<p> 19:03 </p>
+<p> Άνοιξαν οι ουρανοί στο Σίδνεϊ </p>
+<p> 18:00 </p>
+<p> Το +3 μας πάει... 2013! </p>
+<p> 17:33 </p>
+<p> Αυλαία με Φέντερερ, Ναδάλ </p>
+<p> 15:48 </p>
+<p> Χρυσό η Μιλλούση στο Λονδίνο </p>
+<p> 21:18 </p>
+<p> Φεύγουν για Αϊντχόφεν </p>
+<p> 19:54 </p>
+<p> Κρανάκης: «Όλοι μια γροθιά» </p>
+<p> GA_googleFillSlot("Gazzetta_Football_728x90"); </p>
+<p> GA_googleFillSlot("Gazzetta_ROS_Header_240x90"); </p>
+<p> GA_googleFillSlot("Gazzetta_PushDown_973x55"); </p>
+<p> Παίρνει εξιτήριο ο «Μαύρος Πάνθηρας»! </p>
+<p> Δευτέρα, 26 Δεκ 2011 19:05 </p>
+<p> Ευρώπη </p>
+<p> Tweet </p>
+<p> !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs"); </p>
+<p> Μέγεθος κειμένου: </p>
+<p> Σμίκρυνση </p>
+<p> Μεγέθυνση </p>
+<p> Εκτύπωση </p>
+<p> Email </p>
+<p> GA_googleFillSlot("Gazzetta_Article_TextLink_Top_155x235"); </p>
+<p> .hover1 a:hover{ 	text-decoration:underline !important; 	color:#004A80; } </p>
+<p> <!--   var google_adnum = 0;   function google_ad_request_done(google_ads) {     var s = ''; var i;    if (google_ads.length == 0) { return; }  s+='<table align="left" width="668px" bgcolor="#ffffff"  cellpadding="6px" style="border:0px solid #ffffff;7;width:100%;text-align:left;"><tr><td>';   if (google_ads[0].type == "flash") {      s += '<a href=\"' +  google_info.feedback_url + '\" style="color:000000">Ads by Google</a><br>' +  '<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"' + ' codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" WIDTH="' +  google_ad.image_width + '" HEIGHT="' +  google_ad.image_height + '"> <PARAM NAME="movie" VALUE="' +  google_ad.image_url + '">' +  '<PARAM NAME="quality" VALUE="high">' +  '<PARAM NAME="AllowScriptAccess" VALUE="never">' +  '<EMBED src="' +  google_ad.image_url + '" WIDTH="' +  google_ad.image_width + '" HEIGHT="' +  google_ad.image_height +  '" TYPE="application/x-shockwave-flash"' +  ' AllowScriptAccess="never" ' +  ' PLUGINSPAGE="http://www.macromedia.com/go/getflashplayer"></EMBED></OBJECT>';   } else if (google_ads[0].type == "image") {      s += '<a href=\"' +  google_info.feedback_url + '\" style="color:#999999;font-size:1.1em;font-weight:bold;">Ads by Google</a><br> <a href="' +  google_ads[0].url + '" target="_top" title="go to ' +  google_ads[0].visible_url + '" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to ' +  google_ads[0].visible_url + '\';return true"><img border="0" src="' +  google_ads[0].image_url + '"width="' +  google_ads[0].image_width + '"height="' +  google_ads[0].image_height + '"></a>';   } else if (google_ads[0].type == "html") {      s += '<a href=\"' +  google_info.feedback_url + '\" style="color:000000">Ads by Google</a><br>' +  google_ads[0].snippet;   } else {   if (google_ads.length == 1) {                        s += '<div  style="background-color:#ffffff;border-bottom:1px solid #cccccc"><a href=\"' + google_info.feedback_url + '\" style="color:#999999;font-size:0.9em; font:normal normal normal 13px/1.5em Georgia, Times New Roman, Times, serif; padding-left:10px; text-decoration:none ">Διαφημίσεις Google</a></div>'                 /*               * For text ads, append each ad to the string.               */                                                           s+= "<div  class='hover1' style='border-bottom:none;padding-top:5px;padding-bottom:4px;padding-left:10px'>";                 s+='<a target="_blank" style="text-decoration:none;font-size:11pt" href="' +                 google_ads[0].url + '" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to ' +                 google_ads[0].visible_url + '\';return true"> <div style="text-decoration:none;color:#004A80"> <b>' +                 google_ads[0].line1 + '</b></div></a> <a style="color:#004A80;text-decoration:none;font-size:11pt" <a target="_blank" href="' +                 google_ads[0].url + '" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to ' +                 google_ads[0].visible_url + '\';return true"><div style="font-size:10pt;color:#115688;">' +                 google_ads[0].visible_url + '</div></a><div style="color:#404040;font-size:10pt">' +                 google_ads[0].line2 + '&nbsp;' +                 google_ads[0].line3 + '</div></div>';     } else if (google_ads.length > 1) {     s += '<a href=\"' + google_info.feedback_url + '\" style="background-color:#EBEBEB;color:#999999;font-size:1.1em;font-weight:bold;">Διαφημίσεις Google</a><br>'       for(i = 0; i < google_ads.length; ++i) {   s += '<br><a style="text-decoration:none" href="' +  google_ads[i].url + '" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to ' + google_ads[i].visible_url + '\';return true"> <span style="text-decoration:underline"> <b>' +  google_ads[i].line1 + '</b><br></span></a>  <a style="color:#008000;text-decoration:none" href="' +  google_ads[i].url + '" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to ' + google_ads[i].visible_url + '\';return true"><span>' +  google_ads[i].visible_url + '</span></a><br><span style="color:#000000">' + google_ads[i].line2 + '<br>' + google_ads[i].line3 + '<br></span>'; } }     }   if (google_ads[0].bidtype == "CPC") { /* insert this snippet for each ad call */ google_adnum = google_adnum + google_ads.length; }   s+='</td></tr></table>';     document.write(s);     return;   }   google_ad_client = 'pub-1548490293877144';  google_ad_channel = '0826496957'; google_ad_output = 'js'; google_max_num_ads = '1'; google_ad_type = 'text'; google_image_size = '728x90'; google_feedback = 'on'; google_skip = google_adnum; /* to skip for multiple units, insert this snippet for each ad call */  // --> </p>
+<p> Τα νέα είναι ευχάριστα για την υγεία του μεγάλου Εουσέμπιο καθώς σύμφωνα με τους θεράποντες ιατρούς αναμένεται πριν το τέλος του 2011 να πάρει εξιτήριο! </p>
+<p> GA_googleFillSlot("Gazzetta_InsideArticles_300x250"); </p>
+<p> Ο μεγάλος άσος του Πορτογαλικού ποδοσφαίρου ταλαιπωρήθηκε από βαριάς μορφής πνευμονία αλλά τελικά όλα πήγαν καλά και οι γιατροί έκαναν γνωστό πως το αργότερο έως την Παρασκευή αναμένεται να πάρει εξιτήριο από την κλινική όπου νοσηλεύεται! </p>
+<p> «Ο Εουσέμπιο κοιμήθηκε καλά χθες το βράδυ και αισθάνεται πολύ καλά. Θα μεταφερθεί από την εντατική μονάδα σε άλλο δωμάτιο για να είναι κοντά η οικογένεια του και έως την Παρασκευή αναμένεται να βγει» δήλωσε ο διευθυντής του νοσοκομείου «Λουζ», Ζοσέ Ροκέτε μεταφέροντας τα καλά νέα. </p>
+<p> GA_googleFillSlot("Gazzetta_Article_TextLink_Bottom_661x86"); </p>
+<p> .hover1 a:hover{ 	text-decoration:underline !important; 	color:#004A80; } </p>
+<p> function google_ad_request_done(google_ads) {       var s = '';     var i;       /*     * Verify that there are actually ads to display.     */     if (google_ads.length == 0) {     return;     }       s+='<table align="left" width="661px" bgcolor="#ffffff" style="border:0px solid #D3D3D3;7;width:100%;text-align:left; " cellspacing=0;  cellpadding="2px"><tr><td>';       /*     * If an image or flash ad is returned, display that ad.     * Otherwise, build a string containing all of the ads and     * then use a document.write() command to print that string.     */     if (google_ads[0].type == "flash")     {     }     else if (google_ads[0].type == "image")     {     }      else if (google_ads[0].type == "html")      {      }      else     {         if (google_ads.length == 1) {         /*         * Partners should adjust text sizes         * so ads occupy the majority of ad space.         */         /*         s += '<a target="_blank" href=\"' +         google_info.feedback_url + '\" style="color:#000;">Διαφημίσεις Google</a><a style="text-decoration:none" href="' +         google_ads[0].url + '" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to ' +         google_ads[0].visible_url + '\';return true"> <span style="text-decoration:none;font-size:12pt"> <b>' +         google_ads[0].line1 + '</b><br/></span></a> <span style="color:#000;font-size:12pt">' +         google_ads[0].line2 + '&nbsp;' +         google_ads[0].line3 + '<br/></span> <a style="color:#000;font-size:12pt;text-decoration:none" <a target="_blank" href="' +         google_ads[0].url + '" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to ' +         google_ads[0].visible_url + '\';return true"><span>' +         google_ads[0].visible_url + '</span></a>';         */         }         else if (google_ads.length > 1)         {                   /*               * For text ads, append each ad to the string.               */               for(i = 0; i < google_ads.length; ++i)             {                  if (i==google_ads.length-1){                                    s+= "<div class='hover1'  style='border-bottom:1px solid #ccc;;padding-top:10px;padding-bottom:8px; padding-left:5px; padding-right:5px;'>";                 s+='<a   target="_blank" style="text-decoration:none;font-size:11pt" href="' +                 google_ads[i].url + '" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to ' +                 google_ads[i].visible_url + '\';return true"> <div style="text-decoration:none;font:Georgia, Times New Roman, Times, serif;color:#004A80"> <b>' +                 google_ads[i].line1 + '</b></div></a> <a style="color:#004A80;font:Georgia, Times New Roman, Times, serif;text-decoration:none;font-size:11pt" <a target="_blank" href="' +                 google_ads[i].url + '" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to ' +                 google_ads[i].visible_url + '\';return true"><div style="font-size:10pt;color:#115688;">' +                 google_ads[i].visible_url + '</div></a><div style="color:#404040;font-size:10pt;font:Georgia, Times New Roman, Times, serif;">' +                 google_ads[i].line2 + '&nbsp;' +                 google_ads[i].line3 + '</div></div>';   }else{                   s+= "<div class='hover1' style='border-bottom:1px solid #ccc;padding:10px 0; padding-left:5px !important; padding-right:5px; font:Georgia, Times New Roman, Times, serif;'>";                 s+='<a target="_blank" style="text-decoration:none;font-size:11pt; font:Georgia, Times New Roman, Times, serif;" href="' +                 google_ads[i].url + '" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to ' +                 google_ads[i].visible_url + '\';return true"> <div style="text-decoration:none;color:#004A80;font:Georgia, Times New Roman, Times, serif;"> <b>' +                 google_ads[i].line1 + '</b></div></a> <a style="color:#004A80;text-decoration:none;font-size:11pt" <a target="_blank" href="' +                 google_ads[i].url + '" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to ' +                 google_ads[i].visible_url + '\';return true"><div style="font-size:10pt;color:#115688;">' +                 google_ads[i].visible_url + '</div></a><div style="color:#404040;font-size:10pt;font:Georgia, Times New Roman, Times, serif;">' +                 google_ads[i].line2 + '&nbsp;' +                 google_ads[i].line3 + '</div></div>'; }             }         }                   s += '<div  style="background-color:#ffffff; padding-left:5px ; text-align:right; padding-right:5px;"><a href=\"' + google_info.feedback_url + '\" style="color:#999999;font-size:1.1em; font:normal normal normal 13px/1.5em Georgia, Times New Roman, Times, serif; text-decoration:none">Διαφημίσεις Google</a></div>'         s+='</td></tr></table>';          document.write(s);     return;   } }   google_ad_client = "pub-1548490293877144"; google_ad_channel = "0210454146";   google_ad_output = "js"; google_max_num_ads = 4; google_ad_type = 'text'; google_ad_width = 300; google_ad_height = 250;   google_language ='el' </p>
+<p> Σχετικά Άρθρα </p>
+<p> Πάτος για Σαραγόσα, Μανόλο (vid) </p>
+<p> 21:34 </p>
+<p> Τα... άχαστα η Σεβίλλη </p>
+<p> 21:22 </p>
+<p> Τη... σώνει ο Μίτσου </p>
+<p> 21:04 </p>
+<p> «Αμερικανική» ισοπαλία (vid) </p>
+<p> 19:46 </p>
+<p> Ανθισαν τα Ρόδα (vid) </p>
+<p> 19:37 </p>
+<p> Με το στανιό η Τσέλσι (vid) </p>
+<p> 19:20 </p>
+<p> Η επίθεση δίνει βαθμούς! (vid) </p>
+<p> 19:07 </p>
+<p> Deja vu για Λίβερπουλ (vid) </p>
+<p> 19:06 </p>
+<p> GA_googleFillSlot("Gazzetta_Article_Banner_Bottom_660x100"); </p>
+<p> Γίνε μέλος στο </p>
+<p> Gazzetta Community </p>
+<p> για να αποκτήσεις πρόσβαση στο σχολιασμό άρθρων. </p>
+<p> Εγγραφή </p>
+<p> Προσθήκη σχολίου </p>
+<p> Για να δημοσιοποιηθεί το σχόλιό σας θα πρέπει να συμπληρώσετε τη φόρμα επικοινωνίας. Το email που θα δώσετε πρέπει να είναι πραγματικό προκειμένου να λάβετε την σχετική ειδοποίηση έγκρισης. </p>
+<p> * Σημείωση: Δεν θα δημοσιεύονται σχόλια που γράφονται σε greeklish </p>
+<p> Σχόλιο... </p>
+<p> Email: </p>
+<p> * </p>
+<p> Κωδικός πρόσβασης: </p>
+<p> * </p>
+<p> GA_googleFillSlot("Gazzetta_Football_Top_300x250"); </p>
+<p> Τελευταία νέα </p>
+<p> Προσφορές Εταιρειών </p>
+<p> Bwin </p>
+<p> 150% μπόνους, έως 30€ </p>
+<p> Betfair </p>
+<p> Μπόνους έως 200€ </p>
+<p> Sportingbet </p>
+<p> 100€ μπόνους εγγραφής </p>
+<p> Vistabet </p>
+<p> 100% μπόνους, έως 100€ </p>
+<p> Betoto </p>
+<p> 100% μπόνους εγγραφής </p>
+<p> William Hill </p>
+<p> 100€ μπόνους εγγραφής </p>
+<p> Gazzetta Blogs </p>
+<p> toggler </p>
+<p> Γιώργος Τσακίρης </p>
+<p> Τα γραφικά και τα σοβαρά! </p>
+<p> 14/01 </p>
+<p> 20:42 </p>
+<p> 8 σχόλια </p>
+<p> Ασπρούλιας - Καβαλιεράτος </p>
+<p> Η... (αν)ορθογραφία, το ρ... </p>
+<p> 14/01 </p>
+<p> 13:33 </p>
+<p> 7 σχόλια </p>
+<p> Κώστας Νικολακόπουλος </p>
+<p> Δεν «πιάνουν» αυτοί στο Θ... </p>
+<p> 14/01 </p>
+<p> 01:30 </p>
+<p> 46 σχόλια </p>
+<p> Βασίλης Σκουντής </p>
+<p> Κάνε κάτι (πάλι) Γιώργο! </p>
+<p> 13/01 </p>
+<p> 23:35 </p>
+<p> 2 σχόλια </p>
+<p> Νίκος Παπαδογιάννης </p>
+<p> Ο γαλονάς και ο φαντάρος </p>
+<p> 13/01 </p>
+<p> 17:53 </p>
+<p> 11 σχόλια </p>
+<p> Χρύσανθος Τσαλτίδης </p>
+<p> Επόμενη μέρα; </p>
+<p> 13/01 </p>
+<p> 16:01 </p>
+<p> 90 σχόλια </p>
+<p> Μάνος Αντώναρος </p>
+<p> FC... Λαμόγιο! (vid) </p>
+<p> 13/01 </p>
+<p> 15:46 </p>
+<p> 15 σχόλια </p>
+<p> Νικόλας Βασιλαράς </p>
+<p> Μην χαθεί το μέτρο! </p>
+<p> 12/01 </p>
+<p> 12:05 </p>
+<p> 52 σχόλια </p>
+<p> Κώστας Βασιλόπουλος </p>
+<p> Τα κάστανα και η φωτιά! </p>
+<p> 12/01 </p>
+<p> 00:57 </p>
+<p> 33 σχόλια </p>
+<p> Κώστας Ασημακόπουλος </p>
+<p> Τσουνάμι και θιασάρχες </p>
+<p> 09/01 </p>
+<p> 06:44 </p>
+<p> 5 σχόλια </p>
+<p> Ηρακλής Αντύπας </p>
+<p> Το κάζο της χρονιάς! </p>
+<p> 08/01 </p>
+<p> 22:45 </p>
+<p> 72 σχόλια </p>
+<p> Ο καιρός </p>
+<p> Στη Δικαιοσυνη οι υπευθυν... </p>
+<p> 20/12 </p>
+<p> 03:47 </p>
+<p> 39 σχόλια </p>
+<p> GA_googleFillSlot("Gazzetta_Meteorologos_ROS"); </p>
+<p> TV Επιλογές </p>
+<p> Σάββατο, 14 Ιαν 2012 </p>
+<p> ΠΟΔΟΣΦΑΙΡΟ </p>
+<p> ΜΠΑΣΚΕΤ </p>
+<p> ΑΛΛΑ ΣΠΟΡ </p>
+<p> OTE SPORT 1 </p>
+<p> ΚΑΛΛΟΝΗ - ΛΑΡΙΣΑ </p>
+<p> ΦΟΥΤΜΠΟΛ ΛΙΓΚ </p>
+<p> 15:00 </p>
+<p> OTE SPORT 2 </p>
+<p> ΤΟΡΙΝΟ - ΑΣΚΟΛΙ </p>
+<p> SERIE B </p>
+<p> 16:00 </p>
+<p> novasports1 </p>
+<p> ΜΑΝΤΣΕΣΤΕΡ ΓΙΟΥΝΑΪΤΕΝΤ - ΜΠΟΛΤΟΝ </p>
+<p> ΠΡΕΜΙΕΡ ΛΙΓΚ </p>
+<p> 17:00 </p>
+<p> novasports4 </p>
+<p> ΤΟΤΕΝΑΜ - ΓΟΥΛΒΣ </p>
+<p> ΠΡΕΜΙΕΡ ΛΙΓΚ </p>
+<p> 17:00 </p>
+<p> novasports7 </p>
+<p> ΤΣΕΛΣΙ - ΣΑΝΤΕΡΛΑΝΤ </p>
+<p> ΠΡΕΜΙΕΡ ΛΙΓΚ </p>
+<p> 17:00 </p>
+<p> novasports2 </p>
+<p> ΑΕΚ - ΞΑΝΘΗ </p>
+<p> ΣΟΥΠΕΡΛΙΓΚΑ </p>
+<p> 17:15 </p>
+<p> novasports3 </p>
+<p> ΟΦΗ - ΔΟΞΑ ΔΡΑΜΑΣ </p>
+<p> ΣΟΥΠΕΡΛΙΓΚΑ </p>
+<p> 17:15 </p>
+<p> OTE SPORT 1 </p>
+<p> ΣΑΡΑΓΟΣΑ - ΧΕΤΑΦΕ </p>
+<p> ΠΡΙΜΕΡΑ ΝΤΙΒΙΖΙΟΝ </p>
+<p> 19:00 </p>
+<p> OTE SPORT 2 </p>
+<p> ΣΕΒΙΛΛΗ - ΕΣΠΑΝΙΟΛ </p>
+<p> ΠΡΙΜΕΡΑ ΝΤΙΒΙΖΙΟΝ </p>
+<p> 19:00 </p>
+<p> novasports1 </p>
+<p> ΟΛΥΜΠΙΑΚΟΣ - ΛΕΒΑΔΕΙΑΚΟΣ </p>
+<p> ΣΟΥΠΕΡΛΙΓΚΑ </p>
+<p> 19:30 </p>
+<p> OTE SPORT 1 </p>
+<p> ΜΑΓΙΟΡΚΑ - ΡΕΑΛ ΜΑΔΡΙΤΗΣ </p>
+<p> ΠΡΙΜΕΡΑ ΝΤΙΒΙΖΙΟΝ </p>
+<p> 21:00 </p>
+<p> OTE SPORT 2 </p>
+<p> ΚΑΤΑΝΙΑ - ΡΟΜΑ </p>
+<p> ΚΑΜΠΙΟΝΑΤΟ </p>
+<p> 21:45 </p>
+<p> novasports1 </p>
+<p> ΠΑΡΙ ΣΕΝ ΖΕΡΜΕΝ - ΤΟΥΛΟΥΖ </p>
+<p> ΣΑΜΠΙΟΝΑ </p>
+<p> 22:00 </p>
+<p> OTE SPORT 1 </p>
+<p> ΒΑΛΕΝΘΙΑ - ΣΟΔΙΕΔΑΔ </p>
+<p> ΠΡΙΜΕΡΑ ΝΤΙΒΙΖΙΟΝ </p>
+<p> 23:00 </p>
+<p> NET </p>
+<p> ΟΛΥΜΠΙΑΚΟΣ - ΠΑΟΚ </p>
+<p> ΠΡΩΤΑΘΛΗΜΑ Α1 ΑΝΔΡΩΝ </p>
+<p> 17:00 </p>
+<p> ET3 </p>
+<p> ΑΡΗΣ - ΠΑΝΑΘΗΝΑΪΚΟΣ </p>
+<p> ΠΡΩΤΑΘΛΗΜΑ Α1 ΑΝΔΡΩΝ </p>
+<p> 19:00 </p>
+<p> OTE SPORT 3 </p>
+<p> ΜΑΚΑΜΠΙ ΤΕΛ ΑΒΙΒ - ΤΣΙΜΠΟΝΑ </p>
+<p> ΑΔΡΙΑΤΙΚΗ ΛΙΓΚΑ </p>
+<p> 19:00 </p>
+<p> novasports3 </p>
+<p> ΙΝΤΙΑΝΑ ΠΕΪΣΕΡΣ - ΜΠΟΣΤΟΝ ΣΕΛΤΙΚΣ </p>
+<p> ΝΒΑ </p>
+<p> 02:00 </p>
+<p> novasports4 </p>
+<p> ΠΑΜΒΟΧΑΪΚΟΣ - ΛΑΜΙΑ </p>
+<p> ΠΡΩΤΑΘΛΗΜΑ Α1 ΑΝΔΡΩΝ </p>
+<p> 19:00 </p>
+<p> ΔΕΙΤΕ ΟΛΟ ΤΟ ΠΡΟΓΡΑΜΜΑ ΤΗΣ TV </p>
+<p> GA_googleFillSlot("Gazzetta_TVSchedule_ROS_287x88"); </p>
+<p> GA_googleFillSlot("Gazzetta_ROS_300x250_2"); </p>
+<p> Ποδόσφαιρο </p>
+<p> Super League </p>
+<p> Ελλάδα </p>
+<p> Κύπρος </p>
+<p> Champions League </p>
+<p> Ευρώπη </p>
+<p> Κύπελλο </p>
+<p> Europa League </p>
+<p> Gazzetta Weekend </p>
+<p> Κόσμος </p>
+<p> Εθνική Ομάδα </p>
+<p> Euro 2012 </p>
+<p> Μπάσκετ </p>
+<p> A1 </p>
+<p> A1 Αγωνιστική </p>
+<p> Ελλάδα </p>
+<p> Κόσμος </p>
+<p> Euroleague </p>
+<p> Euroleague - Παναθηναϊκός </p>
+<p> Euroleague - Ολυμπιακός </p>
+<p> Euro Cup </p>
+<p> NBA </p>
+<p> Ευρώπη </p>
+<p> Εθνική ομάδα </p>
+<p> Βόλεϊ </p>
+<p> Βόλεϊ </p>
+<p> Α1 </p>
+<p> Α1 Γυναικών </p>
+<p> Εθνική ομάδα βόλεϊ </p>
+<p> Μηχανοκίνητα </p>
+<p> Formula 1 </p>
+<p> WRC </p>
+<p> Cars </p>
+<p> Super Cars </p>
+<p> Moto GP </p>
+<p> Υπόλοιπα </p>
+<p> Νέα AutoGazzetta </p>
+<p> Παρουσιάσεις </p>
+<p> Τεστ </p>
+<p> Εκθέσεις </p>
+<p> Παρασκήνια </p>
+<p> Βίντεο </p>
+<p> Ρεπορτάζ </p>
+<p> Σέρβις </p>
+<p> Τιμοκατάλογοι </p>
+<p> Άλλα Σπορ </p>
+<p> Στίβος </p>
+<p> Πόλο </p>
+<p> Κολύμβηση </p>
+<p> Τένις </p>
+<p> Χάντμπολ </p>
+<p> Ολυμπιακοί Αγώνες </p>
+<p> Υπόλοιπα Αθλήματα </p>
+<p> Μπιτς βόλεϊ </p>
+<p> Στοίχημα </p>
+<p> Home </p>
+<p> Όλη η ενημέρωση </p>
+<p> Bloggers </p>
+<p> Βαθμολογίες </p>
+<p> Πόκερ </p>
+<p> Καζινο </p>
+<p> Copyright © 2008-2011 Gazzetta.gr </p>
+<p> Το σύνολο του περιεχομένου και των υπηρεσιών του gazzetta.gr 	διατίθεται στους επισκέπτες αυστηρά για προσωπική χρήση. Απαγορεύεται η 	χρήση ή επανεκπομπή του, σε οποιοδήποτε μέσο, μετά ή άνευ επεξεργασίας, 	χωρίς γραπτή άδεια του εκδότη. </p>
+<p> Home </p>
+<p> Gazzetta.gr Community </p>
+<p> Επικοινωνία </p>
+<p> Διαφήμιση </p>
+<p> Στοίχημα </p>
+<p> Σχετικά με το Gazzetta.gr </p>
+<p> Twitter </p>
+<p> RSS </p>
+<p> <!--//--><![CDATA[//><!-- var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-4583844-1"]);_gaq.push(["_setDomainName", ".gazzetta.gr"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})(); //--><!]]> </p>
+<p> //<![CDATA[ 		                var _rsCI = "gr-gazzetta"; 		                var _rsCG = "0"; 		                var _rsDN = "//secure-it.imrworldwide.com/"; 		                var _rsIP = 1; 		                var _rsCC = 1; 		//]]> </p>
+<p> //<![CDATA[ 		_qoptions={ qacct:"p-5frhTQSlLfxhU" }; 		//]]> </p>
+<p> {lang: 'el'} </p>

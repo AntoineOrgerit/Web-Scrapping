@@ -1,0 +1,370 @@
+<p> Президент исповедался, но не ушел // НТВ.Ru </p>
+<p> //VK.init({apiId: 2153047, onlyWidgets: true});   //VK.init({apiId: 2418472, onlyWidgets: true}); </p>
+<p> {lang: 'ru'} </p>
+<p> var img = new Image(); 	img.src = 'http://www.tns-counter.ru/V13a***R>' + document.referrer.replace(/\*/g,'%2a') + '*ntv_ru/ru/UTF-8/tmsec=ntv_total/' + Math.round(Math.random() * 1000000000); </p>
+<p> (function(d, s, id) {   var js, fjs = d.getElementsByTagName(s)[0];   if (d.getElementById(id)) return;   js = d.createElement(s); js.id = id;   js.src = "//connect.facebook.net/ru_RU/all.js#xfbml=1&appId=398092463538505";   fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk')); </p>
+<p> <!-- if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); } if (typeof(document.referrer) != 'undefined') {   if (typeof(afReferrer) == 'undefined') {     afReferrer = escape(document.referrer);   } } else {   afReferrer = ''; } var addate = new Date(); var dl = escape(document.location); var pr1 = Math.floor(Math.random() * 1000000);  document.write('<div id="AdFox_banner_'+pr1+'"><\/div>'); document.write('<div style="visibility:hidden; position:absolute;"><iframe id="AdFox_iframe_'+pr1+'" width=1 height=1 marginwidth=0 marginheight=0 scrolling=no frameborder=0><\/iframe><\/div>');  AdFox_getCodeScript(1,pr1,'http://ads.adfox.ru/176886/prepareCode?pp=g&amp;ps=xjh&amp;p2=y&amp;pct=a&amp;plp=a&amp;pli=a&amp;pop=a&amp;pr=' + pr +'&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;prr=' + afReferrer + '&amp;puid5=48384:6393:6025&amp;dl='+dl+'&amp;pr1='+pr1); // --> </p>
+<p> Новости </p>
+<p> Видео </p>
+<p> ТВ и Передачи </p>
+<p> Телепрограмма </p>
+<p> Фото </p>
+<p> 10:24 </p>
+<p> Москва </p>
+<p> Барнаул </p>
+<p> Белгород </p>
+<p> Благовещенск </p>
+<p> Владивосток </p>
+<p> Владикавказ </p>
+<p> Екатеринбург </p>
+<p> Иркутск </p>
+<p> Калининград </p>
+<p> Кемерово </p>
+<p> Комсомольск-на-Амуре </p>
+<p> Красноярск </p>
+<p> Магадан </p>
+<p> Находка </p>
+<p> Нижний Новгород </p>
+<p> Новосибирск </p>
+<p> Норильск </p>
+<p> Омск </p>
+<p> Оренбург </p>
+<p> Петропавловск-Камчатский </p>
+<p> Ростов-на-Дону </p>
+<p> Санкт–Петербург </p>
+<p> Томск </p>
+<p> Тюмень </p>
+<p> Улан-Удэ </p>
+<p> Уссурийск </p>
+<p> Уфа </p>
+<p> Хабаровск </p>
+<p> Ханты-Мансийск </p>
+<p> Челябинск </p>
+<p> Южно-Сахалинск </p>
+<p> Якутск </p>
+<p> // <![CDATA[     shuffle = function(o){        for(var j, x, i = o.length; i; j = parseInt(Math.random() * i), x = o[--i], o[i] = o[j], o[j] = x);       return o;     };          jQuery(document).ready(function() {            var current_city = $('#city_selected').attr('cvalue');       var current_zone = $('#city_selected').attr('zvalue');            $('#city a div').html("<span>"+current_city+"<b></b></span>");       $('#city a small').text(current_zone);            $('.bc_item_name').click(function() {          var val = parseInt($(this).attr("value"));          $.post("/users/setcity/"+val+"/",function() {               document.location.reload();          });       });  $('#city a').click(function() {   $('#tn_list').slideToggle('slow', function() {     $('#citylist').toggle();    }); });    var banners = new Array();       banners[0] = '<li class="banner_con" key="314416"><a href="/novosti/314416/click/"><img src="http://img.ntv.ru/home/news/20120722/ChsP_Pygacheva_Plyaj2_sm.jpg" height="56" alt="" />Эротические фото Аллы Пугачёвой<span class="comm"><span class="eye">886188</span><span class="bbl">17</span><small>16+</small></span></a></li>';banners[1] = '<li class="banner_con" key="359796"><a href="/novosti/359796/click/"><img src="http://img.ntv.ru/home/news/20121028/Sveta_erotic_sm.jpg" height="56" alt="" />Первый российский порноклип: видео<span class="comm"><span class="eye">303694</span><span class="bbl">6</span><small>18+</small></span></a></li>';banners[2] = '<li class="banner_con" key="495876"><a href="/novosti/495876/click/"><img src="http://img.ntv.ru/home/news/20130302/tnp_djigurda_sm.jpg" height="56" alt="" />«Презерватив снят!»: Джигурда и Анисина изумили публику<span class="comm"><span class="eye">190555</span><span class="bbl">22</span></span></a></li>';banners[3] = '<li class="banner_con" key="316456"><a href="/novosti/316456/click/"><img src="http://img.ntv.ru/home/news/20121022/jigurda_sm.jpg" height="56" alt="" />Исполнитель шансона ударил Джигурду табуреткой<span class="comm"><span class="eye">527872</span><span class="bbl">38</span><small>16+</small></span></a></li>';banners[4] = '<li class="banner_con" key="361997"><a href="/novosti/361997/click/"><img src="http://img.ntv.ru/home/news/20121102/kardash_sm.jpg" height="56" alt="" />Секс-видео светской львицы оценили в $30 млн<span class="comm"><span class="eye">476357</span><span class="bbl">5</span><small>18+</small></span></a></li>';banners[5] = '<li class="banner_con" key="454051"><a href="/novosti/454051/click/"><img src="http://img.ntv.ru/home/news/20130130/bondar_2_sm.jpg" height="56" alt="" />Актер умер на глазах у зрителей<span class="comm"><span class="eye">224600</span><span class="bbl">4</span></span></a></li>';banners[6] = '<li class="banner_con" key="510576"><a href="/novosti/510576/click/"><img src="http://img.ntv.ru/home/news/20130308/panin6_sm.jpg" height="56" alt="" />Андрей Панин перед смертью был зверски избит<span class="comm"><span class="eye">161743</span><span class="bbl">22</span></span></a></li>';banners[7] = '<li class="banner_con" key="534036"><a href="/novosti/534036/click/"><img src="http://img.ntv.ru/home/news/20130327/dzig_sm.jpg" height="56" alt="" />Голый Джигурда с женой. Фото<span class="comm"><span class="eye">235219</span><span class="bbl">9</span><small>18+</small></span></a></li>';banners[8] = '<li class="banner_con" key="511916"><a href="/novosti/511916/click/"><img src="http://img.ntv.ru/home/news/20130309/dzi_sm.jpg" height="56" alt="" />Голый Джигурда поздравил всех «богинь»<span class="comm"><span class="eye">119392</span><span class="bbl">19</span><small>18+</small></span></a></li>';banners[9] = '<li class="banner_con" key="348721"><a href="/novosti/348721/click/"><img src="http://img.ntv.ru/home/news/20121007/volochkova8_sm.jpg" height="56" alt="" />Волочкова вызывает отвращение<span class="comm"><span class="eye">417782</span><span class="bbl">38</span><small>16+</small></span></a></li>';     shuffle(banners);     if(banners.length > 0) {       var ids = "";       for(i=0; i< 4 && i<banners.length; i++) {         el = banners[i];         if(ids != "") {           ids = ids + ".";         }         ids = ids + $(el).attr("key");         $("#tn_list").append(el);       }       $.post("/services/banners/show.jsp","ids=" + ids);     }   });   // ]]> </p>
+<p> Делитесь с друзьями в Facebook информацией о том, что вы читали и смотрели на ntv.ru </p>
+<p> удалить приложение </p>
+<p> История активности: </p>
+<p> // <![CDATA[ jQuery(document).ready(function() {   $("#usd").html('<a href="/tema/курсы%20валют"><i></i>31.2086</a>');   $("#eur").html('<a href="/tema/курсы%20валют"><i></i>40.6523</a>'); });  // ]]> </p>
+<p> -2.2 °C </p>
+<p> Строительство медиацентра </p>
+<p> var pageuri = "http://www.ntv.ru/novosti/257312/";    //  var pageuri = encodeURIComponent(document.location.href);    var pagetitle = encodeURIComponent("Президент исповедался, но не ушел // НТВ.Ru");     var pageannotation =  encodeURIComponent("Глава Германии Кристиан Вульф объяснил, почему он давил на журналистов таблоида, но подавать в отставку не собирается. НТВ.Ru: новости, видео, программы телеканала НТВ ") + " " + pageuri; </p>
+<p> VK.Share = {}; VK.Share.count = function(index, count){      if(count && count>0){              $("#vkcount").html(count);          } }; $.getJSON('http://vkontakte.ru/share.php?act=count&index=1&url=' + pageuri + '&format=json&callback=?' ,   function(data){      });  // альтернатива http://graph.facebook.com/pageuri $.getJSON('http://api.facebook.com/restserver.php?method=links.getStats&callback=?&urls=' + pageuri + '&format=json', function(data) {     var rating_fb =  data[0].total_count;//data[0].like_count+data[0].share_count;   if(rating_fb && rating_fb >0 ){         $("#fbcount").html(rating_fb);     }   });     $.getJSON('http://urls.api.twitter.com/1/urls/count.json?url=' + pageuri + '&callback=?', function(data) {     if(data.count && data.count>0){           $("#twcount").html (data.count);    } }); //var ODKL.updateCountOC('null','0','0','0'); var ODKL ={}; ODKL.updateCountOC = function (index, par1, par2,par3 ){     if(par1>0)      $("#okcount").html (par1); }  $.getJSON('http://www.odnoklassniki.ru/dk?st.cmd=extOneClickLike&uid=odklocs0&ref=' + pageuri + '&callback=?', function(data) {         });            var mailcount ={}; function mailcallback(data){    for(var key in data) {        mailcount =  data[key];        if(mailcount.shares>0)          $("#mailcount").html (mailcount.shares);       } }             $.ajax({         url: 'http://connect.mail.ru/share_count?callback=1&url_list='+ pageuri+'&func=mailcallback',         dataType: 'jsonp'});         //http://api.pinterest.com/v1/urls/count.json?callback=YOUR_CALLBACK&url=YOUR_URL   //YOUR_CALLBACK({count: 123,url: "YOUR_URL"});   function pinterestcallback(data){           if(data.count>0)               $("#pincount").html(data.count);   }        $.ajax({         url: 'http://api.pinterest.com/v1/urls/count.json?&url='+pageuri+'&callback=pinterestcallback',         dataType: 'jsonp'}); </p>
+<p> Видео программы « </p>
+<p> Сегодня </p>
+<p> » </p>
+<p> Ольга Леонова </p>
+<p> // <![CDATA[           var os='<data download="1" link="http://www.ntv.ru/novosti/257312/" xmllink="http://www.ntv.ru/vi276102/" phost="http://www1.ntv.ru" host="http://www.ntv.ru"><title><![CDATA[Президент исповедался, но не ушел]]></title><description><![CDATA[Президент исповедался, но не ушел]]></description>';              os += '<video license="0" noads="1" restriction="-1"><id>276102</id><totaltime>161</totaltime><size>22425600</size><file><![CDATA[http://media.ntv.ru/news/20120105/13-00-volf.mp4]]></file><splash><![CDATA[http://img.ntv.ru/home/news/20120105/volf8.jpg]]></splash><statistic_callback>http://www.ntv.ru/services/statspider?key=KDJPKBKPJOJIKIJKKEKL-D6CF6EA12A9FE91111C565A0F77B89E2298081B2</statistic_callback><views>16</views></video>';              os += '</data>';              $(function() {                  player=new jsvps($('#vi276102'),os);              });           // ]]> </p>
+<p> Президент исповедался, но не ушел </p>
+<p> Президент исповедался, но не ушел </p>
+<p> Глава Германии Кристиан Вульф объяснил, почему он давил на журналистов таблоида, но подавать в отставку не собирается. </p>
+<p> 1161 </p>
+<p> Поделиться ссылкой на выделенное </p>
+<p> Twitter </p>
+<p> Facebook </p>
+<p> Вконтакте </p>
+<p> Google+ </p>
+<p> Прямая ссылка: </p>
+<p> Нажмите правой клавишей мыши и выберите «Копировать ссылку» </p>
+<p> 05.01.2012, 14:45 </p>
+<p> Кристиан Вульф </p>
+<p> скандалы </p>
+<p> СМИ </p>
+<p> Кристин Вульф публично покаялся перед журналистами Bild, что просил их не рассказывать общественности о кредите, который он взял у некого бизнесмена на льготных условиях в обмен на свою лояльность. </p>
+<p> Германский президент заявил, что не препятствовал публикации, а лишь просил отсрочить ее, так как был в это время в зарубежной командировке. Газета уже опровергла это. А немецкая оппозиция, надеявшаяся, что на основании компромата удастся пошатнуть кресло политика, выразила возмущение тем, что Кристиан Вульф никаких угрызений совести не испытывает и в отставку не собирается. </p>
+<p> Корреспонденты НТВ Константин Гольденцвайг и Ольга Леонова </p>
+<p> выслушала «исповедь» германского президента. </p>
+<p> Скандал, разгоревшийся вокруг немецкого президента в конце прошлого года, после рождественских каникул плавно перетек в год нынешний. В декабре всплыла история с сомнительным ипотечным кредитом в 500 тысяч евро, который Кристиан Вульф, тогда еще премьер-министр земли Нижняя Саксония, получил на весьма льготных условиях от немецкого предпринимателя. </p>
+<p> Но даже не столько сам этот факт всколыхнул Германию, сколько попытка президента надавить на газету Bild, которая подготовила разоблачительную статью. И вот в первый же рабочий день после праздников Кристиан Вульф дал интервью сразу двум телекомпаниям  ARD и ZDF. </p>
+<p> Президент принес извинения газете, назвал звонок в редакцию роковой ошибкой, но уверял, что не препятствовал публикации, а лишь просил отстрочить ее, поскольку в тот момент находился в зарубежной поездке. </p>
+<p> Кристиан Вульф </p>
+<p> , президент Германии: «Давайте посмотрим на ситуацию под другим углом. Вы находитесь за рубежом. Четыре страны за пять дней, по десять официальных встреч ежедневно. И тут вы узнаёте, что в Германии собираются опубликовать предвзятую, к тому же сугубо личную информацию, касающуюся финансов вашей семьи. Конечно, вы захотите в этот момент быть в кругу семьи и с друзьями, чтобы ощутить их поддержку. Поэтому я позвонил в газету с просьбой отложить публикацию на несколько дней». </p>
+<p> Однако журналисты Bild уже опровергли версию президента, заявив, что их пытались заставить отказаться от статьи, а вовсе не отсрочить ее. Оппозиция также не сочла оправдания убедительными и требует отставки президента. Но в интервью Вульф заверил, что уходить со своего поста не собирается. </p>
+<p> Беттина Шаустен </p>
+<p> , журналист телеканала ZDF: «В последние дни Вы, наверное, думали об отставке?» </p>
+<p> Кристиан Вульф </p>
+<p> , президент Германии: «Ни в коем случае. Я ощущаю огромную поддержку и граждан, и своих коллег. Я знаю, что не сделал ничего дурного, так что я продолжу выполнять свои обязанности, чтобы через пять лет услышать: „Да, он был хорошим, успешным президентом“». </p>
+<p> Поддержку Вульфу действительно оказали, и на самом высоком уровне. Канцлер Ангела Меркель заявила, что исключительно ценит работу главы государства. Однако, по данным опросов, рейтинг президента за каких-то две праздничные недели снизился на десять пунктов, а в честность Вульфа верит лишь 22% опрошенных немцев. </p>
+<p> Президент пообещал в ближайшие дни раскрыть все детали того сомнительного кредита. Но даже если «ложки найдутся», осадок останется. Как считают многие, в этой некрасивой истории президент продемонстрировал довольно странное для главы государства отношение к деньгам, власти и прессе. </p>
+<p> jQuery(document).ready(function() {   $.get("/private/messagesList.jsp",     "key=JDJWJRJMKKJFJNJR-2178B6540788C43B90FEFA8F565B5592196991FF",      function(data) {        $("#acContainer").html(data);            var str = window.location.href;       var m=str.split("#m");         if( typeof m[1] != "undefined" )         $.scrollTo("#m"+m[1],1000);             //printUserGreeting();        }    ); }); </p>
+<p> <!-- if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); } if (typeof(document.referrer) != 'undefined') {   if (typeof(afReferrer) == 'undefined') {     afReferrer = escape(document.referrer);   } } else {   afReferrer = ''; } var addate = new Date(); var dl = escape(document.location); var pr1 = Math.floor(Math.random() * 1000000);  document.write('<div id="AdFox_banner_'+pr1+'"><\/div>'); document.write('<div style="visibility:hidden; position:absolute;"><iframe id="AdFox_iframe_'+pr1+'" width=1 height=1 marginwidth=0 marginheight=0 scrolling=no frameborder=0><\/iframe><\/div>');  AdFox_getCodeScript(1,pr1,'http://ads.adfox.ru/176886/prepareCode?pp=g&amp;ps=xjh&amp;p2=epxe&amp;pct=a&amp;plp=a&amp;pli=a&amp;pop=a&amp;pr=' + pr +'&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;prr=' + afReferrer + '&amp;puid6=48384:6393:6025&amp;dl='+dl+'&amp;pr1='+pr1); // --> </p>
+<p> Читайте также </p>
+<p> Президент Германии оскандалился </p>
+<p> 1946 </p>
+<p> 0 </p>
+<p> «Офшорная бомба» западных СМИ «взорвет» мировую элиту </p>
+<p> 585 </p>
+<p> 0 </p>
+<p> Главред «МК» из принципа не откажется от «массажа и досуга» </p>
+<p> 682 </p>
+<p> 5 </p>
+<p> Полонский восхищен Гусевым и отзывает иск к «Московскому комсомольцу» </p>
+<p> 1437 </p>
+<p> 3 </p>
+<p> Партия «Яблоко» заступилась за «МК» и Павла Гусева </p>
+<p> 632 </p>
+<p> 0 </p>
+<p> Журналистов «МК» из скандального ролика ждут в правоохранительных органах </p>
+<p> 1978 </p>
+<p> 1 </p>
+<p> Главред «МК» признался, что ему стыдно </p>
+<p> 1305 </p>
+<p> 2 </p>
+<p> Единороссы в один голос поддерживают «защитника женщин» Андрея Исаева </p>
+<p> 4246 </p>
+<p> 17 </p>
+<p> Депутат Исаев с удовольствием встретится с «мерзавцами» из МК в прокуратуре </p>
+<p> 3184 </p>
+<p> 3 </p>
+<p> Ещё </p>
+<p> // <![CDATA[                    var vPage = 1;                    var  newId = 257312;                    $("#morebtn").click(function() {                                                var url  = "/rest/novosti/news.jsp";                        container = $("#vlcontainer");                                               $.get(url, {"page" : vPage + 1,"newsId":newId}, function(data) {                            vPage ++;                            container.append(data);                            val = jQuery.trim(data);                            if(!(val && val.length > 0) || val.indexOf("<!-- END OF LIST -->") >= 0) $("#morebtn").hide();                        });                     });                       // ]]> </p>
+<p> jQuery(document).ready(function() {   $.get("/private/messagesList.jsp",     "key=JDJWJRJMKKJFJNJR-2178B6540788C43B90FEFA8F565B5592196991FF",      function(data) {        $("#acContainer").html(data);            var str = window.location.href;       var m=str.split("#m");         if( typeof m[1] != "undefined" )         $.scrollTo("#m"+m[1],1000);             //printUserGreeting();        }    ); }); </p>
+<p> <!-- if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); } if (typeof(document.referrer) != 'undefined') {   if (typeof(afReferrer) == 'undefined') {     afReferrer = escape(document.referrer);   } } else {   afReferrer = ''; } var addate = new Date(); var dl = escape(document.location); var pr1 = Math.floor(Math.random() * 1000000);  document.write('<div id="AdFox_banner_'+pr1+'"><\/div>'); document.write('<div style="visibility:hidden; position:absolute;"><iframe id="AdFox_iframe_'+pr1+'" width=1 height=1 marginwidth=0 marginheight=0 scrolling=no frameborder=0><\/iframe><\/div>');  AdFox_getCodeScript(1,pr1,'http://ads.adfox.ru/176886/prepareCode?pp=g&amp;ps=xjh&amp;p2=enny&amp;pct=a&amp;plp=a&amp;pli=a&amp;pop=a&amp;pr=' + pr +'&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;prr=' + afReferrer + '&amp;puid6=48384:6393:6025&amp;dl='+dl+'&amp;pr1='+pr1); // --> </p>
+<p> КНДР начинает войну </p>
+<p> Умерла Маргарет Тэтчер </p>
+<p> Резня в техасском колледже </p>
+<p> Акции FEMEN </p>
+<p> jQuery(document).ready(function() {   $('#srchbtn').click(function() {     document.location.href = "/"+$("#cal_y").val()+"/"+$("#cal_m").val()+"/"+$("#cal_dt").val()+"/";     //$('#archive_date').submit();   }); }); </p>
+<p> 01 </p>
+<p> 02 </p>
+<p> 03 </p>
+<p> 04 </p>
+<p> 05 </p>
+<p> 06 </p>
+<p> 07 </p>
+<p> 08 </p>
+<p> 09 </p>
+<p> 10 </p>
+<p> 11 </p>
+<p> 12 </p>
+<p> 13 </p>
+<p> 14 </p>
+<p> 15 </p>
+<p> 16 </p>
+<p> 17 </p>
+<p> 18 </p>
+<p> 19 </p>
+<p> 20 </p>
+<p> 21 </p>
+<p> 22 </p>
+<p> 23 </p>
+<p> 24 </p>
+<p> 25 </p>
+<p> 26 </p>
+<p> 27 </p>
+<p> 28 </p>
+<p> 29 </p>
+<p> 30 </p>
+<p> 31 </p>
+<p> 01 </p>
+<p> 02 </p>
+<p> 03 </p>
+<p> 04 </p>
+<p> 05 </p>
+<p> 06 </p>
+<p> 07 </p>
+<p> 08 </p>
+<p> 09 </p>
+<p> 10 </p>
+<p> 11 </p>
+<p> 12 </p>
+<p> 2002 </p>
+<p> 2003 </p>
+<p> 2004 </p>
+<p> 2005 </p>
+<p> 2006 </p>
+<p> 2007 </p>
+<p> 2008 </p>
+<p> 2009 </p>
+<p> 2010 </p>
+<p> 2011 </p>
+<p> 2012 </p>
+<p> 2013 </p>
+<p> Все новости и видео </p>
+<p> Жизнь </p>
+<p> var CHECK_TIME = 60000;   var SCRIPT_URL = "/esi/live_upd.jsp";   var TOTAL_NEWS = 10;          function getMyWall(){    var el = $("#event_container");    if(el.length==0) return;       var prev = $("#event_container > li").eq(0); // берем самый первый     var delcount = 0;        if(prev.length > 0){     $.post(SCRIPT_URL, {"last" : 1}, function(data) {       try {                  $(data).each(function() {                 //взять key  и если его нет то вставить  pos           var key =  $(this).attr("key");          if(key!= undefined){             var pos = $("#event_container > li[key='"+key+"']").length;             if(pos == 0) {                 $(prev).before(this);                 delcount++;             }         }       });    //TODO анимация по удалению последнего     if(delcount>0){         el.children().tsort("",{attr:'key',order:'desc'});         var num = TOTAL_NEWS-1;         $("#event_container > li:eq("+num+")").nextAll().remove();     //показать новое      el.children().fadeIn(1000);    }       } catch(err) {}     });         }     }      jQuery(document).ready(function() {    $.post(SCRIPT_URL, function(data) {       $("#event_container").html(data);    });    var sportTimer = setInterval("getMyWall()",CHECK_TIME);  }); </p>
+<p> Новое видео </p>
+<p> Техасский </p>
+<p> студент-маньяк </p>
+<p> давно мечтал резать и убивать </p>
+<p> «Сегодня». 10 апреля 2013 года. 08:00 </p>
+<p> 16+ </p>
+<p> «Завтрак с Юлией Высоцкой»: Пирог с инжиром </p>
+<p> Политика Кипра и заседание экспертов по рекламе </p>
+<p> Арт-объекты </p>
+<p> из семечек, раскрашенная библиотека и картонные полицейские </p>
+<p> Коварный апрель, половодье в столице и грязевые ванны на бездорожье </p>
+<p> Автомобили </p>
+<p> Дом для детдомовца: где сиротам искать справедливости? </p>
+<p> Отец Анатолий </p>
+<p> Заболевание почек: как и чем лечить острую боль в пояснице? </p>
+<p> Какая селедка самая вкусная и как подобрать к ней правильный майонез? </p>
+<p> Экспрессы до Домодедово будут ходить по расписанию </p>
+<p> Утренний прогноз погоды на 10 апреля </p>
+<p> В Екатеринбурге открывают музей скульптора Неизвестного </p>
+<p> «Кровь была повсюду»: техасские студенты в ужасе после резни </p>
+<p> Топ-10 </p>
+<p> Путину понравилась голая акция FEMEN </p>
+<p> Валерия Золотухина похоронили в его родном селе на Алтае </p>
+<p> Путин с Меркель обсудили благополучие миллионов и акцию FEMEN </p>
+<p> Экспрессы до Домодедово будут ходить по расписанию </p>
+<p> «Кровь была повсюду»: техасские студенты в ужасе после резни </p>
+<p> Видео: люди успели выбежать из полыхающего комплекса </p>
+<p> «Грозный-Сити </p>
+<p> » </p>
+<p> Пхеньян подготовил к стрельбам уже семь ракет </p>
+<p> У США появится боевой корабль с лазерной пушкой </p>
+<p> Акция FEMEN для Путина и Меркель </p>
+<p> Песков назвал хулиганством выходку FEMEN перед Путиным </p>
+<p> Фото </p>
+<p> Студентка выложила в Сеть фото техасской резни </p>
+<p> 16+ </p>
+<p> На </p>
+<p> 88-м </p>
+<p> году жизни скончалась Маргарет Тэтчер </p>
+<p> «Топлес-джихад </p>
+<p> » от FEMEN шагает по планете </p>
+<p> 16+ </p>
+<p> Загорелся комплекс </p>
+<p> «Грозный-Сити </p>
+<p> » </p>
+<p> Международный автосалон в Нью-Йорке </p>
+<p> Весенний снегопад завалил Москву </p>
+<p> Парады в честь дня святого Патрика </p>
+<p> 16+ </p>
+<p> Москва превратилась в снежную Венецию </p>
+<p> 16+ </p>
+<p> Римско-католическая </p>
+<p> церковь обрела нового предстоятеля </p>
+<p> Снегопады в Сибири </p>
+<p> 16+ </p>
+<p> Выбор редакции </p>
+<p> Техасская резня: преступник с ножом напал на колледж в одиночку </p>
+<p> Полиция и блогеры ищут неизвестного лихача из «ВКонтакте» </p>
+<p> Лига чемпионов. «Ювентус»  «Бавария»  10 апреля 22:30 на НТВ и НТВ.Ru </p>
+<p> Страшное ДТП под Владимиром: 8 погибших </p>
+<p> Акция FEMEN для Путина и Меркель </p>
+<p> Маргарет Тэтчер. Биография победителя </p>
+<p> «Говорим и показываем»: «Фабрика НЕ звезд» </p>
+<p> 16+ </p>
+<p> Секс-символу </p>
+<p> 80-х </p>
+<p> стукнуло 80: </p>
+<p> Жан-Поль </p>
+<p> Бельмондо празднует юбилей </p>
+<p> Журналист и эколог Бекетов умер, подавившись больничным обедом </p>
+<p> Разбившийся на велосипеде Саакашвили перенес уже несколько операций </p>
+<p> В центре Токио поставили американские ракеты для защиты от КНДР </p>
+<p> Пьяный на Ford сбил трех человек </p>
+<p> У США появится боевой корабль с лазерной пушкой </p>
+<p> КНДР бряцает оружием: Пхеньян готовит новое ядерное испытание </p>
+<p> Сексолог узнал о психических нарушениях у Ксении Собчак </p>
+<p> Смотрите скоро </p>
+<p> «Суд присяжных. Окончательный вердикт». Анонс на 10 апреля 2013 года </p>
+<p> 16+ </p>
+<p> «Прокурорская проверка». Анонс на 10 апреля 2013 года </p>
+<p> 16+ </p>
+<p> «Говорим и показываем». Анонс на 10 апреля 2013 года </p>
+<p> 16+ </p>
+<p> Сериал «Лесник». Анонс на 10 апреля 2013 года </p>
+<p> 16+ </p>
+<p> Сериал «Чужой район  2». Анонс на 10 апреля 2013 года </p>
+<p> 16+ </p>
+<p> Лига чемпионов. «Ювентус»  «Бавария»  10 апреля 22:30 на НТВ и НТВ.Ru </p>
+<p> Фильм «Честь»  10 апреля ночью на НТВ </p>
+<p> 16+ </p>
+<p> Лига Европы. «Рубин»  «Челси». 11 апреля в 19:45 на НТВ и НТВ.Ru </p>
+<p> «Таинственная Россия». Анонс на 12 апреля 2013 года </p>
+<p> 16+ </p>
+<p> Фильм «Месть без права передачи»  12 апреля на НТВ </p>
+<p> 16+ </p>
+<p> «Главная дорога». Анонс на 13 апреля 2013 года </p>
+<p> 16+ </p>
+<p> Чемпионат России. «Локомотив»  «Зенит»  13 апреля в 13:20 на НТВ и НТВ.Ru </p>
+<p> «Русские сенсации». Анонс на 13 апреля 2013 года </p>
+<p> 16+ </p>
+<p> «Ты не поверишь!». Анонс на 13 апреля 2013 года </p>
+<p> 16+ </p>
+<p> «Порох и дробь». Анонс на 14 апреля 2013 года </p>
+<p> 16+ </p>
+<p> // <![CDATA[ $(function() {    $("#newsacc h3:first").css('border-top','0');     $("#newsacc").accordion({     active: false, 	collapsible: true   });  }); // ]]> </p>
+<p> <!-- if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); } if (typeof(document.referrer) != 'undefined') {   if (typeof(afReferrer) == 'undefined') {     afReferrer = escape(document.referrer);   } } else {   afReferrer = ''; } var addate = new Date(); var dl = escape(document.location); var pr1 = Math.floor(Math.random() * 1000000);  document.write('<div id="AdFox_banner_'+pr1+'"><\/div>'); document.write('<div style="visibility:hidden; position:absolute;"><iframe id="AdFox_iframe_'+pr1+'" width=1 height=1 marginwidth=0 marginheight=0 scrolling=no frameborder=0><\/iframe><\/div>');  AdFox_getCodeScript(1,pr1,'http://ads.adfox.ru/176886/prepareCode?pp=h&amp;ps=xjh&amp;p2=enny&amp;pct=a&amp;plp=a&amp;pli=a&amp;pop=a&amp;pr=' + pr +'&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;prr=' + afReferrer + '&amp;puid6=48384:6393:6025&amp;dl='+dl+'&amp;pr1='+pr1); // --> </p>
+<p> Новости партнёров (18+) </p>
+<p> if(document.location.protocol=='http:'){      var Tynt=Tynt||[];Tynt.push('bqA-oy3xOr4yu4acwqm_6r');Tynt.i={"ap":"Подробнее:"};      (function(){var s=document.createElement('script');s.async="async";s.type="text/javascript";s.src='http://tcr.tynt.com/ti.js';var h=document.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);})();     } </p>
+<p> // <![CDATA[ jQuery(document).ready(function() {  $("#newsacc h3:first").css('border-top','0');  var rel = $(".reccmore ul li").length; if (rel%2) $(".reccmore ul li:last").css("border","0");    $("#newsacc").accordion({     active: false, 	collapsible: true 	});   var currentHref = document.location.href;   if(currentHref != null && currentHref.indexOf("#") > 0) {     vid = currentHref.substring(currentHref.indexOf("#") + 1);      $("#vi"+vid).trigger("click");   }   $.get("/services/statspider?key=KBJZKCKKJTJEKDJL-3B893514308F5F9DBB723DBE55C88CC4B90BFD58");  }); // ]]> </p>
+<p> <!-- if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); } if (typeof(document.referrer) != 'undefined') {   if (typeof(afReferrer) == 'undefined') {     afReferrer = escape(document.referrer);   } } else {   afReferrer = ''; } var addate = new Date(); var dl = escape(document.location); var pr1 = Math.floor(Math.random() * 1000000);  document.write('<div id="AdFox_banner_'+pr1+'"><\/div>'); document.write('<div style="visibility:hidden; position:absolute;"><iframe id="AdFox_iframe_'+pr1+'" width=1 height=1 marginwidth=0 marginheight=0 scrolling=no frameborder=0><\/iframe><\/div>');  AdFox_getCodeScript(1,pr1,'http://ads.adfox.ru/176886/prepareCode?pp=h&amp;ps=xjh&amp;p2=y&amp;pct=a&amp;plp=a&amp;pli=a&amp;pop=a&amp;pr=' + pr +'&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;prr=' + afReferrer + '&amp;puid6=48384:6393:6025&amp;dl='+dl+'&amp;pr1='+pr1); // --> </p>
+<p> ДТП </p>
+<p> погода </p>
+<p> скандалы </p>
+<p> Госдума </p>
+<p> Владимирская область </p>
+<p> Московская область </p>
+<p> наводнения </p>
+<p> Северная Корея </p>
+<p> депутаты </p>
+<p> похороны </p>
+<p> стрельба </p>
+<p> Москва </p>
+<p> пожар </p>
+<p> футбол </p>
+<p> железные дороги </p>
+<p> Путин </p>
+<p> Меркель </p>
+<p> фотографии </p>
+<p> дети </p>
+<p> Южная Корея </p>
+<p> погода в Москве </p>
+<p> знаменитости </p>
+<p> нападения </p>
+<p> Германия </p>
+<p> травмы </p>
+<p> КНДР </p>
+<p> Лондон </p>
+<p> соболезнования </p>
+<p> Великобритания </p>
+<p> Интернет </p>
+<p> студенты </p>
+<p> Маргарет Тэтчер </p>
+<p> эксклюзив </p>
+<p> спорт </p>
+<p> смерть </p>
+<p> США </p>
+<p> дипломатия </p>
+<p> очевидцы </p>
+<p> поножовщина </p>
+<p> ntv.ru </p>
+<p> Найти </p>
+<p> Меню сайта </p>
+<p> Новости </p>
+<p> Видео </p>
+<p> Прямой эфир и передачи </p>
+<p> Телепрограмма </p>
+<p> Фото </p>
+<p> Телекомпания </p>
+<p> Новости компании </p>
+<p> История </p>
+<p> Вещание </p>
+<p> Вакансии </p>
+<p> Логотип </p>
+<p> Внешние связи </p>
+<p> Facebook </p>
+<p> Twitter </p>
+<p> ВКонтакте </p>
+<p> Одноклассники </p>
+<p> Google+ </p>
+<p> RSS </p>
+<p> Билеты </p>
+<p> Железные леди </p>
+<p> Кулинарный поединок </p>
+<p> Первая передача </p>
+<p> document.write("<a href='http://www.liveinternet.ru/click' target=_blank><img src='//counter.yadro.ru/hit?t44.1;r" + escape(document.referrer) + ((typeof(screen)=="undefined")?"":";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?screen.colorDepth:screen.pixelDepth)) + ";u" + escape(document.URL) +";h"+escape(document.title.substring(0,80)) +  ";" + Math.random() + "' border=0 width=31 height=31 alt='' title='LiveInternet'><\/a>") </p>
+<p> © ОАО «Телекомпания НТВ». Все права защищены. </p>
+<p> При любом использовании материалов НТВ ссылка (для сайтов - гиперссылка на </p>
+<p> www.ntv.ru </p>
+<p> ) обязательна. </p>
+<p> Используя настоящий сайт, Вы обязуетесь выполнять условия данного </p>
+<p> соглашения </p>
+<p> . </p>
+<p> // <![CDATA[  var serverTimeZ = 1365575076; var localDate = new Date();  function setLocalTime() {   localDate.setTime(serverTimeZ*1000);   var moscowDate = new Date(localDate.getUTCFullYear(), localDate.getUTCMonth(), localDate.getUTCDate(),                               localDate.getUTCHours(), localDate.getUTCMinutes(), localDate.getUTCSeconds());   moscowDate.setUTCMinutes(localDate.getUTCMinutes() + 240);   var arcDate = "/"+moscowDate.getFullYear()+"/"+addZero(moscowDate.getMonth()+1)+"/"+addZero(moscowDate.getDate())+"/";   $("#localTime").parent().attr("href",arcDate);   $.get("/common/userTime.jsp", function(data) {       var delta = parseInt(data);       localDate = new Date(localDate.getUTCFullYear(), localDate.getUTCMonth(), localDate.getUTCDate(),                               localDate.getUTCHours(), localDate.getUTCMinutes(), localDate.getUTCSeconds());       localDate.setUTCMinutes(localDate.getUTCMinutes() + delta*60);        $("#localTime").html(addZero(localDate.getHours()) + ":" + addZero(localDate.getMinutes()));       setWeatherImage(localDate);    }); }  function setWeatherImage(localDate){  var hours =  localDate.getHours();  if($("#pogoda").length > 0) {   var sunset = $("#pogoda").attr("sunset");   var sunrise = $("#pogoda").attr("sunrise");   var st =  $("#pogoda i").attr('class');   if(hours < sunrise || hours > sunset){     var st =  $("#pogoda i").attr('class');     var num =  st.substr(-1);           if("456".search(num) +1 > 0 ){         $("#pogoda i").attr('class', st+"m");       }     }   } }  $(function() {   $('#topsoc').load('/esi/like.jsp', function (){});            $("#tab_soc").show();   printUserGreeting();   setLocalTime();    $("#localTime").everyTime("20s", function() {      localDate.setTime(localDate.getTime()+20*1000);      $(this).html(addZero(localDate.getHours()) + ":" + addZero(localDate.getMinutes()));   });   });  function addZero(value) {    if(value < 10) return "0"+value;    return value; } // ]]> </p>
+<p> (function(w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter7414054 = new Ya.Metrika({id:7414054, enableAll: true, trackHash:true, ut:"noindex", webvisor:true}); } catch(e) { } }); })(window, "yandex_metrika_callbacks"); </p>

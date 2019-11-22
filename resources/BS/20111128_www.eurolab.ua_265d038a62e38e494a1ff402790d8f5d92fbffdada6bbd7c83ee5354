@@ -1,0 +1,548 @@
+<p> Стресс приводит к появлению акне у взрослых женщин | Новости медицины на EUROLAB </p>
+<p> $.noConflict(); </p>
+<p> Правила и условия участия в акции </p>
+<p> Я ознакомился с правилами и условиями участия в акции </p>
+<p> Участвовать </p>
+<p> function actionBlockToggle() {  var current = jQuery('#action_block').css('display'), flag;  flag = (current == 'none') ? 'block' : 'none';  jQuery('#action_block').css('display', flag);  jQuery(".reglaments").load("/terms-of-action/");  return false; } </p>
+<p> .reglaments {     overflow: hidden;     overflow-y: scroll;     height:400px;     margin-bottom: 10px;    }      #action_block {     color: #4C4C4C;     display: none;     height: 100%;     left: 0;     position: fixed;     top: 0;     width: 100%;     z-index:100; }   .visible {     display: block; }  .hidden {     display: none; }  form {     margin: 0;     padding: 0; }  .window_reg2 {     left: 35%;     right:35%;     margin-left: -245px;     position: absolute;     top: 20%;     z-index: 110; } .fr {     float: right; } .hp_popup_bg2 {     -moz-border-radius: 13px 13px 13px 13px;     background: url("/img/bg_pop_up.png") repeat scroll 0 0 transparent;     padding: 10px;     width: 850px; }  .hp_popup .inp_auth {     -moz-border-radius: 2px 2px 2px 2px;     border: 1px solid #C0C0C0;     margin: 0;     padding: 5px 5px 6px;     width: 277px; } #action_block div.shadow {     background: none repeat scroll 0 0 #000000;     bottom: 0;     height: 100%;     left: 0;     min-height: 100%;     opacity: 0.35;     position: absolute;     right: 0;     top: 0;     width: 100%;     z-index: 100; } .icb_width_reg2 {     width: 750px; }  .inner_color_box11 {     -moz-border-radius: 8px 8px 8px 8px;     background: none repeat scroll 0 0 #FFFFFF;     padding: 28px 50px 16px;     position: relative;     text-align: left; }  .large {     font-size: 14px !important;     line-height: 18px; }  .clear_big {     clear: both;     display: block;     font-size: 1px;   /*  height: 15px;*/     overflow: hidden; }  .hp_popup .clear_n {     height: 13px; } .clear_small {     clear: both;     display: block;     font-size: 1px;     height: 5px;     line-height: 1px;     overflow: hidden; } .hp_popup .login_field {     padding: 5px 10px 0 0;     width: 50px; } .inner_color_box11 {     -moz-border-radius: 8px 8px 8px 8px;     background: none repeat scroll 0 0 #FFFFFF;     padding: 28px 50px 16px;     position: relative;     text-align: left; }    .hp_popup .login_field {     padding: 5px 10px 0 0;     width: 50px; }    .fl {     float: left; }  .clear2 {     clear: both;     display: block;     font-size: 0;     height: 0;     line-height: 0;     overflow: hidden; }  .hp_popup .hp_popup_btn {     -moz-border-radius: 2px 2px 2px 2px;     background: -moz-linear-gradient(center top , #FFFFFF, #FAE4B0) repeat scroll 0 0 transparent;     border: 1px solid #D5A97F;     cursor: pointer;     font-size: 14px;     font-weight: bold;     height: 32px;     padding-bottom: 2px;     width: 82px; }  .hp_popup h2 {     line-height: 20px; }  .hfnill {     margin: 0;     padding: 0; }      .hp_popup .b-regist, .hp_popup .b-regist a {     font-size: 11px;     font-weight: normal; }  .hp_popup .b-regist {     margin: 5px 0 0 34px; }  .gray {     color: #888888; }  .small {     font-size: 11px !important;     line-height: 15px; }  .fl {     float: left; }  .hp_popup .b-regist, .hp_popup .b-regist a {     font-size: 11px;     font-weight: normal; }  .menu a b, .ic_photo_news, .ic_video_news, .grad_box, .logo, .img_pred, .img_sled, .listalka, .arrow_up b, .arrow_down b, .gmail b, .make_startpage b, .ic_mail img, .ic_icq b, .search_box, .aukro, .in_net a, .menu_star, .ic_new_footer, .input_button, .video, .ic_v b, .ic_adv_news, .close_window_reg, #login_messages img, #login_email img, .news_ul li, .menu_rating_opener, .menu_rating_closer {     background-image: url("/img/hp2_sprite.png"); }  .close_window_reg {     background-position: -214px -17px;     display: block;     height: 15px;     position: absolute;     right: 10px;     top: 10px;     width: 15px; }  #action_block button, #auth_block a.button {padding: 3px 25px;} .hp_popup_hr {     background: none repeat scroll 0 0 #DFDFDF;     clear: both;     display: block;     font-size: 1px;     height: 1px;     margin: 13px -50px 15px;     overflow: hidden; } .hp_popup .login_field {     padding: 5px 10px 0 0;     width: 50px; }  .clear_medium {     clear: both;     display: block;     font-size: 1px;     height: 10px;     overflow: hidden; } </p>
+<p> Новости & Блоги </p>
+<p> Главная страница </p>
+<p> Новости Украины </p>
+<p> Мировые новости </p>
+<p> Новости России </p>
+<p> События </p>
+<p> Спецтема </p>
+<p> Новости клиник </p>
+<p> Блоги </p>
+<p> Инфографика </p>
+<p> Гиды по здоровью </p>
+<p> Аллергии </p>
+<p> Анемии </p>
+<p> Артериальная гипертензия </p>
+<p> Бессонница и расстройства сна </p>
+<p> Болезни артерий, вен и лимфатических сосудов </p>
+<p> Болезни глаз </p>
+<p> Болезни желудочно-кишечного тракта </p>
+<p> Болезни зубов </p>
+<p> Болезни легких, бронхов и плевры </p>
+<p> Болезни ног и стоп </p>
+<p> Болезни сердца </p>
+<p> Болезни уха, горла и носа </p>
+<p> Болезни щитовидной железы </p>
+<p> Боль в спине </p>
+<p> Бронхиальная астма </p>
+<p> ВИЧ / СПИД </p>
+<p> Восстановительная медицина </p>
+<p> Генитальный герпес </p>
+<p> Гепатит А </p>
+<p> Гепатит В </p>
+<p> Гепатит С </p>
+<p> Головная боль и мигрень </p>
+<p> Грипп </p>
+<p> Заболевания, передающиеся половым путем (ЗППП) </p>
+<p> Изжога и гастроэзофагеальная рефлюксная болезнь </p>
+<p> Лейкемии </p>
+<p> Остеоартрит </p>
+<p> Простуда </p>
+<p> Псориаз </p>
+<p> Рак </p>
+<p> Рак кожи и меланома </p>
+<p> Рак лёгких </p>
+<p> Рассеянный склероз </p>
+<p> Ревматоидный артрит </p>
+<p> Сахарный диабет </p>
+<p> Синдром раздраженного кишечника </p>
+<p> Трансплантация органов и тканей </p>
+<p> Фибромиалгия </p>
+<p> Холестерин </p>
+<p> Экзема </p>
+<p> Физиотерапия </p>
+<p> Обязательное медицинское страхование в России </p>
+<p> Здоровье от А до Я </p>
+<p> Медицинская энциклопедия </p>
+<p> Видеогалерея А-Я </p>
+<p> Первая помощь от А до Я </p>
+<p> Тесты от А до Я </p>
+<p> Заболевания А-Я </p>
+<p> Анатомия человека А-Я </p>
+<p> Врачебные специальности А-Я </p>
+<p> Анализы А-Я </p>
+<p> Медицинские термины А-Я </p>
+<p> Симптомы болезней </p>
+<p> Лекарства </p>
+<p> Поиск лекарств </p>
+<p> Составляющие </p>
+<p> Производители </p>
+<p> Витамины и микроэлементы </p>
+<p> Ароматерапия (ароматы и эфирные масла) </p>
+<p> Лекарственные растения и гомеопатия </p>
+<p> Здоровая жизнь </p>
+<p> Женское здоровье </p>
+<p> Беременность и роды </p>
+<p> Бесплодие и репродуктивный статус </p>
+<p> Контрацепция (контроль рождаемости) </p>
+<p> Экстракорпоральное оплодотворение (ЭКО) </p>
+<p> Красная волчанка </p>
+<p> Рак молочной железы (рак груди) </p>
+<p> Рак яичников </p>
+<p> Недержание мочи у женщин </p>
+<p> Гинекология </p>
+<p> Маммология </p>
+<p> Рецепты здоровья и красоты от звезд </p>
+<p> Мужское здоровье </p>
+<p> Выпадение волос (облысение) </p>
+<p> Рак предстательной железы </p>
+<p> Подагра </p>
+<p> Импотенция (эректильная дисфункция) </p>
+<p> Недержание мочи у мужчин </p>
+<p> Урология </p>
+<p> Кожа & красота </p>
+<p> Проблемная кожа </p>
+<p> Пластическая хирургия </p>
+<p> Здоровье ребёнка </p>
+<p> Синдром дефицита внимания с гиперактивностью </p>
+<p> Воспитание ребёнка </p>
+<p> Детская вакцинация </p>
+<p> Педиатрия </p>
+<p> Психическое здоровье </p>
+<p> Депрессия </p>
+<p> Здоровье и душевное равновесие </p>
+<p> Сексология и психотерапия </p>
+<p> Шизофрения </p>
+<p> Болезнь Паркинсона </p>
+<p> Здоровое старение </p>
+<p> Менопауза </p>
+<p> Болезнь Альцгеймера </p>
+<p> Остеопороз </p>
+<p> Здоровая жизнь </p>
+<p> Сексуальная жизнь </p>
+<p> Венерология </p>
+<p> Вакцинация </p>
+<p> Здоровье & Экология </p>
+<p> Как бросить курить? </p>
+<p> Здоровое питание </p>
+<p> Здоровое питание </p>
+<p> Приготовление здоровой пищи </p>
+<p> Рецепты здорового питания </p>
+<p> Диеты </p>
+<p> Пищевые расстройства </p>
+<p> Фитнес </p>
+<p> Вся медицина </p>
+<p> Консультации </p>
+<p> Форум </p>
+<p> Вход </p>
+<p> | </p>
+<p> Регистрация </p>
+<p> var theItemCount = 1;  			theSummaries[0] = 'Footbalance - Ваши первые персональные стельки только в Евролаб!'; 		theSiteLinks[0] = "http://www.eurolab.ua/disease-legs-and-feet/4525/";   	startTicker(); </p>
+<p> Другие сервисы: </p>
+<p> Проверь свои симптомы </p>
+<p> | </p>
+<p> Инфографика </p>
+<p> | </p>
+<p> Жизнь с раком </p>
+<p> | </p>
+<p> Наркомания </p>
+<p> Главная </p>
+<p> » </p>
+<p> Новости </p>
+<p> » </p>
+<p> Мировые новости медицины </p>
+<p> Рекламируйтесь с нами </p>
+<p> <!--//<![CDATA[    var m3_u = (location.protocol=='https:'?'https://matrix.eurolab.ua/www/delivery/ajs.php':'http://matrix.eurolab.ua/www/delivery/ajs.php');    var m3_r = Math.floor(Math.random()*99999999999);    if (!document.MAX_used) document.MAX_used = ',';    document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);    document.write ("?zoneid=2");    document.write ('&amp;cb=' + m3_r);    if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);    document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));    document.write ("&amp;loc=" + escape(window.location));    if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));    if (document.context) document.write ("&context=" + escape(document.context));    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");    document.write ("'><\/scr"+"ipt>"); //]]>--> </p>
+<p> <!--//<![CDATA[    var m3_u = (location.protocol=='https:'?'https://matrix.eurolab.ua/www/delivery/ajs.php':'http://matrix.eurolab.ua/www/delivery/ajs.php');    var m3_r = Math.floor(Math.random()*99999999999);    if (!document.MAX_used) document.MAX_used = ',';    document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);    document.write ("?zoneid=57");    document.write ('&amp;cb=' + m3_r);    if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);    document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));    document.write ("&amp;loc=" + escape(window.location));    if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));    if (document.context) document.write ("&context=" + escape(document.context));    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");    document.write ("'><\/scr"+"ipt>"); //]]>--> </p>
+<p> Впервые на сайте? </p>
+<p> Консультации доктора </p>
+<p> Поиск больницы </p>
+<p> Поиск лекарств </p>
+<p> Общение </p>
+<p> Болезни и заболевания </p>
+<p> Анатомия человека </p>
+<p> Симптомы заболеваний </p>
+<p> <!--//<![CDATA[    var m3_u = (location.protocol=='https:'?'https://matrix.eurolab.ua/www/delivery/ajs.php':'http://matrix.eurolab.ua/www/delivery/ajs.php');    var m3_r = Math.floor(Math.random()*99999999999);    if (!document.MAX_used) document.MAX_used = ',';    document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);    document.write ("?zoneid=31");    document.write ('&amp;cb=' + m3_r);    if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);    document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));    document.write ("&amp;loc=" + escape(window.location));    if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));    if (document.context) document.write ("&context=" + escape(document.context));    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");    document.write ("'><\/scr"+"ipt>"); //]]>--> </p>
+<p> <!-- google_ad_client = "pub-1878239235886171"; /* 160x600, создано 11.08.09 */ google_ad_slot = "1970860570"; google_ad_width = 160; google_ad_height = 600; //--> </p>
+<p> Стресс приводит к появлению акне у взрослых женщин </p>
+<p> Сегодня, 13:12 </p>
+<p> Как показало исследование ученых из Университетской больницы Нантес, </p>
+<p> акне </p>
+<p> в последнее время стало особенно часто диагностироваться у успешных женщин от 25 лет и старше. Притом, в подростковом возрасте у них могло совсем не быть проблем с кожей. </p>
+<p> Дерматологи предполагают, что всему виной стресс. Современные женщины, по сравнению с предыдущими поколениями, испытывают большее давление, а вследствие стресса вырабатываются мужские гормоны, провоцирующие более активную выработку кожного сала и забивание пор. </p>
+<p> Анализ высыпаний на коже взрослых людей показал, что </p>
+<p> угри </p>
+<p> не похожи на подростковые: обычно у подростков они расположены на поверхности кожи в Т-зоне (подбородок, нос, лоб), а у женщин старше 25 лет воспаления находились глубоко под верхним слоем кожи. </p>
+<p> Еще исследователи установили, что 85% женщин страдают от обострения высыпаний до и во время месячных. Курящие представительницы слабого пола тоже имеют более частые и сильные </p>
+<p> высыпания </p>
+<p> , так как никотин активизирует выработку кожного сала. </p>
+<p> В целом же женщины в три раза чаще сталкиваются дерматологическими проблемами, чем мужчины, возможно, из-за большей чувствительности кожи к мужским гормонам. </p>
+<p> По материалам: </p>
+<p> Med Daily </p>
+<p> Мировые новости </p>
+<p> » </p>
+<p> Стресс приводит к появлению акне у взрослых женщин </p>
+<p> , </p>
+<p> 28.11.2011 </p>
+<p> » </p>
+<p> Ученые работают над созданием универсальной вакцины против гриппа (видео) </p>
+<p> , </p>
+<p> 28.11.2011 </p>
+<p> » </p>
+<p> Цена женской свободы и оральные контрацептивы </p>
+<p> , </p>
+<p> 28.11.2011 </p>
+<p> » </p>
+<p> Ученые синтезировали новое вещество, эффективное против ВИЧ и гепатита С </p>
+<p> , </p>
+<p> 28.11.2011 </p>
+<p> » </p>
+<p> Британские женщины и мальтийские мужчины возглавляют рейтинг самых толстых европейцев </p>
+<p> , </p>
+<p> 28.11.2011 </p>
+<p> » </p>
+<p> Редкий штамм ВИЧ впервые зафиксирован в Европе </p>
+<p> , </p>
+<p> 28.11.2011 </p>
+<p> » </p>
+<p> Ученые научились пересаживать нейроны, выуженные из мозга эмбрионов </p>
+<p> , </p>
+<p> 28.11.2011 </p>
+<p> все новости » </p>
+<p> Новости Украины </p>
+<p> » </p>
+<p> Рядовые врачи и граждане Украины практически ничего не знают о медреформе </p>
+<p> , </p>
+<p> 28.11.2011 </p>
+<p> » </p>
+<p> Украинские школы начинают закрывать на карантин </p>
+<p> , </p>
+<p> 28.11.2011 </p>
+<p> » </p>
+<p> Ефективність препарату "Алфлутоп" в локальній терапії больових синдромів при періартриті плечового  суглоба </p>
+<p> , </p>
+<p> 25.11.2011 </p>
+<p> » </p>
+<p> В Украине может появиться новый штамм вируса гриппа (видео) </p>
+<p> , </p>
+<p> 25.11.2011 </p>
+<p> » </p>
+<p> В Украине задерживают госвыплаты при рождении ребенка (видео) </p>
+<p> , </p>
+<p> 25.11.2011 </p>
+<p> » </p>
+<p> Черниговская область вошла в четверку лидеров по рождаемости (видео) </p>
+<p> , </p>
+<p> 24.11.2011 </p>
+<p> » </p>
+<p> Минздрав Украины предупреждает об опасности менингококковой инфекции (видео) </p>
+<p> , </p>
+<p> 24.11.2011 </p>
+<p> все новости » </p>
+<p> Наиболее просматриваемые статьи: </p>
+<p> 1 </p>
+<p> Вегето-сосудистая дистония. Симптомы. Диагностика. Лечение. Профилактика. </p>
+<p> 81052 просмотра </p>
+<p> 2 </p>
+<p> Аномалии мужских половых органов </p>
+<p> 64512 просмотров </p>
+<p> 3 </p>
+<p> Первичный сифилис </p>
+<p> 53846 просмотров </p>
+<p> 4 </p>
+<p> Общие сведения о раке </p>
+<p> 46110 просмотров </p>
+<p> 5 </p>
+<p> Сыпи, высыпания </p>
+<p> 41163 просмотра </p>
+<p> 6 </p>
+<p> Лямблиоз. Этиология. Патогенез. Симптомы лямблиоза. Диагностика лямблиоза. </p>
+<p> 38019 просмотров </p>
+<p> 7 </p>
+<p> Опоясывающий герпес (herpes zoster) (опоясывающий лишай) </p>
+<p> 30861 просмотр </p>
+<p> 8 </p>
+<p> Дискинезии желчного пузыря и желчевыводящих путей </p>
+<p> 30181 просмотр </p>
+<p> 9 </p>
+<p> Дерматологические проявления СПИДа </p>
+<p> 28921 просмотр </p>
+<p> 10 </p>
+<p> Пневмонии. Симптомы. Осложнения. Диагностика. Лечение. Профилактика. </p>
+<p> 25579 просмотров </p>
+<p> <!--//<![CDATA[    var m3_u = (location.protocol=='https:'?'https://matrix.eurolab.ua/www/delivery/ajs.php':'http://matrix.eurolab.ua/www/delivery/ajs.php');    var m3_r = Math.floor(Math.random()*99999999999);    if (!document.MAX_used) document.MAX_used = ',';    document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);    document.write ("?zoneid=55");    document.write ('&amp;cb=' + m3_r);    if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);    document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));    document.write ("&amp;loc=" + escape(window.location));    if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));    if (document.context) document.write ("&context=" + escape(document.context));    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");    document.write ("'><\/scr"+"ipt>"); //]]>--> </p>
+<p> <!--//<![CDATA[    var m3_u = (location.protocol=='https:'?'https://matrix.eurolab.ua/www/delivery/ajs.php':'http://matrix.eurolab.ua/www/delivery/ajs.php');    var m3_r = Math.floor(Math.random()*99999999999);    if (!document.MAX_used) document.MAX_used = ',';    document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);    document.write ("?zoneid=62");    document.write ('&amp;cb=' + m3_r);    if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);    document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));    document.write ("&amp;loc=" + escape(window.location));    if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));    if (document.context) document.write ("&context=" + escape(document.context));    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");    document.write ("'><\/scr"+"ipt>"); //]]>--> </p>
+<p> Подписаться на рассылку </p>
+<p> Хотите получать новости и советы от Eurolab ежедневно? Подпишитесь на рассылку бесплатно! </p>
+<p> Блог доктора Гетьман О.И. </p>
+<p> Семейный доктор. Доктор-диагност (специалист по всем видам диагностики: лабораторная, радиологическая, клиническая). </p>
+<p> Последние сообщения: </p>
+<p> Скрининг  рака  шейки матки </p>
+<p> 24.11.2011 </p>
+<p> Вопрос дня  -  5 cоветов или подсказок, как помочь коже удерживать влагу </p>
+<p> 17.11.2011 </p>
+<p> Управление болью… </p>
+<p> 09.11.2011 </p>
+<p> Facebook и  социальные сети могут помочь людям  преодолеть болезнь </p>
+<p> 02.11.2011 </p>
+<p> Смакота - морквяний пиріг) </p>
+<p> 19.10.2011 </p>
+<p> все записи » </p>
+<p> <!-- google_ad_client = "pub-1878239235886171"; /* 300x250, создано 11.08.09 */ google_ad_slot = "0722479674"; google_ad_width = 300; google_ad_height = 250; //--> </p>
+<p> Новостная лента </p>
+<p> Загрузка... </p>
+<p> Видеоконсультации </p>
+<p> Ваш генетический паспорт - возможность избежать 90 серьезных заболеваний </p>
+<p> function wmdTrackMarqueeVideo(videoname,status) {  var s_md, _page;  s_md=s_gi(s_account);  s_md.linkTrackVars="prop17,prop18,prop20,prop34,prop50";  s_md.prop17="marqvideo";  s_md.prop18="marqvideo_"+status;  s_md.prop20=_URL +"-"+videoname+"_marqvideo_"+status;  s_md.prop34=_URL+ "-"+videoname+"_marqvideo";  void(s_md.tl(true, 'o', s_md.prop20)); } </p>
+<p> var so = new SWFObject('/img/eurolab_player.swf','marqueeFlashVideo','300','260','8','#efefef','','','','','','transparent'); 		so.addParam("allowScriptAccess", "always"); 		so.addParam("wmode", "Transparent"); 		so.addParam("Quality","High"); 		so.useExpressInstall('/img/expressinstall.swf'); 		//so.addParam("flashvars", "&image=/img/_video_bg.gif&file=/img/st_img/podcasts/240 320/Dzubak2.flv&height=260&width=300&volume=50"); 		so.addParam("flashvars", "&urlname=Eurolabvideo&cmdflvclip=/img/st_img/podcasts/240 320/Panasenko2.flv&urlimg=/img/st_img/video_thumbnails/36.gif"); 		so.write("podcast_36_r"); </p>
+<p> Здоровье от А до Я </p>
+<p> » </p>
+<p> Рак влагалища </p>
+<p> » </p>
+<p> Диагноз - аденоиды </p>
+<p> » </p>
+<p> Возможности использования ректальных суппозиториев с НПВП </p>
+<p> » </p>
+<p> Гемолитические анемии </p>
+<p> » </p>
+<p> Хейлит эксфолиативный </p>
+<p> » </p>
+<p> Синдром вегетативной дистонии: прогнозы положительные </p>
+<p> » </p>
+<p> Дисфункциональные растройства билиарного тракта: семиотика и особенности фармакотерапии </p>
+<p> » </p>
+<p> Субарахноидальное кровоизлияние </p>
+<p> » </p>
+<p> Иммунотерапия с применением аффинолейкина </p>
+<p> » </p>
+<p> Сколиоз </p>
+<p> » </p>
+<p> Герпетическая инфекция. Клиническая картина. Лечение. Профилактика. </p>
+<p> » </p>
+<p> Функциональное зонирование территории  больницы </p>
+<p> » </p>
+<p> Риновирусная инфекция. Этиология. Клиника. Лечения. Профилактика. </p>
+<p> » </p>
+<p> Инфекционные фетопатии </p>
+<p> » </p>
+<p> Есть ли мусор в наших ДНК? (гипотезы) </p>
+<p> » </p>
+<p> Пульпит </p>
+<p> » </p>
+<p> Прогрессирующая мышечная дистрофия Дюшенна </p>
+<p> » </p>
+<p> Отрицательные последствия хлорирования воды для здоровья населения </p>
+<p> » </p>
+<p> Лейшманиозы. Виды. Симптомы. Диагностика. </p>
+<p> » </p>
+<p> Профилактика витаминодефицита в перинатальном периоде </p>
+<p> Справочник лекарств </p>
+<p> Лекарственные средства </p>
+<p> Производители </p>
+<p> Составляющие </p>
+<p> <!-- google_ad_client = "pub-1878239235886171"; /* 728x90, создано 10.09.10 */ google_ad_slot = "7242207898"; google_ad_width = 728; google_ad_height = 90; //--> </p>
+<p> Разделы медицинской энциклопедии: </p>
+<p> Боли </p>
+<p> | </p>
+<p> Венерология </p>
+<p> | </p>
+<p> Гастроэнтерология </p>
+<p> | </p>
+<p> Гематология </p>
+<p> | </p>
+<p> Генетика </p>
+<p> | </p>
+<p> Гинекология </p>
+<p> | </p>
+<p> Дерматология </p>
+<p> | </p>
+<p> Здоровое питание </p>
+<p> | </p>
+<p> Инфекционные болезни </p>
+<p> | </p>
+<p> Кардиология </p>
+<p> | </p>
+<p> Косметология </p>
+<p> | </p>
+<p> Маммология </p>
+<p> | </p>
+<p> Научные статьи </p>
+<p> | </p>
+<p> Неврология </p>
+<p> | </p>
+<p> Онкология </p>
+<p> | </p>
+<p> Паразитарные болезни </p>
+<p> | </p>
+<p> Педиатрия </p>
+<p> | </p>
+<p> Психическое здоровье </p>
+<p> | </p>
+<p> Радиология </p>
+<p> | </p>
+<p> Скорая и неотложная медицинская помощь </p>
+<p> | </p>
+<p> Стоматология </p>
+<p> | </p>
+<p> Урология </p>
+<p> | </p>
+<p> Эндокринология </p>
+<p> Гиды по здоровью: </p>
+<p> Аллергии </p>
+<p> | </p>
+<p> Артериальная гипертензия </p>
+<p> | </p>
+<p> Беременность </p>
+<p> | </p>
+<p> Бесплодие и репродуктивный статус </p>
+<p> | </p>
+<p> Болезни глаз </p>
+<p> | </p>
+<p> Болезни зубов </p>
+<p> | </p>
+<p> Болезни кишечника </p>
+<p> | </p>
+<p> Болезни сердца </p>
+<p> | </p>
+<p> Бронхиальная астма </p>
+<p> | </p>
+<p> Генитальный герпес </p>
+<p> | </p>
+<p> Гепатит А </p>
+<p> | </p>
+<p> Гепатит B </p>
+<p> | </p>
+<p> Гепатит С </p>
+<p> | </p>
+<p> Головная боль и мигрень </p>
+<p> | </p>
+<p> Грипп </p>
+<p> | </p>
+<p> Депрессия </p>
+<p> | </p>
+<p> Здоровое старение </p>
+<p> | </p>
+<p> Здоровье и экология </p>
+<p> | </p>
+<p> Изжога и гастроэзофагеальная рефлюксная болезнь </p>
+<p> | </p>
+<p> Импотенция (эректильная дисфункция) </p>
+<p> | </p>
+<p> Как победить боль? </p>
+<p> | </p>
+<p> Контрацепция (контроль рождаемости) </p>
+<p> | </p>
+<p> Красная волчанка </p>
+<p> | </p>
+<p> Менопауза </p>
+<p> | </p>
+<p> Недержание мочи у женщин </p>
+<p> | </p>
+<p> Недержание мочи у мужчин </p>
+<p> | </p>
+<p> Остеоартрит </p>
+<p> | </p>
+<p> Остеопороз </p>
+<p> | </p>
+<p> Пищевые расстройства </p>
+<p> | </p>
+<p> Пластическая хирургия </p>
+<p> | </p>
+<p> Приготовление здоровой пищи </p>
+<p> | </p>
+<p> Простуда </p>
+<p> | </p>
+<p> Рак </p>
+<p> | </p>
+<p> Рак молочной железы </p>
+<p> | </p>
+<p> Рассеянный склероз </p>
+<p> | </p>
+<p> Ревматоидный артрит </p>
+<p> | </p>
+<p> Сексуальное здоровье </p>
+<p> | </p>
+<p> Фибромиалгия </p>
+<p> | </p>
+<p> Фитнесс </p>
+<p> | </p>
+<p> Шизофрения </p>
+<p> Другие сервисы: </p>
+<p> Мужское здоровье </p>
+<p> | </p>
+<p> Женское здоровье </p>
+<p> | </p>
+<p> Здоровье ребенка </p>
+<p> | </p>
+<p> Здоровое старение </p>
+<p> | </p>
+<p> Здоровое питание </p>
+<p> | </p>
+<p> Рецепты блюд </p>
+<p> | </p>
+<p> Контрацепция </p>
+<p> | </p>
+<p> Новости </p>
+<p> | </p>
+<p> Архив новостей </p>
+<p> | </p>
+<p> Блоги </p>
+<p> | </p>
+<p> Видеоконсультации </p>
+<p> | </p>
+<p> Справочник лекарств </p>
+<p> | </p>
+<p> Тесты </p>
+<p> | </p>
+<p> Каталог медицинских заведений </p>
+<p> | </p>
+<p> Консультации врача </p>
+<p> | </p>
+<p> Архив консультаций </p>
+<p> | </p>
+<p> Врачебные специальности </p>
+<p> | </p>
+<p> Анатомия человека </p>
+<p> | </p>
+<p> Симптомы болезней </p>
+<p> | </p>
+<p> Боли </p>
+<p> и </p>
+<p> Нарушения </p>
+<p> | </p>
+<p> Лекарственные растения </p>
+<p> | </p>
+<p> Болезни (Заболевания) </p>
+<p> | </p>
+<p> Услуги клиник </p>
+<p> : </p>
+<p> Анализы </p>
+<p> , </p>
+<p> Диагностика </p>
+<p> | </p>
+<p> Медицинские термины </p>
+<p> | </p>
+<p> Грипп A/H1N1 </p>
+<p> | </p>
+<p> Eurolab23 </p>
+<p> | </p>
+<p> Хвороби </p>
+<p> | </p>
+<p> Болі </p>
+<p> | </p>
+<p> Лечение от зависимостей </p>
+<p> | </p>
+<p> Ограничение ответственности </p>
+<p> | </p>
+<p> Рекламируйтесь с нами </p>
+<p> Eurolab в социальных сетях: </p>
+<p> В контакте </p>
+<p> В Facebook </p>
+<p> В Twitter </p>
+<p> Мировые новости медицины на портале EUROLAB. </p>
+<p> При использовании материалов сайта, ссылка на www.eurolab.ua обязательна. </p>
+<p> Торговая марка и торговый знак EUROLAB™ зарегистрированы.	Все права защищены. </p>
+<p> <!-- function BM_Draw(oBM_STAT){ document.write('<table cellpadding="0" cellspacing="0" border="0" style="display:inline;margin-right:4px;"><tr><td><div style="margin:0px;padding:0px;font-size:1px;width:88px;"><div style="background:url(\'http://i.bigmir.net/cnt/samples/diagonal/b60_top.gif\') no-repeat bottom;"> </div><div style="font:10px Tahoma;background:url(\'http://i.bigmir.net/cnt/samples/diagonal/b60_center.gif\');"><div style="text-align:center;"><a href="http://www.bigmir.net/" target="_blank" style="color:#0000ab;text-decoration:none;font:10px Tahoma;">bigmir<span style="color:#ff0000;">)</span>net</a></div><div style="margin-top:3px;padding: 0px 6px 0px 6px;color:#426ed2;"><div style="float:left;font:10px Tahoma;">'+oBM_STAT.hosts+'</div><div style="float:right;font:10px Tahoma;">'+oBM_STAT.hits+'</div></div><br clear="all"/></div><div style="background:url(\'http://i.bigmir.net/cnt/samples/diagonal/b60_bottom.gif\') no-repeat top;"> </div></div></td></tr></table>'); } //--> </p>
+<p> <!-- bmN=navigator,bmD=document,bmD.cookie='b=b',i=0,bs=[],bm={o:1,v:165896,s:165896,t:0,c:bmD.cookie?1:0,n:Math.round((Math.random()* 1000000)),w:0}; for(var f=self;f!=f.parent;f=f.parent)bm.w++; try{if(bmN.plugins&&bmN.mimeTypes.length&&(x=bmN.plugins['Shockwave Flash']))bm.m=parseInt(x.description.replace(/([a-zA-Z]|\s)+/,'')); else for(var f=3;f<20;f++)if(eval('new ActiveXObject("ShockwaveFlash.ShockwaveFlash.'+f+'")'))bm.m=f}catch(e){;} try{bm.y=bmN.javaEnabled()?1:0}catch(e){;} try{bmS=screen;bm.v^=bm.d=bmS.colorDepth||bmS.pixelDepth;bm.v^=bm.r=bmS.width}catch(e){;} r=bmD.referrer.slice(7);if(r&&r.split('/')[0]!=window.location.host){bm.f=escape(r);bm.v^=r.length} bm.v^=window.location.href.length;for(var x in bm) if(/^[ovstcnwmydrf]$/.test(x)) bs[i++]=x+bm[x]; bmD.write('<sc'+'ript type="text/javascript" language="javascript" src="http://c.bigmir.net/?'+bs.join('&')+'"></sc'+'ript>'); //--> </p>
+<p> //<![CDATA[ var a='';js=10;d=document; try{a+=';r='+escape(d.referrer);}catch(e){}try{a+=';j='+navigator.javaEnabled();js=11;}catch(e){} try{s=screen;a+=';s='+s.width+'*'+s.height;a+=';d='+(s.colorDepth?s.colorDepth:s.pixelDepth);js=12;}catch(e){} try{if(typeof((new Array).push('t'))==="number")js=13;}catch(e){} try{d.write('<a href="http://top.mail.ru/jump?from=1592662"><img src="http://dd.c4.b8.a1.top.mail.ru/counter?id=1592662;t=211;js='+js+ a+';rand='+Math.random()+'" alt="Рейтинг@Mail.ru" style="border:0;" height="31" width="88" \/><\/a>');}catch(e){}//]]> </p>
+<p> <!-- document.write("<a href='http://www.liveinternet.ru/click' "+ "target=_blank><img src='//counter.yadro.ru/hit?t54.6;r"+ escape(document.referrer)+((typeof(screen)=="undefined")?"": ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth? screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+ ";"+Math.random()+ "' alt='' title='LiveInternet: показано число просмотров и"+ " посетителей за 24 часа' "+ "border='0' width='88' height='31'><\/a>") //--> </p>
+<p> var _gaq = _gaq || [];   _gaq.push(['_setAccount', 'UA-150434-8']);   _gaq.push(['_setDomainName', 'eurolab.ua']);   _gaq.push(['_setAllowLinker', true]);   _gaq.push(['_trackPageview']);    (function() {     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);   })(); </p>
+<p> <!--//--><![CDATA[//><!-- var pp_gemius_identifier = new String('nA5L_wSzPB2GATr1sV2Cw6cTLSqsGcMkmY2qcI2Wb8z._7'); //--><!]]> </p>
+<p> try { var yaCounter1446655 = new Ya.Metrika(1446655);} catch(e){} </p>
+<p> adgn_zone = '59ac813f-b8e8-4705-8ec4-04e1c3b8ba04'; adgn_uid = 'aa943aca-9a4b-4610-a1b6-17cb6698629f'; </p>

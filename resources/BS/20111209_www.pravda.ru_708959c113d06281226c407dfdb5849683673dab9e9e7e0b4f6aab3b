@@ -1,0 +1,201 @@
+<p> Холода делают женщин на пять лет старше - Правда.Ру </p>
+<p> var _ed_name = 'pravda_admin_remember'; 	var _ed_url = 'http://www.pravda.ru/?area=ajaxAdminEditor'; </p>
+<p> <!-- 	function cl(link) 	{ 	 var img = new Image(1,1); 	 img.src = 'http://www.liveinternet.ru/click?*' + link; 	} 	//--> </p>
+<p> function resize() {                  var Width = document.body.clientWidth;                 $('main_header').style.width = (Width*1-155-5)+'px';                 $('main_search_button').style.left = (Width*1-155-5-15)+'px';                 $('searchString').style.width = (Width*1-155-5-15)+'px';             }             addLoadEvent(resize); </p>
+<p> jQuery.noConflict(); </p>
+<p> #slidebox{         width:65px;         height:65px;         padding:10px;         position:fixed;         top:0px;         right:0px;         display:none;         z-index:10000;     }     #slidebox a.close{         background:transparent url(/pix/close.gif) no-repeat top left;         width:13px;         height:13px;         position:absolute;         cursor:pointer;         top:10px;         right:10px;     }     a.close:hover{         background-position:0px -13px;     } </p>
+<p> //$('#slidebox').animate({'':'0px'},300);     //setTimeout('$("#slidebox").stop(true).animate({"right":"-430px"},100);', 5000);     if (!Cookie.get('info18')) {         jQuery("#slidebox").fadeIn(1000);         Cookie.set('info18', 1, 0, '/', '.pravda.ru');         setTimeout('jQuery("#slidebox").fadeOut(1000)', 8000);     }      	     /* remove the slidebox when clicking the cross */     jQuery('#slidebox .close').bind('click',function(){             jQuery(this).parent().remove();     }); </p>
+<p> var WRInitTime=(new Date()).getTime(); </p>
+<p> <!-- 			new Image().src = "//counter.yadro.ru/hit;pravdaru?r"+ 			escape(document.referrer)+((typeof(screen)=="undefined")?"": 			";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth? 			screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+ 			";h"+escape(document.title.substring(0,80))+ 			";"+Math.random();//--> </p>
+<p> var img = new Image(); 					img.src = 'http://www.tns-counter.ru/V13a***R>' + document.referrer.replace(/\*/g,'%2a') + '*pravda_ru/ru/CP1251/tmsec=pravda_news/'; </p>
+<p> ENG </p>
+<p> RUS </p>
+<p> PT </p>
+<p> ITA </p>
+<p> <!-- document.write('<scr' + 'ipt type="text/javascript" src="http://ads.diffamo.ru/?bp=193"><\/scr' + 'ipt>'); //--> </p>
+<p> Например: </p>
+<p> Большой Кавказ </p>
+<p> function hidePlaceholder() {             var inp = $('searchString');             if (inp.value == 'Поиск')                 inp.value = '';                     }         function showPlaceholder() {             var inp = $('searchString');             if (inp.value == '')                 inp.value = 'Поиск';                     }         function exampleSearch() {             $('searchString').value = $('exampleSearchLink').innerText;             window.open ($('exampleSearchLink').href, $('exampleSearchLink').title);             window.focus();             return false;         } </p>
+<p> Мир </p>
+<p> Наука </p>
+<p> Общество </p>
+<p> Здоровье </p>
+<p> Религия </p>
+<p> Красота </p>
+<p> Фото </p>
+<p> Видео </p>
+<p> архив </p>
+<p> все разделы </p>
+<p> <!-- 		window.fbAsyncInit = function() { 			FB.init({appId: '218074068257314', status: true, cookie: true, 			         xfbml: true}); 		};  		if (/*@cc_on 1 | @*/ 0) { 			addLoadEvent(function() { 				var e = document.createElement('script'); e.async = true; 				e.src = document.location.protocol + 				  '//connect.facebook.net/ru_RU/all.js'; 				document.getElementById('fb-root').appendChild(e); 			}); 		} else { 			(function() { 				var e = document.createElement('script'); e.async = true; 				e.src = document.location.protocol + 				  '//connect.facebook.net/ru_RU/all.js'; 				document.getElementById('fb-root').appendChild(e); 			}()); 		}//--> </p>
+<p> Новости </p>
+<p> » </p>
+<p> Здоровье </p>
+<p> Зима превращает женщин в старушек </p>
+<p> 08.12.2011 | </p>
+<p> Источник: </p>
+<p> Правда.Ру </p>
+<p> К неутешительному выводу пришла недавно группа американских ученых. Оказывается зима приносит с собой не только </p>
+<p> авитаминоз </p>
+<p> и депрессию, но и влияет на процессы старения. Особенно это касается женщин. </p>
+<p> В компании Adonia Organics разработчики косметических средств против старения провели исследования во время разработки нового экземпляра крема. Выяснилось, что зимой женские глаза выглядят почти на пять лет старше, передает " </p>
+<p> Диверсант.ру </p>
+<p> ". Дело в том, что на посветлевшей без солнца коже четче видны темные круги под глазами, мимические морщинки и пигментные пятна. В целом состояние физическое и моральное состояние дам становится хуже, пишут " </p>
+<p> Аргументы.ру </p>
+<p> ". </p>
+<p> Читайте также: </p>
+<p> Британские ученые осчастливили мир таблеткой от морщин </p>
+<p> Согласно данным исследования, в котором приняли участие пять тысяч женщин в возрасте от 27 до 60 лет, зимой от мешков под глазами страдают 82 процента из них, в то время как летом лишь 38 процентов. С приходом теплого времени, по мнению ученых, ситуация должна улучшиться. Во-первых, загар элементарно скрывает следы усталости под глазами. А необходимые витамины и генератор хорошего самочувствия - серотонин - наконец начнут вырабатываться в организме в больших количествах, отмечает " </p>
+<p> Инфомания </p>
+<p> ". </p>
+<p> Ранее сообщалось, что с приходом холодов 43 процента россиян стали меньше двигаться, а каждого пятого клонит ко сну. Об этом </p>
+<p> свидетельствуют </p>
+<p> данные интернет-опроса, проведенного Минздравсоцразвития РФ. 19,6 процента опрошенных заявили, что пока могут заставить себя гулять, но потихоньку впадают в спячку. 16,7 процента респондентов, напротив, стали двигаться даже больше. По их мнению, для прогулок и движения нет плохой погоды, сообщает </p>
+<p> Firstnews </p>
+<p> . 11,6 процента заявили, что почти не гуляют, но восполняют недостаток движения в спортзале, а еще 9 процентов респондентов временно бездействуют, ожидая сезона лыж и коньков, добавляет " </p>
+<p> Росбалт </p>
+<p> ". </p>
+<p> Читайте: </p>
+<p> От аптечных витаминов укорачивается жизнь </p>
+<p> Тем, кто стал меньше двигаться и при этом не хочет набрать к весне лишние килограммы, диетологи советуют: во-первых, в обед следует съедать тарелку супа. Так у вас надолго сохранится ощущение сытости, и вам не будет хотеться есть. Во-вторых необходимо употреблять пищу, богатую триптофаном - красное постное мясо, курятину, индейку, рыбу, яйца, сыр, орехи и зерновые. Это способствует выработке серотонина, который поднимает наш жизненный тонус. </p>
+<p> Читайте другие </p>
+<p> материалы </p>
+<p> по теме: </p>
+<p> Мельница мифов: медицинские заблуждения </p>
+<p> Любители фаст-фуда стареют быстрее </p>
+<p> Ботокс убивает не только морщины, но и эмоции </p>
+<p> Секреты дневного макияжа </p>
+<p> Все новости </p>
+<p> >>> </p>
+<p> $$('#article a').each(function(url){ 		if (url.href.indexOf('pravda.ru') == -1 && 			url.href.indexOf('bigness.ru') == -1 && 			url.href.indexOf('dailyshow.ru') == -1 && 			url.href.indexOf('ecosever.ru') == -1 && 			url.href.indexOf('entrynews.com') == -1 && 			url.href.indexOf('fark.ru') == -1 && 			url.href.indexOf('funreports.com') == -1 && 			url.href.indexOf('georgiatimes.info') == -1 && 			url.href.indexOf('glavtema.ru') == -1 && 			url.href.indexOf('medpulse.ru') == -1 && 			url.href.indexOf('missus.ru') == -1 && 			url.href.indexOf('moneytimes.ru') == -1 && 			url.href.indexOf('moscowtopnews.com') == -1 && 			url.href.indexOf('russiansentry.com') == -1 && 			url.href.indexOf('yoki.ru') == -1 && 			url.href.indexOf('politonline.ru') == -1 &&                         url.rel == 'nofollow' &&             url.href.indexOf('bigcaucasus.com') == -1 		) { 			url.href = 'http://www.pravda.ru/?area=show&url=' + url.href; 			url.observe('click', function(){ 				var IE='\v'=='v'; 				if (!IE && navigator.userAgent.toLowerCase().indexOf('opera') == -1) { 					window.open ("http://tds.pravda.ru/?mid=7", "Pravda.Ru"); 				} 			}) 		} 	}); </p>
+<p> <!-- 	function openPrint(url) { 		var printWin = window.open(url, 		   "print", 		   "width=800,height=600,resizable=yes,scrollbars=yes,status=yes" 		)  		printWin.focus(); 		return false; 	} 	var _php_url_send = 'http://www.pravda.ru/?area=popupSendToFriend&t=a&id=1101480'; 	function switchCodeBlock(){ 		var codeBlock = document.getElementById('code-block'); 		var blogCode = document.getElementById('blogCode'); 		if (codeBlock.style.display == 'none') { 			codeBlock.style.display = 'block'; 			blogCode.focus(); 			blogCode.select(); 		} else { 			codeBlock.style.display = 'none'; 		} 	} 	//--> </p>
+<p> Версия для печати </p>
+<p> Послать другу </p>
+<p> Код для вставки в блог </p>
+<p> <!-- 		if (!(/*@cc_on 1 | @*/ 0)) { 			facebox = new Facebox(); 		}//--> </p>
+<p> <!-- 	var text = '<table width="440" cellspacing="0" border="0" align="center" style="border: 1px solid rgb(223, 223, 223); font-family: Verdana,Helvetica,sans-serif; color: rgb(51, 51, 51);">  <tbody><tr>    <td style="padding: 10px 10px 0pt;" colspan="2"><a href="http://www.pravda.ru/"><img border="0" title="Pravda.ru / Новости" alt="Pravda.ru / Новости" src="http://www.pravda.ru/pix/logo.gif"/></a></td>  </tr>  <tr>    <td style="padding: 10px 10px 0pt; font-size: 18px; font-weight: bold;" colspan="2"><div style="border-bottom: 1px solid rgb(223, 223, 223); padding-bottom: 10px;"> <a style="text-decoration: none;color:#004694;font-family:Georgia;font-weight:normal;" href="http://www.pravda.ru/news/health/08-12-2011/1101480-zhenshhini-0/">Зима превращает женщин в старушек</a></div></td>  </tr>  <tr>    <td valign="top" align="left" style="padding: 10px;"><a style="text-decoration: none;color:#004694;font-family:Georgia;font-weight:normal;" href="http://www.pravda.ru/news/health/08-12-2011/1101480-zhenshhini-0/"><img   alt="Зима превращает женщин в старушек" title="Зима превращает женщин в старушек" src="http://www.pravda.ru/image/preview/article/4/8/0/1101480.jpeg" /></a></td>    <td align="left" style="padding: 10px; font-size: 11px;"><a style="text-decoration: none !important; color: inherit !important;border:inherit !important;" href="http://www.pravda.ru/news/health/08-12-2011/1101480-zhenshhini-0/">К неутешительному выводу пришла недавно группа американских ученых. Оказывается зима приносит с собой не только авитаминоз и депрессию, но и влияет на процессы старения. Особенно это касается женщин.</a></td>  </tr>  <tr align="center" style="background-color: rgb(212, 212, 212); height: 20px; font-size: 12px;">    <td colspan="2"><a style="text-decoration: none; color: rgb(255, 255, 255);" href="http://www.pravda.ru/news/health/08-12-2011/1101480-zhenshhini-0/">http://www.pravda.ru/news/health/08-12-2011/1101480-zhenshhini-0/</a></td>  </tr></tbody></table>'; 	$('blogCode').value=text; 	//--> </p>
+<p> Поделись прочитанным: </p>
+<p> <!--                VK.init({                     apiId: 1962042,                     onlyWidgets: true                 });             //--> </p>
+<p> VK.Widgets.Like('vk_like',  {width: 150, type: "mini", pageTitle: 'Зима превращает женщин в старушек', pageDescription: 'К неутешительному выводу пришла недавно группа американских ученых. Оказывается зима приносит с собой не только авитаминоз и депрессию, но и влияет на процессы старения. Особенно это касается женщин.', pageUrl: 'http://www.pravda.ru/news/health/08-12-2011/1101480-zhenshhini-0/'}, 1101480); </p>
+<p> 0 </p>
+<p> Твитнуть </p>
+<p> Поделиться </p>
+<p> widgets.comments({                         container: 'comments',                         siteId: 1,                         id: 1101480,                         type: 1                     }); </p>
+<p> <!-- document.write('<scr' + 'ipt type="text/javascript" src="http://ads.diffamo.ru/?bp=191"><\/scr' + 'ipt>'); //--> </p>
+<p> fark_partner_id = '83'; 	fark_num_links = 3; 	fark_is_images = 1; 	fark_code_format = '2'; 	fark_code_style_a = ''; 	fark_code_style_td = '';  	fark_banner_draw(); </p>
+<p> Добавить свое объявление </p>
+<p> Загрузка... </p>
+<p> var MarketGidDate = new Date();     document.write('<scr'+'ipt type="text/javascript" '     +'src="http://jsn.dt00.net/p/r/pravda.ru.7778.js?t='+MarketGidDate.getYear()+MarketGidDate.getMonth()     + '" charset="utf-8" ></scr'+'ipt>'); </p>
+<p> Популярные галереи </p>
+<p> <!-- 	var popularPhotoLoader = new PopularPhotoLoader(2, true, 'gallery-id-2-t');//--> </p>
+<p> Фотосессия </p>
+<p> Рецепты красоты от знаменитостей </p>
+<p> Фото знаменитостей (493 фото) </p>
+<p> Семейная идилия Даутцен Крус </p>
+<p> Фото знаменитостей (493 фото) </p>
+<p> Новости России </p>
+<p> (function() {    var sm = document.createElement("script");    sm.type = "text/javascript";    sm.async = true;    sm.src = "http://jsn.24smi.org/i/p/r/pravda.ru.1582.js";    var s = document.getElementsByTagName("script")[0];    s.parentNode.insertBefore(sm, s);})(); </p>
+<p> Новости. Тор 24 </p>
+<p> Начальник почты в Минводах пошел на преступление ради премии сотрудникам </p>
+<p> The Sun: "Аршавин - одна из главных ошибок Венгера" </p>
+<p> Спасавший людей из пожара американец 42 года провел в тюрьме </p>
+<p> Британка-маугли написала книгу о своей жизни в джунглях </p>
+<p> Порно-фото из омского клуба, взорвавшие интернет, проверит прокуратура </p>
+<p> "Международная амнистия" назвала страны-лидеры по смертным казням </p>
+<p> Саудовская Аравия отгородится от Йемена стеной </p>
+<p> Минрегион предложил выставлять жилье должников ЖКХ на торги </p>
+<p> В КНДР резервистам приказали сдать оружие </p>
+<p> В России найден уникальный изумруд весом 1,5 килограмма </p>
+<p> Американские ученые изобрели искусственные яичники </p>
+<p> На границе Северной Осетии введен режим КТО </p>
+<p> На бывшего вице-президента ОКР Ахмеда Билалова завели дело </p>
+<p> На театральный фестиваль на Северном Кавказе выделено 22 млн рублей </p>
+<p> Корабли СФ завершили миссию по борьбе с пиратством в Аденском заливе </p>
+<p> Политолог Федор Лукьянов: "КНДР играет, но это может зайти далеко" </p>
+<p> Под Ярославлем похищен восьмимесячный ребенок </p>
+<p> Франсуа Олланд будет уничтожать "финансовые убежища для богачей" </p>
+<p> Только 16 москвичей написали "Тотальный диктант" на отлично </p>
+<p> Видеотека </p>
+<p> Боевой лазер на службе ВМФ США </p>
+<p> "Секретная гора" в центре Сибири. Часть 8 </p>
+<p> <!-- google_ad_client = "ca-pub-9823569451097165"; /* pravda_200x200_news */ google_ad_slot = "5746321334"; google_ad_width = 200; google_ad_height = 200; //--> </p>
+<p> Самое читаемое на сайте </p>
+<p> Исследование клинической смерти удивило всех </p>
+<p> Рассказы людей, переживших клиническую смерть, пугают и завораживают одновременно. Туннель, яркий свет, встречи с умершими родственниками. Но можно ли верить этим свидетельствам? Вдруг околосмертный… </p>
+<p> Когда башня покидает танк... </p>
+<p> Казалось бы, ну кому и на что может понадобиться танковая башня без ходовой части, ведь сила танка в триединстве брони, огня и маневра, однако на самом деле это далеко не так. Более того, первые… </p>
+<p> Если завтра война... Чем ответит Россия? </p>
+<p> Переход на сланцевый газ - заговор против РФ </p>
+<p> Корея: первое сражение третьей мировой? </p>
+<p> США - страна социальной несправедливости </p>
+<p> Мародеры уничтожают древнюю культуру Сирии </p>
+<p> США сдают армию Афганистана нам на откуп </p>
+<p> Cопротивление глобализации: новый этап </p>
+<p> <!-- document.write('<scr' + 'ipt type="text/javascript" src="http://ads.diffamo.ru/?bp=93"><\/scr' + 'ipt>'); //--> </p>
+<p> <!-- document.write('<scr' + 'ipt type="text/javascript" src="http://ads.diffamo.ru/?bp=71"><\/scr' + 'ipt>'); //--> </p>
+<p> Самое комментируемое </p>
+<p> Мики </p>
+<p> Блогер Навальный - "этой стране" (28) </p>
+<p> Eduard Seher </p>
+<p> Мельница мифов: побоище, которого не было (19) </p>
+<p> Вера Ниеминен </p>
+<p> Музыки не будет: Dire Straits не споет из-за НКО (14) </p>
+<p> николай николаевич </p>
+<p> Сирийские повстанцы - партизаны, террористы? (13) </p>
+<p> Aleksandr Beliaev </p>
+<p> Если завтра война... Чем ответит Россия? (10) </p>
+<p> Vadim Ippolito </p>
+<p> Минрегион предложил выставлять жилье должников ЖКХ на торги (8) </p>
+<p> Мир </p>
+<p> Корея: первое сражение третьей мировой? </p>
+<p> США - страна социальной несправедливости </p>
+<p> Мародеры уничтожают древнюю культуру Сирии </p>
+<p> США сдают армию Афганистана нам на откуп </p>
+<p> Операция в Вольфшанце: охота на Гитлера </p>
+<p> Бесконечные страсти по самолету Качиньского </p>
+<p> Израиль шпионит за Россией 365 дней в году﻿ </p>
+<p> РФ взялась за русский язык на Украине </p>
+<p> Фактор Маккиндера, или Трудно быть Россией </p>
+<p> США: демократия для своих отменяется? </p>
+<p> Загрузка... </p>
+<p> var MarketGidDate = new Date();     document.write('<scr'+'ipt type="text/javascript" '     +'src="http://jsn.dt00.net/p/r/pravda.ru.9955.js?t='+MarketGidDate.getYear()+MarketGidDate.getMonth()     + '" charset="utf-8" ></scr'+'ipt>'); </p>
+<p> var xmas = new Date(); var blocks =  ['bigness3', 'lady3', 'missus3', 'yoki3']; var block = blocks[Math.floor(Math.random() * blocks.length)];  document.write('<iframe scrolling="no" height="400" frameborder="0" width="240" src="http://www.medpulse.ru/cache/cqc/'+block+'.html?t='+xmas.getTime().toString().substr(0,7)+'"></iframe>'); </p>
+<p> Bigness.ru </p>
+<p> Смартфоны и планшеты уйдут в небытие </p>
+<p> Сербия получила от России кредит в размере $500 млн </p>
+<p> Десять привычек, мешающих разбогатеть </p>
+<p> Государство побудит пенсионеров еще поработать </p>
+<p> "Одноклассники" перестали работать </p>
+<p> Россия ждет дешевых авиаперевозчиков </p>
+<p> Загрузка... </p>
+<p> var MarketGidDate = new Date();     document.write('<scr'+'ipt type="text/javascript" '     +'src="http://jsn.dt00.net/p/r/pravda.ru.9951.js?t='+MarketGidDate.getYear()+MarketGidDate.getMonth()     + '" charset="utf-8" ></scr'+'ipt>'); </p>
+<p> Politonline.ru </p>
+<p> Российский Ту-22 'понарошку' уничтожил ПРО США </p>
+<p> Как Ельцин отчитался США об уничтожении СССР </p>
+<p> Опубликовано предсмертное письмо Березовского </p>
+<p> Ревут в 'Голос' </p>
+<p> Американцы сравнили президентов </p>
+<p> Дипломатические такты </p>
+<p> var xmas = new Date(); var blocks = ['society3', 'georgiatimes3']; var block = blocks[Math.floor(Math.random() * blocks.length)];  document.write('<iframe scrolling="no" height="400" frameborder="0" width="240" src="http://www.pravda.ru/cache/cqc/'+block+'.html?t='+xmas.getTime().toString().substr(0,7)+'"></iframe>'); </p>
+<p> (function(){ 	var cb = Math.random(); 	document.write('<span id="targetix-container-'+cb+'" style="display:inline-block; line-height:0px"></span>'); 	document.MAX_used = document.MAX_used || ','; 	var m3_u = (document.location.protocol=='https:'?'https://ads.targetix.net/ajs.php':'http://ads.targetix.net/ajs.php'); 	m3_u += '?zoneid=1093'; 	m3_u += '&cb=' + cb; 	if (document.MAX_used != ',') m3_u += '&exclude=' + document.MAX_used; 	m3_u += document.charset ? '&charset='+document.charset : (document.characterSet ? '&charset='+document.characterSet : ''); 	m3_u += '&loc=' + encodeURIComponent(window.location); 	if (document.referrer) m3_u += '&referer=' + encodeURIComponent(document.referrer); 	if (document.context) m3_u += '&context=' + encodeURIComponent(document.context); 	if (document.mmm_fo) m3_u += '&mmm_fo=1'; 	var m3_ajs = document.createElement('script');m3_ajs.type = 'text/javascript';m3_ajs.async = true;m3_ajs.src = m3_u; 	(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(m3_ajs); })(); </p>
+<p> О проекте </p>
+<p> Архив </p>
+<p> Карта сайта </p>
+<p> RSS </p>
+<p> Контакты </p>
+<p> Вакансии </p>
+<p> РЕКЛАМА </p>
+<p> Форум </p>
+<p> Правда.ру в соцсетях: </p>
+<p> Нашли опечатку? Выделите ее мышкой и нажмите Ctrl+Enter </p>
+<p> Copyright © 1999-2013, технология и дизайн принадлежат ЗАО «Правда.Ру». </p>
+<p> Материалы сайта предназначены для лиц старше 18 лет (18+). </p>
+<p> Использование материалов сайта (распространение, воспроизведение, передача, перевод, переработка и др.) допускается только с письменного разрешения редакции. </p>
+<p> Мнения и взгляды авторов не всегда совпадают с точкой зрения редакции. </p>
+<p> (function (d, w, c) {     (w[c] = w[c] || []).push(function() {         try {             w.yaCounter11268325 = new Ya.Metrika({id:11268325,                     webvisor:true,                     clickmap:true,                     trackLinks:true,                     accurateTrackBounce:true});         } catch(e) { }     });      var n = d.getElementsByTagName("script")[0],         s = d.createElement("script"),         f = function () { n.parentNode.insertBefore(s, n); };     s.type = "text/javascript";     s.async = true;     s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";      if (w.opera == "[object Opera]") {         d.addEventListener("DOMContentLoaded", f, false);     } else { f(); } })(document, window, "yandex_metrika_callbacks"); </p>
+<p> var _gaq = _gaq || [];   _gaq.push(['_setAccount', 'UA-8933842-1']);   _gaq.push(['_trackPageview']);    (function() {     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);   })(); </p>
+<p> (function(L){if(typeof(ar_cn)=="undefined")ar_cn=1; var S='setTimeout(function(e){if(!self.CgiHref){document.close();e=parent.document.getElementById("ar_container_"+ar_bnum);e.parentNode.removeChild(e);}},3000);',     j=' type="text/javascript"',t=0,D=document,n=ar_cn;L+=escape(D.referrer||'unknown')+'&rnd='+Math.round(Math.random()*999999999); function _(){if(t++<100){var F=D.getElementById('ar_container_'+n);     if(F){try{var d=F.contentDocument||(window.ActiveXObject&&window.frames['ar_container_'+n].document);     if(d){d.write('<sc'+'ript'+j+'>var ar_bnum='+n+';'+S+'<\/sc'+'ript><sc'+'ript'+j+' src="'+L+'"><\/sc'+'ript>');t=0}     else setTimeout(_,100);}catch(e){try{F.src="javascript:{document.write('<sc'+'ript"+j+">var ar_bnum="+n+"; document.domain=\""     +D.domain+"\";"+S+"<\/sc'+'ript>');document.write('<sc'+'ript"+j+" src=\""+L+"\"><\/sc'+'ript>');}";return}catch(E){}}}else setTimeout(_,100);}} D.write('<div style="visibility:hidden;height:0px;left:-1000px;position:absolute;"><iframe id="ar_container_'+ar_cn     +'" width=1 height=1 marginwidth=0 marginheight=0 scrolling=no frameborder=0><\/iframe><\/div><div id="ad_ph_'+ar_cn     +'" style="display:none;"><\/div>');_();ar_cn++; })('http://ad.adriver.ru/cgi-bin/erle.cgi?sid=171112&target=top&bt=43&pz=0&tail256='); </p>
+<p> (function(){         document.MAX_used = document.MAX_used || ',';         var m3_u = (document.location.protocol=='https:'?'https://ads.targetix.net/al.php':'http://ads.targetix.net/al.php');         m3_u += '?zoneid=517&layerstyle=fullscreen&timeout=15&cb='+Math.random();         if (document.MAX_used != ',') m3_u += '&exclude=' + document.MAX_used;         m3_u += document.charset ? '&charset='+document.charset : (document.characterSet ? '&charset='+document.characterSet : '');         m3_u += '&loc=' + encodeURIComponent(window.location);         if (document.referrer) m3_u += '&referer=' + encodeURIComponent(document.referrer);         if (document.context) m3_u += '&context=' + encodeURIComponent(document.context);         if (document.mmm_fo) m3_u += '&mmm_fo=1';         document.write( unescape("%3Cscript%20type%3D%27text/javascript%27%20src%3D%27") + m3_u + unescape("%27%3E%3C/script%3E")); })(); </p>
+<p> if(document.location.protocol!='https:')   document.write(unescape("%3Cscript%20src='http://s.clicktale.net/WRb6.js'%20type='text/javascript'%3E%3C/script%3E")); </p>
+<p> if(typeof ClickTale=='function') ClickTale(10284,0.1,"www03"); </p>
+<p> var _MAIL = '!ohemp@ardv.aur'; </p>
+<p> function getLikeForm() {         if (!Cookie.get('likeUs')) {             new Ajax.Request('http://www.pravda.ru/?area=popupLikeUs', {                 method		: 'get',                 onComplete	: function(transport) {                     facebox.reveal(transport.responseText);                     Cookie.set('likeUs', 1, 3, '/', '.pravda.ru');                 }             });         }     }      addLoadEvent(         function() {             setTimeout('getLikeForm()', 10000);         }     ); </p>

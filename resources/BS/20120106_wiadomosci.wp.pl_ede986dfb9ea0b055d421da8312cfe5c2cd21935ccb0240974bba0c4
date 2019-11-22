@@ -1,0 +1,851 @@
+<p> Powitali Nowy Rok. Zobacz, gdzie jest już 2012 - Wiadomości - WP.PL </p>
+<p> <!-- //<![CDATA[ 			  var pp_gemius_identifier = 'B2abwmMQpKPP05jYFSgwi5ZVzSUppwL6WSSVYep_Uwf.Y7';   var pp_gemius_hitcollector = 'wp.hit.gemius.pl';   var wp_dot_type = 'click';   var wp_sn = 'wiadomosci';   var wp_fba = '1365575286.438';   var wp_wyszukajwwp = 1;   var wp_vm = 113; 			// ]]> --> </p>
+<p> <!-- <![CDATA[           var rekid="753";           function NPB() {}           function NJB() {return false;} // ]]> --> </p>
+<p> WP.$(window).load(function () { 		removeBoxesByPriority() 	}); </p>
+<p> wiadomości </p>
+<p> Poczta </p>
+<p> | </p>
+<p> TopNews </p>
+<p> | </p>
+<p> WP.PL na komórkę </p>
+<p> WP.homepagelink() </p>
+<p> NPB("002"); </p>
+<p> NPB("003"); </p>
+<p> NPB("009"); </p>
+<p> Strona główna </p>
+<p> Polska </p>
+<p> Wiadomości lokalne </p>
+<p> Świat </p>
+<p> Tylko w WP.PL </p>
+<p> Reporter WP24 </p>
+<p> Ciekawostki </p>
+<p> Nauka </p>
+<p> Przestępczość </p>
+<p> Media </p>
+<p> NPB("001"); </p>
+<p> NPB("014"); </p>
+<p> więcej </p>
+<p> Raporty specjalne: </p>
+<p> Katastrofa smoleńska </p>
+<p> Sprawa Madzi </p>
+<p> Papież </p>
+<p> Ustawa o związkach partnerskich </p>
+<p> Wielkanoc </p>
+<p> Ruch Palikota </p>
+<p> Więzienia CIA </p>
+<p> Najnowsze wiadomości: </p>
+<p> Yonhap: Phenian może wystrzelić kilka pocisków z różnych miejsc </p>
+<p> Najnowsze wiadomości: </p>
+<p> Tak Polska przeżywała katastrofę smoleńską - film </p>
+<p> Najnowsze wiadomości: </p>
+<p> Antoni Macierewicz: był wybuch ale czy zamach? </p>
+<p> Najnowsze wiadomości: </p>
+<p> Co trzeci Polak wierzy w zamach w Smoleńsku </p>
+<p> Najnowsze wiadomości: </p>
+<p> Mariusz Błaszczak: to jeden wielki skandal </p>
+<p> window._wpSocialQueue.p.push({ 			app: 'FB',   			pluginName: 'fbActivityBar', 			data: { 				recommendationsUrl: '/fbrecommendationsranking.json', 				box : WP.$('#fbActivityBar'), 				statisticsName : 'og_box1', 				lang : { 					aboutApp : 'Aplikacja <b>Informacje WP.PL</b> obejmuje aktywności z serwisów:  <ul>    <li>Wiadomości WP.PL</li>  <li>Kobieta WP.PL</li> <li>Sport WP.PL</li> </ul> Logując się do niej otrzymasz informacje o czytanych materiałach przez Twoich znajomych i Ciebie tylko z wyżej wymienionych serwisów.    ', 					aboutAppURL : '/', 					appName : 'wiadomości.wp.pl', 					reportURL : 'http://pomoc.wp.pl/serwis,Wiadomosci,typ,Uwaga,formularz.html'			 				} 			} 		}); </p>
+<p> window._wpSocialQueue.p.push({         			app: "FB",  			pluginName: "fbSendTimedAction",  				data: { 					acceptedDocumentTypes: "article", 					sendTimeout: 11, 					actionName: "news.reads", 					namespace: null				} 			}); </p>
+<p> Powitali Nowy Rok. Zobacz, gdzie jest już 2012 </p>
+<p> . </p>
+<p> IAR, PAP </p>
+<p> | </p>
+<p> dodane </p>
+<p> 2011-12-31 </p>
+<p> (12:34) </p>
+<p> window._wpSocialQueue.p.push({app: "FB", pluginName: "fbShareButton"}); </p>
+<p> window._wpSocialQueue.a.push('TWITTER'); </p>
+<p> window._wpSocialQueue.p.push({ app: "GPLUS", pluginName: "commonPlugins",data: {}}); </p>
+<p> zobacz galerię </p>
+<p> fot. PAP/EPA / Mick Tsikas </p>
+<p> Świat wita 2012 rok </p>
+<p> IDŹ DO OPINII </p>
+<p> IDŹ DO WIDEO </p>
+<p> IVONA Text To Speech </p>
+<p> //<![CDATA[ 			window.WebreaderAutoCreate = 0; 			window.WebreaderAsyncCommands = new Array(); 			window.WebreaderAsyncCommands.push(function(){  			// Metoda ta musi zostac wywolana przed Webreader.create() 			Webreader.config({  			// HTML przycisku ktory uaktywnia otwarzacz iWebReader  			// Mozna w to miejsce wstawic obrazek (IMG) lub pustego spana z odpowiednia klasa CSS 			// Wazne aby nie dodawac do obrazka zawartosci atrybutu alt="" a pozostawic ja pusta, 			// Powyzsze zalecenia sa rekomendowane dlatego ze skrypt automatycznie wstawia do linku 			// ukryty element zawierajacy opis linku dla screenreaderow. 			activationButton:'<span style="width:183px;float:left"><img src="http://i.wp.pl/a/i/wiadomosci/odsluchaj.png" alt="" style="float:right;" /></span>',  			// Sciezka do katalogu zawierajacego pliki webreadera 			wrHost:'http://i.wp.pl/a/i/wiadomosci/ivona/', 			// Relatywna sciezka wzgledem wrHost do pliku swf odtwarzacza webreader 			wrSwf:'wrswf.swf', 			// Relatywna sciezka wzgledem wrHost do pliku z jasnym gradientem  			lightBg:'wrlight.png', 			// Relatywna sciezka wzgledem wrHost do pliku z ciemnym gradientem 			darkBg:'wrdark.png',   			// Nie puszcza reqestu walidujacego przy kazdej odslonie strony	i powoduje domyslna walidacje odtarzaczy 			// W przypadku WP ten argument powinien byc zawsze ustawiony na false !!!  			performValidation:false  			});    			Webreader.create({ 			// Wyglad odtwarzacza flash (0,1,2) 			playerMode:1, 			// Id elementu do którego bedzie wstawiony odtwarzacz 			parentId:"ivonawebreader_1", 			// Kolor obramowania 			borColor:0xCCCCCC, 			// Kolor tla 			bgColor:0xFFFFFF, 			// Kolor przyciskow 			btnColor:0xc6131a, 			// Wyrownanie 0-do lewej 1-do prawej 			scrollMode:1, 			// Jezyk interfejsu 			lang:'pl', 			// Url do pliku audio   	 			soundUrl:escape("http://www.ivona.com/online/fileWebRead.php"+ 			// ID glosu 			"?v=2"+ 			// Klasa elementow ktore maja byc czytane 			"&dc=czytajto"+ 			// Klasa elementow ktore maja zostac pominiete 			"&sdc=nieczytaj"+ 			// Pomijaj elementy o tagu 			"&sde=div,table"+ 			// Glosnosc 			"&pv=100"+ 			// Predkosc 			"&pr=125"+ 			// ID uslugi 			"&i=fY46ytEacJ"+ 			// Url biezacej strony 			"&u="+escape(document.location.href))  			},26);  			}); 			//]]> </p>
+<p> Jako pierwsi rok 2012 powitali w sobotę o godz. 11 czasu polskiego mieszkańcy Samoa, wyspiarskiego państwa na południowym Pacyfiku. Następnie noworoczne toasty wznieśli mieszkańcy Nowej Zelandii, a później Australijczycy. </p>
+<p> Tłumy turystów i miejscowych uczestniczyły w noworocznych zabawach na Samoa, znajdując jeszcze jeden powód do świętowania - po raz pierwszy kraj ten witał Nowy Rok jako pierwszy na świecie, a nie ostatni. </p>
+<p> Wideo </p>
+<p> Tego się nie spodziewaliśmy. Tak politycy spędzą tę noc </p>
+<p> Czy politycy będą hucznie świętować wejście w Nowy Rok? Wcale nie! Większość z naszych rozmówców zostaje w domu, więcej, marzy o tym. </p>
+<p> Jest to spowodowane decyzją, by przejść na zachodnią stronę międzynarodowej linii zmiany daty, "gubiąc" dzień 30 grudnia. Ta zmiana została podyktowana względami gospodarczymi - dzięki przejściu z czwartku od razu w sobotę Samoa znalazła się w tej samej strefie czasowej, co jego kluczowi partnerzy handlowi tacy jak </p>
+<p> Australia </p>
+<p> czy </p>
+<p> Nowa Zelandia </p>
+<p> . Do tej pory przez różnicę w czasie każdego tygodnia Samoa traciło dwa dni handlowe. </p>
+<p> REKLAMA </p>
+<p> Czytaj dalej </p>
+<p> if(typeof isSrd05=='undefined'){NPB("005");} </p>
+<p> if (NJB('srodtekst') && typeof isSrd05=='undefined'){document.getElementById('rekSrd05').style.display='block';var isSrd05=true;} </p>
+<p> Nieco mniej hucznie rok 2012 witano w Nowej Zelandii, gdzie toasty wzniesiono w południe czasu polskiego. Ze względu na złą pogodę - ulewy i burze z piorunami - trzeba było odwołać pokazy sztucznych ogni m.in. w stolicy kraju, Wellington, i Mount Maunganui na Wyspie Północnej. Więcej szczęścia mieli mieszkańcy Auckland, którzy mogli podziwiać imponujący pokaz fajerwerków odpalanych ze słynnej Sky Tower. </p>
+<p> O godz. 14 czasu polskiego </p>
+<p> Nowy Rok </p>
+<p> przywitali Australijczycy. Ponad milion ludzi zebrał się na brzegu zatoki w Sydney, żeby podziwiać tradycyjny pokaz sztucznych ogni na tle Harbour Bridge. </p>
+<p> Galeria </p>
+<p> Wróżby na nowy rok </p>
+<p> Poznasz je na targowisku przepowiedni w Limie </p>
+<p> O 13:00 Nowy Rok rozpoczął się na rosyjskiej Kamczatce, a o 14:00 w Australii. O 16:00 czasu środkowoeuropejskiego świętować zaczynają mieszkańcy Tokio, a godzinę później - w Pekinie. Dwie godziny przed Polską korki szampana wystrzelą w Moskwie. </p>
+<p> W wielu miejscach na zachód od naszego kraju, Nowy Rok zostanie przywitany już po północy czasu środkowoeuropejskiego. </p>
+<p> Najpóźniej Nowy Rok będą obchodzić między innymi mieszkańcy Hawajów - jutro o 11:00 naszego czasu oraz wyspy Tutuila na Oceanie Spokojnym - o 12:00. </p>
+<p> // <![CDATA[ 			var pollChecked = false; 			// ]]> </p>
+<p> Ankieta </p>
+<p> Co sobie postanawiasz na 2012 rok? </p>
+<p> Rzucę palenie </p>
+<p> Schudnę </p>
+<p> Zmienię pracę </p>
+<p> Będę lepszy dla innych </p>
+<p> Będę bardziej doceniać żonę/męża </p>
+<p> Zrealizuję podróż życia </p>
+<p> Będę mieć dziecko </p>
+<p> Kupię mieszkanie/samochód </p>
+<p> Rozwiodę się </p>
+<p> Inne </p>
+<p> Nie mam żadnego postanowienia </p>
+<p> zobacz wyniki » </p>
+<p> (db,  kab) </p>
+<p> <!-- 			if (typeof(PWA_Itxt) == "undefined"){                         	PWA_Itxt = false; 			}  			if(PWA_Itxt!=true){                         	document.write('<scr' + 'ipt type="text/javascript"' + ' src="http://adsearch.adkontekst.pl/akon/intext_spliter?prid=3&caid=102430&form=9044:0:I&ns=' + (new Date()).getTime() + '"' + '></' + 'script>'); 			} 			//--> </p>
+<p> Polub </p>
+<p> wiadomości.wp.pl </p>
+<p> na Facebooku </p>
+<p> window._wpSocialQueue.p.push({ app: "FB", pluginName: "fbFanpageLikeBox" }); </p>
+<p> TopNews - najpopularniejsze materiały WP.PL </p>
+<p> TAGI: </p>
+<p> nowy rok </p>
+<p> , </p>
+<p> sylwester </p>
+<p> , </p>
+<p> zabawa </p>
+<p> , </p>
+<p> nowa zelandia </p>
+<p> , </p>
+<p> karibati </p>
+<p> , </p>
+<p> pacyfik </p>
+<p> , </p>
+<p> australia </p>
+<p> oceń </p>
+<p> tak </p>
+<p> 96 </p>
+<p> 89.72% </p>
+<p> nie </p>
+<p> 11 </p>
+<p> 10.28% </p>
+<p> window._wpSocialQueue.p.push({ 				app: "FB", 				pluginName: "wpVoteBox", 				data: { 					box: WP.$(".stampOcen") 				} 			}); </p>
+<p> window._wpSocialQueue.p.push({app: "FB", pluginName: "fbShareButton"}); </p>
+<p> window._wpSocialQueue.a.push('TWITTER'); </p>
+<p> window._wpSocialQueue.p.push({ app: "GPLUS", pluginName: "commonPlugins",data: {}}); </p>
+<p> <!-- <![CDATA[  	if (typeof ENTRY_HIT == "undefined") { 		var ENTRY_HIT = ''; 	} 	 	ENTRY_HIT = '&serwishit=653&typehit=article&entryhit=14128342'; // ]]> --> </p>
+<p> Przeczytaj też </p>
+<p> Mieszkańcy Chicago powitali Nowy Rok </p>
+<p> dodane </p>
+<p> 2012-01-01 </p>
+<p> (14:23) </p>
+<p> Miała być szalona zabawa - utknęli w środku nocy w górach </p>
+<p> dodane </p>
+<p> 2012-01-01 </p>
+<p> (10:20) </p>
+<p> Tragiczny bilans Sylwestra: pożary, 4 osoby nie żyją </p>
+<p> aktualizacja </p>
+<p> 2012-01-01 </p>
+<p> (10:27) </p>
+<p> Mamy 2012 rok! Tak bawili się Polacy </p>
+<p> aktualizacja </p>
+<p> 2012-01-01 </p>
+<p> (04:56) </p>
+<p> Tusk złożył życzenia Polakom. Śmieszna wpadka kancelarii </p>
+<p> dodane </p>
+<p> 2011-12-31 </p>
+<p> (08:15) </p>
+<p> Muzyka pop dla żyraf - to działa w sylwestrową noc </p>
+<p> dodane </p>
+<p> 2011-12-30 </p>
+<p> (19:45) </p>
+<p> "Zakopianka" zakorkowana; tłumy jadą świętować </p>
+<p> aktualizacja </p>
+<p> 2011-12-30 </p>
+<p> (17:55) </p>
+<p> Szalony Sylwester za darmo? Takie cuda się zdarzają </p>
+<p> dodane </p>
+<p> 2011-12-30 </p>
+<p> (09:15) </p>
+<p> W czerwonych majtkach strzelają "bombami bin Ladena" </p>
+<p> dodane </p>
+<p> 2011-12-28 </p>
+<p> (10:48) </p>
+<p> W innych </p>
+<p> serwisach </p>
+<p> Pytamy.pl: </p>
+<p> Szczśliwego Nowego Roku!!! Przyłączycie się do życzeń ? </p>
+<p> Bloog.pl: </p>
+<p> Nowy Rok </p>
+<p> try { 					var params = "sn=" + wp_sn; 					params += "&c=wiadomosci"; 					params += "&s="; 					params += "&v=wiadomosc.html"; 					params += "&h1=pytamy.pl&r1=pytania"; 					params += "&h2=bloog.pl&r2=posty"; 					WP.stat.eventShow("srv=sowa&action=show&par=" + encodeURIComponent(params)); 				} catch (ex) {} </p>
+<p> Czekamy na Twoje zgłoszenie! </p>
+<p> Byłeś świadkiem lub uczestnikiem ważnego zdarzenia? Poinformuj Internautów o tym, co dzieje się w Polsce, na świecie, w Twojej okolicy! </p>
+<p> Wyślij nam  zdjęcie, film lub artykuł! </p>
+<p> Najciekawsze opublikujemy! </p>
+<p> <!-- if (typeof(PWA_Itxt) == "undefined"){         PWA_Itxt = false; }  if(PWA_Itxt!=true){         document.write('<scr' + 'ipt type="text/javascript"' + ' src="http://adsearch.adkontekst.pl/_/ads0/?QAPS_AKPL=--3-95314-#12077--&noChache=false' + '"' + '></' + 'script>'); } //--> </p>
+<p> //<![CDATA[ 	WP.dmodule('opinie v3'); //]]> </p>
+<p> Opinie (135) </p>
+<p> //<![CDATA[ window._wpSocialQueue.p.push({ 	app : 'FB', 	pluginName : 'fbComments', 	data : { 		acceptedDocumentTypes : 'article', 		actionName : 'comment', 		namespace : -1	} }); //]]> </p>
+<p> Nick </p>
+<p> Masz konto na WP.PL? </p>
+<p> Zaloguj się </p>
+<p> Nie masz konta? Załóż konto! </p>
+<p> Twój podpis: </p>
+<p> zmień swój podpis </p>
+<p> | </p>
+<p> wyloguj się </p>
+<p> ...lub dodaj opinię anonimowo </p>
+<p> Twoja opinia </p>
+<p> Opublikuj na Facebooku </p>
+<p> Pozostało znaków: </p>
+<p> 4000 </p>
+<p> REGULAMIN </p>
+<p> Akceptuję </p>
+<p> regulamin </p>
+<p> zamieszczania opinii w serwisie i wyrażam zgodę na przetwarzanie przez Wirtualną Polskę S.A. moich danych osobowych dla celów związanych z zamieszczeniem mojej opinii w serwisie. </p>
+<p> Wirtualna Polska S.A. </p>
+<p> w Gdańsku informuje, że zgodnie z art. 24 ust. 1 pkt 3 i 4 ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych, podanie danych jest dobrowolne, a ponadto Użytkownikowi przysługuje prawo dostępu do treści swoich danych oraz ich poprawiania. </p>
+<p> ostatnio aktywne | </p>
+<p> najnowsze </p>
+<p> | </p>
+<p> najstarsze </p>
+<p> | </p>
+<p> najczęściej oceniane </p>
+<p> | </p>
+<p> najczęściej odpowiadane </p>
+<p> 0 </p>
+<p> 0 </p>
+<p> ~ </p>
+<p> olek </p>
+<p> [2012-01-01 01:08] </p>
+<p> Wrocław,Warszawa i widać jak Poska cofnęła się kilkadziesiąt lat do tyłu a wszystko starostwo a Rodowicz -typowy cyborg i stara pokraka chce udawać Dodę ale nie te lata ale hańba </p>
+<p> odpowiedz </p>
+<p> 0 </p>
+<p> 3 </p>
+<p> ~ </p>
+<p> Kanadyjczyk </p>
+<p> [2011-12-31 19:49] </p>
+<p> Hej czy ktoś może mi napisać czy rzeczywiście 2012 to początek końca świata? bo w Kanadzie Nowy Rok jest dopiero o 8.00 polskiego czasu :D </p>
+<p> odpowiedz </p>
+<p> pokaż </p>
+<p> 5 </p>
+<p> ukrytych odpowiedzi </p>
+<p> 0 </p>
+<p> 0 </p>
+<p> ~ </p>
+<p> sonnia13 </p>
+<p> [2011-12-31 20:31] </p>
+<p> @Kanadyjczyk </p>
+<p> ^ </p>
+<p> Hej nie wierz we wszystko co mówią. Ja już nie jeden koniec świata przeżyłam i jakoś jeszcze chodzę. </p>
+<p> odpowiedz </p>
+<p> 0 </p>
+<p> 0 </p>
+<p> ~ </p>
+<p> sonnia13 </p>
+<p> [2011-12-31 20:31] </p>
+<p> @Kanadyjczyk </p>
+<p> ^ </p>
+<p> Hej nie wierz we wszystko co mówią. Ja już nie jeden koniec świata przeżyłam i jakoś jeszcze chodzę. </p>
+<p> odpowiedz </p>
+<p> 0 </p>
+<p> 0 </p>
+<p> ~ </p>
+<p> alicja </p>
+<p> [2011-12-31 22:30] </p>
+<p> @Kanadyjczyk </p>
+<p> ^ </p>
+<p> pomyliles sie dosc duzo z godzinami. poniewaz  w Kanadzie bedzie nowy rok jak w Polcse bedzie 6 rano ( niedziela) </p>
+<p> odpowiedz </p>
+<p> 0 </p>
+<p> 0 </p>
+<p> ~ </p>
+<p> Calgaryjczyk </p>
+<p> [2011-12-31 23:02] </p>
+<p> @alicja </p>
+<p> ^ </p>
+<p> alicja , Kanadyjczyk nie pomylil sie.6 rano bedzie w Toronto , 8 rano w Calgary , 9 w Vancouver  - a wszystko to Kanada ..../ </p>
+<p> odpowiedz </p>
+<p> 0 </p>
+<p> 0 </p>
+<p> ~ </p>
+<p> ari </p>
+<p> [2012-01-01 00:44] </p>
+<p> @Kanadyjczyk </p>
+<p> ^ </p>
+<p> KONIEC ŚWIATA TO ŚWIĘTO RUCHOME :D </p>
+<p> odpowiedz </p>
+<p> 13 </p>
+<p> 4 </p>
+<p> ~ </p>
+<p> Aga </p>
+<p> [2011-12-31 17:34] </p>
+<p> Z czego sie cieszycie ze za pasem koniec  swiata  :) </p>
+<p> odpowiedz </p>
+<p> pokaż </p>
+<p> 3 </p>
+<p> ukryte odpowiedzi </p>
+<p> 3 </p>
+<p> 0 </p>
+<p> ~ </p>
+<p> Ja </p>
+<p> [2011-12-31 18:21] </p>
+<p> @Aga </p>
+<p> ^ </p>
+<p> no ja akurat sie z tego ciesze ;] </p>
+<p> odpowiedz </p>
+<p> 1 </p>
+<p> 0 </p>
+<p> ~ </p>
+<p> TaK </p>
+<p> [2011-12-31 21:06] </p>
+<p> @Ja </p>
+<p> ^ </p>
+<p> Ja też, nie mam nic do stracenia. Nie mam ukochanej- nie chciała mnie :( Dla mnie koniec świata byłby przysługą. </p>
+<p> odpowiedz </p>
+<p> 1 </p>
+<p> 0 </p>
+<p> ~ </p>
+<p> Anna </p>
+<p> [2012-01-01 00:40] </p>
+<p> @Aga </p>
+<p> ^ </p>
+<p> NIE BĘDZIE KOŃCA ŚWIATA! Tylko nasza planeta - Ziemia wejdzie w 4 gęstość. Ta gęstość jest wibracyjnym spektrum. Nasze kontinuum czasu/przestrzeni wprawiło nasz system słoneczny w ruch spiralny w kierunku wibracji. To spowoduje, że sama planeta ponownie zjednoczy elektromagnetyczne wiry odbioru dopływu sił kosmicznych, wyrażające siebie jako wibracyjne sieci, tak że Ziemia będzie magnetyzującą 4 gęstością. I zapewniam, że to nie są żadne        czary-mary, ani apokaliptyczne wróżbiarstwo :) </p>
+<p> odpowiedz </p>
+<p> 0 </p>
+<p> 0 </p>
+<p> ~ </p>
+<p> ja </p>
+<p> [2011-12-31 23:55] </p>
+<p> ARTUR oskarżam cię o łez strumienie, osamotnienie, zdradę, smutek oskarżam cię o to cierpienie .... oskarżam cię, oskarżam cię o koszmar </p>
+<p> odpowiedz </p>
+<p> 0 </p>
+<p> 0 </p>
+<p> ~ </p>
+<p> ja </p>
+<p> [2011-12-31 23:55] </p>
+<p> ARTUR oskarżam cię o łez strumienie, osamotnienie, zdradę, smutek, rozdarcie, oskarżam cię o to cierpienie .... oskarżam cię, oskarżam cię o podłość jaką mi zgotowałeść </p>
+<p> odpowiedz </p>
+<p> 15 </p>
+<p> 2 </p>
+<p> ~ </p>
+<p> Orson </p>
+<p> [2011-12-31 17:31] </p>
+<p> Pozdrowienia z Sydney dla Polski i Polakow.... Trzymajcie sie w 2012.... Najlepszego.... </p>
+<p> odpowiedz </p>
+<p> pokaż </p>
+<p> 5 </p>
+<p> ukrytych odpowiedzi </p>
+<p> 2 </p>
+<p> 0 </p>
+<p> ~ </p>
+<p> sonnia13 </p>
+<p> [2011-12-31 19:10] </p>
+<p> @Orson </p>
+<p> ^ </p>
+<p> No to pozdrawiam z Polski.Co prawda nie śnieżnej jak to kiedyś bywało,ale deszczowej.I szczęśliwego Nowego Roku ci życzę. </p>
+<p> odpowiedz </p>
+<p> 0 </p>
+<p> 0 </p>
+<p> ~ </p>
+<p> Orson </p>
+<p> [2011-12-31 20:22] </p>
+<p> @sonnia13 </p>
+<p> ^ </p>
+<p> Dziekuje, i nawzajem (*_*) </p>
+<p> odpowiedz </p>
+<p> 0 </p>
+<p> 0 </p>
+<p> ~ </p>
+<p> sonnia13 </p>
+<p> [2011-12-31 22:15] </p>
+<p> @Orson </p>
+<p> ^ </p>
+<p> Trochę zazdroszczę ci tej pogody tam. Ciepełko nie trzeba w piecu palić.Ale nie ma tego złego co by na dobre nie wyszło. Każdy klimat ma plusy i minusy.W cieplejszym klimacie brakowałoby mi śniegu,którego ostatnio mało i zmian pór roku. Pozdrawiam </p>
+<p> odpowiedz </p>
+<p> 0 </p>
+<p> 0 </p>
+<p> ~ </p>
+<p> sonnia13 </p>
+<p> [2011-12-31 22:15] </p>
+<p> @Orson </p>
+<p> ^ </p>
+<p> Trochę zazdroszczę ci tej pogody tam. Ciepełko nie trzeba w piecu palić.Ale nie ma tego złego co by na dobre nie wyszło. Każdy klimat ma plusy i minusy.W cieplejszym klimacie brakowałoby mi śniegu,którego ostatnio mało i zmian pór roku. Pozdrawiam </p>
+<p> odpowiedz </p>
+<p> 0 </p>
+<p> 0 </p>
+<p> ~ </p>
+<p> JP </p>
+<p> [2011-12-31 22:35] </p>
+<p> @sonnia13 </p>
+<p> ^ </p>
+<p> Pozdrawiam z Coogee. </p>
+<p> odpowiedz </p>
+<p> 0 </p>
+<p> 2 </p>
+<p> ~ </p>
+<p> Trudne </p>
+<p> [2011-12-31 22:10] </p>
+<p> Hepi Berziej </p>
+<p> odpowiedz </p>
+<p> 0 </p>
+<p> 1 </p>
+<p> ~ </p>
+<p> s </p>
+<p> [2011-12-31 21:58] </p>
+<p> Czy od Nowego Roku chciałbyś wreszcie się dorobić? Masz dość upierdliwego szefa i badziewnej pensji? Chcesz nareszcie wziąć sprawy w swoje ręce? Już teraz odwiedź www.wkasie.pl i dowiedz się jak to zrobić. Twoja przyszłość zależy wyłącznie od Ciebie! </p>
+<p> odpowiedz </p>
+<p> 1 </p>
+<p> 0 </p>
+<p> ~ </p>
+<p> Grujdzi </p>
+<p> [2011-12-31 21:42] </p>
+<p> Panowie Redaktorzy! Czas sie dowiedzieć,ze Rosja decyzja premiera nie zmieniła czasu na zimowy w pazdzierniku i korki szampana w Moskwie juz wystrzeliły!3godziny zima nas teraz dzielą od Moskwy. </p>
+<p> odpowiedz </p>
+<p> 7 </p>
+<p> 4 </p>
+<p> ~ </p>
+<p> papi </p>
+<p> [2011-12-31 18:01] </p>
+<p> Ale to skurwiele z TVN-U,DZISIAJ DUZA OGLĄDALNOŚĆ więc wyłączyli kanały- TO TYLKO POSKIE KANALIE POTRAFIĄ TAKI GNÓJ W STARY ROK ZROBIĆ;;i po co ja do tej sranej Polski przyjechałem </p>
+<p> odpowiedz </p>
+<p> pokaż </p>
+<p> 4 </p>
+<p> ukryte odpowiedzi </p>
+<p> 0 </p>
+<p> 0 </p>
+<p> ~ </p>
+<p> hmm </p>
+<p> [2011-12-31 19:51] </p>
+<p> @papi </p>
+<p> ^ </p>
+<p> jakie kanały?!!! </p>
+<p> odpowiedz </p>
+<p> 0 </p>
+<p> 0 </p>
+<p> ~ </p>
+<p> sonnia13 </p>
+<p> [2011-12-31 20:26] </p>
+<p> @hmm </p>
+<p> ^ </p>
+<p> Pewnie ojca założyciela czyli trwam. </p>
+<p> odpowiedz </p>
+<p> 0 </p>
+<p> 0 </p>
+<p> ~ </p>
+<p> tiger man </p>
+<p> [2011-12-31 20:39] </p>
+<p> @papi </p>
+<p> ^ </p>
+<p> To chyba twoja kablówka szwankuje.Oglądaj tv trwam,to się dowiesz po co i do kogo . </p>
+<p> odpowiedz </p>
+<p> 0 </p>
+<p> 0 </p>
+<p> ~ </p>
+<p> tiger man </p>
+<p> [2011-12-31 20:54] </p>
+<p> @hmm </p>
+<p> ^ </p>
+<p> On ma "kablufke" </p>
+<p> odpowiedz </p>
+<p> 6 </p>
+<p> 2 </p>
+<p> ~ </p>
+<p> Hawajka </p>
+<p> [2011-12-31 17:45] </p>
+<p> Nie  Hawajów a Hawai'i!  Najpóźniej Nowy Rok zawsze  obchodzą mieszkańcy Hawai'i - jutro o 11:00  czasu Polskiego. </p>
+<p> odpowiedz </p>
+<p> pokaż </p>
+<p> 2 </p>
+<p> ukryte odpowiedzi </p>
+<p> 0 </p>
+<p> 0 </p>
+<p> ~ </p>
+<p> Hawajajczyk </p>
+<p> [2011-12-31 18:56] </p>
+<p> @Hawajka </p>
+<p> ^ </p>
+<p> Tak, na pewno. Polecam powrót do szkoły podstawowej. </p>
+<p> odpowiedz </p>
+<p> 0 </p>
+<p> 0 </p>
+<p> ~ </p>
+<p> tiger man </p>
+<p> [2011-12-31 20:44] </p>
+<p> @Hawajka </p>
+<p> ^ </p>
+<p> Fotyga to sprawdzi. </p>
+<p> odpowiedz </p>
+<p> 1 </p>
+<p> 0 </p>
+<p> ~ </p>
+<p> to ja </p>
+<p> [2011-12-31 18:15] </p>
+<p> Jeżeli chodzi o ścisłość to w Moskwie powitają Nowy Rok trzy (3) godziny wcześniej . </p>
+<p> odpowiedz </p>
+<p> pokaż </p>
+<p> 1 </p>
+<p> ukrytą odpowiedź </p>
+<p> 0 </p>
+<p> 0 </p>
+<p> ~ </p>
+<p> tiger man </p>
+<p> [2011-12-31 20:42] </p>
+<p> @to ja </p>
+<p> ^ </p>
+<p> Macierewicz to wyjaśni dlaczego . </p>
+<p> odpowiedz </p>
+<p> 1 </p>
+<p> 0 </p>
+<p> ~ </p>
+<p> D.M. </p>
+<p> [2011-12-31 20:30] </p>
+<p> Omyłka: w Moskwie Nowy Rok będzie o 3 (a nie o 2, jak tu napisano) godziny wcześniej, niż w Polsce. To wskutek skasowania w Rosji sezonowych zmian czasu pozostając z takim czasem, jaki był latem. </p>
+<p> odpowiedz </p>
+<p> 2 </p>
+<p> 1 </p>
+<p> ~ </p>
+<p> z Bangkoku </p>
+<p> [2011-12-31 20:26] </p>
+<p> Pozdrowienia i wszystkiego najlepszego w Nowym Roku z Tajlandii! </p>
+<p> odpowiedz </p>
+<p> 3 </p>
+<p> 3 </p>
+<p> ~ </p>
+<p> myślnanowyrok </p>
+<p> [2011-12-31 19:48] </p>
+<p> Sylwester to nie tylko szaleństwa i noworoczne toasty, ale także smutne Polaków rozmowy. I tych starych, i tych młodych. To rozmowy o tym, co się wydarzy, co robić dalej, dlaczego zawodzi polska demokracja. Nadwiślańska demokracja wolnorynkowa jest skutecznym i humanitarnym sposobem degeneracji, sterylizacji i eksterminacji rodzaju ludzkiego. Odrzuciła ona nie tylko rozszerzoną, ale nawet prostą reprodukcję ludności. Ten supernowoczesny ustrój już w niedalekiej przyszłości zastąpi roboli robotami. Nie ma tu miejsca na planowanie gospodarcze, ale jest trwałe strukturalne bezrobocie, które zawdzięczamy okrągłostołowej Balcerowiczowskiej transformacji. Istnienie w Polsce potężnej rezerwowej armii pracy służy depopulacji i zdaniem ojców polskiej demokracji gwarantuje stały wzrost  dobrobytu i sprawiedliwości. W rezultacie młodzi ludzie udają się masowo na saksy, ale nie szkodzi to naszemu kapitalizmowi, bo nadal około 40% absolwentów nie ma pracy. Oznacza to dla wielu młodych ludzi niemożność zakładania rodzin, podczas gdy rodziny wielodzietne cierpią dotkliwą nędzę, otaczane są społeczną i medialną pogardą oraz określane jako patologiczne. Starsze pokolenie jest nie tylko wypychane na bezrobocie lub do niedawna na przyśpieszoną emeryturę, ale w coraz większym stopniu pozbawiane opieki lekarskiej, której koszty stale rosną. Po transformacji wzrasta nieustannie śmiertelność powodowana wypadkami drogowymi i samobójstwami. Wszystko to sprawia, że zgony przeważają nad urodzeniami, podczas gdy dane dotyczące emigracji są brane z sufitu i świadomie zaniżane, aby tworzyć pozory, że wyludniane jest powolne i nie szkodzi narodowi. Z tej przyczyny nie należy oczekiwać  szybkiego i pełnego zreferowania wyników (nierzetelnie przeprowadzonego) spisu powszechnego z czerwca 2011 roku. Polska wymiera i czas już zmienić tekst polskiego hymnu, aby nie wystawiać na pośmiewisko bezzębnych starców, którzy umierać będą za jakieś 100-150 lat jako ostatni przedstawiciele naszej nacji w euroregionie zwanym Polską. Emigracja wiąże się z wynarodowieniem. W przeszłości Polacy bardzo się martwili germanizacją czy rusyfikacją. Teraz to już nie rajcuje, bo wynarodowienie zachodzi poza granicami kraju, podczas gdy emigracja jest postrzegana przez polską klasę próżniaczą jako zjawisko pozytywne. I tu ciekawostka. W Niemczech kursy języka niemieckiego dla zatrudnianych tam Polaków są dotowane przez państwo i pracodawców. W Anglii naukę angielskiego oferowano dotąd polskim imigrantom aktywnie poszukującym pracy i  na zasiłku dla bezrobotnych za darmo, ale dotacje na te kursy mają wkrótce obciąć. Młodzi Polacy, pozbądźcie się więc złudzeń na lepsze życie w kraju, nie czekajcie na kolejne reformy, lecz czym prędzej wyjeżdżajcie do Niemiec, na Wyspy lub do krajów skandynawskich, aby tam się rozmnażać i żyć lepiej, skoro ojczyzna jest dla was macochą i robi z was wykastrowanych niewolników. Życzę Wam hartu ducha na obczyźnie. Pamiętajcie, że w Polsce uważają Was za nierobów i nędzarzy, którzy chcą żyć kosztem zdrowej moralnie, bogatej i pracowitej części społeczeństwa. Choć żal wam ojców i matek, nie oglądajcie się za siebie, jeśli chcecie przetrwać w potomstwie. Nie traćcie czasu, bo rok 2012 będzie jeszcze trudniejszy. </p>
+<p> odpowiedz </p>
+<p> pokaż </p>
+<p> 1 </p>
+<p> ukrytą odpowiedź </p>
+<p> 1 </p>
+<p> 0 </p>
+<p> ~ </p>
+<p> Anonim </p>
+<p> [2011-12-31 20:21] </p>
+<p> @myślnanowyrok </p>
+<p> ^ </p>
+<p> Bardzo trafne i wcale nie wyolbrzymione uwagi o naszym państwie. Jedynie przyczyny tego stanu rzeczy nie wiem jak mam rozumieć. Naród chciał demokracji a ona zawsze musi się wiązać z wolnością gospodarczą czyli wolnym rynkiem czytaj kapitalizmem. Więc można powiedzieć że naród tego chciał co ma. </p>
+<p> odpowiedz </p>
+<p> 0 </p>
+<p> 0 </p>
+<p> ~ </p>
+<p> htjghgh </p>
+<p> [2011-12-31 20:14] </p>
+<p> zallllllllllllll .  u nas dzisssssssssssss </p>
+<p> odpowiedz </p>
+<p> 4 </p>
+<p> 3 </p>
+<p> ~ </p>
+<p> Pro-PiS-owiec </p>
+<p> [2011-12-31 20:14] </p>
+<p> Prawdziwi PiS-owcy nigdzie dziś się nie bawią.Wspominają Prezydenta i pozostałych prawdziwych Polaków.Kto baluje-ten fałszem jest podszyty i karierowicz z niego. </p>
+<p> odpowiedz </p>
+<p> 61 </p>
+<p> 7 </p>
+<p> ~ </p>
+<p> Gucio </p>
+<p> [2011-12-31 14:49] </p>
+<p> Jestem w Sydney, tez juz mamy NOWY ROK. Widok na Opere oraz Most z 45 pietra wierzowca byl NIESAMOWITY. !!!! pozdrowienia oraz Najlepszego wo 2012 </p>
+<p> odpowiedz </p>
+<p> pokaż </p>
+<p> 4 </p>
+<p> ukryte odpowiedzi </p>
+<p> 8 </p>
+<p> 0 </p>
+<p> ~ </p>
+<p> Guciu_2 </p>
+<p> [2011-12-31 15:38] </p>
+<p> @Gucio </p>
+<p> ^ </p>
+<p> !Wieżowiec. Ale reszta jest niesamowita. </p>
+<p> odpowiedz </p>
+<p> 0 </p>
+<p> 0 </p>
+<p> ~ </p>
+<p> gucio </p>
+<p> [2011-12-31 16:03] </p>
+<p> @Guciu_2 </p>
+<p> ^ </p>
+<p> thanks (*_^) </p>
+<p> odpowiedz </p>
+<p> 0 </p>
+<p> 0 </p>
+<p> ~ </p>
+<p> sonnia13 </p>
+<p> [2011-12-31 19:34] </p>
+<p> @Gucio </p>
+<p> ^ </p>
+<p> No to pozdro z Polski i szczęśliwego Nowego 2012 Roku </p>
+<p> odpowiedz </p>
+<p> 0 </p>
+<p> 1 </p>
+<p> ~ </p>
+<p> orto </p>
+<p> [2011-12-31 20:09] </p>
+<p> @Gucio </p>
+<p> ^ </p>
+<p> Polska pozdrawia analfabetów z Sydney ! </p>
+<p> odpowiedz </p>
+<p> 2 </p>
+<p> 0 </p>
+<p> ~ </p>
+<p> sonnia13 </p>
+<p> [2011-12-31 20:08] </p>
+<p> A ja życzę wszystkim Polakom na ten Nowy Rok pogody ducha,tolerancji dla wszystkich i optymizmu.Więc szczęśliwego Nowego 2012 Roku </p>
+<p> odpowiedz </p>
+<p> 0 </p>
+<p> 0 </p>
+<p> ~ </p>
+<p> lll Reicher O.S. </p>
+<p> [2011-12-31 20:08] </p>
+<p> tylu polakov zamieszkuje juz w angli,anglicy nie strzelaja petardami na sylwestra,macie pojecie co bedzie za piedziesiat lat hm... przyjedzcie do wschodniego Reichu przekonacie sie </p>
+<p> odpowiedz </p>
+<p> 1 </p>
+<p> 2 </p>
+<p> 3 </p>
+<p> 4 </p>
+<p> następna </p>
+<p> » </p>
+<p> Szukaj w serwisie </p>
+<p> WP.$('#queryForm').submit(function () { 				var input = WP.$(this).children('input[name=query]')[0]; 				if ('' == input.value) 					return false; 			}); </p>
+<p> Bądź z nami na bieżąco </p>
+<p> window._wpSocialQueue.a.push('FB'); </p>
+<p> Facebook </p>
+<p> X </p>
+<p> window._wpSocialQueue.a.push('GPLUS'); </p>
+<p> Google Plus </p>
+<p> X </p>
+<p> RSS </p>
+<p> mobile </p>
+<p> window._wpSocialQueue.p.push({ 				app: "WP", 				pluginName: "wpJoinUs", 				data: { 					headerText: null, 					box : WP.$(".wpSocial-joinus"), 					termsSelector : ".regulamin", 					termsUrl : null				}} 			); </p>
+<p> NPB("034"); </p>
+<p> NPB("037"); </p>
+<p> Najważniejsze </p>
+<p> wiadomości </p>
+<p> Największe kontrowersje katastrofy smoleńskiej </p>
+<p> dodane </p>
+<p> 1 godzinę i 48 minut </p>
+<p> temu </p>
+<p> Tak Polska przeżywała katastrofę smoleńską - film </p>
+<p> dodane </p>
+<p> 29 minut </p>
+<p> temu </p>
+<p> Premier: przyjdzie taki dzień, gdy katastrofa smoleńska nie będzie dzieliła Polaków </p>
+<p> dodane </p>
+<p> 1 godzinę i 58 minut </p>
+<p> temu </p>
+<p> Yonhap: Phenian może wystrzelić kilka pocisków z różnych miejsc </p>
+<p> dodane </p>
+<p> 29 minut </p>
+<p> temu </p>
+<p> W Smoleńsku i Katyniu oddadzą hołd Polakom </p>
+<p> dodane </p>
+<p> (04:46) </p>
+<p> MON rozważa przywrócenie przedwojennych stopni wojskowych </p>
+<p> dodane </p>
+<p> (04:50) </p>
+<p> więcej wiadomości </p>
+<p> Raporty specjalne </p>
+<p> 01. </p>
+<p> Katastrofa smoleńska </p>
+<p> 02. </p>
+<p> Sprawa Madzi </p>
+<p> 03. </p>
+<p> Papież </p>
+<p> 04. </p>
+<p> Ustawa o związkach partnerskich </p>
+<p> 05. </p>
+<p> Wielkanoc </p>
+<p> wszystkie raporty </p>
+<p> Galerie </p>
+<p> Martwe noworodki znalezione w Lubawie </p>
+<p> Film "Prezydent" </p>
+<p> Wiosenne roztopy </p>
+<p> Działaczki Femenu zaskoczyły Władimira... </p>
+<p> dodaj zdjęcie </p>
+<p> więcej galerii </p>
+<p> Wideo </p>
+<p> Tak Polska przeżywała katastrofę smoleńską - film </p>
+<p> Premier Donald Tusk: przyjdzie taki dzień, gdy katastrofa smoleńska nie będzie dzieliła Polaków </p>
+<p> Zagadkowa śmierć laureata Nagrody Nobla Pabla Nerudy - film </p>
+<p> Ratownicy uratowali 4-latkę, która wpadła do studni - film </p>
+<p> dodaj film </p>
+<p> więcej filmów </p>
+<p> NPB("010"); </p>
+<p> NPB("011"); </p>
+<p> NPB("017"); </p>
+<p> NPB("018"); </p>
+<p> chcę wysłać </p>
+<p> Zrobiłeś unikalne zdjęcie, </p>
+<p> napisałeś ciekawą </p>
+<p> wiadomość? </p>
+<p> Wyślij je do nas lub załóż </p>
+<p> własne konto, na którym </p>
+<p> je opublikujesz. </p>
+<p> Najlepsze materiały </p>
+<p> publikujemy na stronie głównej serwisu. </p>
+<p> Ostatnio dodane przez </p>
+<p> reporterów </p>
+<p> WP24 </p>
+<p> Woda - wątpliwy sposób na rachunek za śmieci </p>
+<p> dodane przez: evak, mj </p>
+<p> Prognoza pogody </p>
+<p> dodane przez: Internauta WP24 </p>
+<p> więcej </p>
+<p> Tylko w WP.PL </p>
+<p> Gra wokół katastrofy smoleńskiej, o co chodzi rosyjskim władzom? </p>
+<p> Prof. Wawrzyniec Konarski o Margaret Thatcher: oto dlaczego wzbudza kontrowersje </p>
+<p> Cezary Gmyz: zapis czarnych skrzynek mógł być zmanipulowany </p>
+<p> więcej </p>
+<p> <!-- // <![CDATA[ WiadLokalneMiasta = {1019391:"Białystok", 1019389:"Bydgoszcz, Toruń", 1019379:"Gdańsk", 1019381:"Gorzów Wlkp., Zielona Góra", 1019409:"Katowice", 1019405:"Kielce", 1019401:"Kraków", 1019383:"Lublin", 1019395:"Łódź", 1019385:"Olsztyn", 1019399:"Opole", 1019407:"Poznań", 1019403:"Rzeszów", 1019387:"Szczecin", 1019393:"Warszawa", 1019397:"Wrocław"}; WiadLokalneMiastaGeo = 1019393; // ]]> --> </p>
+<p> Wiadomości </p>
+<p> lokalne </p>
+<p> W środę utrudnienia w ruchu w Warszawie wz. z obchodami 3. rocznicy katastrofy smoleńskiej </p>
+<p> Karetka przyjechała za późno; chory zmarł </p>
+<p> Margaret Thatcher czy Edward Gierek? Radni wybiorą patrona ronda w Warszawie </p>
+<p> Prokuratura umorzyła śledztwo ws. śmierci Jolanty Brzeskiej </p>
+<p> We wtorek wznowienie poszukiwań zaginionego z zatopionej łodzi w Warszawie </p>
+<p> Na Wiśle zatonął kuter holowniczy </p>
+<p> Pikieta związkowców przed Ministerstwem Zdrowia </p>
+<p> Opóźnienia metra z powodu awarii </p>
+<p> Lotnisko Chopina: wiadomo już, co znaleźli robotnicy </p>
+<p> Policja zatrzymała podejrzanych o pomoc w napadzie na konwój w Wólce Kosowskiej </p>
+<p> więcej wiadomości </p>
+<p> Konflikty </p>
+<p> Yonhap: Phenian może wystrzelić kilka pocisków z różnych miejsc </p>
+<p> Adm. Samuel Locklear: USA będą w stanie przechwycić rakiety Korei Północnej </p>
+<p> Szef NATO Anders Fogh Rasmussen uda się wkrótce do Korei Południowej </p>
+<p> Akt oskarżenia ws. śmiertelnego pobicia żołnierza z Łaska </p>
+<p> Izrael: dożywocie dla żydowskiego radykała za mordowanie Palestyńczyków </p>
+<p> więcej </p>
+<p> Na sygnale </p>
+<p> Ciała noworodków znalezione w zamrażalniku! </p>
+<p> Brutalna zemsta: sędzia pobity i skopany </p>
+<p> Makabra w Lesie Kabackim - czy poznamy prawdę? </p>
+<p> Dramat! Pobite niemowlę zmarło po miesiącu męczarni </p>
+<p> więcej </p>
+<p> // <![CDATA[ var pollChecked = false; // ]]> </p>
+<p> Sonda </p>
+<p> Czy weźmiesz udział w obchodach 3. rocznicy katastrofy smoleńskiej? </p>
+<p> Tak </p>
+<p> Nie </p>
+<p> Jeszcze nie wiem </p>
+<p> liczba oddanych głosów: 2591 </p>
+<p> zobacz wyniki » </p>
+<p> najczęsciej czytacie </p>
+<p> najczęsciej polecacie </p>
+<p> najgorętsze dyskusje </p>
+<p> .01 </p>
+<p> Marcin Wolski: Zabawy z Tygrysem </p>
+<p> .02 </p>
+<p> Tajemniczy pociąg przejechał przez Polskę. Przewoził uran </p>
+<p> .03 </p>
+<p> Edmund Klich: Rosjanie kłamali w śledztwie </p>
+<p> .04 </p>
+<p> Płonie luksusowy hotel w Groznym </p>
+<p> .05 </p>
+<p> Makabryczne znalezisko w domu małżeństwa z Lubawy </p>
+<p> więcej popularnych wiadomości </p>
+<p> .01 </p>
+<p> Polacy znużeni informacjami o tematyce homoseksualnej - ankieta WP.PL </p>
+<p> .02 </p>
+<p> Dzieci to luksus - państwo nie pomaga rodzinom </p>
+<p> .03 </p>
+<p> Marcin Wolski: gry planszowe premiera wszystkich trampkarzy </p>
+<p> .04 </p>
+<p> Interwencja w sklepie spożywczym w Krakowie. Padły strzały </p>
+<p> .05 </p>
+<p> Tęcza na placu Zbawiciela stanęła w ogniu. Po raz trzeci została zniszczona </p>
+<p> więcej popularnych wiadomości </p>
+<p> .01 </p>
+<p> Zespół Macierewicza w rocznicę katastrofy zaprezentuje nowe ustalenia </p>
+<p> .02 </p>
+<p> Katastrofa smoleńska nadal jest zagadką dla Polaków </p>
+<p> .03 </p>
+<p> Edmund Klich: Rosjanie kłamali w śledztwie </p>
+<p> .04 </p>
+<p> "Nie wykluczam prowokacji" podczas obchodów rocznicy katastrofy smoleńskiej </p>
+<p> .05 </p>
+<p> Jarosław Kaczyński: oddanie śledztwa ws. Smoleńska to drwienie sobie z Polski, degraduje nas </p>
+<p> więcej popularnych wiadomości </p>
+<p> <!-- // <![CDATA[ 		var tab = WP.tabs('Naj'); 	// ]]> --> </p>
+<p> Tagi </p>
+<p> antoni macierewicz </p>
+<p> barbara piasecka johnson </p>
+<p> donald tusk </p>
+<p> dziecko </p>
+<p> franciszek </p>
+<p> janusz palikot </p>
+<p> jorge mario bergoglio </p>
+<p> katastrofa </p>
+<p> katastrofa smoleńska </p>
+<p> korea północna </p>
+<p> kościół katolicki </p>
+<p> kuria rzymska </p>
+<p> leszek miller </p>
+<p> lotnisko </p>
+<p> matka </p>
+<p> papież </p>
+<p> papież franciszek </p>
+<p> policja </p>
+<p> reforma </p>
+<p> rocznica </p>
+<p> rosja </p>
+<p> sejm </p>
+<p> smoleńsk </p>
+<p> sondaż </p>
+<p> śmierć </p>
+<p> usa </p>
+<p> watykan </p>
+<p> wojna </p>
+<p> wypadek </p>
+<p> zamach </p>
+<p> NPB("006"); </p>
+<p> Polecane: </p>
+<p> Pogoda </p>
+<p> | </p>
+<p> Wyznaczanie trasy </p>
+<p> | </p>
+<p> BMI </p>
+<p> | </p>
+<p> Tarot </p>
+<p> | </p>
+<p> Program tv </p>
+<p> | </p>
+<p> Plotki </p>
+<p> | </p>
+<p> Moje IP </p>
+<p> | </p>
+<p> Wiadomości </p>
+<p> | </p>
+<p> Sport </p>
+<p> | </p>
+<p> Top News </p>
+<p> O firmie </p>
+<p> | </p>
+<p> Dla prasy </p>
+<p> | </p>
+<p> Reklama </p>
+<p> | </p>
+<p> Biznes z WP.PL </p>
+<p> | </p>
+<p> Skontaktuj się z WP.PL </p>
+<p> | </p>
+<p> Praca </p>
+<p> | </p>
+<p> Prywatność </p>
+<p> | </p>
+<p> Zasady korzystania </p>
+<p> | </p>
+<p> Polityka antyspamowa </p>
+<p> Zobacz wszystkie serwisy </p>
+<p> | </p>
+<p> RSS </p>
+<p> Copyright © 1995-2013 </p>
+<p> Wirtualna Polska </p>
+<p> setTimeout(function () { 				var a=document.createElement("script"); 				var b=document.getElementsByTagName('script')[0]; 				a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/6469.js?"+Math.floor(new Date().getTime()/3600000); 				a.async=true; 				a.type="text/javascript"; 				b.parentNode.insertBefore(a,b); 			}, 1); </p>
+<p> window.WPsocial.config('FB', { 				fbAppId : '196956980412461', 				fbNamespace : 'wiadomosciwppl', 				fbXfbml : false, 				fbStatus : true, 				fbCookie : true, 				fbLang : 'pl_PL' 			}); </p>
+<p> window.WPsocial.config('GPLUS', { 				parseTags : 'onload', 				gplusLang : 'pl' 			}); </p>
+<p> window.WPsocial.settings.set({version : '1.0.0',baseLink : '//a.wpimg.pl/a/i/wpsocialadmin/' }); 			var i, c; 			c = _wpSocialQueue.p.length;for ( i =0; i < c; i++) {  				if (window._wpSocialQueue.p[i].useBaseLink) { 					window._wpSocialQueue.p[i].scriptUrl =  WPsocial.settings.getBaseLink(true) + window._wpSocialQueue.p[i].scriptUrl;     				}     				window.WPsocial.addPlugin(window._wpSocialQueue.p[i]); 			} 			c = _wpSocialQueue.a.length; 			for (i = 0; i < c; i++) { 				window.WPsocial.loadApplication(window._wpSocialQueue.a[i]); 			} </p>

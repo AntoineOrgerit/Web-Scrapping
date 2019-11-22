@@ -1,0 +1,164 @@
+<p> Hospital mistakenly bills patients for millions </p>
+<p> //<!--      var mobile_article_page = 'http://www.ndtv.com/article/view/world/167705?device=iphone';     JS_Mobile_Redirect();     //--> </p>
+<p> set_image_url('http://cdn.ndtv.com/static/images/');             var base_url = 'http://www.ndtv.com/';             var _sf_startpt=(new Date()).getTime();             document.domain="ndtv.com"; </p>
+<p> @font-face {                 font-family: 'RupeeForadianRegular';                 src: url('http://www.ndtv.com/static/fonts/rupee_foradian.eot');                 src: local('☺'), url('http://www.ndtv.com/static/fonts/rupee_foradian.ttf') format('truetype'), url('http://www.ndtv.com/static/fonts/rupeeforadian-webfont.svg#webfontR5hylf0C') format('svg');                 font-weight: normal;                 font-style: normal;             }              .rupee {font-family: 'RupeeForadianRegular';}             .rupee span {position:absolute;text-indent: -9999em;left:-9999em;}              .fb_edge_widget_with_comment span.fb_edge_comment_widget iframe.fb_ltr {                display: none !important;             } </p>
+<p> var _comscore = _comscore || [];               _comscore.push({ c1: "2", c2: "9548033" });               (function() {                 var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;                 s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";                 el.parentNode.insertBefore(s, el);               })(); </p>
+<p> NDTV </p>
+<p> Profit </p>
+<p> Khabar </p>
+<p> Movies </p>
+<p> Cricket </p>
+<p> Good Times </p>
+<p> Recipes </p>
+<p> Updated: </p>
+<p> January 17, 2012 18:46 IST </p>
+<p> var zflag_nid="767"; var zflag_cid="4/2/1"; var zflag_sid="0"; var zflag_width="728"; var zflag_height="90"; var zflag_sz="14";             if(typeof kwd  == 'undefined')kwd = '';             var zflag_kw=kwd; </p>
+<p> Home </p>
+<p> Live TV </p>
+<p> Video </p>
+<p> India </p>
+<p> Elections </p>
+<p> Cities </p>
+<p> World </p>
+<p> Sports </p>
+<p> Tech </p>
+<p> Photos </p>
+<p> Trends </p>
+<p> Social </p>
+<p> Weather </p>
+<p> Games </p>
+<p> Apps </p>
+<p> Schedule </p>
+<p> Music </p>
+<p> Environment </p>
+<p> Polls </p>
+<p> Forums </p>
+<p> News Alerts </p>
+<p> You are here: </p>
+<p> Home </p>
+<p> » </p>
+<p> World </p>
+<p> » </p>
+<p> Services : </p>
+<p> Astrology </p>
+<p> | </p>
+<p> Shopping </p>
+<p> | </p>
+<p> B2B </p>
+<p> | </p>
+<p> Property </p>
+<p> | </p>
+<p> e-Learning </p>
+<p> | </p>
+<p> Classifieds </p>
+<p> | </p>
+<p> Loans </p>
+<p> | </p>
+<p> Gifts </p>
+<p> Hospital mistakenly bills patients for millions </p>
+<p> Associated Press </p>
+<p> ,                     Updated: January 17, 2012 10:55 IST </p>
+<p> (function() {             var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;             po.src = 'https://apis.google.com/js/plusone.js';             var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);           })(); </p>
+<p> window.fbAsyncInit = function() {             FB.init({appId: '', status: true, cookie: true, xfbml: true});           };           (function() {             var e = document.createElement('script'); e.async = true;             e.src = document.location.protocol +               '//connect.facebook.net/en_US/all.js';             document.getElementById('fb-root').appendChild(e);           }()); </p>
+<p> $(document).ready(function(){                 $(".emailthistofriend").colorbox({width:"700px", height:"675px", iframe:true});             }); </p>
+<p> .google_ads         {/*float:left;          width:100%;*/          padding: 5px;          border:1px solid #F3F3F3;          /*height:75px*/}         .title         {             font: bold 11px Arial,Helvetica,sans-serif;             color:#000000;             margin:0px;             padding-top:0px;             padding-right:0px;             padding-bottom:0px;             padding-left:5px}         .ad_left         {/*width:48%;*/          /*float:left;*/          margin:0px;          padding:0px}         .news_link         {font-family:Arial,Helvetica,sans-serif;          font-size:11px;          font-weight:bold;          margin:0px;          padding:0px}         .n_text         {font-family:Arial,Helvetica,sans-serif;          font-size:11px;          margin:0px;          padding:0px}         .link2         {color:#006600;          margin-top: 0;          text-decoration:none}         .hot_link         {margin:0px;          padding:0px;          font-family:Arial,Helvetica,sans-serif;          font-size:10px}          .link1                 {text-decoration:underline !important;margin-right: 0;} </p>
+<p> <!--         function google_ad_request_done(google_ads) {             /*              * This function is required and is used to display              * the ads that are returned from the JavaScript              * request. You should modify the document.write              * commands so that the HTML they write out fits              * with your desired ad layout.              */              var s = '';             var i;              /*              * Verify that there are actually ads to display.              */             if (google_ads.length == 0) {                 return;             }              /*              * If an image or flash ad is returned, display that ad.              * Otherwise, build a string containing all of the ads and              * then use a document.write() command to print that string.              */              if (google_ads[0].type == "html") {                  s += google_ads[0].snippet;              } else {                  if (google_ads.length == 1) {                     /*                      * Partners should adjust text sizes                      * so ads occupy the majority of ad space.                      */                     setTimeout(function(){                         $('<div class="title"><a target="_blank" style="color:#666;text-decoration:none;" href=\"' + google_info.feedback_url + '\">Ads by Google</a></div>').appendTo($('#gta'));                         $('<div class="ad_left" style="padding-left:5px"><p class="news_link"><a target="_blank" class="link1" href="' +                             google_ads[0].url + '">' +                             google_ads[0].line1 + '</a> &ndash; <span class="n_text">' +                             google_ads[0].line2 + ' ' +                             google_ads[0].line3 + '</span></p><p class="hot_link"><a target="_blank" class="link2" href="' +                             google_ads[0].url + '"  >' +                             google_ads[0].visible_url + '</a></p></div>').appendTo($('#gta'));                     },3000);                     /*                     s += '<div class="title"><a style="color:#666;text-decoration:none;" href=\"' + google_info.feedback_url + '\">Ads by Google</a></div>';                     s += '<div class="ad_left" style="padding-left:5px"><p class="news_link"><a  class="link1" href="' +                         google_ads[0].url + '" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to ' +                         google_ads[0].visible_url + '\';return true">' +                         google_ads[0].line1 + '</a> &ndash; <span class="n_text">' +                         google_ads[0].line2 + ' ' +                         google_ads[0].line3 + '</span></p><p class="hot_link"><a class="link2" href="' +                         google_ads[0].url + '" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to ' +                         google_ads[0].visible_url + '\';return true">' +                         google_ads[0].visible_url + '</a></p></div>';                      */                  } else if (google_ads.length > 1) {                      s += '<div class="title"><a target="_blank" class="title" href=\"' + google_info.feedback_url + '\">Ads by Google</a>'                      /*                      * For text ads, append each ad to the string.                      */                      for(i = 0; i < google_ads.length; ++i) {                          s += '<div class="ad_left" style="padding-left:5px"><p class="news_link"><a  target="_blank" class="link1" href="' +                             google_ads[i].url + '" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to ' +                             google_ads[i].visible_url + '\';return true">' +                             google_ads[i].line1 + '</a></p><p class="n_text">' +                             google_ads[i].line2 + '</p><p class="n_text">' +                             google_ads[i].line3 + '</p><p class="hot_link"><a target="_blank" class="link2" href="' +                             google_ads[i].url + '" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to ' +                             google_ads[i].visible_url + '\';return true">' +                             google_ads[i].visible_url + '</a></p></div>';                     }                     s += '</div>'                 }             }              //            document.write(s);             return;         }         // -->         google_ad_client = "pub-7641565019577886";         /* 468x60, created 3/6/09 */         google_ad_slot = "8438645248";         google_ad_width = 640;         google_ad_height = 70;         google_max_num_ads = 1;         google_ad_type = 'text';         google_ad_output = 'js';         //--> </p>
+<p> New York: </p>
+<p> Patients at a New York City hospital are getting billed for tens of millions of dollars because of a computer error. </p>
+<p> Unemployed doorman Alexis Rodriguez says he almost became ill when he received a $44.8 million bill from the Bronx-Lebanon Hospital Center. </p>
+<p> Rodriguez tells the New York Daily News (http://nydn.us/AjolYU )that he was hospitalized last spring with pneumonia and was afraid the bill was legit. </p>
+<p> Turns out the company that prepares the bills had mistakenly put the invoice number in the space where the invoice amount should go. </p>
+<p> The billing company is telling patients to ignore the multimillion-dollar bills. It says it will send out corrected ones. </p>
+<p> The hospital didn't immediately respond to requests for comment on Monday, which is a holiday. </p>
+<p> For NDTV Updates, follow us on </p>
+<p> Twitter </p>
+<p> or join us on </p>
+<p> Facebook </p>
+<p> Story first published: </p>
+<p> January 17, 2012 10:53 IST </p>
+<p> Tags: </p>
+<p> hospital bill error </p>
+<p> , </p>
+<p> hospital bill in millions </p>
+<p> Comments </p>
+<p> Comments </p>
+<p> Advertisement </p>
+<p> var zflag_nid="767"; var zflag_cid="4/2/1"; var zflag_sid="0"; var zflag_width="300"; var zflag_height="100"; var zflag_sz="41"; </p>
+<p> Advertisement </p>
+<p> var zflag_nid="767"; var zflag_cid="4/2/1"; var zflag_sid="0"; var zflag_width="300"; var zflag_height="250"; var zflag_sz="9";                     if(typeof kwd  == 'undefined')kwd = '';                     var zflag_kw=kwd; </p>
+<p> Featured Services </p>
+<p> Buy 'RAFA' </p>
+<p> Featured Car: Jaguar XK </p>
+<p> Buy Samsung Galaxy S2 </p>
+<p> Buy/Rent/Sell Property </p>
+<p> Looking for restaurants? </p>
+<p> Home loans today </p>
+<p> Katy Perry-Download Music </p>
+<p> Go Goa </p>
+<p> Best Deals on Omega </p>
+<p> Property </p>
+<p> Property </p>
+<p> Travel </p>
+<p> Travel </p>
+<p> Local Search </p>
+<p> Local Search </p>
+<p> .button{border:0; background:#f57b0e;width:46px; color:#FFFFFF; font-weight:bold; font-size:12px; cursor:hand; margin:0px; padding:3px 0; padding:2px 0px 1px 0;}                             .textbox{border:solid 1px #e4e4e6; color:#625D5D; font-size:12px; width:113px; padding:3px 2px 4px 2px;}                             #dvOptions{padding:5px; margin:0; background-color:#f2f2f2;color:Navy;font-size:9pt;text-align:center;}                             .lblText{font-Size:13pt; font-weight:bold; font-family:calibri; color:#666666; margin:0px; padding:0px;}                             .link{font-Size:9pt;font-weight:bold;color:Navy;}                             .divclass{width:300px; height:50px; padding:5px;color:Navy;} </p>
+<p> Find </p>
+<p> In </p>
+<p> Video </p>
+<p> Live TV </p>
+<p> Pak PM will not resign: Rehman Malik </p>
+<p> 5:56 </p>
+<p> Aamchi Oprah: The big O in Mumbai </p>
+<p> 5 Videos </p>
+<p> We have let the nation down: Gambhir </p>
+<p> 1:32 </p>
+<p> ईशा से मार्च में शादी करेंगे जहीर </p>
+<p> 1:18 </p>
+<p> More » </p>
+<p> Photos </p>
+<p> Day before birthday, Kate dazzles in lace </p>
+<p> Friends, family at Farhan's birthday bash </p>
+<p> Look who attended the Umang 2012 show </p>
+<p> More » </p>
+<p> NDTV Social </p>
+<p> Become friends with your favourite NDTV people and shows. </p>
+<p> Start now </p>
+<p> » </p>
+<p> Sonia Singh </p>
+<p> Anyone else who thinks Gambhir & other cricketers shouldnt be pressured to feel they 'let the country down' ? It is just a game, people ! </p>
+<p> 23 minutes ago </p>
+<p> Read </p>
+<p> Reply </p>
+<p> Kadambini Sharma </p>
+<p> Rushdie not coming for his session on 20th Jan in Jaipur Literary Festival. </p>
+<p> 3 hours ago </p>
+<p> Read </p>
+<p> Reply </p>
+<p> var zflag_nid="767"; var zflag_cid="4/2/1"; var zflag_sid="0"; var zflag_width="1"; var zflag_height="1"; var zflag_sz="94"; </p>
+<p> More From world » </p>
+<p> UN agency mulls changes to maritime law after Italy disaster </p>
+<p> NDTV </p>
+<p> UPDATES </p>
+<p> WITH </p>
+<p> Please upgrade your flash player to view this content. </p>
+<p> Download the free Flash Player now! </p>
+<p> Advertise </p>
+<p> | </p>
+<p> About Us </p>
+<p> | </p>
+<p> Feedback </p>
+<p> | </p>
+<p> Disclaimer </p>
+<p> | </p>
+<p> Investor </p>
+<p> | </p>
+<p> Complaint Redressal </p>
+<p> | </p>
+<p> Careers </p>
+<p> | </p>
+<p> Contact Us </p>
+<p> © Copyright NDTV Convergence Limited 2012. All rights reserved. </p>
+<p> var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); 	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); </p>
+<p> try {             var pageTracker = _gat._getTracker("UA-2598638-50");             pageTracker._initData();             pageTracker._trackPageview();             var pageTracker2 = _gat._getTracker("UA-11243047-47");             pageTracker2._initData();             pageTracker2._trackPageview();         } catch(err) {         } </p>
+<p> var cbjspath = "static.chartbeat.com/js/chartbeat.js?uid=2494&domain=ndtv.com"; var cbjsprotocol = (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://"); document.write(unescape("%3Cscript src='"+cbjsprotocol+cbjspath+"' type='text/javascript'%3E%3C/script%3E")) </p>

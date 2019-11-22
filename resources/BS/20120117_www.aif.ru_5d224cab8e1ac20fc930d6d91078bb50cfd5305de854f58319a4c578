@@ -1,0 +1,480 @@
+<p> Ученые: Желающим похудеть нужно есть из красной посуды | Кухня - Аргументы и Факты </p>
+<p> <!--  a:hover {text-decoration:underline;} div.article-text h2 {margin: 0px;} #ad_ph_1, #ad_ph_2, #ad_ph_3, #ad_ph_4, #ad_ph_5, #ad_ph_6, #ad_ph_7, #ad_ph_8, #ad_ph_9, #ad_ph_10 {margin-bottom: 5px;}  --> </p>
+<p> new adriver.Plugin.require("onScroll.adriver"); </p>
+<p> (function(L){if(typeof(ar_cn)=="undefined")ar_cn=1; var S='setTimeout(function(e){if(!self.CgiHref){document.close();e=parent.document.getElementById("ar_container_"+ar_bnum);e.parentNode.removeChild(e);}},3000);',     j=' type="text/javascript"',t=0,D=document,n=ar_cn;L+=escape(D.referrer||'unknown')+'&rnd='+Math.round(Math.random()*999999999); function _(){if(t++<100){var F=D.getElementById('ar_container_'+n);     if(F){try{var d=F.contentDocument||(window.ActiveXObject&&window.frames['ar_container_'+n].document);     if(d){d.write('<sc'+'ript'+j+'>var ar_bnum='+n+';'+S+'<\/sc'+'ript><sc'+'ript'+j+' src="'+L+'"><\/sc'+'ript>');t=0}     else setTimeout(_,100);}catch(e){try{F.src="javascript:{document.write('<sc'+'ript"+j+">var ar_bnum="+n+"; document.domain=\""     +D.domain+"\";"+S+"<\/sc'+'ript>');document.write('<sc'+'ript"+j+" src=\""+L+"\"><\/sc'+'ript>');}";return}catch(E){}}}else setTimeout(_,100);}} D.write('<div style="visibility:hidden;height:0px;left:-1000px;position:absolute;"><iframe id="ar_container_'+ar_cn     +'" width=1 height=1 marginwidth=0 marginheight=0 scrolling=no frameborder=0><\/iframe><\/div><div id="ad_ph_'+ar_cn     +'" style="display:none;"><\/div>');_();ar_cn++; })('http://ad.adriver.ru/cgi-bin/erle.cgi?sid=171127&target=top&bt=43&pz=0&tail256='); </p>
+<p> <!-- document.write("<img src='http://counter.yadro.ru/hit;AIF?r"+ escape(document.referrer)+((typeof(screen)=="undefined")?"": ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth? screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+ ";h"+escape(document.title.substring(0,80))+";"+Math.random()+ "' width=1 height=1 alt=''>")//--> </p>
+<p> <!-- d=document;var a='';a+=';r='+escape(d.referrer) js=10//--> </p>
+<p> <!-- a+=';j='+navigator.javaEnabled() js=11//--> </p>
+<p> <!-- s=screen;a+=';s='+s.width+'*'+s.height a+=';d='+(s.colorDepth?s.colorDepth:s.pixelDepth) js=12//--> </p>
+<p> <!-- js=13//--> </p>
+<p> <!-- d.write('<IMG src="http://d8.ce.b0.a0.top.list.ru/counter'+ '?id=59428;js='+js+a+';rand='+Math.random()+ '" height=1 width=1 border=0 style="border: 0px none ;"/>') if(11<js)d.write('<'+'!-- ')//--> </p>
+<p> <!-- if(11<js)d.write('--'+'>')//--> </p>
+<p> var img = new Image(); 	img.src = 'http://www.tns-counter.ru/V13a***R>' + document.referrer.replace(/\*/g,'%2a') + '*aif_ru/ru/CP1251/tmsec=aif_food/'; </p>
+<p> <!-- var RndNum4NoCash = Math.round(Math.random() * 1000000000); var ar_Tail='unknown'; if (document.referrer) ar_Tail = escape(document.referrer); document.write( '<iframe src="http://ad.adriver.ru/cgi-bin/erle.cgi?' + 'sid=80938&sz=inside&target=blank&bt=41&pz=1&rnd=' + RndNum4NoCash + '&tail256=' + ar_Tail + '" frameborder=0 vspace=0 hspace=0 width=970 height=90 marginwidth=0' + ' marginheight=0 scrolling=no></iframe>'); //--> </p>
+<p> Исповедь бизнесмена </p>
+<p> «Я не дам вам работу. Объясню почему...» </p>
+<p> Джим Керри: </p>
+<p> Почему комедийным актерам не дают «Оскар»? Знаменитому комику сегодня - 50! </p>
+<p> Costa Concordia </p>
+<p> Число жертв увеличивается. ФОТО </p>
+<p> Почему мужчины не хотят жениться? </p>
+<p> Задай вопрос психологу! </p>
+<p> Забытый символ коммунизма </p>
+<p> Почему Дворец Советов так и не построили </p>
+<p> Викторина «Вспомнить всё» </p>
+<p> Ответьте на 7 фото-вопросов! </p>
+<p> Героиня по имени Жанна </p>
+<p> Орлеанская дева - всего лишь грандиозный пиар-проект? </p>
+<p> Задай вопрос «АиФ»! </p>
+<p> Мы готовим очередной суперномер вопросов и ответов! </p>
+<p> 17.01.2012 </p>
+<p> 19:55 МСК </p>
+<p> /*function gotoCentralMagazine(select) { 	var value = select.options[select.selectedIndex].value; 	if(value == "") return; 	select.selectedIndex = 0; 	select.blur(); 	window.location = "http://"+value; }*/ </p>
+<p> Выбрать город </p>
+<p> Санкт-Петербург </p>
+<p> Архангельск </p>
+<p> Барнаул </p>
+<p> Волгоград </p>
+<p> Екатеринбург </p>
+<p> Иркутск </p>
+<p> Казань </p>
+<p> Камчатка </p>
+<p> Киев </p>
+<p> Краснодар </p>
+<p> Майкоп </p>
+<p> Минск </p>
+<p> Мурманск </p>
+<p> Нижний Новгород </p>
+<p> Новосибирск </p>
+<p> Омск </p>
+<p> Оренбург </p>
+<p> Пермь </p>
+<p> Петрозаводск </p>
+<p> Псков </p>
+<p> Ростов-на-Дону </p>
+<p> Самара </p>
+<p> Саратов </p>
+<p> Ставрополь </p>
+<p> Ульяновск </p>
+<p> Челябинск </p>
+<p> Ярославль </p>
+<p> Другие города </p>
+<p> Общество </p>
+<p> Деньги </p>
+<p> Культура </p>
+<p> Здоровье </p>
+<p> Кухня </p>
+<p> Техника </p>
+<p> Досуг </p>
+<p> Некогда болеть! </p>
+<p> Кухня </p>
+<p> Продукты и напитки </p>
+<p> Кухни мира </p>
+<p> Питание и диеты </p>
+<p> Люди на кухне </p>
+<p> Техника, посуда и уют </p>
+<p> Архив </p>
+<p> Видео </p>
+<p> Путеводитель по Facebook: </p>
+<p> Все секреты самой большой социальной сети мира </p>
+<p> В сюжете </p>
+<p> 16.12.2011 </p>
+<p> Печеная рыба снижает риск болезни Альцгеймера </p>
+<p> 15.11.2011 </p>
+<p> Беспорядок на кухне приводит к ожирению </p>
+<p> 19.09.2011 </p>
+<p> Итальянский ученый определил, какая еда делает людей счастливыми </p>
+<p> 01.09.2011 </p>
+<p> Для защиты окружающей среды нужно есть меньше натуральных продуктов </p>
+<p> Сюжет полностью </p>
+<p> Выбрать рецепт </p>
+<p> По ингредиенту </p>
+<p> Алкоголь </p>
+<p> Бобы </p>
+<p> Грибы </p>
+<p> Дичь </p>
+<p> Зелень и травы </p>
+<p> Крупы </p>
+<p> Молочные продукты </p>
+<p> Морепродукты </p>
+<p> Мука </p>
+<p> Мясо </p>
+<p> Овощи </p>
+<p> Птица </p>
+<p> Рыба </p>
+<p> Сыр </p>
+<p> Фрукты </p>
+<p> Шоколад </p>
+<p> Ягоды </p>
+<p> Яйца </p>
+<p> Макаронные изделия </p>
+<p> Субпродукты </p>
+<p> Орехи </p>
+<p> По категории блюда </p>
+<p> Бутерброды </p>
+<p> Выпечка и десерты </p>
+<p> Гарниры </p>
+<p> Закуски </p>
+<p> Консервирование </p>
+<p> Напитки безалкогольные </p>
+<p> Напитки алкогольные </p>
+<p> Основные блюда </p>
+<p> Паста и пицца </p>
+<p> Каши </p>
+<p> Салаты </p>
+<p> Соусы и заправки </p>
+<p> Супы и бульоны </p>
+<p> Шашлыки и блюда на гриле </p>
+<p> По кухне </p>
+<p> Австрийская кухня </p>
+<p> Азербайджанская кухня </p>
+<p> Американская кухня </p>
+<p> Английская кухня </p>
+<p> Армянская кухня </p>
+<p> Белорусская кухня </p>
+<p> Бельгийская кухня </p>
+<p> Болгарская кухня </p>
+<p> Бразильская кухня </p>
+<p> Венгерская кухня </p>
+<p> Вьетнамская кухня </p>
+<p> Греческая кухня </p>
+<p> Грузинская кухня </p>
+<p> Датская кухня </p>
+<p> Еврейская кухня </p>
+<p> Египетская кухня </p>
+<p> Индийская кухня </p>
+<p> Иранская кухня </p>
+<p> Ирландская кухня </p>
+<p> Испанская кухня </p>
+<p> Итальянская кухня </p>
+<p> Казахская кухня </p>
+<p> Китайская кухня </p>
+<p> Корейская кухня </p>
+<p> Кухня Индонезии </p>
+<p> Кухня Туниса </p>
+<p> Латвийская кухня </p>
+<p> Ливанская кухня </p>
+<p> Литовская кухня </p>
+<p> Марокканская кухня </p>
+<p> Мексиканская кухня </p>
+<p> Молдавская кухня </p>
+<p> Немецкая кухня </p>
+<p> Польская кухня </p>
+<p> Португальская кухня </p>
+<p> Румынская кухня </p>
+<p> Русская кухня </p>
+<p> Словацкая кухня </p>
+<p> Тайская кухня </p>
+<p> Татарская кухня </p>
+<p> Турецкая кухня </p>
+<p> Узбекская кухня </p>
+<p> Украинская кухня </p>
+<p> Финская кухня </p>
+<p> Французская кухня </p>
+<p> Чешская кухня </p>
+<p> Шведская кухня </p>
+<p> Швейцарская кухня </p>
+<p> Эстонская кухня </p>
+<p> Японская кухня </p>
+<p> Голландская кухня </p>
+<p> По приготовлению </p>
+<p> Блендер </p>
+<p> Гриль </p>
+<p> Духовка </p>
+<p> Мангал </p>
+<p> Микроволновая печь </p>
+<p> Морозилка </p>
+<p> Мультиварка </p>
+<p> Пароварка </p>
+<p> Аэрогриль </p>
+<p> Аппарат для приготовления мороженого </p>
+<p> По особому поводу </p>
+<p> День рождения </p>
+<p> Лето </p>
+<p> Масленица </p>
+<p> Новый год </p>
+<p> Пасха </p>
+<p> Пикник </p>
+<p> Романтический ужин </p>
+<p> Хэллоуин </p>
+<p> Рождество </p>
+<p> Пост </p>
+<p> По предпочтениям </p>
+<p> Вегетарианское меню </p>
+<p> Детское меню </p>
+<p> Низкокалорийное меню </p>
+<p> Постное меню </p>
+<p> Все рецепты </p>
+<p> Реклама </p>
+<p> <!-- var RndNum4NoCash = Math.round(Math.random() * 1000000000); var ar_Tail='unknown'; if (document.referrer) ar_Tail = escape(document.referrer); document.write( '<iframe src="http://ad.adriver.ru/cgi-bin/erle.cgi?' + 'sid=80938&sz=inside&target=blank&bt=29&pz=0&rnd=' + RndNum4NoCash + '&tail256=' + ar_Tail + '" frameborder=0 vspace=0 hspace=0 width=160 height=600 marginwidth=0' + ' marginheight=0 scrolling=no></iframe>'); //--> </p>
+<p> Это интересно </p>
+<p> Загрузка... </p>
+<p> Копилка чудных мест </p>
+<p> Кофейник, передник и Фаина Раневская: расскажу о чудесном местечке в Таганроге </p>
+<p> Родившись в состоятельной семье, в кофе и плюшках Фаина Георгиевна толк понимала </p>
+<p> рецепт дня </p>
+<p> Щи боярские </p>
+<p> Блюдо для холодной зимы </p>
+<p> медиакухня </p>
+<p> артлетки или вареные яйца со шпротной пастой </p>
+<p> Рецепт от Сергея Милянчикова, заместителя руководителя Службы информации РБК-ТВ </p>
+<p> Викторина AIF.RU Кухня </p>
+<p> Угадай, какому растению принадлежит цветок </p>
+<p> Назовите его и внесите свой ответ в текстовое окошко </p>
+<p> Кулинарный гороскоп </p>
+<p> Кулинарный гороскоп года Дракона от AIF.RU Кухня </p>
+<p> В 1916 году, в год Дракона, шла Первая мировая война, родился Зиновий Гердт, был убит Распутин и не присуждалась Нобелевская премия </p>
+<p> видеорецепты </p>
+<p> Учимся готовить по видеоурокам </p>
+<p> От простых блюд до кулинарных шедевров </p>
+<p> Аиф про Кухню </p>
+<p> Архив журнала </p>
+<p> калькулятор </p>
+<p> Сколько калорий в вашей пище? </p>
+<p> Наш простой калькулятор поможет посчитать калорийность любых составных блюд и продуктов </p>
+<p> Архив </p>
+<p> То, что вы хотели, но не успели прочитать </p>
+<p> Ученые: Желающим похудеть нужно есть из красной посуды </p>
+<p> Фото: </p>
+<p> posuda-rest.ru </p>
+<p> Опубликовано 17 января 12 (16:24) </p>
+<p> Увеличить шрифт </p>
+<p> Уменьшить шрифт </p>
+<p> Версия для печати </p>
+<p> Отправить по почте </p>
+<p> Добавить в избранное </p>
+<p> Нравится </p>
+<p> VK.init({apiId: 2012139, onlyWidgets: true}); </p>
+<p> VK.Widgets.Like('vk_like_1', {type: 'button', width: 160,  verb: 0, pageUrl: 'http://www.aif.ru/food/news/107861'}); </p>
+<p> div.article-text img.pic { /* refs #709 */ 	margin: 5px 10px 5px 5px; } </p>
+<p> Столовые приборы этого цвета </p>
+<p> не дают человеку злоупотреблять пищей и спиртными напитками </p>
+<p> Немецкие и швейцарские ученые рекомендуют людям, стремящимся похудеть, </p>
+<p> есть из посуды красного цвета. </p>
+<p> Красный цвет в подсознании людей ассоциируется с опасностью и тревожным сигналом, поясняют они. </p>
+<p> Поэтому и продукты, находящиеся в приборах такого цвета, воспринимаются как потенциально вредные. Соответственно, едят их меньше. </p>
+<p> Предположения врачей подтвердил эксперимент. Добровольцам предложили напитки в красных и синих чашках. Как оказалось, из красных чашек люди выпивали на 44% меньше. То же самое произошло и с едой: меньше всего было съедено булочек, поданных на тарелках красного цвета. </p>
+<p> Материалы по теме: </p>
+<p> ...Какой минимум посуды нужно иметь на кухне? </p>
+<p> Расположение здоровой пищи в пределах видимости поможет похудеть </p>
+<p> Дешевые сковородки надежнее дорогих </p>
+<p> share42() </p>
+<p> Версия для печати </p>
+<p> Отправить по почте </p>
+<p> Добавить в избранное </p>
+<p> Код для вставки в блог </p>
+<p> Как это будет выглядеть </p>
+<p> <a style="float: left; display: inline; margin: 3px 5px 3px 0pt;" href="http://www.aif.ru/food/news/107861"><img src="http://static2.aif.ru/public/news/small/324/3d2415996763e74cc66a11e11bb87040.0.jpg" border="0"></a> <h3 style="font: bold 14px Arial,Helvetica,sans-serif;"><a style="color: rgb(40, 40, 40);" href="http://www.aif.ru/food/news/107861">Ученые: Желающим похудеть нужно есть из красной посуды</a></h3> <div style="overflow: hidden; clear: both"></div> </p>
+<p> Ученые: Желающим похудеть нужно есть из красной посуды </p>
+<p> <!-- var RndNum4NoCash = Math.round(Math.random() * 1000000000); var ar_Tail='unknown'; if (document.referrer) ar_Tail = escape(document.referrer); document.write( '<iframe src="http://ad.adriver.ru/cgi-bin/erle.cgi?' + 'sid=80938&target=blank&bt=14&pz=0&rnd=' + RndNum4NoCash + '&tail256=' + ar_Tail + '" frameborder=0 vspace=0 hspace=0 width=468 height=200 marginwidth=0' + ' marginheight=0 scrolling=no></iframe>'); //--> </p>
+<p> а вы что думаете? </p>
+<p> Правила комментирования </p>
+<p> войти </p>
+<p> / </p>
+<p> регистрация </p>
+<p> Представьтесь, пожалуйста </p>
+<p> Ваш E-mail </p>
+<p> (для обратной связи) </p>
+<p> Синхронный перевод с транслита </p>
+<p> Эти несложные правила помогут Вам получать удовольствие от общения на нашем сайте! </p>
+<p> Мы рады, что Вы решили оставить свой комментарий на сайте www.aif.ru! </p>
+<p> Для того, чтобы посещение нашего сайта и впредь оставалось для Вас приятным, просим неукоснительно соблюдать правила для комментариев: </p>
+<p> - Сообщение не должно содержать более 2500 знаков (с пробелами) </p>
+<p> - Языком общения на сайте АиФ является русский язык.  В обсуждении Вы можете использовать другие языки, только если уверены, что читатели смогут Вас правильно понять. </p>
+<p> - В комментариях запрещаются выражения, содержащие ненормативную лексику, унижающие человеческое достоинство, разжигающие межнациональную рознь. </p>
+<p> - Запрещаются спам, а также реклама любых товаров и услуг, иных ресурсов, СМИ или событий, не относящихся к контексту обсуждения статьи. </p>
+<p> - Не приветствуются сообщения, не относящиеся к содержанию статьи или к контексту обсуждения. </p>
+<p> Давайте будем уважать друг друга и сайт, на который Вы и другие читатели приходят пообщаться и высказать свои мысли. Администрация сайта оставляет за собой право удалять комментарии или часть комментариев, если они не соответствуют данным требованиям. </p>
+<p> Редакция оставляет за собой право публикации отдельных комментариев в бумажной версии издания или в виде отдельной статьи на сайте www.aif.ru. Вы также можете общаться друг с другом, заведя себе дневник на blog.aif.ru. </p>
+<p> Если у Вас есть вопрос или предложение, отправьте </p>
+<p> сообщение  для  администрации сайта </p>
+<p> function setAifCookie(name, value, params) { // не переписываем имеющуюся куку! if (jQuery.cookie(name) != null) { //alert(jQuery.cookie(name)); return false; }  if (params == null){ jQuery.cookie(name, value, {expires: 7, path: '/', secure: false});     } else { jQuery.cookie(name, value, params); } return true; }         $comments_inp = false; $(document).ready(function() {          	var login = $.cookie('login'); 	var hash = $.cookie('hash');  	if (login == null) 	{ 		// BC with old auth!                  		if ( hash != null ) { 			                         $.post('/ajax/setlogin', function(data) {$('#user_name').val(data.result); $('#user_name').attr('readonly', true); $('#login_msg').html('Зарегистрированный пользователь:');}); 			                         $('#user_email').hide();                     			$('#auth-register').hide();                          		} else { // u/a                     			setAifCookie('comments', '4efc15e5f7de7fbc785f8df14601d669', {expires: 7, path: '/', domain: 'www.aif.ru', secure: false}); 			                         $('#user_name').val(''); 		}  	} else {  $('#user_label').text(''); 		$('#user_email').hide(); 		$('.auth-register').html('<a href="/auth/logout">выйти</a>'); 		$('#user_name').val(login); 		$('#user_name').attr('readonly', true); 		//$('#login_msg').html('Зарегистрированный пользователь:'); 	}                     	$('#ajaxform').submit(function(e){ 		e.preventDefault(); 		var action = $(this).attr('action'), data = $(this).serialize(); 		$.post(action, data, function(r){ 			if('ok'==r.result) {                                                          				                                 $('#article-comments').html(r.content); 				$('#comments_form').load('http://www.aif.ru/aforism/?'+Math.random());                                                                                        			} else { 				alert(r.result); 			} 		}, 'json');                 	});     $("a.reply").click(function() 	{ 		if ($comments_inp) { 			var cmt = $('#comments_inp').val() + "\n"; // wipe rules 		} else { 			var cmt = ''; 			$comments_inp = true; 			$('#comments_inp').css('color', '#000000'); 		}  		var comment_id = $(this).attr('href').replace(/[^0-9]+/, ''); 		var author = $('div.username', '#meta'+ comment_id).text();  		var comment = $('blockquote', '#comment'+ comment_id).text();  		//var ocomment = $('#comment'+ comment_id);//alert(ocomment); 		//var selected = comment.text().substring(range.start, range.end); alert(selected);  		//$('#comments_inp').val(cmt + author + " писал(а):\n" + comment + "\n---\n"); 		$('#comments_inp').val(cmt + author + " писал(а):\n<i>" + comment + "</i>\n---\n"); 		$('#comments_inp').focus();         return false;   }); }); </p>
+<p> Реклама </p>
+<p> //<![CDATA[ yandex_partner_id = 46571; yandex_site_bg_color = 'FFFFFF'; yandex_site_charset = 'windows-1251'; yandex_ad_format = 'direct'; yandex_font_size = 1.1; yandex_font_family = 'arial'; yandex_direct_type = 'horizontal'; yandex_direct_border_type = 'ad'; yandex_direct_limit = 2; yandex_direct_header_bg_color = 'FF6600'; yandex_direct_bg_color = 'FEFBE3'; yandex_direct_border_color = 'CCCCCC'; yandex_direct_title_color = '000000'; yandex_direct_url_color = 'FF6600'; yandex_direct_all_color = 'FF6600'; yandex_direct_text_color = '000000'; yandex_direct_hover_color = 'FF6600'; yandex_direct_favicon = true; document.write('<sc'+'ript type="text/javascript" src="http://an.yandex.ru/system/context.js"></sc'+'ript>'); //]]> </p>
+<p> Загрузка... </p>
+<p> $("#article-text a[href^='http://']").attr("target","_blank"); // Open External Links In New Window $('.favorites').jFav(); </p>
+<p> <!-- var RndNum4NoCash = Math.round(Math.random() * 1000000000); var ar_Tail='unknown'; if (document.referrer) ar_Tail = escape(document.referrer); document.write( '<iframe src="http://ad.adriver.ru/cgi-bin/erle.cgi?' + 'sid=80938&sz=food&target=blank&bt=40&pz=0&rnd=' + RndNum4NoCash + '&tail256=' + ar_Tail + '" frameborder=0 vspace=0 hspace=0 width=300 height=250 marginwidth=0' + ' marginheight=0 scrolling=no></iframe>'); //--> </p>
+<p> читают </p>
+<p> обсуждают </p>
+<p> Екатерина Собчик: Что такое «Еда по-быстрому»? </p>
+<p> (3387) </p>
+<p> 7 блюд мировой кухни, приготовленные за 30 минут </p>
+<p> (1949) </p>
+<p> Кофейник, передник и Фаина Раневская: расскажу о чудесном местечке в Таганроге </p>
+<p> (1488) </p>
+<p> Крещение, Epiphany, O Dia dos Reis – праздник, когда гадают по пирогу </p>
+<p> (917) </p>
+<p> Как выбрать настоящий сыр, а не подделку? </p>
+<p> (263) </p>
+<p> Изящное китайское чаепитие: в чем суть </p>
+<p> (69) </p>
+<p> Русский зимний суп. Правила приготовления </p>
+<p> (30) </p>
+<p> Олимпийский тренер: правила питания одни, для чемпионов и офисных работников </p>
+<p> (25) </p>
+<p> Гурман и привереда: тайные пристрастия Ким Чен Ира </p>
+<p> (14) </p>
+<p> Екатерина Собчик: Что такое «Еда по-быстрому»? </p>
+<p> (13) </p>
+<p> Еда кавказской национальности, или…Что нужно есть, чтобы жить 120 лет? </p>
+<p> (7) </p>
+<p> Как открыть шампанское: 3 уникальных способа </p>
+<p> (7) </p>
+<p> Личный повар Горбачева и Ельцина поделился секретами кремлевской кухни </p>
+<p> (6) </p>
+<p> Каким напиткам лучше отдать предпочтение в новогоднюю ночь? </p>
+<p> (1) </p>
+<p> Один гламурный и 6 нескучных способов подать традиционное заливное </p>
+<p> (1) </p>
+<p> Какой он - сыр без добавок? «АиФ» разобрался, как выбрать качественный продукт </p>
+<p> (1) </p>
+<p> Праздник Ханука: едим все, жареное в масле и не паримся! </p>
+<p> (1) </p>
+<p> Встречаем Дракона: новогодний стол в китайском стиле </p>
+<p> (1) </p>
+<p> Низкие цены на </p>
+<p> Новостройки Москвы </p>
+<p> <!-- var RndNum4NoCash = Math.round(Math.random() * 1000000000); var ar_Tail='unknown'; if (document.referrer) ar_Tail = escape(document.referrer); document.write( '<iframe src="http://ad.adriver.ru/cgi-bin/erle.cgi?' + 'sid=80938&bn=1&target=blank&bt=34&pz=1&rnd=' + RndNum4NoCash + '&tail256=' + ar_Tail + '" frameborder=0 vspace=0 hspace=0 width=300 height=94 marginwidth=0' + ' marginheight=0 scrolling=no></iframe>'); //--> </p>
+<p> <!-- var RndNum4NoCash = Math.round(Math.random() * 1000000000); var ar_Tail='unknown'; if (document.referrer) ar_Tail = escape(document.referrer); document.write( '<iframe src="http://ad.adriver.ru/cgi-bin/erle.cgi?' + 'sid=80938&bn=4&target=blank&bt=34&pz=1&rnd=' + RndNum4NoCash + '&tail256=' + ar_Tail + '" frameborder=0 vspace=0 hspace=0 width=300 height=20 marginwidth=0' + ' marginheight=0 scrolling=no></iframe>'); //--> </p>
+<p> Выгодно </p>
+<p> купить квартиру в Москве </p>
+<p> <!-- var RndNum4NoCash = Math.round(Math.random() * 1000000000); var ar_Tail='unknown'; if (document.referrer) ar_Tail = escape(document.referrer); document.write( '<iframe src="http://ad.adriver.ru/cgi-bin/erle.cgi?' + 'sid=80938&bn=2&target=blank&bt=34&pz=1&rnd=' + RndNum4NoCash + '&tail256=' + ar_Tail + '" frameborder=0 vspace=0 hspace=0 width=300 height=94 marginwidth=0' + ' marginheight=0 scrolling=no></iframe>'); //--> </p>
+<p> <!-- var RndNum4NoCash = Math.round(Math.random() * 1000000000); var ar_Tail='unknown'; if (document.referrer) ar_Tail = escape(document.referrer); document.write( '<iframe src="http://ad.adriver.ru/cgi-bin/erle.cgi?' + 'sid=80938&bn=3&target=blank&bt=34&pz=1&rnd=' + RndNum4NoCash + '&tail256=' + ar_Tail + '" frameborder=0 vspace=0 hspace=0 width=300 height=94 marginwidth=0' + ' marginheight=0 scrolling=no></iframe>'); //--> </p>
+<p> <!-- var RndNum4NoCash = Math.round(Math.random() * 1000000000); var ar_Tail='unknown'; if (document.referrer) ar_Tail = escape(document.referrer); document.write( '<iframe src="http://ad.adriver.ru/cgi-bin/erle.cgi?' + 'sid=80938&bn=5&target=blank&bt=34&pz=1&rnd=' + RndNum4NoCash + '&tail256=' + ar_Tail + '" frameborder=0 vspace=0 hspace=0 width=300 height=20 marginwidth=0' + ' marginheight=0 scrolling=no></iframe>'); //--> </p>
+<p> Реклама </p>
+<p> <!-- var RndNum4NoCash = Math.round(Math.random() * 1000000000); var ar_Tail='unknown'; if (document.referrer) ar_Tail = escape(document.referrer); document.write( '<iframe src="http://ad.adriver.ru/cgi-bin/erle.cgi?' + 'sid=80938&sz=food&bn=4&target=blank&bt=34&pz=2&rnd=' + RndNum4NoCash + '&tail256=' + ar_Tail + '" frameborder=0 vspace=0 hspace=0 width=300 height=120 marginwidth=0' + ' marginheight=0 scrolling=no></iframe>'); //--> </p>
+<p> <!-- var RndNum4NoCash = Math.round(Math.random() * 1000000000); var ar_Tail='unknown'; if (document.referrer) ar_Tail = escape(document.referrer); document.write( '<iframe src="http://ad.adriver.ru/cgi-bin/erle.cgi?' + 'sid=80938&bn=7&target=blank&bt=34&pz=3&rnd=' + RndNum4NoCash + '&tail256=' + ar_Tail + '" frameborder=0 vspace=0 hspace=0 width=300 height=120 marginwidth=0' + ' marginheight=0 scrolling=no></iframe>'); //--> </p>
+<p> <!-- if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); } if (typeof(document.referrer) != 'undefined') {   if (typeof(afReferrer) == 'undefined') {     afReferrer = escape(document.referrer);   } } else {   afReferrer = ''; } var addate = new Date(); var dl = escape(document.location); var pr1 = Math.floor(Math.random() * 1000000);//var pr1 = 1234;   function AdWolf_SetLayerVis(spritename,state){document.getElementById(spritename).style.visibility=state;} function AdWolf_ShowOver(show){if(show){AdWolf_SetLayerVis('AdWolf_DivBaseFlash',"hidden"); AdWolf_SetLayerVis('AdWolf_DivOverFlash',"visible");}else{AdWolf_SetLayerVis('AdWolf_DivOverFlash',"hidden"); AdWolf_SetLayerVis('AdWolf_DivBaseFlash',"visible");}} function AdWolf_Open(){AdWolf_ShowOver(true);} function AdWolf_Close(){AdWolf_ShowOver(false);}   document.write('<div id="AdWolf_banner_'+pr1+'"><\/div>'); document.write('<div style="visibility:hidden; position:absolute;"><iframe id="AdWolf_iframe_'+pr1+'" width=1 height=1 marginwidth=0 marginheight=0 scrolling=no frameborder=0><\/iframe><\/div>');   function AdWolf_getCodeScript(AW_n,AW_src){    var AW_doc;    if(AW_n<10){       try{ 	     if(document.all && !window.opera){ 		    AW_doc = window.frames['AdWolf_iframe_'+pr1].document; 			}else if(document.getElementById){ 			         AW_doc = document.getElementById('AdWolf_iframe_'+pr1).contentDocument; 					 } 		 }catch(e){}     if(AW_doc){ 	   AW_doc.write('<scr'+'ipt type="text/javascript" src="'+AW_src+'"><\/scr'+'ipt>'); 	   }else{ 	      setTimeout('AdWolf_getCodeScript('+(++AW_n)+','+AW_src+')', 100); 		  } 		  } } AdWolf_getCodeScript(1,'http://a.adwolf.ru/prepareCode?p1=bet&p2=l&pct=a&pfc=a&pfb=a&plp=a&pli=a&pop=a&pr=' + pr +'&pt=b&pd=' + addate.getDate() + '&pw=' + addate.getDay() + '&pv=' + addate.getHours() + '&prr=' + afReferrer + '&puid1=&puid2=&puid3=&dl='+dl+'&pr1='+pr1); // --> </p>
+<p> <!-- var RndNum4NoCash = Math.round(Math.random() * 1000000000); var ar_Tail='unknown'; if (document.referrer) ar_Tail = escape(document.referrer); document.write( '<iframe src="http://ad.adriver.ru/cgi-bin/erle.cgi?' + 'sid=80938&bn=9&target=blank&bt=34&pz=3&rnd=' + RndNum4NoCash + '&tail256=' + ar_Tail + '" frameborder=0 vspace=0 hspace=0 width=300 height=120 marginwidth=0' + ' marginheight=0 scrolling=no></iframe>'); //--> </p>
+<p> <!-- if(typeof(ar_cn)=="undefined") var ar_cn=1; var ar_Tail='unknown'; if (document.referrer) ar_Tail = escape(document.referrer); var ar_link="http://ad.adriver.ru/cgi-bin/erle.cgi?sid=80938&sz=food&bn=7&target=blank&bt=43&pz=1&tail256=" + ar_Tail; function ar_getDoc(t,n,l){ var doc; if(t<100){if(document.all && !window.opera){doc = window.frames['ar_container_'+n].document;} else if(document.getElementById){doc=document.getElementById('ar_container_'+n).contentDocument;} if(!doc){setTimeout('ar_getDoc('+(++t)+','+n+',"'+l+'")', 100);} else {var RndNum4NoCash = Math.round(Math.random() * 1000000000); doc.write ('<sc'+'ript language="JavaScript" type="text/javascript">var ar_bnum='+n+';<\/sc'+'ript>'); doc.write ('<sc'+'ript language="JavaScript" type="text/javascript" src="'+l+'&rnd='+RndNum4NoCash+'"><\/sc'+'ript>');}}} function ar_putContainer(n){document.write('<div style="visibility:hidden;height:0px;position:absolute;"><iframe id="ar_container_'+n+'" width=1 height=1 marginwidth=0 marginheight=0 scrolling=no frameborder=0><\/iframe><\/div>');} function ar_putDiv(n, f){document.write('<div id="ad_ph_'+n+'" style="'+(f?'position:absolute;':'')+'display:none"><\/div>');} ar_putContainer(ar_cn);ar_putDiv(ar_cn,0);ar_getDoc(0,ar_cn++,ar_link); //--> </p>
+<p> <!-- if(typeof(ar_cn)=="undefined") var ar_cn=1; var ar_Tail='unknown'; if (document.referrer) ar_Tail = escape(document.referrer); var ar_link="http://ad.adriver.ru/cgi-bin/erle.cgi?sid=80938&sz=food&bn=8&target=blank&bt=43&pz=1&tail256=" + ar_Tail; function ar_getDoc(t,n,l){ var doc; if(t<100){if(document.all && !window.opera){doc = window.frames['ar_container_'+n].document;} else if(document.getElementById){doc=document.getElementById('ar_container_'+n).contentDocument;} if(!doc){setTimeout('ar_getDoc('+(++t)+','+n+',"'+l+'")', 100);} else {var RndNum4NoCash = Math.round(Math.random() * 1000000000); doc.write ('<sc'+'ript language="JavaScript" type="text/javascript">var ar_bnum='+n+';<\/sc'+'ript>'); doc.write ('<sc'+'ript language="JavaScript" type="text/javascript" src="'+l+'&rnd='+RndNum4NoCash+'"><\/sc'+'ript>');}}} function ar_putContainer(n){document.write('<div style="visibility:hidden;height:0px;position:absolute;"><iframe id="ar_container_'+n+'" width=1 height=1 marginwidth=0 marginheight=0 scrolling=no frameborder=0><\/iframe><\/div>');} function ar_putDiv(n, f){document.write('<div id="ad_ph_'+n+'" style="'+(f?'position:absolute;':'')+'display:none"><\/div>');} ar_putContainer(ar_cn);ar_putDiv(ar_cn,0);ar_getDoc(0,ar_cn++,ar_link); //--> </p>
+<p> Реклама </p>
+<p> (function(){ 	var cb = Math.random(); 	document.write('<div id="targetix-container-'+cb+'"></div>'); 	document.MAX_used = document.MAX_used || ','; 	var m3_u = (document.location.protocol=='https:'?'https://ads.targetix.net/ajs.php':'http://ads.targetix.net/ajs.php'); 	m3_u += '?zoneid=266'; 	m3_u += '&cb=' + cb; 	if (document.MAX_used != ',') m3_u += '&exclude=' + document.MAX_used; 	m3_u += document.charset ? '&charset='+document.charset : (document.characterSet ? '&charset='+document.characterSet : ''); 	m3_u += '&loc=' + encodeURIComponent(window.location); 	if (document.referrer) m3_u += '&referer=' + encodeURIComponent(document.referrer); 	if (document.context) m3_u += '&context=' + encodeURIComponent(document.context); 	if (document.mmm_fo) m3_u += '&mmm_fo=1'; 	var m3_ajs = document.createElement('script');m3_ajs.type = 'text/javascript';m3_ajs.async = true;m3_ajs.src = m3_u; 	(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(m3_ajs); })(); </p>
+<p> Консультанты </p>
+<p> countonpage=3; consN=0; pages=1;  $.cookie('conspage',($.cookie('conspage')*1+1) % pages,{ expires: 7, path: "/" });  var cconspage = $.cookie('conspage');//alert(cconspage);  if (isNaN(cconspage)) { var conspage = '1'; } else { var conspage = ''+$.cookie('conspage'); } //alert(conspage);  sdvig=0; if (conspage==pages-1) { sdvig=pages*countonpage-1; }; </p>
+<p> consN++; if (consN+sdvig>conspage*countonpage&&consN+sdvig <= conspage*countonpage+countonpage) {document.write("<li style='padding: 6px 6px 6px 100px;height:90px;'><a class=\"test-pic\" href=\"http://www.aif.ru/onlineconf/5607\"><img width=80 height=80 style='padding:6px 9px' src=\"http://static2.aif.ru/public/hkuhnya/161/0dc0b1dc3e3ccf0041a411508ba4d498_1.jpg\" class=\"\" /></a>                                <a style='color:black;' href=\"http://www.aif.ru/onlineconf/5607\"><b>Шеф-повар, президент Клуба  шеф-поваров Санкт-Петербурга</b><br>Илья Лазерсон</a><br><a style='color:black;' href=\"http://www.aif.ru/onlineconf/5607\">Ответы на вопросы <span style='color:#929393;'>(0)</span></a><p style='padding-top:9px;'><a style='color:black;' href=\"http://www.aif.ru/onlineconf/5607\"><img src=/i/health/i/footheader-bg.gif border=0> Задать свой вопрос</a></p></li>");}; </p>
+<p> Все консультанты (1) </p>
+<p> Это интересно </p>
+<p> Загрузка... </p>
+<p> var MGCD = new Date(); document.write('<scr' +'ipt type="text/javascript"' +' src="http://jsc.dt00.net/a/i/aif.ru.3787.js?t=' +MGCD.getYear() +MGCD.getMonth() +MGCD.getDate() +MGCD.getHours() +'" charset="windows-1251"></scr'+'ipt>'); </p>
+<p> Регионы AIF.RU </p>
+<p> // <!-- var fstiz_login = "aif-region"; var fstiz_options = "options=NV"; var fstiz_random = Math.round(Math.random() * 100000); document.write('<iframe src="http://tizer.4smi.ru/cgi-bin/iframe/'+fstiz_login+'?'+fstiz_random+'&'+fstiz_options+'&n=2&style=http://www.aif.ru/iframes/new_t.css" width="100%" height="115" marginwidth="0" marginheight="0" scrolling="no" frameborder="0"><a href="http://tizer.4smi.ru/cgi-bin/href/'+fstiz_login+'?'+fstiz_random +'" target="_blank"><img src="http://tizer.4smi.ru/cgi-bin/banner/'+fstiz_login+'?'+fstiz_random +'&'+fstiz_options+'" alt="4 SMI" width="100%" height="115" border="0" ismap="ismap"></a></iframe>'); // --> </p>
+<p> ВОПРОСЫ ЧИТАТЕЛЕЙ </p>
+<p> ...Мишку в Кремле запатентовали?... </p>
+<p> ...Где ГМО?... </p>
+<p> ...Домашний майонез тоже вреден?... </p>
+<p> Все вопросы </p>
+<p> // <!-- var fstiz_login = "aif-edimdoma"; var fstiz_options = "options=NV"; var fstiz_random = Math.round(Math.random() * 100000); document.write('<iframe src="http://tizer.4smi.ru/cgi-bin/iframe/'+fstiz_login+'?'+fstiz_random+'&'+fstiz_options+'&n=3" width="100%" height="225" marginwidth="0" marginheight="0" scrolling="no" frameborder="0"><a href="http://tizer.4smi.ru/cgi-bin/href/'+fstiz_login+'?'+fstiz_random +'" target="_blank"><img src="http://tizer.4smi.ru/cgi-bin/banner/'+fstiz_login+'?'+fstiz_random +'&'+fstiz_options+'" alt="4 SMI" width="100%" height="225" border="0" ismap="ismap"></a></iframe>'); // --> </p>
+<p> Товары и услуги </p>
+<p> <!-- var RndNum4NoCash = Math.round(Math.random() * 1000000000); var ar_Tail='unknown'; if (document.referrer) ar_Tail = escape(document.referrer); document.write( '<iframe src="http://ad.adriver.ru/cgi-bin/erle.cgi?' + 'sid=80938&bn=1&target=blank&bt=31&pz=1&rnd=' + RndNum4NoCash + '&tail256=' + ar_Tail + '" frameborder=0 vspace=0 hspace=0 width=160 height=220 marginwidth=0' + ' marginheight=0 scrolling=no></iframe>'); //--> </p>
+<p> Шубы и меховые жилетки </p>
+<p> Норка со скидкой 56% для вас </p>
+<p> от 500 руб. </p>
+<p> Скидки AIF.RU </p>
+<p> <!-- var RndNum4NoCash = Math.round(Math.random() * 1000000000); var ar_Tail='unknown'; if (document.referrer) ar_Tail = escape(document.referrer); document.write( '<iframe src="http://ad.adriver.ru/cgi-bin/erle.cgi?' + 'sid=80938&bn=2&target=blank&bt=31&pz=1&rnd=' + RndNum4NoCash + '&tail256=' + ar_Tail + '" frameborder=0 vspace=0 hspace=0 width=150 height=220 marginwidth=0' + ' marginheight=0 scrolling=no></iframe>'); //--> </p>
+<p> Бутик кредитных карт </p>
+<p> Подбери подходящий % и сумму </p>
+<p> от 10 до 1 500 000 руб. </p>
+<p> Деньги AIF.RU </p>
+<p> Флисовые пледы от «Parma» </p>
+<p> Тепло и уют в Новый Год </p>
+<p> от 220 руб. </p>
+<p> Скидки AIF.RU </p>
+<p> <!-- var RndNum4NoCash = Math.round(Math.random() * 1000000000); var ar_Tail='unknown'; if (document.referrer) ar_Tail = escape(document.referrer); document.write( '<iframe src="http://ad.adriver.ru/cgi-bin/erle.cgi?' + 'sid=80938&bn=3&target=blank&bt=31&pz=1&rnd=' + RndNum4NoCash + '&tail256=' + ar_Tail + '" frameborder=0 vspace=0 hspace=0 width=150 height=220 marginwidth=0' + ' marginheight=0 scrolling=no></iframe>'); //--> </p>
+<p> Ремейк Нового года </p>
+<p> Сборник новогодних детективных рассказов </p>
+<p> от 39 руб. </p>
+<p> Книги AIF.RU </p>
+<p> Новый год! </p>
+<p> Если вы хотите весело встретить праздник... </p>
+<p> от 14 руб. </p>
+<p> Книги AIF.RU </p>
+<p> Два билета по цене одного! </p>
+<p> В театр «Сатирикон» весь декабрь </p>
+<p> от 100 руб. </p>
+<p> Скидки AIF.RU </p>
+<p> Скидка 80% на радиоигрушки </p>
+<p> для детей и взрослых </p>
+<p> от 200 руб. </p>
+<p> Скидки AIF.RU </p>
+<p> <!-- var RndNum4NoCash = Math.round(Math.random() * 1000000000); var ar_Tail='unknown'; if (document.referrer) ar_Tail = escape(document.referrer); document.write('<sc' + 'ript language="JavaScript" src="http://ad.adriver.ru/cgi-bin/erle.cgi?sid=80938&bt=16&target=blank&tail256="' + ar_Tail + '"></sc' + 'ript>'); //--> </p>
+<p> var bbSite='http___aif.ru'; var bbMainDomain='stat.arbocontext.ru'; </p>
+<p> <!-- //var ml_start_point = "id_of_block";  //var ml_markers = {'allow': '_vctx_on_', 'deny':'_vctx_off_'}; //var ml_max_links = 15;  var random = Math.floor(Math.random() * 1000000000); document.write('<scr' + 'ipt language="JavaScript" src="http://engine.video-link.ru/code?pid=45782&gid=23&oin=1&rid=' + random +'"></scr' + 'ipt>'); // --> </p>
+<p> <!-- var _rbn={}; _rbn.v={}; _rbn.v.inline_color = "#009900"; _rbn.v.inline_count_max=5; _rbn.v.is_use_marked=true; _rbn.v.autostart_video = 1; _rbn.v.ad=[]; document.write('<scr' + 'ipt language="JavaScript" src="http://drive.videoclik.ru/code?pid=147&rid=' + (Math.floor(Math.random() * 1000000000)) +'" charset="utf-8" type="text/JavaScript"></scr' + 'ipt>'); // --> </p>
+<p> <!-- document.write('<scr' + 'ipt language="JavaScript" src="http://drive.videoclik.ru/code?pid=1135&rid=' + (Math.floor(Math.random() * 1000000000)) +'" charset="utf-8" type="text/JavaScript"></scr' + 'ipt>'); // --> </p>
+<p> <!-- var _ga1_channel='22'; // --> </p>
+<p> var MarketGidDate = new Date();     document.write('<scr'+'ipt type="text/javascript" '     +'src="http://jsn.dt00.net/3/a/3.aif.ru.8268.js?t='+MarketGidDate.getYear()+MarketGidDate.getMonth()     + '" charset="windows-1251" ></scr'+'ipt>'); </p>
+<p> var MarketGidDate = new Date();     document.write('<scr'+'ipt type="text/javascript" '+'src="http://jsn.dt00.net/a/i/aif.ru.6739.js?t='+MarketGidDate.getYear()+MarketGidDate.getMonth()+ '" charset="windows-1251" ></scr'+'ipt>'); </p>
+<p> /* <![CDATA[ */ var bbs=screen,bbn=navigator,bbh;bbh='&ubl='+bbn.browserLanguage+'&ucc='+bbn.cpuClass+'&ucd='+bbs.colorDepth+'&uce='+bbn.cookieEnabled+'&udx='+bbs.deviceXDPI+'&udy='+bbs.deviceYDPI+'&usl='+bbn.systemLanguage+'&uje='+bbn.javaEnabled()+'&uah='+bbs.availHeight+'&uaw='+bbs.availWidth+'&ubd='+bbs.bufferDepth+'&uhe='+bbs.height+'&ulx='+bbs.logicalXDPI+'&uly='+bbs.logicalYDPI+'&use='+bbs.fontSmoothingEnabled+'&uto='+(new Date()).getTimezoneOffset()+'&uti='+(new Date()).getTime()+'&uui='+bbs.updateInterval+'&uul='+bbn.userLanguage+'&uwi='+bbs.width; if(typeof(bburlparam)=='string') { bbh+='&'+bburlparam; } if(typeof(bbkeywords)=='string') { bbh+='&keywords='+escape(bbkeywords); } document.write("<scr"+"ipt type='text/javascript' src='http://go.arboru.bbelements.com/please/showit/2353/3/1/50/?typkodu=js"+bbh+"&alttext=0&border=0&bust="+Math.random()+"&target=_blank'><"+"\/scr"+"ipt>"); /* ]]> */ </p>
+<p> <!-- var _ga3_channel='56'; // --> </p>
+<p> Разделы </p>
+<p> Общество </p>
+<p> Культура </p>
+<p> Здоровье </p>
+<p> Техника </p>
+<p> Деньги </p>
+<p> Туризм </p>
+<p> Кухня </p>
+<p> Досуг </p>
+<p> Сервисы </p>
+<p> Карта сайта </p>
+<p> Объявления </p>
+<p> ЕГЭ-метр </p>
+<p> Погода </p>
+<p> Скидки </p>
+<p> Поиск </p>
+<p> Книги </p>
+<p> Музыка </p>
+<p> Фильмы </p>
+<p> Игры </p>
+<p> Проекты </p>
+<p> Власть Общество Бизнес </p>
+<p> Бизнес-конференции </p>
+<p> Online-конференции </p>
+<p> мобильный репортер </p>
+<p> Медиа школа </p>
+<p> Пресс-центр </p>
+<p> Видео </p>
+<p> Читайте нас </p>
+<p> в контакте </p>
+<p> facebook </p>
+<p> twitter </p>
+<p> iphone </p>
+<p> pda </p>
+<p> rss </p>
+<p> Контакты </p>
+<p> Подписка на газету </p>
+<p> Подписка на сайт </p>
+<p> Реклама на сайте </p>
+<p> Реклама в газете </p>
+<p> Адрес редакции </p>
+<p> Обратная связь </p>
+<p> Медиакит (PDF) </p>
+<p> Статистика </p>
+<p> var img = new Image(); 	img.src = 'http://www.aif.ru/lock/counter.php'; </p>
+<p> <!-- d=document;var a='';a+=';r='+escape(d.referrer);js=10;//--> </p>
+<p> <!-- a+=';j='+navigator.javaEnabled();js=11;//--> </p>
+<p> <!-- s=screen;a+=';s='+s.width+'*'+s.height; a+=';d='+(s.colorDepth?s.colorDepth:s.pixelDepth);js=12;//--> </p>
+<p> <!-- js=13;//--> </p>
+<p> <!-- d.write('<a href="http://top.mail.ru/jump?from=59428" target="_top">'+ '<img src="http://d8.ce.b0.a0.top.mail.ru/counter?id=59428;t=49;js='+js+ a+';rand='+Math.random()+'" alt="Рейтинг@Mail.ru" border="0" '+ 'height="31" width="88"><\/a>');if(11<js)d.write('<'+'!-- ');//--> </p>
+<p> <!-- if(11<js)d.write('--'+'>');//--> </p>
+<p> try { var yaCounter46571 = new Ya.Metrika({id:46571, enableAll: true,type:1});} catch(e) { } </p>
+<p> document.write('<img src="http://luxup.ru/tr/360/&r='+escape(document.referrer)+'&t='+(new Date()).getTime()+'" width="1" height="1"/>'); </p>
+<p> var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); </p>
+<p> var pageTracker = _gat._getTracker("UA-3672159-1"); pageTracker._setDomainName("aif.ru"); pageTracker._initData(); pageTracker._trackPageview(); </p>
+<p> © ЗАО «Аргументы и Факты». (1997-2011) </p>
+<p> Н. Зятьков - главный редактор, президент </p>
+<p> Д. Воронков - генеральный директор </p>
+<p> Свидетельство о регистрации СМИ </p>
+<p> Эл № ФС77-31805 от 23.04.2008 </p>
+<p> Адрес редакции: 107996, г. Москва, </p>
+<p> ул. Электрозаводская 27 к.4, БЦ «Ле-Форт» </p>
+<p> Телефон редакции: +7 (495) 646-57-57 </p>
+<p> Редакция не несет ответственности за достоверность информации, содержащейся в рекламных объявлениях. Редакция не предоставляет справочной информации. </p>
+<p> Рубрики «Здоровье», «Техника», «Кухня», «Деньги», «Туризм» являются рекламно-информационными приложениями к «AIF.RU» </p>
+<p> Ваше мнение о сайте: </p>
+<p> Похвалить </p>
+<p> Поругать </p>
+<p> Спросить </p>
+<p> Скрыть </p>
+<p> $(document).ready(function() { 	var login = $.cookie('login');  	if (login == null) 	{ 		$('.hello').html('Здравствуйте, Гость<br /><a href="/auth/login">Вход</a> | <a href="/auth/registration">Регистрация</a>'); 	} else { 		$('.hello').html('Здравствуйте, ' + login + '!<br /><a href="/auth/logout">Выйти</a>'); 	} }); </p>

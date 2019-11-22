@@ -1,0 +1,1070 @@
+<p> document.domain = "guardian.co.uk"; </p>
+<p> //<![CDATA[ 				OAS_url = 'http://oas.guardian.co.uk/RealMedia/ads/'; 				OAS_sitepage = "www.guardian.co.uk/commentisfree/2011/dec/13/nhs-whistleblowers-must-be-protected/oas.html"; 				OAS_listpos = 'Top,Middle2,Right1,x31';  								OAS_query = 'k=mid-staffordshire-nhs-trust&k=nhs&k=social-care&k=health&k=uk&cf=health+society&pid=&ct=article&pt=article&pt=blog&'; 				OAS_target = '_blank';  				OAS_rn = '001234567890'; 				OAS_rns = '1234567890'; 				OAS_rn = new String (Math.random()); 				OAS_rns = OAS_rn.substring (2, 11); 			//]]> </p>
+<p> Response: NHS whistleblowers must be protected or there will be more deaths | Comment is free | The Guardian </p>
+<p> //<![CDATA[ 	if (!commonStaticRoot) {	 		var commonStaticRoot = "http://static.guim.co.uk/static/b5c4e8d780aa8be3b8dd5e21c7bbe4b6245fb74c/common/"; 	} 	if (!sectionStaticRoot) {	 		var sectionStaticRoot = "http://static.guim.co.uk/static/b5c4e8d780aa8be3b8dd5e21c7bbe4b6245fb74c/commentisfree/"; 	} 	if (!staticHost) {	 		var staticHost="http://www.guardian.co.uk/"; 	} 	if (!sitePrefixUrl) { 		var sitePrefixUrl = "http://www.guardian.co.uk"; 	} //]]> </p>
+<p> var _sf_startpt=(new Date()).getTime(); </p>
+<p> window.jQuery || document.write('<script src="http://static.guim.co.uk/static/b5c4e8d780aa8be3b8dd5e21c7bbe4b6245fb74c/common/scripts/libs/jquery/1.6.4/jquery.min.js">\x3C/script>') </p>
+<p> var jQ = jQuery.noConflict(); </p>
+<p> //<![CDATA[ 	function insertStyleSheet(href) { 		var styleObject = document.createElement('link'); 		styleObject.setAttribute('href', commonStaticRoot + href); 		styleObject.setAttribute('type', 'text/css'); 		styleObject.setAttribute('media', 'screen'); 		styleObject.setAttribute('rel', 'stylesheet'); 		var head = document.getElementsByTagName('head')[0]; 		head.appendChild(styleObject); 	} 	insertStyleSheet('styles/js-on.css'); 	insertPluckStylesheet = true; 	//]]> </p>
+<p> //<![CDATA[ 	function init() { 		urlStack.clearUrlStack(); 		var signOutLink = document.getElementById("sign-out"); 		if (signOutLink) { 			signOutLink.onclick = signOut; 		} 		 		// Purely styling 		jQ('.js-show').removeClass('js-show'); 	}      guardian.r2.resourceRoot = "http://resource.guim.co.uk/";     var pageUrl = "http://www.guardian.co.uk/commentisfree/2011/dec/13/nhs-whistleblowers-must-be-protected";     var pageSignature =  "09b06388e027dffd5b3076e439fdbccca02e90fde7a7801ff08f1f50206ce767";      	var thirdPartyReferralCookieService = new guardian.r2.ThirdPartyReferralCookieService(); 	thirdPartyReferralCookieService.setThirdPartyReferralCookie(); 		 	var urlStack = new UrlStack(".guardian.co.uk");	 	var communitiesSite = false;                    	guardian.r2.signInListeners = new guardian.r2.SignInListeners();     (function () {	 		var signInView = new guardian.r2.SignInView("http://static.guim.co.uk/static/b5c4e8d780aa8be3b8dd5e21c7bbe4b6245fb74c/common/scripts/md5.js", communitiesSite); 		guardian.r2.signInController = new guardian.r2.SignInController(signInView, guardian.r2.signInListeners, "http://www.guardian.co.uk/tools/signin", pageUrl, pageSignature); 		 	}) (); 	 	(function () { 		var profileLinkView = new guardian.r2.ProfileLinkView(); 		profileLinkController = new guardian.r2.ProfileLinkController(profileLinkView, "http://www.guardian.co.uk/discussion/user/"); 	}) ();  	jQ(document).ready(init); 	//]]> </p>
+<p> Turn autoplay off </p>
+<p> Turn autoplay on </p>
+<p> Please activate cookies in order to turn autoplay off </p>
+<p> Jump to content [s] </p>
+<p> Jump to comments [c] </p>
+<p> Jump to site navigation [0] </p>
+<p> Jump to search [4] </p>
+<p> Terms and conditions [8] </p>
+<p> Edition: </p>
+<p> UK </p>
+<p> US </p>
+<p> Sign in </p>
+<p> Mobile </p>
+<p> About us </p>
+<p> About us </p>
+<p> Contact us </p>
+<p> Press office </p>
+<p> Guardian Print Centre </p>
+<p> Guardian readers' editor </p>
+<p> Observer readers' editor </p>
+<p> Terms of service </p>
+<p> Privacy policy </p>
+<p> Advertising guide </p>
+<p> Digital archive </p>
+<p> Digital edition </p>
+<p> Guardian Weekly </p>
+<p> Buy Guardian and Observer photos </p>
+<p> Subscribe </p>
+<p> Today's paper </p>
+<p> The Guardian </p>
+<p> G2 features </p>
+<p> Comment and debate </p>
+<p> Editorials, letters and corrections </p>
+<p> Obituaries </p>
+<p> Other lives </p>
+<p> Sport </p>
+<p> Subscribe </p>
+<p> Subscribe </p>
+<p> Subscribe to the Guardian </p>
+<p> iPhone app </p>
+<p> iPad edition </p>
+<p> Kindle </p>
+<p> Extra </p>
+<p> Guardian Weekly </p>
+<p> Digital edition </p>
+<p> All our services </p>
+<p> ensurePackage('guardian.r2');  	guardian.r2.dropDownMenu = function () { 	 		// bar set up 		jQ('.top-navigation').show().addClass('top-navigation-js'); 		jQ('#fake-bar').remove();  		// functionality 		jQ('.drop-down').mouseover(function() { 			jQ(this).find('ul').css('display', 'block'); 		});  		jQ('.drop-down').mouseout(function() { 			jQ(this).find('ul').css('display', 'none'); 		});  	};	 	 	jQ(document).ready(function() { 		var myDropDownMenu = new guardian.r2.dropDownMenu(); 	}); </p>
+<p> The Guardian </p>
+<p> Comment is free </p>
+<p> User comments </p>
+<p> Web </p>
+<p> News </p>
+<p> Sport </p>
+<p> Comment </p>
+<p> Culture </p>
+<p> Business </p>
+<p> Money </p>
+<p> Life & style </p>
+<p> Travel </p>
+<p> Environment </p>
+<p> TV </p>
+<p> Data </p>
+<p> Video </p>
+<p> Mobile </p>
+<p> Offers </p>
+<p> Jobs </p>
+<p> Comment is free </p>
+<p> Series: </p>
+<p> Response </p>
+<p> Previous </p>
+<p> | </p>
+<p> Next </p>
+<p> | </p>
+<p> Index </p>
+<p> NHS whistleblowers must be protected or there will be more deaths </p>
+<p> It is crucial that health service managers face up to mistakes and learn lessons from them </p>
+<p> Tweet this </p>
+<p> reddit this </p>
+<p> omnitracker.omniTrackEVarEvent( 12, 16, 'Comment is free: Reddit', 'click', '.reddit a' ); </p>
+<p> Comments ( </p>
+<p> … </p>
+<p> ) </p>
+<p> Roger Kline </p>
+<p> guardian.co.uk </p>
+<p> , </p>
+<p> Tuesday 13 December 2011 19.00 GMT </p>
+<p> Article history </p>
+<p> About this article </p>
+<p> Close </p>
+<p> Response: NHS whistleblowers must be protected or there will be more deaths </p>
+<p> This article was published on </p>
+<p> guardian.co.uk </p>
+<p> at </p>
+<p> 19.00 GMT on Tuesday 13 December 2011 </p>
+<p> .  					   	A version appeared  on p33 of the </p>
+<p> Main section </p>
+<p> section of </p>
+<p> the Guardian </p>
+<p> on </p>
+<p> Wednesday 14 December 2011 </p>
+<p> .  					   	It was last modified at </p>
+<p> 00.06 GMT on Wednesday 14 December 2011 </p>
+<p> . </p>
+<p> I read your reports ( </p>
+<p> NHS watchdog under fire for putting patient care at risk </p>
+<p> , 2 December; </p>
+<p> Neglect and indignity: Stafford hospital inquiry damns NHS failings </p>
+<p> , 2 December) about the Mid Staffs hospital public inquiry and the failings of the Care Quality Commission (CQC) with fear, anger and a little hope. They brought back the suffering my parents experienced where poor hospital and care-home practice went unchallenged. </p>
+<p> Too many hospital trusts and local authorities fail to learn lessons and acknowledge mistakes; so repetition is inevitable. In Mid Staffs, the "silence from doctors and nurses", with few honourable exceptions, ensured that the desperate attempts to cut costs to become a foundation trust had fatal consequences. The "shocking catalogue of appalling care" you report at Mid Staffs was a microcosm of what the </p>
+<p> NHS </p>
+<p> and </p>
+<p> social care </p>
+<p> could become. </p>
+<p> These are avoidable tragedies. Hospitals and social services inevitably make mistakes. Good organisations want to know about such mistakes and learn from them. But the CQC has utterly failed to challenge the widespread absence of a learning culture. Indeed, it failed to blow the whistle on its own underfunding, gagged its own whistleblowing inspectors, cut its inspections catastrophically by 70% between 2009 and 2011 and generally, as you state, had an "unhealthy organisational culture". </p>
+<p> Its astonishing litany of shortcomings is rooted in previous government funding cuts and the desire for more "light touch" regulation. Key NHS leaders remain in denial, despite the recent inquiries. Cynthia Bower of CQC claims "we have learned, reviewed what we do and made changes", while Sue Slipman of the Foundation Trust Network claims the CQC's judgments are "disproportionate". The CQC has indeed failed us all, but it is far from being the only culprit. </p>
+<p> Health secretary Andrew Lansley, who rightly established the Mid Staffs inquiry, now presides over changes that will make another scandal more likely. You report that he "has kept a close eye on proceedings", but the next such inquiry will undoubtedly conclude that his market-led NHS and huge cuts in health and social care budgets were the prime suspects, alongside the failure to protect whistleblowers. As someone who has represented victimised whistleblowers, I am not surprised the RCN reports that </p>
+<p> 84% of nurses worry that they'd be victimised if they reported concerns about patient safety </p>
+<p> , something the planned extension of the qualifying period for employment protection will make worse. </p>
+<p> Yet there is also hope. Despite the immense obstacles, brave souls do raise concerns, often risking their careers. There is a powerful case for the inquiry to recommend strengthened statutory protection for whistleblowers and serious penalties for those who victimise them. Will Andrew Lansley endorse such a recommendation? </p>
+<p> Health and social care organisations should be open learning organisations where those raising concerns are praised, not ignored or punished. All of us, individually and collectively, have a duty to ensure there are enough staff, treated fairly, and encouraged to raise concerns. Nothing less will do. </p>
+<p> Printable version </p>
+<p> Send to a friend </p>
+<p> Share </p>
+<p> Clip </p>
+<p> Contact us </p>
+<p> larger </p>
+<p> | </p>
+<p> smaller </p>
+<p> Email </p>
+<p> Close </p>
+<p> Recipient's email address </p>
+<p> Your first name </p>
+<p> Your surname </p>
+<p> Add a note (optional) </p>
+<p> Your IP address will be logged </p>
+<p> Share </p>
+<p> Close </p>
+<p> Short link for this page: </p>
+<p> http://gu.com/p/344v9 </p>
+<p> StumbleUpon </p>
+<p> reddit </p>
+<p> Tumblr </p>
+<p> Digg </p>
+<p> LinkedIn </p>
+<p> Google Bookmarks </p>
+<p> del.icio.us </p>
+<p> livejournal </p>
+<p> Facebook </p>
+<p> Twitter </p>
+<p> Contact us </p>
+<p> Close </p>
+<p> Report errors or inaccuracies: </p>
+<p> reader@guardian.co.uk </p>
+<p> Letters for publication should be sent to: </p>
+<p> letters@guardian.co.uk </p>
+<p> If you need help using the site: </p>
+<p> userhelp@guardian.co.uk </p>
+<p> Call the main Guardian and Observer switchboard: </p>
+<p> +44 (0)20 3353 2000 </p>
+<p> Advertising guide </p>
+<p> License/buy our content </p>
+<p> Society </p>
+<p> NHS </p>
+<p> · </p>
+<p> Health </p>
+<p> · </p>
+<p> Mid Staffordshire NHS Trust </p>
+<p> · </p>
+<p> Social care </p>
+<p> Politics </p>
+<p> Health policy </p>
+<p> UK news </p>
+<p> Series </p>
+<p> Response </p>
+<p> More from </p>
+<p> Comment is free </p>
+<p> on </p>
+<p> Society </p>
+<p> NHS </p>
+<p> · </p>
+<p> Health </p>
+<p> · </p>
+<p> Mid Staffordshire NHS Trust </p>
+<p> · </p>
+<p> Social care </p>
+<p> Politics </p>
+<p> Health policy </p>
+<p> UK news </p>
+<p> Series </p>
+<p> Response </p>
+<p> Related </p>
+<p> 17 Mar 2009 </p>
+<p> Alan Johnson moves to 'close this regrettable chapter in hospital's past' </p>
+<p> 11 Nov 2010 </p>
+<p> Twins killed by mistake at inquiry hospital </p>
+<p> 2 Dec 2011 </p>
+<p> Care Quality Commission's failures create risk of another Mid Staffs </p>
+<p> 17 Mar 2009 </p>
+<p> Hospital condemned over deaths after 'appalling' failures in care </p>
+<p> Printable version </p>
+<p> Send to a friend </p>
+<p> Share </p>
+<p> Clip </p>
+<p> Contact us </p>
+<p> Article history </p>
+<p> Email </p>
+<p> Close </p>
+<p> Recipient's email address </p>
+<p> Your first name </p>
+<p> Your surname </p>
+<p> Add a note (optional) </p>
+<p> Your IP address will be logged </p>
+<p> Share </p>
+<p> Close </p>
+<p> Short link for this page: </p>
+<p> http://gu.com/p/344v9 </p>
+<p> StumbleUpon </p>
+<p> reddit </p>
+<p> Tumblr </p>
+<p> Digg </p>
+<p> LinkedIn </p>
+<p> Google Bookmarks </p>
+<p> del.icio.us </p>
+<p> livejournal </p>
+<p> Facebook </p>
+<p> Twitter </p>
+<p> Contact us </p>
+<p> Close </p>
+<p> Report errors or inaccuracies: </p>
+<p> reader@guardian.co.uk </p>
+<p> Letters for publication should be sent to: </p>
+<p> letters@guardian.co.uk </p>
+<p> If you need help using the site: </p>
+<p> userhelp@guardian.co.uk </p>
+<p> Call the main Guardian and Observer switchboard: </p>
+<p> +44 (0)20 3353 2000 </p>
+<p> Advertising guide </p>
+<p> License/buy our content </p>
+<p> About this article </p>
+<p> Close </p>
+<p> Response: NHS whistleblowers must be protected or there will be more deaths </p>
+<p> This article was published on </p>
+<p> guardian.co.uk </p>
+<p> at </p>
+<p> 19.00 GMT on Tuesday 13 December 2011 </p>
+<p> .  					   	A version appeared  on p33 of the </p>
+<p> Main section </p>
+<p> section of </p>
+<p> the Guardian </p>
+<p> on </p>
+<p> Wednesday 14 December 2011 </p>
+<p> .  					   	It was last modified at </p>
+<p> 00.06 GMT on Wednesday 14 December 2011 </p>
+<p> . </p>
+<p> google_ad_client = 'ca-guardian_js'; google_ad_channel = 'commentisfree'; </p>
+<p> google_max_num_ads = '3'; </p>
+<p> //<![CDATA[ 			if (true) { 					  writeScript("http://pagead2.googlesyndication.com/pagead/show_ads.js", false, function(){}); 			} 		// ]]> </p>
+<p> Comments in chronological order </p>
+<p> (Total 42 comments) </p>
+<p> Sign in to comment </p>
+<p> or </p>
+<p> create your Guardian account </p>
+<p> to join the conversation </p>
+<p> Staff </p>
+<p> Contributor </p>
+<p> zapthecrap </p>
+<p> 13 December 2011 7:05PM </p>
+<p> The situation will only get worse as the private sector take more control. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 32 </p>
+<p> ) </p>
+<p> Responses (1) </p>
+<p> Report abuse </p>
+<p> | </p>
+<p> Link </p>
+<p> richardoxford </p>
+<p> 13 December 2011 7:06PM </p>
+<p> The point of UK PLC is that incompetent toads promote each other and get ludicrous wealth as a reward . </p>
+<p> . </p>
+<p> Whistleblowers are spoilsports who interfere with the game ! </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 24 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report abuse </p>
+<p> | </p>
+<p> Link </p>
+<p> fripouille </p>
+<p> 13 December 2011 7:14PM </p>
+<p> Short, sweet, and clearly laid out, this is a very good article. Whistle-blowers in the NHS should not only be protected, they should be actively encouraged to report serious abuse. We're talking about people's lives here for god's sake. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 21 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report abuse </p>
+<p> | </p>
+<p> Link </p>
+<p> pimentomori </p>
+<p> 13 December 2011 7:22PM </p>
+<p> I hope the sub-editors realise how the headline comes across - i.e. whistleblowers are being assassinated! </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 4 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report abuse </p>
+<p> | </p>
+<p> Link </p>
+<p> tutut </p>
+<p> 13 December 2011 7:22PM </p>
+<p> The dust pan and brush are brought out on a regular basis.Usually employed by the Medical Defence Union to sweep up the mess left behind by poor practice.Maybe if the Union changed tack,ie. seeking the truth behind accusations instead of  pretending that all surgeons and doctors are the victims of spurious claims.When those at the top of their profession regard themselves as "untouchable" then it's no  surprise that administrators follow suit. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 9 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report abuse </p>
+<p> | </p>
+<p> Link </p>
+<p> Xtofer </p>
+<p> 13 December 2011 7:33PM </p>
+<p> I'm probably not going to put this very well, but here goes. If you want to have constructive whistle-blowing, near-miss reporting and learning from mistakes, then it needs to be enshrined in law and backed up with resources. Look at other industries and see how variable it is. Whistle-blowing and near-miss reporting is now kind of there in the rail industry. It's embedded in the aviation industry and completely absent in the finance and media industries. The route to this is likely through health and safety legislation (implementation and enforcement of which has been eviscerated over the last couple of decades) in order to maintain a protected route for anonymous reporting. There is no special case pleading for any of these industries. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 10 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report abuse </p>
+<p> | </p>
+<p> Link </p>
+<p> Fainche </p>
+<p> 13 December 2011 7:33PM </p>
+<p> The exposure  by Panorama on Winterbourne Care Home being a case in point where  Terry Bryan's complaints to the management were totally ignored. </p>
+<p> When 'profits before people' is the main driver for any organisation it's almost obligatory that consideration for the customer is sacrificed for financial gain. If the same principle is applied to the NHS then I'd expect their 'whistleblowing' hotline to go into meltdown. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 19 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report abuse </p>
+<p> | </p>
+<p> Link </p>
+<p> dorice </p>
+<p> 13 December 2011 7:38PM </p>
+<p> Yes. More whistleblowers is a must , and not just within the NHS ! </p>
+<p> Before, during, and after the London riots the Guardian published several articles related to deaths in police custody, although nothing was said about the FACT (they're sacred, remember ?) that all but 6 or 7 of those deaths were 'natural causes'. </p>
+<p> In several of my responses I drew attention to the BMA's own concern about 'avoidable deaths in English hospitals'. </p>
+<p> I was shocked when I saw the figures ! </p>
+<p> Remember, the Guardian had been pushing the IPCC's figure of 333 'Deaths in Police Custody' in 12 years as a national scandal...... but had said nothing about the 35 - 40,000 avoidable deaths recorded by the NHS (in England) over the same period. </p>
+<p> The causes are the same - neglect, bad practice, lack of supervision, medical mistakes, wrong diagnosis, and yes - criminal activity. </p>
+<p> When I read the BMA report, I felt guilty, because 20-odd years ago I remember a nurse, someone I knew very well, laughing at the 'fact' that the death rate in a geriatric ward had trebled since she started working there. </p>
+<p> At the time I wasn't sure if she was being serious, but in the last 10 years, cases where the elderly HAVE been 'dispatched' by those medics who are supposed to be caring for them in hospital have shocked us all. </p>
+<p> Has the same thing happened in care homes ? </p>
+<p> Has it happened to seriously disabled people ? </p>
+<p> If 'Yes', then someone must have their suspicions - yet they stay silent. </p>
+<p> I know that medics 'close ranks'. I've witnessed it.  Records disappearing - statements being changed - sudden memory lapses in court - and so on. </p>
+<p> So until the NHS (England) has a equivalent of the IPCC,  we need whistleblowers to force the Governments hand. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 11 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report abuse </p>
+<p> | </p>
+<p> Link </p>
+<p> delebimusplebs </p>
+<p> 13 December 2011 7:39PM </p>
+<p> Just read Private Eye. The bureaucratic machine will crush any whistleblower. Going up against it is career suicide. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 21 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report abuse </p>
+<p> | </p>
+<p> Link </p>
+<p> dorice </p>
+<p> 13 December 2011 7:47PM </p>
+<p> Response to </p>
+<p> zapthecrap, 13 December 2011 7:05PM </p>
+<p> Indeed ! </p>
+<p> It might be worthwhile having a close look at the survival rate of people who are discharged from hospital. </p>
+<p> Beds are now a commodity, and quick turn round means better 'league table' results - does that mean higher bonuses ? Or more funding ? </p>
+<p> Anyway, Ch4 news is just about to report on ..... protection for whistleblowers.  Should be interesting </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 4 </p>
+<p> ) </p>
+<p> Responses (2) </p>
+<p> Report abuse </p>
+<p> | </p>
+<p> Link </p>
+<p> zapthecrap </p>
+<p> 13 December 2011 7:53PM </p>
+<p> Response to </p>
+<p> dorice, 13 December 2011 7:47PM </p>
+<p> Very depressing  the government obviously are not interested or they could act now instead of making excuses. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 2 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report abuse </p>
+<p> | </p>
+<p> Link </p>
+<p> zapthecrap </p>
+<p> 13 December 2011 7:54PM </p>
+<p> She is one scary minister. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 0 </p>
+<p> ) </p>
+<p> Responses (1) </p>
+<p> Report abuse </p>
+<p> | </p>
+<p> Link </p>
+<p> greendragonreprised </p>
+<p> 13 December 2011 8:02PM </p>
+<p> Response to </p>
+<p> zapthecrap, 13 December 2011 7:54PM </p>
+<p> Anne Milton reminded me of Herman Muster on C4 News tonight. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 3 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report abuse </p>
+<p> | </p>
+<p> Link </p>
+<p> greendragonreprised </p>
+<p> 13 December 2011 8:03PM </p>
+<p> I mean Munster, of course.  Damned dodgy keyboard. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 2 </p>
+<p> ) </p>
+<p> Responses (1) </p>
+<p> Report abuse </p>
+<p> | </p>
+<p> Link </p>
+<p> drmavis </p>
+<p> 13 December 2011 8:21PM </p>
+<p> As an NHS employee I can tell you this will never happen. NHS Managers are not interested in following ANY policies or even laws. They produce policy documents etc to show that they 'take it seriously' and then completely ignore them. Any employee who speaks out against any manager/director for whatever reason, is NEVER listened to; and God help you if you point the finger at a Consultant Surgeon. The NHS response is to bully, intimidate, deny and either force the employee into silence or, if that fails, use your tax money to buy them off. All NHS managers/directors are incompetent, bullying, box-ticking shits. I am a died in the wool, old labour socialist - but, believe me, I would welcome the private sector into the NHS with open arms. Not even the very worst that Crapita or Serco could do would be worse than the current joke that comprises NHS 'management'. I am a relatively senior NHS manager, and with the exception of myself (obviously), every NHS manager I have come across is a complete fucking retard. All we do all day is sit around making pointless work for each other, falsifying our JD's to game the system and ruthlessly crushing any employee who dares suggest that we are anything less than perfect. The NHS is in crisis, largely down to the vast number of grossly overpaid piss-poor managers that you, the taxpayer, employs. Whistleblowers will not be listened to, no matter what lansley or anyone else says. The NHS are institutionalised bullies, and we're very good at it. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 21 </p>
+<p> ) </p>
+<p> Responses (1) </p>
+<p> Report abuse </p>
+<p> | </p>
+<p> Link </p>
+<p> zapthecrap </p>
+<p> 13 December 2011 8:29PM </p>
+<p> Response to </p>
+<p> greendragonreprised, 13 December 2011 8:03PM </p>
+<p> Why can't government ministers protect these people? </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 1 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report abuse </p>
+<p> | </p>
+<p> Link </p>
+<p> TheLibrarianApe </p>
+<p> 13 December 2011 8:32PM </p>
+<p> We need a system where health staff are accountable to standards, not their employers. </p>
+<p> This is root and branch of the problem. </p>
+<p> Whistleblowing should be anonymous, logged somewhere outside the employing body's purview and investigated by independent reviewers (with peer input). </p>
+<p> Otherwise it's not whistleblowing but russian roulette for the staff. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 10 </p>
+<p> ) </p>
+<p> Responses (1) </p>
+<p> Report abuse </p>
+<p> | </p>
+<p> Link </p>
+<p> MetalDad </p>
+<p> 13 December 2011 8:44PM </p>
+<p> Hospitals should also not take an absence of complaints as proof of good service and user satisfaction. </p>
+<p> My father endured a long catalogue of screw ups, miscommunications and clinical errors, first by the social care staff, then by the hospital staff.  In my opinon they made so many mistakes during a routine 48 hour stay for a minor op, that they made him weak enough to get "hospital acquired pneumonia" - and die from it.  I was all for taking the fight to them.  My siblings, who had endured more of the brunt of it, as they lived close by, just wanted to whole awful business to be over - so I bowed to their wishes. </p>
+<p> Normally when I suggest that the NHS could stand improvement, I get shouted down - because clearly it is proof that I want a US style, two-tier insurance based model - which I don't.  But in many places it does need a kick up the backside in terms of petient dignity and care. </p>
+<p> I also have to ask what the government were doing about this for the last decade or so as this malaise took hold..? </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 25 </p>
+<p> ) </p>
+<p> Responses (1) </p>
+<p> Report abuse </p>
+<p> | </p>
+<p> Link </p>
+<p> Xtofer </p>
+<p> 13 December 2011 8:47PM </p>
+<p> Response to </p>
+<p> drmavis, 13 December 2011 8:21PM </p>
+<p> I'm in a position to compare how things work in the medical device industry and how they work in the NHS. If you f+++ up in the NHS, stuff carries on because it has to: closing hospitals is a no-no. If you go wrong in the medical device industry, you're looking at total product recall and the likely closure of a facility until... </p>
+<p> I have done a fair bit of management in the NHS and, whilst I recognise a grain of truth in what you say, I have to wonder how much you have drunk before committing to keyboard. IMHO most of the problems in running the NHS arise from delivering rationing without making it explicit. This is not an NHS problem particularly: all healthcare systems have to meet boundless demand with a fixed pot. </p>
+<p> I don't have time to dig the figures up, but on most international indices, the NHS delivers good bang per buck. That's on a comparitively mediocre per capita buck. The NHS (like most first world health systems) is in crisis because of demographics, technological advance and the steady erosion of social contracts. </p>
+<p> Bullying is as endemic in the NHS as it is in any other industry in which I've worked (a few) and is more a function of national culture than anything else. Whistleblowers fare no better in those industries either. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 8 </p>
+<p> ) </p>
+<p> Responses (1) </p>
+<p> Report abuse </p>
+<p> | </p>
+<p> Link </p>
+<p> Xtofer </p>
+<p> 13 December 2011 8:59PM </p>
+<p> Response to </p>
+<p> dorice, 13 December 2011 7:47PM </p>
+<p> I enjoy your posts Dorice and generally agree with them. Certainly readmission rates are monitored (at last) which is a start. Survival rates or mortality rates are problematic. Some areas send a sicker person to hospital because deprivation is a function of geography and health is a function of deprivation (see Black report a few aeons ago). Also the money is not evenly spread. </p>
+<p> Beds is tricky. In principle you'd have about an 85% utilisation rate to cope with most eventualities in any ward. If you have a bunch of smallish hospitals with a bunch of specialisations, in a region, that gets expensive quickly (you have to staff the beds whether occupied or not). Add to that the impact of our demographic 'timebomb', which means that hospitals and services as they are currently configured, generally have a much older and sicker inpatient population than they were designed for. Interesting to note that the proportion of the population dying in hospital has risen significantly in the lifetime of the NHS, simply because that crisis 999 call is now more likely to be the last crisis. Difficult stuff to discuss and by no means an apologia for the Mid-Staffs crisis. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 3 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report abuse </p>
+<p> | </p>
+<p> Link </p>
+<p> greendragonreprised </p>
+<p> 13 December 2011 9:08PM </p>
+<p> Let's all remember that the government's agenda is to dismantle the NHS. Whilst whistleblowers should be welcomed the same government is cracking down on them in many other departments. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 3 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report abuse </p>
+<p> | </p>
+<p> Link </p>
+<p> Xtofer </p>
+<p> 13 December 2011 9:09PM </p>
+<p> Response to </p>
+<p> MetalDad, 13 December 2011 8:44PM </p>
+<p> Thank you MetalDad. I don't agree with all of your posts, but they are always respectful. </p>
+<p> I'm not shouting you down. It can be improved, and the US model would not be an improvement. </p>
+<p> Kick up the backside: a bit - there are many industries which would benefit from this. The UK struggles to compete on quality. It's complex, and being a political football and national religion at the same time doesn't help. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 5 </p>
+<p> ) </p>
+<p> Responses (1) </p>
+<p> Report abuse </p>
+<p> | </p>
+<p> Link </p>
+<p> Vraaak </p>
+<p> 13 December 2011 10:05PM </p>
+<p> Anyone who thinks that you can just say when things are badly wrong in the NHS is deluded. </p>
+<p> Someone close to me saw some major things going wrong that shouldn't be - was able to get out in time but had to sign a non-disclosure agreement as part of the severance. I know a lot of people in the same situation.  There are some powerful little hitlers out there who will destroy anyone who is out to speak the truth. </p>
+<p> The wastes of money aren't just from paying a few nurses too much overtime - it's blindingly obvious. And it's always the same few companies too.  If I see one more polished granite pavement laid in a  dead end between buildings where I work I'll let my dog go on it. </p>
+<p> and this is what's wrong with the public sector. Not too much funding, not too many managers, or all of the hackneyed tripe people come out with, it's corruption. Just as it often is in the private sector. </p>
+<p> Rout out the corruption at all levels and I bet public services will cost a third less with no sackings or pension cuts. </p>
+<p> Of course the private sector will do a lot less nicely out of it, and storage basements might have to make do with a bit less designer halogen lighting. . </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 3 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report abuse </p>
+<p> | </p>
+<p> Link </p>
+<p> Vraaak </p>
+<p> 13 December 2011 10:12PM </p>
+<p> Just read Private Eye. The bureaucratic machine will crush any whistleblower. Going up against it is career suicide. </p>
+<p> You'll probably get sent home on the excuse that you've got something that can't be seen - stress is a good one, and then get brought up on disciplinary charges on something that makes no sense. By which time you will have stress and not be fit to work for a while, then your job will be re-aligned or restructured. </p>
+<p> Oh yes, I've seen this happen to people time and again too.  Sometimes they only thing they did wrong was to be better at their own job than their boss was at theirs. </p>
+<p> So much for the feather bedded public sector.  Try it. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 11 </p>
+<p> ) </p>
+<p> Responses (1) </p>
+<p> Report abuse </p>
+<p> | </p>
+<p> Link </p>
+<p> Fainche </p>
+<p> 13 December 2011 10:47PM </p>
+<p> Response to </p>
+<p> Vraaak, 13 December 2011 10:12PM </p>
+<p> Very true, the weapon of choice being the </p>
+<p> Personal Improvement Plan </p>
+<p> , micro-management based on being marked down in a quarterly review, usually because someone has decided that that a decent, loyal employee no longer fits into their new corporate structure. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 8 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report abuse </p>
+<p> | </p>
+<p> Link </p>
+<p> bluevisitor </p>
+<p> 14 December 2011 12:31AM </p>
+<p> ambiguity alert: </p>
+<p> NHS whistleblowers must be protected or there will be more deaths </p>
+<p> They get sacked, not murdered. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 2 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report abuse </p>
+<p> | </p>
+<p> Link </p>
+<p> florian7 </p>
+<p> 14 December 2011 12:48AM </p>
+<p> http://www.guardian.co.uk/society/2011/dec/01/patients-nhs-cuts-management-surgeon </p>
+<p> If he can do it, why can`t the rest of them? </p>
+<p> An honourable man. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 0 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report abuse </p>
+<p> | </p>
+<p> Link </p>
+<p> florian7 </p>
+<p> 14 December 2011 12:51AM </p>
+<p> http://www.guardian.co.uk/society/2011/dec/01/patients-nhs-cuts-management-surgeon </p>
+<p> There you go. </p>
+<p> Take a look. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 1 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report abuse </p>
+<p> | </p>
+<p> Link </p>
+<p> checkreakity </p>
+<p> 14 December 2011 6:29AM </p>
+<p> You have no chance. Time and time and time again you have seen the British system of have an inquiry to hide the problem. </p>
+<p> The British political system is one of insiders punishing those who dare interfere in their  protected world. Why do you think Tories hate the EU so much? </p>
+<p> Inquries into the murder of cibvilians in Derry by British paratroopers protects the paratroopers. Inquiries into Iraq (isn't one still going on - bet those lawyers can afford good Cnristmas presents) protects the politicians and civil srvants who were grossly inept over Iraq. </p>
+<p> The inquiry into 400+ deaths at Mid-Staffs  will punish no one. A nurse who photographed abuse gets the sack. Inquiries into deaths at Gosport, described by one inquiry as 'involuntary euthenasia' -ah, Britsh understatement, why not just say murder. Inquiries to protect the insiders in the NHS. </p>
+<p> Get the picture. Nigel Farage may think the UK is a thousand year old success story but anyone with intelligence (i.e. not UKIP and Tory voters) recognises it as s sytem based on patronage from a feudal monarchy. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 5 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report abuse </p>
+<p> | </p>
+<p> Link </p>
+<p> BettyWindsor </p>
+<p> 14 December 2011 7:55AM </p>
+<p> regardless of whistleblowers the "NHS system" protects the incompetent </p>
+<p> My recent experince of the psychiatric geriatric ward of a hospital in the north Midlands was one of incompetent staff that kowtowed to an incompetent consultant </p>
+<p> the issue was atypical antipsychotic medication given to a woman in her 80s with psychosis and dementia. I complained to the deputy ward manager that that this medication killed such patients. Her response? - "well you have to balance the risks & benefits". When I pointed out that the MHRA and the FDA had issued warnings about these drugs her response was "the FDA rulings only apply in America" - so drugs work differntly in the UK? </p>
+<p> The consultant listened less than the ward manager. I complained about the use of olanzapine in this patient - explaining in some detail my concerns. Her response? - she changed the medication to aripiprazole and then haloperidol - both just as bad. In a care meeting for this patient she stated "there was no scientific evidence to support my assertions" </p>
+<p> This type of negligence accounts for about 40% of "medication-error" related deaths in the NHS each year </p>
+<p> It's time to enforce "evidence based medicine" in the NHS and to diminish the power of consultants </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 7 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report abuse </p>
+<p> | </p>
+<p> Link </p>
+<p> colddebtmountain </p>
+<p> 14 December 2011 8:05AM </p>
+<p> All whistleblowers should be protected. </p>
+<p> No civilised society would hang someone out to dry just because they have revealed suspect, illegal, anti-trust etc practices in whatever workplace they happen to be employed.   Often whistleblowing is the only weapon these people have against the unsavoury and unlawful practices that fill our "butter wouldn't melt in our mouths" ruling classes.   If there is fraud at the bottom within our benefit systems then there is fraud at the top within the highest echelons, and, if it seriously neighbourly to rat on a benefit scrounger, then it is no different anywhere else. </p>
+<p> So while the Government are busy organising their designer cases against employees who have had the courage to speak out ministers should be aware that one day the same immoral tactics and practices may be used on them.   It is not easy to be a whistleblower who is ostracised for doing the moral thing, and a civilised society should know it is wrong to persecute and malign them. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 6 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report abuse </p>
+<p> | </p>
+<p> Link </p>
+<p> MetalDad </p>
+<p> 14 December 2011 9:21AM </p>
+<p> Response to </p>
+<p> Xtofer, 13 December 2011 9:09PM </p>
+<p> Xtopher, </p>
+<p> Thanks for your comment.  I do (usually) try to be respectful and I know the NHS is not just one monolithic entity. </p>
+<p> If you read my stuff, you'll know I have multiple things wrong with me so I see a lot of the inside of hospitals and clinics - and I'm at home with my leg bound after surgery even as we type.  You'll also know I work as a management consultant to improve NHS, or ex-NHS, services and help them bid for contracts. </p>
+<p> This means I see a lot.  I see some genius ideas and some great people - but their impact and their influence is always very limited because the system, as a whole, doesn't seem able to recognise, learn from or mainstream best or innovative practice </p>
+<p> My other lasting impression is of an unmanaged workforce.  By this I mean there seem to be no standards of behaviour or attitude - or at least none that are either universally accepted or enforced by management.  It is entirely dependent on chance if the next NHS person you deal with is pleasant, obstructive, dismissive, helpful or ignores you.  That is not something that happens because of rationing or lack of money.  It happens because of a lack of interest in staff management.  Check which training courses in a trust or PCT have the lowest attendance - it will be staff management and customer care - at least it has been in the six I have checked to date. </p>
+<p> How can you have a PCT where you ring the switchboard and get an answerphone?  How can you have hospitals that just don't answer their main number at all until it rings out?  How can you have a clinic where the consultant calls all patients at the same time and tells you to expect to spend most of the day there as it takes him a long time to get through all these people?  How can you have a registrar who is caught </p>
+<p> lying </p>
+<p> to you about your condition, and yet every follow up clinic - they try and make you see him again because they have fortgotten you asked not to deal with him - oh and nothing happens to the registrar as a result either. </p>
+<p> I know other industries need a kick up the pants too sometimes, but normally, their mistakes, their lack of attention to detail and their dismissive attitudes don't have quite such a drastic effect on people's lives. </p>
+<p> Xtopher - I'm quite prepared to believe that none of this applies to where you work and I only wish the whole NHS was like that... </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 6 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report abuse </p>
+<p> | </p>
+<p> Link </p>
+<p> Uncertainty </p>
+<p> 14 December 2011 10:11AM </p>
+<p> Response to </p>
+<p> TheLibrarianApe, 13 December 2011 8:32PM </p>
+<p> We need a system where health staff are accountable to standards, not their employers. </p>
+<p> This is root and branch of the problem. </p>
+<p> Whistleblowing should be anonymous, logged somewhere outside the employing body's purview and investigated by independent reviewers (with peer input). </p>
+<p> Otherwise it's not whistleblowing but russian roulette for the staff. </p>
+<p> Why focus on the health staff?  It is the management (brought in from the private sector) that have put medics in intolerable positions. They cannot complain or strike. Consequently they have to put up with all the carp in terms of impossible and conflicting polices, targets and procedures while the patients (or more commonly, patients relatives) attack them and look for reasons to sue due to relentless anti public-sector media items. </p>
+<p> I am all for whistle blowing though. However, the public will not want to pay to make the wards properly staffed and equipped. That is the bottom line. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 0 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report abuse </p>
+<p> | </p>
+<p> Link </p>
+<p> drmavis </p>
+<p> 14 December 2011 10:32AM </p>
+<p> Response to </p>
+<p> Xtofer, 13 December 2011 8:47PM </p>
+<p> You make some good points here Xtofer. Admittedly I did have a spectacularly bad day dealing with the cretins at work yesterday. I, too have worked in the private sector for most of my career - I joined the NHS on a 1 year fixed term contract 7 years ago and I'm counting the days until March when I can leave this incompetent bunch of amateurs and go back to working with professionals again. One of my previous jobs was with a US bank, where bullying was actively encouraged - the more hostile the better. I was on the receiving end of a particularly nasty boss until I battered him senseless in the car park one day. I didn't get sacked, only got a verbal warning (and even that was for battering the guy on company premises). However, the big difference is that in the NHS, the culture of covering up for incompetence and bullying whistleblowers can lead to people dying. Big, big difference. </p>
+<p> Agree with you about the value for money aspect as well. In general, the medical staff are superb in the NHS, and do a brilliant job to the best of their ability. It's the non-medical side that needs shaking up and preferably kicking into touch. Unfotunately, that's the side I work on. The 'Dr' in my title comes from a DPhil, (I'm not a medical doctor), and yet I'm told my doctorate is useless in the NHS, because I haven't been on the NHS 3 day course in my subject. When I wearily ask to go on the NHS course I'm told I don't need to because of my academic qualifications. This has resulted in my utterly clueless boss attempting to tell me how to do aspects of my job which he hasn't got the mental capacity to understand. I could run rings around the joker in my sleep, but when I point out the stupid mistakes he's making I get told that I 'don't understand the ethos of the NHS'. The trouble is, I do. Roll on March. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 1 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report abuse </p>
+<p> | </p>
+<p> Link </p>
+<p> inglisa </p>
+<p> 14 December 2011 10:45AM </p>
+<p> Individuals in the front line of the NHS have to contend with :-- </p>
+<p> (A) Bullying managers and administrators </p>
+<p> (B) Relatives expecting more than the resources available make possible </p>
+<p> (C) Constant reorganisations </p>
+<p> (D) The threat of redundancy </p>
+<p> (E) Regular shortage of staff and lack of agreed minimum staffing levels </p>
+<p> (F) Excessive punishment for mistakes </p>
+<p> (G) The tiredness from working unsocial hours and too many consecutive shifts </p>
+<p> It is little wonder that mistakes and poor care occur in such a culture . Retribution for whistleblowing can indeed be career-  and home life-destroying . </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 2 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report abuse </p>
+<p> | </p>
+<p> Link </p>
+<p> Xtofer </p>
+<p> 14 December 2011 10:45AM </p>
+<p> @MetalDad - thanks for your thoughtful response. Point. No ownership of even basic stuff, like keeping waiting areas tidy. Sadly, I can only agree with you about the randomness of the attitudes you encounter. </p>
+<p> @drmavis - thank you for a measured response. One of my abiding impressions is the Berlin Wall which seems to exist (maybe just in my mind) between clinical and managerial staff. The greatest bee in my bonnet is the lack of grasp that there is a managerial body of knowledge and skill set, and there are better and worse practitioners. It's as if the only knowledge that counts is clinical training and to hell with any skills which are needed to ensure that the right patients turn up in front of the right doctors, with the right notes at the right time. </p>
+<p> I could go on, but duty calls. </p>
+<p> PS, to all. Some box-ticking is good, e.g. flaps - check, undercarriage - check :) </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 0 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report abuse </p>
+<p> | </p>
+<p> Link </p>
+<p> JonDess </p>
+<p> 14 December 2011 11:04AM </p>
+<p> Lansley, like all the other politicians, will mouth platitudes and do nothing.  he is in thrall to the whole corrupt, self serving elite that run the English government and public services. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 1 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report abuse </p>
+<p> | </p>
+<p> Link </p>
+<p> QueenoftheEast </p>
+<p> 14 December 2011 11:11AM </p>
+<p> Excellent report on Channel 4 news last night - How is it that Ealing Hospital Trust can refuse to reinstate a medical professional despite being ordered to do so by an employment tribunal? </p>
+<p> And how can health minister Anne Hilton then claim that tighter legislation is not required, simply a change in 'culture'? </p>
+<p> NHS Trusts seem to be a law unto themselves. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 1 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report abuse </p>
+<p> | </p>
+<p> Link </p>
+<p> drmavis </p>
+<p> 14 December 2011 11:33AM </p>
+<p> @ Xtofer- again good points. Agree about the clinical training, but I would expand it to include all NHS training. The only knowledge that counts is NHS training, and if you haven't slept through the relevant NHS courses, then any academic qualifications/prior experience count for nothing. </p>
+<p> When I leave the NHS I had intended to set up a blog about my 7 years NHS experience. My wife advised me not to - not on legal grounds, she's a lawyer (for a very aggressive law firm) and has offered to 'libel-proof' anything I write. Her advice was based on her serious doubt that anyone would believe me. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 2 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report abuse </p>
+<p> | </p>
+<p> Link </p>
+<p> cymraeg147 </p>
+<p> 14 December 2011 12:17PM </p>
+<p> My mother was abused by one nurse during a recent stay in the University of Wales Hospital, Llandough. </p>
+<p> We complained and complained. We concluded that the complaints procedure at the hospital trust was mere window dressing. Little wonder so many go the courts to claim compensation. It appears to be one of the only ways to be heard. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 1 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report abuse </p>
+<p> | </p>
+<p> Link </p>
+<p> medifix </p>
+<p> 14 December 2011 12:47PM </p>
+<p> They have not only destroyed doctors career but also their life but FOR WHAT? If healthcare professionals believe in alleviating pain and suffering, the mangers have mastered the art of inflicting pain and suffering. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 1 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report abuse </p>
+<p> | </p>
+<p> Link </p>
+<p> florian7 </p>
+<p> 14 December 2011 3:57PM </p>
+<p> @drmavis 11.33am, I`d believe you. </p>
+<p> @cymraeg147, you have my sympathy, and I agree with you about the complaints procedure.  I have been fortunate , in as much as the Ombudsman have taken my complaint on, but how I wish this had not been necessary(every day of my life) </p>
+<p> I have had "dealings" with "managers" a thoroughly soul destroying business. </p>
+<p> I fought my lonely little battle in order to shine some light onto how the hell things have come to this, and remain hopeful that my mothers death may bring  some positive changes.  I can but hope. </p>
+<p> As someone earlier said, this is peoples lives we are talking about. </p>
+<p> When I first complained to the hospital after her death, I might as well have been talking about an incorrect gas bill, that was how it felt, the kind of mind-numbing, red tape, pass the buck kind of language they used. </p>
+<p> This is why I have so much respect for the consultant I mentioned in my previous post. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 0 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report abuse </p>
+<p> | </p>
+<p> Link </p>
+<p> Sign in to comment </p>
+<p> or </p>
+<p> create your Guardian account </p>
+<p> to join the conversation </p>
+<p> jQ(document).ready(function(){ 	// check jQuery UI hasn't been loaded in by a microapp. short-term fix. 	if (!jQuery.ui) { 	  	jQ.getScript('http://resource.guim.co.uk/discussion/static/1764/jquery-ui-1.7.3.custom.min.js'); 	} }); </p>
+<p> function fix_domain_for_careers(url){ 		var re, fixed_url; 		var careers_length = "careers".length; 		 		if (window.location.host.substr(0, careers_length) === "careers") { 			re = /http:\/\/www\./; 		    fixed_url = url.replace(re, "http://careers."); 		} else { 			re = /http:\/\/careers\./; 		    fixed_url = url.replace(re, "http://www."); 		} 		 		return fixed_url; 	} 	 	jQ(function() {         fixPluckCommentUrl('http://www.guardian.co.uk/discussion/api/resolvePluckCommentKey?pluck-comment-keys=&amp;callback='); 		var loading_box = jQ("<div class='report-form-loading'>Loading</div>");          jQ('a.report-abuse:not(.no-abuse-popup)').live('click', function(ev) { 			ev.preventDefault();  			loading_box.dialog({ 				title: "Abuse report", 				draggable: false, 				modal: true, 				width: 400, 				minHeight: 320, 				resizable: false, 				beforeclose: function(event, ui) { 					var readOnly = jQ('.report-abuse-ajax-readonly').length; 					if(readOnly == 1) return true;  					var reason = jQ('.report-abuse-ajax-form textarea#id_reason').val(); 					var thanksPage = jQ('.report-form-loading p[data-abuse-report-accepted-for-comment]').length; 					if (thanksPage == 0) { 					    thanksPage = jQ('.report-form-loading p[data-abuse-report-accepted-for-profile]').length; 					} 					if(thanksPage == 0) { 						if(reason == 0) { 							return true; 						} else { 							return confirm("Closing this window without pressing \"Report\" will result in your words being lost. Are you sure?"); 						} 					} 					else { 						return true; 					} 		        }, 				close: function(ev, ui) { loading_box.remove(); } 			}); 			 			abuse_report_url = this.href.replace('report-abuse', 'report-abuse-ajax');			 			abuse_report_url = fix_domain_for_careers(abuse_report_url); 			 			jQ.ajax({               url: abuse_report_url,               success: function(data){                   loading_box.html(data);               }             }); 		});  		jQ('body').delegate('.report-abuse-ajax-form form', 'submit', function(ev) { 			ev.preventDefault(); 			var form = jQ(this); 			var url = fix_domain_for_careers(form.attr('action')); 			jQ.post(url, form.serialize(), function(html) { 				form.parents('.ui-dialog-content').html(html); 				// Has the abuse report been accepted? 				var el = jQ(html); 				var comment_id = el.attr('data-abuse-report-accepted-for-comment'); 				var profile_id = el.attr('data-abuse-report-accepted-for-profile'); 				if (comment_id) { 					jQ('ul#comment-' + comment_id).find('li.abuse-report').remove(); 				} else if (profile_id) { 				    jQ('p.report-abuse').remove(); 				} 				var is_successful_submission = (comment_id || profile_id); 				if (is_successful_submission) { 					 					/* 					if(guardian.r2.omniture.isAvailable()) { 						// track with omniture 						s.linkTrackVars = 'events,eVar37'; 			        	s.linkTrackEvents = 'event37'; 			    		s.eVar37 = 'Comment:Report Abuse'; 			        	s.events = 'event37'; 			            s.tl(true, 'o', 'Comment report abuse'); 					} 					*/ 					 				    window.setTimeout(function() { 					    loading_box.dialog("close"); 				    }, 3000); 				} 			}); 		}); 		 	    //make sure submit button is enabled onReady. 	    jQ('#newcommenting-form input[type=submit]' ).removeAttr('disabled');      	var newFormURL = window.location.protocol + '//' + window.location.host + window.location.pathname + '?#post-area';     	jQ('div#login-container form.post-your-comments').attr('action', newFormURL);      	jQ('div#signup-container input').click(function(){     		urlStack.clearUrlStack();     		urlStack.pushUrlOntoStack(newFormURL);     		document.location = 'http://users.guardian.co.uk/signup/tr/1,,-720,00.html';     	});           	    jQ('.recomended').show();          jQ('#newcommenting-form').submit(function(){             jQ('input[type=submit]', this).attr('disabled', 'disabled');         }); 	}); //end jQ ready  	function openAbuseBox(commentId) { 		jQ("#abuse-report-comment-id").val(commentId); 		var loading_box = jQ('<div class="report-form-loading">Loading</div>'); 		loading_box.dialog({ 			title:"Abuse report", 			draggable: false, 			modal:true, 			width:400, 			minHeight:320, 			resizable: false, 			beforeclose: function(event, ui) { 				var reason = jQ('textarea#id_reason').val(); 				if (reason != "") { 					return confirm("Closing this window without pressing \"Report\" will result in your words being lost. Are you sure?"); 				} else { 					return true; 				} 			} 		}); 	}  	function recommendComment(commentId) { 	    var post_url = "http://www.guardian.co.uk/discussion/handlers/recommendComment";	     	    post_url = fix_domain_for_careers(post_url); 	     		jQ.post(post_url, { comment_id: commentId }, function(data) { 			if (data == "OK") { 				var span = jQ("#recommended-count-" + commentId); 				span.prev('a').contents().unwrap(); 				span.text(parseInt(span.text(), 10)+1); 			} 			else { 				var span = jQ("#recommended-count-" + commentId); 				span.prev('a').contents().unwrap(); 			} 		}); 	} </p>
+<p> #query-trailblock li {border-top: 1px solid #929292; margin-bottom: 16px;} 	#query-trailblock li h2 {font-size: 1.4em; margin: 0 0 4px;} 	#query-trailblock li:last-child {margin-bottom: 0; border-top: 1px dotted #929292;} 	#query-trailblock li:last-child h2 {margin-top: 10px; font-size: 12px; font-family: sans-serif;} 	#query-trailblock .strapline {border-bottom: 1px dotted #929292; font-weight: bold; padding: 5px 0 5px; margin-bottom: 5px;} 	#query-trailblock .trail-comment-count {padding-top: 3px;} </p>
+<p> Healthcare Network </p>
+<p> Technology key to 'new model' of NI health and social care </p>
+<p> Northern Ireland to introduce e-patient records and expand telehealth and telecare as part of its shake up of health and social care </p>
+<p> Healthcare Network </p>
+<p> Achieving foundation status a 'tall order' for many NHS trusts </p>
+<p> Financial and leadership problems are among the obstacles preventing NHS trusts from gaining foundation status, sayMPs </p>
+<p> More from our Healthcare Network </p>
+<p> .m-zeitgeist .bd { float: left } /* for the IE6 lols */   .m-zeitgeist .hd { padding-bottom: 0px; margin-bottom: -12px}   .m-zeitgeist .hd h2 { padding-bottom: 12px; }   .m-zeitgeist #att-panes { background-color: #fff; float: left; } 	.m-zeitgeist .att-toggle-pane { min-width:280px; }   .m-zeitgeist ol { padding: 0 5px; }   .m-zeitgeist #most-zeitgeist ol { padding-left: 0; }   .m-zeitgeist .zg-date { color: #D61D00; padding-left:5px; padding-top: 5px; }   .m-zeitgeist ol li { clear: both; padding-left: 15px; }   .m-zeitgeist div#att-most-viewed ol li.l1,   .m-zeitgeist div#att-latest ol li.l1 { padding-bottom: 9px !important; }   .m-zeitgeist ol li.footer { clear: both; padding-left: 0px !important; padding-top: 5px !important; }   .m-zeitgeist .rank { float: left; margin-left: -15px; }   .m-zeitgeist .kicker { font-weight: bold; }   .m-zeitgeist ol li.thumb { padding-left: 0; }   .m-zeitgeist ol li.thumb .rank { margin-left: 0; }   .m-zeitgeist ol li img { float: left; margin: 0 10px 3px 0; }      .m-zeitgeist #most-zeitgeist ol li { border-top: none; padding: 0; border-top: none; }     .m-zeitgeist #most-zeitgeist ol li .zeit-link {background-color: #fff; padding: 5px 0 9px 5px; border-top: 1px dotted #999; margin-bottom: 0px;  }     .m-zeitgeist #most-zeitgeist ol li.footer { border-top:1px dotted #999; padding: 5px 0 9px 10px; margin-left: 5px }     .m-zeitgeist #most-zeitgeist .m-zeigeist ol { padding-left: 0}      /* zeit-up */   .m-zeitgeist #most-zeitgeist .what-is { float: none; padding: 0 3px; vertical-align: middle; cursor: pointer; }   .about-zeit { position: relative; }   .zeit-popup { position: absolute; display: none; background-color: #dbedf3; color: #333; padding: 6px; width: 200px; }      .fade-1 { border-left: 5px solid #0061A6 !important;} .fade-2 { border-left: 5px solid #2A7BB4 !important;} .fade-3 { border-left: 5px solid #5495C2 !important;} .fade-4 { border-left: 5px solid #7EAFD0 !important;} .fade-5 { border-left: 5px solid #A8C9DE !important;}  .m-zeitgeist div.hd { padding-bottom: 0; } .m-zeitgeist.most-viewed div.hd { padding-bottom: 7px; } </p>
+<p> jQ(function($){$('.about-zeit').each(function(){var distance=-10;var time=250;var hideDelay=500;var hideDelayTimer=null;var beingShown=false;var shown=false;var trigger=$('.what-is',this);var info=$('.zeit-popup',this).css('opacity',0);$([trigger.get(0),info.get(0)]).mouseover(function(){if(hideDelayTimer)clearTimeout(hideDelayTimer);if(beingShown||shown){return;}else{beingShown=true;info.css({top:-97,right:0,display:'block'}).animate({top:'-='+distance+'px',opacity:1},time,'swing',function(){beingShown=false;shown=true;});}return false;}).mouseout(function(){if(hideDelayTimer)clearTimeout(hideDelayTimer);hideDelayTimer=setTimeout(function(){hideDelayTimer=null;info.animate({top:'-='+distance+'px',opacity:0},time,'swing',function(){shown=false;info.css('display','none');});},hideDelay);return false;});});}); </p>
+<p> On Comment is free </p>
+<p> Most viewed </p>
+<p> Zeitgeist </p>
+<p> Latest </p>
+<p> Last 24 hours </p>
+<p> 1. </p>
+<p> How Fox News is helping Barack Obama's re-election bid | Jonathan Freedland </p>
+<p> 2. </p>
+<p> Why pretend we know everything? It's time to embrace uncertainty | Suzanne Moore </p>
+<p> 3. </p>
+<p> Obesity is about poverty and cheap food, not a lack of moral fibre | Zoe Williams </p>
+<p> 4. </p>
+<p> How James Murdoch's phone-hacking cover-ups went belly-up | David Leigh </p>
+<p> 5. </p>
+<p> Bradley Manning deserves a medal | Glenn Greenwald </p>
+<p> More most viewed </p>
+<p> Last 24 hours </p>
+<p> Is Cameron an 'obstinate kid'? | Poll </p>
+<p> Steve Bell on coalition tensions - cartoon </p>
+<p> The new flashmob – breastfeeding mothers come out into the open | Claire Jones-Hughes </p>
+<p> Last Post in Iraq: this is the death knell of the American empire | George Galloway </p>
+<p> Britain can build a Europe outside the euro | Phillip Blond </p>
+<p> More zeitgeist </p>
+<p> What is Zeitgeist? </p>
+<p> Zeitgeist is an experiment in showing trending news, topics and articles from the Guardian. Find out more in </p>
+<p> our blog post </p>
+<p> . </p>
+<p> Last 24 hours </p>
+<p> 1. </p>
+<p> Write for us about … police stop and search | The people's panel </p>
+<p> 2. </p>
+<p> Facebook timeline is a rare win for the social media giant and its users </p>
+<p> 3. </p>
+<p> The parable of the allotments | Julian Baggini </p>
+<p> 4. </p>
+<p> French hissing: Democrats attack Mitt Romney over Francophoney | Ana Marie Cox </p>
+<p> 5. </p>
+<p> Deaths in police custody cut deep in the psyche of black Britons | Lee Jasper </p>
+<p> All today's stories </p>
+<p> Comment is free on Twitter </p>
+<p> Latest news, views and links from Comment is free journalists and editors </p>
+<p> GeorgeMonbiot: </p>
+<p> Claire Fox & I debate climate change here. She comes terribly unstuck on the issue of freedom: </p>
+<p> http://t.co/FKdBWBoI </p>
+<p> @TheFifthColumn </p>
+<p> about 15 minutes ago </p>
+<p> Brian_Whit: </p>
+<p> Press freedom threats mount in Egypt </p>
+<p> http://t.co/QXvSPXiL </p>
+<p> via </p>
+<p> @guardian </p>
+<p> about 17 minutes ago </p>
+<p> GeorgeMonbiot: </p>
+<p> This is really interesting. Listen from 12' in as an entire ideology shatters like a windscreen: </p>
+<p> http://t.co/FKdBWBoI </p>
+<p> about 18 minutes ago </p>
+<p> • </p>
+<p> Find more tweets from our comment team </p>
+<p> • </p>
+<p> Follow our writers and editors on a Twitter list </p>
+<p> .m-guardianbookshop .rank { float: left; margin-left: -15px; } 	.m-guardianbookshop .thumb .rank { margin-left: 0; } 	.m-guardianbookshop h4 { border-top: none !important; font-weight: bold; margin-left: 5px !important; padding: 5px 0 8px 0 !important; } 	.m-guardianbookshop .bestsellers { background-color: #fff; padding-bottom: 17px;} 	.m-guardianbookshop ol { padding: 0 5px; } 	.m-guardianbookshop .l1 { clear: both; padding-left: 15px; } 	.m-guardianbookshop .thumb { padding-left: 0; } 	.m-guardianbookshop .thumb img { float: left; margin: 2px 10px 9px 0;} 	.m-guardianbookshop .price { display: inline; } 	.m-guardianbookshop .thumb .price { display: block; } 	.m-guardianbookshop .rank, .m-guardianbookshop .book-title { font-weight: bold; } 	.m-guardianbookshop input { border: 1px solid #999; width: 75%; min-height: 16px; margin-top: 8px; padding: 3px 2px;} </p>
+<p> This week's bestsellers </p>
+<p> 1. </p>
+<p> Send Up the Clowns </p>
+<p> by Simon Hoggart </p>
+<p> £8.99 </p>
+<p> 2. </p>
+<p> History of the World in 100 Objects </p>
+<p> by Neil MacGregor </p>
+<p> £20.00 </p>
+<p> 3. </p>
+<p> Bedside Guardian 2011 </p>
+<p> by Paul Johnson </p>
+<p> £14.99 </p>
+<p> 4. </p>
+<p> Charles Dickens </p>
+<p> by Claire Tomalin </p>
+<p> £30.00 </p>
+<p> 5. </p>
+<p> New Finnish Grammar </p>
+<p> by Diego Marani </p>
+<p> £9.99 </p>
+<p> Search the Guardian bookshop </p>
+<p> Search </p>
+<p> Bestsellers from the Guardian shop </p>
+<p> The BBC's Tinker, Tailor, Soldier, Spy and Smiley's People </p>
+<p> Two classic series for one great price. This superb 4 DVD set contains two BBC series - Tinker, Tailor, Soldier, Spy and Smiley's People both starring Alec Guinness as George Smiley and is just £12.99 including P&P. </p>
+<p> From: £12.99 </p>
+<p> Visit the Guardian reader offers shop </p>
+<p> See all offers and services from the Guardian </p>
+<p> comment is free… </p>
+<p> Latest posts </p>
+<p> 23min ago </p>
+<p> Write for us about … police stop and search </p>
+<p> The people's panel: </p>
+<p> As Theresa May announces a review of police powers, tell us if you've been stopped and searched and how it made you feel </p>
+<p> 42min ago </p>
+<p> The parable of the allotments </p>
+<p> Julian Baggini: Heathen's progress: </p>
+<p> This apocryphal lesson provides a possible response to my argument that religiosity is more about belief than practice </p>
+<p> Comment from the paper </p>
+<p> John Bolton: </p>
+<p> Be warned, America's withdrawal from Iraq heralds a world of instability </p>
+<p> George Galloway: </p>
+<p> Last Post in Iraq: this is the death knell of the American empire </p>
+<p> Randeep Ramesh: </p>
+<p> Will Hollywood's Paradise Lost lead us out of financial hell? </p>
+<p> Sponsored feature </p>
+<p> function showSponsoredFeaturex31(){                     if (window.sponJSON) {                         if(typeof(sponJSON) === 'object') {                           adx31 = sponJSON;                           var node = jQ('.json-features.x31');                           convertJSONtoAd(                               node.find('img:first-child'),                               node.find('a.t6'),                               node.find('p:last-child'),                               adx31,                               node.find('.hd').children().eq(0),                               'x31'                           );                         }                     }                 }                                  jQ(document).ready(function(){                     jQ('.x31-script-placeholder').writeCapture().replaceWith('<script>showSponsoredFeaturex31()<' + '/script>')                 }) </p>
+<p> Find the latest jobs in your sector: </p>
+<p> Arts & heritage </p>
+<p> Charities </p>
+<p> Education </p>
+<p> Environment </p>
+<p> Government </p>
+<p> Graduate </p>
+<p> Health </p>
+<p> Marketing & PR </p>
+<p> Media </p>
+<p> Sales </p>
+<p> Senior executive </p>
+<p> Social care </p>
+<p> Browse all jobs </p>
+<p> Director of Lottery Film Fund </p>
+<p> UK | Attractive salary and benefits package </p>
+<p> BRITISH FILM INSTITUTE </p>
+<p> More from </p>
+<p> Response </p>
+<p> The Response column offers those who have been written about in the Guardian an opportunity to reply. If you wish to respond, at greater length than in a letter, to an article in which you have featured, please email response@guardian.co.uk </p>
+<p> Latest: </p>
+<p> 14 Dec 2011: </p>
+<p> Response: Ahead of our targets on climate change? Not by this measurement… </p>
+<p> Previous: </p>
+<p> 12 Dec 2011: </p>
+<p> Response: Independent Muslim schools pose no divisive threat to society </p>
+<p> Response index </p>
+<p> Related information </p>
+<p> UK news </p>
+<p> Society </p>
+<p> NHS </p>
+<p> · </p>
+<p> Health </p>
+<p> · </p>
+<p> Mid Staffordshire NHS Trust </p>
+<p> · </p>
+<p> Social care </p>
+<p> Politics </p>
+<p> Health policy </p>
+<p> Stafford hospital: David Cameron announces full public inquiry </p>
+<p> 9 Jun 2010 </p>
+<p> Prime minister tells parliament that investigation will examine failings by Mid Staffordshire NHS trust that led to hundreds of deaths </p>
+<p> 10 Jun 2009 </p>
+<p> Stop 'bashing' NHS managers, says trusts' leader </p>
+<p> 17 Mar 2009 </p>
+<p> Mid Staffordshire NHS Trust report: main findings </p>
+<p> 17 Mar 2009 </p>
+<p> Outrage greets Mid Staffordshire hospital report </p>
+<p> 23 Jul 2009 </p>
+<p> Burnham criticised over inquiry into 'appalling' NHS trust </p>
+<p> Stafford hospital inquiry findings due </p>
+<p> 24 Feb 2010 </p>
+<p> Appalling failures at Mid Staffordshire NHS Foundation Trust were due to inadequately trained staff, cost-cutting and targets </p>
+<p> License/buy our content </p>
+<p> | </p>
+<p> Privacy policy </p>
+<p> | </p>
+<p> Terms & conditions </p>
+<p> | </p>
+<p> Advertising guide </p>
+<p> | </p>
+<p> Accessibility </p>
+<p> | </p>
+<p> A-Z index </p>
+<p> | </p>
+<p> Inside the Guardian blog </p>
+<p> | </p>
+<p> About us </p>
+<p> | </p>
+<p> Work for us </p>
+<p> | </p>
+<p> Join our dating site today </p>
+<p> © 2011 Guardian News and Media Limited or its affiliated companies. All rights reserved. </p>
+<p> .ten-col .important-story {      border-bottom-color: #fff !important;  } </p>
+<p> //<![CDATA[ 	if(true) { 		var s_account="guardiangu-blogs,guardiangu-network,guardiangu-commentisfree"; 		writeScript('http://static.guim.co.uk/static/b5c4e8d780aa8be3b8dd5e21c7bbe4b6245fb74c/common/scripts/omniture-H.22.4.js', false, function(){}); 	} 	//]]> </p>
+<p> //<![CDATA[ 	if(true) { 		if (false) { 		    s.pageName = document.title; 		} else { 			s.pageName="Response: NHS whistleblowers must be protected or there will be more dea:Article:1675980"; 		} 		s.channel = "Comment is free"; 		s.pageType=""; 		s.server='04'; 		s.prop2='GUID:(none)';  					s['prop3']="Guardian"; 					s['prop4']="NHS (Society),Health (Society),Health policy,Mid Staffordshire NHS Trust (Society),Social care (Society),UK news"; 					s['prop5']="Not commercially useful,Health Society,Local Government Society"; 					s['prop6']="Roger Kline"; 					s['prop7']="11-Dec-13"; 					s['prop8']="1675980"; 					s['prop9']="Article"; 					s['prop10']="Comment"; 					s['prop11']="Comment is free"; 					s['prop13']="Response (Cif series)"; 					s['prop25']="Comment is free"; 					s['prop30']="content"; 		 		s.hier2="GU/Comment is free/blog/Comment is free"; 		s.events=""; 		s.eVar23="";  		try { 			if (guardian.r2.OmnitureTrackingOverride) { 				new guardian.r2.OmnitureTrackingOverride(s); 			} 		} 		catch(err) { 		}          if(jQ.cookie("GU_OMNITURE") !== null) {             s.events = jQ.cookie("GU_OMNITURE");             jQ.cookie("GU_OMNITURE", null, { path: '/', domain: '.guardian.co.uk'});         }          var s_code=s.t();if(s_code)document.write(s_code); 	} 	//]]> </p>
+<p> var _qevents = _qevents || []; 		(function() { 			var elem = document.createElement('script');  			elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js"; 			elem.async = true; 			elem.type = "text/javascript"; 			var scpt = document.getElementsByTagName('script')[0]; 			scpt.parentNode.insertBefore(elem, scpt); 		})(); 		_qevents.push( { qacct:'p-73ktnlRTKQPTw', labels: 'commentisfree'} ); </p>
+<p> var qcResults = function (result) { 				for (var i = 0, len = result.segments.length; i < len; i++) { 					OAS_query += 'qc=' + result.segments[i].id + '&'; 				} 			} </p>
+<p> if (true) {     jQ(document).ready(function () {         jQ('a[data-cpt]').each(             function () {             jQ(this).click(                 function () {                 var cpId = jQ(this).attr('data-cpt').split("-")[1];                 var currentLink = jQ(this).attr('href');                  if (currentLink.indexOf('intcmp=') == -1) {                     if(currentLink.indexOf('?') == -1) {                         var separator = '?'                     } else {                         var separator = '&'                     }                      jQ(this).attr('href', currentLink + separator + "intcmp=" + cpId);                 }             });         });     }); } </p>
+<p> //<![CDATA[ 	if (false) {         // guardian.co.uk Connect Adprobe Tag, MPU [9814], Leaderboard [9815]         var wlOrd = new Date().getTime();         document.write('<scr' + 'ipt type="text/javascript" src="http://req.connect.wunderloop.net/AP/1566/5823/9815/js?cus=9815,9814&ord=' + wlOrd + '"></sc' + 'ript>'); 	} // ]]> </p>
+<p> //<![CDATA[ 	if (false) {         OAS_query += 'wl9815=' + wl9815camp + '&wl9814=' + wl9814camp + '&'; 	} // ]]> </p>
+<p> //<![CDATA[ 											function OAS_NORMAL(pos) { 							document.write('<A HREF="' + OAS_url + 'click_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + pos + '!' + pos + '?' + OAS_query + '" TARGET=' + OAS_target + '>'); 							document.write('<IMG SRC="' + OAS_url + 'adstream_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + pos + '!' + pos + '?' + OAS_query + '" BORDER=0></A>'); 						}  						OAS_version = 11; 						if ((navigator.userAgent.indexOf('Mozilla/3') != -1) || (navigator.userAgent.indexOf('Mozilla/4.0 WebTV') != -1)) OAS_version = 10;                          if (true) {                             if (OAS_version >= 11) document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/SCRIPT>');                         }  						function OAS_AD(pos) {                             if (true) {                                 if (typeof(OAS_RICH) !== 'undefined' && OAS_version >= 11) {                                     OAS_RICH(pos);                                 } else {                                     OAS_NORMAL(pos);                                 }                             } 						} 					 				//]]> </p>
+<p> //<![CDATA[                 jQ('#ad-placeholder-Top').writeCapture().replaceWith('<script>OAS_AD("Top")<' + '/script>');                 //]]> </p>
+<p> jQ('#ad-temp-Top').hide(); </p>
+<p> //<![CDATA[                 jQ('#ad-placeholder-Middle2').writeCapture().replaceWith('<script>OAS_AD("Middle2")<' + '/script>');                 //]]> </p>
+<p> jQ('#ad-temp-Middle2').hide(); </p>
+<p> //<![CDATA[                 jQ('#ad-placeholder-Right1').writeCapture().replaceWith('<script>OAS_AD("Right1")<' + '/script>');                 //]]> </p>
+<p> jQ('#ad-temp-Right1').hide(); </p>
+<p> //<![CDATA[                 jQ('#ad-placeholder-x31').writeCapture().replaceWith('<script>OAS_AD("x31")<' + '/script>');                 //]]> </p>
+<p> jQ('#ad-temp-x31').hide(); </p>
+<p> ensurePackage('guardian.r2.omniture'); guardian.r2.omniture.isAvailable = function(){ 			return true; 	} </p>
+<p> //	<![CDATA[ 	if(true) {         var OAS_taxonomy='&Paneled_Site=guardian.co.uk&Paneled_Section=commentisfree'; 		jQ(document).ready(function(){ 			jQ.getScript('http://static.guim.co.uk/static/b5c4e8d780aa8be3b8dd5e21c7bbe4b6245fb74c/common/scripts/kantarmedia.js'); 		}); 	} 	// ]]> </p>
+<p> if(true) {         		jQ(function() { 		  if ('undefined' !== typeof MatchingEngine) { 		    MatchingEngine.logEvent('article', 'id=http://www.guardian.co.uk/commentisfree/2011/dec/13/nhs-whistleblowers-must-be-protected'); 		  } 		}); 	} </p>
+<p> if (true) {         var _sf_async_config = {};         /** CONFIGURATION START **/         _sf_async_config.uid = 30676;         _sf_async_config.domain = document.domain;         _sf_async_config.sections = 'Comment is free';         _sf_async_config.authors = 'Roger Kline';         /** CONFIGURATION END **/         (function() {             function loadChartbeat() {                 window._sf_endpt = (new Date()).getTime();                 var e = document.createElement('script');                 e.setAttribute('language', 'javascript');                 e.setAttribute('type', 'text/javascript');                 e.setAttribute('src',                         (('https:' == document.location.protocol) ? 'https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/' : 'http://static.chartbeat.com/') +                                 'js/chartbeat.js');                 document.body.appendChild(e);             }              var oldonload = window.onload;             window.onload = (typeof window.onload != 'function') ?                     loadChartbeat : function() {                 oldonload();                 loadChartbeat();             };         })();     } </p>

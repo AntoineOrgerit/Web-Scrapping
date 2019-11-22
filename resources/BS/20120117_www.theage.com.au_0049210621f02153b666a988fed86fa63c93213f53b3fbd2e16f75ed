@@ -1,0 +1,341 @@
+<p> if (((document.domain.indexOf("smh.com.au") != -1) || (document.domain.indexOf("theage.com.au") != -1) ||                 (document.domain.indexOf("watoday.com.au") != -1) ||                 (document.domain.indexOf("brisbanetimes.com.au") != -1) ||                 (document.domain.indexOf("businessday.com.au") != -1)) && (isSmartPhone()) &&                 (document.cookie.indexOf("iphone_redirect=false") == -1)) {             var currentLocation = document.location.href;             if (currentLocation.indexOf("www.") != -1 && currentLocation.indexOf("/lifestyle/cuisine") == -1) {                 currentLocation = currentLocation.replace("www.", "m.");                 window.location = currentLocation;             }         }          /**          * Returns a <code>Boolean</code> indicating whether or not the user agent represents a smart phone.          *          * @return True if the user agent represents a smart phone; otherwise false.          */         function isSmartPhone() {             var userAgent = navigator.userAgent             return ((matchesSmartPhoneUserAgentRegularExpressions(userAgent)) &&                     (!matchesTabletUserAgentRegularExpressions(userAgent)));         }          /**          * Returns a <code>Boolean</code> indicating whether or not the specified user agent represents a smart phone.          * If any of the regular expressions are updated then they should be updated in          * <code>SmartPhoneHelper.java</code>.          *          * @param userAgent User agent to test.          * @return True if the user agent represents a smart phone; otherwise false.          */         function matchesSmartPhoneUserAgentRegularExpressions(userAgent) {             var smartPhoneUserAgentRegularExpressions = ["^Mozilla/5.0.*iPhone.*", "^Mozilla/5.0.*iPod.*",                 "^Mozilla/5.0.*Android [1-3].*", "^Mozilla/5.0.*SymbianOS/9.*", "^Mozilla/5.0.*Symbian/3.*",                 "^Mozilla/5.0.*Mobile Safari/.*5[2-3][0-9].*", ".*Dolfin/[1-2].[0-9].*","^Opera/9.*Android; Opera Mini.*"];             if ((userAgent) && (userAgent.length > 0)) {                 var index = 0;                 for (; index < smartPhoneUserAgentRegularExpressions.length; index++) {                     if (userAgent.match(smartPhoneUserAgentRegularExpressions[index])) {                         return true;                     }                 }             }             return false;         }         /**          * Returns a <code>Boolean</code> indicating whether or not the specified user agent represents a tablet. If any          * of the regular expressions are updated then they should be updated in <code>SmartPhoneHelper.java</code>.          *          * @param userAgent User agent to test.          * @return True if the user agent represents a tablet; otherwise false.          */         function matchesTabletUserAgentRegularExpressions(userAgent) {             var tableUserAgentRegularExpressions = ["^Mozilla/5.0.*iPad.*", "^Mozilla/5.0.*GT-P1000.*", "^Mozilla/5.0.*MZ601.*"];             if ((userAgent) && (userAgent.length > 0)) {                 var index = 0;                 for (; index < tableUserAgentRegularExpressions.length; index++) {                     if (userAgent.match(tableUserAgentRegularExpressions[index])) {                         return true;                     }                 }             }             return false;         } </p>
+<p> Study finds increase in caffeine poisoning </p>
+<p> var _gaq = _gaq || []; </p>
+<p> // <![CDATA[ 	document.body.className += " scriptable"; // ]]> </p>
+<p> Skip to navigation </p>
+<p> Skip to content </p>
+<p> Help using this website - Accessibility statement </p>
+<p> JavaScript disabled. </p>
+<p> Please enable JavaScript to use My News, My Clippings, My Comments and user settings. </p>
+<p> New </p>
+<p> feature </p>
+<p> Personalise your news, save articles to read later and customise settings </p>
+<p> View Demo </p>
+<p> Hi there! </p>
+<p> Sign-up </p>
+<p> Log in </p>
+<p> Beta </p>
+<p> version </p>
+<p> If you have trouble accessing our login form below, you can go to our </p>
+<p> login page </p>
+<p> . </p>
+<p> 12:00AM </p>
+<p> Wednesday Jan 18, 2012 </p>
+<p> 1,187  online now </p>
+<p> See today's paper </p>
+<p> Fairfax Digital </p>
+<p> The Age </p>
+<p> Real Estate </p>
+<p> Cars </p>
+<p> Jobs </p>
+<p> Dating </p>
+<p> Newsletters </p>
+<p> More </p>
+<p> Essential Baby </p>
+<p> Stayz </p>
+<p> InvestSMART </p>
+<p> Trading Room </p>
+<p> Weatherzone </p>
+<p> More sites » </p>
+<p> function getAdCookie(name) {         var regex = new RegExp(name + "=(.*?)(; |&|$)", "gi");         var value = regex.exec(document.cookie);         if (value && value.length == 3) {            value = value[1];         } else {             value = "";         }         return value;     }     function getFrameDocument(fr) {         var doc = fr.contentWindow || fr.contentDocument;         if (doc && doc.document) {             doc = doc.document;         }         return doc;     }     function closeDoc(doc) {         doc.close();     }     function closeOpenDocuments(openDocs) {         for (var i=0;i< openDocs.length; i++) {             closeDoc(getFrameDocument(document.getElementById(openDocs[i])))         }     }      function isIE()     {       return /msie/i.test(navigator.userAgent) && !/opera/i.test(navigator.userAgent);     }      function setHash (element, hash) {         if(element.hash) {             element.hash = element.hash + "," + hash;         } else {             element.hash = hash;         }     }     function renderIFAd(holderID, adID, srcUrl, width, height, hash) {         setHash(document.getElementById(holderID), hash);         document.dcdAdsR.push(adID);         if (ie) {             var sizePart = srcUrl.substring(srcUrl.indexOf("sz=")+3);             sizePart = sizePart.substring(0, sizePart.indexOf(";"));             var multiSizes = sizePart.split(",");             var minSize = multiSizes[0];             if (multiSizes.length > 1) {                 for(var i=1; i< multiSizes.length; i++) {                     if (minSize > multiSizes[i]) {                         minSize = multiSizes[i];                     }                 }                 var sizeParts = minSize.toLowerCase().split("x");                 width = sizeParts[0];                 height = sizeParts[1];                 srcUrl = srcUrl.replace(sizePart, minSize);             }         }         document.write('<iframe id="' + adID + '" src="' + srcUrl + '" width="' + width +                 '" height="' + height + '" scrolling="no" marginheight="0" marginwidth="0" allowtransparency="true" frameborder="0"><\/iframe>');     }      function renderJIFAd(holderID, adID, srcUrl, width, height, hash) {         setHash(document.getElementById(holderID), hash);         document.dcdAdsR.push(adID);         document.write('<iframe id="' + adID +'" src="javascript: ;" width="' + width +                 '" height="' + height + '" scrolling="no" marginheight="0" marginwidth="0" allowtransparency="true" frameborder="0"><\/iframe>');         var body = '<html><head></head><body><scr' + 'ipt src="' + srcUrl + '"></sc' + 'ript></body></html>';         var fr = document.getElementById(adID);         setHash(fr, hash);         fr.body = body;         var doc = getFrameDocument(fr);         doc.open();         doc.write(body);         setTimeout(function() {closeDoc(getFrameDocument(document.getElementById(adID)))}, 2000);     }      function renderJAd(holderID, adID, srcUrl, hash) {         document.dcdAdsAA.push(holderID);         setHash(document.getElementById(holderID), hash);         document.dcdAdsH.push(holderID);         document.dcdAdsI.push(adID);         document.dcdAdsU.push(srcUrl);     }      function er_showAd() {         var regex = new RegExp("externalReferrer=(.*?)(; |&|$)", "gi");         var value = regex.exec(document.cookie);         if (value && value.length == 3) {            var externalReferrer = value[1];            return (!FD.isInternalReferrer() || ((externalReferrer) && (externalReferrer > 0)));         }         return false;     }      function isHome() {         var loc = "" + window.location;         loc = loc.replace("//", "");         var tokens = loc.split("/");         if (tokens.length == 1) {             return true;         } else if (tokens.length == 2) {             if (tokens[1].trim().length == 0) {                 return true;             }         }         return false;     }     function checkAds(checkStrings) {         var cs = checkStrings.split(",");         for (var i=0;i< document.dcdAdsAA.length; i++) {             var cAd = document.getElementById(document.dcdAdsAA[i]);             document.dcdAdsAG.push(cAd.hash);                         for (var j=0; j<cs.length; j++) {                 var c = cs[j].trim();                 if (c.length > 0 && cAd.innerHTML.indexOf(c)>0) {                     document.dcdAdsAI.push(cAd.hash);                 }             }         }         //Check iframes         if (!ie) {             for (var i=0;i< document.dcdAdsR.length; i++) {                 var fr = document.getElementById(document.dcdAdsR[i]);                 if (fr) {                     document.dcdAdsAG.push(fr.hash);                     var doc = getFrameDocument(fr);                     for (var j=0; j<cs.length; j++) {                         var c = cs[j].trim();                         if (c.length > 0 && doc.body.innerHTML.indexOf(c)>0) {                             document.dcdAdsAI.push(fr.hash);                         }                     }                 }             }         }          if (document.dcdAdsAI.length > 0 || document.dcdAdsAG.length > 0) {             var pingServerParams = "i="             var sep = "";             for (var i=0;i< document.dcdAdsAI.length; i++) {                 pingServerParams += sep + document.dcdAdsAI[i];                 sep = ",";             }         }         document.pingServerAdParams = pingServerParams;     }      function pingAdStatus() {         if (isHome ()) {             return;         }         if (document.pingServerAdParams && document.pingServerAdParams.length > 0) {             var pingServerUrl = "/action/pingServerAction?" + document.pingServerAdParams;             var xmlHttp = null;             try             {                 xmlHttp = new XMLHttpRequest();             }   catch(e)             {                 try                 {                     xmlHttp = new ActiveXObject("Microsoft.XMLHttp");                 } catch(e) {                     xmlHttp = null;                 }             }             if (xmlHttp != null) {                 xmlHttp.open( "GET", pingServerUrl, true);                 xmlHttp.send( null );             }         }      }      function initAds(log) {         for (var i=0;i< document.dcdAdsU.length; i++) {             var shadowHolder = document.getElementById("adShD" + i);             var targetHolder = document.getElementById(document.dcdAdsH[i]);             if (shadowHolder && targetHolder) {                 var adNodes = new Array();                 for (var j=0; j<shadowHolder.childNodes.length; j++) {                     var child = shadowHolder.childNodes[j];                     if (child.nodeName.toLowerCase() != "script") {                         adNodes.push(child);                     }                 }                 for (var j=0; j<adNodes.length; j++) {                     targetHolder.appendChild(shadowHolder.removeChild(adNodes[j]));                 }             }         }         if (er_showAd()) {             for (var i=0;i< document.dcdAdsE.length; i++) {                 var erAd = document.getElementById(document.dcdAdsEH[i]);                 erAd.className = document.dcdAdsEC[i];                 erAd.appendChild(document.dcdAdsE[i]);             }         }         if (log) {             console.log(document.igCount + "/" + document.tCount);         }     }      document.refreshAds = function rAds(adID) {         if (document.dcdAdsR) {             document.dcdsAdsToClose =  new Array();             for (var i=0;i< document.dcdAdsR.length; i++) {                 var fr = document.getElementById(document.dcdAdsR[i]);                 if (fr) {                     if (!ie) {                         if (!adID || adID =="*" || fr.parentNode.id==adID ) {                             var chNodes = new Array();                             for (var j=0; j<fr.parentNode.childNodes.length; j++) {                                 var child = fr.parentNode.childNodes[j];                                 if (!(child.nodeName.toLowerCase() == "script" ||                                         child.nodeName.toLowerCase() == "iframe")) {                                     chNodes.push(child);                                 }                             }                             for (var j=0; j<chNodes.length; j++) {                                 chNodes[j].parentNode.removeChild(chNodes[j]);                             }                             var doc = getFrameDocument(fr);                             while (doc.childNodes.length > 0) {                                 doc.removeChild(doc.childNodes[0]);                             }                             doc.open();                             doc.write(fr.body);                             document.dcdsAdsToClose.push(fr.id);                         }                     } else {                         fr.src = fr.src;                         }                 }             }             if (document.dcdsAdsToClose.length > 0) {                 setTimeout(function() {closeOpenDocuments(document.dcdsAdsToClose)}, 500);             }         }     }     var ie = isIE();     if(ie && typeof String.prototype.trim !== 'function') {       String.prototype.trim = function() {         return this.replace(/^\s+|\s+$/g, '');       }     }     document.dcdAdsH = new Array();     document.dcdAdsI = new Array();     document.dcdAdsU = new Array();     document.dcdAdsR = new Array();     document.dcdAdsEH = new Array();     document.dcdAdsE = new Array();     document.dcdAdsEC = new Array();     document.dcdAdsAA = new Array();     document.dcdAdsAI = new Array();     document.dcdAdsAG = new Array();     document.dcdAdsToClose = new Array();      document.igCount = 0;     document.tCount = 0;     var dcOrd = Math.floor(100000000*Math.random());     document.dcAdsCParams = "";      var savValue = getAdCookie("sav");     if (savValue != null && savValue.length > 2) {         document.dcAdsCParams = savValue + ";";     } </p>
+<p> renderJAd("adspot-728x90,468x60-pos-1", "dcAd-1", 'http://ad-apac.doubleclick.net/adj/onl.age.lands/lands/dietandfitness;cat2=national;ctype=article;cat=lands;cat1=dietandfitness;pos=1;dcopt=ist;' + document.dcAdsCParams +'sz=728x90,468x60;tile=1;ord=' + dcOrd + '?', 1932900424); </p>
+<p> The Age </p>
+<p> Life & Style </p>
+<p> Beauty </p>
+<p> Diet & Fitness </p>
+<p> Fashion </p>
+<p> Celebrity </p>
+<p> Home & Style </p>
+<p> Life </p>
+<p> Weddings </p>
+<p> Horoscopes </p>
+<p> Parties </p>
+<p> Cuisine </p>
+<p> Essential Baby </p>
+<p> TheVine </p>
+<p> You are here: </p>
+<p> Home </p>
+<p> Life & Style </p>
+<p> Diet & Fitness </p>
+<p> Article </p>
+<p> Search age: </p>
+<p> Search in: </p>
+<p> Life & Style </p>
+<p> theage.com.au </p>
+<p> Web </p>
+<p> Life & Style </p>
+<p> renderJAd("adspot-940x20-pos-1", "dcAd-2", 'http://ad-apac.doubleclick.net/adj/onl.age.lands/lands/dietandfitness;cat2=national;ctype=article;cat=lands;cat1=dietandfitness;pos=1;' + document.dcAdsCParams +'sz=940x20;tile=2;ord=' + dcOrd + '?', -337746300); </p>
+<p> Study finds increase in caffeine poisoning </p>
+<p> Nicky Phillips </p>
+<p> January 16, 2012 </p>
+<p> Read later </p>
+<p> More than 300 calls have been made to the NSW poisons centre regarding adverse reactions to energy drinks. </p>
+<p> RESEARCHERS have found that a growing number of people are reporting caffeine toxicity from energy drinks in Australia, especially teenagers. </p>
+<p> According to a study published in </p>
+<p> The Medical Journal of Australia </p>
+<p> , nearly 300 calls were made to the  New South Wales poisons centre regarding adverse reactions to energy drinks between January 2004 and the end of 2010, with more than a third of people attending hospital. </p>
+<p> The authors say the report is a ''warning call'' for health authorities to better educate the public on the risks associated with high-energy drinks, and require beverages to display health warnings similar to those found on over-the-counter caffeine tablets. </p>
+<p> Advertisement: Story continues below </p>
+<p> var erA = document.createElement('iframe');                     erA.setAttribute("id", "dcAd-1-3");                     erA.setAttribute("src", "http://ad-apac.doubleclick.net/adi/onl.age.lands/lands/dietandfitness;cat2=national;ctype=article;cat=lands;cat1=dietandfitness;pos=3;" + document.dcAdsCParams +"sz=300x250;tile=3;ord=" + dcOrd + "?");                     erA.setAttribute("width", "300");                     erA.setAttribute("height", "250");                     erA.setAttribute("scrolling", "no");                     erA.setAttribute("marginheight", "0");                     erA.setAttribute("marginwidth", "0");                     erA.setAttribute("allowtransparency", "true");                     erA.setAttribute("frameborder", "0");                     erA.frameBorder = 0;                     document.dcdAdsE.push(erA);                     document.dcdAdsEH.push("adspot-300x250-pos-3");                     document.dcdAdsEC.push("ad adCentred");                     document.dcdAdsR.push("dcAd-1-3"); </p>
+<p> For the study, Naren Gunja, a medical director and toxicologist at the NSW Poisons Information Centre, and Jared Brown, a  senior poisons specialist, reviewed all the centre's calls relating to toxicity of high-energy drinks  covering the seven-year period. </p>
+<p> Calls regarding caffeinated energy drinks increased from 12 in 2004 to 65 in 2010, with recreational use the most common type of exposure. </p>
+<p> Adverse reactions and toxicity from the beverages are primarily linked to caffeine. </p>
+<p> Caffeine toxicity can mimic amphetamine poisoning, cause seizures, psychosis, cardiac arrhythmias and rarely even death, but the most common symptoms reported include irregular heart rate, tremors, stomach upsets and dizziness. </p>
+<p> Teenagers were the most common age group affected, and energy drinks were often consumed with other stimulants, mainly alcohol. </p>
+<p> Red Bull and V accounted for almost two-thirds of the energy drink-related cases referred to the centre, followed by Mother and Pulse. </p>
+<p> Join the conversation </p>
+<p> You're the only person reading this now. </p>
+<p> Tell your friends </p>
+<p> Add to Facebook </p>
+<p> Email this story </p>
+<p> Tweet </p>
+<p> Top Life & Style articles </p>
+<p> Loving a man with ADHD </p>
+<p> Are we all fat-ist? </p>
+<p> 10 things I learnt about men this summer </p>
+<p> Betraying our girlhood </p>
+<p> It's chic to be as cool as ice on the catwalk </p>
+<p> More Life & Style articles </p>
+<p> Story Tools </p>
+<p> Share on Facebook </p>
+<p> Email this story </p>
+<p> Print this story </p>
+<p> Reprints & permissions </p>
+<p> renderJAd("adspot-180x44", "dcAd-4", 'http://ad-apac.doubleclick.net/adj/onl.age.lands/lands/dietandfitness;cat2=national;ctype=article;cat=lands;cat1=dietandfitness;' + document.dcAdsCParams +'sz=180x44;tile=4;ord=' + dcOrd + '?', 64196675); </p>
+<p> The Age Jobs </p>
+<p> Advertisement </p>
+<p> renderJAd("adspot-300x600,300x250-pos-1", "dcAd-5", 'http://ad-apac.doubleclick.net/adj/onl.age.lands/lands/dietandfitness;cat2=national;ctype=article;cat=lands;cat1=dietandfitness;pos=1;' + document.dcAdsCParams +'sz=300x600,300x250;tile=5;ord=' + dcOrd + '?', 1947717249); </p>
+<p> Photo Galleries </p>
+<p> Golden Globes red carpet </p>
+<p> G'Day USA gala </p>
+<p> Celebrity red carpet watch </p>
+<p> Fashion, Rio style </p>
+<p> The list: beach towels </p>
+<p> Colour pops at People's Choice Awards </p>
+<p> Featured advertisers </p>
+<p> if (ie) {                         renderIFAd("adspot-149x170", "dcAd-1-6", "http://ad-apac.doubleclick.net/adi/onl.age.lands/lands/dietandfitness;cat2=national;ctype=article;cat=lands;cat1=dietandfitness;" + document.dcAdsCParams + "pos=1;sz=149x170;tile=6;ord=" + dcOrd + "?", 149, 170, 606676442);                     } else {                         renderJIFAd("adspot-149x170","dcAd-1-6", "http://ad-apac.doubleclick.net/adj/onl.age.lands/lands/dietandfitness;cat2=national;ctype=article;cat=lands;cat1=dietandfitness;" + document.dcAdsCParams + "pos=1;sz=149x170;tile=6;ord=" + dcOrd + "?", 149, 170, 606676442);                     } </p>
+<p> if (ie) {                         renderIFAd("adspot-149x170", "dcAd-2-7", "http://ad-apac.doubleclick.net/adi/onl.age.lands/lands/dietandfitness;cat2=national;ctype=article;cat=lands;cat1=dietandfitness;" + document.dcAdsCParams + "pos=2;sz=149x170;tile=7;ord=" + dcOrd + "?", 149, 170, 197852248);                     } else {                         renderJIFAd("adspot-149x170","dcAd-2-7", "http://ad-apac.doubleclick.net/adj/onl.age.lands/lands/dietandfitness;cat2=national;ctype=article;cat=lands;cat1=dietandfitness;" + document.dcAdsCParams + "pos=2;sz=149x170;tile=7;ord=" + dcOrd + "?", 149, 170, 197852248);                     } </p>
+<p> Living Social </p>
+<p> Melbourne </p>
+<p> Partner site </p>
+<p> 20-Week Sunday Herald Sun Subscription </p>
+<p> Sunday Herald Sun </p>
+<p> Get this for only                     $14 </p>
+<p> - save 69% </p>
+<p> Read more now </p>
+<p> Advertisement </p>
+<p> if (ie) {                         renderIFAd("adspot-1x4", "dcAd-1-8", "http://ad-apac.doubleclick.net/adi/onl.age.lands/lands/dietandfitness;cat2=national;ctype=article;cat=lands;cat1=dietandfitness;" + document.dcAdsCParams + "sz=1x4;tile=8;ord=" + dcOrd + "?", 300, 150, 626487146);                     } else {                         renderJIFAd("adspot-1x4","dcAd-1-8", "http://ad-apac.doubleclick.net/adj/onl.age.lands/lands/dietandfitness;cat2=national;ctype=article;cat=lands;cat1=dietandfitness;" + document.dcAdsCParams + "sz=1x4;tile=8;ord=" + dcOrd + "?", 300, 150, 626487146);                     } </p>
+<p> Advertisement </p>
+<p> if (ie) {                         renderIFAd("adspot-300x250-pos-2", "dcAd-1-9", "http://ad-apac.doubleclick.net/adi/onl.age.lands/lands/dietandfitness;cat2=national;ctype=article;cat=lands;cat1=dietandfitness;pos=2;" + document.dcAdsCParams + "sz=300x250;tile=9;ord=" + dcOrd + "?", 300, 250, -2118041450);                     } else {                         renderJIFAd("adspot-300x250-pos-2","dcAd-1-9", "http://ad-apac.doubleclick.net/adj/onl.age.lands/lands/dietandfitness;cat2=national;ctype=article;cat=lands;cat1=dietandfitness;pos=2;" + document.dcAdsCParams + "sz=300x250;tile=9;ord=" + dcOrd + "?", 300, 250, -2118041450);                     } </p>
+<p> Horoscopes </p>
+<p> This is one of those 'human comedy' days, when personal struggles flare up to a grand scale. Good thing you have a strong sense of humor! </p>
+<p> ...find out more </p>
+<p> here </p>
+<p> Aries </p>
+<p> Taurus </p>
+<p> Gemini </p>
+<p> Cancer </p>
+<p> Leo </p>
+<p> Virgo </p>
+<p> Libra </p>
+<p> Scorpio </p>
+<p> Sagittarius </p>
+<p> Capricorn </p>
+<p> Aquarius </p>
+<p> Pisces </p>
+<p> Video </p>
+<p> The fashion of Kylie's clips </p>
+<p> Theage.com.au </p>
+<p> Entertainment and Red Carpet </p>
+<p> Latest Sports videos </p>
+<p> Breaking news videos </p>
+<p> Jobs </p>
+<p> Happy New Year! Time to search for a new career? </p>
+<p> Mycareer.com.au </p>
+<p> Mining jobs in Australia </p>
+<p> Job search </p>
+<p> Jobs in Melbourne </p>
+<p> TheVine </p>
+<p> Top 10 most underrated Simpsons characters </p>
+<p> Thevine.com.au </p>
+<p> Entertainment & celebrity news </p>
+<p> Latest fashion coverage </p>
+<p> Music news and reviews </p>
+<p> Holiday Rentals </p>
+<p> Search thousands of family-friendly holidays </p>
+<p> Stayz.com.au </p>
+<p> Great Ocean Road holidays </p>
+<p> Gold Coast getaways </p>
+<p> Pet-friendly accommodation </p>
+<p> Essential Baby </p>
+<p> Beyonce's quirky baby name </p>
+<p> Essentialbaby.com.au </p>
+<p> Ovulation calculator </p>
+<p> Baby names </p>
+<p> Due Date Calculator </p>
+<p> Compare and Save </p>
+<p> Skip to: </p>
+<p> Best Deals </p>
+<p> Mobile </p>
+<p> Broadband </p>
+<p> Credit Cards </p>
+<p> Rewards Cards </p>
+<p> Low Rate Cards </p>
+<p> Home Loans </p>
+<p> Deposits </p>
+<p> Bank Accounts </p>
+<p> Loans </p>
+<p> Check out today's best deals </p>
+<p> Qantas Amex Ultimate </p>
+<p> Up to 30,00 bonus pts + free flight + $200 off annual fee </p>
+<p> Check it out >>> </p>
+<p> $0 Fee Rewards Card </p>
+<p> 1 Qantas point per $1 spent + up to 10,000 extra QFF points </p>
+<p> Check it out >>> </p>
+<p> 0.99% for 12 months </p>
+<p> Special balance transfer rate. Annual fee only $55 </p>
+<p> Check it out >>> </p>
+<p> iPhone 4 2 Months Free </p>
+<p> iPhone 4 8GB on a 2 Months Free deal starting at $34 </p>
+<p> 2 Months Free </p>
+<p> Compare Android Deals </p>
+<p> Hundreds of deals to compare </p>
+<p> Compare Mobile Deals </p>
+<p> Readers' most viewed </p>
+<p> Most viewed articles on Brisbane Times </p>
+<p> Top 5 </p>
+<p> Life & Style </p>
+<p> articles </p>
+<p> Loving a man with ADHD </p>
+<p> Raising confident children </p>
+<p> Are we all fat-ist? </p>
+<p> Betraying our girlhood </p>
+<p> Pisces </p>
+<p> Most viewed articles on WA Today </p>
+<p> Top 5 </p>
+<p> Life & Style </p>
+<p> articles </p>
+<p> Are we all fat-ist? </p>
+<p> Betraying our girlhood </p>
+<p> Scorpio </p>
+<p> Loving a man with ADHD </p>
+<p> Libra </p>
+<p> Most viewed articles on The Sydney Morning Herald </p>
+<p> Top 5 </p>
+<p> Life & Style </p>
+<p> articles </p>
+<p> A simple source </p>
+<p> 10 things I learnt about men this summer </p>
+<p> Are we all fat-ist? </p>
+<p> Loving a man with ADHD </p>
+<p> Betraying our girlhood </p>
+<p> Most viewed articles on The Age </p>
+<p> Top 5 </p>
+<p> Life & Style </p>
+<p> articles </p>
+<p> Loving a man with ADHD </p>
+<p> Are we all fat-ist? </p>
+<p> 10 things I learnt about men this summer </p>
+<p> Betraying our girlhood </p>
+<p> It's chic to be as cool as ice on the catwalk </p>
+<p> Videos </p>
+<p> Italy cruise CEO blames disaster on 'human error' </p>
+<p> Australian Open Day 2: Aussies in action </p>
+<p> Rescuers aboard the stricken ship </p>
+<p> Globe winner sparks dwarf-toss Twitter frenzy </p>
+<p> Tomic's famous comeback </p>
+<p> renderJAd("adspot-728x90,468x60-pos-2", "dcAd-10", 'http://ad-apac.doubleclick.net/adj/onl.age.lands/lands/dietandfitness;cat2=national;ctype=article;cat=lands;cat1=dietandfitness;pos=2;' + document.dcAdsCParams +'sz=728x90,468x60;tile=10;ord=' + dcOrd + '?', -1894290311); </p>
+<p> The Age Home </p>
+<p> Victoria </p>
+<p> National </p>
+<p> World </p>
+<p> Environment </p>
+<p> Opinion </p>
+<p> Business </p>
+<p> Technology </p>
+<p> Digital Life </p>
+<p> Entertainment </p>
+<p> Life & Style </p>
+<p> Travel </p>
+<p> Cars </p>
+<p> Exec Style </p>
+<p> Sport </p>
+<p> Weather </p>
+<p> The Age </p>
+<p> Sitemap </p>
+<p> About Us </p>
+<p> Contact Us </p>
+<p> Privacy </p>
+<p> Conditions </p>
+<p> Advertise with Us </p>
+<p> Photo Sales </p>
+<p> Good Food Guide </p>
+<p> Products & Services </p>
+<p> AM Today </p>
+<p> Last 8 days </p>
+<p> Text </p>
+<p> Newspaper subscription </p>
+<p> Shop </p>
+<p> Events </p>
+<p> Help using this website </p>
+<p> Connect </p>
+<p> Mobile </p>
+<p> Newsletters </p>
+<p> RSS </p>
+<p> Twitter </p>
+<p> Facebook </p>
+<p> Classifieds </p>
+<p> Accommodation </p>
+<p> Cars </p>
+<p> Dating </p>
+<p> Jobs </p>
+<p> Real Estate </p>
+<p> Trading Post </p>
+<p> Property Price Data </p>
+<p> Tributes & Celebrations </p>
+<p> Place an ad </p>
+<p> Fairfax Media </p>
+<p> Our Sites </p>
+<p> The Sydney Morning Herald </p>
+<p> The Age </p>
+<p> MyCareer </p>
+<p> Domain </p>
+<p> Drive </p>
+<p> RSVP </p>
+<p> Essential Baby </p>
+<p> InvestSMART </p>
+<p> APM </p>
+<p> Stayz </p>
+<p> Weatherzone </p>
+<p> The Vine </p>
+<p> Our Partners </p>
+<p> Business </p>
+<p> Dental Surgery </p>
+<p> Fitness </p>
+<p> Gardens </p>
+<p> Hair salon </p>
+<p> Jogging </p>
+<p> Physicians </p>
+<p> Wedding </p>
+<p> Wine </p>
+<p> Copyright © 2012 Fairfax Media </p>
+<p> renderJAd("adspot-1x1", "dcAd-11", 'http://ad-apac.doubleclick.net/adj/onl.age.lands/lands/dietandfitness;cat2=national;ctype=article;cat=lands;cat1=dietandfitness;' + document.dcAdsCParams +'sz=1x1;tile=11;ord=' + dcOrd + '?', -382393130); </p>
+<p> renderJAd("adspot-1x11", "dcAd-12", 'http://ad-apac.doubleclick.net/adj/onl.age.lands/lands/dietandfitness;cat2=national;ctype=article;cat=lands;cat1=dietandfitness;' + document.dcAdsCParams +'sz=1x11;tile=12;ord=' + dcOrd + '?', -1787192474); </p>
+<p> function getGoogleAdChannel(showAboveArticle) {         var googleAdChannel = "LifeStyle";         if (showAboveArticle) {             googleAdChannel += " abovearticle";         }         return googleAdChannel;     }     function google_ad_request_done(google_ads) {         var googleAd = new FD.GoogleAd({                 adBlockTitle: "Ads by Google",                 maximumAdsInBlock: 3,                 checkExternalReferrer: true,                 split: 1,             googleAds: google_ads,             googleAdsId: "googleAds",             moreGoogleAdsId: "moreGoogleAds"         });         googleAd.insertGoogleAds();     }     var google_ad_client = "ca-fairfax-age_js";     var google_ad_channel = "National";         if (!FD.isInternalReferrer()) {             google_ad_channel = getGoogleAdChannel(true);         }     var google_ad_output = "js";     var google_max_num_ads = "4";     var google_ad_type = "text";     var google_encoding = "utf8";     var google_safe = "high";     var google_ad_section = "default"; </p>
+<p> (function() {              })(); </p>
+<p> (function() {                 (function() {         FD.VideoPlayers.push(new FD.VideoPlayer({             adServerUrl: "http://ad-apac.doubleclick.net/pfadx/vid.age/system/ipad;channel=system;show=ipad;ctype=rhs;cat3=fdp;sz=4x1,4x2;dcmt=text/html;ord=407698",             clipId: "2895452",                 clips: [                     "http://mediadownload2.f2.com.au/flash/media/2012/01/16/2895452/2895452_low.mp4",                     "http://mediadownload2.f2.com.au/flash/media/2012/01/16/2895452/2895452_mid.mp4",                     "http://mediadownload2.f2.com.au/flash/media/2012/01/16/2895452/2895452_high.mp4"                 ],             divId: "video-player-latest",             playerId: "video-player-latest-player",                 playerType: "article_rhs",             playerUrl: "http://resources.theage.com.au/common/media-common-1.0/swf/flowplayer/flowplayer.commercial-3.2.7.swf",             trackingDefinition: {                 ga: {     headline: "Best of Big Day Out: Soundgarden 97" } ,                 nielsen: {     brand: "age",     ou: "video/system/ipad",     vc: "vc-age-Video_System-article_rhs-Video_iPad-The_Age_Selections-Tim_Young-2895452-Best_of_Big_Day_Out:_Soundgarden_97-00:03:26" }             }         }, {                 width: 300,                 height: 170,             clip: {         ads: [         {             request: {                 adTagUrl: "http%3A%2F%2Fad-apac.doubleclick.net%2Fpfadx%2Fvid.age%2Fsystem%2Fipad%3Bchannel%3Dsystem%3Bshow%3Dipad%3Bctype%3Drhs%3Bcat3%3Dfdp%3Bsz%3D4x1%2C4x2%3Bdcmt%3Dtext%2Fhtml%3Bord%3D407698"             },             time: 0         }     ],          url: "http://mediadownload2.f2.com.au/flash/media/2012/01/16/2895452/2895452_high.mp4" }, plugins: {     advertisementLabel: {         url: "http://resources.theage.com.au/common/media-common-1.0/swf/flowplayer/flowplayer.content-3.2.0.swf"     },     controls: {             fullscreen: false,         url: "http://resources.theage.com.au/common/media-common-1.0/swf/flowplayer/flowplayer.controls-3.2.5.swf"     },     dfp: {         url: "http://resources.theage.com.au/common/media-common-1.0/swf/flowplayer/dfp/flowplayer.dfp-theage.com.au-1.6.3.swf"     } }         }));      })();       })(); </p>
+<p> if(document.location.protocol=='http:'){  var Tynt=Tynt||[];Tynt.push('bRrpOkwwyr34jFadbiUt4I');  (function(){var s=document.createElement('script');s.async="async";s.type="text/javascript";s.src='http://tcr.tynt.com/ti.js';var h=document.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);})(); } </p>
+<p> if (window["FD"]) {         (function() {             // Check that the user is at least logged in before attempting to say that they have read an article.             var myMastheadWeather = $("div.mySite div.ms-toolbar ul[data-weatherPostcode]");             if (myMastheadWeather.length) {                 FD.trigger("FDArticleRead");             }         })();     } </p>
+<p> if (0 < document.dcdAdsU.length) {document.write('<scr' + 'ipt type="text\/javascript" id="' + document.dcdAdsI[0] + '" src="' + document.dcdAdsU[0] + '"><\/scr' + 'ipt>');} </p>
+<p> if (1 < document.dcdAdsU.length) {document.write('<scr' + 'ipt type="text\/javascript" id="' + document.dcdAdsI[1] + '" src="' + document.dcdAdsU[1] + '"><\/scr' + 'ipt>');} </p>
+<p> if (2 < document.dcdAdsU.length) {document.write('<scr' + 'ipt type="text\/javascript" id="' + document.dcdAdsI[2] + '" src="' + document.dcdAdsU[2] + '"><\/scr' + 'ipt>');} </p>
+<p> if (3 < document.dcdAdsU.length) {document.write('<scr' + 'ipt type="text\/javascript" id="' + document.dcdAdsI[3] + '" src="' + document.dcdAdsU[3] + '"><\/scr' + 'ipt>');} </p>
+<p> if (4 < document.dcdAdsU.length) {document.write('<scr' + 'ipt type="text\/javascript" id="' + document.dcdAdsI[4] + '" src="' + document.dcdAdsU[4] + '"><\/scr' + 'ipt>');} </p>
+<p> if (5 < document.dcdAdsU.length) {document.write('<scr' + 'ipt type="text\/javascript" id="' + document.dcdAdsI[5] + '" src="' + document.dcdAdsU[5] + '"><\/scr' + 'ipt>');} </p>
+<p> if (6 < document.dcdAdsU.length) {document.write('<scr' + 'ipt type="text\/javascript" id="' + document.dcdAdsI[6] + '" src="' + document.dcdAdsU[6] + '"><\/scr' + 'ipt>');} </p>
+<p> initAds(false);     checkAds("817-grey.gif");     window.setTimeout('pingAdStatus()', 10000); </p>
+<p> var _gaq = _gaq || [];     _gaq.push(['_setAccount', 'UA-22700242-2']);     _gaq.push(['_setDomainName', '.theage.com.au']);     _gaq.push(['_addIgnoredRef', 'theage.com.au']);     _gaq.push(['_setAllowAnchor', true]);     _gaq.push(['_setCustomVar', 1, 'Section', 'LifeStyle', 3]);     _gaq.push(['_setCustomVar', 2, 'Sub-Section', 'Diet & Fitness', 3]);     _gaq.push(['_setCustomVar', 3, 'Byline', 'Nicky Phillips', 3]);     _gaq.push(['_setCustomVar', 4, 'Page Type', 'Article', 3]);     // Check whether the user is logged in.     var loggedIn = false;     if (window["FD"]) {         loggedIn = FD.isLoggedIn();     }     if (loggedIn) {         _gaq.push(['_setCustomVar', 5, 'Login Status', 'Logged In', 1]);     } else {         _gaq.push(['_setCustomVar', 5, 'Login Status', ' ', 1]);     }     _gaq.push(['_trackPageview']);     (function() {         var ga = document.createElement('script');         ga.type = 'text/javascript';         ga.async = true;         ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';         var s = document.getElementsByTagName('script')[0];         s.parentNode.insertBefore(ga, s);     })(); </p>
+<p> var pvar = {cid:"f2", content:"TheAge-lifestyle-diet-fitness-story-print", server:"secure-au"};     var trac = nol_t(pvar);     trac.record().post();     window.s_pageName = "age:article:lifestyle:diet & fitness:study finds increase in caffeine poisoning"; </p>
+<p> if (window["FD"]) { 		/** 		 * Updates the white strip with the new time and number of users. 		 * 		 * @param data Date to extract new time and number of users from. 		 * @private 		 */ 		function updateWhiteStrip(data) { 			var response = $.parseJSON(data); 			var whiteStripTimeElement = $("whiteStrip-time"); 			if ((whiteStripTimeElement) && (whiteStripTimeElement.length > 0)) { 				whiteStripTimeElement.empty(); 				whiteStripTimeElement.html(response.time); 			} 			var whiteStripPeopleElement = $("whiteStrip-users"); 			if ((whiteStripPeopleElement) && (whiteStripPeopleElement.length > 0)) { 				whiteStripPeopleElement.empty(); 				whiteStripPeopleElement.html(response.people + " online now"); 			} 		} 		/** 		 * Initiates the client side asset view tracking component (self executing). 		 */ 		(function() { 			FD.pingServerWithSuccessCallback("2894484", "Article", "LifeStyle", updateWhiteStrip); 		})(); 	} </p>
+<p> if (typeof(FB) != "undefined") {         FB.Event.subscribe('edge.create', function(targetUrl) {              if(typeof(_gaq) != "undefined") {                 _gaq.push(['_trackSocial', 'facebook', 'like', targetUrl]);              }         });     } </p>
+<p> if (typeof(twttr) != "undefined") {         twttr.events.bind('tweet', function(event) {             if (event) {                 var targetUrl;                 if (event.target && event.target.nodeName == 'IFRAME') {                     targetUrl = FD.getUrlParam('url',event.target.src);                     if(typeof(_gaq) != "undefined") {                         _gaq.push(['_trackSocial', 'twitter', 'tweet', targetUrl]);                     }                 }             }         });     } </p>

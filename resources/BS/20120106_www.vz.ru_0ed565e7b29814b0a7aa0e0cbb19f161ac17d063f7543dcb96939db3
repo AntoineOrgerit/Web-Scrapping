@@ -1,0 +1,267 @@
+<p> ВЗГЛЯД / Задержанную в ОАЭ с фальшивой купюрой россиянку отпустили в Россию </p>
+<p> jQuery.noConflict(); </p>
+<p> function r(a, w){ 				img = new Image(); 				img.src = 'http://php.vz.ru/counter/index.php?pos=' + w + '&url=' + a.href; 			}  			function add_bookmark(url, title){ 				if (document.all && document.all.item && !window.opera) window.external.AddFavorite(url, title); 				return false; 			}  			function set_hp(homepage_str){ 				if (document.all && document.all.item && !window.opera){ 				document.getElementById('hp_obj').setHomePage((homepage_str) || ('http://' + SITE_URL + '/')); 				event.returnValue = false; 				} 				return false; 			} </p>
+<p> ie\:homepage{         behavior:url(#default#homepage) } </p>
+<p> var SITE_URL = 'vz.ru'; </p>
+<p> var ar_key = 5; </p>
+<p> 10 апреля, среда  |  Последнее обновление — 10:29  |  vz.ru </p>
+<p> Поставить закладку </p>
+<p> | </p>
+<p> Сделать стартовой </p>
+<p> document.write("<img src='http://counter.yadro.ru/hit?r"+ escape(document.referrer)+((typeof(screen)=="undefined")?"": ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth? screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+ ";"+Math.random()+ "' width=1 height=1 alt=''>")// </p>
+<p> <!-- var statun_s="106983"; var statun_img="none"; //--> </p>
+<p> <!-- var ar_key= Math.floor(Math.random()*2+1);  //--> </p>
+<p> var ar_bn1=Math.floor(Math.random()*3+1); if(typeof(ar_cn)=="undefined") var ar_cn=1; var ar_Tail='unknown'; if (document.referrer) ar_Tail = escape(document.referrer);  //var ar_link="http://ad.adriver.ru/cgi-bin/erle.cgi?sid=54890&bn="+ar_bn1+"&target=blank&bt=43&pz=1&tail256=" + ar_Tail; var ar_key = location.search.substring(1); var ar_link="http://ad.adriver.ru/cgi-bin/erle.cgi?sid=54890&bn="+ar_bn1+"&target=blank&bt=43&pz=1&keyword=" + ar_key + "&tail256=" + ar_Tail;  function ar_getDoc(t,n,l){ var doc; if(t<100){if(document.all && !window.opera){doc = window.frames['ar_container_'+n].document;} else if(document.getElementById){doc=document.getElementById('ar_container_'+n).contentDocument;} if(!doc){setTimeout('ar_getDoc('+(++t)+','+n+',"'+l+'")', 100);} else {var RndNum4NoCash = Math.round(Math.random() * 1000000000); doc.write ('<sc'+'ript>var ar_bnum='+n+';(function(){if(!window.ad_fr)setTimeout(arguments.callee,100);else setTimeout(function(){ad_fr.style.top="0px"},100)})();<\/sc'+'ript>'); doc.write ('<sc'+'ript src="'+l+'&rnd='+RndNum4NoCash+'"><\/sc'+'ript>');}}} function ar_putDiv(n, f){document.write('<div id="ad_ph_'+n+'" style="'+(f?'position:absolute;':'position:relative;')+'display:none"><\/div>');} function ar_putContainer(n){document.write('<div style="visibility:hidden; height: 1px; overflow: hidden"><iframe id="ar_container_'+n+'" width=1 height=1 marginwidth=0 marginheight=0 scrolling=no frameborder=0><\/iframe><\/div>');} ar_putDiv(ar_cn,0);ar_putContainer(ar_cn);ar_getDoc(0,ar_cn++,ar_link); </p>
+<p> НОВОСТЬ ЧАСА </p>
+<p> Из-за ДТП отменены аэроэкспрессы из Москвы в аэропорт Домодедово </p>
+<p> лента новостей </p>
+<p> все новости часа </p>
+<p> Северная Корея </p>
+<p> Кипр </p>
+<p> Дети </p>
+<p> Сирия </p>
+<p> Борьба с коррупцией </p>
+<p> Военная реформа </p>
+<p> Дело Сердюкова </p>
+<p> Сочи-2014 </p>
+<p> Россия и США </p>
+<p> Челябинский метеорит </p>
+<p> Борьба с курением </p>
+<p> Люди и религия </p>
+<p> «МК» vs Госдума </p>
+<p> Закон Димы Яковлева </p>
+<p> Борис Березовский </p>
+<p> Курс валют </p>
+<p> Реформа образования </p>
+<p> Президент Путин </p>
+<p> Пенсионная реформа </p>
+<p> Россия в космосе </p>
+<p> Интернет </p>
+<p> Грузия </p>
+<p> Курилы </p>
+<p> Дмитрий Медведев </p>
+<p> Человек будущего </p>
+<p> Экономика </p>
+<p> Политика </p>
+<p> Общество </p>
+<p> В мире </p>
+<p> Происшествия </p>
+<p> Мнения </p>
+<p> Фото </p>
+<p> Голосования </p>
+<p> .main-menu li.thumb 		{ 			padding-top: 0; 		} 		.taggroup-menu li.thumb 		{ 			margin-bottom: 10px; 			margin-top: -13px; 		} 		*+html .taggroup-menu li.thumb 		{ 			margin-bottom: 0px; 			margin-top: 0px; 		} 		*+html .main-menu li.thumb 		{ 			margin-top: 8px; 		} 		* html .taggroup-menu li.thumb 		{ 			margin-bottom: 0px; 			margin-top: 0px; 		} 		.main-menu .jcarousel-buttons, .taggroup-menu .jcarousel-buttons 		{ 			display: none; 		} </p>
+<p> Российские хоккеистки завоевали бронзу чемпионата мира </p>
+<p> КНДР вывела на боевые позиции новые баллистические ракеты </p>
+<p> В России появился новый город-миллионник </p>
+<p> Василий Колташов: </p>
+<p> История с Кипром далеко не закончена. Остров еще будет пугать мир новостями </p>
+<p> ( </p>
+<p> 14 комментариев </p>
+<p> ) </p>
+<p> В Нижегородской области три здания провалились под землю </p>
+<p> США решили добиваться расследования избиения Бекетова </p>
+<p> В американском колледже ранили ножом 14 человек </p>
+<p> Александр Дугин: </p>
+<p> Сегодня Северная Корея бьется против абсолютного зла </p>
+<p> ( </p>
+<p> 55 комментариев </p>
+<p> ) </p>
+<p> На границе Северной Осетии и Кабардино-Балкарии введен режим КТО </p>
+<p> Генассамблея ООН готовит новый проект резолюции по Сирии </p>
+<p> Google запустила первый канал сверхскоростного интернета </p>
+<p> Эдуард Биров: </p>
+<p> Ложно понятые милосердие и социальная справедливость породили паразитизм </p>
+<p> ( </p>
+<p> 32 комментария </p>
+<p> ) </p>
+<p> Читайте также </p>
+<p> «Америка боевых холопов себе найдет» </p>
+<p> Эксперт рассказал о том, как выглядит будущая геополитика с точки зрения математических расчетов </p>
+<p> Подробности... </p>
+<p> «Нет зуда сажать в тюрьму» </p>
+<p> Госдума подавляющим большинством голосов одобрила уголовную ответственность за оскорбление чувств верующих </p>
+<p> Подробности... </p>
+<p> Оценка неудовлетворительная </p>
+<p> Счетная палата заявила о нарушениях в системе школьного образования </p>
+<p> Подробности... </p>
+<p> advert.push( function() { 			create_iframe('banner_forex', '/inc/b/banner_forex.html','240', '400'); 		}); </p>
+<p> <!-- //var RndNum4NoCash = Math.round(Math.random() * 1000000000); //var ar_Tail='unknown'; if (document.referrer) ar_Tail = escape(document.referrer); //document.write( //'<iframe src="http://ad.adriver.ru/cgi-bin/erle.cgi?' //+ 'sid=172005&target=blank&w=240&h=146&bt=8&pz=0&rnd=' + RndNum4NoCash + '&tail256=' + ar_Tail //+ '" frameborder=0 vspace=0 hspace=0 width=240 height=146 marginwidth=0' //+ ' marginheight=0 scrolling=no></iframe>'); //--> </p>
+<p> //<!-- 	if( arrayNumsTipsRight2 == null ){ 		var arrayNumsTipsRight2 = new Array(); 		for( i = 1; i <= 0; i++ ){ 			arrayNumsTipsRight2.push( i ); 		} 		arrayNumsTipsRight2 = shufle( arrayNumsTipsRight2 ); 	} // --> </p>
+<p> advert.push( function() { 			create_iframe('left_rian_iframe', '/inc/b/last-right-banner-240x400.html','240', '400'); 		}); </p>
+<p> advert.push( function() { 			create_iframe('dni_ru_banner_240x400_left', 'http://dni.ru/inc/banner-240x400.html','240', '400'); 		}); </p>
+<p> advert.push( function() { 			create_iframe('banner_240x400_left', '/inc/b/banner_left_240x400.html','242', '402'); 		}); </p>
+<p> Интервью / Политика </p>
+<p> Виктор Ковалев: Америка боевых холопов себе найдет </p>
+<p> Константин Голоскоков: Собчак уже попалась на лжи </p>
+<p> Кирилл Кабанов: Массового бегства чиновников не будет </p>
+<p> Евгений Бужинский: Ракетный потенциал КНДР преувеличен </p>
+<p> Вячеслав Лысаков: Для общества чреват нигилизм </p>
+<p> Интервью / Общество </p>
+<p> Франц Клинцевич: Многие еще не раз пожалеют </p>
+<p> Иван Каляпин: Реформа не провальна, а провалена </p>
+<p> Александр Никонов: Феминизм опасен, как и любое левачество </p>
+<p> Андрей Шмакин: В народе это называется "поздняя весна" </p>
+<p> Елена Ярская-Смирнова: Крен в неоконсерватизм очевиден </p>
+<p> Интервью / Экономика </p>
+<p> Вячеслав Кондратьев: Ан-2 не будет конкурентом для "Рысачка" </p>
+<p> Игорь Маликов: «Пилотировать» на КамАЗе – не то же самое </p>
+<p> Алексей Ведев: Набиуллина сможет сочетать разные подходы МЭР </p>
+<p> Галина Хованская: Категория несправедливо обиженных граждан </p>
+<p> Юрий Ковалев: Свинина оказалась в двойных тисках </p>
+<p> Задержанную в ОАЭ с фальшивой купюрой россиянку отпустили в Россию </p>
+<p> 5 января 2012, 14:45 </p>
+<p> Версия для печати </p>
+<p> var blogger = new Blogger(); blogger.initArticle({ 	date: '14:45, 5 января 2012', 	pic_url: 'http://img.vz.ru/upimg/m55/m551531.jpg', 	pic_display: 'none', 	title: 'Задержанную в ОАЭ с фальшивой купюрой россиянку отпустили в Россию', 	lead: 'Жительница Башкирии и многодетная мать Гузель Идрисова, которая была арестована в ноябре 2011 года в ОАЭ с фальшивой купюрой на руках, в пятницу вернется домой, сообщил в четверг ее муж Рафиль Идрисов.', 	url: '/news/2012/1/5/551531.html' }); </p>
+<p> Жительница Башкирии и многодетная мать Гузель Идрисова, которая была арестована в ноябре 2011 года в ОАЭ с фальшивой купюрой на руках, в пятницу вернется домой, сообщил в четверг ее муж Рафиль Идрисов. </p>
+<p> Популярные материалы </p>
+<p> СМИ: Российские бомбардировщики имитировали удары по объектам ПРО США </p>
+<p> Профессор МГУ предсказал скорое начало мировой войны </p>
+<p> Премьер Польши начал разбирательства по поводу соглашения с Газпромом </p>
+<p> Душивший прохожих мигрант признался в "ненависти к зажравшимся москвичам" </p>
+<p> Кадыров пожалел о смерти Березовского </p>
+<p> Готовится решение о создании в России сверхтяжелой ракеты </p>
+<p> Расскажи о себе на Russia.ru </p>
+<p> По словам Идрисова, в среду полицейские города Шарджи освободили Гузель из под домашнего ареста и вернули паспорт. </p>
+<p> «Гузель так никто и не объяснил, на каком основании ее удерживали столько месяцев, официальных обвинений против нее предъявлено не было. Также представители арабской полиции не принесли ей извинений», - рассказал Идрисов </p>
+<p> РИА «Новости» </p>
+<p> . </p>
+<p> По его словам, билет до дома ее супруге приобрели представители российского консульства. В четверг Гузель Идрисова прилетит в Уфу, встречать ее будут родственники и журналисты. </p>
+<p> Гузель Идрисова, мать пятерых детей из поселка Толбазы в Башкирии, была задержана в ОАЭ с фальшивой стодолларовой купюрой в ноябре 2011 года. Ей грозило тюремное заключение. Женщина не могла вернуться на родину и содержалась под домашним арестом. Ее супруг распродавал имущество, чтобы оплатить проживание жены в отеле. Российские консульские работники в ОАЭ поддерживали постоянный контакт с россиянкой, оказывая ей необходимую помощь. </p>
+<p> // document.write(VK.Share.button(false,{type: "link_noicon", text: "Добавить Вконтакт"})); </p>
+<p> Поделиться новостью </p>
+<p> document.write(VK.Share.button(false,{type: "link_noicon", text: " " } )); </p>
+<p> Livejournal </p>
+<p> Twitter </p>
+<p> В контакте </p>
+<p> Mail.ru </p>
+<p> Liveinternet.ru </p>
+<p> Facebook </p>
+<p> Myspace </p>
+<p> Blogger </p>
+<p> Google Buzz </p>
+<p> Gmail </p>
+<p> insertAppendOtherApplecationsBlock(); </p>
+<p> ← </p>
+<p> На главную страницу </p>
+<p> Письмо в редакцию </p>
+<p> Подписка на новости </p>
+<p> .flash_div  {     width: 100%;     background-color: black;     background-image: url('/images/war_background2.gif');     background-position: top center;     background-repeat:no-repeat;     height: 450px;     text-align: center;     margin: 0px;     margin-bottom:12px;     padding: 0px;     min-width: 700px;     width:expression(document.body.clientWidth < 770? "770px": "auto" ); }  .russia_flash_div_old  {     width: 100%;     background-color: black;     background-image: url('/images/war_background3.gif');     background-position: top center;     background-repeat:no-repeat;     height: 450px;     text-align: center;     margin: 0px;     margin-bottom:12px;     padding: 0px;     min-width: 608px;     width:expression(document.body.clientWidth < 1100? "608px": "auto" );      }  .russia_flash_div {     width: 100%;     background-color: black;     background-image: url('/images/russia_vz_player3.jpg');     background-position: top center;     background-repeat:no-repeat;     height: 338px;     text-align: center;     margin: 0px;     margin-bottom:12px;     padding: 0px;     min-width: 519px;     width:expression(document.body.clientWidth < 1100? "519px": "auto" );      }  .flash_container {     width: 100%;     text-align: center;          height: 360px;     padding-top: 0px;     /*padding-left: 7px;*/      padding-bottom: 0px;     margin:0px;      } *html .flash_container embed {margin-left:1px;} *+html .flash_container embed {margin-left:1px;} .russia_flash_div_link { 	text-align: center; 	vertical-align:top; 	margin-top:-5px; 	background-color: black;     background-image: url('/images/russia_vz_player_link3.jpg');     background-position: top center;     background-repeat:no-repeat; 	height:47px; 	 	margin-bottom:0px; 	padding-bottom:0px; 	min-width: 519px; 	width:expression(document.body.clientWidth < 1100? "519px": "auto" ); } *html .russia_flash_div_link{margin-bottom:-5px;margin-top:0px;margin-left:0px;} *+html .russia_flash_div_link {margin-top:0px;margin-left:0px;margin-bottom:-5px;} </p>
+<p> <!-- var rand_no = Math.random(); if(rand_no>0.5) {     //$('playercontainer1').style.display=""; } else {     //$('playercontainer2').style.display=""; }    //--> </p>
+<p> var	linkPlayer = "http://www.russia.ru/player/top_vz.swf"; 	 		var so_flv_player = new SWFObject( linkPlayer, 'fp', '519', '292', '9.0.115.0', '#000000' ); 		so_flv_player.skipDetect = 1; 		so_flv_player.addVariable('from', 'vz'); 		so_flv_player.addParam('allowScriptAccess', 'always'); 		so_flv_player.addParam('allowFullScreen', 'true'); 		so_flv_player.addParam('wmode', 'transparent'); 		so_flv_player.write('player'); </p>
+<p> 10:17 </p>
+<p> Новый город-миллионник появился в России </p>
+<p> Статус города-миллионника официально подтвердил Красноярск, сообщили в среду в местном органе статистики. </p>
+<p> 10:15 </p>
+<p> Усилена охрана здания Госдумы </p>
+<p> У здания Госдумы усилена охрана, проход по Охотному ряду перекрыт, рассказал в среду утром очевидец. </p>
+<p> 10:10 </p>
+<p> Доллар на ММВБ подорожал на две копейки </p>
+<p> Курс доллара расчетами «завтра» в первые минуты валютных торгов на Московской бирже в среду вырос на 2 копейки - до 31,04 рубля, курс евро снизился на 2 копейки - до 40,59 рубля. </p>
+<p> 10:08 </p>
+<p> ММВБ-РТС открылась в плюсе </p>
+<p> Индекс РТС при открытии торгов в среду повысился на 0,74% и составил 1450,18 пункта, индекс ММВБ - на 0,26% до 1429,25 пункта. </p>
+<p> 10:06 </p>
+<p> МВД начало проверку омского кафе по поводу порно-вечеринки </p>
+<p> Снимки порнографического характера, сделанные в одном из омских кафе, стали поводом для полицейской проверки, сообщили в среду в региональном УМВД. </p>
+<p> 09:50 </p>
+<p> Движение на Каширском шоссе в Подмосковье закрыли до пятницы </p>
+<p> Движение на 36-м километре Каширского шоссе в Подмосковье в районе съезда с трассы М-4 «Дон», закрытое из-за ДТП с грузовиком, будет перекрыто еще два дня, сообщила в среду пресс-служба регионального управления ГИБДД. </p>
+<p> 09:40 </p>
+<p> Баррель нефти подорожал до 93,91 доллара </p>
+<p> Мировые цены на нефть демонстрируют смешанную динамику в среду на фоне статистики по запасам сырья в США и внешнеторговому балансу Китая. </p>
+<p> 09:34 </p>
+<p> Boeing с пассажирами загорелся в сибирском аэропорту </p>
+<p> В аэропорту Емельяново произошло возгорание тормозного устройства левой основной опоры шасси Boeing-767 авиакомпании ООО «Северный Ветер» во время буксировки на стоянку, сообщили в Западно-Сибирской транспортной прокуратуре. </p>
+<p> 09:26 </p>
+<p> Обвиняемого в убийстве посетителя кафе боксера отдали под суд </p>
+<p> Расследование уголовного дела в отношении 22-летнего жителя города Каменск-Уральского Валерия Третьякова, выступающего за один из известных боксерских клубов Москвы, завершено, сообщили в СУ СК России по Свердловской области. </p>
+<p> 09:18 </p>
+<p> США решили добиваться расследования обстоятельств избиения Бекетова </p>
+<p> Соединенные Штаты озабочены тем, что в России не нашли виновных в избиении российского журналиста Михаила Бекетова, и продолжат добиваться тщательного расследования этого преступления. </p>
+<p> 09:13 </p>
+<p> Из-за ДТП отменены аэроэкспрессы из Москвы в аэропорт Домодедово </p>
+<p> Отменяется движение нескольких аэроэкспрессов, следующих из Москвы и в столицу, поезда пригородного сообщения будут следовать с небольшими отклонениями от расписания из-за произошедшего ДТП, сообщили в пресс-службе МЖД. </p>
+<p> 09:07 </p>
+<p> Венесуэла закрыла границы перед президентскими выборами </p>
+<p> Накануне президентских выборов власти Венесуэлы приняли решение закрыть границу с Колумбией и Бразилией, передают зарубежные информационные агентства. </p>
+<p> 08:42 </p>
+<p> КНДР вывела на боевые позиции несколько новых баллистических ракет </p>
+<p> К северу от портового города Вонсан КНДР установила на боевые позиции еще несколько баллистических ракет «Скад» и «Нодон», сообщили в среду в минобороны Южной Кореи. </p>
+<p> 08:29 </p>
+<p> СМИ: Глава британского МИД призвал защищать женщин на войне </p>
+<p> Министр иностранных дел Великобритании рассказал о готовящемся документе по предотвращению сексуального насилия и защите женщин в ходе вооруженных конфликтов. </p>
+<p> 08:25 </p>
+<p> Прокуратура ТОФ выявила воровство на строительстве дороги </p>
+<p> Проверка военных прокуроров выявила необоснованное перечисление денег на благоустройство дороги, в том числе в жилом районе для военных «Снеговая Падь» во Владивостоке, сообщили в военной прокуратуре Тихоокеанского флота. </p>
+<p> 08:14 </p>
+<p> Южная Корея попросила Россию и Китай повлиять на КНДР </p>
+<p> Правительство Южной Кореи обратилось к России и Китаю с просьбой оказать помощь в сдерживании КНДР от дальнейших военных провокаций, сообщили в среду южнокорейские СМИ. </p>
+<p> 08:11 </p>
+<p> Избившие настоятеля церкви в новой Москве задержаны </p>
+<p> По подозрению в нападении на настоятеля храма Сошествия Святого Духа в поселке Первомайское и подсобного рабочего задержаны 32-летний и 29-летний мужчины, сообщили в ГУ МВД России по Москве. </p>
+<p> 07:58 </p>
+<p> Дети пострадали при провале грунта в нижегородском поселке </p>
+<p> Три здания провалились в воронку диаметром 85 метров, которая образовалась в среду утром в поселке Бутурлино Нижегородской области, травмы получили шестеро детей, сообщил представитель регионального УМВД. </p>
+<p> 07:47 </p>
+<p> Япония ошибочно сообщила о запуске ракеты КНДР </p>
+<p> Япония в среду ошибочно сообщила о запуске ракеты КНДР через официальную страницу в Twitter администрации города Иокогама (префектура Канагава). </p>
+<p> 07:34 </p>
+<p> На границе Северной Осетии и Кабардино-Балкарии введен режим КТО </p>
+<p> Режим КТО введен по границе с Кабардино-Балкарией в лесном массиве на территории Правобережного района Северной Осетии для ликвидации базы бандподполья, говорится в информации пресс-службы УФСБ по Северной Осетии. </p>
+<p> О газете </p>
+<p> | </p>
+<p> Вакансии </p>
+<p> | </p>
+<p> Реклама на сайте </p>
+<p> var place   = 'adriver_banner'; var soloway = new adriver(place,{sid:54890, bt:52, pz: 1}); (function(){var args = arguments,c=adriver.items[place];if(!c||(c&&!c.reply)){setTimeout(function(){args.callee();}, 100);return;} if(c.reply.bid == 399800){if(typeof(window.ar_cn)=="undefined") window.ar_cn=1;var ar_Tail=document.referrer ? escape(document.referrer) : 'unknown'; var ar_link="http://ad.adriver.ru/cgi-bin/erle.cgi?sid=54890&bt=49&pz=2&target=blank&tail256=" + ar_Tail; var div = document.createElement('div');a = document.getElementById(place);a.appendChild(div);div.style.visibility = "hidden";div.style.height="0px"; div.innerHTML = '<iframe id="ar_container_'+window.ar_cn+'" width=1 height=1 marginwidth=0 marginheight=0 scrolling=no frameborder=0><\/iframe>'; var div2 = document.createElement('div');div2.id = "ad_ph_"+window.ar_cn;a.appendChild(div2); function ar_getDoc(t,n,l){var doc;if(t<100){if(document.all && !window.opera){doc = window.frames['ar_container_'+n].document} else if(document.getElementById){doc=document.getElementById('ar_container_'+n).contentDocument} if(!doc){setTimeout('ar_getDoc('+(++t)+','+n+',"'+l+'")', 100)}else {var RndNum4NoCash = Math.round(Math.random() * 1000000000); doc.write ('<sc'+'ript language="JavaScript" type="text/javascript">var ar_bnum='+n+';<\/sc'+'ript>'); doc.write ('<sc'+'ript language="JavaScript" type="text/javascript" src="'+l+'&rnd='+RndNum4NoCash+'"><\/sc'+'ript>');}}} (function(num,link){function addEvent(e,t,f){if(e.addEventListener)e.addEventListener(t,f,false);else if(e.attachEvent)e.attachEvent('on'+t,f)} function removeEvent(e,t,f){if(e.removeEventListener)e.removeEventListener(t,f,false);else if(e.detachEvent)e.detachEvent('on'+t,f)} var BannerLoader={top:0,height:400,left:0,width:240,cm:document.compatMode=="CSS1Compat", scroll:function(){var s = self, de = document.documentElement, db = document.body,cw = this.cm && de.clientWidth || s.innerWidth || db.clientWidth, sl = s.pageXOffset || this.cm && de.scrollLeft || db.scrollLeft,sw = this.cm && de.scrollWidth || db.scrollWidth || db.offsetWidth; if((sl-this.left<=this.width*0.1&&sl+cw-this.left>=this.width*0.9)||(sw-this.left<=this.width*0.9&&(sw-sl-cw<1||sw<cw))){removeEvent(window,'scroll',this.sfunc);removeEvent(window,'resize',this.sfunc);ar_getDoc(0,num,link)}}, sfunc: function(){BannerLoader.scroll()},init:function(){var t=this,obj=document.getElementById('ad_ph_'+num); if(obj){while(obj.offsetParent){t.top += obj.offsetTop;t.left += obj.offsetLeft; obj = obj.offsetParent} addEvent(window,'scroll',this.sfunc);addEvent(window,'resize',this.sfunc);t.scroll()}}};BannerLoader.init(); })(window.ar_cn++,ar_link);}})(); </p>
+<p> advert.push( function() {  create_iframe('right_russia', 'http://adv.russia.ru/adv?id=3&c=1&n=6&css=/css/vz.css', '240', '337');  //create_iframe('right_russia', 'http://russia.ru/inc/export/vzbannermain.html', '240', '872');  //create_iframe('right_russia', 'http://russia.ru/inc/export/vzbanneronline.html','240', '878'); }); </p>
+<p> //<!-- 	if( arrayNumsTips == null ){ 		var arrayNumsTips = new Array(); 		for( i = 1; i <= 0; i++ ){ 			arrayNumsTips.push( i ); 		} 		arrayNumsTips = shufle( arrayNumsTips ); 	} // --> </p>
+<p> advert.push( function() { 			//create_iframe('sol-banner', '/inc/b/vz_block_sol_inner.html','240', '400'); 			create_iframe('sol-banner', '/inc/b/vz_block_infoks_inner.html','240', '400'); 		}); </p>
+<p> <!-- var is_main = 0;   //--> </p>
+<p> <!-- var is_main = 0;   //--> </p>
+<p> if( location.href.indexOf("top") >= 0 ){ 			document.write("<div id='banner_forex_right'></div><div class='shadow'>&#160;</div>"); 		} 		advert.push( function() { 			create_iframe('banner_forex_right', '/inc/b/banner_forex.html','240', '400'); 		}); </p>
+<p> advert.push( function() { 			create_iframe('right_advert240x400_2', '/inc/b/right_advert_240x400_2.html','240', '400'); 		}); </p>
+<p> advert.push( function() { 			create_iframe('last-banner-right', '/inc/b/last-right-banner-240x400.html','240', '400'); 		}); </p>
+<p> advert.push( function() { 			create_iframe('last-banner-right', '/inc/b/left_rian_iframe.html','240', '400'); 		}); </p>
+<p> advert.push( function() {                         create_iframe('last2-banner-right', '/inc/b/last2-right-banner-240x400.html','240', '400');                 }); </p>
+<p> advert.push( function() { 			create_iframe('vz.ru_234x120', '/inc/b/adv.vz.ru_234x120_iframe.html','234', '120'); 		}); </p>
+<p> if(VK){ 			VK.Widgets.Group("vk_groups", {mode: 0, width: "240"}, 19976640); 		} </p>
+<p> Редакция </p>
+<p> Выходные данные </p>
+<p> Кто делает «Взгляд» </p>
+<p> • </p>
+<p> Главный редактор </p>
+<p> • </p>
+<p> Редакторы и обозреватели </p>
+<p> • </p>
+<p> Вакансии </p>
+<p> Размещение рекламы </p>
+<p> • </p>
+<p> Баннерная реклама </p>
+<p> • </p>
+<p> Спонсорство разделов </p>
+<p> • </p>
+<p> Подписка на новости </p>
+<p> • </p>
+<p> Экспорт новостей </p>
+<p> • </p>
+<p> Медиасеть газеты «Взгляд» </p>
+<p> © 2005 - 2012 ЗАО «ВЗГЛЯД.РУ» </p>
+<p> 2009 Newmedia Stars </p>
+<p> E-mail: </p>
+<p> inform@vz.ru </p>
+<p> var img = new Image(); 	img.src = 'http://www.tns-counter.ru/V13a***' + document.referrer.replace(/\*/g,'%2a') + '*krykov_ru/ru/CP1251/tmsec=vzglyad_total/'; </p>
+<p> В начало страницы </p>
+<p> • </p>
+<p> Поставить закладку </p>
+<p> • </p>
+<p> На главную страницу </p>
+<p> • </p>
+<p> <!-- var RndNum4NoCash = Math.round(Math.random() * 1000000000); var ar_Tail='unknown'; if (document.referrer) ar_Tail = escape(document.referrer); document.write('<img src="http://ad.adriver.ru/cgi-bin/rle.cgi?' + 'sid=54890&bt=21&pz=0&rnd=' + RndNum4NoCash + '&tail256=' + ar_Tail + '" border=0 width=1 height=1>') //--> </p>
+<p> var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); </p>
+<p> var pageTracker = _gat._getTracker("UA-3626413-1"); pageTracker._initData(); pageTracker._trackPageview(); </p>
+<p> Мы в социальных сетях </p>
+<p> VK.Widgets.Group("vk_groups_2", {mode: 1, width: "280px", height: "91px"}, 19976640); </p>
+<p> Мы в Facebook </p>
+<p> Мы в Twitter </p>
+<p> Follow @vzglyad </p>

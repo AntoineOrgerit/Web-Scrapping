@@ -1,0 +1,503 @@
+<p> ΤΟ ΒΗΜΑ - Υποσχόμενο εμβόλιο για την ηπατίτιδα C - science  - Ιατρική – Βιολογία </p>
+<p> var relatedWide = 0; </p>
+<p> var NvPage = {     PageId: 6551,     LanguageId: 1,     PageHierarchy: ".6290.6550.6551." } </p>
+<p> ΤΕΛΕΥΤΑΙΕΣ ΕΙΔΗΣΕΙΣ: </p>
+<p> Κανονικά εκτελούνται οι συνταγές από τα φαρμακεία </p>
+<p> Παράταση ως τις 16 Ιανουαρίου για το σήμα τελών κυκλοφορίας </p>
+<p> ΕΓΓΡΑΦΗ </p>
+<p> ΕΙΣΟΔΟΣ </p>
+<p> ΒΗΜΑ24 </p>
+<p> Ιστορικό Αρχείο ΔΟΛ </p>
+<p> PDF όπως στο χαρτί </p>
+<p> Τροποποίηση Στοιχείων Μέλους </p>
+<p> Επιλογές Newsletter </p>
+<p> πολιτική </p>
+<p> οικονομία </p>
+<p> γνώμες </p>
+<p> blogs </p>
+<p> κόσμος </p>
+<p> επιστήμη </p>
+<p> κοινωνία </p>
+<p> πολιτισμός </p>
+<p> αθλητισμός </p>
+<p> $(document).ready(function(){          $("body").attr("id",'page_'+getIdPageStyle());          $("div.type_homepage").attr("id",getIdPageStyle()); 	 $("div.type_tagpage").attr("id",getIdPageStyle()); 	 $("div.type_article").attr("id",getIdPageStyle()); 	 $("div.gallery_page").attr("id",getIdPageStyle()); 	 $("div.webtv_page").attr("id",getIdPageStyle()); 	 $("div.eikonatisimeras_page").attr("id",getIdPageStyle()); 	 $("div.eikones_page").attr("id",getIdPageStyle());          $("div.type_editors").attr("id",getIdPageStyle()); 	 $("div.eikonastisimeras_page").attr("id",getIdPageStyle());   $("span#goto_news_").attr("id",'goto_news_'+getIdPageStyle()); 	 $("div.navigation_menu").css("visibility","visible");        }) </p>
+<p> από </p>
+<p> freemeteo.com </p>
+<p> Σάββατο 14 Ιανουαρίου 2012 </p>
+<p> ΑΝΑΖΗΤΗΣΗ </p>
+<p> παιδεία </p>
+<p> βιβλία + ιδέες </p>
+<p> υγεία + fitness </p>
+<p> εργασία </p>
+<p> media </p>
+<p> περιβάλλον </p>
+<p> ταξίδι </p>
+<p> hi tech </p>
+<p> οδηγώ </p>
+<p> web tv </p>
+<p> εικόνες </p>
+<p> ψυχαγωγία </p>
+<p> φλας </p>
+<p> comedy </p>
+<p> BHMagazino </p>
+<p> BHMAgourmet </p>
+<p> BHMAdeco </p>
+<p> BHMAdonna </p>
+<p> BHMAmen </p>
+<p> BHMA FM </p>
+<p> night </p>
+<p> store </p>
+<p> Ιωάννα Σουφλέρη </p>
+<p> RSS </p>
+<p> Όλα τα άρθρα του συντάκτη σε RSS </p>
+<p> $(document).ready(function(){ $("#email").mouseover(function() { $(jQuery($(this).next())).css("left",$(this).position().left - 40); $(jQuery($(this).next())).show(); }).mouseout(function() { $(jQuery($(this).next())).hide(); }); $("#www").mouseover(function() { $(jQuery($(this).next())).css("left",$(this).position().left - 40); $(jQuery($(this).next())).show(); }).mouseout(function() { $(jQuery($(this).next())).hide(); }); $("#fb").mouseover(function() { $(jQuery($(this).next())).css("left",$(this).position().left - 47); $(jQuery($(this).next())).show(); }).mouseout(function() { $(jQuery($(this).next())).hide(); }); $("#tw").mouseover(function() { $(jQuery($(this).next())).css("left",$(this).position().left - 47); $(jQuery($(this).next())).show(); }).mouseout(function() { $(jQuery($(this).next())).hide(); }); $("#rss").mouseover(function() { $(jQuery($(this).next())).css("left",$(this).position().left - 45); $(jQuery($(this).next())).show(); }).mouseout(function() { $(jQuery($(this).next())).hide(); }); }); </p>
+<p> Υποσχόμενο εμβόλιο για την ηπατίτιδα C </p>
+<p> Προκάλεσε ισχυρή ανοσολογική αντίδραση στους εθελοντές </p>
+<p> ΔΗΜΟΣΙΕΥΣΗ:  05/01/2012, 13:46 </p>
+<p> Εναντίον του γενετικού υλικού του ιού της ηπατίτιδας C στρέφεται το υποσχόμενο εμβόλιο που παρασκεύασαν βρετανοί επιστήμονες </p>
+<p> var addthis_config = { "data_track_clickback": true }; </p>
+<p> email </p>
+<p> εκτύπωση </p>
+<p> μικρό μέγεθος </p>
+<p> μεγάλο μέγεθος </p>
+<p> ΛΟΝΔΙΝΟ </p>
+<p> Βρετανοί ερευνητές παρασκεύασαν εμβόλιο για την ηπατίτιδα C το οποίο πέρασε επιτυχώς την πρώτη φάση κλινικών δοκιμών. Όπως αναφέρουν στο σχετικό άρθρο τους στην επιθεώρηση Science Translational Medine, η χορήγηση του εμβολίου σε 41 υγιείς εθελοντές προκάλεσε ισχυρή ανοσολογική αντίδραση. </p>
+<p> Πολλά κρούσματα </p>
+<p> Ο ιός της ηπατίτιδας C  μεταδίδεται μέσω του αίματος και μπορεί να περάσουν πολλά χρόνια πριν αρχίσει να προκαλεί συμπτώματα και ειδικότερα βλάβες στο ήπαρ. </p>
+<p> Ο Παγκόσμιος Οργανισμός Υγείας ανεβάζει τον αριθμό των προσβεβλημένων από τον ιό ατόμων στα 170 εκατομμύρια. Η νόσος ελέγχεται με αντι-ιϊκά φάρμακα, ενώ στις περιπτώσεις που αυτά αποδεικνύονται αναποτελεσματικά απαιτείται μεταμόσχευση ήπατος. </p>
+<p> Εμβόλιο εν όψει </p>
+<p> Εμβόλιο για τη νόσο δεν υπάρχει προς το παρόν. Αν οι προσπάθειες των βρετανών επιστημόνων καρποφορήσουν, το εμβόλιο θα μπορούσε να κάνει την εμφάνισή του στην επόμενη δεκαετία. </p>
+<p> Η μεγάλη δυσκολία για την παρασκευή εμβολίου είναι το γεγονός ότι ο ιός μεταβάλλει συχνά την εξωτερική εμφάνισή του. Για τον λόγο αυτό, οι ερευνητές του Πανεπιστημίου της Οξφόρδης σχεδίασαν το εμβόλιο έτσι ώστε να «στρέφεται» εναντίον του γενετικού υλικού του ιού.  (Μετά τη μόλυνση, το ιικό γενετικό υλικό βγαίνει από το εξωτερικό περίβλημα του ιού προκειμένου να χρησιμεύσει στον πολλαπλασιασμό του). </p>
+<p> Η πρώτη κλινική δοκιμή είχε στόχο να διαπιστωθεί η ασφάλεια του εμβολίου. Πράγματι, σύμφωνα με το άρθρο, οι εθελοντές δεν ανέφεραν παρενέργειες, ενώ η παραγωγή αντισωμάτων έναντι του ιού άνοιξε στους ερευνητές το πράσινο φως για την επόμενη φάση: τη χορήγηση του εμβολίου σε άτομα με αυξημένη πιθανότητα μόλυνσης (πχ χρήστες ουσιών) και την διερεύνηση της ικανότητας του εμβολίου να τους προστατεύσει από αυτή. </p>
+<p> Ιατρική – Βιολογία </p>
+<p> περισσότερες ειδήσεις </p>
+<p> var addthis_config = { "data_track_clickback": true }; </p>
+<p> email </p>
+<p> εκτύπωση </p>
+<p> μικρό μέγεθος </p>
+<p> μεγάλο μέγεθος </p>
+<p> ΛΕΞΕΙΣ ΚΛΕΙΔΙΑ </p>
+<p> ηπατίτιδα C </p>
+<p> , </p>
+<p> εμβόλιο </p>
+<p> , </p>
+<p> κλινικές δοκιμές </p>
+<p> , </p>
+<p> ήπαρ </p>
+<p> var hasarticle = 0; </p>
+<p> ΔΙΑΒΑΣΤΕ ΕΠΙΣΗΣ </p>
+<p> $(document).ready(function(){ 				 if (hasarticle == 0){ 				 	if(jQuery(".article_readalso").length > 0){  					$(".article_readalso").remove();} 				 } 				 }); </p>
+<p> $(document).ready(function(){ 					if(relatedWide < 2) 						$(".article_readalsomore").attr("id","wide"); 				}); </p>
+<p> $(document).ready(function(){ FontSize.Initialize(".article_text", ".rel-icon-font-large", ".rel-icon-font-small"); }); </p>
+<p> σχόλια </p>
+<p> (0) </p>
+<p> Τίτλος σχολίου </p>
+<p> * </p>
+<p> Γράψτε το σχόλιό σας </p>
+<p> * </p>
+<p> (έως 2000 χαρακτήρες) </p>
+<p> απομένουν </p>
+<p> 2000 </p>
+<p> χαρακτήρες </p>
+<p> jQuery(function(){                         jQuery(".article_comments_form_items").tCounter();                   }); </p>
+<p> E-mail </p>
+<p> * </p>
+<p> Όνομα που θα εμφανιστεί το σχόλιό σας </p>
+<p> Τα πεδία που είναι σημειωμένα με </p>
+<p> * </p>
+<p> είναι υποχρεωτικά </p>
+<p> Γράψτε το κείμενο όπως το διαβάζετε παρακάτω: </p>
+<p> Αν το κείμενο δεν είναι ευδιάκριτο, </p>
+<p> πατήστε εδώ </p>
+<p> να δημιουργηθεί νέο κείμενο. </p>
+<p> Αποστολή μηνύματος </p>
+<p> Καθαρισμός </p>
+<p> Τα μηνύματα που δημοσιεύονται στο χώρο αυτό εκφράζουν τις απόψεις των αποστολέων τους. Το ΒΗΜΑ δεν υιοθετεί καθ’ οιονδήποτε τρόπο τις απόψεις αυτές. Ο καθένας έχει δικαίωμα να εκφράζει την γνώμη του, όποια και να είναι αυτή. Δεν δημοσιεύονται συκοφαντικά ή υβριστικά σχόλια. Τέτοια μηνύματα θα διαγράφονται όποτε εντοπίζονται. </p>
+<p> Ιατρική – Βιολογία </p>
+<p> Φυσική – Διάστημα </p>
+<p> Τεχνολογία – Πλανήτης </p>
+<p> Μαθηματικά – Πληροφορική </p>
+<p> Ψυχολογία – Κοινωνιολογία </p>
+<p> Ερευνα στην Ελλάδα </p>
+<p> ΔΙΑΒΑΣΜΕΝΑ </p>
+<p> ΣΧΟΛΙΑΣΜΕΝΑ </p>
+<p> Ιατρική – Βιολογία </p>
+<p> - </p>
+<p> Στις 5 εβδομάδες αποκαλύπτεται το φύλο του εμβρύου </p>
+<p> 12/01/2012, 13:02 </p>
+<p> Σχόλια (1) </p>
+<p> Ιατρική – Βιολογία </p>
+<p> - </p>
+<p> O εθισμός στο Ιντερνετ αλλάζει τον εγκέφαλο </p>
+<p> 12/01/2012, 16:31 </p>
+<p> Σχολιάστε </p>
+<p> Ιατρική – Βιολογία </p>
+<p> - </p>
+<p> Το πάγκρεας υποφέρει από το... κρέας </p>
+<p> 13/01/2012, 13:46 </p>
+<p> Σχολιάστε </p>
+<p> Ιατρική – Βιολογία </p>
+<p> - </p>
+<p> Το πρώτο «ένοχο» γονίδιο για τον προστάτη </p>
+<p> 12/01/2012, 14:49 </p>
+<p> Σχολιάστε </p>
+<p> Ιατρική – Βιολογία </p>
+<p> - </p>
+<p> Το αλκοόλ «γεννά» τα χημικά της ευχαρίστησης </p>
+<p> 12/01/2012, 13:21 </p>
+<p> Σχολιάστε </p>
+<p> Ιατρική – Βιολογία </p>
+<p> - </p>
+<p> Δημιούργησαν μυρμήγκια υπερστρατιώτες </p>
+<p> 09/01/2012, 13:27 </p>
+<p> Σχόλια (2) </p>
+<p> vimascience </p>
+<p> Η εξουσία χαρίζει... ύψος </p>
+<p> http://bit.ly/yCeb66 </p>
+<p> tovima </p>
+<p> Τουλάχιστον τρία άτομα σκοτώθηκαν, σύμφωνα με πληροφορίες, όταν το κρουαζιερόπλοιο Costa Concordia προσάραξε κοντά στο νησί Τζίλιο στην Τοσκάνη. </p>
+<p> $(document).ready(function(){ 				 				$(".facebook_follow").html('<iframe src="http://www.facebook.com/plugins/like.php?href="{link}"&amp;layout=button_count&amp;show_faces=false&amp;width=86&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:86px; height:21px;" allowTransparency="true"></iframe>'); 				}); </p>
+<p> Newsroom </p>
+<p> Διαβάστε στο Βήμα της Κυριακής </p>
+<p> [19:41] </p>
+<p> Τρεις νεκροί σε κρουαζιερόπλοιο - Σώοι τρεις Ελληνες επιβάτες </p>
+<p> [18:57] </p>
+<p> Αίγυπτος: Δεν θα είναι υποψήφιος στις εκλογές ο Ελ Μπαραντέι </p>
+<p> [18:45] </p>
+<p> Ευ. Βενιζέλος: Φίλε Γιώργο σε συγχαίρω για την αποχώρηση </p>
+<p> [18:09] </p>
+<p> Γ. Παπανδρέου: Εκλογή προέδρου τον Μάρτιο μετά το PSI </p>
+<p> [17:01] </p>
+<p> Ξεκίνησε το Εθνικό Συμβούλιο του ΠαΣοΚ </p>
+<p> [16:09] </p>
+<p> Στρατιωτική επέμβαση στη Συρία ζητά από αραβικές χώρες το Κατάρ </p>
+<p> [15:29] </p>
+<p> Η ΑΕΚ στα δίχτυα του ΣΔΟΕ </p>
+<p> [13:08] </p>
+<p> Αισιόδοξος ο κ. Βενιζέλος για την ολοκλήρωση του PSI </p>
+<p> [12:59] </p>
+<p> Συνελήφθησαν τρεις για την απαγωγή 25χρονης </p>
+<p> [12:16] </p>
+<p> Οι κουκκίδες του Ντάμιεν Χιρστ ταξιδεύουν σε όλο τον κόσμο </p>
+<p> [11:46] </p>
+<p> Το χιόνι υπάρχει, ο κόσμος αναζητείται... </p>
+<p> [11:26] </p>
+<p> περισσότερες ειδήσεις </p>
+<p> SITEMAP </p>
+<p> RSS ΕΝΟΤΗΤΩΝ </p>
+<p> RSS ΣΥΝΤΑΚΤΩΝ </p>
+<p> $(document).ready(function () {             $("select[name='moreUrlNavigateSelect']").change(function () {                 $("select option:selected").each(function () {                     if ($(this).attr('value') != 'null') {                         window.open($(this).attr('value'), "newwindow");                      }                 });             });         }); </p>
+<p> ΤΟ ΒΗΜΑ </p>
+<p> πολιτική </p>
+<p> οικονομία </p>
+<p> επικαιρότητα </p>
+<p> αγορές </p>
+<p> επιχειρήσεις </p>
+<p> διεθνή </p>
+<p> γνώμες </p>
+<p> blogs </p>
+<p> κόσμος </p>
+<p> κοινωνία </p>
+<p> αθλητισμός </p>
+<p> science </p>
+<p> ιατρική-βιολογία </p>
+<p> φυσική-διάστημα </p>
+<p> τεχνολογία-πλανήτης </p>
+<p> μαθηματικά-πληροφορική </p>
+<p> ψυχολογία-κοινωνιολογία </p>
+<p> έρευνα </p>
+<p> πολιτισμός </p>
+<p> αρχαιολογία </p>
+<p> εικαστικά </p>
+<p> θέατρο </p>
+<p> κινηματογράφος </p>
+<p> μουσική </p>
+<p> πρόσωπα </p>
+<p> παιδεία </p>
+<p> βιβλία + ιδέες </p>
+<p> υγεία + fitness </p>
+<p> media </p>
+<p> περιβάλλον </p>
+<p> hi tech </p>
+<p> ταξίδι </p>
+<p> οδηγώ </p>
+<p> comedy </p>
+<p> web tv </p>
+<p> εικόνες </p>
+<p> ψυχαγωγία </p>
+<p> φλας </p>
+<p> εργασία </p>
+<p> store </p>
+<p> night </p>
+<p> BHMagazino </p>
+<p> Συνεντεύξεις </p>
+<p> Μ΄ αρέσει </p>
+<p> Βλέμματα </p>
+<p> Last Page </p>
+<p> Εκκεντρικοί </p>
+<p> 24x7 </p>
+<p> BHMAgourmet </p>
+<p> Συνταγές </p>
+<p> Εστιατόρια </p>
+<p> Παντοπωλείο </p>
+<p> Κάβα </p>
+<p> Νοστιμιά </p>
+<p> BHMAdeco </p>
+<p> Σπίτια </p>
+<p> Τάσεις </p>
+<p> Δημιουργός </p>
+<p> Κήπος </p>
+<p> Αγορά </p>
+<p> BHMAdonna </p>
+<p> Μόδα </p>
+<p> Ομορφιά </p>
+<p> Σχέσεις </p>
+<p> Μίλα μου </p>
+<p> Shopping </p>
+<p> Μητέρα </p>
+<p> BHMAmen </p>
+<p> Αντρες </p>
+<p> Γυναίκες </p>
+<p> Στυλ </p>
+<p> Manual </p>
+<p> Κουβέντες </p>
+<p> Spirits </p>
+<p> BHMA FM </p>
+<p> Ακούστε ζωντανά </p>
+<p> Πρόγραμμα </p>
+<p> Παραγωγοί </p>
+<p> Διαγωνισμοί </p>
+<p> Χορηγίες </p>
+<p> Προσφορές </p>
+<p> Συνεντεύξεις </p>
+<p> Άλλοι δικτυακοί τόποι </p>
+<p> ΤA ΝΕΑ </p>
+<p> in.gr </p>
+<p> Βήμα Ιδεών </p>
+<p> BHMAFM 99,5 </p>
+<p> $(document).ready(function () {             $("select[name='moreUrlNavigateSelect']").change(function () {                 $("select option:selected").each(function () {                     if ($(this).attr('value') != 'null') {                         window.open($(this).attr('value'), "newwindow");                      }                 });             });         }); </p>
+<p> ΕΝΟΤΗΤΕΣ </p>
+<p> πολιτική </p>
+<p> οικονομία </p>
+<p> γνώμες </p>
+<p> blogs </p>
+<p> κόσμος </p>
+<p> science </p>
+<p> κοινωνία </p>
+<p> πολιτισμός </p>
+<p> αθλητισμός </p>
+<p> παιδεία </p>
+<p> βιβλία + ιδέες </p>
+<p> υγεία + fitness </p>
+<p> media </p>
+<p> περιβάλλον </p>
+<p> hi tech </p>
+<p> ταξίδι </p>
+<p> οδηγώ </p>
+<p> comedy </p>
+<p> web tv </p>
+<p> εικόνες </p>
+<p> ψυχαγωγία </p>
+<p> φλας </p>
+<p> εργασία </p>
+<p> ΒΗΜαgazino </p>
+<p> ΒΗΜΑgourmet </p>
+<p> ΒΗΜΑFM99,5 </p>
+<p> ΒΗΜΑdeco </p>
+<p> ΒΗΜΑdonna </p>
+<p> ΒΗΜΑmen </p>
+<p> night </p>
+<p> $(document).ready(function () {             $("select[name='moreUrlNavigateSelect']").change(function () {                 $("select option:selected").each(function () {                     if ($(this).attr('value') != 'null') {                         window.open($(this).attr('value'), "newwindow");                      }                 });             });         }); </p>
+<p> ΣΥΝΤΑΚΤΕΣ </p>
+<p> Νικολαΐδης Ηλίας </p>
+<p> | </p>
+<p> T </p>
+<p> Thomas Friedman </p>
+<p> | </p>
+<p> Α </p>
+<p> Ανδρουλάκης Μίμης </p>
+<p> | </p>
+<p> Αντιγόνη Πάντα - Χαρβά </p>
+<p> | </p>
+<p> Αντώνης Καρακούσης </p>
+<p> | </p>
+<p> Αρης Ραβανός </p>
+<p> | </p>
+<p> Αφροδίτη Γραμμέλη </p>
+<p> | </p>
+<p> Β </p>
+<p> Βαγγέλης Αρναούτογλου </p>
+<p> | </p>
+<p> Βαγγέλης Κιούσης </p>
+<p> | </p>
+<p> Βασίλης Γ. Λαμπρόπουλος </p>
+<p> | </p>
+<p> Βασίλης Κώτσης </p>
+<p> | </p>
+<p> Βασίλης Χιώτης </p>
+<p> | </p>
+<p> Βίδος Κοσμάς </p>
+<p> | </p>
+<p> Βίδος Κοσμάς </p>
+<p> | </p>
+<p> Γ </p>
+<p> Γεράσιμος Τρύφωνας </p>
+<p> | </p>
+<p> Γεώργιος Π. Μαλούχος </p>
+<p> | </p>
+<p> Γιάννης Γεωργάκης </p>
+<p> | </p>
+<p> Γιάννης Ζουμπουλάκης </p>
+<p> | </p>
+<p> Γιάννης Ζουμπουλάκης </p>
+<p> | </p>
+<p> Γιάννης Καρτάλης </p>
+<p> | </p>
+<p> Γιάννης Σκόκας </p>
+<p> | </p>
+<p> Γιάννης Τζούστας </p>
+<p> | </p>
+<p> Γιώργος Βέλτσος </p>
+<p> | </p>
+<p> Γιώργος Νάστος </p>
+<p> | </p>
+<p> Γιώργος Παπαϊωάννου </p>
+<p> | </p>
+<p> Γιώργος Ρωμαίος </p>
+<p> | </p>
+<p> Γιώργος Σκίντσας </p>
+<p> | </p>
+<p> Γιώτης Παναγιωτάς </p>
+<p> | </p>
+<p> Δ </p>
+<p> Δήμητρα Κρουστάλλη </p>
+<p> | </p>
+<p> Δημήτρης Δανίκας </p>
+<p> | </p>
+<p> Δημήτρης Κ. Ψυχογιός </p>
+<p> | </p>
+<p> Δημήτρης Νικολακόπουλος </p>
+<p> | </p>
+<p> Διονύσης Βυθούλκας </p>
+<p> | </p>
+<p> Ε </p>
+<p> Ελλη Ισμαηλίδου </p>
+<p> | </p>
+<p> Ζ </p>
+<p> Ζήσης Ι. Καραβάς </p>
+<p> | </p>
+<p> Ζώης Τσώλης </p>
+<p> | </p>
+<p> Ζώτος Μάκης </p>
+<p> | </p>
+<p> Η </p>
+<p> Ηρώ Πογκόη </p>
+<p> | </p>
+<p> Θ </p>
+<p> Θοδωρής Λαΐνας </p>
+<p> | </p>
+<p> Ι </p>
+<p> Ιωάννα Κουμπαρέλη </p>
+<p> | </p>
+<p> Κ </p>
+<p> Καρασαρίνης Μάρκος </p>
+<p> | </p>
+<p> Κέλλυ Σώκου </p>
+<p> | </p>
+<p> Κονιδάρης Ιωάννης Μ. </p>
+<p> | </p>
+<p> Κωβαίος Αγγελος </p>
+<p> | </p>
+<p> Λ </p>
+<p> Λιάκος Αντώνης </p>
+<p> | </p>
+<p> Λιαρόπουλος Λυκούργος </p>
+<p> | </p>
+<p> Λουκάκης Θεόδωρος Π. </p>
+<p> | </p>
+<p> Λώρη Κέζα </p>
+<p> | </p>
+<p> Μ </p>
+<p> Μαριλένα Αστραπέλλου </p>
+<p> | </p>
+<p> Μαυρομμάτης Μανώλης </p>
+<p> | </p>
+<p> Μπακουνάκης Νίκος </p>
+<p> | </p>
+<p> Ν </p>
+<p> Νικολόπουλος Γιάννης </p>
+<p> | </p>
+<p> Νίκος Γ. Σύκας </p>
+<p> | </p>
+<p> Νίκος Π. Λινάρδος </p>
+<p> | </p>
+<p> Ντίνος Σιωμόπουλος </p>
+<p> | </p>
+<p> Π </p>
+<p> Παντελής Καψής </p>
+<p> | </p>
+<p> Παύλος Ελευθεριάδης </p>
+<p> | </p>
+<p> Ρ </p>
+<p> Ριχάρδος Σωμερίτης </p>
+<p> | </p>
+<p> Ριχάρδος Σωμερίτης </p>
+<p> | </p>
+<p> Σ </p>
+<p> Σάκης Δημητρακόπουλος </p>
+<p> | </p>
+<p> Σαμπράκος Βασίλης </p>
+<p> | </p>
+<p> Σήφης Πολυμίλης </p>
+<p> | </p>
+<p> Στάθης Ευσταθιάδης </p>
+<p> | </p>
+<p> Σταμπόγλης Διονύσης </p>
+<p> | </p>
+<p> Στέλιος Σοφιανός </p>
+<p> | </p>
+<p> Στουρνάρας Γιάννης </p>
+<p> | </p>
+<p> Τ </p>
+<p> Τόνια Τσακίρη </p>
+<p> | </p>
+<p> Χ </p>
+<p> Χριστίνα Πουτέτση </p>
+<p> | </p>
+<p> $(document).ready(function () {             $("select[name='moreUrlNavigateSelect']").change(function () {                 $("select option:selected").each(function () {                     if ($(this).attr('value') != 'null') {                         window.open($(this).attr('value'), "newwindow");                      }                 });             });         }); </p>
+<p> ΕΠΙΚΟΙΝΩΝΙΑ </p>
+<p> ΤΑΥΤΟΤΗΤΑ </p>
+<p> ΟΡΟΙ ΧΡΗΣΗΣ </p>
+<p> ΔΙΑΦΗΜΙΣΗ </p>
+<p> powered by </p>
+<p> NETVOLUTION </p>
+<p> © Δημοσιογραφικός Οργανισμός Λαμπράκη Α.Ε. </p>
+<p> Το σύνολο του περιεχομένου και των υπηρεσιών του site διατίθεται στους επισκέπτες αυστηρά για προσωπική χρήση. Απαγορεύεται η χρήση ή επανεκπομπή του, σε οποιοδήποτε μέσο, μετά ή άνευ επεξεργασίας, χωρίς γραπτή άδεια του εκδότη. </p>
+<p> var addthis_config =       {           "data_track_clickback": true       }; </p>
+<p> jQuery.ready(); </p>
+<p> jQuery.ready(); </p>
+<p> CustomAds.push(['BMIBanner6757','#Categheaderbanner728','ScienceArticle Banner 728']); </p>
+<p> // <![CDATA[[ if (typeof Adman === 'undefined' || /MSIE [456]/.test(navigator['appVersion'])) document.write ('<scr'+'ipt src="http://static.adman.gr/adman.js" language="javascript" type="text/javascript"></'+'sc'+'ript>'); var now=parseInt((new Date()).getTime()); if (!window.admantpid) window.admantpid = now; var rnd=Math.floor(Math.random()*900000)+100,cdp=screen.width+"x"+screen.height+"x"+(navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth),burst="?"+rnd+":="+window.admantpid +"@"+cdp+"?"; document.write("<scr"+"ipt language=\"Javascript\" src=\"http://adman.in.gr/gbanner/?"+now+"|808/728x90"+burst+"/\">"); document.write("</"+"sc"+"ript>"); // ]]> </p>
+<p> CustomAds.push(['BMIBanner6758','#BannerCateg240left1','BannerScienceArticle240Left1']); </p>
+<p> // <![CDATA[[ if (typeof Adman === 'undefined' || /MSIE [456]/.test(navigator['appVersion'])) document.write ('<scr'+'ipt src="http://static.adman.gr/adman.js" language="javascript" type="text/javascript"></'+'sc'+'ript>'); var now=parseInt((new Date()).getTime()); if (!window.admantpid) window.admantpid = now; var rnd=Math.floor(Math.random()*900000)+100,cdp=screen.width+"x"+screen.height+"x"+(navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth),burst="?"+rnd+":="+window.admantpid +"@"+cdp+"?"; document.write("<scr"+"ipt language=\"Javascript\" src=\"http://adman.in.gr/gbanner/?"+now+"|813/240x90"+burst+"/\">"); document.write("</"+"sc"+"ript>"); // ]]> </p>
+<p> CustomAds.push(['BMIBanner6759','#BannerCateg240Right1','BannerScienceArticle240Left1']); </p>
+<p> // <![CDATA[[ if (typeof Adman === 'undefined' || /MSIE [456]/.test(navigator['appVersion'])) document.write ('<scr'+'ipt src="http://static.adman.gr/adman.js" language="javascript" type="text/javascript"></'+'sc'+'ript>'); var now=parseInt((new Date()).getTime()); if (!window.admantpid) window.admantpid = now; var rnd=Math.floor(Math.random()*900000)+100,cdp=screen.width+"x"+screen.height+"x"+(navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth),burst="?"+rnd+":="+window.admantpid +"@"+cdp+"?"; document.write("<scr"+"ipt language=\"Javascript\" src=\"http://adman.in.gr/gbanner/?"+now+"|813/240x90"+burst+"/\">"); document.write("</"+"sc"+"ript>"); // ]]> </p>
+<p> CustomAds.push(['BMIBanner6760','#BannerCategArticle300Right1','BannerScienceArticle300Right1']); </p>
+<p> // <![CDATA[[ if (typeof Adman === 'undefined' || /MSIE [456]/.test(navigator['appVersion'])) document.write ('<scr'+'ipt src="http://static.adman.gr/adman.js" language="javascript" type="text/javascript"></'+'sc'+'ript>'); var now=parseInt((new Date()).getTime()); if (!window.admantpid) window.admantpid = now; var rnd=Math.floor(Math.random()*900000)+100,cdp=screen.width+"x"+screen.height+"x"+(navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth),burst="?"+rnd+":="+window.admantpid +"@"+cdp+"?"; document.write("<scr"+"ipt language=\"Javascript\" src=\"http://adman.in.gr/gbanner/?"+now+"|809/300x250"+burst+"/\">"); document.write("</"+"sc"+"ript>"); // ]]> </p>
+<p> CustomAds.push(['BMIBanner6761','#BannerCategArticle300Right2','BannerScienceArticle300Right2']); </p>
+<p> // <![CDATA[[ if (typeof Adman === 'undefined' || /MSIE [456]/.test(navigator['appVersion'])) document.write ('<scr'+'ipt src="http://static.adman.gr/adman.js" language="javascript" type="text/javascript"></'+'sc'+'ript>'); var now=parseInt((new Date()).getTime()); if (!window.admantpid) window.admantpid = now; var rnd=Math.floor(Math.random()*900000)+100,cdp=screen.width+"x"+screen.height+"x"+(navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth),burst="?"+rnd+":="+window.admantpid +"@"+cdp+"?"; document.write("<scr"+"ipt language=\"Javascript\" src=\"http://adman.in.gr/gbanner/?"+now+"|810/300x250"+burst+"/\">"); document.write("</"+"sc"+"ript>"); // ]]> </p>
+<p> CustomAds.push(['BMIBanner6762','#BannerCategArticle300Right3','BannerScienceArticle300Right3']); </p>
+<p> // <![CDATA[[ if (typeof Adman === 'undefined' || /MSIE [456]/.test(navigator['appVersion'])) document.write ('<scr'+'ipt src="http://static.adman.gr/adman.js" language="javascript" type="text/javascript"></'+'sc'+'ript>'); var now=parseInt((new Date()).getTime()); if (!window.admantpid) window.admantpid = now; var rnd=Math.floor(Math.random()*900000)+100,cdp=screen.width+"x"+screen.height+"x"+(navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth),burst="?"+rnd+":="+window.admantpid +"@"+cdp+"?"; document.write("<scr"+"ipt language=\"Javascript\" src=\"http://adman.in.gr/gbanner/?"+now+"|811/300x250"+burst+"/\">"); document.write("</"+"sc"+"ript>"); // ]]> </p>
+<p> CustomAds.push(['BMIBanner6763','#GoogleAdsSlot','Google Ad Sense']); </p>
+<p> function SponsorLink() {         window.open('googleAdsCode/sponsorLinks.htm', 'winSelectCategory', 'status=no,toolbars=no,scrollbars=no,location=no,menubar=no,resizable=no,width=400,height=440');     }      function google_ad_request_done(google_ads) {          var s;         var i;          if (google_ads.length == 0) {              return;         }          if (google_ads[0].type == "text") {              if (google_ads.length > 0) {                 s = '<div class="promoTitle"><a href="#" onclick="SponsorLink();return false;" target="_blank">ΠΡΟΒΕΒΛΗΜΕΝΕΣ ΚΑΤΑΧΩΡΗΣΕΙΣ</a></div>'; for (i = 0; i < google_ads.length; ++i) {                     s += '<div class="manyAds">' + 				    '<div class="addTitle">' + 					    '<a target="_blank" href="' + google_ads[i].url + '"onmouseout="window.status=\'\';return true"' + 					    'onmouseover="window.status=\'go to ' + google_ads[i].visible_url + '\';return true" style="text-decoration:none">' + 					    google_ads[i].line1 + 					    '</a>' + 				    '</div>' + 				    '<div class="addText">' + 					    '<span>' + google_ads[i].line2 + '&nbsp;' + google_ads[i].line3 + '</span>' + 				    '</div>' + 				    '<div class="addUrl">' + 					    '<a target="_blank" href="' + google_ads[i].url + '"onmouseout="window.status=\'\';return true"' + 					    'onmouseover="window.status=\'go to ' + google_ads[i].visible_url + '\';return true" style="text-decoration:none">' + 					    google_ads[i].visible_url + 					    '</a>' + 				    '</div>' + 			    '</div>';                 }                  var gAdsDiv = document.getElementById('gAdsDiv');                 if (gAdsDiv == null)                     return;                 gAdsDiv.innerHTML = s;             }         }           return;     }       google_ad_client = 'pub-0654679464270989';     google_ad_output = 'js';     google_language = 'gr';     google_encoding = 'utf8';     google_safe = 'high';     google_feedback = 'on';     google_ad_type = 'text';     google_ad_slot = '8059922095';     google_ad_width = 728;     google_ad_height = 90;      /*						     google_ad_type = 'text_html';     google_image_size = '728x90'; 			     */ </p>
+<p> google_max_num_ads = 5; </p>
+<p> CustomAds.push(['BMIBanner6764','#BannerPolitikiSkin','BannerScienceSkin']); </p>
+<p> // <![CDATA[[ if (typeof Adman === 'undefined' || /MSIE [456]/.test(navigator['appVersion'])) document.write ('<scr'+'ipt src="http://static.adman.gr/adman.js" language="javascript" type="text/javascript"></'+'sc'+'ript>'); var now=parseInt((new Date()).getTime()); if (!window.admantpid) window.admantpid = now; var rnd=Math.floor(Math.random()*900000)+100,cdp=screen.width+"x"+screen.height+"x"+(navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth),burst="?"+rnd+":="+window.admantpid +"@"+cdp+"?"; document.write("<scr"+"ipt language=\"Javascript\" src=\"http://adman.in.gr/gbanner/?"+now+"|807/1x1"+burst+"/\">"); document.write("</"+"sc"+"ript>"); // ]]> </p>
+<p> CustomAds.push(['BMIBanner6765','#BannerCateg628Middle1','BannerScience628Middle1']); </p>
+<p> // <![CDATA[[ if (typeof Adman === 'undefined' || /MSIE [456]/.test(navigator['appVersion'])) document.write ('<scr'+'ipt src="http://static.adman.gr/adman.js" language="javascript" type="text/javascript"></'+'sc'+'ript>'); var now=parseInt((new Date()).getTime()); if (!window.admantpid) window.admantpid = now; var rnd=Math.floor(Math.random()*900000)+100,cdp=screen.width+"x"+screen.height+"x"+(navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth),burst="?"+rnd+":="+window.admantpid +"@"+cdp+"?"; document.write("<scr"+"ipt language=\"Javascript\" src=\"http://adman.in.gr/gbanner/?"+now+"|803/628x86"+burst+"/\">"); document.write("</"+"sc"+"ript>"); // ]]> </p>
+<p> CustomAds.push(['BMIBanner6766','#BubbleBoxAds','BubbleBoxAds']); </p>
+<p> var sppc_user = "72"; var sppc_site = "138"; var sppc_linkColor = "#e60300"; var sppc_stripColor = ""; var sppc_adhereColor = "#000000"; var first_url = escape("http://bubblebox.gr/delivery/intext.php?id_user="+sppc_user+"&id_site="+sppc_site+ "&ident="+Math.round(Math.random() * 10000)+"&sr="+escape(document.referrer)); document.write(unescape("%3Cscript src='" + first_url + "' charset='UTF-8' type='text/javascript'%3E%3C/script%3E")); </p>
+<p> jQuery.ready();             MoveCustomAds(); </p>
+<p> CleanUpAds(); </p>
+<p> var _rsCI = "ingr";     var _rsCG = "0";     var _rsDN = "//secure-uk.imrworldwide.com/";     var _rsCC = 0;     var _rsSE = 1;     var _rsSM = 0.05; </p>
+<p> $("html").attr("xmlns:fb", "http://www.facebook.com/2008/fbml");     window.fbAsyncInit = function () {         FB.init({ appId: '112587685485572', status: true, cookie: true,             xfbml: true         });         if (!NvUser.IsUserLoggedIn()) {             try {                  FB.getLoginStatus(function (response) {                     if (response.session) { 			  if (window.location.href.indexOf("fbconnectreturn") == -1) 				 {	 					var url = window.location.href; 					if(url.indexOf("?") == -1) 					{ 						url+="?fbconnectreturn=1"; 					}else 					{ 						url+="&fbconnectreturn=1"; 					} 					 					//window.location = '/FBConnect.axd?returnUrl=' + escape(url); 				}                     }                 });             } catch (e)             { }         }       };     (function () {         var e = document.createElement('script');         e.type = 'text/javascript';         e.src = document.location.protocol +           '//connect.facebook.net/en_GB/all.js';         e.async = true;         document.getElementById('fb-root').appendChild(e);     } ()); </p>

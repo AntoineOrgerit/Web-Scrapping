@@ -1,0 +1,223 @@
+<p> 長時間用平板電腦 易眼過勞 | 家庭 | 蘋果日報 </p>
+<p> @import url(/images/css/style.css);     @import url(/images/css/article_style.css);        @import url(/images/css/thickbox.css);     @import url(/images/css/jScrollPane.css); </p>
+<p> $(function(){ }); 		//更改字級大小 		function doZoom(size){   	  setURLCookie('testFRONTSIZE',size,0,'tw.nextmedia.com','/subapple/');   	  var h1 = size+8;   	  var h2 = size+2;   	  var info = size+2;   		document.getElementById('h1').style.fontSize=h1+'px';   		document.getElementById('h2').style.fontSize=h2+'px';   		document.getElementById('summary').style.fontSize=size+'px';   		  	  	if(document.getElementById('article_text0'))   	  	  document.getElementById('article_text0').style.fontSize=size+'px';   	  	if(document.getElementById('article_title0'))   	  	  document.getElementById('article_title0').style.fontSize=h2+'px';   	    if(document.getElementById('onepich0'))   	      document.getElementById('onepich0').style.fontSize=size+'px';   	    if(document.getElementById('threepich0'))   	      document.getElementById('threepich0').style.fontSize=size+'px';   	    if(document.getElementById('nopich0'))   	      document.getElementById('nopich0').style.fontSize=size+'px';         if(document.getElementById('nonepich0'))           document.getElementById('nonepich0').style.fontSize=size+'px';         		  	  	if(document.getElementById('article_text1'))   	  	  document.getElementById('article_text1').style.fontSize=size+'px';   	  	if(document.getElementById('article_title1'))   	  	  document.getElementById('article_title1').style.fontSize=h2+'px';   	    if(document.getElementById('onepich1'))   	      document.getElementById('onepich1').style.fontSize=size+'px';   	    if(document.getElementById('threepich1'))   	      document.getElementById('threepich1').style.fontSize=size+'px';   	    if(document.getElementById('nopich1'))   	      document.getElementById('nopich1').style.fontSize=size+'px';         if(document.getElementById('nonepich1'))           document.getElementById('nonepich1').style.fontSize=size+'px';         		  	  	if(document.getElementById('article_text2'))   	  	  document.getElementById('article_text2').style.fontSize=size+'px';   	  	if(document.getElementById('article_title2'))   	  	  document.getElementById('article_title2').style.fontSize=h2+'px';   	    if(document.getElementById('onepich2'))   	      document.getElementById('onepich2').style.fontSize=size+'px';   	    if(document.getElementById('threepich2'))   	      document.getElementById('threepich2').style.fontSize=size+'px';   	    if(document.getElementById('nopich2'))   	      document.getElementById('nopich2').style.fontSize=size+'px';         if(document.getElementById('nonepich2'))           document.getElementById('nonepich2').style.fontSize=size+'px';         		  	  	if(document.getElementById('article_text3'))   	  	  document.getElementById('article_text3').style.fontSize=size+'px';   	  	if(document.getElementById('article_title3'))   	  	  document.getElementById('article_title3').style.fontSize=h2+'px';   	    if(document.getElementById('onepich3'))   	      document.getElementById('onepich3').style.fontSize=size+'px';   	    if(document.getElementById('threepich3'))   	      document.getElementById('threepich3').style.fontSize=size+'px';   	    if(document.getElementById('nopich3'))   	      document.getElementById('nopich3').style.fontSize=size+'px';         if(document.getElementById('nonepich3'))           document.getElementById('nonepich3').style.fontSize=size+'px';         		  	  	if(document.getElementById('article_text4'))   	  	  document.getElementById('article_text4').style.fontSize=size+'px';   	  	if(document.getElementById('article_title4'))   	  	  document.getElementById('article_title4').style.fontSize=h2+'px';   	    if(document.getElementById('onepich4'))   	      document.getElementById('onepich4').style.fontSize=size+'px';   	    if(document.getElementById('threepich4'))   	      document.getElementById('threepich4').style.fontSize=size+'px';   	    if(document.getElementById('nopich4'))   	      document.getElementById('nopich4').style.fontSize=size+'px';         if(document.getElementById('nonepich4'))           document.getElementById('nonepich4').style.fontSize=size+'px';         		  	  	if(document.getElementById('article_text5'))   	  	  document.getElementById('article_text5').style.fontSize=size+'px';   	  	if(document.getElementById('article_title5'))   	  	  document.getElementById('article_title5').style.fontSize=h2+'px';   	    if(document.getElementById('onepich5'))   	      document.getElementById('onepich5').style.fontSize=size+'px';   	    if(document.getElementById('threepich5'))   	      document.getElementById('threepich5').style.fontSize=size+'px';   	    if(document.getElementById('nopich5'))   	      document.getElementById('nopich5').style.fontSize=size+'px';         if(document.getElementById('nonepich5'))           document.getElementById('nonepich5').style.fontSize=size+'px';         		  	  	if(document.getElementById('article_text6'))   	  	  document.getElementById('article_text6').style.fontSize=size+'px';   	  	if(document.getElementById('article_title6'))   	  	  document.getElementById('article_title6').style.fontSize=h2+'px';   	    if(document.getElementById('onepich6'))   	      document.getElementById('onepich6').style.fontSize=size+'px';   	    if(document.getElementById('threepich6'))   	      document.getElementById('threepich6').style.fontSize=size+'px';   	    if(document.getElementById('nopich6'))   	      document.getElementById('nopich6').style.fontSize=size+'px';         if(document.getElementById('nonepich6'))           document.getElementById('nonepich6').style.fontSize=size+'px';         		  	  	if(document.getElementById('article_text7'))   	  	  document.getElementById('article_text7').style.fontSize=size+'px';   	  	if(document.getElementById('article_title7'))   	  	  document.getElementById('article_title7').style.fontSize=h2+'px';   	    if(document.getElementById('onepich7'))   	      document.getElementById('onepich7').style.fontSize=size+'px';   	    if(document.getElementById('threepich7'))   	      document.getElementById('threepich7').style.fontSize=size+'px';   	    if(document.getElementById('nopich7'))   	      document.getElementById('nopich7').style.fontSize=size+'px';         if(document.getElementById('nonepich7'))           document.getElementById('nonepich7').style.fontSize=size+'px';         		  	  	if(document.getElementById('article_text8'))   	  	  document.getElementById('article_text8').style.fontSize=size+'px';   	  	if(document.getElementById('article_title8'))   	  	  document.getElementById('article_title8').style.fontSize=h2+'px';   	    if(document.getElementById('onepich8'))   	      document.getElementById('onepich8').style.fontSize=size+'px';   	    if(document.getElementById('threepich8'))   	      document.getElementById('threepich8').style.fontSize=size+'px';   	    if(document.getElementById('nopich8'))   	      document.getElementById('nopich8').style.fontSize=size+'px';         if(document.getElementById('nonepich8'))           document.getElementById('nonepich8').style.fontSize=size+'px';         		  	  	if(document.getElementById('article_text9'))   	  	  document.getElementById('article_text9').style.fontSize=size+'px';   	  	if(document.getElementById('article_title9'))   	  	  document.getElementById('article_title9').style.fontSize=h2+'px';   	    if(document.getElementById('onepich9'))   	      document.getElementById('onepich9').style.fontSize=size+'px';   	    if(document.getElementById('threepich9'))   	      document.getElementById('threepich9').style.fontSize=size+'px';   	    if(document.getElementById('nopich9'))   	      document.getElementById('nopich9').style.fontSize=size+'px';         if(document.getElementById('nonepich9'))           document.getElementById('nonepich9').style.fontSize=size+'px';         		  	  	if(document.getElementById('article_text10'))   	  	  document.getElementById('article_text10').style.fontSize=size+'px';   	  	if(document.getElementById('article_title10'))   	  	  document.getElementById('article_title10').style.fontSize=h2+'px';   	    if(document.getElementById('onepich10'))   	      document.getElementById('onepich10').style.fontSize=size+'px';   	    if(document.getElementById('threepich10'))   	      document.getElementById('threepich10').style.fontSize=size+'px';   	    if(document.getElementById('nopich10'))   	      document.getElementById('nopich10').style.fontSize=size+'px';         if(document.getElementById('nonepich10'))           document.getElementById('nonepich10').style.fontSize=size+'px';         			             } </p>
+<p> GS_googleAddAdSenseService("ca-pub-8741958826494361"); 	GS_googleEnableAllServices(); </p>
+<p> theObjects = document.getElementsByTagName("object"); 	for (var i = 0; i < theObjects.length; i++) { 		theObjects[i].outerHTML = theObjects[i].outerHTML; 	}  	function setHome() {  		document.body.style.behavior='url(#default#homepage)';  		document.body.setHomePage(window.location.href); 	} </p>
+<p> 蘋果日報 / APPLE DAILY </p>
+<p> 2012/01/12 </p>
+<p> 各地蘋果 </p>
+<p> 台灣蘋果 </p>
+<p> http://tw.nextmedia.com </p>
+<p> 香港蘋果 </p>
+<p> http://hk.nextmedia.com </p>
+<p> 壹週刊 </p>
+<p> http://tw.next.nextmedia.com/ </p>
+<p> me! </p>
+<p> http://www.memag.com.tw/ </p>
+<p> 壹電視 </p>
+<p> http://www.nexttv.com.tw/ </p>
+<p> NMA.tv </p>
+<p> http://nma.tv/ </p>
+<p> 壹傳媒倫理委員會 </p>
+<p> http://www.nexttv.com.tw/ </p>
+<p> RSS </p>
+<p> 搜尋蘋果日報 </p>
+<p> 進階搜尋 </p>
+<p> 搜尋 </p>
+<p> GA_googleAddSlot("ca-pub-8741958826494361", "a11_ad01"); </p>
+<p> GA_googleFetchAds(); </p>
+<p> GA_googleFillSlot("a11_ad01"); </p>
+<p> GA_googleAddSlot("ca-pub-8741958826494361", "a11_ad02"); </p>
+<p> GA_googleFetchAds(); </p>
+<p> GA_googleFillSlot("a11_ad02"); </p>
+<p> 抓賭抓到「活死人」　男失蹤30年宣告死亡 </p>
+<p> 傳年終僅2萬5　華航空姐網控「含血起飛」 </p>
+<p> 醫生墜樓撞欄杆　攔腰斷成兩截 </p>
+<p> 20:09 </p>
+<p> 推周年慶　百貨多家專櫃員工超時工作 </p>
+<p> 20:01 </p>
+<p> 廣島監獄中國囚犯越獄　附近居民人心惶 </p>
+<p> 19:53 </p>
+<p> 日全新廉價航空「桃子」　七月將飛台灣 </p>
+<p> 這篇文章在... </p>
+<p> 副刊 </p>
+<p> 迎新春 網購福袋激戰 搶先開打 </p>
+<p> 直擊美國CES展 防水平板吸睛 Windows 8機種首 </p>
+<p> 小資女對抗初老 保養祕笈11招 </p>
+<p> JO-AN冬裝懷舊風 復古流行變裝英倫女郎 </p>
+<p> 紅白葡萄酒 整箱買6折起 </p>
+<p> 春節搶市 超商賣人氣甜點 </p>
+<p> 台中 品牌女裝 熱賣1.5折起 </p>
+<p> 生活用品 搶購5折起 </p>
+<p> 高雄 香港潮服 搶購2折起 </p>
+<p> 品牌童裝 熱賣2.6折起 </p>
+<p> 《幸福法拍屋》抽獎活動 </p>
+<p> 一刻離塵 Infiniti FX35小改款路試 </p>
+<p> 上海直擊 實測Sony首款智慧手機 </p>
+<p> 拼玩法比人氣 明星陪打牌 </p>
+<p> 《三國群英傳2.5》超新奇 布袋戲大戰三國武將 </p>
+<p> 《劍魂5》開發完成 刀劍勢力全面對決 --- PS3 / </p>
+<p> 《雷頓教授VS逆轉裁判》兩大天才聯手破案 </p>
+<p> 挑吉祥盆栽 添居家年味 </p>
+<p> 南投信義 樂賞梅花 </p>
+<p> 長時間用平板電腦 易眼過勞 </p>
+<p> 濕冷天頻穿靴 香港腳增2成 </p>
+<p> 原住民風味餐 新鮮嘗 </p>
+<p> 義大利名牌廚具 跨足餐飲搶市 </p>
+<p> 超厚蛋包飯 喔伊細 </p>
+<p> 麻油料理 噴香暖口 </p>
+<p> 塔羅占卜 測天然呆指數 </p>
+<p> 來找碴 </p>
+<p> 老夫子搞怪新風貌  竊盜驚魂 </p>
+<p> 插入的理想時間 </p>
+<p> 呵呵呵呵地男人 </p>
+<p> 嫁人先看婆婆 </p>
+<p> 只有搞外遇最行 </p>
+<p> 外遇有了抉擇 </p>
+<p> 大家都有病 </p>
+<p> 不拒絕追求招噩運 </p>
+<p> 宅男老哥 不堪一擊 </p>
+<p> 黑色愛情男女 愛情來了，哥們走了 </p>
+<p> 高潮一波波 </p>
+<p> 點閱(2345) </p>
+<p> 轉寄(12) </p>
+<p> 引用(2) </p>
+<p> 最小字型 </p>
+<p> 預設 </p>
+<p> 最大字型 </p>
+<p> Share with Plurk </p>
+<p> Share with Facebook </p>
+<p> Share with Twitter </p>
+<p> 長時間用平板電腦 易眼過勞 </p>
+<p> 保持30~45公分距離 控制使用時間 </p>
+<p> 2012年 01月12日 </p>
+<p> 平板電腦與智慧型手機流行，因攜帶方便，許多人常隨時隨地使用，眼科醫師張朝凱提醒，電子螢幕由許多小光點組成，眼球聚焦上較費力，加上過於專注下，會使眨眼次數減少、淚液揮發更快，易導致眼睛痠澀、疲勞、視力退化、乾眼症等「眼過勞」現象，提醒控制用眼時間，每用眼50分鐘，可轉動眼球、熱敷雙眼等，預防及舒緩眼睛疲勞，另手持平板電腦或智慧型手機時，宜保持30~45公分距離，避免近距離觀看，加深眼睛疲勞。報導╱林明佳、張佩玉 </p>
+<p> 攝影╱施偉平　部分圖片╱資料照片 </p>
+<p> 眼科醫師張朝凱表示，許多人常使用平板電腦與智慧型手機，長期下來易導致眼睛痠澀、疲勞、視力模糊等，甚至有患者因痠澀感而淚流不止，或是出現嚴重的乾眼症狀，門診中又以年輕人居多。提醒若經過休息，眼睛痠澀、模糊、疲勞等不適症狀，仍然沒有改善，應盡速至眼科就醫，日常則可控制用眼時間不超過50分鐘、跟螢幕保持適當距離等來預防。 </p>
+<p> 點下放大 </p>
+<p> 報你知 電腦視覺症候群 </p>
+<p> 若注視電子螢幕不超過2小時，眼睛就開始痠澀、疲勞、畏光等，偶爾會頭痛、視覺有雙影、短暫視力模糊、眼乾、對色彩較不敏銳等，可能有電腦視覺症候群，宜至眼科就醫，點肌肉鬆弛劑和人工淚液緩解。 </p>
+<p> 這樣做 </p>
+<p> 點下放大 </p>
+<p> 勿跟螢幕靠太近 </p>
+<p> 用平板電腦或智慧型手機宜保持30~45公分距離，用桌上型電腦或筆電，應保持一隻手臂伸直距離，調整視線跟螢幕呈水平往下15~30度。 </p>
+<p> 點下放大 </p>
+<p> 看近減鏡片度數 </p>
+<p> 看近時眼睛聚焦、瞳孔縮小，眼睛肌肉較用力，常近距離用眼，又戴眼鏡或隱形眼鏡者，可將度數降低50~75度，讓眼球聚焦較清楚、較不費力。 </p>
+<p> 點下放大 </p>
+<p> 光線明亮不壓迫 </p>
+<p> 光線太暗看東西費力，太亮、眩光易有壓迫感，應以看得清晰、眼睛舒服為主；空調環境放杯有蒸氣的溫熱水，提高空氣濕度、避免淚液蒸發過快。 </p>
+<p> 點下放大 </p>
+<p> 休息時眺望遠方 </p>
+<p> 用眼50分鐘休息5~10分鐘，閉目並用溫熱毛巾熱敷雙眼5~10分鐘，或眺望遠方，幫助眼睛肌肉放鬆，眼球多做上下左右轉動，不要只盯前方看。 </p>
+<p> 點下放大 </p>
+<p> 選低輻射量電腦 </p>
+<p> 選低輻射電腦，如平板電腦、液晶螢幕較不傷眼，傳統映像管螢幕，可加層隔離輻射的螢幕護目鏡；許多人用有清涼感的洗眼液，舒緩眼睛乾澀與疲勞感，若使用後痠澀、視力模糊宜就醫。 </p>
+<p> 點下放大 </p>
+<p> 症狀沒緩解就醫 </p>
+<p> 若眼睛痠澀、疲勞、看不清楚，經休息、熱敷等，症狀仍沒改善，最好盡速至眼科就醫，檢查是否為單純眼睛疲勞或病理性因素引起。 </p>
+<p> 點下放大 </p>
+<p> 醫師說 多攝取護眼食物 </p>
+<p> 眼科醫師 張朝凱 </p>
+<p> 日常可多攝取富含葉黃素、維生素A、C、E和花青素的食物，推薦如玉米、紅蘿蔔、枸杞、黑芝麻、甜椒、花椰菜、藍莓、綠花椰菜、菠菜及鮭魚等，有助預防眼睛黃斑部退化、維護視覺神經。 </p>
+<p> 模特兒╱黃丞妮(小羅家族) </p>
+<p> Facebook </p>
+<p> ←讚一個！《蘋果》粉絲團24小時陪你看新聞！ </p>
+<p> GA_googleAddSlot("ca-pub-8741958826494361", "a11_express"); </p>
+<p> GA_googleFetchAds(); </p>
+<p> GA_googleFillSlot("a11_express"); </p>
+<p> GA_googleAddSlot("ca-pub-8741958826494361", "a11_ad04"); </p>
+<p> GA_googleFetchAds(); </p>
+<p> GA_googleFillSlot("a11_ad04"); </p>
+<p> Share with Plurk </p>
+<p> Share with Facebook </p>
+<p> Share with Twitter </p>
+<p> 歷史文章 </p>
+<p> 濕冷天頻穿靴 香港腳增2成 </p>
+<p> 忽略飯後刷牙 近9成小學生蛀牙 </p>
+<p> 冬天進補 痛風患者增2成 </p>
+<p> 狂嗑高油脂甜食 冬易暴肥 </p>
+<p> 高度用眼族 多攝取葉黃素 </p>
+<p> GA_googleAddSlot("ca-pub-8741958826494361", "a11_ad03"); </p>
+<p> GA_googleFetchAds(); </p>
+<p> GA_googleFillSlot("a11_ad03"); </p>
+<p> 南投信義 樂賞梅花 </p>
+<p> 濕冷天頻穿靴 香港腳增2成 </p>
+<p> 想將你對這篇文章的發言分享給好友嗎？只要點選社群網站標誌，並依指示登入該社群網站，當標誌顯示為已點選，就代表你在《蘋果》發言可以同步放送到多個社群中了！ </p>
+<p> GA_googleAddSlot("ca-pub-8741958826494361", "a11_ad05"); </p>
+<p> GA_googleFetchAds(); </p>
+<p> GA_googleFillSlot("a11_ad05"); </p>
+<p> 新聞討論 </p>
+<p> 發表文章 </p>
+<p> 姓名 </p>
+<p> 必填 </p>
+<p> 新聞討論規範 </p>
+<p> 【1】留言限140字以內。留言將於發送留言72小時後，由系統自動刪除 </p>
+<p> 【2】與蘋果日報報導內容無關、涉及人身攻擊言論、張貼廣告與涉及交易訊息、重複張貼，一律刪除。 </p>
+<p> 【3】請勿留下個人隱私資料，以免遭人盜用，蘋果日報將不負管理之責。 </p>
+<p> 【4】網友應謹慎發言，遵守中華民國法律相關規定，違者自負法律責任。 </p>
+<p> 【5】涉及誹謗、侮辱、具威脅攻擊性、猥褻、違反公序良俗的文字、圖片及任 					    何形式檔案，蘋果日報有權逕自 </p>
+<p> 刪除。若因前述行為導致他人檢舉、投訴或相關主管機關調查，本論壇將配合主管機關處理。 </p>
+<p> 【6】參與本論壇討論新聞之網友，視為同意本論壇管理者得隨時對論壇內所有內容、留言等進行刪除動作， </p>
+<p> 或因應版面重新設計而移動整個論壇位置、調整論壇功能。 </p>
+<p> 【7】敬請網友遵守以上原則，不同意者，請勿在此發表言論。 </p>
+<p> 發佈 </p>
+<p> 網站目錄 </p>
+<p> 新聞 </p>
+<p> 新聞 </p>
+<p> 頭條要聞 </p>
+<p> 娛樂新聞 </p>
+<p> 財經新聞 </p>
+<p> 國際新聞 </p>
+<p> 體育新聞 </p>
+<p> 房市地產 </p>
+<p> 蘋果副刊 </p>
+<p> 論壇與專欄 </p>
+<p> 動新聞 </p>
+<p> 即時新聞 </p>
+<p> 今日總覽 </p>
+<p> 購物 </p>
+<p> 新聞 </p>
+<p> GA_googleAddSlot("ca-pub-8741958826494361", "buy_ad01"); </p>
+<p> GA_googleFetchAds(); </p>
+<p> GA_googleFillSlot("buy_ad01"); </p>
+<p> GA_googleAddSlot("ca-pub-8741958826494361", "buy_ad02"); </p>
+<p> GA_googleFetchAds(); </p>
+<p> GA_googleFillSlot("buy_ad02"); </p>
+<p> GA_googleAddSlot("ca-pub-8741958826494361", "buy_ad03"); </p>
+<p> GA_googleFetchAds(); </p>
+<p> GA_googleFillSlot("buy_ad03"); </p>
+<p> 新聞總覽 </p>
+<p> 蘋果基金會 </p>
+<p> 釘閱蘋果 </p>
+<p> var submenu_is_on = false; 		$(document).ready(function(){ 			$("#site_nav li.bigger >a.drop_btn").toggle(function(){ 				$("nav ul li .submenu:visible").hide(); 				$(this).parent().children("ul").show(); 				$(this).parent().children("div").show(); 				submenu_is_on = true; 			}, 			function(){ 				$("nav ul li .submenu:visible").hide(); 				submenu_is_on = false;	 			}) 			$("body").mouseup(function(){ 				if(submenu_is_on){ 					$("nav ul li .submenu:visible").hide(); 					submenu_is_on = false; 				} 			});	 		}); </p>
+<p> 網站功能 </p>
+<p> 每日一句 </p>
+<p> 樂透發票 </p>
+<p> 中獎名單 </p>
+<p> 線上美語 </p>
+<p> 天氣 </p>
+<p> 爆料投訴 </p>
+<p> 企業相關連結 </p>
+<p> NextMedia </p>
+<p> 了解蘋果日報 </p>
+<p> 關於動新聞 </p>
+<p> 廣告刊登 </p>
+<p> 聯絡我們 </p>
+<p> 常見問題 </p>
+<p> 網站導覽 </p>
+<p> 行動與社群 </p>
+<p> 使用條款 </p>
+<p> 授權申請程序 </p>
+<p> 版權宣告 </p>
+<p> © 2012 Next Media Interactive Limited. All rights reserved. 版權所有 不得轉載 </p>
+<p> 隱私權說明 </p>
+<p> 免責與分級 </p>
+<p> function setURLCookie(key, value, expire, domain, path)       {         var ck=key +'='+ encodeURIComponent(value);         if( expire )         {           var epr=new Date();           epr.setTime(epr.getTime()+ expire*1000 );           ck+=';expires='+ epr.toUTCString();         }         if( domain )           ck+=';domain='+ domain;         if( path )           ck+=';path='+ path;         document.cookie=ck;       } </p>
+<p> var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); </p>
+<p> try { var pageTracker = _gat._getTracker("UA-2067247-40"); pageTracker._trackPageview(); } catch(err) {} </p>
+<p> GA_googleAddSlot("ca-pub-8741958826494361", "a11_adtest"); </p>
+<p> GA_googleFetchAds(); </p>
+<p> GA_googleFillSlot("a11_adtest"); </p>
+<p> bust = Math.floor(1000000*Math.random());  		document.write('<'+'SCRIPT LANGUAGE="JavaScript1.1" SRC="http://js2.dotmore.com.tw/verify.aspx?w=25&charset=utf-8&ord='+bust+'?">');  		document.write('</'+'SCRIPT>'); </p>
+<p> $(function(){ 		    $('#pic_frame').onload; 		    $('#pane1').jScrollPane({showArrows:true}); 		    } 		); </p>

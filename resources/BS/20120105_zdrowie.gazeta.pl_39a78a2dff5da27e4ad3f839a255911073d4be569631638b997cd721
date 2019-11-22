@@ -1,0 +1,214 @@
+<p> Obrzęk Reinkego: zagrożenie rakiem krtani? </p>
+<p> var now = new Date(2012, 0, 5, 23, 49, 0); </p>
+<p> var profileBan; if (typeof profileCookie != 'undefined'){ 	profileBan = profileCookie;  }else { 	profileBan = null; }	 var asParams; if (typeof asAdsParams != 'undefined' && asAdsParams != ''){ 	asParams = '&asParams=' + asAdsParams;  }else { 	asParams = ''; } document.write('<scr'+'ipt type="text/javascript" src="http://ad.adview.pl/ad/GetBan?dir=/Zdrowie/&jsp=23&dx=105912&t='+(new Date()).getTime()+'&p='+profileBan+asParams+'"><\/script>');  document.write('<scr'+'ipt type="text/javascript" src="http://bi.adview.pl/info/ban/banFunc.js"><\/script>'); </p>
+<p> putBan(2); </p>
+<p> <!-- if (top.frames.length!=0) top.location=self.document.location; // --> </p>
+<p> <!--     var pp_gemius_identifier = new String('.AFFZfhrdYHeuHyw0bWhLMTVzSWB2o7gecEz22uogsj.y7/arg=105912/sarg='+'|'+profileCookie);  //--> </p>
+<p> //<![CDATA[    var gazeta_pl = {  documentParam: {"jezyczek": "tak", "jezyczek_skad": "105806", 	"jezyczek_max": "", "jezyczek_dni1": "",  	"jezyczek_dni2": "", "jezyczek_from": "", "jezyczek_typ": "" }  , topLayerNewsletterConfig: {   uri: '',   closed_cookie_name: '',   signed_cookie_name: '' }   }; //]]> </p>
+<p> var _gaq = _gaq || []; 	var utmgif = 'http://kropka.'+ window.location.hostname+'/__utm.gif'; 	_gaq.push(['_setAccount', 'UA-426268-1']); 	_gaq.push(['_setCampaignCookieTimeout', 0]); 	_gaq.push(['_setCustomVar',1,'nr_dzialu',105912,3]); 	_gaq.push(['_setLocalGifPath',utmgif]); 	_gaq.push(['_setLocalRemoteServerMode']); 	_gaq.push(['_setAllowAnchor', true]);  	_gaq.push(['_trackPageview']); 	(function() { 	var ga = document.createElement('script'); 	ga.type = 'text/javascript'; ga.async = true; 	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + 	'.google-analytics.com/ga.js'; 	var s = document.getElementsByTagName('script')[0]; 	s.parentNode.insertBefore(ga, s); 	})(); </p>
+<p> (function() { 	var tg = document.createElement('script'); 	tg.type = 'text/javascript'; 	tg.async = true; 	tg.src = 'http://analytics.gazeta.pl/tg.js'; 	var s = document.getElementsByTagName('script')[0]; 	s.parentNode.insertBefore(tg, s); 	})(); </p>
+<p> window.fbAsyncInit = function() {     FB.init({       appId  : 159195584135753,       status : true, // check login status        cookie : true, // enable cookies to allow the server to access the session       xfbml  : true,  // parse XFBML       oauth  : true,  // OAuth 2.0       channelUrl: 'http://bi.gazeta.pl/info/facebook/fbjs.html'     });         window.gazeta_pl = window.gazeta_pl || {};     window.gazeta_pl.functionQueue = window.gazeta_pl.functionQueue || [];     window.gazeta_pl.functionQueue.push(function(){       postFbInit();     });       	   };  //Load the SDK Asynchronously   (function(d){      var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}      js = d.createElement('script'); js.id = id; js.async = true;      js.src = "//connect.facebook.net/pl_PL/all.js";      d.getElementsByTagName('head')[0].appendChild(js);    }(document)); </p>
+<p> { 		lang: 'pl' 	} </p>
+<p> var idPogoda=""; </p>
+<p> putBan(49); </p>
+<p> Gazeta.pl </p>
+<p> Wyprzedaże </p>
+<p> Kobieta </p>
+<p> Poczta </p>
+<p> Forum </p>
+<p> Blogi </p>
+<p> Gazeta Wyborcza </p>
+<p> Pogoda </p>
+<p> Gry </p>
+<p> Programy </p>
+<p> var gazeta_pl = gazeta_pl || {}; gazeta_pl.gameCenterRefresh = 0; </p>
+<p> putBan(1); </p>
+<p> putBan(71); </p>
+<p> Polecamy: </p>
+<p> Wielka Encyklopedia Medyczna </p>
+<p> Choroby </p>
+<p> Badania </p>
+<p> Jedz zdrowo </p>
+<p> Psychologia </p>
+<p> Seks </p>
+<p> Uroda </p>
+<p> Forum Zdrowie </p>
+<p> Wideo </p>
+<p> Szukaj w serwisie. Ponad 2 800 artykułów o zdrowiu </p>
+<p> Najczęściej szukane: </p>
+<p> tarczyca, </p>
+<p> HEMOROIDY, </p>
+<p> depresja, </p>
+<p> DIETA, </p>
+<p> ból pleców, </p>
+<p> endometrioza, </p>
+<p> nadciśnienie, </p>
+<p> MASTURBACJA </p>
+<p> Gazeta.pl </p>
+<p> > </p>
+<p> Zdrowie - wszystko o zdrowiu </p>
+<p> > </p>
+<p> Wszystkie </p>
+<p> putBan(91); </p>
+<p> putBan(56); </p>
+<p> Obrzęk Reinkego: zagrożenie rakiem krtani? </p>
+<p> eska </p>
+<p> 05.01.2012 										 										, aktualizacja: 05.01.2012 11:23 </p>
+<p> A </p>
+<p> A </p>
+<p> A </p>
+<p> Drukuj </p>
+<p> Shutterstock </p>
+<p> W obrębie krtani pojawia się wiele zmian patologicznych. Nie muszą jednak zaraz oznaczać raka </p>
+<p> Obrzęk Reinkego (łac. oedema Reinke) to schorzenie krtani; opuchlizna, zazwyczaj obustronna, która pojawia się pod nabłonkiem pokrywającym fałdy głosowe (szczelinowata przestrzeń podnabłonkowa, przestrzeń Reinkego). Wymaga leczenia zabiegowego, przede wszystkim ze względu na możliwe powikłania. </p>
+<p> var rTeraz = new Date(1325803740233); function klodka (ddo) { 	if (rTeraz.getTime()>=ddo.getTime()) 		document.write('<'+'img src="/i/szukaj/k2b.gif" width=20 height=18 border=0 align="absmiddle"'+'>'); } </p>
+<p> ZOBACZ TAKŻE </p>
+<p> Adele ma raka krtani? </p>
+<p> (05-01-12, 13:08) </p>
+<p> Foniatra </p>
+<p> (04-01-12, 17:59) </p>
+<p> Zaczerwienione czy nie? Dlaczego najczęściej boli gardło </p>
+<p> (07-12-11, 09:00) </p>
+<p> Angina w środku lata? Jak najbardziej! </p>
+<p> (04-08-11, 14:30) </p>
+<p> Laryngolog </p>
+<p> (05-01-12, 10:03) </p>
+<p> Tarczyca nami rządzi </p>
+<p> (26-11-10, 16:40) </p>
+<p> Objawy obrzęku Reinkego, zwłaszcza na początku, zwykle są lekceważone. Bywa, że jedyne sygnały choroby to poranna chrypka, czasem (już przy dużych obrzękach) uczucie duszności. Tymczasem w Polsce aż 80% nauczycieli uskarża się z powodu przewlekłej chrypki, a zarazem niewielu spośród nich trafia z tym problemem do specjalisty. </p>
+<p> Każda chrypka, nawet bez innych towarzyszących objawów, utrzymująca się powyżej 2-3 tygodni, wymaga konsultacji z laryngologiem (kieruje do niego lekarz pierwszego kontaktu), a jeszcze lepiej z </p>
+<p> foniatrą </p>
+<p> . Może bowiem oznaczać nie tylko obrzęk Reinkego, ale i raka gardła czy guzki strun głosowych. Rak gardła nie jest bardzo częstym złośliwym nowotworem, ale zarazem bezwzględnym zabójcą (wysoka śmiertelność to przede wszystkim skutek późnego rozpoznania choroby). Guzki strun głosowych (zwane też "guzkami śpiewaczymi"), chociaż nie są uznawane za stan przedrakowy, wymagają leczenia (skuteczne jest nie tylko oszczędzanie głosu, ale i np. jonoforeza), gdyż mogą utrudniać oddychanie. </p>
+<p> Zdarza się, że lekarz pierwszego kontaktu z powodu chrypki, zamiast do laryngologa, kieruje do endokrynologa. To uzasadnione, jeśli podejrzewa problemy z tarczycą, które mogą objawiać się także w ten sposób. </p>
+<p> Więcej: tarczyca nami rządzi </p>
+<p> Niech infekcja cię nie zmyli </p>
+<p> Bywa, że chrypka towarzyszy zwykłemu przeziębieniu, zapaleniu gardła. Gdy infekcja ustępuje, a chrypka pozostaje, często uznajemy, że to taki naturalny objaw pochorobowy. Z czasem przyzwyczajamy się do "nowego" głosu i uznajemy, że taka "nasza uroda". Niestety, takie rozumowanie może być bardzo niebezpieczne. Wszelkie problemy z krtanią i strunami głosowymi leczą się łatwo. Kluczowy jest jednak moment rozpoznania. Im później, tym, oczywiście, gorzej. </p>
+<p> Kto szczególnie zagrożony? </p>
+<p> Powstawanie obrzęku Reinkego to najprawdopodobniej efekt podrażnienia lub przeciążenia strun głosowych. Za drażnienie śluzówki krtani często odpowiedzialne są przemysłowe toksyny wziewne, ale przede wszystkim palenie papierosów. Krzywdę zatem robimy sobie sami. </p>
+<p> Zobacz: najmocniejsze kampanie antynikotynowe </p>
+<p> Ogromne znaczenie ma także nadmierny wysiłek głosowy. Ponieważ zasadniczo gadatliwość to domena kobiet, to panie częściej cierpią z powodu obrzęku (odwrotnie jest z rakiem gardła: w Polsce średnio na czterech chorych mężczyzn przypada jedna </p>
+<p> kobieta </p>
+<p> ). Ważne jest nie tylko to, ile mówimy, ale i jak, stąd niejednokrotnie u osób z obrzękiem Reinkego i guzkami śpiewaczymi elementem leczenia jest również ustawianie głosu (nauka takiego artykułowania i akcentowania, by nie przeciążać strun głosowych). </p>
+<p> Zawody zagrożone: nauczyciele, wokaliści, dziennikarze, prawnicy, czyli wszyscy, którzy służbowo operują głosem. </p>
+<p> Leczenie konieczne? </p>
+<p> Obrzęk Reinkego początkowo powoduje "tylko" chrypkę. Z czasem pojawia się ból gardła, trudności podczas przełykania (nawet płynów, śliny), a obrzęk utrudnia oddychanie (w skrajnych przypadkach: grozi to uduszeniem we śnie). Nasilająca się chrypka może doprowadzić do utraty głosu, co dla osób "pracujących" głosem jest szczególnie niebezpieczne. </p>
+<p> Obrzęk Reinkego raczej nie przekształca się w raka, ale to jeszcze nie oznacza, że takie zmiany nowotworowe można zostawić same sobie. U kilku procent chorych ze zmianami łagodnymi stwierdza się dysplazję nabłonka, czyli stan przedrakowy. To spore ryzyko, stąd wskazanie, by obrzęku pozbyć się jak najszybciej. </p>
+<p> O sposobach leczenia powinien decydować specjalista: laryngolog lub foniatra. Podstawowa metoda to zabieg mikrochirurgiczny lub laserowy. Czasem trzeba go przeprowadzić w ratach: najpierw zoperować jedną strunę głosową, a po jej wygojeniu drugą. </p>
+<p> Pomocna bywa też jonoforeza, oszczędzanie głosu. Bywa, że zmiany alergiczne, ustępujące po usunięciu drażliwego czynnika czy zastosowaniu odpowiednich leków doustnych, są początkowo mylone z obrzękiem Reinkego. Decyzja o zabiegu zapada więc dopiero po starannej diagnostyce i obserwacji. </p>
+<p> Zobacz więcej na temat: </p>
+<p> foniatra </p>
+<p> jonoforeza </p>
+<p> tarczyca </p>
+<p> chrypka </p>
+<p> ból gardła </p>
+<p> obrzęk Reinkego </p>
+<p> trudności z przełykaniem </p>
+<p> putBan(4); </p>
+<p> Podziel się </p>
+<p> Facebook </p>
+<p> Nasza klasa </p>
+<p> Wykop </p>
+<p> Twitter </p>
+<p> LinkedIn </p>
+<p> Wyślij e-mailem </p>
+<p> Fajne to </p>
+<p> Słabe to </p>
+<p> Ciekawe to </p>
+<p> 1 </p>
+<p> Polecam to </p>
+<p> 1 </p>
+<p> Smutne to </p>
+<p> Dodaj 					komentarz </p>
+<p> Drukuj </p>
+<p> putBan(85); </p>
+<p> <!-- 	var google_ad_client = 'ca-agora-pl_html'; 	var google_language = 'pl'; 	var google_gl = 'pl'; 	var google_encoding = 'utf8'; 	var google_safe = 'high';  	var google_color_bg = 'FFFFFF'; 	var google_color_border = 'FFFFFF'; 	var google_color_line = 'FFFFFF'; 	var google_color_link = '334fdb'; 	var google_color_text = '000000'; 	var google_color_url = '008000';   // --> </p>
+<p> putBan(62); </p>
+<p> var noBan = "";           				noBan = "false";           				function getElementsByClassName(cn){             				var arr = new Array();             				var obj_art2=document.getElementById("artykul");             				if (obj_art2==null){           				obj_art2=document.getElementById("art2");           				}             				var els = obj_art2.getElementsByTagName("*");             				var exp= new RegExp("^(.* )?"+cn+"( .*)?$", "g");             				for (var i = 0; i < els.length; i++ ){              				if (exp.test(els[i].className)){                			 arr.push(els[i]);               			}             				}             				return arr;           				}           				var obj_art=document.getElementById("artykul");           				if (obj_art==null){            				obj_art=document.getElementById("art2");           				}           				var obj = null;           				if(obj_art){           				 	var br_art = obj_art.getElementsByTagName('br');           				 	var txt_srodtytul_art = getElementsByClassName('txt_srodtytul');           					var txt_pytanie_art   = getElementsByClassName('txt_pytanie');           				 	var ban_div = document.createElement('div');            				 	var ban = document.getElementById("banP62");            				 	if(document.getElementById("banP62").innerHTML.length <= 51 || noBan.indexOf("true")!=-1){           				 		is_ban = false;           				 	}else{           				 		is_ban = true;           				 	}            				 	ban_div.appendChild(ban);           				 	if(txt_srodtytul_art.length > 3){           						obj =txt_srodtytul_art[2];           				 		obj.parentNode.insertBefore( ban_div, obj );           					}else           					if(txt_pytanie_art.length >3){           				 		obj =txt_pytanie_art[2];           				 		obj.parentNode.insertBefore( ban_div, obj );           					}else           				 	if(br_art.length>4){           						obj =br_art[3];            					 		if(obj.previousSibling.previousSibling.className == 'txt_srodtytul' )obj =br_art[5];           					 		if(obj.previousSibling.previousSibling.className == 'txt_pytanie' )obj =br_art[5];            					 		obj.parentNode.insertBefore( ban_div, obj.nextSibling );            				 	}else{           				 		obj_art.appendChild(ban);            				 	}           				} </p>
+<p> function _emr_e(obj, type, fn) { try { if (obj.addEventListener) { obj.addEventListener(type, fn, false); } else if (obj.attachEvent) { obj["e"+type+fn] = fn; obj[type+fn] = function() { obj["e"+type+fn](window.event); }; obj.attachEvent("on"+type, obj[type+fn]); }} catch (e) {}}   function _emr_o(n) { return document.getElementById(n); }   function _emr_t(x){return x.replace(/^\s+|\s+$/g,'');}   function _emr_h(obj, clName) { var clN = ' ' + obj.className + ' '; return (clN.match(' ' + clName + ' ') != null); }   function _emr_a(obj, clName) { if (_emr_h(obj, clName)) return; obj.className = _emr_t(obj.className + ' ' + clName); }   function _emr_r(obj, clName) { if (!_emr_h(obj, clName)) return; var clN = ' ' + obj.className + ' '; eval("obj.className = _emr_t(clN.replace(/ " + clName + " /g,' '));"); }   var _emr_v_24t = null;   var _emr_v_24 = null;   var _emr_v_wt = null;   var _emr_v_w = null;   function _emr_i(e) { _emr_v_24t = _emr_o('ea_mostread_24h_t'); _emr_v_wt = _emr_o('ea_mostread_week_t'); _emr_v_24 = _emr_o('ea_mostread_24h'); _emr_v_w = _emr_o('ea_mostread_week'); _emr_e(_emr_v_24t, 'click', _emr_t24); _emr_e(_emr_v_wt, 'click', _emr_tw); }   function _emr_t24(e) { if (_emr_h(_emr_v_24t, 'active')) return; _emr_a(_emr_v_24t, 'active'); _emr_a(_emr_v_24, 'active'); _emr_r(_emr_v_wt, 'active'); _emr_r(_emr_v_w, 'active'); _emr_v_24t.blur(); }   function _emr_tw(e) { if (_emr_h(_emr_v_wt, 'active')) return; _emr_r(_emr_v_24t, 'active'); _emr_r(_emr_v_24, 'active'); _emr_a(_emr_v_wt, 'active'); _emr_a(_emr_v_w, 'active'); _emr_v_w.blur(); }   _emr_e(window, 'load', _emr_i); </p>
+<p> Najczęściej Czytane </p>
+<p> 24 h </p>
+<p> tydzień </p>
+<p> Sześć kolorów: herbata! </p>
+<p> Gdzie i jak cię boli brzuch? Na podstawie objawów można postawić wstępną diagnozę </p>
+<p> Zabójcy libido </p>
+<p> Badanie ogólne moczu </p>
+<p> 7 powodów, żeby się kochać </p>
+<p> Etapy miłości: od zakochania do rozpadu </p>
+<p> Gdzie i jak cię boli brzuch? Na podstawie objawów można postawić wstępną diagnozę </p>
+<p> Sześć kolorów: herbata! </p>
+<p> Zabójcy libido </p>
+<p> Ból żołądka: o czym świadczy? </p>
+<p> putBan(3); </p>
+<p> putBan(50); </p>
+<p> putBan(13); </p>
+<p> putBan(11); </p>
+<p> putBan(43); </p>
+<p> putBan(21); </p>
+<p> putBan(96); </p>
+<p> putBan(97); </p>
+<p> putBan(60); </p>
+<p> putBan(61); </p>
+<p> putBan(46); </p>
+<p> Zapytaj eksperta </p>
+<p> poprzednie </p>
+<p> następne </p>
+<p> Ewa Żeromska </p>
+<p> Seksuolog radzi </p>
+<p> Emilia Gnybek-Ciosek </p>
+<p> Skuteczne odchudzanie </p>
+<p> Agnieszka Iwaszkiewicz </p>
+<p> Życie rodzinne </p>
+<p> Katarzyna Albrecht-Stanisławska </p>
+<p> Zdrowie małego dziecka </p>
+<p> Michał Lew-Starowicz </p>
+<p> Problemy seksualne </p>
+<p> Anna Englisz i Katarzyna Faliszewska </p>
+<p> Zdrowa dieta </p>
+<p> function newWindow(url) { 		var parametry = "toolbar=yes,location=1,directories=1,status=yes,menubar=1,scrollbars=yes,resizable=yes,copyhistory=0,width=800,height=600,left=" + ((screen.width - 800) / 2) + ",top=" + ((screen.height - 600) / 2); 		var newWindow = window.open(url, "Przykładowy_newsletter", parametry); 		newWindow.focus(); 		} </p>
+<p> Dowiedz się, jak dbać o siebie i swoich bliskich. </p>
+<p> wpisz tutaj swój e-mail </p>
+<p> Przykładowy newsletter </p>
+<p> putBan(57); </p>
+<p> Gdzie cię boli brzuch i dlaczego? </p>
+<p> Złóż noworoczne postanowienie i schudnij! </p>
+<p> Oferta partnera </p>
+<p> putCpcBan(0); 			makeRequest(0); </p>
+<p> putBan(88); </p>
+<p> putBan(42); </p>
+<p> Na skróty: </p>
+<p> Gazeta.pl </p>
+<p> Wiadomości </p>
+<p> Sport.pl </p>
+<p> Biznes </p>
+<p> Gazeta Wyborcza </p>
+<p> Praca </p>
+<p> Program TV </p>
+<p> Polecamy: </p>
+<p> Kobieta </p>
+<p> Moda </p>
+<p> Zakupy </p>
+<p> Horoskopy </p>
+<p> Kuchnia </p>
+<p> Zdrowie </p>
+<p> Newsletter </p>
+<p> RSS </p>
+<p> Poczta </p>
+<p> Copyright </p>
+<p> © </p>
+<p> Agora SA </p>
+<p> O nas </p>
+<p> Staże u nas </p>
+<p> Reklama </p>
+<p> Prywatność </p>
+<p> Wszystkie artykuły </p>
+<p> Licencje </p>
+<p> Poleć stronę </p>
+<p> Zgłoś błąd </p>
+<p> <!--         function getCookie(name) {             var start = document.cookie.indexOf(name+"=");             var len = start+name.length+1;             if ((!start) && (name != document.cookie.substring(0,name.length))) return null;             if (start == -1) return null;             var end = document.cookie.indexOf(";",len);             if (end == -1) end = document.cookie.length;             return unescape(document.cookie.substring(len,end));         }         document.write('<'+'img src="http://p.gazeta.pl/?b=1&x=10916971&d=0&o=1&t='+(new Date()).getTime()+'&w=105912&u='+banCookie+'"'+'>');     //--> </p>
+<p> putBan(19); </p>
+<p> putBan(41); </p>
+<p> countBan(105912); </p>
+<p> if (startsz==0||startsz==1||startsz==2) { ts(tgs,'art2',startsz);ts(tgs2,'art',startsz); } </p>
+<p> var position = getCoo(document.cookie);     if (position != -1) {         ts(tgs,'art2', position);         ts(tgs2,'art', position);     } </p>
+<p> putBan(94); </p>
+<p> function postFbInit(){ 			 	    	 	    } </p>

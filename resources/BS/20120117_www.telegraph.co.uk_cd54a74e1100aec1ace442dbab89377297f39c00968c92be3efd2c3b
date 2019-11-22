@@ -1,0 +1,305 @@
+<p> Scientists find fat is the sixth human taste  - Telegraph </p>
+<p> // name: RoS AdprobeTag 		// created at: 31.05.2011 - 15:21 		// The placement ids to request, max 10 per request, comma delimited, no spaces: 		var wlCus = "10085,10086"; 		var wlOrd = new Date().getTime(); 		try { 		    document.write('<scr' + 'ipt type="text/javascript" language="JavaScript" src="http://req.connect.wunderloop.net/AP/1585/5904/10085/js?cus=' + wlCus + '&ord=' + wlOrd + '"></sc' + 'ript>'); 		} catch(err) { } </p>
+<p> var gs_channels="default";   var gsurl=window.location!=window.top.location?document.referrer:window.location;   document.write('<scr'+'ipt type="text/javascript" src="http://telegraph.grapeshot.co.uk/main/channels.cgi?url='+encodeURIComponent(gsurl)+'"></scr'+'ipt>'); </p>
+<p> var KRUXSetup = {    pubid:"d6498d46-90bb-46f8-8d67-1a8770046960",    site:"Telegraph",     		section: 'Science', 		subSection: 'Science News' 	 }; </p>
+<p> window.webtrendsAsyncLoad = function(dcs){     dcs.addTransform(function(dcs,opt){         // add/edit/remove tags or cancel call with opt.prevent      dcs.site="MySite";     },'all'); }; // Async Init/Config function, called by webtrends.js after load window.webtrendsAsyncInit = function() {      var dcs=new Webtrends.dcs().init({      dcsid:"dcsz8d3revz5bdaez1q24pfc4_7k6c",      domain:"statse.webtrendslive.com",      timezone:0      }).track(); }; (function() {     var s = document.createElement('script'); s.async = true;s.type="text/javascript";     s.src = '/template/ver1-0/js/asyncwebtrends/webtrends.js';// webtrends.js     var s2=document.getElementsByTagName("script")[0];s2.parentNode.insertBefore(s,s2); }()); </p>
+<p> Accessibility links </p>
+<p> Skip to article </p>
+<p> Skip to navigation </p>
+<p> Advertisement </p>
+<p> document.write(tmgAdsBuildAdTag("ban", "940x250,728x90,468x60", "adj", "", 2)); </p>
+<p> Tuesday 17 January 2012 </p>
+<p> checkLoginStatus(); </p>
+<p> | </p>
+<p> Subscribe </p>
+<p> Telegraph.co.uk </p>
+<p> Home </p>
+<p> News </p>
+<p> Sport </p>
+<p> Finance </p>
+<p> Comment </p>
+<p> Blogs </p>
+<p> Culture </p>
+<p> Travel </p>
+<p> Lifestyle </p>
+<p> Fashion </p>
+<p> Tech </p>
+<p> Dating </p>
+<p> Offers </p>
+<p> Jobs </p>
+<p> UK </p>
+<p> World </p>
+<p> Politics </p>
+<p> Obituaries </p>
+<p> Education </p>
+<p> Earth </p>
+<p> Science </p>
+<p> Defence </p>
+<p> Health News </p>
+<p> Royal Family </p>
+<p> Celebrities </p>
+<p> Weird News </p>
+<p> Science News </p>
+<p> Space </p>
+<p> Roger Highfield </p>
+<p> Dinosaurs </p>
+<p> Evolution </p>
+<p> Steve Jones </p>
+<p> Science Picture Galleries </p>
+<p> Home </p>
+<p> » </p>
+<p> Science </p>
+<p> » </p>
+<p> Science News </p>
+<p> Scientists find fat is the sixth human taste </p>
+<p> Scientists have discovered a sixth basic taste that the human tongue can    detect – fat. </p>
+<p> The researchers hope their discovery can be exploited to combat obesity by increasing people's sensitivity to fat in their food. </p>
+<p> Photo: ALAMY </p>
+<p> By </p>
+<p> Richard Gray </p>
+<p> , </p>
+<p> Science Correspondent </p>
+<p> 7:40AM GMT 15 Jan 2012 </p>
+<p> Comments </p>
+<p> For generations, scientists thought the human tongue could detect only four    basic tastes: sweet, sour, salt and bitter. </p>
+<p> Then a fifth was discovered, " </p>
+<p> umami </p>
+<p> "    or savoury. Now, researchers have identified a previously-unrecognised "sixth    taste" – fat. </p>
+<p> A team in the United States has located a chemical receptor in the taste buds    on the tongue that recognises fat molecules, and found that its sensitivity    varies between individuals. </p>
+<p> The finding may help to explain why some people consume more fatty foods, as    they are less aware of the taste as they eat. </p>
+<p> The researchers hope their discovery can be exploited to combat obesity by    increasing people's sensitivity to fat in their food. </p>
+<p> Related Articles </p>
+<p> 'Fat-free' foods could work against dieters </p>
+<p> 05 Dec 2011 </p>
+<p> Fat fliers 'should pay more' </p>
+<p> 12 Jan 2012 </p>
+<p> Background music 'affects taste of wine' </p>
+<p> 01 Nov 2011 </p>
+<p> Umami: 'fifth taste' goes on sale </p>
+<p> 09 Feb 2010 </p>
+<p> Apart from the basic tastes, other aspects of food flavour actually come from    the smell and are detected in the nose. </p>
+<p> The research team, from the school of medicine at Washington University, St    Louis, showed that people with more of a receptor called CD36 were better at    detecting the presence of fat in food. </p>
+<p> They found that variations in a gene that produces CD36 makes people more or    less sensitive to the presence of fat. </p>
+<p> "The ultimate goal is to understand how our perception of fat in food    might influence what foods we eat and the qualities of fat that we consume,"    said Professor Nada Abumrad, who led the research. </p>
+<p> "We've found one potential reason for individual variability in how    people sense fat. What we will need to determine in the future is whether    our ability to detect fat in foods influences our fat intake, which clearly    would have an impact on obesity." </p>
+<p> The study, which is published in the Journal of Lipid Research, found that    those with half as much CD36 were eight times less sensitive to the presence    of fat. </p>
+<p> Up to 20 per cent of people are believed to have a variant of the CD36 gene    that is associated with producing lower levels of the receptor, which could    mean they are less sensitive to the presence of fat in food. This may make    them more prone to obesity. </p>
+<p> Dr Yanina Pepino, who also conducted the research, added: "If we follow    the results in animals, a high-fat diet would lead to less production of    CD36, and that, in turn, could make a person less sensitive to fat. </p>
+<p> "From our results in this study, we would hypothesise that people with    obesity may make less of the CD36 protein. </p>
+<p> "So it would seem logical that the amounts of the protein we make can be    modified, both by a person's genetics and by the diet they eat." </p>
+<p> (function(d, s, id) { 	  var js, fjs = d.getElementsByTagName(s)[0]; 	  if (d.getElementById(id)) {return;} 	  js = d.createElement(s); js.id = id; 	  js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1&appId=120118784736295"; 	  fjs.parentNode.insertBefore(js, fjs); 	}(document, 'script', 'facebook-jssdk')); </p>
+<p> .at15t_email {display:none !important;} 		ul li.email span.at300bs {display:none !important;} </p>
+<p> // Preload images 		var closeOnHover = new Image(); 		closeOnHover.src = "/template/ver1-0/i/addthis_menu_close_active.gif"; 		var menuTop = new Image(); 		menuTop.src = "/template/ver1-0/i/addthis_menu_top.png"; </p>
+<p> {parsetags: 'explicit'} </p>
+<p> X </p>
+<p> Share & bookmark </p>
+<p> Delicious </p>
+<p> Facebook </p>
+<p> Google </p>
+<p> Messenger </p>
+<p> Reddit </p>
+<p> Twitter </p>
+<p> Digg </p>
+<p> Fark </p>
+<p> LinkedIn </p>
+<p> Google Buzz </p>
+<p> StumbleUpon </p>
+<p> Y! Buzz </p>
+<p> What are these? </p>
+<p> Share: </p>
+<p> Share </p>
+<p> Tweet </p>
+<p> http://www.telegraph.co.uk/science/science-news/9014916/Scientists-find-fat-is-the-sixth-human-taste.html </p>
+<p> Telegraph </p>
+<p> Science News </p>
+<p> News » </p>
+<p> UK News » </p>
+<p> Science » </p>
+<p> Health News » </p>
+<p> Richard Gray » </p>
+<p> In Science News </p>
+<p> Alcoholic artworks: in close-up </p>
+<p> A year in space </p>
+<p> Soyuz spacecraft lifts off </p>
+<p> Looking for planet Earth </p>
+<p> Satellite images of human presence on Earth </p>
+<p> X </p>
+<p> Share & bookmark </p>
+<p> Delicious </p>
+<p> Facebook </p>
+<p> Google </p>
+<p> Messenger </p>
+<p> Reddit </p>
+<p> Twitter </p>
+<p> Digg </p>
+<p> Fark </p>
+<p> LinkedIn </p>
+<p> Google Buzz </p>
+<p> StumbleUpon </p>
+<p> Y! Buzz </p>
+<p> What are these? </p>
+<p> Share: </p>
+<p> Tweet </p>
+<p> gapi.plusone.go('googlePlusOneButton'); </p>
+<p> var OB_permalink= 'http://www.telegraph.co.uk/science/science-news/9014916/Scientists-find-fat-is-the-sixth-human-taste.html'; 							 							var OB_Template="telegraph"; 							var OB_widgetId= 'AR_1'; 							var OB_langJS ='http://widgets.outbrain.com/lang_en.js'; 							if ( typeof(OB_Script)!='undefined' ) 								OutbrainStart(); 							else { 								var OB_Script = true; 								var str = "<script src='http://widgets.outbrain.com/outbrainWidget.js' type='text/javascript'></"+"script>"; 								document.write(str); 							} </p>
+<p> Advertisement </p>
+<p> <!-- 			google_ad_client = 'ca-telegraph_uk_300x250'; 			google_ad_channel = 'science'; 			google_max_num_ads = '3'; 			google_ad_output="js"; 			google_ad_type="text"; 			google_language="en"; 			google_encoding="utf8"; 			google_safe="high"; 			 			 			 							google_hints="science-news"; 						  			/* Google Ad Functions */ 			function google_ad_request_done(google_ads) { 				var googleAdHeadText="Ads by Google"; 				var googleAdHeadLink="https://www.google.com/adsense/support/bin/request.py?contact=abg_afc&gl=US&hideleadgen=1"; 				var google_max_num_ads = '3'; 				if(google_ads.length==0){ 					return; 				} 				var s="<div id='googleHead'><div class='headerOne styleTen'><p><span><a target=\"_blank\" title=\"About Google Ads\" href=\""+googleAdHeadLink+"\">"; 				s+=googleAdHeadText+"</a></span></p></div></div>"; 				s+="<div id='google-ads-container-inner'><div class='googleAdText'><ul class='googleAdText'>"; 				if (google_ads[0].type=="text") { 					for(i=0;i<google_ads.length;i++){ 					 					if (i == (google_max_num_ads - 1)){ 						s+="<li class=\"last\">"; 					}  					else if (i == 0) { 						s+="<li class=\"first\">"; 					} 					else { 						s+="<li>"; 					} 						 						s+='<h4><a target="_TOP" href="'+google_ads[i].url+'">'+google_ads[i].line1+"</a></h4>"; 						s+="<p>"+google_ads[i].line2+" "+google_ads[i].line3+"</p>"; 						s+='<p><a target="_TOP" href="'+google_ads[i].url+'">'+google_ads[i].visible_url+"</a></p>"; 						s+="</li>" 						} 					} 				s+="</ul><div class=\"cl\"><!-- --></div><span class=\"hl-brackets1\"><!-- --></span>"; 				s+="<span class=\"hl-brackets2\"><!-- --></span><span class=\"hl-brackets3\"><!-- --></span>"; 				s+="<span class=\"hl-brackets4\"><!-- --></span></div></div>"; 				document.getElementById("google-ads-container").innerHTML=s;  				// Slightly hacky, but if we're in a section then the container div needs a different class 				if (google_max_num_ads == 4) { 					document.getElementById("google-ads-container").parentNode.className = "googleadssection"; 				} 				 			}						 		// --> </p>
+<p> telegraphuk </p>
+<p> var disqus_title = "Scientists find fat is the sixth human taste "; 		var disqus_identifier = "9014916"; 		var disqus_developer = 1; </p>
+<p> Please enable JavaScript to view the </p>
+<p> comments powered by Disqus. </p>
+<p> blog comments powered by </p>
+<p> Disqus </p>
+<p> Advertisement </p>
+<p> document.write(tmgAdsBuildAdTag("mpu", "300x250", "adj", "", 2)); </p>
+<p> Follow The Telegraph on Social Media  » </p>
+<p> Like Telegraph.co.uk on Facebook </p>
+<p> Advertisement </p>
+<p> document.write(tmgAdsBuildAdTag("yell", "300x150", "adj", "", 2)); </p>
+<p> promotions  » </p>
+<p> Loading </p>
+<p> var puffs_8121069 = new Array(); </p>
+<p> var thisLink = "http://www.telegraph.co.uk/sponsored/technology/microsoft-office-365/8897227/win-25-user-microsoft-office-365-licence.html?utm_source=tmg&utm_medium=wgt_office365&utm_campaign=sponsored&WT.ac=8649878"; 								    puffs_8121069.push({'id':'8649878', 'headline':'Win an Office 365 subscription', 'bodyText':'This Microsoft Office 365 subscription for 25 users will revolutionise your business.', 'link':thisLink, 'imageUrl':'http://i.telegraph.co.uk/multimedia/archive/01959/Microsoft_Chicago__1959817a.jpg', 'weight':'3'}); </p>
+<p> var thisLink = "http://www.telegraph.co.uk/sponsored/travel/spain/andalucia/?WT.ac=8984915"; 								    puffs_8121069.push({'id':'8984915', 'headline':'Discover Spain\'s Andaluc&iacute;a', 'bodyText':'Andaluc&iacute;a boasts an overwhelming wealth of scenery, culture and history. Find out more.', 'link':thisLink, 'imageUrl':'http://i.telegraph.co.uk/multimedia/archive/02085/Andalucia-city-sho_2085970a.jpg', 'weight':'3'}); </p>
+<p> var thisLink = "http://www.telegraph.co.uk/sponsored/travel/canada-winter-sports/?WT.ac=8831685"; 								    puffs_8121069.push({'id':'8831685', 'headline':'Win your dream Canadian holiday', 'bodyText':'Enter to win a holiday to Canada worth &pound;8,000 - plus the chance to win a Samsung camera.', 'link':thisLink, 'imageUrl':'http://i.telegraph.co.uk/multimedia/archive/02016/WSS-fest_2016290a.jpg', 'weight':'3'}); </p>
+<p> var thisLink = "http://fashion.telegraph.co.uk/hot-topics/galleries/TMG8956381/445/christmas-gift-guide-hair-beauty-tools-of-trade.html?WT.ac=8586392"; 								    puffs_8121069.push({'id':'8586392', 'headline':'Hair &amp; beauty advice for the New Year', 'bodyText':'View our beauty gift guide for tools of the trade as recommended by the professionals.', 'link':thisLink, 'imageUrl':'http://i.telegraph.co.uk/multimedia/archive/02085/giftOffer_2085563a.jpg', 'weight':'3'}); </p>
+<p> var thisLink = "http://www.selected.telegraph.co.uk/home/London?utm_source=tcuk&utm_medium=puff&utm_campaign=albannach&WT.ac=8347968"; 								    puffs_8121069.push({'id':'8347968', 'headline':'75% off a two-hour photography masterclass', 'bodyText':'Learn how to get the best out of your digital camera for only &pound;35.', 'link':thisLink, 'imageUrl':'http://i.telegraph.co.uk/multimedia/archive/02110/Vanity_Studios_2110691a.jpg', 'weight':'3'}); </p>
+<p> var thisLink = "http://bit.ly/gJop8K?WT.ac=8980369"; 								    puffs_8121069.push({'id':'8980369', 'headline':'Up to 45% off ski rental on top brands', 'bodyText':'Select the latest ski and snowboard equipment and have it ready at your resort.', 'link':thisLink, 'imageUrl':'http://i.telegraph.co.uk/multimedia/archive/02094/woman_adjusting_go_2094736a.jpg', 'weight':'3'}); </p>
+<p> var noOfPuffs = 2; var lastClass = "";  if(puffs_8121069.length > noOfPuffs) {     for(var i=0; i < noOfPuffs; i++) {         	 var randomIndex =  selectRandomPuffIndex(puffs_8121069);                   if(i == noOfPuffs-1) { lastClass=" last"; }          append2LayoutPuffs(8121069, randomIndex, true);          puffs_8121069.splice(randomIndex, randomIndex+1);               }    } else {     for(var i=0; i<puffs_8121069.length; i++) {     	if(i == noOfPuffs-1) { lastClass=" last"; }         append2LayoutPuffs(8121069, i, true);     }        } </p>
+<p> Science Most Viewed </p>
+<p> TODAY </p>
+<p> PAST WEEK </p>
+<p> PAST MONTH </p>
+<p> Scientists find fat is the sixth human taste </p>
+<p> British scientists find 'lost' Charles Darwin fossils </p>
+<p> Sex gets better with age say scientists </p>
+<p> Oxford don Dr Devinder Sivia 'treated appallingly' over friend's death </p>
+<p> The Beyonce fly: Researchers name insect with golden behind after singer </p>
+<p> Russian spacecraft to crash to Earth on Sunday </p>
+<p> British scientists preparing to fight to keep mean time at Greenwich </p>
+<p> Scientists find fat is the sixth human taste </p>
+<p> Obsessive smart phone users hear 'phantom vibrations' </p>
+<p> Prof Stephen Hawking too unwell to deliver own 70th birthday speech </p>
+<p> Prof Stephen Hawking too unwell to deliver own 70th birthday speech </p>
+<p> Mystery space ball drops on Namibia </p>
+<p> Russian spacecraft to crash to Earth on Sunday </p>
+<p> Neanderthals built homes with mammoth bones </p>
+<p> Prof Stephen Hawking: man faces nuclear armageddon and must colonise space </p>
+<p> Advertisement </p>
+<p> document.write(tmgAdsBuildAdTag("hpg,sks,skl", "300x600,120x600,160x600", "adj", "", 2)); </p>
+<p> TELEGRAPH JOBS  » </p>
+<p> Courses </p>
+<p> Services </p>
+<p> Science Jobs </p>
+<p> Loading </p>
+<p> var puffs_8286354 = new Array(); </p>
+<p> Find a course with Telegraph Courses </p>
+<p> var puffArray = eval('puffs_' + '8286354'); 		    var guid = ""; 		    var headline = "Teach English abroad with TEFL England";  		    var description = "Our TEFL courses run across the UK and online and are open to all fluent English speakers, with no formal educational qualifications required."; 		     		    		var link = "http://featuredadvertising.telegraph.co.uk/c/fac3f153-bd26-4111-90e2-bdf6a06b9281?WT.ac="; 		    	 		    var imageUrl = "http://featuredadvertising.telegraph.co.uk/logos/8b/f0/8bb25611-9c72-4a8b-962b-e618f02033f0.jpg";  		    var adWeight = "3";  		     		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight}); </p>
+<p> var puffArray = eval('puffs_' + '8286354'); 		    var guid = ""; 		    var headline = "Six Sigma Green Belt® Certification Training";  		    var description = "The globally recognised Six Sigma Green Belt certification validates your skills in analysing and solving quality problems."; 		     		    		var link = "http://featuredadvertising.telegraph.co.uk/c/59fb520e-872b-48c9-8f3c-364641513aac?WT.ac="; 		    	 		    var imageUrl = "http://featuredadvertising.telegraph.co.uk/logos/60/4f/60108aaf-9c4b-45c4-a79f-43213666ba4f.jpg";  		    var adWeight = "3";  		     		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight}); </p>
+<p> var puffArray = eval('puffs_' + '8286354'); 		    var guid = ""; 		    var headline = "Top Project Management Certifications";  		    var description = "The Learning People specialise in world class, self paced and cost effective learning for anyone wishing to work in I.T. or project management."; 		     		    		var link = "http://featuredadvertising.telegraph.co.uk/c/99d97f86-7c9e-4a24-bed5-ef49b46100d1?WT.ac="; 		    	 		    var imageUrl = "http://featuredadvertising.telegraph.co.uk/logos/38/b8/38f2ba4c-9e39-4c33-852e-f906b539bdb8.jpg";  		    var adWeight = "3";  		     		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight}); </p>
+<p> var puffArray = eval('puffs_' + '8286354'); 		    var guid = ""; 		    var headline = "The College of Law announce LLB degree for 2012";  		    var description = "A focused law degree for focused individuals. Book your open day now at college-of-law.co.uk/degree"; 		     		    		var link = "http://featuredadvertising.telegraph.co.uk/c/6aae1bd8-1ce3-4e89-bcaf-ec4cc69a2d68?WT.ac="; 		    	 		    var imageUrl = "http://featuredadvertising.telegraph.co.uk/logos/04/9b/043c5299-6fa3-4387-83bd-3e72da00129b.jpg";  		    var adWeight = "3";  		     		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight}); </p>
+<p> var puffArray = eval('puffs_' + '8286354'); 		    var guid = ""; 		    var headline = "PRINCE2 Foundation (2009)";  		    var description = "Acquire the skills necessary to successfully participate in a project management team using the PRINCE2 methodology."; 		     		    		var link = "http://featuredadvertising.telegraph.co.uk/c/3bab5bd7-372f-46bf-aac3-98ca2cfc7bbf?WT.ac="; 		    	 		    var imageUrl = "http://featuredadvertising.telegraph.co.uk/logos/cf/6e/cfe42533-b600-4460-937a-6aa343096d6e.jpg";  		    var adWeight = "3";  		     		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight}); </p>
+<p> var puffArray = eval('puffs_' + '8286354'); 		    var guid = ""; 		    var headline = "IT technology and business skills training courses";  		    var description = "Over 16,000 of the most respected, in-demand training courses; from the leading high end IT brands such as Microsoft, Cisco, VMware and Oracle."; 		     		    		var link = "http://featuredadvertising.telegraph.co.uk/c/641c8ca3-af27-47ef-8cce-c5becdd71212?WT.ac="; 		    	 		    var imageUrl = "http://featuredadvertising.telegraph.co.uk/logos/b6/1b/b6507bda-2ed4-4039-aee9-99183bdcf91b.jpg";  		    var adWeight = "3";  		     		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight}); </p>
+<p> var puffArray = eval('puffs_' + '8286354'); 		    var guid = ""; 		    var headline = "Open the door to a new career...";  		    var description = "At eDistance Learning - be a part of a global online learning community where you can communicate with tutors, mentors, advisors and fellow students."; 		     		    		var link = "http://featuredadvertising.telegraph.co.uk/c/fab51dd7-8d74-48ec-84d0-e48b53773f91?WT.ac="; 		    	 		    var imageUrl = "http://featuredadvertising.telegraph.co.uk/logos/78/75/78de32aa-6d39-4f0c-bdb1-97a52c7f5775.jpg";  		    var adWeight = "3";  		     		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight}); </p>
+<p> var puffArray = eval('puffs_' + '8286354'); 		    var guid = ""; 		    var headline = "Thinking of a new qualification?";  		    var description = "eDistance Learning offers more than 500 distance learning courses, covering a diverse range of subjects - everything from Accounting to Zoology."; 		     		    		var link = "http://featuredadvertising.telegraph.co.uk/c/fe9a1207-32e2-43fc-b05f-94ca354a3a26?WT.ac="; 		    	 		    var imageUrl = "http://featuredadvertising.telegraph.co.uk/logos/b9/d9/b9e80995-f154-4fc3-9ec6-3a62705132d9.jpg";  		    var adWeight = "3";  		     		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight}); </p>
+<p> var noOfPuffs = 2; var lastClass = "";  if(puffs_8286354.length > noOfPuffs) {     for(var i=0; i < noOfPuffs; i++) {         	 var randomIndex =  selectRandomPuffIndex(puffs_8286354);                   if(i == noOfPuffs-1) { lastClass=" last"; }          append2LayoutPuffs(8286354, randomIndex, true);          puffs_8286354.splice(randomIndex, randomIndex+1);               }    } else {     for(var i=0; i<puffs_8286354.length; i++) {     	if(i == noOfPuffs-1) { lastClass=" last"; }         append2LayoutPuffs(8286354, i, true);     }        } </p>
+<p> var puffs_8255319 = new Array(); </p>
+<p> var puffArray = eval('puffs_' + '8255319'); 		    var guid = ""; 		    var headline = "Six Sigma Green Belt® Certification Training";  		    var description = "The globally recognised Six Sigma Green Belt certification validates your skills in analysing and solving quality problems."; 		     		    		var link = "http://featuredadvertising.telegraph.co.uk/c/67858592-ee18-44bd-91b0-ca7fc054ac3d?WT.ac="; 		    	 		    var imageUrl = "http://featuredadvertising.telegraph.co.uk/logos/60/4f/60108aaf-9c4b-45c4-a79f-43213666ba4f.jpg";  		    var adWeight = "3";  		     		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight}); </p>
+<p> var puffArray = eval('puffs_' + '8255319'); 		    var guid = ""; 		    var headline = "PRINCE2 Foundation (2009)";  		    var description = "Acquire the skills necessary to successfully participate in a project management team using the PRINCE2 methodology."; 		     		    		var link = "http://featuredadvertising.telegraph.co.uk/c/da8e04d7-9310-45a9-88a0-aa99b7a267a7?WT.ac="; 		    	 		    var imageUrl = "http://featuredadvertising.telegraph.co.uk/logos/cf/6e/cfe42533-b600-4460-937a-6aa343096d6e.jpg";  		    var adWeight = "3";  		     		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight}); </p>
+<p> var puffArray = eval('puffs_' + '8255319'); 		    var guid = ""; 		    var headline = "The College of Law announce LLB degree for 2012";  		    var description = "A focused law degree for focused individuals. Book your open day now at college-of-law.co.uk/degree"; 		     		    		var link = "http://featuredadvertising.telegraph.co.uk/c/e0e9bfbe-8023-41fb-8376-5a0423b43aeb?WT.ac="; 		    	 		    var imageUrl = "http://featuredadvertising.telegraph.co.uk/logos/04/9b/043c5299-6fa3-4387-83bd-3e72da00129b.jpg";  		    var adWeight = "3";  		     		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight}); </p>
+<p> var puffArray = eval('puffs_' + '8255319'); 		    var guid = ""; 		    var headline = "Open the door to a new career...";  		    var description = "At eDistance Learning - be a part of a global online learning community where you can communicate with tutors, mentors, advisors and fellow students."; 		     		    		var link = "http://featuredadvertising.telegraph.co.uk/c/f477750a-5abd-4a82-bdc7-877767de37c0?WT.ac="; 		    	 		    var imageUrl = "http://featuredadvertising.telegraph.co.uk/logos/78/75/78de32aa-6d39-4f0c-bdb1-97a52c7f5775.jpg";  		    var adWeight = "3";  		     		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight}); </p>
+<p> var puffArray = eval('puffs_' + '8255319'); 		    var guid = ""; 		    var headline = "Top Project Management Certifications";  		    var description = "The Learning People specialise in world class, self paced and cost effective learning for anyone wishing to work in I.T. or project management."; 		     		    		var link = "http://featuredadvertising.telegraph.co.uk/c/99acd68b-a2c0-4e4b-b5f7-6726ce7ab531?WT.ac="; 		    	 		    var imageUrl = "http://featuredadvertising.telegraph.co.uk/logos/38/b8/38f2ba4c-9e39-4c33-852e-f906b539bdb8.jpg";  		    var adWeight = "3";  		     		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight}); </p>
+<p> var puffArray = eval('puffs_' + '8255319'); 		    var guid = ""; 		    var headline = "IT technology and business skills training courses";  		    var description = "Over 16,000 of the most respected, in-demand training courses; from the leading high end IT brands such as Microsoft, Cisco, VMware and Oracle."; 		     		    		var link = "http://featuredadvertising.telegraph.co.uk/c/a08c33e6-3c5f-44f5-962e-b66fd4a0deff?WT.ac="; 		    	 		    var imageUrl = "http://featuredadvertising.telegraph.co.uk/logos/b6/1b/b6507bda-2ed4-4039-aee9-99183bdcf91b.jpg";  		    var adWeight = "3";  		     		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight}); </p>
+<p> var puffArray = eval('puffs_' + '8255319'); 		    var guid = ""; 		    var headline = "Teach English abroad with TEFL England";  		    var description = "Our TEFL courses run across the UK and online and are open to all fluent English speakers, with no formal educational qualifications required."; 		     		    		var link = "http://featuredadvertising.telegraph.co.uk/c/4c3d8b25-76b2-4960-a955-2a5dcc9616f1?WT.ac="; 		    	 		    var imageUrl = "http://featuredadvertising.telegraph.co.uk/logos/8b/f0/8bb25611-9c72-4a8b-962b-e618f02033f0.jpg";  		    var adWeight = "3";  		     		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight}); </p>
+<p> var puffArray = eval('puffs_' + '8255319'); 		    var guid = ""; 		    var headline = "Thinking of a new qualification?";  		    var description = "eDistance Learning offers more than 500 distance learning courses, covering a diverse range of subjects - everything from Accounting to Zoology."; 		     		    		var link = "http://featuredadvertising.telegraph.co.uk/c/bb56ae15-1ec0-404f-9ebc-1a9bee50da49?WT.ac="; 		    	 		    var imageUrl = "http://featuredadvertising.telegraph.co.uk/logos/b9/d9/b9e80995-f154-4fc3-9ec6-3a62705132d9.jpg";  		    var adWeight = "3";  		     		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight}); </p>
+<p> var puffArray = eval('puffs_' + '8255319'); 		    var guid = ""; 		    var headline = "Premium Business Cards for less";  		    var description = "Vistaprint are offering 500 Business cards plus a Free Card Holder, and delivery, for just &pound;5"; 		     		    		var link = "http://featuredadvertising.telegraph.co.uk/c/e5f127c7-ace1-46f9-9cf3-e8fece0682b5?WT.ac="; 		    	 		    var imageUrl = "http://featuredadvertising.telegraph.co.uk/logos/c5/fe/c5729b70-59c9-40aa-a3de-494c6c7b96fe.jpg";  		    var adWeight = "3";  		     		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight}); </p>
+<p> var puffArray = eval('puffs_' + '8255319'); 		    var guid = ""; 		    var headline = "Order 250 FREE Business Cards";  		    var description = "Create in minutes and receive in as few as 3 days. Choose from 42 designs and add your text.  Order 250 FREE Business Cards from Vistaprint today."; 		     		    		var link = "http://featuredadvertising.telegraph.co.uk/c/aad50f33-a369-4ebe-8f52-391eaeb6cad5?WT.ac="; 		    	 		    var imageUrl = "http://featuredadvertising.telegraph.co.uk/logos/a8/1e/a8782d45-64c3-4bc4-9584-a51e11a00c1e.jpg";  		    var adWeight = "3";  		     		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight}); </p>
+<p> var noOfPuffs = 2; var lastClass = "";  if(puffs_8255319.length > noOfPuffs) {     for(var i=0; i < noOfPuffs; i++) {         	 var randomIndex =  selectRandomPuffIndex(puffs_8255319);                   if(i == noOfPuffs-1) { lastClass=" last"; }          append2LayoutPuffs(8255319, randomIndex, true);          puffs_8255319.splice(randomIndex, randomIndex+1);               }    } else {     for(var i=0; i<puffs_8255319.length; i++) {     	if(i == noOfPuffs-1) { lastClass=" last"; }         append2LayoutPuffs(8255319, i, true);     }        } </p>
+<p> var puffs_8254889 = new Array(); </p>
+<p> var puffArray = eval('puffs_' + '8254889'); 		    var guid = "788591"; 		    var headline = "Revalidation Operations Manager";  		    var description = "Manchester&nbsp;&pound;32656 - &pound;40588"; 		     		    		var link = "http://jobs.telegraph.co.uk/job/788591/permanent/manchester/revalidation-operations-manager-job-vacancy.aspx?FromRSSFeed=-1005&WT.ac=788591"; 		    	 		    var imageUrl = "http://i.telegraph.co.uk/telegraph/multimedia/jobs/images/F75723E5-FC66-43F8-966F-842538E725C8_140_87-v2.jpg";  		    var adWeight = "3";  		     		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight}); </p>
+<p> var puffArray = eval('puffs_' + '8254889'); 		    var guid = "792895"; 		    var headline = "General Dynamics United Kingdom Limited - Careers";  		    var description = "UK&nbsp;On Application"; 		     		    		var link = "http://jobs.telegraph.co.uk/job/792895/permanent/uk/general-dynamics-united-kingdom-limited-careers-job-vacancy.aspx?FromRSSFeed=-1005&WT.ac=792895"; 		    	 		    var imageUrl = "http://i.telegraph.co.uk/telegraph/multimedia/jobs/images/5E6B3C57-7BAD-4F10-AFAA-CFA572FF6728_140_87-v2.jpg";  		    var adWeight = "3";  		     		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight}); </p>
+<p> var puffArray = eval('puffs_' + '8254889'); 		    var guid = "796438"; 		    var headline = "Mine Manager";  		    var description = "Cardiff&nbsp;&pound;39393 - &pound;51670"; 		     		    		var link = "http://jobs.telegraph.co.uk/job/796438/permanent/cardiff/mine-manager-job-vacancy.aspx?FromRSSFeed=-1005&WT.ac=796438"; 		    	 		    var imageUrl = "http://i.telegraph.co.uk/telegraph/multimedia/jobs/images/D3F5A3D2-5C7C-44C1-905C-9A95137D292C_140_87-v2.jpg";  		    var adWeight = "3";  		     		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight}); </p>
+<p> var puffArray = eval('puffs_' + '8254889'); 		    var guid = "779551"; 		    var headline = "Director of Technology - National Composites Centre";  		    var description = "Bristol / Bath&nbsp;&pound;90000"; 		     		    		var link = "http://jobs.telegraph.co.uk/job/779551/permanent/bristol-bath/director-of-technology-national-composites-centre-job-vacancy.aspx?FromRSSFeed=-1005&WT.ac=779551"; 		    	 		    var imageUrl = "http://i.telegraph.co.uk/telegraph/multimedia/jobs/images/2E3B2E01-89B5-4BA2-8BA5-9C2199C1037C_140_87-v2.jpg";  		    var adWeight = "3";  		     		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight}); </p>
+<p> var puffArray = eval('puffs_' + '8254889'); 		    var guid = "780351"; 		    var headline = "UK Sales Manager";  		    var description = "UK Nationwide&nbsp;On Application"; 		     		    		var link = "http://jobs.telegraph.co.uk/job/780351/permanent/uk-nationwide/uk-sales-manager-job-vacancy.aspx?FromRSSFeed=-1005&WT.ac=780351"; 		    	 		    var imageUrl = "http://i.telegraph.co.uk/telegraph/multimedia/jobs/images/FF5B0EF2-DC89-45D3-8949-5F7CA5E3A69A_140_87-v2.jpg";  		    var adWeight = "3";  		     		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight}); </p>
+<p> var puffArray = eval('puffs_' + '8254889'); 		    var guid = "772843"; 		    var headline = "ENGINEERING MANAGEMENT OPPORTUNITIES";  		    var description = "Royston&nbsp;On Application"; 		     		    		var link = "http://jobs.telegraph.co.uk/job/772843/permanent/royston/engineering-management-opportunities-job-vacancy.aspx?FromRSSFeed=-1005&WT.ac=772843"; 		    	 		    var imageUrl = "http://i.telegraph.co.uk/telegraph/multimedia/jobs/images/BEF4E82C-2B76-49C1-9CE2-C63B43C10503_140_87-v2.jpg";  		    var adWeight = "3";  		     		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight}); </p>
+<p> var puffArray = eval('puffs_' + '8254889'); 		    var guid = "783092"; 		    var headline = "Senior Group Business Partner";  		    var description = "Ipswich&nbsp;On Application"; 		     		    		var link = "http://jobs.telegraph.co.uk/job/783092/permanent/ipswich/senior-group-business-partner-job-vacancy.aspx?FromRSSFeed=-1005&WT.ac=783092"; 		    	 		    var imageUrl = "http://i.telegraph.co.uk/telegraph/multimedia/jobs/images/F08C3998-DA5D-4632-A555-B4328A9843B7_140_87-v2.jpg";  		    var adWeight = "3";  		     		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight}); </p>
+<p> var puffArray = eval('puffs_' + '8254889'); 		    var guid = "772719"; 		    var headline = "Engineering, Automotive and Aerospace Job Opportunities";  		    var description = "South Norfolk&nbsp;On Application"; 		     		    		var link = "http://jobs.telegraph.co.uk/job/772719/permanent/south-norfolk/engineering-automotive-and-aerospace-job-opportunities-job-vacancy.aspx?FromRSSFeed=-1005&WT.ac=772719"; 		    	 		    var imageUrl = "http://i.telegraph.co.uk/telegraph/multimedia/jobs/images/9A61E268-94EA-4357-8A5F-774D1DA82C9E_140_87-v2.jpg";  		    var adWeight = "3";  		     		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight}); </p>
+<p> var puffArray = eval('puffs_' + '8254889'); 		    var guid = "772783"; 		    var headline = "Project Engineering Manager - Onshore";  		    var description = "Sharjah, United Arab Emirates&nbsp;On Application"; 		     		    		var link = "http://jobs.telegraph.co.uk/job/772783/permanent/sharjah-united-arab-emirates/project-engineering-manager-onshore-job-vacancy.aspx?FromRSSFeed=-1005&WT.ac=772783"; 		    	 		    var imageUrl = "http://i.telegraph.co.uk/telegraph/multimedia/jobs/images/651149BC-55FA-47B2-8273-7705F71D28D7_140_87-v2.jpg";  		    var adWeight = "3";  		     		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight}); </p>
+<p> var puffArray = eval('puffs_' + '8254889'); 		    var guid = "772835"; 		    var headline = "Discipline Manager - Pipelines (Offshore)";  		    var description = "Sharjah, United Arab Emirates&nbsp;On Application"; 		     		    		var link = "http://jobs.telegraph.co.uk/job/772835/permanent/sharjah-united-arab-emirates/discipline-manager-pipelines-offshore-job-vacancy.aspx?FromRSSFeed=-1005&WT.ac=772835"; 		    	 		    var imageUrl = "http://i.telegraph.co.uk/telegraph/multimedia/jobs/images/2147966C-2623-42D8-B759-5D1ABD5F55D0_140_87-v2.jpg";  		    var adWeight = "3";  		     		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight}); </p>
+<p> var noOfPuffs = 2; var lastClass = "";  if(puffs_8254889.length > noOfPuffs) {     for(var i=0; i < noOfPuffs; i++) {         	 var randomIndex =  selectRandomPuffIndex(puffs_8254889);                   if(i == noOfPuffs-1) { lastClass=" last"; }          append2LayoutPuffs(8254889, randomIndex, true);          puffs_8254889.splice(randomIndex, randomIndex+1);               }    } else {     for(var i=0; i<puffs_8254889.length; i++) {     	if(i == noOfPuffs-1) { lastClass=" last"; }         append2LayoutPuffs(8254889, i, true);     }        } </p>
+<p> MORE FROM TELEGRAPH.CO.UK </p>
+<p> MICROSOFT OFFICE 365 </p>
+<p> Win the perfect package for innovation, entrepreneurship and growth </p>
+<p> View </p>
+<p> AVIOS TRAVEL REWARDS </p>
+<p> Holiday advice and travel rewards with Avios </p>
+<p> View </p>
+<p> THE AGE OF ENERGY </p>
+<p> Will 'greening' the economy prevent dangerous climate change? </p>
+<p> View </p>
+<p> AITO INSPIRING HOLIDAYS </p>
+<p> Win a pair of Swarovski Optik compact binoculars </p>
+<p> View </p>
+<p> Back to top </p>
+<p> Hot Topics </p>
+<p> Italy </p>
+<p> Financial Crisis </p>
+<p> US Election 2012 </p>
+<p> Film news </p>
+<p> Australian Open 2012 </p>
+<p> Football </p>
+<p> More... </p>
+<p> Telegraph Christmas Appeal </p>
+<p> News </p>
+<p> Politics </p>
+<p> World News </p>
+<p> Obituaries </p>
+<p> Travel </p>
+<p> Health </p>
+<p> Jobs </p>
+<p> Sport </p>
+<p> Football </p>
+<p> Cricket </p>
+<p> Fantasy Football </p>
+<p> Culture </p>
+<p> Motoring </p>
+<p> Dating </p>
+<p> Finance </p>
+<p> Personal Finance </p>
+<p> Economics </p>
+<p> Markets </p>
+<p> Fashion </p>
+<p> Property </p>
+<p> Crossword </p>
+<p> Comment </p>
+<p> Blogs </p>
+<p> My Telegraph </p>
+<p> Letters </p>
+<p> Technology </p>
+<p> Gardening </p>
+<p> Telegraph Journalists </p>
+<p> Contact Us </p>
+<p> Privacy and Cookies </p>
+<p> Advertising </p>
+<p> A to Z </p>
+<p> Tickets </p>
+<p> Announcements </p>
+<p> Reader Prints </p>
+<p> Follow Us </p>
+<p> Apps </p>
+<p> Epaper </p>
+<p> Expat </p>
+<p> Promotions </p>
+<p> Subscriber </p>
+<p> Syndication </p>
+<p> © Copyright of Telegraph Media Group Limited 2012 </p>
+<p> Terms and Conditions </p>
+<p> Today's News </p>
+<p> Archive </p>
+<p> Style Book </p>
+<p> Weather Forecast </p>
+<p> DM_addToLoc("Site",escape("Telegraph"));  DM_addToLoc("Level1",escape("Science")); 	 DM_addToLoc("Level2",escape("Science%20News")); 	 DM_tag(); </p>
+<p> http://www.telegraph.co.uk/science/science-news/9014916/Scientists-find-fat-is-the-sixth-human-taste.html </p>
+<p> (function() { 				var links = $("a[href*='disqus_thread']"); 				var query = ""; 				var blogQuery = ""; 				var normal = new Array(); 				var normalCounts = new Array(); 				var blog = new Array(); 				var blogCounts = new Array(); 				 				for(var i = 0; i < links.length; i++) { 					if (links[i].getAttribute('dsqid')) { 						var dsqid = links[i].getAttribute('dsqid'); 						if (links[i].className == 'dsqblog') { blogQuery += 'dsqid' + i + '=' + dsqid + '&'; } else { query += 'dsqid' + i + '=' + dsqid + '&'; } 					}	 				} 				if (query.length != "" && blogQuery.length != "") { 					$("a[href*='disqus_thread']") && $("a.dsqblog").each(function(i) { 						blog[i] = $(this).attr("href"); 						$(this).attr("href","blog_link"); 					}); 					loadScript("http://telegraphuk.disqus.com/get_num_replies_from_dsqid.js?" + query, function() { 						$("a[href*='disqus_thread']").not(".dsqblog").each(function(i) { 							normal[i] = $(this).attr("href"); 							normalCounts[i] = $(this).html(); 							$(this).attr("href","normal_link"); 						}); 						 						$("a[href*='blog_link']").each(function(i) { $(this).attr("href",blog[i]); }); 						 						loadScript("http://telegraphblogs.disqus.com/get_num_replies_from_dsqid.js?" + blogQuery, function() { 							$("a[href*='normal_link']").each(function(i) { $(this).attr("href",normal[i]); }); 						});	 					}); 				} else { 					document.write('<script charset="utf-8" type="text/javascript" src="http://telegraphuk.disqus.com/get_num_replies_from_dsqid.js?' + query + '"></' + 'script>'); 				} 			})(); </p>
+<p> var pvar = { cid: "uk-101665h", content: "0", server: "secure-uk" }; 	 var feat = { surveys_enabled: 1 }; 	 var trac = nol_t(pvar, feat); 	 trac.record().post().do_sample(); </p>
+<p> document.write(tmgAdsBuildAdTag("ftr", "1x1", "adj", "", 2)); </p>

@@ -1,0 +1,1510 @@
+<p> document.domain = "guardian.co.uk"; </p>
+<p> //<![CDATA[ 				OAS_url = 'http://oas.guardian.co.uk/RealMedia/ads/'; 				OAS_sitepage = "www.guardian.co.uk/books/2012/jan/11/mcdonalds-michael-morpurgo-books-kids-meals/oas.html"; 				OAS_listpos = 'Top,Middle2,Right1,x31';  								OAS_query = 'k=children&k=booksforchildrenandteenagers&k=culture&k=mcdonalds&k=society&k=books&cf=business+markets&pid=&ct=article&pt=article&'; 				OAS_target = '_blank';  				OAS_rn = '001234567890'; 				OAS_rns = '1234567890'; 				OAS_rn = new String (Math.random()); 				OAS_rns = OAS_rn.substring (2, 11); 			//]]> </p>
+<p> McDonald's to give away 9m Michael Morpurgo books with kids' meals | Books | guardian.co.uk </p>
+<p> //<![CDATA[ 	if (!commonStaticRoot) {	 		var commonStaticRoot = "http://static.guim.co.uk/static/534a025fbd5b6ca3cafea5df66abf4d49b01b6fd/common/"; 	} 	if (!sectionStaticRoot) {	 		var sectionStaticRoot = "http://static.guim.co.uk/static/534a025fbd5b6ca3cafea5df66abf4d49b01b6fd/books/"; 	} 	if (!staticHost) {	 		var staticHost="http://www.guardian.co.uk/"; 	} 	if (!sitePrefixUrl) { 		var sitePrefixUrl = "http://www.guardian.co.uk"; 	} //]]> </p>
+<p> var _sf_startpt=(new Date()).getTime(); </p>
+<p> window.jQuery || document.write('<script src="http://static.guim.co.uk/static/534a025fbd5b6ca3cafea5df66abf4d49b01b6fd/common/scripts/libs/jquery/1.6.4/jquery.min.js">\x3C/script>') </p>
+<p> var jQ = jQuery.noConflict(); </p>
+<p> var thirdPartyReferralCookieService = new guardian.r2.ThirdPartyReferralCookieService(); 	thirdPartyReferralCookieService.setThirdPartyReferralCookie();  	var urlStack = new UrlStack(".guardian.co.uk"); 	var communitiesSite = false;  	 			   	//<![CDATA[ 	function init() { 		urlStack.clearUrlStack(); 		var signOutLink = document.getElementById("sign-out"); 		if (signOutLink) { 			signOutLink.onclick = signOut; 		} 		 		// Purely styling 		//jQ('.js-show').removeClass('js-show'); 	}	 	 	guardian.r2.resourceRoot = "http://resource.guim.co.uk/";     var pageUrl = "http://www.guardian.co.uk/books/2012/jan/11/mcdonalds-michael-morpurgo-books-kids-meals";     var pageSignature =  "52a235d402fd9c716dd6f9d19d5ba4070eea7ed5c5db67d3e4df8314e97c2c9d";      guardian.r2.signInListeners = new guardian.r2.SignInListeners();     (function () {	 		var signInView = new guardian.r2.SignInView("http://static.guim.co.uk/static/534a025fbd5b6ca3cafea5df66abf4d49b01b6fd/common/scripts/md5.js", communitiesSite); 		guardian.r2.signInController = new guardian.r2.SignInController(signInView, guardian.r2.signInListeners, "http://www.guardian.co.uk/tools/signin", pageUrl, pageSignature); 		 	}) (); 	 	/* 	(function () { 		var profileLinkView = new guardian.r2.ProfileLinkView(); 		profileLinkController = new guardian.r2.ProfileLinkController(profileLinkView, "http://www.guardian.co.uk/discussion/user/"); 	}) (); 	*/   	jQ(document).ready(init);  	  	var SIGN_IN_URL = 'http://www.guardian.co.uk/tools/signin'; 	var RESOURCE_ROOT = 'http://resource.guim.co.uk/'; 	var PROFILE_LINK_VIEW = "http://www.guardian.co.uk/discussion/user/"; </p>
+<p> //<![CDATA[ 	function insertStyleSheet(href) { 		var styleObject = document.createElement('link'); 		styleObject.setAttribute('href', commonStaticRoot + href); 		styleObject.setAttribute('type', 'text/css'); 		styleObject.setAttribute('media', 'screen'); 		styleObject.setAttribute('rel', 'stylesheet'); 		var head = document.getElementsByTagName('head')[0]; 		head.appendChild(styleObject); 	} 	insertStyleSheet('styles/js-on.css'); 	insertPluckStylesheet = true; 	//]]> </p>
+<p> ensurePackage('guardian.r2.omniture'); guardian.r2.omniture.isAvailable = function(){ 			return true; 	} </p>
+<p> Turn autoplay off </p>
+<p> Turn autoplay on </p>
+<p> Please activate cookies in order to turn autoplay off </p>
+<p> Jump to content [s] </p>
+<p> Jump to comments [c] </p>
+<p> Jump to site navigation [0] </p>
+<p> Jump to search [4] </p>
+<p> Terms and conditions [8] </p>
+<p> Edition: </p>
+<p> UK </p>
+<p> US </p>
+<p> Sign in </p>
+<p> Mobile </p>
+<p> About us </p>
+<p> About us </p>
+<p> Contact us </p>
+<p> Press office </p>
+<p> Guardian Print Centre </p>
+<p> Guardian readers' editor </p>
+<p> Observer readers' editor </p>
+<p> Terms of service </p>
+<p> Privacy policy </p>
+<p> Advertising guide </p>
+<p> Digital archive </p>
+<p> Digital edition </p>
+<p> Guardian Weekly </p>
+<p> Buy Guardian and Observer photos </p>
+<p> Subscribe </p>
+<p> Today's paper </p>
+<p> The Guardian </p>
+<p> G2 features </p>
+<p> Comment and debate </p>
+<p> Editorials, letters and corrections </p>
+<p> Obituaries </p>
+<p> Other lives </p>
+<p> Sport </p>
+<p> Subscribe </p>
+<p> Subscribe </p>
+<p> Subscribe to the Guardian </p>
+<p> iPhone app </p>
+<p> iPad edition </p>
+<p> Kindle </p>
+<p> Extra </p>
+<p> Guardian Weekly </p>
+<p> Digital edition </p>
+<p> All our services </p>
+<p> The Guardian </p>
+<p> Books </p>
+<p> User comments </p>
+<p> Web </p>
+<p> News </p>
+<p> Sport </p>
+<p> Comment </p>
+<p> Culture </p>
+<p> Business </p>
+<p> Money </p>
+<p> Life & style </p>
+<p> Travel </p>
+<p> Environment </p>
+<p> TV </p>
+<p> Data </p>
+<p> Video </p>
+<p> Mobile </p>
+<p> Offers </p>
+<p> Jobs </p>
+<p> Culture </p>
+<p> Books </p>
+<p> Children and teenagers </p>
+<p> McDonald's to give away 9m Michael Morpurgo books with kids' meals </p>
+<p> Fast-food giant will give away Mudpuddle Farm books for younger readers with purchase of food </p>
+<p> Tweet this </p>
+<p> reddit this </p>
+<p> omnitracker.omniTrackEVarEvent( 12, 16, 'Books: Reddit', 'click', '.reddit a' ); </p>
+<p> Comments ( </p>
+<p> … </p>
+<p> ) </p>
+<p> Alison Flood </p>
+<p> guardian.co.uk </p>
+<p> , </p>
+<p> Wednesday 11 January 2012 11.45 GMT </p>
+<p> Article history </p>
+<p> About this article </p>
+<p> Close </p>
+<p> McDonald's to give away 9m Michael Morpurgo books with kids' meals </p>
+<p> This article was published on </p>
+<p> guardian.co.uk </p>
+<p> at </p>
+<p> 11.45 GMT on Wednesday 11 January 2012 </p>
+<p> .  					   	It was last modified at </p>
+<p> 14.55 GMT on Wednesday 11 January 2012 </p>
+<p> . </p>
+<p> McDonald's Happy Meals book giveaway promoted with father-of-two Jeff Brazier, and children, at one of its outlets. Photograph: Daniel Lynch/Blue Rubicon/PA </p>
+<p> From the red carpet to the golden arches: an unlikely champion in the battle to get </p>
+<p> children </p>
+<p> reading has emerged in the shape of </p>
+<p> McDonald's </p>
+<p> , which is set to give away nine million books by Michael Morpurgo, author of the smash hit children's novel War Horse, with its Happy Meals. </p>
+<p> The fast food chain has linked up with publisher HarperCollins to hand out millions of copies of former children's laureate Morpurgo's Mudpuddle Farm books, aimed at younger readers, along with its Happy Meals, in one of its biggest ever promotions. </p>
+<p> The move is supported by the National Literacy Trust, which said that McDonald's "size and scale will be a huge leap towards encouraging more families to read together". Eight out of 10 families visit McDonald's, according to the fast food chain. Pointing to the National Literacy Trust's recent research which showed that one in three children in the UK – almost four million – don't own a book, director Jonathan Douglas said he was "very supportive of McDonald's decision to give families access to popular books". </p>
+<p> Titles offered to Happy Meal purchasers between 11 January and 7 February will include Morpurgo's Mossop's Last Chance and Martians at Mudpuddle Farm, with each book coming with a finger puppet. The novels, about the animals who live in the farmyard on Mudpuddle farm, will also be on sale at McDonald's restaurants without the need to buy a Happy Meal, it said. </p>
+<p> Booktrust, the government-backed charity which gives away five million books a year to babies and children, also supported the McDonald's scheme, despite the recent furore in California over the company's inclusion of free toys with their Happy Meals. Happy Meals were banned in Santa Clara County in 2010; the county supervisor behind the ban said at the time that its intention was to "prevent restaurants from preying on children's love of toys to peddle high calorie, high fat, high sodium kids' meals. It breaks the link between unhealthy food and prizes." </p>
+<p> Booktrust director Viv Bird was very positive about the partnership, however. "There is a real cultural challenge around reading for pleasure and we've got to be really careful, particularly in the current climate and with the concerns about literacy standards, that parents don't think reading is only about phonics – that they realise enjoying reading is just as important. This partnership with McDonald's Happy Meals and HarperCollins sends a really powerful message that reading is for everyone," she said. "You've got Michael Morpurgo, the ex children's laureate whose writing is fantastic, you've got quality books which are going to reach lots of families who wouldn't necessarily go into libraries or bookshops: what is there to disagree with?" </p>
+<p> Jack Sallabank, brand partnership manager at the National Literacy Trust, said, meanwhile, that "the National Literacy Trust's interest in the McDonald's campaign is not related to the number of Happy Meals sold.  Nine million books will be distributed to children during the campaign. In a society where one in three children don't own a book, this type of campaign will be hugely effective at reaching those who aren't introduced to reading at home and done so in an environment in which they feel comfortable." </p>
+<p> Printable version </p>
+<p> Send to a friend </p>
+<p> Share </p>
+<p> Clip </p>
+<p> Contact us </p>
+<p> larger </p>
+<p> | </p>
+<p> smaller </p>
+<p> Email </p>
+<p> Close </p>
+<p> Recipient's email address </p>
+<p> Your first name </p>
+<p> Your surname </p>
+<p> Add a note (optional) </p>
+<p> Your IP address will be logged </p>
+<p> Share </p>
+<p> Close </p>
+<p> Short link for this page: </p>
+<p> http://gu.com/p/34tkn </p>
+<p> StumbleUpon </p>
+<p> reddit </p>
+<p> Tumblr </p>
+<p> Digg </p>
+<p> LinkedIn </p>
+<p> Google Bookmarks </p>
+<p> del.icio.us </p>
+<p> livejournal </p>
+<p> Facebook </p>
+<p> Twitter </p>
+<p> Contact us </p>
+<p> Close </p>
+<p> Contact the Books editor </p>
+<p> books.editor@ </p>
+<p> guardianunlimited.co.uk </p>
+<p> Report errors or inaccuracies: </p>
+<p> reader@guardian.co.uk </p>
+<p> Letters for publication should be sent to: </p>
+<p> letters@guardian.co.uk </p>
+<p> If you need help using the site: </p>
+<p> userhelp@guardian.co.uk </p>
+<p> Call the main Guardian and Observer switchboard: </p>
+<p> +44 (0)20 3353 2000 </p>
+<p> Advertising guide </p>
+<p> License/buy our content </p>
+<p> Books </p>
+<p> Children and teenagers </p>
+<p> Culture </p>
+<p> Society </p>
+<p> Children </p>
+<p> Business </p>
+<p> McDonald's </p>
+<p> · </p>
+<p> Food & drink industry </p>
+<p> More 			news </p>
+<p> More on this story </p>
+<p> Pass notes: Michael Morpurgo </p>
+<p> The War Horse author is giving his books away with McDonald's Happy Meals. Not everyone thinks it's an appetising idea </p>
+<p> Related </p>
+<p> 16 Dec 2010 </p>
+<p> Are you unhappy with McDonald's Happy Meals? </p>
+<p> 11 Mar 2011 </p>
+<p> How Subway tops the fast-food chain </p>
+<p> 20 Jul 2011 </p>
+<p> McDonald's makes 2012 Olympics pledge to create the biggest and busiest Big Mac diner </p>
+<p> 28 Apr 2010 </p>
+<p> Happy Meals to be banned in Silicon Valley restaurants </p>
+<p> Printable version </p>
+<p> Send to a friend </p>
+<p> Share </p>
+<p> Clip </p>
+<p> Contact us </p>
+<p> Article history </p>
+<p> Email </p>
+<p> Close </p>
+<p> Recipient's email address </p>
+<p> Your first name </p>
+<p> Your surname </p>
+<p> Add a note (optional) </p>
+<p> Your IP address will be logged </p>
+<p> Share </p>
+<p> Close </p>
+<p> Short link for this page: </p>
+<p> http://gu.com/p/34tkn </p>
+<p> StumbleUpon </p>
+<p> reddit </p>
+<p> Tumblr </p>
+<p> Digg </p>
+<p> LinkedIn </p>
+<p> Google Bookmarks </p>
+<p> del.icio.us </p>
+<p> livejournal </p>
+<p> Facebook </p>
+<p> Twitter </p>
+<p> Contact us </p>
+<p> Close </p>
+<p> Contact the Books editor </p>
+<p> books.editor@ </p>
+<p> guardianunlimited.co.uk </p>
+<p> Report errors or inaccuracies: </p>
+<p> reader@guardian.co.uk </p>
+<p> Letters for publication should be sent to: </p>
+<p> letters@guardian.co.uk </p>
+<p> If you need help using the site: </p>
+<p> userhelp@guardian.co.uk </p>
+<p> Call the main Guardian and Observer switchboard: </p>
+<p> +44 (0)20 3353 2000 </p>
+<p> Advertising guide </p>
+<p> License/buy our content </p>
+<p> About this article </p>
+<p> Close </p>
+<p> McDonald's to give away 9m Michael Morpurgo books with kids' meals </p>
+<p> This article was published on </p>
+<p> guardian.co.uk </p>
+<p> at </p>
+<p> 11.45 GMT on Wednesday 11 January 2012 </p>
+<p> .  					   	It was last modified at </p>
+<p> 14.55 GMT on Wednesday 11 January 2012 </p>
+<p> . </p>
+<p> google_ad_client = 'ca-guardian_js'; google_ad_channel = 'books'; </p>
+<p> google_max_num_ads = '3'; </p>
+<p> //<![CDATA[ 			if (true) { 					  writeScript("http://pagead2.googlesyndication.com/pagead/show_ads.js", false, function(){}); 			} 		// ]]> </p>
+<p> var cookie_domain = "www.guardian.co.uk"; </p>
+<p> Comments </p>
+<p> 43 comments, displaying </p>
+<p> oldest </p>
+<p> first </p>
+<p> Sort comments by </p>
+<p> Oldest </p>
+<p> Newest </p>
+<p> jQ('#sort-comments fieldset').addClass('hidden'); </p>
+<p> Sign in to comment </p>
+<p> or </p>
+<p> create your Guardian account </p>
+<p> to join the conversation </p>
+<p> Staff </p>
+<p> Contributor </p>
+<p> R042 </p>
+<p> 11 January 2012 11:50AM </p>
+<p> Stunningly bad. No. This should not be happening. </p>
+<p> Not because I per se disapprove of the existence of fast food, or the advertising of books, but the combination of associating reading with fast food and then using it as incentive for children to eat fast food is something that's shockingly bad. </p>
+<p> Especially for an author like Morpugo, who should be able to sell books on their own merits. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 22 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> HunterKiller </p>
+<p> 11 January 2012 12:01PM </p>
+<p> http://www.youtube.com/watch?v=11quU3nqkVE </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 2 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> DanNorth </p>
+<p> 11 January 2012 12:17PM </p>
+<p> I want to think positively about this - kids are going to McDonald's in ridiculous numbers anyway, so at least they might get a book out of it, and one by a fine and respected children's author. But I'd like to know if these books will be reprinted with a McDonald's logo, or a foreword by Ronald. If so, they can McF*ck off. How ironic that one of the books is about animals who live on a farm. If it was about freakish steroidal chickens with their beaks burned off, living in a factory up to their knees in shit, I'd give my blessing to this promotion in a heartbeat. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 30 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> wearywanderer </p>
+<p> 11 January 2012 12:30PM </p>
+<p> /https://www.smashwords.com/books/view/117964 </p>
+<p> Can I sell my books here as well? Or is here another forum for  that? </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 0 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> pikeman </p>
+<p> 11 January 2012 12:54PM </p>
+<p> I sense Guardian readers spontanously combusting at the Morpurgo-McDonalds mash up!! </p>
+<p> It's good, but it's bad, but it's good!!! </p>
+<p> Yes but No but Yes but No!!! </p>
+<p> If only one child reads this with their Happy Meal and then moves on to the rest of Mr Morpurgo's books then it will be a good thing!!! </p>
+<p> As the father of a nine year old who started on Mudpuddle and has been steadily working her way through the entire published works of Micheal Morpurgo for the last three years I am unreservedly pleased about this. </p>
+<p> It's ten times better than the plastic toys - althoug t kids may disagree!! </p>
+<p> note to sub-editor - it's Mudpuddle Farm not Molpuddle Farm. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 22 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> TonyLeMesma </p>
+<p> 11 January 2012 1:14PM </p>
+<p> R042 </p>
+<p> - little tip.  When angry about something, vent it, maybe on an email or in a comments section, walk away, have a nice cup of tea then come back and read and then change what you've written. </p>
+<p> This clearly isn't an incentive for children to eat more fast food or even associating fast food with books. </p>
+<p> One way of looking at it is for children who are eating at McDonalds, rather than getting another Disney toy they get a book.  That's a </p>
+<p> good </p>
+<p> thing. </p>
+<p> If any parent is taking their kids to McDonalds purely on the basis of getting a free book they're probably going to use it to stop their table sloping. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 19 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> pinkrobbo </p>
+<p> 11 January 2012 1:17PM </p>
+<p> Pikeman- </p>
+<p> Yes! It's great! </p>
+<p> MacDonalds gets to give more kids morbid obesity, books are forever associated with crap food and calorific incontinence, and MacD's gets to feed their little minds too, with the idea that animal farms are cute little buccolic romper rooms, whilst , back in the real world,relentlessly forcing the spread of industrial- scale meat factories, with, as Dan North puts it, steroidal chickens living knee-deep in their own shit. </p>
+<p> What is there in this cynical marketing ploy not to be unreservedly pleased about?  It's a win-win for multinational corporations making billions from making kids ill while destroying the environment, and witless, lazy middle-class parents. Hurrah! </p>
+<p> As for Morpurgo, when will people stop writing this deluding Flibble-flobble Farm crap? Imagine if he applied the same idiotic trops to the first world war- Look! Muffin the warhorse trotting round the Somme, such fun, fighting, he says! Look at the German horses, laughing and playing in the sun! Can we come next year, oh please! </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 5 </p>
+<p> ) </p>
+<p> Responses (1) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> tipatina </p>
+<p> 11 January 2012 1:21PM </p>
+<p> with a little bit of sauce i think the books would taste better than the burgers.... </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 13 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> pinkrobbo </p>
+<p> 11 January 2012 1:25PM </p>
+<p> TonyLeMesma- </p>
+<p> "this clearly isn't an incentive for children to eat more fast food or even associating fast food with books." </p>
+<p> No. Good old macD really are doing this for pure altruistic reasons. At no point did it  even cross the mind of anyone in their marketing department to sell more MacNuggets. How mean of anyone to even think it. </p>
+<p> As for associating books with fast food, how indeed could giving books away with fast food conceivably have that effect? </p>
+<p> Thank you for your incisive thoughts. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 10 </p>
+<p> ) </p>
+<p> Responses (1) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> nomeatpete </p>
+<p> 11 January 2012 1:58PM </p>
+<p> McBooks for free at your local and now respectable McDonalds!! .........................now if it was  a free bycycle or skates to burn off the calories that they eat then THAT would make sense </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 0 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> AlfredTupper </p>
+<p> 11 January 2012 1:58PM </p>
+<p> They've got to do something with all those trees they (allegedly) cut down in the rain forest. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 2 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> BookElfLeeds </p>
+<p> 11 January 2012 2:17PM </p>
+<p> Get them to give away copies of Danielle Steel and James Patterson with their Big Macs and </p>
+<p> then </p>
+<p> see a real reading revolution... </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 1 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> ClarkEKhat </p>
+<p> 11 January 2012 2:55PM </p>
+<p> Some inane knee-jerk comments here. </p>
+<p> There are four million UK kids who don't even have a book of their own. </p>
+<p> I'd be willing to bet that the overlap with kids who feed in McDonalds is pretty high. </p>
+<p> So that means that some kids will get some books. </p>
+<p> Heaven forbid, some of them might even.... ENJOY them!!!! </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 11 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> Leftie26 </p>
+<p> 11 January 2012 3:08PM </p>
+<p> On the odd times we got to McDonald's, my niece and nephew get the chicken nugget Happy Meal with the Tropicana orange and a bag of apples and grapes. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 1 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> flatfrog </p>
+<p> 11 January 2012 3:17PM </p>
+<p> This will not sell more Happy Meals; if anything it'll sell fewer because kids won't be trying to 'collect the set' of the usual Disney tie-in tat. To that extent I think it's a bit curmudgeonly to get bothered by it - it seems win-win to me. MacDonalds get some positive marketing, and some kids who might otherwise not have any books at home get an opportunity to read something decent. </p>
+<p> But - one in three children with no books at home? That sounds incredibly high to me - even parents that don't read themselves usually have at least one or two baby books, don't they? I suspect the statistics are being skewed in some way; perhaps the definition of 'children' is being taken to mean over-fives or something like that. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 6 </p>
+<p> ) </p>
+<p> Responses (1) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> ajchm </p>
+<p> 11 January 2012 3:22PM </p>
+<p> Kids will be going to McDonalds whatever posters here think.  The good news is those not likely to own books are more likely to be visiting McDonalds so will get these books ... my kids won't be going there, but then they own several hundred books a piece plus hundreds more ebooks (hey the classics are FREE) so do not need another book and being snobby middle class kids prefer the handmade burger company on occassions when i take them out for such a meal  (my bank balance on the other hand loves mcdonalds, and i love Big Macs!) though they now prefer going for an indian. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 4 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> flatfrog </p>
+<p> 11 January 2012 3:28PM </p>
+<p> Response to </p>
+<p> flatfrog, 11 January 2012 3:17PM </p>
+<p> Yes - I just looked at the report and it's based on an online survey of 8-17-year-olds. The 4-million figure, however, would represent (slightly more than) one third of all children in the UK (according to Wolfram|Alpha, that's 10.4 million). I don't think that's likely to be accurate because I'd imagine under-fives are much more likely to have books. </p>
+<p> Not that it matters, of course - even half that number would still be an enormous amount! But it did jump out at me somewhat. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 2 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> jakboot </p>
+<p> 11 January 2012 3:52PM </p>
+<p> Anything is better than the shit toys they give out at the moment.  Does any child play with them for more than 5 mins before they are either broken or in the bin? </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 0 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> Deanrizzetti </p>
+<p> 11 January 2012 3:54PM </p>
+<p> The invective here seems sorely misplaced. </p>
+<p> We all agree that having more children reading is a good thing. This will get more books into more hands. If we want to get books into the hands of kids who would never have got them otherwise then we have to try new things. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 4 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> videovitch </p>
+<p> 11 January 2012 4:05PM </p>
+<p> Not surprised Jeff Brazier is hiding his face behind a book. I'd be embarrassed too if I'd chosen to peddle this disgusting idea. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 1 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> celtichare </p>
+<p> 11 January 2012 4:07PM </p>
+<p> Good God - I read this and came down with chronic </p>
+<p> Eco Fatigue </p>
+<p> - I used to work with foster kids and one of the best places to get anything out of them was in McDonald's over a Happy Meal - oh, and NONE of the kids I worked with were morbidly obese. There's a lot of shite talked about McDonald's who are no better or worse than Birds Eye,Tesco or Costco. Ironically, the kids getting the free books will mostly be middle class Mumsy's having their Birthday Party with their friends after school. Now, I'm off for a Big Mac with bacon and fries - but don't worry, I </p>
+<p> never </p>
+<p> go LARGE. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 8 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> judierudie </p>
+<p> 11 January 2012 4:11PM </p>
+<p> Strewth, i cant believe some of the comments on here! </p>
+<p> Surely anything that puts a book into the hands of a child has got to be a good thing hasnt it? </p>
+<p> Plus lets get this right McDonalds ( or any other fast food outlet) is not responsible for a proliferation of fat kids. Will people stop allowing PARENTS the opportunity to abdicate any responsibility for what goes in their kids mouth. </p>
+<p> Kids are fat because parents allow them to eat too much and not do enough exercise, its as simple as that. That aint McDs fault. </p>
+<p> I think flatfrog has a point as well, i dont think giving away a book will boost sales of Happy Meals. My kids have never been bothered about the tripe that comes with a Happy Meal and unless its an exclusive, unavailable elsewhere book then theyre not going to be particularly bothered about this. </p>
+<p> But let me stress, its not fast food outlets that are responsible for fatties! What is wrong with this country these days? Too many pass the buck without taking any responsibility for how they live their lives! </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 4 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> judierudie </p>
+<p> 11 January 2012 4:23PM </p>
+<p> McDonalds </p>
+<p> Murdoch </p>
+<p> Im sensing a pattern here. Anything beginning with M gets a certain section of the Guardian readership frothing at the mouth... </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 1 </p>
+<p> ) </p>
+<p> Responses (1) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> pikeman </p>
+<p> 11 January 2012 4:42PM </p>
+<p> Response to </p>
+<p> pinkrobbo, 11 January 2012 1:17PM </p>
+<p> Okay I get the message - McDonalds are the root of all evil. </p>
+<p> You're right </p>
+<p> Farms aren't like Mudpuddle Farm. </p>
+<p> The postal system isn't like Postman Pat </p>
+<p> Scottish Islands aren't like Balamory </p>
+<p> Orphanages aren't like Tracey Beaker </p>
+<p> Our children should read realistic stories about the injustice in the world - perhaps a happy little ditty about genocide in Rwanda? </p>
+<p> MacDonalds gets to give more kids morbid obesity </p>
+<p> making billions from making kids ill </p>
+<p> McD don't lassoe children in the street and drag them in you know - parents are responsible for what their children eat. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 4 </p>
+<p> ) </p>
+<p> Responses (1) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> Summerhead </p>
+<p> 11 January 2012 4:51PM </p>
+<p> Is there any particular reason why The Guardian newspaper is giving free advertising to McDonald's and HarperCollins? This article reads like a press release. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 2 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> Summerhead </p>
+<p> 11 January 2012 4:54PM </p>
+<p> Children should have free access to a wide variety of books at their local library except, oh dear, many are being closed down. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 2 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> olivierx </p>
+<p> 11 January 2012 5:01PM </p>
+<p> A) (flippant)Do we get to eat Warhorse Burger now ? </p>
+<p> B) (less so)Pretty brave man....the Makkie D brand is quite toxic to his habitual readers...hope he has a sutatble literary riposte up his sleeve for later..disenfranchised south american boy saves herd of undernourished cattle destined for reclaimed meat plant..almost a typical Morpurgo plot anyway </p>
+<p> C) (not flippant) Books instead of plastic toys..much better </p>
+<p> D) What about books for the older readers ? </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 1 </p>
+<p> ) </p>
+<p> Responses (1) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> pikeman </p>
+<p> 11 January 2012 5:11PM </p>
+<p> Response to </p>
+<p> olivierx, 11 January 2012 5:01PM </p>
+<p> olivierx </p>
+<p> 11 January 2012 5:01PM </p>
+<p> A) (flippant)Do we get to eat Warhorse Burger now ? </p>
+<p> B) (less so)Pretty brave man....the Makkie D brand is quite toxic to his habitual readers...hope he has a sutatble literary riposte up his sleeve for later..disenfranchised south american boy saves herd of undernourished cattle destined for reclaimed meat plant..almost a typical Morpurgo plot anyway </p>
+<p> C) (not flippant) Books instead of plastic toys..much better </p>
+<p> D) What about books for the older readers ? </p>
+<p> Not so sure about B). </p>
+<p> The McD brand may be toxic to (some of) his habitual readers </p>
+<p> parents </p>
+<p> but that doesn't make (say) "Waiting For Anya" a bad book - his curent buyers will continue to buy. </p>
+<p> He may open up a whole new market for his books amongst the "fat and stupid" that (according to cif) are the only people who ever go into McDonalds. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 0 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> opticus </p>
+<p> 11 January 2012 5:12PM </p>
+<p> Puts a new meaning on the idea of Readers Digest. </p>
+<p> Anyway it will backfire as likely to put some kids off reading altogether. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 0 </p>
+<p> ) </p>
+<p> Responses (1) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> multitaskmaster </p>
+<p> 11 January 2012 6:17PM </p>
+<p> The more kids that have books and get into reading the better as it's a key skill in order to discover and understand the world. The more that kids discover and understand the world the less likely they'll be to eat McDonald's. Brilliant. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 3 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> gorillainexile </p>
+<p> 11 January 2012 6:43PM </p>
+<p> Although my Grandmother was Scottish and related to the name ,not the Brand. </p>
+<p> i thought i have had seen lots of Marketing Subterfuges.This one is quite Obvious. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 5 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> Carnegie1 </p>
+<p> 11 January 2012 9:53PM </p>
+<p> Good idea. </p>
+<p> They should also have free Big Macs with book sales in WH Smith. </p>
+<p> And free anti-depressants with Dan Brown novels... </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 0 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> Deanrizzetti </p>
+<p> 12 January 2012 12:09AM </p>
+<p> Response to </p>
+<p> opticus, 11 January 2012 5:12PM </p>
+<p> How so? Why would getting a free book put off you off reading when you might have adopted it otherwise? </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 0 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> Marquest1 </p>
+<p> 12 January 2012 12:54AM </p>
+<p> Response to </p>
+<p> pikeman, 11 January 2012 4:42PM </p>
+<p> McD don't lassoe children in the street and drag them in you know - parents are responsible for what their children eat. </p>
+<p> True, I suppose, but... </p>
+<p> Look, I'm pro-free market, and like nothing better than to mock nanny-state numpties from the left, but on this topic, I'm forced to concede they have a point. </p>
+<p> McDonalds consistently and deliberately market their vile trash at children - they are utterly devoid of any corporate responsibility or ethics. </p>
+<p> We do not allow alcohol or tobacco companies to market to kids (despite the fact that kids would not be able to afford to buy their product), I don't think there is a material difference in this case...indeed, a glass of red wine per day is much healthier for an adult  than a Big Mac. </p>
+<p> How I detest this company. Everything about them is utterly contemptible. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 0 </p>
+<p> ) </p>
+<p> Responses (1) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> Carnegie1 </p>
+<p> 12 January 2012 1:38AM </p>
+<p> Response to </p>
+<p> Marquest1, 12 January 2012 12:54AM </p>
+<p> Except McFlurrys. They're lush! </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 2 </p>
+<p> ) </p>
+<p> Responses (1) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> MichaelRosen </p>
+<p> 12 January 2012 1:42AM </p>
+<p> Martian landed in our high street. </p>
+<p> Asked what the empty building was. </p>
+<p> That used to be a library, said someone. </p>
+<p> What's a library? says the Martian. </p>
+<p> It's a place where you could go in and get books for free, says the person. </p>
+<p> And what's that? says the Martian. </p>
+<p> That's Macdonald's. said the person. </p>
+<p> What's Macdonald's, says the Martian. </p>
+<p> It's a place where you can go in and buy hamburgers and stuff, says the person. But, there are people there getting books for free, says the Martian, you must be wrong about it being this Macdonald's thing, it must be a library. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 1 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> RooftopDweller </p>
+<p> 12 January 2012 9:30AM </p>
+<p> Kind of brings this to mind: </p>
+<p> www.youtube.com/watch?v=bQuJ9P1lgB4 </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 0 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> smallwordsplease </p>
+<p> 12 January 2012 10:09AM </p>
+<p> One in three children don't own a book. </p>
+<p> They aren't going to go to McDonald's to get a book, they're going to go anyway. </p>
+<p> Michael Morpurgo can selll his books without this, but what Michael Morpurgo can't do is sell his, or anybody else's, books to the one in three children who don't own a book. </p>
+<p> One in three children don't own a book, people! </p>
+<p> One in every three children in this country do not have a book to call their own.  That's appalling and should be stopped.  The only way to stop it is by giving them books, and not in a way where they, or their parents, have to modify their behaviour to get the books, but to take the books to where they are anyway and give them the books there. </p>
+<p> One in three children! </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 1 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> smallwordsplease </p>
+<p> 12 January 2012 10:11AM </p>
+<p> Response to </p>
+<p> judierudie, 11 January 2012 4:23PM </p>
+<p> Anything beginning with M gets a certain section of the Guardian readership frothing at the mouth... </p>
+<p> Marmite? </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 0 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> pikeman </p>
+<p> 12 January 2012 10:14AM </p>
+<p> Response to </p>
+<p> Carnegie1, 12 January 2012 1:38AM </p>
+<p> ....and the sausag and egg mcmuffins in th morning I love them! </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 0 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> pikeman </p>
+<p> 12 January 2012 10:18AM </p>
+<p> smallwordsplease </p>
+<p> 12 January 2012 10:09AM </p>
+<p> One in three children don't own a book </p>
+<p> I don't blieve that statistic. </p>
+<p> Not in the sesne "isn't it awful!" - in the literal sense that I do not believe it to be true. </p>
+<p> (I also don't believe the one in three kids are obese statistic - becasue BMI says I am obe4se, and although I could stand losing half a stone I am not obese!) </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 0 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> TonyLeMesma </p>
+<p> 12 January 2012 11:24AM </p>
+<p> Response to </p>
+<p> pinkrobbo, 11 January 2012 1:25PM </p>
+<p> I don't think for a second that they don't see a greasy dollar sign slapped on each book (companies try to make as much money - ohh the shock horror)  My point was clearly if a kid has a book rather than a toy, that's good right? </p>
+<p> And thanks for the snipey comment.  Definitely necessary. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 0 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> pinkrobbo </p>
+<p> 12 January 2012 1:52PM </p>
+<p> Pikeman- </p>
+<p> The point about Morgurgo's inane books is not so much the realism, or otherwise, of their tedious Mufty Mofty Fluffy Farm stuff, but the fact of MacDonald's using them as a cynical propaganda tool to continue the general complacency (shared by pretty much all the comments on this site) about the reality of where the muck that families stuff into their kid's faces actually comes from, and who and what suffers for it. </p>
+<p> I personally love tales of cute, cuddly speculative bankers and their generous presents to all the unwashed trolls, but I wouldn't be so keen if they were given to my offspring by Barclay's. </p>
+<p> And can anyone explain why parents shoulder not just some, but all of the blame for the rubbish their children eat, when MacD spend billions  each year devising ever more ruthless ways (including this one) of persuading these kids to embark on a lifetime of steroidal nugget munching? </p>
+<p> I try to prevent my kids smoking, but I think I would be justifyably miffed if Phillip Morris targeted their marketing directly at them. You would no doubt think that was part of the cut and thrust of marketing, and if the little scamps developed a 60 a day habit by the age of seven, the fag companies had nothing whatsoever to do with it. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 0 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> Sign in to comment </p>
+<p> or </p>
+<p> create your Guardian account </p>
+<p> to join the conversation </p>
+<p> jQ(document).ready(function(){ 	// check jQuery UI hasn't been loaded in by a microapp. short-term fix. 	if (!jQuery.ui) { 	  	jQ.getScript('http://resource.guim.co.uk/discussion/static/1777/jquery-ui-1.7.3.custom.min.js'); 	} }); </p>
+<p> function fix_domain_for_careers(url){ 		var re, fixed_url; 		var careers_length = "careers".length; 		 		if (window.location.host.substr(0, careers_length) === "careers") { 			re = /http:\/\/www\./; 		    fixed_url = url.replace(re, "http://careers."); 		} else { 			re = /http:\/\/careers\./; 		    fixed_url = url.replace(re, "http://www."); 		} 		 		return fixed_url; 	} 	 	jQ(function() {         fixPluckCommentUrl('http://www.guardian.co.uk/discussion/api/resolvePluckCommentKey?pluck-comment-keys=&amp;callback='); 		var loading_box = jQ("<div class='report-form-loading'>Loading</div>");          jQ('a.report-abuse:not(.no-abuse-popup)').live('click', function(ev) { 			ev.preventDefault();  			loading_box.dialog({ 				title: "Abuse report", 				draggable: false, 				modal: true, 				width: 400, 				minHeight: 320, 				resizable: false, 				beforeclose: function(event, ui) { 					var readOnly = jQ('.report-abuse-ajax-readonly').length; 					if(readOnly == 1) return true;  					var reason = jQ('.report-abuse-ajax-form textarea#id_reason').val(); 					var thanksPage = jQ('.report-form-loading p[data-abuse-report-accepted-for-comment]').length; 					if (thanksPage == 0) { 					    thanksPage = jQ('.report-form-loading p[data-abuse-report-accepted-for-profile]').length; 					} 					if(thanksPage == 0) { 						if(reason == 0) { 							return true; 						} else { 							return confirm("Closing this window without pressing \"Report\" will result in your words being lost. Are you sure?"); 						} 					} 					else { 						return true; 					} 		        }, 				close: function(ev, ui) { loading_box.remove(); } 			}); 			 			abuse_report_url = this.href.replace('report-abuse', 'report-abuse-ajax');			 			abuse_report_url = fix_domain_for_careers(abuse_report_url); 			 			jQ.ajax({               url: abuse_report_url,               success: function(data){                   loading_box.html(data);               }             }); 		});  		jQ('body').delegate('.report-abuse-ajax-form form', 'submit', function(ev) { 			ev.preventDefault(); 			var form = jQ(this); 			var url = fix_domain_for_careers(form.attr('action')); 			jQ.post(url, form.serialize(), function(html) { 				form.parents('.ui-dialog-content').html(html); 				// Has the abuse report been accepted? 				var el = jQ(html); 				var comment_id = el.attr('data-abuse-report-accepted-for-comment'); 				var profile_id = el.attr('data-abuse-report-accepted-for-profile'); 				if (comment_id) { 					jQ('ul#comment-' + comment_id).find('li.abuse-report').remove(); 				} else if (profile_id) { 				    jQ('p.report-abuse').remove(); 				} 				var is_successful_submission = (comment_id || profile_id); 				if (is_successful_submission) { 					 					if(guardian.r2.omniture.isAvailable()) { 						// track with omniture 						s.linkTrackVars = 'events,eVar37'; 			        	s.linkTrackEvents = 'event37'; 			    		s.eVar37 = 'Comment:Report Abuse'; 			        	s.events = 'event37'; 			            s.tl(true, 'o', 'Comment report abuse'); 					} 					 				    window.setTimeout(function() { 					    loading_box.dialog("close"); 				    }, 3000); 				} 			}); 		}); 		 	    //make sure submit button is enabled onReady. 	    jQ('#newcommenting-form input[type=submit]' ).removeAttr('disabled');      	var newFormURL = window.location.protocol + '//' + window.location.host + window.location.pathname + '?#post-area';     	jQ('div#login-container form.post-your-comments').attr('action', newFormURL);      	jQ('div#signup-container input').click(function(){     		urlStack.clearUrlStack();     		urlStack.pushUrlOntoStack(newFormURL);     		document.location = 'http://users.guardian.co.uk/signup/tr/1,,-720,00.html';     	});           	    jQ('.recomended').show();          jQ('#newcommenting-form').submit(function(){             jQ('input[type=submit]', this).attr('disabled', 'disabled');         }); 	}); //end jQ ready  	function openAbuseBox(commentId) { 		jQ("#abuse-report-comment-id").val(commentId); 		var loading_box = jQ('<div class="report-form-loading">Loading</div>'); 		loading_box.dialog({ 			title:"Abuse report", 			draggable: false, 			modal:true, 			width:400, 			minHeight:320, 			resizable: false, 			beforeclose: function(event, ui) { 				var reason = jQ('textarea#id_reason').val(); 				if (reason != "") { 					return confirm("Closing this window without pressing \"Report\" will result in your words being lost. Are you sure?"); 				} else { 					return true; 				} 			} 		}); 	}  	function recommendComment(commentId) { 	    var post_url = "http://www.guardian.co.uk/discussion/handlers/recommendComment";	     	    post_url = fix_domain_for_careers(post_url); 	     		jQ.post(post_url, { comment_id: commentId }, function(data) { 			if (data == "OK") { 				var span = jQ("#recommended-count-" + commentId); 				span.prev('a').contents().unwrap(); 				span.text(parseInt(span.text(), 10)+1); 			} 			else { 				var span = jQ("#recommended-count-" + commentId); 				span.prev('a').contents().unwrap(); 			} 		}); 	} </p>
+<p> .book-canonical .four-col.booksearch form {     margin-top: 10px; } .book-canonical .four-col.booksearch input.booksearchterm {     width: 215px;     margin-bottom: 5px; } </p>
+<p> Find books to review, discuss, buy </p>
+<p> Search all (title, author or ISBN) </p>
+<p> Title only </p>
+<p> Author only </p>
+<p> .m-guardianbookshop .rank { float: left; margin-left: -15px; } 	.m-guardianbookshop .thumb .rank { margin-left: 0; } 	.m-guardianbookshop h4 { border-top: none !important; font-weight: bold; margin-left: 5px !important; padding: 5px 0 8px 0 !important; } 	.m-guardianbookshop .bestsellers { background-color: #fff; padding-bottom: 17px;} 	.m-guardianbookshop ol { padding: 0 5px; } 	.m-guardianbookshop .l1 { clear: both; padding-left: 15px; } 	.m-guardianbookshop .thumb { padding-left: 0; } 	.m-guardianbookshop .thumb img { float: left; margin: 2px 10px 9px 0;} 	.m-guardianbookshop .price { display: inline; } 	.m-guardianbookshop .thumb .price { display: block; } 	.m-guardianbookshop .rank, .m-guardianbookshop .book-title { font-weight: bold; } 	.m-guardianbookshop input { border: 1px solid #999; width: 75%; min-height: 16px; margin-top: 8px; padding: 3px 2px;} </p>
+<p> This week's bestsellers </p>
+<p> 1. </p>
+<p> Bigger Message </p>
+<p> by Martin Gayford </p>
+<p> £18.95 </p>
+<p> 2. </p>
+<p> Stop What You're Doing and Read This! </p>
+<p> £4.99 </p>
+<p> 3. </p>
+<p> Send Up the Clowns </p>
+<p> by Simon Hoggart </p>
+<p> £8.99 </p>
+<p> 4. </p>
+<p> Why It's Kicking Off Everywhere </p>
+<p> by Paul Mason </p>
+<p> £14.99 </p>
+<p> 5. </p>
+<p> Very Short History of Western Thought </p>
+<p> by Stephen Trombley </p>
+<p> £14.99 </p>
+<p> Search the Guardian bookshop </p>
+<p> Search </p>
+<p> .m-zeitgeist .bd { float: left } /* for the IE6 lols */   .m-zeitgeist .hd { padding-bottom: 0px; margin-bottom: -12px}   .m-zeitgeist .hd h2 { padding-bottom: 12px; }   .m-zeitgeist #att-panes { background-color: #fff; float: left; } 	.m-zeitgeist .att-toggle-pane { min-width:280px; }   .m-zeitgeist ol { padding: 0 5px; }   .m-zeitgeist #most-zeitgeist ol { padding-left: 0; }   .m-zeitgeist .zg-date { color: #D61D00; padding-left:5px; padding-top: 5px; }   .m-zeitgeist ol li { clear: both; padding-left: 15px; }   .m-zeitgeist div#att-most-viewed ol li.l1,   .m-zeitgeist div#att-latest ol li.l1 { padding-bottom: 9px !important; }   .m-zeitgeist ol li.footer { clear: both; padding-left: 0px !important; padding-top: 5px !important; }   .m-zeitgeist .rank { float: left; margin-left: -15px; }   .m-zeitgeist .kicker { font-weight: bold; }   .m-zeitgeist ol li.thumb { padding-left: 0; }   .m-zeitgeist ol li.thumb .rank { margin-left: 0; }   .m-zeitgeist ol li img { float: left; margin: 0 10px 3px 0; }      .m-zeitgeist #most-zeitgeist ol li { border-top: none; padding: 0; border-top: none; }     .m-zeitgeist #most-zeitgeist ol li .zeit-link {background-color: #fff; padding: 5px 0 9px 5px; border-top: 1px dotted #999; margin-bottom: 0px;  }     .m-zeitgeist #most-zeitgeist ol li.footer { border-top:1px dotted #999; padding: 5px 0 9px 10px; margin-left: 5px }     .m-zeitgeist #most-zeitgeist .m-zeigeist ol { padding-left: 0}      /* zeit-up */   .m-zeitgeist #most-zeitgeist .what-is { float: none; padding: 0 3px; vertical-align: middle; cursor: pointer; }   .about-zeit { position: relative; }   .zeit-popup { position: absolute; display: none; background-color: #dbedf3; color: #333; padding: 6px; width: 200px; }      .fade-1 { border-left: 5px solid #D1008B !important;} .fade-2 { border-left: 5px solid #D82A9E !important;} .fade-3 { border-left: 5px solid #DF54B1 !important;} .fade-4 { border-left: 5px solid #E67EC4 !important;} .fade-5 { border-left: 5px solid #EDA8D7 !important;}  .m-zeitgeist div.hd { padding-bottom: 0; } .m-zeitgeist.most-viewed div.hd { padding-bottom: 7px; } </p>
+<p> jQ(function($){$('.about-zeit').each(function(){var distance=-10;var time=250;var hideDelay=500;var hideDelayTimer=null;var beingShown=false;var shown=false;var trigger=$('.what-is',this);var info=$('.zeit-popup',this).css('opacity',0);$([trigger.get(0),info.get(0)]).mouseover(function(){if(hideDelayTimer)clearTimeout(hideDelayTimer);if(beingShown||shown){return;}else{beingShown=true;info.css({top:-97,right:0,display:'block'}).animate({top:'-='+distance+'px',opacity:1},time,'swing',function(){beingShown=false;shown=true;});}return false;}).mouseout(function(){if(hideDelayTimer)clearTimeout(hideDelayTimer);hideDelayTimer=setTimeout(function(){hideDelayTimer=null;info.animate({top:'-='+distance+'px',opacity:0},time,'swing',function(){shown=false;info.css('display','none');});},hideDelay);return false;});});}); </p>
+<p> On Books </p>
+<p> Most viewed </p>
+<p> Zeitgeist </p>
+<p> Latest </p>
+<p> Last 24 hours </p>
+<p> 1. </p>
+<p> Dean Atta: meet the iPhone poet </p>
+<p> 2. </p>
+<p> Shelf live: stop-motion splendour </p>
+<p> 3. </p>
+<p> John Naughton's top 10 books about the internet </p>
+<p> 4. </p>
+<p> The Art of Fielding by Chad Harbach – review </p>
+<p> 5. </p>
+<p> 'Stephen Lawrence' by Carol Ann Duffy </p>
+<p> More most viewed </p>
+<p> Last 24 hours </p>
+<p> Man Asian literary prize shortlist 2011 – in pictures </p>
+<p> Dean Atta: meet the iPhone poet </p>
+<p> The Art of Fielding by Chad Harbach – review </p>
+<p> Religion for Atheists by Alain de Botton - review </p>
+<p> French Children Don't Throw Food by Pamela Druckerman – review </p>
+<p> More zeitgeist </p>
+<p> What is Zeitgeist? </p>
+<p> Zeitgeist is an experiment in showing trending news, topics and articles from the Guardian. Find out more in </p>
+<p> our blog post </p>
+<p> . </p>
+<p> Last 24 hours </p>
+<p> 1. </p>
+<p> Spielberg gives War Horse author Michael Morpurgo a chance to live his dream </p>
+<p> 2. </p>
+<p> Selfridges to open in-store library </p>
+<p> 3. </p>
+<p> The Doors of Perception: How was your trip? </p>
+<p> 4. </p>
+<p> French Children Don't Throw Food by Pamela Druckerman – review </p>
+<p> 5. </p>
+<p> Man Asian literary prize shortlist 2011 – in pictures </p>
+<p> All today's stories </p>
+<p> Guardian Books on Twitter </p>
+<p> Latest news and views from the Guardian's books team </p>
+<p> paullaity: </p>
+<p> Religion for Atheists by Alain de Botton - 'banal', 'impudent' says Terry Eagleton </p>
+<p> http://t.co/GHg9UK5u </p>
+<p> #books </p>
+<p> about 2 hours, 17 minutes ago </p>
+<p> GuardianBooks: </p>
+<p> Your comments:'I'll 3rd Neuromancer.A novel that didn't so much prophesy the internet as shape its development' </p>
+<p> http://t.co/2nXb9ydL </p>
+<p> #books </p>
+<p> about 4 hours, 17 minutes ago </p>
+<p> paullaity: </p>
+<p> Why French parents are better at bringing up children than we are. (They pander less.) review of P Druckerman </p>
+<p> http://t.co/NGDXs4rk </p>
+<p> #books </p>
+<p> about 21 hours, 59 minutes ago </p>
+<p> • </p>
+<p> Find more tweets from our books team </p>
+<p> • </p>
+<p> Follow our books team on a Twitter list </p>
+<p> .g-tickets img{float:left;margin-right:10px;}         .g-tickets li{margin-top:10px;}         .g-tickets li p,.g-tickets li form,.g-tickets .book-link{margin-left:70px;}         .g-tickets .event-name{border-top:1px dotted #999;width:210px;padding-top:5px;font-weight:700;}         .g-tickets.component .event-name{width:229px;}         .g-tickets .book-link{margin-top:3px;}         .g-tickets .strapline{margin: 0px 0 20px;}         .g-tickets.component .find-tickets{width:300px;}         .g-tickets .find-tickets{border-top:1px dotted #999;margin-top:20px;padding-top:5px;float:left;width:100%;}         .g-tickets .search-tickets{display:block;}         .g-tickets .find-tickets input{margin:20px 0;}         .g-tickets li,.g-tickets .browse-tickets{float:left;}         .news-grid .g-tickets .hd{margin-bottom:0;min-height:18px;width:300px;padding-bottom:0;}         .news-grid .g-tickets .bd{float:left;background-color:#ededed;width:290px;padding:0 5px 20px;}         .news-grid .g-tickets .strapline{margin-bottom:10px;margin-top:0;}         .news-grid .g-tickets .event-name{width:219px;}         .news-grid .g-tickets .browse-tickets{width:100%;}         .news-grid .g-tickets{overflow:hidden;} </p>
+<p> Buy tickets for top music events </p>
+<p> Compare and buy tickets for thousands of events </p>
+<p> Drake </p>
+<p> Monday, 26 Mar, 2012 </p>
+<p> O2 Arena - London </p>
+<p> Andrea Bocelli </p>
+<p> Thursday, 8 Nov, 2012 </p>
+<p> Odyssey Arena - Belfast </p>
+<p> Miles Kane </p>
+<p> Friday, 20 Apr, 2012 </p>
+<p> Rock City - Nottingham </p>
+<p> Tickets to more music events </p>
+<p> Browse tickets </p>
+<p> jQ('div.g-tickets form.find-tickets').submit(function(){                 var submitUrl = 'http://www.guardiantickets.co.uk/search/' + encodeURI(jQ('#search-query').val())                 document.location.href= submitUrl;                 return false;                                                 }); </p>
+<p> Latest books added to lists | guardian.co.uk </p>
+<p> // define some global vars     ensurePackage("userLists");     userLists.getProfileURL = 'http://resource.guim.co.uk/discussion/api/getProfiles.json';     userLists.getProfileRatingsURL = 'http://resource.guim.co.uk/discussion/api/getProfileRatings.json';     userLists.loggedInUserName = '';                           userLists.recentlyAddedListTypeSingular="book";             userLists.recentlyAddedListTypePlural="books"; </p>
+<p> div.promo-component div.user-list-roundup { 		background: none; 		margin: 0; 	} </p>
+<p> Latest books added to lists </p>
+<p> Added by </p>
+<p> trenamzeo </p>
+<p> 11 January 2012 12:44PM </p>
+<p> Come on In!: New Poems </p>
+<p> by </p>
+<p> Charles Bukowski </p>
+<p> List: </p>
+<p> To read </p>
+<p> Take a look at the other books on this list </p>
+<p> Added by </p>
+<p> BernadetteJODH </p>
+<p> 10 January 2012 07:28PM </p>
+<p> Angel </p>
+<p> by </p>
+<p> Arnold Jansen op de Haar </p>
+<p> List: </p>
+<p> Favourite books </p>
+<p> Take a look at the other books on this list </p>
+<p> Find more book lists from our users </p>
+<p> Have your manuscript read </p>
+<p> The Guardian recommends TLC, the UK's leading manuscript assessment service, providing editorial appraisals to writers at all levels. </p>
+<p> Find out more </p>
+<p> Get expert advice to improve your writing </p>
+<p> Latest reviews </p>
+<p> The Double Shadow by Sally Gardner – review </p>
+<p> Mary Hoffman </p>
+<p> on an unusual novel that introduces a thrilling new voice </p>
+<p> Why It's Kicking Off Everywhere by Paul Mason – review </p>
+<p> Religion for Atheists by Alain de Botton - review </p>
+<p> The Art of Fielding by Chad Harbach – review </p>
+<p> Duke Ellington's America by Harvey G Cohen - review </p>
+<p> More books reviews </p>
+<p> .soulmates-search { 	padding-bottom: 10px; } .soulmates-search h3 img { 	padding-bottom: 2px; }  .soulmates-search form { 	margin-top: 5px; } .soulmates-search li { 	padding-bottom: 5px; } .soulmates-search label { 	clear: left; 	display: block; 	float: left; 	width: 70px; }  .soulmates-search label.cont { 	clear: none; 	display: inline; 	float: none; 	padding: 0 5px; 	width: auto; }  .soulmates-search button { 	display: block; 	margin: 5px auto 0; } </p>
+<p> Search Soulmates profiles and find a date today </p>
+<p> I am a </p>
+<p> Woman </p>
+<p> Man </p>
+<p> Seeking </p>
+<p> Women </p>
+<p> Men </p>
+<p> Men & Women </p>
+<p> Aged </p>
+<p> 18 </p>
+<p> 19 </p>
+<p> 20 </p>
+<p> 21 </p>
+<p> 22 </p>
+<p> 23 </p>
+<p> 24 </p>
+<p> 25 </p>
+<p> 26 </p>
+<p> 27 </p>
+<p> 28 </p>
+<p> 29 </p>
+<p> 30 </p>
+<p> 31 </p>
+<p> 32 </p>
+<p> 33 </p>
+<p> 34 </p>
+<p> 35 </p>
+<p> 36 </p>
+<p> 37 </p>
+<p> 38 </p>
+<p> 39 </p>
+<p> 40 </p>
+<p> 41 </p>
+<p> 42 </p>
+<p> 43 </p>
+<p> 44 </p>
+<p> 45 </p>
+<p> 46 </p>
+<p> 47 </p>
+<p> 48 </p>
+<p> 49 </p>
+<p> 50 </p>
+<p> 51 </p>
+<p> 52 </p>
+<p> 53 </p>
+<p> 54 </p>
+<p> 55 </p>
+<p> 56 </p>
+<p> 57 </p>
+<p> 58 </p>
+<p> 59 </p>
+<p> 60 </p>
+<p> 61 </p>
+<p> 62 </p>
+<p> 63 </p>
+<p> 64 </p>
+<p> 65 </p>
+<p> 66 </p>
+<p> 67 </p>
+<p> 68 </p>
+<p> 69 </p>
+<p> 70 </p>
+<p> 71 </p>
+<p> 72 </p>
+<p> 73 </p>
+<p> 74 </p>
+<p> 75 </p>
+<p> 76 </p>
+<p> 77 </p>
+<p> 78 </p>
+<p> 79 </p>
+<p> 80 </p>
+<p> 81 </p>
+<p> 82 </p>
+<p> 83 </p>
+<p> 84 </p>
+<p> 85 </p>
+<p> 86 </p>
+<p> 87 </p>
+<p> 88 </p>
+<p> 89 </p>
+<p> 90 </p>
+<p> 91 </p>
+<p> 92 </p>
+<p> 93 </p>
+<p> 94 </p>
+<p> 95 </p>
+<p> 96 </p>
+<p> 97 </p>
+<p> 98 </p>
+<p> 99 </p>
+<p> 100 </p>
+<p> to </p>
+<p> 18 </p>
+<p> 19 </p>
+<p> 20 </p>
+<p> 21 </p>
+<p> 22 </p>
+<p> 23 </p>
+<p> 24 </p>
+<p> 25 </p>
+<p> 26 </p>
+<p> 27 </p>
+<p> 28 </p>
+<p> 29 </p>
+<p> 30 </p>
+<p> 31 </p>
+<p> 32 </p>
+<p> 33 </p>
+<p> 34 </p>
+<p> 35 </p>
+<p> 36 </p>
+<p> 37 </p>
+<p> 38 </p>
+<p> 39 </p>
+<p> 40 </p>
+<p> 41 </p>
+<p> 42 </p>
+<p> 43 </p>
+<p> 44 </p>
+<p> 45 </p>
+<p> 46 </p>
+<p> 47 </p>
+<p> 48 </p>
+<p> 49 </p>
+<p> 50 </p>
+<p> 51 </p>
+<p> 52 </p>
+<p> 53 </p>
+<p> 54 </p>
+<p> 55 </p>
+<p> 56 </p>
+<p> 57 </p>
+<p> 58 </p>
+<p> 59 </p>
+<p> 60 </p>
+<p> 61 </p>
+<p> 62 </p>
+<p> 63 </p>
+<p> 64 </p>
+<p> 65 </p>
+<p> 66 </p>
+<p> 67 </p>
+<p> 68 </p>
+<p> 69 </p>
+<p> 70 </p>
+<p> 71 </p>
+<p> 72 </p>
+<p> 73 </p>
+<p> 74 </p>
+<p> 75 </p>
+<p> 76 </p>
+<p> 77 </p>
+<p> 78 </p>
+<p> 79 </p>
+<p> 80 </p>
+<p> 81 </p>
+<p> 82 </p>
+<p> 83 </p>
+<p> 84 </p>
+<p> 85 </p>
+<p> 86 </p>
+<p> 87 </p>
+<p> 88 </p>
+<p> 89 </p>
+<p> 90 </p>
+<p> 91 </p>
+<p> 92 </p>
+<p> 93 </p>
+<p> 94 </p>
+<p> 95 </p>
+<p> 96 </p>
+<p> 97 </p>
+<p> 98 </p>
+<p> 99 </p>
+<p> 100 </p>
+<p> In </p>
+<p> Afghanistan </p>
+<p> Aland Islands </p>
+<p> Albania </p>
+<p> Algeria </p>
+<p> American Samoa </p>
+<p> Andorra </p>
+<p> Angola </p>
+<p> Anguilla </p>
+<p> Antarctica </p>
+<p> Antigua and Barbuda </p>
+<p> Argentina </p>
+<p> Armenia </p>
+<p> Aruba </p>
+<p> Australia </p>
+<p> Austria </p>
+<p> Bahrain </p>
+<p> Bangladesh </p>
+<p> Barbados </p>
+<p> Belarus </p>
+<p> Belgium </p>
+<p> Belize </p>
+<p> Benin </p>
+<p> Bermuda </p>
+<p> Bhutan </p>
+<p> Bolivia </p>
+<p> Bosnia and Herzegovina </p>
+<p> Botswana </p>
+<p> Bouvet Island </p>
+<p> Brazil </p>
+<p> British Virgin Islands </p>
+<p> Brunei </p>
+<p> Bulgaria </p>
+<p> Burkina Faso </p>
+<p> Burundi </p>
+<p> Cambodia </p>
+<p> Cameroon </p>
+<p> Canada </p>
+<p> Cape Verde </p>
+<p> Cayman Islands </p>
+<p> Central African Republic </p>
+<p> Chad </p>
+<p> Chile </p>
+<p> China </p>
+<p> Christmas Island </p>
+<p> Cocos (Keeling) Islands </p>
+<p> Colombia </p>
+<p> Comoros </p>
+<p> Congo </p>
+<p> Cook Islands </p>
+<p> Costa Rica </p>
+<p> Croatia </p>
+<p> Cuba </p>
+<p> Cyprus </p>
+<p> Czech Republic </p>
+<p> Democratic Republic of Congo </p>
+<p> Denmark </p>
+<p> Djibouti </p>
+<p> Dominica </p>
+<p> Dominican Republic </p>
+<p> East Timor </p>
+<p> Ecuador </p>
+<p> Egypt </p>
+<p> El Salvador </p>
+<p> Equatorial Guinea </p>
+<p> Eritrea </p>
+<p> Estonia </p>
+<p> Ethiopia </p>
+<p> Falkland Islands </p>
+<p> Faroe Islands </p>
+<p> Federated States of Micronesia </p>
+<p> Fiji </p>
+<p> Finland </p>
+<p> France </p>
+<p> French Guiana </p>
+<p> French Polynesia </p>
+<p> Gabon </p>
+<p> Georgia </p>
+<p> Germany </p>
+<p> Ghana </p>
+<p> Gibraltar </p>
+<p> Greece </p>
+<p> Greenland </p>
+<p> Grenada </p>
+<p> Guadeloupe </p>
+<p> Guam </p>
+<p> Guatemala </p>
+<p> Guinea </p>
+<p> Guinea-Bissau </p>
+<p> Guyana </p>
+<p> Haiti </p>
+<p> Heard Island and McDonald Islands </p>
+<p> Honduras </p>
+<p> Hong Kong </p>
+<p> Hungary </p>
+<p> Iceland </p>
+<p> India </p>
+<p> Indonesia </p>
+<p> Iran </p>
+<p> Iraq </p>
+<p> Ireland </p>
+<p> Israel </p>
+<p> Italy </p>
+<p> Ivory Coast </p>
+<p> Jamaica </p>
+<p> Japan </p>
+<p> Jordan </p>
+<p> Kazakhstan </p>
+<p> Kenya </p>
+<p> Kiribati </p>
+<p> Kuwait </p>
+<p> Kyrgyzstan </p>
+<p> Laos </p>
+<p> Latvia </p>
+<p> Lebanon </p>
+<p> Lesotho </p>
+<p> Liberia </p>
+<p> Libya </p>
+<p> Liechtenstein </p>
+<p> Lithuania </p>
+<p> Luxembourg </p>
+<p> Macau </p>
+<p> Macedonia </p>
+<p> Madagascar </p>
+<p> Malawi </p>
+<p> Malaysia </p>
+<p> Maldives </p>
+<p> Mali </p>
+<p> Malta </p>
+<p> Marshall Islands </p>
+<p> Martinique </p>
+<p> Mauritania </p>
+<p> Mauritius </p>
+<p> Mayotte </p>
+<p> Mexico </p>
+<p> Moldova </p>
+<p> Monaco </p>
+<p> Mongolia </p>
+<p> Montenegro </p>
+<p> Montserrat </p>
+<p> Morocco </p>
+<p> Mozambique </p>
+<p> Myanmar </p>
+<p> Namibia </p>
+<p> Nauru </p>
+<p> Nepal </p>
+<p> Netherlands </p>
+<p> Netherlands Antilles </p>
+<p> New Caledonia </p>
+<p> New Zealand </p>
+<p> Nicaragua </p>
+<p> Niger </p>
+<p> Nigeria </p>
+<p> Niue </p>
+<p> Norfolk Island </p>
+<p> North Korea </p>
+<p> Northern Mariana Islands </p>
+<p> Norway </p>
+<p> Oman </p>
+<p> Pakistan </p>
+<p> Palau </p>
+<p> Palestinian Occupied Territories </p>
+<p> Panama </p>
+<p> Papua New Guinea </p>
+<p> Paraguay </p>
+<p> Peru </p>
+<p> Philippines </p>
+<p> Pitcairn Islands </p>
+<p> Poland </p>
+<p> Portugal </p>
+<p> Puerto Rico </p>
+<p> Qatar </p>
+<p> Reunion </p>
+<p> Romania </p>
+<p> Russia </p>
+<p> Rwanda </p>
+<p> Saint Kitts and Nevis </p>
+<p> Saint Pierre and Miquelon </p>
+<p> Saint Vincent and the Grenadines </p>
+<p> Saint-Barthelemy </p>
+<p> Saint-Martin </p>
+<p> Samoa </p>
+<p> San Marino </p>
+<p> Sao Tome and Principe </p>
+<p> Saudi Arabia </p>
+<p> Senegal </p>
+<p> Serbia </p>
+<p> Seychelles </p>
+<p> Sierra Leone </p>
+<p> Singapore </p>
+<p> Slovakia </p>
+<p> Slovenia </p>
+<p> Solomon Islands </p>
+<p> Somalia </p>
+<p> South Africa </p>
+<p> South Georgia and the South Sandwich Islands </p>
+<p> South Korea </p>
+<p> Spain </p>
+<p> Spratly Islands </p>
+<p> Sri Lanka </p>
+<p> St Helena Ascension and Tristan da Cunha </p>
+<p> St. Lucia </p>
+<p> Sudan </p>
+<p> Suriname </p>
+<p> Svalbard and Jan Mayen </p>
+<p> Swaziland </p>
+<p> Sweden </p>
+<p> Switzerland </p>
+<p> Syria </p>
+<p> Taiwan </p>
+<p> Tajikistan </p>
+<p> Tanzania </p>
+<p> Thailand </p>
+<p> The Bahamas </p>
+<p> The Gambia </p>
+<p> Togo </p>
+<p> Tokelau </p>
+<p> Tonga </p>
+<p> Trinidad and Tobago </p>
+<p> Tunisia </p>
+<p> Turkey </p>
+<p> Turkmenistan </p>
+<p> Turks and Caicos Islands </p>
+<p> Tuvalu </p>
+<p> US Virgin Islands </p>
+<p> Uganda </p>
+<p> Ukraine </p>
+<p> United Arab Emirates </p>
+<p> United Kingdom </p>
+<p> United States </p>
+<p> Uruguay </p>
+<p> Uzbekistan </p>
+<p> Vanuatu </p>
+<p> Vatican City </p>
+<p> Venezuela </p>
+<p> Vietnam </p>
+<p> Wallis and Futuna </p>
+<p> Western Sahara </p>
+<p> Yemen </p>
+<p> Zambia </p>
+<p> Zimbabwe </p>
+<p> Within </p>
+<p> 5 miles </p>
+<p> 10 miles </p>
+<p> 20 miles </p>
+<p> 40 miles </p>
+<p> 60 miles </p>
+<p> 100 miles </p>
+<p> 200 miles </p>
+<p> 300 miles </p>
+<p> Of </p>
+<p> Search </p>
+<p> Bestsellers from the Guardian shop </p>
+<p> Unisex all weather waterproof boots </p>
+<p> Unisex waterproof boots, wonderfully warm, cosy, and comfortable. </p>
+<p> From: £29.99 </p>
+<p> Visit the Guardian reader offers shop </p>
+<p> See all offers and services from the Guardian </p>
+<p> Sponsored feature </p>
+<p> function showSponsoredFeaturex31(){                     if (window.sponJSON) {                         if(typeof(sponJSON) === 'object') {                           adx31 = sponJSON;                           var node = jQ('.json-features.x31');                           convertJSONtoAd(                               node.find('img:first-child'),                               node.find('a.t6'),                               node.find('p:last-child'),                               adx31,                               node.find('.hd').children().eq(0),                               'x31'                           );                         }                     }                 }                                  jQ(document).ready(function(){                     jQ('.x31-script-placeholder').writeCapture().replaceWith('<script>showSponsoredFeaturex31()<' + '/script>')                 }) </p>
+<p> Find the latest jobs in your sector: </p>
+<p> Arts & heritage </p>
+<p> Charities </p>
+<p> Education </p>
+<p> Environment </p>
+<p> Government </p>
+<p> Graduate </p>
+<p> Health </p>
+<p> Marketing & PR </p>
+<p> Media </p>
+<p> Sales </p>
+<p> Senior executive </p>
+<p> Social care </p>
+<p> Browse all jobs </p>
+<p> European PR Campaign Coordinator </p>
+<p> St. Pancras, London or Boston Spa, Yorkshire | £37,561 - £43,623 (St Pancras), £34,391 - £39,743 (Boston Spa) </p>
+<p> BRITISH LIBRARY </p>
+<p> Related information </p>
+<p> Books </p>
+<p> Children and teenagers </p>
+<p> Society </p>
+<p> Children </p>
+<p> Culture </p>
+<p> Business </p>
+<p> McDonald's </p>
+<p> · </p>
+<p> Food & drink industry </p>
+<p> McDonald's to move European head office to Switzerland </p>
+<p> 13 Jul 2009 </p>
+<p> US fast-food chain is latest company to quit the UK for a more favourable tax regime overseas </p>
+<p> 25 Nov 2011 </p>
+<p> I'm leaving it: McDonald's quits Rochdale's ailing town centre </p>
+<p> 15 Sep 2010 </p>
+<p> McDonald's under fire: are shock TV ads fair? </p>
+<p> 23 Apr 2008 </p>
+<p> McCouture: Bruce Oldfield revamps Big Mac outfits </p>
+<p> 24 May 2007 </p>
+<p> Fast food chain wants rewrite of 'insulting' McJob entry in OED </p>
+<p> McDonald's aims to jump on War Horse bandwagon </p>
+<p> 11 Jan 2012 </p>
+<p> Fast-food chain to give away millions of children's books by author Michael Morpurgo in Happy Meal campaign. By Mark Sweney </p>
+<p> Hot topics </p>
+<p> Book news </p>
+<p> Book reviews </p>
+<p> Children's books </p>
+<p> Pottermore </p>
+<p> License/buy our content </p>
+<p> | </p>
+<p> Privacy policy </p>
+<p> | </p>
+<p> Terms & conditions </p>
+<p> | </p>
+<p> Advertising guide </p>
+<p> | </p>
+<p> Accessibility </p>
+<p> | </p>
+<p> A-Z index </p>
+<p> | </p>
+<p> Inside the Guardian blog </p>
+<p> | </p>
+<p> About us </p>
+<p> | </p>
+<p> Work for us </p>
+<p> | </p>
+<p> Join our dating site today </p>
+<p> © 2012 Guardian News and Media Limited or its affiliated companies. All rights reserved. </p>
+<p> //<![CDATA[ 	if(true) { 		var s_account="guardiangu-books,guardiangu-network"; 		writeScript('http://static.guim.co.uk/static/534a025fbd5b6ca3cafea5df66abf4d49b01b6fd/common/scripts/omniture-H.22.4.js', false, function(){}); 	} 	//]]> </p>
+<p> //<![CDATA[ 	if(true) { 		if (false) { 		    s.pageName = document.title; 		} else { 			s.pageName="McDonald\'s to give away 9m Michael Morpurgo books with kids\' meals:Article:1686740"; 		} 		s.channel = "Books"; 		s.pageType=""; 		s.server='09'; 		s.prop2='GUID:(none)';  					s['prop3']="GU.co.uk"; 					s['prop4']="Children's and teenager's books (Children's books genre),Books,Culture,Children (Society),Society,McDonald's (business),Food and drink industry (Business sector),Business"; 					s['prop5']="Society Weekly,Business Markets,Not commercially useful,Children Society"; 					s['prop6']="Alison Flood"; 					s['prop7']="12-Jan-11"; 					s['prop8']="1686740"; 					s['prop9']="Article"; 					s['prop10']="News"; 					s['prop11']="Books"; 					s['prop13']=""; 					s['prop25']=""; 					s['prop30']="content"; 		 		s.hier2="GU/Books/Children and teenagers"; 		s.events=""; 		s.eVar23="";  		try { 			if (guardian.r2.OmnitureTrackingOverride) { 				new guardian.r2.OmnitureTrackingOverride(s); 			} 		} 		catch(err) { 		}          if(jQ.cookie("GU_OMNITURE") !== null) {             s.events = jQ.cookie("GU_OMNITURE");             jQ.cookie("GU_OMNITURE", null, { path: '/', domain: '.guardian.co.uk'});         }          var s_code=s.t();if(s_code)document.write(s_code); 	} 	//]]> </p>
+<p> var _qevents = _qevents || []; 		(function() { 			var elem = document.createElement('script');  			elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js"; 			elem.async = true; 			elem.type = "text/javascript"; 			var scpt = document.getElementsByTagName('script')[0]; 			scpt.parentNode.insertBefore(elem, scpt); 		})(); 		_qevents.push( { qacct:'p-73ktnlRTKQPTw', labels: 'books'} ); </p>
+<p> var qcResults = function (result) { 				for (var i = 0, len = result.segments.length; i < len; i++) { 					OAS_query += 'qc=' + result.segments[i].id + '&'; 				} 			} </p>
+<p> if (true) {     jQ(document).ready(function () {         jQ('a[data-cpt]').each(             function () {             jQ(this).click(                 function () {                 var cpId = jQ(this).attr('data-cpt').split("-")[1];                 var currentLink = jQ(this).attr('href');                  if (currentLink.indexOf('intcmp=') == -1) {                     if(currentLink.indexOf('?') == -1) {                         var separator = '?'                     } else {                         var separator = '&'                     }                      jQ(this).attr('href', currentLink + separator + "intcmp=" + cpId);                 }             });         });     }); } </p>
+<p> //<![CDATA[ 	if (false) {         // guardian.co.uk Connect Adprobe Tag, MPU [9814], Leaderboard [9815]         var wlOrd = new Date().getTime();         document.write('<scr' + 'ipt type="text/javascript" src="http://req.connect.wunderloop.net/AP/1566/5823/9815/js?cus=9815,9814&ord=' + wlOrd + '"></sc' + 'ript>'); 	} // ]]> </p>
+<p> //<![CDATA[ 	if (false) {         OAS_query += 'wl9815=' + wl9815camp + '&wl9814=' + wl9814camp + '&'; 	} // ]]> </p>
+<p> //<![CDATA[  	if(true) { 		ensurePackage("guardian.r2.revsci");  		guardian.r2.revsci.cookieDomain = '.guardian.co.uk'; 		guardian.r2.revsci.gu_geo_country = '(none)'; 		guardian.r2.revsci.siteName = 'Books'; 					guardian.r2.revsci.commercialFolder = 'Business+Markets' 				 		addEvent(null, 'load', function () { 			writeScript('http://js.revsci.net/gateway/gw.js?csid=E05516', true, function() { 				writeScript('http://static.guim.co.uk/static/534a025fbd5b6ca3cafea5df66abf4d49b01b6fd/common/scripts/revsci.js', true, function() { 					rs_initTracking(); 				}) 			}) 		}); 	}  	// ]]> </p>
+<p> //<![CDATA[ 											function OAS_NORMAL(pos) { 							document.write('<A HREF="' + OAS_url + 'click_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + pos + '!' + pos + '?' + OAS_query + '" TARGET=' + OAS_target + '>'); 							document.write('<IMG SRC="' + OAS_url + 'adstream_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + pos + '!' + pos + '?' + OAS_query + '" BORDER=0></A>'); 						}  						OAS_version = 11; 						if ((navigator.userAgent.indexOf('Mozilla/3') != -1) || (navigator.userAgent.indexOf('Mozilla/4.0 WebTV') != -1)) OAS_version = 10;                          if (true) {                             if (OAS_version >= 11) document.write('<scr' + 'ipt src="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/script>');                         }  						function OAS_AD(pos) {                             if (true) {                                 if (typeof(OAS_RICH) !== 'undefined' && OAS_version >= 11) {                                     OAS_RICH(pos);                                 } else {                                     OAS_NORMAL(pos);                                 }                             } 						} 					 				//]]> </p>
+<p> //<![CDATA[                 jQ('#ad-placeholder-Top').writeCapture().replaceWith('<script>OAS_AD("Top")<' + '/script>');                 //]]> </p>
+<p> jQ('#ad-temp-Top').hide(); </p>
+<p> //<![CDATA[                 jQ('#ad-placeholder-Middle2').writeCapture().replaceWith('<script>OAS_AD("Middle2")<' + '/script>');                 //]]> </p>
+<p> jQ('#ad-temp-Middle2').hide(); </p>
+<p> //<![CDATA[                 jQ('#ad-placeholder-Right1').writeCapture().replaceWith('<script>OAS_AD("Right1")<' + '/script>');                 //]]> </p>
+<p> jQ('#ad-temp-Right1').hide(); </p>
+<p> //<![CDATA[                 jQ('#ad-placeholder-x31').writeCapture().replaceWith('<script>OAS_AD("x31")<' + '/script>');                 //]]> </p>
+<p> jQ('#ad-temp-x31').hide(); </p>
+<p> ensurePackage('guardian.r2.omniture');   guardian.r2.omniture.trackComponents = true; </p>
+<p> //	<![CDATA[ 	if(true) {         var OAS_taxonomy='&Paneled_Site=guardian.co.uk&Paneled_Section=books'; 		jQ(document).ready(function(){ 			jQ.getScript('http://static.guim.co.uk/static/534a025fbd5b6ca3cafea5df66abf4d49b01b6fd/common/scripts/kantarmedia.js'); 		}); 	} 	// ]]> </p>
+<p> if(true) {         		jQ(function() { 		  if ('undefined' !== typeof MatchingEngine) { 		    MatchingEngine.logEvent('article', 'id=http://www.guardian.co.uk/books/2012/jan/11/mcdonalds-michael-morpurgo-books-kids-meals'); 		  } 		}); 	} </p>
+<p> if (true) {         var _sf_async_config = {};         /** CONFIGURATION START **/         _sf_async_config.uid = 30676;         _sf_async_config.domain = document.domain;         _sf_async_config.sections = 'Books';         _sf_async_config.authors = 'Alison Flood';         _sf_async_config.useCanonical = true;         /** CONFIGURATION END **/         (function() {             function loadChartbeat() {                 window._sf_endpt = (new Date()).getTime();                 var e = document.createElement('script');                 e.setAttribute('language', 'javascript');                 e.setAttribute('type', 'text/javascript');                 e.setAttribute('src',                         (('https:' == document.location.protocol) ? 'https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/' : 'http://static.chartbeat.com/') +                                 'js/chartbeat.js');                 document.body.appendChild(e);             }              var oldonload = window.onload;             window.onload = (typeof window.onload != 'function') ?                     loadChartbeat : function() {                 oldonload();                 loadChartbeat();             };         })();     } </p>

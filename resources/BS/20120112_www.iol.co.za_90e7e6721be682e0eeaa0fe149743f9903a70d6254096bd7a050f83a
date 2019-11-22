@@ -1,0 +1,222 @@
+<p> directToMobileSite(); </p>
+<p> Skin grafts on girl bitten by cobra a success - Gauteng | IOL News | IOL.co.za </p>
+<p> <!--     function MM_showHideLayers() { //v9.0       var i,p,v,obj,args=MM_showHideLayers.arguments;       for (i=0; i<(args.length-2); i+=3)        with (document) if (getElementById && ((obj=getElementById(args[i]))!=null)) { v=args[i+2];         if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v=='hide')?'hidden':v; }         obj.visibility=v; }      }     function MM_swapImgRestore() { //v3.0       var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;     }     function MM_preloadImages() { //v3.0       var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();         var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)         if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}     }          function MM_findObj(n, d) { //v4.01       var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {         d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}       if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];       for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);       if(!x && d.getElementById) x=d.getElementById(n); return x;     }          function MM_swapImage() { //v3.0       var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)        if ((x=MM_findObj(a[i]))!=null) 	   	{ 		document.MM_sr[j++]=x; 		if(!x.oSrc) x.oSrc=x.src; 		x.src=a[i+2]; 		}     }     //--> </p>
+<p> (function() {     var em = document.createElement('script'); em.type = 'text/javascript'; em.async = true;     em.src = ('https:' == document.location.protocol ? 'https://za-ssl' : 'http://za-cdn') + '.effectivemeasure.net/em.js';     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(em, s);   })(); </p>
+<p> <!--           document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|585|2736961|0|770|ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=12345;misc='+new Date().getTime()+'"></scri'+'pt>');           //--> </p>
+<p> Sponsored Links: </p>
+<p> IOL Travel </p>
+<p> Personal Finance </p>
+<p> IOL Lifestyle </p>
+<p> Motoring </p>
+<p> SciTech </p>
+<p> Tonight </p>
+<p> Myanmar ends 62-year ethnic conflict </p>
+<p> Doubt hangs over Arab mission in Syria </p>
+<p> Karzai condemns ‘desecration’ of bodies </p>
+<p> Pakistan fires defence secretary </p>
+<p> Court halts quick release of some pardoned </p>
+<p> Nelson Mandela </p>
+<p> IOL's special feature </p>
+<p> News </p>
+<p> Business </p>
+<p> Lifestyle </p>
+<p> Travel </p>
+<p> Sport </p>
+<p> Motoring </p>
+<p> Personal Finance </p>
+<p> Scitech </p>
+<p> Tonight </p>
+<p> SundayInd </p>
+<p> CapeTimes </p>
+<p> SaturdayStar </p>
+<p> TheStar </p>
+<p> PretoriaNews </p>
+<p> DailyNews </p>
+<p> Mercury </p>
+<p> Post </p>
+<p> Isolezwe </p>
+<p> Rugby </p>
+<p> All Channels </p>
+<p> Advanced Search </p>
+<p> Home </p>
+<p> News </p>
+<p> Business </p>
+<p> Sport </p>
+<p> Motoring </p>
+<p> Tonight </p>
+<p> Lifestyle </p>
+<p> Travel </p>
+<p> SciTech </p>
+<p> Blogs </p>
+<p> Newspapers </p>
+<p> IOL Shopper </p>
+<p> Classifieds </p>
+<p> Property </p>
+<p> Jobs </p>
+<p> Crime & Courts </p>
+<p> Politics </p>
+<p> South Africa </p>
+<p> Africa </p>
+<p> World </p>
+<p> Back Page </p>
+<p> Special Features </p>
+<p> Matric Results </p>
+<p> Class of 2011 </p>
+<p> Western Cape </p>
+<p> Gauteng </p>
+<p> Mpumalanga </p>
+<p> Limpopo </p>
+<p> Eastern Cape </p>
+<p> North West </p>
+<p> Northern Cape </p>
+<p> KwaZulu-Natal </p>
+<p> Free State </p>
+<p> Aids </p>
+<p> Julius Malema </p>
+<p> Nelson Mandela </p>
+<p> Zimbabwe </p>
+<p> Secrecy Bill </p>
+<p> ddtabmenu.definemenu("ddtabs3", 2) </p>
+<p> ddtabmenu.definemenu("home_navigation") </p>
+<p> function calcTime(city, offset) {        d = new Date();        utc = d.getTime() + (d.getTimezoneOffset() * 60000);            nd = new Date(utc + (3600000*offset));         document.write ("SA Time: " + nd.toLocaleString());  } </p>
+<p> <!--   calcTime("South Africa", "+2"); // --> </p>
+<p> Skin grafts on girl bitten by cobra a success </p>
+<p> January 12 2012 at 10:37am </p>
+<p> By YOLANDE DU PREEZ </p>
+<p> Comment on this story </p>
+<p> sxc.hu </p>
+<p> The five-year-old girl who was bitten by a Mozambican spitting cobra shortly before Christmas is well on her way to recovery. </p>
+<p> Skin grafts performed on the arm of a girl, 5, who was bitten by a Mozambican spitting cobra shortly before Christmas have been a success and she is well on her way to recovery. </p>
+<p> This is the word from Dr Kobie Marais, head of nursing at the Steve Biko Academic Hospital. </p>
+<p> Mikayla Robbertse, underwent surgery on her left arm on Tuesday last week. A team of plastic surgeons performed a split skin graft on her upper arm and then attached her hand to her groin in a procedure known as a “groin flap”. </p>
+<p> The healthy skin in her groin area assisted with skin growth and blood flow in her hand damaged by the snake’s poison which had spread through the tissue. </p>
+<p> “The skin on her upper arm is healing beautifully. In two weeks’ time we will know if the skin on her hand has taken successfully. </p>
+<p> “We are very confident that the procedure was a success,” Marais said. </p>
+<p> Mikayla’s grandmother, Charmaine Robbertse, said on Wednesday that Mikayla was back to her old self. </p>
+<p> “She is walking around, playing princess and colouring in. She is a real busy bee,” Robbertse said. </p>
+<p> Robbertse said Mikayla understood that she had to keep her arm as still as possible. “I’m trying to entertain her (with) DVDs on my laptop. Kung Fu Panda and Barbie are her favourites.” </p>
+<p> Mikayla’s grandfather Bertus will this weekend see her for the first time after her surgery. He had to return to their Lephalale farm last week. </p>
+<p> “He is so excited. He will not believe his eyes when he sees how well she is doing,” Robbertse said. </p>
+<p> Mikayla was bitten by a cobra on her hand and elbow on the family farm 8km outside Lephalale soon after going to bed on December 19. </p>
+<p> She was taken to the state hospital in Lephalale and treated with antivenom before being transferred to Steve Biko hospital. - Pretoria News </p>
+<p> Share | </p>
+<p> Facebook </p>
+<p> Twitter </p>
+<p> Google </p>
+<p> Yahoo </p>
+<p> Reddit </p>
+<p> del.icio.us </p>
+<p> email a friend </p>
+<p> If you want to email this page to more than one person, just put a semicolon ";" between the email addresses. </p>
+<p> Your name </p>
+<p> Your e-mail </p>
+<p> Recipient’s name </p>
+<p> Recipient’s e-mail </p>
+<p> Send me a copy as well </p>
+<p> Message </p>
+<p> $(document).ready(function() { 								    				$("#email_friend").fancybox({ 				'titlePosition'		: 'inside', 				'transitionIn'		: 'none', 				'transitionOut'		: 'none' 			});  	}); </p>
+<p> Rate this article </p>
+<p> 1 </p>
+<p> 2 </p>
+<p> 3 </p>
+<p> 4 </p>
+<p> 5 </p>
+<p> Average reader rating </p>
+<p> (0 votes) </p>
+<p> 0 Stars </p>
+<p> function OnRate(ratingsid, id, level, redirect) {	 		 		jQuery.getJSON('/ajax?action=rate&cookieSet=true&id='+id+'&level='+level, testVote); 	} 	 	function testVote(json) { 	 	    var level = parseInt(json);         var totalvotes = parseInt(0 + 1)         var ratingaverage = Math.round((0 + level)/totalvotes)                  var HTML = "<li class=avRating>"         HTML += "<ins>Average reader rating</ins>"         HTML += "<em>(" + totalvotes + " votes)</em>"         HTML += "<span class=stars" + ratingaverage + ">" + ratingaverage + " Stars</span>"         HTML += "</li>"                  document.getElementById("ratings").innerHTML = HTML; 	    	} </p>
+<p> Reader Comments (0) </p>
+<p> Submit your comments here </p>
+<p> Name </p>
+<p> I want to be anonymous </p>
+<p> Email Address </p>
+<p> Type your comment below </p>
+<p> Type the word below </p>
+<p> Terms and Conditions </p>
+<p> window.onload=formHide(); </p>
+<p> Most Viewed </p>
+<p> Most Commented </p>
+<p> ‘How I found Modimolle monster’ </p>
+<p> ‘Black boy not welcome at resort’ </p>
+<p> ‘You do not deserve to live, pig’ </p>
+<p> Dog mauls girl, 2, at Clifton </p>
+<p> Video of soldiers urinating on bodies probed </p>
+<p> ‘Black boy not welcome at resort’ </p>
+<p> Dog mauls girl, 2, at Clifton </p>
+<p> Mob burns elderly couple </p>
+<p> Video of soldiers urinating on bodies probed </p>
+<p> Terror of woman caught in UJ stampede </p>
+<p> ddtabmenu.definemenu("ContentId(7.3897)",0) </p>
+<p> Join us </p>
+<p> on </p>
+<p> Mobile </p>
+<p> on </p>
+<p> m.iol.co.za </p>
+<p> Newsletters </p>
+<p> Subscribe </p>
+<p> RSS feeds </p>
+<p> Subscribe </p>
+<p> <!--           document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|585|2736958|0|170|ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=12345;misc='+new Date().getTime()+'"></scri'+'pt>');           //--> </p>
+<p> Services </p>
+<p> Wise Car Insurance </p>
+<p> Family funeral cover from R36 p.m </p>
+<p> Used Cars </p>
+<p> Personal Loan In Seconds </p>
+<p> Life Insurance </p>
+<p> Property </p>
+<p> Business Travel Experts </p>
+<p> Car Rental </p>
+<p> Travel Specials </p>
+<p> Car Insurance </p>
+<p> Property for Sale </p>
+<p> Property </p>
+<p> Classifieds </p>
+<p> Motors </p>
+<p> Whether you are a buyer or seller, wegotads is your online marketplace. </p>
+<p> Wegotads » </p>
+<p> Buying a car has never been easy. Motoring.co.za contains a large database of car listings with a user friendly search. </p>
+<p> Start searching today » </p>
+<p> ddtabmenu.definemenu("71741309848357",0) </p>
+<p> <!--           document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|585|2736962|0|170|ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=12345;misc='+new Date().getTime()+'"></scri'+'pt>');           //--> </p>
+<p> $(document).ready(function() {            var voteuid = new Date().getTime();            $.get('http://www.iol.co.za:80/news/south-africa/gauteng/7.7730?ot=inmsa.AjaxPageLayout.ot&r=http://www.iol.co.za:80/news/south-africa/gauteng/skin-grafts-on-girl-bitten-by-cobra-a-success-1.1211613&view=right&voteuid='+voteuid, loadPoll7_7730HTML);         });         function loadPoll7_7730HTML(pollHTML) {            $('div#poll7_7730').html(pollHTML);         } </p>
+<p> <!--           document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|585|2866215|0|632|ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=12345;misc='+new Date().getTime()+'"></scri'+'pt>');           //--> </p>
+<p> Business Directory </p>
+<p> Make sure you find the best available airfares with our easy-to-use search engine. </p>
+<p> <!--           document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|585|2736960|0|770|ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=12345;misc='+new Date().getTime()+'"></scri'+'pt>');           //--> </p>
+<p> You are here: </p>
+<p> IOL </p>
+<p> / </p>
+<p> News </p>
+<p> / </p>
+<p> South Africa </p>
+<p> / </p>
+<p> Gauteng </p>
+<p> / </p>
+<p> Skin grafts on girl bitten by cobra a success </p>
+<p> We like to make your life easier </p>
+<p> RSS feeds </p>
+<p> Subscribe </p>
+<p> to one of our feeds and receive instant news. </p>
+<p> Mobile </p>
+<p> Browse IOL on your phone at </p>
+<p> m.iol.co.za. </p>
+<p> Newsletters </p>
+<p> Subscribe to our </p>
+<p> newsletters. </p>
+<p> News delivered to your inbox! </p>
+<p> Twitter </p>
+<p> Join us now </p>
+<p> Facebook </p>
+<p> Join us now </p>
+<p> About IOL </p>
+<p> Independent Group </p>
+<p> Feedback </p>
+<p> Contact Us </p>
+<p> Advertising </p>
+<p> Sitemap </p>
+<p> Terms & Conditions </p>
+<p> Privacy Policy </p>
+<p> © Copyright 1999 - 2011 Independent Online, a division of Independent Newspapers (Pty) Limited. The copyright in the literary and artistic works contained in this online news publication and its other related and connected websites, as well as in the published editions of group newspapers, their supplements and any other content or material, belongs exclusively to Independent Newspapers (Pty) Limited unless otherwise stated. </p>
+<p> The reproduction of any content or material contained in this online news publication and its other related websites as well as the published editions of group newspapers and their supplements is expressly reserved to the publisher, Independent Newspapers (Pty) Limited, under Section 12(7) of the Copyright Act of 1978. Reliance on the information contained in the online news publications and other related content published on this website is done at your own risk and subject to our “terms and conditions”. Independent Newspapers (Pty) Limited has committed itself to The Press Code of Professional Practice which prescribes that news must be reported in a truthful, accurate, fair and balanced manner. If we don't live up to the Press Code please contact The Press Ombudsman 2nd Floor, 7 St David’s Park, St David’s Place, Parktown, 2193 or PO Box 47221, Parklands 2121 or email pressombudsman@ombudsman.org.za (www.ombudsman.org.za) or telephone  011 484 3612/8. </p>
+<p> var _gaq = _gaq || [];   _gaq.push( ['_setAccount', 'UA-425302-12'], ['_trackPageview'], ['newSite._setAccount', 'UA-17710838-1'], ['newSite._trackPageview'] );    (function() {     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);   })(); </p>
+<p> ctx_SiteID = '87bd3a26-d426-416d-a940-7148936078ff'; </p>

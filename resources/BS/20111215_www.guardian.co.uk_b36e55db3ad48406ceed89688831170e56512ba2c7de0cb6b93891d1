@@ -1,0 +1,333 @@
+<p> document.domain = "guardian.co.uk"; </p>
+<p> //<![CDATA[ 				OAS_url = 'http://oas.guardian.co.uk/RealMedia/ads/'; 				OAS_sitepage = "www.guardian.co.uk/global-development/2011/dec/13/malaria-treatment-funding-crisis-warning/oas.html"; 				OAS_listpos = 'Top,Middle2,Right1,x31,Position4';  								OAS_query = 'k=global-development&k=malaria&k=millennium-development-goals&cf=health&pid=&ct=article&pt=article&'; 				OAS_target = '_blank';  				OAS_rn = '001234567890'; 				OAS_rns = '1234567890'; 				OAS_rn = new String (Math.random()); 				OAS_rns = OAS_rn.substring (2, 11); 			//]]> </p>
+<p> Funding crisis could reverse progress on malaria treatment, experts warn | Global development | guardian.co.uk </p>
+<p> //<![CDATA[ 	if (!commonStaticRoot) {	 		var commonStaticRoot = "http://static.guim.co.uk/static/b5c4e8d780aa8be3b8dd5e21c7bbe4b6245fb74c/common/"; 	} 	if (!sectionStaticRoot) {	 		var sectionStaticRoot = "http://static.guim.co.uk/static/b5c4e8d780aa8be3b8dd5e21c7bbe4b6245fb74c/global-development/"; 	} 	if (!staticHost) {	 		var staticHost="http://www.guardian.co.uk/"; 	} 	if (!sitePrefixUrl) { 		var sitePrefixUrl = "http://www.guardian.co.uk"; 	} //]]> </p>
+<p> var _sf_startpt=(new Date()).getTime(); </p>
+<p> window.jQuery || document.write('<script src="http://static.guim.co.uk/static/b5c4e8d780aa8be3b8dd5e21c7bbe4b6245fb74c/common/scripts/libs/jquery/1.6.4/jquery.min.js">\x3C/script>') </p>
+<p> var jQ = jQuery.noConflict(); </p>
+<p> //<![CDATA[ 	function insertStyleSheet(href) { 		var styleObject = document.createElement('link'); 		styleObject.setAttribute('href', commonStaticRoot + href); 		styleObject.setAttribute('type', 'text/css'); 		styleObject.setAttribute('media', 'screen'); 		styleObject.setAttribute('rel', 'stylesheet'); 		var head = document.getElementsByTagName('head')[0]; 		head.appendChild(styleObject); 	} 	insertStyleSheet('styles/js-on.css'); 	insertPluckStylesheet = true; 	//]]> </p>
+<p> //<![CDATA[ 	function init() { 		urlStack.clearUrlStack(); 		var signOutLink = document.getElementById("sign-out"); 		if (signOutLink) { 			signOutLink.onclick = signOut; 		} 		 		// Purely styling 		jQ('.js-show').removeClass('js-show'); 	}      guardian.r2.resourceRoot = "http://resource.guim.co.uk/";     var pageUrl = "http://www.guardian.co.uk/global-development/2011/dec/13/malaria-treatment-funding-crisis-warning";     var pageSignature =  "a204ea90b04a3cc7ae70388d3568eab622f8e337171ffa122a74833088a12f8c";      	var thirdPartyReferralCookieService = new guardian.r2.ThirdPartyReferralCookieService(); 	thirdPartyReferralCookieService.setThirdPartyReferralCookie(); 		 	var urlStack = new UrlStack(".guardian.co.uk");	 	var communitiesSite = false;                    	guardian.r2.signInListeners = new guardian.r2.SignInListeners();     (function () {	 		var signInView = new guardian.r2.SignInView("http://static.guim.co.uk/static/b5c4e8d780aa8be3b8dd5e21c7bbe4b6245fb74c/common/scripts/md5.js", communitiesSite); 		guardian.r2.signInController = new guardian.r2.SignInController(signInView, guardian.r2.signInListeners, "http://www.guardian.co.uk/tools/signin", pageUrl, pageSignature); 		 	}) (); 	 	(function () { 		var profileLinkView = new guardian.r2.ProfileLinkView(); 		profileLinkController = new guardian.r2.ProfileLinkController(profileLinkView, "http://www.guardian.co.uk/discussion/user/"); 	}) ();  	jQ(document).ready(init); 	//]]> </p>
+<p> Turn autoplay off </p>
+<p> Turn autoplay on </p>
+<p> Please activate cookies in order to turn autoplay off </p>
+<p> Jump to content [s] </p>
+<p> Jump to site navigation [0] </p>
+<p> Jump to search [4] </p>
+<p> Terms and conditions [8] </p>
+<p> Edition: </p>
+<p> UK </p>
+<p> US </p>
+<p> Sign in </p>
+<p> Mobile </p>
+<p> About us </p>
+<p> About us </p>
+<p> Contact us </p>
+<p> Press office </p>
+<p> Guardian Print Centre </p>
+<p> Guardian readers' editor </p>
+<p> Observer readers' editor </p>
+<p> Terms of service </p>
+<p> Privacy policy </p>
+<p> Advertising guide </p>
+<p> Digital archive </p>
+<p> Digital edition </p>
+<p> Guardian Weekly </p>
+<p> Buy Guardian and Observer photos </p>
+<p> Subscribe </p>
+<p> Today's paper </p>
+<p> The Guardian </p>
+<p> G2 features </p>
+<p> Comment and debate </p>
+<p> Editorials, letters and corrections </p>
+<p> Obituaries </p>
+<p> Other lives </p>
+<p> Sport </p>
+<p> Subscribe </p>
+<p> Subscribe </p>
+<p> Subscribe to the Guardian </p>
+<p> iPhone app </p>
+<p> iPad edition </p>
+<p> Kindle </p>
+<p> Extra </p>
+<p> Guardian Weekly </p>
+<p> Digital edition </p>
+<p> All our services </p>
+<p> ensurePackage('guardian.r2');  	guardian.r2.dropDownMenu = function () { 	 		// bar set up 		jQ('.top-navigation').show().addClass('top-navigation-js'); 		jQ('#fake-bar').remove();  		// functionality 		jQ('.drop-down').mouseover(function() { 			jQ(this).find('ul').css('display', 'block'); 		});  		jQ('.drop-down').mouseout(function() { 			jQ(this).find('ul').css('display', 'none'); 		});  	};	 	 	jQ(document).ready(function() { 		var myDropDownMenu = new guardian.r2.dropDownMenu(); 	}); </p>
+<p> The Guardian </p>
+<p> Global development </p>
+<p> User comments </p>
+<p> Web </p>
+<p> News </p>
+<p> Sport </p>
+<p> Comment </p>
+<p> Culture </p>
+<p> Business </p>
+<p> Money </p>
+<p> Life & style </p>
+<p> Travel </p>
+<p> Environment </p>
+<p> TV </p>
+<p> Data </p>
+<p> Video </p>
+<p> Mobile </p>
+<p> Offers </p>
+<p> Jobs </p>
+<p> News </p>
+<p> Global development </p>
+<p> Funding crisis could reverse progress on malaria treatment, experts warn </p>
+<p> World Health Organisation report welcomes progress but says Global Fund shortfall is one of several 'worrisome signs' </p>
+<p> Tweet this </p>
+<p> reddit this </p>
+<p> omnitracker.omniTrackEVarEvent( 12, 16, 'Global development: Reddit', 'click', '.reddit a' ); </p>
+<p> Sarah Boseley </p>
+<p> guardian.co.uk </p>
+<p> , </p>
+<p> Tuesday 13 December 2011 16.03 GMT </p>
+<p> Article history </p>
+<p> About this article </p>
+<p> Close </p>
+<p> Funding crisis could reverse progress on malaria treatment, experts warn </p>
+<p> This article was published on </p>
+<p> guardian.co.uk </p>
+<p> at </p>
+<p> 16.03 GMT on Tuesday 13 December 2011 </p>
+<p> . </p>
+<p> Children rest in western Cambodia, where the WHO's distribution of bednets has helped tackle drug-resistant malaria. Photograph: Paula Bronstein/Getty Images </p>
+<p> Hard-won gains in </p>
+<p> malaria </p>
+<p> control may be reversed unless more funding is forthcoming, experts warned as the World Health Organisation (WHO) published its annual </p>
+<p> report </p>
+<p> on progress against the disease. </p>
+<p> Deaths from malaria, which predominantly kills babies and children under five, are down by 26% over the past decade and 33% in the badly-affected African region, but the world is not on target for its declared goal of reducing them to near-zero by 2015. </p>
+<p> Last year there were 655,000 deaths, a 5% drop compared with 2009. "While this represents significant progress, the mortality figures are still disconcertingly high for a disease that is entirely preventable and treatable," said the report. It added that estimated malaria deaths in the African region have already been lowered following a general revision of all child mortality rates by the UN. </p>
+<p> Major efforts over the past few years have succeeded in getting insecticide-treated bednets and new, effective anti-malarial drugs to large numbers of families. The report noted an increase in the number of bednets delivered to endemic countries in sub-Saharan Africa, from 88.5m in 2009 to 145m in 2010. Half of all households in the region are now believed to have at least one net. </p>
+<p> Such progress has raised hopes for an end to malaria deaths, but funding has been insufficient and is now in jeopardy. Donor governments' </p>
+<p> reluctance to fill the coffers of the Global Fund to fight Aids, TB and Malaria </p>
+<p> – which has resulted in the cancellation of the organisation's next grant-awarding round – is a serious setback. </p>
+<p> WHO director general Margaret Chan said in a foreword to the report: "Worrisome signs suggest that progress might slow, especially in view of projected decreases in the funding needed to finance universal access to life-saving malaria prevention and control measures. International funding for malaria appears to have peaked at $2bn, well short of the $5 to $6bn that are required. While new commitments, such as those from the United Kingdom, have been indispensable for maintaining our current gains, they are not sufficient to achieve the goals that the global malaria community has set." </p>
+<p> Domestic spending in endemic countries often seems inadequate, she added. </p>
+<p> Malaria control is critical for reaching the health-related </p>
+<p> millennium development goals </p>
+<p> . The next few years will be critical. "We know from experience how fragile our gains are," said Chan. Over the past few years, several hundred million long-lasting, insecticide-impregnated nets have been distributed, but will need replacing in the next few years. </p>
+<p> "It is our responsibility to ensure that these and other life-saving commodities reach all who need them – before our hard-won progress slips away," said Chan. </p>
+<p> There are also major worries over resistance, affecting both artemisinin drugs – which have transformed malaria treatment – and the insecticide sprays used inside houses. Resistance to the drugs has now been reported in Cambodia, Myanmar, Thailand and Vietnam. Insecticide resistance has been reported in 27 countries in Africa, and 41 worldwide. "Unless properly managed, such resistance potentially threatens future progress in malaria control," said Chan. </p>
+<p> Even when control measures have brought case numbers down, pressure  must be maintained. Malaria numbers rose in Rwanda and in Sao Tome and Principe in 2009 following reductions. Those areas have now brought cases back down, but Zambia, which also experienced a rise in 2009, has not yet reversed the trend. </p>
+<p> Important progress has been made in the roll-out of rapid diagnostic testing, which enables healthcare staff to be sure a child's fever is malaria and not caused by some other illness. Using malaria treatment properly prevents resistance and saves money. </p>
+<p> But funding looks set to drop in 2012 and 2013, triggered primarily by the crisis at the Global Fund. "This decrease will considerably alter the malaria control landscape and threaten the sustainability of the multipronged approach to fighting the disease, which relies heavily on investments in bednets, indoor residual spraying, diagnostic testing, treatment, research and innovation," says the WHO. </p>
+<p> Dr Robert Newman, director of the WHO's global malaria programme, said: "We need a fully-resourced Global Fund, new donors and endemic countries to join forces and address the vast challenges that lie ahead … We need to act with urgency and resolve to ensure that no one dies from malaria for lack of a $5 bed net, $1 anti-malarial drug [or] a 50 cent diagnostic test." </p>
+<p> Printable version </p>
+<p> Send to a friend </p>
+<p> Share </p>
+<p> Clip </p>
+<p> Contact us </p>
+<p> larger </p>
+<p> | </p>
+<p> smaller </p>
+<p> Email </p>
+<p> Close </p>
+<p> Recipient's email address </p>
+<p> Your first name </p>
+<p> Your surname </p>
+<p> Add a note (optional) </p>
+<p> Your IP address will be logged </p>
+<p> Share </p>
+<p> Close </p>
+<p> Short link for this page: </p>
+<p> http://gu.com/p/3445t </p>
+<p> StumbleUpon </p>
+<p> reddit </p>
+<p> Tumblr </p>
+<p> Digg </p>
+<p> LinkedIn </p>
+<p> Google Bookmarks </p>
+<p> del.icio.us </p>
+<p> livejournal </p>
+<p> Facebook </p>
+<p> Twitter </p>
+<p> Contact us </p>
+<p> Close </p>
+<p> Report errors or inaccuracies: </p>
+<p> reader@guardian.co.uk </p>
+<p> Letters for publication should be sent to: </p>
+<p> letters@guardian.co.uk </p>
+<p> If you need help using the site: </p>
+<p> userhelp@guardian.co.uk </p>
+<p> Call the main Guardian and Observer switchboard: </p>
+<p> +44 (0)20 3353 2000 </p>
+<p> Advertising guide </p>
+<p> License/buy our content </p>
+<p> Global development </p>
+<p> Millennium development goals </p>
+<p> Society </p>
+<p> Malaria </p>
+<p> More 			news </p>
+<p> Related </p>
+<p> 9 Jun 2005 </p>
+<p> Malaria crisis may doom Africa progress, MPs say </p>
+<p> 2 Oct 2010 </p>
+<p> Carving up the money - a very reasonable case for malaria </p>
+<p> 25 Apr 2011 </p>
+<p> World Malaria Day: which countries are the hardest hit? Get the full data </p>
+<p> 22 Apr 2010 </p>
+<p> Eradicating malaria will take more than bednets </p>
+<p> Printable version </p>
+<p> Send to a friend </p>
+<p> Share </p>
+<p> Clip </p>
+<p> Contact us </p>
+<p> Article history </p>
+<p> Email </p>
+<p> Close </p>
+<p> Recipient's email address </p>
+<p> Your first name </p>
+<p> Your surname </p>
+<p> Add a note (optional) </p>
+<p> Your IP address will be logged </p>
+<p> Share </p>
+<p> Close </p>
+<p> Short link for this page: </p>
+<p> http://gu.com/p/3445t </p>
+<p> StumbleUpon </p>
+<p> reddit </p>
+<p> Tumblr </p>
+<p> Digg </p>
+<p> LinkedIn </p>
+<p> Google Bookmarks </p>
+<p> del.icio.us </p>
+<p> livejournal </p>
+<p> Facebook </p>
+<p> Twitter </p>
+<p> Contact us </p>
+<p> Close </p>
+<p> Report errors or inaccuracies: </p>
+<p> reader@guardian.co.uk </p>
+<p> Letters for publication should be sent to: </p>
+<p> letters@guardian.co.uk </p>
+<p> If you need help using the site: </p>
+<p> userhelp@guardian.co.uk </p>
+<p> Call the main Guardian and Observer switchboard: </p>
+<p> +44 (0)20 3353 2000 </p>
+<p> Advertising guide </p>
+<p> License/buy our content </p>
+<p> About this article </p>
+<p> Close </p>
+<p> Funding crisis could reverse progress on malaria treatment, experts warn </p>
+<p> This article was published on </p>
+<p> guardian.co.uk </p>
+<p> at </p>
+<p> 16.03 GMT on Tuesday 13 December 2011 </p>
+<p> . </p>
+<p> google_ad_client = 'ca-guardian_js'; google_ad_channel = 'globaldevelopment'; </p>
+<p> google_max_num_ads = '3'; </p>
+<p> //<![CDATA[ 			if (true) { 					  writeScript("http://pagead2.googlesyndication.com/pagead/show_ads.js", false, function(){}); 			} 		// ]]> </p>
+<p> .m-zeitgeist .bd { float: left } /* for the IE6 lols */   .m-zeitgeist .hd { padding-bottom: 0px; margin-bottom: -12px}   .m-zeitgeist .hd h2 { padding-bottom: 12px; }   .m-zeitgeist #att-panes { background-color: #fff; float: left; } 	.m-zeitgeist .att-toggle-pane { min-width:280px; }   .m-zeitgeist ol { padding: 0 5px; }   .m-zeitgeist #most-zeitgeist ol { padding-left: 0; }   .m-zeitgeist .zg-date { color: #D61D00; padding-left:5px; padding-top: 5px; }   .m-zeitgeist ol li { clear: both; padding-left: 15px; }   .m-zeitgeist div#att-most-viewed ol li.l1,   .m-zeitgeist div#att-latest ol li.l1 { padding-bottom: 9px !important; }   .m-zeitgeist ol li.footer { clear: both; padding-left: 0px !important; padding-top: 5px !important; }   .m-zeitgeist .rank { float: left; margin-left: -15px; }   .m-zeitgeist .kicker { font-weight: bold; }   .m-zeitgeist ol li.thumb { padding-left: 0; }   .m-zeitgeist ol li.thumb .rank { margin-left: 0; }   .m-zeitgeist ol li img { float: left; margin: 0 10px 3px 0; }      .m-zeitgeist #most-zeitgeist ol li { border-top: none; padding: 0; border-top: none; }     .m-zeitgeist #most-zeitgeist ol li .zeit-link {background-color: #fff; padding: 5px 0 9px 5px; border-top: 1px dotted #999; margin-bottom: 0px;  }     .m-zeitgeist #most-zeitgeist ol li.footer { border-top:1px dotted #999; padding: 5px 0 9px 10px; margin-left: 5px }     .m-zeitgeist #most-zeitgeist .m-zeigeist ol { padding-left: 0}      /* zeit-up */   .m-zeitgeist #most-zeitgeist .what-is { float: none; padding: 0 3px; vertical-align: middle; cursor: pointer; }   .about-zeit { position: relative; }   .zeit-popup { position: absolute; display: none; background-color: #dbedf3; color: #333; padding: 6px; width: 200px; }      .fade-1 { border-left: 5px solid #801100 !important;} .fade-2 { border-left: 5px solid #95382A !important;} .fade-3 { border-left: 5px solid #AA5F54 !important;} .fade-4 { border-left: 5px solid #BF867E !important;} .fade-5 { border-left: 5px solid #D4ADA8 !important;}  .m-zeitgeist div.hd { padding-bottom: 0; } .m-zeitgeist.most-viewed div.hd { padding-bottom: 7px; } </p>
+<p> jQ(function($){$('.about-zeit').each(function(){var distance=-10;var time=250;var hideDelay=500;var hideDelayTimer=null;var beingShown=false;var shown=false;var trigger=$('.what-is',this);var info=$('.zeit-popup',this).css('opacity',0);$([trigger.get(0),info.get(0)]).mouseover(function(){if(hideDelayTimer)clearTimeout(hideDelayTimer);if(beingShown||shown){return;}else{beingShown=true;info.css({top:-97,right:0,display:'block'}).animate({top:'-='+distance+'px',opacity:1},time,'swing',function(){beingShown=false;shown=true;});}return false;}).mouseout(function(){if(hideDelayTimer)clearTimeout(hideDelayTimer);hideDelayTimer=setTimeout(function(){hideDelayTimer=null;info.animate({top:'-='+distance+'px',opacity:0},time,'swing',function(){shown=false;info.css('display','none');});},hideDelay);return false;});});}); </p>
+<p> On Global development </p>
+<p> Most viewed </p>
+<p> Zeitgeist </p>
+<p> Latest </p>
+<p> Last 24 hours </p>
+<p> 1. </p>
+<p> Rush for land a wake-up call for poorer countries, report says </p>
+<p> 2. </p>
+<p> Global development voices: living with disability </p>
+<p> 3. </p>
+<p> For Haiti, climate change is more present fear than horrible imagining </p>
+<p> 4. </p>
+<p> Aid, global warming and gender </p>
+<p> 5. </p>
+<p> South Sudan set to showcase its foreign investment potential </p>
+<p> More most viewed </p>
+<p> Last 24 hours </p>
+<p> Global development voices: living with disability </p>
+<p> Disabled people finally given a voice on HIV and Aids </p>
+<p> Global development voices: Living with disabilities </p>
+<p> Talk point: Fighting the stigma of disability </p>
+<p> Illicit activities costing developing world billions, claims report </p>
+<p> More zeitgeist </p>
+<p> What is Zeitgeist? </p>
+<p> Zeitgeist is an experiment in showing trending news, topics and articles from the Guardian. Find out more in </p>
+<p> our blog post </p>
+<p> . </p>
+<p> Last 24 hours </p>
+<p> 1. </p>
+<p> Sahel's looming food crisis could be forestalled, claim aid agencies </p>
+<p> 2. </p>
+<p> Illicit activities costing developing world billions, claims report </p>
+<p> 3. </p>
+<p> Disabled people finally given a voice on HIV and Aids </p>
+<p> 4. </p>
+<p> Global development voices: Living with disabilities </p>
+<p> 5. </p>
+<p> Talk point: Fighting the stigma of disability </p>
+<p> All today's stories </p>
+<p> Sponsored feature </p>
+<p> function showSponsoredFeaturex31(){                     if (window.sponJSON) {                         if(typeof(sponJSON) === 'object') {                           adx31 = sponJSON;                           var node = jQ('.json-features.x31');                           convertJSONtoAd(                               node.find('img:first-child'),                               node.find('a.t6'),                               node.find('p:last-child'),                               adx31,                               node.find('.hd').children().eq(0),                               'x31'                           );                         }                     }                 }                                  jQ(document).ready(function(){                     jQ('.x31-script-placeholder').writeCapture().replaceWith('<script>showSponsoredFeaturex31()<' + '/script>')                 }) </p>
+<p> Related information </p>
+<p> Society </p>
+<p> Malaria </p>
+<p> Global development </p>
+<p> Millennium development goals </p>
+<p> Children's lives at risk from vaccine funding gap </p>
+<p> 24 Jan 2011 </p>
+<p> Patrick Watt: As Sierra Leone rolls out the first vaccination programme against pneumonia, a report by Save the Children finds that further investment is needed from donors to bridge funding gap for vaccines </p>
+<p> 11 Feb 2006 </p>
+<p> Resistance is worse than useless </p>
+<p> 15 Mar 2010 </p>
+<p> Time to talk dirty </p>
+<p> 5 Sep 2005 </p>
+<p> Rich countries row over cash to fight disease </p>
+<p> 5 May 2006 </p>
+<p> World Bank accused of deception over malaria </p>
+<p> Malaria vaccine set to save millions of lives, but who will fund it? </p>
+<p> 18 Oct 2011 </p>
+<p> As the malaria vaccine continues to prove sceptics wrong, the next obstacle for the World Health Organisation is cost </p>
+<p> Hot topics </p>
+<p> UN MDG summit 2010 </p>
+<p> Data store </p>
+<p> Millennium development goals </p>
+<p> Poverty Matters blog </p>
+<p> License/buy our content </p>
+<p> | </p>
+<p> Privacy policy </p>
+<p> | </p>
+<p> Terms & conditions </p>
+<p> | </p>
+<p> Advertising guide </p>
+<p> | </p>
+<p> Accessibility </p>
+<p> | </p>
+<p> A-Z index </p>
+<p> | </p>
+<p> Inside the Guardian blog </p>
+<p> | </p>
+<p> About us </p>
+<p> | </p>
+<p> Work for us </p>
+<p> | </p>
+<p> Join our dating site today </p>
+<p> © 2011 Guardian News and Media Limited or its affiliated companies. All rights reserved. </p>
+<p> .ten-col .important-story {      border-bottom-color: #fff !important;  } </p>
+<p> //<![CDATA[ 	if(true) { 		var s_account="guardiangu-global-development,guardiangu-network"; 		writeScript('http://static.guim.co.uk/static/b5c4e8d780aa8be3b8dd5e21c7bbe4b6245fb74c/common/scripts/omniture-H.22.4.js', false, function(){}); 	} 	//]]> </p>
+<p> //<![CDATA[ 	if(true) { 		if (false) { 		    s.pageName = document.title; 		} else { 			s.pageName="Funding crisis could reverse progress on malaria treatment, experts warn:Article:1676124"; 		} 		s.channel = "Global development"; 		s.pageType=""; 		s.server='10'; 		s.prop2='GUID:(none)';  					s['prop3']="GU.co.uk"; 					s['prop4']="Global development,Millennium development goals,Malaria (Society)"; 					s['prop5']="Not commercially useful,Health"; 					s['prop6']="Sarah Boseley"; 					s['prop7']="11-Dec-13"; 					s['prop8']="1676124"; 					s['prop9']="Article"; 					s['prop10']="News"; 					s['prop11']="Global development"; 					s['prop13']=""; 					s['prop25']=""; 					s['prop30']="content"; 		 		s.hier2="GU/Global development/Millennium development goals"; 		s.events=""; 		s.eVar23="";  		try { 			if (guardian.r2.OmnitureTrackingOverride) { 				new guardian.r2.OmnitureTrackingOverride(s); 			} 		} 		catch(err) { 		}          if(jQ.cookie("GU_OMNITURE") !== null) {             s.events = jQ.cookie("GU_OMNITURE");             jQ.cookie("GU_OMNITURE", null, { path: '/', domain: '.guardian.co.uk'});         }          var s_code=s.t();if(s_code)document.write(s_code); 	} 	//]]> </p>
+<p> var _qevents = _qevents || []; 		(function() { 			var elem = document.createElement('script');  			elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js"; 			elem.async = true; 			elem.type = "text/javascript"; 			var scpt = document.getElementsByTagName('script')[0]; 			scpt.parentNode.insertBefore(elem, scpt); 		})(); 		_qevents.push( { qacct:'p-73ktnlRTKQPTw', labels: 'global-development'} ); </p>
+<p> var qcResults = function (result) { 				for (var i = 0, len = result.segments.length; i < len; i++) { 					OAS_query += 'qc=' + result.segments[i].id + '&'; 				} 			} </p>
+<p> if (true) {     jQ(document).ready(function () {         jQ('a[data-cpt]').each(             function () {             jQ(this).click(                 function () {                 var cpId = jQ(this).attr('data-cpt').split("-")[1];                 var currentLink = jQ(this).attr('href');                  if (currentLink.indexOf('intcmp=') == -1) {                     if(currentLink.indexOf('?') == -1) {                         var separator = '?'                     } else {                         var separator = '&'                     }                      jQ(this).attr('href', currentLink + separator + "intcmp=" + cpId);                 }             });         });     }); } </p>
+<p> //<![CDATA[ 	if (false) {         // guardian.co.uk Connect Adprobe Tag, MPU [9814], Leaderboard [9815]         var wlOrd = new Date().getTime();         document.write('<scr' + 'ipt type="text/javascript" src="http://req.connect.wunderloop.net/AP/1566/6033/10343/js?cus=10343,10344&ord=' + wlOrd + '"></sc' + 'ript>'); 	} // ]]> </p>
+<p> //<![CDATA[ 	if (false) {         OAS_query += 'wl10343=' + wl10343camp + '&wl10344=' + wl10344camp + '&'; 	} // ]]> </p>
+<p> //<![CDATA[  	if(true) { 		ensurePackage("guardian.r2.revsci");  		guardian.r2.revsci.cookieDomain = '.guardian.co.uk'; 		guardian.r2.revsci.gu_geo_country = '(none)'; 		guardian.r2.revsci.siteName = 'Global development'; 					guardian.r2.revsci.commercialFolder = 'Health' 				 		addEvent(null, 'load', function () { 			writeScript('http://js.revsci.net/gateway/gw.js?csid=E05516', true, function() { 				writeScript('http://static.guim.co.uk/static/b5c4e8d780aa8be3b8dd5e21c7bbe4b6245fb74c/common/scripts/revsci.js', true, function() { 					rs_initTracking(); 				}) 			}) 		}); 	}  	// ]]> </p>
+<p> //<![CDATA[ 											function OAS_NORMAL(pos) { 							document.write('<A HREF="' + OAS_url + 'click_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + pos + '!' + pos + '?' + OAS_query + '" TARGET=' + OAS_target + '>'); 							document.write('<IMG SRC="' + OAS_url + 'adstream_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + pos + '!' + pos + '?' + OAS_query + '" BORDER=0></A>'); 						}  						OAS_version = 11; 						if ((navigator.userAgent.indexOf('Mozilla/3') != -1) || (navigator.userAgent.indexOf('Mozilla/4.0 WebTV') != -1)) OAS_version = 10;                          if (true) {                             if (OAS_version >= 11) document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/SCRIPT>');                         }  						function OAS_AD(pos) {                             if (true) {                                 if (typeof(OAS_RICH) !== 'undefined' && OAS_version >= 11) {                                     OAS_RICH(pos);                                 } else {                                     OAS_NORMAL(pos);                                 }                             } 						} 					 				//]]> </p>
+<p> //<![CDATA[                 jQ('#ad-placeholder-Top').writeCapture().replaceWith('<script>OAS_AD("Top")<' + '/script>');                 //]]> </p>
+<p> jQ('#ad-temp-Top').hide(); </p>
+<p> //<![CDATA[                 jQ('#ad-placeholder-Middle2').writeCapture().replaceWith('<script>OAS_AD("Middle2")<' + '/script>');                 //]]> </p>
+<p> jQ('#ad-temp-Middle2').hide(); </p>
+<p> //<![CDATA[                 jQ('#ad-placeholder-Right1').writeCapture().replaceWith('<script>OAS_AD("Right1")<' + '/script>');                 //]]> </p>
+<p> jQ('#ad-temp-Right1').hide(); </p>
+<p> //<![CDATA[                 jQ('#ad-placeholder-x31').writeCapture().replaceWith('<script>OAS_AD("x31")<' + '/script>');                 //]]> </p>
+<p> jQ('#ad-temp-x31').hide(); </p>
+<p> //<![CDATA[                 jQ('#ad-placeholder-Position4').writeCapture().replaceWith('<script>OAS_AD("Position4")<' + '/script>');                 //]]> </p>
+<p> jQ('#ad-temp-Position4').hide(); </p>
+<p> ensurePackage('guardian.r2.omniture'); guardian.r2.omniture.isAvailable = function(){ 			return true; 	} </p>
+<p> //	<![CDATA[ 	if(true) {         var OAS_taxonomy='&Paneled_Site=guardian.co.uk&Paneled_Section=global-development'; 		jQ(document).ready(function(){ 			jQ.getScript('http://static.guim.co.uk/static/b5c4e8d780aa8be3b8dd5e21c7bbe4b6245fb74c/common/scripts/kantarmedia.js'); 		}); 	} 	// ]]> </p>
+<p> if(true) {         		jQ(function() { 		  if ('undefined' !== typeof MatchingEngine) { 		    MatchingEngine.logEvent('article', 'id=http://www.guardian.co.uk/global-development/2011/dec/13/malaria-treatment-funding-crisis-warning'); 		  } 		}); 	} </p>
+<p> if (true) {         var _sf_async_config = {};         /** CONFIGURATION START **/         _sf_async_config.uid = 30676;         _sf_async_config.domain = document.domain;         _sf_async_config.sections = 'Global development';         _sf_async_config.authors = 'Sarah Boseley';         /** CONFIGURATION END **/         (function() {             function loadChartbeat() {                 window._sf_endpt = (new Date()).getTime();                 var e = document.createElement('script');                 e.setAttribute('language', 'javascript');                 e.setAttribute('type', 'text/javascript');                 e.setAttribute('src',                         (('https:' == document.location.protocol) ? 'https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/' : 'http://static.chartbeat.com/') +                                 'js/chartbeat.js');                 document.body.appendChild(e);             }              var oldonload = window.onload;             window.onload = (typeof window.onload != 'function') ?                     loadChartbeat : function() {                 oldonload();                 loadChartbeat();             };         })();     } </p>

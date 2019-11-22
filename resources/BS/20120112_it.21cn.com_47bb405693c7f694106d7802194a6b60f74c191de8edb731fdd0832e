@@ -1,0 +1,154 @@
+<p> 空气质量数据今起网上可查 - 互联网(3G) - 21CN.COM </p>
+<p> document.domain = "21cn.com"; </p>
+<p> /*site-bar*/ .site-bar .btn-choose, .site-bar .btn-choose div, .site-bar .login-info .btn-login, .site-bar .links a.register, .site-bar .links a.wap, .site-bar .links a.homepage, .site-bar .logined-info .logined-r .logined-msg, .site-bar .logined-info .logined-r .logined-jd{ background-image:url(http://www.21cn.com/other/css/2011/site-bar/bgimg/site-bar.png); background-repeat:no-repeat;} .site-bar { height:27px; border-bottom:1px solid #ddd; background:#F3F3F3; } .site-bar .bd { width:950px; margin:0 auto; } .site-bar .login-info { float:left; padding-top:4px; *line-height:23px; } .site-bar .login-info label { float:left; line-height:20px; margin:0 9px 0 3px; _margin-top:-1px; } .site-bar .login-info input { width:74px; height:18px; border:1px solid #BBB; *vertical-align:middle; _vertical-align:baseline; line-height:16px; position:absolute;color:#CCC; line-height:18px; } .site-bar .login-info input.active{ color:#000; border:1px solid #2C2C2C} .site-bar .login-info .input-widget { margin-left:14px; float:left; display:block; margin-right:9px; width:76px; height:20px; } .site-bar .login-info .ddl-widget { position:relative } .site-bar .login-info .ddl-widget .suggestion { position:absolute; border:1px solid #BBB; background-color:#FFF; left:0; top:19px; display:none;z-index:99; } .site-bar .login-info .ddl-widget .suggestion li { cursor:pointer; padding:2px 5px; white-space:nowrap; } .site-bar .login-info .ddl-widget .suggestion li.active { background-color:#D4E2FF; } .site-bar .login-info .btn-login { float:left; cursor:pointer; height:20px; overflow:hidden; text-indent:-9999px; } .site-bar .btn-choose { float:left; position:relative; background-position:0 1px; background-repeat:repeat-x; margin-right:4px; } .site-bar .btn-choose div { width:68px; padding:0 18px 0 4px; background-position:70px -18px; height:18px; border:1px solid #BBBBBB; cursor:pointer; text-align:center } .site-bar .btn-choose span { line-height:18px; color:#666666; } .site-bar .btn-choose .suggestion { position:absolute; border:1px solid #BBB; background-color:#FFF; left:0; top:19px; display:none;z-index:99; } .site-bar .btn-choose .suggestion li { cursor:pointer; padding:2px 5px; white-space:nowrap; width:80px; } .site-bar .btn-choose .suggestion li.br-b { border-bottom:1px solid #BBB } .site-bar .btn-choose .suggestion li.active { background-color:#4472AE; color:#FFF } .site-bar .btn-choose .suggestion li.active span { color:#FFF } .site-bar .login-info .btn-login { width:39px; background-position:0 -36px; border:0 none; margin-right:10px; } .site-bar .login-info .reg-passport { color:#666; float:left; } .site-bar .logined-info { float:left; padding-top:4px; *line-height:23px; width:550px; color:#000000; } .site-bar .logined-info .fl { padding-right:10px; } .site-bar .logined-info .logined-r { font-family:\5b8b\4f53; } .site-bar .logined-info .logined-r a { text-decoration:underline; } .site-bar .logined-info .logined-r a:hover { text-decoration:none; } .site-bar .logined-info .logined-r em { color:#549C1C; font-weight:700; } .site-bar .logined-info .logined-r .logined-msg { padding-left:19px; background-position:0 -133px; } .site-bar .logined-info .logined-r .logined-jd { padding-left:17px; background-position:0 -153px; } .site-bar a{line-height:26px; } .site-bar .links { float:right; height:26px; line-height:26px; color:#656565; _padding-top:4px; } .site-bar .links a { padding:0 7px; color:#656565; display:inline-block; } .site-bar .fl a { padding: 0 1px !important; } .site-bar .links a.register { padding-left:20px; background-position:0 -57px; background-position:0 -60px\9; } .site-bar .links a.wap { padding-left:24px;  background-position: 6px -81px; background-position:6px -84px\9; } .site-bar .links a.homepage { padding-left:24px; background-position: 6px -103px; background-position:6px -106px\9; } .site-bar .links a.freemail { color:#C80000 } </p>
+<p> 首页 </p>
+<p> - </p>
+<p> 新闻 </p>
+<p> - </p>
+<p> 社会 </p>
+<p> - </p>
+<p> 财经 </p>
+<p> - </p>
+<p> 汽车 </p>
+<p> - </p>
+<p> 房产 </p>
+<p> - </p>
+<p> 家居 </p>
+<p> - </p>
+<p> 手机 </p>
+<p> - </p>
+<p> 体育 </p>
+<p> - </p>
+<p> 娱乐 </p>
+<p> - </p>
+<p> 明星 </p>
+<p> - </p>
+<p> 游戏 </p>
+<p> - </p>
+<p> 女人 </p>
+<p> - </p>
+<p> 生活 </p>
+<p> - </p>
+<p> 旅游 </p>
+<p> - </p>
+<p> 社区 </p>
+<p> 注册免费邮箱 </p>
+<p> 免费邮箱 </p>
+<p> 企业邮箱 </p>
+<p> | </p>
+<p> 手机网 </p>
+<p> | </p>
+<p> 设为首页 </p>
+<p> //SetHome function SetHome(obj, vrl){     try {         obj.style.behavior = 'url(#default#homepage)';         obj.setHomePage(vrl);     }      catch (e) {         if (window.netscape) {             try {                 netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");             }              catch (e) {                 alert("此操作被浏览器拒绝！\n请在浏览器地址栏输入“about:config”并回车\n然后将[signed.applets.codebase_principal_support]设置为'true'");             }             var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components.interfaces.nsIPrefBranch);             prefs.setCharPref('browser.startup.homepage', vrl);         }     } } </p>
+<p> <!-- //取出频道名 var arrHost = document.location.hostname.split("."); var sChannel = arrHost[0]; document.write("<iframe id='iframe_xuant1' name='iframe_xuant1' src='http://shows.21cn.com/ashow?js=0&log=1&ref=1&pos=21cn|"+ sChannel+"|end_tl1' width='960' height='100' frameborder='0' border='0' marginwidth='0' marginheight='0' scrolling='no' ></iframe>"); //--> </p>
+<p> 首页 </p>
+<p> > </p>
+<p> 手机频道 </p>
+<p> > </p>
+<p> 行业频道 </p>
+<p> >   正文 </p>
+<p> 热点： </p>
+<p> 空气质量数据今起网上可查 </p>
+<p> 2012-01-12 17:10:32 </p>
+<p> | </p>
+<p> 我来说两句 </p>
+<p> ( </p>
+<p> 0 </p>
+<p> ) </p>
+<p> 摘自北京晚报 </p>
+<p> 本报讯（记者张航）从今天起，市民通过登录北京市环境保护监测中心网站，就可以随时了解自己工作和生活所在区域的空气质量现状。今后全市27个监测子站监测的包括可吸入颗粒物（PM10）在内的大气污染物小时浓度值将在这一网站实时滚动发布。市环境保护监测中心网站网址为：http://www.bjmemc.com.cn。今天上午10时，记者登录环保监测中心网站看到，“空气质量实时发布”栏目已经上线。点击进入该栏目页面... </p>
+<p> [点击进入浏览] </p>
+<p> 责任编辑：AP0018 </p>
+<p> 分享心情 </p>
+<p> jQuery(document).ready(function () {               jQuery('#J_mood').Mood({ operaId: 15, contentId: 10473719, typeId: 13864, subject: '空气质量数据今起网上可查', threadUrl: 'http://it.21cn.com/itnews/web/2012/01/12/10473719.shtml' });             }); </p>
+<p> Lumia710与800对比 </p>
+<p> XT910 Vs三星GALAXY Note </p>
+<p> 智能手机各硬件浅析及指导 </p>
+<p> 6款诺基亚Anna系统手机荐 </p>
+<p> 世界最薄双核平板抢测 </p>
+<p> 2011高性价笔记本横评 </p>
+<p> 新Macbook Pro手册 </p>
+<p> 高主频平板电脑推荐 </p>
+<p> /*mood-app*/ /*share-app*/ .share-app { padding: 10px 10px 0; line-height: 32px; } .share-app .txt { float: left; font-size: 14px; font-weight: 700; color: #333333; } .share-app .txt em { color: #63B340; font-family: Constantia,Georgia; font-size: 18px; margin: 0 3px; } .share-app button { float: left; display: inline-block; width: 32px; height: 32px; overflow: hidden; background: url(http://www.21cn.com/other/js/asset/app/share/bgimg/share-ico.png) no-repeat; padding-top: 32px; margin-right: 5px; border: 0; } .share-app button:hover { border-color: #C8DCF5; background-color: #E3EAFA; -webkit-transform: scale(1.1); -moz-transform: scale(1.1); -o-transform: scale(1.1); -transform: scale(1.1); } .share-app .share2qzone, #J_share2qzone { background-position: 0px 0px; } .share-app .share2sinaweibo, #J_share2sinaweibo { background-position: 0px -32px; } .share-app .share2qqweibo, #J_share2qqweibo { background-position: 0px -128px; } .share-app .share2renren, #J_share2renren { background-position: 0px -64px; } .share-app .share2sohu, #J_share2sohu  { background-position: 0px -192px; } .share-app .share2kaixin, #J_share2kaixin { background-position: 0px -96px; } .share-app .share2baidu, #J_share2baidu { background-position: 0px -224px; } .share-app .share2douban, #J_share2douban { background-position: 0px -256px; } .share-app .share2fetion, #J_share2fetion { background-position: 0px -160px; } .share-app .share2tianyi, #J_share2tianyi { background-position: 0px -288px; } /*tooltip*/ .tooltip { display: none; padding: 5px; background-color: #FFF; border: 1px solid #CCC; text-align: center;*zoom: 1;-webkit-border-radius: 5px;-moz-border-radius:5px;border-radius:5px;} </p>
+<p> 分享到： </p>
+<p> QQ空间 </p>
+<p> 新浪微博 </p>
+<p> 腾讯微博 </p>
+<p> 人人网 </p>
+<p> 搜狐微博 </p>
+<p> 开心网 </p>
+<p> 百度搜藏 </p>
+<p> 豆瓣网 </p>
+<p> 飞信 </p>
+<p> 天翼 </p>
+<p> var ShareApp={};               $(function () {                 //Share_App                 var Share_Title = $('#text').find('h1:first').text(); // 分享标题                 var Share_Pic = $('#article_content').find('img:first').attr('src'); // 分享图片                 var Share_RalateUid = '1865979352'; // sina微博UID                 var Share_Site = 'http://news.21cn.com'; // 腾讯微博site                 ShareApp = Share_App($('#share-app'), { title: Share_Title, pic: Share_Pic, ralateUid: Share_RalateUid, site: Share_Site });               }); </p>
+<p> <!-- //取出频道名 var arrHost = document.location.hostname.split("."); var sChannel = arrHost[0]; document.write('<scr'+'ipt type="text/javascript" src="http://shows.21cn.com/ashow?js=1&log=1&ref=1&pos=21cn|'+sChannel+'|end_hf"></scr'+'ipt>'); //--> </p>
+<p> var chid="15"; 	 	 var article_id="10473719"; 	   var type_id="13864"; 	   var title="空气质量数据今起网上可查"; 	   var pubtime="2012-01-12 17:01:34".substring(0,10); 	   var url=window.location.href; 	   var invokeUrl=" http://ranking.21cn.com/add.addservlet?ArticleID="+article_id+"&ChannelID="+chid+"&url="+url+"&title="+title+"&pubtime="+pubtime+"&type_id="+type_id; 	   if (url.indexOf(":8") == -1) { 	     document.getElementById("clickFrame").src=invokeUrl; 	   } </p>
+<p> iPhone专区 </p>
+<p> IP4年度最美保护套 </p>
+<p> 作为全球人气最高的手机，iphone 4周边配件也得到用户的亲睐 </p>
+<p> siri功能完整保留! 行货iPhone 4S体验报告 </p>
+<p> 国内使用没差别 行货/英版iPhone 4S对比 </p>
+<p> iPhone 4S大陆行货 华强北在线进行全国首发 </p>
+<p> 行货iPhone4S明天登场 苹果联通同时发售 </p>
+<p> iPad专区 </p>
+<p> IOS5.0.1越狱教程 </p>
+<p> 可以完美越狱iOS5.0.1的redsn0w0.9.10b1刚刚放出 </p>
+<p> iPad游戏年度金榜 Contre Jour 黑暗旅行HD </p>
+<p> iPad 3尝Siri？iOS 5.1 Beta 3透露隐讯 </p>
+<p> 实测iPad充电器能充iPhone4吗 </p>
+<p> 冒险闯关动作游戏 iPad超音速兔子HD </p>
+<p> 图片新闻 </p>
+<p> 1111 </p>
+<p> 222222 </p>
+<p> loading... </p>
+<p> var Channel_albumId=109; //频道图集ID //RunCode 	jQuery(function(){					               RenderPicList(Channel_albumId); 			}); </p>
+<p> <!-- //取出频道名 var arrHost = document.location.hostname.split("."); var sChannel = arrHost[0]; document.write("<iframe id='iframe_xuant1' name='iframe_xuant1' src='http://shows.21cn.com/ashow?js=0&log=1&ref=1&pos=21cn|"+ sChannel+"|end_xuant1' width='300' height='250' frameborder='0' border='0' marginwidth='0' marginheight='0' scrolling='no' ></iframe>"); //--> </p>
+<p> 关注我们 </p>
+<p> 21CN </p>
+<p> 新浪微博 </p>
+<p> 正在加载... </p>
+<p> 21CN </p>
+<p> 腾讯微博 </p>
+<p> 正在加载... </p>
+<p> $(function(){     //tooltip     $("#weibo_list .J_weibo").tooltip({predelay:500,offset: [-8, 0],         onBeforeShow: function(){             var tip = this.getTip();             if (!tip.hasClass('init')) {                 tip.addClass('init');                 var iframe = document.createElement("iframe");                 iframe.src = tip.children().attr('src');                 iframe.width = '250';                 iframe.height = '80';                 iframe.frameBorder = '0';                 iframe.scrolling = 'no';                 iframe.className = 'share_self';                 if (iframe.attachEvent) {                     iframe.attachEvent("onload", function(){ 						$(".loading",tip).hide();                     });                 }                 else {                     iframe.onload = function(){ 						$(".loading",tip).hide();                     };                 }                                 tip.prepend(iframe);             }         }     }); 	}); </p>
+<p> 今日要闻 </p>
+<p> | </p>
+<p> 更多 </p>
+<p> 中高端平板电视横评 </p>
+<p> 联想K80硬件配置评测 </p>
+<p> 支付宝推首个企业支付“开放”方案 </p>
+<p> Win7使用技巧 解决无法显示缩略图 </p>
+<p> 准商务超极本降临！惠普Folio 13评测 </p>
+<p> 首配HD7000系显卡 新机皇联想Y470P评测 </p>
+<p> 摩托罗拉ME632测评 </p>
+<p> 发布应用超50000 市售热门WP7手机盘点 </p>
+<p> 不足4000低价本推荐 最高配四核双显卡 </p>
+<p> <!-- //取出频道名 var arrHost = document.location.hostname.split("."); var sChannel = arrHost[0]; document.write("<iframe id='iframe_xuant2' name='iframe_xuant2' src='http://shows.21cn.com/ashow?js=0&log=1&ref=1&pos=21cn|"+ sChannel+"|end_xuant2' width='300' height='250' frameborder='0' border='0' marginwidth='0' marginheight='0' scrolling='no' ></iframe>"); //--> </p>
+<p> 社区 </p>
+<p> | </p>
+<p> 更多 </p>
+<p> 郭德纲像黑老大 </p>
+<p> 警惕日本女优 </p>
+<p> 抢楼去长隆！新社区有奖体验 </p>
+<p> 美国“春运”为何无人抱怨 </p>
+<p> 2012，日本县长寄语中国县长 </p>
+<p> 狼入女研究生室怎么办 </p>
+<p> VGO </p>
+<p> | </p>
+<p> 更多 </p>
+<p> 预见未来 </p>
+<p> 内衣少女 </p>
+<p> 前女友们的幽灵 </p>
+<p> 天地逃生 </p>
+<p> 每当变幻时 </p>
+<p> 我的甜蜜首尔 </p>
+<p> 经营许可证编号: </p>
+<p> 粤ICP证010001 </p>
+<p> 不良信息举报： </p>
+<p> [点击联系] 即时在线客服 </p>
+<p> 世纪龙信息网络有限责任公司版权所有 </p>
+<p> 服务声明 </p>
+<p> (function(){ 	var analytics_host = 'analytics.21cn.com/collect/';  	var pkBaseURL = (('https:' == document.location.protocol) ? 'https://'+analytics_host :   'http://'+analytics_host); 	document.write(unescape('%3Cscript src='+pkBaseURL+'js/wa_tracking.js type=text/javascript%3E%3C/script%3E')); 	var analytics_time=0; 	function timeout_fun(){setTimeout(function(){if(typeof(WATrace)!='undefined'){track()}else if  (analytics_time<100){timeout_fun();analytics_time++;}},500);} 	function track(){try { _wa_trace_track = WATrace.getTracker(pkBaseURL + '_trace.gif', 'aOxuz');if(typeof  (_wa_beforeload)!="undefined")_wa_trace_track.setBeforeload(_wa_beforeload);_wa_trace_track.trackPageView  ();_wa_trace_track.enableLinkTracking();}catch(err){}} 	new timeout_fun(); 	})(); </p>
+<p> var _thisUrl= location.href; var _index=_thisUrl.indexOf('_'); if(_index!=-1){ 	_thisUrl= _thisUrl.substring(0,_index)+'.shtml' } var tempStr ='<div class="title"> 相关新闻：  </div><ul class="art">';                                       	for(var i=0;i<5;i++){ 														if(contentList[i]!=null&&contentList[i].ContentTitle!=null&&contentList[i].ContentUrl!=_thisUrl){ 															tempStr = tempStr+"<li><a href='"+contentList[i].ContentUrl+"' target='_blank'>"+contentList[i].ContentTitle+"</a>  <span>"+contentList[i].CreateTime.substr(0,10)+"</span></li>";                      		}                         	}            tempStr = tempStr+" </ul>"; if(contentList[0]!=null&&contentList[0].ContentTitle!=null) 					document.getElementById("forTag").innerHTML=tempStr; </p>
+<p> var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://"); document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F201379f79f5799c2c5109bdd9fa51e5e' type='text/javascript'%3E%3C/script%3E")); </p>

@@ -1,0 +1,123 @@
+<p> BBC Russian - Лента новостей - Британские ученые: потеря памяти начинается с 45 лет </p>
+<p> //<![CDATA[ //call before barlesque for ads wsads = {  	   	queryString: '', 	referrer: '(none)', 	section: 'rolling_news', 	service: 'russian', 	storyId: '14851698', 	documentType: 'story',   	uri: '/russian/rolling_news/2012/01/120105_rn_research_memory_loss.shtml', 	isMobile: null } //]]> </p>
+<p> /*<![CDATA[*/ if (typeof bbccookies_flag === 'undefined') { bbccookies_flag = 'ON'; } showCTA_flag = true; cta_enabled = (showCTA_flag && (bbccookies_flag === 'ON') ); (function(){var e="ckns_policy",m="Thu, 01 Jan 1970 00:00:00 GMT",k={ads:true,personalisation:true,performance:true,necessary:true};function f(p){if(f.cache[p]){return f.cache[p]}var o=p.split("/"),q=[""];do{q.unshift((o.join("/")||"/"));o.pop()}while(q[0]!=="/");f.cache[p]=q;return q}f.cache={};function a(p){if(a.cache[p]){return a.cache[p]}var q=p.split("."),o=[];while(q.length&&"|co.uk|com|".indexOf("|"+q.join(".")+"|")===-1){if(q.length){o.push(q.join("."))}q.shift()}f.cache[p]=o;return o}a.cache={};function i(o,t,p){var z=[""].concat(a(window.location.hostname)),w=f(window.location.pathname),y="",r,x;for(var s=0,v=z.length;s<v;s++){r=z[s];for(var q=0,u=w.length;q<u;q++){x=w[q];y=o+"="+t+";"+(r?"domain="+r+";":"")+(x?"path="+x+";":"")+(p?"expires="+p+";":"");bbccookies.set(y,true)}}}window.bbccookies={_setEverywhere:i,cookiesEnabled:function(){var o="ckns_testcookie"+Math.floor(Math.random()*100000);this.set(o+"=1");if(this.get().indexOf(o)>-1){g(o);return true}return false},set:function(o){return document.cookie=o},get:function(){return document.cookie},_setPolicy:function(o){return h.apply(this,arguments)},readPolicy:function(o){return b.apply(this,arguments)},_deletePolicy:function(){i(e,"",m)},isAllowed:function(){return true},_isConfirmed:function(){return c()!==null},_acceptsAll:function(){var o=b();return o&&!(j(o).indexOf("0")>-1)},_getCookieName:function(){return d.apply(this,arguments)},_showPrompt:function(){return(!this._isConfirmed()&&window.cta_enabled&&this.cookiesEnabled()&&!window.bbccookies_disable)}};bbccookies._getPolicy=bbccookies.readPolicy;function d(p){var o=(""+p).match(/^([^=]+)(?==)/);return(o&&o.length?o[0]:"")}function j(o){return""+(o.ads?1:0)+(o.personalisation?1:0)+(o.performance?1:0)}function h(r){if(typeof r==="undefined"){r=k}if(typeof arguments[0]==="string"){var o=arguments[0],q=arguments[1];if(o==="necessary"){q=true}r=b();r[o]=q}else{if(typeof arguments[0]==="object"){r.necessary=true}}var p=new Date();p.setYear(p.getFullYear()+1);p=p.toUTCString();bbccookies.set(e+"="+j(r)+";domain=bbc.co.uk;path=/;expires="+p+";");bbccookies.set(e+"="+j(r)+";domain=bbc.com;path=/;expires="+p+";");return r}function l(o){if(o===null){return null}var p=o.split("");return{ads:!!+p[0],personalisation:!!+p[1],performance:!!+p[2],necessary:true}}function c(){var o=new RegExp("(?:^|; ?)"+e+"=(\\d\\d\\d)($|;)"),p=document.cookie.match(o);if(!p){return null}return p[1]}function b(o){var p=l(c());if(!p){p=k}if(o){return p[o]}else{return p}}function g(o){return document.cookie=o+"=;expires="+m+";"}function n(){var o='<script type="text/javascript" src="http://static.bbci.co.uk/frameworks/bbccookies/0.5.9/script/bbccookies.js"><\/script>';if(window.bbccookies_flag==="ON"&&!bbccookies._acceptsAll()&&!window.bbccookies_disable){document.write(o)}}n()})(); /*]]>*/ </p>
+<p> if (! window.gloader) { window.gloader = [ "glow", {map: "http://node1.bbcimg.co.uk/glow/glow/map.1.7.7.js"}]; } </p>
+<p> bbcRequireMap = {"jquery-1":"http://static.bbci.co.uk/frameworks/jquery/0.2.1/sharedmodules/jquery-1.7.2", "jquery-1.4":"http://static.bbci.co.uk/frameworks/jquery/0.2.1/sharedmodules/jquery-1.4", "swfobject-2":"http://static.bbci.co.uk/frameworks/swfobject/0.1.10/sharedmodules/swfobject-2", "demi-1":"http://static.bbci.co.uk/frameworks/demi/0.9.8/sharedmodules/demi-1", "gelui-1":"http://static.bbci.co.uk/frameworks/gelui/0.9.9/sharedmodules/gelui-1", "cssp!gelui-1/overlay":"http://static.bbci.co.uk/frameworks/gelui/0.9.9/sharedmodules/gelui-1/overlay.css", "istats-1":"http://static.bbci.co.uk/frameworks/istats/0.16.1/modules/istats-1", "relay-1":"http://static.bbci.co.uk/frameworks/relay/0.2.4/sharedmodules/relay-1", "clock-1":"http://static.bbci.co.uk/frameworks/clock/0.1.9/sharedmodules/clock-1", "canvas-clock-1":"http://static.bbci.co.uk/frameworks/clock/0.1.9/sharedmodules/canvas-clock-1", "cssp!clock-1":"http://static.bbci.co.uk/frameworks/clock/0.1.9/sharedmodules/clock-1.css", "jssignals-1":"http://static.bbci.co.uk/frameworks/jssignals/0.3.6/modules/jssignals-1", "jcarousel-1":"http://static.bbci.co.uk/frameworks/jcarousel/0.1.10/modules/jcarousel-1"}; require({ baseUrl: 'http://static.bbci.co.uk/', paths: bbcRequireMap, waitSeconds: 30 }); </p>
+<p> blq.setEnvironment('live');  if (blq.setLabel) blq.setLabel('searchSuggestion', "\u041f\u043e\u0438\u0441\u043a");  if (! /bbc\.co\.uk$/i.test(window.location.hostname) ) { document.documentElement.className += ' blq-not-bbc-co-uk'; } </p>
+<p> if (! window.gloader) { window.gloader = [ "glow", {map: "http://node1.bbcimg.co.uk/glow/glow/map.1.7.7.js"}]; } </p>
+<p> /*<![CDATA[*/                 (function(){                     var zone = "3pt_zone_file";                                         if('undefined' == typeof(bbcdotcom.latest_version)) {                         BBC.adverts.setScriptRoot("http://static.bbci.co.uk/bbcdotcom/0.3.175/script/");                     } else {                         BBC.adverts.setScriptRoot('http://wwwpreview.test.newsonline.tc.nca.bbc.co.uk/js/app/bbccom/' + bbcdotcom.latest_version + '/');                     }                     BBC.adverts.setImgRoot("http://static.bbci.co.uk/bbcdotcom/0.3.175/img/");                     BBC.adverts.init({                         domain: "127.0.0.1:8888",                         location: window.location.pathname,                         zoneVersion: zone,                         zoneAuto: false,                         siteAuto: false,                         keywordsAuto: false,                         zoneReferrer: document.referrer                     });                 })();                 /*]]>*/ </p>
+<p> .story-body{ 	overflow:visible; } </p>
+<p> ws.env.serverDate = new Date(2013,04-1,10, 6,26,13);     //ws.env.serverEpoch = new Date(%s);         ws.env.serverDayOfWeek = '3';     ws.env.service = 'russian';     ws.env.servicePath = '/russian';     ws.env.genre = 'rolling_news';     ws.env.documentType = 'story';     ws.env.isMobile = '(none)';     ws.env.assetsVersion = '418';	     //ws.env.showPre = false; 	ws.env.showPre = false; </p>
+<p> ws.siteCatalyst = { 		queryString: '', 		referrer: '(none)', 		section: 'rolling_news', 		service: 'russian', 		siteVersion: 'gel', 		storyId: '14851698', 		documentType: 'story',   		uri: '/russian/rolling_news/2012/01/120105_rn_research_memory_loss.shtml', 		isMobile: null 	} 	ws.ads = { 		queryString: '', 		referrer: '(none)', 		section: 'rolling_news', 		service: 'russian', 		storyId: '14851698', 		documentType: 'story',   		uri: '/russian/rolling_news/2012/01/120105_rn_research_memory_loss.shtml', 		isMobile: null 	} </p>
+<p> ws.flagpole.flastmod.livestats = new Date(2013,04-1,10, 7,14,58); 	 	 	 	ws.flagpole.flastmod.commodities = new Date(2013,04-1, 9,21,47,43); 	 	 	 	ws.flagpole.flastmod.currencies = new Date(2013,04-1,10, 7,20,38); 	 	 	 	ws.flagpole.flastmod.markets = new Date(2013,04-1,10, 7,24,13); 	 	ws.flagpole.init(); </p>
+<p> //<![CDATA[ 			 				ws.onload(function(){ 				 				}); 				 				//]]> </p>
+<p> /*<![CDATA[*/ bbcFlagpoles_istats = 'ON'; istatsTrackingUrl = '//sa.bbc.co.uk/bbc/bbc/s?name=SET-COUNTER&app_type=web&ml_name=SSI&ml_version=0.16.1&language=ru-RU'; if (window.istats_countername) { istatsTrackingUrl = istatsTrackingUrl.replace(/([?&]name=)[^&]+/ig, '$1' + istats_countername); } (function() { if ( /\bIDENTITY=/.test(document.cookie) ) { istatsTrackingUrl += '&bbc_identity=1'; } var c = (document.cookie.match(/\bckns_policy=(\d\d\d)/)||[]).pop() || ''; istatsTrackingUrl += '&bbc_mc=' + (c? 'ad'+c.charAt(0)+'ps'+c.charAt(1)+'pf'+c.charAt(2) : 'not_set'); if ( /\bckns_policy=\d\d0/.test(document.cookie) ) { istatsTrackingUrl += '&ns_nc=1'; } var screenWidthAndHeight = 'unavailable'; if (window.screen && screen.width && screen.height) { screenWidthAndHeight = screen.width + 'x' + screen.height; } istatsTrackingUrl += ('&screen_resolution=' + screenWidthAndHeight); istatsTrackingUrl += '&blq_s=3.5&blq_r=3.5&blq_v=worldservice-worldwide'; })(); /*]]>*/ </p>
+<p> /*<![CDATA[*/ (function() { window.istats || (istats = {}); var cookieDisabled = (document.cookie.indexOf('NO-SA=') != -1), hasCookieLabels = (document.cookie.indexOf('sa_labels=') != -1), hasClickThrough = /^#sa-(.*?)(?:-sa(.*))?$/.test(document.location.hash), runSitestat = !cookieDisabled && !hasCookieLabels && !hasClickThrough && !istats._linkTracked; if (runSitestat && bbcFlagpoles_istats === 'ON') { sitestat(istatsTrackingUrl); } else { window.ns_pixelUrl = istatsTrackingUrl; /* used by Flash library to track */ } function sitestat(n){var j=document,f=j.location,b="";if(j.cookie.indexOf("st_ux=")!=-1){var k=j.cookie.split(";");var e="st_ux",h=document.domain,a="/";if(typeof ns_!="undefined"&&typeof ns_.ux!="undefined"){e=ns_.ux.cName||e;h=ns_.ux.cDomain||h;a=ns_.ux.cPath||a}for(var g=0,f=k.length;g<f;g++){var m=k[g].indexOf("st_ux=");if(m!=-1){b="&"+unescape(k[g].substring(m+6))}}document.cookie=e+"=; expires="+new Date(new Date().getTime()-60).toGMTString()+"; path="+a+"; domain="+h}ns_pixelUrl=n;n=ns_pixelUrl+"&ns__t="+(new Date().getTime())+"&ns_c="+((j.characterSet)?j.characterSet:j.defaultCharset)+"&ns_ti="+escape(j.title)+b+"&ns_jspageurl="+escape(f&&f.href?f.href:j.URL)+"&ns_referrer="+escape(j.referrer);if(n.length>2000&&n.lastIndexOf("&")){n=n.substring(0,n.lastIndexOf("&")+1)+"ns_cut="+n.substring(n.lastIndexOf("&")+1,n.lastIndexOf("=")).substring(0,40)}(j.images)?new Image().src=n:j.write('<p><i'+'mg src="'+n+'" height="1" width="1" alt="" /></p>')}; })(); /*]]>*/ </p>
+<p> <![CDATA[ <div id="bbccookies-prompt"> <h2> Cookies on the BBC website </h2> <p> We use cookies to ensure that we give you the best experience on our website. We also use cookies to ensure we show you advertising that is relevant to you. If you continue without changing your settings, we'll assume that you are happy to receive all cookies on the BBC website. However, if you would like to, you can <a href="/privacy/cookies/managing/cookie-settings.html">change your cookie settings</a> at any time. </p> <ul> <li id="bbccookies-continue"> <button type="button" id="bbccookies-continue-button">Continue</button> </li> <li id="bbccookies-more"><a href="/privacy/cookies/bbc">Find out more</a></li></ul> </div> ]]> </p>
+<p> /*<![CDATA[*/ (function(){if(bbccookies._showPrompt()){var i=document,b=i.getElementById("blq-pre-mast"),f=i.getElementById("blq-global"),h=i.getElementById("blq-container"),c=i.getElementById("blq-bbccookies-tmpl"),a,g,e;if(b&&i.createElement){a=i.createElement("div");a.id="bbccookies";e=c.innerHTML;e=e.replace("<"+"![CDATA[","").replace("]]"+">","");a.innerHTML=e;if(f){f.insertBefore(a,b)}else{h.insertBefore(a,b)}g=i.getElementById("bbccookies-continue-button");g.onclick=function(){a.parentNode.removeChild(a);return false};bbccookies._setPolicy()}}})(); /*]]>*/ </p>
+<p> Ссылки на специальные возможности </p>
+<p> Перейти к местной навигации </p>
+<p> Помощь </p>
+<p> bbc.co.uk navigation </p>
+<p> Ресурсы Би-би-си </p>
+<p> Поиск по слову: </p>
+<p> Russian </p>
+<p> Мобильная версия </p>
+<p> Сегодня на сайте </p>
+<p> Землетрясение в Иране: 37 погибших, более 850 раненых </p>
+<p> Пресса России: дело "Голоса" станет показательным? </p>
+<p> Amnesty: смертная казнь в мире применяется все реже </p>
+<p> Резня в Техасе: студент ранил ножом 14 человек </p>
+<p> Таджикистан: рабский труд мигрантов </p>
+<p> В Кении принес присягу новый президент Ухуру Кениата </p>
+<p> Коптский патриарх упрекает президента Мурси за раздоры </p>
+<p> Британские ученые: потеря памяти начинается с 45 лет </p>
+<p> Последнее обновление: </p>
+<p> пятница, 6 января 2012 г., 02:14 GMT 06:14 MCK </p>
+<p> Facebook </p>
+<p> Twitter </p>
+<p> LiveJournal </p>
+<p> ВКонтакте </p>
+<p> Мой Мир </p>
+<p> Отправить по почте </p>
+<p> Версия для печати </p>
+<p> Новое исследование британских ученых выявило, что потеря памяти и других функций мозга может начаться с 45 лет - гораздо раньше, чем считалось ранее. </p>
+<p> В своей статье в Британском медицинском журнале ученые рассказали, что изучали умственные способности более 7 тысяч госслужащих в Великобритании в возрасте от 45 до 70 лет на протяжении десяти лет. </p>
+<p> Исследование показало, что в возрасте от 45 до 49 лет происходит небольшое, но явное снижение ряда функций мозга: памяти, мышления и восприятия. </p>
+<p> Ранее большинство исследовании возникновения слабоумия проводились с участием людей старше 60 лет. </p>
+<p> Нажать </p>
+<p> Наверх </p>
+<p> Сообщить об ошибке </p>
+<p> Facebook </p>
+<p> Twitter </p>
+<p> LiveJournal </p>
+<p> ВКонтакте </p>
+<p> Мой Мир </p>
+<p> Отправить по почте </p>
+<p> Версия для печати </p>
+<p> Лента новостей </p>
+<p> Обновляется автоматически </p>
+<p> Малайзия объявила о всеобщих выборах </p>
+<p> 10 апреля 2013 </p>
+<p> Землетрясение в Иране: 37 человек погибли </p>
+<p> 10 апреля 2013 </p>
+<p> В части Северной Осетии введен режим КТО </p>
+<p> 10 апреля 2013 </p>
+<p> Число жертв птичьего гриппа в Китае возросло до 9 </p>
+<p> 10 апреля 2013 </p>
+<p> Лондон предупредил Кабул об опасности гражданской войны </p>
+<p> 10 апреля 2013 </p>
+<p> Глава Estee Lauder передаст картины Метрополитен-музею </p>
+<p> 10 апреля 2013 </p>
+<p> Ученые: сланцевый газ не является причиной землетрясений </p>
+<p> 10 апреля 2013 </p>
+<p> Куба депортирует в США "похитителей" собственных детей </p>
+<p> 10 апреля 2013 </p>
+<p> Amnesty: число смертных казней в мире идет на спад </p>
+<p> 10 апреля 2013 </p>
+<p> Вся лента новостей </p>
+<p> Московское время (МСК) </p>
+<p> Главная </p>
+<p> Россия </p>
+<p> Экономика </p>
+<p> Наука </p>
+<p> Общество </p>
+<p> Британия </p>
+<p> Спорт </p>
+<p> Аналитика </p>
+<p> Ваше мнение </p>
+<p> Видео и аудио </p>
+<p> Learning English </p>
+<p> Информационные услуги </p>
+<p> Новостной канал </p>
+<p> Для мобильных </p>
+<p> Новости по почте </p>
+<p> Подкасты </p>
+<p> Виджет </p>
+<p> Счетчики </p>
+<p> <!-- 			if (document.URL.match('^http://www.bbc.co.uk')) { 				document.write("<a href='http://www.liveinternet.ru/?bbcrussian.com'><img src='http://counter.yadro.ru/hit?t57.2;r"+escape(document.referrer)+((typeof(screen)=="undefined")?"":";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+";"+Math.random()+"' alt='' title='LiveInternet' width='88' height='31' style='padding: 0 0 4px 0; border:0;'/></a>") 			} 			--> </p>
+<p> Ссылки </p>
+<p> Партнеры </p>
+<p> История Русской службы </p>
+<p> Источники информации </p>
+<p> Би-би-си на других языках </p>
+<p> DM_tag(); </p>
+<p> var axel = Math.random() + ""; 		var a = axel * 10000000000000; 		document.write('<iframe src="http://fls.doubleclick.net/activityi;src=3570066;type=bbc_r183;cat=bbc_r739;ord=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>'); </p>
+<p> var _comscore = _comscore || []; 			_comscore.push({ c1: "2", c2: "6035051" }); 			(function() { 			var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true; 			s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js"; 			el.parentNode.insertBefore(s, el); 			})(); </p>
+<p> Ресурсы Би-би-си </p>
+<p> Мобильная версия </p>
+<p> Правила пользования </p>
+<p> О Би-би-си </p>
+<p> О рекламе на сайте </p>
+<p> Конфиденциальность </p>
+<p> О сайте </p>
+<p> Ваши предпочтения </p>
+<p> Помощь </p>
+<p> Обратная связь </p>
+<p> /*<![CDATA[*/ (function() { var mLink = document.getElementById('blq-footer-mobile'), stick = function() { var d = new Date (); d.setYear(d.getFullYear() + 1); d = d.toUTCString(); window.bbccookies.set('ckps_d=m;domain=.bbc.co.uk;path=/;expires=' + d ); window.bbccookies.set('ckps_d=m;domain=.bbc.com;path=/;expires=' + d ); }; if (mLink) {  if (mLink.addEventListener) { mLink.addEventListener('click', stick, false); } else if (mLink.attachEvent) { mLink.attachEvent('onclick', stick); } } })(); /*]]>*/ </p>
+<p> BBC © 2013 </p>
+<p> Би-би-си не несет ответственности за содержание других сайтов. </p>
+<p> Эта страница оптимально работает в совеменном браузере с активированной функцией style sheets (CSS). Вы сможете знакомиться с содержанием этой страницы и при помощи Вашего нынешнего браузера, но не будете в состоянии воспользоваться всеми ее возможностями. Пожалуйста, подумайте об обновлении Вашего браузера или об активации функции style sheets (CSS), если это возможно. </p>
+<p> if (typeof require !== 'undefined') { require(['istats-1'], function(istats){ istats.track('external', { region: document.getElementById('blq-main') }); istats.track('download', { region: document.getElementById('blq-main') }); }); } </p>
+<p> <![CDATA[ <div id="blq-panel-promo" class="blq-masthead-container"></div> ]]> </p>
+<p> <![CDATA[ <div id="blq-panel-more" class="blq-masthead-container  blq-ws-font blq-clearfix" lang="en-GB" dir="ltr"> <div class="blq-panel-container panel-paneltype-more"> <div class="panel-header"> <h2> <a href="/a-z/">  Ресурсы Би-би-си  </a> </h2>  </div> <div class="panel-component panel-links">   <p id="blq-eng" lang="ru-RU">Сайты Би-би-си на английском:</p> <p class="blq-hide">Three navigation lists follow:</p> <ul class="blq-nav-sub blq-first"> <li><a href="/a-z/" class="panel-header-link">Full A-Z<span class="blq-hide"> of BBC sites</span></a></li> </ul>       <ul>   <li> <a href="http://www.bbc.co.uk/news/"  >News</a> </li>    <li> <a href="http://news.bbc.co.uk/sport/"  >Sport</a> </li>   </ul>  <ul>   <li> <a href="http://www.bbc.co.uk/weather/"  >Weather</a> </li>    <li> <a href="/worldservice/languages/"  >Languages</a> </li>   </ul>  <ul>   <li> <a href="/tv/"  >TV</a> </li>    <li> <a href="/radio/"  >Radio</a> </li>   </ul>   </div> </div> ]]> </p>

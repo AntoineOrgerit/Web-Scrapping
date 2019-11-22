@@ -1,0 +1,141 @@
+<p> 明年合同电煤涨价禁超5% - 宏观经济 - 21CN.COM </p>
+<p> document.domain = "21cn.com"; </p>
+<p> /*site-bar*/         .site-bar{height:27px; border-bottom:1px solid #ddd; background:#F3F3F3; color:#656565; font-size:12px}         .site-bar .site-bar-inner{width:980px; margin:0 auto}         .site-bar a{line-height:26px; color:#656565; display:inline-block; text-decoration:none}         .site-bar a:hover{text-decoration:underline}         .site-bar .site-bar-channel{float:left; height:26px; line-height:26px; _padding-top:4px}         .site-bar .site-bar-channel a{padding:0 2px}         .site-bar .site-bar-link{float:right}         .site-bar .site-bar-link a{padding:0 7px}         .site-bar .site-bar-link .register,         .site-bar .site-bar-link .wap,         .site-bar .site-bar-link .homepage{background-image:url(http://www.21cn.com/other/css/2011/site-bar/bgimg/site-bar.png); background-repeat:no-repeat;}         .site-bar .site-bar-link .register{padding-left:20px; background-position:0 -57px; background-position:0 -60px\9}         .site-bar .site-bar-link .wap{ padding-left:24px;  background-position: 6px -81px; background-position:6px -84px\9}         .site-bar .site-bar-link .homepage{padding-left:24px; background-position: 6px -103px; background-position:6px -106px\9}         .site-bar .site-bar-link .freemail{color:#C80000 } </p>
+<p> 首页 </p>
+<p> - </p>
+<p> 新闻 </p>
+<p> - </p>
+<p> 社会 </p>
+<p> - </p>
+<p> 财经 </p>
+<p> - </p>
+<p> 汽车 </p>
+<p> - </p>
+<p> 房产 </p>
+<p> - </p>
+<p> 家居 </p>
+<p> - </p>
+<p> 科技 </p>
+<p> - </p>
+<p> 体育 </p>
+<p> - </p>
+<p> 娱乐 </p>
+<p> - </p>
+<p> 明星 </p>
+<p> - </p>
+<p> 游戏 </p>
+<p> - </p>
+<p> 女人 </p>
+<p> - </p>
+<p> 生活 </p>
+<p> - </p>
+<p> 旅游 </p>
+<p> - </p>
+<p> 社区 </p>
+<p> 注册免费邮箱 </p>
+<p> 免费邮箱 </p>
+<p> 企业邮箱 </p>
+<p> | </p>
+<p> 手机网 </p>
+<p> | </p>
+<p> 设为首页 </p>
+<p> function SetHome(c, a) {             try {                 document.body.style.behavior = "url(#default#homepage)";                 document.body.setHomePage(a)             } catch(b) {                 if (window.netscape) {                     try {                         netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect")                     } catch(b) {                         alert("抱歉，此操作被浏览器拒绝！\n\n请在浏览器地址栏输入'about:config'并回车然后将[signed.applets.codebase_principal_support]设置为'true'。")                     }                 } else {                     alert("抱歉，您所使用的浏览器无法完成此操作。\n\n您需要手动将'" + a + "'设为首页。")                 }             }         };     //         (function(){             function getUrlParam(name){                 var reg = new RegExp("(^|&)"+ name +"=([^&]*)(&|$)");                 var r = window.location.search.substr(1).match(reg);                 if (r!=null) return unescape(r[2]); return null;             }             var out=getUrlParam('out');             if(out==null){                 document.getElementById('J_sitebar').style.display='block';             }          })(); </p>
+<p> <!-- //取出频道名 var arrHost = document.location.hostname.split("."); var sChannel = arrHost[0]; document.write("<iframe id='iframe_xuant1' name='iframe_xuant1' src='http://shows.21cn.com/ashow?js=0&log=1&ref=1&pos=21cn|"+ sChannel+"|end_tl1' width='960' height='100' frameborder='0' border='0' marginwidth='0' marginheight='0' scrolling='no' ></iframe>"); //--> </p>
+<p> 首页 </p>
+<p> > </p>
+<p> 金融财经 </p>
+<p> > </p>
+<p> 财经新闻 </p>
+<p> >   正文 </p>
+<p> 热点： </p>
+<p> 明年合同电煤涨价禁超5% </p>
+<p> 2011-12-16 01:06:38 </p>
+<p> | </p>
+<p> 我来说两句 </p>
+<p> ( </p>
+<p> 0 </p>
+<p> ) </p>
+<p> 摘自京华时报 </p>
+<p> 昨天，国家发改委下发《关于做好2012年煤炭产运需衔接工作的通知》，要求落实价格调控政策，稳定发电用煤价格，其中合同电煤控制价格涨幅在5%以内，并设定市场交易电煤最高限价。此举意味着明年电煤价格涨幅正好控制在“红线”内，电价上涨压力锐减。昨日发改委下发的通知称，煤炭是重要的基础能源，煤价大幅上涨对发电企业影响较大，各有关方面要进一步提高对电煤价格调控重要性的认识，稳定发电用煤价格。其中... </p>
+<p> [点击进入浏览] </p>
+<p> 责任编辑：AP0015 </p>
+<p> 分享心情 </p>
+<p> jQuery(document).ready(function () {               jQuery('#J_mood').Mood({ operaId: 22, contentId: 10155202, typeId: 2027, subject: '明年合同电煤涨价禁超5%', threadUrl: 'http://finance.21cn.com/news/macro/2011/12/16/10155202.shtml' });             }); </p>
+<p> /*mood-app*/ /*share-app*/ .share-app { padding: 10px 10px 0; line-height: 32px; } .share-app .txt { float: left; font-size: 14px; font-weight: 700; color: #333333; } .share-app .txt em { color: #63B340; font-family: Constantia,Georgia; font-size: 18px; margin: 0 3px; } .share-app button { float: left; display: inline-block; width: 32px; height: 32px; overflow: hidden; background: url(http://www.21cn.com/other/js/asset/app/share/bgimg/share-ico.png) no-repeat; padding-top: 32px; margin-right: 5px; border: 0; } .share-app button:hover { border-color: #C8DCF5; background-color: #E3EAFA; -webkit-transform: scale(1.1); -moz-transform: scale(1.1); -o-transform: scale(1.1); -transform: scale(1.1); } .share-app .share2qzone, #J_share2qzone { background-position: 0px 0px; } .share-app .share2sinaweibo, #J_share2sinaweibo { background-position: 0px -32px; } .share-app .share2qqweibo, #J_share2qqweibo { background-position: 0px -128px; } .share-app .share2renren, #J_share2renren { background-position: 0px -64px; } .share-app .share2sohu, #J_share2sohu  { background-position: 0px -192px; } .share-app .share2kaixin, #J_share2kaixin { background-position: 0px -96px; } .share-app .share2baidu, #J_share2baidu { background-position: 0px -224px; } .share-app .share2douban, #J_share2douban { background-position: 0px -256px; } .share-app .share2fetion, #J_share2fetion { background-position: 0px -160px; } .share-app .share2tianyi, #J_share2tianyi { background-position: 0px -288px; } /*tooltip*/ .tooltip { display: none; padding: 5px; background-color: #FFF; border: 1px solid #CCC; text-align: center;*zoom: 1;-webkit-border-radius: 5px;-moz-border-radius:5px;border-radius:5px;} </p>
+<p> 分享到： </p>
+<p> QQ空间 </p>
+<p> 新浪微博 </p>
+<p> 腾讯微博 </p>
+<p> 人人网 </p>
+<p> 搜狐微博 </p>
+<p> 开心网 </p>
+<p> 百度搜藏 </p>
+<p> 豆瓣网 </p>
+<p> 飞信 </p>
+<p> 天翼 </p>
+<p> var ShareApp={};               $(function () {                 //Share_App                 var Share_Title = $('#text').find('h1:first').text(); // 分享标题                 var Share_Pic = $('#article_content').find('img:first').attr('src'); // 分享图片                 var Share_RalateUid = '1865979352'; // sina微博UID                 var Share_Site = 'http://news.21cn.com'; // 腾讯微博site                 ShareApp = Share_App($('#share-app'), { title: Share_Title, pic: Share_Pic, ralateUid: Share_RalateUid, site: Share_Site });               }); </p>
+<p> <!-- //取出频道名 var arrHost = document.location.hostname.split("."); var sChannel = arrHost[0]; document.write('<scr'+'ipt type="text/javascript" src="http://shows.21cn.com/ashow?js=1&log=1&ref=1&pos=21cn|'+sChannel+'|end_hf"></scr'+'ipt>'); //--> </p>
+<p> var chid="22"; 	 	 var article_id="10155202"; 	   var type_id="2027"; 	   var title="明年合同电煤涨价禁超5%"; 	   var pubtime="2011-12-16 01:06:38".substring(0,10); 	   var url=window.location.href; 	   var invokeUrl=" http://ranking.21cn.com/add.addservlet?ArticleID="+article_id+"&ChannelID="+chid+"&url="+url+"&title="+title+"&pubtime="+pubtime+"&type_id="+type_id; 	   if (url.indexOf(":8") == -1) { 	     document.getElementById("clickFrame").src=invokeUrl; 	   } </p>
+<p> 财经新闻 </p>
+<p> 一季度国民经济数据公布 GDP增长8.1% </p>
+<p> 初步测算，一季度国内生产总值107995亿元，按可比价格计算，同比增长8.1%。 </p>
+<p> 波音787客机频繁出故障 美国当局叫停使用(图) </p>
+<p> 波音787客机频繁出故障 美国当局叫停使用(图) </p>
+<p> 波音787事故致5名乘客受轻伤 停飞待查 </p>
+<p> 波音787尚未获国内适航证 分析称因事故多延缓 </p>
+<p> 证券新闻 </p>
+<p> 龙年A股走势将前低后高 6板块或成追捧对象 </p>
+<p> A股市场：告别单边下跌历史规律显示，当经济周期进入高通胀阶段后，货币开始收缩，继而依次引起经济回落和通胀回落，此阶段，股票市场是先跌估值、后跌盈利预期的过程;相反，当经济周期进入到低通胀阶段后... </p>
+<p> A股正复制历史行情 是否重蹈2003覆辙难定论 </p>
+<p> 军工变脸暴跌 沪指跌1.11%再失2300点 </p>
+<p> 空头再发威沪指跌1.11%破2300 军工股领跌 </p>
+<p> 军工航天板块跌4.23% 中原特钢跌停 </p>
+<p> <!-- //取出频道名 var arrHost = document.location.hostname.split("."); var sChannel = arrHost[0]; document.write("<iframe id='iframe_xuant1' name='iframe_xuant1' src='http://shows.21cn.com/ashow?js=0&log=1&ref=1&pos=21cn|"+ sChannel+"|end_xuant1' width='300' height='250' frameborder='0' border='0' marginwidth='0' marginheight='0' scrolling='no' ></iframe>"); //--> </p>
+<p> 关注我们 </p>
+<p> 21CN </p>
+<p> 新浪微博 </p>
+<p> 正在加载... </p>
+<p> 21CN </p>
+<p> 腾讯微博 </p>
+<p> 正在加载... </p>
+<p> $(function(){     //tooltip     $("#weibo_list .J_weibo").tooltip({predelay:500,offset: [-8, 0],         onBeforeShow: function(){             var tip = this.getTip();             if (!tip.hasClass('init')) {                 tip.addClass('init');                 var iframe = document.createElement("iframe");                 iframe.src = tip.children().attr('src');                 iframe.width = '250';                 iframe.height = '80';                 iframe.frameBorder = '0';                 iframe.scrolling = 'no';                 iframe.className = 'share_self';                 if (iframe.attachEvent) {                     iframe.attachEvent("onload", function(){ 						$(".loading",tip).hide();                     });                 }                 else {                     iframe.onload = function(){ 						$(".loading",tip).hide();                     };                 }                                 tip.prepend(iframe);             }         }     }); 	}); </p>
+<p> 热点新闻 </p>
+<p> | </p>
+<p> 更多 </p>
+<p> 中央领导收入曝光：月收入1万1 </p>
+<p> 孙俪赴台捞金气质淡雅 </p>
+<p> 舌尖上的血腥鲨鱼贸易 </p>
+<p> 美校园枪击案催生儿童防弹产品 </p>
+<p> 山西长治发生苯胺泄漏事故 </p>
+<p> 英媒曝日本残忍捕猎交易海豚内幕 </p>
+<p> 广东番禺菜农“垃圾肥”种菜 混杂破药瓶废电池 </p>
+<p> 中央领导收入曝光：月收入1万1 </p>
+<p> 财经年终盘点：2012�丝回忆录 </p>
+<p> <!-- //取出频道名 var arrHost = document.location.hostname.split("."); var sChannel = arrHost[0]; document.write("<iframe id='iframe_xuant2' name='iframe_xuant2' src='http://shows.21cn.com/ashow?js=0&log=1&ref=1&pos=21cn|"+ sChannel+"|end_xuant2' width='300' height='250' frameborder='0' border='0' marginwidth='0' marginheight='0' scrolling='no' ></iframe>"); //--> </p>
+<p> 社区 </p>
+<p> | </p>
+<p> 更多 </p>
+<p> 纽约华裔蜗居生活 </p>
+<p> 中国巨资援建非洲 </p>
+<p> 韩寒起诉方舟子能胜诉吗？ </p>
+<p> 中国人过大年，日本人赚大钱 </p>
+<p> 美国和中国的分歧到底有多大 </p>
+<p> 国产新型歼-16攻击力更强大 </p>
+<p> VGO </p>
+<p> | </p>
+<p> 更多 </p>
+<p> 天际浩劫 </p>
+<p> 整编特工 </p>
+<p> 新西游记 </p>
+<p> 赵氏孤儿 </p>
+<p> 人在�途 </p>
+<p> 新水浒传 </p>
+<p> 经营许可证编号: </p>
+<p> 粤B2-20040116 </p>
+<p> 不良信息举报： </p>
+<p> [点击联系] 即时在线客服 </p>
+<p> 世纪龙信息网络有限责任公司版权所有 </p>
+<p> 服务声明 </p>
+<p> (function(){var analytics_host='analytics.21cn.com/collect/';var pkBaseURL=(('https:'==document.location.protocol)?'https://'+analytics_host:'http://'+analytics_host);document.write(unescape('%3Cscript src='+pkBaseURL+'js/wa_tracking.js type=text/javascript%3E%3C/script%3E'));var analytics_time=0;function timeout_fun(){setTimeout(function(){if(typeof(WATrace)!='undefined'){track()}else if(analytics_time<100){timeout_fun();analytics_time++}},500)}function track(){try{_wa_trace_track=WATrace.getTracker(pkBaseURL+'_trace.gif','aOxuz');if(typeof(_wa_beforeload)!="undefined")_wa_trace_track.setBeforeload(_wa_beforeload);_wa_trace_track.trackPageView();_wa_trace_track.enableLinkTracking()}catch(err){}}new timeout_fun()})(); </p>
+<p> var _thisUrl= location.href; var _index=_thisUrl.indexOf('_'); if(_index!=-1){ 	_thisUrl= _thisUrl.substring(0,_index)+'.shtml' } var tempStr ='<div class="title"> 相关新闻：  </div><ul class="art">';                                       	for(var i=0;i<5;i++){ 														if(contentList[i]!=null&&contentList[i].ContentTitle!=null&&contentList[i].ContentUrl!=_thisUrl){ 															tempStr = tempStr+"<li><a href='"+contentList[i].ContentUrl+"' target='_blank'>"+contentList[i].ContentTitle+"</a>  <span>"+contentList[i].CreateTime.substr(0,10)+"</span></li>";                      		}                         	}            tempStr = tempStr+" </ul>"; if(contentList[0]!=null&&contentList[0].ContentTitle!=null) 					document.getElementById("forTag").innerHTML=tempStr; </p>
+<p> var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://"); document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F296043b9597d22c97d90d2ec049e656b' type='text/javascript'%3E%3C/script%3E")); </p>

@@ -1,0 +1,279 @@
+<p> 市场巨大 肝炎疫苗研发成热点_财讯.COM </p>
+<p> GS_googleAddAdSenseService("ca-pub-1753776201213826"); GS_googleEnableAllServices(); </p>
+<p> GA_googleAddSlot("ca-pub-1753776201213826", "stocks_column"); </p>
+<p> GA_googleFetchAds(); </p>
+<p> var commentArticleID = "NE034juu"; 	var commentArticleType = 1; 	var commentAritcleTitle = "市场巨大 肝炎疫苗研发成热点"; 	var channelID = "0000000n"; 	var pageData = ''; </p>
+<p> <!-- function MM_reloadPage(init) {  //reloads the window if Nav4 resized   if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {     document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}   else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload(); } MM_reloadPage(true); function MM_findObj(n, d) { //v4.01   var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {     d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}   if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];   for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);   if(!x && d.getElementById) x=d.getElementById(n); return x; } function MM_moveLayers(){         var ttop,tleft,h,w;         var i,p,v,obj,args=MM_moveLayers.arguments;         for (i=0; i<(args.length); i++){                 if(i == 0){                         obj = args[0];                         evt=args[2];                         evt=evt?evt:window.event;                           tleft = evt.clientX+document.body.scrollLeft-5;                           ttop  = evt.clientY+document.documentElement.scrollTop-5;                 }else{                         if ((obj=document.getElementById(args[i]))!=null){                                 if (obj.style){                                         obj.style.left = tleft+'px';                                         obj.style.top  = ttop+2+'px';                                 }                         }                 }         } } function MM_showHideLayers() { //v6.0     var i,p,v,obj,args=MM_showHideLayers.arguments;     for (i=0; i<(args.length-2); i+=3)     	if ((obj=MM_findObj(args[i]))!=null){         	v=args[i+2];             if (obj.style){                 obj=obj.style; v=(v=='show')?'visible':(v=='hide')?'hidden':v;             }             obj.visibility=v;     	} } var stocksCode = '重庆啤酒||600132**天坛生物||600161**海正药业||600267**恒瑞医药||600276**广州药业||600332**通化东宝||600867**吉林敖东||000623**华兰生物||002007**科华生物||002022**双鹭药业||002038**广州药业||600332**通化东宝||600867**'; jQuery(document).ready(function(){ 	if ( stocksCode != '' ){         var urlMarket = '/app/common/article/getMarketGraph.ajax.php?code=' + stocksCode;     	jQuery.ajax({ 				type:'get', 				contentType:'application/x-www-form-urlencoded; charset=GB2312', 				url:urlMarket, 				cache:false, 				success:function(data){jQuery('#stockmarket').empty().append(data)} 	    });       } });  function showMarketGraph(name,code){ 	var html="<span id = marketText"+code+">"+name+"("+code+")</span>"; 	document.write(html); 	var id="marketText"+code; 	jQuery.ajax({ 				type:'get', 				contentType:'application/x-www-form-urlencoded; charset=GB2312', 				url:'/app/common/article/getMarketText.ajax.php?code='+code, 				cache:false, 				success:function(data){jQuery('#'+id).empty().append(data);} 	    }); } //--> </p>
+<p> 财讯首页 </p>
+<p> - </p>
+<p> 新闻 </p>
+<p> - </p>
+<p> 经济 </p>
+<p> - </p>
+<p> 商业 </p>
+<p> - </p>
+<p> 理财 </p>
+<p> - </p>
+<p> 基金 </p>
+<p> - </p>
+<p> 股票 </p>
+<p> - </p>
+<p> 期货 </p>
+<p> - </p>
+<p> 外汇 </p>
+<p> - </p>
+<p> 生活 </p>
+<p> - </p>
+<p> 专题 </p>
+<p> - </p>
+<p> 评论 </p>
+<p> - </p>
+<p> 解盘 </p>
+<p> - </p>
+<p> 论坛 </p>
+<p> - </p>
+<p> 博客 </p>
+<p> - </p>
+<p> 互动 </p>
+<p> 财迷会所 </p>
+<p> 益智财迷 </p>
+<p> 电子报 </p>
+<p> 手机版 </p>
+<p> document.write('<a style="display:none!important" id="tanx-a-mm_29161077_2449754_9409438"></a>');      tanx_s = document.createElement("script");      tanx_s.type = "text/javascript";      tanx_s.charset = "gbk";      tanx_s.id = "tanx-s-mm_29161077_2449754_9409438";      tanx_s.async = true;      tanx_s.src = "http://p.tanx.com/ex?i=mm_29161077_2449754_9409438";      tanx_h = document.getElementsByTagName("head")[0];      if(tanx_h)tanx_h.insertBefore(tanx_s,tanx_h.firstChild); </p>
+<p> if (channelID!="00000003"){document.write('<a href="http://www.caixun.com/">首页</a>&gt;');} </p>
+<p> 股票 </p>
+<p> > </p>
+<p> if (channelID=="00000003")($("#rtchannelhome").attr("href","http://www.caixun.com")); </p>
+<p> 正文 </p>
+<p> function search_gotoLookupN() { 	var inputValue = document.getElementById('searchText').value;	  	if(ActionChar(inputValue) == true){ 	} 	else{ 	  return false;	   	} } var searchText = $("#searchText"); searchText.focus(function(){ 	var inputValue = $(this).attr('value'); 	if(inputValue == '请输入关键字') 	{ 		$(this).attr('value',''); 	} });  searchText.blur(function(){ 	var inputValue = $(this).attr('value'); 	if(inputValue == '') 	{ 		$(this).attr('value','请输入关键字'); 	} }); //对字符串进行验证FrankMeng  function ActionChar(s){     var s = $("#searchText").val();    if(s ==" " && s=="请输入关键字")    {        $("#searchText").focus();       return false;    }    var reg = /^([a-zA-Z])|([\u0391-\uFFE5]+)|([,])|([\s])|([0-9])$/;    //var reg1 = /^$/    var str = s;    if(str == "")    {        alert("对不起关键词不能为空");  	  $("#searchText").focus();  	  //document.all.search.select();  	  return false;    }else    {          var _sivalue=false;  		  for(var i =0; i<str.length;i++){  			 var _iKeyCode =str.substring(i,i+1);  			 if(!reg.test(_iKeyCode)){  			  _sivalue=true;  		      }  		  }  		  if(_sivalue){  			alert("格式不正确!");  			$("#searchText").focus();  	        return false;  		  } else           { 		   if(trim($("#searchText").val())!="请输入关键字" && trim($("#searchText").val())!="") 		   {            var gotoUrl = "http://search.caixun.com/?k="+trim($("#searchText").val()); 	       window.open(encodeURI(gotoUrl)); 		   }else 		   { 		   alert("对不起关键词不能为空"); 		      $("#searchText").focus();  			  //document.all.search.select();  			  return false; 		   } 		  }		      }  } function trim(inputString) {            if (typeof inputString != "string") { return inputString; }         var retValue = inputString;         var ch = retValue.substring(0, 1);      while (ch == " ") {       //检查字符串开始部分的空格         retValue = retValue.substring(1, retValue.length);         ch = retValue.substring(0, 1);         }         ch = retValue.substring(retValue.length-1, retValue.length);      while (ch == " ") {                   //检查字符串结束部分的空格                   retValue = retValue.substring(0, retValue.length-1);                   ch = retValue.substring(retValue.length-1, retValue.length);                }                while (retValue.indexOf("  ") != -1) {                 //将文字中间多个相连的空格变为一个空格                   retValue = retValue.substring(0, retValue.indexOf("  ")) + retValue.substring(retValue.indexOf("  ")+1, retValue.length);                 }                return retValue;  } </p>
+<p> 市场巨大 肝炎疫苗研发成热点 </p>
+<p> 2012年01月12日 16:15  已有 </p>
+<p> 0 </p>
+<p> 人阅读 字号： </p>
+<p> T </p>
+<p> | </p>
+<p> T </p>
+<p> 复制链接 </p>
+<p> 打印 </p>
+<p> [世华财讯]近日，重庆啤酒治疗性乙肝疫苗研究宣告失败，在历时13年股价累计涨幅逾5倍后公司股价大幅下挫。 </p>
+<p> [世华财讯]近日，重庆啤酒治疗性乙肝疫苗研究宣告失败，在历时13年股价累计涨幅逾5倍后公司股价大幅下挫。在重庆啤酒乙肝疫苗风波仍未平息之时，近日，报道称历经14年研制的“重组戊型肝炎疫苗”获得国家一类新药证书和生产文号,成为世界上第一个用于预防戊型肝炎的疫苗。肝炎疫苗市场再度引起关注。目前，全球的肝炎患者数量巨大，研发肝炎防治疫苗也成为当今的疫苗市场的热点。沪深股市涉及肝炎疫苗的上市公司包括：双鹭药业、通化东宝、华兰生物、天坛生物、广州药业等。 </p>
+<p> 1月11日，由厦门大学、养生堂万泰公司联合,历经14年研制的“重组戊型肝炎疫苗”获得国家一类新药证书和生产文号,成为世界上第一个用于预防戊型肝炎的疫苗。 </p>
+<p> 中国的肝炎疫苗市场巨大，研发肝炎防治疫苗是当今的热点，治疗肝炎的用药主要是拉米夫定这些抗病毒药。如 </p>
+<p> 恒瑞医药 ( 600276 ) </p>
+<p> <!-- $.get('/app/common/article/getMarketText.ajax.php?code=600276', function(data) {   $('#stocksTxt600276').html(data); }); //--> </p>
+<p> 、 </p>
+<p> 海正药业 ( 600267 ) </p>
+<p> <!-- $.get('/app/common/article/getMarketText.ajax.php?code=600267', function(data) {   $('#stocksTxt600267').html(data); }); //--> </p>
+<p> 都有相关药物。此外， </p>
+<p> 双鹭药业 ( 002038 ) </p>
+<p> <!-- $.get('/app/common/article/getMarketText.ajax.php?code=002038', function(data) {   $('#stocksTxt002038').html(data); }); //--> </p>
+<p> 和则生产干扰素产品可以用来治疗肝炎等相关疾病。从事乙型肝炎疫苗业务的主要有 </p>
+<p> 广州药业 ( 600332 ) </p>
+<p> <!-- $.get('/app/common/article/getMarketText.ajax.php?code=600332', function(data) {   $('#stocksTxt600332').html(data); }); //--> </p>
+<p> 自2008年以来，也在研发治疗乙肝疫苗，目前已进入临床试验， </p>
+<p> 通化东宝 ( 600867 ) </p>
+<p> <!-- $.get('/app/common/article/getMarketText.ajax.php?code=600867', function(data) {   $('#stocksTxt600867').html(data); }); //--> </p>
+<p> 、 </p>
+<p> 华兰生物 ( 002007 ) </p>
+<p> <!-- $.get('/app/common/article/getMarketText.ajax.php?code=002007', function(data) {   $('#stocksTxt002007').html(data); }); //--> </p>
+<p> 、 </p>
+<p> 天坛生物 ( 600161 ) </p>
+<p> <!-- $.get('/app/common/article/getMarketText.ajax.php?code=600161', function(data) {   $('#stocksTxt600161').html(data); }); //--> </p>
+<p> 等。其中，市场认知度较高的、专门生产治疗性乙肝疫苗的两家公司是和：疗用(合成肽)乙型肝炎疫苗唯一的上市公司。而 </p>
+<p> 通化东宝 ( 600867 ) </p>
+<p> <!-- $.get('/app/common/article/getMarketText.ajax.php?code=600867', function(data) {   $('#stocksTxt600867').html(data); }); //--> </p>
+<p> 子公司研发的乙肝新药则是传统治疗乙肝药物。之前，被炒得沸沸扬扬的 </p>
+<p> 吉林敖东 ( 000623 ) </p>
+<p> <!-- $.get('/app/common/article/getMarketText.ajax.php?code=000623', function(data) {   $('#stocksTxt000623').html(data); }); //--> </p>
+<p> 则是“生物人工肝（ELAD）项目”首个国内研究者。除此之外， </p>
+<p> 科华生物 ( 002022 ) </p>
+<p> <!-- $.get('/app/common/article/getMarketText.ajax.php?code=002022', function(data) {   $('#stocksTxt002022').html(data); }); //--> </p>
+<p> 生产的乙型肝炎病毒、丙型肝炎病毒核酸检测试剂盒(PCR-荧光法)获得药监局新药证书和生产批准文号。 </p>
+<p> 病毒性肝炎是危害最大的一类肝炎，传染性强。引起的病毒主要有甲、乙、丙、丁、戊五型。甲型和戊型肝炎病毒通过肠道传染，病毒污染水源或食物后可形成大流行，不过不会发展为慢性，也不会引起肝硬化，并且患病后有终身免疫力。乙、丙、丁型病毒性肝炎均通过血液传播，乙、丙型肝炎可转为慢性，并可能演变为肝硬化甚至肝癌。 </p>
+<p> 1 </p>
+<p> 2 </p>
+<p> 3 </p>
+<p> 下一页 </p>
+<p> 尾页 </p>
+<p> 单页阅读 </p>
+<p> 已有 </p>
+<p> 0 </p>
+<p> 人阅读 字号： </p>
+<p> T </p>
+<p> | </p>
+<p> T </p>
+<p> 复制链接 </p>
+<p> 打印 </p>
+<p> RSS </p>
+<p> 分享 </p>
+<p> function sendurl(){ 	var title = window.document.title; 	title = title.replace("_财讯.COM",""); 	var url = window.location.href; 	document.getElementById("kaixin").href='http://www.kaixin001.com/repaste/share.php?rurl='+encodeURIComponent(url)+'&rcontent='+encodeURIComponent('世华财讯―'+title)+'&rtitle='+encodeURIComponent('世华财讯―'+title);     	document.getElementById("xianguo").href='http://xianguo.com/service/submitdigg/?link='+encodeURIComponent(url)+'&title='+encodeURIComponent('世华财讯―'+title); 	document.getElementById("tengxun").href='http://v.t.qq.com/share/share.php?url='+encodeURIComponent(url)+'&title='+encodeURIComponent('世华财讯―'+title); 	return false; }  function gotoWB(){ 	var title = window.document.title; 	title = title.replace("_财讯.COM",""); 	var url = window.location.href;      var content = '<a href="'+url+'" taget="_blank">'+title+'</a>';  	$("#wbexcerpt").attr('value', content); 	 	document.wbForm.submit(); } </p>
+<p> 财讯微博 </p>
+<p> 新浪微博 </p>
+<p> 腾讯微博 </p>
+<p> 搜狐微博 </p>
+<p> 开心网 </p>
+<p> 鲜果网 </p>
+<p> 相关新闻 </p>
+<p> ・ </p>
+<p> 疫苗存疑重庆啤酒无量跌停 </p>
+<p> 2011/12/09 </p>
+<p> ・ </p>
+<p> 数据不透明：重啤疫苗可能“翻盘” </p>
+<p> 2011/12/09 </p>
+<p> ・ </p>
+<p> 重庆啤酒揭盲不理想 警惕生物医药过度炒作 </p>
+<p> 2011/12/08 </p>
+<p> ・ </p>
+<p> 重庆啤酒乙肝疫苗“泡”吹大了 </p>
+<p> 2011/12/08 </p>
+<p> ・ </p>
+<p> 疫苗概念股横空出世 五只个股有望成“先锋(股) </p>
+<p> 2011/12/02 </p>
+<p> ・ </p>
+<p> 生物技术三大突破 领航生物医药产业 </p>
+<p> 2011/11/29 </p>
+<p> ・ </p>
+<p> 重庆啤酒：3.5亿人口的市场前景 </p>
+<p> 2011/11/28 </p>
+<p> ・ </p>
+<p> 疫苗产业获政策支持 治疗型疫苗将快速增长 </p>
+<p> 2011/11/25 </p>
+<p> ・ </p>
+<p> 一机构抛售3778万元 重庆啤酒乙肝疫苗二期数据将揭晓 </p>
+<p> 2011/11/25 </p>
+<p> ・ </p>
+<p> 十二五医药转型重研发 新药类公司面临机遇 </p>
+<p> 2011/08/22 </p>
+<p> 关键词 </p>
+<p> 保健医疗 </p>
+<p> 一般消费品 </p>
+<p> 世华撰稿 </p>
+<p> 行业研究 </p>
+<p> 医药制造 </p>
+<p> 上市公司点评 </p>
+<p> 中西药制造 </p>
+<p> 分析稿 </p>
+<p> 股票 </p>
+<p> 热门专题 </p>
+<p> 中国春运之变！ </p>
+<p> 年终奖那点事儿 </p>
+<p> 银行用户信息疑遭泄露 </p>
+<p> 蒙牛含毒不能道歉了事 </p>
+<p> 商界2011：面孔与记忆 </p>
+<p> 2012中国经济十大猜想 </p>
+<p> 防辐射服是个传说？ </p>
+<p> 2012中国需要什么主义 </p>
+<p> 盘点2011中国财经生活 </p>
+<p> 盘点2011：公司的选择 </p>
+<p> 聚焦楼市双限令 </p>
+<p> 电信联通遭遇反垄断 </p>
+<p> $(function(){ 		$('#subject').loopedCarousel({ 			spacing: 18 		}); 	}); </p>
+<p> 财讯推广 </p>
+<p> document.write('<a style="display:none!important" id="tanx-a-mm_29161077_2449754_9432028"></a>');      tanx_s = document.createElement("script");      tanx_s.type = "text/javascript";      tanx_s.charset = "gbk";      tanx_s.id = "tanx-s-mm_29161077_2449754_9432028";      tanx_s.async = true;      tanx_s.src = "http://p.tanx.com/ex?i=mm_29161077_2449754_9432028";      tanx_h = document.getElementsByTagName("head")[0];      if(tanx_h)tanx_h.insertBefore(tanx_s,tanx_h.firstChild); </p>
+<p> 论坛相关 </p>
+<p> ・ </p>
+<p> ZT:如何看待高铁亏损 </p>
+<p> ・ </p>
+<p> ZT:高铁车票为何这么贵？ </p>
+<p> ・ </p>
+<p> ZT:高铁建设将成金融风险高发区 </p>
+<p> ・ </p>
+<p> 高铁建设为了谁 </p>
+<p> ・ </p>
+<p> ZT:价值重估与价值回归 </p>
+<p> ・ </p>
+<p> 沪指3000点纠结 续演估值修复 </p>
+<p> ・ </p>
+<p> 22日金银价再创新高 银价首次突破万元大关 </p>
+<p> ・ </p>
+<p> 业绩助推 全球股市再现逼人牛气 </p>
+<p> ・ </p>
+<p> 涨幅榜背景大揭秘 </p>
+<p> ・ </p>
+<p> 业余“股神”代客炒股成被告 </p>
+<p> 新闻排行 </p>
+<p> 新能源汽车技术路线或生变 比亚迪何去何从？ </p>
+<p> 淘宝商城改名天猫 阿里巴巴还剩什么 </p>
+<p> 市场巨大 肝炎疫苗研发成热点 </p>
+<p> 圣元奶粉被疑致死 行业发展再添变数 </p>
+<p> 朗玛信息中止发行 新股改革制度迫在眉睫 </p>
+<p> 创业板指弱势调整 收盘跌逾1% </p>
+<p> 茅台五粮液入胡润奢侈品榜 行业进步还是倒退 </p>
+<p> 1月12日十大实力私募共爆最新股市传闻内参 </p>
+<p> 珈伟光伏创业板首发获通过 供应商依赖存风险 </p>
+<p> 九兴2011年总收入14.928亿美元 增长15% </p>
+<p> 财讯推荐 </p>
+<p> ・ </p>
+<p> 12月CPI涨4.1% 创15月新低 </p>
+<p> ・ </p>
+<p> 食品价上涨掣肘政策出台 </p>
+<p> ・ </p>
+<p> 政策影响偏正面 </p>
+<p> ・ </p>
+<p> 提振国企指数走高 </p>
+<p> ・ </p>
+<p> 收评:沪指收跌0.05% 或延续调整走势 </p>
+<p> ・ </p>
+<p> 新均衡在形成 </p>
+<p> ・ </p>
+<p> 将挑战60日均线 </p>
+<p> ・ </p>
+<p> 反弹走向第二步 </p>
+<p> ・ </p>
+<p> 市场有休整要求 </p>
+<p> ・ </p>
+<p> 车企高管密集调整 </p>
+<p> 博客推荐 </p>
+<p> ・ </p>
+<p> 多方山穷水尽 大盘考验2580点 </p>
+<p> ・ </p>
+<p> 八省份公布地方债 海南债务率超93% </p>
+<p> ・ </p>
+<p> 养生必晓：数数女人老得快的十大原委 </p>
+<p> ・ </p>
+<p> 美债降级 一个时代的终结？ </p>
+<p> ・ </p>
+<p> 中国股市的四大历史机遇（8月8日） </p>
+<p> ・ </p>
+<p> 解决出租司机罢工岂能一吊了之？ </p>
+<p> ・ </p>
+<p> 网上逃犯年底前自首有“优惠” </p>
+<p> ・ </p>
+<p> 中国人为何生活得像驴子? </p>
+<p> ・ </p>
+<p> 铁道部，请珍惜血染的动车残骸 </p>
+<p> ・ </p>
+<p> 业内人士称5年后北京或面临保姆荒 </p>
+<p> <!-- google_ad_client = "pub-1753776201213826"; /* 300x250, 创建于 08-7-1 */ google_ad_slot = "8472505445"; google_ad_width = 300; google_ad_height = 250; //--> </p>
+<p> /*300*250，创建于2011-7-20*/ var cpro_id = 'u547227'; </p>
+<p> var foja_mm_flag=true; </p>
+<p> var foja_mm_pos=1; </p>
+<p> var foja_mm_style='sytle1-1'; </p>
+<p> var foja_mm_info=1; </p>
+<p> 网站地图 </p>
+<p> | </p>
+<p> 关于我们 </p>
+<p> | </p>
+<p> 公司动态 </p>
+<p> | </p>
+<p> 合作伙伴 </p>
+<p> | </p>
+<p> 诚征英才 </p>
+<p> | </p>
+<p> 著作权申明 </p>
+<p> | </p>
+<p> 隐私权保护 </p>
+<p> | </p>
+<p> 免责申明 </p>
+<p> | </p>
+<p> 广告服务 </p>
+<p> | </p>
+<p> 联系我们 </p>
+<p> | </p>
+<p> 友情链接 </p>
+<p> Copyright © 2011 caixun.com All rights reserved. 版权所有财讯.com </p>
+<p> 京ICP备07028176号 </p>
+<p> 京公网安备110301000051号 </p>
+<p> var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://"); document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F85ed4b194c2b844325d6954ed724c818' type='text/javascript'%3E%3C/script%3E")); </p>
+<p> visittrack_siteId = '25'; visittrack_url = 'http://gather.shushang-z.cn/Gather/trace.do'; VisitTrack.visittrack_log( visittrack_siteId, visittrack_url); </p>
+<p> var _gaq = _gaq || [];   _gaq.push(['_setAccount', 'UA-22871819-1']);   _gaq.push(['_setDomainName', '.caixun.com']);   _gaq.push(['_trackPageview']);   (function() {     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);   })(); </p>

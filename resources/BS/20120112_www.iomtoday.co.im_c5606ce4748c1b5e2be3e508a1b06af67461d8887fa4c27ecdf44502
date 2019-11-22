@@ -1,0 +1,558 @@
+<p> var siteKey = 'iom'; </p>
+<p> Breast care surgeon will start next month - Health - iomtoday </p>
+<p> var randomnumber=Math.floor(Math.random()*10000000000); 	var tileNumber = 1; </p>
+<p> //<!-- 	  var gs_topics = "DEFAULT"; 	  document.write('<scr' + 'ipt type="text/javascript" src="http://johnston.grapeshot.co.uk/topics.cgi?url=' + escape(top.location.href) + '"></scr' + 'ipt>');   // --> </p>
+<p> //<!-- 		var rsi_segs = []; 		var segs_beg = document.cookie.indexOf('rsi_segs='); 		if (segs_beg >= 0) { 		    segs_beg = document.cookie.indexOf('=', segs_beg) + 1; 		    if (segs_beg > 0) { 		        var segs_end = document.cookie.indexOf(';', segs_beg); 		        if (segs_end == -1) segs_end = document.cookie.length; 		        rsi_segs = document.cookie.substring(segs_beg, segs_end).split('|'); 		    }  		} 		var segLen = 20; 		var segQS = ""; 		if (rsi_segs.length < segLen) { segLen = rsi_segs.length } 		for (var i = 0; i < segLen; i++) { 		    segQS += ("rsi" + "=" + rsi_segs[i] + ";") 		}	 	// --> </p>
+<p> DM_tag(); </p>
+<p> document.write('<script src="http://ad.uk.doubleclick.net/adj/iomonline.jp/health;nav=news;nav=health;pgid=14130359;tile='+tileNumber+';sz=728x90;' + (typeof(segQS) != "undefined" ? segQS : "") + ';gs_cat='+gs_topics+';dcopt=ist;ord='+randomnumber+'?" type="text/javascript"></scr'+'ipt>'); tileNumber++; </p>
+<p> #twitwrapper { 	float:left; 	width:206px; 	height:74px; 	background:URL(http://www2.iomtoday.co.uk/Puffs/Puff1/twitter_background.jpg) no-repeat; 	position:relative; 	padding:8px; 	}  ul#tweet-container {  padding:0px;  margin:0px;  color: #6e6f73;  float: left;  list-style:none;  overflow:hidden;  font:11px/12px Arial, Helvetica, sans-serif;  font-weight:bold;  width:202px; }  h7 { font:11px Arial, Helvetica, sans-serif; color:#2c2c2c; top:65px; left:10px; position:absolute;  } h7 a {   color:#005da4; } #tweet-container p {  padding: 0px;  margin: 0px; } #tweet-container p a {  color: #45799f;  text-decoration: none; } </p>
+<p> iomnewspapers </p>
+<p> News </p>
+<p> Isle of Man News </p>
+<p> District News </p>
+<p> Business </p>
+<p> Jobs </p>
+<p> Politics </p>
+<p> Election 2011 </p>
+<p> Education </p>
+<p> Traffic and Transport </p>
+<p> Health </p>
+<p> UK Health News </p>
+<p> Editors' Blog </p>
+<p> Letters </p>
+<p> Video/Audio </p>
+<p> Columns </p>
+<p> Regional </p>
+<p> UK News </p>
+<p> Sponsored by </p>
+<p> Sport </p>
+<p> Isle of Man Sport </p>
+<p> Football News </p>
+<p> Football Features </p>
+<p> Hockey </p>
+<p> Golf </p>
+<p> Cricket </p>
+<p> Isle of Man TT / Manx Grand Prix </p>
+<p> UK Sport </p>
+<p> Sponsored by </p>
+<p> Lifestyle </p>
+<p> What's On Listings </p>
+<p> Manx Entertainment News </p>
+<p> UK Showbiz </p>
+<p> Games and Puzzles </p>
+<p> eMags </p>
+<p> Horoscopes </p>
+<p> Reader Offers </p>
+<p> Reader Competitions </p>
+<p> Motors </p>
+<p> Bingo </p>
+<p> Buy A Photo </p>
+<p> Community </p>
+<p> Find It </p>
+<p> Family Notices </p>
+<p> In Memoriam </p>
+<p> Birthdays </p>
+<p> Weddings </p>
+<p> Anniversaries </p>
+<p> Special Day Notices </p>
+<p> Best Wishes </p>
+<p> Public Notices </p>
+<p> Property Sales </p>
+<p> Property Lettings </p>
+<p> Planning Applications </p>
+<p> Chemist Rota </p>
+<p> Blogs </p>
+<p> Debate </p>
+<p> Travel and Tourism Information </p>
+<p> Local Businesses </p>
+<p> Search site </p>
+<p> $("#frm-search-term").val(getQuerystring('freeTextQuery','')); </p>
+<p> Thursday 12 January 2012 </p>
+<p> Log in </p>
+<p> Register </p>
+<p> Welcome </p>
+<p> Change profile </p>
+<p> Log out </p>
+<p> Welcome </p>
+<p> Log out </p>
+<p> Find it </p>
+<p> Jobs </p>
+<p> Property </p>
+<p> Motors </p>
+<p> Announcements </p>
+<p> var loginStatusResponse; 	var loginResponseSet = false; 	var loginHandlers = new Array();      function loadLogin(json) { 		loginStatusResponse = json;         if (json.loginStatus.loggedIn) {             if (json.loginStatus.accessProfile) {                 $('#profileLogoutPanel').show();                 $('#logoutPanel').hide();                 $('#loginRegisterPanel').hide();                 $('#username1').text( json.loginStatus.screenname );             } else {                 $('#profileLogoutPanel').hide();                 $('#logoutPanel').show();                 $('#loginRegisterPanel').hide();                 $('#username2').text( json.loginStatus.screenname );             }                         $('#subscribeNLWidgetLoggedOut').hide();             $('#subscribeNLWidgetLoggedIn').show();         } else {             $('#loginRegisterPanel').show();             $('#logoutPanel').hide();             $('#profileLogoutPanel').hide();             $('#subscribeNLWidgetLoggedIn').hide();             $('#subscribeNLWidgetLoggedOut').show();         }  		loginResponseSet = true; 		$(document).trigger('loginResponse');		     }          				$(document).ready(function() {     	if (($.cookie("sessionKey") == null) && ($.cookie("rememberMe") == null) ) {     		loadLogin({loginStatus:{loggedIn:false}});     	} else {             $.getJSON('/ajax?action=loginStatus', loadLogin);     	} 	}); </p>
+<p> You are here </p>
+<p> News </p>
+<p> > </p>
+<p> Health </p>
+<p> function testfunction(commentid) {                 var commentidvar = commentid;                 $("input#reportcommentid").val( commentidvar );             } </p>
+<p> Sponsored by </p>
+<p> Breast care surgeon will start next month </p>
+<p> Published on </p>
+<p> Wednesday 11 January 2012 16:22 </p>
+<p> THE identity of the island’s new breast care surgeon has been revealed. </p>
+<p> Ms Millie Bello will take on the permanent post as of February 1 and brings with her impeccable credentials and a massive amount of expertise in the area. </p>
+<p> Ms Bello’s official title is consultant general surgeon with a special interest in oncoplastic breast surgery and breast care. In reality this means she is a breast care specialist who will be able to develop the island’s breast care service while providing vital general surgery on-call cover. </p>
+<p> Her appointment, plus plans to develop the service, means many women who would have had to travel off-island for treatment will no longer have to do so. She and her team at Noble’s Hospital will be charged with offering a wider range of enchanced services on-island, including oncoplastic breast surgery, sentinel node biopsy, immediate and delayed breast reconstruction, symmetrisation surgery and aesthetic breast reconstruction. </p>
+<p> Ms Bello, who has been a consultant general surgeon with a special interest in breast surgery for 10 years in the UK, has spent the last six-and-a-half years working at Nottingham University Hospital’s Breast Institute, a centre of excellence in the provision of breast care services. </p>
+<p> ‘I am very excited about coming to the Isle of Man,’ she said. ‘I’ve already made a number of visits and the island offers an excellent quality of life. The community seems very friendly and I’ve already been made to feel welcome. I’m very much looking forward to working with colleagues to develop the island’s breast care service, ensuring that patients receive the highest standard of care possible.’ </p>
+<p> Email to a friend </p>
+<p> Print this page </p>
+<p> Comments </p>
+<p> There are </p>
+<p> 3 comments </p>
+<p> to this article </p>
+<p> Order by: </p>
+<p> Newest first </p>
+<p> | </p>
+<p> Oldest first </p>
+<p> Page </p>
+<p> 1 </p>
+<p> of </p>
+<p> 1 </p>
+<p> 1 </p>
+<p> Show all </p>
+<p> 3 </p>
+<p> Catty </p>
+<p> Thursday, January 12, 2012 at 08:57 AM </p>
+<p> Try telling my missus (a nurse of almost 30 years) that the NHS works 9 - 5. Actually, don't, especially after a 12 hour shift with no breaks! </p>
+<p> Report Unsuitable </p>
+<p> $('.reportlink').hide(); </p>
+<p> 2 </p>
+<p> SJR </p>
+<p> Wednesday, January 11, 2012 at 07:25 PM </p>
+<p> Anyone who finds a lump on their breast  should be immediately scanned for piece of mind.Never mind waiting for weeks for an appointment with all the worry involved.If that means the scanner being used 247 then sobeit.The waiting list would soon be slashed and people could get on with their lives.The way the NHS works 9-5 is a disgrace. </p>
+<p> Report Unsuitable </p>
+<p> $('.reportlink').hide(); </p>
+<p> 1 </p>
+<p> mariamaria </p>
+<p> Wednesday, January 11, 2012 at 06:44 PM </p>
+<p> Good news indeed, now we have a competent breast surgeon who also is qualified to do general surgery, a good result.   I am so glad Brenda Cannell and her protesters did not manage to blackmail the last Health Minister with their  ridiculous demands on a very emotive subject.   I am a surviving, at the moment, breast cancer patient and am grateful for the care I  have experienced, but realise it would not have been sensible or cost effective to have a surgeon who only dealt with this one aspect of care.   As a small Island the number of breast cancer patients do not justify this position.  I  hope Ms Bello enjoys the beneifits of living on such a beautiful Island and she is made very welcome. </p>
+<p> Report Unsuitable </p>
+<p> $('.reportlink').hide(); </p>
+<p> Order by: </p>
+<p> Newest first </p>
+<p> | </p>
+<p> Oldest first </p>
+<p> Page </p>
+<p> 1 </p>
+<p> of </p>
+<p> 1 </p>
+<p> 1 </p>
+<p> Show all </p>
+<p> function onBlur(field) {             if (field.value == '') field.value = field.defaultValue;         }         function onFocus(field) {             if (field.defaultValue == field.value) field.value = '';         } 		function postComment(field) { 		var body = $('#body'); 		var val = body.val(); 		var def = body.attr ('defaultValue'); 		if (val==def || val=='') { 			alert ("Please enter a comment"); 			return false; 		} 		var btn = document.getElementById("postCommentBtn"); 		btn.disabled=true; 		btn.textContent='Sending...'; 		 		var myJSONObject = {"body": val, "action": "postcomment", "submitted": "true", "ajax": "true", "contentid": "ContentId(1.4130359)"}; 		var postMessage = "<br /><b>Your comment has been posted.</b>"; 		 		jQuery.post("http://www.iomtoday.co.im/news/health/breast_care_surgeon_will_start_next_month_1_4130359", myJSONObject, function(result){  			var htmlResult = $(result).find ('#commentsSection'); 			$('#commentsSection').html(htmlResult); 			$('#ajaxPost').html(postMessage); 			$('.loggedout').empty(); 			$('#loggedinas').text( loginStatusResponse.loginStatus.screenname ); 			$('.reportlink').show();  		});  		return false; 		 		} </p>
+<p> Logged in as: </p>
+<p> Comment here. </p>
+<p> Start typing your comment here: </p>
+<p> Post comment </p>
+<p> Please adhere to our </p>
+<p> Community guidelines </p>
+<p> Your view </p>
+<p> Please </p>
+<p> sign in </p>
+<p> to be able to comment on this story. </p>
+<p> $(document).bind('loginResponse', function() { 		if( loginStatusResponse.loginStatus.email ) { 			$('#frm-email-input').val( loginStatusResponse.loginStatus.email ); 		} 		if (loginStatusResponse.loginStatus.loggedIn) { 			$('.loggedout').empty(); 			$('#loggedinas').text( loginStatusResponse.loginStatus.screenname ); 			$('.reportlink').show(); 		} else { 			$('.loggedin').empty(); 		} 	}); </p>
+<p> Top stories </p>
+<p> Air traffic boosted by poor weather </p>
+<p> Study to provide insight into gambling </p>
+<p> In today’s Manx Independent </p>
+<p> Witness appeal after bus incident </p>
+<p> VIDEO: Can you spot yourself in the Cave crowd? </p>
+<p> News </p>
+<p> Isle of Man News </p>
+<p> District News </p>
+<p> Business </p>
+<p> Jobs </p>
+<p> Politics </p>
+<p> Election 2011 </p>
+<p> Education </p>
+<p> Traffic and Transport </p>
+<p> Health </p>
+<p> UK Health News </p>
+<p> Editors' Blog </p>
+<p> Letters </p>
+<p> Video/Audio </p>
+<p> Columns </p>
+<p> Regional </p>
+<p> UK News </p>
+<p> document.write('<script src="http://ad.uk.doubleclick.net/adj/iomonline.jp/health;nav=news;nav=health;pgid=14130359;tile='+tileNumber+';sz=300x250;' + (typeof(segQS) != "undefined" ? segQS : "") + ';gs_cat='+gs_topics+';ord='+randomnumber+'?" type="text/javascript"></scr'+'ipt>'); tileNumber++; </p>
+<p> Popular </p>
+<p> Most comments </p>
+<p> Most shared </p>
+<p> Which Manx cafe does best builder’s brekkie? </p>
+<p> International Space Station above Laxey </p>
+<p> Fears over new tax threat to Isle of Man </p>
+<p> Save £1000: don’t use phone in the car </p>
+<p> £1 million BBC boost for Isle of Man ‘unrealistic’ </p>
+<p> Save £1000: don’t use phone in the car </p>
+<p> Isle of Man’s electricity network among best </p>
+<p> International Space Station above Laxey </p>
+<p> Which Manx cafe does best builder’s brekkie? </p>
+<p> Town and village investment is ‘key’ </p>
+<p> Are you ready for post strike? </p>
+<p> Murderer Leece sentenced to life in prison </p>
+<p> CHRISTMAS SPORTING ACTIVITIES </p>
+<p> Engineering success hailed </p>
+<p> International Space Station above Laxey </p>
+<p> Search for: </p>
+<p> (Plumber, Taxi, McDonalds...) </p>
+<p> Where? </p>
+<p> (town, county etc.) </p>
+<p> "Business owner? - Claim your business and Advertise with us" </p>
+<p> In association with </p>
+<p> function performJobSearch() {     var strUrl = "http://www.jobstoday.co.uk/cgi-bin/advsearch?search_type=quick&location_within=10&reqd_salary_low=ANY&reqd_salary_hifh=ANY&daysback=7&location_include=Isle of Man,Isle of Man&fp_skill_include="; 	     window.open(strUrl + $('#jobSearchFrm #keywords').val() + "&SiteKey=" + siteKey); }  function performCarSearch() {     var manufactureId = $('#carSearchFrm #make option:selected').val();     var maufactureName = $('#carSearchFrm #make option:selected').text();     var modelId = $('#carSearchFrm #model option:selected').val();     var modelName = $('#carSearchFrm #model option:selected').text();     if(modelName == "Any Model")     {         modelName = "";     }     var minPrice = $('#carSearchFrm #priceFrom option:selected').val();     var maxPrice = $('#carSearchFrm #priceTo option:selected').val();          var strUrl = "http://www.motorstoday.co.uk/results.aspx?location=Isle of Man&keywords=&manufacturerid=" + manufactureId + "&manufacturername=" + maufactureName + "&modelid=" + modelId + "&modelname=" + modelName + "&minage=-1&maxage=-1&minprice=" + minPrice + "&maxprice=" + maxPrice + "&maxmileage=-1&radius=10&type=3&sortorder=2&page=1&searchtype=1&derivitive=&fueltype=-1&bodytype=-1&doors=-1&colour=-1&enginesize=-1&transmission=-1"; 	strUrl = strUrl + "&SiteKey=" + siteKey; 	     window.open(strUrl); }  function performPropertySearch() {     var orderType = $('#propertySearchFrm input[name=buyRent]:checked').val();     var maxPrice = (orderType == 0)                     ? $('#propertySearchFrm #priceToBuy option:selected').val()                     : $('#propertySearchFrm #priceToRent option:selected').val();     var minPrice = (orderType == 0)                     ? $('#propertySearchFrm #priceFromBuy option:selected').val()                     : $('#propertySearchFrm #priceFromRent option:selected').val();     var bedrooms = $('#propertySearchFrm #bedrooms option:selected').val();          var strUrl = "http://www.propertytoday.co.uk/propertyresults.aspx?Town=Isle of Man&MaxPrice=" + maxPrice + "&MinPrice=" + minPrice + "&Radius=5&OrderType=1&Bedrooms=" + bedrooms;     if(orderType == 1)     {         strUrl += "&Rent=true";     }     strUrl = strUrl + "&SiteKey=" + siteKey; 	     window.open(strUrl); } </p>
+<p> Looking for... </p>
+<p> Featured advertisers </p>
+<p> Jobs </p>
+<p> Search for a job </p>
+<p> Keywords: </p>
+<p> Search </p>
+<p> Motors </p>
+<p> Search for a car </p>
+<p> Make </p>
+<p> Model </p>
+<p> Any Model </p>
+<p> Price from </p>
+<p> £0 </p>
+<p> £500 </p>
+<p> £1,000 </p>
+<p> £2,000 </p>
+<p> £3,000 </p>
+<p> £4,000 </p>
+<p> £5,000 </p>
+<p> £6,000 </p>
+<p> £7,000 </p>
+<p> £8,000 </p>
+<p> £9,000 </p>
+<p> £20,000 </p>
+<p> £10,000 </p>
+<p> £11,000 </p>
+<p> £12,000 </p>
+<p> £13,000 </p>
+<p> £14,000 </p>
+<p> £15,000 </p>
+<p> £16,000 </p>
+<p> £17,000 </p>
+<p> £18,000 </p>
+<p> £19,000 </p>
+<p> £22,500 </p>
+<p> £27,500 </p>
+<p> £30,000 </p>
+<p> £35,000 </p>
+<p> £40,000 </p>
+<p> £50,000 </p>
+<p> £75,000 </p>
+<p> £100,000 </p>
+<p> £250,000 </p>
+<p> Price to </p>
+<p> £500 </p>
+<p> £1,000 </p>
+<p> £2,000 </p>
+<p> £3,000 </p>
+<p> £4,000 </p>
+<p> £5,000 </p>
+<p> £6,000 </p>
+<p> £7,000 </p>
+<p> £8,000 </p>
+<p> £9,000 </p>
+<p> £20,000 </p>
+<p> £10,000 </p>
+<p> £11,000 </p>
+<p> £12,000 </p>
+<p> £13,000 </p>
+<p> £14,000 </p>
+<p> £15,000 </p>
+<p> £16,000 </p>
+<p> £17,000 </p>
+<p> £18,000 </p>
+<p> £19,000 </p>
+<p> £22,500 </p>
+<p> £27,500 </p>
+<p> £30,000 </p>
+<p> £35,000 </p>
+<p> £40,000 </p>
+<p> £50,000 </p>
+<p> £75,000 </p>
+<p> £100,000 </p>
+<p> £250,000 </p>
+<p> £500,000 </p>
+<p> Search </p>
+<p> Property </p>
+<p> Search for a house </p>
+<p> Buy </p>
+<p> Rent </p>
+<p> Bedrooms </p>
+<p> 1 </p>
+<p> 2 </p>
+<p> 3 </p>
+<p> 4 </p>
+<p> 5+ </p>
+<p> Price from </p>
+<p> under £30,000 </p>
+<p> £30,000 </p>
+<p> £40,000 </p>
+<p> £50,000 </p>
+<p> £60,000 </p>
+<p> £70,000 </p>
+<p> £80,000 </p>
+<p> £90,000 </p>
+<p> £100,000 </p>
+<p> £125,000 </p>
+<p> £150,000 </p>
+<p> £175,000 </p>
+<p> £200,000 </p>
+<p> £225,000 </p>
+<p> £250,000 </p>
+<p> £275,000 </p>
+<p> £300,000 </p>
+<p> £325,000 </p>
+<p> £350,000 </p>
+<p> £375,000 </p>
+<p> £400,000 </p>
+<p> £425,000 </p>
+<p> £450,000 </p>
+<p> £475,000 </p>
+<p> £500,000 </p>
+<p> £550,000 </p>
+<p> £600,000 </p>
+<p> £650,000 </p>
+<p> £700,000 </p>
+<p> £800,000 </p>
+<p> £900,000 </p>
+<p> £1,000,000 </p>
+<p> £1,500,000 </p>
+<p> £2,000,000 </p>
+<p> £3,000,000 </p>
+<p> Price from </p>
+<p> £200 </p>
+<p> £300 </p>
+<p> £400 </p>
+<p> £500 </p>
+<p> £600 </p>
+<p> £700 </p>
+<p> £800 </p>
+<p> £900 </p>
+<p> £1,000 </p>
+<p> £1,250 </p>
+<p> £1,500 </p>
+<p> £1,750 </p>
+<p> £2,000 </p>
+<p> £2,250 </p>
+<p> £2,500 </p>
+<p> £2,750 </p>
+<p> £3,000 </p>
+<p> £3,500 </p>
+<p> £4,000 </p>
+<p> £4,500 </p>
+<p> £5,000 </p>
+<p> £6,000 </p>
+<p> £7,000 </p>
+<p> £8,000 </p>
+<p> £9,000 </p>
+<p> £10,000 </p>
+<p> Price to </p>
+<p> £30,000 </p>
+<p> £30,000 </p>
+<p> £40,000 </p>
+<p> £50,000 </p>
+<p> £60,000 </p>
+<p> £70,000 </p>
+<p> £80,000 </p>
+<p> £90,000 </p>
+<p> £100,000 </p>
+<p> £125,000 </p>
+<p> £150,000 </p>
+<p> £175,000 </p>
+<p> £200,000 </p>
+<p> £225,000 </p>
+<p> £250,000 </p>
+<p> £275,000 </p>
+<p> £300,000 </p>
+<p> £325,000 </p>
+<p> £350,000 </p>
+<p> £375,000 </p>
+<p> £400,000 </p>
+<p> £425,000 </p>
+<p> £450,000 </p>
+<p> £475,000 </p>
+<p> £500,000 </p>
+<p> £550,000 </p>
+<p> £600,000 </p>
+<p> £650,000 </p>
+<p> £700,000 </p>
+<p> £800,000 </p>
+<p> £900,000 </p>
+<p> £1,000,000 </p>
+<p> £1,500,000 </p>
+<p> £2,000,000 </p>
+<p> £3,000,000 </p>
+<p> Price to </p>
+<p> £200 </p>
+<p> £300 </p>
+<p> £400 </p>
+<p> £500 </p>
+<p> £600 </p>
+<p> £700 </p>
+<p> £800 </p>
+<p> £900 </p>
+<p> £1,000 </p>
+<p> £1,250 </p>
+<p> £1,500 </p>
+<p> £1,750 </p>
+<p> £2,000 </p>
+<p> £2,250 </p>
+<p> £2,500 </p>
+<p> £2,750 </p>
+<p> £3,000 </p>
+<p> £3,500 </p>
+<p> £4,000 </p>
+<p> £4,500 </p>
+<p> £5,000 </p>
+<p> £6,000 </p>
+<p> £7,000 </p>
+<p> £8,000 </p>
+<p> £9,000 </p>
+<p> £10,000 + </p>
+<p> Search </p>
+<p> document.write('<script src="http://ad.uk.doubleclick.net/adj/iomonline.jp/health;nav=news;nav=health;pgid=14130359;tile='+tileNumber+';sz=120x600,160x600;' + (typeof(segQS) != "undefined" ? segQS : "") + ';gs_cat='+gs_topics+';ord='+randomnumber+'?" type="text/javascript"></scr'+'ipt>'); tileNumber++; </p>
+<p> Weather for Isle of Man </p>
+<p> Thursday 12 January 2012 </p>
+<p> 5 day forecast </p>
+<p> Today </p>
+<p> Sunny spells </p>
+<p> Temperature: 5 C to 11 C </p>
+<p> Wind Speed: 20 mph </p>
+<p> Wind direction:  North west </p>
+<p> Tomorrow </p>
+<p> Sunny spells </p>
+<p> Temperature: 5 C to 9 C </p>
+<p> Wind Speed: 8 mph </p>
+<p> Wind direction:  South west </p>
+<p> <!--     google_ad_client = "pub-3983566827577797";     /* 336x280, created 21/12/09 */     google_ad_slot = "4162618247";     google_ad_width = 336;     google_ad_height = 280;     //--> </p>
+<p> Home </p>
+<p> Home </p>
+<p> Contact us </p>
+<p> Register </p>
+<p> Topics A-Z </p>
+<p> News </p>
+<p> Isle of Man News </p>
+<p> District News </p>
+<p> Business </p>
+<p> Jobs </p>
+<p> Politics </p>
+<p> Election 2011 </p>
+<p> Education </p>
+<p> Traffic and Transport </p>
+<p> Health </p>
+<p> UK Health News </p>
+<p> Editors' Blog </p>
+<p> Letters </p>
+<p> Video/Audio </p>
+<p> Columns </p>
+<p> Regional </p>
+<p> UK News </p>
+<p> Sport </p>
+<p> Isle of Man Sport </p>
+<p> Football News </p>
+<p> Football Features </p>
+<p> Hockey </p>
+<p> Golf </p>
+<p> Cricket </p>
+<p> Isle of Man TT / Manx Grand Prix </p>
+<p> UK Sport </p>
+<p> Lifestyle </p>
+<p> What's On Listings </p>
+<p> Manx Entertainment News </p>
+<p> UK Showbiz </p>
+<p> Games and Puzzles </p>
+<p> eMags </p>
+<p> Horoscopes </p>
+<p> Reader Offers </p>
+<p> Reader Competitions </p>
+<p> Motors </p>
+<p> Bingo </p>
+<p> Buy A Photo </p>
+<p> Community </p>
+<p> Family Notices </p>
+<p> Public Notices </p>
+<p> Property Sales </p>
+<p> Property Lettings </p>
+<p> Planning Applications </p>
+<p> Chemist Rota </p>
+<p> Blogs </p>
+<p> Debate </p>
+<p> Travel and Tourism Information </p>
+<p> Local Businesses </p>
+<p> Services & Offers </p>
+<p> Jobs </p>
+<p> Motors </p>
+<p> Property </p>
+<p> Local Business </p>
+<p> Family Announcements </p>
+<p> Special Offers </p>
+<p> Competitions </p>
+<p> Buy a Photo </p>
+<p> Shop </p>
+<p> Dating </p>
+<p> Save on your energy bills </p>
+<p> Advertise With Us </p>
+<p> Bingo </p>
+<p> Contact us </p>
+<p> Help </p>
+<p> Accessibility </p>
+<p> Terms and Conditions </p>
+<p> Disclaimer and Cookie Policy </p>
+<p> All rights reserved © </p>
+<p> Johnston Publishing Ltd. </p>
+<p> This website and its associated newspaper adheres to the Press Complaints Commission’s Code of Practice. If you have a complaint about editorial content which relates to inaccuracy or intrusion, then contact the Editor by </p>
+<p> clicking  here </p>
+<p> . </p>
+<p> If you remain dissatisfied with the response provided then you can contact the PCC by </p>
+<p> clicking here </p>
+<p> . </p>
+<p> Close </p>
+<p> Send to a friend </p>
+<p> Your Friend's Name </p>
+<p> Please enter a username </p>
+<p> Your Friend's e-mail Address </p>
+<p> Please enter an email address </p>
+<p> Your Name </p>
+<p> Please enter your username </p>
+<p> Your e-mail Address </p>
+<p> Please enter your email address </p>
+<p> Your message </p>
+<p> Please enter a message </p>
+<p> Send </p>
+<p> Close </p>
+<p> Report </p>
+<p> Your reason for report </p>
+<p> Please enter a message </p>
+<p> Submit </p>
+<p> $(document).bind('loginResponse',function() { 	if (loginStatusResponse.loginStatus.loggedIn) {			 			$('#reportemail').attr( "value", loginStatusResponse.loginStatus.email );             $('#reportname').attr( "value", loginStatusResponse.loginStatus.screenname ); 		} 	}); </p>
+<p> Close </p>
+<p> Weather for Isle of Man </p>
+<p> Friday 13 January 2012 </p>
+<p> Sunny spells </p>
+<p> Temperature: 5 C to 9 C </p>
+<p> Wind Speed: 8 mph </p>
+<p> Wind direction:  South west </p>
+<p> Saturday 14 January 2012 </p>
+<p> Sunny spells </p>
+<p> Temperature: 3 C to 7 C </p>
+<p> Wind Speed: 17 mph </p>
+<p> Wind direction:  South east </p>
+<p> Sunday 15 January 2012 </p>
+<p> Cloudy </p>
+<p> Temperature: 3 C to 6 C </p>
+<p> Wind Speed: 17 mph </p>
+<p> Wind direction:  South east </p>
+<p> Monday 16 January 2012 </p>
+<p> Sunny spells </p>
+<p> Temperature: 4 C to 7 C </p>
+<p> Wind Speed: 14 mph </p>
+<p> Wind direction:  South </p>
+<p> Tuesday 17 January 2012 </p>
+<p> Light rain </p>
+<p> Temperature: 8 C to 9 C </p>
+<p> Wind Speed: 21 mph </p>
+<p> Wind direction:  South west </p>

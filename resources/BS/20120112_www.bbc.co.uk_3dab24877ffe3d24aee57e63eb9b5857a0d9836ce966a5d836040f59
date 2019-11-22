@@ -1,0 +1,304 @@
+<p> BBC News - Breastfed babies 'are more cranky and cry more' </p>
+<p> if (! window.gloader) { window.gloader = [ "glow", {map: "http://node1.bbcimg.co.uk/glow/glow/map.1.7.7.js"}]; } </p>
+<p> bbcRequireMap = {"jquery-1":"http://static.bbc.co.uk/frameworks/jquery/0.1.8/sharedmodules/jquery-1.6.2", "jquery-1.4":"http://static.bbc.co.uk/frameworks/jquery/0.1.8/sharedmodules/jquery-1.4", "swfobject-2":"http://static.bbc.co.uk/frameworks/swfobject/0.1.3/sharedmodules/swfobject-2", "demi-1":"http://static.bbc.co.uk/frameworks/demi/0.9.0/sharedmodules/demi-1", "gelui-1":"http://static.bbc.co.uk/frameworks/gelui/0.9.3/sharedmodules/gelui-1", "cssp!gelui-1/overlay":"http://static.bbc.co.uk/frameworks/gelui/0.9.3/sharedmodules/gelui-1/overlay.css", "istats-1":"http://static.bbc.co.uk/frameworks/istats/0.6.3/modules/istats-1", "relay-1":"http://static.bbc.co.uk/frameworks/relay/0.0.13/sharedmodules/relay-1", "clock-1":"http://static.bbc.co.uk/frameworks/clock/0.1.5/sharedmodules/clock-1", "canvas-clock-1":"http://static.bbc.co.uk/frameworks/clock/0.1.5/sharedmodules/canvas-clock-1", "cssp!clock-1":"http://static.bbc.co.uk/frameworks/clock/0.1.5/sharedmodules/clock-1.css", "jssignals-1":"http://static.bbc.co.uk/frameworks/jssignals/0.3.2/modules/jssignals-1", "jcarousel-1":"http://static.bbc.co.uk/frameworks/jcarousel/0.1.6/modules/jcarousel-1"}; require({ baseUrl: 'http://static.bbc.co.uk/', paths: bbcRequireMap, waitSeconds: 30 }); </p>
+<p> blq.setEnvironment('live');  if (blq.setLabel) blq.setLabel('searchSuggestion', "Search"); </p>
+<p> if(typeof(bbcdotcom) == "undefined") bbcdotcom = {}; </p>
+<p> /*<![CDATA[*/ gloader.load(["glow","1","glow.dom"],{onLoad:function(glow){glow.dom.get("html").addClass("blq-js")}}); gloader.load(["glow","1","glow.dom"],{onLoad:function(glow){glow.ready(function(){if (glow.env.gecko){var gv = glow.env.version.split(".");for (var i=gv.length;i<4;i++){gv[i]=0;}if((gv[0]==1 && gv[1]==9 && gv[2]==0)||(gv[0]==1 && gv[1]<9)||(gv[0]<1)){glow.dom.get("body").addClass("firefox-older-than-3-5");}}});}});  window.disableFacebookSDK=true; if (window.location.pathname.indexOf('+')>=0){window.disableFacebookSDK=true;}  /*]]>*/ </p>
+<p> <!-- 	bbc.fmtj.page = { 		serverTime: 1326376528000, 		editionToServe: 'international', 		queryString: null, 		referrer: null, 		section: 'health', 		sectionPath: '/Health', 		siteName: 'BBC News', 		siteToServe: 'news', 		siteVersion: 'cream', 		storyId: '16492490', 		assetType: 'story', 		uri: '/news/health-16492490', 		country: 'fr', 		masthead: false, 		adKeyword: null, 		templateVersion: 'v1_0' 	} --> </p>
+<p> $useMap({map:"http://news.bbcimg.co.uk/js/map/map_0_0_29.js"}); </p>
+<p> $loadView("0.0",["bbc.fmtj.view"]); </p>
+<p> $render("livestats-heatmap"); </p>
+<p> //<![CDATA[         require(['jquery-1'], function($){                          // set up EMP once it's loaded             var setUp = function(){                 // use our own pop out page         	    embeddedMedia.setPopoutUrl('/player/emp/2_0_29/popout/pop.stm');          	    // store EMP's notifyParent function         	    var oldNotifyParent = embeddedMedia.console.notifyParent;         	    // use our own to add livestats to popout         	    embeddedMedia.console.notifyParent = function(childWin){         	        oldNotifyParent(childWin);         	        // create new live stats url                     var liveStatsUrl = bbc.fmtj.av.emp.liveStatsForPopout($('#livestats').attr('src'));                     var webBug = $('<img />', {                                      id:  'livestats',                                      src: liveStatsUrl                                  });                     // append it to popout                     $(childWin.document).find('body').append(webBug);                 }             }                              // check if console is available to manipulate             if(window.embeddedMedia && window.embeddedMedia.console){                 setUp();             }             // otherwise emp is still loading, so add event listener             else{                 $(document).bind('empReady', function(){                     setUp();                 });             }         });     //]]> </p>
+<p> //<![CDATA[         gloader.load(['glow', '1', 'glow.dom']);     //]]> </p>
+<p> //<![CDATA[ 	     	 	     	         	     	 	     	         	     	 	    // set site specific config 	     	        bbc.fmtj.av.emp.configs.push('news'); 	     	     	    // when page loaded, write all created emps 	    glow.ready(function(){ 			if(typeof bbcdotcom !== 'undefined' && bbcdotcom.av && bbcdotcom.av.emp){ 				bbcdotcom.av.emp.configureAll(); 			} 			embeddedMedia.each(function(emp){ 				emp.set('enable3G', true); 			}); 			embeddedMedia.writeAll(); 	        // mark the emps as loaded 	        bbc.fmtj.av.emp.loaded = true; 	    }); 	//]]> </p>
+<p> $loadView("0.0",["bbc.fmtj.view.news.story"]); </p>
+<p> /*<![CDATA[*/ 	if(typeof BBC === 'undefined') var BBC = {}; 	BBC.adverts = {setZone: function(){}, configure: function(){}, write: function(){}, show: function(){}};      window.bbcdotcom={};     bbcdotcom.createObject = function(namespace){         var names   = namespace.split('.'),             next    = '',             i       = 0,             len     = names.length;         for(i; i < len; i++){             if('' !== next) {             	next = ("object" === typeof next[names[i]]) ? next[names[i]] : next[names[i]] = {};             } else {             	next = ("object" === typeof window[names[i]]) ? window[names[i]] : window[names[i]] = {};         	}         }     } /*]]>*/ </p>
+<p> /*<![CDATA[*/ 	(function(){  		var fiddleredition = '(none)'; 		var url = '/news/health-16492490'; 		switch('/news/health-16492490') { 			case "/": 			case "/default.stm": 				url = (fiddleredition === "domestic") ? "/1/hi/default.stm" : "/2/hi/default.stm"; 				break; 			case "/sport": 			case "/sport/": 			case "/sport/default.stm": 				url = (fiddleredition === "domestic") ? "/sport1/hi/default.stm" : "/sport2/hi/default.stm"; 				break; 		};  		var zone = "3pt_zone_file", 			zoneOverride = false;  		  		if(/[?|&]zone=((?!preview)\w*\/*\w+)(&|$)/.test(window.location.search)) { 			zone = RegExp.$1; 		};  		if(/[?|&]zone=(http:\/\/.+(\.bbc\.co\.uk\/){1}.*(bbccom){1}.*\.js)(&|$)/.test(window.location.search)) { 			if (RegExp.$1.indexOf("/../") === -1) { 				zone = RegExp.$1; 				zoneOverride = true; 			}; 		};   	BBC.adverts.setScriptRoot("http://news.bbcimg.co.uk/js/app/bbccom/0.3.92/");   		BBC.adverts.init({ 			domain: "www.bbc.co.uk", 			location: url, 			zoneVersion: zone, 			zoneOverride: zoneOverride, 			zoneReferrer: document.referrer 		});  	})();  	if(BBC.adverts.getNewsGvl3()) { 		 			document.write('<script language="JavaScript" src="http://news.bbcimg.co.uk/js/app/bbccom/0.3.92/advert.js"><\/script>'); 		    	}  /*]]>*/ </p>
+<p> if(BBC.adverts){ 		BBC.adverts.setPageVersion('(none)'); 	} </p>
+<p> gloader.load(["glow","1","glow.dom"],{onLoad: function(glow){ 				glow.ready(function(){ 					var adImageUrl = BBC.adverts.getAdvertTag('printableversionsponsorship','','standardUri');  					if (glow.env.ie ) { 						window.onbeforeprint = function(){ 							var printAdvert = glow.dom.get("#print-advert"); 							if (printAdvert.get("img").length == 0) 							{ 								printAdvert.append('<img src="'+adImageUrl+'" alt="" />'); 							} 						}; 					}else{ 						glow.dom.get("head").append('<style type="text/css">#print-advert {display:none};</style><style type="text/css" media="print">#print-advert::after{content:url('+adImageUrl+');} #print-advert{display:block;overflow:hidden;}</style>'); 					} 				}); 			}}); </p>
+<p> blq.setLabel('searchSuggestion', 'Search BBC News'); require(["jquery-1", "istats-1"], function ($, istats) {     $(function() {         istats.track('external', {region: $('.story-body'), linkLocation : 'story-body'});         istats.track('external', {region: $('.story-related .related-links'), linkLocation : 'related-links'});         istats.track('external', {region: $('.story-related .newstracker-list'), linkLocation : 'newstracker'});     }); }); </p>
+<p> //<![CDATA[     window.bbcFlagpoles_istats = "ON";     window.istatsTrackingUrl   = '//sa.bbc.co.uk/bbc/bbc/s?name=news.health.story.16492490.page&cps_asset_id=16492490&page_type=story&section=health&app_version=6.2.67-RC2&first_pub=2012-01-11T02:29:24+00:00&last_editorial_update=2012-01-11T02:29:24+00:00&title=Breastfed+babies+%27will+cry+more%27&comments_box=false&cps_media_type=&cps_media_state=&app_type=web&ml_name=SSI&ml_version=0.6.3&language=en-GB';  // ]]> </p>
+<p> // <![CDATA[ (function() {     var cookieDisabled = (document.cookie.indexOf('NO-SA=') != -1),         hasCookieLabels = (document.cookie.indexOf('sa_labels=') != -1),         hasClickThrough = /^#sa-(.*?)(?:-sa(.*))?$/.test(document.location.hash),         runSitestat;      runSitestat = !cookieDisabled && !hasCookieLabels && !hasClickThrough;      if (runSitestat && bbcFlagpoles_istats === 'ON') {         sitestat(istatsTrackingUrl);     }      function sitestat(n){var j=document,f=j.location,b="";if(j.cookie.indexOf("st_ux=")!=-1){var k=j.cookie.split(";");var e="st_ux",h=document.domain,a="/";if(typeof ns_!="undefined"&&typeof ns_.ux!="undefined"){e=ns_.ux.cName||e;h=ns_.ux.cDomain||h;a=ns_.ux.cPath||a}for(var g=0,f=k.length;g<f;g++){var m=k[g].indexOf("st_ux=");if(m!=-1){b="&"+unescape(k[g].substring(m+6))}}document.cookie=e+"=; expires="+new Date(new Date().getTime()-60).toGMTString()+"; path="+a+"; domain="+h}ns_pixelUrl=n;n=ns_pixelUrl+"&ns__t="+(new Date().getTime())+"&ns_c="+((j.characterSet)?j.characterSet:j.defaultCharset)+"&ns_ti="+escape(j.title)+b+"&ns_jspageurl="+escape(f&&f.href?f.href:j.URL)+"&ns_referrer="+escape(j.referrer);if(n.length>2000&&n.lastIndexOf("&")){n=n.substring(0,n.lastIndexOf("&")+1)+"ns_cut="+n.substring(n.lastIndexOf("&")+1,n.lastIndexOf("=")).substring(0,40)}(j.images)?new Image().src=n:j.write('<p><i'+'mg src="'+n+'" height="1" width="1" alt="" /></p>')}; })(); // ]]> </p>
+<p> BBC </p>
+<p> Accessibility links </p>
+<p> Skip to content </p>
+<p> Skip to local navigation </p>
+<p> Skip to bbc.co.uk navigation </p>
+<p> Skip to bbc.co.uk search </p>
+<p> Help </p>
+<p> Accessibility Help </p>
+<p> Health </p>
+<p> $render("advert","advert-sponsor-section"); </p>
+<p> $render("advert-post-script-load"); </p>
+<p> Home </p>
+<p> UK </p>
+<p> Africa </p>
+<p> Asia </p>
+<p> Europe </p>
+<p> Latin America </p>
+<p> Mid-East </p>
+<p> US & Canada </p>
+<p> Business </p>
+<p> Health </p>
+<p> Sci/Environment </p>
+<p> Tech </p>
+<p> Entertainment </p>
+<p> Video </p>
+<p> $render("advert","advert-leaderboard"); </p>
+<p> $render("advert-post-script-load"); </p>
+<p> 11 January 2012 </p>
+<p> Last updated at </p>
+<p> 02:29 GMT </p>
+<p> Share this page </p>
+<p> Delicious </p>
+<p> Digg </p>
+<p> Facebook </p>
+<p> reddit </p>
+<p> StumbleUpon </p>
+<p> Twitter </p>
+<p> Email </p>
+<p> Print </p>
+<p> <!-- $render("page-bookmark-links","page-bookmark-links-head",{     useForgeShareTools:"true",     position:"top",     site:'News',      headline:'BBC News - Breastfed babies \'are more cranky and cry more\'',      storyId:'16492490',      sectionId:'99108',      url:'http://www.bbc.co.uk/news/health-16492490',      edition:'International' });  --> </p>
+<p> Breastfed babies 'are more cranky and cry more' </p>
+<p> By Michelle Roberts </p>
+<p> Health reporter, BBC News </p>
+<p> Not all cries are about hunger, experts advise </p>
+<p> Continue reading the main story </p>
+<p> Related Stories </p>
+<p> Hospital stops free formula milk </p>
+<p> Breastfeeding mothers in protest </p>
+<p> Why do so many mums stop breastfeeding? </p>
+<p> New mums should be advised that it is normal for their baby to cry more if they are breastfed, say experts. </p>
+<p> The Medical Research Council team says this irritability is natural, and although formula-fed babies may appear more content and be easier to pacify, breast is still best. </p>
+<p> If parents have more realistic expectations more may stick with breastfeeding, they hope. </p>
+<p> Most UK mums try to breastfeed. Within months the rate drops to a third. </p>
+<p> The Department of Health recommends that mothers exclusively breastfeed for the first six months after birth. </p>
+<p> The most common reason given for women to stop breastfeeding is that "Breast milk alone didn't satisfy my baby", which the MRC scientists say reflects their perception of irritability as a negative signal. </p>
+<p> But they say this crankiness in babies is normal and just their natural way of communicating their needs to their mother and is no cause for alarm. </p>
+<p> Continue reading the main story </p>
+<p> “ </p>
+<p> Start Quote </p>
+<p> Bottle-fed babies may appear more content, but research suggests that these infants may be overnourished and gain weight too quickly” </p>
+<p> End Quote </p>
+<p> Dr Ken Ong </p>
+<p> Lead investigator </p>
+<p> For example, some cries will be down to tiredness not hunger. </p>
+<p> And the reason formula babies are so serene could well be because they are overfed. </p>
+<p> Lead investigator Dr Ken Ong said: "Bottle-fed babies may appear more content, but research suggests that these infants may be overnourished and gain weight too quickly. </p>
+<p> "Our findings are essentially similar to other stages of life; people often find that eating is comforting." </p>
+<p> In their study, they asked more than 300 mums to comment on the temperament of their own baby and to state whether they were using breast or bottle. </p>
+<p> Overall, 137 of the infants were exclusively breastfed, 88 were exclusively bottle-fed, and 91 were fed with a mixture of formula and breast milk. </p>
+<p> Breastfed babies were deemed to have "more challenging temperaments" and tended to cry more. </p>
+<p> Rosie Dodds, of the National Childbirth Trust, said the new observations were useful for parents. </p>
+<p> "Mothers and babies may experience starting to breastfeed as demanding or stressful in this society where bottle-feeding is seen as the norm and breastfeeding is unfamiliar to many new parents. </p>
+<p> "It would be interesting to compare this with countries where almost all babies are breastfed. </p>
+<p> "We often hear from mothers who say that once both they and their baby got the hang of it, breastfeeding was a breeze." </p>
+<p> More on This Story </p>
+<p> Related Stories </p>
+<p> Hospital stops free formula milk </p>
+<p> 26 SEPTEMBER 2011 </p>
+<p> , </p>
+<p> MANCHESTER </p>
+<p> Breastfeeding mothers in protest </p>
+<p> 15 DECEMBER 2011 </p>
+<p> , </p>
+<p> SUSSEX </p>
+<p> Why do so many mums stop breastfeeding? </p>
+<p> 19 AUGUST 2011 </p>
+<p> , </p>
+<p> HEALTH </p>
+<p> $render("page-see-also","ID"); </p>
+<p> $render("page-newstracker","ID"); </p>
+<p> Related Internet links </p>
+<p> Medical Research Council </p>
+<p> National Childbirth Trust </p>
+<p> Around the BBC </p>
+<p> BBC - Health- Newborns- Feeding </p>
+<p> The BBC is not responsible for the content of external Internet sites </p>
+<p> $render("page-related-items","ID"); </p>
+<p> Share this page </p>
+<p> Delicious </p>
+<p> Digg </p>
+<p> Facebook </p>
+<p> reddit </p>
+<p> StumbleUpon </p>
+<p> Twitter </p>
+<p> Email </p>
+<p> Print </p>
+<p> $render("advert","advert-sponsor-module","page-bookmark-links"); </p>
+<p> $render("advert-post-script-load"); </p>
+<p> <!-- $render("page-bookmark-links","page-bookmark-links-foot",{     useForgeShareTools:"true",     position:"bottom",     site:'News',      headline:'BBC News - Breastfed babies \'are more cranky and cry more\'',      storyId:'16492490',      sectionId:'99108',      url:'http://www.bbc.co.uk/news/health-16492490',      edition:'International' });  --> </p>
+<p> $render("advert","advert-google-adsense"); </p>
+<p> $render("advert-post-script-load"); </p>
+<p> More Health stories </p>
+<p> RSS </p>
+<p> Web addicts 'have brain changes' </p>
+<p> Brain scans show changes in the brain of internet addicts similar to those found in drug and alcohol addicts, preliminary research suggests. </p>
+<p> UK clinic will not remove implants </p>
+<p> Risky viruses found in bushmeat </p>
+<p> $render("advert","advert-mpu-high"); </p>
+<p> $render("advert-post-script-load"); </p>
+<p> Top Stories </p>
+<p> Karzai condemns 'urination' video </p>
+<p> Burma signs ceasefire with rebels </p>
+<p> Exact colour of Milky Way found </p>
+<p> Pakistan president flies to Dubai </p>
+<p> Putin 'too busy' for poll debates </p>
+<p> $render("range-top-stories","range-top-stories"); </p>
+<p> $render("advert","advert-mpu-low"); </p>
+<p> $render("advert-post-script-load"); </p>
+<p> Features & Analysis </p>
+<p> Snap happy </p>
+<p> How this 1975 digital camera changed things </p>
+<p> Call me 'madame' </p>
+<p> Is the end of the French mademoiselle drawing closer? </p>
+<p> Desperate measures </p>
+<p> The Tunisian trend for men to set themselves on fire </p>
+<p> Day in pictures </p>
+<p> 24 hours of news photos from around the world </p>
+<p> $render("feature-generic","features"); </p>
+<p> Most Popular </p>
+<p> Shared </p>
+<p> 1: </p>
+<p> The end of the mademoiselle? </p>
+<p> 2: </p>
+<p> Exact colour of Milky Way found </p>
+<p> 3: </p>
+<p> World's smallest frog discovered </p>
+<p> 4: </p>
+<p> Karzai condemns 'urination' video </p>
+<p> 5: </p>
+<p> $10m prize for 'Star Trek' gadget </p>
+<p> Read </p>
+<p> 1: </p>
+<p> Exact colour of Milky Way found </p>
+<p> 2: </p>
+<p> India criticises Top Gear special </p>
+<p> 3: </p>
+<p> Karzai condemns 'urination' video </p>
+<p> 4: </p>
+<p> Five ways the digital camera changed us </p>
+<p> 5: </p>
+<p> Lucas on Hollywood colour divide </p>
+<p> 6: </p>
+<p> The end of the mademoiselle? </p>
+<p> 7: </p>
+<p> $10m prize for 'Star Trek' gadget </p>
+<p> 8: </p>
+<p> Changes to Google anger Twitter </p>
+<p> 9: </p>
+<p> Pakistan president flies to Dubai </p>
+<p> 10: </p>
+<p> Nuclear bad image blamed on Bond </p>
+<p> Video/Audio </p>
+<p> 1: </p>
+<p> Headphones 'made to fit in minutes' </p>
+<p> Watch </p>
+<p> 2: </p>
+<p> The French women who defied the Nazis </p>
+<p> Watch </p>
+<p> 3: </p>
+<p> Fears of 'Taliban video' backlash </p>
+<p> Watch </p>
+<p> 4: </p>
+<p> Fenton! Dog owner's cries an internet hit </p>
+<p> Watch </p>
+<p> 5: </p>
+<p> Piano prodigy passes Grade 8 </p>
+<p> Watch </p>
+<p> 6: </p>
+<p> One-minute World News </p>
+<p> Watch </p>
+<p> 7: </p>
+<p> Bungee snaps over Zambezi River </p>
+<p> Watch </p>
+<p> 8: </p>
+<p> Hungarian democracy 'in question' </p>
+<p> Watch </p>
+<p> 9: </p>
+<p> Tablet PC 'makes cup of coffee' </p>
+<p> Watch </p>
+<p> 10: </p>
+<p> The extreme end of immersive gaming </p>
+<p> Watch </p>
+<p> $render("advert","advert-sponsor-module","range-most-popular","most-popular"); </p>
+<p> $render("advert-post-script-load"); </p>
+<p> $render("most-popular","most-popular"); </p>
+<p> Elsewhere on the BBC </p>
+<p> Living in: Lisbon </p>
+<p> Blessed with a subtropical climate and beaches close by, the city’s main selling point is a high quality of life </p>
+<p> $render("advert","advert-sponsor-module","hyper-promotional-content","living-in-lisbon"); </p>
+<p> $render("advert-post-script-load"); </p>
+<p> $render("hyper-promotional-content","promotional-content"); </p>
+<p> $render("advert","advert-partner-button"); </p>
+<p> $render("advert-post-script-load"); </p>
+<p> Programmes </p>
+<p> Click </p>
+<p> Watch </p>
+<p> The in-ear headphones that become a perfect customised fit for you in minutes </p>
+<p> $render("advert","advert-sponsor-module","programme-breakout","click"); </p>
+<p> $render("advert-post-script-load"); </p>
+<p> $render("container-programmes-promotion","container-programme-promotion"); </p>
+<p> $render("advert","advert-mpu-bottom"); </p>
+<p> $render("advert-post-script-load"); </p>
+<p> Services </p>
+<p> News feeds </p>
+<p> Mobile </p>
+<p> Podcasts </p>
+<p> Alerts </p>
+<p> E-mail news </p>
+<p> About BBC News </p>
+<p> Editors' blog </p>
+<p> BBC College of Journalism </p>
+<p> News sources </p>
+<p> World Service Trust </p>
+<p> Mobile </p>
+<p> Search term: </p>
+<p> bbc.co.uk navigation </p>
+<p> News </p>
+<p> Sport </p>
+<p> Weather </p>
+<p> Travel </p>
+<p> TV </p>
+<p> Radio </p>
+<p> More </p>
+<p> CBBC </p>
+<p> CBeebies </p>
+<p> Comedy </p>
+<p> Food </p>
+<p> Health </p>
+<p> History </p>
+<p> Learning </p>
+<p> Music </p>
+<p> Science </p>
+<p> Nature </p>
+<p> Local </p>
+<p> Northern Ireland </p>
+<p> Scotland </p>
+<p> Wales </p>
+<p> Full A-Z </p>
+<p> of BBC sites </p>
+<p> BBC links </p>
+<p> About the BBC </p>
+<p> BBC Help </p>
+<p> Contact Us </p>
+<p> Accessibility Help </p>
+<p> Terms of Use </p>
+<p> Careers </p>
+<p> Privacy & Cookies </p>
+<p> Advertise With Us </p>
+<p> Ad Choices </p>
+<p> BBC © 2012 </p>
+<p> The BBC is not responsible for the content of external sites. Read more. </p>
+<p> This page is best viewed in an up-to-date web browser with style sheets (CSS) enabled. While you will be able to view the content of this page in your current browser, you will not be able to get the full visual experience. Please consider upgrading your browser software or enabling style sheets (CSS) if you are able to do so. </p>
+<p> bbcdotcom.stats = {     "adEnabled" : "yes",     "contentType" : "HTML",     "audience" : "fr" }; </p>
+<p> /*<![CDATA[*/ var adKeyword = document.getElementsByName('ad_keyword'); if('/news/uk-11767495' == window.location.pathname) {     J08781.DM_addEncToLoc("Section","Royal Wedding"); } else if (undefined != adKeyword[0]) {     J08781.DM_addEncToLoc("Section",adKeyword[0].content); } else if ("undefined" != typeof bbc &&     "undefined" != typeof bbc.fmtj &&     "undefined" != typeof bbc.fmtj.page &&     "undefined" != typeof bbc.fmtj.page.section) {         J08781.DM_addEncToLoc("Section", bbc.fmtj.page.section); } J08781.DM_tag(); /*]]>*/ </p>
+<p> var s_account = "bbcwglobalprod"; </p>
+<p> <!-- /* You may give each page an identifying name, server, and channel on the next lines. */  /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/ var s_code=scw.t();if(s_code)document.write(s_code)//--> </p>
+<p> <!-- if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-') //--> </p>
+<p> document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E")); </p>
+<p> COMSCORE.beacon({         c1:2,         c2:"6035051",         c3:"",         c4:"www.bbc.co.uk/news/health-16492490",         c5:"",         c6:"",         c15:""     }); </p>
+<p> (function(w, d) {          var a = function() {              var a = d.createElement('script');              a.type = 'text/javascript';              a.async = 'async';              a.src = '//' + ((w.location.protocol === 'https:') ? 's3.amazonaws.com/cdx-radar/' : 'radar.cedexis.com/') + '01-10271-radar10.min.js';              d.body.appendChild(a);          };          if (w.addEventListener) {              w.addEventListener('load', a, false);          } else if (w.attachEvent) {              w.attachEvent('onload', a);          }      }(window, document)); </p>
+<p> (function() {     var em = document.createElement('script'); em.type = 'text/javascript'; em.async = true;     em.src = ('https:' == document.location.protocol ? 'https://me-ssl' : 'http://me-cdn') + '.effectivemeasure.net/em.js';     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(em, s);   })(); </p>
+<p> if (typeof require !== 'undefined') { require(['istats-1'], function(istats){ istats.track('external', { region: document.getElementById('blq-main') }); istats.track('download', { region: document.getElementById('blq-main') }); }); } </p>
+<p> bbc.fmtj.common.removeNoScript({}); 	bbc.fmtj.common.tabs.createTabs({}); </p>

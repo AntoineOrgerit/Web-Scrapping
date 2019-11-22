@@ -1,0 +1,1868 @@
+<p> document.domain = "guardian.co.uk"; </p>
+<p> //<![CDATA[ 				OAS_url = 'http://oas.guardian.co.uk/RealMedia/ads/'; 				OAS_sitepage = "www.guardian.co.uk/politics/reality-check-with-polly-curtis/2012/jan/12/internet-health/oas.html"; 				OAS_listpos = 'Top,Middle2,Right1,x31';  								OAS_query = 'k=health&k=internet&k=uk&cf=live&pid=&ct=article&pt=article&pt=blog&'; 				OAS_target = '_blank';  				OAS_rn = '001234567890'; 				OAS_rns = '1234567890'; 				OAS_rn = new String (Math.random()); 				OAS_rns = OAS_rn.substring (2, 11); 			//]]> </p>
+<p> Can you really be addicted to the internet?  | Politics | guardian.co.uk </p>
+<p> //<![CDATA[ 	if (!commonStaticRoot) {	 		var commonStaticRoot = "http://static.guim.co.uk/static/534a025fbd5b6ca3cafea5df66abf4d49b01b6fd/common/"; 	} 	if (!sectionStaticRoot) {	 		var sectionStaticRoot = "http://static.guim.co.uk/static/534a025fbd5b6ca3cafea5df66abf4d49b01b6fd/politics/"; 	} 	if (!staticHost) {	 		var staticHost="http://www.guardian.co.uk/"; 	} 	if (!sitePrefixUrl) { 		var sitePrefixUrl = "http://www.guardian.co.uk"; 	} //]]> </p>
+<p> var _sf_startpt=(new Date()).getTime(); </p>
+<p> window.jQuery || document.write('<script src="http://static.guim.co.uk/static/534a025fbd5b6ca3cafea5df66abf4d49b01b6fd/common/scripts/libs/jquery/1.6.4/jquery.min.js">\x3C/script>') </p>
+<p> var jQ = jQuery.noConflict(); </p>
+<p> var thirdPartyReferralCookieService = new guardian.r2.ThirdPartyReferralCookieService(); 	thirdPartyReferralCookieService.setThirdPartyReferralCookie();  	var urlStack = new UrlStack(".guardian.co.uk"); 	var communitiesSite = false;  	 			   	//<![CDATA[ 	function init() { 		urlStack.clearUrlStack(); 		var signOutLink = document.getElementById("sign-out"); 		if (signOutLink) { 			signOutLink.onclick = signOut; 		} 		 		// Purely styling 		//jQ('.js-show').removeClass('js-show'); 	}	 	 	guardian.r2.resourceRoot = "http://resource.guim.co.uk/";     var pageUrl = "http://www.guardian.co.uk/politics/reality-check-with-polly-curtis/2012/jan/12/internet-health";     var pageSignature =  "778e9bf37ec4429a03fc435586363bb57a27387fe76fe9f94065e373dc4ac089";      guardian.r2.signInListeners = new guardian.r2.SignInListeners();     (function () {	 		var signInView = new guardian.r2.SignInView("http://static.guim.co.uk/static/534a025fbd5b6ca3cafea5df66abf4d49b01b6fd/common/scripts/md5.js", communitiesSite); 		guardian.r2.signInController = new guardian.r2.SignInController(signInView, guardian.r2.signInListeners, "http://www.guardian.co.uk/tools/signin", pageUrl, pageSignature); 		 	}) (); 	 	/* 	(function () { 		var profileLinkView = new guardian.r2.ProfileLinkView(); 		profileLinkController = new guardian.r2.ProfileLinkController(profileLinkView, "http://www.guardian.co.uk/discussion/user/"); 	}) (); 	*/   	jQ(document).ready(init);  	  	var SIGN_IN_URL = 'http://www.guardian.co.uk/tools/signin'; 	var RESOURCE_ROOT = 'http://resource.guim.co.uk/'; 	var PROFILE_LINK_VIEW = "http://www.guardian.co.uk/discussion/user/"; </p>
+<p> //<![CDATA[ 	function insertStyleSheet(href) { 		var styleObject = document.createElement('link'); 		styleObject.setAttribute('href', commonStaticRoot + href); 		styleObject.setAttribute('type', 'text/css'); 		styleObject.setAttribute('media', 'screen'); 		styleObject.setAttribute('rel', 'stylesheet'); 		var head = document.getElementsByTagName('head')[0]; 		head.appendChild(styleObject); 	} 	insertStyleSheet('styles/js-on.css'); 	insertPluckStylesheet = true; 	//]]> </p>
+<p> ensurePackage('guardian.r2.omniture'); guardian.r2.omniture.isAvailable = function(){ 			return true; 	} </p>
+<p> Turn autoplay off </p>
+<p> Turn autoplay on </p>
+<p> Please activate cookies in order to turn autoplay off </p>
+<p> Jump to content [s] </p>
+<p> Jump to comments [c] </p>
+<p> Jump to site navigation [0] </p>
+<p> Jump to search [4] </p>
+<p> Terms and conditions [8] </p>
+<p> Edition: </p>
+<p> UK </p>
+<p> US </p>
+<p> Sign in </p>
+<p> Mobile </p>
+<p> About us </p>
+<p> About us </p>
+<p> Contact us </p>
+<p> Press office </p>
+<p> Guardian Print Centre </p>
+<p> Guardian readers' editor </p>
+<p> Observer readers' editor </p>
+<p> Terms of service </p>
+<p> Privacy policy </p>
+<p> Advertising guide </p>
+<p> Digital archive </p>
+<p> Digital edition </p>
+<p> Guardian Weekly </p>
+<p> Buy Guardian and Observer photos </p>
+<p> Subscribe </p>
+<p> Today's paper </p>
+<p> The Guardian </p>
+<p> G2 features </p>
+<p> Comment and debate </p>
+<p> Editorials, letters and corrections </p>
+<p> Obituaries </p>
+<p> Other lives </p>
+<p> Sport </p>
+<p> Subscribe </p>
+<p> Subscribe </p>
+<p> Subscribe to the Guardian </p>
+<p> iPhone app </p>
+<p> iPad edition </p>
+<p> Kindle </p>
+<p> Extra </p>
+<p> Guardian Weekly </p>
+<p> Digital edition </p>
+<p> All our services </p>
+<p> The Guardian </p>
+<p> Politics </p>
+<p> User comments </p>
+<p> Web </p>
+<p> News </p>
+<p> Sport </p>
+<p> Comment </p>
+<p> Culture </p>
+<p> Business </p>
+<p> Money </p>
+<p> Life & style </p>
+<p> Travel </p>
+<p> Environment </p>
+<p> TV </p>
+<p> Data </p>
+<p> Video </p>
+<p> Mobile </p>
+<p> Offers </p>
+<p> Jobs </p>
+<p> News </p>
+<p> Politics </p>
+<p> Reality check with Polly Curtis </p>
+<p> Previous </p>
+<p> Blog home </p>
+<p> addicted to the internet </p>
+<p> Can you really be addicted to the internet? </p>
+<p> Chinese scientists have observed differences in the brains of people who obsessively use the internet similar to those found in people who have substance addictions. Is this proof that the internet can be addictive? </p>
+<p> Polly Curtis </p>
+<p> , with your help, finds out. Get in touch below the line, email your views to </p>
+<p> polly.curtis@guardian.co.uk </p>
+<p> or tweet </p>
+<p> @pollycurtis </p>
+<p> Tweet this </p>
+<p> reddit this </p>
+<p> omnitracker.omniTrackEVarEvent( 12, 16, 'Politics: Reddit', 'click', '.reddit a' ); </p>
+<p> Comments ( </p>
+<p> … </p>
+<p> ) </p>
+<p> Photograph: Peter Dazeley/Getty Images </p>
+<p> Several reports today suggest that a study of the brains of people who excessively use the internet show abnormalities similar to those found in people with substance addictions could be proof that the internet has similar addictive qualities to drugs, alcohol or tobacco. The Independent's </p>
+<p> report </p>
+<p> here is the most extensive. It says: </p>
+<p> Internet addiction has for the first time been linked with changes in the brain similar to those seen in people addicted to alcohol, cocaine and cannabis. In a groundbreaking study, researchers used MRI scanners to reveal abnormalities in the brains of adolescents who spent many hours on the internet, to the detriment of their social and personal lives. The finding could throw light on other behavioural problems and lead to the development of new approaches to treatment, researchers said. An estimated 5 to 10 per cent of internet users are thought to be addicted – meaning they are unable to control their use. The majority are games players who become so absorbed in the activity they go without food or drink for long periods and their education, work and relationships suffer. </p>
+<p> But is there really such a thing as internet addiction? </p>
+<p> The claim </p>
+<p> The reports are based on </p>
+<p> this study </p>
+<p> , conducted in China and published yeserday in the online journal </p>
+<p> Public Library of Science One </p>
+<p> . The abstract says: </p>
+<p> Background </p>
+<p> Internet addiction disorder (IAD) is currently becoming a serious mental health issue around the globe. Previous studies regarding IAD were mainly focused on associated psychological examinations. However, there are few studies on brain structure and function about IAD. In this study, we used diffusion tensor imaging (DTI) to investigate white matter integrity in adolescents with IAD. </p>
+<p> Methodology/Principal Findings </p>
+<p> Seventeen IAD subjects and sixteen healthy controls without IAD participated in this study. Whole brain voxel-wise analysis of fractional anisotropy (FA) was performed by tract-based spatial statistics (TBSS) to localize abnormal white matter regions between groups. TBSS demonstrated that IAD had significantly lower FA than controls throughout the brain, including the orbito-frontal white matter, corpus callosum, cingulum, inferior fronto-occipital fasciculus, and corona radiation, internal and external capsules, while exhibiting no areas of higher FA. Volume-of-interest (VOI) analysis was used to detect changes of diffusivity indices in the regions showing FA abnormalities. In most VOIs, FA reductions were caused by an increase in radial diffusivity while no changes in axial diffusivity. Correlation analysis was performed to assess the relationship between FA and behavioral measures within the IAD group. Significantly negative correlations were found between FA values in the left genu of the corpus callosum and the Screen for Child Anxiety Related Emotional Disorders, and between FA values in the left external capsule and the Young's Internet addiction scale. </p>
+<p> Conclusions </p>
+<p> Our findings suggest that IAD demonstrated widespread reductions of FA in major white matter pathways and such abnormal white matter structure may be linked to some behavioral impairments. In addition, white matter integrity may serve as a potential new treatment target and FA may be as a qualified biomarker to understand the underlying neural mechanisms of injury or to assess the effectiveness of specific early interventions in IAD. </p>
+<p> I'm going to look into whether internet addiction is considered a medical condition. I'm also curious about the source of claims that 5-10% of internet users are addicted and unable to control their use and report back. I also wonder whether internet addiction is always a bad thing? Do you have an evidence or experience that might help? Get in touch below the line, email me at </p>
+<p> polly.curtis@guardian.co.uk </p>
+<p> or tweet </p>
+<p> @pollycurtis </p>
+<p> Analysis </p>
+<p> The </p>
+<p> Royal College of Psychiatrists </p>
+<p> told me that psychiatrists in the UK refer to two international sources to define whether a set of symptoms is a diagnosable illness or not. The World Health Organisation publishes </p>
+<p> International Classification of Diseases </p>
+<p> periodically, but the last came into use in 1994 and therefore inevitably includes no reference to the internet. </p>
+<p> The other source is the </p>
+<p> American Psychiatric Association </p>
+<p> 's </p>
+<p> Diagnostic and Statistical Manual of Mental Disorders </p>
+<p> , which is due to be updated next year. The committees responsible for formulating this policy has been debating whether to include internet addiction in its section on addictions. The current proposals reclassify internet gambling as an addiction rather than a compulsive behaviour but don't include internet addiction in its own right. This is still open to consultation, fiercely contested and subject to new evidence, including potentially the Chinese study. </p>
+<p> Last year Charles O'Brien of the University of Pennsylvania, the chair of the addictions committee, said in a press conference reported </p>
+<p> here </p>
+<p> , that internet addiction would not be included but that they would recommend future research in the area. The report said: </p>
+<p> He [O'Brien] said his work group had considered including sex and Internet addictions as disorders, but decided there was insufficient evidence to allow development of reliable diagnostic criteria for them. Consequently, gambling addiction is slated to be the only disorder formally listed in the behavioral addictions category. </p>
+<p> But O'Brien added that, under current plans, sex and Internet addictions would be included in an appendix to DSM-V, intended to encourage additional research that could lead to their inclusion in future editions. </p>
+<p> The first and obvious point to make about the Chinese study is that it's very small and therefore not conclusive of anything. The second was made by </p>
+<p> Colin Drummond </p>
+<p> , professor of addiction psychiatry at Kings College London, which has the largest </p>
+<p> research centre for psychiatry in Europe </p>
+<p> , on the Today programme this morning. You can listen to him </p>
+<p> here </p>
+<p> and he's just expanded his argument in a phone interview with me. I asked him whether internet addiction is a medical illness. He said: </p>
+<p> No. It's interesting that people who use the internet excessively seem to have different brain structures compared with people who don't but the big issue is whether we are looking at cause or effect. There is quite good evidence that people who engage in substance misuse and addictions and to some extent gambling do have problems with impulse control which fits with abnormalities in the frontal lobes of the brain similar to those in this study. But it is a big leap to go from there to suggest that the internet is re-wiring your brain. </p>
+<p> If people have emotional problems and that leads them to use the internet obsessively then they obviously need help to deal with those problems, but that's quite different to saying that the internet is addictive. Perhaps unhappy people or people with impulse control problems may well need some help. I'm not denying it' a problem for individuals, but trying to classify it as an addiction has risks attached to it. They are treating an addiction rather than emotional problems that might lead to the emotional behaviour. Excessively internet use is a symptom not a cause of a person's problems. </p>
+<p> Are people drawn to the internet because they have impulse control issues? Probably, that's part of the problem they have. The suggestion form this paper is that it's working the other way round; that it's changing people's brain functioning. The implication people who disapprove of the internet can make is that it's potentially addictive and a bad thing that could harm our youth. In China there has been a considerable problem with the publicity that internet addiction has got. In the 1990s there was one doctor giving teenagers electroshock treatment to try and cure addiction to the internet. There are other examples of programmes set up that use physical punishment to try and stop people from excessive internet use. That's one of the side effects of medicalising and trying to turn this into a disorder instead of seeing it as a type of behaviour. </p>
+<p> Gambling addiction or drug addiction is somewhat different from spending a lot of time on social network sites or playing warcraft. It's  a problem if you are surfing Facebook instead of doing your A-levels, but it's a different order to losing all your money from gambling or getting liver disease from drinking. We should be much more concerned about alcohol and tobacco addiction which is killing millions around the world. </p>
+<p> Drummond is explaining the brain patterns found in the Chinese study as being similar ones found in people who have impulse control problems – but that doesn't mean that the internet is the cause but instead it could be the symptom. He didn't deny that excessive internet use can be a problem for individuals but he argues that it trivialises "real" addictions if other behaviour is included and can warp treatment programmes. If problematic over-use of the internet is a symptom of other emotional problems, there's no point treating the symptom. </p>
+<p> But others within the psychiatric community do believe it's a real disorder. The Independent's story reports: </p>
+<p> Henrietta Bowden Jones, consultant psychiatrist at Imperial College, London, who runs Britain's only NHS clinic for internet addicts and problem gamblers, said: "The majority of people we see with serious internet addiction are gamers – people who spend long hours in roles in various games that cause them to disregard their obligations. I have seen people who stopped attending university lectures, failed their degrees or their marriages broke down because they were unable to emotionally connect with anything outside the game." </p>
+<p> Although most of the population was spending longer online, that was not evidence of addiction, she said. "It is different. We are doing it because modern life requires us to link up over the net in regard to jobs, professional and social connections – but not in an obsessive way. When someone comes to you and says they did not sleep last night because they spent 14 hours playing games, and it was the same the previous night, and they tried to stop but they couldn't – you know they have a problem. It does tend to be the gaming that catches people out." </p>
+<p> Summary </p>
+<p> Lives can suffer profoundly as a result of overusing the internet whether they are gambling, obsessively using social media sites or playing online games. But whether this means they are addicted to the internet or not is fiercely contested by psychiatrists. Some argue that there is a growing body of evidence such as the Chinese study published this week which suggests that there is a physical effect of internet addiction. But that study was too small to draw conclusions from. It also did not establish whether the brain patterns found in compulsive internet users were a cause or symptom of their behaviour. Others say that regardless, the impact is serious enough for it to require classification. </p>
+<p> The counter argument is that in fact problem compulsive use of the internet is a symptom of other conditions. Studies show that many people who cannot control their internet use have other psychiatric disorders as well. If it's taken as a disorder in its own right not only will the true cause of the problem not be identified and treated, but it could also distract focus from "real" substance addictions or mental illnesses. </p>
+<p> The American Psychiatric Association's Diagnostic and Statistical Manual of Mental Disorders has rejected classifying internet addiction as a disorder in its forthcoming revised guidance that heavily influences diagnosis and treatment in the UK. But it has indicated that further research is needed to settle the debate once and for all. </p>
+<p> The jury is still out. </p>
+<p> 12.30pm: </p>
+<p> Confessions of a self confessed addict </p>
+<p> Jonathan Haynes </p>
+<p> , web news editor at the Guardian, has written the below few paragraphs for us about his obsession with the internet. It's anecdote, rather than evidence, but I think it raises a neat point about whether compulsive use of the internet is always harmful - it's been quite instructive in Jonathan's career. Evidence of his compulsive use can be seen on his twitter home page, </p>
+<p> here </p>
+<p> . Jonathan writes: </p>
+<p> Addiction to the internet itself seems unlikely, however addiction to accessing information on it, well I'd love to try to argue against that but I cannot. When you find yourself with five columns of Twitter on Tweetdeck on a big screen right in front of you - but your hand still inexplicably reaching for your iPhone to check if what's on Twitter there is even newer … you know there's a problem. </p>
+<p> When you've disabled your email accounts because you're on holiday - and yet you still find your phone in your hand and your fingers having moved without you even noticing in search of latest messages … you know it's really not healthy. </p>
+<p> When your router breaks and your housemate suggests calling an engineer and living without the internet for a few days and you literally run to the shop to buy a new one because you can't bare the thought of even an evening with connection to the net … </p>
+<p> When the last thing you do before you sleep is tweet and the first thing when you wake up, and sometimes when you even wake up in the middle of the night and tweet then too. The internet may not be addictive itself, but it sure helps! </p>
+<p> Below the line there are a couple of points related to this. </p>
+<p> @mattmags </p>
+<p> makes thids reference: </p>
+<p> According to Professor Bruce Hood's latest book, it's not the Internet that you get addicted to, but email and social networking sites like Facebook and Twitter. It's the little hit of that you get when someone likes your post, or retweets or otherwise demonstrates approval of your input that is addictive. It's also the fact that it doesn't happen automatically, but only occassionaly, that is the real hook. Like a one-armed bandit, you only get the payback sporadically, and it's that that keeps you coming back for more. </p>
+<p> Jonathan says he's hooked on the information the internet brings, Prof Hood writes about addiction to networking sites and @epinoa makes this point: </p>
+<p> If it triggers a dopamine response then you can become addicted to it. Not a difficult assessment. </p>
+<p> If it does trigger a dopamine response is that coming from the internet or what the person is finding there? Are people addicted to the internet, or to social networks, information, gaming, shopping or pornography? </p>
+<p> 2.48pm: </p>
+<p> Prevalence </p>
+<p> I've just been speaking with </p>
+<p> Mark Griffiths from Nottingham Trent University </p>
+<p> who has been researching online addiction since 1994. I asked him specifically about the prevalence issue. He thinks that the estimations of 5-10% are wildly excessive. However, he does believe that a very small number of people are addicted to the internet in its own right but that that number is over-inflated by others who compulsively use the internet as a symptom of another psychological disorder or people who are addicted to doing things that the internet facilitates like gaming or pornography. He said: </p>
+<p> The 5-10% figure comes from a conglomeration of studies. I've been really highly critical of prevalence surveys. None of the instruments that are used assess any kind of severity. They are yes or no questions. For addictive behaviour to be classed as addictive it should have a negative detrimental effect. Those scales measure preoccupation rather than addiction. You can have obsessive gamers or internet users with no detrimental effects. </p>
+<p> In all my work on behavioural addictions I define it in terms of six components: salience – it is the single most important things in their lives; mood modification – they use it to get excited or numb themselves; tolerance – they need more of the activity to satisfy cravings; withdrawal – I would expect any genuine addict to experience psychological moodiness and irritability if they stopped and also physiological symptoms such as nausea, shakiness or anxiety attacks; conflict within themselves and with others and a subjective loss of control; and relapse - if you have managed to give up if you engage again you go straight back into old habits. When I've applied that case studies I've come across very, very few fulfil all six of those components. </p>
+<p> Alcoholism affects between 1-2% of the adult population. If it really did affect it we would have a treatment centre in every major city. That just hasn't happened. We know people seek treatment and they may be addicted to something they find on the internet. But when we investigate we end up with only a handful of people addicted to the internet in the way others are addicted to alcohol. </p>
+<p> Posted by </p>
+<p> Polly Curtis </p>
+<p> Thursday 12 January 2012 				11.41 GMT </p>
+<p> guardian.co.uk </p>
+<p> Article history </p>
+<p> About this article </p>
+<p> Close </p>
+<p> Can you really be addicted to the internet? </p>
+<p> This article was published on </p>
+<p> guardian.co.uk </p>
+<p> at </p>
+<p> 11.41 GMT on Thursday 12 January 2012 </p>
+<p> .  					   	It was last modified at </p>
+<p> 14.51 GMT on Thursday 12 January 2012 </p>
+<p> . </p>
+<p> Printable version </p>
+<p> Send to a friend </p>
+<p> Share </p>
+<p> Clip </p>
+<p> Contact us </p>
+<p> larger </p>
+<p> | </p>
+<p> smaller </p>
+<p> Email </p>
+<p> Close </p>
+<p> Recipient's email address </p>
+<p> Your first name </p>
+<p> Your surname </p>
+<p> Add a note (optional) </p>
+<p> Your IP address will be logged </p>
+<p> Share </p>
+<p> Close </p>
+<p> Short link for this page: </p>
+<p> http://gu.com/p/34jg7 </p>
+<p> StumbleUpon </p>
+<p> reddit </p>
+<p> Tumblr </p>
+<p> Digg </p>
+<p> LinkedIn </p>
+<p> Google Bookmarks </p>
+<p> del.icio.us </p>
+<p> livejournal </p>
+<p> Facebook </p>
+<p> Twitter </p>
+<p> Contact us </p>
+<p> Close </p>
+<p> Contact the Politics editor </p>
+<p> politics.editor@ </p>
+<p> guardian.co.uk </p>
+<p> Report errors or inaccuracies: </p>
+<p> userhelp@guardian.co.uk </p>
+<p> Letters for publication should be sent to: </p>
+<p> letters@guardian.co.uk </p>
+<p> If you need help using the site: </p>
+<p> userhelp@guardian.co.uk </p>
+<p> Call the main Guardian and Observer switchboard: </p>
+<p> +44 (0)20 3353 2000 </p>
+<p> Advertising guide </p>
+<p> License/buy our content </p>
+<p> UK news </p>
+<p> Technology </p>
+<p> Internet </p>
+<p> Society </p>
+<p> Health </p>
+<p> More from </p>
+<p> Reality check with Polly Curtis </p>
+<p> on </p>
+<p> Technology </p>
+<p> Internet </p>
+<p> Society </p>
+<p> Health </p>
+<p> More 			minute by minutes </p>
+<p> More 			blogposts </p>
+<p> Related </p>
+<p> 16 Nov 2011 </p>
+<p> Is youth unemployment really rising because of the eurozone crisis? </p>
+<p> 15 Nov 2011 </p>
+<p> Who is really behind the campaign to cut fuel duty? </p>
+<p> 14 Nov 2011 </p>
+<p> Is the UK's slow growth and high unemployment really caused by the eurozone crisis? </p>
+<p> 21 Nov 2011 </p>
+<p> Do windfarms work? </p>
+<p> Previous </p>
+<p> Blog home </p>
+<p> Printable version </p>
+<p> Send to a friend </p>
+<p> Share </p>
+<p> Clip </p>
+<p> Contact us </p>
+<p> Article history </p>
+<p> Email </p>
+<p> Close </p>
+<p> Recipient's email address </p>
+<p> Your first name </p>
+<p> Your surname </p>
+<p> Add a note (optional) </p>
+<p> Your IP address will be logged </p>
+<p> Share </p>
+<p> Close </p>
+<p> Short link for this page: </p>
+<p> http://gu.com/p/34jg7 </p>
+<p> StumbleUpon </p>
+<p> reddit </p>
+<p> Tumblr </p>
+<p> Digg </p>
+<p> LinkedIn </p>
+<p> Google Bookmarks </p>
+<p> del.icio.us </p>
+<p> livejournal </p>
+<p> Facebook </p>
+<p> Twitter </p>
+<p> Contact us </p>
+<p> Close </p>
+<p> Contact the Politics editor </p>
+<p> politics.editor@ </p>
+<p> guardian.co.uk </p>
+<p> Report errors or inaccuracies: </p>
+<p> userhelp@guardian.co.uk </p>
+<p> Letters for publication should be sent to: </p>
+<p> letters@guardian.co.uk </p>
+<p> If you need help using the site: </p>
+<p> userhelp@guardian.co.uk </p>
+<p> Call the main Guardian and Observer switchboard: </p>
+<p> +44 (0)20 3353 2000 </p>
+<p> Advertising guide </p>
+<p> License/buy our content </p>
+<p> About this article </p>
+<p> Close </p>
+<p> Can you really be addicted to the internet? </p>
+<p> This article was published on </p>
+<p> guardian.co.uk </p>
+<p> at </p>
+<p> 11.41 GMT on Thursday 12 January 2012 </p>
+<p> .  					   	It was last modified at </p>
+<p> 14.51 GMT on Thursday 12 January 2012 </p>
+<p> . </p>
+<p> google_ad_client = 'ca-guardian_js'; google_ad_channel = 'politics'; </p>
+<p> google_max_num_ads = '3'; </p>
+<p> //<![CDATA[ 			if (true) { 					  writeScript("http://pagead2.googlesyndication.com/pagead/show_ads.js", false, function(){}); 			} 		// ]]> </p>
+<p> var cookie_domain = "www.guardian.co.uk"; </p>
+<p> Comments </p>
+<p> 81 comments, displaying </p>
+<p> oldest </p>
+<p> first </p>
+<p> Sort comments by </p>
+<p> Oldest </p>
+<p> Newest </p>
+<p> jQ('#sort-comments fieldset').addClass('hidden'); </p>
+<p> Sign in to comment </p>
+<p> or </p>
+<p> create your Guardian account </p>
+<p> to join the conversation </p>
+<p> Staff </p>
+<p> Contributor </p>
+<p> Latest </p>
+<p> 1 </p>
+<p> 2 </p>
+<p> Next </p>
+<p> All </p>
+<p> Manchops </p>
+<p> 12 January 2012 12:01PM </p>
+<p> Maybe's there a 'patch' you can get for it? </p>
+<p> GEDDIT! No? Ok, then.... </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 81 </p>
+<p> ) </p>
+<p> Responses (1) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> MrTopsyTurvy </p>
+<p> 12 January 2012 12:05PM </p>
+<p> Response to </p>
+<p> Manchops, 12 January 2012 12:01PM </p>
+<p> Maybe's there a 'patch' you can get for it? </p>
+<p> GEDDIT! No? Ok, then.... </p>
+<p> No but I'm sure there's an App for that...... </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 13 </p>
+<p> ) </p>
+<p> Responses (1) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> Manchops </p>
+<p> 12 January 2012 12:06PM </p>
+<p> Seriously though, smartphones are to blame. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 13 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> Manchops </p>
+<p> 12 January 2012 12:07PM </p>
+<p> Response to </p>
+<p> MrTopsyTurvy, 12 January 2012 12:05PM </p>
+<p> Good point! </p>
+<p> Gonna spend the next few hours trawling the ONLINE app store to see if there's a 'spend less time online' tracker that can help me. </p>
+<p> Then spend the next few hours after that fighting my way out of a paradox. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 14 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> machiajelly </p>
+<p> 12 January 2012 12:08PM </p>
+<p> My partner claims I'm addicted to the Internet but I can stop any time I </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 17 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> mattmags </p>
+<p> 12 January 2012 12:09PM </p>
+<p> According to Professor Bruce Hood's latest book, it's not the Internet that you get addicted to, but email and social networking sites like Facebook and Twitter. It's the little hit of that you get when someone likes your post, or retweets or otherwise demonstrates approval of your input that is addictive. It's also the fact that it doesn't happen automatically, but only occassionaly, that is the real hook. Like a one-armed bandit, you only get the payback sporadically, and it's that that keeps you coming back for more. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 32 </p>
+<p> ) </p>
+<p> Responses (2) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> epinoa </p>
+<p> 12 January 2012 12:22PM </p>
+<p> If it triggers a dopamine response then you can become addicted to it. Not a difficult assessment. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 15 </p>
+<p> ) </p>
+<p> Responses (3) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> PollyCurtis </p>
+<p> 12 January 2012 12:24PM </p>
+<p> Response to </p>
+<p> epinoa, 12 January 2012 12:22PM </p>
+<p> Really interesting point. is there an argument against using that as a measure? Surprised the psychiatrists didn't mention to me... will look at it. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 4 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> thenryking </p>
+<p> 12 January 2012 12:25PM </p>
+<p> i kindly direct anyone brave enough to david foster wallace's </p>
+<p> Infinite Jest </p>
+<p> it pretty much covers everything in the above, which is impressive now that it's 17 years old. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 6 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> Darkblade </p>
+<p> 12 January 2012 12:26PM </p>
+<p> Perhaps it's that people who have certain things going on in their brain (chemically) are more prone to certain kinds of behaviour, particularly those that block out less pleasant aspects of life.  An 'addictive personality', if you like (much as it has become some kind of buzz-phrase).  This could include drug or alcohol use but also things like online gambling or just using the internet excessively in general, at the milder (less physically harmful) end of the spectrum. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 5 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> thenryking </p>
+<p> 12 January 2012 12:26PM </p>
+<p> it's also ironic that a lot of people will be reading this on the internet. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 7 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> cactiform </p>
+<p> 12 January 2012 12:28PM </p>
+<p> You only have to watch folk on a train to see obsessive compulsive checking of iToys and other fruit-related gadgets. </p>
+<p> "I have messages, therefore I am." </p>
+<p> Also, try having a conversation with anyone, as you are always interrupted by the phone, which is soooo much more important it has to be checked immediately. </p>
+<p> The mobile phone heralded the end of civiity. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 26 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> Azrael59 </p>
+<p> 12 January 2012 12:29PM </p>
+<p> I've written on similar matters in academic journals, but the reference to biological change as relevant to showing addiction is an oft-repeated fallacy. Our mind IS our brain and vice versa. EVERYTHING we do psychologically, from walking the dog, to standing up, to deciding to skip rope, causes physical changes in the brain. After all, the brain is the physical manifestation of the mind, so where WOULD you expect your thoughts to be physically manifested - in the spleen? </p>
+<p> All thoughts arise from the brain, hence all thoughts involve change to brain chemistry. Hence the mere fact that something involves a change to brain chemistry tells us absolutely nothing about whether it is an illness/addiction/etc. You can detect brain changes for a whole variety of every-day normal activities, simply because the brain is the physical manifestation of the mind. Do something with your mind, and there will be a corresponding change in the brain. </p>
+<p> Unless someone comes up with evidence that our psychological processes are manifested somewhere OTHER than the brain, can we all please stop acting like changes to brain chemistry are somehow informative? </p>
+<p> (if you have university access to periodicals, look up Edwards 'Ethical decisions in the classification of mental processes as mental illness' in Philosophy, Psychology and Psychiatry, and then my reply to Wakefield (forgot the title - something like 'Changing functions' - at the end of the same volume. I apologise for the article being written so badly - it was my first publication, and my writing was embarassingly obtuse, but the ideas still hold up.) </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 7 </p>
+<p> ) </p>
+<p> Responses (1) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> ennoconn </p>
+<p> 12 January 2012 12:32PM </p>
+<p> I am a professor of neuroscience and have given some talks and written on this topic over the past year. If you are interested in my findings, I have a slideshare presentation you can </p>
+<p> view here </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 3 </p>
+<p> ) </p>
+<p> Responses (1) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> Azrael59 </p>
+<p> 12 January 2012 12:33PM </p>
+<p> Further to the above - my apologies for referring you to material locked off behind journal paywalls. I'm pretty new to academia (only 5 publications) so it would be a  bit arrogant to start up my own website just yet. Without that, the only way to access academic articles is to use university computers or logons (for which the education system pays extortionate amounts of money - despite the academics providing the content for free, reviewing the content for free and advising unsuccessful submitters for free...and then the uni has to pay to access it's own academics' work!). Awful system, but not one I can do anything about. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 2 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> Azrael59 </p>
+<p> 12 January 2012 12:36PM </p>
+<p> Incidentally (and I should have stated this in my first post)....PERMANENT change to brain chemistry is a different matter. My criticism is that simply saying 'x causes a change to brain activity' doesn't tell us whether it's a permanent change (and even then, the relationship can be complex), or the kind of normal change we constantly undergo. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 3 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> jforbes </p>
+<p> 12 January 2012 12:36PM </p>
+<p> "The majority of people we see with serious internet addiction are gamers </p>
+<p> So it's gaming people are addicted to, not the internet. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 4 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> Burgerbuns </p>
+<p> 12 January 2012 12:37PM </p>
+<p> According to some definitions of "addiction", anyone reading this is addicted to the internet. </p>
+<p> To me, being addicted to something means you're dependent on it to cope/survive, and I don't know how anyone couldn't survive without it. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 1 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> colddebtmountain </p>
+<p> 12 January 2012 12:40PM </p>
+<p> Response to </p>
+<p> epinoa, 12 January 2012 12:22PM </p>
+<p> If it triggers a dopamine response then you can become addicted to it. Not a difficult assessment. </p>
+<p> I had to have a fag to kick the dopamine into touch before responding to that..... </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 0 </p>
+<p> ) </p>
+<p> Responses (1) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> nattybumpo </p>
+<p> 12 January 2012 12:41PM </p>
+<p> Of course the internet is addictive. Anything that delivers to the human brain and senses such a huge ammount of stimuli is bound to be addictive. </p>
+<p> This is not altogether a negative thing however. I think that spending "some" time on the internet could be very helpful for those who suffer from psychriatric disorders. Internet use maybe even be used eventually in some patients treatment plans. Not just as stimuli but also as an information tool; informing patients about their conditions whilst their stimuli is raised.... </p>
+<p> To me that seems almost obvious. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 1 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> blueporcupine </p>
+<p> 12 January 2012 12:45PM </p>
+<p> Yes you can. </p>
+<p> *gibbers* </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 0 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> hamishtog </p>
+<p> 12 January 2012 12:46PM </p>
+<p> I can add the internet to my list of addictions now. Along with sex, alcohol, cannabis and coffee. It's ok though cos they are ILLNESSES and I'm pretty sure the NHS will pay for me to be looked at and even maybe get some ESA out to fit. Modern life is truly crap. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 2 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> Azrael59 </p>
+<p> 12 January 2012 12:46PM </p>
+<p> Response to </p>
+<p> mattmags, 12 January 2012 12:09PM </p>
+<p> Re: mattmags, I can believe that, given the way that they repeatedly utilise psychological hooks to draw you back into usage. It reminds me of the way that automatic gambling machines use bells, whistles, and 'special plays' to keep you returning for 'one more round'. </p>
+<p> Most non-drug addiction (as far as I understand, and I have absolutely no expertise on the issue) seems to work on the basis of a series of irregular low-payout 'hits' that trigger the brain's reward mechanisms without actually costing the proprietor a great deal (e.g. a series of low-money payouts, or meaningless but psychologically effective Farmville wins, or friendship offers, approving comments, etc). Some internet sites manage to utilise the same method as gambling machines, without having to even make the 'hit' financial. </p>
+<p> The sporadic nature also discourages any rational cost-benefit analysis (e.g. recognition that gambling machines are pre-programmed to pay less than they take). </p>
+<p> I'm not sure that Facebook is the worst offender. Pornography, combined with the internet, seems like a recipe for huge addiction issues, and it doesn't surprise me that porn-addiction-therapy is a growing industry for both sexes. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 1 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> PollyCurtis </p>
+<p> 12 January 2012 12:48PM </p>
+<p> Elise Hockey emails in: </p>
+<p> I would have to agree that it should be seen as an addiction.  I would not classify this as similar to alcohol or drug addiction as there is not a chemical addiction however it is none the less harmful. </p>
+<p> Whilst being a stay at home mum I used to frequent a chat room and would spend large amounts of time on the computer, the difference between this and normal life is that you don’t notice the time etc because you are so fully absorbed.  I’ve since noticed it in other people using chat room in that when you try to get them away there is always a ‘sure give me 2 minutes’ and this 2 minutes nearly always continues until you call them again, and again. </p>
+<p> The worrying thing about this is not the length of time they spend doing this it is more the complete obsession, there seems to be a belief that people who you talk to online are your ‘friends’ regardless of whether you have ever met them.  The company I work for has technology in place which reminds you how long you have been playing a game in order to force a reality check, to me this acknowledges peoples inability to do this for themselves. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 4 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> Patrician </p>
+<p> 12 January 2012 12:49PM </p>
+<p> Response to </p>
+<p> epinoa, 12 January 2012 12:22PM </p>
+<p> Spot on.  You can get addicted to anything that triggers the appropriate cascade. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 2 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> completemonsterbob </p>
+<p> 12 January 2012 12:49PM </p>
+<p> I use the internet all day whilst at work, that is hardly addiction forming as it is work. As soon as I go home I use the internet to access entertainment. The internet is the delivery method, not an end in itself. </p>
+<p> As the internet is merely the method, the supply method, surely the article should be about possibly being addicted to "content delivered via the internet"? </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 1 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> Azelas </p>
+<p> 12 January 2012 12:55PM </p>
+<p> It was harder to be 'addicted' when your mobile phones couldn't access the internet without costing you loads of money. Now I'm glued to the thing. To say I'm addicted would be a stretch, but I could imagine how someone could be. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 1 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> OlSlov </p>
+<p> 12 January 2012 12:55PM </p>
+<p> Information junkies find the Internet addictive. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 4 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> Endlesslyconfused </p>
+<p> 12 January 2012 12:56PM </p>
+<p> @epinoa @patrician </p>
+<p> Not exactly. Lots of things trigger a dopamine response - receiving a text produces a dopamine response. Not sure we could only look for that. Surely if someone derives pleasure from an activity it is producing a dopamine response. </p>
+<p> That does mean that basically everything is addictive but you have to draw the line somewhere. It would be interesting if people obsessed with the internet produced more dopamine in response to it - but then again, maybe all that tells us is that they're enjoying it more than most? </p>
+<p> And perhaps the reason they are enjoying more than most is a psychological one like a chance to escape to a fantasy world or the ability to be anonymous (and say what you want etc). </p>
+<p> In that case is it an addiction or an obsession? If it's an obsession due to escapism, is it a separate disorder or a symptom of something like depression? </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 2 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> epinoa </p>
+<p> 12 January 2012 12:58PM </p>
+<p> Response to </p>
+<p> colddebtmountain, 12 January 2012 12:40PM </p>
+<p> I had to have a fag to kick the dopamine into touch before responding to that..... </p>
+<p> Nicotine addiction is slightly different as it is a neurotransmitter and crosses the blood brain barrier. As such your brain chemistry is directly affected. </p>
+<p> Any dopamine release due to a release from using the internet would be purely psychological. Errr unless the light/em produced by the monitor elicits a response. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 1 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> hollybo </p>
+<p> 12 January 2012 12:58PM </p>
+<p> Response ot Epinoa - you (yes - you personally!) get a constant stream of dopamine responses in your brain to all sort sof things that you do. Its part of your biochemistry, and you'd probably die without it. Everyone responds to such simple, normal things as smiling, laughing, eating, excercise, sex etc - how do you discriminate whats a healthy and normal response, from one that isn't? </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 0 </p>
+<p> ) </p>
+<p> Responses (1) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> NorthernLight </p>
+<p> 12 January 2012 12:59PM </p>
+<p> No </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 1 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> harrykipper </p>
+<p> 12 January 2012 12:59PM </p>
+<p> this is total bullshit!!! </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 1 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> NorthernLight </p>
+<p> 12 January 2012 1:00PM </p>
+<p> No </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 0 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> epinoa </p>
+<p> 12 January 2012 1:00PM </p>
+<p> Any dopamine release due to a release from using the internet would be purely psychological. </p>
+<p> Should read ...... </p>
+<p> Any dopamine release due to using the internet ..... </p>
+<p> Excuse my dyslexia (seriously) </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 1 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> LV09 </p>
+<p> 12 January 2012 1:00PM </p>
+<p> I wouldn't say I'm addicted to the internet. </p>
+<p> But I am addicted to CiF though..... </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 1 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> NorthernLight </p>
+<p> 12 January 2012 1:01PM </p>
+<p> No </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 0 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> NorthernLight </p>
+<p> 12 January 2012 1:01PM </p>
+<p> No </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 0 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> Orlando98 </p>
+<p> 12 January 2012 1:02PM </p>
+<p> People can be addicted to anything. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 2 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> iffink </p>
+<p> 12 January 2012 1:02PM </p>
+<p> Create an unequal society in the physical real world ie don’t include everyone in the hierarchy. It is a human need to socialize, thus people that are already excluded from the real world sit at home all day communicating with people virtually ie communicating with a computer screen. And people wonder why there is so much mental illness in the western world? </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 0 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> harrykipper </p>
+<p> 12 January 2012 1:02PM </p>
+<p> Chinese scientists???....they have an agenda.....what utter tosh and propaganda!!! </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 4 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> Ieuan </p>
+<p> 12 January 2012 1:03PM </p>
+<p> To the internet, no </p>
+<p> But the Internet is NOT the same as the World Wide Web, and an addiction to the Web is very possible (and widespread) IMHO. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 0 </p>
+<p> ) </p>
+<p> Responses (1) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> LV09 </p>
+<p> 12 January 2012 1:03PM </p>
+<p> Response to </p>
+<p> hollybo, 12 January 2012 12:58PM </p>
+<p> There are some psychiatrists who would say that people can be addicted to eating, exercise or sex (I think the last one is mentioned in the article above) </p>
+<p> I don't think there would be so many psychiatrists saying people could be addicted to smiling or laughing though.... </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 0 </p>
+<p> ) </p>
+<p> Responses (1) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> NorthernLight </p>
+<p> 12 January 2012 1:03PM </p>
+<p> Just not possible </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 0 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> Kipwar </p>
+<p> 12 January 2012 1:03PM </p>
+<p> When I was in my early 20s and teenage years, I was so heavily dependant on the internet, be it playing online games (Ragnarok Online was my drug), or just general browsing, it helped me forget my dire working class upbringing and entering the 'Real' world. Whenever I wasn't on it, I had the exact thoughts and worries always bubbling, its kinda whats associated with most drug users, it helps you forget worries, honestly I used to feel like I was in withdrawal whenever I was away from it longer than a day... </p>
+<p> Its easy to say, 'oh but all kids play games on the computer at that age' or 'so what its not dangerous', its exactly what I would say to my old friends and family. </p>
+<p> Thinking about it now, the dependance was frightening, my social life was down the pan not to mention my academic life because the internet made me feel brilliant. From my own experience, having a top level character on an online game or having a huge forum post count (someone mentioned the same further up, well kinda the same about people reacting to your facebook and twitter updates), gave me such an adrenaline rush and confidence boost that the real world could not offer. </p>
+<p> Ironically, now I am not so heavily addicted to the internet, I still consider beating an online game boss that took 20 mins with teamwork (think WoW, Ragnarok) more fulfilling than getting a document approved at work. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 6 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> Skinz </p>
+<p> 12 January 2012 1:03PM </p>
+<p> We can live so much of our lives online, from paying bills and shopping through to work and leisure activities, it can be difficult to tell an 'addict' from someone just going about their business. The person who is always sat in front of their computer or always has a smartphone in hand might look like an addict in the widely accepted sense but it is what they do when the internet in unavailable that counts. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 2 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> CaptCrash </p>
+<p> 12 January 2012 1:06PM </p>
+<p> Surely anything that makes an individual feel "worthwhile" and "happy", could be considered "addictive" in a psychological sense.  Such behaviour could include, watching football, shopping, Eastenders or Corrie. </p>
+<p> However, in a physiological sense, addictive substances when withdrawn have very physical manifestation, such as extreme emotional responses, cold sweats, shakes, perhaps even heart attacks and death. </p>
+<p> Hardly something the internet could cause. </p>
+<p> For example.  Heroin is addictive, and if withdrawn will cause the addict problems.  Cannabis is not, but it is enjoyable for users and is habit forming. </p>
+<p> It may make the individual less happy if withdrawn. </p>
+<p> The word addictive is an overused and misunderstood term, and is often used in a derogitory manner to discourage certain behaviour which makes people happy. </p>
+<p> The fact that this research comes from a country, seemingly hell bent on restricting internet access, freedom of expression, and general happiness should not be ignored. </p>
+<p> Perhaps some are "addicted" to controlling populations...? </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 2 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> harrykipper </p>
+<p> 12 January 2012 1:08PM </p>
+<p> we are really going to listen to Chinese scientists and Polly Curtis....I don't think so!! </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 0 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> CaptCrash </p>
+<p> 12 January 2012 1:08PM </p>
+<p> Response to </p>
+<p> Ieuan, 12 January 2012 1:03PM </p>
+<p> It's not addictive ... it is habit forming.  You will not break into a neighbours house out of desperation to read the Guardian website. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 1 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> preset68 </p>
+<p> 12 January 2012 1:09PM </p>
+<p> When you find yourself with five columns of Twitter on Tweetdeck on a big screen right in front of you - but your hand still inexplicably reaching for your iPhone to check if what's on Twitter there is even newer … you know there's a problem. </p>
+<p> Yep. </p>
+<p> Recommend? </p>
+<p> ( </p>
+<p> 1 </p>
+<p> ) </p>
+<p> Responses (0) </p>
+<p> Report </p>
+<p> | </p>
+<p> Link </p>
+<p> Latest </p>
+<p> 1 </p>
+<p> 2 </p>
+<p> Next </p>
+<p> All </p>
+<p> Sign in to comment </p>
+<p> or </p>
+<p> create your Guardian account </p>
+<p> to join the conversation </p>
+<p> jQ(document).ready(function(){ 	// check jQuery UI hasn't been loaded in by a microapp. short-term fix. 	if (!jQuery.ui) { 	  	jQ.getScript('http://resource.guim.co.uk/discussion/static/1777/jquery-ui-1.7.3.custom.min.js'); 	} }); </p>
+<p> function fix_domain_for_careers(url){ 		var re, fixed_url; 		var careers_length = "careers".length; 		 		if (window.location.host.substr(0, careers_length) === "careers") { 			re = /http:\/\/www\./; 		    fixed_url = url.replace(re, "http://careers."); 		} else { 			re = /http:\/\/careers\./; 		    fixed_url = url.replace(re, "http://www."); 		} 		 		return fixed_url; 	} 	 	jQ(function() {         fixPluckCommentUrl('http://www.guardian.co.uk/discussion/api/resolvePluckCommentKey?pluck-comment-keys=&amp;callback='); 		var loading_box = jQ("<div class='report-form-loading'>Loading</div>");          jQ('a.report-abuse:not(.no-abuse-popup)').live('click', function(ev) { 			ev.preventDefault();  			loading_box.dialog({ 				title: "Abuse report", 				draggable: false, 				modal: true, 				width: 400, 				minHeight: 320, 				resizable: false, 				beforeclose: function(event, ui) { 					var readOnly = jQ('.report-abuse-ajax-readonly').length; 					if(readOnly == 1) return true;  					var reason = jQ('.report-abuse-ajax-form textarea#id_reason').val(); 					var thanksPage = jQ('.report-form-loading p[data-abuse-report-accepted-for-comment]').length; 					if (thanksPage == 0) { 					    thanksPage = jQ('.report-form-loading p[data-abuse-report-accepted-for-profile]').length; 					} 					if(thanksPage == 0) { 						if(reason == 0) { 							return true; 						} else { 							return confirm("Closing this window without pressing \"Report\" will result in your words being lost. Are you sure?"); 						} 					} 					else { 						return true; 					} 		        }, 				close: function(ev, ui) { loading_box.remove(); } 			}); 			 			abuse_report_url = this.href.replace('report-abuse', 'report-abuse-ajax');			 			abuse_report_url = fix_domain_for_careers(abuse_report_url); 			 			jQ.ajax({               url: abuse_report_url,               success: function(data){                   loading_box.html(data);               }             }); 		});  		jQ('body').delegate('.report-abuse-ajax-form form', 'submit', function(ev) { 			ev.preventDefault(); 			var form = jQ(this); 			var url = fix_domain_for_careers(form.attr('action')); 			jQ.post(url, form.serialize(), function(html) { 				form.parents('.ui-dialog-content').html(html); 				// Has the abuse report been accepted? 				var el = jQ(html); 				var comment_id = el.attr('data-abuse-report-accepted-for-comment'); 				var profile_id = el.attr('data-abuse-report-accepted-for-profile'); 				if (comment_id) { 					jQ('ul#comment-' + comment_id).find('li.abuse-report').remove(); 				} else if (profile_id) { 				    jQ('p.report-abuse').remove(); 				} 				var is_successful_submission = (comment_id || profile_id); 				if (is_successful_submission) { 					 					if(guardian.r2.omniture.isAvailable()) { 						// track with omniture 						s.linkTrackVars = 'events,eVar37'; 			        	s.linkTrackEvents = 'event37'; 			    		s.eVar37 = 'Comment:Report Abuse'; 			        	s.events = 'event37'; 			            s.tl(true, 'o', 'Comment report abuse'); 					} 					 				    window.setTimeout(function() { 					    loading_box.dialog("close"); 				    }, 3000); 				} 			}); 		}); 		 	    //make sure submit button is enabled onReady. 	    jQ('#newcommenting-form input[type=submit]' ).removeAttr('disabled');      	var newFormURL = window.location.protocol + '//' + window.location.host + window.location.pathname + '?#post-area';     	jQ('div#login-container form.post-your-comments').attr('action', newFormURL);      	jQ('div#signup-container input').click(function(){     		urlStack.clearUrlStack();     		urlStack.pushUrlOntoStack(newFormURL);     		document.location = 'http://users.guardian.co.uk/signup/tr/1,,-720,00.html';     	});           	    jQ('.recomended').show();          jQ('#newcommenting-form').submit(function(){             jQ('input[type=submit]', this).attr('disabled', 'disabled');         }); 	}); //end jQ ready  	function openAbuseBox(commentId) { 		jQ("#abuse-report-comment-id").val(commentId); 		var loading_box = jQ('<div class="report-form-loading">Loading</div>'); 		loading_box.dialog({ 			title:"Abuse report", 			draggable: false, 			modal:true, 			width:400, 			minHeight:320, 			resizable: false, 			beforeclose: function(event, ui) { 				var reason = jQ('textarea#id_reason').val(); 				if (reason != "") { 					return confirm("Closing this window without pressing \"Report\" will result in your words being lost. Are you sure?"); 				} else { 					return true; 				} 			} 		}); 	}  	function recommendComment(commentId) { 	    var post_url = "http://www.guardian.co.uk/discussion/handlers/recommendComment";	     	    post_url = fix_domain_for_careers(post_url); 	     		jQ.post(post_url, { comment_id: commentId }, function(data) { 			if (data == "OK") { 				var span = jQ("#recommended-count-" + commentId); 				span.prev('a').contents().unwrap(); 				span.text(parseInt(span.text(), 10)+1); 			} 			else { 				var span = jQ("#recommended-count-" + commentId); 				span.prev('a').contents().unwrap(); 			} 		}); 	} </p>
+<p> #query-trailblock li {border-top: 1px solid #929292; margin-bottom: 16px;} 	#query-trailblock li h2 {font-size: 1.4em; margin: 0 0 4px;} 	#query-trailblock li:last-child {margin-bottom: 0; border-top: 1px dotted #929292;} 	#query-trailblock li:last-child h2 {margin-top: 10px; font-size: 12px; font-family: sans-serif;} 	#query-trailblock .strapline {border-bottom: 1px dotted #929292; font-weight: bold; padding: 5px 0 5px; margin-bottom: 5px;} 	#query-trailblock .trail-comment-count {padding-top: 3px;} </p>
+<p> Healthcare Network </p>
+<p> NHS hospital mergers fail to produce gains </p>
+<p> Larger deficits, longer patient waiting times and no increase in staff productivity are the outcomes of hospital mergers, says study </p>
+<p> Healthcare Network </p>
+<p> Trusts losing out over invoicing gaps </p>
+<p> Gaps in recording and invoicing for patient treatments result in trusts losing hard cash but better training and support for coders could stem the flow </p>
+<p> More from our Healthcare Network </p>
+<p> Find your MP </p>
+<p> Find your constituency </p>
+<p> Aberavon </p>
+<p> Aberconwy </p>
+<p> Aberdeen North </p>
+<p> Aberdeen South </p>
+<p> Aberdeenshire West and Kincardine </p>
+<p> Airdrie and Shotts </p>
+<p> Aldershot </p>
+<p> Aldridge-Brownhills </p>
+<p> Altrincham and Sale West </p>
+<p> Alyn and Deeside </p>
+<p> Amber Valley </p>
+<p> Angus </p>
+<p> Antrim East </p>
+<p> Antrim North </p>
+<p> Antrim South </p>
+<p> Arfon </p>
+<p> Argyll and Bute </p>
+<p> Arundel and South Downs </p>
+<p> Ashfield </p>
+<p> Ashford </p>
+<p> Ashton under Lyne </p>
+<p> Aylesbury </p>
+<p> Ayr, Carrick and Cumnock </p>
+<p> Ayrshire Central </p>
+<p> Ayrshire North and Arran </p>
+<p> Banbury </p>
+<p> Banff and Buchan </p>
+<p> Barking </p>
+<p> Barnsley Central </p>
+<p> Barnsley East </p>
+<p> Barrow and Furness </p>
+<p> Basildon South and Thurrock East </p>
+<p> Basildon and Billericay </p>
+<p> Basingstoke </p>
+<p> Bassetlaw </p>
+<p> Bath </p>
+<p> Batley and Spen </p>
+<p> Battersea </p>
+<p> Beaconsfield </p>
+<p> Beckenham </p>
+<p> Bedford </p>
+<p> Bedfordshire Mid </p>
+<p> Bedfordshire North East </p>
+<p> Bedfordshire South West </p>
+<p> Belfast East </p>
+<p> Belfast North </p>
+<p> Belfast South </p>
+<p> Belfast West </p>
+<p> Bermondsey and Old Southwark </p>
+<p> Berwick-upon-Tweed </p>
+<p> Berwickshire, Roxburgh and Selkirk </p>
+<p> Bethnal Green and Bow </p>
+<p> Beverley and Holderness </p>
+<p> Bexhill and Battle </p>
+<p> Bexleyheath and Crayford </p>
+<p> Birkenhead </p>
+<p> Birmingham Edgbaston </p>
+<p> Birmingham Erdington </p>
+<p> Birmingham Hall Green </p>
+<p> Birmingham Hodge Hill </p>
+<p> Birmingham Ladywood </p>
+<p> Birmingham Northfield </p>
+<p> Birmingham Perry Barr </p>
+<p> Birmingham Selly Oak </p>
+<p> Birmingham Yardley </p>
+<p> Bishop Auckland </p>
+<p> Blackburn </p>
+<p> Blackley and Broughton </p>
+<p> Blackpool North and Cleveleys </p>
+<p> Blackpool South </p>
+<p> Blaenau Gwent </p>
+<p> Blaydon </p>
+<p> Blyth Valley </p>
+<p> Bognor Regis and Littlehampton </p>
+<p> Bolsover </p>
+<p> Bolton North East </p>
+<p> Bolton South East </p>
+<p> Bolton West </p>
+<p> Bootle </p>
+<p> Boston and Skegness </p>
+<p> Bosworth </p>
+<p> Bournemouth East </p>
+<p> Bournemouth West </p>
+<p> Bracknell </p>
+<p> Bradford East </p>
+<p> Bradford South </p>
+<p> Bradford West </p>
+<p> Braintree </p>
+<p> Brecon and Radnorshire </p>
+<p> Brent Central </p>
+<p> Brent North </p>
+<p> Brentford and Isleworth </p>
+<p> Brentwood and Ongar </p>
+<p> Bridgend </p>
+<p> Bridgwater and Somerset West </p>
+<p> Brigg and Goole </p>
+<p> Brighton Kemptown </p>
+<p> Brighton Pavilion </p>
+<p> Bristol East </p>
+<p> Bristol North West </p>
+<p> Bristol South </p>
+<p> Bristol West </p>
+<p> Broadland </p>
+<p> Bromley and Chislehurst </p>
+<p> Bromsgrove </p>
+<p> Broxbourne </p>
+<p> Broxtowe </p>
+<p> Buckingham </p>
+<p> Burnley </p>
+<p> Burton </p>
+<p> Bury North </p>
+<p> Bury South </p>
+<p> Bury St Edmunds </p>
+<p> Caerphilly </p>
+<p> Caithness, Sutherland and Easter Ross </p>
+<p> Calder Valley </p>
+<p> Camberwell and Peckham </p>
+<p> Camborne and Redruth </p>
+<p> Cambridge </p>
+<p> Cambridgeshire North East </p>
+<p> Cambridgeshire North West </p>
+<p> Cambridgeshire South </p>
+<p> Cambridgeshire South East </p>
+<p> Cannock Chase </p>
+<p> Canterbury </p>
+<p> Cardiff Central </p>
+<p> Cardiff North </p>
+<p> Cardiff South and Penarth </p>
+<p> Cardiff West </p>
+<p> Carlisle </p>
+<p> Carmarthen East and Dinefwr </p>
+<p> Carmarthen West and Pembrokeshire South </p>
+<p> Carshalton and Wallington </p>
+<p> Castle Point </p>
+<p> Ceredigion </p>
+<p> Charnwood </p>
+<p> Chatham and Aylesford </p>
+<p> Cheadle </p>
+<p> Chelmsford </p>
+<p> Chelsea and Fulham </p>
+<p> Cheltenham </p>
+<p> Chesham and Amersham </p>
+<p> Chesterfield </p>
+<p> Chichester </p>
+<p> Chingford and Woodford Green </p>
+<p> Chippenham </p>
+<p> Chipping Barnet </p>
+<p> Chorley </p>
+<p> Christchurch </p>
+<p> Cities of London and Westminster </p>
+<p> City of Chester </p>
+<p> City of Durham </p>
+<p> Clacton </p>
+<p> Cleethorpes </p>
+<p> Clwyd South </p>
+<p> Clwyd West </p>
+<p> Coatbridge, Chryston and Bellshill </p>
+<p> Colchester </p>
+<p> Colne Valley </p>
+<p> Congleton </p>
+<p> Copeland </p>
+<p> Corby </p>
+<p> Cornwall North </p>
+<p> Cornwall South East </p>
+<p> Cotswold </p>
+<p> Coventry North East </p>
+<p> Coventry North West </p>
+<p> Coventry South </p>
+<p> Crawley </p>
+<p> Crewe and Nantwich </p>
+<p> Croydon Central </p>
+<p> Croydon North </p>
+<p> Croydon South </p>
+<p> Cumbernauld, Kilsyth and Kirkintilloch East </p>
+<p> Cynon Valley </p>
+<p> Dagenham and Rainham </p>
+<p> Darlington </p>
+<p> Dartford </p>
+<p> Daventry </p>
+<p> Delyn </p>
+<p> Denton and Reddish </p>
+<p> Derby North </p>
+<p> Derby South </p>
+<p> Derbyshire Dales </p>
+<p> Derbyshire Mid </p>
+<p> Derbyshire North East </p>
+<p> Derbyshire South </p>
+<p> Devizes </p>
+<p> Devon Central </p>
+<p> Devon East </p>
+<p> Devon North </p>
+<p> Devon South West </p>
+<p> Devon West and Torridge </p>
+<p> Dewsbury </p>
+<p> Don Valley </p>
+<p> Doncaster Central </p>
+<p> Doncaster North </p>
+<p> Dorset Mid and Poole North </p>
+<p> Dorset North </p>
+<p> Dorset South </p>
+<p> Dorset West </p>
+<p> Dover </p>
+<p> Down North </p>
+<p> Down South </p>
+<p> Dudley North </p>
+<p> Dudley South </p>
+<p> Dulwich and West Norwood </p>
+<p> Dumfries and Galloway </p>
+<p> Dumfriesshire, Clydesdale and Tweeddale </p>
+<p> Dunbartonshire East </p>
+<p> Dunbartonshire West </p>
+<p> Dundee East </p>
+<p> Dundee West </p>
+<p> Dunfermline and Fife West </p>
+<p> Durham North </p>
+<p> Durham North West </p>
+<p> Dwyfor Meirionnydd </p>
+<p> Ealing Central and Acton </p>
+<p> Ealing North </p>
+<p> Ealing Southall </p>
+<p> Easington </p>
+<p> East Ham </p>
+<p> East Kilbride, Strathaven and Lesmahagow </p>
+<p> East Lothian </p>
+<p> Eastbourne </p>
+<p> Eastleigh </p>
+<p> Eddisbury </p>
+<p> Edinburgh East </p>
+<p> Edinburgh North and Leith </p>
+<p> Edinburgh South </p>
+<p> Edinburgh South West </p>
+<p> Edinburgh West </p>
+<p> Edmonton </p>
+<p> Ellesmere Port and Neston </p>
+<p> Elmet and Rothwell </p>
+<p> Eltham </p>
+<p> Enfield North </p>
+<p> Enfield Southgate </p>
+<p> Epping Forest </p>
+<p> Epsom and Ewell </p>
+<p> Erewash </p>
+<p> Erith and Thamesmead </p>
+<p> Esher and Walton </p>
+<p> Exeter </p>
+<p> Falkirk </p>
+<p> Fareham </p>
+<p> Faversham and Kent Mid </p>
+<p> Feltham and Heston </p>
+<p> Fermanagh and South Tyrone </p>
+<p> Fife North East </p>
+<p> Filton and Bradley Stoke </p>
+<p> Finchley and Golders Green </p>
+<p> Folkestone and Hythe </p>
+<p> Forest of Dean </p>
+<p> Foyle </p>
+<p> Fylde </p>
+<p> Gainsborough </p>
+<p> Garston and Halewood </p>
+<p> Gateshead </p>
+<p> Gedling </p>
+<p> Gillingham and Rainham </p>
+<p> Glasgow Central </p>
+<p> Glasgow East </p>
+<p> Glasgow North </p>
+<p> Glasgow North East </p>
+<p> Glasgow North West </p>
+<p> Glasgow South </p>
+<p> Glasgow South West </p>
+<p> Glenrothes </p>
+<p> Gloucester </p>
+<p> Gordon </p>
+<p> Gosport </p>
+<p> Gower </p>
+<p> Grantham and Stamford </p>
+<p> Gravesham </p>
+<p> Great Grimsby </p>
+<p> Great Yarmouth </p>
+<p> Greenwich and Woolwich </p>
+<p> Guildford </p>
+<p> Hackney North and Stoke Newington </p>
+<p> Hackney South and Shoreditch </p>
+<p> Halesowen and Rowley Regis </p>
+<p> Halifax </p>
+<p> Haltemprice and Howden </p>
+<p> Halton </p>
+<p> Hammersmith </p>
+<p> Hampshire East </p>
+<p> Hampshire North East </p>
+<p> Hampshire North West </p>
+<p> Hampstead and Kilburn </p>
+<p> Harborough </p>
+<p> Harlow </p>
+<p> Harrogate and Knaresborough </p>
+<p> Harrow East </p>
+<p> Harrow West </p>
+<p> Hartlepool </p>
+<p> Harwich and Essex North </p>
+<p> Hastings and Rye </p>
+<p> Havant </p>
+<p> Hayes and Harlington </p>
+<p> Hazel Grove </p>
+<p> Hemel Hempstead </p>
+<p> Hemsworth </p>
+<p> Hendon </p>
+<p> Henley </p>
+<p> Hereford and Herefordshire South </p>
+<p> Herefordshire North </p>
+<p> Hertford and Stortford </p>
+<p> Hertfordshire North East </p>
+<p> Hertfordshire South West </p>
+<p> Hertsmere </p>
+<p> Hexham </p>
+<p> Heywood and Middleton </p>
+<p> High Peak </p>
+<p> Hitchin and Harpenden </p>
+<p> Holborn and St Pancras </p>
+<p> Hornchurch and Upminster </p>
+<p> Hornsey and Wood Green </p>
+<p> Horsham </p>
+<p> Houghton and Sunderland South </p>
+<p> Hove </p>
+<p> Huddersfield </p>
+<p> Hull East </p>
+<p> Hull North </p>
+<p> Hull West and Hessle </p>
+<p> Huntingdon </p>
+<p> Hyndburn </p>
+<p> Ilford North </p>
+<p> Ilford South </p>
+<p> Inverclyde </p>
+<p> Inverness, Nairn, Badenoch and Strathspey </p>
+<p> Ipswich </p>
+<p> Isle of Wight </p>
+<p> Islington North </p>
+<p> Islington South and Finsbury </p>
+<p> Islwyn </p>
+<p> Jarrow </p>
+<p> Keighley </p>
+<p> Kenilworth and Southam </p>
+<p> Kensington </p>
+<p> Kettering </p>
+<p> Kilmarnock and Loudoun </p>
+<p> Kingston and Surbiton </p>
+<p> Kingswood </p>
+<p> Kirkcaldy and Cowdenbeath </p>
+<p> Knowsley </p>
+<p> Lagan Valley </p>
+<p> Lanark and Hamilton East </p>
+<p> Lancashire West </p>
+<p> Lancaster and Fleetwood </p>
+<p> Leeds Central </p>
+<p> Leeds East </p>
+<p> Leeds North East </p>
+<p> Leeds North West </p>
+<p> Leeds West </p>
+<p> Leicester East </p>
+<p> Leicester South </p>
+<p> Leicester West </p>
+<p> Leicestershire North West </p>
+<p> Leicestershire South </p>
+<p> Leigh </p>
+<p> Lewes </p>
+<p> Lewisham Deptford </p>
+<p> Lewisham East </p>
+<p> Lewisham West and Penge </p>
+<p> Leyton and Wanstead </p>
+<p> Lichfield </p>
+<p> Lincoln </p>
+<p> Linlithgow and Falkirk East </p>
+<p> Liverpool Riverside </p>
+<p> Liverpool Walton </p>
+<p> Liverpool Wavertree </p>
+<p> Liverpool West Derby </p>
+<p> Livingston </p>
+<p> Llanelli </p>
+<p> Londonderry East </p>
+<p> Loughborough </p>
+<p> Louth and Horncastle </p>
+<p> Ludlow </p>
+<p> Luton North </p>
+<p> Luton South </p>
+<p> Macclesfield </p>
+<p> Maidenhead </p>
+<p> Maidstone and The Weald </p>
+<p> Makerfield </p>
+<p> Maldon </p>
+<p> Manchester Central </p>
+<p> Manchester Gorton </p>
+<p> Manchester Withington </p>
+<p> Mansfield </p>
+<p> Meon Valley </p>
+<p> Meriden </p>
+<p> Merthyr Tydfil and Rhymney </p>
+<p> Middlesbrough </p>
+<p> Middlesbrough South and Cleveland East </p>
+<p> Midlothian </p>
+<p> Milton Keynes North </p>
+<p> Milton Keynes South </p>
+<p> Mitcham and Morden </p>
+<p> Mole Valley </p>
+<p> Monmouth </p>
+<p> Montgomeryshire </p>
+<p> Moray </p>
+<p> Morecambe and Lunesdale </p>
+<p> Morley and Outwood </p>
+<p> Motherwell and Wishaw </p>
+<p> Na h-Eileanan an Iar </p>
+<p> Neath </p>
+<p> New Forest East </p>
+<p> New Forest West </p>
+<p> Newark </p>
+<p> Newbury </p>
+<p> Newcastle upon Tyne Central </p>
+<p> Newcastle upon Tyne East </p>
+<p> Newcastle upon Tyne North </p>
+<p> Newcastle-under-Lyme </p>
+<p> Newport East </p>
+<p> Newport West </p>
+<p> Newry and Armagh </p>
+<p> Newton Abbot </p>
+<p> Norfolk Mid </p>
+<p> Norfolk North </p>
+<p> Norfolk North West </p>
+<p> Norfolk South </p>
+<p> Norfolk South West </p>
+<p> Normanton, Pontefract and Castleford </p>
+<p> Northampton North </p>
+<p> Northampton South </p>
+<p> Northamptonshire South </p>
+<p> Norwich North </p>
+<p> Norwich South </p>
+<p> Nottingham East </p>
+<p> Nottingham North </p>
+<p> Nottingham South </p>
+<p> Nuneaton </p>
+<p> Ochil and Perthshire South </p>
+<p> Ogmore </p>
+<p> Old Bexley and Sidcup </p>
+<p> Oldham East and Saddleworth </p>
+<p> Oldham West and Royton </p>
+<p> Orkney and Shetland </p>
+<p> Orpington </p>
+<p> Oxford East </p>
+<p> Oxford West and Abingdon </p>
+<p> Paisley and Renfrewshire North </p>
+<p> Paisley and Renfrewshire South </p>
+<p> Pendle </p>
+<p> Penistone and Stocksbridge </p>
+<p> Penrith and The Border </p>
+<p> Perth and Perthshire North </p>
+<p> Peterborough </p>
+<p> Plymouth Moor View </p>
+<p> Plymouth Sutton and Devonport </p>
+<p> Pontypridd </p>
+<p> Poole </p>
+<p> Poplar and Limehouse </p>
+<p> Portsmouth North </p>
+<p> Portsmouth South </p>
+<p> Preseli Pembrokeshire </p>
+<p> Preston </p>
+<p> Pudsey </p>
+<p> Putney </p>
+<p> Rayleigh and Wickford </p>
+<p> Reading East </p>
+<p> Reading West </p>
+<p> Redcar </p>
+<p> Redditch </p>
+<p> Reigate </p>
+<p> Renfrewshire East </p>
+<p> Rhondda </p>
+<p> Ribble South (South Ribble) </p>
+<p> Ribble Valley </p>
+<p> Richmond (Yorks) </p>
+<p> Richmond Park </p>
+<p> Rochdale </p>
+<p> Rochester and Strood </p>
+<p> Rochford and Southend East </p>
+<p> Romford </p>
+<p> Romsey and Southampton North </p>
+<p> Ross, Skye and Lochaber </p>
+<p> Rossendale and Darwen </p>
+<p> Rother Valley </p>
+<p> Rotherham </p>
+<p> Rugby </p>
+<p> Ruislip, Northwood and Pinner </p>
+<p> Runnymede and Weybridge </p>
+<p> Rushcliffe </p>
+<p> Rutherglen and Hamilton West </p>
+<p> Rutland and Melton </p>
+<p> Saffron Walden </p>
+<p> Salford and Eccles </p>
+<p> Salisbury </p>
+<p> Scarborough and Whitby </p>
+<p> Scunthorpe </p>
+<p> Sedgefield </p>
+<p> Sefton Central </p>
+<p> Selby and Ainsty </p>
+<p> Sevenoaks </p>
+<p> Sheffield Brightside and Hillsborough </p>
+<p> Sheffield Central </p>
+<p> Sheffield Hallam </p>
+<p> Sheffield Heeley </p>
+<p> Sheffield South East </p>
+<p> Sherwood </p>
+<p> Shipley </p>
+<p> Shrewsbury and Atcham </p>
+<p> Shropshire North </p>
+<p> Sittingbourne and Sheppey </p>
+<p> Skipton and Ripon </p>
+<p> Sleaford and North Hykeham </p>
+<p> Slough </p>
+<p> Solihull </p>
+<p> Somerset North </p>
+<p> Somerset North East </p>
+<p> Somerton and Frome </p>
+<p> South Holland and The Deepings </p>
+<p> South Shields </p>
+<p> Southampton Itchen </p>
+<p> Southampton Test </p>
+<p> Southend West </p>
+<p> Southport </p>
+<p> Spelthorne </p>
+<p> St Albans </p>
+<p> St Austell and Newquay </p>
+<p> St Helens North </p>
+<p> St Helens South and Whiston </p>
+<p> St Ives </p>
+<p> Stafford </p>
+<p> Staffordshire Moorlands </p>
+<p> Staffordshire South </p>
+<p> Stalybridge and Hyde </p>
+<p> Stevenage </p>
+<p> Stirling </p>
+<p> Stockport </p>
+<p> Stockton North </p>
+<p> Stockton South </p>
+<p> Stoke-on-Trent Central </p>
+<p> Stoke-on-Trent North </p>
+<p> Stoke-on-Trent South </p>
+<p> Stone </p>
+<p> Stourbridge </p>
+<p> Strangford </p>
+<p> Stratford-on-Avon </p>
+<p> Streatham </p>
+<p> Stretford and Urmston </p>
+<p> Stroud </p>
+<p> Suffolk Central and Ipswich North </p>
+<p> Suffolk Coastal </p>
+<p> Suffolk South </p>
+<p> Suffolk West </p>
+<p> Sunderland Central </p>
+<p> Surrey East </p>
+<p> Surrey Heath </p>
+<p> Surrey South West </p>
+<p> Sussex Mid </p>
+<p> Sutton Coldfield </p>
+<p> Sutton and Cheam </p>
+<p> Swansea East </p>
+<p> Swansea West </p>
+<p> Swindon North </p>
+<p> Swindon South </p>
+<p> Tamworth </p>
+<p> Tatton </p>
+<p> Taunton Deane </p>
+<p> Telford </p>
+<p> Tewkesbury </p>
+<p> Thanet North </p>
+<p> Thanet South </p>
+<p> The Wrekin </p>
+<p> Thirsk and Malton </p>
+<p> Thornbury and Yate </p>
+<p> Thurrock </p>
+<p> Tiverton and Honiton </p>
+<p> Tonbridge and Malling </p>
+<p> Tooting </p>
+<p> Torbay </p>
+<p> Torfaen </p>
+<p> Totnes </p>
+<p> Tottenham </p>
+<p> Truro and Falmouth </p>
+<p> Tunbridge Wells </p>
+<p> Twickenham </p>
+<p> Tynemouth </p>
+<p> Tyneside North </p>
+<p> Tyrone West </p>
+<p> Ulster Mid </p>
+<p> Upper Bann </p>
+<p> Uxbridge and Ruislip South </p>
+<p> Vale of Clwyd </p>
+<p> Vale of Glamorgan </p>
+<p> Vauxhall </p>
+<p> Wakefield </p>
+<p> Wallasey </p>
+<p> Walsall North </p>
+<p> Walsall South </p>
+<p> Walthamstow </p>
+<p> Wansbeck </p>
+<p> Wantage </p>
+<p> Warley </p>
+<p> Warrington North </p>
+<p> Warrington South </p>
+<p> Warwick and Leamington </p>
+<p> Warwickshire North </p>
+<p> Washington and Sunderland West </p>
+<p> Watford </p>
+<p> Waveney </p>
+<p> Wealden </p>
+<p> Weaver Vale </p>
+<p> Wellingborough </p>
+<p> Wells </p>
+<p> Welwyn Hatfield </p>
+<p> Wentworth and Dearne </p>
+<p> West Bromwich East </p>
+<p> West Bromwich West </p>
+<p> West Ham </p>
+<p> Westminster North </p>
+<p> Westmorland and Lonsdale </p>
+<p> Weston-Super-Mare </p>
+<p> Wigan </p>
+<p> Wiltshire North </p>
+<p> Wiltshire South West </p>
+<p> Wimbledon </p>
+<p> Winchester </p>
+<p> Windsor </p>
+<p> Wirral South </p>
+<p> Wirral West </p>
+<p> Witham </p>
+<p> Witney </p>
+<p> Woking </p>
+<p> Wokingham </p>
+<p> Wolverhampton North East </p>
+<p> Wolverhampton South East </p>
+<p> Wolverhampton South West </p>
+<p> Worcester </p>
+<p> Worcestershire Mid </p>
+<p> Worcestershire West </p>
+<p> Workington </p>
+<p> Worsley and Eccles South </p>
+<p> Worthing East and Shoreham </p>
+<p> Worthing West </p>
+<p> Wrexham </p>
+<p> Wycombe </p>
+<p> Wyre Forest </p>
+<p> Wyre and Preston North </p>
+<p> Wythenshawe and Sale East </p>
+<p> Yeovil </p>
+<p> Ynys Mon </p>
+<p> York Central </p>
+<p> York Outer </p>
+<p> Yorkshire East </p>
+<p> Enter an MP's name </p>
+<p> Enter postcode </p>
+<p> About this search </p>
+<p> | </p>
+<p> Browse the map </p>
+<p> .m-zeitgeist .bd { float: left } /* for the IE6 lols */   .m-zeitgeist .hd { padding-bottom: 0px; margin-bottom: -12px}   .m-zeitgeist .hd h2 { padding-bottom: 12px; }   .m-zeitgeist #att-panes { background-color: #fff; float: left; } 	.m-zeitgeist .att-toggle-pane { min-width:280px; }   .m-zeitgeist ol { padding: 0 5px; }   .m-zeitgeist #most-zeitgeist ol { padding-left: 0; }   .m-zeitgeist .zg-date { color: #D61D00; padding-left:5px; padding-top: 5px; }   .m-zeitgeist ol li { clear: both; padding-left: 15px; }   .m-zeitgeist div#att-most-viewed ol li.l1,   .m-zeitgeist div#att-latest ol li.l1 { padding-bottom: 9px !important; }   .m-zeitgeist ol li.footer { clear: both; padding-left: 0px !important; padding-top: 5px !important; }   .m-zeitgeist .rank { float: left; margin-left: -15px; }   .m-zeitgeist .kicker { font-weight: bold; }   .m-zeitgeist ol li.thumb { padding-left: 0; }   .m-zeitgeist ol li.thumb .rank { margin-left: 0; }   .m-zeitgeist ol li img { float: left; margin: 0 10px 3px 0; }      .m-zeitgeist #most-zeitgeist ol li { border-top: none; padding: 0; border-top: none; }     .m-zeitgeist #most-zeitgeist ol li .zeit-link {background-color: #fff; padding: 5px 0 9px 5px; border-top: 1px dotted #999; margin-bottom: 0px;  }     .m-zeitgeist #most-zeitgeist ol li.footer { border-top:1px dotted #999; padding: 5px 0 9px 10px; margin-left: 5px }     .m-zeitgeist #most-zeitgeist .m-zeigeist ol { padding-left: 0}      /* zeit-up */   .m-zeitgeist #most-zeitgeist .what-is { float: none; padding: 0 3px; vertical-align: middle; cursor: pointer; }   .about-zeit { position: relative; }   .zeit-popup { position: absolute; display: none; background-color: #dbedf3; color: #333; padding: 6px; width: 200px; }      .fade-1 { border-left: 5px solid #801100 !important;} .fade-2 { border-left: 5px solid #95382A !important;} .fade-3 { border-left: 5px solid #AA5F54 !important;} .fade-4 { border-left: 5px solid #BF867E !important;} .fade-5 { border-left: 5px solid #D4ADA8 !important;}  .m-zeitgeist div.hd { padding-bottom: 0; } .m-zeitgeist.most-viewed div.hd { padding-bottom: 7px; } </p>
+<p> jQ(function($){$('.about-zeit').each(function(){var distance=-10;var time=250;var hideDelay=500;var hideDelayTimer=null;var beingShown=false;var shown=false;var trigger=$('.what-is',this);var info=$('.zeit-popup',this).css('opacity',0);$([trigger.get(0),info.get(0)]).mouseover(function(){if(hideDelayTimer)clearTimeout(hideDelayTimer);if(beingShown||shown){return;}else{beingShown=true;info.css({top:-97,right:0,display:'block'}).animate({top:'-='+distance+'px',opacity:1},time,'swing',function(){beingShown=false;shown=true;});}return false;}).mouseout(function(){if(hideDelayTimer)clearTimeout(hideDelayTimer);hideDelayTimer=setTimeout(function(){hideDelayTimer=null;info.animate({top:'-='+distance+'px',opacity:0},time,'swing',function(){shown=false;info.css('display','none');});},hideDelay);return false;});});}); </p>
+<p> On Politics </p>
+<p> Most viewed </p>
+<p> Zeitgeist </p>
+<p> Latest </p>
+<p> Last 24 hours </p>
+<p> 1. </p>
+<p> David Cameron gets a rail dressing down, from his father in law </p>
+<p> 2. </p>
+<p> Can you really be addicted to the internet? </p>
+<p> 3. </p>
+<p> Alistair Darling and Charles Kennedy lined up for Scottish pro-union drive </p>
+<p> 4. </p>
+<p> Gove proposes 'wiki curriculum' </p>
+<p> 5. </p>
+<p> Politics Live blog - Thursday 12 January </p>
+<p> More most viewed </p>
+<p> Last 24 hours </p>
+<p> Politics Live blog - Thursday 12 January </p>
+<p> Welfare reform protest: 'They are picking on those easiest to vilify' - video </p>
+<p> Welfare reform: government vows to reverse Lords defeats </p>
+<p> Scottish independence: Salmond says Cameron has no mandate to set rules – video </p>
+<p> Can you really be addicted to the internet? </p>
+<p> More zeitgeist </p>
+<p> What is Zeitgeist? </p>
+<p> Zeitgeist is an experiment in showing trending news, topics and articles from the Guardian. Find out more in </p>
+<p> our blog post </p>
+<p> . </p>
+<p> Last 24 hours </p>
+<p> 1. </p>
+<p> Politics Live blog - Thursday 12 January </p>
+<p> 2. </p>
+<p> Will police become less accountable in London? </p>
+<p> 3. </p>
+<p> Can you really be addicted to the internet? </p>
+<p> 4. </p>
+<p> Welfare reform: government vows to reverse Lords defeats </p>
+<p> 5. </p>
+<p> Welfare reform: which side would Charles Dickens be on? </p>
+<p> All today's stories </p>
+<p> NHS news on Twitter </p>
+<p> Follow the latest news on the NHS reforms with our team of health specialists </p>
+<p> clare_horton: </p>
+<p> Three-quarters of GPs want health and social care bill withdrawn, poll reveals </p>
+<p> http://t.co/nTrqSsJC </p>
+<p> about 11 minutes ago </p>
+<p> patrickjbutler: </p>
+<p> Live blog: Freud in clear over welfare bill disabled children amendment "ambush" - at least for now </p>
+<p> http://t.co/UpF7gpGN </p>
+<p> #wrbliveblog </p>
+<p> about 1 hour, 24 minutes ago </p>
+<p> tianran: </p>
+<p> Three-quarters of GPs want health and social care bill withdrawn, poll reveals </p>
+<p> http://t.co/RTS3Y1Mo </p>
+<p> via </p>
+<p> @guardian </p>
+<p> about 1 hour, 40 minutes ago </p>
+<p> • Follow our health specialists on this Twitter list </p>
+<p> • </p>
+<p> Find more tweets from our health team </p>
+<p> Bestsellers from the Guardian shop </p>
+<p> Mighty Ice Grips (for heeled shoes) </p>
+<p> Just slip them over your shoes for safe walking on ice, snow or sleet. </p>
+<p> From: £9.95 </p>
+<p> Visit the Guardian reader offers shop </p>
+<p> See all offers and services from the Guardian </p>
+<p> .m-guardianbookshop .rank { float: left; margin-left: -15px; } 	.m-guardianbookshop .thumb .rank { margin-left: 0; } 	.m-guardianbookshop h4 { border-top: none !important; font-weight: bold; margin-left: 5px !important; padding: 5px 0 8px 0 !important; } 	.m-guardianbookshop .bestsellers { background-color: #fff; padding-bottom: 17px;} 	.m-guardianbookshop ol { padding: 0 5px; } 	.m-guardianbookshop .l1 { clear: both; padding-left: 15px; } 	.m-guardianbookshop .thumb { padding-left: 0; } 	.m-guardianbookshop .thumb img { float: left; margin: 2px 10px 9px 0;} 	.m-guardianbookshop .price { display: inline; } 	.m-guardianbookshop .thumb .price { display: block; } 	.m-guardianbookshop .rank, .m-guardianbookshop .book-title { font-weight: bold; } 	.m-guardianbookshop input { border: 1px solid #999; width: 75%; min-height: 16px; margin-top: 8px; padding: 3px 2px;} </p>
+<p> This week's bestsellers </p>
+<p> 1. </p>
+<p> Send Up the Clowns </p>
+<p> by Simon Hoggart </p>
+<p> £8.99 </p>
+<p> 2. </p>
+<p> Why It's Kicking Off Everywhere </p>
+<p> by Paul Mason </p>
+<p> £14.99 </p>
+<p> 3. </p>
+<p> Pity the Billionaire </p>
+<p> by Thomas Frank </p>
+<p> £14.99 </p>
+<p> 4. </p>
+<p> Britain's Empire </p>
+<p> by Richard Gott </p>
+<p> £25.00 </p>
+<p> 5. </p>
+<p> Mafia State </p>
+<p> by Luke Harding </p>
+<p> £20.00 </p>
+<p> Search the Guardian bookshop </p>
+<p> Search </p>
+<p> Reality check with Polly Curtis weekly archives </p>
+<p> Jan 2012 </p>
+<p> M </p>
+<p> T </p>
+<p> W </p>
+<p> T </p>
+<p> F </p>
+<p> S </p>
+<p> S </p>
+<p> 26 </p>
+<p> 27 </p>
+<p> 28 </p>
+<p> 29 </p>
+<p> 30 </p>
+<p> 31 </p>
+<p> 1 </p>
+<p> 2 </p>
+<p> 3 </p>
+<p> 4 </p>
+<p> 5 </p>
+<p> 6 </p>
+<p> 7 </p>
+<p> 8 </p>
+<p> 9 </p>
+<p> 10 </p>
+<p> 11 </p>
+<p> 12 </p>
+<p> 13 </p>
+<p> 14 </p>
+<p> 15 </p>
+<p> 16 </p>
+<p> 17 </p>
+<p> 18 </p>
+<p> 19 </p>
+<p> 20 </p>
+<p> 21 </p>
+<p> 22 </p>
+<p> 23 </p>
+<p> 24 </p>
+<p> 25 </p>
+<p> 26 </p>
+<p> 27 </p>
+<p> 28 </p>
+<p> 29 </p>
+<p> 30 </p>
+<p> 31 </p>
+<p> 1 </p>
+<p> 2 </p>
+<p> 3 </p>
+<p> 4 </p>
+<p> 5 </p>
+<p> Guardian holiday offers </p>
+<p> Our choice </p>
+<p> Most popular </p>
+<p> 2 for 1 on Eurostar breaks </p>
+<p> Vietnam & Cambodia - 15 nights from £1899pp </p>
+<p> jQ(function() {         jQ("#most-popular-container").load("http://www.guardian.co.uk/travel/feeds/travel-offers-most-popular.html li", function() {             jQ("#most-popular-container li").each(function (i) {                 if (i >= 5) this.style.display='none';                 if (i == 0) jQ(this).addClass('first');             });          });     }); </p>
+<p> Javascript must be turned on in order to see the most popular holiday offers </p>
+<p> Find hand-picked holidays to hundreds of destinations </p>
+<p> Browse all Guardian holiday offers </p>
+<p> Sign up to Guardian holiday offers email </p>
+<p> Sponsored feature </p>
+<p> function showSponsoredFeaturex31(){                     if (window.sponJSON) {                         if(typeof(sponJSON) === 'object') {                           adx31 = sponJSON;                           var node = jQ('.json-features.x31');                           convertJSONtoAd(                               node.find('img:first-child'),                               node.find('a.t6'),                               node.find('p:last-child'),                               adx31,                               node.find('.hd').children().eq(0),                               'x31'                           );                         }                     }                 }                                  jQ(document).ready(function(){                     jQ('.x31-script-placeholder').writeCapture().replaceWith('<script>showSponsoredFeaturex31()<' + '/script>')                 }) </p>
+<p> Find the latest jobs in your sector: </p>
+<p> Arts & heritage </p>
+<p> Charities </p>
+<p> Education </p>
+<p> Environment </p>
+<p> Government </p>
+<p> Graduate </p>
+<p> Health </p>
+<p> Marketing & PR </p>
+<p> Media </p>
+<p> Sales </p>
+<p> Senior executive </p>
+<p> Social care </p>
+<p> Browse all jobs </p>
+<p> Strategic Communications Advisor </p>
+<p> London  | £46,506 - £57,553 plus + Competitive Pension + London Location Allowance of £3,020 pa </p>
+<p> HOME OFFICE </p>
+<p> Related information </p>
+<p> Technology </p>
+<p> Internet </p>
+<p> UK news </p>
+<p> Society </p>
+<p> Health </p>
+<p> Is Cyber Monday just PR spin? </p>
+<p> 5 Dec 2011 </p>
+<p> Online shopping will peak at 9pm tonight... or was it last Monday? Is Cyber Monday a real phenomenon or just spin to panic people into shopping?  Polly Curtis, with your help, finds out. </p>
+<p> 13 Oct 2011 </p>
+<p> Reality check: why are some hospitals failing older people? </p>
+<p> 23 Nov 2011 </p>
+<p> Caesarean or natural birth – which is safer? </p>
+<p> 28 Nov 2011 </p>
+<p> Who's telling the truth in the public sector pension row? </p>
+<p> 6 Dec 2011 </p>
+<p> Do lobbying firms change government policy? </p>
+<p> Why is Italy in trouble? </p>
+<p> 8 Nov 2011 </p>
+<p> Italians have low personal debt, the second biggest manufacturing economy in Europe and Berlusconi claims the restaurants in Rome are full. So why is Italy now at the centre of the eurozone crisis? Polly Curtis, with your help, finds out. Get in touch below the line, email your views to polly.curtis@guardian.co.uk or tweet @pollycurtis </p>
+<p> Hot topics </p>
+<p> David Cameron </p>
+<p> Ed Miliband </p>
+<p> Nick Clegg </p>
+<p> George Osborne </p>
+<p> Coalition </p>
+<p> License/buy our content </p>
+<p> | </p>
+<p> Privacy policy </p>
+<p> | </p>
+<p> Terms & conditions </p>
+<p> | </p>
+<p> Advertising guide </p>
+<p> | </p>
+<p> Accessibility </p>
+<p> | </p>
+<p> A-Z index </p>
+<p> | </p>
+<p> Inside the Guardian blog </p>
+<p> | </p>
+<p> About us </p>
+<p> | </p>
+<p> Work for us </p>
+<p> | </p>
+<p> Join our dating site today </p>
+<p> © 2012 Guardian News and Media Limited or its affiliated companies. All rights reserved. </p>
+<p> //<![CDATA[ 	if(true) { 		var s_account="guardiangu-blogs,guardiangu-politics,guardiangu-network"; 		writeScript('http://static.guim.co.uk/static/534a025fbd5b6ca3cafea5df66abf4d49b01b6fd/common/scripts/omniture-H.22.4.js', false, function(){}); 	} 	//]]> </p>
+<p> //<![CDATA[ 	if(true) { 		if (false) { 		    s.pageName = document.title; 		} else { 			s.pageName="Can you really be addicted to the internet? :Article:1687345"; 		} 		s.channel = "Politics"; 		s.pageType=""; 		s.server='60'; 		s.prop2='GUID:(none)';  					s['prop3']="GU.co.uk"; 					s['prop4']="UK news,Internet,Health (Society)"; 					s['prop5']="Not commercially useful,Technology Gadgets,Health Society"; 					s['prop6']="Polly Curtis"; 					s['prop7']="12-Jan-12"; 					s['prop8']="1687345"; 					s['prop9']="Article"; 					s['prop10']="Minute by minute,Blogpost"; 					s['prop11']="Politics"; 					s['prop13']=""; 					s['prop25']="Reality check with Polly Curtis,News blog"; 					s['prop30']="content"; 		 		s.hier2="GU/Politics/blog/Reality check with Polly Curtis"; 		s.events=""; 		s.eVar23="";  		try { 			if (guardian.r2.OmnitureTrackingOverride) { 				new guardian.r2.OmnitureTrackingOverride(s); 			} 		} 		catch(err) { 		}          if(jQ.cookie("GU_OMNITURE") !== null) {             s.events = jQ.cookie("GU_OMNITURE");             jQ.cookie("GU_OMNITURE", null, { path: '/', domain: '.guardian.co.uk'});         }          var s_code=s.t();if(s_code)document.write(s_code); 	} 	//]]> </p>
+<p> var _qevents = _qevents || []; 		(function() { 			var elem = document.createElement('script');  			elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js"; 			elem.async = true; 			elem.type = "text/javascript"; 			var scpt = document.getElementsByTagName('script')[0]; 			scpt.parentNode.insertBefore(elem, scpt); 		})(); 		_qevents.push( { qacct:'p-73ktnlRTKQPTw', labels: 'politics'} ); </p>
+<p> var qcResults = function (result) { 				for (var i = 0, len = result.segments.length; i < len; i++) { 					OAS_query += 'qc=' + result.segments[i].id + '&'; 				} 			} </p>
+<p> if (true) {     jQ(document).ready(function () {         jQ('a[data-cpt]').each(             function () {             jQ(this).click(                 function () {                 var cpId = jQ(this).attr('data-cpt').split("-")[1];                 var currentLink = jQ(this).attr('href');                  if (currentLink.indexOf('intcmp=') == -1) {                     if(currentLink.indexOf('?') == -1) {                         var separator = '?'                     } else {                         var separator = '&'                     }                      jQ(this).attr('href', currentLink + separator + "intcmp=" + cpId);                 }             });         });     }); } </p>
+<p> //<![CDATA[ 	if (false) {         // guardian.co.uk Connect Adprobe Tag, MPU [9814], Leaderboard [9815]         var wlOrd = new Date().getTime();         document.write('<scr' + 'ipt type="text/javascript" src="http://req.connect.wunderloop.net/AP/1566/6033/10343/js?cus=10343,10344&ord=' + wlOrd + '"></sc' + 'ript>'); 	} // ]]> </p>
+<p> //<![CDATA[ 	if (false) {         OAS_query += 'wl10343=' + wl10343camp + '&wl10344=' + wl10344camp + '&'; 	} // ]]> </p>
+<p> //<![CDATA[  	if(true) { 		ensurePackage("guardian.r2.revsci");  		guardian.r2.revsci.cookieDomain = '.guardian.co.uk'; 		guardian.r2.revsci.gu_geo_country = '(none)'; 		guardian.r2.revsci.siteName = 'Politics'; 					guardian.r2.revsci.commercialFolder = 'Live' 				 		addEvent(null, 'load', function () { 			writeScript('http://js.revsci.net/gateway/gw.js?csid=E05516', true, function() { 				writeScript('http://static.guim.co.uk/static/534a025fbd5b6ca3cafea5df66abf4d49b01b6fd/common/scripts/revsci.js', true, function() { 					rs_initTracking(); 				}) 			}) 		}); 	}  	// ]]> </p>
+<p> //<![CDATA[ 											function OAS_NORMAL(pos) { 							document.write('<A HREF="' + OAS_url + 'click_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + pos + '!' + pos + '?' + OAS_query + '" TARGET=' + OAS_target + '>'); 							document.write('<IMG SRC="' + OAS_url + 'adstream_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + pos + '!' + pos + '?' + OAS_query + '" BORDER=0></A>'); 						}  						OAS_version = 11; 						if ((navigator.userAgent.indexOf('Mozilla/3') != -1) || (navigator.userAgent.indexOf('Mozilla/4.0 WebTV') != -1)) OAS_version = 10;                          if (true) {                             if (OAS_version >= 11) document.write('<scr' + 'ipt src="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/script>');                         }  						function OAS_AD(pos) {                             if (true) {                                 if (typeof(OAS_RICH) !== 'undefined' && OAS_version >= 11) {                                     OAS_RICH(pos);                                 } else {                                     OAS_NORMAL(pos);                                 }                             } 						} 					 				//]]> </p>
+<p> //<![CDATA[                 jQ('#ad-placeholder-Top').writeCapture().replaceWith('<script>OAS_AD("Top")<' + '/script>');                 //]]> </p>
+<p> jQ('#ad-temp-Top').hide(); </p>
+<p> //<![CDATA[                 jQ('#ad-placeholder-Middle2').writeCapture().replaceWith('<script>OAS_AD("Middle2")<' + '/script>');                 //]]> </p>
+<p> jQ('#ad-temp-Middle2').hide(); </p>
+<p> //<![CDATA[                 jQ('#ad-placeholder-Right1').writeCapture().replaceWith('<script>OAS_AD("Right1")<' + '/script>');                 //]]> </p>
+<p> jQ('#ad-temp-Right1').hide(); </p>
+<p> //<![CDATA[                 jQ('#ad-placeholder-x31').writeCapture().replaceWith('<script>OAS_AD("x31")<' + '/script>');                 //]]> </p>
+<p> jQ('#ad-temp-x31').hide(); </p>
+<p> ensurePackage('guardian.r2.omniture');   guardian.r2.omniture.trackComponents = true; </p>
+<p> //	<![CDATA[ 	if(true) {         var OAS_taxonomy='&Paneled_Site=guardian.co.uk&Paneled_Section=politics'; 		jQ(document).ready(function(){ 			jQ.getScript('http://static.guim.co.uk/static/534a025fbd5b6ca3cafea5df66abf4d49b01b6fd/common/scripts/kantarmedia.js'); 		}); 	} 	// ]]> </p>
+<p> if(true) {         		jQ(function() { 		  if ('undefined' !== typeof MatchingEngine) { 		    MatchingEngine.logEvent('article', 'id=http://www.guardian.co.uk/politics/reality-check-with-polly-curtis/2012/jan/12/internet-health'); 		  } 		}); 	} </p>
+<p> if (true) {         var _sf_async_config = {};         /** CONFIGURATION START **/         _sf_async_config.uid = 30676;         _sf_async_config.domain = document.domain;         _sf_async_config.sections = 'Politics';         _sf_async_config.authors = 'Polly Curtis';         _sf_async_config.useCanonical = true;         /** CONFIGURATION END **/         (function() {             function loadChartbeat() {                 window._sf_endpt = (new Date()).getTime();                 var e = document.createElement('script');                 e.setAttribute('language', 'javascript');                 e.setAttribute('type', 'text/javascript');                 e.setAttribute('src',                         (('https:' == document.location.protocol) ? 'https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/' : 'http://static.chartbeat.com/') +                                 'js/chartbeat.js');                 document.body.appendChild(e);             }              var oldonload = window.onload;             window.onload = (typeof window.onload != 'function') ?                     loadChartbeat : function() {                 oldonload();                 loadChartbeat();             };         })();     } </p>

@@ -1,0 +1,164 @@
+<p> // <![CDATA[     //var mobile = (/Series60|Nokia|SymbianOS|iphone|android|blackberry|mini|windows\sce|palm|ARM|Bada|foss|LiMo|Maemo|MeeGo|mobile|opensource|os|Qtopia|SHR|smartphone|webOS/i.test(navigator.userAgent.toLowerCase()));  var mobile = (/Series60|Nokia|SymbianOS|iphone|android|blackberry|mini|windows\sce|palm/i.test(navigator.userAgent.toLowerCase()));     if (mobile) { 	var url = window.location; 	url = String(url); 	var urllengthmin = url.length - 1; 	urllength = url.length; 	var strCheck = url.substring(urllengthmin,urllength); 	if(strCheck == '/'){ 		url = url.substring(0,urllengthmin); 	  } 	 var urlArray = url.split('/');      var arrayLength =  urlArray.length;      var id = urlArray[arrayLength-1];	 	 if(id == 0) {          var id = urlArray[arrayLength-2];	     	 var headline1 = urlArray[arrayLength-3];		  	   } else {    	   var headline1 = urlArray[arrayLength-2];		  	 } 	 var hdlne = '"'+'ocean-in-a-drop'+'"'; 	 var headline = '"'+headline1+'"'; 		if(headline == hdlne) {         	document.location = "http://m.indianexpress.com/news/"+headline1+"/"+id+"/"; 		} else { 		   //  document.location = "http://www.indianexpress.com/static/sorry/"; 			//document.location = "http://m.indianexpress.com/news/"+hdlne+"/"+id+"/"; 		}       //document.location = "http://m.indianexpress.com/story_mobile.php?storyid="+id;       //  window.stop();     } else { 	var url = window.location; 	var str = url.hostname; 	var n=str.search("indianexpress"); 	//alert(n); 	if(n == 4) { 		url = String(url); 		var urllengthmin = url.length - 1; 		urllength = url.length; 		var strCheck = url.substring(urllengthmin,urllength); 		if(strCheck == '/')	{ 			url = url.substring(0,urllengthmin); 		} 	   var urlArray = url.split('/'); 		 //var arrayLength =  urlArray.length; 		 var arrayLength =  6; 		 var id = urlArray[arrayLength-1];	 		 if(id == 0) { 			 var id = urlArray[arrayLength-2];	 			 var headline = urlArray[arrayLength-3];		  		   } else { 		   var headline = urlArray[arrayLength-2];		  		 } 		 var hdlne = '"'+'ocean-in-a-drop'+'"'; 		 var headline = '"'+headline+'"'; 		//	alert('Nitin Chaudhry'); 			if(headline == hdlne) { 			//	alert('Title Match'); 			} else { 				// document.location = "http://www.indianexpress.com/static/sorry/"; 				headstring = 'ocean-in-a-drop'; 				headstring = headstring.replace(/'/g, ""); 				//document.location = "http://www.indianexpress.com/news/"+headstring +"/"+id+"/"; 			} 		}//n  	}//else // ]]> </p>
+<p> Ocean in a drop - Indian Express </p>
+<p> {parsetags: 'explicit'} </p>
+<p> function ReadCookie(n) { var cookiecontent = new String(); if(document.cookie.length > 0) { 	var cookiename = n+ '='; 	var cookiebegin = document.cookie.indexOf(cookiename); 	var cookieend = 0; 	if(cookiebegin > -1) { 		cookiebegin += cookiename.length; 		cookieend = document.cookie.indexOf(";",cookiebegin); 		if(cookieend < cookiebegin) { cookieend = document.cookie.length; } 		cookiecontent = document.cookie.substring(cookiebegin,cookieend); 		} 	} return unescape(cookiecontent); }  function changeValue(){  // alert('hello');   var y = ReadCookie('USERNAME');   var z = ReadCookie('USEREMAIL');   document.getElementById('strName').innerHTML = "<INPUT TYPE='test'  class='postcom1' NAME='name' id='usrname' VALUE='"+y+"' title='Please Enter your name'>";   document.getElementById('strEmail').innerHTML = "<input type='text' class='postcom1' name='email'  value='"+ z +"'  id='usremail' title='Please enter your email'  >"; } </p>
+<p> var switchTo5x=true; </p>
+<p> stLight.options({publisher: "d4265d8f-ff31-4770-9be3-ba9b1333e195"}); </p>
+<p> .share-this span{ float:left;} .share-this{ background:#CCC; } .share-this-bottom{width:80px; background:#CCC;} .stButton{margin-left:8px !important;margin-right:8px !important;} </p>
+<p> .termstoolbox { background-color: #F4F4F4; border: 1px solid #CCC; height: 140px; width: 450px; padding: 10px; display:none; font-family:Arial, Helvetica, sans-serif; font-size:11px; color:#666666; line-height:16px; } </p>
+<p> var cX = 0; var cY = 0; var rX = 0; var rY = 0; function UpdateCursorPosition(e){ cX = e.pageX; cY = e.pageY;} function UpdateCursorPositionDocAll(e){ cX = event.clientX; cY = event.clientY;} if(document.all) { document.onmousemove = UpdateCursorPositionDocAll; } else { document.onmousemove = UpdateCursorPosition; } function AssignPosition(d) { if(self.pageYOffset) { rX = self.pageXOffset; rY = self.pageYOffset; } else if(document.documentElement && document.documentElement.scrollTop) { rX = document.documentElement.scrollLeft; rY = document.documentElement.scrollTop; } else if(document.body) { rX = document.body.scrollLeft; rY = document.body.scrollTop; } if(document.all) { cX += rX;  cY += rY; } d.style.left = (cX+10) + "px"; d.style.top = (cY+10) + "px"; } function HideText(d) { if(d.length < 1) { return; } document.getElementById(d).style.display = "none"; } function ShowText(d) { if(d.length < 1) { return; } var dd = document.getElementById(d); AssignPosition(dd); dd.style.display = "block"; } function ReverseContentDisplay(d) { if(d.length < 1) { return; } var dd = document.getElementById(d); AssignPosition(dd); if(dd.style.display == "none") { dd.style.display = "block"; } else { dd.style.display = "none"; } } //--> </p>
+<p> (function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=227420367385640";  fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk')); </p>
+<p> (function(d, s, id) { 	  var js, fjs = d.getElementsByTagName(s)[0]; 	  if (d.getElementById(id)) {return;} 	  js = d.createElement(s); js.id = id; 	  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=176383315772341"; 	  fjs.parentNode.insertBefore(js, fjs); 	}(document, 'script', 'facebook-jssdk')); </p>
+<p> var _comscore = _comscore || [];    _comscore.push({ c1: "2", c2: "8738137" });    (function() {      var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;      s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";      el.parentNode.insertBefore(s, el);    })(); </p>
+<p> Indian Express </p>
+<p> Financial Express </p>
+<p> ExpressIndia </p>
+<p> Loksatta </p>
+<p> Jansatta </p>
+<p> Screen </p>
+<p> ePAPER </p>
+<p> Today's Paper </p>
+<p> eBOOK </p>
+<p> Weather </p>
+<p> Sweet taste of freedom </p>
+<p> Ashok Gulati </p>
+<p> function getMinuteCustom() { if(parseInt(minutes) < 10) { minutes = "0"+minutes; return minutes; } else { return minutes; } } var thisdate = new Date(); var Days = new Array('Sun', 'Mon', 'Tue', 'Wed', 'Thu','Fri', 'Sat'); var Mons = new Array('Jan','Feb','Mar','Apr', 'May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'); var dataStr; var dataStrNew; var minutes = thisdate.getMinutes(); minutes = getMinuteCustom(minutes); dataStr = Days[thisdate.getDay()]+', '+thisdate.getDate()+' '+Mons[(thisdate.getMonth())]+' '+thisdate.getFullYear(); dataStrNew = Days[thisdate.getDay()]+', '+thisdate.getDate()+' '+Mons[(thisdate.getMonth())]+' '+thisdate.getFullYear()+', '+thisdate.getHours()+':'+minutes; </p>
+<p> Updated: </p>
+<p> document.write(dataStrNew) </p>
+<p> IST </p>
+<p> Follow @IndianExpress </p>
+<p> !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs"); </p>
+<p> function actionsearchbox1() { idsearch=document.getElementById("searchQval"); if((idsearch.value=="") || (idsearch.value=="Key Words")) { alert("Please enter search text"); return false; } else { return true; } } </p>
+<p> keywords </p>
+<p> site </p>
+<p> Astrology </p>
+<p> Cricket </p>
+<p> Shopping </p>
+<p> Home </p>
+<p> India </p>
+<p> World </p>
+<p> Business </p>
+<p> Cities </p>
+<p> Photos </p>
+<p> Sports </p>
+<p> Entertainment </p>
+<p> Lifestyle </p>
+<p> Tech </p>
+<p> Opinions </p>
+<p> Talk </p>
+<p> Videos </p>
+<p> Archive </p>
+<p> GS_googleAddAdSenseService("ca-pub-9517772455344405"); GS_googleEnableAllServices(); </p>
+<p> GA_googleAddSlot("ca-pub-9517772455344405", "IE_Story_728x900"); </p>
+<p> GA_googleFetchAds(); </p>
+<p> GA_googleFillSlot("IE_Story_728x900"); </p>
+<p> Ocean in a drop </p>
+<p> The Indian Express </p>
+<p> :  Mon Jan 16 2012, 02:55 hrs </p>
+<p> function google_ad_request_done(google_ads) { var s = ''; var i; if (google_ads.length == 0) { return; } if (google_ads[0].type=="text") { if (google_ads.length > 0) { s += ""; for(i=0; i < google_ads.length; ++i) {  s += '<a href="' + google_ads[i].url + '" target="_blank" ' + 'onmouseout="window.status=\'\'" ' + 'onmouseover="window.status=\'go to ' + google_ads[i].visible_url + '\'" ' + '>' +  google_ads[i].line1 + '&nbsp; </a>'+ '<span><a href="' + google_ads[i].url + '" target="_blank" ' + 'onmouseout="window.status=\'\'" ' + 'onmouseover="window.status=\'go to ' + google_ads[i].visible_url + '\'" ' + '>'+google_ads[i].visible_url.substr(0,20) +'</span></a>' + '<b>'+google_ads[i].line2 +'&nbsp; '+google_ads[i].line3 + '</b>' ; } } s += ""; }  document.write(s); return; }  google_ad_client = "pub-9517772455344405"; google_ad_output = 'js'; google_max_num_ads = 1; google_ad_slot = "1801448143"; google_ad_channel = "ies_300x250-text"; google_adtest = 'off'; google_safe = 'high'; google_ad_section = 'ie_home_all'; </p>
+<p> Ads by Google </p>
+<p> | </p>
+<p> var addthis_config = {"data_track_clickback":false}; </p>
+<p> Top Stories </p>
+<p> Narendra Modi slams UPA for wrecking Indian dream, but stays mum on PMship </p>
+<p> A K Antony refused to support Sanjay Gandhi: WikiLeaks </p>
+<p> North Korea warns foreigners in South Korea to evacuate </p>
+<p> Bihar netas use social networking sites to woo youngsters </p>
+<p> Deepak Bhardwaj killing: Son called in for questioning </p>
+<p> Could India be free of the highly infectious wild poliovirus? The signs are it may well be so, with the last case of poliomyelitis having been reported in West Bengal exactly a year ago. It is a rare, inspiring triumph for India in healthcare, with amped-up, extensive awareness and implementation programmes working in tandem. These have ensured that precious drops of oral poliovirus vaccine repeatedly reached children in cities and villages. The drive was active even on trains and buses, for children of mobile population like migrant workers. </p>
+<p> A debilitating disease that affects the nervous system, especially of children below five years, with 1 in 200 chances of acute paralysis, polio has no cure. It can only be vaccinated against. And that has been the great hurdle for a country considered one of the epicentres of the wild poliovirus (to distinguish it from the vaccine virus): India reported 741 cases in 2009, the highest in the world that year. Since 1988, with the launch of the Global Polio Eradication Initiative, the battle has been against three types of wild poliovirus. Type 2 was eradicated in just over a decade; type 3, after a furious outbreak in 2009 and a consequent intense immunisation drive, was reported last in India in 2010; and now the last case of type 1 was reported on January 13, 2011  the year-long break the reason for this collective sigh of relief. </p>
+<p> India could soon be taken off the list of four countries considered endemic to polio in 2011  Pakistan, Afghanistan and Nigeria being the other three. To understand the tenacity of the global fight against polio, consider the number of polio-endemic countries in 1988: over 125. However the challenge for India now is to sustain this drive against the wild poliovirus that is known to circulate before striking pockets of children with low immunity levels. India will have to record at least two more years of zero-polio case to be recognised as polio-free. Equally importantly, the diligence and doggedness of this fight against the wild poliovirus should be a template for our other healthcare programmes, including against malnutrition. </p>
+<p> Ads by Google </p>
+<p> function google_ad_request_done(google_ads) { var s = ''; var i; if (google_ads.length == 0) { return; } if (google_ads[0].type=="text") { if (google_ads.length > 0) { s += ""; for(i=0; i < google_ads.length; ++i) {  s += '<a href="' + google_ads[i].url + '" target="_blank" ' + 'onmouseout="window.status=\'\'" ' + 'onmouseover="window.status=\'go to ' + google_ads[i].visible_url + '\'" ' + '>' + google_ads[i].line1 + '&nbsp; </a>'+ '<b>'+google_ads[i].line2 +'&nbsp; '+google_ads[i].line3 + '</b>' +  '<span><a href="' + google_ads[i].url + '" target="_blank" ' + 'onmouseout="window.status=\'\'" ' + 'onmouseover="window.status=\'go to ' + google_ads[i].visible_url + '\'" ' + '>'+google_ads[i].visible_url.substr(0,20) +'</span></a>';  } } s += ""; }  document.write(s); return; }  google_ad_client = "pub-9517772455344405"; google_ad_output = 'js'; google_max_num_ads = 2; google_ad_slot = "3210905074"; google_ad_channel = "ies_middle"; google_adtest = 'off'; google_safe = 'high'; google_ad_section = 'ie_home_all'; </p>
+<p> Tags: </p>
+<p> ie </p>
+<p> , </p>
+<p> editorial </p>
+<p> Please read our </p>
+<p> terms of use </p>
+<p> before posting comments </p>
+<p> TERMS OF USE: The views, opinions and comments posted are your, and are not endorsed by this website. You shall be solely responsible for the comment posted here. The website reserves the right to delete, reject, or otherwise remove any views, opinions and comments posted or part thereof. You shall ensure that the comment is not inflammatory, abusive, derogatory, defamatory &/or obscene, or contain pornographic matter and/or does not constitute hate mail, or violate privacy of any person (s) or breach confidentiality or otherwise is illegal, immoral or contrary to public policy. Nor should it contain anything infringing copyright &/or intellectual property rights of any person(s). </p>
+<p> /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */ var disqus_shortname = 'indianexpressstory'; // required: replace example with your forum shortname  /* * * DON'T EDIT BELOW THIS LINE * * */ (function() { 	var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true; 	dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js'; 	(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq); })(); </p>
+<p> Please enable JavaScript to view the </p>
+<p> comments powered by Disqus. </p>
+<p> comments powered by </p>
+<p> Disqus </p>
+<p> GS_googleAddAdSenseService("ca-pub-9517772455344405"); GS_googleEnableAllServices(); </p>
+<p> GA_googleAddSlot("ca-pub-9517772455344405", "IE_S_1st_300x250"); </p>
+<p> GA_googleFetchAds(); </p>
+<p> GA_googleFillSlot("IE_S_1st_300x250"); </p>
+<p> window.setTimeout(afterDelay, 20);  function afterDelay() {       dclk_show();  } setTimeout('dclk_hide()',8500); </p>
+<p> function boxOffHover(box) { box.style.background='#f3f3f3'; }  function boxOnHover(box) { box.style.background='#ccc'; } </p>
+<p> Editors’ Pick </p>
+<p> Quick edit: Why IPL 2013 rides on high moolah! </p>
+<p> Pics: Sachin's field day with son Arjun </p>
+<p> Deepak Bhardwaj killing: Son called in for questioning </p>
+<p> Shocker: 10-year-old rape victim put behind bars </p>
+<p> IPL 2013: Rajasthan vs KKR, turning points </p>
+<p> Gold price tumbles by Rs 190 on stockists selling </p>
+<p> Review: HTC One impresses but software disappoints </p>
+<p> Beyonce pays tribute to mother </p>
+<p> Pics: Ranbir, Katrina are back in India </p>
+<p> Cong turns tables on '#Feku' Modi, after Rahul Gandhi fiasco </p>
+<p> GS_googleAddAdSenseService("ca-pub-9517772455344405"); GS_googleEnableAllServices(); </p>
+<p> GA_googleAddSlot("ca-pub-9517772455344405", "IE_S_2nd_300x250"); </p>
+<p> GA_googleFetchAds(); </p>
+<p> GA_googleFillSlot("IE_S_2nd_300x250"); </p>
+<p> Read </p>
+<p> Commented </p>
+<p> 'Chashme Baddoor' collects Rs 19 cr in opening weekend </p>
+<p> Indian truck owners struggling to make loan repayments: Crisil </p>
+<p> LG unveils Optimus L-Series II smartphones in India </p>
+<p> Rajasthan Royals vs KKR: SWOT, and more </p>
+<p> At FICCI meet, Narendra Modi woos women, takes a dig at Rahul Gandhi </p>
+<p> Media demonising Muslim community: Markandey Katju </p>
+<p> Sheila Dikshit takes on Narendra Modi, calls him divisive figure </p>
+<p> A confusing vision - Indian Express </p>
+<p> Quick edit: Feminist Modi ke paas Ma hai, policy nahin </p>
+<p> A confusing vision - Indian Express </p>
+<p> GS_googleAddAdSenseService("ca-pub-9517772455344405"); GS_googleEnableAllServices(); </p>
+<p> GA_googleAddSlot("ca-pub-9517772455344405", "IE_S_4th_300x250"); </p>
+<p> GA_googleFetchAds(); </p>
+<p> GA_googleFillSlot("IE_S_4th_300x250"); </p>
+<p> Today's Paper </p>
+<p> Edits & Columns </p>
+<p> With AICTE nod, corporate houses set to start engg colleges </p>
+<p> Chennai awaits Nov clash of chess titans Anand, Carlsen </p>
+<p> MoEF, coal ministry delaying GoM decisions: Pawar to PM </p>
+<p> Bus driver who mowed down nine in Pune gets death </p>
+<p> Margaret Thatcher, Iron Lady who transformed Britain, dies at 87 </p>
+<p> Writers end </p>
+<p> Its all relatives </p>
+<p> Death by degrees </p>
+<p> Quick edit: Laughing at Mr Ajit Pawar's expense </p>
+<p> Quick edit: Feminist Modi ke paas Ma hai, policy nahin </p>
+<p> Follow us: </p>
+<p> Hot Topics </p>
+<p> F1 Season, 2013 </p>
+<p> Delhi gangrape </p>
+<p> AgustaWestland deal </p>
+<p> Hyderabad Twin blasts </p>
+<p> Afzal Guru Hanged </p>
+<p> FE at Campus </p>
+<p> India tour Aus 2011-12 </p>
+<p> India vs Australia 2010 </p>
+<p> Mumbai attack </p>
+<p> Fight for Telangana </p>
+<p> Australian Open </p>
+<p> India vs England </p>
+<p> Site Map </p>
+<p> | </p>
+<p> Privacy Policy </p>
+<p> | </p>
+<p> Advertize With Us </p>
+<p> | </p>
+<p> Contact Us </p>
+<p> Copyright © </p>
+<p> var thisdate = new Date(); 		 var dataStr; 		 dataStr = thisdate.getFullYear(); 		 document.write(dataStr) </p>
+<p> The Indian Express ltd. All Rights Reserved. </p>
+<p> /*window.setTimeout(afterDelay, 30);  function afterDelay() {       dclk_show();  }  setTimeout('dclk_hide()',9000); */ </p>
+<p> GS_googleAddAdSenseService("ca-pub-9517772455344405"); GS_googleEnableAllServices(); </p>
+<p> GA_googleAddSlot("ca-pub-9517772455344405", "IE-POP"); </p>
+<p> GA_googleFetchAds(); </p>
+<p> GA_googleFillSlot("IE-POP"); </p>
+<p> var _gaq = _gaq || [];   _gaq.push(['_setAccount', 'UA-1403607-3']);   _gaq.push(['_setDomainName', '.indianexpress.com']);   _gaq.push(['_trackPageview']);    (function() {     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);   })(); </p>

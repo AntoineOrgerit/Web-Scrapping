@@ -1,0 +1,280 @@
+<p> Fears of backtrack over emergency dept staff | Otago Daily Times Online News : Otago, South Island, New Zealand & International News </p>
+<p> <!--// <![CDATA[   var OA_zones = { 'Ad Microsite - Big Banner':13,'Enter Sponsor (410x32)':71,'Directory - Big Banner':15,'Directory - Promo':16,'Directory - Rect':17,'Directory - Super Rect':18,'Directory - Rectangle Lite':19,'Horizontal Sponsor Top Banner':20,'Channel Block Header':21,'Homepage - Skyscraper Lite':22,'Site Wide - Big Banner':23,'Site Wide - Rect':24,'Site Wide - Rect Lite':25,'Site Wide - Skyscraper':26,'Editorial Promo':27,'Ltd.co.nz':68,'Channel Page Title':29,'Horizontal Sponsor Banner':57,'Site Wide - Half':60,'ODT Sponsors Advertising - Rectangle':38,'DS Cars Sale (160x600)':30,'DS Cars Sale (300x250)':39,'ODT Sponsors (610x60)':73,'Site Wide - Rect Lite 1':44,'Channel Block 1':45,'Classifieds - rect lite':46,'Classifieds 2 - rect lite':47,'Inside Today':66,'Classifieds - rect':49,'Classifieds - big banner':50,'Sponsor Page Title 1':51,'Classifieds - super rect':52,'Channel Page Title 2':53,'Channel Page Title 3':54,'Channel Block 2':55,'Channel Block 3':56,'Features - Rect 1':74  } // ]]> --> </p>
+<p> @import "/files/css/d296c8e29614aac1294b668bc165a750.css"; </p>
+<p> @import "/sites/all/themes/odt/style-news.css"; </p>
+<p> Drupal.extend({ settings: { "googleanalytics": { "trackOutgoing": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|avi|csv|doc|exe|flv|gif|gz|jpe?g|js|mp(3|4|e?g)|mov|pdf|phps|png|ppt|rar|sit|tar|torrent|txt|wma|wmv|xls|xml|zip", "LegacyVersion": 0 }, "jstools": { "cleanurls": true, "basePath": "/" }, "collapsiblock": { "blocks": { "block-views-block_travel": "2", "block-block-10": "2", "block-block-23": "2", "block-block-24": "2", "block-block-25": "2", "block-block-27": "2", "block-views-block_latest_slideshow": "2", "block-featured_gallery-0": "2", "block-menu-189": "2", "block-views-block_latest_notices": "3", "block-views-block_latest_national": "2", "block-block-47": "2", "block-block-51": "2", "block-block-52": "2", "block-block-53": "2", "block-views-block_slideshow_entertainment": "2", "block-views-block_slideshow_YT_Alexandra": "2", "block-views-block_slideshow_YT_Dunedin": "3", "block-menu-359": "3", "block-block-107": "3", "block-block-111": "3", "block-block-110": "3", "block-block-108": "3", "block-block-109": "3", "block-block-112": "3", "block-block-113": "3", "block-views-block_citizen_news_dunedin": "3", "block-advertiser_block-1": "2", "block-block-188": "3", "block-block-189": "3", "block-block-190": "3", "block-block-192": "3", "block-menu-509": "2", "block-block-235": "3", "block-block-236": "3" }, "default_state": "1" }, "tabs": { "slide": true, "fade": true, "speed": "fast", "auto_height": false }, "thickbox": { "close": "Close", "next": "Next \x3e", "prev": "\x3c Prev", "esc_key": "or Esc Key", "next_close": "Next / Close on last", "image_count": "Image !current of !total" }, "simplemenu": { "basePath": "/", "effect": "opacity", "effectSpeed": "fast", "element": "body", "hideDelay": "800", "placement": "prepend" } } }); </p>
+<p> var siteTarget = "/SITE=ODT/AREA=HOME.HME";     var keyword = ""; </p>
+<p> var simplemenu = "\x3cli class=\"leaf\"\x3e\x3ca href=\"/\" title=\"Otago Daily Times Online news website\"\x3eODT\x3c/a\x3e\x3c/li\x3e\n\x3cli class=\"leaf\"\x3e\x3ca href=\"/directory\" title=\"ODT/directory Finda Local Business in Dunedin, Oamaru, Balclutha, Wanaka, Queenstown, Alexandra, Ranfurly\"\x3eODT/directory\x3c/a\x3e\x3c/li\x3e\n\x3cli class=\"leaf\"\x3e\x3ca href=\"http://jobs.odt.co.nz\" title=\"Local jobs in Dunedin, Balcultha, Queenstown, Wanaka, Cromwell, Alexandra, Oamaru, Otago\"\x3eJobs\x3c/a\x3e\x3c/li\x3e\n\x3cli class=\"leaf\"\x3e\x3ca href=\"http://drivesouth.co.nz\" title=\"Used \x26amp; New cars for sale in Dunedin, Christchurch, Timaru, Invercargill, Nelson, Greymouth, Oamaru, Marlboroughh\"\x3eDrivesouth Cars for Sale\x3c/a\x3e\x3c/li\x3e\n\x3cli class=\"leaf\"\x3e\x3ca href=\"http://digital.odt.co.nz\" title=\"Read the paper online as it was printed or visit our archive\"\x3eODT Digital Edition/Archive\x3c/a\x3e\x3c/li\x3e\n\x3cli class=\"leaf\"\x3e\x3ca href=\"/page/7094/odt-classified-advertising\" title=\"Place a Classified Advert in the Otago Daily Times\"\x3ePlace a Classified\x3c/a\x3e\x3c/li\x3e\n\x3cli class=\"leaf\"\x3e\x3ca href=\"http://www.ch9.co.nz/\" title=\"Dunedin Channel 9 Television\"\x3eCh9 TV\x3c/a\x3e\x3c/li\x3e\n\x3cli class=\"leaf\"\x3e\x3ca href=\"http://ltd.co.nz\" title=\"Dunedin Best Limited Time Deal website go to Ltd.co.nz\"\x3eLtd.co.nz\x3c/a\x3e\x3c/li\x3e\n"; </p>
+<p> $(document).ready( function () {       $(function($) {       $('.clock').jclock();       });     }); </p>
+<p> Search </p>
+<p> Login </p>
+<p> Search: </p>
+<p> ODT Online </p>
+<p> ODT /directory </p>
+<p> Google </p>
+<p> Username: </p>
+<p> * </p>
+<p> Password: </p>
+<p> * </p>
+<p> Create an account </p>
+<p> Why register? </p>
+<p> Today's Weather </p>
+<p> Dunedin </p>
+<p> 20 </p>
+<p> 14 </p>
+<p> High </p>
+<p> Low </p>
+<p> Forecast </p>
+<p> document.write('<a href=\'#\' class=\'todays-weather-change-link\' title=\'Change Location\'><img src="/sites/all/themes/odt/images/down-green.gif" alt="(change)" title="Change Location" width="16" height="16" /></a>'); </p>
+<p> Alexandra </p>
+<p> Ashburton </p>
+<p> Auckland </p>
+<p> Blenheim </p>
+<p> Christchurch </p>
+<p> Dannevirke </p>
+<p> Dargaville </p>
+<p> Dunedin </p>
+<p> Gisborne </p>
+<p> Gore </p>
+<p> Greymouth </p>
+<p> Hamilton </p>
+<p> Hastings </p>
+<p> Hokitika </p>
+<p> Invercargill </p>
+<p> Kaikoura </p>
+<p> Kaitaia </p>
+<p> Levin </p>
+<p> Masterton </p>
+<p> Motueka </p>
+<p> Napier </p>
+<p> Nelson </p>
+<p> New Plymouth </p>
+<p> Oamaru </p>
+<p> Paihia </p>
+<p> Palmerston North </p>
+<p> Paraparaumu </p>
+<p> Queenstown </p>
+<p> Reefton </p>
+<p> Rotorua </p>
+<p> Russell </p>
+<p> Taumarunui </p>
+<p> Taupo </p>
+<p> Tauranga </p>
+<p> Te Kuiti </p>
+<p> Thames </p>
+<p> Timaru </p>
+<p> Tokoroa </p>
+<p> Wanaka </p>
+<p> Wanganui </p>
+<p> Wellington </p>
+<p> Westport </p>
+<p> Whakatane </p>
+<p> Whangarei </p>
+<p> Online Edition | Wednesday, 18 January 2012 | </p>
+<p> 01:58:01 </p>
+<p> <!--// <![CDATA[     OA_show('Editorial Promo'); // ]]> --> </p>
+<p> News </p>
+<p> Dunedin </p>
+<p> Queenstown Lakes </p>
+<p> Regions </p>
+<p> National </p>
+<p> World </p>
+<p> Australia </p>
+<p> Political </p>
+<p> Business </p>
+<p> Weather </p>
+<p> Technology </p>
+<p> Farming </p>
+<p> Galleries </p>
+<p> On Campus </p>
+<p> Your News </p>
+<p> Sport </p>
+<p> Entertainment </p>
+<p> Holiday Guide </p>
+<p> Lifestyle </p>
+<p> Opinion </p>
+<p> Your Town </p>
+<p> Drivesouth </p>
+<p> Jobs </p>
+<p> Fears of backtrack over emergency dept staff </p>
+<p> Home </p>
+<p> » </p>
+<p> News </p>
+<p> » </p>
+<p> Dunedin </p>
+<p> By </p>
+<p> Eileen Goodwin </p>
+<p> on Tue, 17 Jan 2012 </p>
+<p> News: Dunedin </p>
+<p> | </p>
+<p> Dunedin Hospital </p>
+<p> | </p>
+<p> SDHB </p>
+<p> A senior Dunedin       Hospital emergency department specialist says Southern       District Health Board management appear to have backtracked       on recruiting an extra 4.5 senior medical officers for the       department. </p>
+<p> However, yesterday board chairman Joe Butterfield said the       extra staffing proposal was still a work in progress, and no       decisions had been made. </p>
+<p> In the public-excluded session of its July meeting, the board       approved the ED observation unit business case, which       included $1.779 million extra for ED staffing in the first       year, and $1.695 million in the second year. However, it was       subject to budgetary constraints. </p>
+<p> Mr Butterfield was unable to clarify whether those figures       solely related to the possible extra SMOs. </p>
+<p> Dr John Chambers, also an Association of Salaried Medical       Specialists union representative, believed the board approved       the additional top staff, but management stopped it,       seemingly because of lack of funds. </p>
+<p> Word of the significant extra SMOs was welcomed by senior       staff, who prepared rosters factoring in the additional       resource. </p>
+<p> After preparing the rosters the doctors were advised the       extra staff were no longer a top priority. </p>
+<p> "It seems to be back to the drawing board. </p>
+<p> "My colleagues spent quite a few months developing rosters to       make the best use of the increase in staff to improve our       staffing at the weekends in particular." </p>
+<p> There seemed to be a disconnection between the board's       expectations, and what management subsequently decided, he       said. </p>
+<p> Dunedin would not have had trouble attracting the       specialists, who had been expected to take up the posts this       year. </p>
+<p> "We have capable young specialists who would love to come and       work in Dunedin." </p>
+<p> Instead, the department was to get an additional 0.6 SMO, a       position that might not be easy to fill as it was not       full-time. </p>
+<p> "Young doctors want a full-time position." </p>
+<p> The department had 7.6 SMOs; it should have 12 to 13,       according to professional guidelines, Dr Chambers said. </p>
+<p> The recent appointment of two senior registrars was positive,       and they could fill in as senior medical officers, although       only with supervision. However, the pair worked half of their       hours in anaesthetics. </p>
+<p> It was disappointing for doctors keenly following       recommendations made by the National Health Board and other       parties for hospital improvements, for which there seemed to       be no money. </p>
+<p> It was hoped the specialists would be in place in time for       the new observation ward, which is to open in the middle of       the year. </p>
+<p> Chief operating officer (Otago) Vivian Blake said the       proposal approved in the middle of last year had not       specified the extra staff, and was part of a wider business       case for the ED observation unit. </p>
+<p> "We haven't got any additional money to put to additional       staffing." </p>
+<p> Instead, rosters were being rearranged to make better use of       existing staff. </p>
+<p> "At the moment, we have a mismatch of [specialist] rosters to       [patient] attendances." </p>
+<p> Doctors at Southland Hospital had also requested an increase       in ED staff, and the DHB was taking a district-wide approach       to the problem. </p>
+<p> The Otago and Southland chief medical officers, Richard       Bunton and Dr David Tulloch, were arranging meetings with ED       doctors in both Invercargill and Dunedin. </p>
+<p> In an email obtained by the </p>
+<p> Otago Daily Times </p>
+<p> , Mrs       Blake advised a colleague there was no money "coming our way       via the NHB for this or anything else". </p>
+<p> "The first thing to consider is whether this request for       additional FTE is the highest organisational priority ... If       it is agreed that ED is the highest priority, I suggest you       look at whether there is a vacant [senior medical officer] in       the system that can be realigned." </p>
+<p> eileen.goodwin@odt.co.nz </p>
+<p> Bookmark/Search this post with: </p>
+<p> » </p>
+<p> Login </p>
+<p> or </p>
+<p> register </p>
+<p> to post comments </p>
+<p> Printer-friendly version </p>
+<p> A name, residential address, and (preferably residential) telephone number is required from readers who comment on ODT Online. These details will not be visible to site visitors. </p>
+<p> <!--// <![CDATA[     OA_show('ODT Sponsors (610x60)'); // ]]> --> </p>
+<p> ODT/directory - Local Businesses </p>
+<p> Company </p>
+<p> Location </p>
+<p> Business Type </p>
+<p> Cassidy Design </p>
+<p> Queenstown </p>
+<p> Web Design & Development </p>
+<p> Cakes By Kate </p>
+<p> Dunedin </p>
+<p> Catering </p>
+<p> Hirequip Wanaka </p>
+<p> Wanaka </p>
+<p> Equipment & Machinery </p>
+<p> Clinton Automotive </p>
+<p> Clinton </p>
+<p> Servicing & Mechanics </p>
+<p> Login </p>
+<p> or </p>
+<p> Register </p>
+<p> to add your business to the ODT/directory. Quick link to </p>
+<p> ODT/directory </p>
+<p> Latest Dunedin News </p>
+<p> Octagon re-occupation short-lived </p>
+<p> Davison plans move after death threats </p>
+<p> A job for the emergency services </p>
+<p> Fears of backtrack over emergency dept staff </p>
+<p> Call for entries </p>
+<p> As debt peaks, Cull talks of asset sales </p>
+<p> Historic church on the market </p>
+<p> City urged against complacency over quakes </p>
+<p> Two-hour phone failure </p>
+<p> Roofing and insulation upgrades for flats </p>
+<p> Heartbroken at theft from daughters' graves </p>
+<p> Two's company but 18 makes one crowded waka </p>
+<p> more Dunedin       >> </p>
+<p> Poll </p>
+<p> Are asset sales the best way to deal with the city's debt? </p>
+<p> Yes, they are a sensible approach to reducing the debt </p>
+<p> No, I can't believe they are even being considered </p>
+<p> Not sure, I'd need more information </p>
+<p> What do you think? </p>
+<p> Tell us why you voted the way you       did. Login or register to post a comment. </p>
+<p> <!-- google_ad_client = "pub-0523262222656134"; /* 200x200 */ google_ad_slot = "1143994069"; google_ad_width = 200; google_ad_height = 200; //--> </p>
+<p> Holiday Guide </p>
+<p> First action-packed Sprintcar Rockfest </p>
+<p> Death-defying feat up clock tower </p>
+<p> Boardwalk with a spectacular view </p>
+<p> Family-orientated fun day at the races </p>
+<p> more       holiday guide >> </p>
+<p> ODTV Videos </p>
+<p> Dog attacks sealion pup </p>
+<p> Raw video: Wanaka scrub fire </p>
+<p> more       ODTV Videos >> </p>
+<p> On holiday, bushwhacking </p>
+<p> Please keep the library tidy </p>
+<p> Two-car garage and bits of holly </p>
+<p> <!--// <![CDATA[     OA_show('Site Wide - Rect Lite 1'); // ]]> --> </p>
+<p> Feature Dunedin News </p>
+<p> Octagon re-occupation short-lived </p>
+<p> Davison plans move after death threats </p>
+<p> A job for the emergency services </p>
+<p> Ford Focus: Title puts Focus on Ford </p>
+<p> Jeep Patriot: More rugged  but still patriotic </p>
+<p> Lifestyle focus to fore in Impreza XV </p>
+<p> more </p>
+<p> Publications </p>
+<p> Otago Daily Times print and </p>
+<p> digital </p>
+<p> edition, </p>
+<p> The Star </p>
+<p> - Dunedin, </p>
+<p> The       News </p>
+<p> - Central Otago, </p>
+<p> The Ensign </p>
+<p> -       Gore, </p>
+<p> Southland Express </p>
+<p> - Invercargill, </p>
+<p> The       Courier </p>
+<p> - Timaru, </p>
+<p> Queenstown Times - </p>
+<p> Queenstown, </p>
+<p> Extra! </p>
+<p> schools publication </p>
+<p> Quick Links </p>
+<p> Submit </p>
+<p> your news & photos </p>
+<p> - </p>
+<p> Login </p>
+<p> or </p>
+<p> Register </p>
+<p> Opinion? </p>
+<p> Have your say - </p>
+<p> Login </p>
+<p> or </p>
+<p> Register </p>
+<p> Submit </p>
+<p> your       event or notice </p>
+<p> Add </p>
+<p> a photo       slideshow </p>
+<p> Bookmark </p>
+<p> ODT </p>
+<p> Make ODT </p>
+<p> my       homepage </p>
+<p> Home </p>
+<p> News </p>
+<p> Sport </p>
+<p> Lifestyle </p>
+<p> Your Town </p>
+<p> DriveSouth </p>
+<p> Cars for Sale </p>
+<p> Jobs </p>
+<p> Otago Images </p>
+<p> Otago Cancel </p>
+<p> Advertise </p>
+<p> Classified Advertising </p>
+<p> Contact us </p>
+<p> Death Notices </p>
+<p> ODT Subscriptions </p>
+<p> Upload advertising </p>
+<p> Buy a photo </p>
+<p> Corporate Logos </p>
+<p> RSS </p>
+<p> Home delivery </p>
+<p> Site feedback </p>
+<p> Privacy Policy </p>
+<p> Site map </p>
+<p> © Allied Press Limited 2007. All the material on this page has the protection of international copyright. All rights reserved. </p>
+<p> /* <![CDATA[ */  	var _rsCI="nz-alliedpress"; 	var _rsCG="otagodailytimes"; 	var _rsDN="//secure-nz.imrworldwide.com/"; 	var _rsCL=0; 	var _rsLOList = Array("http://odt.co.nz/") 	for (_rsLOItem in _rsLOList) {if (document.location.href==_rsLOList[_rsLOItem]) {_rsCL=1;break}}; 	/* ]]> */ </p>
+<p> $(document).ready(function(){         if($("div#DivBigBanner").length > 0){           aimRenderAd(760, 120, "760x120","BigBanner","");           if(!$.browser.msie){             BigBanner_frame = $("#BigBanner")[0];             BigBanner_frame.src = BigBanner_frame.src;           }         }         if($("div#DivSkyScraper").length > 0){           aimRenderAd(160, 600, "160x600","SkyScraper","");           if(!$.browser.msie){             SkyScraper_frame = $("#SkyScraper")[0];             SkyScraper_frame.src = SkyScraper_frame.src;           }         }         if($("div#DivHeadlineRect").length > 0){           aimRenderAd(300, 250, "300x250","HeadlineRect","/SR=0/POS=POS1");           if(!$.browser.msie){             HeadlineRect_frame = $("#HeadlineRect")[0];             HeadlineRect_frame.src = HeadlineRect_frame.src;           }         }         if($("div#DivContentRect").length > 0){           aimRenderAd(300, 250, "300x250","ContentRect","/POS=POS2");           if(!$.browser.msie){             ContentRect_frame = $("#ContentRect")[0];             ContentRect_frame.src = ContentRect_frame.src;           }         }         if($("div#DivRectLite1").length > 0){           aimRenderAd(300, 100, "300x100","RectLite1","/POS=POS1");           if(!$.browser.msie){             RectLite1_frame = $("#RectLite1")[0];             RectLite1_frame.src = RectLite1_frame.src;           }         }         if($("div#DivRectLite2").length > 0){           aimRenderAd(300, 100, "300x100","RectLite2","/POS=POS2");           if(!$.browser.msie){             RectLite2_frame = $("#RectLite2")[0];             RectLite2_frame.src = RectLite2_frame.src;           }         }       }); </p>
+<p> try{var pageTracker = _gat._getTracker("UA-3641995-1");pageTracker._trackPageview();} catch(err) {} </p>

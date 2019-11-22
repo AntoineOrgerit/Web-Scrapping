@@ -1,0 +1,111 @@
+<p> Новости NEWSru.com :: Новый прогноз: обломки "Фобос-Грунта" упадут на Землю 15 января </p>
+<p> <!-- browser = ( 	((navigator.appName == "Netscape") && (parseInt(navigator.appVersion) >= 3 )) 	|| 	((navigator.appName == "Microsoft Internet Explorer") && (parseInt(navigator.appVersion) >= 4 )) 	|| 	((navigator.appName == "Opera") && (parseInt(navigator.appVersion) >= 7 )) );  imgon=new Array(); imgoff=new Array();  list = new Array("allnews","1","2","3","7","4","5","6","msc","inopress","zagolovkiru","realty","techno","auto","medicine");  for(i = 1; i <= list.length; i++){ 	imgon["m"+i] = new Image(); 	imgon["m"+i].src = "http://static.newsru.com/img/menu_v/"+list[i-1]+"a.gif"; 	imgoff["m"+i] = new Image(); 	imgoff["m"+i].src = "http://static.newsru.com/img/menu_v/"+list[i-1]+".gif"; }  imageRef="document.images";  function msover(which) { 	if (browser) { 		eval(imageRef + '["' + which + '"].src = imgon[which].src'); 	} }  function msout(which) { 	if (browser) { 		eval(imageRef + '["' + which + '"].src = imgoff[which].src'); 	} } // --> </p>
+<p> (function(L){if(typeof(ar_cn)=="undefined")ar_cn=1; var S='setTimeout(function(e){if(!self.CgiHref){document.close();e=parent.document.getElementById("ar_container_"+ar_bnum);e.parentNode.removeChild(e);}},3000);',     j=' type="text/javascript"',t=0,D=document,n=ar_cn;L+=escape(D.referrer||'unknown')+'&rnd='+Math.round(Math.random()*999999999); function _(){if(t++<100){var F=D.getElementById('ar_container_'+n);     if(F){try{var d=F.contentDocument||(window.ActiveXObject&&window.frames['ar_container_'+n].document);     if(d){d.write('<sc'+'ript'+j+'>var ar_bnum='+n+';'+S+'<\/sc'+'ript><sc'+'ript'+j+' src="'+L+'"><\/sc'+'ript>');t=0}     else setTimeout(_,100);}catch(e){try{F.src="javascript:{document.write('<sc'+'ript"+j+">var ar_bnum="+n+"; document.domain=\""     +D.domain+"\";"+S+"<\/sc'+'ript>');document.write('<sc'+'ript"+j+" src=\""+L+"\"><\/sc'+'ript>');}";return}catch(E){}}}else setTimeout(_,100);}} D.write('<div style="visibility:hidden;height:0px;left:-1000px;position:absolute;"><iframe id="ar_container_'+ar_cn     +'" width=1 height=1 marginwidth=0 marginheight=0 scrolling=no frameborder=0><\/iframe><\/div><div id="ad_ph_'+ar_cn     +'" style="display:none;"><\/div>');_();ar_cn++; })('http://ad.adriver.ru/cgi-bin/erle.cgi?sid=183090&target=top&bt=43&pz=0&tail256='); </p>
+<p> var img = new Image(); img.src = 'http://www.tns-counter.ru/V13a***' + document.referrer.replace(/\*/g,'%2a') + '*newsru_ru/ru/CP1251/tmsec=newsru_total/'; </p>
+<p> <!-- d=document;a='';a+=';r='+escape(d.referrer) js=10//--> </p>
+<p> <!-- a+=';j='+navigator.javaEnabled() js=11//--> </p>
+<p> <!-- s=screen;a+=';s='+s.width+'*'+s.height a+=';d='+(s.colorDepth?s.colorDepth:s.pixelDepth) js=12//--> </p>
+<p> <!-- js=13//--> </p>
+<p> <!-- d.write('<img src="http://top.list.ru/counter'+ '?id=91013;js='+js+a+';rand='+Math.random()+ '" height=1 width=1>') if(js>11)d.write('<'+'!-- ')//--> </p>
+<p> <!-- if(js>11)d.write('--'+'>')//--> </p>
+<p> <!-- document.write('<img src="http://counter.yadro.ru/hit?r'+ escape(document.referrer)+((typeof(screen)=='undefined')?'': ';s'+screen.width+'*'+screen.height+'*'+(screen.colorDepth? screen.colorDepth:screen.pixelDepth))+';u'+escape(document.URL)+ ';i'+escape('Жж'+document.title.substring(0,80))+';'+Math.random()+ '" width=1 height=1 alt="">')//--> </p>
+<p> <!-- if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); } if (typeof(document.referrer) != 'undefined') {   if (typeof(afReferrer) == 'undefined') {     afReferrer = escape(document.referrer);   } } else {   afReferrer = ''; } var addate = new Date();  document.write('<scr' + 'ipt type="text/javascript" src="http://ads.adfox.ru/715/prepareCode?p1=quc&amp;p2=y&amp;pct=c&amp;pfc=a&amp;pfb=a&amp;pr=' + pr +'&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;prr=' + afReferrer + '"><\/scr' + 'ipt>'); // --> </p>
+<p> NEWSru.com </p>
+<p> // </p>
+<p> Новости России </p>
+<p> // </p>
+<p> Среда, 4 января 2012 г. </p>
+<p> <!-- if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); } var addate = new Date();  var scrheight = '', scrwidth = ''; if (self.screen) { scrwidth = screen.width; scrheight = screen.height; } else if (self.java) { var jkit = java.awt.Toolkit.getDefaultToolkit(); var scrsize = jkit.getScreenSize(); scrwidth = scrsize.width; scrheight = scrsize.height; } document.write('<iframe src="http://ads.adfox.ru/715/getCode?p1=enm&amp;p2=tt&amp;p3=a&amp;p4=a&amp;pct=a&amp;plp=a&amp;pli=a&amp;pop=a&amp;pfc=a&amp;pfb=a&amp;pr=' + pr + '&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;pdw=' + scrwidth + '&amp;pdh=' + scrheight + '" frameBorder="0" width="125" height="217" marginWidth="0" marginHeight="0" scrolling="no" style="border: 0px; margin: 0px; padding: 0px;"><a href="http://ads.adfox.ru/715/goDefaultLink?p1=enm&amp;p2=tt" target="_top"><img src="http://ads.adfox.ru/715/getDefaultImage?p1=enm&amp;p2=tt" border="0" alt=""><\/a><\/iframe>'); //--> </p>
+<p> <!-- document.write('<SCR'+'IPT SRC="http://ads.vidigital.ru/ttj?id=980205&cb='+(Math.random()*1000000000000000000)+'" TYPE="text/javascript"></SCR'+'IPT>'); //--> </p>
+<p> <!-- if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); } if (typeof(document.referrer) != 'undefined') {   if (typeof(afReferrer) == 'undefined') {     afReferrer = escape(document.referrer);   } } else {   afReferrer = ''; } var addate = new Date();  document.write('<scr' + 'ipt type="text/javascript" src="http://ads.adfox.ru/715/prepareCode?p1=bdzhu&amp;p2=ql&amp;pct=a&amp;pfc=a&amp;pfb=a&amp;pr=' + pr +'&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;prr=' + afReferrer + '"><\/scr' + 'ipt>'); // --> </p>
+<p> мНБНЯРХ ялх2 </p>
+<p> (function() { var sc = document.createElement('script'); sc.type = 'text/javascript'; sc.async = true; sc.src = 'http://js.smi2.ru/data/js/60699.js'; sc.charset = 'utf-8'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc, s); }()); </p>
+<p> Новый прогноз: обломки "Фобос-Грунта" упадут на Землю 15 января </p>
+<p> время публикации: 4 января 2012 г., 14:20 </p>
+<p> последнее обновление: 4 января 2012 г., 14:25 </p>
+<p> Падение на Землю фрагментов космического аппарата "Фобос-Грунт", не сгоревших в плотных слоях атмосферы, по данным на 4 января, ожидается 15 января. Такую дату, как передает ИТАР-ТАСС, назвали специалисты Главного центра разведки космической обстановки (ГЦ-РКО) войск  Воздушно-космической обороны (ВКО), которые осуществляют непрерывный  мониторинг изменений параметров орбиты российского космического  аппарата. </p>
+<p> Официальный представитель войск Воздушно-космической обороны РФ полковник Алексей Золотухин рассказал агентству, что сейчас объект находится на  околоземной орбите с параметрами: период - 88,57 минут,  наклонение - 51,41 градус, апогей - 224 км, перигей - 184 км. </p>
+<p> Окончательная дата падения фрагментов космического аппарата "Фобос-Грунт", по словам полковника, может измениться под воздействием внешних факторов. </p>
+<p> Информация об изменении параметров орбиты объекта предоставляется установленным порядком всем заинтересованным потребителям". </p>
+<p> Золотухин также напомнил, что недавно с высокой степенью точности  подтвердился прогноз специалистов ГЦ-РКО относительно времени и  места падения второй ступени ракеты-носителя "Зенит-3 SLB",  прекратившей свое существование на орбите 22 ноября 2011 года. </p>
+<p> Ранее Роскосмос сообщал, что, по подсчетам экспертов, "Фобос-Грунт" рухнет на Землю в период с 6 по 19 января. Возможная полоса падения - очень широкая, она находится в диапазоне от 51,4 градуса северной широты до 51,4 градуса южной широты. В эту зону попадает США, Китай, Африка, Австралия, Япония, южная часть Западной Европы и Украина, но не входит Белоруссия и большая часть территории России, в том числе Москва. </p>
+<p> По данным российских специалистов, земной поверхности могут достичь около 20-30 обломков из тугоплавких материалов суммарной массой не более 200 килограммов. При этом компоненты топлива космического аппарата сгорят в плотных слоях атмосферы Земли на высоте приблизительно 100 километров. </p>
+<p> Более-менее точно "пятно" и время падения можно будет предсказать не раньше, чем за несколько суток. </p>
+<p> Завис на орбите </p>
+<p> Напомним, первый за 15 лет российский межпланетный зонд был запущен 9 ноября с космодрома Байконур. Ракета-носитель "Зенит" отработала штатно, но на стадии выхода на траекторию перелета к Марсу возникла нештатная ситуация: маршевая двигательная установка "Фобос-Грунта" не сработала, и аппарат остался на низкой околоземной орбите. </p>
+<p> Станция должна была совершить посадку на спутнике Марса Фобосе и взять пробы грунта. После этого часть станции должна была доставить образцы на Землю, вторая "половина" оставалась бы на спутнике для дальнейшего изучения. Миссия должна была продлиться 2,5 года. Стоимость проекта, по неофициальной информации, составила около 5 миллиардов рублей. </p>
+<p> Комиссия по установлению причин провала начала работать 19 декабря, в ее состав вошли представители организаций ракетно-космической промышленности, учреждений Российской академии наук и Минобороны. Впрочем, эксперты признают, что едва ли смогут установить точные причины. "Телеметрических данных для анализа очень мало, комиссии будет трудно. Итоги ее работы будут скорее построены на предположении, чем на имеющихся данных", - сказал ранее глава Роскосмоса Владимир Поповкин. </p>
+<p> Существует несколько предварительных версий: после запуска могла поступить несанкционированная команда с Земли, могла произойти ошибка в программе, или расход питания на борту был чрезмерно большим. Среди предположений также то, что станции мог помешать космический мусор. </p>
+<p> Отметим, с декабря 2010 года Россия осуществила 33 космических запуска со всех космодромов (включая два пуска российских ракет-носителей "Союз-СТ-Б" с космодрома Куру во французской Гвиане). При этом уже шесть запусков завершились неудачей. </p>
+<p> <!-- if (navigator.appName != 'Microsoft Internet Explorer') { 	document.getElementById('newsljbut').style.display = 'block'; } // --> </p>
+<p> (function(d, s, id) {   var js, fjs = d.getElementsByTagName(s)[0];   if (d.getElementById(id)) return;   js = d.createElement(s); js.id = id;   js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";   fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk')); </p>
+<p> <!-- if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); } if (typeof(document.referrer) != 'undefined') {   if (typeof(afReferrer) == 'undefined') {     afReferrer = escape(document.referrer);   } } else {   afReferrer = ''; } var addate = new Date();  var scrheight = '', scrwidth = ''; if (self.screen) { scrwidth = screen.width; scrheight = screen.height; } else if (self.java) { var jkit = java.awt.Toolkit.getDefaultToolkit(); var scrsize = jkit.getScreenSize(); scrwidth = scrsize.width; scrheight = scrsize.height; } document.write('<scr' + 'ipt type="text/javascript" src="http://ads.adfox.ru/715/prepareCode?p1=bjted&amp;p2=y&amp;pct=a&amp;pfc=a&amp;pfb=a&amp;pr=' + pr +'&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;prr=' + afReferrer + '&amp;pdw=' + scrwidth + '&amp;pdh=' + scrheight + '"><\/scr' + 'ipt>'); // --> </p>
+<p> Ссылки по теме: </p>
+<p> Американцы уточнили дату и место падения "Фобос-Грунта": "не повезет" одной из азиатских стран </p>
+<p> // </p>
+<p> NEWSru.com </p>
+<p> // </p>
+<p> В мире </p>
+<p> // </p>
+<p> 26 декабря 2011 г. </p>
+<p> Роскосмос уточнил дату и место падения "Фобос-Грунта": может задеть Россию, зато без радиации </p>
+<p> // </p>
+<p> NEWSru.com </p>
+<p> // </p>
+<p> В России </p>
+<p> // </p>
+<p> 16 декабря 2011 г. </p>
+<p> Американские военные высчитали новую дату падения "Фобоса". Рухнет наверняка на иностранцев </p>
+<p> // </p>
+<p> NEWSru.com </p>
+<p> // </p>
+<p> В России </p>
+<p> // </p>
+<p> 14 декабря 2011 г. </p>
+<p> Каталог NEWSru.com: </p>
+<p> Информационные интернет-ресурсы </p>
+<p> Досье NEWSru.com </p>
+<p> : </p>
+<p> Наука и технологии </p>
+<p> // </p>
+<p> Космос </p>
+<p> // </p>
+<p> Марс </p>
+<p> //<![CDATA[ yandex_partner_id = 43120; yandex_site_bg_color = 'E6E6E6'; yandex_stat_id = 1215138; yandex_site_charset = 'utf-8'; yandex_ad_format = 'direct'; yandex_font_size = 0.9; yandex_font_family = 'arial'; yandex_direct_type = 'flat'; yandex_direct_limit = 4; yandex_direct_bg_color = 'E6E6E6'; yandex_direct_title_color = '0000FF'; yandex_direct_url_color = '006A29'; yandex_direct_all_color = '333333'; yandex_direct_text_color = '000000'; yandex_direct_hover_color = '0016A6'; yandex_direct_favicon = false; document.write('<sc'+'ript type="text/javascript" src="http://an.yandex.ru/system/context.js"></sc'+'ript>'); //]]> </p>
+<p> Последняя новость NEWSru.com – 10:26 </p>
+<p> Навальный ждет обвинительного приговора: собрал тюремный баул и приготовил тапочки </p>
+<p> // </p>
+<p> В России </p>
+<p> Досье NEWSru.com: </p>
+<p> Партии и политики </p>
+<p> / </p>
+<p> Общество </p>
+<p> / </p>
+<p> Навальный, Алексей </p>
+<p> <!-- if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); } if (typeof(document.referrer) != 'undefined') {   if (typeof(afReferrer) == 'undefined') {     afReferrer = escape(document.referrer);   } } else {   afReferrer = ''; } var addate = new Date();  document.write('<scr' + 'ipt type="text/javascript" src="http://ads.adfox.ru/173617/prepareCode?p1=bezms&amp;p2=envv&amp;pct=a&amp;pfc=a&amp;pfb=a&amp;pr=' + pr +'&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;prr=' + afReferrer + '"><\/scr' + 'ipt>'); // --> </p>
+<p> <!-- if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); } if (typeof(document.referrer) != 'undefined') {   if (typeof(afReferrer) == 'undefined') {     afReferrer = escape(document.referrer);   } } else {   afReferrer = ''; } var addate = new Date();  document.write('<scr' + 'ipt type="text/javascript" src="http://ads.adfox.ru/173617/prepareCode?p1=bezmt&amp;p2=envv&amp;pct=a&amp;pfc=a&amp;pfb=a&amp;pr=' + pr +'&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;prr=' + afReferrer + '"><\/scr' + 'ipt>'); // --> </p>
+<p> <!-- var random = Math.floor(Math.random() * 1000000000); document.write('<scr' + 'ipt language="JavaScript" src="http://engine.media-networks.ru/code?pid=2297&gid=454&oin=1&rid=' + random +'"></scr' + 'ipt>'); // --> </p>
+<p> <!-- var random = Math.floor(Math.random() * 1000000000); document.write('<scr' + 'ipt language="JavaScript" src="http://engine.media-networks.ru/code?pid=2298&gid=454&oin=1&rid=' + random +'"></scr' + 'ipt>'); // --> </p>
+<p> <!-- var random = Math.floor(Math.random() * 1000000000); document.write('<scr' + 'ipt language="JavaScript" src="http://engine.media-networks.ru/code?pid=2299&gid=454&oin=1&rid=' + random +'"></scr' + 'ipt>'); // --> </p>
+<p> // <!-- if(typeof(VongoMediaWorker)=="undefined" && document.getElementById("VongoMediaGateway")==null){ (function() { var s = document.createElement("script"); s.id = "VongoMediaGateway"; s.type = "text/javascript"; s.async = true; s.src = "http://cdn.vongomedia.ru/www/delivery/worker.js?_=" + Math.floor(Math.random()*99999999999); var x = document.getElementsByTagName("head")[0]; x.appendChild(s, x); })(); } // --> </p>
+<p> Среда, 10 апреля 2013 г. </p>
+<p> Последняя новость – 10:26 </p>
+<p> Все права на материалы и новости, опубликованные на сайте NEWSru.com, охраняются в соответствии с законодательством РФ. </p>
+<p> Допускается цитирование без согласования с редакцией не более 50% от объема оригинального материала, с обязательной прямой гиперссылкой на страницу, с которой материал заимствован. Гиперссылка должна размещаться непосредственно в тексте, воспроизводящем оригинальный материал NEWSru.com, до или после цитируемого блока. </p>
+<p> Обратная связь: </p>
+<p> редакция сайта </p>
+<p> / </p>
+<p> служба технической поддержки </p>
+<p> / </p>
+<p> рекламный отдел </p>
+<p> Прайс-лист на размещение рекламы </p>
+<p> Правила баннерного обмена </p>
+<p> Подписка на новости (RSS) </p>
+<p> © </p>
+<p> NEWSru.com – самые быстрые новости </p>
+<p> 2000-2013 </p>
+<p> <!-- if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); } var addate = new Date(); document.write('<iframe src="http://ads.adfox.ru/715/getCode?p1=cnh&amp;p2=nj&amp;p3=a&amp;p4=a&amp;pucn=a&amp;pfc=a&amp;pfb=a&amp;pr=' + pr + '&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;py=a" frameBorder="0" width="200" height="377" marginWidth="0" marginHeight="0" scrolling="no" style="border: 0px; margin: 0px; padding: 0px;"><a href="http://ads.adfox.ru/715/goDefaultLink?p1=cnh&amp;p2=nj" target="_top"><img src="http://ads.adfox.ru/715/getDefaultImage?p1=cnh&amp;p2=nj" border="0" alt=""><\/a><\/iframe>'); //--> </p>
+<p> <!-- if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); } if (typeof(document.referrer) != 'undefined') {   if (typeof(afReferrer) == 'undefined') {     afReferrer = escape(document.referrer);   } } else {   afReferrer = ''; } var addate = new Date();  document.write('<scr' + 'ipt type="text/javascript" src="http://ads.adfox.ru/173617/prepareCode?p1=beldb&amp;p2=emzm&amp;pct=a&amp;pfc=a&amp;pfb=a&amp;pr=' + pr +'&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;prr=' + afReferrer + '"><\/scr' + 'ipt>'); // --> </p>
+<p> <!-- if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); } if (typeof(document.referrer) != 'undefined') {   if (typeof(afReferrer) == 'undefined') {     afReferrer = escape(document.referrer);   } } else {   afReferrer = ''; } var addate = new Date();  document.write('<scr' + 'ipt type="text/javascript" src="http://ads.adfox.ru/173617/prepareCode?p1=begra&amp;p2=emzm&amp;pct=a&amp;pfc=a&amp;pfb=a&amp;pr=' + pr +'&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;prr=' + afReferrer + '"><\/scr' + 'ipt>'); // --> </p>
+<p> <!-- //var width=0; //width=screen.width; //if (width >= 1000) {     document.getElementById('stakan').style.display = 'block'; //} // --> </p>
+<p> var _exchange_vars = {key: 'ee85874b16a6a5f23fec6d46dc0fd582'}; (function(){ var s = document.createElement("script"); s.async = true; s.src = "http://b.adinch.com/static/sdk/sdk.js"; document.getElementsByTagName("head")[0].appendChild(s); })(); </p>

@@ -1,0 +1,446 @@
+<p> Wirus grypy ocenzurowany w obawie przed terrorystami </p>
+<p> var now = new Date(2012, 0, 14, 22, 16, 21); </p>
+<p> var profileBan; if (typeof profileCookie != 'undefined'){ 	profileBan = profileCookie;  }else { 	profileBan = null; }	  var asParams; if (typeof asAdsParams != 'undefined' && asAdsParams != ''){ 	asParams = '&asParams=' + asAdsParams;  }else { 	asParams = ''; } document.write('<scr'+'ipt type="text/javascript" src="http://ad.adview.pl/ad/GetBan?dir=/gazetawyborcza/&jsp=23&dx=75476&t='+(new Date()).getTime()+'&p='+profileBan+asParams+'"><\/script>');  document.write('<scr'+'ipt type="text/javascript" src="http://bi.adview.pl/info/ban/banFunc.js"><\/script>'); </p>
+<p> sas_switch = 1;  if (typeof nobanner=="undefined") nobanner=false;  sas_tmstp=Math.round(Math.random()*10000000000); sas_masterflag=1; function SmartAdServer(sas_pageid,sas_formatid,sas_target) {   if ((sas_switch==1)&&(nobanner==false)) {     if (sas_masterflag==1) {sas_masterflag=0;sas_master='M';} else {sas_master='S';};     document.write('<scr'+'ipt src="http://diff.smartadserver.com/call/pubj/' + sas_pageid + '/' + sas_formatid + '/' + sas_master + '/' + sas_tmstp + '/' + escape(sas_target) + '?"></scr'+'ipt>');   } } // shared </p>
+<p> putBan(2); </p>
+<p> <!-- if (top.frames.length!=0) top.location=self.document.location; // --> </p>
+<p> <!--     var pp_gemius_identifier = new String('Apg7Ka_gcNYT1jBafP32V7R3P50WYYeMaHKm5ELGb53.c7/arg=75476/sarg='+'|'+profileCookie);  //--> </p>
+<p> var _gaq = _gaq || []; 	var utmgif = 'http://kropka.'+ window.location.hostname+'/__utm.gif'; 	_gaq.push(['_setAccount', 'UA-426268-1']); 	_gaq.push(['_setCampaignCookieTimeout', 0]); 	_gaq.push(['_setCustomVar',1,'nr_dzialu',75476,3]); 	_gaq.push(['_setLocalGifPath',utmgif]); 	_gaq.push(['_setLocalRemoteServerMode']); 	_gaq.push(['_setAllowAnchor', true]);  	_gaq.push(['_trackPageview']); 	(function() { 	var ga = document.createElement('script'); 	ga.type = 'text/javascript'; ga.async = true; 	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + 	'.google-analytics.com/ga.js'; 	var s = document.getElementsByTagName('script')[0]; 	s.parentNode.insertBefore(ga, s); 	})(); </p>
+<p> (function() { 	var tg = document.createElement('script'); 	tg.type = 'text/javascript'; 	tg.async = true; 	tg.src = 'http://analytics.gazeta.pl/tg.js'; 	var s = document.getElementsByTagName('script')[0]; 	s.parentNode.insertBefore(tg, s); 	})(); </p>
+<p> window.fbAsyncInit = function() {     FB.init({       appId  : 199770596725532,       status : true, // check login status        cookie : true, // enable cookies to allow the server to access the session       xfbml  : true,  // parse XFBML       channelUrl: 'http://bi.gazeta.pl/info/facebook/fbjs.html'     });   };    (function() {     var e = document.createElement('script');     e.src = document.location.protocol + '//connect.facebook.net/pl_PL/all.js';     e.async = true;     document.getElementById('fb-root').appendChild(e);   }()); </p>
+<p> var idPogoda=""; </p>
+<p> putBan(49); </p>
+<p> Gazeta.pl </p>
+<p> Rabaty </p>
+<p> Tokfm.pl </p>
+<p> Poczta </p>
+<p> Forum </p>
+<p> Blogi </p>
+<p> Gazeta Wyborcza </p>
+<p> Pogoda </p>
+<p> Gry </p>
+<p> Programy </p>
+<p> var gazeta_pl = gazeta_pl || {}; gazeta_pl.gameCenterRefresh = 0; </p>
+<p> sas_pageid='12914/94220';	// Page : Wyborcza.pl/pozostale sas_formatid=5661;		// Format : billboard 750x100 sas_target='wsekcja='+ban_dx;			// Targeting SmartAdServer(sas_pageid,sas_formatid,sas_target); if (getBanObj("banP1")) getBanObj("banP1").style.display="block"; </p>
+<p> Nauka </p>
+<p> w serwisie </p>
+<p> w archiwum </p>
+<p> w internecie </p>
+<p> http://wiadomosci.gazeta.pl/i/obrazki/google_search/sblank.gif </p>
+<p> http://wiadomosci.gazeta.pl/i/obrazki/google_search/sblank.gif </p>
+<p> http://bi.gazeta.pl/im/6/6164/m6164086.gif </p>
+<p> /i/obrazki/google_search/google.gif </p>
+<p> KRAJ </p>
+<p> Quiz polityczny </p>
+<p> Rozmowy Kublik </p>
+<p> ŚWIAT </p>
+<p> USA </p>
+<p> Rosja </p>
+<p> Niemcy </p>
+<p> Chiny </p>
+<p> Wlk. Brytania </p>
+<p> Unia Europejska </p>
+<p> KULTURA </p>
+<p> Książki </p>
+<p> Film </p>
+<p> Muzyka </p>
+<p> Sztuka </p>
+<p> Teatr </p>
+<p> Telewizja </p>
+<p> Orliński </p>
+<p> Varga </p>
+<p> NAUKA </p>
+<p> Zdrowie </p>
+<p> Eko </p>
+<p> Poczta Teremiski </p>
+<p> Lata Lecą </p>
+<p> OPINIE </p>
+<p> Komentarze </p>
+<p> Liderzy opinii </p>
+<p> SPORT </p>
+<p> Miasta </p>
+<p> Warszawa </p>
+<p> Białystok </p>
+<p> Bielsko-Biała </p>
+<p> Bydgoszcz </p>
+<p> Częstochowa </p>
+<p> Gorzów Wlkp. </p>
+<p> Katowice </p>
+<p> Kielce </p>
+<p> Kraków </p>
+<p> Lublin </p>
+<p> Łódź </p>
+<p> Olsztyn </p>
+<p> Opole </p>
+<p> Płock </p>
+<p> Poznań </p>
+<p> Radom </p>
+<p> Rzeszów </p>
+<p> Szczecin </p>
+<p> Toruń </p>
+<p> Trójmiasto </p>
+<p> Wrocław </p>
+<p> Zielona Góra </p>
+<p> DUŻY FORMAT </p>
+<p> WYSOKIE OBCASY </p>
+<p> FOTO </p>
+<p> Duży Kadr </p>
+<p> Wideo </p>
+<p> Zdjęcia tygodnia </p>
+<p> Panoramy </p>
+<p> Szkoła Foto </p>
+<p> Warsztaty Foto </p>
+<p> NEKROLOGI </p>
+<p> BLOGI </p>
+<p> NAJ </p>
+<p> Najpopularniejsze </p>
+<p> Komentowane </p>
+<p> Wysyłane </p>
+<p> FILMY </p>
+<p> wszystkie </p>
+<p> E-wykluczeni </p>
+<p> Energia Kobiet </p>
+<p> RSS </p>
+<p> Kraj </p>
+<p> Komentarze </p>
+<p> Wiadomości z regionów </p>
+<p> Świat </p>
+<p> Komentarze </p>
+<p> USA </p>
+<p> Rosja </p>
+<p> Niemcy </p>
+<p> Chiny </p>
+<p> Wielka Brytania </p>
+<p> Gospodarka </p>
+<p> Kultura </p>
+<p> Nauka </p>
+<p> Warszawa </p>
+<p> Wideo </p>
+<p> Sport </p>
+<p> Listy do "Gazety" </p>
+<p> Naj Naj Naj... </p>
+<p> Nasze raporty </p>
+<p> Poradniki Gazety Wyborczej </p>
+<p> Być kobietą w polityce </p>
+<p> Czytamy w Polsce </p>
+<p> Prezydencja 2011 </p>
+<p> Stracone pokolenie </p>
+<p> Akcje społeczne </p>
+<p> Dorosłe dzieci alkoholików </p>
+<p> Leczyć po ludzku </p>
+<p> Komentarze </p>
+<p> Z kraju </p>
+<p> Ze świata </p>
+<p> Poniedziałek: Żakowski </p>
+<p> Wtorek: Kolenda-Zaleska </p>
+<p> Środa w środę </p>
+<p> Piątek: Monika Olejnik </p>
+<p> Blogi dziennikarzy </p>
+<p> Duży Format </p>
+<p> Zdarzyło się wczoraj </p>
+<p> Manniak </p>
+<p> Wysokie Obcasy </p>
+<p> Rozmowy o seksie </p>
+<p> Nowa Świąteczna </p>
+<p> Witamy w Polsce </p>
+<p> Gazetopedia </p>
+<p> Witamy w Europie </p>
+<p> Multimedia </p>
+<p> Wideo </p>
+<p> Fotografie </p>
+<p> Pokazy slajdów </p>
+<p> Panoramy </p>
+<p> Duży Kadr </p>
+<p> Archiwum Świątecznej </p>
+<p> Świąteczna krzepi </p>
+<p> Arka Noego </p>
+<p> Dwie na jednego </p>
+<p> Klub Goście Gazety </p>
+<p> Newsletter </p>
+<p> E-wydanie </p>
+<p> Prenumerata </p>
+<p> wyborcza.pl/iPhone </p>
+<p> Kolekcje Gazety </p>
+<p> Dokumenty </p>
+<p> Archiwum Gazety </p>
+<p> Pressclipping </p>
+<p> Reklama w GW </p>
+<p> ''Gazeta Wyborcza'' od A do Z </p>
+<p> Patronaty Wyborcza.pl </p>
+<p> Polecamy </p>
+<p> Blog akcji społecznych </p>
+<p> Eko </p>
+<p> Leczyć po ludzku </p>
+<p> Liderzy opinii </p>
+<p> My, narkopolacy </p>
+<p> Pociąg osobowy </p>
+<p> Polska biega </p>
+<p> Polacy, odwagi! </p>
+<p> Quiz polityczny </p>
+<p> Rodzić po ludzku </p>
+<p> Rozmowy Agnieszki Kublik </p>
+<p> Szkoła z klasą 2.0 </p>
+<p> Umierać po ludzku </p>
+<p> Wyborcza.pl </p>
+<p> Wyborcza.biz </p>
+<p> __nav_init(); </p>
+<p> Gazeta.pl </p>
+<p> > </p>
+<p> Gazeta Wyborcza </p>
+<p> > </p>
+<p> Nauka </p>
+<p> > </p>
+<p> Artykuły </p>
+<p> putBan(91); </p>
+<p> A </p>
+<p> A </p>
+<p> A </p>
+<p> Podziel się </p>
+<p> Facebook </p>
+<p> Wykop.pl </p>
+<p> Nasza Klasa </p>
+<p> Wyślij e-mailem </p>
+<p> putBan(56); </p>
+<p> Wirus grypy ocenzurowany w obawie przed terrorystami </p>
+<p> Wojciech Moskal </p>
+<p> 2011-12-28, ostatnia aktualizacja 2011-12-28 14:43 </p>
+<p> Laboratorium. Badanie próbek </p>
+<p> Fot. Rafal Michalowski / AGENCJA GAZE </p>
+<p> Władze USA poprosiły prestiżowe tygodniki "Science" i "Nature" o częściowe ocenzurowanie mających trafić do druku dwóch artykułów. Pisma się zgodziły; autorzy prac wpadli w furię. A wszystko przez fretki i terrorystów </p>
+<p> var rTeraz = new Date(1326575782016); function klodka (ddo) { 	if (rTeraz.getTime()>=ddo.getTime()) 		document.write('<'+'img src="/i/szukaj/k2b.gif" width=20 height=18 border=0 align="absmiddle"'+'>'); } </p>
+<p> ZOBACZ TAKŻE </p>
+<p> Komórki macierzyste z poroża jelenia regenerują </p>
+<p> (18-12-11, 12:02) </p>
+<p> Nowy gatunek co drugi dzień </p>
+<p> (15-12-11, 12:27) </p>
+<p> Szczur altruista </p>
+<p> (13-12-11, 10:31) </p>
+<p> Powrócą mamuty? </p>
+<p> (11-12-11, 16:56) </p>
+<p> Toksoplazmoza - charakter narodowy pasożytów </p>
+<p> (30-11-11, 10:43) </p>
+<p> Ferma norek </p>
+<p> putBan(34); </p>
+<p> Początek afery sięga końca sierpnia tego roku, gdy na biurko redaktora naczelnego "Science" Bruce'a Albertsa trafił - z prośbą o wydrukowanie - artykuł dr. Rona Fouchiera z Centrum Medycznego Uniwersytetu Erazma w Rotterdamie. Tekst poświęcony był wirusowi H5N1 (potocznie zwanemu wirusem ptasiej grypy), a konkretnie, pewnej jego odmianie stworzonej niedawno przez Fouchiera. Nie był to wcale jakiś przeciętny mikrob. Wyhodowane w krainie tulipanów monstrum, przez wielu ekspertów nazwane zostało w ostatnich dniach "jednym z najgroźniejszych wirusów, jaki kiedykolwiek powstał na Ziemi". I w tym właśnie trzeba szukać przyczyny całego zamieszania. </p>
+<p> Fretki z influenzą </p>
+<p> Na przełomie 2005 i 2006 roku świat ogarnęła panika wywołana przez ptasią grypę. Pod nóż poszły miliony kurczaków, kaczek i gęsi. Liczba zakażonych ludzi sięgnęła - według różnych szacunków - od ponad 400 do prawie 600. Więcej niż połowa zakażonych zmarła, co świadczy o tym, że wirus był naprawdę groźny. Na naszą korzyść działał natomiast fakt, że praktycznie wszyscy chorzy zakazili się od ptaków (oficjalnie udowodniono tylko jeden przypadek w którym choroba przeniosła się z człowieka na człowieka). To właśnie uniemożliwiło wirusowi rozprzestrzenienie się i ochroniło nas przed pandemią. </p>
+<p> Co jednak stałoby się, gdyby powstała odmiana mogąca swobodnie przenosić się pomiędzy ludźmi? To właśnie ten czarny scenariusz spędzał naukowcom i lekarzom sen z oczu przez ostatnie kilka lat. Wpierw musieli jednak znaleźć odpowiedź na pytanie: czy taki scenariusz jest w ogóle możliwy; innymi słowy - czy wirus H5N1 rzeczywiście ma potencjał wywołania pandemii? Ron Fouchier udowodnił, że tak. </p>
+<p> Holenderski naukowiec wraz ze swoim zespołem - dzięki inżynierii genetycznej - wyhodował w laboratorium wirusa ptasiej grypy zdolnego swobodnie przenosić się pomiędzy ssakami, a konkretnie pomiędzy fretkami znajdującymi się w sąsiednich klatkach (te nowe zdolności to "zasługa" pięciu mutacji w dwóch genach). To o tyle istotne, że fretki na grypę chorują podobnie jak ludzie - szczepy wirusa grypy, które przenoszą się pomiędzy ludźmi, przenoszą się również pomiędzy fretkami i vice versa. </p>
+<p> Ostrożnie z bioterrooryzmem </p>
+<p> Naczelny "Science" zaczął się zastanawiać nad implikacjami artykułu, który otrzymał. </p>
+<p> Podobne myśli zaprzątały także grono redakcyjne tygodnika "Nature". Okazało się bowiem, iż niemal równocześnie z Foucherem, podobne badania i podobne rezultaty otrzymał amerykańsko-japoński zespół (w jego skład wchodzili badacze z University of Wisconsin w Madison oraz Uniwersytetu Tokijskiego) kierowany przez prof. Yoshihiro Kawaokę. </p>
+<p> Fouchier, nie czekając na publikację, przedstawił wstępnie swoje odkrycie podczas spotkania wirusologów we wrześniu na Malcie. </p>
+<p> O sprawie prac mających się ukazać w dwóch najbardziej prestiżowych pismach naukowych świata, zaczęło być coraz głośniej. </p>
+<p> Hałas stał się na tyle duży, że zainteresowali się nim członkowie amerykańskiego Narodowego Naukowego Komitetu Doradczego ds. Biobezpieczeństwa (NSABB). Skupiający czołowych amerykańskich ekspertów zajmujących się m.in. chorobami zakaźnymi i bioterroryzmem. Komitet poprosił o możliwość przeanalizowania obu prac. </p>
+<p> W tym samym czasie w środowisku naukowym już wrzało. Część badaczy stanęła bowiem na stanowisku, że największy błąd popełniono już na samym początku. - Te badania nigdy nie powinny się nawet zacząć - uważa Richard Ebright, biolog molekularny z Instytutu Medycznego Howarda Hughes'a. Wtórują mu m.in. Thomas Ingelby, kierujący Centrum Biobezpieczeństwa Uniwersytetu w Pittsburghu czy weteran programu eradykacji czarnej ospy - Donald Henderson. </p>
+<p> Inni z kolei wspierają Fouchiera i Kawaokę. </p>
+<p> - Ich prace są bardzo ważne. Obaj mają pełne poparcie środowiska badaczy zajmujących się grypą - mówi Michael Osterholm, kierujący Centrum Chorób Zakaźnych na Uniwersytecie stanu Minnesota. Jego zdaniem obecne odkrycie to szansa na stworzenie metod walki z ewentualną pandemią w przyszłości. Jest w tym dużo racji gdyż wstępne wyniki Fouchiera pokazały np., że nowy mikrob jest wrażliwy na działanie niektórych leków przeciwwirusowych oraz, że najprawdopodobniej będzie można stworzyć wymierzoną w niego szczepionkę. </p>
+<p> Ebright, Ingelby i Henderson wychodzą z kolei z założenia, że z tego typu eksperymentami wiążą się dwa poważne zagrożenia. Po pierwsze, groźny wirus może w jakiś sposób wymknąć z laboratorium i rozprzestrzenić wśród ludzi. Po drugie, upublicznione w naukowym piśmie metody hodowli mikroba, a przede wszystkim sposób w jaki stworzono jego nową odmianę mogą trafić w ręce terrorystów i posłużyć im do stworzenia broni biologicznej. </p>
+<p> Ten drugi aspekt zaniepokoił również NSABB. </p>
+<p> 30 listopada ustnie, a pierwszego grudnia - oficjalnie i na piśmie - przedstawiciele Komitetu zwrócili się do wydawców "Science" o usunięcie niektórych fragmentów </p>
+<p> pracy </p>
+<p> Holendrów. Przede wszystkim chodziło tu o "genetyczny przepis" na stworzenie wirusa ptasiej grypy zdolnego przemieszczać się pomiędzy fretkami. - Trudno mi znaleźć w myślach mikroorganizm, który bardziej napawałby mnie teraz strachem niż właśnie ten - mówi kierujący pracami NSABB Paul Keim, który przez długie lata zajmował się badaniami nad wąglikiem. - Mam wrażenie, że wąglik - w porównaniu z tym wirusem ptasiej grypy - to naprawdę nic wielkiego - dodaje Keim. </p>
+<p> Nawet Michael Osterholm (również zasiadający w NSABB), choć popiera autorów obu prac, broni decyzji o ich częściowym ocenzurowaniu. - Moim zdaniem z artykułów przeznaczonych do szerokiej publikacji można usunąć pewne kluczowe fragmenty udostępnić je tylko specjalistom, którzy mogą z nich w pełni skorzystać. W końcu naprawdę nie chcemy "złym chłopcom" dać do ręki przepisu na to jak złe robale zmienić w jeszcze gorsze - mówi Osterholm. </p>
+<p> Publikacja po cenzurze </p>
+<p> W specjalnym oświadczeniu Bruce Alberts napisał, że tygodnik "Science" rozumie i wspiera działania NSABB i zgadza się na usunięcie niektórych fragmentów holenderskiej pracy. Podobną decyzję podjęło kierownictwo "Nature". </p>
+<p> Gorzej poszło z autorami. Ci od początku wyrażali niezadowolenie z ingerencji Komitetu i bronili prawa do publikacji pełnej wersji wyników swoich badań. Koniec końców zgodzili się jednak na cenzurę, nie ukrywając przy tym swoich odczuć na temat całej sprawy. - To sytuacja bez precedensu. Zdrowiu publicznemu najlepiej można się przysłużyć właśnie poprzez szeroki dostęp do informacji - irytuje się kolega Fouchiera i zarazem współautor pracy - dr Albert Osterhaus. </p>
+<p> Yoshihiro Kawaoka w ogóle nie chce się już w tej sprawie wypowiadać. Rzecznik jego uniwersytetu poinformował jedynie, że naukowiec jest bardzo niezadowolony, ale już pracuje z redaktorami "Nature" nad okrojoną wersją swojego artykułu. </p>
+<p> Na decyzje obu zespołów wpływ być może miał fakt, iż pieniądze na ich badania wyłożyły głównie Narodowe Instytuty Zdrowia, będące, podobnie jak NSABB, częścią amerykańskiego Departamentu Zdrowia. Tak więc władze koniec końców dopięły swego, choć niektórzy za oceanem już wysuwają złośliwe komentarze: jak to możliwe, że jedna instytucja federalna wydaje zgodę i finansuje badania tylko po to, by druga instytucja federalna stawała na głowie by nie dopuścić do publikacji ich wyników? </p>
+<p> Za epitafium całej tej historii może zaś posłużyć wiadomość jaka w ostatnich dniach nadeszła z Hongkongu. Na jednym z tamtejszych targów znaleziono trzy martwe kurczaki. Badania laboratoryjne potwierdziły, że zabił je wirus H5N1. Władze zdecydowały na radykalne rozwiązanie - 17 tys. kurczaków z Hongkongu świąt nie doczekało. </p>
+<p> Źródło: </p>
+<p> Gazeta Wyborcza </p>
+<p> putBan(4); </p>
+<p> var artykuly = new Array();  function show(x2){         for(var ii=0; ii < artykuly.length; ii++){                 var obj=document.getElementById("li"+artykuly[ii]);                 if (artykuly[ii]==x2){                         obj.style.display="none";                  }         } } function xxFromHref(href){         var wynik=new String(href);         var indx1=wynik.indexOf(",");         var indx2=0;         if (indx1 > 0) {//                 wynik=wynik.substring(indx1+1);                 indx1=wynik.indexOf(",");                 if (indx1 > 0){                         wynik=wynik.substring(indx1+1);                         indx1=wynik.indexOf(",");                         if (indx1 > 1){                                 wynik=wynik.substring(0,indx1);                         }                 }         }         indx2=wynik.lastIndexOf(".");         if (indx2 > 0) wynik=wynik.substring(0,indx2);         return wynik; } var xx=xxFromHref(window.top.location); var indx=0; </p>
+<p> Coraz bliżej do USA bez wiz </p>
+<p> | Jestem matką. Nie kocham swojego dziecka </p>
+<p> show(xx); </p>
+<p> var toDXX = 75476; /* xx działu */ 		var toAXX = 10880734; /* xx artykułu */ 		var toWhere = 'dzial'; /* gdzie szukac podpowiedzi */					 		var toHowOld = 14; /* jak stare ostatnie klikniecie */ </p>
+<p> Ciekawe to </p>
+<p> 3 </p>
+<p> Fajne to </p>
+<p> Czytam to </p>
+<p> Polecam to </p>
+<p> 1 </p>
+<p> Słabe to </p>
+<p> Drukuj </p>
+<p> Kup licencję </p>
+<p> var ra_dxx = 75476; 	    var ra_artxx = 10880734; 	    var ra_rating = 4; 	    var ra_rating_half = 'false'; </p>
+<p> Ocena: </p>
+<p> słabe </p>
+<p> nic specjalnego </p>
+<p> dobre </p>
+<p> bardzo dobre </p>
+<p> znakomite </p>
+<p> 36 		     		         		         		        głosów </p>
+<p> Skomentuj: </p>
+<p> Login: </p>
+<p> Hasło: </p>
+<p> Zapamiętaj </p>
+<p> Musisz się </p>
+<p> zalogować </p>
+<p> , by dodać komentarz.               Jeśli nie posiadasz konta </p>
+<p> zarejestruj się </p>
+<p> . </p>
+<p> Wyślij </p>
+<p> Komentarze (3) </p>
+<p> najnowsze </p>
+<p> popularne </p>
+<p> makuzy </p>
+<p> 12 dni temu </p>
+<p> 0 </p>
+<p> Ten wirus laboratoryjny omija DNA osób z ilorazem powyżej 145 IQ, tak więc jest bezpieczny dla inteligentnej mniejszości, która pociągnie naszą opóźnioną cywilizacje na lepsze tory. Sayonara gamonie... </p>
+<p> odpowiedz </p>
+<p> badabacz0 </p>
+<p> pół miesiąca temu </p>
+<p> 0 </p>
+<p> Zróbmy sobie wirusa - zarobimy na szczepionkach i leczeniu ! </p>
+<p> odpowiedz </p>
+<p> sojkaj2 </p>
+<p> pół miesiąca temu </p>
+<p> 0 </p>
+<p> Brawo naukowcy! Zróbmy sobie wirusa, potem niech nam ucieknie z laboratorium a potem naturalna selekcja nam uwolni ziemię od nadmiaru fretek (i ludzi) :) </p>
+<p> odpowiedz </p>
+<p> Aby ocenić </p>
+<p> zaloguj się </p>
+<p> lub </p>
+<p> zarejestruj </p>
+<p> X </p>
+<p> putBan(85); </p>
+<p> <!-- 	var google_ad_client = 'ca-agora-pl_html'; 	var google_language = 'pl'; 	var google_gl = 'pl'; 	var google_encoding = 'utf8'; 	var google_safe = 'high';  	var google_color_bg = 'FFFFFF'; 	var google_color_border = 'FFFFFF'; 	var google_color_line = 'FFFFFF'; 	var google_color_link = '334fdb'; 	var google_color_text = '000000'; 	var google_color_url = '008000';   // --> </p>
+<p> putBan(62); </p>
+<p> var noBan = ""; 				noBan = "false"; 				function getElementsByClassName(cn){   				var arr = new Array();   				var obj_art2=document.getElementById("artykul");   				if (obj_art2==null){ 				obj_art2=document.getElementById("art2"); 				}   				var els = obj_art2.getElementsByTagName("*");   				var exp= new RegExp("^(.* )?"+cn+"( .*)?$", "g");   				for (var i = 0; i < els.length; i++ ){    				if (exp.test(els[i].className)){      			 arr.push(els[i]);     			}   				}   				return arr; 				} 				var obj_art=document.getElementById("artykul"); 				if (obj_art==null){  				obj_art=document.getElementById("art2"); 				} 				var obj = null; 				if(obj_art){ 				 	var br_art = obj_art.getElementsByTagName('br'); 				 	var txt_srodtytul_art = getElementsByClassName('txt_srodtytul'); 					var txt_pytanie_art   = getElementsByClassName('txt_pytanie'); 				 	var ban_div = document.createElement('div');  				 	var ban = document.getElementById("banP62");  				 	if(document.getElementById("banP62").innerHTML.length <= 51 || noBan.indexOf("true")!=-1){ 				 		is_ban = false; 				 	}else{ 				 		is_ban = true; 				 	}  				 	ban_div.appendChild(ban); 				 	if(txt_srodtytul_art.length > 3){ 						obj =txt_srodtytul_art[2]; 				 		obj.parentNode.insertBefore( ban_div, obj ); 					}else 					if(txt_pytanie_art.length >3){ 				 		obj =txt_pytanie_art[2]; 				 		obj.parentNode.insertBefore( ban_div, obj ); 					}else 				 	if(br_art.length>4){ 						obj =br_art[3];  					 		if(obj.previousSibling.previousSibling.className == 'txt_srodtytul' )obj =br_art[5]; 					 		if(obj.previousSibling.previousSibling.className == 'txt_pytanie' )obj =br_art[5];  					 		obj.parentNode.insertBefore( ban_div, obj.nextSibling );  				 	}else{ 				 		obj_art.appendChild(ban);  				 	} 				} </p>
+<p> Najnowsze wiadomości  » </p>
+<p> DZIEŃ W 60 SEKUND. SOBOTA 14 STYCZNIA </p>
+<p> Protest aptekarzy zaostrza się: od poniedziałku apteki nie będą czynne od godz.... </p>
+<p> Lekarze zawieszają protest pieczątkowy. Na razie tylko z Porozumienia... </p>
+<p> Tajwan. Wygrał wybory prochiński kandydat </p>
+<p> aaa... na Euro wynajmę lokum tanio i chętnie </p>
+<p> putBan(98); </p>
+<p> Gazeta Wyborcza poleca: </p>
+<p> Znikający głos gen. Błasika </p>
+<p> Chińczycy podbijają Afrykę </p>
+<p> Prawo ob. Deski do szopy </p>
+<p> Atrakcjonizm Leszka Millera </p>
+<p> function _emr_e(obj, type, fn) { try { if (obj.addEventListener) { obj.addEventListener(type, fn, false); } else if (obj.attachEvent) { obj["e"+type+fn] = fn; obj[type+fn] = function() { obj["e"+type+fn](window.event); }; obj.attachEvent("on"+type, obj[type+fn]); }} catch (e) {}}   function _emr_o(n) { return document.getElementById(n); }   function _emr_t(x){return x.replace(/^\s+|\s+$/g,'');}   function _emr_h(obj, clName) { var clN = ' ' + obj.className + ' '; return (clN.match(' ' + clName + ' ') != null); }   function _emr_a(obj, clName) { if (_emr_h(obj, clName)) return; obj.className = _emr_t(obj.className + ' ' + clName); }   function _emr_r(obj, clName) { if (!_emr_h(obj, clName)) return; var clN = ' ' + obj.className + ' '; eval("obj.className = _emr_t(clN.replace(/ " + clName + " /g,' '));"); }   var _emr_v_24t = null;   var _emr_v_24 = null;   var _emr_v_wt = null;   var _emr_v_w = null;   function _emr_i(e) { _emr_v_24t = _emr_o('ea_mostread_24h_t'); _emr_v_wt = _emr_o('ea_mostread_week_t'); _emr_v_24 = _emr_o('ea_mostread_24h'); _emr_v_w = _emr_o('ea_mostread_week'); _emr_e(_emr_v_24t, 'click', _emr_t24); _emr_e(_emr_v_wt, 'click', _emr_tw); }   function _emr_t24(e) { if (_emr_h(_emr_v_24t, 'active')) return; _emr_a(_emr_v_24t, 'active'); _emr_a(_emr_v_24, 'active'); _emr_r(_emr_v_wt, 'active'); _emr_r(_emr_v_w, 'active'); _emr_v_24t.blur(); }   function _emr_tw(e) { if (_emr_h(_emr_v_wt, 'active')) return; _emr_r(_emr_v_24t, 'active'); _emr_r(_emr_v_24, 'active'); _emr_a(_emr_v_wt, 'active'); _emr_a(_emr_v_w, 'active'); _emr_v_w.blur(); }   _emr_e(window, 'load', _emr_i); </p>
+<p> Najczęściej czytane </p>
+<p> 24 h </p>
+<p> tydzień </p>
+<p> Chińczycy podbijają (kolonizują?) Afrykę </p>
+<p> Młodzi trzy razy nic </p>
+<p> Dom zły. Tak alkoholicy terroryzują  ... </p>
+<p> Znikający głos generała Błasika </p>
+<p> Cała Polska buduje lotniska - raport z 9 miast </p>
+<p> Telefon dzwonił, dyrygent zatrzymał Mahlera </p>
+<p> Zmarł Andrzej Krzysztof Wróblewski </p>
+<p> więcej </p>
+<p> Mucha nie gada </p>
+<p> Dom zły. Tak alkoholicy terroryzują  ... </p>
+<p> Coraz bliżej do USA bez wiz </p>
+<p> Myśliwi zastrzelili wilki. Twierdzą, że  ... </p>
+<p> Rodzice polskich Oburzonych: My też mamy dość </p>
+<p> Smak lufy włożonej w usta </p>
+<p> Prawdopodobny zabójca pięciu polskich  ... </p>
+<p> więcej </p>
+<p> sas_pageid='12914/94220';	// Page : Wyborcza.pl/pozostale sas_formatid=5663;		// Format : rectangle 300x250 sas_target='wsekcja='+ban_dx;			// Targeting SmartAdServer(sas_pageid,sas_formatid,sas_target); </p>
+<p> putBan(50); </p>
+<p> putBan(13); </p>
+<p> // usuniety </p>
+<p> // usuniety </p>
+<p> putBan(21); </p>
+<p> putBan(96); </p>
+<p> putBan(97); </p>
+<p> putBan(60); </p>
+<p> putBan(61); </p>
+<p> putBan(46); </p>
+<p> putBan(88); </p>
+<p> Młodzi trzy razy nic </p>
+<p> Siedzą w domu, łapią depresję, a państwo traci na nich 23 mld zł rocznie. Kto to taki? NEET-si - młodzi ludzie, którzy nie robią zupełnie nic. W Polsce jest ich 580 tys. </p>
+<p> Gra o irańską bombę </p>
+<p> Zamaskowani zabójcy na motocyklach, wirusy komputerowe, eksplozje w gazociągach - wywiady USA i Izraela po cichu, ale skutecznie sabotują irański program atomowy </p>
+<p> Birma otwiera więzienia i czeka na nagrodę </p>
+<p> Życie Tymoszenko jest zagrożone </p>
+<p> Tłumy chętnych do pracy w policji </p>
+<p> Najciekawsze zdjęcia z całego świata </p>
+<p> putBan(57); </p>
+<p> DODATKI I KOLEKCJE GAZETY WYBORCZEJ </p>
+<p> W poniedziałek z ''Gazetą'': </p>
+<p> Ale historia! </p>
+<p> Gazeta Praca </p>
+<p> Gazeta Sport </p>
+<p> putCpcBan(0); 		            		makeRequest(0); </p>
+<p> Również w Gazecie Wyborczej: </p>
+<p> Poradniki GW </p>
+<p> Afera Wikileaks </p>
+<p> Kobieta w polityce </p>
+<p> Kapuściński non-fiction </p>
+<p> Rozmowy Kublik </p>
+<p> Kartka dla Białorusi </p>
+<p> Adam Michnik </p>
+<p> Leszek Kołakowski </p>
+<p> Roman Polański </p>
+<p> Donald Tusk </p>
+<p> Lech Wałęsa </p>
+<p> Jack Welch </p>
+<p> Leczyć po ludzku </p>
+<p> My, narkopolacy </p>
+<p> Pociąg osobowy </p>
+<p> Polska biega </p>
+<p> Internet w bibliotekach </p>
+<p> E-wykluczeni </p>
+<p> Duży Format </p>
+<p> Wysokie Obcasy </p>
+<p> Gazeta Świąteczna </p>
+<p> Witamy w Polsce </p>
+<p> Komentarze </p>
+<p> Blogi dziennikarzy </p>
+<p> Wideo Gazety </p>
+<p> Duży Kadr </p>
+<p> Zdjęcia tygodnia </p>
+<p> Multimedia </p>
+<p> Patronaty Wyborcza.pl </p>
+<p> Wyborcza na iPhone </p>
+<p> Kolekcje Gazety </p>
+<p> Listy od Czytelników </p>
+<p> Pogoda </p>
+<p> Newsletter </p>
+<p> Prenumerata </p>
+<p> Archiwum Wyborczej </p>
+<p> putBan(42); </p>
+<p> Na skróty: </p>
+<p> Gazeta.pl </p>
+<p> Wiadomości </p>
+<p> Sport.pl </p>
+<p> Biznes </p>
+<p> Gazeta Wyborcza </p>
+<p> Praca </p>
+<p> Program TV </p>
+<p> Polecamy: </p>
+<p> eMetro </p>
+<p> Dodaj ogłoszenie </p>
+<p> Reklama w Gazecie </p>
+<p> Nadaj nekrolog </p>
+<p> Oferty pracy </p>
+<p> Oferty nieruchomości </p>
+<p> Newsletter </p>
+<p> Facebook </p>
+<p> RSS </p>
+<p> Poczta </p>
+<p> Copyright </p>
+<p> © </p>
+<p> Agora SA </p>
+<p> O nas </p>
+<p> Staże u nas </p>
+<p> Reklama </p>
+<p> Prywatność </p>
+<p> Wszystkie artykuły </p>
+<p> Licencje </p>
+<p> Poleć stronę </p>
+<p> Zgłoś błąd </p>
+<p> <!--         function getCookie(name) {             var start = document.cookie.indexOf(name+"=");             var len = start+name.length+1;             if ((!start) && (name != document.cookie.substring(0,name.length))) return null;             if (start == -1) return null;             var end = document.cookie.indexOf(";",len);             if (end == -1) end = document.cookie.length;             return unescape(document.cookie.substring(len,end));         }         document.write('<'+'img src="http://p.gazeta.pl/?b=1&x=10880734&d=0&o=1&t='+(new Date()).getTime()+'&w=75476&u='+banCookie+'"'+'>');     //--> </p>
+<p> tyntVariables = {"ap":"Wi\u0119cej... "}; </p>
+<p> sas_pageid='12914/94220';	// Page : Wyborcza.pl/pozostale sas_formatid=5670;		// Format : DHTML 1x1 sas_target='wsekcja='+ban_dx;			// Targeting SmartAdServer(sas_pageid,sas_formatid,sas_target); </p>
+<p> putBan(41); </p>
+<p> countBan(75476); </p>
+<p> if (startsz==0||startsz==1||startsz==2) { ts(tgs,'art2',startsz);ts(tgs2,'art',startsz); } </p>
+<p> var position = getCoo(document.cookie);         if (position != -1) {             ts(tgs,'art2', position);             ts(tgs2,'art', position);         } </p>
+<p> putBan(94); </p>

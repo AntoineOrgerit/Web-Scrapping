@@ -1,0 +1,137 @@
+<p> Крещенские купели Белгорода и региона к празднику готовы | Новости Белгорода </p>
+<p> @import url("http://www.belnovosti.ru/modules/system/system.base.css?mks5tb"); @import url("http://www.belnovosti.ru/modules/system/system.menus.css?mks5tb"); @import url("http://www.belnovosti.ru/modules/system/system.messages.css?mks5tb"); @import url("http://www.belnovosti.ru/modules/system/system.theme.css?mks5tb"); </p>
+<p> @import url("http://www.belnovosti.ru/sites/all/modules/qtip/library/jquery.qtip.css?mks5tb"); @import url("http://www.belnovosti.ru/sites/all/modules/qtip/css/qtip.css?mks5tb"); </p>
+<p> @import url("http://www.belnovosti.ru/modules/comment/comment.css?mks5tb"); @import url("http://www.belnovosti.ru/sites/all/modules/_fields/date/date_api/date.css?mks5tb"); @import url("http://www.belnovosti.ru/sites/all/modules/_fields/date/date_popup/themes/datepicker.1.7.css?mks5tb"); @import url("http://www.belnovosti.ru/modules/field/theme/field.css?mks5tb"); @import url("http://www.belnovosti.ru/modules/node/node.css?mks5tb"); @import url("http://www.belnovosti.ru/modules/poll/poll.css?mks5tb"); @import url("http://www.belnovosti.ru/modules/search/search.css?mks5tb"); @import url("http://www.belnovosti.ru/modules/user/user.css?mks5tb"); @import url("http://www.belnovosti.ru/sites/all/modules/_views/views/css/views.css?mks5tb"); </p>
+<p> @import url("http://www.belnovosti.ru/sites/all/modules/colorbox/styles/default/colorbox_default_style.css?mks5tb"); @import url("http://www.belnovosti.ru/sites/all/modules/_views/ctools/css/ctools.css?mks5tb"); @import url("http://www.belnovosti.ru/sites/all/libraries/superfish/css/superfish.css?mks5tb"); @import url("http://www.belnovosti.ru/sites/all/libraries/superfish/css/superfish-vertical.css?mks5tb"); @import url("http://www.belnovosti.ru/sites/all/libraries/superfish/css/superfish-navbar.css?mks5tb"); @import url("http://www.belnovosti.ru/sites/all/modules/tax/tagadelic/tagadelic.css?mks5tb"); @import url("http://www.belnovosti.ru/sites/all/modules/_fields/field_group/field_group.field_ui.css?mks5tb"); </p>
+<p> @import url("http://www.belnovosti.ru/sites/all/themes/belnovosti/css/style.css?mks5tb"); </p>
+<p> <!--//--><![CDATA[//><!-- jQuery.extend(Drupal.settings, {"basePath":"\u002F", "pathPrefix":"", "ajaxPageState":{"theme":"belnovosti", "theme_token":"sPLJcsSy_D3khaVdTpkudFS0vDNHw8SLIrQPPTmha64", "js":{"misc\u002Fjquery.js":1, "misc\u002Fjquery.once.js":1, "misc\u002Fdrupal.js":1, "sites\u002Fall\u002Fmodules\u002Fqtip\u002Flibrary\u002Fjquery.qtip.js":1, "sites\u002Fall\u002Fmodules\u002Fqtip\u002Fjs\u002Fqtip.js":1, "public:\u002F\u002Flanguages\u002Fru_Ql8n35nTuz2ZbEwkMQHPIW7X7qmxP2_sJ2jwAydksqE.js":1, "sites\u002Fall\u002Flibraries\u002Fcolorbox\u002Fcolorbox\u002Fjquery.colorbox-min.js":1, "sites\u002Fall\u002Fmodules\u002Fcolorbox\u002Fjs\u002Fcolorbox.js":1, "sites\u002Fall\u002Fmodules\u002Fcolorbox\u002Fstyles\u002Fdefault\u002Fcolorbox_default_style.js":1, "sites\u002Fall\u002Flibraries\u002Fsuperfish\u002Fjquery.hoverIntent.minified.js":1, "sites\u002Fall\u002Flibraries\u002Fsuperfish\u002Fjquery.bgiframe.min.js":1, "sites\u002Fall\u002Flibraries\u002Fsuperfish\u002Fsuperfish.js":1, "sites\u002Fall\u002Flibraries\u002Fsuperfish\u002Fsupersubs.js":1, "sites\u002Fall\u002Flibraries\u002Fsuperfish\u002Fsupposition.js":1, "sites\u002Fall\u002Flibraries\u002Fsuperfish\u002Fsftouchscreen.js":1, "misc\u002Ftextarea.js":1}, "css":{"modules\u002Fsystem\u002Fsystem.base.css":1, "modules\u002Fsystem\u002Fsystem.menus.css":1, "modules\u002Fsystem\u002Fsystem.messages.css":1, "modules\u002Fsystem\u002Fsystem.theme.css":1, "sites\u002Fall\u002Fmodules\u002Fqtip\u002Flibrary\u002Fjquery.qtip.css":1, "sites\u002Fall\u002Fmodules\u002Fqtip\u002Fcss\u002Fqtip.css":1, "modules\u002Fcomment\u002Fcomment.css":1, "sites\u002Fall\u002Fmodules\u002F_fields\u002Fdate\u002Fdate_api\u002Fdate.css":1, "sites\u002Fall\u002Fmodules\u002F_fields\u002Fdate\u002Fdate_popup\u002Fthemes\u002Fdatepicker.1.7.css":1, "modules\u002Ffield\u002Ftheme\u002Ffield.css":1, "modules\u002Fnode\u002Fnode.css":1, "modules\u002Fpoll\u002Fpoll.css":1, "modules\u002Fsearch\u002Fsearch.css":1, "modules\u002Fuser\u002Fuser.css":1, "sites\u002Fall\u002Fmodules\u002F_views\u002Fviews\u002Fcss\u002Fviews.css":1, "sites\u002Fall\u002Fmodules\u002Fcolorbox\u002Fstyles\u002Fdefault\u002Fcolorbox_default_style.css":1, "sites\u002Fall\u002Fmodules\u002F_views\u002Fctools\u002Fcss\u002Fctools.css":1, "sites\u002Fall\u002Flibraries\u002Fsuperfish\u002Fcss\u002Fsuperfish.css":1, "sites\u002Fall\u002Flibraries\u002Fsuperfish\u002Fcss\u002Fsuperfish-vertical.css":1, "sites\u002Fall\u002Flibraries\u002Fsuperfish\u002Fcss\u002Fsuperfish-navbar.css":1, "sites\u002Fall\u002Fmodules\u002Ftax\u002Ftagadelic\u002Ftagadelic.css":1, "sites\u002Fall\u002Fmodules\u002F_fields\u002Ffield_group\u002Ffield_group.field_ui.css":1, "sites\u002Fall\u002Fthemes\u002Fbelnovosti\u002Fcss\u002Fstyle.css":1}}, "colorbox":{"opacity":"0.85", "current":"{current} of {total}", "previous":"« Prev", "next":"Next »", "close":"Close", "maxWidth":"100%", "maxHeight":"100%", "fixed":true}, "qtip":{"target_position":"top_right", "tooltip_position":"bottom_left", "show_speech_bubble_tip":1, "show_speech_bubble_tip_side":0, "speech_bubble_size":"12", "show_speech_bubble_tip_solid":0, "show_shadow":0, "rounded_corners":0, "color":"", "custom_color":"", "show_event_type":"mouseenter", "hide_event_type":"mouseleave", "show_webform_descriptions":0, "additional_elements":""}}); //--><!]]> </p>
+<p> 12+ </p>
+<p> Мобильная версия </p>
+<p> Форма поиска </p>
+<p> Найти </p>
+<p> О проекте </p>
+<p> Письмо в редакцию </p>
+<p> Разделы </p>
+<p> Авто-мото </p>
+<p> Безопасность </p>
+<p> Власть </p>
+<p> ЖКХ </p>
+<p> Общество </p>
+<p> Окружающая среда </p>
+<p> Экономика </p>
+<p> Образование </p>
+<p> Медицина </p>
+<p> Культура </p>
+<p> Религия </p>
+<p> Дата </p>
+<p> Спорт </p>
+<p> Происшествия </p>
+<p> Ссылки </p>
+<p> Архив </p>
+<p> В Белгороде </p>
+<p> Загружается... </p>
+<p> (function ($) { $(document).ready(function() {$("#weather").load("/weather");});})(jQuery); </p>
+<p> Опрос </p>
+<p> Как Вы относитесь к организации торговли продуктами в павильонах? </p>
+<p> Ответы </p>
+<p> Это прошлый век и антисанитария </p>
+<p> От торговых павильонов нужно избавляться, обеспечивая при этом шаговую доступность к специализированным магазинам </p>
+<p> Павильонов быть не должно, но убирать их с улиц нужно постепенно </p>
+<p> Люди привыкли к такому виду торговли, значит, пусть он будет </p>
+<p> У меня особое мнение (оставлю комментарий) </p>
+<p> Предыдущие опросы </p>
+<p> Результаты </p>
+<p> ДТП </p>
+<p> ОРВИ </p>
+<p> Россельхознадзор </p>
+<p> авиа </p>
+<p> авто </p>
+<p> автомойка </p>
+<p> аэропорт </p>
+<p> бренд </p>
+<p> вандализм </p>
+<p> взрывоопасное </p>
+<p> визит </p>
+<p> волейбол </p>
+<p> выборы </p>
+<p> выставка </p>
+<p> газета Наш Белгород </p>
+<p> гандбол </p>
+<p> грабёж </p>
+<p> граница </p>
+<p> грипп </p>
+<p> губернатор </p>
+<p> дата </p>
+<p> дети </p>
+<p> детсад </p>
+<p> досуг </p>
+<p> живопись </p>
+<p> занятость </p>
+<p> инновации </p>
+<p> история </p>
+<p> каникулы </p>
+<p> кикбоксинг </p>
+<p> конкурс </p>
+<p> кража </p>
+<p> летопись Победы </p>
+<p> литература </p>
+<p> мода </p>
+<p> молодёжь </p>
+<p> мото </p>
+<p> мошенничество </p>
+<p> музыка </p>
+<p> мэр </p>
+<p> наркотики </p>
+<p> обучение </p>
+<p> огород </p>
+<p> олимпиада </p>
+<p> памятник </p>
+<p> парковка </p>
+<p> педиатрия </p>
+<p> пешеходы </p>
+<p> права потребителей </p>
+<p> правоохранители </p>
+<p> премьера </p>
+<p> приём </p>
+<p> промышленность </p>
+<p> рейд </p>
+<p> рейтинг </p>
+<p> семинар </p>
+<p> семья </p>
+<p> сотрудничество </p>
+<p> суд </p>
+<p> таможня </p>
+<p> театр </p>
+<p> терроризм </p>
+<p> торговля </p>
+<p> транспорт </p>
+<p> туризм </p>
+<p> убийство </p>
+<p> фестиваль </p>
+<p> фотография </p>
+<p> футбол </p>
+<p> художник </p>
+<p> экология </p>
+<p> 17 января 2012 / 15:22 </p>
+<p> Общество </p>
+<p> → </p>
+<p> Крещенские купели Белгорода и региона к празднику готовы </p>
+<p> Для того, чтобы праздник Крещения Господня в ночь с 18 января на 19 января не был омрачен несчастным случаем, сотрудники Главного управления МЧС России по Белгородской области проверяют места, где запланировано размещение купелей. Специалисты-водолазы спускаются в купели в поиске посторонних предметов. На данный момент все районы и города региона подтвердили свою готовность к празднику. </p>
+<p> В этом году совершить обряд омовения жители города Белгорода смогут на Центральном городском пляже: с левой стороны — на территории водно-спасательной станции, на правом берегу — на территории клуба закаливания «Белгородец», ещё один участок будет оборудован в селе Шопино Яковлевского района. </p>
+<p> В день Крещения в Белгороде за безопасностью на оборудованных купелях будут следить четыре сотрудника Государственной инспекции по маломерным судам, четыре спасателя поисково-спасательного отряда и восемь сотрудников водно-спасательной станции. Они окажут помощь белгородцам при спуске в воду и обеспечат безопасный подъём наверх. </p>
+<p> За общественным порядком будут следить 50 сотрудников полиции. </p>
+<p> Обязательно будут дежурить медики. </p>
+<p> Оставить комментарий </p>
+<p> Ваше имя </p>
+<p> Комментарий </p>
+<p> * </p>
+<p> Сделано в </p>
+<p> M207 </p>
+<p> Белновости © 2008—2013 </p>
+<p> Свидетельство о регистрации средства массовой информации </p>
+<p> ЭЛ № ФС77-42665 от 11 ноября 2010 года. </p>
+<p> Адрес редакции: г. Белгород, ул. Железнякова, 20 </p>
+<p> Телефон редакции: +7 (4722) 23-14-40 </p>
+<p> Редакция не несёт ответственности за достоверность информации, содержащейся в рекламных обьявлениях. Редакция не предоставляет справочной информации. При полном или частичном ипользовании материалов ссылка на Белновости.ру обязательна. </p>
+<p> Редактор: </p>
+<p> belnovosti1@gmail.com </p>

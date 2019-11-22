@@ -1,0 +1,9 @@
+<HTML xmlns="http://www.w3.org/1999/xhtml">
+<style type="text/css">
+A:before { content:' '; } 
+A:after { content:' '; } 
+SPAN:before { content:' '; } 
+SPAN:after { content:' '; } 
+</style>
+<BODY><DIV class="main"><DIV class="left"><DIV id="artical"><DIV id="artical_real"><P>凤凰网科技讯 2012年1月17日消息，据国外媒体报道，<A href="http://app.tech.ifeng.com/enterprise/index.php?name=%E5%BE%AE%E8%BD%AF" target="_blank">微软</A>发布了一份公告，Windows 8 UEFI安全启动功能的运用，将使得基于ARM系统的<A href="http://tech.ifeng.com/digi/ehome/detail_2010_04/12/519029_0.shtml" target="_blank">平板电脑</A>与笔记本操作系统，将不能运行任何第三方操作系统，这就意味着微软将禁止基于ARM芯片的平板电脑或笔记本，同时运行Windows 8系统和Android系统的行为。</P><P>之前，微软规定，运用强制性的手段推广其安全启动功能，之后微软声明，OEM厂商将可帮助消费者禁用UEFI安全启动模式，这样用户可以根据自己的习惯使用第三方操作系统。</P><P>但其中一个关键点是，微软在发布这项声明中，并不包括ARM架构的硬件，由此，ARM架构的平板电脑与笔记本，将均不得同时运行Windows 8和Linux等第三方操作系统，包括Android。
+						</P></DIV><DIV class="relateNews" style="background:url();"><H4>相关新闻：</H4></DIV></DIV></DIV></DIV></BODY></HTML>

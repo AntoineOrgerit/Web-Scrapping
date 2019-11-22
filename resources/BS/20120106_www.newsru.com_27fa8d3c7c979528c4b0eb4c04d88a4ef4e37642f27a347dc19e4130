@@ -1,0 +1,161 @@
+<p> Новости NEWSru.com :: Чурова, объявившего о "признаках монтажа" в  роликах с выборов, обвинили в манипуляции </p>
+<p> <!-- browser = ( 	((navigator.appName == "Netscape") && (parseInt(navigator.appVersion) >= 3 )) 	|| 	((navigator.appName == "Microsoft Internet Explorer") && (parseInt(navigator.appVersion) >= 4 )) 	|| 	((navigator.appName == "Opera") && (parseInt(navigator.appVersion) >= 7 )) );  imgon=new Array(); imgoff=new Array();  list = new Array("allnews","1","2","3","7","4","5","6","msc","inopress","zagolovkiru","realty","techno","auto","medicine");  for(i = 1; i <= list.length; i++){ 	imgon["m"+i] = new Image(); 	imgon["m"+i].src = "http://static.newsru.com/img/menu_v/"+list[i-1]+"a.gif"; 	imgoff["m"+i] = new Image(); 	imgoff["m"+i].src = "http://static.newsru.com/img/menu_v/"+list[i-1]+".gif"; }  imageRef="document.images";  function msover(which) { 	if (browser) { 		eval(imageRef + '["' + which + '"].src = imgon[which].src'); 	} }  function msout(which) { 	if (browser) { 		eval(imageRef + '["' + which + '"].src = imgoff[which].src'); 	} } // --> </p>
+<p> (function(L){if(typeof(ar_cn)=="undefined")ar_cn=1; var S='setTimeout(function(e){if(!self.CgiHref){document.close();e=parent.document.getElementById("ar_container_"+ar_bnum);e.parentNode.removeChild(e);}},3000);',     j=' type="text/javascript"',t=0,D=document,n=ar_cn;L+=escape(D.referrer||'unknown')+'&rnd='+Math.round(Math.random()*999999999); function _(){if(t++<100){var F=D.getElementById('ar_container_'+n);     if(F){try{var d=F.contentDocument||(window.ActiveXObject&&window.frames['ar_container_'+n].document);     if(d){d.write('<sc'+'ript'+j+'>var ar_bnum='+n+';'+S+'<\/sc'+'ript><sc'+'ript'+j+' src="'+L+'"><\/sc'+'ript>');t=0}     else setTimeout(_,100);}catch(e){try{F.src="javascript:{document.write('<sc'+'ript"+j+">var ar_bnum="+n+"; document.domain=\""     +D.domain+"\";"+S+"<\/sc'+'ript>');document.write('<sc'+'ript"+j+" src=\""+L+"\"><\/sc'+'ript>');}";return}catch(E){}}}else setTimeout(_,100);}} D.write('<div style="visibility:hidden;height:0px;left:-1000px;position:absolute;"><iframe id="ar_container_'+ar_cn     +'" width=1 height=1 marginwidth=0 marginheight=0 scrolling=no frameborder=0><\/iframe><\/div><div id="ad_ph_'+ar_cn     +'" style="display:none;"><\/div>');_();ar_cn++; })('http://ad.adriver.ru/cgi-bin/erle.cgi?sid=183090&target=top&bt=43&pz=0&tail256='); </p>
+<p> var img = new Image(); img.src = 'http://www.tns-counter.ru/V13a***' + document.referrer.replace(/\*/g,'%2a') + '*newsru_ru/ru/CP1251/tmsec=newsru_total/'; </p>
+<p> <!-- d=document;a='';a+=';r='+escape(d.referrer) js=10//--> </p>
+<p> <!-- a+=';j='+navigator.javaEnabled() js=11//--> </p>
+<p> <!-- s=screen;a+=';s='+s.width+'*'+s.height a+=';d='+(s.colorDepth?s.colorDepth:s.pixelDepth) js=12//--> </p>
+<p> <!-- js=13//--> </p>
+<p> <!-- d.write('<img src="http://top.list.ru/counter'+ '?id=91013;js='+js+a+';rand='+Math.random()+ '" height=1 width=1>') if(js>11)d.write('<'+'!-- ')//--> </p>
+<p> <!-- if(js>11)d.write('--'+'>')//--> </p>
+<p> <!-- document.write('<img src="http://counter.yadro.ru/hit?r'+ escape(document.referrer)+((typeof(screen)=='undefined')?'': ';s'+screen.width+'*'+screen.height+'*'+(screen.colorDepth? screen.colorDepth:screen.pixelDepth))+';u'+escape(document.URL)+ ';i'+escape('Жж'+document.title.substring(0,80))+';'+Math.random()+ '" width=1 height=1 alt="">')//--> </p>
+<p> <!-- if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); } if (typeof(document.referrer) != 'undefined') {   if (typeof(afReferrer) == 'undefined') {     afReferrer = escape(document.referrer);   } } else {   afReferrer = ''; } var addate = new Date();  document.write('<scr' + 'ipt type="text/javascript" src="http://ads.adfox.ru/715/prepareCode?p1=quc&amp;p2=y&amp;pct=c&amp;pfc=a&amp;pfb=a&amp;pr=' + pr +'&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;prr=' + afReferrer + '"><\/scr' + 'ipt>'); // --> </p>
+<p> NEWSru.com </p>
+<p> // </p>
+<p> Новости России </p>
+<p> // </p>
+<p> Пятница, 6 января 2012 г. </p>
+<p> <!-- if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); } var addate = new Date();  var scrheight = '', scrwidth = ''; if (self.screen) { scrwidth = screen.width; scrheight = screen.height; } else if (self.java) { var jkit = java.awt.Toolkit.getDefaultToolkit(); var scrsize = jkit.getScreenSize(); scrwidth = scrsize.width; scrheight = scrsize.height; } document.write('<iframe src="http://ads.adfox.ru/715/getCode?p1=enm&amp;p2=tt&amp;p3=a&amp;p4=a&amp;pct=a&amp;plp=a&amp;pli=a&amp;pop=a&amp;pfc=a&amp;pfb=a&amp;pr=' + pr + '&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;pdw=' + scrwidth + '&amp;pdh=' + scrheight + '" frameBorder="0" width="125" height="217" marginWidth="0" marginHeight="0" scrolling="no" style="border: 0px; margin: 0px; padding: 0px;"><a href="http://ads.adfox.ru/715/goDefaultLink?p1=enm&amp;p2=tt" target="_top"><img src="http://ads.adfox.ru/715/getDefaultImage?p1=enm&amp;p2=tt" border="0" alt=""><\/a><\/iframe>'); //--> </p>
+<p> <!-- document.write('<SCR'+'IPT SRC="http://ads.vidigital.ru/ttj?id=980205&cb='+(Math.random()*1000000000000000000)+'" TYPE="text/javascript"></SCR'+'IPT>'); //--> </p>
+<p> <!-- if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); } if (typeof(document.referrer) != 'undefined') {   if (typeof(afReferrer) == 'undefined') {     afReferrer = escape(document.referrer);   } } else {   afReferrer = ''; } var addate = new Date();  document.write('<scr' + 'ipt type="text/javascript" src="http://ads.adfox.ru/715/prepareCode?p1=bdzhu&amp;p2=ql&amp;pct=a&amp;pfc=a&amp;pfb=a&amp;pr=' + pr +'&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;prr=' + afReferrer + '"><\/scr' + 'ipt>'); // --> </p>
+<p> мНБНЯРХ ялх2 </p>
+<p> (function() { var sc = document.createElement('script'); sc.type = 'text/javascript'; sc.async = true; sc.src = 'http://js.smi2.ru/data/js/60699.js'; sc.charset = 'utf-8'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc, s); }()); </p>
+<p> Чурова, объявившего о "признаках монтажа" в  роликах с выборов, обвинили в манипуляции </p>
+<p> время публикации: 6 января 2012 г., 08:36 </p>
+<p> последнее обновление: 6 января 2012 г., 15:14 </p>
+<p> Известный режиссер Александр Митта пояснил радиостанции </p>
+<p> "Эхо Москвы" </p>
+<p> , что глава Центризбиркома Владимир Чуров  имел в виду, когда заявлял, что в большинстве выложенных в интернет роликов с </p>
+<p> нарушениями </p>
+<p> на парламентских выборах 4 декабря   обнаружены </p>
+<p> "признаки монтажа" </p>
+<p> . По мнению Митты, Чуров "манипулирует понятиями "монтажа". </p>
+<p> Накануне в </p>
+<p> эфире </p>
+<p> "Эха Москвы" Чуров заявил, что эксперты МВД  проверили более ста видеороликов, на которых, по утверждению их авторов, зафиксированы различные нарушения при проведении выборов в Госдуму, и в большинстве случаев выявили признаки монтажа. При этом информация о нарушениях, по его словам, как правило, не подтверждается. </p>
+<p> Как отметил Александр Митта, внутрикадровый монтаж может сократить временной промежуток, но  не может изменить содержание кадра.  "Он может повлиять на время: чтобы не смотреть это часами, а посмотреть суть этого дела, когда происходит ключевое событие. А для того чтобы изменить состояние, содержание кадра, нужна сложная компьютерная обработка, дорогостоящая. Для этого существуют компании, фирмы, но это стоит гигантских денег, и длится очень долго", - подчеркнул режиссер. </p>
+<p> - </p>
+<p> Кудрин о "пропасти" между оппозицией и властью: чтобы начать диалог, надо признать выборы несправедливыми </p>
+<p> "В обывательской логике это воспринимается так, что можно из кусочков кадра, разных кадров, смонтировать какой-то новый. Технически это возможно. Но это совершенно другая процедура. Это процедура компьютерной обработки материала. Даже крошечные изменения кадра требуют очень больших усилий и в общем заметны, как правило", - пояснил Митта. По его словам, в данном контексте "внутрикадровый монтаж -  это сокращение времени",   временных пауз. При этом содержание каждого кадра остается неизменным. </p>
+<p> Владимир Чуров в минувший четверг, выступая в эфире "Эха Москвы", заявил следующее: "Мы просмотрели более 100 (видеороликов) сейчас... Что касается первой части роликов, у нас уже есть заключение экспертов МВД, что большинстве из них есть признаки внутрикадрового или межкадрового монтажа". </p>
+<p> "Мы рассматриваем каждый ролик с точки зрения как наличия в нем признаков монтажа, так и с точки зрения, есть ли там содержательная часть. Содержится ли там информация конкретная о нарушениях или нет. Как правило, в них не содержится информации о нарушениях", - добавил он. </p>
+<p> Глава ЦИК пообещал предать огласке все результаты экспертизы, в проведении которой участвуют специалисты МВД, и выразил сомнение в том, что авторов обнаруженных фальшивок можно будет привлечь к ответственности, передает </p>
+<p> РИА "Новости" </p>
+<p> . </p>
+<p> "Это не подпадает под законодательство РФ, потому что в большинстве случаев они размещены в интернете, на сайтах, не являющихся СМИ. Но все без исключения материалы будут доступны широкой общественности", - сказал Чуров. Одновременно, по его словам, проходит "тотальная" проверка копий протоколов избирательных участков на предмет разночтений с итоговыми результатами выборов. </p>
+<p> "Мы сейчас проводим тотальную проверку всех копий протоколов. Не только мы, но и судебные органы. Там, где обращаются в суд - они проверяют это. Мы столкнулись с вопиющими фактами. Например, десяток якобы копий протоколов, полученных на десяти разных участках, все заполнены одной рукой. Такое может быть?" - спросил Чуров. </p>
+<p> Центризбирком также приступил к проверке информации о нарушениях, собранной и обнародованной изданиями "Коммерсант-Власть" и The New Times. "Мы начали проверять. Более того, эта информация будет отдельно опубликована", - пообещал глава ЦИК. </p>
+<p> Владимир Чуров сообщил, что всего Центризбирком принял 1686 обращений о нарушениях при проведении выборов. Из них, по его словам,  сведения полностью или частично подтвердились в 129 случаях. </p>
+<p> Около трети избирательных участков к марту получат прозрачные урны </p>
+<p> Примерно треть российских избирательных участков будет к президентским выборам оснащена прозрачными ящиками для голосования, которые затруднят массовый вброс фальшивых бюллетеней, заявил Владимир Чуров в интервью радиостанции "Эхо Москвы". </p>
+<p> "Избирательная система более всех участников избирательного процесса заинтересована в ее прозрачности... Если я раньше думал, что у нас уже нет резервов увеличения прозрачности избирательной системы, то сейчас, вы знаете что... реально мы реализуем сейчас установку прозрачных ящиков для голосования, прежде всего в Москве, Петербурге и крупных городах РФ", - отметил Чуров. </p>
+<p> По данным главы ЦИК, всего к выборам будет закуплено и установлено около 60 тысяч прозрачных ящиков из расчета по два на участок. Таким образом, урнами нового образца оснастят 30 тысяч участков - примерно треть от их общего числа, сообщает РИА "Новости". Как пояснил Чуров, это потребовалось  прежде всего потому, что в этот раз ЦИК столкнулся, "с целым рядом провокаций, когда до начала голосования в ящики для голосования бросали пачки фальшивых бюллетеней - до 400 штук". </p>
+<p> По его словам, подобные вбросы были своевременно обнаружены, не повлияли на исход голосования, и сейчас расследованием таких случаев занимаются правоохранительные органы. </p>
+<p> Чуров подчеркнул, что для повышения прозрачности выборов, назначенных на 4 марта, почти все избирательные участки будут оборудованы видеокамерами с трансляцией процесса голосования в интернет и штабы кандидатов в президенты. </p>
+<p> "Сейчас мы, я надеюсь, вместе с министерством связи успешно реализуем программу, когда все основные избирательные участки на территории РФ, за исключением больниц, закрытых воинских частей, корабельных участков и участков за рубежом, будут оснащены камерами с прямой трансляцией в интернет", - сказал глава ЦИК. </p>
+<p> Он заверил, что технология, предполагающая массовое применение веб-камер под контролем Минсвязи с дежурством на информационных узлах представителей всех политических партий, исключает возможность применения средств видеомонтажа. </p>
+<p> Глава ЦИК обиделся на Кудрина </p>
+<p> В интервью радиостанции "Эхо Москвы" глава ЦИК РФ Владимир Чуров также высказался о позиции бывшего министра финансов Алексея Кудрина, заподозрившего, что выборы были нечестными. Чуров предложил экс-министру прийти в Центризбирком и лично убедиться в том, что махинации с результатами выборов там технически невозможны. </p>
+<p> Глава ЦИК  признался, что заявление Кудрина, </p>
+<p> выступавшего </p>
+<p> на митинге оппозиции в Москве на проспекте Сахарова и усомнившегося в чистоте электорального процесса, его огорчило. К выпадам в свой адрес со стороны других политиков глава ЦИК, по его словам, остался безучастен. </p>
+<p> "Единственное заявление, которое меня несколько огорчило - это заявление Алексея Леонидовича Кудрина. Дело в том, что я знаю этого человека много лет... очень уважаю его как финансиста. Он действительно лучший финансист в мире сейчас", - сказал Чуров. </p>
+<p> "Я публично предлагаю Алексею Леонидовичу прийти в ЦИК, может быть, постоять с плакатом в одиночном пикете... Я готов Алексею Леонидовичу показать, как происходит подведение итогов в ЦИК РФ, где принципиально невозможно изменить ни одной цифры ни на одну единицу и даже ни на одну сотую", - предложил глава Центризбиркома. </p>
+<p> Чуров заявил о непревзойденном уровне доверия к избирательной системе в РФ и признался в краже </p>
+<p> В том же интервью "Эху Москвы" глава ЦИК РФ Владимир Чуров заявил, что уровень доверия к избирательной системе в России выше, чем в любой другой европейской стране. </p>
+<p> На вопрос журналиста Виталия Дымарского и главреда радиостанции Алексея Венедиктова, "как мы вам поверим после президентских выборов", глава ЦИК ответил: "Думаю, что вы мне прекрасно поверите... Владимир Евгеньевич Чуров не то что ни одного голоса не украл, но - честно вам скажу, первый раз признаюсь - за всю свою 59-летнюю почти жизнь я украл один предмет". Этим предметом, по его словам,  оказалась дешевая кружка из пивной в Праге, причем совершить преступление требовала студенческая традиция. </p>
+<p> "Работая в стройотряде в Чехословакии, в Праге, у нас была традиция утащить незаметно в пивном баре самую простую пивную кружку... И вот это я, как и все остальные командиры стройотрядов на протяжении десятилетий до меня и, надеюсь, после меня, сделал", - рассказал Чуров. </p>
+<p> Чуров: "Моя роль в истории сильно преувеличена" </p>
+<p> Напомним, после выборов в Госдуму 4 декабря, на которых победила "Единая Россия", в Москве, Санкт-Петербурге, других крупных городах прошли крупномасштабные акции протеста против нарушений, которые, по утверждению участников многотысячных митингов, были допущены при голосовании. В числе главных требований митингующих - пересмотр результатов парламентских выборов и отставка Чурова. Кроме того, президентский совет по правам человека выразил главе ЦИК недоверие и предложил ему уйти в отставку. </p>
+<p> В интервью радиостанции "Эхо Москвы" Чуров пообещал ответить на вопрос, не собирается ли он в отставку, не ранее, чем через четыре года, когда истечет срок его полномочий. На вопрос, как он поступит, если с просьбой о досрочной отставке к нему обратится руководство государства, Чуров ответил: "Когда попросят, тогда и обсудим". </p>
+<p> Ранее, в ответ на просьбу прокомментировать звучавшие в его адрес требования уйти со своей должности, Чуров заявлял, что через четыре года, по завершению срока полномочий, он все скажет, напоминает </p>
+<p> РИА "Новости" </p>
+<p> . </p>
+<p> Чуров назвал "несправедливым" то, что он стал центральной фигурой в общественной дискуссии, развернувшейся вокруг выборов и их результатов. "Это абсолютно несправедливо. Мне кажется, моя роль в истории сильно преувеличена", - сказал он в интервью радиостанции. </p>
+<p> <!-- if (navigator.appName != 'Microsoft Internet Explorer') { 	document.getElementById('newsljbut').style.display = 'block'; } // --> </p>
+<p> (function(d, s, id) {   var js, fjs = d.getElementsByTagName(s)[0];   if (d.getElementById(id)) return;   js = d.createElement(s); js.id = id;   js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";   fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk')); </p>
+<p> <!-- if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); } if (typeof(document.referrer) != 'undefined') {   if (typeof(afReferrer) == 'undefined') {     afReferrer = escape(document.referrer);   } } else {   afReferrer = ''; } var addate = new Date();  var scrheight = '', scrwidth = ''; if (self.screen) { scrwidth = screen.width; scrheight = screen.height; } else if (self.java) { var jkit = java.awt.Toolkit.getDefaultToolkit(); var scrsize = jkit.getScreenSize(); scrwidth = scrsize.width; scrheight = scrsize.height; } document.write('<scr' + 'ipt type="text/javascript" src="http://ads.adfox.ru/715/prepareCode?p1=bjted&amp;p2=y&amp;pct=a&amp;pfc=a&amp;pfb=a&amp;pr=' + pr +'&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;prr=' + afReferrer + '&amp;pdw=' + scrwidth + '&amp;pdh=' + scrheight + '"><\/scr' + 'ipt>'); // --> </p>
+<p> Ссылки по теме: </p>
+<p> В большинстве видеороликов о нарушениях на выборах нашли "признаки монтажа", объявил Чуров </p>
+<p> // </p>
+<p> NEWSru.com </p>
+<p> // </p>
+<p> В России </p>
+<p> // </p>
+<p> 5 января 2012 г. </p>
+<p> В победу Путина уверовали заранее: Запад ждет "Мистера Нет", а Рунет высмеивает выборы на ВИДЕО </p>
+<p> // </p>
+<p> NEWSru.com </p>
+<p> // </p>
+<p> В России </p>
+<p> // </p>
+<p> 3 января 2012 г. </p>
+<p> Как пройдут "честные выборы", обещанные Путиным: "час Чурова" и удивительная стратегия Володина </p>
+<p> // </p>
+<p> NEWSru.com </p>
+<p> // </p>
+<p> В России </p>
+<p> // </p>
+<p> 29 декабря 2011 г. </p>
+<p> Чуров ответил злопыхателям, когда порадует их своей отставкой </p>
+<p> // </p>
+<p> NEWSru.com </p>
+<p> // </p>
+<p> В России </p>
+<p> // </p>
+<p> 28 декабря 2011 г. </p>
+<p> СМИ: Выборы в Госдуму побили рекорд по числу  нарушений, в том числе снятых на ВИДЕО </p>
+<p> // </p>
+<p> NEWSru.com </p>
+<p> // </p>
+<p> В России </p>
+<p> // </p>
+<p> 5 декабря 2011 г. </p>
+<p> Каталог NEWSru.com: </p>
+<p> Информационные интернет-ресурсы </p>
+<p> Досье NEWSru.com </p>
+<p> : </p>
+<p> Государственная Дума России </p>
+<p> // </p>
+<p> Выборы </p>
+<p> // </p>
+<p> 2011 </p>
+<p> //<![CDATA[ yandex_partner_id = 43120; yandex_site_bg_color = 'E6E6E6'; yandex_stat_id = 1215138; yandex_site_charset = 'utf-8'; yandex_ad_format = 'direct'; yandex_font_size = 0.9; yandex_font_family = 'arial'; yandex_direct_type = 'flat'; yandex_direct_limit = 4; yandex_direct_bg_color = 'E6E6E6'; yandex_direct_title_color = '0000FF'; yandex_direct_url_color = '006A29'; yandex_direct_all_color = '333333'; yandex_direct_text_color = '000000'; yandex_direct_hover_color = '0016A6'; yandex_direct_favicon = false; document.write('<sc'+'ript type="text/javascript" src="http://an.yandex.ru/system/context.js"></sc'+'ript>'); //]]> </p>
+<p> <!-- if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); } var addate = new Date();  var scrheight = '', scrwidth = ''; if (self.screen) { scrwidth = screen.width; scrheight = screen.height; } else if (self.java) { var jkit = java.awt.Toolkit.getDefaultToolkit(); var scrsize = jkit.getScreenSize(); scrwidth = scrsize.width; scrheight = scrsize.height; } document.write('<iframe src="http://ads.adfox.ru/715/getCode?p1=biyvs&amp;p2=t&amp;p3=a&amp;p4=a&amp;pct=a&amp;plp=a&amp;pli=a&amp;pop=a&amp;pfc=a&amp;pfb=a&amp;pr=' + pr + '&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;pdw=' + scrwidth + '&amp;pdh=' + scrheight + '" frameBorder="0" width="234" height="120" marginWidth="0" marginHeight="0" scrolling="no" style="border: 0px; margin: 0px; padding: 0px;"><a href="http://ads.adfox.ru/715/goDefaultLink?p1=biyvs&amp;p2=t" target="_top"><img src="http://ads.adfox.ru/715/getDefaultImage?p1=biyvs&amp;p2=t" border="0" alt=""><\/a><\/iframe>'); //--> </p>
+<p> Последняя новость NEWSru.com – 10:26 </p>
+<p> Навальный ждет обвинительного приговора: собрал тюремный баул и приготовил тапочки </p>
+<p> // </p>
+<p> В России </p>
+<p> Досье NEWSru.com: </p>
+<p> Партии и политики </p>
+<p> / </p>
+<p> Общество </p>
+<p> / </p>
+<p> Навальный, Алексей </p>
+<p> <!-- if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); } if (typeof(document.referrer) != 'undefined') {   if (typeof(afReferrer) == 'undefined') {     afReferrer = escape(document.referrer);   } } else {   afReferrer = ''; } var addate = new Date();  document.write('<scr' + 'ipt type="text/javascript" src="http://ads.adfox.ru/173617/prepareCode?p1=bezms&amp;p2=envv&amp;pct=a&amp;pfc=a&amp;pfb=a&amp;pr=' + pr +'&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;prr=' + afReferrer + '"><\/scr' + 'ipt>'); // --> </p>
+<p> <!-- if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); } if (typeof(document.referrer) != 'undefined') {   if (typeof(afReferrer) == 'undefined') {     afReferrer = escape(document.referrer);   } } else {   afReferrer = ''; } var addate = new Date();  document.write('<scr' + 'ipt type="text/javascript" src="http://ads.adfox.ru/173617/prepareCode?p1=bezmt&amp;p2=envv&amp;pct=a&amp;pfc=a&amp;pfb=a&amp;pr=' + pr +'&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;prr=' + afReferrer + '"><\/scr' + 'ipt>'); // --> </p>
+<p> <!-- var random = Math.floor(Math.random() * 1000000000); document.write('<scr' + 'ipt language="JavaScript" src="http://engine.media-networks.ru/code?pid=2297&gid=454&oin=1&rid=' + random +'"></scr' + 'ipt>'); // --> </p>
+<p> <!-- var random = Math.floor(Math.random() * 1000000000); document.write('<scr' + 'ipt language="JavaScript" src="http://engine.media-networks.ru/code?pid=2298&gid=454&oin=1&rid=' + random +'"></scr' + 'ipt>'); // --> </p>
+<p> <!-- var random = Math.floor(Math.random() * 1000000000); document.write('<scr' + 'ipt language="JavaScript" src="http://engine.media-networks.ru/code?pid=2299&gid=454&oin=1&rid=' + random +'"></scr' + 'ipt>'); // --> </p>
+<p> // <!-- if(typeof(VongoMediaWorker)=="undefined" && document.getElementById("VongoMediaGateway")==null){ (function() { var s = document.createElement("script"); s.id = "VongoMediaGateway"; s.type = "text/javascript"; s.async = true; s.src = "http://cdn.vongomedia.ru/www/delivery/worker.js?_=" + Math.floor(Math.random()*99999999999); var x = document.getElementsByTagName("head")[0]; x.appendChild(s, x); })(); } // --> </p>
+<p> Среда, 10 апреля 2013 г. </p>
+<p> Последняя новость – 10:26 </p>
+<p> Все права на материалы и новости, опубликованные на сайте NEWSru.com, охраняются в соответствии с законодательством РФ. </p>
+<p> Допускается цитирование без согласования с редакцией не более 50% от объема оригинального материала, с обязательной прямой гиперссылкой на страницу, с которой материал заимствован. Гиперссылка должна размещаться непосредственно в тексте, воспроизводящем оригинальный материал NEWSru.com, до или после цитируемого блока. </p>
+<p> Обратная связь: </p>
+<p> редакция сайта </p>
+<p> / </p>
+<p> служба технической поддержки </p>
+<p> / </p>
+<p> рекламный отдел </p>
+<p> Прайс-лист на размещение рекламы </p>
+<p> Правила баннерного обмена </p>
+<p> Подписка на новости (RSS) </p>
+<p> © </p>
+<p> NEWSru.com – самые быстрые новости </p>
+<p> 2000-2013 </p>
+<p> <!-- if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); } var addate = new Date(); document.write('<iframe src="http://ads.adfox.ru/715/getCode?p1=cnh&amp;p2=nj&amp;p3=a&amp;p4=a&amp;pucn=a&amp;pfc=a&amp;pfb=a&amp;pr=' + pr + '&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;py=a" frameBorder="0" width="200" height="377" marginWidth="0" marginHeight="0" scrolling="no" style="border: 0px; margin: 0px; padding: 0px;"><a href="http://ads.adfox.ru/715/goDefaultLink?p1=cnh&amp;p2=nj" target="_top"><img src="http://ads.adfox.ru/715/getDefaultImage?p1=cnh&amp;p2=nj" border="0" alt=""><\/a><\/iframe>'); //--> </p>
+<p> <!-- if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); } if (typeof(document.referrer) != 'undefined') {   if (typeof(afReferrer) == 'undefined') {     afReferrer = escape(document.referrer);   } } else {   afReferrer = ''; } var addate = new Date();  document.write('<scr' + 'ipt type="text/javascript" src="http://ads.adfox.ru/173617/prepareCode?p1=beldb&amp;p2=emzm&amp;pct=a&amp;pfc=a&amp;pfb=a&amp;pr=' + pr +'&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;prr=' + afReferrer + '"><\/scr' + 'ipt>'); // --> </p>
+<p> <!-- if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); } if (typeof(document.referrer) != 'undefined') {   if (typeof(afReferrer) == 'undefined') {     afReferrer = escape(document.referrer);   } } else {   afReferrer = ''; } var addate = new Date();  document.write('<scr' + 'ipt type="text/javascript" src="http://ads.adfox.ru/173617/prepareCode?p1=begra&amp;p2=emzm&amp;pct=a&amp;pfc=a&amp;pfb=a&amp;pr=' + pr +'&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;prr=' + afReferrer + '"><\/scr' + 'ipt>'); // --> </p>
+<p> <!-- //var width=0; //width=screen.width; //if (width >= 1000) {     document.getElementById('stakan').style.display = 'block'; //} // --> </p>
+<p> var _exchange_vars = {key: 'ee85874b16a6a5f23fec6d46dc0fd582'}; (function(){ var s = document.createElement("script"); s.async = true; s.src = "http://b.adinch.com/static/sdk/sdk.js"; document.getElementsByTagName("head")[0].appendChild(s); })(); </p>

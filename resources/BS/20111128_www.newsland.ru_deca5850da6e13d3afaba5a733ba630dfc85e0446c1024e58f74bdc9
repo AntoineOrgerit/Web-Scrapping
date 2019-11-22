@@ -1,0 +1,219 @@
+<p> Ученые нашли способ борьбы с последствиями радиации - новость из рубрики Наука и технологии, актуальная информация, обсуждение новости, дискуссии на Newsland. </p>
+<p> new adriver.Plugin.require("onScroll.adriver"); </p>
+<p> <!-- var xajaxConfig = { requestURI: "/exp/news/detail/id/830859/", debug: false, statusMessages: false, waitCursor: true, version: "xajax 0.5 Beta 1", legacy: false }; var xajaxLoaded=false; function xajax___construct(){return xajax.call("__construct", {parameters: arguments});} function xajax_indexAction(){return xajax.call("indexAction", {parameters: arguments});} function xajax_userLogin(){return xajax.call("userLogin", {parameters: arguments});} function xajax_userSignup(){return xajax.call("userSignup", {parameters: arguments});} function xajax_oauthSignup(){return xajax.call("oauthSignup", {parameters: arguments});} function xajax_userRestore(){return xajax.call("userRestore", {parameters: arguments});} function xajax_userSetProfile(){return xajax.call("userSetProfile", {parameters: arguments});} function xajax_addMessage(){return xajax.call("addMessage", {parameters: arguments});} function xajax_removeMessage(){return xajax.call("removeMessage", {parameters: arguments});} function xajax_addFriendshipRequest(){return xajax.call("addFriendshipRequest", {parameters: arguments});} function xajax_acceptFriendshipRequest(){return xajax.call("acceptFriendshipRequest", {parameters: arguments});} function xajax_removeFriend(){return xajax.call("removeFriend", {parameters: arguments});} function xajax_addUserToBlacklist(){return xajax.call("addUserToBlacklist", {parameters: arguments});} function xajax_removeUserFromBlacklist(){return xajax.call("removeUserFromBlacklist", {parameters: arguments});} function xajax_userSetSettings(){return xajax.call("userSetSettings", {parameters: arguments});} function xajax_addFeedback(){return xajax.call("addFeedback", {parameters: arguments});} function xajax_addNewsVote(){return xajax.call("addNewsVote", {parameters: arguments});} function xajax_addPollAnswer(){return xajax.call("addPollAnswer", {parameters: arguments});} function xajax_addNews(){return xajax.call("addNews", {parameters: arguments});} function xajax_tagsAction(){return xajax.call("tagsAction", {parameters: arguments});} function xajax_addCommentVote(){return xajax.call("addCommentVote", {parameters: arguments});} function xajax_addComment(){return xajax.call("addComment", {parameters: arguments});} function xajax_notifyParentCommentUser(){return xajax.call("notifyParentCommentUser", {parameters: arguments});} function xajax_notifyNewsUser(){return xajax.call("notifyNewsUser", {parameters: arguments});} function xajax_removeComment(){return xajax.call("removeComment", {parameters: arguments});} function xajax_addComplaint(){return xajax.call("addComplaint", {parameters: arguments});} function xajax_getCommentReplies(){return xajax.call("getCommentReplies", {parameters: arguments});} function xajax_userSubscribe(){return xajax.call("userSubscribe", {parameters: arguments});} function xajax___call(){return xajax.call("__call", {parameters: arguments});} function xajax_run(){return xajax.call("run", {parameters: arguments});} 	--> </p>
+<p> <!-- window.setTimeout(function () { if (!xajaxLoaded) { alert('Error: the xajax Javascript file could not be included. Perhaps the URL is incorrect?\nURL: /library/xajax/xajax_js/xajax.js'); } }, 6000); 	--> </p>
+<p> О портале </p>
+<p> Регистрация </p>
+<p> Войти </p>
+<p> Новости </p>
+<p> 431 новая </p>
+<p> Дискуссии </p>
+<p> 289 горячих </p>
+<p> Пользователи </p>
+<p> 2703 онлайн </p>
+<p> Добавить новость </p>
+<p> <!-- if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); } if (typeof(document.referrer) != 'undefined') {   if (typeof(afReferrer) == 'undefined') {     afReferrer = escape(document.referrer);   } } else {   afReferrer = ''; } var addate = new Date(); var dl = escape(document.location); var pr1 = Math.floor(Math.random() * 1000000);//var pr1 = 1234;   function AdWolf_SetLayerVis(spritename,state){document.getElementById(spritename).style.visibility=state;} function AdWolf_ShowOver(show){if(show){AdWolf_SetLayerVis('AdWolf_DivBaseFlash',"hidden"); AdWolf_SetLayerVis('AdWolf_DivOverFlash',"visible");}else{AdWolf_SetLayerVis('AdWolf_DivOverFlash',"hidden"); AdWolf_SetLayerVis('AdWolf_DivBaseFlash',"visible");}} function AdWolf_Open(){AdWolf_ShowOver(true);} function AdWolf_Close(){AdWolf_ShowOver(false);}   document.write('<div id="AdWolf_banner_'+pr1+'"><\/div>'); document.write('<div style="visibility:hidden; position:absolute;"><iframe id="AdWolf_iframe_'+pr1+'" width=1 height=1 marginwidth=0 marginheight=0 scrolling=no frameborder=0><\/iframe><\/div>');   function AdWolf_getCodeScript(AW_n,AW_src){    var AW_doc;    if(AW_n<10){       try{ 	     if(document.all && !window.opera){ 		    AW_doc = window.frames['AdWolf_iframe_'+pr1].document; 			}else if(document.getElementById){ 			         AW_doc = document.getElementById('AdWolf_iframe_'+pr1).contentDocument; 					 } 		 }catch(e){}     if(AW_doc){ 	   AW_doc.write('<scr'+'ipt type="text/javascript" src="'+AW_src+'"><\/scr'+'ipt>'); 	   }else{ 	      setTimeout('AdWolf_getCodeScript('+(++AW_n)+','+AW_src+')', 100); 		  } 		  } } AdWolf_getCodeScript(1,'http://a.adwolf.ru/prepareCode?p1=xt&amp;p2=m&amp;pct=a&amp;pfc=a&amp;pfb=a&amp;plp=a&amp;pli=a&amp;pop=a&amp;pr=' + pr +'&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;prr=' + afReferrer + '&amp;puid1=&amp;puid2=&amp;puid3=&amp;dl='+dl+'&amp;pr1='+pr1); // --> </p>
+<p> Все новости </p>
+<p> Выборы 2011 </p>
+<p> Политика </p>
+<p> Общество </p>
+<p> Экономика и бизнес </p>
+<p> Происшествия </p>
+<p> Личные деньги </p>
+<p> Спорт </p>
+<p> Кино </p>
+<p> Культура </p>
+<p> Игры </p>
+<p> Наука и технологии </p>
+<p> Здоровье </p>
+<p> Авто </p>
+<p> Мозаика </p>
+<p> Знакомства </p>
+<p> Другие новости по этой теме </p>
+<p> Сход "Фобос-Грунт с орбиты может начаться 9 января </p>
+<p> Ученые выяснили, чем занят иммунитет, когда организм здоров </p>
+<p> Полиция Саудовской Аравии в состоянии повышенной готовн </p>
+<p> Ученые нашли способ борьбы с последствиями радиации </p>
+<p> 26.11.2011 </p>
+<p> andrewday </p>
+<p> 451 </p>
+<p> 34 </p>
+<p> 1 </p>
+<p> Теги: </p>
+<p> безопасность </p>
+<p> , </p>
+<p> радиация </p>
+<p> , </p>
+<p> ученые </p>
+<p> Мыши, несмотря на довольно небольшие размеры тела, могут справиться с такими трудностями, которые для человека являются невыносимыми – одними из таких является получение максимальной дозы радиации, с которой сможет справиться мышь, но которая является губительной для человека. </p>
+<p> Радиация влияет на то, что клетки человека начинают крайне быстро размножаться, а следовательно также быстро они и погибают. Подобные клетки имеются как теле человека, так и в кишечнике, где помимо них имеется огромное количество и иных веществ, способствующих человеческой жизнедеятельности. </p>
+<p> При попадании радиации на человека, большая часть всех вредных веществ и размноженных клеток попадает именно в кишечник, откуда и происходят все дальнейшие проблемы, следствием которых является смерть. Ученым из Гарвардской медицинской школы удалось выделить протеин, известный как бактерицидный белок, повышающий проницаемость (BPI). Однако совсем недавно был изобретен белок, который умеет бороться с данными проблемами, а следовательно зараженный человек имеет возможность спастись от гибели. </p>
+<p> Источник: </p>
+<p> doctor-prof.ru </p>
+<p> 34 </p>
+<p> Добавить комментарий </p>
+<p> <!--// <![CDATA[         /* [id7] nl_teaser_h */             OA_show(7);         // ]]> --> </p>
+<p> Комментарии к новости (1) </p>
+<p> PythonJ </p>
+<p> комментирует материал </p>
+<p> 26.11.2011 в 9:05 </p>
+<p> # </p>
+<p> "Радиация влияет на то, что клетки человека начинают крайне быстро размножаться, а следовательно также быстро они и погибают". Вот она, сермяжная правда... радиация сразу вызывает размножение клеток. Какой же безграмотный бред. Клетки, кстати, не размножаются, а делятся. Журналисты не дремлют, мне жаль ученых. </p>
+<p> 0 </p>
+<p> Ответить </p>
+<p> Пожаловаться </p>
+<p> Другие новости по этой теме </p>
+<p> Экономисты милостью Божьей: Дмитрий Менделеев </p>
+<p> file-rf.ru: </p>
+<p> После смерти Дмитрия Менделеева его идеи «носились в воздухе» и вскоре стали претворяться в жизнь. О заслугах Дмитрия Ивановича Менделеева  (1834–1907) перед наукой, отечественной промышленностью написано очень  много. Его имя навеки... </p>
+<p> Сегодня в 13:00 </p>
+<p> YDAB11 </p>
+<p> 114 </p>
+<p> 193 </p>
+<p> 3 </p>
+<p> Рождение знаменитой черной дыры </p>
+<p> globalscience.ru: </p>
+<p> Впервые в истории астрономы создано полное описание черной дыры, материя в которой настолько плотна, что даже свет не может преодолеть ее чудовищную гравитационную силу. Беспрецедентно точные измерения позволили реконструировать историю этого объекта,... </p>
+<p> Сегодня в 12:12 </p>
+<p> YDAB11 </p>
+<p> 206 </p>
+<p> 127 </p>
+<p> 0 </p>
+<p> Ученые создадут модель земного ядра </p>
+<p> globalscience.ru: </p>
+<p> Группа международных  ученых планирует смоделировать ядро Земли. В земном ядре материя  находится под давлением трех с половиной атмосфер, а температура ядра  составляет  около десяти тысяч градусов по шкале Цельсия. Смоделировав  ядро, ученые смогут... </p>
+<p> Сегодня в 12:05 </p>
+<p> YDAB11 </p>
+<p> 84 </p>
+<p> 124 </p>
+<p> 2 </p>
+<p> Как увеличить силу естественного обезболивающего в организме </p>
+<p> globalscience.ru: </p>
+<p> Итальянские исследователи совместно с учеными Калифорнийского Университета в Ирвайне обнаружили новые средства, повышающие эффективность анандамида (anandamide) - биологически активного наркотикоподобного химического вещества, вырабатываемого в организме... </p>
+<p> Сегодня в 12:00 </p>
+<p> YDAB11 </p>
+<p> 111 </p>
+<p> 123 </p>
+<p> 0 </p>
+<p> Ученые обнаружили самых древних микробов </p>
+<p> infomain.ru: </p>
+<p> В древних осадочных отложениях скал,  сформированных в период между двумя ледниковыми периодами, учеными были  обнаружены самые древние ископаемые микробов двух типов: фораминифера  (одноклеточные животные заключенные в палочко-образные или спирально ... </p>
+<p> Сегодня в 11:09 </p>
+<p> pvm-77 </p>
+<p> 85 </p>
+<p> 118 </p>
+<p> 0 </p>
+<p> Об уровне зарплат в российской космической науке и индустрии </p>
+<p> ttolk.ru: </p>
+<p> Российский ракетно-космический комплекс выглядит странным архипелагом в стране, погружаемой Кремлем в управляемую «бедность». Там царят нищенские для такой работы зарплаты и процветает махровое воровство. В 2015-2016 годах оттуда уйдут... </p>
+<p> Сегодня в 9:34 </p>
+<p> YDAB11 </p>
+<p> 931 </p>
+<p> 192 </p>
+<p> 13 </p>
+<p> Немцы протестировали русскую Lada </p>
+<p> autosite.com.ua: </p>
+<p> Немцы, протестировав русскую Lada, дали совет: ее нужно оснастить штатной иконкой. В Lada Priora нет автоматической коробки передач, системы ESP, предотвращающей заносы, климат-контроля, но и это, как выясняется, не самое страшное. Хуже всего то, что в... </p>
+<p> Вчера в 14:19 </p>
+<p> Adler666 </p>
+<p> 2146 </p>
+<p> 146 </p>
+<p> 82 </p>
+<p> Национальная программа по кибербезопасности запущена в Индии </p>
+<p> it-hack.ru: </p>
+<p> Увеличение атак на кибер-пространство Индии привело нескольких специалистов и экспертов из промышленности, в поддержке с правительством Индии к совместному формированию национальной программы, которая послужит для выявления надёжных и ценных специалистов... </p>
+<p> Вчера в 2:15 </p>
+<p> zex33 </p>
+<p> 131 </p>
+<p> 59 </p>
+<p> 1 </p>
+<p> Ученые создали робота-медузу </p>
+<p> tainamira.ru: </p>
+<p> Группа инженеров из VirginiaTech создала робота под названием Robojelly (Робот-медуза). Устройство диаметром 16,4 см напоминает ушастую аурелию Aurelia aurita. Робот сделан из силикона и искусственных мышц из сплава с памятью формы, которые деформируются... </p>
+<p> 26.11.2011 </p>
+<p> tarenna </p>
+<p> 284 </p>
+<p> 63 </p>
+<p> 4 </p>
+<p> Ученые выяснили причины женской ненависти </p>
+<p> dni.ru: </p>
+<p> Ученые выяснили причины женской стервозности по отношению в другим женщинам. Оказалось, что представительницы прекрасного пола запрограммированы природой таким образом, чтобы недружелюбно реагировать на подобных себе.Чтобы найти ответ, ученые провели... </p>
+<p> 26.11.2011 </p>
+<p> feodorff </p>
+<p> 521 </p>
+<p> 62 </p>
+<p> 3 </p>
+<p> Армия какой страны самая крупная и сильная в мире? </p>
+<p> topwar.ru: </p>
+<p> Армии  каких стран являются на планете наиболее сильными и многочисленными? На  вопрос о боеспособности армии любой страны однозначно сложно ответить.  Следует учесть множество факторов, в особенности их поведение в условиях  реальных военных действий.... </p>
+<p> 26.11.2011 </p>
+<p> МУСТАФА </p>
+<p> 4285 </p>
+<p> 285 </p>
+<p> 160 </p>
+<p> Россию обкладывают, как медведя в берлоге </p>
+<p> topwar.ru: </p>
+<p> Резкое обострение ситуации вокруг Сирии и Ирана, риторики  американского и российского  руководства по поводу Договора об обычных  вооружённых силах в Европе, ПРО и СНВ, уже не «говорят», а «кричат» о  приближении человечества к... </p>
+<p> 26.11.2011 </p>
+<p> МУСТАФА </p>
+<p> 1734 </p>
+<p> 136 </p>
+<p> 39 </p>
+<p> <!-- if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); } if (typeof(document.referrer) != 'undefined') {   if (typeof(afReferrer) == 'undefined') {     afReferrer = escape(document.referrer);   } } else {   afReferrer = ''; } var addate = new Date(); var dl = escape(document.location); var pr1 = Math.floor(Math.random() * 1000000);   function AdWolf_SetLayerVis(spritename,state){document.getElementById(spritename).style.visibility=state;} function AdWolf_ShowOver(show){if(show){AdWolf_SetLayerVis('AdWolf_DivBaseFlash',"hidden"); AdWolf_SetLayerVis('AdWolf_DivOverFlash',"visible");}else{AdWolf_SetLayerVis('AdWolf_DivOverFlash',"hidden"); AdWolf_SetLayerVis('AdWolf_DivBaseFlash',"visible");}} function AdWolf_Open(){AdWolf_ShowOver(true);} function AdWolf_Close(){AdWolf_ShowOver(false);}   document.write('<div id="AdWolf_banner_'+pr1+'"><\/div>'); document.write('<div style="visibility:hidden; position:absolute;"><iframe id="AdWolf_iframe_'+pr1+'" width=1 height=1 marginwidth=0 marginheight=0 scrolling=no frameborder=0><\/iframe><\/div>');   AdWolf_Scroll(pr1,'http://a.adwolf.ru/prepareCode?p1=xf&amp;p2=l&amp;pct=a&amp;pfc=a&amp;pfb=a&amp;plp=a&amp;pli=a&amp;pop=a&amp;pr=' + pr +'&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;prr=' + afReferrer + '&amp;puid1=&amp;puid2=&amp;puid3=&amp;dl='+dl+'&amp;pr1='+pr1);   // --> </p>
+<p> Newsland на email </p>
+<p> new TWTR.Widget({             version: 2,                 type: 'profile',                 rpp: 3,                 interval: 6000,                 width: 240,                 height: 300,                 theme: {                     shell: {                         background: '#e5e5e5',                         color: '#767676'                     },                     tweets: {                         background: '#ffffff',                         color: '#444',                         links: '#767676'                     }                 },             features: {                 scrollbar: false,                 loop: false,                 live: false,                 hashtags: true,                 timestamp: true,                 avatars: false,                 behavior: 'default'             }         }).render().setUser('newslandru').start(); </p>
+<p> Загружается, подождите... </p>
+<p> <!-- var RndNum4NoCash = Math.round(Math.random() * 1000000000); var ar_Tail='unknown'; if (document.referrer) ar_Tail = escape(document.referrer); document.write( '<iframe src="http://ad.adriver.ru/cgi-bin/erle.cgi?' + 'sid=177935&bn=2&target=top&bt=22&pz=0&rnd=' + RndNum4NoCash + '&tail256=' + ar_Tail + '" frameborder=0 vspace=0 hspace=0 width=240 height=400 marginwidth=0' + ' marginheight=0 scrolling=no></iframe>'); //--> </p>
+<p> <!--// <![CDATA[     /* [id4] nl_240x400_2 */     OA_show(4); // ]]> --> </p>
+<p> О Newsland </p>
+<p> О портале </p>
+<p> Вакансии </p>
+<p> Правообладателям </p>
+<p> Пользовательское соглашение </p>
+<p> Лицензионное соглашение </p>
+<p> Правила размещения новостей </p>
+<p> Правила комментирования </p>
+<p> Частые вопросы (FAQ) </p>
+<p> Как повысить рейтинг пользователя </p>
+<p> Обратная связь </p>
+<p> Полезные фишки </p>
+<p> Email-рассылка </p>
+<p> iPhone/смартфон версия </p>
+<p> Яндекс виджет </p>
+<p> Рекламодателям </p>
+<p> Медиа-кит </p>
+<p> Прайс-лист </p>
+<p> Форматы рекламы </p>
+<p> Контакты </p>
+<p> За сутки 107292 посетителя оставили 431 новость и 12212 комментариев. </p>
+<p> Сейчас на сайте 2703 посетителя. </p>
+<p> © 2011 Newsland — информационно-дискуссионный портал, материалы которого формируют пользователи, размещая интересные новости и публицистические материалы и обсуждая острые политические и социальные темы. </p>
+<p> В соответствии с пользовательским соглашением редакция не несет ответственности за содержание материалов (новости, статьи, фото, видео, комментарии), которые размещают пользователи. Для урегулирования спорных вопросов и претензий Вы можете связаться с редакцией и администрацией Newsland по вопросам контента и модерации. </p>
+<p> вечерние женские шарфы палантины из шерсти </p>
+<p> Нас советуют </p>
+<p> теплица дачная </p>
+<p> установка </p>
+<p> <!--                     document.write("<a href='http://www.liveinternet.ru/click' "+                     "target=_blank><img src='//counter.yadro.ru/hit?t52.6;r"+                     escape(document.referrer)+((typeof(screen)=="undefined")?"":                     ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?                     screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+                     ";"+Math.random()+                     "' alt='' title='LiveInternet: показано число просмотров и"+                     " посетителей за 24 часа' "+                     "border='0' width='88' height='31'><\/a>")                     //--> </p>
+<p> <!--                     d=document;var a='';a+=';r='+escape(d.referrer);js=10;//--> </p>
+<p> <!--                     a+=';j='+navigator.javaEnabled();js=11;//--> </p>
+<p> <!--                     s=screen;a+=';s='+s.width+'*'+s.height;                     a+=';d='+(s.colorDepth?s.colorDepth:s.pixelDepth);js=12;//--> </p>
+<p> <!--                     js=13;//--> </p>
+<p> <!--                     d.write('<a href="http://top.mail.ru/jump?from=1306018" target="_top">'+                     '<img src="http://dd.ce.b3.a1.top.mail.ru/counter?id=1306018;t=48;js='+js+                     a+';rand='+Math.random()+'" alt="Рейтинг@Mail.ru" border="0" '+                     'height="31" width="88"><\/a>');if(11<js)d.write('<'+'!-- ');//--> </p>
+<p> <!--                     if(11<js)d.write('--'+'>');//--> </p>
+<p> Гость </p>
+<p> Войти </p>
+<p> Зарегистрироваться </p>
+<p> Восстановить пароль </p>
+<p> Обратная связь </p>
+<p> Логин или email </p>
+<p> Пароль </p>
+<p> Войти </p>
+<p> А также вы можете </p>
+<p> var img = new Image();         img.src = 'http://www.tns-counter.ru/V13a***R>' + document.referrer.replace(/\*/g,'%2a') + '*cmedia_ru/ru/CP1251/tmsec=newsland_total/'; </p>
+<p> var _gaq = _gaq || [];         _gaq.push(['_setAccount', 'UA-3582594-1']);         _gaq.push(['_addOrganic', 'm.yandex.ru', 'text', true]);         _gaq.push(['_addOrganic', 'images.yandex.ru', 'text', true]);         _gaq.push(['_addOrganic', 'blogs.yandex.ru', 'text', true]);         _gaq.push(['_addOrganic', 'video.yandex.ru', 'text', true]);         _gaq.push(['_addOrganic', 'go.mail.ru', 'q']);         _gaq.push(['_addOrganic', 'm.go.mail.ru', 'q', true]);         _gaq.push(['_addOrganic', 'mail.ru', 'q']);         _gaq.push(['_addOrganic', 'google.com.ua', 'q']);         _gaq.push(['_addOrganic', 'images.google.ru', 'q', true]);         _gaq.push(['_addOrganic', 'maps.google.ru', 'q', true]);         _gaq.push(['_addOrganic', 'nova.rambler.ru', 'query']);         _gaq.push(['_addOrganic', 'm.rambler.ru', 'query', true]);         _gaq.push(['_addOrganic', 'gogo.ru', 'q']);         _gaq.push(['_addOrganic', 'nigma.ru', 's']);         _gaq.push(['_addOrganic', 'search.qip.ru', 'query']);         _gaq.push(['_addOrganic', 'webalta.ru', 'q']);         _gaq.push(['_addOrganic', 'sm.aport.ru', 'r']);         _gaq.push(['_addOrganic', 'akavita.by', 'z']);         _gaq.push(['_addOrganic', 'meta.ua', 'q']);         _gaq.push(['_addOrganic', 'search.bigmir.net', 'z']);         _gaq.push(['_addOrganic', 'search.tut.by', 'query']);         _gaq.push(['_addOrganic', 'all.by', 'query']);         _gaq.push(['_addOrganic', 'search.i.ua', 'q']);         _gaq.push(['_addOrganic', 'index.online.ua', 'q']);         _gaq.push(['_addOrganic', 'web20.a.ua', 'query']);         _gaq.push(['_addOrganic', 'search.ukr.net', 'search_query']);         _gaq.push(['_addOrganic', 'search.com.ua', 'q']);         _gaq.push(['_addOrganic', 'search.ua', 'q']);         _gaq.push(['_addOrganic', 'poisk.ru', 'text']);         _gaq.push(['_addOrganic', 'go.km.ru', 'sq']);         _gaq.push(['_addOrganic', 'liveinternet.ru', 'ask']);         _gaq.push(['_addOrganic', 'gde.ru', 'keywords']);         _gaq.push(['_addOrganic', 'affiliates.quintura.com', 'request']);         _gaq.push(['_trackPageview']);         _gaq.push(['_trackPageLoadTime']);         (function() {             var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;             ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';             (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);         })(); </p>
+<p> (function(w, c) {         (w[c] = w[c] || []).push(function() {             try {                 w.yaCounter8161474 = new Ya.Metrika({id:8161474, enableAll: true});             }             catch(e) { }         });     })(window, "yandex_metrika_callbacks"); </p>
+<p> <!--     var RndNum4NoCash = Math.round(Math.random() * 1000000000);     var ar_Tail='unknown'; if (document.referrer) ar_Tail = escape(document.referrer);     document.write('<sc' + 'ript language="JavaScript" src="http://ad.adriver.ru/cgi-bin/erle.cgi?sid=170641&bt=16&target=blank&rnd=' + RndNum4NoCash + '&tail256=' + ar_Tail + '"></sc' + 'ript>');     //--> </p>
+<p> <!--     document.write('<scr' + 'ipt language="JavaScript" src="http://drive.videoclik.ru/code?pid=1091&rid=' + (Math.floor(Math.random() * 1000000000)) +'" charset="utf-8" type="text/JavaScript"></scr' + 'ipt>');     // --> </p>
+<p> var bbSite='http___newsland.ru'; var bbMainDomain='stat.arbocontext.ru'; </p>
+<p> /* <![CDATA[ */     var bbs=screen,bbn=navigator,bbh;bbh='&ubl='+1*bbn.browserLanguage+'&ucc='+1*bbn.cpuClass+'&ucd='+1*bbs.colorDepth+'&udx='+1*bbs.deviceXDPI+'&udy='+1*bbs.deviceYDPI+'&usl='+1*bbn.systemLanguage+'&uje='+1*bbn.javaEnabled()+'&uah='+1*bbs.availHeight+'&uaw='+1*bbs.availWidth+'&ubd='+1*bbs.bufferDepth+'&uhe='+1*bbs.height+'&ulx='+1*bbs.logicalXDPI+'&uly='+1*bbs.logicalYDPI+'&use='+1*bbs.fontSmoothingEnabled+'&uto='+(new Date()).getTimezoneOffset()+'&uui='+1*bbs.updateInterval+'&uul='+1*bbn.userLanguage+'&uwi='+1*bbs.width;     if(typeof(bburlparam)=='string') { bbh+='&'+bburlparam; }     if(typeof(bbkeywords)=='string') { bbh+='&keywords='+escape(bbkeywords); }     document.write("<scr"+"ipt type='text/javascript' charset='utf-8' src='http://go.arboru.bbelements.com/please/showit/2181/1/1/50/?typkodu=js"+bbh+"&bust="+Math.random()+"&target=_blank'><"+"\/scr"+"ipt>");     /* ]]> */ </p>
+<p> <!--// <![CDATA[     /* [id8] nl_fullscreen */     OA_show(8);     // ]]> --> </p>

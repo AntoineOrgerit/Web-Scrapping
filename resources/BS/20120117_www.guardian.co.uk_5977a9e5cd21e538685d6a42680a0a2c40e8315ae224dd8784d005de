@@ -1,0 +1,442 @@
+<p> document.domain = "guardian.co.uk"; </p>
+<p> //<![CDATA[ 				OAS_url = 'http://oas.guardian.co.uk/RealMedia/ads/'; 				OAS_sitepage = "www.guardian.co.uk/social-care-network/2012/jan/16/care-minister-paul-burstow-cap/oas.html"; 				OAS_listpos = 'Top,Middle2,Middle1,x11,x12,x13,x14';  								OAS_query = 'k=adult&k=social-care&k=policy&k=social-care-network&k=england&cf=global+%28temp+commercial%29&pid=&ct=article&pt=article&'; 				OAS_target = '_blank';  				OAS_rn = '001234567890'; 				OAS_rns = '1234567890'; 				OAS_rn = new String (Math.random()); 				OAS_rns = OAS_rn.substring (2, 11); 			//]]> </p>
+<p> Government refutes claim the elderly will pay £60,000 for care | Social care network | Guardian Professional </p>
+<p> //<![CDATA[ 	if (!commonStaticRoot) {	 		var commonStaticRoot = "http://static.guim.co.uk/static/894d5be2fd27175b6273c0b4d3966c55a95bac8a/common/"; 	} 	if (!sectionStaticRoot) {	 		var sectionStaticRoot = "http://static.guim.co.uk/static/894d5be2fd27175b6273c0b4d3966c55a95bac8a/social-care-network/"; 	} 	if (!staticHost) {	 		var staticHost="http://www.guardian.co.uk/"; 	} 	if (!sitePrefixUrl) { 		var sitePrefixUrl = "http://www.guardian.co.uk"; 	} //]]> </p>
+<p> .component h2 { 	color: #000; }  .crumb-wrapper #crumb1 a { 	background-image: url("http://static.guim.co.uk/static/894d5be2fd27175b6273c0b4d3966c55a95bac8a/social-care-network/images/crumb_1.png"); }  .crumb-wrapper #crumb2 a { 	background-image: url("http://static.guim.co.uk/static/894d5be2fd27175b6273c0b4d3966c55a95bac8a/social-care-network/images/crumb_2.png"); }  .crumb-wrapper #crumb3 a { 	background-image: url("http://static.guim.co.uk/static/894d5be2fd27175b6273c0b4d3966c55a95bac8a/social-care-network/images/crumb_3.png"); }  .crumb-wrapper ul.related-to-crumb2 li a:focus, .crumb-wrapper ul.related-to-crumb2 li a:hover, .crumb-wrapper ul.related-to-crumb2 li a:active { 	background-color: #062660; }  .crumb-wrapper ul.related-to-crumb3 li a:focus, .crumb-wrapper ul.related-to-crumb3 li a:hover, .crumb-wrapper ul.related-to-crumb3 li a:active { 	background-color: #062660; } </p>
+<p> var _sf_startpt=(new Date()).getTime(); </p>
+<p> window.jQuery || document.write('<script src="http://static.guim.co.uk/static/894d5be2fd27175b6273c0b4d3966c55a95bac8a/common/scripts/libs/jquery/1.6.4/jquery.min.js">\x3C/script>') </p>
+<p> var jQ = jQuery.noConflict(); </p>
+<p> var thirdPartyReferralCookieService = new guardian.r2.ThirdPartyReferralCookieService(); 	thirdPartyReferralCookieService.setThirdPartyReferralCookie();  	var urlStack = new UrlStack(".guardian.co.uk"); 	var communitiesSite = false;  	 			   	//<![CDATA[ 	function init() { 		urlStack.clearUrlStack(); 		var signOutLink = document.getElementById("sign-out"); 		if (signOutLink) { 			signOutLink.onclick = signOut; 		} 		 		// Purely styling 		//jQ('.js-show').removeClass('js-show'); 	}	 	 	guardian.r2.resourceRoot = "http://resource.guim.co.uk/";     var pageUrl = "http://www.guardian.co.uk/social-care-network/2012/jan/16/care-minister-paul-burstow-cap";     var pageSignature =  "42c68d2b6783a8ccdc848e21d680a477a28dfca1acfcba56e44d8b6be41eee10";      guardian.r2.signInListeners = new guardian.r2.SignInListeners();     (function () {	 		var signInView = new guardian.r2.SignInView("http://static.guim.co.uk/static/894d5be2fd27175b6273c0b4d3966c55a95bac8a/common/scripts/md5.js", communitiesSite); 		guardian.r2.signInController = new guardian.r2.SignInController(signInView, guardian.r2.signInListeners, "http://www.guardian.co.uk/tools/signin", pageUrl, pageSignature); 		 	}) (); 	 	/* 	(function () { 		var profileLinkView = new guardian.r2.ProfileLinkView(); 		profileLinkController = new guardian.r2.ProfileLinkController(profileLinkView, "http://www.guardian.co.uk/discussion/user/"); 	}) (); 	*/   	jQ(document).ready(init);  	  	var SIGN_IN_URL = 'http://www.guardian.co.uk/tools/signin'; 	var RESOURCE_ROOT = 'http://resource.guim.co.uk/'; 	var PROFILE_LINK_VIEW = "http://www.guardian.co.uk/discussion/user/"; </p>
+<p> //<![CDATA[ 	function insertStyleSheet(href) { 		var styleObject = document.createElement('link'); 		styleObject.setAttribute('href', commonStaticRoot + href); 		styleObject.setAttribute('type', 'text/css'); 		styleObject.setAttribute('media', 'screen'); 		styleObject.setAttribute('rel', 'stylesheet'); 		var head = document.getElementsByTagName('head')[0]; 		head.appendChild(styleObject); 	} 	insertStyleSheet('styles/js-on.css'); 	insertPluckStylesheet = true; 	//]]> </p>
+<p> ensurePackage('guardian.r2.omniture'); guardian.r2.omniture.isAvailable = function(){ 			return true; 	} </p>
+<p> Turn autoplay off </p>
+<p> Turn autoplay on </p>
+<p> Please activate cookies in order to turn autoplay off </p>
+<p> Jump to content [s] </p>
+<p> Jump to comments [c] </p>
+<p> Jump to site navigation [0] </p>
+<p> Jump to search [4] </p>
+<p> Terms and conditions [8] </p>
+<p> Edition: </p>
+<p> UK </p>
+<p> US </p>
+<p> Sign in </p>
+<p> Mobile </p>
+<p> About us </p>
+<p> About us </p>
+<p> Contact us </p>
+<p> Press office </p>
+<p> Guardian Print Centre </p>
+<p> Guardian readers' editor </p>
+<p> Observer readers' editor </p>
+<p> Terms of service </p>
+<p> Privacy policy </p>
+<p> Advertising guide </p>
+<p> Digital archive </p>
+<p> Digital edition </p>
+<p> Guardian Weekly </p>
+<p> Buy Guardian and Observer photos </p>
+<p> Subscribe </p>
+<p> Today's paper </p>
+<p> The Guardian </p>
+<p> G2 features </p>
+<p> Comment and debate </p>
+<p> Editorials, letters and corrections </p>
+<p> Obituaries </p>
+<p> Other lives </p>
+<p> Sport </p>
+<p> EducationGuardian </p>
+<p> Subscribe </p>
+<p> Subscribe </p>
+<p> Subscribe to the Guardian </p>
+<p> iPhone app </p>
+<p> iPad edition </p>
+<p> Kindle </p>
+<p> Extra </p>
+<p> Guardian Weekly </p>
+<p> Digital edition </p>
+<p> All our services </p>
+<p> The Guardian </p>
+<p> Social care network </p>
+<p> User comments </p>
+<p> Web </p>
+<p> News </p>
+<p> Sport </p>
+<p> Comment </p>
+<p> Culture </p>
+<p> Business </p>
+<p> Money </p>
+<p> Life & style </p>
+<p> Travel </p>
+<p> Environment </p>
+<p> TV </p>
+<p> Data </p>
+<p> Video </p>
+<p> Mobile </p>
+<p> Offers </p>
+<p> Jobs </p>
+<p> Professional </p>
+<p> Social care network </p>
+<p> Adult </p>
+<p> Children </p>
+<p> Policy </p>
+<p> Career </p>
+<p> Practice </p>
+<p> Blog </p>
+<p> Jobs </p>
+<p> Events </p>
+<p> Join </p>
+<p> Government refutes claim the elderly will pay £60,000 for care </p>
+<p> Care minister Paul Burstow says decision on how much the elderly or disabled must pay themselves will not be made until spring </p>
+<p> Tweet this </p>
+<p> reddit this </p>
+<p> omnitracker.omniTrackEVarEvent( 12, 16, 'Social care network: Reddit', 'click', '.reddit a' ); </p>
+<p> Comments ( </p>
+<p> … </p>
+<p> ) </p>
+<p> Jo Adetunji </p>
+<p> Guardian Professional </p>
+<p> , </p>
+<p> Monday 16 January 2012 14.58 GMT </p>
+<p> Article history </p>
+<p> About this article </p>
+<p> Close </p>
+<p> Government refutes claim the elderly will pay £60,000 for care </p>
+<p> This article was published on </p>
+<p> guardian.co.uk </p>
+<p> at </p>
+<p> 14.58 GMT on Monday 16 January 2012 </p>
+<p> .  					   	It was last modified at </p>
+<p> 15.02 GMT on Monday 16 January 2012 </p>
+<p> . </p>
+<p> The Dilnot report proposed a cap of £35,000 but a government working group has suggested that this be increased to £60,000. Photograph: Matt Cardy/Getty Images </p>
+<p> The Department of Health has refuted claims that it is planning to force elderly people to pay £60,000 for care but remains open minded over recommendations made by a working group. </p>
+<p> Responding to </p>
+<p> reports </p>
+<p> that the department was considering a near doubling of a proposed £35,000 cap on the amount the elderly or disabled pay for care, Paul Burstow, the care services minister, said the matter was still under consideration before the government's white paper in April. </p>
+<p> "It is wrong to say we plan to force elderly people to pay £60,000 for care," Burstow said. "We are continuing to look at the whole system, which is outdated, unfair and in urgent need of reform, and will set out our plans in spring in the white paper." </p>
+<p> A </p>
+<p> report from the Caring for our future group </p>
+<p> said in November 2011 that a cap of between £50,000 and £60,000 on the lifetime cost of care would provide a "tipping point" to "motivate and enable people to plan and prepare". It also said working adults should use private insurance or equity from their homes to cover future costs – a move that could expand the private insurance market. </p>
+<p> A £60,000 cap would be a significant rise on "the most appropriate and fair figure" </p>
+<p> of £35,000 recommended by the Dilnot Commission </p>
+<p> in July 2011. Andrew Dilnot, the economist who led the commission, said a £35,000 cap could save the state about £1.7m. </p>
+<p> However, speaking to the </p>
+<p> social care network </p>
+<p> , Dilnot said he believed the group's recommendations were "very positive" overall. He said the commission had recommended a figure of between £25,000 and £50,000 but had chosen a mid-way amount as the fairest. Dilnot said the working group had given a "top end" figure, and that the benefit of having a cap would be greatly reduced if the figure was much higher than £50,000. </p>
+<p> Dilnot said that it was encouraging to see that the "financial services as a whole were very enthusiastic and had bought into [more participation]" and that the most important thing to come out of the working group was the need for a cap. </p>
+<p> "A relatively small group need high care costs. In other areas of our lives risk is pooled but not here and that's what a cap does," he said. "There's a terrifying lack of control. Once you no longer fear losing everything you can put plans in place". </p>
+<p> There is no current cap on care costs, with thousands relying on equity from their homes to help meet high bills and many at risk of losing their homes. Under the current system, those with assets of more than £23,250 have to meet the full cost of a care home. The group recommended raising this threshold to £100,000, after which individuals would be liable for full care costs. </p>
+<p> Michelle Mitchell, Age UK's charity director, said the charity strongly supported a cap on care. It said it supported the £35,000 figure recommended by Dilnot. "After wide consultation and in-depth analysis, the Dilnot Commission recommended a cap of £35,000 which Age UK believes would help people to plan for their care needs and provide the certainty that might encourage the financial services industry to introduce products that could help in that planning process". </p>
+<p> She added: "Inevitably any raising of the cap would mean that fewer people would be helped by the move and for many it could lessen the incentive to plan." </p>
+<p> Considering the role of financial services in allowing people to plan for the future, the working group's report said the government and others still needed "to overcome mistrust in financial services which has been a major barrier". </p>
+<p> The group also said a national campaign could also encourage people to prepare for future care through pension schemes or investment in property, with regular "awareness campaigns" to highlight the importance of planning.  It said that it would not encourage people to save specially for care but to "accumulate generally for all costs associated with later life". </p>
+<p> It said ministers would need to introduce clear rules on how to test the eligibility of those needing help and there needed to be greater consistency between authorities in assessment and eligibility for services. </p>
+<p> Cross-party talks on how to fund the growing cost of care for the elderly and disabled are due to start on Tuesday. Discussions will include the health secretary Andrew Lansley, Paul Burstow, the Liberal Democrat state minister for care services and Labour shadow secretary for health Andy Burnham. </p>
+<p> This article is published by Guardian Professional. </p>
+<p> Join the social care network </p>
+<p> to receive regular emails and exclusive offers. </p>
+<p> Printable version </p>
+<p> Send to a friend </p>
+<p> Share </p>
+<p> Clip </p>
+<p> Contact us </p>
+<p> larger </p>
+<p> | </p>
+<p> smaller </p>
+<p> Email </p>
+<p> Close </p>
+<p> Recipient's email address </p>
+<p> Your first name </p>
+<p> Your surname </p>
+<p> Add a note (optional) </p>
+<p> Your IP address will be logged </p>
+<p> Share </p>
+<p> Close </p>
+<p> Short link for this page: </p>
+<p> http://gu.com/p/34ymy </p>
+<p> StumbleUpon </p>
+<p> reddit </p>
+<p> Tumblr </p>
+<p> Digg </p>
+<p> LinkedIn </p>
+<p> Google Bookmarks </p>
+<p> del.icio.us </p>
+<p> livejournal </p>
+<p> Facebook </p>
+<p> Twitter </p>
+<p> Contact us </p>
+<p> Close </p>
+<p> Report errors or inaccuracies: </p>
+<p> userhelp@guardian.co.uk </p>
+<p> Letters for publication should be sent to: </p>
+<p> letters@guardian.co.uk </p>
+<p> If you need help using the site: </p>
+<p> userhelp@guardian.co.uk </p>
+<p> Call the main Guardian and Observer switchboard: </p>
+<p> +44 (0)20 3353 2000 </p>
+<p> Advertising guide </p>
+<p> License/buy our content </p>
+<p> Social care network </p>
+<p> Adult </p>
+<p> · </p>
+<p> Policy </p>
+<p> · </p>
+<p> England </p>
+<p> Healthcare Network </p>
+<p> Social care </p>
+<p> More 			news </p>
+<p> More on this story </p>
+<p> The growing problem of elderly care in France </p>
+<p> A growing elderly population in France has led to debate over the future of care but are cuts already threatening basic services? </p>
+<p> Abla Kandalaft </p>
+<p> reports </p>
+<p> Is the care system is failing older people? </p>
+<p> Despite Dilnot, care home providers get squeezed on fees </p>
+<p> NHS introduces clearer thinking on dementia </p>
+<p> Scrap 10% of hospital beds for dementia care, say MPs and peers </p>
+<p> Dilnot funding recommendations not enough to fix adult care </p>
+<p> Care homes are not analogous to hotels </p>
+<p> Dignity in care isn't a new issue </p>
+<p> Related </p>
+<p> 15 Sep 2011 </p>
+<p> Government allocates £10m for memory services </p>
+<p> 7 Dec 2011 </p>
+<p> Commissioning must take communities into account </p>
+<p> 16 Jan 2012 </p>
+<p> Is the care system failing older people? </p>
+<p> 13 Oct 2011 </p>
+<p> Why we want social enterprises to provide health and social care </p>
+<p> Printable version </p>
+<p> Send to a friend </p>
+<p> Share </p>
+<p> Clip </p>
+<p> Contact us </p>
+<p> Article history </p>
+<p> Email </p>
+<p> Close </p>
+<p> Recipient's email address </p>
+<p> Your first name </p>
+<p> Your surname </p>
+<p> Add a note (optional) </p>
+<p> Your IP address will be logged </p>
+<p> Share </p>
+<p> Close </p>
+<p> Short link for this page: </p>
+<p> http://gu.com/p/34ymy </p>
+<p> StumbleUpon </p>
+<p> reddit </p>
+<p> Tumblr </p>
+<p> Digg </p>
+<p> LinkedIn </p>
+<p> Google Bookmarks </p>
+<p> del.icio.us </p>
+<p> livejournal </p>
+<p> Facebook </p>
+<p> Twitter </p>
+<p> Contact us </p>
+<p> Close </p>
+<p> Report errors or inaccuracies: </p>
+<p> userhelp@guardian.co.uk </p>
+<p> Letters for publication should be sent to: </p>
+<p> letters@guardian.co.uk </p>
+<p> If you need help using the site: </p>
+<p> userhelp@guardian.co.uk </p>
+<p> Call the main Guardian and Observer switchboard: </p>
+<p> +44 (0)20 3353 2000 </p>
+<p> Advertising guide </p>
+<p> License/buy our content </p>
+<p> About this article </p>
+<p> Close </p>
+<p> Government refutes claim the elderly will pay £60,000 for care </p>
+<p> This article was published on </p>
+<p> guardian.co.uk </p>
+<p> at </p>
+<p> 14.58 GMT on Monday 16 January 2012 </p>
+<p> .  					   	It was last modified at </p>
+<p> 15.02 GMT on Monday 16 January 2012 </p>
+<p> . </p>
+<p> google_ad_client = 'ca-guardian_js'; google_ad_channel = 'socialcarenetwork'; </p>
+<p> google_max_num_ads = '3'; </p>
+<p> //<![CDATA[ 			if (true) { 					  writeScript("http://pagead2.googlesyndication.com/pagead/show_ads.js", false, function(){}); 			} 		// ]]> </p>
+<p> var cookie_domain = "www.guardian.co.uk"; </p>
+<p> Comments </p>
+<p> 0 comments, displaying </p>
+<p> oldest </p>
+<p> first </p>
+<p> Sort comments by </p>
+<p> Oldest </p>
+<p> Newest </p>
+<p> jQ('#sort-comments fieldset').addClass('hidden'); </p>
+<p> There are no comments yet for this article. </p>
+<p> Sign in to comment </p>
+<p> or </p>
+<p> create your Guardian account </p>
+<p> to join the conversation </p>
+<p> jQ(document).ready(function(){ 	// check jQuery UI hasn't been loaded in by a microapp. short-term fix. 	if (!jQuery.ui) { 	  	jQ.getScript('http://resource.guim.co.uk/discussion/static/1777/jquery-ui-1.7.3.custom.min.js'); 	} }); </p>
+<p> function fix_domain_for_careers(url){ 		var re, fixed_url; 		var careers_length = "careers".length; 		 		if (window.location.host.substr(0, careers_length) === "careers") { 			re = /http:\/\/www\./; 		    fixed_url = url.replace(re, "http://careers."); 		} else { 			re = /http:\/\/careers\./; 		    fixed_url = url.replace(re, "http://www."); 		} 		 		return fixed_url; 	} 	 	jQ(function() {         fixPluckCommentUrl('http://www.guardian.co.uk/discussion/api/resolvePluckCommentKey?pluck-comment-keys=&amp;callback='); 		var loading_box = jQ("<div class='report-form-loading'>Loading</div>");          jQ('a.report-abuse:not(.no-abuse-popup)').live('click', function(ev) { 			ev.preventDefault();  			loading_box.dialog({ 				title: "Abuse report", 				draggable: false, 				modal: true, 				width: 400, 				minHeight: 320, 				resizable: false, 				beforeclose: function(event, ui) { 					var readOnly = jQ('.report-abuse-ajax-readonly').length; 					if(readOnly == 1) return true;  					var reason = jQ('.report-abuse-ajax-form textarea#id_reason').val(); 					var thanksPage = jQ('.report-form-loading p[data-abuse-report-accepted-for-comment]').length; 					if (thanksPage == 0) { 					    thanksPage = jQ('.report-form-loading p[data-abuse-report-accepted-for-profile]').length; 					} 					if(thanksPage == 0) { 						if(reason == 0) { 							return true; 						} else { 							return confirm("Closing this window without pressing \"Report\" will result in your words being lost. Are you sure?"); 						} 					} 					else { 						return true; 					} 		        }, 				close: function(ev, ui) { loading_box.remove(); } 			}); 			 			abuse_report_url = this.href.replace('report-abuse', 'report-abuse-ajax');			 			abuse_report_url = fix_domain_for_careers(abuse_report_url); 			 			jQ.ajax({               url: abuse_report_url,               success: function(data){                   loading_box.html(data);               }             }); 		});  		jQ('body').delegate('.report-abuse-ajax-form form', 'submit', function(ev) { 			ev.preventDefault(); 			var form = jQ(this); 			var url = fix_domain_for_careers(form.attr('action')); 			jQ.post(url, form.serialize(), function(html) { 				form.parents('.ui-dialog-content').html(html); 				// Has the abuse report been accepted? 				var el = jQ(html); 				var comment_id = el.attr('data-abuse-report-accepted-for-comment'); 				var profile_id = el.attr('data-abuse-report-accepted-for-profile'); 				if (comment_id) { 					jQ('ul#comment-' + comment_id).find('li.abuse-report').remove(); 				} else if (profile_id) { 				    jQ('p.report-abuse').remove(); 				} 				var is_successful_submission = (comment_id || profile_id); 				if (is_successful_submission) { 					 					if(guardian.r2.omniture.isAvailable()) { 						// track with omniture 						s.linkTrackVars = 'events,eVar37'; 			        	s.linkTrackEvents = 'event37'; 			    		s.eVar37 = 'Comment:Report Abuse'; 			        	s.events = 'event37'; 			            s.tl(true, 'o', 'Comment report abuse'); 					} 					 				    window.setTimeout(function() { 					    loading_box.dialog("close"); 				    }, 3000); 				} 			}); 		}); 		 	    //make sure submit button is enabled onReady. 	    jQ('#newcommenting-form input[type=submit]' ).removeAttr('disabled');      	var newFormURL = window.location.protocol + '//' + window.location.host + window.location.pathname + '?#post-area';     	jQ('div#login-container form.post-your-comments').attr('action', newFormURL);      	jQ('div#signup-container input').click(function(){     		urlStack.clearUrlStack();     		urlStack.pushUrlOntoStack(newFormURL);     		document.location = 'http://users.guardian.co.uk/signup/tr/1,,-720,00.html';     	});           	    jQ('.recomended').show();          jQ('#newcommenting-form').submit(function(){             jQ('input[type=submit]', this).attr('disabled', 'disabled');         }); 	}); //end jQ ready  	function openAbuseBox(commentId) { 		jQ("#abuse-report-comment-id").val(commentId); 		var loading_box = jQ('<div class="report-form-loading">Loading</div>'); 		loading_box.dialog({ 			title:"Abuse report", 			draggable: false, 			modal:true, 			width:400, 			minHeight:320, 			resizable: false, 			beforeclose: function(event, ui) { 				var reason = jQ('textarea#id_reason').val(); 				if (reason != "") { 					return confirm("Closing this window without pressing \"Report\" will result in your words being lost. Are you sure?"); 				} else { 					return true; 				} 			} 		}); 	}  	function recommendComment(commentId) { 	    var post_url = "http://www.guardian.co.uk/discussion/handlers/recommendComment";	     	    post_url = fix_domain_for_careers(post_url); 	     		jQ.post(post_url, { comment_id: commentId }, function(data) { 			if (data == "OK") { 				var span = jQ("#recommended-count-" + commentId); 				span.prev('a').contents().unwrap(); 				span.text(parseInt(span.text(), 10)+1); 			} 			else { 				var span = jQ("#recommended-count-" + commentId); 				span.prev('a').contents().unwrap(); 			} 		}); 	} </p>
+<p> Jobs of the week </p>
+<p> Find the latest jobs in your sector: </p>
+<p> Arts & heritage </p>
+<p> Charities </p>
+<p> Education </p>
+<p> Environment </p>
+<p> Government </p>
+<p> Graduate </p>
+<p> Health </p>
+<p> Marketing & PR </p>
+<p> Media </p>
+<p> Sales </p>
+<p> Senior executive </p>
+<p> Social care </p>
+<p> Browse all jobs </p>
+<p> | </p>
+<p> .m-zeitgeist .hd { margin-bottom: 0; padding-bottom: 0px; min-height:28px; }   .m-zeitgeist .hd h2 { margin-bottom: 0 !important; }   .m-zeitgeist #att-toggle { background-color: #ededed; float: left; padding-bottom: 10px; }   .m-zeitgeist #att-panes { background-color: #fff; float: left; margin: 0 10px 10px 10px; }   .m-zeitgeist .att-toggle-pane { min-width: 280px; }   .m-zeitgeist .tabs { margin-right: 10px !important; }    .m-zeitgeist ol { padding: 0 5px; }   .m-zeitgeist #most-zeitgeist ol { padding-left: 0; }   .m-zeitgeist .zg-date { color: #D61D00; padding-left:5px; padding-top: 5px; }   .m-zeitgeist ol li { clear: both; padding-left: 15px; }   .m-zeitgeist div#att-most-viewed ol li.l1,   .m-zeitgeist div#att-latest ol li.l1 { padding-bottom: 9px !important; }   .m-zeitgeist ol li.footer { clear: both; padding-left: 0px !important; padding-top: 5px !important; }   .m-zeitgeist .rank { float: left; margin-left: -15px; }   .m-zeitgeist ol li.thumb { padding-left: 0; }   .m-zeitgeist ol li.thumb .rank { margin-left: 0; }   .m-zeitgeist ol li img { float: left; margin: 0 10px 3px 0; }    .m-zeitgeist #most-zeitgeist ol li { border-top: none; padding: 0; border-top: none; }     .m-zeitgeist #most-zeitgeist ol li .zeit-link {background-color: #fff; padding: 5px 0 9px 5px; border-top: 1px dotted #999; margin-bottom: 0px;  }     .m-zeitgeist #most-zeitgeist ol li.footer { border-top:1px dotted #999; padding: 5px 0 9px 10px; margin-left: 5px }   	.m-zeitgeist #most-zeitgeist .m-zeigeist ol { padding-left: 0}    /* zeit-up */   .m-zeitgeist #most-zeitgeist .what-is { float: none; padding: 0 3px; vertical-align: middle; cursor: pointer; }   .about-zeit { position: relative; }   .zeit-popup { position: absolute; display: none; background-color: #dbedf3; color: #333; padding: 6px; width: 200px; }          .fade-1 { border-left: 5px solid #0061A6 !important;} .fade-2 { border-left: 5px solid #2A7BB4 !important;} .fade-3 { border-left: 5px solid #5495C2 !important;} .fade-4 { border-left: 5px solid #7EAFD0 !important;} .fade-5 { border-left: 5px solid #A8C9DE !important;}  .m-zeitgeist div.hd { padding-bottom: 0; } .m-zeitgeist.most-viewed div.hd { padding-bottom: 7px; } </p>
+<p> jQ(function($){$('.about-zeit').each(function(){var distance=-10;var time=250;var hideDelay=500;var hideDelayTimer=null;var beingShown=false;var shown=false;var trigger=$('.what-is',this);var info=$('.zeit-popup',this).css('opacity',0);$([trigger.get(0),info.get(0)]).mouseover(function(){if(hideDelayTimer)clearTimeout(hideDelayTimer);if(beingShown||shown){return;}else{beingShown=true;info.css({top:-97,right:0,display:'block'}).animate({top:'-='+distance+'px',opacity:1},time,'swing',function(){beingShown=false;shown=true;});}return false;}).mouseout(function(){if(hideDelayTimer)clearTimeout(hideDelayTimer);hideDelayTimer=setTimeout(function(){hideDelayTimer=null;info.animate({top:'-='+distance+'px',opacity:0},time,'swing',function(){shown=false;info.css('display','none');});},hideDelay);return false;});});}); </p>
+<p> On Social Care Network </p>
+<p> Most viewed </p>
+<p> Zeitgeist </p>
+<p> Latest </p>
+<p> Last 24 hours </p>
+<p> 1. </p>
+<p> Are personal budgets really the way ahead for social care? </p>
+<p> 2. </p>
+<p> A thousand social care workers to transfer to NHS </p>
+<p> 3. </p>
+<p> Government refutes claim the elderly will pay £60,000 for care </p>
+<p> 4. </p>
+<p> Is the care system failing older people? </p>
+<p> 5. </p>
+<p> Walking and talking to resolve issues </p>
+<p> More most viewed </p>
+<p> Last 24 hours </p>
+<p> Are personal budgets really the way ahead for social care? </p>
+<p> A thousand social care workers to transfer to NHS </p>
+<p> Scotland leading way in integration </p>
+<p> Government refutes claim the elderly will pay £60,000 for care </p>
+<p> Health and social care - an unlikely merger </p>
+<p> More zeitgeist </p>
+<p> What is Zeitgeist? </p>
+<p> Zeitgeist is an experiment in showing trending news, topics and articles from the Guardian. Find out more in </p>
+<p> our blog post </p>
+<p> . </p>
+<p> Last 24 hours </p>
+<p> 1. </p>
+<p> Are personal budgets really the way ahead for social care? </p>
+<p> 2. </p>
+<p> A thousand social care workers to transfer to NHS </p>
+<p> 3. </p>
+<p> Government refutes claim the elderly will pay £60,000 for care </p>
+<p> 4. </p>
+<p> Is the care system failing older people? </p>
+<p> 5. </p>
+<p> Walking and talking to resolve issues </p>
+<p> All today's stories </p>
+<p> Social care from the Guardian </p>
+<p> Tweets from Guardian sections and writers </p>
+<p> SocietyGuardian: </p>
+<p> Social work's Baby Peter blame game confronted in new play </p>
+<p> http://t.co/RN4ryyQ1 </p>
+<p> about 5 minutes ago </p>
+<p> GdnSocialCare: </p>
+<p> Guardian Society: Social work's Baby Peter blame game confronted in new play </p>
+<p> http://t.co/VIw77Xmj </p>
+<p> #gdnsc </p>
+<p> about 21 minutes ago </p>
+<p> GdnSocialCare: </p>
+<p> Guardian Society: Social work's Baby Peter blame game confronted in new play </p>
+<p> http://t.co/STos8uk7 </p>
+<p> #gdnsc </p>
+<p> about 25 minutes ago </p>
+<p> GdnSocialCare: </p>
+<p> On news that 1000 social workers to be transferred to </p>
+<p> #NHS, </p>
+<p> one commenter says "Good luck... a dangerously risky route" </p>
+<p> http://t.co/KoOCpai3 </p>
+<p> about 1 hour, 12 minutes ago </p>
+<p> More social care coverage from the Guardian </p>
+<p> Related information </p>
+<p> Social care network </p>
+<p> Adult </p>
+<p> · </p>
+<p> Policy </p>
+<p> · </p>
+<p> England </p>
+<p> Healthcare Network </p>
+<p> Social care </p>
+<p> Health and social care - an unlikely merger </p>
+<p> 10 Jan 2012 </p>
+<p> The government wants greater integration between health and social care, apparently, but little thought has been given as to how this will be achieved, says Bob Hudson </p>
+<p> 27 Sep 2011 </p>
+<p> Despite Dilnot, care home providers get squeezed on fees </p>
+<p> 15 Nov 2011 </p>
+<p> Wales' health plan emphasises social care </p>
+<p> 12 Oct 2011 </p>
+<p> A longer view of Winterbourne View </p>
+<p> 20 Oct 2011 </p>
+<p> Some councils guilty of 'hopeless short termism', says Burstow </p>
+<p> Integration is notoriously difficult to achieve </p>
+<p> 5 Jan 2012 </p>
+<p> Integrating health and social care in England has long been an aspiration but tribal rivalry and issues over funding have made it a rare achievement </p>
+<p> On this site </p>
+<p> A-Z </p>
+<p> Advertising </p>
+<p> Become a member </p>
+<p> Contact us </p>
+<p> Adult </p>
+<p> Children </p>
+<p> Strategy </p>
+<p> Career </p>
+<p> Work practices </p>
+<p> England </p>
+<p> Scotland </p>
+<p> Wales </p>
+<p> Northern Ireland </p>
+<p> International </p>
+<p> License/buy our content </p>
+<p> | </p>
+<p> Privacy policy </p>
+<p> | </p>
+<p> Terms & conditions </p>
+<p> | </p>
+<p> Advertising guide </p>
+<p> | </p>
+<p> Accessibility </p>
+<p> | </p>
+<p> A-Z index </p>
+<p> | </p>
+<p> Inside the Guardian blog </p>
+<p> | </p>
+<p> About us </p>
+<p> | </p>
+<p> Work for us </p>
+<p> | </p>
+<p> Join our dating site today </p>
+<p> © 2012 Guardian News and Media Limited or its affiliated companies. All rights reserved. </p>
+<p> //<![CDATA[ 	if(true) { 		var s_account="guardiangu-jobs,guardiangu-socialcare,guardiangu-network"; 		writeScript('http://static.guim.co.uk/static/534a025fbd5b6ca3cafea5df66abf4d49b01b6fd/common/scripts/omniture-H.22.4.js', false, function(){}); 	} 	//]]> </p>
+<p> //<![CDATA[ 	if(true) { 		if (false) { 		    s.pageName = document.title; 		} else { 			s.pageName="Government refutes claim the elderly will pay *60,000 for care:Article:1688979"; 		} 		s.channel = "Social care network"; 		s.pageType=""; 		s.server='52'; 		s.prop2='GUID:(none)';  					s['prop3']="Guardian Professional"; 					s['prop4']="PRO: Social care network,PRO: Adult (Social care network),PRO: Policy (social care network),PRO: England (Social care network),PRO: Social care (Healthcare network)"; 					s['prop5']="Unclassified,Not commercially useful"; 					s['prop6']="Jo Adetunji"; 					s['prop7']="12-Jan-16"; 					s['prop8']="1688979"; 					s['prop9']="Article"; 					s['prop10']="News"; 					s['prop11']="Social care network"; 					s['prop13']=""; 					s['prop25']=""; 					s['prop30']="content"; 		 		s.hier2="GU/Social care network/Adult"; 		s.events=""; 		s.eVar23="";  		try { 			if (guardian.r2.OmnitureTrackingOverride) { 				new guardian.r2.OmnitureTrackingOverride(s); 			} 		} 		catch(err) { 		}          if(jQ.cookie("GU_OMNITURE") !== null) {             s.events = jQ.cookie("GU_OMNITURE");             jQ.cookie("GU_OMNITURE", null, { path: '/', domain: '.guardian.co.uk'});         }          var s_code=s.t();if(s_code)document.write(s_code); 	} 	//]]> </p>
+<p> var _qevents = _qevents || []; 		(function() { 			var elem = document.createElement('script');  			elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js"; 			elem.async = true; 			elem.type = "text/javascript"; 			var scpt = document.getElementsByTagName('script')[0]; 			scpt.parentNode.insertBefore(elem, scpt); 		})(); 		_qevents.push( { qacct:'p-73ktnlRTKQPTw', labels: 'social-care-network'} ); </p>
+<p> var qcResults = function (result) { 				for (var i = 0, len = result.segments.length; i < len; i++) { 					OAS_query += 'qc=' + result.segments[i].id + '&'; 				} 			} </p>
+<p> if (true) {     jQ(document).ready(function () {         jQ('a[data-cpt]').each(             function () {             jQ(this).click(                 function () {                 var cpId = jQ(this).attr('data-cpt').split("-")[1];                 var currentLink = jQ(this).attr('href');                  if (currentLink.indexOf('intcmp=') == -1) {                     if(currentLink.indexOf('?') == -1) {                         var separator = '?'                     } else {                         var separator = '&'                     }                      jQ(this).attr('href', currentLink + separator + "intcmp=" + cpId);                 }             });         });     }); } </p>
+<p> //<![CDATA[ 	if (false) {         // guardian.co.uk Connect Adprobe Tag, MPU [9814], Leaderboard [9815]         var wlOrd = new Date().getTime();         document.write('<scr' + 'ipt type="text/javascript" src="http://req.connect.wunderloop.net/AP/1566/5823/9815/js?cus=9815,9814&ord=' + wlOrd + '"></sc' + 'ript>'); 	} // ]]> </p>
+<p> //<![CDATA[ 	if (false) {         OAS_query += 'wl9815=' + wl9815camp + '&wl9814=' + wl9814camp + '&'; 	} // ]]> </p>
+<p> //<![CDATA[  	if(true) { 		ensurePackage("guardian.r2.revsci");  		guardian.r2.revsci.cookieDomain = '.guardian.co.uk'; 		guardian.r2.revsci.gu_geo_country = '(none)'; 		guardian.r2.revsci.siteName = 'Social care network'; 					guardian.r2.revsci.commercialFolder = 'Global+%28temp+commercial%29' 				 		addEvent(null, 'load', function () { 			writeScript('http://js.revsci.net/gateway/gw.js?csid=E05516', true, function() { 				writeScript('http://static.guim.co.uk/static/894d5be2fd27175b6273c0b4d3966c55a95bac8a/common/scripts/revsci.js', true, function() { 					rs_initTracking(); 				}) 			}) 		}); 	}  	// ]]> </p>
+<p> //<![CDATA[ 											function OAS_NORMAL(pos) { 							document.write('<A HREF="' + OAS_url + 'click_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + pos + '!' + pos + '?' + OAS_query + '" TARGET=' + OAS_target + '>'); 							document.write('<IMG SRC="' + OAS_url + 'adstream_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + pos + '!' + pos + '?' + OAS_query + '" BORDER=0></A>'); 						}  						OAS_version = 11; 						if ((navigator.userAgent.indexOf('Mozilla/3') != -1) || (navigator.userAgent.indexOf('Mozilla/4.0 WebTV') != -1)) OAS_version = 10;                          if (true) {                             if (OAS_version >= 11) document.write('<scr' + 'ipt src="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/script>');                         }  						function OAS_AD(pos) {                             if (true) {                                 if (typeof(OAS_RICH) !== 'undefined' && OAS_version >= 11) {                                     OAS_RICH(pos);                                 } else {                                     OAS_NORMAL(pos);                                 }                             } 						} 					 				//]]> </p>
+<p> //<![CDATA[                 jQ('#ad-placeholder-Top').writeCapture().replaceWith('<script>OAS_AD("Top")<' + '/script>');                 //]]> </p>
+<p> jQ('#ad-temp-Top').hide(); </p>
+<p> //<![CDATA[                 jQ('#ad-placeholder-Middle2').writeCapture().replaceWith('<script>OAS_AD("Middle2")<' + '/script>');                 //]]> </p>
+<p> jQ('#ad-temp-Middle2').hide(); </p>
+<p> //<![CDATA[                 jQ('#ad-placeholder-Middle1').writeCapture().replaceWith('<script>OAS_AD("Middle1")<' + '/script>');                 //]]> </p>
+<p> jQ('#ad-temp-Middle1').hide(); </p>
+<p> //<![CDATA[                 jQ('#ad-placeholder-x11').writeCapture().replaceWith('<script>OAS_AD("x11")<' + '/script>');                 //]]> </p>
+<p> jQ('#ad-temp-x11').hide(); </p>
+<p> //<![CDATA[                 jQ('#ad-placeholder-x12').writeCapture().replaceWith('<script>OAS_AD("x12")<' + '/script>');                 //]]> </p>
+<p> jQ('#ad-temp-x12').hide(); </p>
+<p> //<![CDATA[                 jQ('#ad-placeholder-x13').writeCapture().replaceWith('<script>OAS_AD("x13")<' + '/script>');                 //]]> </p>
+<p> jQ('#ad-temp-x13').hide(); </p>
+<p> //<![CDATA[                 jQ('#ad-placeholder-x14').writeCapture().replaceWith('<script>OAS_AD("x14")<' + '/script>');                 //]]> </p>
+<p> jQ('#ad-temp-x14').hide(); </p>
+<p> ensurePackage('guardian.r2.omniture');   guardian.r2.omniture.trackComponents = true; </p>
+<p> //	<![CDATA[ 	if(true) {         var OAS_taxonomy='&Paneled_Site=guardian.co.uk&Paneled_Section=social-care-network'; 		jQ(document).ready(function(){ 			jQ.getScript('http://static.guim.co.uk/static/894d5be2fd27175b6273c0b4d3966c55a95bac8a/common/scripts/kantarmedia.js'); 		}); 	} 	// ]]> </p>
+<p> if(true) {         		jQ(function() { 		  if ('undefined' !== typeof MatchingEngine) { 		    MatchingEngine.logEvent('article', 'id=http://www.guardian.co.uk/social-care-network/2012/jan/16/care-minister-paul-burstow-cap'); 		  } 		}); 	} </p>
+<p> if (true) {         var _sf_async_config = {};         /** CONFIGURATION START **/         _sf_async_config.uid = 30676;         _sf_async_config.domain = document.domain;         _sf_async_config.sections = 'Social care network';         _sf_async_config.authors = 'Jo Adetunji';         _sf_async_config.useCanonical = true;         /** CONFIGURATION END **/         (function() {             function loadChartbeat() {                 window._sf_endpt = (new Date()).getTime();                 var e = document.createElement('script');                 e.setAttribute('language', 'javascript');                 e.setAttribute('type', 'text/javascript');                 e.setAttribute('src',                         (('https:' == document.location.protocol) ? 'https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/' : 'http://static.chartbeat.com/') +                                 'js/chartbeat.js');                 document.body.appendChild(e);             }              var oldonload = window.onload;             window.onload = (typeof window.onload != 'function') ?                     loadChartbeat : function() {                 oldonload();                 loadChartbeat();             };         })();     } </p>

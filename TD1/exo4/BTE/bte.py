@@ -8,7 +8,7 @@ def bte_treatement(input_file, output_file):
 
 
 def main():
-    extract("../../../../resources/html/", "../../../../resources/BTE/", bte_treatement)
+    extract("../../../resources/html/", "../../../resources/BTE/", bte_treatement)
 
 if __name__ == '__main__':
     main()

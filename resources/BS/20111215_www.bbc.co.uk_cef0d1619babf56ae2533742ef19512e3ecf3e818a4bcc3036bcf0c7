@@ -1,0 +1,386 @@
+<p> BBC News - Global malaria death toll falling </p>
+<p> if (! window.gloader) { window.gloader = [ "glow", {map: "http://node1.bbcimg.co.uk/glow/glow/map.1.7.7.js"}]; } </p>
+<p> bbcRequireMap = {"jquery-1":"http://static.bbc.co.uk/frameworks/jquery/0.1.8/sharedmodules/jquery-1.6.2", "jquery-1.4":"http://static.bbc.co.uk/frameworks/jquery/0.1.8/sharedmodules/jquery-1.4", "swfobject-2":"http://static.bbc.co.uk/frameworks/swfobject/0.1.3/sharedmodules/swfobject-2", "demi-1":"http://static.bbc.co.uk/frameworks/demi/0.9.0/sharedmodules/demi-1", "gelui-1":"http://static.bbc.co.uk/frameworks/gelui/0.9.3/sharedmodules/gelui-1", "cssp!gelui-1/overlay":"http://static.bbc.co.uk/frameworks/gelui/0.9.3/sharedmodules/gelui-1/overlay.css", "istats-1":"http://static.bbc.co.uk/frameworks/istats/0.6.3/modules/istats-1", "relay-1":"http://static.bbc.co.uk/frameworks/relay/0.0.13/sharedmodules/relay-1", "clock-1":"http://static.bbc.co.uk/frameworks/clock/0.1.5/sharedmodules/clock-1", "canvas-clock-1":"http://static.bbc.co.uk/frameworks/clock/0.1.5/sharedmodules/canvas-clock-1", "cssp!clock-1":"http://static.bbc.co.uk/frameworks/clock/0.1.5/sharedmodules/clock-1.css", "jssignals-1":"http://static.bbc.co.uk/frameworks/jssignals/0.3.2/modules/jssignals-1", "jcarousel-1":"http://static.bbc.co.uk/frameworks/jcarousel/0.1.6/modules/jcarousel-1"}; require({ baseUrl: 'http://static.bbc.co.uk/', paths: bbcRequireMap, waitSeconds: 30 }); </p>
+<p> blq.setEnvironment('live');  if (blq.setLabel) blq.setLabel('searchSuggestion', "Search"); </p>
+<p> if(typeof(bbcdotcom) == "undefined") bbcdotcom = {}; </p>
+<p> /*<![CDATA[*/ gloader.load(["glow","1","glow.dom"],{onLoad:function(glow){glow.dom.get("html").addClass("blq-js")}}); gloader.load(["glow","1","glow.dom"],{onLoad:function(glow){glow.ready(function(){if (glow.env.gecko){var gv = glow.env.version.split(".");for (var i=gv.length;i<4;i++){gv[i]=0;}if((gv[0]==1 && gv[1]==9 && gv[2]==0)||(gv[0]==1 && gv[1]<9)||(gv[0]<1)){glow.dom.get("body").addClass("firefox-older-than-3-5");}}});}});  window.disableFacebookSDK=true; if (window.location.pathname.indexOf('+')>=0){window.disableFacebookSDK=true;}  /*]]>*/ </p>
+<p> <!-- 	bbc.fmtj.page = { 		serverTime: 1323974194000, 		editionToServe: 'international', 		queryString: null, 		referrer: null, 		section: 'health', 		sectionPath: '/Health', 		siteName: 'BBC News', 		siteToServe: 'news', 		siteVersion: 'cream', 		storyId: '16161907', 		assetType: 'correspondent_story', 		uri: '/news/health-16161907', 		country: 'fr', 		masthead: false, 		adKeyword: null, 		templateVersion: 'v1_0' 	} --> </p>
+<p> $useMap({map:"http://news.bbcimg.co.uk/js/map/map_0_0_29.js"}); </p>
+<p> $loadView("0.0",["bbc.fmtj.view"]); </p>
+<p> $render("livestats-heatmap"); </p>
+<p> //<![CDATA[         require(['jquery-1'], function($){                          // set up EMP once it's loaded             var setUp = function(){                 // use our own pop out page         	    embeddedMedia.setPopoutUrl('/player/emp/2_0_29/popout/pop.stm');          	    // store EMP's notifyParent function         	    var oldNotifyParent = embeddedMedia.console.notifyParent;         	    // use our own to add livestats to popout         	    embeddedMedia.console.notifyParent = function(childWin){         	        oldNotifyParent(childWin);         	        // create new live stats url                     var liveStatsUrl = bbc.fmtj.av.emp.liveStatsForPopout($('#livestats').attr('src'));                     var webBug = $('<img />', {                                      id:  'livestats',                                      src: liveStatsUrl                                  });                     // append it to popout                     $(childWin.document).find('body').append(webBug);                 }             }                              // check if console is available to manipulate             if(window.embeddedMedia && window.embeddedMedia.console){                 setUp();             }             // otherwise emp is still loading, so add event listener             else{                 $(document).bind('empReady', function(){                     setUp();                 });             }         });     //]]> </p>
+<p> //<![CDATA[         gloader.load(['glow', '1', 'glow.dom']);     //]]> </p>
+<p> //<![CDATA[ 	     	 	     	         	     	 	     	         	     	 	    // set site specific config 	     	        bbc.fmtj.av.emp.configs.push('news'); 	     	     	    // when page loaded, write all created emps 	    glow.ready(function(){ 			if(typeof bbcdotcom !== 'undefined' && bbcdotcom.av && bbcdotcom.av.emp){ 				bbcdotcom.av.emp.configureAll(); 			} 			embeddedMedia.each(function(emp){ 				emp.set('enable3G', true); 			}); 			embeddedMedia.writeAll(); 	        // mark the emps as loaded 	        bbc.fmtj.av.emp.loaded = true; 	    }); 	//]]> </p>
+<p> $loadView("0.0",["bbc.fmtj.view.news.story"]); </p>
+<p> /*<![CDATA[*/ 	if(typeof BBC === 'undefined') var BBC = {}; 	BBC.adverts = {setZone: function(){}, configure: function(){}, write: function(){}, show: function(){}};      window.bbcdotcom={};     bbcdotcom.createObject = function(namespace){         var names   = namespace.split('.'),             next    = '',             i       = 0,             len     = names.length;         for(i; i < len; i++){             if('' !== next) {             	next = ("object" === typeof next[names[i]]) ? next[names[i]] : next[names[i]] = {};             } else {             	next = ("object" === typeof window[names[i]]) ? window[names[i]] : window[names[i]] = {};         	}         }     } /*]]>*/ </p>
+<p> /*<![CDATA[*/ 	(function(){  		var fiddleredition = '(none)'; 		var url = '/news/health-16161907'; 		switch('/news/health-16161907') { 			case "/": 			case "/default.stm": 				url = (fiddleredition === "domestic") ? "/1/hi/default.stm" : "/2/hi/default.stm"; 				break; 			case "/sport": 			case "/sport/": 			case "/sport/default.stm": 				url = (fiddleredition === "domestic") ? "/sport1/hi/default.stm" : "/sport2/hi/default.stm"; 				break; 		};  		var zone = "3pt_zone_file", 			zoneOverride = false;  		  		if(/[?|&]zone=((?!preview)\w*\/*\w+)(&|$)/.test(window.location.search)) { 			zone = RegExp.$1; 		};  		if(/[?|&]zone=(http:\/\/.+(\.bbc\.co\.uk\/){1}.*(bbccom){1}.*\.js)(&|$)/.test(window.location.search)) { 			if (RegExp.$1.indexOf("/../") === -1) { 				zone = RegExp.$1; 				zoneOverride = true; 			}; 		};   	BBC.adverts.setScriptRoot("http://news.bbcimg.co.uk/js/app/bbccom/0.3.92/");   		BBC.adverts.init({ 			domain: "www.bbc.co.uk", 			location: url, 			zoneVersion: zone, 			zoneOverride: zoneOverride, 			zoneReferrer: document.referrer 		});  	})();  	if(BBC.adverts.getNewsGvl3()) { 		 			document.write('<script language="JavaScript" src="http://news.bbcimg.co.uk/js/app/bbccom/0.3.92/advert.js"><\/script>'); 		    	}  /*]]>*/ </p>
+<p> if(BBC.adverts){ 		BBC.adverts.setPageVersion('(none)'); 	} </p>
+<p> blq.setLabel('searchSuggestion', 'Search BBC News'); blq.externalGoTrackingConfig = { 	".story-body a":"{path}/ext/story-body/{dir}", 	".story-related .related-links a":"{path}/ext/related-links/{dir}", 	".story-related .newstracker-list a":"{path}/ext/newstracker/{dir}" } </p>
+<p> //<![CDATA[     window.bbcFlagpoles_istats = "ON";     window.istatsTrackingUrl   = '//sa.bbc.co.uk/bbc/bbc/s?name=news.health.correspondent_story.16161907.page&cps_asset_id=16161907&page_type=correspondent_story&section=health&app_version=6.2.66-RC5&first_pub=2011-12-13T13:14:55+00:00&last_editorial_update=2011-12-13T13:14:55+00:00&title=Global+malaria+death+toll+falling&comments_box=true&cps_media_type=&cps_media_state=&app_type=web&ml_name=SSI&ml_version=0.6.3&language=en-GB';  // ]]> </p>
+<p> // <![CDATA[ (function() {     var cookieDisabled = (document.cookie.indexOf('NO-SA=') != -1),         hasCookieLabels = (document.cookie.indexOf('sa_labels=') != -1),         hasClickThrough = /^#sa-(.*?)(?:-sa(.*))?$/.test(document.location.hash),         runSitestat;      runSitestat = !cookieDisabled && !hasCookieLabels && !hasClickThrough;      if (runSitestat && bbcFlagpoles_istats === 'ON') {         sitestat(istatsTrackingUrl);     }      function sitestat(n){var j=document,f=j.location,b="";if(j.cookie.indexOf("st_ux=")!=-1){var k=j.cookie.split(";");var e="st_ux",h=document.domain,a="/";if(typeof ns_!="undefined"&&typeof ns_.ux!="undefined"){e=ns_.ux.cName||e;h=ns_.ux.cDomain||h;a=ns_.ux.cPath||a}for(var g=0,f=k.length;g<f;g++){var m=k[g].indexOf("st_ux=");if(m!=-1){b="&"+unescape(k[g].substring(m+6))}}document.cookie=e+"=; expires="+new Date(new Date().getTime()-60).toGMTString()+"; path="+a+"; domain="+h}ns_pixelUrl=n;n=ns_pixelUrl+"&ns__t="+(new Date().getTime())+"&ns_c="+((j.characterSet)?j.characterSet:j.defaultCharset)+"&ns_ti="+escape(j.title)+b+"&ns_jspageurl="+escape(f&&f.href?f.href:j.URL)+"&ns_referrer="+escape(j.referrer);if(n.length>2000&&n.lastIndexOf("&")){n=n.substring(0,n.lastIndexOf("&")+1)+"ns_cut="+n.substring(n.lastIndexOf("&")+1,n.lastIndexOf("=")).substring(0,40)}(j.images)?new Image().src=n:j.write('<p><i'+'mg src="'+n+'" height="1" width="1" alt="" /></p>')}; })(); // ]]> </p>
+<p> BBC </p>
+<p> Accessibility links </p>
+<p> Skip to content </p>
+<p> Skip to local navigation </p>
+<p> Skip to bbc.co.uk navigation </p>
+<p> Skip to bbc.co.uk search </p>
+<p> Help </p>
+<p> Accessibility Help </p>
+<p> Health </p>
+<p> $render("advert","advert-sponsor-section"); </p>
+<p> $render("advert-post-script-load"); </p>
+<p> Home </p>
+<p> UK </p>
+<p> Africa </p>
+<p> Asia </p>
+<p> Europe </p>
+<p> Latin America </p>
+<p> Mid-East </p>
+<p> US & Canada </p>
+<p> Business </p>
+<p> Health </p>
+<p> Sci/Environment </p>
+<p> Tech </p>
+<p> Entertainment </p>
+<p> Video </p>
+<p> $render("advert","advert-leaderboard"); </p>
+<p> $render("advert-post-script-load"); </p>
+<p> 13 December 2011 </p>
+<p> Last updated at </p>
+<p> 13:14 GMT </p>
+<p> Share this page </p>
+<p> Delicious </p>
+<p> Digg </p>
+<p> Facebook </p>
+<p> reddit </p>
+<p> StumbleUpon </p>
+<p> Twitter </p>
+<p> Email </p>
+<p> Print </p>
+<p> <!-- $render("page-bookmark-links","page-bookmark-links-head",{     useForgeShareTools:"true",     position:"top",     site:'News',      headline:'BBC News - Global malaria death toll falling',      storyId:'16161907',      sectionId:'99108',      url:'http://www.bbc.co.uk/news/health-16161907',      edition:'International' });  --> </p>
+<p> Article written by </p>
+<p> Fergus Walsh </p>
+<p> Medical correspondent </p>
+<p> More from Fergus </p>
+<p> Global malaria death toll falling </p>
+<p> Anopheles mosquitoes spread malaria </p>
+<p> Related Stories </p>
+<p> Malaria parasites 'resist drugs' </p>
+<p> Malaria vaccine trial raises hope </p>
+<p> We all like reports of dramatic medical and scientific breakthroughs but the reality is that most developments are incremental.  As a result, important issues can get overlooked. </p>
+<p> Take malaria.  Deaths from the parasitic infection - which is spread by the bites of infected mosquitoes - have been falling steadily since around 2004.  Only a few years ago it was said that the disease killed one child every 30 seconds.   I remember using this figure on a trip to Ghana in 2006.  By 2009 the estimate was down to one child dying every 45 seconds. </p>
+<p> "It is now more likely that malaria kills a child every sixty seconds," according to Dr Richard Cibulskis, the lead author of the </p>
+<p> World Malaria Report </p>
+<p> . </p>
+<p> He explained some statistical factors are at work here -  in part the fall is due to a downward revision in overall global childhood mortality. </p>
+<p> Updates in surveillance numbers in recent years has also led to a fall in the global estimate of cases.  Assessing the burden of malaria is not straightforward.  Many Africa countries do not have strong disease surveillance systems so cause of death data is not always well recorded.  This means that surveys and what are called 'verbal autopsies' - descriptions of symptoms given by parents - are sometimes used. </p>
+<p> Progress </p>
+<p> Despite difficulties in compiling the statistics, there is a clear, and welcome, downward trend in deaths.  It is estimated that malaria killed 655,000 people in 2010, compared to 800,000 in 2004. </p>
+<p> “ </p>
+<p> Start Quote </p>
+<p> When I began working in the malaria field in Africa we were fighting a losing battle.  Now all that has changed.” </p>
+<p> End Quote </p>
+<p> Dr Richard Cibulskis </p>
+<p> World Health Organization </p>
+<p> "It is remarkable progress," said Dr Cibulskis.  "When I began working in the malaria field in Africa we were fighting a losing battle.  Now all that has changed and the risk of dying from malaria has fallen by a third in a decade." </p>
+<p> The improvement is down to several factors. A total of 145 million long-lasting insecticide-treated nets were delivered to sub-Saharan Africa last year, a huge increase on 2009.   Spraying the walls of homes with insecticide is another effective means of reducing malaria. </p>
+<p> Once infected, it is vital that treatment begins quickly.  Rapid diagnostic tests are being increasingly used.  These detect the presence of malaria parasites in the blood, often via a simple finger-prick test. </p>
+<p> The use of artemisinin-based combination therapies has transformed the treatment of the disease in the past decade. </p>
+<p> Children who are seriously ill can make a dramatic and rapid recovery after just a couple of days of taking the drug. </p>
+<p> Drug-resistance </p>
+<p> There continue to be worrying signs of drug resistance, first confirmed on the Cambodia-Thailand border in 2009 and now suspected in Burma and Vietnam. </p>
+<p> To reduce the chances of drug resistance spreading it is vital that artemisinin-based treatments are giving in combination, and yet 25 countries - most in Africa - still allow the marketing of monotherapies.  The WHO says most of the manufacturers are in India. </p>
+<p> There are promising indications from trials of a vaccine against malaria, but this will be only part of the solution to tackling this preventable infection. </p>
+<p> There are concerns about the global funding of malaria control which is expected to peak at $2bn this year and fall to $1.5bn in 2015.  The UK government is notable among donors in that its support is pledged to increase in the coming years. </p>
+<p> Malaria remains a major public health threat.  Nine out of 10 deaths are in Africa and the vast majority are children under five. </p>
+<p> Four countries - Armenia, the United Arab Emirates, Morocco and Turkmenistan - have been certified free of malaria since 2007.  But around more than three billion people in around 100 countries remain at risk. The battle against malaria has a long way to go. </p>
+<p> Article written by Fergus Walsh </p>
+<p> Fergus Walsh </p>
+<p> Medical correspondent </p>
+<p> More from Fergus </p>
+<p> NHS-life sciences partnership </p>
+<p> 10:31 UK time, Monday, 5 December 2011 </p>
+<p> PM David Cameron has detailed his plans on accelerating drug development for NHS patients. But much of this work is already underway. </p>
+<p> Read full article </p>
+<p> More on This Story </p>
+<p> Related Stories </p>
+<p> Malaria parasites 'resist drugs' </p>
+<p> 29 MAY 2009 </p>
+<p> , </p>
+<p> WORLD NEWS AMERICA </p>
+<p> Malaria vaccine trial raises hope </p>
+<p> 18 OCTOBER 2011 </p>
+<p> , </p>
+<p> HEALTH </p>
+<p> $render("page-see-also","ID"); </p>
+<p> $render("page-newstracker","ID"); </p>
+<p> $render("page-related-items","ID"); </p>
+<p> (function(){ gloader.load( ["glow", "1", "glow.net"], { async: true, onLoad: function(glow) { glow.ready(function() { commentsParams = { version : '1.9.69', bbc_id_env : 'id.bbc.co.uk', base_non_secure_url : 'http://www.bbc.co.uk/modules/comments/', base_secure_url : 'https://ssl.bbc.co.uk/modules/comments/', ajax_load_url : 'http://www.bbc.co.uk/modules/comments/index/getcomments/', ajax_preview_url : 'https://ssl.bbc.co.uk/modules/comments/index/preview/', user_auth_url : 'http://www.bbc.co.uk/modules/comments/getauth/', translations_url : 'http://www.bbc.co.uk/modules/comments/getjstranslations/', items_per_page : 20, sort_order : 'Ascending', sort_by : 'Created', filter : 'none', current_page : 1, page_count : 1, comment_count : 14, site_name : 'newscommentsmodule', forum_id : '__CPS__16161907', title : 'Global malaria death toll falling', preset : 'discussion', parent_uri : 'http://www.bbc.co.uk/news/health-16161907', postFreq : 0, character_limit : 400, loc : 'en-GB', timezone : 'Europe/London', policy_uri : 'http://identity/policies/dna/adult', allow_not_signed_in_commenting : '', rtl : false, textarea_height : '16px' ,logged_in : false  };  glow.net.loadScript("http://static.bbc.co.uk/modules/comments/1.9.69/javascript/comments.js", { useCache : true }); }); } } ); })(); </p>
+<p> Comments </p>
+<p> Sign in </p>
+<p> or </p>
+<p> register </p>
+<p> to comment and rate comments. </p>
+<p> All posts are </p>
+<p> reactively-moderated </p>
+<p> and must obey the </p>
+<p> house rules </p>
+<p> . </p>
+<p> Join the discussion... </p>
+<p> Jump to comments pagination </p>
+<p> All Comments </p>
+<p> 14 </p>
+<p> Order by: </p>
+<p> Oldest First </p>
+<p> Highest Rated </p>
+<p> Lowest Rated </p>
+<p> rate this </p>
+<p> 0 </p>
+<p> rate this </p>
+<p> 0 </p>
+<p> Comment number </p>
+<p> 1. </p>
+<p> Sean </p>
+<p> 13th December 2011 - 14:10 </p>
+<p> Some data related to the continuing saga of resistance to anti-malarial drugs can be browsed on the WWARN website: </p>
+<p> http://www.wwarn.org/resistance </p>
+<p> Report this comment </p>
+<p> (Comment number 1) </p>
+<p> Link to this </p>
+<p> (Comment number 1) </p>
+<p> rate this </p>
+<p> 0 </p>
+<p> rate this </p>
+<p> 0 </p>
+<p> Comment number </p>
+<p> 2. </p>
+<p> MikeSimplex </p>
+<p> 13th December 2011 - 14:42 </p>
+<p> The drug resistance is a real concern, the climate changes will bring ever more human populus into contact with this terrible disease. </p>
+<p> There is no quick fix for this problem, and in this economy who wants to spend R&D money on it? Only philanthropy on a grand scale may have enough of a chance to make a real difference. </p>
+<p> Bill Gates, the world needs your cash! </p>
+<p> Report this comment </p>
+<p> (Comment number 2) </p>
+<p> Link to this </p>
+<p> (Comment number 2) </p>
+<p> rate this </p>
+<p> +1 </p>
+<p> rate this </p>
+<p> +1 </p>
+<p> Comment number </p>
+<p> 3. </p>
+<p> Unusualj </p>
+<p> 13th December 2011 - 14:44 </p>
+<p> It can only be hoped that the WHO warnings are noted & that steps are taken to address the going resistance.  To those who question the value of overseas aid this provides a great example of what can be achieved. Thank you Fergus. </p>
+<p> Report this comment </p>
+<p> (Comment number 3) </p>
+<p> Link to this </p>
+<p> (Comment number 3) </p>
+<p> rate this </p>
+<p> 0 </p>
+<p> rate this </p>
+<p> 0 </p>
+<p> Comment number </p>
+<p> 4. </p>
+<p> BluesBerry </p>
+<p> 13th December 2011 - 16:06 </p>
+<p> Malaria kills an average of about 250,000 children yearly in Nigeria; it kills more than HIV/AIDS & tuberculosis put together. It also kills a lot of pregnant women. In fact, 11% of death in these women results from  malaria fever & complications. In hospitals, you will see a great number of children suffering from what we call cerebral malaria, parasite entering the brain: It kills. </p>
+<p> Report this comment </p>
+<p> (Comment number 4) </p>
+<p> Link to this </p>
+<p> (Comment number 4) </p>
+<p> rate this </p>
+<p> 0 </p>
+<p> rate this </p>
+<p> 0 </p>
+<p> Comment number </p>
+<p> 5. </p>
+<p> BluesBerry </p>
+<p> 13th December 2011 - 16:17 </p>
+<p> In Nigeria commitment is pathetic. e.g. Last 2 years, population @ 157M, minimum required @ N20 billion. The Fed. Govt committed paltry N200 million. 2011 Appropriation is @ N600 million - not even enough for mosquito-treated nets. Donations are less 7% of requirements. </p>
+<p> Key problems: corruption, lack of political will, resources not properly utilised. </p>
+<p> Report this comment </p>
+<p> (Comment number 5) </p>
+<p> Link to this </p>
+<p> (Comment number 5) </p>
+<p> Comments 5 of 14 </p>
+<p> Show more </p>
+<p> This entry is now closed for comments </p>
+<p> Share this page </p>
+<p> Delicious </p>
+<p> Digg </p>
+<p> Facebook </p>
+<p> reddit </p>
+<p> StumbleUpon </p>
+<p> Twitter </p>
+<p> Email </p>
+<p> Print </p>
+<p> $render("advert","advert-sponsor-module","page-bookmark-links"); </p>
+<p> $render("advert-post-script-load"); </p>
+<p> <!-- $render("page-bookmark-links","page-bookmark-links-foot",{     useForgeShareTools:"true",     position:"bottom",     site:'News',      headline:'BBC News - Global malaria death toll falling',      storyId:'16161907',      sectionId:'99108',      url:'http://www.bbc.co.uk/news/health-16161907',      edition:'International' });  --> </p>
+<p> $render("advert","advert-google-adsense"); </p>
+<p> $render("advert-post-script-load"); </p>
+<p> $render("advert","advert-mpu-high"); </p>
+<p> $render("advert-post-script-load"); </p>
+<p> Top Stories </p>
+<p> US flag ceremony ends war in Iraq </p>
+<p> French call to downgrade UK first </p>
+<p> Military to provide 2012 security </p>
+<p> SS hit man begins jail term at 90 </p>
+<p> Chirac found guilty of corruption </p>
+<p> $render("range-top-stories","range-top-stories"); </p>
+<p> $render("advert","advert-mpu-low"); </p>
+<p> $render("advert-post-script-load"); </p>
+<p> Features & Analysis </p>
+<p> Charles's gifts </p>
+<p> Six things Dickens gave the modern world </p>
+<p> In pictures </p>
+<p> The art of rolling the perfect Cuban cigar </p>
+<p> Euro fault-line </p>
+<p> Robert Peston on the big banks keeping regulators awake at night </p>
+<p> Land revolt </p>
+<p> Inside the Chinese village gripped by civil disobedience </p>
+<p> $render("feature-generic","features"); </p>
+<p> Most Popular </p>
+<p> Shared </p>
+<p> 1: </p>
+<p> Banksy unveils church abuse work </p>
+<p> 2: </p>
+<p> US flag ceremony ends war in Iraq </p>
+<p> 3: </p>
+<p> Six things Dickens gave the modern world </p>
+<p> 4: </p>
+<p> Baby seal wanders into NZ home </p>
+<p> 5: </p>
+<p> How overseas jobs hit family life </p>
+<p> Read </p>
+<p> 1: </p>
+<p> French call to downgrade UK first </p>
+<p> 2: </p>
+<p> SS hit man begins jail term at 90 </p>
+<p> 3: </p>
+<p> Six things Dickens gave the modern world </p>
+<p> 4: </p>
+<p> US flag ceremony ends war in Iraq </p>
+<p> 5: </p>
+<p> Buble fans walk out over language </p>
+<p> 6: </p>
+<p> How overseas jobs hit family life </p>
+<p> 7: </p>
+<p> Banksy unveils church abuse work </p>
+<p> 8: </p>
+<p> 2012 security troops announced </p>
+<p> 9: </p>
+<p> Mandela spy cameras confiscated </p>
+<p> 10: </p>
+<p> Chirac found guilty of corruption </p>
+<p> Video/Audio </p>
+<p> 1: </p>
+<p> One-minute World News </p>
+<p> Watch </p>
+<p> 2: </p>
+<p> Worst NZ floods for ten years </p>
+<p> Watch </p>
+<p> 3: </p>
+<p> Inside China's 'protest village' </p>
+<p> Watch </p>
+<p> 4: </p>
+<p> I was drinking '10 bottles of wine a day' </p>
+<p> Watch </p>
+<p> 5: </p>
+<p> Toxic alcohol kills 143 in India </p>
+<p> Watch </p>
+<p> 6: </p>
+<p> Baby seal wanders into NZ home </p>
+<p> Watch </p>
+<p> 7: </p>
+<p> US flag ceremony ends war in Iraq </p>
+<p> Watch </p>
+<p> 8: </p>
+<p> Jackson daughter on that 'stupid' mask </p>
+<p> Watch </p>
+<p> 9: </p>
+<p> How do you solve hotel insomnia? </p>
+<p> Watch </p>
+<p> 10: </p>
+<p> Time unveils Person of the Year </p>
+<p> Watch </p>
+<p> $render("advert","advert-sponsor-module","range-most-popular","most-popular"); </p>
+<p> $render("advert-post-script-load"); </p>
+<p> $render("most-popular","most-popular"); </p>
+<p> Elsewhere on BBC News </p>
+<p> The right move? </p>
+<p> Why relocating abroad for work can involve making tough decisions that can affect the whole family </p>
+<p> $render("advert","advert-sponsor-module","hyper-promotional-content","the-right-move"); </p>
+<p> $render("advert-post-script-load"); </p>
+<p> $render("hyper-promotional-content","promotional-content"); </p>
+<p> $render("advert","advert-partner-button"); </p>
+<p> $render("advert-post-script-load"); </p>
+<p> Programmes </p>
+<p> Fast Track </p>
+<p> Watch </p>
+<p> Research suggests travelling causes sleep problems so how do you solve "hotel insomnia"? </p>
+<p> $render("advert","advert-sponsor-module","programme-breakout","fast-track"); </p>
+<p> $render("advert-post-script-load"); </p>
+<p> $render("container-programmes-promotion","container-programme-promotion"); </p>
+<p> Services </p>
+<p> News feeds </p>
+<p> Mobile </p>
+<p> Podcasts </p>
+<p> Alerts </p>
+<p> E-mail news </p>
+<p> About BBC News </p>
+<p> Editors' blog </p>
+<p> BBC College of Journalism </p>
+<p> News sources </p>
+<p> World Service Trust </p>
+<p> Mobile </p>
+<p> Search term: </p>
+<p> bbc.co.uk navigation </p>
+<p> News </p>
+<p> Sport </p>
+<p> Weather </p>
+<p> Travel </p>
+<p> TV </p>
+<p> Radio </p>
+<p> More </p>
+<p> CBBC </p>
+<p> CBeebies </p>
+<p> Comedy </p>
+<p> Food </p>
+<p> Health </p>
+<p> History </p>
+<p> Learning </p>
+<p> Music </p>
+<p> Science </p>
+<p> Nature </p>
+<p> Local </p>
+<p> Northern Ireland </p>
+<p> Scotland </p>
+<p> Wales </p>
+<p> Full A-Z </p>
+<p> of BBC sites </p>
+<p> BBC links </p>
+<p> About the BBC </p>
+<p> BBC Help </p>
+<p> Contact Us </p>
+<p> Accessibility Help </p>
+<p> Terms of Use </p>
+<p> Careers </p>
+<p> Privacy & Cookies </p>
+<p> Advertise With Us </p>
+<p> Ad Choices </p>
+<p> BBC © 2011 </p>
+<p> The BBC is not responsible for the content of external sites. Read more. </p>
+<p> This page is best viewed in an up-to-date web browser with style sheets (CSS) enabled. While you will be able to view the content of this page in your current browser, you will not be able to get the full visual experience. Please consider upgrading your browser software or enabling style sheets (CSS) if you are able to do so. </p>
+<p> bbcdotcom.stats = {     "adEnabled" : "yes",     "contentType" : "HTML",     "audience" : "fr" }; </p>
+<p> /*<![CDATA[*/ var adKeyword = document.getElementsByName('ad_keyword'); if('/news/uk-11767495' == window.location.pathname) {     J08781.DM_addEncToLoc("Section","Royal Wedding"); } else if (undefined != adKeyword[0]) {     J08781.DM_addEncToLoc("Section",adKeyword[0].content); } else if ("undefined" != typeof bbc &&     "undefined" != typeof bbc.fmtj &&     "undefined" != typeof bbc.fmtj.page &&     "undefined" != typeof bbc.fmtj.page.section) {         J08781.DM_addEncToLoc("Section", bbc.fmtj.page.section); } J08781.DM_tag(); /*]]>*/ </p>
+<p> var s_account = "bbcwglobalprod"; </p>
+<p> <!-- /* You may give each page an identifying name, server, and channel on the next lines. */  /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/ var s_code=scw.t();if(s_code)document.write(s_code)//--> </p>
+<p> <!-- if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-') //--> </p>
+<p> document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E")); </p>
+<p> COMSCORE.beacon({         c1:2,         c2:"6035051",         c3:"",         c4:"www.bbc.co.uk/news/health-16161907",         c5:"",         c6:"",         c15:""     }); </p>
+<p> (function(w, d) {          var a = function() {              var a = d.createElement('script');              a.type = 'text/javascript';              a.async = 'async';              a.src = '//' + ((w.location.protocol === 'https:') ? 's3.amazonaws.com/cdx-radar/' : 'radar.cedexis.com/') + '01-10271-radar10.min.js';              d.body.appendChild(a);          };          if (w.addEventListener) {              w.addEventListener('load', a, false);          } else if (w.attachEvent) {              w.attachEvent('onload', a);          }      }(window, document)); </p>
+<p> (function() {     var em = document.createElement('script'); em.type = 'text/javascript'; em.async = true;     em.src = ('https:' == document.location.protocol ? 'https://me-ssl' : 'http://me-cdn') + '.effectivemeasure.net/em.js';     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(em, s);   })(); </p>
+<p> if (typeof require !== 'undefined') { require(['istats-1'], function(istats){ istats.track('external', { region: document.getElementById('blq-main') }); istats.track('download', { region: document.getElementById('blq-main') }); }); } </p>
+<p> bbc.fmtj.common.removeNoScript({}); 	bbc.fmtj.common.tabs.createTabs({}); </p>

@@ -1,0 +1,288 @@
+<p> Health advice while on holiday | Stuff.co.nz </p>
+<p> var JavaScriptCSS = document.createElement('link');     JavaScriptCSS.setAttribute('href', 'http://static2.stuff.co.nz/1324267645/static/css/javascript.min.css');     JavaScriptCSS.setAttribute('rel', 'stylesheet');     JavaScriptCSS.setAttribute('type', 'text/css');     document.getElementsByTagName('head')[0].appendChild(JavaScriptCSS); </p>
+<p> #container { } </p>
+<p> //<![CDATA[ //Doubleclick var dartSite = "onl.stuff.marlboroughexpress"; var dartZone = "/news"; var dartEnv = "prod"; var dartCtype = "story"; var dartKeys = "kw=healthy;kw=HOLIDAY;kw=Emergency%20Department;kw=Free;kw=GP;kw=HEALTH;kw=MEDICAL;kw=Ministry;kw=Ministry%20of%20Health;kw=NATIONAL;kw=NURSE;kw=PHARMACY;kw=Phone;kw=clinic;kw=Injury"; var dartPid = "pid=6244541;"; //]]> </p>
+<p> Stuff </p>
+<p> | </p>
+<p> Trade Me </p>
+<p> | </p>
+<p> FindSomeone </p>
+<p> | </p>
+<p> Holiday Houses </p>
+<p> | </p>
+<p> Hotels & Motels </p>
+<p> | </p>
+<p> Treat Me </p>
+<p> | </p>
+<p> Weatherzone </p>
+<p> PushDartIframeAd('TOPSTRIP', null, 275, 23, '275x23'); </p>
+<p> PushDartJSAd('TOPPIXEL', null, 1, 1, '1x1'); </p>
+<p> Ad Feedback </p>
+<p> <!--  PushDartJSAd('TOPBANNER', 1, 760, 120, '760x120');  //--> </p>
+<p> Stuff Home </p>
+<p> Marlborough Express </p>
+<p> News </p>
+<p> Kia ora, </p>
+<p> Guest </p>
+<p> [ </p>
+<p> Settings </p>
+<p> ] [ </p>
+<p> Logout </p>
+<p> ] </p>
+<p> [ </p>
+<p> sign in </p>
+<p> ] </p>
+<p> Community papers </p>
+<p> Kaikoura </p>
+<p> Picton </p>
+<p> Your Marlborough </p>
+<p> Letters to the editor </p>
+<p> Opinion </p>
+<p> MP reports </p>
+<p> Cartoon </p>
+<p> National News </p>
+<p> World News </p>
+<p> Healthy number: 0800611116 </p>
+<p> Last updated 11:00 12/01/2012 </p>
+<p> Share </p>
+<p> Print </p>
+<p> Text Size </p>
+<p> 0 comments </p>
+<p> Relevant offers </p>
+<p> <!--  PushDartIframeAd('RELEVANTOFFER1', 14, 240, 65, '240x45');  //--> </p>
+<p> People from the Nelson-Marlborough area heading off on holiday are encouraged to take the Healthline number with them – just in case. </p>
+<p> Healthline – 0800611116 – is a telephone health advice line that can be called free from landlines and mobile phones. </p>
+<p> It is staffed 24 hours a day, seven days a week by registered nurses who can advise about the best thing to do when holiday accidents or illnesses occur. </p>
+<p> Depending on a person's symptoms, callers may be encouraged to seek medical treatment or be given advice on how they can manage a condition or minor injury. Occasionally, the nurse may refer you to be seen in the emergency department. </p>
+<p> Healthline nurses can also direct you to the nearest GP clinic or after-hours pharmacy. </p>
+<p> Healthline is funded by the Ministry of Health and provided under contract by Medibank Health Solutions. </p>
+<p> Last quarter more than 3200 calls to Healthline were made from the Nelson-Marlborough area, about 3 per cent of the national total. </p>
+<p> Ad Feedback </p>
+<p> <!--  PushDartJSAd('STORYBODY', 2, 300, 250, '300x250');  //--> </p>
+<p> - The Marlborough Express </p>
+<p> Next News story: </p>
+<p> Fast cars frighten residents </p>
+<p> Marlborough Express Homepage </p>
+<p> Sponsored links </p>
+<p> <!--  PushDartIframeAd('SPONSOREDLINK1', 12, 310, 16, '310x16');  //--> </p>
+<p> <!--  PushDartIframeAd('SPONSOREDLINK2', null, 310, 16, '310x16');  //--> </p>
+<p> <!--  PushDartIframeAd('SPONSOREDLINK3', null, 310, 16, '310x16');  //--> </p>
+<p> Share this page </p>
+<p> Email </p>
+<p> Facebook </p>
+<p> MySpace </p>
+<p> Digg </p>
+<p> StumbleUpon </p>
+<p> Delicious </p>
+<p> Reddit </p>
+<p> Linkedin </p>
+<p> Twitter </p>
+<p> 0 comments </p>
+<p> Post a comment </p>
+<p> Expand All </p>
+<p> Newest First </p>
+<p> Oldest First </p>
+<p> function clear_comment_info_msg() {         var comment_body_element = document.getElementById('comment_body');         var comment_body = comment_body_element.value;         comment_body_element.value = comment_body.replace(/^Maximum\sof\s1750\scharacters\s\(about\s300\swords\)/, '');       }       function check_comment_length() {         var comment_body_element = document.getElementById('comment_body');         var comment_body = comment_body_element.value;         if (comment_body.length > 1750) {           alert('Your comment must not exceed 1750 characters.');           comment_body_element.value = comment_body.substr(0, 1750);         }       }       function validate_comment() {           var chkd = document.getElementById('tnc_acceptance').checked;           if (!chkd) {               alert('You must accept the terms and conditions to post a comment.'); return false;           }           if (!document.getElementById('poster_name').value) {               alert('You must enter a name to post a comment.'); return false;           }           if (!Account.logged_in) {             if (!document.getElementById('poster_email').value.match(/^['A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}$/i)) {                 alert('You have not entered a valid email address. Please enter a valid address to post a comment.'); return false;             }           }           clear_comment_info_msg();           if (!document.getElementById('comment_body').value.match(/[\w]+/)) {               alert('You must enter a comment to post.'); return false;           }           return true;       } </p>
+<p> Post comment </p>
+<p> Name: </p>
+<p> Required </p>
+<p> Email: </p>
+<p> Required. Will not be published. </p>
+<p> Registration is </p>
+<p> not </p>
+<p> required to post a comment </p>
+<p> but if you </p>
+<p> sign in </p>
+<p> , you will not have to enter your details each time you comment. Registered members also have access to extra features. </p>
+<p> Create an account now </p>
+<p> . </p>
+<p> Maximum of 1750 characters (about 300 words) </p>
+<p> I have read and accepted the </p>
+<p> terms and conditions </p>
+<p> These comments are moderated. Your comment, if approved, may not appear immediately. Please direct any queries about comment moderation to the Opinion Editor at </p>
+<p> blogs@stuff.co.nz </p>
+<p> Ad Feedback </p>
+<p> <!--  PushDartJSAd('BOXSTRIP', null, 300, 60, '300x60');  //--> </p>
+<p> Ad Feedback </p>
+<p> <!--  PushDartJSAd('BOXSTRIP', null, 300, 60, '300x60');  //--> </p>
+<p> News Headlines </p>
+<p> RSS </p>
+<p> Maternity ward well-monitored </p>
+<p> Aim for trust to be self-sufficient </p>
+<p> Quiet earth a winner </p>
+<p> Healthy number: 0800611116 </p>
+<p> Fast cars frighten residents </p>
+<p> Split allows wine claim to proceed </p>
+<p> Extreme fishing Sounds style </p>
+<p> Blenheim visitor finds some flaws </p>
+<p> Connect with us on Skype in 2012 </p>
+<p> Rat hunter heads to the islands </p>
+<p> Desperate for volunteers </p>
+<p> Christmas sales rise welcomed </p>
+<p> Project gives robin numbers a boost </p>
+<p> Whales closer to shore </p>
+<p> Ad Feedback </p>
+<p> <!--  PushDartJSAd('SECTIONTOPRIGHT', 2, 300, 600, '300x250,160x600,300x600');  //--> </p>
+<p> Marlborough Express Headlines </p>
+<p> RSS </p>
+<p> Reverend recovers from fall </p>
+<p> Trophy crayfish fine; expert </p>
+<p> Chainsaw accident in Sounds </p>
+<p> Views on agapanthus differ widely </p>
+<p> Working holiday for US firefighters </p>
+<p> Here's to your very good health </p>
+<p> Parking, driving & lifejackets </p>
+<p> Healthy number: 0800611116 </p>
+<p> Editorial: Give it up for the dogs </p>
+<p> Blenheim visitor finds some flaws </p>
+<p> Chance to drive Clarence </p>
+<p> Project gives robin numbers a boost </p>
+<p> Loitering youths at risk in town </p>
+<p> Booze-fuelled violence disgraceful </p>
+<p> Editorial: What price hope? </p>
+<p> Special offers </p>
+<p> <!--  PushDartIframeAd('SPECIALOFFER1', 15, 240, 65, '240X45');  //--> </p>
+<p> <!--  PushDartIframeAd('SPECIALOFFER2', 15, 240, 65, '240X45');  //--> </p>
+<p> <!--  PushDartIframeAd('SPECIALOFFER3', 15, 240, 65, '240X45');  //--> </p>
+<p> Most popular </p>
+<p> Viewed </p>
+<p> Shared </p>
+<p> Commented </p>
+<p> Trophy crayfish fine; expert </p>
+<p> Chainsaw accident in Sounds </p>
+<p> Black livery a high flier </p>
+<p> Marlborough denied victory </p>
+<p> No1 seed among several casualties </p>
+<p> Aim for trust to be self-sufficient </p>
+<p> Teach kids to take the plunge </p>
+<p> Rat hunter heads to the islands </p>
+<p> Maternity ward well-monitored </p>
+<p> Wairau eyeing spot in final </p>
+<p> Featured Promotions </p>
+<p> Sponsored Content </p>
+<p> <!--  PushDartJSAd('SPONSOREDCONTENT', null, 278, 200, '278x200');  //--> </p>
+<p> News </p>
+<p> Sport </p>
+<p> Rural </p>
+<p> Lifestyle </p>
+<p> Arts & Entertainment </p>
+<p> Blogs </p>
+<p> Events </p>
+<p> Contact Us </p>
+<p> Photo gallery </p>
+<p> Marlborough Express </p>
+<p> Contact Us </p>
+<p> Stuff.co.nz </p>
+<p> About Us </p>
+<p> | </p>
+<p> Contact Us </p>
+<p> | </p>
+<p> Mobile </p>
+<p> Subscribe </p>
+<p> Text </p>
+<p> | </p>
+<p> Follow us on Facebook and Twitter </p>
+<p> | </p>
+<p> Newspapers </p>
+<p> | </p>
+<p> Magazines </p>
+<p> Services </p>
+<p> Newspapers in Education </p>
+<p> | </p>
+<p> A-Z Directories </p>
+<p> | </p>
+<p> Online Advertising </p>
+<p> | </p>
+<p> Print Advertising </p>
+<p> | </p>
+<p> Careers </p>
+<p> Classifieds </p>
+<p> Trade Me </p>
+<p> | </p>
+<p> Jobs </p>
+<p> | </p>
+<p> Property </p>
+<p> | </p>
+<p> Motors </p>
+<p> | </p>
+<p> Marlborough Accommodation </p>
+<p> | </p>
+<p> Personals </p>
+<p> | </p>
+<p> Newspaper Classifieds </p>
+<p> Newspapers </p>
+<p> Dominion Post </p>
+<p> | </p>
+<p> The Press </p>
+<p> | </p>
+<p> Waikato Times </p>
+<p> | </p>
+<p> Auckland Now </p>
+<p> | </p>
+<p> Sunday News </p>
+<p> | </p>
+<p> Sunday Star-Times </p>
+<p> Marlborough Express </p>
+<p> | </p>
+<p> Manawatu Standard </p>
+<p> | </p>
+<p> Nelson Mail </p>
+<p> | </p>
+<p> Southland Times </p>
+<p> | </p>
+<p> Taranaki Daily News </p>
+<p> | </p>
+<p> Timaru Herald </p>
+<p> Other Sites </p>
+<p> Cuisine </p>
+<p> | </p>
+<p> NZ House & Garden </p>
+<p> | </p>
+<p> NZ Fishing News </p>
+<p> | </p>
+<p> NZ Life & Leisure </p>
+<p> | </p>
+<p> NZ Gardener </p>
+<p> | </p>
+<p> Fairfax Archives </p>
+<p> Breaking news? </p>
+<p> Send us your photos, videos and tip-offs: </p>
+<p> Email </p>
+<p> newstips@stuff.co.nz </p>
+<p> Phone </p>
+<p> 0800 697 8833 </p>
+<p> &copy 2012 </p>
+<p> Fairfax New Zealand Limited </p>
+<p> Privacy </p>
+<p> hideCboxLinks(); <!--  disableContextMenu(); /* Disable right click of elements such as images */   load_slider_most_pop();  /* Calls Jquery slider cyclers. Placed here to load before ads, */ /* used on section_story_tabbed (<-tabbed_section_landing [section layout tabbed-picture]) */ if(typeof call_cyclers == 'function') {   call_cyclers(); }  //--> </p>
+<p> if ( 0 < document.dcdAdsI.length ) {     document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 0 ] + '" src="' + document.dcdAdsU[ 0 ] + '"><\/script>'); } </p>
+<p> if ( 1 < document.dcdAdsI.length ) {     document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 1 ] + '" src="' + document.dcdAdsU[ 1 ] + '"><\/script>'); } </p>
+<p> if ( 2 < document.dcdAdsI.length ) {     document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 2 ] + '" src="' + document.dcdAdsU[ 2 ] + '"><\/script>'); } </p>
+<p> if ( 3 < document.dcdAdsI.length ) {     document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 3 ] + '" src="' + document.dcdAdsU[ 3 ] + '"><\/script>'); } </p>
+<p> if ( 4 < document.dcdAdsI.length ) {     document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 4 ] + '" src="' + document.dcdAdsU[ 4 ] + '"><\/script>'); } </p>
+<p> if ( 5 < document.dcdAdsI.length ) {     document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 5 ] + '" src="' + document.dcdAdsU[ 5 ] + '"><\/script>'); } </p>
+<p> if ( 6 < document.dcdAdsI.length ) {     document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 6 ] + '" src="' + document.dcdAdsU[ 6 ] + '"><\/script>'); } </p>
+<p> if ( 7 < document.dcdAdsI.length ) {     document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 7 ] + '" src="' + document.dcdAdsU[ 7 ] + '"><\/script>'); } </p>
+<p> if ( 8 < document.dcdAdsI.length ) {     document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 8 ] + '" src="' + document.dcdAdsU[ 8 ] + '"><\/script>'); } </p>
+<p> if ( 9 < document.dcdAdsI.length ) {     document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 9 ] + '" src="' + document.dcdAdsU[ 9 ] + '"><\/script>'); } </p>
+<p> if ( 10 < document.dcdAdsI.length ) {     document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 10 ] + '" src="' + document.dcdAdsU[ 10 ] + '"><\/script>'); } </p>
+<p> if ( 11 < document.dcdAdsI.length ) {     document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 11 ] + '" src="' + document.dcdAdsU[ 11 ] + '"><\/script>'); } </p>
+<p> if ( 12 < document.dcdAdsI.length ) {     document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 12 ] + '" src="' + document.dcdAdsU[ 12 ] + '"><\/script>'); } </p>
+<p> if ( 13 < document.dcdAdsI.length ) {     document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 13 ] + '" src="' + document.dcdAdsU[ 13 ] + '"><\/script>'); } </p>
+<p> if ( 14 < document.dcdAdsI.length ) {     document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 14 ] + '" src="' + document.dcdAdsU[ 14 ] + '"><\/script>'); } </p>
+<p> if ( 15 < document.dcdAdsI.length ) {     document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 15 ] + '" src="' + document.dcdAdsU[ 15 ] + '"><\/script>'); } </p>
+<p> if ( 16 < document.dcdAdsI.length ) {     document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 16 ] + '" src="' + document.dcdAdsU[ 16 ] + '"><\/script>'); } </p>
+<p> if ( 17 < document.dcdAdsI.length ) {     document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 17 ] + '" src="' + document.dcdAdsU[ 17 ] + '"><\/script>'); } </p>
+<p> if ( 18 < document.dcdAdsI.length ) {     document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 18 ] + '" src="' + document.dcdAdsU[ 18 ] + '"><\/script>'); } </p>
+<p> if ( 19 < document.dcdAdsI.length ) {     document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 19 ] + '" src="' + document.dcdAdsU[ 19 ] + '"><\/script>'); } </p>
+<p> if ( 20 < document.dcdAdsI.length ) {     document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 20 ] + '" src="' + document.dcdAdsU[ 20 ] + '"><\/script>'); } </p>
+<p> if ( 21 < document.dcdAdsI.length ) {     document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 21 ] + '" src="' + document.dcdAdsU[ 21 ] + '"><\/script>'); } </p>
+<p> if ( 22 < document.dcdAdsI.length ) {     document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 22 ] + '" src="' + document.dcdAdsU[ 22 ] + '"><\/script>'); } </p>
+<p> if ( 23 < document.dcdAdsI.length ) {     document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 23 ] + '" src="' + document.dcdAdsU[ 23 ] + '"><\/script>'); } </p>
+<p> if ( 24 < document.dcdAdsI.length ) {     document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 24 ] + '" src="' + document.dcdAdsU[ 24 ] + '"><\/script>'); } </p>
+<p> if ( 25 < document.dcdAdsI.length ) {     document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 25 ] + '" src="' + document.dcdAdsU[ 25 ] + '"><\/script>'); } </p>
+<p> <!-- for (var i=0;i< document.dcdAdsI.length; i++) {     var shadowHolder = document.getElementById("adShD" + i);     if (shadowHolder) {         shadowHolder.removeChild(document.getElementById(document.dcdAdsI[i]));         while (shadowHolder.childNodes.length > 0) {             var child = shadowHolder.childNodes[0];             if (child.nodeName != "SCRIPT"){                 shadowHolder.removeChild(child);                 document.getElementById(document.dcdAdsH[i]).appendChild(child);             } else {                 shadowHolder.removeChild(child);             }         }     } } for (var i= document.dcdAdsI.length; i<= 25; i++) {     var shadowHolder = document.getElementById("adShD" + i);     if (shadowHolder) {         while (shadowHolder.childNodes.length > 0) {             var child = shadowHolder.childNodes[0];             shadowHolder.removeChild(child);         }     } }  $(function () {     RenderDartIframeAds(); }); //--> </p>
+<p> var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); </p>
+<p> var pageTracker = _gat._getTracker("UA-1056754-1"); pageTracker._trackPageview(); </p>
+<p> /* <![CDATA[ */ 	var _rsCI="nz-stuff"; 	var _rsCG="s-stuff-marlboroughexpress-news-ttstorytt-6244541-ttsourcett-themarlboroughexpress"; 	var _rsDN="//secure-nz.imrworldwide.com/";  	var _rsSE=1; 	var _rsSM=0.1; 	var _rsCL=1;  	/* ]]> */ </p>
+<p> <!-- /* You may give each page an identifying name, server, and channel on the next lines. */  s.events="";  s.prop1="fairfaxnz-stuff-prd";  s.prop31="";  s.prop32="12 January, 2012";  s.prop5="article page";  s.prop6="healthy_number_0800611116";  s.prop7="6244541:Three-things-you-need-to-know";  /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/ var s_code=s.t();if(s_code)document.write(s_code)//--> </p>

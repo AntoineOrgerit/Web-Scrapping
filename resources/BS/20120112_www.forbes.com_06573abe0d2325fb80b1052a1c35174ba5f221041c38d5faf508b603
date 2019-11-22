@@ -1,0 +1,412 @@
+<p> The Novartis Shutdown Could Cost How Much? - Forbes </p>
+<p> var forbes = ( function( forbes_namespace ) { 	   forbes_namespace.user_meta = {                },        forbes_namespace.page_meta = { 			channel: "Business", 					section: "Pharma & Healthcare", 							primary_channel: "business", 							primary_section: "pharma", 							sitepage: "forbes.com/Business/sites/edsilverman/2012/01/10/254/", 			author: { 				natural_id: "blogAuthorId/blog/author/136106", 				user_id: "136106", 				display_name: "Ed Silverman", 				type: "individual" 			}, 			post_id: 254, 			blog_id: 1683, 			natural_id: "blogAndPostId/blog/post/1683-254", 			type: "blog", 			title: "The Novartis Shutdown Could Cost How Much?" 		}; 		return forbes_namespace; 	}( forbes || {} ) ); </p>
+<p> var displayedChannel = 'Business'; 	var displayedSection = 'Pharma & Healthcare';                 var boxesParam = null;         OAS_listpos = "AdController,x5,BigBanner,Block,x89,Loge,StoryLogo,x109,x87,x112,BigBannerVideo";         OAS_sitepage = "forbes.com/Business/sites/edsilverman/2012/01/10/254/"; </p>
+<p> if(typeof checkChannel == "function") {                 var channelOAS = checkChannel();                 var bP = getUrlParam("boxes");                 if(typeof channelOAS != "undefined" && channelOAS != null){                         OAS_sitepage = 'forbes.com/specialslot/'+channelOAS                         boxesParam = channelOAS;                 }else if (sponsoredSectionList.toString().indexOf(bP) != -1){                         OAS_sitepage = 'forbes.com/specialslot/'+bP;                         boxesParam = bP;                 }         } </p>
+<p> var welcomeCookie = "undefined"; var frequency; var today = new Date(); var fdcwelcb = document.cookie.split(";");  for(var i=0 ; i < fdcwelcb.length ; i++){     	if((fdcweldelim = fdcwelcb[i].indexOf('__welcome')) > -1) {         	var fdcwelCookieTime = fdcwelcb[i].substring(fdcweldelim+9);         	if(fdcwelCookieTime == "") {             	var tomorrow = new Date();             	tomorrow.setTime(tomorrow.getTime() + (24*60*60*1000));             	document.cookie = fdcwelcb[i] +tomorrow.getTime()+'; path=/; domain=.forbes.com; expires=' + tomorrow.toGMTString();             }else if(fdcwelCookieTime>today.getTime()) {                 var fdcwelExpire = new Date;                 fdcwelExpire.setTime(fdcwelCookieTime);                 document.cookie = fdcwelcb[i] +'; path=/; domain=.forbes.com; expires=' + fdcwelExpire.toGMTString();             }         } } </p>
+<p> document.write('<script type="text/javascript" src="http://ads.forbes.com/RealMedia/ads/adstream_jx.ads/'+OAS_sitepage+'@x5"></scr'+'ipt>'); </p>
+<p> if(welcomeCookie != "undefined" && welcomeCookie != null) { 	if ((document.cookie.indexOf(welcomeCookie)==-1) && (navigator.userAgent.indexOf("Mozilla")>-1) && (navigator.userAgent.indexOf("iPad;")==-1) && (this.location.host.indexOf("forbes.com")!=-1) && (document.referrer.indexOf("digg.com")==-1) && (this.location.search.indexOf("partner=yahoo")==-1) && (this.location.search.indexOf("partner=msn")==-1)&& (this.location.search.indexOf("partner=aol")==-1) && (this.location.search.indexOf("partner=compuserve")==-1) && (this.location.search.indexOf("partner=netscape")==-1) && (this.location.search.indexOf('nowelcome')==-1) && (this.location.search.indexOf("partner=Experian-RMX")==-1) && (this.location.search.indexOf("partner=acurapower")==-1) && (this.location.search.indexOf("partner=rolex400")==-1) && (this.location.search.indexOf("partner=powercouples")==-1) && (this.location.href.indexOf("members.forbes.com/bizviz")==-1)) {         	var tomorrow = new Date();                  if(frequency == "undefined" || frequency == null){                 	frequency = 24*60*60*1000;                 }                 var nowPlus =  tomorrow.getTime() + frequency;                 tomorrow.setTime(nowPlus);                 document.cookie = welcomeCookie +'__welcome'+tomorrow.getTime()+'; path=/; domain=.forbes.com; expires=' + tomorrow.toGMTString();                  if (document.cookie.indexOf(welcomeCookie) != -1){                 	document.cookie="toURL"+ "=" +escape(document.URL)+";path=/; domain=.forbes.com; expires="+tomorrow.toGMTString();                         this.location='http://www.forbes.com/fdc/welcome_mjx.shtml';                 }         } } </p>
+<p> Business </p>
+<p> Autos </p>
+<p> Energy </p>
+<p> Logistics & Transportation </p>
+<p> Media & Entertainment </p>
+<p> Pharma & Healthcare </p>
+<p> Retail </p>
+<p> SportsMoney </p>
+<p> Strategies & Solutions </p>
+<p> Wall Street </p>
+<p> Washington </p>
+<p> 30 Under 30: Rising Stars Of Finance </p>
+<p> Investing </p>
+<p> Advisor Network </p>
+<p> Bonds </p>
+<p> Commodities & Currencies </p>
+<p> ETFs </p>
+<p> International </p>
+<p> Intelligent Investing </p>
+<p> Markets </p>
+<p> Mutual Funds </p>
+<p> Options </p>
+<p> Personal Finance </p>
+<p> Real Estate </p>
+<p> Retirement </p>
+<p> Stocks </p>
+<p> Taxes </p>
+<p> Best And Worst Gold Bets For Next Year </p>
+<p> Tech </p>
+<p> CES 2012 </p>
+<p> CIO Network </p>
+<p> Data Driven </p>
+<p> Games </p>
+<p> Gear </p>
+<p> Green Tech </p>
+<p> Human Ingenuity </p>
+<p> Innovation & Science </p>
+<p> Future Tech </p>
+<p> Mobile </p>
+<p> On Demand </p>
+<p> Security </p>
+<p> Social Media </p>
+<p> Steve Jobs </p>
+<p> Techonomy </p>
+<p> Special Report: Data Driven </p>
+<p> Entrepreneurs </p>
+<p> Exit Strategy </p>
+<p> Financing </p>
+<p> Management </p>
+<p> Players </p>
+<p> Sales & Marketing </p>
+<p> Taxes & Law </p>
+<p> Promising Companies </p>
+<p> America's Most Promising Companies </p>
+<p> Op/Ed </p>
+<p> The Best Cities For Jobs </p>
+<p> Culture & Books </p>
+<p> Fact & Comment </p>
+<p> Economics </p>
+<p> Forbes Quotes </p>
+<p> Innovation Rules </p>
+<p> Law </p>
+<p> Policy </p>
+<p> Politics </p>
+<p> Regulation </p>
+<p> World Affairs </p>
+<p> Leadership </p>
+<p> America's Most Surprising Six-Figure Jobs </p>
+<p> Careers </p>
+<p> CEO Network </p>
+<p> CMO Network </p>
+<p> Corporate Responsibility </p>
+<p> Education </p>
+<p> ForbesWoman </p>
+<p> Leaders </p>
+<p> Managing </p>
+<p> Sales Leadership </p>
+<p> Lifestyle </p>
+<p> How Billionaires Spend Their Cash </p>
+<p> Arts & Entertainment </p>
+<p> Food & Drink </p>
+<p> Health </p>
+<p> Places & Spaces </p>
+<p> Sports & Leisure </p>
+<p> Style & Design </p>
+<p> Travel </p>
+<p> Vehicles </p>
+<p> Lists </p>
+<p> The World's Most Powerful People </p>
+<p> America's Best Colleges </p>
+<p> America's Best Small Companies </p>
+<p> Best Places for Business & Careers </p>
+<p> Celebrity 100 </p>
+<p> Forbes 400 Richest Americans </p>
+<p> Global 2000 Leading Companies </p>
+<p> Largest Private Companies </p>
+<p> Most Expensive Zip Codes </p>
+<p> 100 Most Powerful Women </p>
+<p> World's Billionaires </p>
+<p> World's Most Powerful People </p>
+<p> All Lists </p>
+<p> Help </p>
+<p> | </p>
+<p> Login </p>
+<p> | </p>
+<p> SignUp </p>
+<p> Free Issue > </p>
+<p> Has The Housing Market Hit A Bottom? </p>
+<p> Wireless Winners And Losers In 2012 </p>
+<p> How Not To Get Bamboozled </p>
+<p> AdVoice: Content Tools For B2B Marketers </p>
+<p> $(document).ready(function(){             if(typeof boxesParam != "undefined" && boxesParam != null){                 $("a.prev").attr("href", $("a.prev").attr("href")+"?boxes="+boxesParam);                 $("a.next").attr("href", $("a.next").attr("href")+"?boxes="+boxesParam);                 $(".page_links a").each(function(idx, items){                     items.href = items.href+"?boxes="+boxesParam;                 })             }         }) </p>
+<p> Ed Silverman </p>
+<p> , Contributor </p>
+<p> + Follow on Forbes </p>
+<p> Pharma & Healthcare </p>
+<p> | </p>
+<p> 1/10/2012 @ 4:27PM </p>
+<p> | </p>
+<p> 3,053 views </p>
+<p> The Novartis Shutdown Could Cost How Much? </p>
+<p> 0 comments, 0 called-out </p>
+<p> + Comment now </p>
+<p> + Comment now </p>
+<p> Image via Wikipedia </p>
+<p> Over the past month, </p>
+<p> Novartis </p>
+<p> has worked hard to downplay the unexpected shutdown of a key manufacturing plant in </p>
+<p> Lincoln </p>
+<p> , Nebraska, where the drugmaker produces an assortment of widely used over-the-counter medicines and animal health drugs. In announcing the closure, Novartis noted that combined annual sales of the products made at the facility amount to less than 2 percent of Novartis group sales overall ( </p>
+<p> see here </p>
+<p> ). </p>
+<p> But the unfolding drama – which includes a scathing report issued last summer by FDA inspectors – may hurt more than the drugmaker would care to admit. In fact, one </p>
+<p> Wall Street </p>
+<p> analyst projects that lost sales could amount to $560 million over the next 12 months.  Leerink Swann’s Seamus Fernandez calculates in an investor note that the missed opportunity to sell such stand-bys as Excedrin, Bufferin and No-Doz represent about 25 percent of US consumer sales, or about $390 million, not including another $170 million in incremental sales, assuming the shutdown lasts only three months. </p>
+<p> However, this does not include lost sales of animal health meds, such as the big-selling Interceptor and Sentinel treatments for heartworm, or apparently contract manufacturing. Endo Pharmaceuticals, for instance, reported that prescription painkillers made at the facility wound up in some bottles for other meds, although it remains unclear if these were OTC or prescription (here is the </p>
+<p> FDA statement </p>
+<p> , in any event). And of course, the shutdown might well last much longer. </p>
+<p> The drugmaker, he notes, expects to meet with the FDA later this month, giving Novartis execs an opportunity toprovide in time for the next earnings announcement. Nonetheless, he notes that the suspension has the potential to affect up to $1.1 billion in global sales. ”History suggests that few (manufacturing) challenges resolve quickly, but a partial resumption of (manufacturing) is certainly possible, although a resumption of manufacturing and a full recovery in the recalled brands are likely to take considerably longer to resolve, particularly given the FDA’s involvement,” he then adds. </p>
+<p> At this point, whether Novartis can avoid a lengthy shutdown is very unclear. The problems the FDA cited in the inspection report were so disturbing that the agency used capital letters and a bold font to emphasize that a pattern of problems existed. These problems included failures to respond to consumer complaints about bottles containing incorrect tablets, file reports with the FDA or send postage-paid materials to consumers so that further evidence could be examined ( </p>
+<p> here is the FDA report </p>
+<p> ). </p>
+<p> The drugmaker did not help it cause by insisting the problems were beyond its control, even though the FDA noted plant personnel failed to properly investigate many complaints and could not present any evidence to justify its conclusion. Moreover, the shutdown and subsequent recall came shortly after the FDA sent a warning letter to Novartis about manufacturing problems at three plants run by its Sandoz generic drug unit ( </p>
+<p> look here </p>
+<p> ). It’s hard to avoid the conclusion that the FDA is searching for system issues and still other plants are going to be scrutinized. </p>
+<p> The worst-case scenario is, in fact, a lengthy shutdown and possibly still more, depending upon how the FDA proceeds. Then there is the prospect of a consent decree. Remember that the FDA has pursued this step recently with </p>
+<p> Johnson & Johnson </p>
+<p> and </p>
+<p> Genzyme </p>
+<p> , and Wall Street is speculating that Hospira is up next ( </p>
+<p> more here </p>
+<p> ). No one has suggested it may come to this, but the sort of problems that Novartis has caused and FDA interest in multiple plants make it likely the drugmaker will be preoccupied with manufacturing issues for quite some time. And sales would have to take a hit. </p>
+<p> 0 comments, 0 called-out </p>
+<p> + Comment now </p>
+<p> + Comment now </p>
+<p> function printArticle(url) { 	 	params  = 'width='+screen.width;  		params += ', height='+screen.height;  		params += ', top=0, left=0'  		params += ', fullscreen=yes, scrollbars = yes, resizable=yes';  		slideWin = window.open(url, 'popup', params); 		if(window.focus) { 			slideWin.focus(); 		} 		return false; 	} </p>
+<p> Print </p>
+<p> Report Corrections </p>
+<p> Request Reprint </p>
+<p> More on Forbes Right Now </p>
+<p> Today's Top Stories </p>
+<p> Reddit's SOPA Blackout Admirable, But Google and Facebook Must Follow </p>
+<p> +134,281 views </p>
+<p> How To Be More Interesting (In 10 Simple Steps) </p>
+<p> +47,407 views </p>
+<p> The Seven Habits of Spectacularly Unsuccessful Executives </p>
+<p> +42,197 views </p>
+<p> Features </p>
+<p> How To Be A Social Media Superpower </p>
+<p> Daniel Ek: The Most Important Man In Music </p>
+<p> Post Your Comment </p>
+<p> Cancel reply </p>
+<p> Post Your Reply </p>
+<p> You are logged in as </p>
+<p> $wp_login </p>
+<p> ( </p>
+<p> log out </p>
+<p> ) </p>
+<p> Enter Your Comment </p>
+<p> Forbes writers have the ability to call out member comments they find particularly interesting. Called-out comments are highlighted across the Forbes network. You'll be notified if your comment is called out. </p>
+<p> Submit Comment </p>
+<p> Post Your Comment </p>
+<p> Cancel reply </p>
+<p> Post Your Reply </p>
+<p> Log in to post a comment </p>
+<p> Username: </p>
+<p> Password: </p>
+<p> Lost your password? </p>
+<p> Remember me </p>
+<p> Log in </p>
+<p> Don't have an account? </p>
+<p> Join Forbes Now </p>
+<p> . </p>
+<p> Create a Forbes Account </p>
+<p> Username: </p>
+<p> (Must be at least 4 characters, letters and numbers only.  								We encourage you to use your real name.) </p>
+<p> Email Address: </p>
+<p> Passwords are sent to this address, so please make sure it is correct. </p>
+<p> Password: </p>
+<p> Confirm Password: </p>
+<p> Type your new password again. </p>
+<p> Register </p>
+<p> By clicking JOIN FORBES you are indicating that you’ve read and agree to our </p>
+<p> Terms </p>
+<p> and </p>
+<p> Privacy Policy </p>
+<p> . </p>
+<p> Most Popular </p>
+<p> News </p>
+<p> People </p>
+<p> Places </p>
+<p> Companies </p>
+<p> + show more </p>
+<p> Ed Silverman </p>
+<p> Contributor </p>
+<p> + Follow on Forbes </p>
+<p> + show more </p>
+<p> Hi folks. My name is Ed Silverman and I've followed the pharmaceutical industry since 1995. This ride began at The Star-Ledger of New Jersey and continues with Pharmalot, which I have run since 2007. Along the way, I was also an editor at The Pink Sheet. Before covering pharma, I worked for several years at New York Newsday and, before that, at Investor's Daily, among other places. I have a MA in journalism from New York University and a BS in accounting from Binghamton University. </p>
+<p> The author is a Forbes contributor. The opinions expressed are those of the writer. </p>
+<p> Ed Silverman’s Popular Posts </p>
+<p> Why Contract Research Organizations Are So Hot </p>
+<p> 29,543 views </p>
+<p> What Managed Care Thinks Of Pfizer And Its Lipitor Strategy </p>
+<p> 5,506 views </p>
+<p> Will Teva Sell A Generic Lipitor In The US? </p>
+<p> 3,891 views </p>
+<p> The Novartis Shutdown Could Cost How Much? </p>
+<p> 3,053 views </p>
+<p> The Hepatitis C Wars: What Docs Say About The Newest Meds </p>
+<p> 2,352 views </p>
+<p> More from Ed Silverman </p>
+<p> Follow Ed Silverman on Twitter </p>
+<p> Follow Ed Silverman on Facebook </p>
+<p> Ed Silverman’s RSS Feed </p>
+<p> Ed Silverman’s Profile </p>
+<p> Ed Silverman’s News Stream </p>
+<p> Show all activity () </p>
+<p> Posts () </p>
+<p> Headline Grabs () </p>
+<p> Photo Galleries () </p>
+<p> Videos () </p>
+<p> Tweets () </p>
+<p> Contributor Comments () </p>
+<p> Called-out Comments () </p>
+<p> • </p>
+<p> The Forbes 400 </p>
+<p> World's Billionaires </p>
+<p> Celebrity 100 </p>
+<p> World's Leading Companies </p>
+<p> more + </p>
+<p> The Forbes 400 is the definitive list of wealth in America, profiling and ranking the country's richest citizens by their estimated net worths. </p>
+<p> View complete list » </p>
+<p> #1 </p>
+<p> Bill Gates </p>
+<p> Latest News » </p>
+<p> #14 </p>
+<p> Mark Zuckerberg </p>
+<p> Latest News » </p>
+<p> #7 </p>
+<p> George Soros </p>
+<p> Latest News » </p>
+<p> #331 </p>
+<p> Stewart Rahr </p>
+<p> Latest News » </p>
+<p> #212 </p>
+<p> Lynda Resnick </p>
+<p> Latest News » </p>
+<p> #37 </p>
+<p> Rupert Murdoch </p>
+<p> Latest News » </p>
+<p> Riding surging prices of his bank and telecom holdings, Mexican tycoon Carlos Slim Helú has widened his lead over Americans Bill Gates and Warren Buffett as the wealthiest person on earth. </p>
+<p> View complete list » </p>
+<p> #33 </p>
+<p> Mikhail Prokhorov </p>
+<p> Latest News » </p>
+<p> #1 </p>
+<p> Carlos Slim Helú </p>
+<p> Latest News » </p>
+<p> #144 </p>
+<p> Cher Wang </p>
+<p> Latest News » </p>
+<p> #52 </p>
+<p> Aliko Dangote </p>
+<p> Latest News » </p>
+<p> #27 </p>
+<p> Prince Alwaleed Bin Talal Alsaud </p>
+<p> Latest News » </p>
+<p> #53 </p>
+<p> Mark Zuckerberg </p>
+<p> Latest News » </p>
+<p> Lady Gaga jumps to the top of this year's ranking of the richest and most powerful actors, actresses, athletes, writers and musicians. </p>
+<p> View complete list » </p>
+<p> #1 </p>
+<p> Lady Gaga </p>
+<p> Latest News » </p>
+<p> #3 </p>
+<p> Justin Bieber </p>
+<p> Latest News » </p>
+<p> #7 </p>
+<p> Taylor Swift </p>
+<p> Latest News » </p>
+<p> #8 </p>
+<p> Bon Jovi </p>
+<p> Latest News » </p>
+<p> #10 </p>
+<p> LeBron James </p>
+<p> Latest News » </p>
+<p> #12 </p>
+<p> Katy Perry </p>
+<p> Latest News » </p>
+<p> The Forbes Global 2000 are the biggest, most powerful listed companies in the world. This year's list reflects big gains in profit and sales from a broad and deep recovery. Optimism may be back in boardrooms from Beijing to Bentonville, but now come the headwinds. </p>
+<p> View complete list » </p>
+<p> #43 </p>
+<p> Daimler </p>
+<p> Latest News » </p>
+<p> #6 </p>
+<p> Petrochina </p>
+<p> Latest News » </p>
+<p> #34 </p>
+<p> China Mobile </p>
+<p> Latest News » </p>
+<p> #27 </p>
+<p> Vodafone </p>
+<p> Latest News » </p>
+<p> #1 </p>
+<p> JPMorgan Chase </p>
+<p> Latest News » </p>
+<p> #47 </p>
+<p> Apple </p>
+<p> Latest News » </p>
+<p> Photo Galleries and More </p>
+<p> Ten Myths About Social Media </p>
+<p> Ten Ways To Pay For College Right Now </p>
+<p> 20 Of The World's Most Meaningful Brands </p>
+<p> The Top 30 Social Entrepreneurs </p>
+<p> The Next Wave Of Green Cars </p>
+<p> Home </p>
+<p> Business </p>
+<p> Investing </p>
+<p> Tech </p>
+<p> Entrepreneurs </p>
+<p> Op/Ed </p>
+<p> Leadership </p>
+<p> Lifestyle </p>
+<p> Lists </p>
+<p> Forbes Conferences </p>
+<p> Newsletters </p>
+<p> Advertising Information </p>
+<p> | </p>
+<p> Self-Serve Advertising </p>
+<p> | </p>
+<p> Reprints/Permissions </p>
+<p> | </p>
+<p> Terms, Conditions and Notices </p>
+<p> | </p>
+<p> Privacy Statement </p>
+<p> | </p>
+<p> Contact Us </p>
+<p> | </p>
+<p> Sitemap </p>
+<p> | </p>
+<p> Help </p>
+<p> var d=new Date();document.write(d.getFullYear()); </p>
+<p> Forbes.com LLC   All Rights Reserved </p>
+<p> Forbes Russia </p>
+<p> Forbes Poland </p>
+<p> Forbes Romania </p>
+<p> Forbes China </p>
+<p> Real Clear Politics </p>
+<p> Real Clear Sports </p>
+<p> Real Clear Markets </p>
+<p> Spirent </p>
+<p> Morningstar </p>
+<p> Xignite </p>
+<p> Thomson Reuters </p>
+<p> Ad Choices </p>
+<p> Magazines </p>
+<p> Free Trial Issue </p>
+<p> Subscriber Services </p>
+<p> Buy Back Issues </p>
+<p> $LAB 	.script("http://i.forbesimg.com/assets/js/core/jquery.easing-1.3.js") 	.script("http://i.forbesimg.com/assets/js/core/jquery.color.js") 	.script("http://i.forbesimg.com/assets/js/core/jquery.json-2.2.js").wait()  	.script("http://i.forbesimg.com/assets/js/forbes/util.js") 	.script("http://i.forbesimg.com/assets/js/forbes/forms.js") 	.script("http://i.forbesimg.com/assets/js/forbes/article_vestpocket.js") 	.script("http://i.forbesimg.com/assets/js/forbes/article_pages.js") 	.script("http://i.forbesimg.com/assets/js/forbes/advoice_specific.js") 	.script("http://i.forbesimg.com/assets/js/forbes/comments.js") 	.script("http://i.forbesimg.com/assets/js/forbes/comment_form.js") 	.script("http://i.forbesimg.com/assets/js/forbes/right_rail_contrib_leaderboard.js") 	.script("http://i.forbesimg.com/assets/js/forbes/right_rail_most_popular.js") 	.script("http://i.forbesimg.com/assets/js/forbes/right_rail_about_modules.js") 	.script("http://i.forbesimg.com/assets/js/forbes/right_rail_activity_feed.js") 	.script("http://i.forbesimg.com/assets/js/forbes/right_rail_magazine_subscription.js") 	.script("http://i.forbesimg.com/assets/js/forbes/sharing.js") 	.script("http://i.forbesimg.com/assets/js/forbes/user_popup_module.js") 	.script("http://i.forbesimg.com/assets/js/forbes/modal_window.js") 	.script("http://i.forbesimg.com/assets/js/forbes/right_rail_sticky_ad.js") 	.script("http://i.forbesimg.com/assets/js/forbes/footer.js")  	.wait(function(){ 		forbes.bootstrap.init(); 	}); </p>
+<p> var switchTo5x=true; </p>
+<p> stLight.options({ 		publisher:'71b2a625-b381-4d3b-aeba-d5bfa6cd88e2' 		,embeds : true 		,onhover : false 	});  function MarkSocialUserFunction (event,service) { var As = new Image() As.src = "http://rtbdev.forbes.com/RTB/jsp/socialCapture.jsp?p1="+service; } stLight.subscribe("click", MarkSocialUserFunction); </p>
+<p> OAS_query = '?largeads=true'; </p>
+<p> <!-- 	//configuration 	OAS_url = 'http://ads.forbes.com/RealMedia/ads/'; 	if(typeof OAS_sitepage=="undefined"){ 	OAS_sitepage = "forbes.com"; 	} 	else{ 	if(OAS_sitepage.length == 0){ 	OAS_sitepage = "forbes.com"; 	} 	} 	if(typeof OAS_listpos=="undefined"){ 	OAS_listpos = "AdController,x5,BigBanner,RightMiddle,Block,StoryLogo,x89,x88,Loge,x87"; 	} 	else{ 	if(OAS_listpos.length == 0){ 	OAS_listpos = "AdController,x5,BigBanner,RightMiddle,Block,StoryLogo,x89,x88,Loge,x87"; 	} 	} 	OAS_target = '_top'; 	//end of configuration 	OAS_version = 10; 	OAS_rn = '001234567890'; OAS_rns = '1234567890'; 	OAS_rn = new String (Math.random()); OAS_rns = OAS_rn.substring (2, 11); 	function OAS_NORMAL(pos) { 	document.write('<A HREF="' + OAS_url + 'click_nx.cgi/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + OAS_query + '" TARGET=' + OAS_target + '>'); 	document.write('<IMG SRC="' + OAS_url + 'adstream_nx.cgi/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + OAS_query + '" BORDER=0></A>'); 	} 	function OAS_RICH(pos) { 	document.write('<A HREF="' + OAS_url + 'click_nx.cgi/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + OAS_query + '" TARGET=' + OAS_target + '>'); 	document.write('<IMG SRC="' + OAS_url + 'adstream_nx.cgi/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + OAS_query + '" BORDER=0></A>'); 	} 	//--> </p>
+<p> <!-- 	OAS_version = 11; 	if (navigator.userAgent.indexOf('Mozilla/3') != -1 || navigator.userAgent.indexOf('Mozilla/4.0 WebTV') != -1) 	OAS_version = 10; 	if (OAS_version >= 11) 	document.write('<SCRIPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + OAS_query + '"><\/SCRIPT>'); 	//--> </p>
+<p> <!-- 	document.write(''); 	function OAS_AD(pos) { 	if (OAS_version >= 11) 	OAS_RICH(pos); 	else 	OAS_NORMAL(pos); 	} 	//--> </p>
+<p> OAS_AD('AdController'); </p>
+<p> function movead(position) { 		var tolocation = $('.oasad[data-ad='+position+']'); 		var fromlocaition = $('.lowad[data-ad='+position+']'); 	 		if(tolocation.length != 1) return; 		if(fromlocaition.length != 1) return; 	 		// remove scripts so they don't rerun 		fromlocaition.find('script').remove(); 	 		// move the nodes to the proper locations 		tolocation.append( fromlocaition.detach() ); 	} </p>
+<p> OAS_AD('BigBanner'); </p>
+<p> movead('BigBanner'); </p>
+<p> OAS_AD('Block'); </p>
+<p> movead('Block'); </p>
+<p> OAS_AD('StoryLogo'); </p>
+<p> movead('StoryLogo'); </p>
+<p> OAS_AD('Loge'); </p>
+<p> movead('Loge'); </p>
+<p> OAS_AD('x112'); </p>
+<p> movead('x112'); </p>
+<p> OAS_AD('x109'); </p>
+<p> movead('x109'); </p>
+<p> OAS_AD('x87'); </p>
+<p> movead('x87'); </p>
+<p> OAS_AD('BigBannerVideo'); </p>
+<p> movead('BigBannerVideo'); </p>

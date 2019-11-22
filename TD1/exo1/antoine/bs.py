@@ -10,7 +10,7 @@ def bs_treatement(input_file, output_file):
             output_file.write("<p>" + text.replace("\n", " ") + "</p>\n")
 
 def main():
-    extract("../../Corpus_detourage/Corpus_detourage/html/", "../../Corpus_detourage/Corpus_detourage/clean/BS/", bs_treatement)
+    extract("../../../resources/html/", "../../../resources/BS/", bs_treatement)
 
 if __name__ == '__main__':
     main()

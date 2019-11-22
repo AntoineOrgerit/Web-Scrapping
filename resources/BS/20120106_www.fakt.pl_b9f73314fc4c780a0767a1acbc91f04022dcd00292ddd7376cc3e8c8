@@ -1,0 +1,328 @@
+<p> Korwin-Piotrowska. Ostro o polskich gwiazdkach. Przeczytaj - Fakt.pl </p>
+<p> jQuery(document).ready(function() {   	  /*    	$('#tagLoaderImg').hide(); 		$('#tagNameInput').autocomplete({          source: function(request, response) {             $.ajax({                 url: "/tag/tagiJSON.asp",                 type: "GET",                 contentType: "text/plain; charset=utf-8",                 //timeout:100,                 dataType: "json",                 data: {                     term: request.term                     //maxRows: 15                 }, 								beforeSend: function(data){ 									if($('#tagNameInput').val().length < 3){ 										$('#tagLoaderImg').hide(); 										return false; 									} 									else $('#tagLoaderImg').show(); 								},                 success: function(data) {                 		$('#tagLoaderImg').hide();                     response($.map(data, function(item) {                         return {                             label: item.tag,                             value: item.value                         }                     }))                 }             })         },         select: function(event, ui) {         	var url = "http://www.fakt.pl/tag/"+ui.item.value; 					$(location).attr('href',url);         }     });   // pogoda       $('#cityLoaderImg').hide(); 		$('#cityNameInput').autocomplete({          source: function(request, response) {             $.ajax({                 url: "/pogoda/cityJSON.asp",                 type: "GET",                 contentType: "text/plain; charset=uft-8",                 //timeout:100,                 dataType: "json",                 data: {                     term: request.term                     //maxRows: 15                 }, 								beforeSend: function(data){ 									if($('#cityNameInput').val().length < 3){ 										$('#cityLoaderImg').hide(); 										return false; 									} 									else $('#cityLoaderImg').show(); 								},                 success: function(data) {                 		$('#cityLoaderImg').hide();                     response($.map(data, function(item) {                         return {                             label: item.tag,                             value: item.value                         }                     }))                 }             })         },         select: function(event, ui) {         	//var url = "http://www.fakt.pl/pogoda/miasto.asp?mid="+ui.item.value;         	var url = "http://www.fakt.pl/"+ui.item.value;  					$(location).attr('href',url);         }     });  // pogoda 2      $('#cityLoaderImg2').hide(); 		$('#cityNameInput2').autocomplete({          source: function(request, response) {             $.ajax({                 url: "/pogoda/cityJSON.asp",                 type: "GET",                 contentType: "text/plain; charset=utf-8",                 //timeout:100,                 dataType: "json",                 data: {                     term: request.term                     //maxRows: 15                 }, 								beforeSend: function(data){ 									if($('#cityNameInput2').val().length < 3){ 										$('#cityLoaderImg2').hide(); 										return false; 									} 									else $('#cityLoaderImg2').show(); 								},                 success: function(data) {                 		$('#cityLoaderImg2').hide();                     response($.map(data, function(item) {                         return {                             label: item.tag,                             value: item.value                         }                     }))                 }             })         },         select: function(event, ui) {       //  	var url = "http://www.fakt.pl/pogoda/miasto.asp?mid="+ui.item.value;           var url = "http://www.fakt.pl/"+ui.item.value;  					$(location).attr('href',url);         }     }); */     //pollm fix   $('div.box350a').hide();     // menu          $("#eFDM ul#eFtopMnFull li a:first-child").addClass('tl');       $("#eFDM ul#eFtopMnFull li ul li a:first-child").removeClass('tl');       $("#eFDM li.stat").mouseover(function () {  $("#eFDM li.stat").removeClass("dynamic"); $(this).toggleClass("dynamic"); });       $("#eFDM li.stat").mouseout(function () {  $("#eFDM li.stat").removeClass("dynamic"); });       $("#eFDM li.selected").mouseover(function () {  $(this).addClass("dynamic"); });       $("#eFDM li.selected").mouseout(function () {  $(this).addClass("dynamic"); });    // najpopnow        $("#tbNwst").click(function () { $("a.nvtAbb").removeClass("selected"); $(this).toggleClass("selected"); $('.rc1a').show(); $('.rc1b').hide();});       $("#tbMost").click(function () { $("a.nvtAbb").removeClass("selected"); $(this).toggleClass("selected"); $('.rc1a').hide(); $('.rc1b').show();});    	$('.rc1a').tinyscrollbar();	   	$('.rc1b').tinyscrollbar();	   	$('.rc1b').hide();      // zakladki piekny wschod i faktomania     /*       $(".bgb1").click(function () { $('div.selected').slideUp(500); $('#bgmc1').addClass('selected'); $('#bgmc1').slideDown(700);});       $(".bgb2").click(function () { $('div.selected').slideUp(500); $('#bgmc2').addClass('selected'); $('#bgmc2').slideDown(700);});       $(".bgb3").click(function () { $('div.selected').slideUp(500); $('#bgmc3').addClass('selected'); $('#bgmc3').slideDown(700);});       $(".bgb4").click(function () { $('div.selected').slideUp(500); $('#bgmc4').addClass('selected'); $('#bgmc4').slideDown(700);});       $(".bgb5").click(function () { $('div.selected').slideUp(500); $('#bgmc5').addClass('selected'); $('#bgmc5').slideDown(700);});       $(".bgb6").click(function () { $('div.selected').slideUp(500); $('#bgmc6').addClass('selected'); $('#bgmc6').slideDown(700);});       $(".bgb7").click(function () { $('div.selected').slideUp(500); $('#bgmc7').addClass('selected'); $('#bgmc7').slideDown(700);});       */ 			$("#singleColumn .rc1a a").click(function(){ window.open(this.href); return false; }); 			$("#singleColumn .rc1b a").click(function(){ window.open(this.href); return false; });   			$('#srcminiinput').focus(function() { 			  if ( $(this).val() == "Szukaj") 			  $(this).val('');  			    });  			$('#srcminiinput').blur(function() {              if ( $(this).val() == "" )                 $(this).val('Szukaj'); 			    });            $("#newsLet .input1").focus(function() {              if ( $(this).val() == "Podaj adres email")                 $(this).val('');          });           $("#newsLet .input1").blur(function() {              if ( $(this).val() == "" )                 $(this).val('Podaj adres email');          });            $("#NewslBox .input1").focus(function() {              if ( $(this).val() == "Podaj adres email")                 $(this).val('');          });           $("#NewslBox .input1").blur(function() {              if ( $(this).val() == "" )                 $(this).val('Podaj adres email');          });   			$(function(){ 			  try { $(".HPGalCont").jCarouselLite({ 	         btnNext: ".HPGnext", 		       btnPrev: ".HPGprev", 		       visible: 4, 		       scroll: 2 		      });    	    $(".HPMovCont").jCarouselLite({ 	         btnNext: ".HPMnext", 		       btnPrev: ".HPMprev", 		       visible: 4, 		       scroll: 2 		      });           } catch(err){ return false;         }     		var n = $(".bigulHPclass li").length;   	  if (n > 1) {   		 	$(".HPBignext").css('visibility','visible');   			$(".HPBigprev").css('visibility','visible');   				$("#HAbxHPB").jCarouselLite({   	         btnNext: ".HPBignext",   		       btnPrev: ".HPBigprev",   		       visible: 1,   		       scroll: 1,   		       auto: 5000   				});   			}  			else {   			$(".HPBignext").hide();   			$(".HPBigprev").hide();   			$("#HAbxHPB").css('visibility','visible'); 			}   	    $(".HPMovContMini").jCarouselLite({         btnNext: ".HPMnextMini",         btnPrev: ".HPMprevMini",         visible: 3,         scroll: 2 	    });        $(".gallHPd").jCarouselLite({         btnNext: ".aGalHPNext",         btnPrev: ".aGalHPPrev",         visible: 3,         scroll: 1       });        $('.HPMovCont').removeClass("Hide");       $('.HPGalCont').removeClass("Hide");        $("#OBJ1").animate({"opacity": "1.0"},{duration: 5000}).animate({"opacity": "toggle"},{duration: 1500});       $("#OBJ2").animate({"opacity": "0.0"},{duration: 5000}).animate({"opacity": "toggle"},{duration: 1500}).animate({"opacity": "1.0"},{duration: 5000}).animate({"opacity": "toggle"},{duration: 1500});        $(".mvBimgXbtn").click(function () {  $("#mvBcont").hide(1500);});  			});    // PRZELEW FUNDACJAFAKTU    $(document).ready(function() { 		$(".zgodaShortOut").mouseover(function () { $('.zgodaLong').show(); }); 		$(".zgodaShortOut2").mouseover(function () { $('.zgodaLong2').show(); }); 		$(".zgodaShortOut").mouseout(function () { $('.zgodaLong').hide(); }); 		$(".zgodaShortOut2").mouseout(function () { $('.zgodaLong2').hide(); }); 		$(".zgodaShortOut").mouseleave(function () { $('.zgodaLong').hide(); }); 		$(".zgodaShortOut2").mouseleave(function () { $('.zgodaLong2').hide(); }); 	});  // PRZELEW FUNDACJAFAKTU KONIEC        			}); 					function moderateTopic(element,tId) { 						$('.moderateTopic').load('/artykuly/zgloszenieDoModeracji.asp?Watek='+tId); 	        	$('.moderateTopic').dialog({ 	        		title: 'Zgłoś do moderacji', 	            width:360, 	            closeOnEscape: true,               beforeclose: function() { $(".moderateTopic").dialog('destroy'); }, 	            height:160, 	            modal:true, 	            resizable:false, 	            draggable:false 						});  					}  					function MOnewsl(url){           	$('<iframe frameborder="0" class="DLGnewsl" id="DLGnewsl" src="'+url+'"></iframe>').dialog({           		title: 'Opis programu',               width:640,               closeOnEscape: true,               height:480,               modal:true,               resizable:false,               draggable:false, 							open: function (){ 								$('iframe.DLGnewsl').height( $(this).height() ); 								$('iframe.DLGnewsl').width( $(this).width()+320 ); 							}   					});         	}   					function MOTv(url){           	$('<iframe frameborder="0" class="DLGtvshow" id="DLGtvshow" src="'+url+'"></iframe>').dialog({           		title: 'Opis programu',               width:640,               closeOnEscape: true,               height:480,               modal:true,               resizable:false,               draggable:false, 							open: function (){ 								$('iframe.DLGtvshow').height( $(this).height() ); 								$('iframe.DLGtvshow').width( $(this).width()+320 ); 							}   					});         	}   					function MOnagroda(url){           	$('<iframe frameborder="0" class="DLGnagroda" id="DLGnagroda" src="'+url+'"></iframe>').dialog({           		title: 'Nagrody',               width:640,               closeOnEscape: true,               height:480,               modal:true,               resizable:false,               draggable:false, 							open: function (){ 								$('iframe.DLGnagroda').height( $(this).height() ); 								$('iframe.DLGnagroda').width( $(this).width()+320 ); 							}   					});         	}  					function MOFMania(url){           	$('<iframe frameborder="0" class="DLGfmania" id="DLGfmania" src="'+url+'"></iframe>').dialog({           		title: 'Nagrody',               width:640,               closeOnEscape: true,               height:480,               modal:true,               resizable:false,               draggable:false, 							open: function (){ 								$('iframe.DLGfmania').height( $(this).height() ); 								$('iframe.DLGfmania').width( $(this).width()+320 ); 							}   					});         	}   					function MOcustom(url){           	$('<iframe frameborder="0" class="DLGcustom" id="DLGcustom" src="'+url+'"></iframe>').dialog({           		title: 'Fakt STYL',               width:640,               closeOnEscape: true,               height:480,               modal:true,               resizable:false,               draggable:false, 							open: function (){ 								$('iframe.DLGcustom').height( $(this).height() ); 								$('iframe.DLGcustom').width( $(this).width()+320 ); 							}   					});         	}   // a to do czego sluzy, dlaczego nie jest opisane?  	var setCookie = function ( name, value) { 		var expires_date = new Date(); 		expires_date = expires_date.setFullYear(2012); 		expires_date = new Date(expires_date); 		var path = "/"; 		var cookieString = name + "=" +escape( value ) + 		"; expires=" + expires_date.toGMTString() + 		( ( path ) ? "; path=" + path : "" ); 		document.cookie = cookieString; 	}  	var getCookie = function( check_name ) { 		var a_all_cookies = document.cookie.split( ';' ); 		var a_temp_cookie = ''; 		var cookie_name = ''; 		var cookie_value = ''; 		var b_cookie_found = false; // set boolean t/f default f  		for ( i = 0; i < a_all_cookies.length; i++ ) 		{ 			a_temp_cookie = a_all_cookies[i].split( '=' );   			cookie_name = a_temp_cookie[0].replace(/^\s+|\s+$/g, '');  			if ( cookie_name == check_name ) 			{ 				b_cookie_found = true; 				if ( a_temp_cookie.length > 1 ) 				{ 					cookie_value = unescape( a_temp_cookie[1].replace(/^\s+|\s+$/g, '') ); 				} 				return cookie_value; 				break; 			} 			a_temp_cookie = null; 			cookie_name = ''; 		} 		if ( !b_cookie_found ) 		{ 			return null; 		} 	} 	 	// artykul sondy     function PllHideScore() { $('#PllQuestion').show(); $('#PllScore').hide(); }    function PllShowScore() { $('#PllScore').show(); $('#PllQuestion').hide(); }    function RateHideScore() { $('#ratingForm').show(); $('#ratingScore').hide(); }    function RateShowScore() { $('#ratingForm').hide(); $('#ratingScore').show(); }    function RateHideScoreArt() { $('#ratingFormArt').show(); $('#ratingScoreArt').hide(); }    function RateShowScoreArt() { $('#ratingFormArt').hide(); $('#ratingScoreArt').show(); }    function DLGcloseX() { $(document).dialog('destroy'); alert('aqq'); }    $(document).ready(function() {  		$('#HPMovBx').removeClass("cNtHide"); 		 		 		 		$('.HPRCmlCnt').show(); 		$('#HP GalBx').removeClass("cNtHide"); 		$('#HAbxHP').removeClass("cNtHide"); 		$("#eFDM li").removeClass("selected"); 		$('div.box350a').show(600);     $('#PllQuestion').show();      $(".mvBimgXbtn a").click(function () {  $('#mvBcont').fadeOut(1000); });  		$(".goF").click(function () {setCookie('sfcv','.goF'); if($("#srcminiinput2").val() != "Szukaj w Internecie") $("#srcminiinput").val( $("#srcminiinput2").val() ); $('#sinF').show(); $('#sinG').hide(); }); 		$(".goG").click(function () {setCookie('sfcv','.goG'); if($("#srcminiinput").val() != "Szukaj w www.fakt.pl") $("#srcminiinput2").val( $("#srcminiinput").val() ); $('#sinF').hide(); $('#sinG').show(); });   		var sfcv = getCookie('sfcv');//search form checked value ref 		if(sfcv) $(sfcv).click();//attr('checked', true);    	$("#widget_facebook").hover(function() { $("#widget_facebook").stop(true, false).animate({ right: "0" }, 500); },function(){ $("#widget_facebook").stop(true, false).animate({ right: "-307" }, 500); },500);  		}); </p>
+<p> var crtg_nid="1799";var crtg_cookiename="critaxpl"; function crtg_getCookie(c_name){var i,x,y,ARRcookies=document.cookie.split(";");for(i=0;i<ARRcookies.length;i++){x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);x=x.replace(/^\s+|\s+$/g,"");if(x==c_name){return unescape(y);}}return'';}var crtg_content=crtg_getCookie(crtg_cookiename);var crtg_rnd=Math.floor(Math.random()*99999999999);var crtg_url='http://dis.eu.criteo.com/dis/rtt.js?networkId='+escape(crtg_nid);crtg_url+='&cookieName='+escape(crtg_cookiename);crtg_url+='&rnd='+crtg_rnd;crtg_url+='&varName=crtg_content';var crtg_script=document.createElement('script');crtg_script.type='text/javascript';crtg_script.src=crtg_url;crtg_script.async=true;if(document.getElementsByTagName("head").length>0)document.getElementsByTagName("head")[0].appendChild(crtg_script);else if(document.getElementsByTagName("body").length>0)document.getElementsByTagName("body")[0].appendChild(crtg_script); </p>
+<p> Restrictions.add("CommentsForm.TytulKomentarza",100);Restrictions.add("CommentsForm.Komentarz",3096);Restrictions.add("CommentsForm.PodpisAutora",50); </p>
+<p> sas_tmstp=Math.round(Math.random()*10000000000); sas_pageid='8191/85637'; var sas_formatids = '9222,3348,5664,3282,3624,4302,3284,3288,3289,5026,3347'; sas_target=crtg_content; document.write('<scr'+'ipt src="http://diff3.smartadserver.com/call2/pubjall/' + sas_pageid + '/' + sas_formatids + '/' + sas_tmstp + '/' + escape(sas_target) + '?"></scr'+'ipt>'); </p>
+<p> var pp_gemius_identifier = new String('nLGa2IvDW09Z1DqqgVX6fPV4LSnRPA9Ya9yglPRRmgz.s7'); </p>
+<p> {document.write('<script type="text/javascript" id="cafenews.pl#7648bfca304b70cf5006abd38e8fc43f"><\/script><div id="cafenews.pl#cvb64mnc8vg4jd8gksd653jkadg7j6"><\/div>');setTimeout(function(){var d=new Date();document.getElementById("cafenews.pl#7648bfca304b70cf5006abd38e8fc43f").src='http://webservices.cafenews.pl/mpl/Static/Static.js?id=cafenews.pl#cvb64mnc8vg4jd8gksd653jkadg7j6&d='+d.getFullYear()+d.getMonth()+d.getDate();},250);} </p>
+<p> Fakt.pl </p>
+<p> Koktajl24 </p>
+<p> Smak </p>
+<p> Pieniądze </p>
+<p> Gry online </p>
+<p> Fun Fakt </p>
+<p> if (typeof sas_manager != 'undefined') sas_manager.render(3282); </p>
+<p> Korwin-Piotrowska. Ostro o polskich gwiazdkach. Przeczytaj </p>
+<p> 10 kwietnia 2013 r. </p>
+<p> w fakt.pl </p>
+<p> w internecie </p>
+<p> Fundacja Faktu </p>
+<p> Horoskop </p>
+<p> Donosy </p>
+<p> Wideo </p>
+<p> Hity Netu </p>
+<p> Erotyka </p>
+<p> Mieszkania </p>
+<p> Fun Fakt </p>
+<p> Sklep </p>
+<p> Najnowsze </p>
+<p> Encyklopedia wiedzy </p>
+<p> Najpopularniejsze </p>
+<p> Wydarzenia </p>
+<p> Polska </p>
+<p> Świat </p>
+<p> Katastrofa </p>
+<p> Faktobus </p>
+<p> Polityka </p>
+<p> Opinie </p>
+<p> Gwiazdy </p>
+<p> Plotki </p>
+<p> Seriale </p>
+<p> Lokalne </p>
+<p> Białystok </p>
+<p> Gdańsk </p>
+<p> Katowice </p>
+<p> Kraków </p>
+<p> Łódź </p>
+<p> Poznań </p>
+<p> Pomorze Zachodnie </p>
+<p> Warszawa </p>
+<p> Wrocław </p>
+<p> Sport </p>
+<p> Piłka nożna </p>
+<p> Sporty walki </p>
+<p> Inne sporty </p>
+<p> Galerie </p>
+<p> Styl </p>
+<p> Zdrowie </p>
+<p> Dieta i Fitness </p>
+<p> Moda </p>
+<p> Uroda </p>
+<p> Kuchnia </p>
+<p> Licznik kalorii </p>
+<p> Kalkulator BMI </p>
+<p> Tabela kaloryczna </p>
+<p> Pieniądze </p>
+<p> Prawo </p>
+<p> Finanse </p>
+<p> Konsument </p>
+<p> Tanie kredyty </p>
+<p> Nieruchomości </p>
+<p> Informacje </p>
+<p> ze SKOK-ów </p>
+<p> Komputery </p>
+<p> Nowości </p>
+<p> Gry </p>
+<p> Gadżety </p>
+<p> Komputer Świat </p>
+<p> Auto </p>
+<p> Wiadomości </p>
+<p> Porady </p>
+<p> Plotki </p>
+<p> Gry </p>
+<p> if (typeof sas_manager != 'undefined') sas_manager.render(3624); </p>
+<p> Fakt.pl </p>
+<p> > </p>
+<p> Gwiazdy </p>
+<p> > </p>
+<p> Plotki </p>
+<p> › </p>
+<p> Korwin-Piotrowska. Ostro o polskich gwiazdkach. Przeczytaj </p>
+<p> Korwin-Piotrowska ostro o polskich gwiazdkach. Przeczytaj! </p>
+<p> Słowa kluczowe: </p>
+<p> Karolina Korwin-Piotrowska </p>
+<p> , </p>
+<p> krytyka </p>
+<p> , </p>
+<p> Doda </p>
+<p> , </p>
+<p> Wodzianka </p>
+<p> , </p>
+<p> Michał Wiśniewski </p>
+<p> , </p>
+<p> Maciej Zakościelny </p>
+<p> , </p>
+<p> Grycanki </p>
+<p> 02.01.2012, 18:15 </p>
+<p> Karolina Korwin-Piotrowska, dziennikarka i jurorka ”Top model”, słynie z bardzo ciętego języka. W wywiadzie dla jednego z tygodników pokazała, że jej krytyka polskich celebrytów nie zna granic </p>
+<p> $(document).ready(function() {$('a[rel="fb_share"]').click( function() {window.open( $(this).attr('href'),'title', 'width=400, height=300' );return false;});}); </p>
+<p> #fSBxT iframe {width: 110px !important;} </p>
+<p> Zobacz galerię zdjęć (2/13) </p>
+<p> Dziś polecamy </p>
+<p> Trzecia rocznica katastrofy. ... </p>
+<p> Premier pod pomnikiem ofiar ... </p>
+<p> Katastrofa zniszczyla te rodzine </p>
+<p> Dlaczego 11 kwietnia 2010 r. ... </p>
+<p> Oni tak bardzo sie kochali. Tych ... </p>
+<p> FOTO Taxi-protest i paraliz w ... </p>
+<p> Pala rachunki za prad i gaz </p>
+<p> 11 listopada w Warszawie. Zobacz, ... </p>
+<p> Szokujacy plakat z Maryja w ... </p>
+<p> if (typeof sas_manager != 'undefined') sas_manager.render(5664); </p>
+<p> Dziś w Koktajl24.pl polecamy </p>
+<p> Najdroższy łańcuch świata. Ale kajdan! </p>
+<p> Odważne legginsy z wycięciami </p>
+<p> Modne lato według Diane von Fürstenberg </p>
+<p> Korwin-Piotrowska </p>
+<p> bez ogródek twierdzi, że miniony rok był dla wielu z polskich gwiazdeczek bardzo nieudany. - Największą porażką jest właśnie Doda - mówi w "Newsweeku". </p>
+<p> <!-- google_ad_client = "ca-pub-5310645159024207"; /* Fakt  - ?rodek artykułu */ google_ad_slot = "1491797665"; google_ad_width = 336; google_ad_height = 280; //--> </p>
+<p> Jednak najbardziej obrywa się tzw. </p>
+<p> "Wodziance" </p>
+<p> , czyli dziewczynie, która pokazuje się półnago w programie Kuby Wojewódzkiego. - Moim zdaniem ma tez wodę zamiast mózgu - kwituje jurorka "Top model". </p>
+<p> Korwin-Piotrowska nie oszczędza też Michała Wiśniewskiego - Jest smutnym chłopcem. byłym artystą estradowym - mówi. </p>
+<p> Dziennikarka nie ma tez najlepszego zdania o zdolnościach aktorskich Macieja Zakościelnego. - Jest ofiarą obsadzania go we wszystkim dlatego, że jest ładnym chłopcem, a nie dobrym aktorem - zauważa. </p>
+<p> Oberwało się także reżyserowi Patrykowi Vedze za jego "Ciacho". Tym "dziełem" obraził inteligencję Korwin-Piotrowskiej. Nie lepiej jest też z Andrzejem Wajdą. Film o Wałęsie jej zdaniem nie porwie tłumów. - Dla młodych Wałęsa jest pierdzielem z telewizji - mówi. </p>
+<p> Karolina Korwin-Piotrowska zastanawia się także, czy wziąć udział w trzeciej edycji "Top model". Jurorka stwierdziła, że na wiele uczestniczek jest tak zdeterminowanych, że daje się macać po piersiach, tak jak było to w przypadku </p>
+<p> Andżeliki i Dawida Wolińskiego </p>
+<p> . - Gdybym była na miejscu tej macanej dziewczyny, Woliński nie miałby jedynek i trzymał się z bólu za jaja - mówi "Newsweekowi". </p>
+<p> Karolina Korwin-Piotrowska twierdzi, że w 2012 roku pojawi się nowy trend lansowania córek, żon i partnerek bogatych mężczyzn. Będą to np. " </p>
+<p> Grycanki </p>
+<p> , czyli córki potentata lodowego". </p>
+<p> >>> Dominika Wodzianka nago w "CKM" </p>
+<p> [MG, Newsweek] </p>
+<p> function createRateCookie(name,value,days){if (days) {var date = new Date();date.setTime(date.getTime()+(days*24*60*60*1000));var expires = "; expires="+date.toGMTString();	}else var expires = "";document.cookie = name+"="+value+expires+"; path=/";}function readRateCookie(cookieName){ RateHideScoreArt(); var nameEQ = cookieName + "="; var ca = document.cookie.split(';'); for(var i=0;i < ca.length;i++) { var c = ca[i]; while (c.charAt(0)==' ') c = c.substring(1,c.length); if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length); if (c==cookieName) RateShowScoreArt(); } }; </p>
+<p> ŚR. OCENA: </p>
+<p> 5 </p>
+<p> . GŁOSÓW: </p>
+<p> 1 </p>
+<p> ŚR. OCENA: </p>
+<p> 5 </p>
+<p> . GŁOSÓW: </p>
+<p> 1 </p>
+<p> if (typeof sas_manager != 'undefined') sas_manager.render(3348); </p>
+<p> function createPollCookie(name,value,days){if (days) {var date = new Date();date.setTime(date.getTime()+(days*24*60*60*1000));var expires = "; expires="+date.toGMTString();	}else var expires = "";document.cookie = name+"="+value+expires+"; path=/";}function readPollCookie(cookieName){ PllHideScore(); var nameEQ = cookieName + "="; var ca = document.cookie.split(';'); for(var i=0;i < ca.length;i++) { var c = ca[i]; while (c.charAt(0)==' ') c = c.substring(1,c.length); if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length); if (c==cookieName) PllShowScore(); } }; </p>
+<p> $(document).ready(function() {      var absoffset =  $("div.pollhook").offset().top;      var polloffset =  $("div.pollwrap").offset().top;              if ( polloffset > absoffset) {         $(".pollwrap").addClass("posLo");       }       else        {         $(".pollwrap").addClass("posHi");       }   }); </p>
+<p> Waszym zdaniem </p>
+<p> Cenisz Karolinę Korwin-Piotrowską? </p>
+<p> TAK </p>
+<p> 54% </p>
+<p> NIE </p>
+<p> 46% </p>
+<p> Liczba ankietowanych: 349 </p>
+<p> if (typeof sas_manager != 'undefined') sas_manager.render(9222); </p>
+<p> $(document).ready(function() {      var absoffset =  $("div.pollhook").offset().top;      var polloffset =  $("div.mvswrap").offset().top;       var polloffset = polloffset + 100 ;       if ( polloffset > absoffset) {         $(".mvswrap").addClass("MVSposLo");       }       else        {         $(".mvswrap").addClass("MVSposHi");       }   }); </p>
+<p> var __nc_widgets = __nc_widgets || [];  var __nc_j = __nc_j || null;   __nc_widgets.push(['4196-3285-5E2C-1002-1SG3tz', 'fakt.pl', 'recommendation', 1, 1]);   (function() {  var __nc = document.createElement('script'); __nc.type = 'text/javascript'; __nc.async = true; __nc.id = 'Nextclick_Manager';  __nc.src = 'http://nextclick.pl/widget/widget.recommendation.1.js';  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(__nc, s);  })(); </p>
+<p> Zobacz też </p>
+<p> Adamczyk odkrył, że Kate Rozz była ... </p>
+<p> Zaręczyny Górniak. Ukochany daremnie ... </p>
+<p> Grodzka śmieje się z obleśnego kawału </p>
+<p> Więcej </p>
+<p> | </p>
+<p> Kanały RSS </p>
+<p> <!-- google_ad_client = "ca-pub-5310645159024207"; /* Fakt - pod 1szym komentarzem */ google_ad_slot = "8317060464"; google_ad_width = 336; google_ad_height = 280; //--> </p>
+<p> ......... </p>
+<p> Krytykuje wszystkich a sama nie lepsza.A co ona mysli ze jest wzorem bez zadnych wad? niech najpierw spojrzy na siebie jaka jest a nie wytyka wady kazdemu kogu popadnie.Kiedys i ja ktos pojedzie tak ze sie odechce jej obrazac innych. </p>
+<p> 03.03.2012 18:46 </p>
+<p> www </p>
+<p> Zgłoś do moderacji </p>
+<p> hehehehe </p>
+<p> Spokojnie KArolcia nie będziesz na miejscu </p>
+<p> 21.02.2012 08:44 </p>
+<p> wow </p>
+<p> Zgłoś do moderacji </p>
+<p> no </p>
+<p> wreszcie znalazla sie jedna madra ,ktora powiedziala prawde o tych niby gwiazdach. </p>
+<p> 19.01.2012 16:32 </p>
+<p> n </p>
+<p> Zgłoś do moderacji </p>
+<p> Emanuje z niej brak satysfakcji seksualnej </p>
+<p> Frustracje i wieczne nie zadowolenie tej Pani jest smutne </p>
+<p> 08.01.2012 17:07 </p>
+<p> Jowita </p>
+<p> Zgłoś do moderacji </p>
+<p> lody </p>
+<p> zielona budka </p>
+<p> 08.01.2012 00:08 </p>
+<p> prz </p>
+<p> Zgłoś do moderacji </p>
+<p> 1 </p>
+<p> | </p>
+<p> 2 </p>
+<p> | </p>
+<p> 3 </p>
+<p> | </p>
+<p> 4 </p>
+<p> | </p>
+<p> 5 </p>
+<p> Dodaj komentarz </p>
+<p> Tytuł komentarza: </p>
+<p> Twój podpis: </p>
+<p> if (typeof sas_manager != 'undefined') sas_manager.render(3284); </p>
+<p> Najnowsze </p>
+<p> Najpopularniejsze </p>
+<p> 11:49 </p>
+<p> Papież nie ma talentu do języków </p>
+<p> 11:34 </p>
+<p> FOTO Trzecia rocznica katastrofy ... </p>
+<p> 10:55 </p>
+<p> Czartoryska dostanie tę willę w ... </p>
+<p> 10:40 </p>
+<p> Pięćdziesiątki do ... </p>
+<p> 10:35 </p>
+<p> Bajeczne pensje dla prezesów OFE </p>
+<p> 10:05 </p>
+<p> Ile trzeba zarabiać, by godnie ... </p>
+<p> 10:04 </p>
+<p> Najdroższy łańcuch świata. Ale ... </p>
+<p> 09:58 </p>
+<p> Foremniak kusi, aż trudno oderwać ... </p>
+<p> 09:48 </p>
+<p> Tak się dorobili na padlinie </p>
+<p> 09:34 </p>
+<p> Oddał życie, by ratować dziecko </p>
+<p> 09:17 </p>
+<p> Z Korei mogą polecieć rakiety </p>
+<p> 08:50 </p>
+<p> Trzecia rocznica katastrofy. ... </p>
+<p> 08:29 </p>
+<p> FOTO Zdrady w serialach </p>
+<p> 08:10 </p>
+<p> Premier pod pomnikiem ofiar ... </p>
+<p> 08:00 </p>
+<p> Horoskop na środę 10 kwietnia </p>
+<p> 08:00 </p>
+<p> Anastasi w nich wierzy </p>
+<p> 07:44 </p>
+<p> Odważne legginsy z wycięciami </p>
+<p> 07:43 </p>
+<p> Układ zamknięty, czyli jak wójt ... </p>
+<p> 07:26 </p>
+<p> Pomyłka śledczych czy zbrodnia ... </p>
+<p> 07:16 </p>
+<p> Zostań Miss Wiosny Faktu </p>
+<p> Więcej » </p>
+<p> Co dziś robi syn Anny German? Ma ... </p>
+<p> Adamczyk odkrył, że Kate Rozz ... </p>
+<p> Bezczelne kłamstwo o Annie ... </p>
+<p> Zaręczyny Górniak. Ukochany ... </p>
+<p> Skandal w Senacie. Nasza kasa ... </p>
+<p> Katastrofa smoleńska: Rosyjski ... </p>
+<p> Kulisy strasznego wypadku ... </p>
+<p> Matka zabiła Filipka, bo chciała ... </p>
+<p> Aleksander Kwaśniewski chce ... </p>
+<p> Grodzka śmieje się z obleśnego ... </p>
+<p> Autostrada A4. Kobieta zginęła, ... </p>
+<p> Burza w TVP1 po pokazie filmów o ... </p>
+<p> Koroniewska wystąpi w nowym ... </p>
+<p> Wellman do Prokopa: weź spier.... </p>
+<p> Grycanki pracują w ... </p>
+<p> Gardias wybrała już imię dla córki </p>
+<p> Czartoryska dostanie tę willę w ... </p>
+<p> ”M jak miłość”. ... </p>
+<p> Uważaj na czerwone mięso. ... </p>
+<p> Maciej Zakościelny rozstał się z ... </p>
+<p> if (typeof sas_manager != 'undefined') sas_manager.render(5026); </p>
+<p> Wideo </p>
+<p> Skrajne reakcje pod Pałacem </p>
+<p> <!-- google_ad_client = "ca-pub-5310645159024207"; /* Fakt - wysoki sidebar */ google_ad_slot = "3747260065"; google_ad_width = 300; google_ad_height = 250; //--> </p>
+<p> <!--//<![CDATA[ var m3_u = (location.protocol=='https:'?'https://ad.soft365.com/openx/www/delivery/ajs.php':'http://ad.soft365.com/openx/www/delivery/ajs.php'); var m3_r = Math.floor(Math.random()*99999999999); if (!document.MAX_used) document.MAX_used = ','; document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u); document.write ("?zoneid=139"); document.write ('&amp;cb=' + m3_r); if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used); document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : '')); document.write ("&amp;loc=" + escape(window.location)); if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer)); if (document.context) document.write ("&context=" + escape(document.context)); if (document.mmm_fo) document.write ("&amp;mmm_fo=1"); document.write ("'><\/scr"+"ipt>"); //]]>--> </p>
+<p> var so = new SWFObject("/appweb/jwplayer/player.swf", "mpl","300","202","9");       so.addParam("allowscriptaccess","always");so.addParam("allowfullscreen","true");       so.addParam("allowscriptaccess","always");so.addParam("allownetworking","all");       so.addParam("volume","1")so.addVariable("file", "http://www.fakt.pl/swf/loteria2013.flv");       so.addVariable("skin","/swf/modieus.swf");so.addVariable("image","/swf/loteria2013.jpg");       so.write("mediaspace"); </p>
+<p> new ASWidget('recipes',300,500); </p>
+<p> NEWSLETTER </p>
+<p> Już jest </p>
+<p> nowy </p>
+<p> Newsletter Fakt.pl </p>
+<p> Zamów za darmo, bądź na bieżąco! </p>
+<p> if (typeof sas_manager != 'undefined') sas_manager.render(3288); </p>
+<p> Najpopularniejsze </p>
+<p> Alicja Bachleda-Curuś </p>
+<p> Alicja Bachleda-Curuś </p>
+<p> Aneta Zając </p>
+<p> Anna Mucha </p>
+<p> Anna Mucha </p>
+<p> Barwy szczęścia </p>
+<p> Doda </p>
+<p> Dzieci Gwiazd </p>
+<p> Edyta Górniak </p>
+<p> Gwiazdy Nago </p>
+<p> Gwiazdy Nago </p>
+<p> Kasia Cichopek </p>
+<p> Kasia Tusk </p>
+<p> Katarzyna Skrzynecka </p>
+<p> Kate Middleton </p>
+<p> Kinga Rusin </p>
+<p> Komisarz Alex </p>
+<p> M jak miłość </p>
+<p> M jak miłość </p>
+<p> Mam talent </p>
+<p> Must Be The Music </p>
+<p> Must Be The Music </p>
+<p> Na Wspólnej </p>
+<p> Na Wspólnej </p>
+<p> Nergal </p>
+<p> Reklama w internecie </p>
+<p> if (typeof sas_manager != 'undefined') sas_manager.render(3289); </p>
+<p> if (typeof sas_manager != 'undefined') sas_manager.render(4302); </p>
+<p> var _r = document.referrer ? encodeURIComponent(document.referrer) : ''; var _w = encodeURIComponent(document.location.href); var _e = document.inputEncoding ? document.inputEncoding : document.charset; document.write('<scr'+'ipt type="text/javascript" src="http://ads.businessclick.com/awrapper?data=3917dc34e07c9c7180df2ea9ef103361c7180d0fe18858ce8b129e285c22cfa4&ref2='+_w+'&ref1='+_r+'&referer='+_r+'&webpage='+_w+'&v=2&encoding='+_e+'&oid=3917dc34e07c9c7180df2ea9ef103361"><\/scr'+'ipt>'); </p>
+<p> © 2003-2013 Ringier Axel Springer Polska </p>
+<p> Żadna część jak i całość utworów umieszczonych na witrynie nie może być powielana i rozpowszechniana w jakikolwiek sposób </p>
+<p> (w tym także elektroniczny, mechaniczny lub inny), na jakimkolwiek polu eksploatacji i w jakiejkolwiek formie, włącznie </p>
+<p> z umieszczeniem w Internecie - bez pisemnej zgody Ringier Axel Springer Polska Sp. z o.o. Jakiekolwiek użycie lub wykorzystanie utworów w całości lub w części bez zgody Ringier Axel Springer Sp. z o.o. lub autorów jest zabronione i stanowi naruszenie prawa. </p>
+<p> Korwin-Piotrowska. Ostro o polskich gwiazdkach. Przeczytaj </p>
+<p> Plotki </p>
+<p> function addClickCounters() {     function extractParamFromUri(uri, paramName) {         if (!uri) {             return;        }         var uri = uri.split('#')[0];  // Remove anchor.         var parts = uri.split('?');  // Check for query params.         if (parts.length == 1) {             return;         }        var query = decodeURI(parts[1]);         // Find url param.         paramName += '=';         var params = query.split('&');         for (var i = 0, param; param = params[i]; ++i) {             if (param.indexOf(paramName) === 0) {                return unescape(param.split('=')[1]);             }         }     };    function is(variable) {         return typeof (variable) !== 'undefined' && variable;     }     if (is(window.FB) && is(FB.Event) && is(FB.Event.subscribe)) {         FB.Event.subscribe('edge.create', function(targetUrl) {             //console.log('liked');             _gaq.push(['_trackSocial', 'facebook', 'like', targetUrl]);         });         FB.Event.subscribe('edge.remove', function(targetUrl) {             //console.log('unliked');             _gaq.push(['_trackSocial', 'facebook', 'unlike', targetUrl]);         });         FB.Event.subscribe('message.send', function(targetUrl) {             //console.log('send');             _gaq.push(['_trackSocial', 'facebook', 'send', targetUrl]);         });     } }; function countClick(network, action) {     //console.log(network, action);     _gaq.push(['_trackSocial', network, action]); }; (function() { addClickCounters(); _gaq = window._gaq || []; _gaq.push(['_setAccount', 'UA-4033697-1']); _gaq.push(['_setCustomVar',1,'Category','Plotki',3]); _gaq.push(['_setCustomVar',2,'ShortUrl','null',3]); _gaq.push(['_setCustomVar',3,'pn','13',3]); _gaq.push(['_trackPageview']); var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })(); </p>
+<p> if(window.document.location.href.match('fb_xd_fragment')!=null) {     var reg=/\?/     window.document.location.href.match('fb_xd_fragment');     var start=window.document.location.href.search(reg)     window.location=window.document.location.href.substring(0,start); } </p>
+<p> window.___gcfg = {lang: 'pl'};    (function() {     var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;     po.src = 'https://apis.google.com/js/plusone.js';     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);   })(); </p>
+<p> Restrictions.init(); </p>
+<p> if (typeof sas_manager != 'undefined') sas_manager.render(3347); </p>
+<p> function nnResize(init) {  if( init==true ) with(navigator){ if ((appName=="Netscape")&&(parseInt(appVersion)==4)) onresize=nnResize; }  else location.reload();}nnResize(true); </p>

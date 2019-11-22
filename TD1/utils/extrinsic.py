@@ -89,7 +89,7 @@ def prepare_json(json_content, path):
 
 
 def process_corpus():
-    out = subprocess.check_output(['python', '../utils/daniel/process_corpus.py',  '-c ../../../exo5/eval.json'])
+    out = subprocess.check_output(['python', '../utils/daniel/process_corpus.py',  '-c ../../exo5/eval.json'])
     composed_out = out.decode('ascii').split("\r\n")
     composed_out = composed_out[len(composed_out) - 2].split("/")
     return composed_out[len(composed_out) - 1]
@@ -124,6 +124,8 @@ def perform_extrinsic_evaluation(clean_repository_path_and_json, source_reposito
         
         remove("./gold.json")
         remove("./eval.json")
+        remove("./test.out")
+        remove("./tmp")
         remove("./" + processed_file)
     
     print_TP_FP_FN_TN(global_data)

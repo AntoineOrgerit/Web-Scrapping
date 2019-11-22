@@ -1,0 +1,659 @@
+<p> JANRAIN.SSO.CAPTURE.check_login({ 		sso_server: 'https://sso.canada.com', 		client_id: 'r9pez9besbxys2z6dbgsy5gdzzczd4zb', 		redirect_uri: 'http://'+window.location.hostname+'/scripts/sso/postlogin.ashx', 		logout_uri: 'http://'+window.location.hostname+'/scripts/sso/logout.ashx?type=providers', 		xd_receiver: 'http://'+window.location.hostname+'/xdcomm.html' 	}); </p>
+<p> CDMScriptManager.load('/js/jquery-1.2.6.min.js'); 	CDMScriptManager.load('/js/slider.js'); </p>
+<p> CDMScriptManager.load('/js/pluck/pluckLocal.js'); </p>
+<p> CDMScriptManager.load(pluckScriptUrl);      CDMScriptManager.load('/js/pluck/pluck.js'); </p>
+<p> .pluck-comm .pluck-user-persona { 			display: block !important; 		} </p>
+<p> Treating depression can help economy: Study </p>
+<p> function getCookies() { return ""; } </p>
+<p> Array.prototype.uniqueAry = function ()                         {                             var r = new Array();                             o:for(var i = 0, n = this.length; i < n; i++)                             {                                 for(var x = 0, y = r.length; x < y; x++)                                 {                                     if(r[x]==this[i])                                     {                                         continue o;                                     }                                 }                                 r[r.length] = this[i];                             }                             return r;                         }                          function getCookie(cookieName)                         {                             var dc = document.cookie;                              //load external cookies from .canada.com if not currently on .canada.com                             if (location.hostname.match(/\.canada\.com$/gi) == null)                                 dc += ";" + getCookies(); //append to existing document cookie                              var cookie_str = ""; //this string will contain the value of the cookie name                             var needle = "[A-Za-z0-9_-]*" + cookieName + "[A-Za-z0-9_-]*=[^;]+";                             var regex = new RegExp(needle, "gi");                             var matches = dc.match(regex);                             if (matches != null)                             {                                 for (var x = 0; x < matches.length; x++)                                     matches[x] = matches[x].substring(matches[x].indexOf("=")+1).replace(new RegExp("[\\s]+$", "g"), ""); //remove keyname prefix and trim                                 cookie_str = matches.join(",");                                 matches = cookie_str.split(",");                                 matches = matches.uniqueAry(); //remove duplicates                                 cookie_str = matches.join(";") + ";";                             }                             return unescape(cookie_str);                         }                          function getAdCookie()                         {                             return getCookie("adcookie");                         }                          function setSurroundCookie(value)                         {                             document.cookie = "surroundId=" + escape(value) + "; path=/";                         }                          function getSurroundCookie()                         {                             var dc = document.cookie;                             var prefix = "surroundId=";                             var begin = dc.indexOf("; " + prefix);                             if (begin == -1)                             {                                 begin = dc.indexOf(prefix);                                 if (begin != 0) return null;                             }                             else                             {                                 begin += 2;                             }                             var end = document.cookie.indexOf(";", begin);                             if (end == -1) end = dc.length;                             return unescape(dc.substring(begin + prefix.length, end));                         }                          // Setup for surround session.                         var adid = ""; // used in the ad to start a surround session                         var surroundTag = getSurroundCookie(); // Get surround session id from the cookie                         if(surroundTag == null) // check if there was a surround session id in the cookie                         {                             surroundTag = "";                         }                         else                         {                             surroundTag = "srnd="+surroundTag+";"; // finish setting up the key-value for the ad tags                         }                          //Setup for adcookie.                         var adcookieTag = getAdCookie(); // Get the ad cookie string </p>
+<p> adcookieTag = typeof(adcookieTag) != 'undefined' ? adcookieTag : '';                         dartad_tile = typeof(dartad_tile) != 'undefined' ? dartad_tile + 1 : 1;                         var dartad_url = "http://ad.ca.doubleclick.net/N3081/adj/vs_bus.com/business/story;loc=theTop;loc=top;sz=468x60,728x90;dcopt=ist;kw=ron;kw=business;nk=print;pr=vs;ck=business;page=story;kw=vs;tile="+dartad_tile+";"+adcookieTag+surroundTag+"ord=18164970?"; // script ad code with adcookie, used for debug                         document.write('<script language="JavaScript1.1" src="http://ad.ca.doubleclick.net/N3081/adj/vs_bus.com/business/story;loc=theTop;loc=top;sz=468x60,728x90;dcopt=ist;kw=ron;kw=business;nk=print;pr=vs;ck=business;page=story;kw=vs;tile='+dartad_tile+';'+adcookieTag+surroundTag+'ord=18164970?"><\/script>'); </p>
+<p> if(adid != "") // check if the ad should start a surround session only if a surround session has not yet started                         {                             surroundTag = "srnd="+adid+";"; // setup the key-value for a surround session                             setSurroundCookie(adid); // store the surround session id in a cookie.                         } </p>
+<p> Shopping </p>
+<p> | </p>
+<p> Obituaries </p>
+<p> | </p>
+<p> Horoscopes </p>
+<p> | </p>
+<p> Lotteries </p>
+<p> Search </p>
+<p> Search </p>
+<p> YellowPages </p>
+<p> Find a business or person </p>
+<p> CDMScriptManager.load("http://www.vancouversun.com/js/autocomplete/jquery.autocomplete.min.js"); </p>
+<p> function doSearch() { 				var q = document.getElementById("q").value.replace(/[^0-9a-zA-Z\s*]/g,""); 				q = q.replace(/ /g,"+"); 				if (q.length == 0) { 					alert("Please enter your search criteria"); 					return; 				} 				var dname = document.domain;  				if ( dname=="driving.ca") { 					document.location.href="http://www.driving.ca/vancouver/search/search.html?q=" + escape(q); 					} 				else { 					document.location.href="http://www.vancouversun.com/search/search.html?q=" + escape(q); 				} 			} 			//FAST WAVE 1 			//add javascript to hook up search text box in header 			//set up autocomplete on search box in header			 			jQuery(document).ready(function() { 				jQuery("#q").autocomplete("http://app.canada.com/search/search.svc/autocomplete", { 					dataType: 'jsonp', 					parse: function(data) { 						var rows = new Array(); 						data = data.Terms; 						for(var i=0; i<data.length; i++){ 							rows[i] = { data:{Term:data[i]}, value:data[i], result:data[i] }; 						} 						return rows; 					}, 					resultsClass: "fast_wave_results", 					formatItem: function(row, i, n) { 						return  row.Term; 					}, 					cacheLength: 0, 					extraParams: { 						format: "json" 					}, 					minChars: 1, 					max: 10, 					highlight: function(value, term) { 						var pos = value.toLowerCase().indexOf(term.toLowerCase()); 						return (pos > 0)?"<b>" + value.substring(0,pos) + "</b>" + value.substring(pos, term.length) + "<b>" + value.substring(pos + term.length) + "</b>":value.substring(0, term.length) + "<b>" + value.substring(pos + term.length) + "</b>"; 					}, 					scroll: false, 					selectFirst: false 				});  			}); </p>
+<p> Â </p>
+<p> Â </p>
+<p> Weather Centre </p>
+<p> Â </p>
+<p> Â </p>
+<p> Â </p>
+<p> -1°C </p>
+<p> Â </p>
+<p> Partly cloudy </p>
+<p> Vancouver </p>
+<p> Detailed Forecast </p>
+<p> Â </p>
+<p> Subscriber Services </p>
+<p> Start Home Delivery </p>
+<p> Digital Edition </p>
+<p> Mobile Products </p>
+<p> canada.com network </p>
+<p> Newspapers </p>
+<p> National Post </p>
+<p> Victoria Times Colonist </p>
+<p> The Province (Vancouver) </p>
+<p> Vancouver Sun </p>
+<p> Edmonton Journal </p>
+<p> Calgary Herald </p>
+<p> Regina Leader-Post </p>
+<p> Saskatoon StarPhoenix </p>
+<p> Windsor Star </p>
+<p> Ottawa Citizen </p>
+<p> The Gazette (Montreal) </p>
+<p> DOSE </p>
+<p> Postmedia Community Publishing </p>
+<p> Nanaimo Daily News </p>
+<p> function handlePostLogin() { 		// change the login status bar to reflect a logged in state 		jQuery.getScript("http://"+window.location.hostname+"/scripts/sso/user.ashx?format=json&callback=renderLoginStatusBar");  		if((window.location+"").indexOf("/members/account-verified.html") > -1 || (window.location+"").indexOf("/members/cancel-deletion.html") > -1 || (window.location+"").indexOf("/members/reset-password-complete.html") > -1) window.location="/index.html"; 		else window.location.reload(); 	}  	function handlePostLogout() { 		// change the login status bar to reflect a logged out state 		jQuery.getScript("http://"+window.location.hostname+"/scripts/sso/user.ashx?format=json&callback=renderLoginStatusBar"); 		 		if((window.location+"").indexOf("edit-profile.html") > -1) window.location="/index.html"; 		else window.location.reload(); 	}  	function dologout() { 		// create the hidden logout iframe 		var src = 'http://'+window.location.hostname+'/scripts/sso/logout.ashx?iframe=true'; 		jQuery('<iframe id="iframe_logout" style="visibility:hidden;display:none" frameborder="0" hspace="0" scrolling="no" src="' + src + '"></iframe>').appendTo('body'); 	}  	function renderLoginStatusBar(user) { 		var user = user.User; 		var statusBarHtml = "";  		if (user.IsLoggedIn) { 			statusBarHtml += "<ul>"; 			statusBarHtml += "	<li>Hi " + user.DisplayName + "</li>"; 			statusBarHtml += " " + profileLink; 			statusBarHtml += "	<li><a href=\"javascript:dologout();\">Sign Out</a></li>"; 			statusBarHtml += "</ul>"; 		} 		else { 			statusBarHtml += "<ul>"; 			statusBarHtml += "	<li><a href=\"javascript:light.mask(jQuery('body'),light.getHtml('user_reg_internal_1t'));\">Log in</a></li>"; 			statusBarHtml += "	<li><a href=\"javascript:light.mask(jQuery('body'),light.getHtml('user_reg_internal_1t'));\">Register</a></li>"; 			statusBarHtml += "</ul>"; 		} 		document.getElementById("loginstatusbarchild").innerHTML = statusBarHtml; 	} </p>
+<p> jQuery.getScript("http://"+window.location.hostname+"/scripts/sso/user.ashx?format=json&callback=renderLoginStatusBar"); </p>
+<p> Online Now </p>
+<p> A guide to office etiquette </p>
+<p> No matter where you work, there is a strict code of work etiquette that should be … but often isn’t …  followed. Take a look at a few solid ‘Don’ts’ in the unwritten workplace rulebook of coworker manners. </p>
+<p> more Â» </p>
+<p> Â </p>
+<p> The Vancouver Sun </p>
+<p> Online Now </p>
+<p> Red-hot celebrity fashion </p>
+<p> Sexy stars stepped out in high fashion at the 2012 People’s Choice Awards in Los Angeles on Wednesday. Take a look at some of the top looks from the evening. </p>
+<p> more Â» </p>
+<p> Â </p>
+<p> Â </p>
+<p> Â </p>
+<p> Weather Centre </p>
+<p> Â </p>
+<p> Â </p>
+<p> Â </p>
+<p> -1°C </p>
+<p> Â </p>
+<p> Partly cloudy </p>
+<p> Vancouver </p>
+<p> Detailed Forecast </p>
+<p> Â </p>
+<p> News </p>
+<p> Metro </p>
+<p> U-Report </p>
+<p> National </p>
+<p> World </p>
+<p> Gangs </p>
+<p> Education </p>
+<p> Health </p>
+<p> Weather </p>
+<p> Traffic and Transit </p>
+<p> Database </p>
+<p> Today’s Paper </p>
+<p> Podcasts </p>
+<p> Opinion </p>
+<p> Staff Blogs </p>
+<p> Community Blogs </p>
+<p> Letters </p>
+<p> Columnists </p>
+<p> Editorials-Columns </p>
+<p> Op–Ed </p>
+<p> Editorial Cartoon </p>
+<p> Community of Interest </p>
+<p> Business </p>
+<p> Your Money </p>
+<p> Small Business </p>
+<p> Economy </p>
+<p> Industry </p>
+<p> Resources </p>
+<p> Workplace </p>
+<p> Innovation </p>
+<p> Technology </p>
+<p> Asia Pacific </p>
+<p> Calculators </p>
+<p> Real Estate </p>
+<p> Agriculture & Food </p>
+<p> Keeping Track </p>
+<p> Energy </p>
+<p> Insurance </p>
+<p> Markets on FP </p>
+<p> Sports </p>
+<p> Canucks-Hockey </p>
+<p> Lions-Football </p>
+<p> Whitecaps-Soccer </p>
+<p> Baseball </p>
+<p> Basketball </p>
+<p> Golf </p>
+<p> MMA/Boxing </p>
+<p> Tennis </p>
+<p> Racing </p>
+<p> Winter Sports </p>
+<p> 2010 Olympics Legacy </p>
+<p> Sun Run </p>
+<p> Ski Guide </p>
+<p> Entertainment </p>
+<p> Movies </p>
+<p> Television </p>
+<p> TV Listings </p>
+<p> Music </p>
+<p> Books </p>
+<p> Celebrity </p>
+<p> Theatre </p>
+<p> What's On </p>
+<p> Fairs ⁄ Festivals </p>
+<p> Life </p>
+<p> 2011 Sun Run </p>
+<p> Wellness </p>
+<p> Fashion & Beauty </p>
+<p> Food </p>
+<p> Wine </p>
+<p> Pets </p>
+<p> Parenting </p>
+<p> Relationships </p>
+<p> Diversions - Comics & Games </p>
+<p> In the Garden </p>
+<p> Environment </p>
+<p> Eat ⁄ Drink </p>
+<p> Technology </p>
+<p> Gaming </p>
+<p> Tech – Biz </p>
+<p> Internet </p>
+<p> Space </p>
+<p> Science </p>
+<p> Best of YouTube </p>
+<p> Download Sun Apps </p>
+<p> Travel </p>
+<p> Ski Guide </p>
+<p> Trip Ideas </p>
+<p> Tools & Tips </p>
+<p> Community </p>
+<p> Destination Guides </p>
+<p> Topics </p>
+<p> People </p>
+<p> Places </p>
+<p> Miscellaneous </p>
+<p> Organizations </p>
+<p> Jobs </p>
+<p> Home </p>
+<p> Search Jobs </p>
+<p> Resources </p>
+<p> Post Jobs </p>
+<p> Jobseekers </p>
+<p> Employer Login </p>
+<p> Top Employers </p>
+<p> Cars </p>
+<p> New </p>
+<p> Used </p>
+<p> Weekly Specials </p>
+<p> Sell </p>
+<p> Research & Compare </p>
+<p> News & Events </p>
+<p> Videos </p>
+<p> Features </p>
+<p> Homes </p>
+<p> New Home Developments </p>
+<p> At Home </p>
+<p> New and Notable </p>
+<p> Out Of Town Properties </p>
+<p> Bought/Sold </p>
+<p> Westcoast Homes & Design Magazine </p>
+<p> Renovating </p>
+<p> Decorating </p>
+<p> Classifieds </p>
+<p> Announcements </p>
+<p> Dating </p>
+<p> Obituaries </p>
+<p> Job Listings </p>
+<p> Car Listings </p>
+<p> Real Estate For Sale/Rent </p>
+<p> Shopping </p>
+<p> Place an Ad </p>
+<p> FlyerCity </p>
+<p> Don't miss: </p>
+<p> Chinese News </p>
+<p> Sun Run </p>
+<p> Sun at 100 </p>
+<p> Sun Ski Guide </p>
+<p> Adopt-a-school </p>
+<p> Student videos </p>
+<p> Vancouver 125 </p>
+<p> eStore </p>
+<p> Today's Paper </p>
+<p> Video </p>
+<p> Â </p>
+<p> Â» </p>
+<p> RSS </p>
+<p> adcookieTag = typeof(adcookieTag) != 'undefined' ? adcookieTag : '';                         dartad_tile = typeof(dartad_tile) != 'undefined' ? dartad_tile + 1 : 1;                         var dartad_url = "http://ad.ca.doubleclick.net/N3081/adj/vancouversun.com/business/story;loc=top;sz=960x42;kw=ron;kw=business;nk=print;pr=vs;ck=business;page=story;kw=vs;tile="+dartad_tile+";"+adcookieTag+surroundTag+"ord=18164970?"; // script ad code with adcookie, used for debug                         document.write('<script language="JavaScript1.1" src="http://ad.ca.doubleclick.net/N3081/adj/vancouversun.com/business/story;loc=top;sz=960x42;kw=ron;kw=business;nk=print;pr=vs;ck=business;page=story;kw=vs;tile='+dartad_tile+';'+adcookieTag+surroundTag+'ord=18164970?"><\/script>'); </p>
+<p> if(adid != "") // check if the ad should start a surround session only if a surround session has not yet started                         {                             surroundTag = "srnd="+adid+";"; // setup the key-value for a surround session                             setSurroundCookie(adid); // store the surround session id in a cookie.                         } </p>
+<p> CDMScriptManager.load('/js/SpiderRedirect.js'); </p>
+<p> CDMScriptManager.load('/js/pluck/pluckLocal.js'); 				CDMScriptManager.load('http://pluck.vancouversun.com/ver1.0/Direct/DirectProxy'); 				CDMScriptManager.load('/js/pluck/pluck.js');				 				CDMScriptManager.load('/js/adsync/adSyncLibrary.js'); </p>
+<p> if (typeof dartad_url != 'undefined') { 					var dd = adSync.ParseDartAdUrl(dartad_url); 					cwZoneAd=dd["zone"]; 					cwSiteAd =dd["site"]; 					cwKeyAd=dd["keyValues"]; 				}else { 					cwSiteAd = "vs_bus.com"; // plug in the Ad site variable 					cwZoneAd= "business/story"; // plug in the ad zone. 					cwKeyAd="kw=ron;kw=business"; // plug in the Ad key words. 				} </p>
+<p> var addthis_pub = 'canada.com';  				function tabClick(eventText, hasVideo, id, classname, pause,syncAds) 				{	 					//the statsEvent and Ad Refresh have been disabled on the story tab clicks 					//I've left the code in the xsl (just commented out), in case the decision gets reversed. 									 					//omniture event 					//statsEvent(eventText);	 					 					//set tab 					if(hasVideo) 						switchTab(id,classname, pause); 					else 						setClass(id, classname);  					//refresh ads 					//if(syncAds) 						//adSync.TriggerAdSynch(); 				}  				function statsEvent(eventText) 				{ 					//omniture event 					s.prop38=s.pageName + eventText; 					s.events=''; 					void(s.t());				 				}  				function showTab(firstentrytype) 				{ 					var tab = getQueryVar('tab'); 					var tabclass = '';  					if (tab == 'PHOT' || (firstentrytype.indexOf('image/') != -1 && tab == '')) 						tabclass = 'story_photo_content'; 					else if (tab == 'VID' || ((firstentrytype == 'application/vnd.ooyala') && tab == '')) 						tabclass = 'story_video_content'; 					else if (tab == 'FLSH' || (firstentrytype == 'application/x-shockwave-flash' && tab == '')) 						tabclass = 'story_interactive_content';  					if (tabclass != '') 						setClass('storypage', tabclass); 				} 				function EmailThis(qs, emailViewer)  				{ 					var url = "http://" + window.location.hostname + window.location.pathname; 					var id = "";  					id = getQueryVar("id"); 					if (id != "") 					{ 						url = addQS(url, "id=" + id); 					} 					if (qs != "") 					{ 						url = addQS(url, qs); 					} 					if (typeof(emailViewer) == "undefined" || emailViewer == null || emailViewer == "") emailViewer = "/story_emailthis.html"; 					openWindow(emailViewer + '?referrer=' + encodeURIComponent(url), 'StoryEmailThis', 'scrollbars=yes,resizable=yes,width=550,height=380') 				} 				function getQueryVar(key)  				{ 					var qs = window.location.search.substring(1); 					var arrQS = qs.split("&"); 					var value = "";  					for (i=0; i<arrQS.length; i++) { 						var ft = arrQS[i].split("="); 						if (ft[0] == key) { 							value =  ft[1]; 						} 					}  					return value; 				} 				function addQS(theURL, QS) 				{ 					var url = theURL; 					if (QS != '') 					{ 						if (url.indexOf("?") == -1)	{ 							url += "?" + QS; 						}  						else { 							url += "%26amp;" + QS; 						} 					} 					return url; 				} 				function openWindow(theURL, WinName, WinFeatures) { 					window.open(theURL, WinName, WinFeatures); 				} 				function jumpToAnchor(anchor)  				{ 					window.location = String(window.location).replace(/\#.*$/, "") + anchor; 				} 				function showAd(story_elem, ad_elem, ad_wrapper, offset) { 					var eosPos = Y(story_elem); 					var adPos = Y(ad_wrapper); 					var showAd = false; 					var offsetPos = 0; 					 					if (eosPos >= adPos) 					{ 						showAd = true; 					} 					else 					{ 						offsetPos = eosPos + offset; 						if (offsetPos >= adPos) 						{ 							showAd = true; 						} 					}  					// write out ad include 					if (showAd == true) 					{ 					   document.getElementById(ad_elem).style.display = "block";  					} 				}				 				function X(id) { 					var obj = document.getElementById(id); 					var x = obj.offsetLeft  					while (obj = obj.offsetParent) x += obj.offsetLeft 					return x 				} 				function Y(id) { 					var obj = document.getElementById(id); 					var y = obj.offsetTop  					while (obj = obj.offsetParent) y += obj.offsetTop 					return y 				} </p>
+<p> CDMScriptManager.load("http://s9.addthis.com/js/widget.php?v=10"); </p>
+<p> Treating depression can help economy: Study </p>
+<p> Â </p>
+<p> Â </p>
+<p> By Derek Abma, Postmedia News </p>
+<p> January 11, 2012 </p>
+<p> Â </p>
+<p> Tweet </p>
+<p> var pluckContentID = 'SP6:5979921'; //value used by story_share_bar.inc to pull comments </p>
+<p> Comment </p>
+<p> 0 </p>
+<p> function getPluckContent(ArtKey) { 			    var commentsPageRequest = new PluckSDK.CommentsPageRequest(); 			    commentsPageRequest.CommentedOnKey = new PluckSDK.ExternalResourceKey({ Key: ArtKey });  			    PluckSDK.SendRequests([commentsPageRequest], responsePluckContentCallback); 			}  			function responsePluckContentCallback(responses) { 				//safely dump the response to Firebug 				var totalItems = isNaN(responses[0].TotalItems) ? 0 : responses[0].TotalItems; 				jQuery("#pluckCommentCount").text(totalItems); 			}  			//pluckContentID set in main.xsl 			getPluckContent(pluckContentID); </p>
+<p> stLight.options({ 				publisher:'8f205be9-8545-4fa3-a030-c83238b6a3e5', 				offsetLeft:'-265', 				onhover: false, 				embeds:'true', 		}); </p>
+<p> Â </p>
+<p> Story </p>
+<p> Photos ( 1 ) </p>
+<p> showTab("text/html"); </p>
+<p> Â </p>
+<p> function resizeImage() { 					var imgBox = document.getElementById('imageBox'); 					var photo = document.getElementById('storyphoto');  					if (imgBox != null && photo != null) 					{ 						if(photo.width >= 460)  						{ 							imgBox.className = 'imagesize460'; 						} 						else  						{ 							if(photo.width >= 300)  							{ 								imgBox.className = 'imagesize310'; 							} 							else  							{ 								imgBox.className = 'imageboxpadding'; 							} 							imgBox.style.width = photo.width + 'px'; 						} 					} 				} 				function getStoryFontSize() { 					var storyfontsize = getCookie('storyfontsize'); 					var storyfontimage = getCookie('storyfontimage');  					// use cookied value, if present 					if (storyfontsize != null) 					{ 						setClass('story_content',storyfontsize);  						if (storyfontimage != null) 						{ 							setClass('fontsizecontainer',storyfontimage);  						} 					} 					else	// default it to para14 if no cookie 					{ 						setClass('story_content','para14');  						setClass('fontsizecontainer','size02'); 					} 				} 				function setStoryFontSize(storyfontsize,storyfontimage) { 					setClass('story_content',storyfontsize);  					setClass('fontsizecontainer',storyfontimage); 					setCookie('storyfontsize', storyfontsize, '365', '/', '', ''); 					setCookie('storyfontimage', storyfontimage, '365', '/', '', ''); 				} 				function setCookie( name, value, expires, path, domain, secure ) { 					// set time 					var today = new Date(); 					today.setTime( today.getTime() );  					if ( expires ) 					{ 						expires = expires * 1000 * 60 * 60 * 24; //days 					} 					var expires_date = new Date( today.getTime() + (expires) );  					document.cookie = name + "=" + escape( value ) + 					( ( expires ) ? ";expires=" + expires_date.toGMTString() : "" ) +  					( ( path ) ? ";path=" + path : "" ) +  					( ( domain ) ? ";domain=" + domain : "" ) + 					( ( secure ) ? ";secure" : "" ); 				} 				function getCookie( check_name ) { 					// split this cookie up into name/value pairs 					var a_all_cookies = document.cookie.split( ';' ); 					var a_temp_cookie = ''; 					var cookie_name = ''; 					var cookie_value = ''; 					var b_cookie_found = false; // set boolean t/f default f 					 					for ( i = 0; i < a_all_cookies.length; i++ ) 					{ 						// split apart each name=value pair 						a_temp_cookie = a_all_cookies[i].split( '=' ); 						 						// and trim left/right whitespace while we're at it 						cookie_name = a_temp_cookie[0].replace(/^\s+|\s+$/g, ''); 					 						// if the extracted name matches passed check_name 						if ( cookie_name == check_name ) 						{ 							b_cookie_found = true; 							// we need to handle case where cookie has no value but exists (no = sign, that is): 							if ( a_temp_cookie.length > 1 ) 							{ 								cookie_value = unescape( a_temp_cookie[1].replace(/^\s+|\s+$/g, '') ); 							} 							// note that in cases where cookie is initialized but no value, null is returned 							return cookie_value; 							break; 						} 						a_temp_cookie = null; 						cookie_name = ''; 					} 					if ( !b_cookie_found ) 					{ 						return null; 					} 				} </p>
+<p> Â </p>
+<p> A new report from the Paris-based Organisation for Economic Co-operation and Development says one in five workers is struggling to cope with some form of mental illness, such as depression or anxiety, which affects productivity and well-being in the workplace. Another report suggests the workplace would save money if it invested in treatment. </p>
+<p> Photograph by: </p>
+<p> Stock photo, Thinkstock </p>
+<p> On top of the personal anguish suffered by someone afflicted with </p>
+<p> depression </p>
+<p> , a new study shows that, gone untreated, this form of </p>
+<p> mental illness </p>
+<p> also takes a toll on the economy. </p>
+<p> Research from the Toronto-based </p>
+<p> Centre for Addiction and Mental Health </p>
+<p> indicates treatment for depression can help people suffering from the condition stay productive on the job. </p>
+<p> The centre said mental illness, in general, costs the Canadian economy about $51 billion a year, with one-third of that due to lost productivity. </p>
+<p> Surveys of 3,000 Alberta workers in 2009 found that, among the 255 people indicating they suffered a depressive episode within a year of being interviewed, those who received treatment were more likely to report being able to function at a highly productive level at work. </p>
+<p> Carolyn Dewa, who heads the centre's research division for workplace health, said such finds make sense, given common symptoms of depression, such as concentration loss and </p>
+<p> insomnia </p>
+<p> . </p>
+<p> "To get help with some of those symptoms would really help people to better function," she said. </p>
+<p> Those who reported experiencing a severe depressive episode were seven times more likely to report being able to perform at a highly productive rate if they had received treatment compared to those untreated. </p>
+<p> For those who went through a moderate episode, treatment made them 2.5 times more likely to reach this optimum level of productivity, the study found. </p>
+<p> The effect of treatment on those who had gone through a mildly depressive episode was not found to be significant. </p>
+<p> To be considered as having been depressed, a respondent had to point out at least a two-week period in the year previous to the interview when they felt depressed and had a lack of interest in regular activities. The degree of severity was determined by how many other symptoms they reported, such as a loss of appetite, low self-esteem and suicidal thoughts. </p>
+<p> In this study, it was found that 40 per cent of those who had experienced a severe depressive episode did not get treatment for it â which would include therapy, medication or both â 57 per cent reporting a moderate episode were untreated, and it was 82 per cent for those with mild symptoms. </p>
+<p> The centre called on employers to make treatment options for depression more accessible to their workers. </p>
+<p> "It's not even just about out-of-pocket payments and things like that," Dewa said. "Can people get time off to go to the doctor or to get counselling? Because to get those kinds of treatment, often you have to go during working hours." </p>
+<p> She highlighted the value in employer-benefits plans that cover drugs and therapy for depression. </p>
+<p> Dewa said it typically costs an employer about $18,000 if a worker takes a leave of absence due to mental illness, due to the disruption in workflow. While it's unclear what it would cost organizations to improve the accessibility of treatment options â which also could include a communications policy to reduce the stigma associated with mental illness â she said it would be less expensive than having the employee take leave. </p>
+<p> She added that including mental-health drugs and therapy under the umbrella of universal, publicly funded health care is worth consideration. </p>
+<p> The Centre for Addiction and Mental Health's study follows a report from the </p>
+<p> Organization for Economic Development and Co-operation </p>
+<p> last month pointing out the drag mental illness has on worker productivity in industrialized countries all over the world, and how it hurts individuals' chances of employment. </p>
+<p> dabma@postmedia.com </p>
+<p> Twitter.com/derekabma </p>
+<p> Â© Copyright (c) Postmedia News </p>
+<p> Â </p>
+<p> Â </p>
+<p> Â </p>
+<p> E-mail this Article </p>
+<p> Print this Article </p>
+<p> Share this Article </p>
+<p> Â </p>
+<p> Â </p>
+<p> Â </p>
+<p> Â </p>
+<p> Location refreshed </p>
+<p> var geoloc_service_domain = "app.canada.com"; 	var geoloc_postproxy_domain = window.location.hostname+""; 	CDMScriptManager.load('/js/geo_location.js'); </p>
+<p> More on This Story </p>
+<p> Â </p>
+<p> Antidepressant, talk therapy fail to beat placebo </p>
+<p> Mental illness affecting productivity </p>
+<p> Too little exercise, too much TV tied to depression </p>
+<p> Living well with mental illness </p>
+<p> Â </p>
+<p> Story Tools </p>
+<p> Â </p>
+<p> E-mail this Article </p>
+<p> Print this Article </p>
+<p> jQuery('#liComment').hide(); </p>
+<p> Â </p>
+<p> Font: </p>
+<p> * </p>
+<p> * </p>
+<p> * </p>
+<p> * </p>
+<p> * </p>
+<p> // load up cookied story font size 								getStoryFontSize(); </p>
+<p> Â </p>
+<p> Image: </p>
+<p> * </p>
+<p> * </p>
+<p> * </p>
+<p> * </p>
+<p> Â </p>
+<p> Â </p>
+<p> Â </p>
+<p> Â </p>
+<p> Â </p>
+<p> Â </p>
+<p> A new report from the Paris-based Organisation for Economic Co-operation and Development says one in five workers is struggling to cope with some form of mental illness, such as depression or anxiety, which affects productivity and well-being in the workplace. Another report suggests the workplace would save money if it invested in treatment. </p>
+<p> Photograph by: </p>
+<p> Stock photo, Thinkstock </p>
+<p> Â </p>
+<p> Â </p>
+<p> Â </p>
+<p> E-mail this Gallery </p>
+<p> Print this Gallery </p>
+<p> Share this Gallery </p>
+<p> Â </p>
+<p> Â </p>
+<p> Â </p>
+<p> Photo Galleries  » </p>
+<p> More Photo Galleries </p>
+<p> People's Choice Awards best and... </p>
+<p> Here are some of the highlights (and lowlights) from... </p>
+<p> more Â» </p>
+<p> Rate the Fashion: People's Choice Awards </p>
+<p> People's Choice Awards Winners </p>
+<p> Â </p>
+<p> A guide to office etiquette: The... </p>
+<p> No matter where you work, there is a strict code of... </p>
+<p> more Â» </p>
+<p> Â </p>
+<p> Curling beauties at Langley's ... </p>
+<p> Some of the female curlers taking part at the 2012... </p>
+<p> more Â» </p>
+<p> Â </p>
+<p> More Photo Galleries » </p>
+<p> Â </p>
+<p> Â </p>
+<p> var playingAd; 		document.write("<img id='vid1' height='1' width='1'>"); 		function videoScore(evt){ 			playingAd=evt.data.isAd; 			document.getElementById("vid1").src="http://beacon.securestudies.com/scripts/beacon.dll?C1=1&C2=3005660&C3=3005660&C4=" + window.location.pathname.toLowerCase() + "&C5=&C6=&C7=" + escape(window.location.href) + "&C8=" + escape(document.title) + "&C9=" + escape(document.referrer) + "&rn=" + Math.floor(Math.random()*99999999); 		} 		tpController.addEventListener("OnMediaStart", "videoScore"); </p>
+<p> Related Topics </p>
+<p> Centre for Addiction and Mental Health </p>
+<p> Depression </p>
+<p> Health and Fitness </p>
+<p> adcookieTag = typeof(adcookieTag) != 'undefined' ? adcookieTag : '';                         dartad_tile = typeof(dartad_tile) != 'undefined' ? dartad_tile + 1 : 1;                         var dartad_url = "http://ad.ca.doubleclick.net/N3081/adj/vs_bus.com/business/story;loc=top_box;loc=top;sz=250x250,300x250,300x600;kw=ron;kw=business;nk=print;pr=vs;ck=business;page=story;kw=vs;tile="+dartad_tile+";"+adcookieTag+surroundTag+"ord=18164970?"; // script ad code with adcookie, used for debug                         document.write('<script language="JavaScript1.1" src="http://ad.ca.doubleclick.net/N3081/adj/vs_bus.com/business/story;loc=top_box;loc=top;sz=250x250,300x250,300x600;kw=ron;kw=business;nk=print;pr=vs;ck=business;page=story;kw=vs;tile='+dartad_tile+';'+adcookieTag+surroundTag+'ord=18164970?"><\/script>'); </p>
+<p> if(adid != "") // check if the ad should start a surround session only if a surround session has not yet started                         {                             surroundTag = "srnd="+adid+";"; // setup the key-value for a surround session                             setSurroundCookie(adid); // store the surround session id in a cookie.                         } </p>
+<p> .textheadlines-links ul.list_vr_line li a { margin-left:3px; font-size:12px; font-weight:bold; color:#004276; } .outbrain_rec_li { color: #9A9A9A; font: 11px arial,Helvetica,Utkal,sans-serif; list-style: none outside none !important; font-weight:normal; padding: 0px 0px 8px 0px !important; } #outbrain_widget_0 a:link, #outbrain_widget_1 a:link,  #outbrain_widget_0 a:visited, #outbrain_widget_1 a:visited { color: #004276; outline: medium none; font-weight:bold;} .div-wrapper ul { padding: 0 0 0 0px !important;} span.rec-src-link { font-weight:bold; } .outbrain_strybtmmorebx h4 { font-size: 18px; font-weight: bold; line-height: 21px; padding-bottom: 8px; } .Outbrain_recommendations_legend {display:none;} .outbrain-recommendationsFieldset { border-width:0px !important; padding:0px !important ;} .ob_dual_right { width:100% !important;} #outbrain_widget_0 .AR_1 .ob_dual_left, #outbrain_widget_0 .AR_1 .ob_dual_right { display: block; float: none; margin-top: 0!important; padding-top: 0!important; width: 100%; !important;} #outbrain_widget_0 { padding: 0px 0px 0px 4px !important;} #outbrain_widget_1 { padding: 0px 0px 0px 4px !important;} .AR_1 .ob_dual_right .odb_li .ob-text-content .ob_source { color: #9A9A9A !important;font-size: 12px;} .ob_what a {color: #9A9A9A !important; font-size:10px; font-weight:normal;} .ob_dual_left { width: 100% !important;} .AR_1 .ob_dual_left, .AR_1 .ob_dual_right {  width: 100% !important;} </p>
+<p> function obInit() { document.getElementById("outbrain").innerHTML = '<div class="OUTBRAIN" data-src="'+ window.location +'"data-widget-id="AR_1" data-ob-template="vancouversun" ></div>'; } window.onload=obInit; </p>
+<p> Hot photos and videos </p>
+<p> News </p>
+<p> Sports </p>
+<p> Entertainment </p>
+<p> Business </p>
+<p> More photos » </p>
+<p> var pmHotWidgetsections=["news","sports","entertainment","videos"];   var pmHotWidgetinit="news";   for (var x = 0; x < pmHotWidgetsections.length; x++) { 			if(document.body.getAttribute('class').toLowerCase().indexOf(pmHotWidgetsections[x])>=0){ 				pmHotWidgetinit=pmHotWidgetsections[x]; 				break; 			}   		}   	pmHotWidget.create(pmHotWidgetinit); </p>
+<p> Most Popular - Business </p>
+<p> Most Read </p>
+<p> E-mailed </p>
+<p> Commented </p>
+<p> Sino-Forest short seller looks for long bets in U.S.-listed China stocks </p>
+<p> Haiti experiences progress, exasperation two years after killer quake </p>
+<p> Falcon appoints panel to review framework of B.C. business taxes </p>
+<p> Building success out of 9/11 rubble </p>
+<p> B.C.'s economic growth projected to jump by 2013 </p>
+<p> Rising costs, coal plant closings leave gridâs future uncertain </p>
+<p> Â </p>
+<p> more </p>
+<p> Â» </p>
+<p> RSS </p>
+<p> Lego builds on success with B.C. store launch </p>
+<p> Building success out of 9/11 rubble </p>
+<p> Rising costs, coal plant closings leave gridâs future uncertain </p>
+<p> B.C.'s wild salmon threatened by Alaskan practices - conservation groups </p>
+<p> Before allowing fare hike, TransLink Commissioner wants proof TransLink running efficiently </p>
+<p> Opinion: Former head of troubled securities firm becomes advocate for errant mutual fund rep </p>
+<p> Â </p>
+<p> more </p>
+<p> Â» </p>
+<p> RSS </p>
+<p> setMostCommented("mostCommented", 6, 15); </p>
+<p> Sponsored By </p>
+<p> Breaking News Alerts </p>
+<p> Sign up to receive e-mail alerts on breaking news from The Vancouver Sun. </p>
+<p> Submit </p>
+<p> Our Privacy Statement </p>
+<p> more business headlines » </p>
+<p> Latest updates </p>
+<p> Shaw revenues, profits climb higher in Q1 </p>
+<p> Shaw Communications Inc. reported an increase in profit in its first quarter on higher revenues amid a volatile economic and competitive environment, ... </p>
+<p> more Â» </p>
+<p> 5 minutes ago </p>
+<p> Comments ( </p>
+<p> ) </p>
+<p> Shaw downgraded to sell thanks to aggressive promos </p>
+<p> Should Shaw team up with Rogers? </p>
+<p> Will new CRTC regulations have teeth? </p>
+<p> Â </p>
+<p> Local updates </p>
+<p> Â </p>
+<p> Postmedia hires digital exec from Torstar </p>
+<p> Â </p>
+<p> Â </p>
+<p> Â </p>
+<p> Markets dip slightly on eurozone debt fears </p>
+<p> Â </p>
+<p> Â </p>
+<p> Â </p>
+<p> McDonaldâs U.K. to give kids books away with Happy Meals </p>
+<p> Â </p>
+<p> Â </p>
+<p> Â </p>
+<p> adcookieTag = typeof(adcookieTag) != 'undefined' ? adcookieTag : '';                         dartad_tile = typeof(dartad_tile) != 'undefined' ? dartad_tile + 1 : 1;                         var dartad_url = "http://ad.ca.doubleclick.net/N3081/adj/vs_bus.com/business/story;loc=bot_box;loc=bot;sz=250x250,300x250;kw=ron;kw=business;nk=print;pr=vs;ck=business;page=story;kw=vs;tile="+dartad_tile+";"+adcookieTag+surroundTag+"ord=18164970?"; // script ad code with adcookie, used for debug                         document.write('<script language="JavaScript1.1" src="http://ad.ca.doubleclick.net/N3081/adj/vs_bus.com/business/story;loc=bot_box;loc=bot;sz=250x250,300x250;kw=ron;kw=business;nk=print;pr=vs;ck=business;page=story;kw=vs;tile='+dartad_tile+';'+adcookieTag+surroundTag+'ord=18164970?"><\/script>'); </p>
+<p> if(adid != "") // check if the ad should start a surround session only if a surround session has not yet started                         {                             surroundTag = "srnd="+adid+";"; // setup the key-value for a surround session                             setSurroundCookie(adid); // store the surround session id in a cookie.                         } </p>
+<p> Save Money </p>
+<p> with a Better Rate </p>
+<p> Find Your Rate </p>
+<p> Select Province </p>
+<p> Alberta </p>
+<p> British Columbia </p>
+<p> Manitoba </p>
+<p> New Brunswick </p>
+<p> Newfoundland </p>
+<p> Northwest Territories </p>
+<p> Nova Scotia </p>
+<p> Nunavut </p>
+<p> Ontario </p>
+<p> P.E.I </p>
+<p> Quebec </p>
+<p> Saskatchewan </p>
+<p> Yukon </p>
+<p> All </p>
+<p> Mortgages </p>
+<p> Credit Cards </p>
+<p> Savings </p>
+<p> <!--//<![CDATA[  			   var m3_u = (location.protocol=='https:'?'https://www.ratesupermarket.ca/ads/www/delivery/ajs.php':'http://www.ratesupermarket.ca/ads/www/delivery/ajs.php');  			   var m3_r = Math.floor(Math.random()*99999999999);  			   if (!document.MAX_used) document.MAX_used = ',';  			   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);  			   document.write ("?zoneid=17");  			   document.write ('&amp;cb=' + m3_r);  			   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);  			   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));  			   document.write ("&amp;loc=" + escape(window.location));  			   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));  			   if (document.context) document.write ("&context=" + escape(document.context));  			   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");  			   document.write ("'><\/scr"+"ipt>");  			//]]>--> </p>
+<p> Best </p>
+<p> Mortgage Rates </p>
+<p> Variable </p>
+<p> 5 Year </p>
+<p> Fixed </p>
+<p> 5 Year </p>
+<p> Top Credit Cards </p>
+<p> Cash Back </p>
+<p> No Fee </p>
+<p> Low Interest </p>
+<p> No Fee </p>
+<p> Savings Accounts </p>
+<p> & </p>
+<p> GIC Rates </p>
+<p> Trust Company </p>
+<p> No Fee </p>
+<p> Bank </p>
+<p> No Fee </p>
+<p> Life Insurance Quotes </p>
+<p> Term Life </p>
+<p> 10 Year </p>
+<p> Term Life </p>
+<p> 20 Year </p>
+<p> Best Mortgage Rates </p>
+<p> Enter Mortgage Value </p>
+<p> Variable </p>
+<p> Fixed </p>
+<p> 1 Year </p>
+<p> 3 Year </p>
+<p> 5 Year </p>
+<p> <!--//<![CDATA[  			   var m3_u = (location.protocol=='https:'?'https://www.ratesupermarket.ca/ads/www/delivery/ajs.php':'http://www.ratesupermarket.ca/ads/www/delivery/ajs.php');  			   var m3_r = Math.floor(Math.random()*99999999999);  			   if (!document.MAX_used) document.MAX_used = ',';  			   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);  			   document.write ("?zoneid=17");  			   document.write ('&amp;cb=' + m3_r);  			   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);  			   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));  			   document.write ("&amp;loc=" + escape(window.location));  			   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));  			   if (document.context) document.write ("&context=" + escape(document.context));  			   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");  			   document.write ("'><\/scr"+"ipt>");  			//]]>--> </p>
+<p> Company </p>
+<p> Monthly </p>
+<p> Rate </p>
+<p> Canadian Credit Cards </p>
+<p> Choose Card Type </p>
+<p> Rewards Cards </p>
+<p> Prepaid Cards </p>
+<p> Low Balance Transfer </p>
+<p> Low Interest </p>
+<p> <!--//<![CDATA[  			   var m3_u = (location.protocol=='https:'?'https://www.ratesupermarket.ca/ads/www/delivery/ajs.php':'http://www.ratesupermarket.ca/ads/www/delivery/ajs.php');  			   var m3_r = Math.floor(Math.random()*99999999999);  			   if (!document.MAX_used) document.MAX_used = ',';  			   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);  			   document.write ("?zoneid=17");  			   document.write ('&amp;cb=' + m3_r);  			   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);  			   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));  			   document.write ("&amp;loc=" + escape(window.location));  			   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));  			   if (document.context) document.write ("&context=" + escape(document.context));  			   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");  			   document.write ("'><\/scr"+"ipt>");  			//]]>--> </p>
+<p> Special Offer </p>
+<p> 5% </p>
+<p> Cash Back </p>
+<p> 5% cash back on gas and groceries for first 6 months, 3% after, 1% on everything else. </p>
+<p> Company </p>
+<p> Reward Return </p>
+<p> Rate </p>
+<p> MBNA </p>
+<p> 2.05% </p>
+<p> $1,500.33 </p>
+<p> Best Rate </p>
+<p> 2.05% </p>
+<p> $1,500.33 </p>
+<p> Best Rate </p>
+<p> 2.05% </p>
+<p> $1,500.33 </p>
+<p> Savings Accounts </p>
+<p> & </p>
+<p> GIC Rates </p>
+<p> Choose Savings Type </p>
+<p> Savings Accounts </p>
+<p> GIC Rates </p>
+<p> Select Amount </p>
+<p> Under $100 </p>
+<p> $100 </p>
+<p> $250 </p>
+<p> $500 </p>
+<p> $1,000 </p>
+<p> $2,500 </p>
+<p> $5,000 </p>
+<p> $7,500 </p>
+<p> $10,000 </p>
+<p> $20,000 </p>
+<p> $30,000 </p>
+<p> $40,000 </p>
+<p> $50,000 </p>
+<p> $60,000 </p>
+<p> $75,000 </p>
+<p> $100,000+ </p>
+<p> Select Duration </p>
+<p> 1 year </p>
+<p> 2 years </p>
+<p> 3 years </p>
+<p> 4 years </p>
+<p> 5 years </p>
+<p> 6 years </p>
+<p> 7 years </p>
+<p> 8 years </p>
+<p> 9 years </p>
+<p> 10 years </p>
+<p> <!--//<![CDATA[  			   var m3_u = (location.protocol=='https:'?'https://www.ratesupermarket.ca/ads/www/delivery/ajs.php':'http://www.ratesupermarket.ca/ads/www/delivery/ajs.php');  			   var m3_r = Math.floor(Math.random()*99999999999);  			   if (!document.MAX_used) document.MAX_used = ',';  			   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);  			   document.write ("?zoneid=17");  			   document.write ('&amp;cb=' + m3_r);  			   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);  			   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));  			   document.write ("&amp;loc=" + escape(window.location));  			   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));  			   if (document.context) document.write ("&context=" + escape(document.context));  			   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");  			   document.write ("'><\/scr"+"ipt>");  			//]]>--> </p>
+<p> Savings Account </p>
+<p> 1.25% </p>
+<p> Minimum investment of </p>
+<p> $100 </p>
+<p> Company </p>
+<p> Savings </p>
+<p> Rate </p>
+<p> FP Business Wire » </p>
+<p> FP Business Wire </p>
+<p> Â </p>
+<p> Crystal Financial Provides Financing to The Gores Group for Recently Acquired Mexx International </p>
+<p> BlueCat Networks Helps Organizations Transition to IPv6 with HP </p>
+<p> AECOM to announce fiscal year 2012 first-quarter results on Feb. 2 </p>
+<p> <!-- 				 google_ad_client   = 'ca-pub-1718995873402338'; 				 google_ad_output   = 'js'; 				 google_max_num_ads = '3'; 				 google_hints       = 'business'; 				 google_safe        = 'high'; 				 google_kw_color    = '#E2A9A9'; 				 google_ad_channel  = 'vancouver-sun-business-story'; 				 google_adtest = 'off'; 				 google_feedback = 'on'; 				// --> </p>
+<p> <!-- 				function google_ad_request_done(google_ads) { 					document.write('<div class="googleadwrapper">'); 					document.write('<div class="box_e5e5e5">'); 					document.write('<div class="box_content">'); 					document.write('<div class="section_title_no_line">'); 					document.write('<h3>'); 					document.write('<a href="' + google_info.feedback_url + '" target="_blank"><span>Ads by Google</span></a>'); 					document.write('</h3>'); 					document.write('</div>'); 					document.write('<div class="clear">&nbsp;</div>');   					var i;  					// Display each ad in turn 					for(i = 0; i < google_ads.length; ++i) { 						document.write('<div class="col_300">'); 						document.write('<div class="wrapper_10_10_10_10">'); 						document.write('<a target="_blank" class="toplink" href="' + google_ads[i].url +'"' + 'onmouseout="window.status=\'\'"' + 'onmouseover="window.status=\'go to ' + google_ads[i].visible_url + '\';return true;">'); 						document.write('<b>' + google_ads[i].line1 + '</b></a>'); 						document.write('<div class="clear">&nbsp;</div>'); 						document.write(google_ads[i].line2); 						document.write('<div class="clear">&nbsp;</div>'); 						document.write(google_ads[i].line3); 						document.write('<div class="clear">&nbsp;</div>'); 						document.write('<a target="_blank" href="' + google_ads[i].url + '"' + 'onmouseout="window.status=\'\'"' + 'onmouseover="window.status=\'go to ' + google_ads[i].visible_url + '\';return true;">' + google_ads[i].visible_url + '</a>'); 						document.write('</div>'); 						document.write('</div>'); 					} 					document.write('</div>'); 					document.write('</div>'); 					document.write('</div>'); 				} 			// --> </p>
+<p> Inside The Vancouver Sun </p>
+<p> CDMScriptManager.load("/js/slider.js"); </p>
+<p> Â </p>
+<p> Photos: Red-hot celebrity fashion </p>
+<p> Â </p>
+<p> A guide to office etiquette: The âDonâtsâ </p>
+<p> Â </p>
+<p> Photos: Chinese Restaurant Awards 2012 winners </p>
+<p> Â </p>
+<p> Photos: Whistler freeski star Sarah Burke in crash </p>
+<p> Â </p>
+<p> Parents in trouble over demonic name </p>
+<p> Â </p>
+<p> Why golf needs to be faster </p>
+<p> Â </p>
+<p> Expensive tea grown in panda poo </p>
+<p> Â </p>
+<p> Obese in Japan: 32-in waist? </p>
+<p> Â </p>
+<p> Beethoven's thoughts revealed </p>
+<p> Â </p>
+<p> Most milk in India contaminated </p>
+<p> var FooterFeature_2_Object = null;                 jQuery(function() { 			FooterFeature_2_Object = new MultiSlider2('FooterFeature_2_Window', 'FooterFeature_2_Content', 'FooterFeature_2_Entry', 10, 5, 1500, 5);  			jQuery('#FooterFeature_2_LeftNavButton').click(function() { FooterFeature_2_Object.slideLeft('FooterFeature_2_Object');}) ; 			jQuery('#FooterFeature_2_RightNavButton').click(function() { FooterFeature_2_Object.slideRight('FooterFeature_2_Object');}) ; 		}); </p>
+<p> Home </p>
+<p> News </p>
+<p> Opinion </p>
+<p> Business </p>
+<p> Sports </p>
+<p> Entertainment </p>
+<p> Life </p>
+<p> Health </p>
+<p> Technology </p>
+<p> Travel </p>
+<p> Jobs </p>
+<p> Cars </p>
+<p> Homes </p>
+<p> Classifieds </p>
+<p> Don't Miss </p>
+<p> Chinese News </p>
+<p> Sun Run </p>
+<p> Sun at 100 </p>
+<p> Sun Ski Guide </p>
+<p> Adopt-a-school </p>
+<p> Student videos </p>
+<p> Vancouver 125 </p>
+<p> eStore </p>
+<p> Today's Paper </p>
+<p> Video </p>
+<p> Â </p>
+<p> Â» </p>
+<p> RSS </p>
+<p> Most Popular </p>
+<p> Whistler ski star Sarah Burke in coma after crash during training </p>
+<p> Mysteries surround comatose Whistler skier Sarah Burke </p>
+<p> Police identify female hiker's body found on Grouse Mountain </p>
+<p> Â </p>
+<p> Â» </p>
+<p> RSS </p>
+<p> Formats </p>
+<p> Sitemap / RSS </p>
+<p> Contests </p>
+<p> Blogs </p>
+<p> Columnists </p>
+<p> Photo Galleries </p>
+<p> Videos </p>
+<p> Mobile </p>
+<p> iPad App </p>
+<p> Vancouver Sun </p>
+<p> About Us </p>
+<p> Contact Us </p>
+<p> Work for Us </p>
+<p> Advertise with Us </p>
+<p> Subscribe to the Print Edition </p>
+<p> Rate Our Delivery Service and WIN </p>
+<p> Newspaper in Education </p>
+<p> Tools </p>
+<p> Search </p>
+<p> Search for a Job </p>
+<p> Buy/Sell a Car </p>
+<p> Real Estate Listings </p>
+<p> SwarmJam Sweet Deals </p>
+<p> Place a Classified Ad </p>
+<p> E-mail Alerts </p>
+<p> Flyercity.ca </p>
+<p> TaiYangBao.ca </p>
+<p> canada.com Logo </p>
+<p> About canada.com </p>
+<p> Privacy Statement </p>
+<p> Terms </p>
+<p> Copyright & Permissions </p>
+<p> © 2008 - 2011 Postmedia Network Inc. All rights reserved. </p>
+<p> Unauthorized distribution, transmission or republication strictly prohibited. </p>
+<p> function footerSearch() { 			var q = document.getElementById("f").value.replace(/ /g,"+"); 			if (q.length == 0) { 				alert("Please enter your search criteria"); 				return; 			} 			var dname = document.domain;  			if ( dname=="driving.ca") { 				document.location.href="http://www.driving.ca/vancouversun/search/search.html?q=" + escape(q); 				} 			else { 				document.location.href="/search/search.html?q=" + escape(q); 			} 		} </p>
+<p> document.getElementById("f").value = document.getElementById("q").value; </p>
+<p> var _sf_async_config={uid:2832,domain:'vancouversun.com'}; 		(function(){ 			function loadPublishflow() { 				window._sf_endpt=(new Date()).getTime(); 				var e = document.createElement('script'); 				e.setAttribute('language', 'javascript'); 				e.setAttribute('type', 'text/javascript'); 				e.setAttribute('src',(('https:' == document.location.protocol) ?  										'https://s3.amazonaws.com/' : 'http://s3.amazonaws.com/') + 'publishflow/javascript/data.js'); 				document.body.appendChild(e); 			} 			var oldonload = window.onload; 			window.onload = (typeof window.onload != 'function') ? 										loadPublishflow :  										function() {  											oldonload(); 											loadPublishflow(); 										}; 		})(); </p>
+<p> <!--                         /* You may give each page an identifying name, server, and channel on                         the next lines. */                         s.pageName='/business/story.html';                         s.server=window.location.hostname.toLowerCase();                         s.channel='business';                         s.pageType='';                         s.prop1='business';                         s.prop2='business';                         s.prop3='canwest';                         s.prop4='Non-Registered';                         s.prop5=s.prop4 + ': ' + s.pageName;                         s.prop6='Postmedia News/FREE';                         s.prop7='Postmedia News';                         s.prop8='5979921';                         s.prop9='';                         s.prop10='';                         s.prop11='';                         s.prop13='';                         s.prop23=document.title;                         s.prop24=s.prop8;                         s.prop25='story';                         s.prop26='business';                                     s.prop27='';                           s.prop28='';                          s.prop29='';                         s.prop36='Depression';                          s.prop37='vs_bus.com';                          s.prop43='';                         s.prop44='';                         /* E-commerce Variables */                                                  s.events='';                         s.products='';                         s.purchaseID='';                         s.transactionID = s.purchaseID;                                                  /* s.prop48 for story only */                         s.prop48='Derek Abma, Postmedia News';                                                                /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/                         var s_code=s.t();if(s_code)document.write(s_code)//--> </p>
+<p> <!--                         if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')                         //--> </p>

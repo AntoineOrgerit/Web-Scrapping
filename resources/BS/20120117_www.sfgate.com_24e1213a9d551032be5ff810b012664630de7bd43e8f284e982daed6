@@ -1,0 +1,446 @@
+<p> New Jersey Dentist on How to Choose the Right Sedation Dentistry Practice </p>
+<p> //<![CDATA[ // set sfgate_f for dropin sfg_hideoneorlast functionality var sfgate_f = '/g/a/2012/01/17/prweb9112739.DTL'; //]]> </p>
+<p> //<![CDATA[  yld_mgr.content_topic_id_list=["20201501"]; yld_mgr.site_section_name_list=["Article"]; if (sfgate_IsTsp()) { yld_mgr.site_section_name_list=["TopStoryPage"]; } yld_mgr.slots = new Object();   yld_mgr.slots.Top2 = {ad_size_list: ["728x90"], ad_delivery_mode: "ipatf", ad_format_list: []};  yld_mgr.slots.Middle1 = {ad_size_list: ["300x250"], ad_delivery_mode: "ipatf", ad_format_list: []};  yld_mgr.slots.Middle2 = {ad_size_list: ["300x250"], ad_delivery_mode: "ipbtf", ad_format_list: []};  yld_mgr.slots.Frame1 = {ad_size_list: ["234x60"], ad_delivery_mode: "ipatf", ad_format_list: []};  yld_mgr.slots.x21 = {ad_size_list: ["100x50"], ad_delivery_mode: "ipbtf", ad_format_list: []};  yld_mgr.slots.x22 = {ad_size_list: ["100x50"], ad_delivery_mode: "ipbtf", ad_format_list: []};  yld_mgr.slots.x23 = {ad_size_list: ["100x50"], ad_delivery_mode: "ipbtf", ad_format_list: []};  yld_mgr.slots.x24 = {ad_size_list: ["100x50"], ad_delivery_mode: "ipbtf", ad_format_list: []};  yld_mgr.slots.x88 = {ad_size_list: ["950x30"], ad_delivery_mode: "ipatf", ad_format_list: []};  yld_mgr.slots.x90 = {ad_size_list: ["88x31"], ad_delivery_mode: "ipatf", ad_format_list: []};    //]]> </p>
+<p> Article:New Jersey Dentist on How to Choose the Right Sedation :/g/a/2012/01/17/prweb9112739.DTL </p>
+<p> Article:New Jersey Dentist on How to Choose the Right Sedation :/g/a/2012/01/17/prweb9112739.DTL </p>
+<p> //<![CDATA[ /* You may give each page an identifying name, server, and channel on the next lines. */ s.pageName=document.getElementById('omni_pagename').innerHTML; s.server=""; s.channel="Business"; s.prop1=document.getElementById('omni_search_term').innerHTML; s.prop2=""; s.prop3="PRWeb"; s.prop4=""; s.prop5=""; s.prop6="Article"; s.prop7=""; s.prop8=""; s.prop9=""; s.prop10=""; s.prop11=""; s.prop12=document.getElementById('omni_article_title').innerHTML; s.prop13=""; s.prop14="";   /* auto */ s.prop15="";   /* auto */ s.prop16="";   /* auto */ s.prop17=s.getQueryParam('iref'); s.prop18="BU"; s.prop19=document.getElementById('omni_obj_article').innerHTML; s.prop20=""; s.prop25="tophomes/broker680"; s.prop27="1 of 1";  if ( typeof sfgabt != "undefined" && sfgabt != "" ) {   s.prop22 = sfgabt; } function sfgate_issfg() {    var ref = document.referrer;    var refRE = /^http:\/\/[a-z.]*sfgate\.com/;    if ( ! ref.match(refRE) ) {       return false;    }    return true; } if ( sfgate_issfg() ) {   s.prop23= s.getQueryParam('sfgabt'); }  s.events="event13";  /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/ var s_code=s.t();if(s_code)document.write(s_code); //]]> </p>
+<p> //<![CDATA[ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-') //]]> </p>
+<p> jQuery.noConflict(); var sfg_jumptime_addl = 'sfgate'; if ( typeof s != "undefined" ) {   if ( s.channel ) {      sfg_jumptime_addl += '&sec='+escape(s.channel);   }   if ( s.prop3 ) {      sfg_jumptime_addl += '&ss='+escape(s.prop3);   }   if ( s.prop4 ) {      sfg_jumptime_addl += '&sss='+escape(s.prop4);   }   if ( s.prop6 ) {      sfg_jumptime_addl += '&ct='+escape(s.prop6);   }   if ( s.prop7 ) {      sfg_jumptime_addl += '&tag='+escape(s.prop7);   }   if ( typeof sfgate_file != "undefined" ) {      sfg_jumptime_addl += '&caid='+escape(sfgate_file);   } else if ( s.pageName ) {      sfg_jumptime_addl += '&caid='+escape(s.pageName);   } } if ( typeof yld_mgr != "undefined" ) {   if ( yld_mgr.content_topic_id_list ) {      sfg_jumptime_addl += '&akv1='+escape(yld_mgr.content_topic_id_list[0]);   }   if ( yld_mgr.cstm_content_cat_list ) {      sfg_jumptime_addl += '&akv2='+escape(yld_mgr.cstm_content_cat_list[0]);   }   if ( yld_mgr.site_section_name_list ) {      sfg_jumptime_addl += '&akv3='+escape(yld_mgr.site_section_name_list[0]);   } } jQuery(function($) {   $.ajax({     type: "GET",     url: "http://beacon.jump-time.net/jt.js",     dataType: "script",     cache: true,     success: function() {       jt("http://hearst.jump-time.net/sfgate", sfg_jumptime_addl, true);     }   }); }); </p>
+<p> //<![CDATA[ 	var cmpid; 	cmpid="ipadblackbar"; 	var cmpid2; 	cmpid2="ipadoverlay"; 	var ua = new String(navigator.userAgent); 	var np = new String(navigator.platform); 	if ( ua.match(/Safari/i) && np.match(/iPad/i) ) { 		var l = document.getElementById('ipadanchorlink'); 		if ( l ) { 			l.style.display = 'block'; 		} 		// document.write('<a href="http://www.sfgate.com/ipadapp/" onClick="linkCode(this, cmpid)" style="text-decoration:none;"><img style="border:0;" src="http://imgs.sfgate.com/graphics/ipad/promo/sfgate-ipad-prompt-968x43.gif" /></a>'); 		DoTheCookieStuff(); 		} 	//]]> </p>
+<p> advertisement </p>
+<p> | </p>
+<p> your ad here </p>
+<p> //<![CDATA[ if (sfgate_yldslotok("Top2")) { yld_mgr.place_ad_here("Top2"); } //]]> </p>
+<p> //<![CDATA[ if ( typeof quadrant_one_use_lb_atf != "undefined" &&      quadrant_one_use_lb_atf ) {     CM8ShowAd("Leaderboard_ATF"); } //]]> </p>
+<p> SFGate </p>
+<p> Home of the </p>
+<p> San Francisco Chronicle </p>
+<p> Subscribe to the weekend Chronicle </p>
+<p> // <![CDATA[ if ( typeof window.print_sfgate_un != "undefined" ) {   print_sfgate_un(); } // ]]> </p>
+<p> SFGate </p>
+<p> Web Search by </p>
+<p> YAHOO! </p>
+<p> Businesses </p>
+<p> | </p>
+<p> Advanced </p>
+<p> Home </p>
+<p> News </p>
+<p> Sports </p>
+<p> Business </p>
+<p> Entertainment </p>
+<p> Food </p>
+<p> Living </p>
+<p> Travel </p>
+<p> Columns </p>
+<p> Shopping </p>
+<p> Jobs </p>
+<p> Homes </p>
+<p> Cars </p>
+<p> Close [X] </p>
+<p> Quick links to the best of SFGate </p>
+<p> | </p>
+<p> Still can't find it? see </p>
+<p> Site Index </p>
+<p> News </p>
+<p> » </p>
+<p> Today </p>
+<p> Breaking News </p>
+<p> Live Views </p>
+<p> Traffic </p>
+<p> Weather </p>
+<p> Sections </p>
+<p> Bay Area & State </p>
+<p> Business </p>
+<p> Chronicle Magazine </p>
+<p> Crime </p>
+<p> Education </p>
+<p> Green </p>
+<p> Health & Medicine </p>
+<p> Home Guides </p>
+<p> Nation </p>
+<p> Obituaries </p>
+<p> Opinion </p>
+<p> Politics </p>
+<p> Science </p>
+<p> Technology </p>
+<p> Weird News </p>
+<p> World </p>
+<p> Sports </p>
+<p> » </p>
+<p> 49ers </p>
+<p> Raiders </p>
+<p> Giants </p>
+<p> Athletics </p>
+<p> Warriors </p>
+<p> Sharks </p>
+<p> More </p>
+<p> BayList </p>
+<p> Blogs </p>
+<p> City Brights </p>
+<p> Columnists </p>
+<p> Comics </p>
+<p> Data Center </p>
+<p> Earthquakes </p>
+<p> Lottery </p>
+<p> Maps </p>
+<p> Polls </p>
+<p> Reader Views </p>
+<p> Small Business </p>
+<p> Topics </p>
+<p> Features </p>
+<p> Food </p>
+<p> » </p>
+<p> Bargain Bites </p>
+<p> Inside Scoop </p>
+<p> Recipes </p>
+<p> Restaurants </p>
+<p> Top 100 Restaurants </p>
+<p> Wine </p>
+<p> Travel </p>
+<p> » </p>
+<p> Hawaii </p>
+<p> Mexico </p>
+<p> Monterey & Carmel </p>
+<p> Reno & Tahoe </p>
+<p> SF Guide </p>
+<p> Weekend Getaways </p>
+<p> Wine Country </p>
+<p> Living </p>
+<p> » </p>
+<p> Garden </p>
+<p> Green </p>
+<p> Home & Design </p>
+<p> LGBT </p>
+<p> Moms </p>
+<p> Outdoors </p>
+<p> Pets </p>
+<p> Ski & Snow </p>
+<p> Style </p>
+<p> Entertainment </p>
+<p> » </p>
+<p> Art </p>
+<p> Books </p>
+<p> Horoscope </p>
+<p> Live Music </p>
+<p> Local Events </p>
+<p> Movie Showtimes </p>
+<p> Movies </p>
+<p> Puzzles </p>
+<p> Theater Reviews </p>
+<p> Things To Do </p>
+<p> TV & Radio </p>
+<p> Classifieds </p>
+<p> » </p>
+<p> Advertise With Us </p>
+<p> Cars </p>
+<p> Coupons </p>
+<p> Real Estate </p>
+<p> Buy & Sell </p>
+<p> Jobs </p>
+<p> Merchandise </p>
+<p> Pets </p>
+<p> Public Notices </p>
+<p> Rentals </p>
+<p> Technology </p>
+<p> Markets </p>
+<p> Small Business </p>
+<p> Chron 200 </p>
+<p> Real Estate </p>
+<p> Home Guides </p>
+<p> Press Releases </p>
+<p> more </p>
+<p> //<![CDATA[ if (sfgate_yldslotok("x88")) { yld_mgr.place_ad_here("x88"); } //]]> </p>
+<p> //<![CDATA[ if ( typeof quadrant_one_use_slider != "undefined" &&      quadrant_one_use_slider ) {     CM8ShowAd("Slider"); } //]]> </p>
+<p> Press Releases </p>
+<p> New Jersey Dentist on How to Choose the Right Sedation Dentistry Practice </p>
+<p> SFGate </p>
+<p> January 17, 2012 04:00 AM </p>
+<p> Copyright  SFGate. All rights reserved. This material may not be published, broadcast, rewritten or redistributed. </p>
+<p> Tuesday, January 17, 2012 </p>
+<p> Print </p>
+<p> E-mail </p>
+<p> del.icio.us </p>
+<p> Slashdot </p>
+<p> Digg </p>
+<p> Fark </p>
+<p> Technorati </p>
+<p> Newsvine </p>
+<p> Reddit </p>
+<p> Google Bookmarks </p>
+<p> LinkedIn </p>
+<p> Twitter </p>
+<p> Facebook </p>
+<p> //<![CDATA[ 				var ua = new String(navigator.userAgent); 				if ( ua.match(/MSIE 9/i) || ua.match(/MSIE 8/i) || ua.match(/Chrome/i) || ua.match(/Safari/i) || ua.match(/3.6/i) ) { 					document.write('Google +1'); 				} 				//]]> </p>
+<p> Share </p>
+<p> Georgia </p>
+<p> (default) </p>
+<p> Verdana </p>
+<p> Times New Roman </p>
+<p> Arial </p>
+<p> document.getElementById('fontpopbox').onmouseout = sfgate_chfont_mo; </p>
+<p> Font </p>
+<p> | </p>
+<p> Size: </p>
+<p> //<![CDATA[ if (sfgate_yldslotok("x90")) { yld_mgr.place_ad_here("x90"); } //]]> </p>
+<p> sfgSetFixIframe('tw9a9636282a766a9df0f558ade4fc2d3a'); </p>
+<p> 0 </p>
+<p> Get Quote </p>
+<p> //<![CDATA[                 function ToggleInnerLabel (input,label,on) {                 var labelExists = (input.value == label ? 1 : 0);                 if (on && !labelExists && !input.value) {                 input.value = label;                 input.className = 'textInputNote';                 }                 if (!on && labelExists) {                 input.value = '';                 input.className = 'textInput';                 }                 return false;                 }             //]]> </p>
+<p> Symbol Lookup </p>
+<p> More Business </p>
+<p> TD Ameritrade fiscal 1Q profit up 5 percent </p>
+<p> 01.17.12 </p>
+<p> Russia asks if US radar ruined space probe </p>
+<p> 01.17.12 </p>
+<p> Paula Deen teams with Novo Nordisk on diabetes </p>
+<p> 01.17.12 </p>
+<p> Pfizer, Medivation end drug development deal </p>
+<p> 01.17.12 </p>
+<p> //<![CDATA[ sfg_hideoneorlast('rl_more_business_rl'); //]]> </p>
+<p> A recent study from the Dental Organization for Conscious Sedation (DOCS) shows that 30% of Americans avoid the dentist because of fear or anxiety. Dr. Jerry Strauss, a </p>
+<p> dentist in New Jersey </p>
+<p> , says he not only uses sedation dentistry to alleviate patient fears, but also create positive dental experiences. He adds that patients need to discuss all available options with their dentist, and develop a plan that meets their needs and expectations when considering </p>
+<p> sedation dentistry </p>
+<p> . </p>
+<p> Fairfield, NJ (PRWEB) January 17, 2012 </p>
+<p> The Dental Organization for Conscious Sedation (DOCS) recently conducted a study that found 30% of Americans avoid dental visits because of fear or anxiety. Dr. Jerry Strauss provides a wide range of dental treatments, including general, sedation, and </p>
+<p> cosmetic dentistry in New Jersey </p>
+<p> . He says sedation dentistry allows his patients to relax, which in turn helps create positive dental experiences and safe, effective results. When choosing a sedation dentistry practice, Dr. Strauss recommends discussing all available options for sedation, as well as the dentist's experience with each procedure. </p>
+<p> Also commonly referred to as </p>
+<p> sleep dentistry </p>
+<p> , Dr. Strauss says the name can be misleading as the patient actually remains conscious throughout the entire procedure. The purpose of sedation dentistry according to Dr. Strauss is simply to put the patient in a state of relaxation to ensure they are not consumed by the fear they typically experience during dental treatment. </p>
+<p> While intravenous sedation is the traditional method used for sedation dentistry, Dr. Strauss says less invasive methods are gaining in popularity, including inhalation sedation and oral sedation. Regardless of the method employed, Dr. Strauss says the dental procedure does not necessarily determine the type of sedation method. Instead, he stresses the need to address each individual treatment plan along with the specifics of a patient's case before deciding on the type of sedation. </p>
+<p> Ultimately, Dr. Strauss says patients appreciate the sedation dentistry option at his practice because they do not have to feel the pain or experience anxiety associated with any number of the procedures he offers. However, Dr. Strauss says the main benefit of alleviating these concerns for his patients is the fact that it allows him and his staff to maintain the oral health of his patients. "Fortunately, sedation techniques allow us to comfortably treat the true dental phobics, those people that have had bad experiences and have anxiety about dental treatment and even the medically compromised. I believe dental sedation is one of the real critical components to success in dentistry." </p>
+<p> About Jerry Strauss, DMD </p>
+<p> Dr. Jerry Strauss </p>
+<p> earned his dental degree from the Boston University School of Dentistry. Upon graduation, he received the Academy of General Dentistry Award from the faculty at Boston University. Dr. Strauss is also a graduate of the Las Vegas Institute for Advanced Dental Studies. He has achieved Mastership Status in the Academy of General Dentistry, which is the highest honor the organization bestows upon its members. Dr. Strauss is a member of the American Dental Association, the NewJersey Dental Society, and the American Academy of Cosmetic Dentistry. </p>
+<p> Aesthetic Dental Care of New Jersey and Dr. Jerry Strauss can be reached at (973) 287-3829, or found online at aestheticdentalcarenj.com or  facebook.com/pages/Aesthetic-Dental-Care-LLC/120704677718?ref=ts. </p>
+<p> ### </p>
+<p> For the original version on PRWeb visit: </p>
+<p> www.prweb.com/releases/prwebsedation-dentistry/fairfield-nj/prweb9112739.htm </p>
+<p> sfgate_get_fprefs(); </p>
+<p> Print </p>
+<p> E-mail </p>
+<p> del.icio.us </p>
+<p> Slashdot </p>
+<p> Digg </p>
+<p> Fark </p>
+<p> Technorati </p>
+<p> Newsvine </p>
+<p> Reddit </p>
+<p> Google Bookmarks </p>
+<p> LinkedIn </p>
+<p> Twitter </p>
+<p> Facebook </p>
+<p> //<![CDATA[ 				var ua = new String(navigator.userAgent); 				if ( ua.match(/MSIE 9/i) || ua.match(/MSIE 8/i) || ua.match(/Chrome/i) || ua.match(/Safari/i) || ua.match(/3.6/i) ) { 					document.write('Google +1'); 				} 				//]]> </p>
+<p> Share </p>
+<p> #sfg_object_view .socialtools .facebookcontainer, #sfg_object_view .socialtools .diggcontainer,  	#sfg_blog .socialtools .facebookcontainer, #sfg_blog .socialtools .diggcontainer{margin-top:2px;} 	#sfg_object_view .socialtools img, #sfg_blog .socialtools img {margin-top:2px;} </p>
+<p> sfgSetFixIframe('tw9a9636282a766a9df0f558ade4fc2d3a_2'); </p>
+<p> 0 </p>
+<p> var fb9a9636282a766a9df0f558ade4fc2d3a = new customSocial('facebook','fb9a9636282a766a9df0f558ade4fc2d3a', 'http://www.sfgate.com/cgi-bin/article.cgi?f=/g/a/2012/01/17/prweb9112739.DTL','New Jersey Dentist on How to Choose the Right Sedation Dentistry Practice',1); </p>
+<p> (function() {       var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;       po.src = 'https://apis.google.com/js/plusone.js';       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);    })(); </p>
+<p> var OB_permalink='http://www.sfgate.com/cgi-bin/article.cgi?f=/g/a/2012/01/17/prweb9112739.DTL';    var OB_widgetId = 'AR_1';    var OB_Template = 'sfgate';    var OB_langJS = 'http://widgets.outbrain.com/lang_en.js';    if (typeof(OB_Script) != 'undefined') OutbrainStart();    else {       var OB_Script = true;       var str = "<script src='http://widgets.outbrain.com/outbrainWidget.js' type='text/javascript'></" +"script>";       document.write(str);    } </p>
+<p> function formsubmit () { 		var location = "https://www.subscriber-services.com/sfchron/NSPromotions/Subscribe1.aspx?pid"; 		var length = document.sfg_formsubmit.subscribe.length; 		 for (var i = 0; i < length; i++) { 				if (document.sfg_formsubmit.subscribe[i].checked) { 						var selected = document.sfg_formsubmit.subscribe[i].value; 				} else { 					  document.location.href=location; 				} 			} 			document.location.href=location + "=" + selected; 	} </p>
+<p> Subscribe to the San Francisco Chronicle and receive access to the Chronicle for iPad App and a gift: </p>
+<p> Sunday + </p>
+<p> a </p>
+<p> $15 </p>
+<p> gift card </p>
+<p> Fri-Sun + </p>
+<p> a </p>
+<p> $15 </p>
+<p> gift card </p>
+<p> Mon-Sun + </p>
+<p> a </p>
+<p> $25 </p>
+<p> gift card </p>
+<p> Hits, misses from Golden Globes </p>
+<p> Sonoma's rare geologic wonder </p>
+<p> Relive the glory! Saints-49ers pics </p>
+<p> Ryan Phillippe's Los Angeles home </p>
+<p> A's trade starters for Rockies OF </p>
+<p> //<![CDATA[ sfg_ShowListings(); //]]> </p>
+<p> Galleries </p>
+<p> 1-3 of 21 </p>
+<p> sfgate_pho001_showing_value = ''; </p>
+<p> 2012 Golden Globes Red Carpet </p>
+<p> 1915 Edwardian in San Francisco... </p>
+<p> My Ride - 1994 Nissan Pathfinder </p>
+<p> Readers share Hawaii travel... </p>
+<p> Limelight Listing - Ryan Phillippe's... </p>
+<p> Secluded, redesigned Mill Valley... </p>
+<p> Golden Globes: Best and worst... </p>
+<p> 2012 Critics' Choice Movie Awards </p>
+<p> Best and worst dressed at the People... </p>
+<p> Go 1920s with flapper style </p>
+<p> Monterey-Carmel wine-pairing dinners... </p>
+<p> National Board of Review Gala </p>
+<p> Berkeley home with roof deck... </p>
+<p> CES 2012 Highlights </p>
+<p> 2012 North American Auto Show </p>
+<p> My Ride - 1954 Chevrolet 3100 </p>
+<p> Limelight Listing - John Leguizamo's... </p>
+<p> Readers share top tips for Mexico travel </p>
+<p> 2011: the year in fashion </p>
+<p> My Ride - 1977 Mercedes Benz 300D </p>
+<p> Hawaiis moderately priced hotels... </p>
+<p> //<![CDATA[ new sfgrot(21,3,'sfg_pho001_default_photo_gallery_as',0,3,1); sfg_pho001_default_photo_gallery_as.setup(); //]]> </p>
+<p> advertisement </p>
+<p> | </p>
+<p> your ad here </p>
+<p> //<![CDATA[ if (sfgate_yldslotok("Middle1")) { yld_mgr.place_ad_here("Middle1"); } //]]> </p>
+<p> Hackers hit Tel Aviv Stock Exchange, El Al airline </p>
+<p> Martin Luther King Jr. Day Marches, service honor legacy </p>
+<p> 'Totally drug-resistant' TB reported in India </p>
+<p> Nigeria unions end strike over gas subsidies </p>
+<p> Novak Djokovic wins opener at Australian Open </p>
+<p> Giants-49ers rematch might be a classic </p>
+<p> De La Salle has offensive outburst at MLK Classic </p>
+<p> Sonoma County's Cedars a rare geologic wonder </p>
+<p> Bay Area weather: first cold then rain, snow </p>
+<p> Clearlake No. 2 in state for risky stroke surgery </p>
+<p> S.F. begins turning tree care over to residents </p>
+<p> Zappos says customer database hacked </p>
+<p> 49ers to host Giants for Super Bowl berth </p>
+<p> Black pastors urge followers to join Occupy fold </p>
+<p> 49ers to host Giants for Super Bowl berth </p>
+<p> Black pastors urge followers to join Occupy fold </p>
+<p> S.F. begins turning tree care over to residents </p>
+<p> Sonoma County's Cedars a rare geologic wonder </p>
+<p> From Our Homepage </p>
+<p> Long-awaited storm comes </p>
+<p> But before the rain begins, frigid weather will grip the Bay Area. </p>
+<p> Comments & Replies (0) </p>
+<p> var sfgate_ArticleCommentsCpiece_file = new Array(); sfgate_ArticleCommentsCpiece_file[0] = '/c/a/2012/01/16/BAST1MQ2IV.DTL'; </p>
+<p> Snow snarls Reno: 11 wrecks </p>
+<p> Respecting comedies </p>
+<p> 'Juno' is one of the funniest films since 1960. See what other movies Mick LaSalle has on </p>
+<p> his list </p>
+<p> . </p>
+<p> Comments & Replies (0) </p>
+<p> sfgate_ArticleCommentsCpiece_file[1] = 'blogEntryId106047'; </p>
+<p> Harbaugh plays nice </p>
+<p> Coach says he wanted Giants to win, but not for obvious reasons. </p>
+<p> Two 49ers fans shot </p>
+<p> //<![CDATA[ new sfgtopslider(10,'th_962471'); th_962471.setup(); //]]> </p>
+<p> //<![CDATA[ th_962471.img_content[1] = '<a href="http://realestate.sfgate.com/sales/detail/186-l-680-21116222?otc=tophomes%2Fbroker680%3A21116222"><img src="http://mediall.rapmls.com/norcalmls/listingpics/bigphoto/022/21116222.jpg?arg=20120104101227"></a>'; //]]> </p>
+<p> //<![CDATA[ th_962471.img_content[2] = '<a href="http://realestate.sfgate.com/sales/detail/186-l-680-21116235?otc=tophomes%2Fbroker680%3A21116235"><img src="http://mediall.rapmls.com/norcalmls/listingpics/bigphoto/035/21116235.jpg?arg=20110616102733"></a>'; //]]> </p>
+<p> //<![CDATA[ th_962471.img_content[3] = '<a href="http://realestate.sfgate.com/sales/detail/186-l-680-21117414?otc=tophomes%2Fbroker680%3A21117414"><img src="http://mediall.rapmls.com/norcalmls/listingpics/bigphoto/014/21117414.jpg?arg=20110630114452"></a>'; //]]> </p>
+<p> //<![CDATA[ th_962471.img_content[4] = '<a href="http://realestate.sfgate.com/sales/detail/186-l-680-21119871?otc=tophomes%2Fbroker680%3A21119871"><img src="http://mediall.rapmls.com/norcalmls/listingpics/bigphoto/071/21119871.jpg?arg=20110726114528"></a>'; //]]> </p>
+<p> //<![CDATA[ th_962471.img_content[5] = '<a href="http://realestate.sfgate.com/sales/detail/186-l-680-21122094?otc=tophomes%2Fbroker680%3A21122094"><img src="http://mediall.rapmls.com/norcalmls/listingpics/bigphoto/094/21122094.jpg?arg=20110823124606"></a>'; //]]> </p>
+<p> //<![CDATA[ th_962471.img_content[6] = '<a href="http://realestate.sfgate.com/sales/detail/186-l-680-21123677?otc=tophomes%2Fbroker680%3A21123677"><img src="http://mediall.rapmls.com/norcalmls/listingpics/bigphoto/077/21123677.jpg?arg=20111005182947"></a>'; //]]> </p>
+<p> //<![CDATA[ th_962471.img_content[7] = '<a href="http://realestate.sfgate.com/sales/detail/186-l-680-21123859?otc=tophomes%2Fbroker680%3A21123859"><img src="http://mediall.rapmls.com/norcalmls/listingpics/bigphoto/059/21123859.jpg?arg=20111031082041"></a>'; //]]> </p>
+<p> //<![CDATA[ th_962471.img_content[8] = '<a href="http://realestate.sfgate.com/sales/detail/186-l-680-21124376?otc=tophomes%2Fbroker680%3A21124376"><img src="http://mediall.rapmls.com/norcalmls/listingpics/bigphoto/076/21124376.jpg?arg=20111021101500"></a>'; //]]> </p>
+<p> //<![CDATA[ th_962471.img_content[9] = '<a href="http://realestate.sfgate.com/sales/detail/186-l-680-21124498?otc=tophomes%2Fbroker680%3A21124498"><img src="http://mediall.rapmls.com/norcalmls/listingpics/bigphoto/098/21124498.jpg?arg=20110914113755"></a>'; //]]> </p>
+<p> //<![CDATA[ th_962471.img_content[10] = '<a href="http://realestate.sfgate.com/sales/detail/186-l-680-21124969?otc=tophomes%2Fbroker680%3A21124969"><img src="http://mediall.rapmls.com/norcalmls/listingpics/bigphoto/069/21124969.jpg?arg=20110920123613"></a>'; //]]> </p>
+<p> SAN ANSELMO </p>
+<p> 5 BR / 4.1 BA </p>
+<p> $3,299,000.00 </p>
+<p> SONOMA </p>
+<p> 4 BR / 2.1 BA </p>
+<p> $1,695,000.00 </p>
+<p> SAN RAFAEL </p>
+<p> 4 BR / 3.0 BA </p>
+<p> $629,000.00 </p>
+<p> TIBURON </p>
+<p> 4 BR / 2.1 BA </p>
+<p> $995,000.00 </p>
+<p> SAUSALITO </p>
+<p> 3 BR / 2.0 BA </p>
+<p> $1,495,000.00 </p>
+<p> SAN RAFAEL </p>
+<p> 4 BR / 3.1 BA </p>
+<p> $1,499,000.00 </p>
+<p> SAUSALITO </p>
+<p> 1 BR / 1.0 BA </p>
+<p> $795,000.00 </p>
+<p> BELVEDERE </p>
+<p> 3 BR / 3.3 BA </p>
+<p> $4,995,000.00 </p>
+<p> SAN RAFAEL </p>
+<p> 3 BR / 3.0 BA </p>
+<p> $599,500.00 </p>
+<p> BELVEDERE </p>
+<p> 4 BR / 3.0 BA </p>
+<p> $1,775,000.00 </p>
+<p> //<![CDATA[ th_962471.init(Math.floor(Math.random() * 10 + 1 )); //]]> </p>
+<p> Real Estate </p>
+<p> Edwardian in S.F. renovated to offer modern luxuries </p>
+<p> Located in the heart of the Richmond District, this pristine home is a classic example of 1915 Edwardian architecture. </p>
+<p> Sausalito Contemporary-style tree house </p>
+<p> What you can rent in SF for $2,000 </p>
+<p> Mortgagee saves over $30,000 by refinancing </p>
+<p> Search Real Estate » </p>
+<p> //<![CDATA[ if (sfgate_yldslotok("x52")) { yld_mgr.place_ad_here("x52"); } //]]> </p>
+<p> Cars </p>
+<p> 1994 Nissan Pathfinder </p>
+<p> Ted Hall may be only 17 years old, but even as a novice driver, he's still passionate about his 1994 Nissan Pathfinder SE-V6. </p>
+<p> Photos » </p>
+<p> Front-wheel-drive trucks might be on the way </p>
+<p> Mercedes-Benz back to what it does best </p>
+<p> Ford unveils new sedan to revive Lincoln </p>
+<p> Search Cars » </p>
+<p> //<![CDATA[ if (sfgate_yldslotok("x51")) { yld_mgr.place_ad_here("x51"); } //]]> </p>
+<p> Browse ads </p>
+<p> | </p>
+<p> Place an ad » </p>
+<p> [Return to top] </p>
+<p> Home </p>
+<p> News </p>
+<p> Sports </p>
+<p> Business </p>
+<p> Entertainment </p>
+<p> Food </p>
+<p> Living </p>
+<p> Travel </p>
+<p> Shopping </p>
+<p> Find Bay Area Jobs </p>
+<p> Real Estate </p>
+<p> Cars </p>
+<p> Site Index </p>
+<p> Company Info: </p>
+<p> Contact Us </p>
+<p> Hearst Corp. </p>
+<p> Privacy Policy </p>
+<p> Terms and Conditions </p>
+<p> Work for Us </p>
+<p> Chronicle in Education </p>
+<p> Events & Promotions </p>
+<p> Submissions </p>
+<p> Advertising Services: </p>
+<p> Advertise with us </p>
+<p> Place a Classified </p>
+<p> About Our Ads </p>
+<p> Public Notices </p>
+<p> Local Businesses: Business Directory </p>
+<p> Reader Services: </p>
+<p> Home Delivery </p>
+<p> Subscribers </p>
+<p> iPad </p>
+<p> E-Edition </p>
+<p> Mobile </p>
+<p> RSS Feeds </p>
+<p> Newsletters </p>
+<p> Feedback </p>
+<p> Buy Photos </p>
+<p> FAQ </p>
+<p> Corrections </p>
+<p> Get Us </p>
+<p> Local Services: </p>
+<p> Air Conditioning Contractors </p>
+<p> Car Dealerships </p>
+<p> Cleaning Services </p>
+<p> Family Doctors </p>
+<p> Furniture Stores </p>
+<p> Injury Attorneys </p>
+<p> Local Restaurants </p>
+<p> New Car Dealers </p>
+<p> Real Estate Agents </p>
+<p> Real Estate Attorneys </p>
+<p> © 2012 Hearst Communications Inc. </p>
+<p> var _bizo_data_partner_id = "454"; </p>
+<p> var _bizo_p = (("https:" == document.location.protocol) ? "https://sjs." : "http://js.");   document.write(unescape("%3Cscript src='" + _bizo_p + "bizographics.com/convert_data.js?partner_id=" + _bizo_data_partner_id + "' type='text/javascript'%3E%3C/script%3E")); </p>
+<p> (function () {     var d = new Image(1, 1);     d.onerror = d.onload = function () {       d.onerror = d.onload = null;     };     d.src = ["//secure-us.imrworldwide.com/cgi-bin/m?ci=us-202808h&cg=0&cc=1&si=", escape(window.location.href), "&rp=", escape(document.referrer), "&ts=compact&rnd=", (new Date()).getTime()].join('');   })(); </p>
+<p> var KRUXSetup = { 		"pubid": "6ca343ad-12e4-4a6c-8cc1-e1d248b7a91a", 		"site": "San Francisco Chronicle", 		"section": "", 		"sub_section": "" 	}; </p>
+<p> KRUX.SuperTag.invisibleTags(); </p>
+<p> window.IC = {};     (function () {         var p, s;         p = document.createElement('script');         p.type = 'text/javascript';         p.async = true;         p.src = document.location.protocol + '//c4.iclive.com/pixel-js/c4-pixel.js';         s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(p, s);     })(); </p>

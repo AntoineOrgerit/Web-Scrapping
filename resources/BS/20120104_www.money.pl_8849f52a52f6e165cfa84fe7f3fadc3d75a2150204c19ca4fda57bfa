@@ -1,0 +1,316 @@
+<p> Prezes URE ujawnia, od kiedy mogą zostać uwolnione ceny gazu </p>
+<p> <!-- var gemius_identifier = new String('ctibGQcErMkB2QBRXzR1_GYlfZuNy6Nf_W5f8YFxWcT.77/id=bQqbuwsurOSHQChxmbb2RXZGTIMN7biMaVi9KOj6xaL.k7'); //--> </p>
+<p> {lang: 'pl'} </p>
+<p> sas_tmstp=Math.round(Math.random()*10000000000);sas_masterflag=1;         function SmartAdServer(sas_pageid,sas_formatid,sas_target) {             if (sas_masterflag==1) {sas_masterflag=0;sas_master='M';} else {sas_master='S';};             document.write('<scr'+'ipt src="http://diff.smartadserver.com/call/pubj/' + sas_pageid + '/' + sas_formatid + '/' + sas_master + '/' + sas_tmstp + '/' + escape(sas_target) + '?"></scr'+'ipt>');         } </p>
+<p> var crtg_nid="1909"; var crtg_cookiename="cri_ban"; var crtg_varname="crtg_content"; function crtg_getCookie(c_name){ var i,x,y,ARRCookies=document.cookie.split(";");for(i=0;i<ARRCookies.length;i++){x=ARRCookies[i].substr(0,ARRCookies[i].indexOf("="));y=ARRCookies[i].substr(ARRCookies[i].indexOf("=")+1);x=x.replace(/^\s+|\s+$/g,"");if(x==c_name){return unescape(y);}}return'';} var crtg_content = crtg_getCookie(crtg_cookiename);var crtg_rnd=Math.floor(Math.random()*99999999999); var crtg_url=location.protocol+'//rtax.criteo.com/delivery/rta/rta.js?netId='+escape(crtg_nid);crtg_url+='&cookieName='+escape(crtg_cookiename);crtg_url+='&rnd='+crtg_rnd;crtg_url+='&varName=' + escape(crtg_varname); var crtg_script=document.createElement('script');crtg_script.type='text/javascript';crtg_script.src=crtg_url;crtg_script.async=true; if(document.getElementsByTagName("head").length>0)document.getElementsByTagName("head")[0].appendChild(crtg_script);else if(document.getElementsByTagName("body").length>0)document.getElementsByTagName("body")[0].appendChild(crtg_script); function setSasTarget(sas_target) {     if (typeof(sas_target)=='undefined') {         sas_target='';     }      if (crtg_content) {         function inArray(needle, haystack) { var length = haystack.length; for(var i = 0; i < length; i++) { if(haystack[i] == needle) return true;} return false; }         var allowed_keywords = ['crbanmo120=1','crbanmo300=1'];         var cri_keywords = crtg_content.split(";");         var ban_cri_keywords = [];         for (var i=0;i<cri_keywords.length;i++) {             if (inArray(cri_keywords[i],allowed_keywords)) {                 ban_cri_keywords.push(cri_keywords[i]);             }         }         ban_cri_keywords = ban_cri_keywords.join(';');          if (sas_target!='') {             sas_target += ";crtg_content=" + ban_cri_keywords;         } else {             sas_target = "crtg_content=" + ban_cri_keywords;         }     }      return sas_target; } </p>
+<p> var _gaq = _gaq || []; _gaq.push( ['_setAllowAnchor', 'true'], ['_setAccount', 'UA-568790-1'], ['_setDomainName', 'www.money.pl'], ['_trackPageview'], ['_trackPageLoadTime'], ['b._setAllowAnchor', 'true'], ['b._setAccount', 'UA-19370495-1'], ['b._setDomainName', '.money.pl'], ['b._trackPageview'] ); (function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })(); </p>
+<p> Grupa Money.pl </p>
+<p> : </p>
+<p> MenStream </p>
+<p> Favore </p>
+<p> BBlog </p>
+<p> myMoney </p>
+<p> e-Prawnik </p>
+<p> iWoman </p>
+<p> Interaktywnie </p>
+<p> Platine </p>
+<p> Market Money </p>
+<p> Zaloguj się w Money.pl </p>
+<p> Bezpłatne E-gazety </p>
+<p> function set_box_cookies() { try { jQuery.cookies.set('box_cookies', '1', {path: '/', domain: '.money.pl', expiresAt: new Date(2014, 1, 1)}); } catch (err) {}; return false; } </p>
+<p> Nowa polityka prywatności </p>
+<p> sas_noad = null;     sas_pageid='12901/94567';    // Page : Money.pl/gospodarka/podstrony     sas_formatid=10966;   // Format : button_120x60 120x60     sas_target='gaz, ceny, rynek, URE, wolny, gielda';    // Targeting     SmartAdServer(sas_pageid,sas_formatid,sas_target); </p>
+<p> #mpl_header2 .inside { width:980px } </p>
+<p> Na skróty </p>
+<p> Finanse: </p>
+<p> Kalkulatory </p>
+<p> Kursy walut </p>
+<p> Sesje Elixir </p>
+<p> Inflacja i bezrobocie </p>
+<p> Odsetki </p>
+<p> WIBOR </p>
+<p> Notowania GPW </p>
+<p> Diety </p>
+<p> Adresy: </p>
+<p> Oddziały ZUS </p>
+<p> Oddziały KRUS </p>
+<p> Urzędy Skarbowe </p>
+<p> Katalog Firm </p>
+<p> Doradcy podatkowi </p>
+<p> Prawnicy </p>
+<p> Sądy </p>
+<p> Firma i prawo: </p>
+<p> Porady prawne </p>
+<p> Składki ZUS </p>
+<p> Akty prawne </p>
+<p> Wzory umów </p>
+<p> PKD </p>
+<p> Zapytaj prawnika </p>
+<p> Eurobank </p>
+<p> Ogłoszenia i Wiadomości: </p>
+<p> Autogiełda </p>
+<p> Szkolenia </p>
+<p> Archiwum wyszukiwań </p>
+<p> Przetargi </p>
+<p> Archiwum wiadomości </p>
+<p> Produkty finansowe: </p>
+<p> Kredyty hipoteczne </p>
+<p> Konta bankowe </p>
+<p> Kredyty gotówkowe </p>
+<p> Lokaty </p>
+<p> Leasing </p>
+<p> Firmowe konta </p>
+<p> Rozpocznij rozmowę z konsultantem </p>
+<p> Wyślij swoje pytanie </p>
+<p> jQuery('#mpl_header2 div.toolbox').hide('fast');     jQuery('#mpl_header2 div.naskrot').click(function(){                  jQuery('#mpl_header2 div.toolbox').toggle('slow');     });     jQuery('#mpl_header2 div.toolbox').mouseleave(function(){         jQuery(this).hide('slow');     }); </p>
+<p> Serwis finansowy </p>
+<p> Doradztwo finansowe </p>
+<p> Firma </p>
+<p> Prawo </p>
+<p> Manager </p>
+<p> Technologie </p>
+<p> Motoryzacja </p>
+<p> Nieruchomości </p>
+<p> Praca </p>
+<p> Forum </p>
+<p> var mt_dn = Math.ceil(Math.random()*4)-1; var mt_links = [                 {t:'Zadbaj o finanse', a:'zadbaj-o-finanse'},                 {t:'Portfel elektroniczny', a:'portfel-elektroniczny'},                 {t:'Kontroluj swoje wydatki', a:'kontroluj-swoje-wydatki'},                 {t:'Kontroluj domowy budżet', a:'kontroluj-domowy-budzet'} 	]; jQuery('.mt_links').html('<a href="https://mymoney.pl/portfel/o-portfelu/#utm_source='+document.location.host+'&utm_medium=referral&utm_term='+mt_links[mt_dn].a+'&utm_campaign=link-w-menu" target="_blank" class="blue"><img alt="ico" src="http://static1.money.pl/i/header/ico_finanse.png">'+mt_links[mt_dn].t+'</a>'); </p>
+<p> Wiadomości </p>
+<p> Giełda </p>
+<p> Waluty </p>
+<p> Banki </p>
+<p> Emerytury </p>
+<p> Fundusze </p>
+<p> Gospodarka </p>
+<p> rozwiń </p>
+<p> Artykuły </p>
+<p> Statystyka </p>
+<p> Inflacja i bezrobocie </p>
+<p> Unia Europejska </p>
+<p> Rejestr firm </p>
+<p> Politycy </p>
+<p> Miasta Polski </p>
+<p> Regiony - archiwum </p>
+<p> Konto firmowe </p>
+<p> Podatki </p>
+<p> Ubezpieczenia </p>
+<p> Kredyty mieszkaniowe </p>
+<p> Gotówki </p>
+<p> PIT 2012 </p>
+<p> Twoje finanse </p>
+<p> jQuery('#dzialy').mnymenutree(); </p>
+<p> sas_noad = null;     sas_pageid='12901/94567';    // Page : Money.pl/gospodarka/podstrony     sas_formatid=5661;   // Format : billboard 750x100     sas_target=setSasTarget('gaz, ceny, rynek, URE, wolny, gielda');    // Targeting     SmartAdServer(sas_pageid,sas_formatid,sas_target); </p>
+<p> (function() {     var s = document.createElement('script');     s.async=true;     s.type='text/javascript';     s.src = 'http://www.money.pl/d/polecamy/?reff=' + encodeURIComponent(document.location.href);     var x = document.getElementsByTagName('script')[0];     x.parentNode.insertBefore(s, x); })(); </p>
+<p> Money.pl </p>
+<p> Gospodarka </p>
+<p> Wiadomości gospodarcze </p>
+<p> Prezes URE ujawnia, od kiedy mogą zostać uwolnione ceny gazu </p>
+<p> 2012-01-04 12:42 </p>
+<p> [fot: PAP/Paweł Supernak  ] </p>
+<p> Prezes URE ujawnia, od kiedy mogą zostać uwolnione ceny gazu </p>
+<p> var article_url = 'http://www.money.pl/gospodarka/wiadomosci/artykul/prezes;ure;ujawnia;od;kiedy;moga;zostac;uwolnione;ceny;gazu,165,0,1001637.html'; 		  	   		    var urlToLike = encodeURIComponent('http://www.money.pl/fb/artykul,1001637.html'); 				var font = encodeURIComponent('inherit'); 				document.write ('<iframe src="http://www.facebook.com/plugins/like.php?href='+urlToLike+'&amp;layout=button_count&amp;show_faces=false&amp;width=100&amp;action=recommend&amp;font=arial&amp;colorscheme=light&amp;height=21&amp;css=http://static1.money.pl/s/fb_like.css" scrolling="no" frameborder="0" style="margin-top:7px;border:none; overflow:hidden; width:90px; height:21px;" allowTransparency="true"></iframe>') </p>
+<p> Poleć artykuł: </p>
+<p> var article_url = 'http://www.money.pl/gospodarka/wiadomosci/artykul/prezes;ure;ujawnia;od;kiedy;moga;zostac;uwolnione;ceny;gazu,165,0,1001637.html'; 		  	   		    var urlToLike = encodeURIComponent('http://www.money.pl/fb/artykul,1001637.html'); 				var font = encodeURIComponent('inherit'); 				document.write ('<iframe src="http://www.facebook.com/plugins/like.php?href='+urlToLike+'&amp;layout=button_count&amp;show_faces=false&amp;width=100&amp;action=recommend&amp;font=arial&amp;colorscheme=light&amp;height=21&amp;css=http://static1.money.pl/s/fb_like.css" scrolling="no" frameborder="0" style="margin-top:7px;border:none; overflow:hidden; width:90px; height:21px;" allowTransparency="true"></iframe>')  		    var wykop_url=encodeURIComponent(article_url); // Link do strony 			  var wykop_title=encodeURIComponent(''); 			  var wykop_desc=encodeURIComponent(''); 			  var widget_bg='FFFFFF'; 			  var widget_type='compact2'; 			  var widget_bold=true; 			  var widget_url='http://www.wykop.pl/dataprovider/diggerwidget/?url='+(wykop_url)+'&title='+(wykop_title)+'&desc='+(wykop_desc)+'&bg='+(widget_bg)+'&type='+(widget_type)+'&bold='+(widget_bold); 			  document.write('<iframe src="'+widget_url+'" style="border:none;width:100px;height:20px;overflow:hidden;margin:0;padding:0;" frameborder="0" border="0"></iframe>'); </p>
+<p> (function() { 				document.write('<g:plusone size="small"></g:plusone><style> #___plusone_0 {margin-top:7px  !important; width:65px} </style>'); 			  })(); </p>
+<p> Rynek gazu dla odbiorców hurtowych mógłby zostać uwolniony w 2013 r., jeśli w połowie 2012 r. powstanie giełda gazu, a na rynku tym zadziała prawdziwa konkurencja - ocenił prezes Urzędu Regulacji Energetyki Marek Woszczyk. </p>
+<p> URE przygotował dokument, zatytułowany </p>
+<p> Mapa drogowa uwolnienia cen gazu ziemnego </p>
+<p> , który został skierowany do konsultacji na forum zespołu doradczego ds. liberalizacji rynku gazu przy ministrze gospodarki. Po konsultacjach, prawdopodobnie pod koniec stycznia, powinien zostać opublikowany. </p>
+<p> Jak powiedział Woszczyk, </p>
+<p> mapa drogowa </p>
+<p> ma charakter strategii i zakłada uruchomienie w połowie 2012 r. giełdy gazu dla odbiorców hurtowych. Dodał, że jeżeli w ocenie prezesa URE rynek ten wypełni odpowiednie kryteria, to od początku 2013 r. mógłby zostać całkowicie uwolniony. Oznacza to zniesienie cen regulowanych. </p>
+<p> <!-- google_ad_client = "ca-pub-9335149169362677"; google_ad_slot = "3145320090"; google_ad_width = 468; google_ad_height = 60; //--> </p>
+<p> Obecnie w Polsce istnieje obowiązek zatwierdzania taryf na gaz ziemny dla wszystkich grup odbiorców, także na rynku hurtowym - przypomniał Woszczyk. Zaznaczył, że zgodnie z prawem prezes URE może uwolnić rynek pod warunkiem, że stwierdzi działanie na nim konkurencji. </p>
+<p> Optymalnym miejscem obrotu gazem jest giełda gazu, bo z mocy prawa taki obrót jest wyłączony spod regulacji cenowej; cena jest wynikiem swobodnej gry popytu i podaży, a dodatkowo podlega kontroli Komisji Nadzoru Finansowego - dodał prezes URE. </p>
+<p> //<![CDATA[ document.write('<scr'+'ipt src="http://diff.smartadserver.com/call/pubj/22189/318276/11443/M/'+(new Date()).getTime()+'?[countgo]" language="javascript"></scr'+'ipt>'); //]]> </p>
+<p> Woszczyk podkreślił, że najważniejszym elementem planu jest dobrowolne zobowiązanie się podmiotu dominujące dziś na rynku gazu - Polskiego Górnictwa Naftowego i Gazownictwa - do przeprowadzenia programu uwalniania rynku gazu. Zakłada on, że PGNiG, który ma 98-proc. udział w rynku, w określonym i znanym wcześniej trybie będzie odsprzedawać część gazu na rynek hurtowy. To pozwoli wykreować ten rynek hurtowy, którego dziś praktycznie nie ma - ocenił prezes URE. </p>
+<p> Woszczyk zaznaczył, że dobrowolność odsprzedaży gazu według określonej formuły cenowej przez PGNiG jest kluczowym elementem. Podkreślił, że prezes URE nie ma możliwości zobowiązać tej spółki do przygotowania takiego programu i liczy na jej dobrą wolę. Wypowiedzi członków zarządu PGNiG wskazują na </p>
+<p> odpowiedzialne podejście </p>
+<p> spółki do tej inicjatywy - zaznaczył. </p>
+<p> Podkreślił, że strategia zakłada w pierwszej kolejności uwolnienie cen dla segmentu przemysłowego, który konsumuje ok. 70 proc. zużywanego o Polsce gazu i zaoferowana do sprzedaży przez PGNiG ilość gazu musiałaby być tego rzędu. Podkreślił też, że jeżeli nawet tylko część tego wolumenu znajdzie nabywców, a prezes URE stwierdzi, że na rynku istnieje jakaś alternatywa dla odbiorcy, to można podjąć decyzję o uwolnieniu cen. </p>
+<p> Woszczyk przypomniał też, że przygotowanie </p>
+<p> mapy drogowej </p>
+<p> jest przypisane prezesowi URE w ramach działań wykonawczych w polityce energetycznej państwa. Jego zdaniem, </p>
+<p> mapa </p>
+<p> powinna mieć rangę dokumentu rządowego, bo taki charakter wpłynie zarówno na jakość, jak i wagę całego programu. </p>
+<p> Ponadto będzie mógł być notyfikowany w Komisji Europejskiej, która wszczęła przeciwko Polsce postępowanie w związku z utrzymywaniem regulowanych cen gazu, co jest sprzeczne z unijnymi dyrektywami. Mógłby to być argument za zaniechaniem pozwania Polski przed Europejski Trybunał Sprawiedliwości - ocenił Woszczyk. </p>
+<p> O podwyżkach w 2012 roku, czytaj w Money.pl </p>
+<p> Złe wieści dla kierowców. Podali nowe ceny </p>
+<p> PKN Orlen i Grupa Lotos ogłosiły dziś nowe stawki hurtowe za benzynę i diesla. Paliwa drożały w tym roku już ponad 120 razy. </p>
+<p> Eksperci policzyli, o ile podrożeje prąd </p>
+<p> Megawat energii może podrożeć z 300 do 400 złotych, czyli o 25 procent. </p>
+<p> Tymi negocjacjami opóźnią podwyżkę cen </p>
+<p> Postępowanie w sprawie taryfy dla PGNiG nadal trwa i do jutra na pewno nie zostanie zakończone. </p>
+<p> Tagi: </p>
+<p> rynek </p>
+<p> , </p>
+<p> gaz </p>
+<p> , </p>
+<p> giełda </p>
+<p> , </p>
+<p> ceny </p>
+<p> , </p>
+<p> ure </p>
+<p> , </p>
+<p> wolny </p>
+<p> Zobacz więcej: </p>
+<p> Ceny gazu w Polsce </p>
+<p> var article_url = "http://www.money.pl/gospodarka/wiadomosci/artykul/prezes;ure;ujawnia;od;kiedy;moga;zostac;uwolnione;ceny;gazu,165,0,1001637.html"  					var urlToLike = encodeURIComponent('http://www.money.pl/fb/artykul,1001637.html'); 					var font = encodeURIComponent('inherit'); 					document.write ('<iframe src="http://www.facebook.com/plugins/like.php?href='+urlToLike+'&layout=button_count&amp;show_faces=false&amp;width=100&amp;action=recommend&amp;font=arial&amp;colorscheme=light&amp;height=21&amp;css=http://static1.money.pl/s/fb_like.css" scrolling="no" frameborder="0" style="margin-top:7px;border:none; overflow:hidden; width:100px; height:21px;" allowTransparency="true"></iframe>')  					var wykop_url=encodeURIComponent(article_url);	// Link do strony 					var wykop_title=encodeURIComponent("Prezes URE ujawnia, od kiedy mogą zostać uwolnione ceny gazu"); 					var wykop_desc=encodeURIComponent(''); 					var widget_bg='FFFFFF'; 					var widget_type='compact2'; 					var widget_bold=true;	// pogrubienie napisu Wykop - domyślnie true 					var widget_url='http://www.wykop.pl/dataprovider/diggerwidget/?url='+(wykop_url)+'&title='+(wykop_title)+'&desc='+(wykop_desc)+'&bg='+(widget_bg)+'&type='+(widget_type)+'&bold='+(widget_bold); 					document.write('<iframe src="'+widget_url+'" style="border:none;width:100px;height:20px;overflow:hidden;margin:0;padding:0;" frameborder="0" border="0"></iframe>');  					(function() { 					document.write('<g:plusone size="small"></g:plusone><style> #___plusone_1 {float:left !important;margin-top:10px  !important} </style>'); 					})(); </p>
+<p> Drukuj </p>
+<p> E-gazety </p>
+<p> Kalkulatory </p>
+<p> <!--   var nAuthorId = 0;   var nAuthorItem = 332418620;   var sAuthorName = "";   var sAuthorEmail = "";  	var nThreadId = 0;    var undefined;   var sForumActiveDivId = '';    function Forum_showPostThreadForm(nId, sTitle, nIdGroup, nDivId, bHideTrack, bRedirect) {     var oDiv, bAurhorRestricted;     // domyślna grupa     if(undefined == nIdGroup || '' == nIdGroup) {       nIdGroup = 0;     }     // usuń widoczny formularz     if('' != sForumActiveDivId) {       oDiv = document.getElementById(sForumActiveDivId);       oDiv.innerHTML = ''; 			oDiv.style.display='none';     }     if(undefined == nDivId || !nDivId) {       nDivId = nId;     }     if (undefined == bRedirect) {     	bRedirect = true;     }     bHideTrack = !(undefined == bHideTrack || !bHideTrack); 		sTitle = (!sTitle) ? 'Re: Prezes URE ujawnia, od kiedy mogą zostać uwolnione ceny gazu' : sTitle; 		bAurhorRestricted = false;      // dodaj nowy formularz     sForumCurrentDivId = 'P' + nDivId;     oDiv = document.getElementById(sForumCurrentDivId); 				if(bAurhorRestricted && !(nAuthorId > 0)) 		oDiv.innerHTML = 			'<div class="inbox">' + 			'<div><label class="long"><span class="bld">Aby móc komentować, musisz być zalogowany.</span></label></div>' + 			'<div><label class="long"><span><a style="color:#1A50A0" href="http://login.money.pl/" class="und">zaloguj się &raquo;</a></span></label></div>' + 			'</div>'; 		else     oDiv.innerHTML = 			'<div class="inbox">' +       '<form name="newpost" action="http://www.money.pl/forum/zapisz,0,0,' + nId + ',0,0,NEWS.html" method="post" onsubmit="return Forum_validatePostThreadForm(this);">' +       '<input type="hidden" name="author_id" value="' + nAuthorId + '"/>' +       '<input type="hidden" name="author_item" value="' + nAuthorItem + '"/>' +       '<input type="hidden" name="group_id" value="' + nIdGroup + '"/>' +       '<input type="hidden" name="parent_id" value="' + nId + '"/>' +       '<input type="hidden" name="thread_id" value="0"/>' +       '<input type="hidden" name="external_id" value="1001637"/>' + 			'<div><label>Tytuł:</label> <input type="text" name="title" class="in" value="' + sTitle + '" maxlength="255"/></div>' + 			'<div class="top"><label>Komentarz:</label> <textarea name="content"></textarea>' + 						'<input type="button" class="but cyt" onclick="Forum_quoteSelected(this.form.content)">' + 			'</div>' + 			'<div class="double">' + 					'<label>Autor:</label> <input type="text" name="author_name" class="in in155" value="' + sAuthorName + '" maxlength="60"/>'+ 					'<label>E-mail:</label> <input type="text" name="author_email" class="in in155" value="' + sAuthorEmail + '" maxlength="60"/>'+ 					'<input type="submit" name="submit" class="but" value="Wyślij"/>'+ 			'</div>' + 			((bHideTrack) ? '' : '<div><input type="checkbox" value="1" class="chb" name="author_track"'+((nId == 0)?' checked':'')+'> <label class="long">Poinformuj mnie mailem o pierwszej odpowiedzi.</label></div>') + 			((nAuthorId) ? '' : '<div><label class="long"><span><a style="color:#1A50A0" href="http://login.money.pl/" class="und">zaloguj się &raquo;</a></span></label></div>') +       '</form>' + 			'</div>'; 		oDiv.style.display='block'; 		if(bRedirect && nThreadId == nId) window.location.href='#F' + nId;     sForumActiveDivId = sForumCurrentDivId;     return false;   }    function Forum_showModeratorForm(nId) {     var oDiv;     if(!(nAuthorId > 0 && nAuthorItem > 0)) {       window.alert('Opcja dostępna tylko dla zalogowanych użytkowników!');       return false;     }      // usuń widoczny formularz     if('' != sForumActiveDivId) {       oDiv = document.getElementById(sForumActiveDivId);       oDiv.innerHTML = ''; 			oDiv.style.display='none';     }     // dodaj nowy formularz     sForumCurrentDivId = 'P' + nId;     oDiv = document.getElementById(sForumCurrentDivId);     oDiv.innerHTML = 			'<div class="inbox" style="background-color:#ffd9d9;">' +       '<form name="newmod" action="" method="post" onsubmit="return false;">' +       '<input type="hidden" name="author_id" value="' + nAuthorId + '"/>' +       '<input type="hidden" name="author_item" value="' + nAuthorItem + '"/>' +       '<input type="hidden" name="post_id" value="' + nId + '"/>' +       '<div class="top"><label>Uzasadnij zgłoszenie:</label> <textarea name="content" style="height:50px;"></textarea> <input type="button" name="submit" class="but" value="Wyślij" onclick="Forum_sendModeratorForm(this.form)"/></div>' +       '</div>' +       '</form>'; 		oDiv.style.display='block'; 		window.location.href='#F' + nId;     sForumActiveDivId = sForumCurrentDivId;     return false;   } --> </p>
+<p> skomentuj artykuł </p>
+<p> zaloguj się </p>
+<p> <!-- google_ad_client = "ca-pub-9335149169362677"; google_ad_slot = "4276702433"; google_ad_width = 468; google_ad_height = 60; //--> </p>
+<p> #zixo_nv .ifl {float: left !important;} 			#zixo_nv .ml10 {margin: 5px 10px !important;} 			#zixo_nv p {margin: 5px 10px !important;} 			#zixo_nv h3 {margin: 0 10px !important;} 			#zixo_nv {margin-bottom: 5px;} 			#zixo_nv #zixo_ad div {background-color: #ffffff !important} 			#zixo_nv div {background-color: #ffffff !important} 			#zixo_nv p.a12n a {color: #4C4C4C !important} </p>
+<p> Reklama </p>
+<p> Inwestycje </p>
+<p> 25 000% zysku? </p>
+<p> Monety bulionowe są bezpieczne, jak inwestycja w złoto lub srebro. Ostatnie lata przyniosły kilkukrotny wzrost ich wartości. Więcej można zyskać kupując okazy kolekcjonerskie. </p>
+<p> więcej » </p>
+<p> Podobne </p>
+<p> URE zdecyduje w sprawie cen gazu. Będą podwyżki? </p>
+<p> więcej </p>
+<p> Na szefa Urzędu Regulacji Energetyki naciska PGNiG. Gazowy gigant ponosi coraz większe straty. </p>
+<p> Ceny gazu do zmiany? URE zażąda wyjaśnień </p>
+<p> Ceny ropy w Nowym Jorku biją rekordy </p>
+<p> sas_noad = null;     sas_pageid='12901/94567';    // Page : Money.pl/gospodarka/podstrony     sas_formatid=5663;   // Format : rectangle 300x250     sas_target=setSasTarget('gaz, ceny, rynek, URE, wolny, gielda');    // Targeting     SmartAdServer(sas_pageid,sas_formatid,sas_target); </p>
+<p> Wiadomości gospodarcze </p>
+<p> Awarię usuwają nawet dwa lata. Kolej igra z życiem pasażerów </p>
+<p> więcej </p>
+<p> Podwyżki, likwidacja połączeń i nieudolne zarządzanie. PKP PLK, może stracić ponad 6 mld złotych. </p>
+<p> Ministrowie finansów Francji i USA za polityką stymulującą wzrost </p>
+<p> Ten zespół zakończy spór smoleński? </p>
+<p> Raporty </p>
+<p> 2013-04-09 05:40 </p>
+<p> Oto, do czego prowadzi brak kontroli placówek służby zdrowia </p>
+<p> 2013-04-08 06:00 </p>
+<p> Money.pl policzył, jaką emeryturę dostaniesz </p>
+<p> sas_noad = null;     sas_pageid='12901/276397';    // Page : Money.pl/ssp     sas_formatid=17741;   // Format : btf_300x250 300x250     sas_target=setSasTarget('gaz, ceny, rynek, URE, wolny, gielda');    // Targeting     SmartAdServer(sas_pageid,sas_formatid,sas_target); </p>
+<p> document.write('<scr'+'ipt type="text/javascript"> if(typeof sas_noad!="undefined" && sas_noad===true) {jQuery("#rect_bottom").removeClass("onreklama1");}<'+'/scr'+'ipt>'); </p>
+<p> sas_noad = null;     sas_pageid='12901/94567';    // Page : Money.pl/gospodarka/podstrony     sas_formatid=5662;   // Format : skyscraper 120x600     sas_target=setSasTarget('gaz, ceny, rynek, URE, wolny, gielda');    // Targeting     SmartAdServer(sas_pageid,sas_formatid,sas_target); </p>
+<p> jQuery('#rect ,.rect').mnysky(); </p>
+<p> (function() { 						var mb = document.createElement("script"); 						mb.type = "text/javascript"; 						mb.async = true; 						mb.src = "http://static1.money.pl/j/menu/6e4bcceaa758ca53972fab5d874c8a1d_496.js"; 						var s = document.getElementsByTagName("script")[0]; 						s.parentNode.insertBefore(mb, s); 					})(); </p>
+<p> jQuery(window).load(function () {     if(window.location.href=='http://www.money.pl/ubezpieczenia/wiadomosci/artykul/szejnfeld;podatek;dochodowy;dla;rolnikow;blokuje;reforme;krus,6,0,1253638.html') { 	jQuery('.mbox h2').eq(5).after('<h2><a href="http://www.money.pl/d/testubezpieczenia002.html">test ubezpieczenia</a></h2>');     } });  var footerEnabled='foot_money'; var prevLi=0; function footOn(idNew, li) {     //alert(li)     var toSet=document.getElementById(idNew);     var idOld=document.getElementById(footerEnabled);     idOld.style.display='none';     toSet.style.display='block';     if(prevLi)     { 	prevLi.setAttribute("class", "");     }     prevLi=li;     li.setAttribute("class", "sel");     footerEnabled=idNew; } </p>
+<p> © 2013 Money.pl Sp. z o.o. </p>
+<p> O nas </p>
+<p> Centrum prasowe </p>
+<p> Reklama </p>
+<p> Mapa serwisu </p>
+<p> Regulamin </p>
+<p> Praca w Money.pl </p>
+<p> Polityka prywatności </p>
+<p> Kontakt </p>
+<p> Pomoc </p>
+<p> Dla webmasterów </p>
+<p> iMoney w Twoim iPhonie </p>
+<p> Wersja dla komórek </p>
+<p> RSS </p>
+<p> Akademia Money.pl </p>
+<p> Na skróty </p>
+<p> Portal finansowy </p>
+<p> Pogoda </p>
+<p> GPW </p>
+<p> Kurs Euro </p>
+<p> Kurs Dolara </p>
+<p> Rejestr Firm </p>
+<p> Raporty </p>
+<p> Wydarzenia </p>
+<p> Produkty finansowe </p>
+<p> Kredyty mieszkaniowe </p>
+<p> Kredyty gotówkowe </p>
+<p> Kredyty samochodowe </p>
+<p> Konta osobiste </p>
+<p> Konta firmowe </p>
+<p> Lokaty </p>
+<p> Emerytury </p>
+<p> Karty kredytowe </p>
+<p> Fundusze inwestycyjne </p>
+<p> Ubezpieczenia auta </p>
+<p> Oferta PKO BP </p>
+<p> Serwis dla firm </p>
+<p> Zakładam firmę </p>
+<p> Baza firm </p>
+<p> Dzienniki ustaw </p>
+<p> Urzędy skarbowe </p>
+<p> ZUS </p>
+<p> , </p>
+<p> PIT-y </p>
+<p> Ryczałty </p>
+<p> Kodeks pracy </p>
+<p> Umowa o pracę </p>
+<p> Składki na ZUS </p>
+<p> Umowy </p>
+<p> Usługi </p>
+<p> - Favore.pl </p>
+<p> Katalog stron </p>
+<p> Nieruchomości </p>
+<p> Mieszkania </p>
+<p> Domy </p>
+<p> Działki </p>
+<p> Lokale użytkowe </p>
+<p> Projekty domów </p>
+<p> Budownictwo </p>
+<p> Motoryzacja </p>
+<p> Nowe samochody </p>
+<p> Autogiełda </p>
+<p> Flota </p>
+<p> , </p>
+<p> Opony </p>
+<p> Ceny aut używanych </p>
+<p> Galerie </p>
+<p> Opinie </p>
+<p> Taryfikator mandatów </p>
+<p> Najczęsciej szukane ogłoszenia </p>
+<p> Kalkulatory </p>
+<p> Kalkulator wynagrodzeń </p>
+<p> Kalkulator kredytowy </p>
+<p> Kalkulator odsetek </p>
+<p> Kalkulator odsetek ustawowych </p>
+<p> Kalkulator OC </p>
+<p> Kalkulator zdolności kredytowej </p>
+<p> Prawo </p>
+<p> Porady prawne </p>
+<p> Postępowanie karne </p>
+<p> Prawo cywilne </p>
+<p> Prawo handlowe </p>
+<p> Prawo gospodarcze </p>
+<p> Prawo podatkowe </p>
+<p> Prawo pracy </p>
+<p> Prawo rodzinne </p>
+<p> Prawo spadkowe </p>
+<p> Notariusze </p>
+<p> Orzecznictwo Trybunału Konstytucyjnego </p>
+<p> Orzecznictwo Sądu Najwyższego </p>
+<p> Tłumacze przysięgli </p>
+<p> Praca </p>
+<p> List motywacyjny </p>
+<p> CV </p>
+<p> Praca w domu </p>
+<p> Praca za granicą </p>
+<p> Praca Warszawa </p>
+<p> Praca Wrocław </p>
+<p> Praca Bielsko </p>
+<p> Urząd pracy </p>
+<p> .fSign{text-align:left !important;font-size:11px;padding:10px 0 0 17px} 	#foo_logos,#foo_logos_pion{background:#f0f0f0;width:962px;position:relative;text-align:left !important;margin:10px auto;padding:10px 0 18px} 	#foo_logos .foo_max,#foo_logos_pion .foo_max{width:100%} 	#foo_logos .flogo,#foo_logos_pion .flogo{float:left;position:relative;height:40px} 	#foo_logos .flogo span,#foo_logos_pion .flogo span{background:url(http://static1.money.pl/i/footer/footer-logos.gif) 0 0 no-repeat;display:block;height:40px;text-indent:-999em;z-index:20;cursor:pointer} 	#foo_logos .flogo1,#foo_logos_pion .flogo1{width:66px;padding-right:31px;margin:9px 0 0 24px} 	#foo_logos .flogo1 span,#foo_logos_pion .flogo1 span{background-position:-24px -9px} 	#foo_logos .flogo1:hover span,#foo_logos_pion .flogo1:hover span{background-position:-24px -74px} 	#foo_logos .flogo4,#foo_logos_pion .flogo4{width:90px;padding-right:31px;margin:9px 0 0} 	#foo_logos .flogo4 span,#foo_logos_pion .flogo4 span{background-position:-121px -9px} 	#foo_logos .flogo4:hover span,#foo_logos_pion .flogo4:hover span{background-position:-121px -74px} 	#foo_logos .flogo8,#foo_logos_pion .flogo8{width:84px;padding-right:35px;margin:9px 0 0} 	#foo_logos .flogo8 span,#foo_logos_pion .flogo8 span{background-position:-243px -9px} 	#foo_logos .flogo8:hover span,#foo_logos_pion .flogo8:hover span{background-position:-243px -74px} 	#foo_logos .flogo5,#foo_logos_pion .flogo5{width:55px;padding-right:29px;margin:9px 0 0} 	#foo_logos .flogo5 span,#foo_logos_pion .flogo5 span{background-position:-362px -9px} 	#foo_logos .flogo5:hover span,#foo_logos_pion .flogo5:hover span{background-position:-362px -74px} 	#foo_logos .flogo3,#foo_logos_pion .flogo3{width:61px;padding-right:35px;margin:9px 0 0} 	#foo_logos .flogo3 span,#foo_logos_pion .flogo3 span{background-position:-446px -9px} 	#foo_logos .flogo3:hover span,#foo_logos_pion .flogo3:hover span{background-position:-446px -74px} 	#foo_logos .flogo7,#foo_logos_pion .flogo7{width:61px;padding-right:28px;margin:9px 0 0} 	#foo_logos .flogo7 span,#foo_logos_pion .flogo7 span{background-position:-542px -9px} 	#foo_logos .flogo7:hover span,#foo_logos_pion .flogo7:hover span{background-position:-542px -74px} 	#foo_logos .flogo6,#foo_logos_pion .flogo6{width:110px;padding-right:24px;margin:9px 0 0} 	#foo_logos .flogo6 span,#foo_logos_pion .flogo6 span{background-position:-635px -9px} 	#foo_logos .flogo6:hover span,#foo_logos_pion .flogo6:hover span{background-position:-635px -74px} 	#foo_logos .flogo2,#foo_logos_pion .flogo2{width:66px;padding-right:26px;margin:9px 0 0} 	#foo_logos .flogo2 span,#foo_logos_pion .flogo2 span{background-position:-769px -9px} 	#foo_logos .flogo2:hover span,#foo_logos_pion .flogo2:hover span{background-position:-769px -74px} 	#foo_logos .flogo10,#foo_logos_pion .flogo10{width:80px;margin:9px 0 0} 	#foo_logos .flogo10 span,#foo_logos_pion .flogo10 span{background-position:-861px -9px} 	#foo_logos .flogo10:hover span,#foo_logos_pion .flogo10:hover span{background-position:-861px -74px} 	#foo_logos .flogo9,#foo_logos_pion .flogo9{width:173px;height:30px;display:block;position:absolute;right:0;bottom:-43px;text-indent:-999em;background:url(/i/footer/footer-logos.gif) 100% 100% no-repeat} 	#foo_logos .flogo:hover .lista,#foo_logos_pion .flogo:hover .lista{z-index:10;zoom:1;display:block} 	#foo_logos .lista,#foo_logos_pion .lista{-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;background:#e5e5e5 url(/i/a6.gif) 15px 13px no-repeat;display:none;position:absolute;top:4px;right:-160px;width:160px;z-index:1120;margin:0 !important;padding:5px 5px 5px 20px} 	#foo_logos .lista li,#foo_logos_pion .lista li{z-index:2000} 	#foo_logos .lista a,#foo_logos_pion .lista a{color:#4c4c4c;font:400 11px/18px Arial} 	#foo_logos .grupa,#foo_logos_pion .grupa{float:left;padding-left:56px;width:650px} 	#foo_logos .adloga,#foo_logos_pion .adloga {border-left:1px solid #dadada;float:right;padding-left:11px;width:232px} 	 	#foo_logos .flogo11 span,#foo_logos_pion .flogo11 span{background-position:-985px -9px} 	#foo_logos .flogo11:hover span,#foo_logos_pion .flogo11:hover span{background-position:-985px -73px} 	#foo_logos .flogo14 span,#foo_logos_pion .flogo14 span{background-position:-1098px -9px} 	#foo_logos .flogo14:hover span,#foo_logos_pion .flogo14:hover span{background-position:-1098px -72px} 	 	#footer {overflow:visible} 	.fSign {text-align: left !important; padding:10px 0 0 17px; font-size: 11px} 	#foo_logos_pion {background:#f0f0f0;width:270px;position:relative;text-align:left !important;margin:0 0 10px;padding:2px 0 18px} 	#foo_logos_pion .foo_max{padding-left:7px;width:auto} 	#foo_logos_pion .flogo1{width:66px;padding-right:10px;margin:9px 0 0} 	#foo_logos_pion .flogo4{width:90px;padding-right:6px;margin:9px 0 0} 	#foo_logos_pion .flogo8{width:84px;padding-right:0;margin:9px 0 0} 	#foo_logos_pion .flogo5{width:55px;padding-right:12px;margin:9px 0 0} 	#foo_logos_pion .flogo3{width:61px;padding-right:25px;margin:9px 0 0} 	#foo_logos_pion .flogo7{width:61px;padding-right:0;margin:9px 0 0} 	#foo_logos_pion .flogo6{width:110px;padding-right:12px;margin:9px 0 0} 	#foo_logos_pion .flogo2{width:66px;padding-right:22px;margin:9px 0 0} 	#foo_logos_pion .flogo10{width:80px;margin:9px 0 0}     /*#foo_logos_pion .flogo11{width:80px;margin:6px 0 4px 35px}*/ 	#foo_logos_pion .flogo14{width:108px;margin:6px 0 4px 75px} 	 .flogo9 {     background: url("http://static1.money.pl/i/footer/footer-logos.gif") no-repeat scroll -858px 100% transparent;     display: block;     float: right;     height: 34px;     margin-top: 1px;     position: relative;     right: 16px;     text-indent: -999em;     width: 102px; } </p>
+<p> Money.pl </p>
+<p> favore.pl </p>
+<p> eprawnik.pl </p>
+<p> gino rossi </p>
+<p> iwoman.pl </p>
+<p> interaktywnie.com </p>
+<p> platine.pl </p>
+<p> Scotch & Soda Polska </p>
+<p> menstream.pl </p>
+<p> bblog.pl </p>
+<p> businessclick.com </p>
+<p> marketmoney.pl </p>
+<p> Monetized by </p>
+<p> ban.pl </p>
+<p> jQuery('.corner').each(function(i, e) { jQuery(this).append('<span class="corners ctl"></span>'); jQuery(this).append('<span class="corners ctr"></span>'); jQuery(this).append('<span class="corners cbl"></span>'); jQuery(this).append('<span class="corners cbr"></span>'); }); </p>
+<p> sas_noad = null;     sas_pageid='12901/94567';    // Page : Money.pl/gospodarka/podstrony     sas_formatid=5670;   // Format : DHTML 1x1     sas_target='gaz, ceny, rynek, URE, wolny, gielda';    // Targeting     SmartAdServer(sas_pageid,sas_formatid,sas_target); </p>
+<p> .uokno{display:none;box-shadow:2px 4px 15px #333;border:1px solid #d1d1d1;border-right:none;bottom:10px;color:#333;position:fixed;right:1px;width:380px;z-index:1000;background:#ebebe5} .inuokno{overflow:hidden;position:relative;padding:5px 15px 10px;background: #fbfbfb;background: -moz-linear-gradient(top,  #fbfbfb 0%, #e2e2e2 100%);background:-webkit-gradient(linear, left top, left bottom, color-stop(0%,#fbfbfb), color-stop(100%,#e2e2e2));background: -webkit-linear-gradient(top,  #fbfbfb 0%,#e2e2e2 100%);background: -o-linear-gradient(top,  #fbfbfb 0%,#e2e2e2 100%);background: -ms-linear-gradient(top,  #fbfbfb 0%,#e2e2e2 100%);background: linear-gradient(to bottom,  #fbfbfb 0%,#e2e2e2 100%); filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fbfbfb', endColorstr='#e2e2e2',GradientType=0 );border-radius:5px} .inuokno img{border-width:0;margin:0 15px 0 0;padding:0;float:left} .uokno .close{display:block;height:16px;position:absolute;right:5px;top:5px; color:#999;font:400 10px Arial} .uokno .lista,.uokno .lista li{list-style-type:none;margin:0;padding:0} .oh{overflow:hidden} .inuokno .hd {font:700 14px Arial;color:#303030;padding:0;margin:0} .inuokno a.more{font-size:10px !important;color:#656565;clear:both;background:url(http://static1.money.pl/i/mpls/a10.gif) no-repeat 100% 10px;display:inline-block;padding-right:7px !important;float:right;margin-top:-12px}   .uokno a.tytul {font:700 14px/18px Arial !important} </p>
+<p> if(typeof(jQuery.cookie("pit_dis")) == "undefined") { var show_flag=false; jQuery(window).scroll(function() { 	if (jQuery(this).scrollTop()<750) { 		jQuery('#dymek').fadeOut(); 	} else { 		jQuery('#dymek').fadeIn();         if (show_flag==false) { 			show_flag = true;	 		} 	} });	 } function dymClose() { 	jQuery('#dymek').remove(); 	jQuery.cookie("pit_dis", 1, { expires : 7, domain  : '.money.pl', path: '/' });	 }  jQuery.cookie("pit_dis", 1, { expires : 7, domain  : '.money.pl', path: '/' }); </p>
+<p> .facebook_dolacz{-moz-box-shadow:0 0 20px 2px #5b5b5b;-webkit-box-shadow:0 0 20px 2px #5b5b5b;bottom:0;box-shadow:0 0 20px 2px #5b5b5b;display:none;height:172px;position:fixed;right:0;width:341px;z-index:99999} .facebook_dolacz.pitol{background:url(http://static1.money.pl/i/banery/pitol.jpg) 0 0;text-indent:-99999em} .facebook_dolacz.pitol span{background:#bfbfbf;color:#fff;cursor:pointer;display:block;float:right;font:700 12px/17px Arial;height:17px;margin:5px 5px 0 0;text-align:center;text-indent:0;width:17px} .facebook_dolacz.pitol a{display:block;height:100%} </p>
+<p> X </p>
+<p> Proste i darmowe narzedzie do badan! Sprawdź </p>

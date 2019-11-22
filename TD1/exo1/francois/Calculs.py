@@ -2,7 +2,7 @@ import os
 import math
 
 def calculateAverage(referenceFolder, targetFolder):
-    path = "D:/DocumentsHDD/M2/WebScraping/Corpus_detourage/"
+    path = "../../../resources/"
 
     nbFiles = len(os.listdir(path + referenceFolder))
 

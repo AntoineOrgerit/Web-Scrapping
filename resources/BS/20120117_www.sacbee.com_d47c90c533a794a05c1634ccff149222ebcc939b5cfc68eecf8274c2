@@ -1,0 +1,499 @@
+<p> <!--  var gomez={  	gs: new Date().getTime(),  	acctId:'D3FD89',  	pgId:'story-detail',  	grpId:'Sacbee'  };   /*Gomez tag version: 7.0*/var gomez=gomez?gomez:{};gomez.h3=function(d, s){for(var p in s){d[p]=s[p];}return d;};gomez.h3(gomez,{b3:function(r){if(r<=0)return false;return Math.random()<=r&&r;},b0:function(n){var c=document.cookie;var v=c.match(new RegExp(';[ ]*'+n+'=([^;]*)'));if(!v)v=c.match(new RegExp('^'+n+'=([^;]*)'));if(v)return unescape(v[1]);return '';},c2:function(n,v,e,p,d,s){try{var t=this,a=t.domain?t.domain:location.hostname;var c=n+'='+escape(v)+(e?';expires='+e.toGMTString():'')+(p?';path='+p:';path=/')+(d?';domain='+d:';domain='+a)+(s?';secure':'');document.cookie=c;}catch(e){}},z0:function(n){var t=this;if(n){var s =t.b0("__g_c");if(!s)return '';var v=s.match(new RegExp(n+':([^\|]*)'));if(v)return unescape(v[1]);return '';}else return '';},z1:function(n,m){var t=this;if(n){var s=t.b0("__g_c");if(s){if(s.indexOf(n+':')!=-1)s=s.replace(new RegExp('('+n+':[^\|]*)'),n+':'+m);else s=s==' '?n+':'+m:s+'|'+n+':'+m;t.c2("__g_c",s);}else t.c2("__g_c",n+':'+m);};},b2:function(v,s){var t=this,f=new Date(t.gt()+946080000000),g=''+v+'_'+s;t.c2('__g_u',g,f);t.gc.c=v;t.gc.d=s;t.z1('c',v);t.z1('d',s);},gt:function(){return new Date().getTime()},b5:function(){return new Date().getTime()-gomez.gs},j1:function(h){if(h){if(h.indexOf('<')!=-1||h.indexOf('%3C')!=-1||h.indexOf('%3c')!=-1)return null;if(window.decodeURIComponent)return decodeURIComponent(h);else return unescape(h);}return null;},f1:function(u,t){try{if(u){if(!/(^http|^https)/.test(u)){if(t==1)return gomez.j1(location.hostname);else return u;}var p=new RegExp('(^http|^https|):\/{2}([^\?#;]*)');if(t==1)p=new RegExp('(^http|^https|):\/{2}([^\/\?]*)');var r=u.match(p);if(r&&t==1)return gomez.j1(r[2]);else if(r)return r[0];}return null;}catch(e){return null;}},j3:function(n){try{var t =this,key=escape((window.location+n).replace(new RegExp("([:\/\.])","gm"),""));if(key&&key.length>100){key=key.substring(0,100);}if(window.localStorage){window.localStorage.setItem(key, t.gt());}else{t.z1('r',key+'___'+t.gt());}}catch(e){return ;}}, j2:function(){try{var m,t =this,key=escape((document.referrer+window.location).replace(new RegExp("([:\/\.])","gm"),""));if(key&&key.length>100){key=key.substring(0,100);}if(window.localStorage){m=window.localStorage.getItem(key);}if(!m){var c=t.z0("r");if(c){var r=c.split('___');if(r &&r[0]==key){m=r[1];}};};t.j4();return m;}catch(e){return ;}}, j4:function(){try{var t =this;if(window.localStorage){var key=escape((document.referrer+window.location).replace(new RegExp("([:\/\.])","gm"),""));if(key&&key.length>100){key=key.substring(0,100);}window.localStorage.removeItem(key);}else{t.z1('r', '');}}catch(e){return ;}}, j5:function(){var ret='';for(var i=0;i<3;i++){ret =ret +(((1+Math.random())*0x10000)|0).toString(16).substring(1);}ret =parseInt(ret, 16);return ret;},j6:function(){var t =this;var g=t.b0("__g_u");if(g&&g!='1'&&g.indexOf('NaN')==-1&&g.indexOf('undefined')==-1){var r =g.split("_");if(r.length>5){if(parseInt(r[5])<new Date().getTime()){return undefined;}else{return parseFloat(r[2]);}}}return undefined;},nameEvent:function(){},startInterval:function(){},endInterval:function(){},customValue:function(){}});gomez.P=function(){};gomez.P.prototype={hash:function(o){if(!o)return '';var t=this,s='{n:'+t.f9(o['n'])+'|';for(var i in o){if(i=='n')continue;if(typeof(o[i])=='string'||typeof(o[i])=='number')s +=i+':'+t.f9(o[i])+'|';};s=s.substring(0,s.length-1);return s+'}';},f9:function(s){s=''+s;s=s.replace('|','#$#').replace(':','$*$').replace('{','@#@').replace('}','*@*').replace('&','!*!');return s;},g0:function(){var t=this,z=gomez;if(z.grpIds)z.h3(z.gc,z.grpIds);if(z.wrate)z.gc.r=z.wrate;z.gc.e=z.grpId;for(var i=1;i<5;i++){if(z["grpId"+i]!=undefined){z.gc["e"+i]=z["grpId"+i];}}z.gc.b=z.pgId;z.gc.l=z.f1(z.m,2);if(self.screen){z.gc.m=screen.width;z.gc.o=screen.height;}else if(self.java){var j=java.awt.Toolkit.getDefaultToolkit();var s=j.getScreenSize();z.gc.m=s.width;z.gc.o=s.height;};z.gc.p=navigator.platform;if(navigator.cpuClass)z.gc.q=navigator.cpuClass;if(!z.gc.f&&!z.gc.g){try{var a=new Array("MSIE","Firefox","Opera","Safari","Chrome"),b=document.createElement('div');if(b.addBehavior&&document.body){b.addBehavior('#default#clientCaps');z.gc.k=b.connectionType;}}catch(e){};for(var i=0;i<a.length;i++){if(navigator.userAgent.indexOf(a[i])!=-1){z.gc.g=a[i];z.gc.f=(new String(navigator.userAgent.substring(navigator.userAgent.indexOf(a[i])).match(/[\d.]+/))).substring(0);}}if(!z.gc.f&&!z.gc.g){z.gc.g=navigator.vendor||navigator.appName;z.gc.f=(new String(navigator.appVersion.match(/[\d.]+/))).substring(0);}}return t.hash(z.gc);}};try{gomez.gc={'n':'c'};var iU=gomez.b0('__g_u');if(iU==undefined||iU==''){gomez.b2(gomez.j5(), 0);}var sR=gomez.j6();if(sR==undefined){sR=1;gomez.isFirstVi=true;}else{gomez.isFirstVi=false;}var wR=gomez.wrate?parseFloat(gomez.wrate):(gomez.wrate==0?0:1);wR=wR<0?0:(wR>1?1:wR);gomez.inSample=gomez.z0('a');if(!gomez.inSample||gomez.inSample==''){if(gomez.b3(wR*sR)){gomez.inSample=1;}else{gomez.inSample=0;}gomez.z1('a', gomez.inSample);}else{gomez.inSample=parseInt(gomez.inSample);}gomez.runFlg=gomez.inSample>0;if(gomez.runFlg){gomez.clickT=gomez.j2();gomez.h1=function(v,d){return v?v:d};gomez.gs=gomez.h1(gomez.gs,new Date().getTime());gomez.acctId=gomez.h1(gomez.acctId,'');gomez.pgId=gomez.h1(gomez.pgId,'');gomez.grpId=gomez.h1(gomez.grpId, '');gomez.E=function(c){this.s=c;};gomez.E.prototype={g1:function(e){var t=gomez,i=t.g6(e);if(i)i.e=t.b5();}};gomez.L=function(m){this.a=m;};gomez.L.prototype={g2:function(m){var t=gomez,n=t.b5();var s=document.getElementsByTagName(m);var e=t.k;if(m=='script')e=t.j;if(m=='iframe')e=t.l;if(s){var l=s.length;for(var i=0;i<l;i++){var u=s[i].src||s[i].href;if(u &&!e[u]){var r =new gomez.E(e);t.grm[u]=r;e[u]=new t.c7(u, n);if(t.gIE&&m=='script')t.e2(s[i],'readystatechange',t.d2,false);else t.e2(s[i],'load',r.g1,false);}}}}};gomez.L.m=new Object;gomez.S=function(){var t=this,h=gomez.acctId+".r.axf8.net";t.x=('https:'==location.protocol?'https:':'http:')+'//'+h+'/mr/b.gif?';t.pvHttpUrl=('https:'==location.protocol?'https:':'http:')+'//'+h+'/mr/e.gif?';t.abHttpUrl=('https:'==location.protocol?'https:':'http:')+'//'+h+'/mr/f.gif?';};gomez.h2=function(){var t=this;t.gIE=false;t.f=new Object;t._h=0;t.j=new Object;t.k=new Object;t.l=new Object;t.m=location.href;t.p=-1;t.q=-1;t.u=new Array;t._w=false;t.gSfr=/KHTML|WebKit/i.test(navigator.userAgent);t.grm=new Object;t.b;t.d=false;t.x=false;t.s=new gomez.S;t._a=false;t.h6=false;t.n1=0;t.c=false;};gomez.h3(gomez,{h5:function(u){try{var s=document.createElement('script');s.async=true;if(navigator.userAgent.indexOf('Firefox/3.5')!=-1){s.defer=true;}s.src=u;s.type='text/javascript';if(document.body)document.body.appendChild(s);else if(document.documentElement.getElementsByTagName('head')[0])document.documentElement.getElementsByTagName('head')[0].appendChild(s);}catch(e){var t=gomez;if(t.gSfr)document.write("<scr"+"ipt src='"+u+"'"+"><\/scr"+"ipt>");}},a9:function(){var t=gomez,i=t.z0('a'),g=t.b0('__g_u'),h=t.z0('h'), b=t.z0('b');t.gc.h=b;if(h)t.n1=parseInt(h);if(!t.gc.h)t.gc.h=1;t.z1('b',parseInt(t.gc.h)+1);if(i){t.a=parseInt(i);if(t.a==1){t._w=true;}else if(t.a==3){t.x=true;t._w=true;};t.d=true;}if(!t.gc.a)return;if(b){t.gc.c=t.z0('c');t.gc.i=t.z0('e');t.gc.j=t.z0('f');t.iFS=false;}else {var s='v=1';t.c2('__g_u','1',new Date(t.gt()+1000));t.iFS=true;if(t.b0('__g_u')&&g&&g!='1'&&g.indexOf('NaN')==-1&&g.indexOf('undefined')==-1){s='v=0';var r=g.split('_');t.b2(parseInt(r[0]),parseInt(r[1])+1);if(r[4]&&r[4]!='0'&&t.gt()<parseInt(r[5])&&r[2]&&r[2]!='0'){t.b1(parseFloat(r[2]),parseFloat(r[3]),parseFloat(r[4]),parseInt(r[5]));if(r[6])t.n0(parseInt(r[6]));};};t.h6=true;};t.gc.d=t.z0('d');if(!t.gc.d||(t.gc.d&&t.gc.d==0)){t.z1('d',1);t.gc.d=1;}t.b=t.z0('g');t.j8();if(i &&!t.isFirstVi&&t._w&&!t._a){t.h7();t._a=true;};},h7:function(){var t=gomez,u=t.tloc?t.tloc:('https:'==location.protocol?'https:':'http:')+'//'+t.acctId+'.t.axf8.net/js/gtag7.0.js';t.h5(u);},n0:function(h){var t=gomez,f=new Date(t.gt()+946080000000),g=t.b0('__g_u');t.n1=h;t.z1('h',h);if(g&&g!='1'&&g.indexOf('NaN')==-1&&g.indexOf('undefined')==-1){var r=g.split('_');g=''+r[0]+'_'+r[1]+'_'+r[2]+'_'+r[3]+'_'+r[4]+'_'+r[5]+'_'+h;t.c2('__g_u',g,f);};},b1:function(v,s,q,f){var t=this;if(s ==undefined)s =1;t.d=true;t.z1('e',v);t.z1('f',s);t.gc.i=v;t.gc.j=s;t.h4(v,s,q,f);},b3:function(i, v, s){var t =this;t.d=true;if(s ==undefined)s =1;if(i==0||i==1){t.a=i;if(i==1){t._w=true;if(!t._a){t.h7();t._a=true;};}else{t.d=false;}t.z1('a',t.a);if(v !=undefined){t.b1(v, s);}}else if(i==2){t.h4(v, s);}},h4:function(o,p,q,d){var t=this,f=new Date(t.gt()+946080000000),g=t.b0('__g_u');if(g&&g!='1'&&g.indexOf('NaN')==-1&&g.indexOf('undefined')==-1){var r=g.split('_'),s;if(d)s=d;else if(q&&q>=0)s=new Date(t.gt()+parseInt(q*86400000)).getTime();else{q=5;s=new Date(t.gt()+432000000).getTime();};g=''+r[0]+'_'+r[1]+'_'+o+'_'+p+'_'+q+'_'+s;t.c2('__g_u',g,f);};},b6:function(){var t=gomez;t.p=t.b5();},f8:function(){var t=this;if(t.pollId1)clearInterval(t.pollId1);},b7:function(){var t =gomez;t.f8();t.q=t.b5();},c7:function(u, s){var t=this;t.m=u;t.s=s;},c8:function(){var t=gomez,n=t.b5(),l=document.images.length;if(l>t._h){for(var i=t._h;i<l;++i){var u=document.images[i].src;if(u){var r =new gomez.E(t.f);t.grm[u]=r;t.f[u]=new t.c7(u, n);t.e2(document.images[i],'load',t.c4,false);t.e2(document.images[i],'error',t.c5,false);t.e2(document.images[i],'abort',t.c6,false);}}}t._h=l;},c4:function(e){var t=gomez,i=t.g6(e);if(i)i.e=t.b5();},c5:function(e){var t=gomez,i=t.g6(e);if(i){i.e=t.b5();i.b=1;}},c6:function(e){var t=gomez,i=t.g6(e);if(i)i.a=t.b5();},g6:function(e){var t=gomez,e=window.event?window.event:e,a=t.d8(e),i;if(t.grm[a.src||a.href]&&t.grm[a.src||a.href].s)i=t.grm[a.src||a.href].s[a.src||a.href];return i;},d2:function(){var t=gomez;var e=window.event?window.event:e,s=t.d8(e);if(s.readyState=='loaded'||s.readyState=='complete'){var o=t.j[s.src];if(o)o.e=t.b5();}},nameEvent:function(n){var t=this;t.f6(n,1);},startInterval:function(n){var t=this;t.f6(n,2,1);},endInterval:function(n){var t=this;t.f6(n,2,2);},f6:function(n,p,b){if(n&&n.length>20)n=n.substring(0,20);var t=this,f=t.u;if(p==3){f[f.length]={'n':'a','a':n,'b':b,'e':p,'f':undefined};}else{f[f.length]={'n':'a','a':n,'b':t.b5(),'e':p,'f':b};}},customValue:function(n,v){var t=this;if(typeof(v)!='number'){return;}t.f6(n,3,v);},d8:function(e){if(gomez.gIE)return e.srcElement||{};else return e.currentTarget||e.target||{};},e2:function(e,p,f,c){var n='on'+p;if(e.addEventListener)e.addEventListener(p,f,c);else if(e.attachEvent)e.attachEvent(n, f);else{var x=e[n];if(typeof e[n]!='function')e[n]=f;else e[n]=function(a){x(a);f(a);};}},i1:function(){var d =window.document, done=false,i2=function (){if(!done){done=true;gomez.b6();gomez.a9();}};(function (){try{d.documentElement.doScroll('left');}catch(e){setTimeout(arguments.callee, 50);return;}i2();})();d.onreadystatechange=function(){if(d.readyState=='complete'){d.onreadystatechange=null;i2();}};},j7:function(s, toUrl){try{var t=this,z=gomez;if(!s)return;s+="{n:u|e:1}";var p ='';if(t.isFirstVi){p='&a='+z.acctId+'&r=1&s=1';}else if(t.iFS){p='&a='+z.acctId+'&r='+t.j6();}if(window.encodeURIComponent)s=encodeURIComponent(s);else s=escape(s);z.h5(z.e(toUrl)+'info='+s+p);}catch(err){}return;},e:function(u){if(!/\?|&/.test(u))if(!/\?/.test(u))u +='?';else u +='&';return u;},j8:function(){var t=gomez, p=new gomez.P();var s=p.g0();t.j7(s, t.s.pvHttpUrl);},g7:function(){try{var t=gomez;t.gc.a=t.acctId;t.gIE=!-[1,];if(t.gIE){t.i1();window.attachEvent('onload', t.b7);}else if(window.addEventListener){window.addEventListener('DOMContentLoaded', t.b6, false);window.addEventListener('load', t.b7, false);}else if(t.gSfr){var m=setInterval(function(){if(/loaded|complete/.test(document.readyState)){clearInterval(m);delete m;t.b6();t.b7();}}, 10);}else return;if(!t.jbo){t.c8();t.pollId1=setInterval(t.c8, 10);}if(!t.gIE)t.a9();}catch(e){return;}}});gomez.h2();gomez.g7();}}catch(e){}; //--> </p>
+<p> Study suggests hazards of wearing headphones outside - Sacramento Living - Sacramento Food and Wine, Home, Health | Sacramento Bee </p>
+<p> Sacbee.section_name = "Wire Lifestyle"; </p>
+<p> var insitecookie = 'sacbee_user_auth' </p>
+<p> <!--     mi_is_live = 1;      miyahoo = {};     miyahoo.tax = "Lifestyles||";     miyahoo.tax_id = 20422501;     miyahoo.content_type = "fn_news";     miyahoo.cstm_sctn_list = "story";     miyahoo.cstm_content_cat = "Wire Lifestyle";      miyahoo.slots = {};      miyahoo.slots.slot_1 = {};     miyahoo.slots.slot_1.ad_size_list = ["728x90"];     miyahoo.slots.slot_1.ad_delivery_mode = "ipatf";     miyahoo.slots.slot_1.ad_marker = "";     miyahoo.slots.slot_2 = {};     miyahoo.slots.slot_2.ad_size_list = ["100x25"];     miyahoo.slots.slot_2.ad_delivery_mode = "ipatf";     miyahoo.slots.slot_2.ad_marker = "";     miyahoo.slots.slot_3 = {};     miyahoo.slots.slot_3.ad_size_list = ["300x250"];     miyahoo.slots.slot_3.ad_delivery_mode = "ipatf";     miyahoo.slots.slot_3.ad_marker = "";     miyahoo.slots.slot_4 = {};     miyahoo.slots.slot_4.ad_size_list = ["300x100"];     miyahoo.slots.slot_4.ad_delivery_mode = "ipstf";     miyahoo.slots.slot_4.ad_marker = "";     miyahoo.slots.slot_5 = {};     miyahoo.slots.slot_5.ad_size_list = ["300x100"];     miyahoo.slots.slot_5.ad_delivery_mode = "ipbtf";     miyahoo.slots.slot_5.ad_marker = "";   --> </p>
+<p> <!--  if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){ // 'live' or 'preview' is set during page build         document.write('<'+'script type="text/javascript" src="http://e.yieldmanager.net/script.js"> </p>
+<p> ');     } --> </p>
+<p> <!-- ord=Math.random()*10000000000000000; var query = window.location.toString().match(/pubsys_story[^a-zA-Z=]*=([^&]*)/); kw_str = ""; if (query && query[1]) {     var t_array = decodeURIComponent(query[1].replace(/\+/g, " ")).split(' ');     for (var i in t_array)     {         t_array[i] = t_array[i].replace(/[^a-zA-Z0-9_+|-]/g, "");         t_array[i] = t_array[i].replace(/\+/g, "{plus}");         t_array[i] = escape(t_array[i]);         if (t_array[i].length < 1) continue;         kw_str += 'kw=' + t_array[i] + ';';     } } dart_segs="";var ca=document.cookie.split(';');var cb="";var cc;for(var i=0;i < ca.length;i++){var c=ca[i];while (c.charAt(0)==' ') c=c.substring(1,c.length);var c_name="segments=";if (c.indexOf(c_name) == 0) {cb=c.substring(c_name.length,c.length);break;}}cc=cb.split('\%20');for(var i=0;i < cc.length;i++){var c=cc[i];c=c.replace(/[^a-zA-Z0-9_+|-]/g, "");c=c.replace(/\+/g, "{plus}");if (c.length < 1) continue;while (c.charAt(0)==' ') c=c.substring(1,c.length);dart_segs+="is="+c+";";}cb=""; dart_tk="";for(var i=0;i < ca.length;i++){var c=ca[i];while (c.charAt(0)==' ') c=c.substring(1,c.length);if (c.indexOf("TData=") == 0) {cb=c.substring(6,c.length);break;}}cb=cb.replace(/[^a-zA-Z0-9_+|-]/g, "");cb=cb.replace(/\+/g, "{plus}");cc=cb.split('|');for(var i=0;i < cc.length;i++){var c=cc[i];if (c.length < 1) continue;while (c.charAt(0)==' ') c=c.substring(1,c.length);dart_tk+="tk="+c+";";} dart_reg="reg=0;";for(var i=0;i < ca.length;i++){var c=ca[i];while (c.charAt(0)==' ') c=c.substring(1,c.length);var c_name="sacbee_user_auth=";if (c.indexOf(c_name) == 0){cb=c.substring(c_name.length,c.length);if (!cb.indexOf(".threshold") == 0) dart_reg="reg=1;";break;}} //--> </p>
+<p> var mi = { 		"media_domain" : "http://media.sacbee.com" 	} </p>
+<p> /** 	 * miAppControler contains master settings that can be used to quickly disable 	 * javascript applications. For each supported app there is an attribute containing 	 * an integer value. The meaning of the value is application specific, except  	 * for 0 and 1. 	 * 0 = disable the entire app 	 * 1 = enable the entire app 	 * Any additional values should be noted in this file. 	 * 	 * The controller is instantiated in the MI object and should be interfaced with 	 * there.  	 */  	var miAppControler = function() {};  	/* Commenting 	 2 = disable comment submission & display 	 3 = enable comment submission & display only 	 4 = disable popular threads widget 	*/ 	miAppControler.prototype.commenting = 1;  	/* 	 2 = display static coupon ad 	*/ 	miAppControler.prototype.findnsave = 0;   miAppControler.prototype.dealsaver = 1;  var pageInfo = {'version':1.0}; pageInfo.section = {}; pageInfo.section.id = 847; pageInfo.asset = {}; pageInfo.asset.id = 4192228; pageInfo.asset.title = 'Study suggests hazards of wearing headphones outside';   <!-- assignment_type: story-detail --> </p>
+<p> // set a javascript variable to be used in an external script for overrides var miCommentingEnabled = 1; </p>
+<p> mi.search = new mi.Search(); </p>
+<p> <!-- if(typeof(miyahoo) == "undefined" || miyahoo.ads[mi_live_or_preview].dart.enabled){ document.write('<scr' + 'ipt language="JavaScript" src="http://ad.doubleclick.net/adj/mi.sac00/Lifestyle;dcopt=ist;dcove=d;pl=story;lvl6=WireLifestyle;loc=ats;pos=1;' + dart_reg + dart_segs + dart_tk + kw_str + 'sz=728x90;tile=1;ord=' + ord + '?" type="text/javascript"></scr' + 'ipt>'); } //--> </p>
+<p> <!-- if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_1");} --> </p>
+<p> Sign In </p>
+<p> Join </p>
+<p> var user_run_mode = ''; 						document.write(' <li><a href="http://www.sacbee.com/reg-bin/tint.cgi?mode=edit">' + account_user_name + '</a></li>'); </p>
+<p> Logout </p>
+<p> Reader Services </p>
+<p> Place a classified ad </p>
+<p> Place an obituary </p>
+<p> Manage your sacbee.com account </p>
+<p> Manage your subscription </p>
+<p> Make a payment </p>
+<p> BeeBuzzPoints Reader Rewards </p>
+<p> Order reprints </p>
+<p> Contact us </p>
+<p> Stay Connected </p>
+<p> Newsletters & Alerts </p>
+<p> Mobile </p>
+<p> e-Edition </p>
+<p> e-Edition on iPad </p>
+<p> Kindle </p>
+<p> Sony eReader </p>
+<p> NOOK Version </p>
+<p> Help </p>
+<p> Archives </p>
+<p> Contact us </p>
+<p> Site Feedback </p>
+<p> Subscribe to The Bee TODAY </p>
+<p> Sacbee.enable_readerservices_menus(); </p>
+<p> Wire Lifestyle </p>
+<p> News </p>
+<p> Business </p>
+<p> Local </p>
+<p> Election 2012 </p>
+<p> Crime </p>
+<p> Obituaries </p>
+<p> Weather </p>
+<p> Data Center </p>
+<p> Investigations </p>
+<p> Nation/World </p>
+<p> Popular Topics </p>
+<p> Blogs/Columnists </p>
+<p> Sponsored By </p>
+<p> ROSEVILLE TOYOTA </p>
+<p> Capitol & California </p>
+<p> Capitol Alert </p>
+<p> State Workers </p>
+<p> Election 2012 </p>
+<p> Politics </p>
+<p> State News </p>
+<p> Jerry Brown </p>
+<p> Marijuana </p>
+<p> Budget </p>
+<p> Prop 8 </p>
+<p> Blogs/Columnists </p>
+<p> Sponsored By </p>
+<p> California Credit Union League </p>
+<p> Our Region </p>
+<p> Business </p>
+<p> Sacto 911 </p>
+<p> Arrest Logs </p>
+<p> City Beat </p>
+<p> Transportation </p>
+<p> Medical </p>
+<p> Real Estate </p>
+<p> Our Towns </p>
+<p> Education </p>
+<p> Environment </p>
+<p> Religion </p>
+<p> Sponsored By </p>
+<p> Roseville Toyota </p>
+<p> Sports </p>
+<p> Kings/NBA </p>
+<p> 49ers </p>
+<p> Raiders </p>
+<p> High Schools </p>
+<p> Colleges </p>
+<p> A's/Giants </p>
+<p> River Cats </p>
+<p> Golf </p>
+<p> UFL/Mountain Lions </p>
+<p> Blogs/Columnists </p>
+<p> Sponsored By </p>
+<p> JOHN L. SULLIVAN CHEVROLET </p>
+<p> Living Here </p>
+<p> Moms & Family </p>
+<p> Pets </p>
+<p> Appetizers </p>
+<p> Food & Wine </p>
+<p> Home & Garden </p>
+<p> Outdoors </p>
+<p> Health & Fitness </p>
+<p> Books & Media </p>
+<p> Travel </p>
+<p> Fun & Games </p>
+<p> Sponsored By </p>
+<p> Sutter Health </p>
+<p> Entertainment </p>
+<p> Events </p>
+<p> Movies </p>
+<p> Dining </p>
+<p> Things to Do </p>
+<p> Fun & Games </p>
+<p> TV Listings </p>
+<p> Travel </p>
+<p> Books & Media </p>
+<p> Music </p>
+<p> Theater & Art </p>
+<p> Bee Buzz Points </p>
+<p> Opinion </p>
+<p> Editorials </p>
+<p> Head to Head </p>
+<p> Viewpoints </p>
+<p> Letters to the Editor </p>
+<p> The Swarm </p>
+<p> Rex Babin Cartoons </p>
+<p> California Forum </p>
+<p> Editorial Board </p>
+<p> Cars </p>
+<p> Bee Auto Ads </p>
+<p> Auto Show </p>
+<p> Buy/Sell </p>
+<p> Research </p>
+<p> Shopping Advice </p>
+<p> Transportation News </p>
+<p> Car Photos/Videos </p>
+<p> Jobs </p>
+<p> Healthcare/Social Service Careers </p>
+<p> Career Fairs and Events </p>
+<p> Post a Resume </p>
+<p> Who's Hiring </p>
+<p> Employer Resources </p>
+<p> Search Classifieds </p>
+<p> Homes </p>
+<p> Classified Rentals </p>
+<p> Classified Home Sales </p>
+<p> Homefinder.com </p>
+<p> Apartments.com </p>
+<p> Commercial Real Estate </p>
+<p> Community News </p>
+<p> Classifieds </p>
+<p> In Memoriams </p>
+<p> Garage Sale Kit </p>
+<p> Legal Notices </p>
+<p> Place a classified ad </p>
+<p> Deals </p>
+<p> Find n Save </p>
+<p> Dealsaver </p>
+<p> Daily Deal </p>
+<p> Local Coupons </p>
+<p> Local Ads </p>
+<p> Golf Card </p>
+<p> Weekly Inserts & Gift Cards </p>
+<p> <!-- if(typeof(miyahoo) == "undefined" || miyahoo.ads[mi_live_or_preview].dart.enabled){ document.write('<scr' + 'ipt language="JavaScript" src="http://ad.doubleclick.net/adj/mi.sac00/Lifestyle;dcove=d;pl=story;lvl6=WireLifestyle;loc=ats;pos=1;' + dart_reg + dart_segs + dart_tk + kw_str + 'sz=100x25;tile=2;ord=' + ord + '?" type="text/javascript"></scr' + 'ipt>'); } //--> </p>
+<p> <!-- if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_2");} --> </p>
+<p> Sacbee.enable_navbar('main-navbar', 'nav-news', ''); </p>
+<p> set_nav_subnav("#nav-livinghere", ""); </p>
+<p> $("#headerdate").html(Sacbee.display_date_str()); </p>
+<p> Web Search powered by </p>
+<p> YAHOO! </p>
+<p> SEARCH </p>
+<p> sacbee.com </p>
+<p> Web </p>
+<p> mi.search.searchParamConfig();                  mi.search.checkOption();  	         document.miSearchForm.onsubmit = function () {  	                 return mi.search.submitForm();   		 }   		 Sacbee.enable_searchbox(); </p>
+<p> Weather </p>
+<p> | </p>
+<p> Traffic </p>
+<p> 24° F </p>
+<p> window.fbAsyncInit = function() {     FB.init({appId: 'your app id', status: true, cookie: true,              xfbml: true});   };   (function() {     var e = document.createElement('script'); e.async = true;     e.src = document.location.protocol +       '//connect.facebook.net/en_US/all.js';     document.getElementById('fb-root').appendChild(e);   }()); </p>
+<p> if (typeof(Sacbee) !== 'undefined' && typeof(Sacbee.MobileDetect) !== 'undefined') { 		Sacbee.MobileDetect.showAppLink('#mobileteaser'); 	} </p>
+<p> Living Here </p>
+<p> - </p>
+<p> Wire Lifestyle News </p>
+<p> - </p>
+<p> Wire Lifestyle </p>
+<p> 0 comments </p>
+<p> mi.commenting.displayCommentCount(); </p>
+<p> | </p>
+<p> Print </p>
+<p> Study suggests hazards of wearing headphones outside </p>
+<p> #scsharelink { background: url(http://media.sacbee.com/static/sacconnect/images/share-icon.png) no-repeat left center;  padding-left: 20px; } </p>
+<p> Share </p>
+<p> By </p>
+<p> JEANNINE STEIN </p>
+<p> Los Angeles Times </p>
+<p> By JEANNINE STEIN </p>
+<p> Last modified: 2012-01-17T01:00:40Z </p>
+<p> Published: Monday, Jan. 16, 2012 - 12:00 am </p>
+<p> Copyright 2012 . All rights reserved. This material may not be published, broadcast, rewritten or redistributed. </p>
+<p> LOS ANGELES -- </p>
+<p> People who wear headphones might want to ditch them while walking outside. A study finds that accidents involving pedestrians wearing the devices have tripled in recent years. </p>
+<p> Researchers combed several sources to find incidents in the U.S. of crashes involving pedestrians and vehicles from 2004 to 2011. Searching the National Electronic Injury Surveillance System, the U.S. Consumer Product Safety Commission, Google News archives and Westlaw Campus Research, they found 116 cases of death or injury involving pedestrians wearing headphones. Cases in which people were using mobile phones (including hands-free devices) were excluded. </p>
+<p> Over the years the number of cases increased, from 16 in 2004 and 2005 to 47 in 2010 and 2011. The victims' average age was 21 and most (68 percent) were male. The majority (67 percent) were under the age of 30. Most (55 percent) were hit by trains, and 70 percent of the crashes, most of which were in urban areas, were fatal. </p>
+<p> In 74 percent of the cases, police or eyewitness reports said the pedestrian had headphones on when hit. And 29 percent of reports made mention or horns or sirens going off before the crash. </p>
+<p> The study authors pointed to two likely culprits that may be a factor in what they call "the possible association between headphone use and pedestrian injury": sensory deprivation and distraction, the latter more specifically called "inattentional blindness," referring to the use of electronic gadgets and how they decrease attention to things going on around us. </p>
+<p> Hearing what's going on in the environment, they point out, could be more important than visual cues for pedestrians. But the authors add that this study doesn't show causation or correlation of headphone use and pedestrian risk, and other factors could have been involved in the accidents, such as pedestrians being intoxicated or drivers being at fault. </p>
+<p> More comprehensive information on such accidents are needed, the researchers said, to see which groups of people may be most at risk. </p>
+<p> The study was published online Monday in the journal Injury Prevention. </p>
+<p> #scsharelinkb { background: url(http://media.sacbee.com/static/sacconnect/images/share-icon.png) no-repeat left center; padding-left: 20px; } </p>
+<p> Share </p>
+<p> About Comments </p>
+<p> Reader comments on Sacbee.com are the opinions of the writer, not The Sacramento Bee. If you see an objectionable comment, click the "Report Abuse" link below it. We will delete comments containing inappropriate links, obscenities, hate speech, and personal attacks. Flagrant or repeat violators will be banned. </p>
+<p> See more about comments here. </p>
+<p> What You Should Know About Comments on Sacbee.com </p>
+<p> Sacbee.com is happy to provide a forum for reader interaction, discussion, feedback and reaction to our stories.  However, we reserve the right to delete inappropriate comments or ban users who can't play nice. ( </p>
+<p> See our full terms of service here. </p>
+<p> ) </p>
+<p> Here are some rules of the road: </p>
+<p>  Keep your comments civil. Don't insult one another or the subjects of our articles.  If you think a comment violates our guidelines click the "Report Abuse" link to notify the moderators. Responding to the comment will only encourage bad behavior. </p>
+<p>  Don't use profanities, vulgarities or hate speech.  This is a general interest news site.  Sometimes, there are children present. Don't say anything in a way you wouldn't want your own child to hear. </p>
+<p>  Do not  attack other users; focus your comments on issues, not individuals. </p>
+<p>  Stay on topic.  Only post comments relevant to the article at hand. </p>
+<p>  Do not copy and paste outside material into the comment box. </p>
+<p>  Don't repeat the same comment over and over.  We heard you the first time. </p>
+<p>  Do not use the commenting system for advertising. That's spam and it isn't allowed. </p>
+<p>  Don't use all capital letters.  That's akin to yelling and not appreciated by the audience. </p>
+<p>  Don't flag other users' comments just because you don't agree with their point of view.  Please only flag comments that violate these guidelines. </p>
+<p> You should also know that The Sacramento Bee does not screen comments before they are posted.  You are more likely to see inappropriate comments before our staff does, so we ask that you click the "Report Abuse" link to submit those comments for moderator review.  You also may notify us via email at </p>
+<p> feedback@sacbee.com </p>
+<p> .  Note the headline on which the comment is made and tell us the profile name of the user who made the comment. Remember, comment moderation is subjective.  You may find some material objectionable that we won't and vice versa. </p>
+<p> If you submit a comment, the user name of your account will appear along with it.  Users cannot remove their own comments once they have submitted them. </p>
+<p> mi.commenting.display(); </p>
+<p> <!-- if(typeof(miyahoo) == "undefined" || miyahoo.ads[mi_live_or_preview].dart.enabled){ document.write('<scr' + 'ipt language="JavaScript" src="http://ad.doubleclick.net/adj/mi.sac00/Lifestyle;dcove=d;pl=story;lvl6=WireLifestyle;loc=ats;pos=1;' + dart_reg + dart_segs + dart_tk + kw_str + 'sz=300x250;tile=3;ord=' + ord + '?" type="text/javascript"></scr' + 'ipt>'); } //--> </p>
+<p> <!-- if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3");} --> </p>
+<p> <!-- if(typeof(miyahoo) == "undefined" || miyahoo.ads[mi_live_or_preview].dart.enabled){ document.write('<scr' + 'ipt language="JavaScript" src="http://ad.doubleclick.net/adj/mi.sac00/Lifestyle;dcove=d;pl=story;lvl6=WireLifestyle;loc=bts;pos=1;' + dart_reg + dart_segs + dart_tk + kw_str + 'sz=300x100;tile=4;ord=' + ord + '?" type="text/javascript"></scr' + 'ipt>'); } //--> </p>
+<p> <!-- if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_4");} --> </p>
+<p> <!-- if(typeof(miyahoo) == "undefined" || miyahoo.ads[mi_live_or_preview].dart.enabled){ document.write('<scr' + 'ipt language="JavaScript" src="http://ad.doubleclick.net/adj/mi.sac00/Lifestyle;dcove=d;pl=story;lvl6=WireLifestyle;loc=bts;pos=2;' + dart_reg + dart_segs + dart_tk + kw_str + 'sz=300x100;tile=5;ord=' + ord + '?" type="text/javascript"></scr' + 'ipt>'); } //--> </p>
+<p> <!-- if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_5");} --> </p>
+<p> Most Viewed </p>
+<p> Blog Posts </p>
+<p> Motown Miracle - Ruffin Jr. "Dies" at Xmas but Sings at Victorino Noval Foundation New Year's Bash </p>
+<p> Leading Off: Being wrong never tasted so delicious </p>
+<p> Amazon may bring a distribution center and 1,500 jobs to the Central Valley </p>
+<p> Full-contact workout helped raise 49ers' game-day intensity </p>
+<p> 49ers notes: Delanie Walker's status is still up to doctors </p>
+<p> Climate change skepticism seeps into science classrooms </p>
+<p> Things to do in Sacramento and Beyond: Panel talk to take on the state of Sacramento's live-music scene </p>
+<p> Shop Cheap: Store closing sale at Grocery Outlet </p>
+<p> Appetizers: Update on The Eatery: Newbold lives to tell the tale </p>
+<p> The Frame photo blog: Dutch nursery cares for slew of orphaned seal pups </p>
+<p> Data Surfer: See you at The Public Eye </p>
+<p> Home Front: That's a wrap... </p>
+<p> Quick Job Search </p>
+<p> Enter Keyword(s): </p>
+<p> Enter a City: </p>
+<p> Select a State: </p>
+<p> All United States </p>
+<p> Alabama </p>
+<p> Alaska </p>
+<p> Arizona </p>
+<p> Arkansas </p>
+<p> California </p>
+<p> Colorado </p>
+<p> Connecticut </p>
+<p> Delaware </p>
+<p> District of Columbia </p>
+<p> Florida </p>
+<p> Georgia </p>
+<p> Hawaii </p>
+<p> Idaho </p>
+<p> Illinois </p>
+<p> Indiana </p>
+<p> Iowa </p>
+<p> Kansas </p>
+<p> Kentucky </p>
+<p> Louisiana </p>
+<p> Maine </p>
+<p> Maryland </p>
+<p> Massachusetts </p>
+<p> Michigan </p>
+<p> Minnesota </p>
+<p> Mississippi </p>
+<p> Missouri </p>
+<p> Montana </p>
+<p> Nebraska </p>
+<p> Nevada </p>
+<p> New Hampshire </p>
+<p> New Jersey </p>
+<p> New Mexico </p>
+<p> New York </p>
+<p> North Carolina </p>
+<p> North Dakota </p>
+<p> Ohio </p>
+<p> Oklahoma </p>
+<p> Oregon </p>
+<p> Pennsylvania </p>
+<p> Rhode Island </p>
+<p> South Carolina </p>
+<p> South Dakota </p>
+<p> Tennessee </p>
+<p> Texas </p>
+<p> Utah </p>
+<p> Vermont </p>
+<p> Virginia </p>
+<p> Washington </p>
+<p> West Virginia </p>
+<p> Wisconsin </p>
+<p> Wyoming </p>
+<p> Select a Category: </p>
+<p> All Job Categories </p>
+<p> Accounting </p>
+<p> Admin & Clerical </p>
+<p> Automotive1 </p>
+<p> Banking1 </p>
+<p> Biotech1 </p>
+<p> Broadcast - Journalism1 </p>
+<p> Business Development </p>
+<p> Construction </p>
+<p> Consultant </p>
+<p> Customer Service </p>
+<p> Design </p>
+<p> Distribution  - Shipping </p>
+<p> Education </p>
+<p> Engineering </p>
+<p> Entry Level </p>
+<p> Executive </p>
+<p> Facilities </p>
+<p> Finance </p>
+<p> General Business </p>
+<p> General Labor </p>
+<p> Government </p>
+<p> Health Care </p>
+<p> Hotel - Hospitality </p>
+<p> Human Resources </p>
+<p> Information Technology </p>
+<p> Insurance </p>
+<p> Inventory </p>
+<p> Legal </p>
+<p> Legal Admin </p>
+<p> Management </p>
+<p> Manufacturing </p>
+<p> Marketing </p>
+<p> Nurse </p>
+<p> Other </p>
+<p> Pharmaceutical </p>
+<p> Professional Services </p>
+<p> Purchasing -  Procurement </p>
+<p> QA - Quality Control </p>
+<p> Research </p>
+<p> Restaurant - Food Service </p>
+<p> Retail - Grocery </p>
+<p> Sales </p>
+<p> Science </p>
+<p> Skilled Labor - Trades </p>
+<p> Strategy - Planning </p>
+<p> Supply Chain </p>
+<p> Telecommunications </p>
+<p> Training </p>
+<p> Transportation </p>
+<p> Warehouse </p>
+<p> Advanced Job Search </p>
+<p> | </p>
+<p> Search by Category </p>
+<p> Sacramento Bee Jobs » </p>
+<p> <!--     // Widget Style and Appearance, Namespaces claimed by CareerBuilder     cb_jobstream_title = ' ';     cb_jobstream_main_bgcolor = 'transparent';     cb_jobstream_width = '270px;overflow-x:hidden';     cb_jobstream_height = '340px';     cb_jobstream_border = '0px';     cb_jobstream_title_font = '10pt verdana,helvetica,arial,sans-serif';     cb_jobstream_text_font = '10pt verdana,helvetica,arial,sans-serif';     cb_jobstream_font_color = 'black';     cb_jobstream_link_color = '#024A82'; //--> </p>
+<p> » See More Top Jobs </p>
+<p> #mi_top_job #jobstream{width:280px !important;} #mi_top_job #jobstream{position:relative;top:-19px;} #mi_top_job .header{width:270px !important;} #mi_top_job #mi_top_job_more{border-bottom:0px;} #mi_top_job #jobstream div form{display:none;} #mi_top_job #jobstream div td {border-bottom:1px solid #CCCCCC; padding: 2px:line-height:1.3em;margin:0px;} #mi_top_job #jobstream img{display:none;} div#jobs{margin-bottom:13px;} div#jobs .railunit{margin-bottom:0px;} div.block div#cb-topjobs {padding-bottom:0px !important;border-bottom:0px !important;} div.careerbuilder{overflow:hidden !important;} </p>
+<p> Buy </p>
+<p> Used Cars </p>
+<p> Dealer and private-party ads </p>
+<p> Make: </p>
+<p> =============== </p>
+<p> Model: </p>
+<p> =============== </p>
+<p> Price Range: </p>
+<p> $0 </p>
+<p> $1,000 </p>
+<p> $2,000 </p>
+<p> $3,000 </p>
+<p> $4,000 </p>
+<p> $5,000 </p>
+<p> $6,000 </p>
+<p> $7,000 </p>
+<p> $8,000 </p>
+<p> $9,000 </p>
+<p> $10,000 </p>
+<p> $11,000 </p>
+<p> $12,000 </p>
+<p> $13,000 </p>
+<p> $14,000 </p>
+<p> $15,000 </p>
+<p> $16,000 </p>
+<p> $17,000 </p>
+<p> $18,000 </p>
+<p> $19,000 </p>
+<p> $20,000 </p>
+<p> $21,000 </p>
+<p> $22,000 </p>
+<p> $23,000 </p>
+<p> $24,000 </p>
+<p> $25,000 </p>
+<p> $30,000 </p>
+<p> $35,000 </p>
+<p> $40,000 </p>
+<p> $45,000 </p>
+<p> $50,000 </p>
+<p> $75,000 </p>
+<p> $99,000 </p>
+<p> to </p>
+<p> No Max </p>
+<p> $1,000 </p>
+<p> $2,000 </p>
+<p> $3,000 </p>
+<p> $4,000 </p>
+<p> $5,000 </p>
+<p> $6,000 </p>
+<p> $7,000 </p>
+<p> $8,000 </p>
+<p> $9,000 </p>
+<p> $10,000 </p>
+<p> $11,000 </p>
+<p> $12,000 </p>
+<p> $13,000 </p>
+<p> $14,000 </p>
+<p> $15,000 </p>
+<p> $16,000 </p>
+<p> $17,000 </p>
+<p> $18,000 </p>
+<p> $19,000 </p>
+<p> $20,000 </p>
+<p> $21,000 </p>
+<p> $22,000 </p>
+<p> $23,000 </p>
+<p> $24,000 </p>
+<p> $25,000 </p>
+<p> $30,000 </p>
+<p> $35,000 </p>
+<p> $40,000 </p>
+<p> $45,000 </p>
+<p> $50,000 </p>
+<p> $75,000 </p>
+<p> $99,000 </p>
+<p> $99,000+ </p>
+<p> Search within: </p>
+<p> 10 </p>
+<p> 20 </p>
+<p> 30 </p>
+<p> 40 </p>
+<p> 50 </p>
+<p> 75 </p>
+<p> 100 </p>
+<p> 250 </p>
+<p> 500 </p>
+<p> All </p>
+<p> miles of ZIP </p>
+<p> Search used </p>
+<p> Advanced Search </p>
+<p> | </p>
+<p> 1982 & Older </p>
+<p> initDocument(); </p>
+<p> //<[CDATA[         function replaceAll(txt, replace, with_this) {           return txt.replace(new RegExp(replace, 'g'),with_this);         }         $(document).ready(function() {             $.getJSON("http://findnsave.sacbee.com/api/aacoupons.json?callback=?", function(json) {AACoupons(json)});             });             function AACoupons(data) {         //console.log(data);         num_coups = data.result.coupon.length;         counter = Math.ceil(Math.random() * num_coups);     	template = '<table><tr><td valign="top">'                         + '<a href="__url__#navlink=fns_combo"><img class="standard_image" src="__img__"></a>'                         + '</td><td valign="top">'                         + '<h5 class="coupon_business"><a href="__url__#navlink=fns_combo">__advname__ </a></h5>'                         + '<p class="coupon_offer">__title__</p>'                         + '</td></tr></table>'                         + '<p><a href="__url__#navlink=fns_combo" class="view_deal">&nbsp;</a></p>';         mylist = jQuery('ul.analog_coupons');         for (x = counter; x < counter+3; x++)          {             ci = x%num_coups;             cc = data.result.coupon[ci];             ct = template.replace('__img__',cc.couponPhotoUrl).replace(new RegExp('__url__', 'g'),cc.couponUrl);             ct = ct.replace('__advname__',cc.advertiserName).replace('__title__',cc.title);             //couponPhotoUrl             //couponUrl             //alert(ct);             mylist.append('<li>'+ct+'</li>');         }              };      //]]> </p>
+<p> Get the Deal! </p>
+<p> Local Deals </p>
+<p> Find more great deals! </p>
+<p> findnsave.sacbee.com </p>
+<p> (function() {     (Math.floor(Math.random()*6) % 2) == 0 ? $('#combo_display').hide() : $('#cars_widget').hide();   })(); </p>
+<p> <!-- //Required Parameters     ctxt_ad_config = '1001507650';     //unique numeric partner id     ctxt_ad_source = 'npc_mcclatchy_sacramentobee_t2_ctxt';     //provided by Account Manager     ctxt_ad_interface = 'http://cm.npc-mcclatchy.overture.com/js_1_0/';          ctxt_ad_width = 728;     //width of the displayed ad block     ctxt_ad_height = 90;     //height of the displayed ad block       //Context Parameters     ctxt_ad_url = window.location.href.split('?')[0].split('#')[0];     //context URL     ctxt_ad_url_cat = 'news';     //fallback category name     ctxt_ad_id = 'news';     //context ID name     ctxt_ad_keywords = '';     //keywords (URL safe values only)     ctxt_ad_oe = 'latin1';     //output character encoding                    //Type Tag     ctxt_ad_type = 'news';     //tag for reports--can be ctxt_ad_section //Click Wrapper     ctxt_ad_cw = '';     //click wrapper URL //Display Parameters     //ctxt_ad_bc = '000000';     //cell border color     //ctxt_ad_cc = 'ffffff';     //cell background color     //ctxt_ad_lc = '000000';     //ad text-title color     //ctxt_ad_tc = 'a3a3a3';     //ad text-description color     //ctxt_ad_uc = 'a3a3a3';    //ad text-sitehost color     ctxt_ad_css = 'http://static.mcclatchyinteractive.com/static/styles/mi/third_party/yahoo/yahoo.css';     //stylesheet URL--can be ctxt_url_css     ctxt_ad_newwin = '1';     //new window for results --> </p>
+<p> <!-- //Required Parameters     ctxt_ad_config = '1001507650';     //unique numeric partner id     ctxt_ad_source = 'npc_mcclatchy_sacramentobee_t1_ctxt';     //provided by Account Manager  //Context Parameters     ctxt_ad_url_cat = 'lifestyle';     //fallback chategory name     ctxt_ad_id = 'lifestyle';     //contect ID name                    //Type Tag     ctxt_ad_type = 'lifestyle';     //tag for reports--can be ctxt_ad_section --> </p>
+<p> Contact Us </p>
+<p> Site Feedback </p>
+<p> Corrections </p>
+<p> Letters to the Editor </p>
+<p> Bee Jobs </p>
+<p> Share Content </p>
+<p> Share your pictures </p>
+<p> Share your videos </p>
+<p> News tips </p>
+<p> Advertise With Us </p>
+<p> Place a real estate or rental ad </p>
+<p> Place a Legal Notice ad </p>
+<p> Place an online ad </p>
+<p> Place a newspaper ad </p>
+<p> Online Extras </p>
+<p> Newsletters & Alerts </p>
+<p> Mobile </p>
+<p> RSS Feeds </p>
+<p> Maps & Directions </p>
+<p> Copyright © The Sacramento Bee </p>
+<p> Terms of Service </p>
+<p> Privacy Policy </p>
+<p> About our ads </p>
+<p> Copyright </p>
+<p> About The Sacramento Bee </p>
+<p> About the McClatchy Company </p>
+<p> var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); 	document.write(unescape("%3Cscript src=\'" + gaJsHost + "google-analytics.com/ga.js\' type=\'text/javascript\'%3E%3C/script%3E")); </p>
+<p> try { 		var pageTracker = _gat._getTracker("UA-2767905-6"); 		pageTracker._setDomainName(".sacbee.com"); 		pageTracker._trackPageview(); 	} catch(err) {} </p>
+<p> <!-- measure_popularity=true; mistats.msr = 'sac|sacbee'; mistats.cmsid='GUID: 553267616819437737 | Story: 4192228'; mistats.pagelevel='Story'; mistats.pagename='Story: 4192228|Study suggests hazards of wearing headphones outside'; mistats.version='1.0|'; mistats.taxonomy='Lifestyle||||'; mistats.channel='Wire Lifestyle'; mistats.adposition='1,1,1,1,2';  mistats.popular='847|4192228|http://www.sacbee.com/2012/01/16/4192228_study-suggests-hazards-of-wearing.html'; mistats.popstoryurl='http://www.sacbee.com/2012/01/16/4192228_study-suggests-hazards-of-wearing.html'; mistats.popstoryheadline='4192228|Study suggests hazards of wearing headphones outside'; mistats.contentsource='mc_tribune|McClatchy-Tribune|Los Angeles Times|By JEANNINE STEIN'; mistats.pubdate='2012/01/16'; mistats.moddate='2012/01/16 H20';      --> </p>

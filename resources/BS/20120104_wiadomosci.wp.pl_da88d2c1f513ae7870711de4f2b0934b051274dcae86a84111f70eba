@@ -1,0 +1,477 @@
+<p> Kangur zaatakował 7-letnią dziewczynkę - film - Wiadomości - WP.PL </p>
+<p> <!-- //<![CDATA[ 			  var pp_gemius_identifier = 'B2abwmMQpKPP05jYFSgwi5ZVzSUppwL6WSSVYep_Uwf.Y7';   var pp_gemius_hitcollector = 'wp.hit.gemius.pl';   var wp_dot_type = 'click';   var wp_sn = 'wiadomosci';   var wp_fba = '1365573872.099';   var wp_wyszukajwwp = 1;   var wp_vm = 113; 			// ]]> --> </p>
+<p> <!-- <![CDATA[           var rekid="753";           function NPB() {}           function NJB() {return false;} // ]]> --> </p>
+<p> WP.$(window).load(function () { 		removeBoxesByPriority() 	}); </p>
+<p> wiadomości </p>
+<p> Poczta </p>
+<p> | </p>
+<p> TopNews </p>
+<p> | </p>
+<p> WP.PL na komórkę </p>
+<p> WP.homepagelink() </p>
+<p> NPB("002"); </p>
+<p> NPB("003"); </p>
+<p> NPB("009"); </p>
+<p> Strona główna </p>
+<p> Polska </p>
+<p> Wiadomości lokalne </p>
+<p> Świat </p>
+<p> Tylko w WP.PL </p>
+<p> Reporter WP24 </p>
+<p> Ciekawostki </p>
+<p> Nauka </p>
+<p> Przestępczość </p>
+<p> Media </p>
+<p> NPB("001"); </p>
+<p> NPB("014"); </p>
+<p> więcej </p>
+<p> Raporty specjalne: </p>
+<p> Katastrofa smoleńska </p>
+<p> Sprawa Madzi </p>
+<p> Papież </p>
+<p> Ustawa o związkach partnerskich </p>
+<p> Wielkanoc </p>
+<p> Ruch Palikota </p>
+<p> Więzienia CIA </p>
+<p> Najnowsze wiadomości: </p>
+<p> Mariusz Błaszczak: to jeden wielki skandal </p>
+<p> Najnowsze wiadomości: </p>
+<p> Prof. Paweł Artymowicz: oba filmy Anity Gargas przeczą sobie </p>
+<p> Najnowsze wiadomości: </p>
+<p> Największe kontrowersje katastrofy smoleńskiej </p>
+<p> Najnowsze wiadomości: </p>
+<p> Premier: przyjdzie taki dzień, gdy katastrofa smoleńska nie będzie dzieliła Polaków </p>
+<p> Najnowsze wiadomości: </p>
+<p> Zagadkowa śmierć laureata Nagrody Nobla Pabla Nerudy - film </p>
+<p> window._wpSocialQueue.p.push({ 			app: 'FB',   			pluginName: 'fbActivityBar', 			data: { 				recommendationsUrl: '/fbrecommendationsranking.json', 				box : WP.$('#fbActivityBar'), 				statisticsName : 'og_box1', 				lang : { 					aboutApp : 'Aplikacja <b>Informacje WP.PL</b> obejmuje aktywności z serwisów:  <ul>    <li>Wiadomości WP.PL</li>  <li>Kobieta WP.PL</li> <li>Sport WP.PL</li> </ul> Logując się do niej otrzymasz informacje o czytanych materiałach przez Twoich znajomych i Ciebie tylko z wyżej wymienionych serwisów.    ', 					aboutAppURL : '/', 					appName : 'wiadomości.wp.pl', 					reportURL : 'http://pomoc.wp.pl/serwis,Wiadomosci,typ,Uwaga,formularz.html'			 				} 			} 		}); </p>
+<p> window._wpSocialQueue.p.push({         			app: "FB",  			pluginName: "fbSendTimedAction",  				data: { 					acceptedDocumentTypes: "article", 					sendTimeout: 11, 					actionName: "news.reads", 					namespace: null				} 			}); </p>
+<p> Kangur zaatakował 7-letnią dziewczynkę - film </p>
+<p> . </p>
+<p> REUTERS </p>
+<p> | </p>
+<p> aktualizacja </p>
+<p> 2012-01-04 </p>
+<p> (02:36) </p>
+<p> window._wpSocialQueue.p.push({app: "FB", pluginName: "fbShareButton"}); </p>
+<p> window._wpSocialQueue.a.push('TWITTER'); </p>
+<p> window._wpSocialQueue.p.push({ app: "GPLUS", pluginName: "commonPlugins",data: {}}); </p>
+<p> IVONA Text To Speech </p>
+<p> //<![CDATA[ 			window.WebreaderAutoCreate = 0; 			window.WebreaderAsyncCommands = new Array(); 			window.WebreaderAsyncCommands.push(function(){  			// Metoda ta musi zostac wywolana przed Webreader.create() 			Webreader.config({  			// HTML przycisku ktory uaktywnia otwarzacz iWebReader  			// Mozna w to miejsce wstawic obrazek (IMG) lub pustego spana z odpowiednia klasa CSS 			// Wazne aby nie dodawac do obrazka zawartosci atrybutu alt="" a pozostawic ja pusta, 			// Powyzsze zalecenia sa rekomendowane dlatego ze skrypt automatycznie wstawia do linku 			// ukryty element zawierajacy opis linku dla screenreaderow. 			activationButton:'<span style="width:183px;float:left"><img src="http://i.wp.pl/a/i/wiadomosci/odsluchaj.png" alt="" style="float:right;" /></span>',  			// Sciezka do katalogu zawierajacego pliki webreadera 			wrHost:'http://i.wp.pl/a/i/wiadomosci/ivona/', 			// Relatywna sciezka wzgledem wrHost do pliku swf odtwarzacza webreader 			wrSwf:'wrswf.swf', 			// Relatywna sciezka wzgledem wrHost do pliku z jasnym gradientem  			lightBg:'wrlight.png', 			// Relatywna sciezka wzgledem wrHost do pliku z ciemnym gradientem 			darkBg:'wrdark.png',   			// Nie puszcza reqestu walidujacego przy kazdej odslonie strony	i powoduje domyslna walidacje odtarzaczy 			// W przypadku WP ten argument powinien byc zawsze ustawiony na false !!!  			performValidation:false  			});    			Webreader.create({ 			// Wyglad odtwarzacza flash (0,1,2) 			playerMode:1, 			// Id elementu do którego bedzie wstawiony odtwarzacz 			parentId:"ivonawebreader_1", 			// Kolor obramowania 			borColor:0xCCCCCC, 			// Kolor tla 			bgColor:0xFFFFFF, 			// Kolor przyciskow 			btnColor:0xc6131a, 			// Wyrownanie 0-do lewej 1-do prawej 			scrollMode:1, 			// Jezyk interfejsu 			lang:'pl', 			// Url do pliku audio   	 			soundUrl:escape("http://www.ivona.com/online/fileWebRead.php"+ 			// ID glosu 			"?v=2"+ 			// Klasa elementow ktore maja byc czytane 			"&dc=czytajto"+ 			// Klasa elementow ktore maja zostac pominiete 			"&sdc=nieczytaj"+ 			// Pomijaj elementy o tagu 			"&sde=div,table"+ 			// Glosnosc 			"&pv=100"+ 			// Predkosc 			"&pr=125"+ 			// ID uslugi 			"&i=fY46ytEacJ"+ 			// Url biezacej strony 			"&u="+escape(document.location.href))  			},26);  			}); 			//]]> </p>
+<p> 7-letnia Makayla McEvoy cudem przeżyła atak dzikiego kangura. Do zdarzenia doszło w Wyangala Dam, popularnym ośrodku kempingowym. - Bardzo się przestraszyłam. Myślałam, że umrę - powiedziała dziewczynka. </p>
+<p> new WP.player({url: "http://get-2.wpapi.wp.pl/s,edysk,n,65495684,f,/av/wiadomosci/flv/28274/news_girlrecoversafterkangarooattack.flv",autostart: false,width: 650,height: 365.625,screenshot: "http://i.wp.pl/a/f/jpeg/28274/dziewczynka_kangur_reuters388.jpeg"}); </p>
+<p> REUTERS </p>
+<p> REKLAMA </p>
+<p> Czytaj dalej </p>
+<p> if(typeof isSrd05=='undefined'){NPB("005");} </p>
+<p> if (NJB('srodtekst') && typeof isSrd05=='undefined'){document.getElementById('rekSrd05').style.display='block';var isSrd05=true;} </p>
+<p> Wideo </p>
+<p> Kangur zaatakował kobietę; policja potraktowała go gazem </p>
+<p> Australijscy policjanci byli zmuszeni użyć gazu pieprzowego przeciwko rozwścieczonemu kangurowi, który zaatakował 94-letnią kobietę w przydomowym ogródku w Charleville w stanie Queensland - poinformowała policja we wtorek. </p>
+<p> (jpo) </p>
+<p> <!-- 			if (typeof(PWA_Itxt) == "undefined"){                         	PWA_Itxt = false; 			}  			if(PWA_Itxt!=true){                         	document.write('<scr' + 'ipt type="text/javascript"' + ' src="http://adsearch.adkontekst.pl/akon/intext_spliter?prid=3&caid=102430&form=9044:0:I&ns=' + (new Date()).getTime() + '"' + '></' + 'script>'); 			} 			//--> </p>
+<p> Polub </p>
+<p> wiadomości.wp.pl </p>
+<p> na Facebooku </p>
+<p> window._wpSocialQueue.p.push({ app: "FB", pluginName: "fbFanpageLikeBox" }); </p>
+<p> TopNews - najpopularniejsze materiały WP.PL </p>
+<p> TAGI: </p>
+<p> kangur </p>
+<p> , </p>
+<p> atak </p>
+<p> , </p>
+<p> dziewczynka </p>
+<p> oceń </p>
+<p> tak </p>
+<p> 1 </p>
+<p> 8.33% </p>
+<p> nie </p>
+<p> 11 </p>
+<p> 91.67% </p>
+<p> window._wpSocialQueue.p.push({ 				app: "FB", 				pluginName: "wpVoteBox", 				data: { 					box: WP.$(".stampOcen") 				} 			}); </p>
+<p> window._wpSocialQueue.p.push({app: "FB", pluginName: "fbShareButton"}); </p>
+<p> window._wpSocialQueue.a.push('TWITTER'); </p>
+<p> window._wpSocialQueue.p.push({ app: "GPLUS", pluginName: "commonPlugins",data: {}}); </p>
+<p> <!-- <![CDATA[  	if (typeof ENTRY_HIT == "undefined") { 		var ENTRY_HIT = ''; 	} 	 	ENTRY_HIT = '&serwishit=653&typehit=article&entryhit=14137023'; // ]]> --> </p>
+<p> Przeczytaj też </p>
+<p> Brutalny atak na spacerze. "Jego pazury darły moje ciało" </p>
+<p> dodane </p>
+<p> 2011-10-19 </p>
+<p> (08:25) </p>
+<p> Ledwo uszła z życiem po tym, jak zaatakował ją... </p>
+<p> dodane </p>
+<p> 2011-07-29 </p>
+<p> (04:00) </p>
+<p> W innych </p>
+<p> serwisach </p>
+<p> KobiecyPoradnik.pl: </p>
+<p> Jak mała dziewczynka... </p>
+<p> Studio: </p>
+<p> Atak rekina </p>
+<p> Niewiarygodne.pl: </p>
+<p> Dziewczynka - pies z Ukrainy </p>
+<p> try { 					var params = "sn=" + wp_sn; 					params += "&c=wiadomosci"; 					params += "&s="; 					params += "&v=wiadomosc.html"; 					params += "&h1=kobiecyporadnik.pl&r1=porady"; 					params += "&h2=studio.wp.pl&r2=foto"; 					params += "&h3=niewiarygodne.pl&r3=wiadomosci"; 					WP.stat.eventShow("srv=sowa&action=show&par=" + encodeURIComponent(params)); 				} catch (ex) {} </p>
+<p> <!-- if (typeof(PWA_Itxt) == "undefined"){         PWA_Itxt = false; }  if(PWA_Itxt!=true){         document.write('<scr' + 'ipt type="text/javascript"' + ' src="http://adsearch.adkontekst.pl/_/ads0/?QAPS_AKPL=--3-95314-#12077--&noChache=false' + '"' + '></' + 'script>'); } //--> </p>
+<p> //<![CDATA[ 	WP.dmodule('opinie v3'); //]]> </p>
+<p> Opinie (12) </p>
+<p> //<![CDATA[ window._wpSocialQueue.p.push({ 	app : 'FB', 	pluginName : 'fbComments', 	data : { 		acceptedDocumentTypes : 'article', 		actionName : 'comment', 		namespace : -1	} }); //]]> </p>
+<p> Nick </p>
+<p> Masz konto na WP.PL? </p>
+<p> Zaloguj się </p>
+<p> Nie masz konta? Załóż konto! </p>
+<p> Twój podpis: </p>
+<p> zmień swój podpis </p>
+<p> | </p>
+<p> wyloguj się </p>
+<p> ...lub dodaj opinię anonimowo </p>
+<p> Twoja opinia </p>
+<p> Opublikuj na Facebooku </p>
+<p> Pozostało znaków: </p>
+<p> 4000 </p>
+<p> REGULAMIN </p>
+<p> Akceptuję </p>
+<p> regulamin </p>
+<p> zamieszczania opinii w serwisie i wyrażam zgodę na przetwarzanie przez Wirtualną Polskę S.A. moich danych osobowych dla celów związanych z zamieszczeniem mojej opinii w serwisie. </p>
+<p> Wirtualna Polska S.A. </p>
+<p> w Gdańsku informuje, że zgodnie z art. 24 ust. 1 pkt 3 i 4 ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych, podanie danych jest dobrowolne, a ponadto Użytkownikowi przysługuje prawo dostępu do treści swoich danych oraz ich poprawiania. </p>
+<p> ostatnio aktywne | </p>
+<p> najnowsze </p>
+<p> | </p>
+<p> najstarsze </p>
+<p> | </p>
+<p> najczęściej oceniane </p>
+<p> | </p>
+<p> najczęściej odpowiadane </p>
+<p> 0 </p>
+<p> 1 </p>
+<p> ~ </p>
+<p> baba </p>
+<p> [2012-01-04 14:39] </p>
+<p> Tym kangurom też sie w dymkach przewraca!! </p>
+<p> odpowiedz </p>
+<p> 5 </p>
+<p> 0 </p>
+<p> ~ </p>
+<p> Y </p>
+<p> [2012-01-04 09:29] </p>
+<p> Ja się pytam kto puścił dziecko "do zabawy" wśród dzikich zwierząt. W żaden sposób nie jest to wina zwierzęcia. Ludzie wciskają się wszędzie by obejrzeć/pogłaskać/przytulić "ładnego pluszaka" a potem się dziwią. Ile razy mi się zdarzyło że matki z małymi dziećmi podchodzą bez pytania do mojego psa i liczą że można mu w każdym momencie bezkarnie naruszać przestrzeń.  Więcej szacunku i zrozumienia  dla zwierząt + zdrowy rozsądek i tego typu historii nie będziemy musieli czytać. </p>
+<p> odpowiedz </p>
+<p> 3 </p>
+<p> 0 </p>
+<p> ~ </p>
+<p> Skulik </p>
+<p> [2012-01-04 08:54] </p>
+<p> A najlepsze jest na koniec. Postawią tablice ostrzegające przed atakiem kangurów. POezja... </p>
+<p> odpowiedz </p>
+<p> 4 </p>
+<p> 0 </p>
+<p> ~ </p>
+<p> Stan. </p>
+<p> [2012-01-04 08:40] </p>
+<p> Tablice spowodują, że kangury nie będą atakowały???!!! Mają mądre kangury! </p>
+<p> odpowiedz </p>
+<p> 1 </p>
+<p> 3 </p>
+<p> ~ </p>
+<p> ADHD </p>
+<p> [2012-01-04 08:38] </p>
+<p> Zastrzelic bydlaka </p>
+<p> odpowiedz </p>
+<p> 3 </p>
+<p> 12 </p>
+<p> ~ </p>
+<p> sas </p>
+<p> [2012-01-04 06:52] </p>
+<p> i bardzo dobrze, tak powinni kończyć szmaciarze i oszołomy. </p>
+<p> odpowiedz </p>
+<p> pokaż </p>
+<p> 3 </p>
+<p> ukryte odpowiedzi </p>
+<p> 5 </p>
+<p> 2 </p>
+<p> ~ </p>
+<p> Marek </p>
+<p> [2012-01-04 07:50] </p>
+<p> @sas </p>
+<p> ^ </p>
+<p> smiec to dla ciebie najwiekszy komplement </p>
+<p> odpowiedz </p>
+<p> 2 </p>
+<p> 2 </p>
+<p> ~ </p>
+<p> austrlopitecus </p>
+<p> [2012-01-04 07:51] </p>
+<p> @sas </p>
+<p> ^ </p>
+<p> Ciesz się że mieszkasz w Polsce gdzie są tylko wiewiórki i żaby </p>
+<p> odpowiedz </p>
+<p> 1 </p>
+<p> 1 </p>
+<p> ~ </p>
+<p> prawda2011 </p>
+<p> [2012-01-04 08:27] </p>
+<p> @sas </p>
+<p> ^ </p>
+<p> Często miewasz takie poplątanie ? lecz się... </p>
+<p> odpowiedz </p>
+<p> 8 </p>
+<p> 0 </p>
+<p> ~ </p>
+<p> madzia </p>
+<p> [2012-01-04 08:01] </p>
+<p> pisanie, że 7 letnie dziecko chce zostać weterynarzem i po wypadku dalej chce nim być jest lekko mówiąc dziwne. Każde dziecko w wieku mniej więcej 5-14 lat przechodzi przez różne etapy marzenia o przyszłości. Teraz chce być weterynarzem, za rok obejrzy program o modelkach-  będzie planować modeling, później aktorstwo a później będzie chciało być chirurgiem ;) Ale akt faktem- nie wiedziałam, że kangur może aż tak pokiereszować człowieka. </p>
+<p> odpowiedz </p>
+<p> 1 </p>
+<p> 0 </p>
+<p> ~ </p>
+<p> hero </p>
+<p> [2012-01-04 08:00] </p>
+<p> na miejscu rodziców też bym biegł z pomocą a jak by mnie kangur dopadł to bym się bronił </p>
+<p> odpowiedz </p>
+<p> 24 </p>
+<p> 1 </p>
+<p> ~ </p>
+<p> dd </p>
+<p> [2012-01-04 07:08] </p>
+<p> TO NIE FILM Z ATAKU KANGURA TYLKO WYWIAD , MARNY DZIENNIKARZYNO !!! </p>
+<p> odpowiedz </p>
+<p> Szukaj w serwisie </p>
+<p> WP.$('#queryForm').submit(function () { 				var input = WP.$(this).children('input[name=query]')[0]; 				if ('' == input.value) 					return false; 			}); </p>
+<p> Bądź z nami na bieżąco </p>
+<p> window._wpSocialQueue.a.push('FB'); </p>
+<p> Facebook </p>
+<p> X </p>
+<p> window._wpSocialQueue.a.push('GPLUS'); </p>
+<p> Google Plus </p>
+<p> X </p>
+<p> RSS </p>
+<p> mobile </p>
+<p> window._wpSocialQueue.p.push({ 				app: "WP", 				pluginName: "wpJoinUs", 				data: { 					headerText: null, 					box : WP.$(".wpSocial-joinus"), 					termsSelector : ".regulamin", 					termsUrl : null				}} 			); </p>
+<p> NPB("034"); </p>
+<p> NPB("037"); </p>
+<p> Najważniejsze </p>
+<p> wiadomości </p>
+<p> Największe kontrowersje katastrofy smoleńskiej </p>
+<p> dodane </p>
+<p> 1 godzinę i 24 minuty </p>
+<p> temu </p>
+<p> Premier: przyjdzie taki dzień, gdy katastrofa smoleńska nie będzie dzieliła Polaków </p>
+<p> dodane </p>
+<p> 1 godzinę i 34 minuty </p>
+<p> temu </p>
+<p> W Smoleńsku i Katyniu oddadzą hołd Polakom </p>
+<p> dodane </p>
+<p> (04:46) </p>
+<p> MON rozważa przywrócenie przedwojennych stopni wojskowych </p>
+<p> dodane </p>
+<p> (04:50) </p>
+<p> Zespół Laska zaczyna działać. Premier podpisał... </p>
+<p> dodane </p>
+<p> 2013-04-09 </p>
+<p> (21:35) </p>
+<p> Martwe noworodki znalezione w Lubawie </p>
+<p> dodane </p>
+<p> 2013-04-09 </p>
+<p> (20:49) </p>
+<p> więcej wiadomości </p>
+<p> Raporty specjalne </p>
+<p> 01. </p>
+<p> Katastrofa smoleńska </p>
+<p> 02. </p>
+<p> Sprawa Madzi </p>
+<p> 03. </p>
+<p> Papież </p>
+<p> 04. </p>
+<p> Ustawa o związkach partnerskich </p>
+<p> 05. </p>
+<p> Wielkanoc </p>
+<p> wszystkie raporty </p>
+<p> Galerie </p>
+<p> Martwe noworodki znalezione w Lubawie </p>
+<p> Film "Prezydent" </p>
+<p> Wiosenne roztopy </p>
+<p> Działaczki Femenu zaskoczyły Władimira... </p>
+<p> dodaj zdjęcie </p>
+<p> więcej galerii </p>
+<p> Wideo </p>
+<p> Zagadkowa śmierć laureata Nagrody Nobla Pabla Nerudy - film </p>
+<p> Ratownicy uratowali 4-latkę, która wpadła do studni - film </p>
+<p> Z Wiejskiej: na lewicy króluje PiS </p>
+<p> Józef Oleksy: jestem wyższy od Lecha Wałęsy </p>
+<p> dodaj film </p>
+<p> więcej filmów </p>
+<p> NPB("010"); </p>
+<p> NPB("011"); </p>
+<p> NPB("017"); </p>
+<p> NPB("018"); </p>
+<p> chcę wysłać </p>
+<p> Zrobiłeś unikalne zdjęcie, </p>
+<p> napisałeś ciekawą </p>
+<p> wiadomość? </p>
+<p> Wyślij je do nas lub załóż </p>
+<p> własne konto, na którym </p>
+<p> je opublikujesz. </p>
+<p> Najlepsze materiały </p>
+<p> publikujemy na stronie głównej serwisu. </p>
+<p> Ostatnio dodane przez </p>
+<p> reporterów </p>
+<p> WP24 </p>
+<p> Woda - wątpliwy sposób na rachunek za śmieci </p>
+<p> dodane przez: evak, mj </p>
+<p> Prognoza pogody </p>
+<p> dodane przez: Internauta WP24 </p>
+<p> więcej </p>
+<p> Tylko w WP.PL </p>
+<p> Gra wokół katastrofy smoleńskiej, o co chodzi rosyjskim władzom? </p>
+<p> Prof. Wawrzyniec Konarski o Margaret Thatcher: oto dlaczego wzbudza kontrowersje </p>
+<p> Cezary Gmyz: zapis czarnych skrzynek mógł być zmanipulowany </p>
+<p> więcej </p>
+<p> <!-- // <![CDATA[ WiadLokalneMiasta = {1019391:"Białystok", 1019389:"Bydgoszcz, Toruń", 1019379:"Gdańsk", 1019381:"Gorzów Wlkp., Zielona Góra", 1019409:"Katowice", 1019405:"Kielce", 1019401:"Kraków", 1019383:"Lublin", 1019395:"Łódź", 1019385:"Olsztyn", 1019399:"Opole", 1019407:"Poznań", 1019403:"Rzeszów", 1019387:"Szczecin", 1019393:"Warszawa", 1019397:"Wrocław"}; WiadLokalneMiastaGeo = 1019393; // ]]> --> </p>
+<p> Wiadomości </p>
+<p> lokalne </p>
+<p> W środę utrudnienia w ruchu w Warszawie wz. z obchodami 3. rocznicy katastrofy smoleńskiej </p>
+<p> Karetka przyjechała za późno; chory zmarł </p>
+<p> Margaret Thatcher czy Edward Gierek? Radni wybiorą patrona ronda w Warszawie </p>
+<p> Prokuratura umorzyła śledztwo ws. śmierci Jolanty Brzeskiej </p>
+<p> We wtorek wznowienie poszukiwań zaginionego z zatopionej łodzi w Warszawie </p>
+<p> Na Wiśle zatonął kuter holowniczy </p>
+<p> Pikieta związkowców przed Ministerstwem Zdrowia </p>
+<p> Opóźnienia metra z powodu awarii </p>
+<p> Lotnisko Chopina: wiadomo już, co znaleźli robotnicy </p>
+<p> Policja zatrzymała podejrzanych o pomoc w napadzie na konwój w Wólce Kosowskiej </p>
+<p> więcej wiadomości </p>
+<p> Konflikty </p>
+<p> Adm. Samuel Locklear: USA będą w stanie przechwycić rakiety Korei Północnej </p>
+<p> Szef NATO Anders Fogh Rasmussen uda się wkrótce do Korei Południowej </p>
+<p> Akt oskarżenia ws. śmiertelnego pobicia żołnierza z Łaska </p>
+<p> Izrael: dożywocie dla żydowskiego radykała za mordowanie Palestyńczyków </p>
+<p> Afganistan: z pomocą Polaków przechwycono materiały do produkcji bomb </p>
+<p> więcej </p>
+<p> Na sygnale </p>
+<p> Ciała noworodków znalezione w zamrażalniku! </p>
+<p> Brutalna zemsta: sędzia pobity i skopany </p>
+<p> Makabra w Lesie Kabackim - czy poznamy prawdę? </p>
+<p> Dramat! Pobite niemowlę zmarło po miesiącu męczarni </p>
+<p> więcej </p>
+<p> // <![CDATA[ var pollChecked = false; // ]]> </p>
+<p> Sonda </p>
+<p> Czy weźmiesz udział w obchodach 3. rocznicy katastrofy smoleńskiej? </p>
+<p> Tak </p>
+<p> Nie </p>
+<p> Jeszcze nie wiem </p>
+<p> liczba oddanych głosów: 2567 </p>
+<p> zobacz wyniki » </p>
+<p> najczęsciej czytacie </p>
+<p> najczęsciej polecacie </p>
+<p> najgorętsze dyskusje </p>
+<p> .01 </p>
+<p> Marcin Wolski: Zabawy z Tygrysem </p>
+<p> .02 </p>
+<p> Tajemniczy pociąg przejechał przez Polskę. Przewoził uran </p>
+<p> .03 </p>
+<p> Edmund Klich: Rosjanie kłamali w śledztwie </p>
+<p> .04 </p>
+<p> Płonie luksusowy hotel w Groznym </p>
+<p> .05 </p>
+<p> Makabryczne znalezisko w domu małżeństwa z Lubawy </p>
+<p> więcej popularnych wiadomości </p>
+<p> .01 </p>
+<p> Polacy znużeni informacjami o tematyce homoseksualnej - ankieta WP.PL </p>
+<p> .02 </p>
+<p> Dzieci to luksus - państwo nie pomaga rodzinom </p>
+<p> .03 </p>
+<p> Marcin Wolski: gry planszowe premiera wszystkich trampkarzy </p>
+<p> .04 </p>
+<p> Interwencja w sklepie spożywczym w Krakowie. Padły strzały </p>
+<p> .05 </p>
+<p> Tęcza na placu Zbawiciela stanęła w ogniu. Po raz trzeci została zniszczona </p>
+<p> więcej popularnych wiadomości </p>
+<p> .01 </p>
+<p> Zespół Macierewicza w rocznicę katastrofy zaprezentuje nowe ustalenia </p>
+<p> .02 </p>
+<p> Katastrofa smoleńska nadal jest zagadką dla Polaków </p>
+<p> .03 </p>
+<p> Edmund Klich: Rosjanie kłamali w śledztwie </p>
+<p> .04 </p>
+<p> "Nie wykluczam prowokacji" podczas obchodów rocznicy katastrofy smoleńskiej </p>
+<p> .05 </p>
+<p> Jarosław Kaczyński: oddanie śledztwa ws. Smoleńska to drwienie sobie z Polski, degraduje nas </p>
+<p> więcej popularnych wiadomości </p>
+<p> <!-- // <![CDATA[ 		var tab = WP.tabs('Naj'); 	// ]]> --> </p>
+<p> Tagi </p>
+<p> antoni macierewicz </p>
+<p> barbara piasecka johnson </p>
+<p> donald tusk </p>
+<p> dziecko </p>
+<p> franciszek </p>
+<p> janusz palikot </p>
+<p> jorge mario bergoglio </p>
+<p> katastrofa </p>
+<p> katastrofa smoleńska </p>
+<p> korea północna </p>
+<p> kościół katolicki </p>
+<p> kuria rzymska </p>
+<p> leszek miller </p>
+<p> lotnisko </p>
+<p> matka </p>
+<p> papież </p>
+<p> papież franciszek </p>
+<p> policja </p>
+<p> reforma </p>
+<p> rocznica </p>
+<p> rosja </p>
+<p> sejm </p>
+<p> smoleńsk </p>
+<p> sondaż </p>
+<p> śmierć </p>
+<p> usa </p>
+<p> watykan </p>
+<p> wojna </p>
+<p> wypadek </p>
+<p> zamach </p>
+<p> NPB("006"); </p>
+<p> Polecane: </p>
+<p> Pogoda </p>
+<p> | </p>
+<p> Wyznaczanie trasy </p>
+<p> | </p>
+<p> BMI </p>
+<p> | </p>
+<p> Tarot </p>
+<p> | </p>
+<p> Program tv </p>
+<p> | </p>
+<p> Plotki </p>
+<p> | </p>
+<p> Moje IP </p>
+<p> | </p>
+<p> Wiadomości </p>
+<p> | </p>
+<p> Sport </p>
+<p> | </p>
+<p> Top News </p>
+<p> O firmie </p>
+<p> | </p>
+<p> Dla prasy </p>
+<p> | </p>
+<p> Reklama </p>
+<p> | </p>
+<p> Biznes z WP.PL </p>
+<p> | </p>
+<p> Skontaktuj się z WP.PL </p>
+<p> | </p>
+<p> Praca </p>
+<p> | </p>
+<p> Prywatność </p>
+<p> | </p>
+<p> Zasady korzystania </p>
+<p> | </p>
+<p> Polityka antyspamowa </p>
+<p> Zobacz wszystkie serwisy </p>
+<p> | </p>
+<p> RSS </p>
+<p> Copyright © 1995-2013 </p>
+<p> Wirtualna Polska </p>
+<p> setTimeout(function () { 				var a=document.createElement("script"); 				var b=document.getElementsByTagName('script')[0]; 				a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/6469.js?"+Math.floor(new Date().getTime()/3600000); 				a.async=true; 				a.type="text/javascript"; 				b.parentNode.insertBefore(a,b); 			}, 1); </p>
+<p> window.WPsocial.config('FB', { 				fbAppId : '196956980412461', 				fbNamespace : 'wiadomosciwppl', 				fbXfbml : false, 				fbStatus : true, 				fbCookie : true, 				fbLang : 'pl_PL' 			}); </p>
+<p> window.WPsocial.config('GPLUS', { 				parseTags : 'onload', 				gplusLang : 'pl' 			}); </p>
+<p> window.WPsocial.settings.set({version : '1.0.0',baseLink : '//a.wpimg.pl/a/i/wpsocialadmin/' }); 			var i, c; 			c = _wpSocialQueue.p.length;for ( i =0; i < c; i++) {  				if (window._wpSocialQueue.p[i].useBaseLink) { 					window._wpSocialQueue.p[i].scriptUrl =  WPsocial.settings.getBaseLink(true) + window._wpSocialQueue.p[i].scriptUrl;     				}     				window.WPsocial.addPlugin(window._wpSocialQueue.p[i]); 			} 			c = _wpSocialQueue.a.length; 			for (i = 0; i < c; i++) { 				window.WPsocial.loadApplication(window._wpSocialQueue.a[i]); 			} </p>

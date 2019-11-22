@@ -1,0 +1,315 @@
+<p> 台经济自由度指数排名创新高 ECFA贡献获肯定_台海_环球网 </p>
+<p> <!-- //分享参数 var content_title="台经济自由度指数排名创新高 ECFA贡献获肯定"; //广告参数 var jsList="cid=1245;tid=2351257;tname=content_xinwen"; var title=document.getElementsByTagName("title")[0].innerText; function addBookmark(url) { 	if (window.sidebar) 	{ 		window.sidebar.addPanel(title, url,""); 	} 	else if( document.all ) 	{ 		window.external.AddFavorite( '', title); 	} 	else if( window.opera && window.print ) { 		return true; 	} } function doZoom(size) { 	document.getElementById('text').style.fontSize=size+'px'; } function GoTop()  {     window.scrollTo(0,0); }  function printview()  {     GoTop(); 	document.getElementById('printcss').setAttribute('media','all'); } //--> </p>
+<p> var userLocation = eval(getCookie('userLocation')); if(typeof(userLocation) == 'undefined') { 	document.writeln('<script type="text/javascript" src="http://www.huanqiu.com/location.php?action=domain&belongto=true"><\/script>'); } function getCookie(cookie) {     if (document.cookie.length > 0)      {         cookie_begin = document.cookie.indexOf(cookie + "=")         if (cookie_begin != -1)          {             cookie_begin = cookie_begin + cookie.length + 1             cookie_over = document.cookie.indexOf(";", cookie_begin)             if (cookie_over == -1)                  cookie_over = document.cookie.length             return decodeURI(document.cookie.substring(cookie_begin, cookie_over))         }     }     return "" } </p>
+<p> 环球网首页 </p>
+<p> - </p>
+<p> 国际 </p>
+<p> - </p>
+<p> 国内 </p>
+<p> - </p>
+<p> 社会 </p>
+<p> - </p>
+<p> 台海 </p>
+<p> - </p>
+<p> 军事 </p>
+<p> - </p>
+<p> 财经 </p>
+<p> - </p>
+<p> 科技 </p>
+<p> - </p>
+<p> 汽车 </p>
+<p> - </p>
+<p> 房产 </p>
+<p> - </p>
+<p> 篮球 </p>
+<p> - </p>
+<p> 娱乐 </p>
+<p> - </p>
+<p> 图片 </p>
+<p> - </p>
+<p> 历史 </p>
+<p> - </p>
+<p> 旅游 </p>
+<p> - </p>
+<p> 健康 </p>
+<p> - </p>
+<p> 论坛 </p>
+<p> - </p>
+<p> 博客 </p>
+<p> - </p>
+<p> 视频 </p>
+<p> - </p>
+<p> 双语 </p>
+<p> 环球网 </p>
+<p> > </p>
+<p> 台海 </p>
+<p> > </p>
+<p> 新闻内幕 </p>
+<p> > </p>
+<p> 正文 </p>
+<p> 订阅 </p>
+<p> 环球时报手机报 </p>
+<p> 台经济自由度指数排名创新高 ECFA贡献获肯定 </p>
+<p> http://www.huanqiu.com </p>
+<p> 2012-01-12 16:34 </p>
+<p> 中国台湾网 </p>
+<p> 我要评论 </p>
+<p> 字号： </p>
+<p> T </p>
+<p> | </p>
+<p> T </p>
+<p> 中国 </p>
+<p> 台湾 </p>
+<p> 网1月12日消息　据台湾“中广 </p>
+<p> 新闻 </p>
+<p> ”报道，刚刚出炉的“2012全球经济自由度指数”报告指出，今年台湾地区名列第18，是历来最佳成绩。该报告并肯定ECFA( </p>
+<p> 海峡两岸 </p>
+<p> 经济合作架构协议)对台湾地区经济的贡献。 </p>
+<p> 据报道，美国著名智库“传统基金会”与美国《华尔街日报》共同发布“全球经济自由度指数”，在全球180个经济体中，台湾地区在2009年排名第35，2010年排名第27，去年排名第25，今年进步到第18名。在亚太地区41个经济体中，台湾地区排名高居第5，仅次于香港、新加坡、澳大利亚、 </p>
+<p> 新西兰 </p>
+<p> 。 </p>
+<p> 在“全球经济自由度指数”10项评比标准中，台湾地区有6项的得分比去年高，分别是“避免贪腐”、“节制台当局支出”、“财政自由度”、“货币自由度”、“ </p>
+<p> 企业 </p>
+<p> 自由度”、以及“劳工自由度”；有3项持平，分别是“金融自由度”、“投资自由度”以及“财产权”；唯一略为下滑的是“贸易自由度”。 </p>
+<p> “全球经济自由度指数”报告还指出，尽管台湾地区内部有人反对，但是ECFA看来有助于台湾地区振兴经济，在服务业、 </p>
+<p> 科技 </p>
+<p> 业带动下，台湾地区将成为亚洲最富裕的经济体之一。 </p>
+<p> 手机看新闻 </p>
+<p> 打印 </p>
+<p> 收藏 </p>
+<p> 纠错 </p>
+<p> var tid = 2351257; var mid = 1; var cid = 1245; var flag = 0; function showCommentNumber(str) { 	if(str!="") 	{ 		document.getElementById("comment_number").innerHTML=str; 		document.getElementById("comment_num").innerHTML=str; 	} 	else 	{ 		document.getElementById("comment_number").innerHTML="0"; 		document.getElementById("comment_num").innerHTML="0"; 	} } function getCommentNumber() { 	var x=new XHR("showCommentNumber"); 	var url="http://"+document.domain+"/comment.php?job=get_comment_number&tid="+tid; 	x.get(url); } </p>
+<p> 网友评论 </p>
+<p> 点击查看 </p>
+<p> 用户名： </p>
+<p> 请文明上网、理性发言！ </p>
+<p> 到环球网论坛注册 </p>
+<p> 新闻48小时评论排行 </p>
+<p> 1. </p>
+<p> 日媒：中国外交四面楚歌 军队等强硬派抬头 </p>
+<p> 评论 </p>
+<p> 432 </p>
+<p> 条 </p>
+<p> 2. </p>
+<p> 专家：三年前抵制G2中美共治太草率 应反思 </p>
+<p> 评论 </p>
+<p> 216 </p>
+<p> 条 </p>
+<p> 3. </p>
+<p> 切忌误读空海一体战 美军已正式对付中国！ </p>
+<p> 评论 </p>
+<p> 92 </p>
+<p> 条 </p>
+<p> 4. </p>
+<p> 美财长游说中国制裁伊朗 专家：没必要捧场 </p>
+<p> 评论 </p>
+<p> 76 </p>
+<p> 条 </p>
+<p> 5. </p>
+<p> 美允许越效仿中国反介入战略阻解放军进南海 </p>
+<p> 评论 </p>
+<p> 62 </p>
+<p> 条 </p>
+<p> 图片新闻 </p>
+<p> 国际 </p>
+<p> 阿萨德首次参加支持政府游行 </p>
+<p> 中国 </p>
+<p> 上海全城通缉南京劫案凶犯 </p>
+<p> 台海 </p>
+<p> 蔡怂恿女童当“总统” </p>
+<p> 财经 </p>
+<p> 盘点85后富婆女星 </p>
+<p> 热词 </p>
+<p> 世界人口70亿 </p>
+<p> 神舟八号 </p>
+<p> 智利停电 </p>
+<p> 美国失控卫星 </p>
+<p> 瑞银CEO辞职 </p>
+<p> 洛阳性奴案 </p>
+<p> 进口奶粉 活虫 </p>
+<p> 越狱逃犯 </p>
+<p> 每日推荐 </p>
+<p> 视频推荐 </p>
+<p> 伊朗一名核科学家被炸身亡 </p>
+<p> 连战：台湾不能输掉两岸和平 团结一致挺马 </p>
+<p> 美三分之一战舰将向中国靠拢 战略调整剑指中国 </p>
+<p> 2005年日本脱轨事件铁道公司前社长被判无罪 </p>
+<p> 多地共悬赏225万缉拿苏湘渝持枪杀人案嫌犯 </p>
+<p> 男子流浪多地用榔头专砸站街女 称维护正义 </p>
+<p> var random=parseInt(10*Math.random()); if(random>5) { 	document.getElementById("tuijian_cont1").style.display="none"; 	document.getElementById("tuijian_cont2").style.display=""; } </p>
+<p> 视觉焦点 </p>
+<p> T-90坦克翻倒摔成两截 </p>
+<p> 美航母帮水兵搬运汽车 </p>
+<p> 匪夷所思的另类叫卖 </p>
+<p> 美国超模把雄狮当宠物 </p>
+<p> 环球博客 </p>
+<p> 美亚太新战略：拉一个 打一个 看一个 </p>
+<p> 老百姓为何对GDP大跃进嗤之以鼻？ </p>
+<p> 2012全球“无裤日”再次来袭 </p>
+<p> 盘点上春晚的十大影视剧“女红人”(图) </p>
+<p> 英国《太阳报》恶毒攻击中国人说明什么 </p>
+<p> 社会图集 </p>
+<p> 妻子防贼钱藏电饭锅被毁 </p>
+<p> 南京地铁上演旗袍秀 </p>
+<p> 安乐死全程纪实 揪心 </p>
+<p> 啥都敢做的“学生妹” </p>
+<p> 环球论坛 </p>
+<p> 地铁“旗袍秀” </p>
+<p> 航母地勤似美军 </p>
+<p> 中国必须阻止伊朗战争“立信立威” </p>
+<p> 朝鲜半岛能否和平，关键点在哪 </p>
+<p> 马英九下台或带来两岸统一新窗口 </p>
+<p> 解放军不打不划算的仗，必须一仗制敌 </p>
+<p> 山东现“橡皮鸡蛋” 蛋黄弹性胜乒乓球 </p>
+<p> 热点专题 </p>
+<p> 韩国总统李明博访华 </p>
+<p> 寻找食事达人 </p>
+<p> 年终策划：财经通胜 </p>
+<p> 2012春运拉开大幕 </p>
+<p> 蔡英文赴金门对大陆喊话 </p>
+<p> 点击排行 </p>
+<p> 新闻 </p>
+<p> 军事 </p>
+<p> 台海 </p>
+<p> 财经 </p>
+<p> 1 </p>
+<p> 切忌误读空海一体战 美军已正式对付中国！ </p>
+<p> 2 </p>
+<p> 专家：三年前抵制G2中美共治太草率 应反思 </p>
+<p> 3 </p>
+<p> 美军士兵向塔利班尸体撒尿下流短片曝出(图) </p>
+<p> 4 </p>
+<p> 温总理访中东 外媒：防伊朗战争 保石油供应 </p>
+<p> 5 </p>
+<p> 战略专家：美霸权衰落中国接班难世界将大乱 </p>
+<p> 6 </p>
+<p> 俄去年航天发射事故都在暗区 疑遭敌国攻击 </p>
+<p> 7 </p>
+<p> 美宣称30年前所造反潜设备即可探测中国潜艇 </p>
+<p> 8 </p>
+<p> 专家：对东南亚外交要有新方针勿再拿钱开道 </p>
+<p> 9 </p>
+<p> 波斯湾上空战云骤增 美军3艘航母即将聚齐 </p>
+<p> 10 </p>
+<p> 美1/3战舰赴西太 少将：对我海军具压倒优势 </p>
+<p> 1 </p>
+<p> 85后美女主播将主持央视春晚 背景揭秘(图) </p>
+<p> 2 </p>
+<p> 加藤嘉一：美舰队是维护中国海上生命线安全“大英雄” </p>
+<p> 3 </p>
+<p> 美三分之一战舰将向中国靠拢 美国民间智库称剑指中国 </p>
+<p> 4 </p>
+<p> 韩国纠结于在中美间如何选择 担忧中韩FTA影响韩美关系 </p>
+<p> 5 </p>
+<p> 河南红会原党组书记获刑10年 与女下属有染 </p>
+<p> 6 </p>
+<p> 阿盟赴叙利亚观察团成员辞职 称“整个任务是闹剧” </p>
+<p> 7 </p>
+<p> 美三艘航母将齐聚波斯湾 否认与伊朗紧张局势有关 </p>
+<p> 8 </p>
+<p> 韩媒称“韩流”在中国扎根立足 成中国人生活必需品 </p>
+<p> 9 </p>
+<p> 日本越狱中国籍男子曾袭警抢警车 日警方正式发出通缉 </p>
+<p> 10 </p>
+<p> 韩国最大在野党要求政府停止启动中韩FTA谈判程序 </p>
+<p> 1 </p>
+<p> 切忌误读空海一体战 美军已正式对付中国！ </p>
+<p> 2 </p>
+<p> 专家：三年前抵制G2中美共治太草率 应反思 </p>
+<p> 3 </p>
+<p> 美军士兵向塔利班尸体撒尿下流短片曝出(图) </p>
+<p> 4 </p>
+<p> 温总理访中东 外媒：防伊朗战争 保石油供应 </p>
+<p> 5 </p>
+<p> 战略专家：美霸权衰落中国接班难世界将大乱 </p>
+<p> 6 </p>
+<p> 俄去年航天发射事故都在暗区 疑遭敌国攻击 </p>
+<p> 7 </p>
+<p> 美宣称30年前所造反潜设备即可探测中国潜艇 </p>
+<p> 8 </p>
+<p> 专家：对东南亚外交要有新方针勿再拿钱开道 </p>
+<p> 9 </p>
+<p> 波斯湾上空战云骤增 美军3艘航母即将聚齐 </p>
+<p> 10 </p>
+<p> 美1/3战舰赴西太 少将：对我海军具压倒优势 </p>
+<p> 1 </p>
+<p> 郭台铭力挺马英九称惟有两岸稳定青年才有出路 </p>
+<p> 2 </p>
+<p> “和尚”挥刀冲到造势现场要求“宋楚瑜退选” </p>
+<p> 3 </p>
+<p> 连战：台湾不能输掉两岸和平 团结一致支持马! </p>
+<p> 4 </p>
+<p> 宋楚瑜回应连战：我没为个人利害争权夺利(图) </p>
+<p> 5 </p>
+<p> 邱毅痛批李登辉：带给台湾的祸害还不够多吗？ </p>
+<p> 6 </p>
+<p> 独家点评：李登辉出山还能为蔡英文拉多少票？ </p>
+<p> 7 </p>
+<p> 连战谈泛蓝分裂：宋楚瑜不是一个绝情绝义之人 </p>
+<p> 8 </p>
+<p> 旺报：宋楚瑜先生,你听到连战的“呼喊”了吗? </p>
+<p> 9 </p>
+<p> 绿营吁台南四万党员回避“酷酷嫂”周美青行程 </p>
+<p> 10 </p>
+<p> 郁慕明：马英九可望小赢 宋楚瑜得票难破50万 </p>
+<p> 1 </p>
+<p> 辽宁发现百万克拉钻石矿 可开采30年以上 </p>
+<p> 2 </p>
+<p> 圣元优博奶粉疑致龙凤胎1死1伤 同批产品下架 </p>
+<p> 3 </p>
+<p> 深圳最牛工资被降45.5% 住建局称制度造成但没违规 </p>
+<p> 4 </p>
+<p> 女高管精准买入紫鑫药业 百万抄底笑纳3涨停 </p>
+<p> 5 </p>
+<p> 地产中介预测2012年房价跌三成 年内难反弹 </p>
+<p> 6 </p>
+<p> “中国巴菲特”被指家暴 妻子要求离婚分割 </p>
+<p> 7 </p>
+<p> 梅新育：中国不可能停买伊朗石油 </p>
+<p> 8 </p>
+<p> 统计局：12月居民消费价格总水平同比上涨4.1% </p>
+<p> 9 </p>
+<p> 深圳多名人大代表建议用援建者替代农民工 </p>
+<p> 10 </p>
+<p> 中国成欧盟猪肉最大出口国 </p>
+<p> var userLocation = eval(getCookie('userLocation')); if(typeof(userLocation) == 'undefined') { 	document.writeln('<script type="text/javascript" src="http://www.huanqiu.com/location.php?action=domain&belongto=true"><\/script>'); } function getCookie(cookie) {     if (document.cookie.length > 0)      {         cookie_begin = document.cookie.indexOf(cookie + "=")         if (cookie_begin != -1)          {             cookie_begin = cookie_begin + cookie.length + 1             cookie_over = document.cookie.indexOf(";", cookie_begin)             if (cookie_over == -1)                  cookie_over = document.cookie.length             return decodeURI(document.cookie.substring(cookie_begin, cookie_over))         }     }     return "" } </p>
+<p> 环球网首页 </p>
+<p> - </p>
+<p> 国际 </p>
+<p> - </p>
+<p> 国内 </p>
+<p> - </p>
+<p> 社会 </p>
+<p> - </p>
+<p> 台海 </p>
+<p> - </p>
+<p> 军事 </p>
+<p> - </p>
+<p> 财经 </p>
+<p> - </p>
+<p> 科技 </p>
+<p> - </p>
+<p> 汽车 </p>
+<p> - </p>
+<p> 房产 </p>
+<p> - </p>
+<p> 篮球 </p>
+<p> - </p>
+<p> 娱乐 </p>
+<p> - </p>
+<p> 图片 </p>
+<p> - </p>
+<p> 历史 </p>
+<p> - </p>
+<p> 旅游 </p>
+<p> - </p>
+<p> 健康 </p>
+<p> - </p>
+<p> 论坛 </p>
+<p> - </p>
+<p> 博客 </p>
+<p> - </p>
+<p> 视频 </p>
+<p> - </p>
+<p> 双语 </p>
+<p> <!-- new Marquee("reci_ul",0,1,165,26,2,3000,0); //--> </p>

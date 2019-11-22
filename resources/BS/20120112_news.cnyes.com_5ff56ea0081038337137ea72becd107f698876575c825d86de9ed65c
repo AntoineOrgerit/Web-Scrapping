@@ -1,0 +1,735 @@
+<p> 新一代超強抗菌素“泰閣”中國上市_新聞_鉅亨網 </p>
+<p> GS_googleAddAdSenseService("ca-pub-0246916887946697"); 	GS_googleEnableAllServices(); </p>
+<p> GA_googleAddSlot("ca-pub-0246916887946697", "GG_NEWS_rightdown_300_250"); 	GA_googleAddSlot("ca-pub-0246916887946697", "GG_NEWSCONTENT"); 	GA_googleAddSlot("ca-pub-0246916887946697", "GG_NEWSTITLE"); </p>
+<p> GA_googleFetchAds(); </p>
+<p> function switchTab(obj, num, len, cn) { 	var objcss = cn 	for(var i = 1 ; i<=len; i++) 	{ 		var otab = obj + '_tab_' + i; 		var ocnt = obj + '_cnt_' + i; 		if (i == num){ 		  try{document.getElementById(otab).className=objcss}catch(e){}; 		  try{document.getElementById(ocnt).style.display="block"}catch(e){}; 		}else{ 		  try{document.getElementById(otab).className=""}catch(e){}; 		  try{document.getElementById(ocnt).style.display="none"}catch(e){}; 		} 	} }  function switchTab2(obj, num, len, cn) { 	var objcss = cn 	for(var i = 0 ; i<len; i++) 	{ 		var otab = obj + '_tab_' + i; 		var ocnt = obj + '_cnt_' + i; 		if (i == num){ 		  try{document.getElementById(otab).className=objcss}catch(e){}; 		  try{document.getElementById(ocnt).style.display="block"}catch(e){}; 		}else{ 		  try{document.getElementById(otab).className=""}catch(e){}; 		  try{document.getElementById(ocnt).style.display="none"}catch(e){}; 		} 	} } </p>
+<p> <!-- 		 var $jq = jQuery.noConflict(); 	//--> </p>
+<p> 搜尋 </p>
+<p> 簡體版 </p>
+<p> 雜誌 </p>
+<p> 時尚 </p>
+<p> 新聞 </p>
+<p> 台股 </p>
+<p> 港股 </p>
+<p> A股 </p>
+<p> 美股 </p>
+<p> 黃金 </p>
+<p> 外匯 </p>
+<p> 期貨 </p>
+<p> StockQ </p>
+<p> 基金 </p>
+<p> A基金 </p>
+<p> 房產 </p>
+<p> 鉅亨吧 </p>
+<p> Blog </p>
+<p> 鉅亨網 </p>
+<p> 鉅亨新聞 </p>
+<p> +粉絲團 </p>
+<p> 免費註冊 </p>
+<p> | </p>
+<p> 登入 </p>
+<p> ad_string='<table width="100%" border="0" cellpadding="0" cellspacing="0"  class="textb">'+   '<tr align="center" valign="bottom"> '+ '<td width="20%" nowrap><a href=http://ad.cnyes.com/cnYESAD/adredir.asp?ciid=41012&url=http://www.investhk.gov.hk/static/common/index-tc.html target=_blank ><font class=textnews>香港投資推廣署 服務全免費</font></a></td>'+ '<td width="20%" nowrap><a href=http://ad.cnyes.com/cnYESAD/adredir.asp?ciid=41374&url=http://www.cnyes.com/promoteWeb/berich/default.aspx target=_blank ><font class=textnews>媒體爭相報導外匯紅包自己賺</U></font></a></td>'+ '<td width="20%" nowrap><a href=http://ad.cnyes.com/cnYESAD/adredir.asp?ciid=41245&url=http://www.i-cake.com.tw/front/bin/home.phtml target=_blank ><font class=textnews>不當空姐改賣宜蘭餅!</U></font></a></td>'+ '<td width="20%" nowrap><a href=http://ad.cnyes.com/cnYESAD/adredir.asp?ciid=41369&url=http://www.entrust.com.tw/ft/ad/guess/index.htm target=_blank ><font class=textnews>不用等年終華南十萬包給你</font></a></td>'+ '<td width="20%" nowrap><a href=http://ad.cnyes.com/cnYESAD/adredir.asp?ciid=41371&url=http://www.fashioncookie.com.tw/products/corpo%3Futm_source=cnyes%26utm_medium=omni%26utm_campaign=affiliate%26utm_content=201112_09 target=_blank ><font class=textnews>新年穿新衣特製只要899</U></font></a></td>'+     '</tr>'+ '</table>'; document.write(ad_string); </p>
+<p> <!--     var url = document.URL;      $jq("div[class*='memberlinks'] > a").eq(1).attr("href", "http://www.cnyes.com/_mem_bin/FormsLogin.asp?" + url);     if ( $jq.cookie("AicMember2")!=null &&  $jq.cookie("AicMember2")!="" && GetCn( $jq.cookie("AicMember2"))!="")          $jq("div[class*='member']").html(GetCn( $jq.cookie("AicMember2")) + "，您好！ <a href=\"http://www.cnyes.com/personal/formslogout.asp\" title=\"會員登出\">登出</a>");     function GetCn(a){var o=a.indexOf("CN=")+3;e=a.indexOf(";",o);if(e==-1) e=a.indexOf("&",o);if(e==-1) e=a.length;return a.substring(o,e);} --> </p>
+<p> 新聞首頁 </p>
+<p> > </p>
+<p> 產業 </p>
+<p> > </p>
+<p> 醫藥 </p>
+<p> > 內文 </p>
+<p> 新一代超強抗菌素“泰閣”中國上市 </p>
+<p> 鉅亨網新聞中心　(來源：財訊.COM)　2012-01-12 09:01:22 </p>
+<p> 近日，新一代超廣譜抗菌素“泰閣”在中國市場上市。輝瑞公司的抗多重耐藥菌的靜脈注射用抗菌藥“泰閣”(替加環素)被俗稱為“老虎素”，能克服常見的外排泵和核糖體保護等細菌耐藥機制。據悉，泰閣不易產生耐藥性，適用范圍更廣，突破性地同時覆蓋耐藥陰性菌、耐藥陽性菌、厭氧菌及非典型病原體，可以治療多種現有抗生素無 </p>
+<p> pubajax('/WebServices/InteractionService.asmx/WB_getViewsCount','strNewsNO=20120112092129500343110&strChNO=0','click_20120112092129500343110'); </p>
+<p> 近日，新一代超廣譜抗菌素“泰閣”在中國市場上市。輝瑞公司的抗多重耐藥菌的靜脈注射用抗菌藥“泰閣”(替加環素)被俗稱為“老虎素”，能克服常見的外排泵和核糖體保護等細菌耐藥機制。據悉，泰閣不易產生耐藥性，適用范圍更廣，突破性地同時覆蓋耐藥陰性菌、耐藥陽性菌、厭氧菌及非典型病原體，可以治療多種現有抗生素無效的耐藥菌感染，甚至包括了談之色變的“超級細菌”。 </p>
+<p> 上海市復旦大學附屬中山醫院感染科胡必杰主任介紹，多重耐藥菌院內感染已成為延長患者住院時間、增加醫療費用和導致患者死亡的重要原因，如治療不及時，甚至可能引發患者死亡。多重耐藥菌主要是指對臨床使用的三類或三類以上抗菌藥物同時呈現耐藥性的細菌。這些細菌往往是造成臨床抗感染治療失敗的原因。更值得關注的是，多重耐藥菌的發生率正逐年升高。(南方都市報) </p>
+<p> (曹文明 編輯) </p>
+<p> 免責聲明：本文所載資料僅供參考，并不構成投資建議，世華財訊對該資料或使用該資料所導致的結果概不承擔任何責任。若資料與原文有異，概以原文為準。 </p>
+<p> 世華財訊資訊中心：editor@shihua.com.cn 電話：4006744482 </p>
+<p> google_ad_channel = '7306890733'; //  your channel 	                    cnyes_max_num_ads = '1'; </p>
+<p> GA_googleFillSlot("GG_NEWSTITLE"); </p>
+<p> 這篇新聞讓您覺得？ </p>
+<p> 實用 </p>
+<p> 期待 </p>
+<p> 激動 </p>
+<p> 難過 </p>
+<p> 生氣 </p>
+<p> 搞笑 </p>
+<p> 胡扯 </p>
+<p> 鼓掌 </p>
+<p> 天哪 </p>
+<p> 引用本文 </p>
+<p> 列印本文 </p>
+<p> 轉寄好友 </p>
+<p> 大 </p>
+<p> 中 </p>
+<p> 小 </p>
+<p> 我的收藏 </p>
+<p> 收藏文章 </p>
+<p> ﻿ </p>
+<p> .heartnew a { font-weight:bold }     .heartnew2 ul li a { font-size:13px; } </p>
+<p> 最實用 </p>
+<p> 最期待 </p>
+<p> 最激動 </p>
+<p> 最難過 </p>
+<p> 最生氣 </p>
+<p> 最搞笑 </p>
+<p> 最胡扯 </p>
+<p> 最鼓掌 </p>
+<p> 最天哪 </p>
+<p> ． </p>
+<p> 國台辦要求挺馬？郭台銘：這世上沒人叫得動我！ </p>
+<p> ． </p>
+<p> 臺媒體:馬英九與蔡英文有四大不同之處 </p>
+<p> ． </p>
+<p> 解決供需失衡 台灣房屋彭培業：打房不如打掉泰山收費站 </p>
+<p> ． </p>
+<p> 台灣主要報紙頭條要聞一覽( 1月10日) </p>
+<p> ． </p>
+<p> 融資一路退、融券狂增 台股軋空蠢動 10檔高券資比股出列 </p>
+<p> ． </p>
+<p> 20萬台商急選情 明起返台挺馬 班機爆滿 </p>
+<p> ． </p>
+<p> 解決供需失衡 台灣房屋彭培業：打房不如打掉泰山收費站 </p>
+<p> ． </p>
+<p> 宏達電CES展推首款4G LTE Windows Phone- TITAN II </p>
+<p> ． </p>
+<p> 經建會招商成果故意選前發表? 劉憶如：沒國際化的觀念 </p>
+<p> ． </p>
+<p> 融資一路退、融券狂增 台股軋空蠢動 10檔高券資比股出列 </p>
+<p> ． </p>
+<p> 20萬台商急選情 明起返台挺馬 班機爆滿 </p>
+<p> ． </p>
+<p> 〈今周刊〉「大仁哥」陳柏霖：人生可以不只是個棋子，而是下棋的人 </p>
+<p> ． </p>
+<p> 陶冬：歐洲深陷痼疾 法國降評將落井下石 美國乍現生機 Fed是唯一希望 </p>
+<p> ． </p>
+<p> 味全魏應充：上半年景氣保守看待 要好轉也要Q3起 </p>
+<p> ． </p>
+<p> 逾30億人次上路 2012中國春運大潮8日啟動 </p>
+<p> ． </p>
+<p> 台灣主要報紙頭條要聞一覽( 1月10日) </p>
+<p> ． </p>
+<p> 趙藤雄三度砲轟興富發 對房市亂喊價 徒然擾亂交易秩序 </p>
+<p> ． </p>
+<p> 人大代表稱百姓受到溺愛可能比較刁民引熱議 </p>
+<p> ． </p>
+<p> 宋弟子改挺馬  綠：人情薄如紙 </p>
+<p> ． </p>
+<p> 熱門股─金融股 外資追殺 連5日線都沒站穩 </p>
+<p> ． </p>
+<p> 20萬台商急選情 明起返台挺馬 班機爆滿 </p>
+<p> ． </p>
+<p> 國台辦要求挺馬？郭台銘：這世上沒人叫得動我！ </p>
+<p> ． </p>
+<p> 趙藤雄三度砲轟興富發 對房市亂喊價 徒然擾亂交易秩序 </p>
+<p> ． </p>
+<p> 人大代表稱百姓受到溺愛可能比較刁民引熱議 </p>
+<p> ． </p>
+<p> 選前倒數一周 郭台銘與青年對話 今晚加演台北場！ </p>
+<p> ． </p>
+<p> 趙藤雄三度砲轟興富發 對房市亂喊價 徒然擾亂交易秩序 </p>
+<p> ． </p>
+<p> 國台辦要求挺馬？郭台銘：這世上沒人叫得動我！ </p>
+<p> ． </p>
+<p> 解決供需失衡 台灣房屋彭培業：打房不如打掉泰山收費站 </p>
+<p> ． </p>
+<p> 高希均：淨痛苦指數 台灣和新加坡並列全球最低 </p>
+<p> ． </p>
+<p> 經建會招商成果故意選前發表? 劉憶如：沒國際化的觀念 </p>
+<p> ． </p>
+<p> 國台辦要求挺馬？郭台銘：這世上沒人叫得動我！ </p>
+<p> ． </p>
+<p> 臺媒體:馬英九與蔡英文有四大不同之處 </p>
+<p> ． </p>
+<p> 高希均：淨痛苦指數 台灣和新加坡並列全球最低 </p>
+<p> ． </p>
+<p> 解決供需失衡 台灣房屋彭培業：打房不如打掉泰山收費站 </p>
+<p> ． </p>
+<p> 趙藤雄三度砲轟興富發 對房市亂喊價 徒然擾亂交易秩序 </p>
+<p> ． </p>
+<p> 國台辦要求挺馬？郭台銘：這世上沒人叫得動我！ </p>
+<p> ． </p>
+<p> 解決供需失衡 台灣房屋彭培業：打房不如打掉泰山收費站 </p>
+<p> ． </p>
+<p> 20萬台商急選情 明起返台挺馬 班機爆滿 </p>
+<p> ． </p>
+<p> 高希均：淨痛苦指數 台灣和新加坡並列全球最低 </p>
+<p> ． </p>
+<p> 表態！人民日報：中國沒理由追隨美國禁買伊朗石油 </p>
+<p> ． </p>
+<p> 伊朗核子科學家遭炸彈攻擊身亡 波灣局勢惡化 </p>
+<p> ． </p>
+<p> 〈分析〉匈牙利醞釀新暴風眼 投資人準備虧更多 </p>
+<p> ． </p>
+<p> 前白宮顧問：歐巴馬將會準備發動攻擊 阻止伊朗擁有核武 </p>
+<p> ． </p>
+<p> 蘋果大手筆配股  執行長庫克年薪3.78億美元  可望成全美收入最高CEO </p>
+<p> ． </p>
+<p> 中國春運開鑼 今年出行人次首超30億 創歷史新高 </p>
+<p> 新聞評論 </p>
+<p> 已有 </p>
+<p> pubajax('/WebServices/InteractionService.asmx/WB_getCommCount','strNewsNO=20120112092129500343110&strChNO=&Today=0','gCount2012011209212950034311000'); </p>
+<p> 位網友發表了評論 </p>
+<p> (點此查看) </p>
+<p> 發表我的看法！ </p>
+<p> 網友評論僅代表網友個人立場，並不表明鉅亨網贊同其觀點或證實其描述。 </p>
+<p> 我的名字： </p>
+<p> var tip = '發表我的看法！';                                 function reply_checksubmit()                                 { 	                                if(document.formpost.commentbody.value==tip || document.formpost.commentbody.value.length==0) 	                                { 		                                alert('請填寫內容'); 		                                return false; 	                                }                                     //try{ext_submit();}catch(e){} 	                                return true;                                 }                                  function reply_clearfield()                                 { 	                                if (document.formpost.commentbody.value == tip) 	                                { 		                                document.formpost.commentbody.value = ''; 	                                }                                 } </p>
+<p> var temp1 = document.getElementsByTagName("form")[0];  					temp1.appendChild( createmetat('label') ) 					temp1.appendChild( createmetat('input') ) 					 	                     function createmetat(elmtName)                      {                         elmtName = elmtName ? elmtName : '';                         var inputElmt ;                         if ( elmtName == 'label' )                         {                             inputElmt = document.createElement('label');                             inputElmt.innerHTML = 'EMAIL：' ;                         }                         else if ( elmtName == 'br' )                         {                             inputElmt = document.createElement('br');                         }                         else if ( elmtName == 'input' )                         {                             inputElmt = document.createElement('input');                             inputElmt.setAttribute('type', 'text');                             inputElmt.setAttribute('id', 'txtEMAIL1');                             inputElmt.setAttribute('name', 'txtEMAIL1');                             inputElmt.setAttribute('class', 'input1');                             inputElmt.setAttribute('style', 'width: 180px');                                                      }                         return inputElmt;                     } </p>
+<p> ﻿ </p>
+<p> function goOpenSearch(keyword) {     var tempU = '' ;           var q = ""          if (keyword == '')     {         q = document.getElementById('search').value     }     else     {         q = keyword     }     if (q == '請輸入新聞關鍵字' || q == '')     {         q = '頭條'     }     tempU = '/search.aspx?q=' + encodeURI( q ) + '&D=7&P=1&1=1'          openFullPage(tempU) }  function openFullPage(myURL) {        MM_openBrWindow(myURL,'','width=1000,height=710,toolbar=yes,location=yes,directories=yes,scrollbars=yes,menubar=yes,status=yes,resizable=yes') } function MM_openBrWindow(theURL,winName,features) { //v2.0   window.open(theURL,winName,features); } </p>
+<p> ﻿ </p>
+<p> NEWS: </p>
+<p> 移除歐美標籤 Tag金磚7國 ! </p>
+<p> 點閱排行 </p>
+<p> 台股 </p>
+<p> 美股 </p>
+<p> 外匯 </p>
+<p> 房地產 </p>
+<p> 台灣主要報紙頭條要聞一覽( 1月12日) </p>
+<p> 伊朗核子科學家遭炸彈攻擊身亡 波灣局勢惡 </p>
+<p> 鉅亨早報 2012年1月12日 </p>
+<p> 英特爾繼續“炒冷飯”：Ultrabook前景堪憂 </p>
+<p> 救美國財政 巴菲特嗆：共和黨捐多少錢 我 </p>
+<p> 美股盤後─震盪整理 自早場跌勢中反彈 道 </p>
+<p> 羅姆尼的世界藍圖 </p>
+<p> 建商降價喊假的? 雙北市房價2012大降難 </p>
+<p> 沒完沒了的債務危機 梅克爾 沙柯吉與拉加 </p>
+<p> USB 3.0連接器需求爆發 凡甲出頭！今年 </p>
+<p> 台灣主要報紙頭條要聞一覽( 1月12日) </p>
+<p> 鉅亨早報 2012年1月12日 </p>
+<p> USB 3.0連接器需求爆發 凡甲出頭！今年 </p>
+<p> 台股盤後—大選戰鼓頻催 多空膠著！護盤當 </p>
+<p> 高盛證：選情膠著  守為上策 </p>
+<p> 高盛：藍綠勝負未卜 台股多空難辨 建議選 </p>
+<p> 群聯二廠落成 潘健成：今年營運絕不重蹈金 </p>
+<p> 雙題材助陣 太陽能股發動補漲 碩禾等7檔 </p>
+<p> 宏達電抗蘋果 強化專利佈局做好準備 </p>
+<p> 外資買超百億後易震盪向下 選舉、年關近 </p>
+<p> 蘋果正式邀約：來參加下周我們在大蘋果的教 </p>
+<p> 美股盤後─震盪整理 自早場跌勢中反彈 道 </p>
+<p> 摩托羅拉聯想新款Android手機將配英特爾芯 </p>
+<p> 紐約匯市─歐央行會議 西意發債在即 歐元 </p>
+<p> 傳微軟將大動作重整行銷營運部  恐裁員數 </p>
+<p> 〈CES〉晶片大戰開打！英特爾與高通周二宣 </p>
+<p> 美股盤中─擔憂歐洲危機 投資人退居場外 </p>
+<p> 美聯準會埃文斯:零利率應維持至失業率破7 </p>
+<p> 德銀：蘋果、三星正擴大智慧手機領先 擠壓 </p>
+<p> 索尼副總裁：PS3壽命為10年 短期內不會被 </p>
+<p> Bill Gross：各國央行大肆印鈔 可能點燃 </p>
+<p> 葛洛斯：央行瘋狂印鈔 將喚醒通膨威脅 </p>
+<p> 法國降級傳聞重挫歐元 今日市場面臨兩大考 </p>
+<p> 紐約匯市─歐央行會議 西意發債在即 歐元 </p>
+<p> 新台幣開盤勁揚1.19角 先盛後衰 </p>
+<p> 亞匯午盤—市場觀望情緒濃厚 歐元微幅波動 </p>
+<p> 北韓全面禁止使用人民幣和外幣 </p>
+<p> 蓋特納訪華 人民幣中間價回升 今年出口驟 </p>
+<p> Roco Forex：美元出現疲軟跡象 非美貨幣 </p>
+<p> 歐元跌創16個月新低 歐央行再扮“救世主” </p>
+<p> 建商降價喊假的? 雙北市房價2012大降難 </p>
+<p> 日勝生浮洲合宜住宅案 創營建業聯貸金額、 </p>
+<p> 大直豪宅區 知名建案單價站穩200萬元 </p>
+<p> 大台北八大潛力區 中山區成交量續創北市第 </p>
+<p> 中山區豪宅陸續進場 開價邁向每坪180萬元 </p>
+<p> 馬政府的「居住正義」 人民住得安心嗎？ </p>
+<p> 農曆年後新規範 將使(集村)農舍案走入歷 </p>
+<p> 北市百年房屋成交比SARS低  房仲：先甘後 </p>
+<p> 台北市量縮價揚泡沫大? 今年Q2是關鍵期 </p>
+<p> 美聯儲褐皮書:經濟復蘇溫和 樓市悲慘依舊 </p>
+<p> 焦點頭條 </p>
+<p> 深度分析 </p>
+<p> 國際聚焦 </p>
+<p> ﻿ </p>
+<p> 泡沫之廈！衛報：摩天大樓矗立 中國經濟恐 </p>
+<p> 台塑李志村籲政府重視東盟關稅減免、ECFA項 </p>
+<p> 選前外資加注！買超48億元 台指期加多單 </p>
+<p> 新光金去年投報率4.2% 今年上半年一次性 </p>
+<p> 〈分析〉中國伸手降息阻硬著陸 全球互利共 </p>
+<p> ﻿ </p>
+<p> 泡沫之廈！衛報：摩天大樓矗立 中國經濟恐 </p>
+<p> 空頭分析師：經濟危機達最高潮 中國硬著陸 </p>
+<p> 陸港夯台灣大選 逾萬台籍港人返台投票 陸 </p>
+<p> 財富：創新企業領導需從孤膽英雄邁向團隊決 </p>
+<p> 分析師：美國經濟衰退得以避免 但別太過樂 </p>
+<p> ﻿ </p>
+<p> 制裁伊朗 大陸冷落Geithner 日本支持美國 </p>
+<p> 惠譽擔心西班牙預算赤字不達標 月底決定是 </p>
+<p> 希臘:如債券掉期參與率低 需要更多援助金 </p>
+<p> 私營部門討說法 歐央行購入希臘債憑什么不 </p>
+<p> 俄杜馬主席：政體改革法案或于2月審議通過 </p>
+<p> 新聞專題 </p>
+<p> 鉅亨看世界 </p>
+<p> 人物專訪 </p>
+<p> ﻿ </p>
+<p> 金磚告別10年盛世 </p>
+<p> 美伊恩怨再起 石油戰爭一觸即發 </p>
+<p> 黃金失寵 10年牛市告終？ </p>
+<p> 金正日死亡 國際關注 </p>
+<p> 前進2012 黃金十年VS.十年政綱 </p>
+<p> ﻿ </p>
+<p> 鉅亨看世界─百年依舊黑暗 </p>
+<p> 鉅亨看世界─新聞變變變 </p>
+<p> 鉅亨看世界─旅遊鐵幕 </p>
+<p> 鉅亨看世界─小國巨變 </p>
+<p> 鉅亨看世界─網路諜對諜 </p>
+<p> ﻿ </p>
+<p> 圖文：上海遨問創投首席執行官周敏參與討論 </p>
+<p> 圖文：英飛尼迪投資集團董事總經理胡斌參與 </p>
+<p> 圖文：方正信息產業集團助理總裁孫國富發言 </p>
+<p> 視頻：厲以寧表示只有創新才能更好生存 </p>
+<p> 胡斌：知識產權價值定位和商業模式 </p>
+<p> 特殊分類 </p>
+<p> 新聞分類 </p>
+<p> 產業分類 </p>
+<p> 頭條 </p>
+<p> 總覽 </p>
+<p> 兩岸 </p>
+<p> 圖片 </p>
+<p> 影音 </p>
+<p> 台股 </p>
+<p> 興櫃 </p>
+<p> 未上市 </p>
+<p> 基金 </p>
+<p> A基金 </p>
+<p> 房產 </p>
+<p> 外資 </p>
+<p> 美股 </p>
+<p> 港股 </p>
+<p> 滬深股 </p>
+<p> 國際股 </p>
+<p> 宏觀 </p>
+<p> 外匯 </p>
+<p> 期貨 </p>
+<p> 能源 </p>
+<p> 金屬 </p>
+<p> 黃金 </p>
+<p> 頭條焦點 </p>
+<p> 深度分析 </p>
+<p> 名人談話 </p>
+<p> 國際聚焦 </p>
+<p> 兩岸新聞 </p>
+<p> 圖片新聞 </p>
+<p> 時尚新聞 </p>
+<p> 寰宇趣談 </p>
+<p> IPO新聞 </p>
+<p> 理財新聞 </p>
+<p> 鉅亨看世界 </p>
+<p> 證券 </p>
+<p> 銀行 </p>
+<p> 保險 </p>
+<p> 能源 </p>
+<p> 水泥 </p>
+<p> 生化 </p>
+<p> 醫藥 </p>
+<p> 造紙 </p>
+<p> 塑化 </p>
+<p> 橡膠 </p>
+<p> 食品農產 </p>
+<p> 媒體 </p>
+<p> 鋼鐵 </p>
+<p> 汽車 </p>
+<p> 電信 </p>
+<p> 飯店觀光 </p>
+<p> 手機 </p>
+<p> 光電 </p>
+<p> 網通 </p>
+<p> 零售百貨 </p>
+<p> 半導體 </p>
+<p> 紡織成衣 </p>
+<p> 航空運輸 </p>
+<p> 電機電器 </p>
+<p> 新聞互動 </p>
+<p> 新聞評論 </p>
+<p> Blog談新聞 </p>
+<p> １／１２三大法人期貨淨多單２３３３口選擇權淨空 </p>
+<p> 歐盟將下令禁買 煉油商先斷伊朗現貨原油 </p>
+<p> 美國1/3 戰艦調駐西太平洋 annie (wu </p>
+<p> 《外資》高盛證：選前別淌渾水，選後再進場 </p>
+<p> 金磚四國扭轉劣勢 開年後漲幅超過4% 印 </p>
+<p> 國台辦要求挺馬？郭台銘：這世上沒人叫得動 </p>
+<p> 趙藤雄三度砲轟興富發 對房市亂喊價 徒然 </p>
+<p> 除夕外食成風潮 星級飯店餐飲預訂爆滿 </p>
+<p> 美元避險買盤再起　新年第一週週線收紅 </p>
+<p> 央行行長周小川：利率市場化改革已具初步條 </p>
+<p> 熱門文章 </p>
+<p> 最新發文 </p>
+<p> 名人Blog </p>
+<p> 人氣Blog </p>
+<p> 【 </p>
+<p> 齊克用 </p>
+<p> 】 </p>
+<p> 別人貪心時？我害怕？ </p>
+<p> 【 </p>
+<p> 未來 </p>
+<p> 】 </p>
+<p> 1/12.盤前重點摘要……? </p>
+<p> 【 </p>
+<p> 鬼山人 </p>
+<p> 】 </p>
+<p> 何事驚慌?! 一翻兩瞪眼的選後行情。 </p>
+<p> 【 </p>
+<p> 紅塵過客 </p>
+<p> 】 </p>
+<p> 1/12 風雨前的寧靜 </p>
+<p> 【 </p>
+<p> 米大 </p>
+<p> 】 </p>
+<p> 1/12  盤前規劃:小心多空雙殺盤走法 </p>
+<p> 【 </p>
+<p> xo4281 </p>
+<p> 】 </p>
+<p> 牛欄裏的鹿 </p>
+<p> 【 </p>
+<p> 微風翼輕航 </p>
+<p> 】 </p>
+<p> 背離反彈，背離終止 </p>
+<p> 【 </p>
+<p> James </p>
+<p> 】 </p>
+<p> 空頭操作時應該極力注意或避開的時間點與事件 </p>
+<p> 【 </p>
+<p> MMVVWW </p>
+<p> 】 </p>
+<p> 肥皂劇~釣魚工具篇 </p>
+<p> FXCM聚金匯神 </p>
+<p> 英鎊/美元試圖下破關鍵區間底部 </p>
+<p> Jonathan D A Moore </p>
+<p> Show Must Go On: Fiscal Whores Squeeze Into Their </p>
+<p> 【 </p>
+<p> 呂宗耀-趨勢大師的投資周記 </p>
+<p> 】 </p>
+<p> 龍年『刺蝟心』－拼戰台股太極盤（中） </p>
+<p> 【 </p>
+<p> 賴憲政 </p>
+<p> 】 </p>
+<p> 20120111股市憲哥 賴老師新概念 </p>
+<p> 齊克用 </p>
+<p> 別人貪心時？我害怕？ </p>
+<p> 外匯最前線 </p>
+<p> 歐洲財政聯盟第一刀砍向匈牙利 </p>
+<p> 【 </p>
+<p> 未來 </p>
+<p> 】 </p>
+<p> 1/12日~ 盤後解析.量縮加上高檔雙星變盤? </p>
+<p> 【 </p>
+<p> 豬羊牛熊(7) </p>
+<p> 】 </p>
+<p> Gartman，公債殖利率 </p>
+<p> 【 </p>
+<p> 熊靖宇 </p>
+<p> 】 </p>
+<p> 國安基金救誰？​散戶？外資？候選人？​及黃金的命運 </p>
+<p> 鉅亨吧 </p>
+<p> 24小時排行 </p>
+<p> 一週排行 </p>
+<p> TOP10 </p>
+<p> 【 </p>
+<p> 外匯吧 </p>
+<p> 】 </p>
+<p> 存保制破冰 匯率浮動區間將擴大 </p>
+<p> 【 </p>
+<p> 台股   明日大盤分析 </p>
+<p> 】 </p>
+<p> 2012/1/13(星期五) 大盤分析 </p>
+<p> 【 </p>
+<p> 投資家日報 </p>
+<p> 】 </p>
+<p> 中國七大戰略新興產業之母：新材料產業 </p>
+<p> 【 </p>
+<p> 上市上櫃吧 </p>
+<p> 】 </p>
+<p> 選前盤勢觀點 </p>
+<p> 【 </p>
+<p> ★四方力道★ </p>
+<p> 】 </p>
+<p> 台指實戰盤中免費看 一比就知輸贏 0973 000 685 </p>
+<p> 【 </p>
+<p> 力道資訊 </p>
+<p> 】 </p>
+<p> 01-12台指期免費看 一比就知輸贏 0973 000 685 </p>
+<p> 【 </p>
+<p> 太極能量 </p>
+<p> 】 </p>
+<p> 1月12日期貨盤中 免費看 一比就知輸贏 0973 000 685 </p>
+<p> 【 </p>
+<p> 金龍決策 </p>
+<p> 】 </p>
+<p> 主力籌碼量能分析 每天盤中台指當沖免費看 一比就知輸贏 0973 000 685 </p>
+<p> 【 </p>
+<p> 上市上櫃吧 </p>
+<p> 】 </p>
+<p> 台北市法規會:中華電信消費申訴第一名、遊戲橘子難協商 ((大昌期貨/張儷瓊@期貨/選擇權、手續費)) </p>
+<p> 【 </p>
+<p> 力晶科 </p>
+<p> 】 </p>
+<p> DRAM廠積極轉型力晶紓困可望農曆年前過關 </p>
+<p> 【 </p>
+<p> ★四方力道★ </p>
+<p> 】 </p>
+<p> 台指實戰盤中免費看 一比就知輸贏 0973 000 685 </p>
+<p> 【 </p>
+<p> 力道資訊 </p>
+<p> 】 </p>
+<p> 01-12台指期免費看 一比就知輸贏 0973 000 685 </p>
+<p> 【 </p>
+<p> 群創 </p>
+<p> 】 </p>
+<p> 揭開 許文龍、郭台銘 沒有說的盤算鉅亨網新聞中心 </p>
+<p> 【 </p>
+<p> 太極能量 </p>
+<p> 】 </p>
+<p> 免費看1/10台指當沖每天09:00前就看出賺錢方向 一比就知輸贏 0973 000 685 </p>
+<p> 【 </p>
+<p> 力晶科 </p>
+<p> 】 </p>
+<p> 創見:DRAM都還囤在倉庫   產業要大好很難 </p>
+<p> 【 </p>
+<p> 上市上櫃吧 </p>
+<p> 】 </p>
+<p> 大 昌 期 貨~小圓(郭台銘：2012年經濟唯一確定是衰退！鴻海已「打3呆」因應) </p>
+<p> 1 </p>
+<p> 力晶 </p>
+<p> 2817 </p>
+<p> 2 </p>
+<p> 國內期貨吧 </p>
+<p> 1814 </p>
+<p> 3 </p>
+<p> 投資家日報 </p>
+<p> 1310 </p>
+<p> 4 </p>
+<p> 台股吧 </p>
+<p> 1120 </p>
+<p> 5 </p>
+<p> 台股   明日大盤分析 </p>
+<p> 612 </p>
+<p> 6 </p>
+<p> 上市上櫃吧 </p>
+<p> 610 </p>
+<p> 7 </p>
+<p> 台指期 </p>
+<p> 601 </p>
+<p> 8 </p>
+<p> 台股吧 </p>
+<p> 477 </p>
+<p> 9 </p>
+<p> 外匯 </p>
+<p> 400 </p>
+<p> 10 </p>
+<p> 外匯吧 </p>
+<p> 358 </p>
+<p> 兩岸雜誌 </p>
+<p> 台灣雜誌 </p>
+<p> 大陸雜誌 </p>
+<p> 【 </p>
+<p> VOCE </p>
+<p> 】 </p>
+<p> 紅色喜氣小物！ </p>
+<p> 【 </p>
+<p> 理財週刊 </p>
+<p> 】 </p>
+<p> 贏家操盤術 </p>
+<p> 【 </p>
+<p> 理財週刊 </p>
+<p> 】 </p>
+<p> 贏家操盤術 </p>
+<p> 【 </p>
+<p> 今週刊 </p>
+<p> 】 </p>
+<p> 勇於割捨  才能開拓人生新局！ </p>
+<p> 【 </p>
+<p> 金融投資家 </p>
+<p> 】 </p>
+<p> 龍年大佈局 </p>
+<p> 【 </p>
+<p> IT時代週刊 </p>
+<p> 】 </p>
+<p> 2011年IT十大事件影響著未來 </p>
+<p> 【 </p>
+<p> 英才 </p>
+<p> 】 </p>
+<p> 美國航空巨人倒下 </p>
+<p> 【 </p>
+<p> 財經文摘 </p>
+<p> 】 </p>
+<p> 人民幣年終秀 </p>
+<p> 【 </p>
+<p> 互聯網 </p>
+<p> 】 </p>
+<p> 惠普：怎一個亂字了得 </p>
+<p> 【 </p>
+<p> 中國企業家 </p>
+<p> 】 </p>
+<p> 沃爾沃再創業 </p>
+<p> 台股贏家 </p>
+<p> 美股贏家 </p>
+<p> 滬深股贏家 </p>
+<p> 港股贏家 </p>
+<p> 強勢股 </p>
+<p> 強度 </p>
+<p> 績效% </p>
+<p> 弱勢股 </p>
+<p> 績效% </p>
+<p> 大學光 </p>
+<p> ☆☆☆ </p>
+<p> 20.55 </p>
+<p> 和鑫 </p>
+<p> 3.42 </p>
+<p> 驊宏資 </p>
+<p> ☆☆☆ </p>
+<p> 13.43 </p>
+<p> 世界 </p>
+<p> ☆☆ </p>
+<p> 13.08 </p>
+<p> 立錡 </p>
+<p> ☆☆ </p>
+<p> 12.45 </p>
+<p> 閎暉 </p>
+<p> ☆☆ </p>
+<p> 12.32 </p>
+<p> ★年繳優惠送IPAD2 </p>
+<p> ●開春股民拿好禮！ </p>
+<p> 強勢股 </p>
+<p> 強度 </p>
+<p> 績效% </p>
+<p> 弱勢股 </p>
+<p> 績效% </p>
+<p> 宏道資訊 </p>
+<p> ☆☆☆☆ </p>
+<p> 63.68 </p>
+<p> COG </p>
+<p> 13.59 </p>
+<p> CAAS </p>
+<p> ☆☆☆☆ </p>
+<p> 47.26 </p>
+<p> SWN </p>
+<p> 11.01 </p>
+<p> 晶澳太陽能 </p>
+<p> ☆☆☆☆ </p>
+<p> 38.57 </p>
+<p> SJF </p>
+<p> 10.17 </p>
+<p> CGA </p>
+<p> ☆☆☆ </p>
+<p> 38.44 </p>
+<p> ZSL </p>
+<p> 8.46 </p>
+<p> REGN </p>
+<p> ☆☆☆☆ </p>
+<p> 36.99 </p>
+<p> RRC </p>
+<p> 8.38 </p>
+<p> 多空趨勢 強度 明日轉折 支撐壓力 財報自動分析 </p>
+<p> 強勢股 </p>
+<p> 強度 </p>
+<p> 績效% </p>
+<p> 弱勢股 </p>
+<p> 績效% </p>
+<p> 興民鋼圈 </p>
+<p> ☆☆☆ </p>
+<p> 36.12 </p>
+<p> 京新藥業 </p>
+<p> 25.44 </p>
+<p> 恒源煤電 </p>
+<p> ☆☆☆ </p>
+<p> 32.00 </p>
+<p> 金飛達 </p>
+<p> 23.71 </p>
+<p> 西藏發展 </p>
+<p> ☆☆☆ </p>
+<p> 29.10 </p>
+<p> 標準股份 </p>
+<p> 18.65 </p>
+<p> 西北化工 </p>
+<p> ☆☆☆ </p>
+<p> 27.62 </p>
+<p> 東源電器 </p>
+<p> 10.59 </p>
+<p> 中國寶安 </p>
+<p> ☆☆ </p>
+<p> 26.06 </p>
+<p> 南嶺民爆 </p>
+<p> 1.81 </p>
+<p> 多空趨勢 強度 明日轉折 支撐壓力 財報自動分析 </p>
+<p> 強勢股 </p>
+<p> 強度 </p>
+<p> 績效% </p>
+<p> 弱勢股 </p>
+<p> 績效% </p>
+<p> HK-0766 </p>
+<p> ☆☆☆☆ </p>
+<p> 50.00 </p>
+<p> 華建控股 </p>
+<p> 25.00 </p>
+<p> 永義實業 </p>
+<p> ☆☆☆ </p>
+<p> 44.83 </p>
+<p> 電訊盈科 </p>
+<p> 16.25 </p>
+<p> 新確科技 </p>
+<p> ☆☆☆ </p>
+<p> 35.71 </p>
+<p> 百富環球 </p>
+<p> 15.76 </p>
+<p> 中國燃氣 </p>
+<p> ☆ </p>
+<p> 33.09 </p>
+<p> 進業控股 </p>
+<p> 14.63 </p>
+<p> 融創中國 </p>
+<p> ☆☆☆ </p>
+<p> 32.91 </p>
+<p> 興達國際 </p>
+<p> 14.33 </p>
+<p> 多空趨勢 強度 明日轉折 支撐壓力 財報自動分析 </p>
+<p> 公告板 </p>
+<p> 活動推薦 </p>
+<p> 鉅亨公告 </p>
+<p> 給個讚!房事交流請找【房產夢想家】 </p>
+<p> 寰宇投資探訪之旅，邀您進入世界投資大門！ </p>
+<p> 國際股頻道-指數即時報價新版上線！2012.... </p>
+<p> 投信投顧公會基金公告訊息_2012.1.2 </p>
+<p> 【國際精品投資】風潮上線_20111230 </p>
+<p> 【基金配息】新增年化與年初至今配息率100.... </p>
+<p> 寰宇投資頻道全新上線100.11.30 </p>
+<p> GA_googleFillSlot("GG_NEWS_rightdown_300_250"); </p>
+<p> google_ad_channel = '1506107570'; //  your channel 	                    cnyes_max_num_ads = '3'; </p>
+<p> GA_googleFillSlot("GG_NEWSCONTENT"); </p>
+<p> ﻿ </p>
+<p> TOP </p>
+<p> © Copyright 2000- </p>
+<p> var now=new Date();document.write(now.getFullYear()); </p>
+<p> cnYES.com. All rights reserved. 集團資源： </p>
+<p> 鉅亨台北 </p>
+<p> ｜ </p>
+<p> 鉅亨上海 </p>
+<p> ｜ </p>
+<p> Yes娛樂 </p>
+<p> ｜ </p>
+<p> 鉅亨部落新世界 </p>
+<p> 關於我們 </p>
+<p> ｜ </p>
+<p> 會員中心 </p>
+<p> ｜ </p>
+<p> FAQ </p>
+<p> ｜ </p>
+<p> 聯絡 </p>
+<p> ｜ </p>
+<p> 合作 </p>
+<p> ｜ </p>
+<p> 服務條款 </p>
+<p> ｜ </p>
+<p> 著作權 </p>
+<p> ｜ </p>
+<p> 產品&服務 </p>
+<p> ｜ </p>
+<p> 廣告 </p>
+<p> ｜ </p>
+<p> 資訊聲明&通報 </p>
+<p> ｜ </p>
+<p> 十周年慶 </p>
+<p> 代表號：886-2-27588001 客服分機：666 </p>
+<p> 聯絡客服 </p>
+<p> 法律顧問：惠國法律事務所 黃泰源律師 </p>
+<p> var pvar = { cid: "tw-cnyes", content: "0", server: "secure-us" };   var feat = { surveys_enabled: 1 };   var trac = nol_t(pvar, feat);   var _rsND = trac.getSchemeHost(); // For compatibility with v53 surveys   var _rsCI = "tw-cnyes"; // For compatibility with v53 surveys   trac.record().post().do_sample(); </p>
+<p> var _gaq = _gaq || [];   _gaq.push(['_setAccount', 'UA-21465399-7']);   _gaq.push(['_trackPageview']);     (function() {     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);   })(); </p>
+<p> {lang: 'zh-TW'} </p>

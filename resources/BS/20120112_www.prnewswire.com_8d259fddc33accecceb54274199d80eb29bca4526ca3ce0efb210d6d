@@ -1,0 +1,259 @@
+<p> Ford Collaborates with Microsoft, Healthrageous and BlueMetal Architects for In-Car Health and... -- LAS VEGAS, Jan. 11, 2012 /PRNewswire/ -- </p>
+<p> var shortURL = ""; BitlyCB.alertResponse = function(data) {                 var s = '';                 var first_result;                 // Results are keyed by longUrl, so we need to grab the first one.                 for     (var r in data.results) {                         first_result = data.results[r]; break;                 }                 for (var key in first_result) {                         //s += key + ":" + first_result[key].toString() + "<br/>"; 						if(key == "shortUrl") 						{ 							shortURL = first_result[key].toString(); 							break; 						}                 } 				PostTwitter();         }   	var newstogramURL = ""; window.onload=function(){ 		OnNewsreleaseLoad(); 		var userid = readCookie('DMUserTrack'); 	var csid = 137114418; 	newstogramURL = 'http://www.prnewswire.com/templates/PRN_MultiVu_URL_Reader?userid='+userid+'&csid='+csid; 	//var newstogramURL ='http://www.prnewswire.com/templates/prnwConfig.xml'; 	var delay = function() { sendToFlash('StartPlay',newstogramURL); }; 	setTimeout(delay,100,"JavaScript"); 	//setTimeout("sendToFlash('StartPlay', 'http://www.prnewswire.com/templates/prnwConfig.xml')",100); 		}; function ShortenURL() { 	//Bit.ly function call to shorten url 	BitlyClient.call('shorten', {'longUrl': formatURL()}, 'BitlyCB.alertResponse'); } </p>
+<p> /* Style Definitions */ span.prnews_span { font-size:8pt; font-family:"Arial"; color:black; } a.prnews_a { color:blue; } li.prnews_li { font-size:8pt; font-family:"Arial"; color:black; } p.prnews_p { font-size:8pt; font-family:"Arial"; color:black; } </p>
+<p> var _gaq = _gaq || [];   var loc = location.href;   var env = '';     if(env == "dev."){ // for Dev Environment 	_gaq.push(['_setAccount', 'UA-21992272-4']);   } else if(env=="stage."){ // For Stage Environment   	_gaq.push(['_setAccount', 'UA-21992272-5']);   } else { // For Prodcution Environment   	_gaq.push(['_setAccount', 'UA-21992272-1']);   }   _gaq.push(['_setDomainName', '.www.prnewswire.com']);   _gaq.push(['_trackPageview']);    (function() {     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);   })(); </p>
+<p> // Variables submission using lpAddVars 	lpAddVars('page','Section',document.title); </p>
+<p> #___plusone_0, #___plusone_1 { padding-top:10px !important; width:44px !important } </p>
+<p> See more news releases in: </p>
+<p> Automotive </p>
+<p> , </p>
+<p> Transportation, Trucking & Railroad </p>
+<p> , </p>
+<p> Computer Electronics </p>
+<p> , </p>
+<p> Health Care & Hospitals </p>
+<p> , </p>
+<p> Wireless Communications </p>
+<p> , </p>
+<p> New Products & Services </p>
+<p> , </p>
+<p> Trade Show </p>
+<p> .translangcomp{ float:left; clear:left; margin-top:15px; *margin-top:-2px; margin-left:90px  } </p>
+<p> Ford Collaborates with Microsoft, Healthrageous and BlueMetal Architects for In-Car Health and Wellness Research </p>
+<p> function translationdrop(b1) { var e=document.getElementById("translangcomp1"); if ( e.style.display == 'block' ) {   		e.style.display = 'none'; 		b1.style.color="#5F95C3"; 		$('.translang').addClass('background1'); 	 } 	else  	  { 	   $('.translang').removeClass('background1'); 	   b1.style.color="#ffffff";            b1.style.backgroundImage="url(http://content.prnewswire.com/designimages/translationheadline_activebg1.gif)"; 	   b1.style.height="18px"; 	   e.style.display = 'block'; 	 } } </p>
+<p> cf_scripts.afterload(function (){ 	// Code to hide the count tail when the count is zero. 	cf_jq("span.cf_arrowtail").filter(function(content){ 	alert(this.innerHTML); 	return this.innerHTML.indexOf('<span class="cf_count">0</span>') > -1;  	}).css("display", "none"); 	cf_jq(".cf_dialog_footer button").live("mouseup", function (){ 	var socialText = this.innerHTML.replace("Post to ", ""); 	/*s.linkTrackVars='eVar3,prop15,prop16'; 	s.linkTrackEvents='None'; 	s.prop16='CrowdFactory_'+socialText;  	s.eVar3=s.prop16; 	s.prop15='Test'; //Newsrelease id 	s.tl(this,'o', 'CrowdFactory_'+socialText);*/ 	var s=s_gi(s_account);s.linkTrackVars='prop5,eVar3,prop15,prop16,prop2,events';s.linkTrackEvents='event12';s.prop5='share it release';s.eVar3=s.prop5; s.prop15='137114418';s.prop16='CrowdFactory_'+socialText;s.prop5+='_'+s.prop16;s.prop2=s.pageName;s.events='event12';s.tl(this,'o','CrowdFactory_'+socialText);  	}); 	}); </p>
+<p> .news-print1{background:url(http://content.prnewswire.com/designimages/print_PRN.jpg) no-repeat 2px 8px;  display: block;     font-size:12px; font-weight:100; height:10px; padding:11px 5px 11px 30px; } </p>
+<p> $(document).ready(function () { 		setTimeout( function(){ 			var fbVal = $("#share_fb .cf_count").html(); 			var twVal = $("#share_tw .cf_count").html(); 			var inVal = $("#share_li .cf_count").html(); 			var fbValInd = $("#Share_fb_India .cf_count").html(); 			var twValInd = $("#Share_tw_India .cf_count").html(); 			var inValInd = $("#Share_li_India .cf_count").html(); 			var fbVal1 = $("#share_fb4 .cf_count").html(); 			var twVal1 = $("#share_tw5 .cf_count").html(); 			var inVal1 = $("#share_li6 .cf_count").html(); 			var fbVal1Ind = $("#Share_fb_India4 .cf_count").html(); 			var twVal1Ind = $("#Share_tw_India5 .cf_count").html(); 			var inVal1Ind = $("#Share_li_India6 .cf_count").html(); 			$(".cf_arrowtail").css('display','none'); 			if(fbVal > 0){ 				$("#share_fb .cf_arrowtail").css({'display':'block','visibility':'visible'}); 			} 			if(twVal > 0){ 				$("#share_tw .cf_arrowtail").css({'display':'block','visibility':'visible'}); 			} 			if(inVal > 0){ 				$("#share_li .cf_arrowtail").css({'display':'block','visibility':'visible'}); 			} 			if(fbValInd > 0){ 				$("#Share_fb_India .cf_arrowtail").css({'display':'block','visibility':'visible'}); 			} 			if(twValInd > 0){ 				$("#Share_tw_India .cf_arrowtail").css({'display':'block','visibility':'visible'}); 			} 			if(inValInd > 0){ 				$("#Share_li_India .cf_arrowtail").css({'display':'block','visibility':'visible'}); 			}  			if(fbVal1 > 0){ 				$("#share_fb4 .cf_arrowtail").css({'display':'block','visibility':'visible'}); 			} 			if(twVal1 > 0){ 				$("#share_tw5 .cf_arrowtail").css({'display':'block','visibility':'visible'}); 			} 			if(inVal1 > 0){ 				$("#share_li6 .cf_arrowtail").css({'display':'block','visibility':'visible'}); 			} 			if(fbVal1Ind > 0){ 				$("#Share_fb_India4 .cf_arrowtail").css({'display':'block','visibility':'visible'}); 			} 			if(twVal1Ind > 0){ 				$("#Share_tw_India5 .cf_arrowtail").css({'display':'block','visibility':'visible'}); 			} 			if(inVal1Ind > 0){ 				$("#Share_li_India6 .cf_arrowtail").css({'display':'block','visibility':'visible'}); 			} 		} 		, 5000); 	}); </p>
+<p> .cf_arrowtail{ 	 	 visibility:hidden;  	} </p>
+<p> function printAndEmail(prop5Var,prop16Var, thisObj){ 		var s=s_gi(s_account); 		s.linkTrackVars='prop5,eVar3,prop15,prop49,prop16,events'; 		s.linkTrackEvents='event12'; 		s.prop5=prop5Var;  		s.eVar3=s.prop5;  		s.prop15='137114418'; 		 		s.prop2=s.pageName; 		s.prop16=prop16Var;		 		s.events='event12'; 		s.tl(thisObj,'o',prop16Var); 	} </p>
+<p> function get_check_value() 	{ 		var s=s_gi(s_account); 		s.linkTrackVars='prop16'; 		s.linkTrackEvents='None'; 		s.prop16= "MyNews_Follow"; 		s.tl(this,'o', 'MyNews_Follow');  		var tickersize=document.checkboxform.tickerlist.length; 		var t_value = ""; 		if(tickersize) 		{ 			for (var i=0; i < tickersize; i++) 			{ 				if (document.checkboxform.tickerlist[i].checked && (!document.checkboxform.tickerlist[i].disabled)) 				{ 					t_value = t_value + document.checkboxform.tickerlist[i].value +","; 					TrackAddTicker(document.checkboxform.tickerlist[i].value); 				} 			} 		} else{ 			if (document.checkboxform.tickerlist.checked) 			{ 				t_value = document.checkboxform.tickerlist.value; 			} 		} 		if(t_value==""){ 			document.getElementById('alertmsg').style.display='block'; 			return false; 		}  		window.location = 'http://www.prnewswire.com/templates/PRN Update User?ticker='+t_value; 	} 	function TrackAddTicker(prop46){ 		var s=s_gi(s_account); 		s.linkTrackVars='prop46'; 		s.linkTrackEvents='None'; 		s.prop46= "MyNews_Add_"+prop46; 		s.tl(this,'o', 'MyNews_Add_'+prop46); 	} 	function displaynewsinv() 	{ 		document.getElementById('mynewsinvbox').style.display="block"; 	} 	function hidenewsinv() 	{ 		document.getElementById('mynewsinvbox').style.display="none"; 	} </p>
+<p> My news for Investors </p>
+<p> AtLeast one of the check box should be selected </p>
+<p> You are following news about </p>
+<p> Follow the latest news about </p>
+<p> F </p>
+<p> LAS VEGAS </p>
+<p> , </p>
+<p> Jan. 11, 2012 </p>
+<p> /PRNewswire/ -- </p>
+<p> Ford, Microsoft Corp. and Healthrageous are researching how connected devices can help people monitor and maintain health and wellness </p>
+<p> Trends show people are spending more time in their cars; this new alliance is examining how to extend health management into the personal vehicle in a nonintrusive way </p>
+<p> The prototype system developed by BlueMetal Architects leverages Ford SYNC </p>
+<p> ® </p>
+<p> technology, Microsoft HealthVault, Windows Azure and the interactive services Healthrageous provides in conjunction with compatible biometric measurement devices </p>
+<p> Ford, Microsoft, Healthrageous and BlueMetal Architects announced an alliance today to research technology to help people monitor and maintain health and wellness while on the move. </p>
+<p> The alliance was unveiled during the "Doctor in Your Car" keynote address at the Digital Health Summit at the International CES. </p>
+<p> "People are spending more time in their cars, and with the tremendous growth in mobile healthcare solutions, Ford is dedicated to understanding the value of being able to connect to health and wellness-related services while driving," said </p>
+<p> Gary Strumolo </p>
+<p> , manager of Infotainment, Interiors, Health and Wellness at Ford Research and Innovation. "Our connectivity platform – Ford SYNC – provides easy, voice-controlled access to mobile devices such as smartphones and tablets, and therefore it makes sense to research areas that are important to our customers." </p>
+<p> Customer research and societal trends suggest there's a strong business case for Ford to explore opportunities in health and wellness technology, Strumolo said. </p>
+<p> Health info online and on the go </p>
+<p> While chronic illnesses are on the rise, the number of healthcare providers has remained relatively flat, which effectively limits patient access. For this reason and others, people of all ages and from all income groups are taking a more hands-on approach to their own health and wellness. </p>
+<p> More people now visit online health sites than go to the doctor's office, making health and wellness the most popular activity on the Web after email and general searches. </p>
+<p> The reasons why are not hard to understand. According to a study conducted by Pew Research: </p>
+<p> 93 percent said they seek out online health information because it's convenient – they want to get information on their own timetable, not the doctor's </p>
+<p> 83 percent said it's because they can get more information from the Web than they can get from their own doctor </p>
+<p> 80 percent said getting this information privately is important to them </p>
+<p> Moreover, beginning last year, medical and healthcare was the third-fastest-growing category of smartphone apps, with more than 17,000 available for download. </p>
+<p> And by 2015, some 500 million people are expected to be using mobile healthcare apps. </p>
+<p> "Taken together, these trends point to a natural role for the automobile in the emerging digital health and wellness field," Strumolo explains. </p>
+<p> The car that cares </p>
+<p> Strumolo said Ford seeks to develop "the car that cares." As people spend more time in their cars, the ability to manage health and wellness on the go becomes more important. There are several reasons why the automobile is an ideal platform for research and development in this area: </p>
+<p> It's convenient and private </p>
+<p> It facilitates personalized access to the information, products and services people need </p>
+<p> And it's a logical place for them to manage their health while they are more often stuck in traffic </p>
+<p> The goal is to figure out how to extend health management into the personal vehicle in a nonintrusive fashion. The prototype system was designed by BlueMetal Architects. </p>
+<p> Using information collected from blood pressure monitors, activity monitors and glucose meters along with behavioral data shared by the user, Healthrageous is able to help people lead healthier lifestyles by shedding unhealthy habits. </p>
+<p> Microsoft's contribution is to translate robotic sensory information provided by the vehicle into an application that also provides a voice and touch-screen interface, while integrating biometrical data that come from a wearable device. </p>
+<p> Ford SYNC allows this all to be done hands-free. </p>
+<p> "This alliance signifies an important step in bringing health innovation into people's everyday lives," said </p>
+<p> Todd Bremner </p>
+<p> , chief technical officer for BlueMetal Architects. "Ford's SYNC platform allows us to imagine, design and build natural user experiences leveraging voice and touch, which seamlessly bring wellness into your everyday commute." </p>
+<p> How it works </p>
+<p> The system would capture biometric and vehicle data as the basis for real-time health and wellness advice and monitoring. </p>
+<p> The driver can provide voice inputs, detailing important aspects of his or her health routine – such as the number of glasses of water consumed during the day, or what pills have been taken. </p>
+<p> The data received from the driver are then uploaded into the HealthVault cloud, at which point they are transferred to Windows Azure. The information is processed with other health data, which are used to create graphical reports the driver can access after having left the vehicle. </p>
+<p> "It's all about making health more accessible, and engaging and thereby helping more people lead healthier and more enriching lives," said </p>
+<p> Mary Beth Chalk </p>
+<p> , Healthrageous cofounder and chief marketing officer. </p>
+<p> About Ford Motor Company </p>
+<p> Ford Motor Company </p>
+<p> , (NYSE: </p>
+<p> F </p>
+<p> ) a global automotive industry leader based in </p>
+<p> Dearborn, Mich. </p>
+<p> , manufactures or distributes automobiles across six continents. With about 166,000 employees and about 70 plants worldwide, the company's automotive brands include Ford and </p>
+<p> Lincoln </p>
+<p> . The company provides financial services through Ford Motor Credit Company. For more information regarding Ford and its products worldwide, please visit </p>
+<p> http://corporate.ford.com </p>
+<p> . </p>
+<p> About Healthrageous </p>
+<p> Healthrageous, Inc. is a health engagement company that delivers digital, self-management prevention and chronic condition health solutions via the web and a mobile app. It achieves superior engagement through its proprietary platform that incorporates personalized goal setting, health journey map with gaming dynamics, timely biometric feedback and interactive digital coaching. The digital coach, leverages multiple tools such as inspirational messages, recognition and incentives, challenges, social networking, trackers and reminders and interactive educational content, Healthrageous is headquartered in </p>
+<p> Boston, MA </p>
+<p> and its investors include North Bridge Venture Partners ( </p>
+<p> Boston, MA </p>
+<p> / </p>
+<p> San Mateo, CA </p>
+<p> ), Egan Managed Capital ( </p>
+<p> Boston, MA </p>
+<p> ) and Long River Ventures ( </p>
+<p> Amherst, MA </p>
+<p> ). For more information, go to </p>
+<p> www.healthrageous.com </p>
+<p> . </p>
+<p> About BlueMetal Architects </p>
+<p> Founded in 2010, BlueMetal Architects is an interactive design and technology architecture firm which specializes in the development of innovative applications and experiences. Our goal is the creation of outstanding solutions which positively impact how our customers do business with a focus on creative design married to advanced software architectures. BlueMetal is a privately held company and is headquartered in </p>
+<p> Watertown, Massachusetts </p>
+<p> . For more information, visit </p>
+<p> http://www.bluemetal.com </p>
+<p> . </p>
+<p> SOURCE  Ford Motor Company </p>
+<p> Back to top </p>
+<p> RELATED LINKS </p>
+<p> http://www.ford.com </p>
+<p> cf_scripts.afterload(function (){ 	// Code to hide the count tail when the count is zero. 	cf_jq("span.cf_arrowtail").filter(function(content){ 	alert(this.innerHTML); 	return this.innerHTML.indexOf('<span class="cf_count">0</span>') > -1;  	}).css("display", "none"); 	cf_jq(".cf_dialog_footer button").live("mouseup", function (){ 	var socialText = this.innerHTML.replace("Post to ", ""); 	/*s.linkTrackVars='eVar3,prop15,prop16'; 	s.linkTrackEvents='None'; 	s.prop16='CrowdFactory_'+socialText;  	s.eVar3=s.prop16; 	s.prop15='Test'; //Newsrelease id 	s.tl(this,'o', 'CrowdFactory_'+socialText);*/ 	var s=s_gi(s_account);s.linkTrackVars='prop5,eVar3,prop15,prop16,prop2,events';s.linkTrackEvents='event12';s.prop5='share it release';s.eVar3=s.prop5; s.prop15='137114418';s.prop16='CrowdFactory_'+socialText;s.prop5+='_'+s.prop16;s.prop2=s.pageName;s.events='event12';s.tl(this,'o','CrowdFactory_'+socialText);  	}); 	}); </p>
+<p> .news-print1{background:url(http://content.prnewswire.com/designimages/print_PRN.jpg) no-repeat 2px 8px;  display: block;     font-size:12px; font-weight:100; height:10px; padding:11px 5px 11px 30px; } </p>
+<p> $(document).ready(function () { 		setTimeout( function(){ 			var fbVal = $("#share_fb .cf_count").html(); 			var twVal = $("#share_tw .cf_count").html(); 			var inVal = $("#share_li .cf_count").html(); 			var fbValInd = $("#Share_fb_India .cf_count").html(); 			var twValInd = $("#Share_tw_India .cf_count").html(); 			var inValInd = $("#Share_li_India .cf_count").html(); 			var fbVal1 = $("#share_fb4 .cf_count").html(); 			var twVal1 = $("#share_tw5 .cf_count").html(); 			var inVal1 = $("#share_li6 .cf_count").html(); 			var fbVal1Ind = $("#Share_fb_India4 .cf_count").html(); 			var twVal1Ind = $("#Share_tw_India5 .cf_count").html(); 			var inVal1Ind = $("#Share_li_India6 .cf_count").html(); 			$(".cf_arrowtail").css('display','none'); 			if(fbVal > 0){ 				$("#share_fb .cf_arrowtail").css({'display':'block','visibility':'visible'}); 			} 			if(twVal > 0){ 				$("#share_tw .cf_arrowtail").css({'display':'block','visibility':'visible'}); 			} 			if(inVal > 0){ 				$("#share_li .cf_arrowtail").css({'display':'block','visibility':'visible'}); 			} 			if(fbValInd > 0){ 				$("#Share_fb_India .cf_arrowtail").css({'display':'block','visibility':'visible'}); 			} 			if(twValInd > 0){ 				$("#Share_tw_India .cf_arrowtail").css({'display':'block','visibility':'visible'}); 			} 			if(inValInd > 0){ 				$("#Share_li_India .cf_arrowtail").css({'display':'block','visibility':'visible'}); 			}  			if(fbVal1 > 0){ 				$("#share_fb4 .cf_arrowtail").css({'display':'block','visibility':'visible'}); 			} 			if(twVal1 > 0){ 				$("#share_tw5 .cf_arrowtail").css({'display':'block','visibility':'visible'}); 			} 			if(inVal1 > 0){ 				$("#share_li6 .cf_arrowtail").css({'display':'block','visibility':'visible'}); 			} 			if(fbVal1Ind > 0){ 				$("#Share_fb_India4 .cf_arrowtail").css({'display':'block','visibility':'visible'}); 			} 			if(twVal1Ind > 0){ 				$("#Share_tw_India5 .cf_arrowtail").css({'display':'block','visibility':'visible'}); 			} 			if(inVal1Ind > 0){ 				$("#Share_li_India6 .cf_arrowtail").css({'display':'block','visibility':'visible'}); 			} 		} 		, 5000); 	}); </p>
+<p> .cf_arrowtail{ 	 	 visibility:hidden;  	} </p>
+<p> function printAndEmail(prop5Var,prop16Var, thisObj){ 		var s=s_gi(s_account); 		s.linkTrackVars='prop5,eVar3,prop15,prop49,prop16,events'; 		s.linkTrackEvents='event12'; 		s.prop5=prop5Var;  		s.eVar3=s.prop5;  		s.prop15='137114418'; 		 		s.prop2=s.pageName; 		s.prop16=prop16Var;		 		s.events='event12'; 		s.tl(thisObj,'o',prop16Var); 	} </p>
+<p> Next in Automotive News </p>
+<p> Custom Packages </p>
+<p> Browse our custom packages or build your own to meet your unique communications needs. </p>
+<p> Start today. </p>
+<p> PR Newswire Membership </p>
+<p> Fill out a PR Newswire membership form </p>
+<p> or contact us at (888) 776-0942. </p>
+<p> Learn about PR Newswire services </p>
+<p> Request more information </p>
+<p> about PR Newswire products and services or call us at (888) 776-0942. </p>
+<p> var js="0.0"; </p>
+<p> js="1.0"; </p>
+<p> js="1.1"; </p>
+<p> js="1.2"; </p>
+<p> js="1.3"; </p>
+<p> js="1.4"; </p>
+<p> js="1.5"; </p>
+<p> js="1.6"; </p>
+<p> js="1.7"; </p>
+<p> js="1.8"; </p>
+<p> js="1.9"; </p>
+<p> <!--  var bb=new Image();var _ti=910;var _q="";var na=(navigator.appName=="Netscape");var ns=(navigator.appName.substring(0,9)=="Microsoft");var _qDate=new Date();var _r=(document.referrer.indexOf(getdomain(location))>-1?"":document.referrer);_q+="&5="+parseInt(_qDate.getTimezoneOffset());_q+="&35="+parseInt(_qDate.toString().indexOf("aylight")>-1?1:0);_q+="&6=137114418";_q+="&7=506122";_q+="&8="+encodeURIComponent(document.location);_q+="&9="+encodeURIComponent(_r);_q+="&10="+encodeURIComponent(document.title);_q+="&11="+encodeURIComponent(navigator.userAgent);_q+="&12="+encodeURIComponent((na?navigator.language:navigator.userLanguage));_q+="&13="+((navigator.javaEnabled()?'1':'0'));_q+="&14="+encodeURIComponent(js);if(document.cookie.indexOf("cc")==-1)document.cookie="cc=t;";_q+="&15="+((document.cookie.indexOf("cc")==-1)?"0":"1");_q+="&16="+encodeURIComponent((screen.width+'x'+screen.height));_q+="&17="+encodeURIComponent(((ns)?screen.colorDepth:screen.pixelDepth));_q+="&18="+encodeURIComponent(Math.random());_q+="&19="+_ti;bb.src="http://s.clickability.com/s?"+_q; function setonclicks(a,b){var i=0;var retval=true;while(document.links[i]!=a){i++;}if(b.li[i])retval=b.li[i].oldonclick();bye(a);return retval;} function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.links.length;lnks.li=new Array(sze);for (var i=0; i<sze; i++){if(document.links[i].onclick){lnks.li[i]=document.links[i];lnks.li[i].oldonclick=document.links[i].onclick;}eval("document.links[i].onclick=function(){return setonclicks(this,lnks);}");}}function bye(a){if(a.href.toLowerCase().indexOf('http')!=0)return true;if(getdomain(location)==getdomain(a))return true;if(a.href.toLowerCase().indexOf('http')!=0)return true;var _qc="http://s.clickability.com/s?19=912";_qc+="&6=137114418";_qc+="&7=506122";_qc+="&18="+encodeURIComponent(Math.random());_qc+="&100="+a.href;_qc+="&101="+encodeURIComponent(a.text);var cc=new Image();if(na){cc.src=_qc;pc(100);}else cc.src=_qc;return true;}function pc(a){d = new Date(); while (1){m =new Date(); df = m-d;if( df > a ) {break;}}}function getdomain(a){var i=a.host.indexOf(":");return (i>=0)?a.host.substring(0,i):a.host;}if(self['setupalready']){var dosetup = false;alert('There are two $imware.tracker calls on this page. Please alert Client Services');}else{var dosetup = true;var hasonload=false;}if(dosetup && ((window.screen)||((new Array()).toSource)||((new Array()).shift&&ns))&&(navigator.userAgent.indexOf('Mac')<0)){if(window.onload){oldonld=window.onload;hasonload=true;}window.onload=newonld;var setupalready = true;}//--> </p>
+<p> <!-- /* You may give each page an identifying name, server, and channel on the next lines. */ s.pageName="www.prnewswire.com_News Releases_Ford Collaborates with Microsoft, Healthrageous and BlueMetal Architects for In-Car Health and Wellness Research" s.server="" s.channel="PRN Browse News Releases" s.pageType="" s.prop26="01-11-2012" s.prop5="" s.prop6="PRN_News Releases" s.prop7="" s.prop9="EN" s.prop10="" s.prop11="" s.prop12="" s.prop13="" s.prop14="" s.prop15="137114418" s.prop16="" s.prop19="" 				s.prop35="AUT,PDT" s.prop36="Plain text" s.prop37="AUT,TRN,CPR,HEA,WIC,PDT,TDS" s.prop39="" s.prop40="" s.prop46="" s.prop2="Ford Collaborates with Microsoft, Healthrageous and BlueMetal Architects for In-Car Health and Wellness Research" s.prop50="http://www.prnewswire.com/news-releases/ford-collaborates-with-microsoft-healthrageous-and-bluemetal-architects-for-in-car-health-and-wellness-research-137114418.html" /* Conversion Variables */ s.campaign="" s.state="" s.zip="" s.events="event10" s.products="" s.purchaseID="" s.eVar3="" s.eVar5="" s.eVar6="" s.eVar7="" s.eVar10="137114418"  /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/ var s_code=s.t();if(s_code)document.write(s_code)//--> </p>
+<p> <!-- if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-') //--> </p>
+<p> /* Below 2 functions are used for accordion functionality. */ $(function() { 	$( "#accordion" ).accordion({ 		autoHeight: false 	}); }); $(function() { 	$( "#accordionResizer" ).resizable({ 		resize: function() { 			$( "#accordion" ).accordion( "resize" ); 		} 	}); });  /* Upto here */ </p>
+<p> My News </p>
+<p> var flashvars = {};     var params = {allowscriptaccess:"always",wmode:"transparent"};     var attributes = {};     attributes.id = "PRNWPlayerFCID";     //swfobject.switchOffAutoHideShow();     swfobject.embedSWF("http://content.prnewswire.com/designvideo/PRNWPlayer_updated.swf", "flashcontent", "192", "144", "9.0.0", "http://content.prnewswire.com/designvideo/expressInstall.swf", flashvars, params, attributes);     function sendToFlash(strCmd, strData) {          var objs = document.getElementById("PRNWPlayerFCID");          if (objs != null){              objs.player_ReceivFromJS(strCmd, strData);           }else{            //alert("objs not created");            }       }      function player_SendToJS(strCmd, strData){     var multivuPlayer = document.getElementById("multivuPlayer");         if (strCmd == "URLOpen"){ 			if(strData.indexOf("www.prnewswire.com") > -1) 			{ 				strData = strData.substring(0, strData.indexOf("/?")); 				strData = strData.replace("/news-releases/videos", "/news-releases"); 			} 	     window.open(strData);        	}else if (strCmd == "ShowTitle"){               var textDiv = document.getElementById("textcontent");               textDiv.appendChild(document.createTextNode(strData));               if(jQuery.trim(strData)==""){                multivuPlayer.style.display="none";               }             }     } </p>
+<p> Featured Video </p>
+<p> var trkcid=137114418;var partnerID=506122; var _hb=1; </p>
+<p> Print </p>
+<p> Email </p>
+<p> RSS </p>
+<p> Share it </p>
+<p> Google </p>
+<p> function shareIt(thisObj,shareItName){ 	var s=s_gi(s_account); 	var loc = location.href;  	if(loc.indexOf("prnewswire.com")>0){ 		s.linkTrackVars='prop5,eVar3,prop15,prop16,prop2,events'; 	} else{ 		s.linkTrackVars='eVar3,prop15,prop16,prop2,events'; 	} 	s.linkTrackEvents='event12';	 	s.prop5='share it release';  	s.eVar3=s.prop5;  	s.prop15='137114418';  	s.prop16=''+shareItName; 	if(loc.indexOf("prnewswire.com")>0){ 		s.eVar3=s.prop5; 		s.prop5+='_'+s.prop16;  	} else{ 		s.eVar3=s.prop16; 	} 	s.prop2=s.pageName;  	s.events='event12';	 	s.tl(thisObj,'o',''+shareItName); } // End of function shareIt </p>
+<p> Blog it </p>
+<p> WordPress Blog URL: </p>
+<p> function blogIt(thisObj, blogItName){ 		var s=s_gi(s_account); 		var loc = location.href; 		if(loc.indexOf("prnewswire.com")>0){ 			s.linkTrackVars='prop5,eVar3,prop15,prop16,prop2,events';  			s.prop5='blog it release';  		} else{ 			s.linkTrackVars='eVar3,prop15,prop16,prop2,events';  		} 		s.linkTrackEvents='event12';		 		s.prop16=''+blogItName; 		if(loc.indexOf("prnewswire.com")>0){ 			s.eVar3=s.prop5;  			s.prop5+='_'+s.prop16; 		} else{ 			s.eVar3=s.prop16; 		} 		s.prop2=s.pageName; 		s.events='event12'; 		s.tl(thisObj,'o',''+blogItName); 	} // End of name blogIt </p>
+<p> Blog Search </p>
+<p> function BlogSearch(blogSearchText){ 		var s=s_gi(s_account); 		var loc = location.href; 		if(loc.indexOf("prnewswire.com")>0){ 			s.linkTrackVars='prop5,eVar3,prop15,prop16,prop2,events'; 			s.prop5='blog search release'; 		} else{ 			s.linkTrackVars='eVar3,prop15,prop16,prop2,events'; 		} 		s.prop15='137114418'; 		s.prop16=''+blogSearchText; 		if(loc.indexOf("prnewswire.com")>0){ 			s.eVar3=s.prop5; 			s.prop5+='_'+s.prop16; 		} else{ 			s.eVar3=s.prop16; 		} 		s.prop2=s.pageName;	 		s.events='event12'; 	} // End of function BlogSearch </p>
+<p> function printAndEmail(prop5Var,prop16Var){ 	var s=s_gi(s_account); 	s.linkTrackVars='prop5,eVar3,prop15,prop49,prop16,events'; 	s.linkTrackEvents='event12'; 	s.prop5=prop5Var;  	s.eVar3=s.prop5;  	s.prop15='137114418'; 		 	s.prop2=s.pageName; 	s.prop16=prop16Var;		 	s.events='event12'; 	s.tl(this,'o',prop16Var); } </p>
+<p> More in These Categories </p>
+<p> Automotive </p>
+<p> Quantum Awarded Contract from Mahindra & Mahindra (India) for Hydrogen Vehicle Development </p>
+<p> Azure Dynamics entrega a Purolator su camión número 1.000 Balance(TM) Hybrid Electric </p>
+<p> Azure Dynamics Delivers Its 1000th Balance(TM) Hybrid Electric Truck To Purolator, Its Largest Customer </p>
+<p> New Products & Services </p>
+<p> Tarpon Hill Capital Debuts to Provide Growth Private Equity Investments to Next-Stage Companies </p>
+<p> Quantum Awarded Contract from Mahindra & Mahindra (India) for Hydrogen Vehicle Development </p>
+<p> HVAC Investigators' Nationwide Network Surpasses 500 Technicians for Insurance Carrier HVAC Assessments </p>
+<p> Most Read </p>
+<p> Sep 19, 2011, 14:09 ET </p>
+<p> COMEDY CENTRAL® Wins Five Primetime Emmy® Awards for "The Daily Show With Jon Stewart," "Futurama" and "thedailyshow.com" </p>
+<p> Jan 09, 2012, 16:37 ET </p>
+<p> Lenox Hill Hospital Clears the Record on Beyonce Birth </p>
+<p> Nov 04, 2011, 12:30 ET </p>
+<p> CalRecycle "Check Your Number" Campaign Challenges 3,000-Mile Oil Change Habit </p>
+<p> View all </p>
+<p> Most Emailed </p>
+<p> Jan 03, 2012, 06:10 ET </p>
+<p> Supreme Court Gets Kangaroo Small Claims Case: Full Disclosure Network® Video Report </p>
+<p> Jan 05, 2012, 09:00 ET </p>
+<p> Safeway Announces Sale of 16 Genuardi's Stores </p>
+<p> Jan 04, 2012, 20:17 ET </p>
+<p> Clos Du Val:  Forty, Fabulous and Forging Forward </p>
+<p> View all </p>
+<p> Journalists and Bloggers </p>
+<p> Visit </p>
+<p> PR Newswire for Journalists </p>
+<p> for releases, photos, ProfNet experts, and customized feeds just for Media. </p>
+<p> View and download archived video </p>
+<p> content distributed by MultiVu on </p>
+<p> The Digital Center </p>
+<p> . </p>
+<p> Free Investing Newsletter from Investor Uprising! </p>
+<p> Learn to navigate the world's financial system and profit from leading companies. </p>
+<p> Register for </p>
+<p> Investor Uprising </p>
+<p> , the people's investment site, for a free weekly newsletter, information, education and premium research including our latest IU Confidential Report - " </p>
+<p> All The Glitters: The Ultimate Gold Report </p>
+<p> ". </p>
+<p> Newstogram.init('e58aac080a2606121e77aba437a3165d'); 			Newstogram.pageView(); </p>
+<p> Site Preview </p>
+<p> Close Site Preview </p>
+<p> View FullScreen </p>
+<p> $('#togglePreview').toggle( 			   function () { 			var id = document.getElementById("frameContainer"); 			id.style.display="none"; 			var textId = document.getElementById("alterText"); 			textId.innerHTML="<img src='http://content.prnewswire.com/designimages/open_on.gif' border='0px'/>&nbsp;<b>Open Site Preview</b>"; 			$(this).removeClass("hideSite"); 			$(this).addClass("showSite"); 			   }, 			  function () { 			var id = document.getElementById("frameContainer"); 			id.style.display="block"; 			var textId = document.getElementById("alterText"); 			textId.innerHTML="<img src='http://content.prnewswire.com/designimages/close_on.gif' border='0px'/>&nbsp;<b>Close Site Preview</b>"; 			$(this).removeClass("showSite"); 			$(this).addClass("hideSite"); 			 } 		   ); </p>
+<p> body{ 		overflow-x:hidden; 		} </p>
+<p> Advanced Search </p>
+<p> Search </p>
+<p> Products & Services </p>
+<p> News Releases </p>
+<p> Close </p>
+<p> Send a release </p>
+<p> Member sign in </p>
+<p> Become a member </p>
+<p> For journalists </p>
+<p> For bloggers </p>
+<p> Global sites </p>
+<p> Products & Services </p>
+<p> Knowledge Center </p>
+<p> Browse News Releases </p>
+<p> Contact PR Newswire </p>
+<p> About PR Newswire </p>
+<p> Contact PR Newswire </p>
+<p> PR Newswire's Terms of Use Apply </p>
+<p> Careers </p>
+<p> Privacy </p>
+<p> Site Map </p>
+<p> RSS Feeds </p>
+<p> Blog </p>
+<p> Copyright © 2012 PR Newswire Association LLC. All Rights Reserved. </p>
+<p> A </p>
+<p> UBM plc </p>
+<p> company. </p>
+<p> Dynamic Site Platform </p>
+<p> powered by Limelight Networks. </p>
+<p> Become a member </p>
+<p> Become a partner </p>
+<p> Call us </p>
+<p> Request more information </p>
+<p> Send us feedback </p>
+<p> Online Member Center </p>
+<p> MEDIAtlas </p>
+<p> Media Monitoring </p>
+<p> ProfNet </p>
+<p> My News for Investors </p>
+<p> function displayOMC(){ 						var portalHTML="<div style='height:5px;width:100%'></div><iframe frameborder='0' scrolling='no' width='100%' height='139px' src='https://portal.prnewswire.com/login_g.aspx'></iframe><div class='horizontalline' style='margin-bottom:-7px'>&nbsp;</div>"; 						var portalCookie=readCookie('ObSSOCookie'); 						if(portalCookie==null || portalCookie==""){ 							document.getElementById("portalarea").innerHTML=portalHTML; 						} else{ 							document.location = "http://portal.prnewswire.com"; 						} 					} 					function displayColor(dispID){ 						var omcID = document.getElementById(dispID); 						omcID.style.color="#ffffff"; 						omcID.style.cursor="pointer"; 					} 					function displayColor1(dispID1){ 						var omcID1 = document.getElementById(dispID1); 						omcID1.style.color="#848484"; 					} </p>
+<p> Asia </p>
+<p> Brazil </p>
+<p> Canada </p>
+<p> Europe </p>
+<p> France </p>
+<p> India </p>
+<p> Israel </p>
+<p> Mexico </p>
+<p> Netherlands </p>
+<p> United Kingdom </p>
+<p> function getposOffset(overlay, offsettype){ 						var totaloffset=(offsettype=="left")? overlay.offsetLeft : overlay.offsetTop; 						var parentEl=overlay.offsetParent; 							while (parentEl!=null){ totaloffset=(offsettype=="left")? totaloffset+parentEl.offsetLeft : totaloffset+parentEl.offsetTop; parentEl=parentEl.offsetParent; } 					return totaloffset;} 									//Call dropdowncontent.init("anchorID", "positionString", glideduration, "revealBehavior") at the end of the page: 					//dropdowncontent.init("global1", "right-bottom", 10, "mouseover") 										dropdowncontent.init("global4", "left-bottom", 10, "mouseover") 															dropdowncontent.init("global5", "left-bottom", 10, "click") 					dropdowncontent.init("global6", "left-bottom", 10, "click") 					dropdowncontent.init("global7", "left-bottom", 10, "click") </p>
+<p> var sitePreviewWidth=screen.availWidth-17; 			var sitePreview1 = document.getElementById('sitePreview'); 			var leftOff= getposOffset(document.getElementById('sitePreview'),"left"); 			 			sitePreview1.style.width=sitePreviewWidth+'px'; 			sitePreview1.style.marginLeft=-leftOff+'px'; 			setTimeout(showIframe,5000); 			function showIframe(){ 			requestCrossDomain("http://www.ford.com", function(results) { 			if(results != 'false') 			{ 				var HTML = "<iframe id='previewFrame' frameborder='0' allowTransparency='true' src='http://www.ford.com'  style='width:96%;padding:2%;background:#EFEFEF;'></iframe>"; 				document.getElementById('frameContainer').innerHTML = HTML; 			} 			else 			{ 				$("div.previewlinks").css("display", "none"); 				$("div#sitePreview").css("display", "none"); 			} 			}); 			} </p>
+<p> var cookieTicker = readCookie('MyTickers'); /******* Added code for displying the tickers when searched from my news page starts ***********/			 		 			function showAll(){		 			document.getElementById('displayten').innerHTML = tickerString+ '&nbsp;|&nbsp;' + remainingTickerString+'<a href="javascript:showTen()"> Hide tickers </a>'; 			}  			function showTen(){		 			document.getElementById('displayten').innerHTML = tickerString+'<a href="javascript:showAll()"> View more tickers </a>'; 			}	 			 			function page(which){ 				location.href=tenTickerhref[which]; 			} 			function remPage(which){ 					location.href=remainingtickerHef[which]; 			} 		   			 /******* Added code for displying the tickers when searched from my news page ends ***********/ 									var stockStringArray="[com.clickability.cms.translator.UtilContext$userObject@1b7ef6a0]"; 			var stockArray = stockStringArray.split(","); 			if(cookieTicker && cookieTicker!=""){ 				if(document.getElementById('mynews')) 				document.getElementById('mynews').style.display='block'; 							} 						if(cookieTicker && cookieTicker!=""){ 			    var tickerArray = cookieTicker.split(","); 				if(tickerArray.length<=50){ 				var addedTickers =new Array();  				var invTickers=""; 				for(var i=0;i<tickerArray.length;i++){   				if(document.getElementById(tickerArray[i]+'_span') || document.getElementById(tickerArray[i]+'_chkbox')){   					var ticker = tickerArray[i]; 					var index= ticker.indexOf(":"); 					var length = ticker.length; 					var tickerdisp = ticker.substring((index+1),length);						 					addedTickers.push(tickerdisp);  					if(document.getElementById(tickerArray[i]+'_span')){ 						document.getElementById(tickerArray[i]+'_span').style.display ="none"; 					} 					if(document.getElementById(tickerArray[i]+'_chkbox')){ 						document.getElementById(tickerArray[i]+'_chkbox').disabled =true; 						document.getElementById(tickerArray[i]+'_chkbox').checked=true; 						document.getElementById(tickerArray[i]+'_id').innerHTML = document.getElementById('tickermsg').innerHTML + "<b>"+tickerdisp +"</b>"+ "&nbsp; in <a href='http://www.prnewswire.com/my-news'><b>My News</b></a>";                           invTickers++; 					} 					if(stockArray.length==invTickers){ 					  document.getElementById('investorimg').style.display='none'; 					 }     				} 				}						 				if(addedTickers.length>0){ 				   var tickerString=""; 				   for(var j=0;j<addedTickers.length;j++){ 					   if(j==0){ 							tickerString = addedTickers[j]+tickerString 					   }else{ 							tickerString = addedTickers[j]+' | '+tickerString; 					   } 				  } 					document.getElementById('tickermsg').innerHTML=document.getElementById('tickermsg').innerHTML + tickerString ; 					if(document.getElementById(tickerArray[i]+'_span')){ 						document.getElementById('tickermsg').style.display="block"; 					} 				} 				if(stockArray.length==addedTickers.length){ 					document.getElementById('tickerheader').style.display="none"; 				}                 }else {                        document.getElementById('tickerrow').innerHTML='You can add only upto 50 tickers';                 }                                                                                               		} </p>
+<p> function randomString(length) {   chars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890";   pass = "";   for(x=0;x<length;x++)   {     i = Math.floor(Math.random() * 62);     pass += chars.charAt(i);   }   return pass; }  document.getElementById("imgImpressionTracker").src = "http://rt.prnewswire.com/rit.gif?random="+randomString(10)+"&ids="+document.getElementById("hdnReleaseList").value; </p>

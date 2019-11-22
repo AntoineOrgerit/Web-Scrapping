@@ -1,0 +1,275 @@
+<p> Niezdrowe relacje lekarz - pacjent | Medycyna dobrych manier - strona 1 - Polityka.pl </p>
+<p> function getContextPath() { 		var contextPath = '${path}'; 		return contextPath; 	} </p>
+<p> $("#cookiesPopup").ready(function() { 			$("a#noCookiesPopupTrigger").fancybox({ 				'showCloseButton' : false, 				'hideOnOverlayClick' : false, 				'enableEscapeButton' : false, 				'hideOnContentClick': false, 				centerOnScroll: true, 				frameHeight:150 			}); 			jQuery.post("/cookies/check_cookies.html", {mode: "add"},  function() { 		  		jQuery.post("/cookies/check_cookies.html", {mode : "check"},  function(data) { 		  			if (data == 'FALSE') { 						$('#noCookiesPopupTrigger').click(); 		  			} 				}); 			}); 		}); </p>
+<p> function isPrintPage() { 			return false; 		} </p>
+<p> function isUserLoggedIn() { 			return false; 		} </p>
+<p> <!--//--><![CDATA[//><!-- var pp_gemius_identifier = new String('nArrQoh8QNMWR3K7Al5KG4aS71vp0I_4JmmaIH2X2Rz.x7'); //--><!]]> </p>
+<p> if(document.location.protocol=='http:'){  var Tynt=Tynt||[];Tynt.push('cpaocqouGr4iATadbi-bnq');Tynt.i={"ap":"Więcej pod adresem"};  (function(){var s=document.createElement('script');s.async="async";s.type="text/javascript";s.src='http://tcr.tynt.com/ti.js';var h=document.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);})(); } </p>
+<p> jQuery.cookie = function(name, value, options) {     if (typeof value != 'undefined') { // name and value given, set cookie         options = options || {};         if (value === null) {             value = '';             options.expires = -1;         }         var expires = '';         if (options.expires && (typeof options.expires == 'number' || options.expires.toUTCString)) {             var date;             if (typeof options.expires == 'number') {                 date = new Date();                 date.setTime(date.getTime() + (options.expires * 24 * 60 * 60 * 1000));             } else {                 date = options.expires;             }             expires = '; expires=' + date.toUTCString(); // use expires attribute, max-age is not supported by IE         }         // CAUTION: Needed to parenthesize options.path and options.domain         // in the following expressions, otherwise they evaluate to undefined         // in the packed version for some reason...         var path = options.path ? '; path=' + (options.path) : '';         var domain = options.domain ? '; domain=' + (options.domain) : '';         var secure = options.secure ? '; secure' : '';         document.cookie = [name, '=', encodeURIComponent(value), expires, path, domain, secure].join('');     } else { // only name given, get cookie         var cookieValue = null;         if (document.cookie && document.cookie != '') {             var cookies = document.cookie.split(';');             for (var i = 0; i < cookies.length; i++) {                 var cookie = jQuery.trim(cookies[i]);                 // Does this cookie string begin with the name we want?                 if (cookie.substring(0, name.length + 1) == (name + '=')) {                     cookieValue = decodeURIComponent(cookie.substring(name.length + 1));                     break;                 }             }         }         return cookieValue;     } };   $(document).ready(function() { var isiPad = navigator.userAgent.match(/iPad/i) != null;  if (isiPad && $.cookie("ipadad")!="yes1") {   $("#container").hide();  $("body").append( '<div id="ipadad"> <div style="width: 100%; height:100%; text-align: center; font-size:14px; font-family:Arial, Helvetica, sans-serif; background-image:url(http://www.polityka.pl/download/polityka/tlo.jpg)"><br /><br /><br /><br /><br /><img src="http://www.polityka.pl/download/polityka/polityka.png" width="240" /><br /><br /><p>Od 26 stycznia pełne wydania POLITYKI dostępne są w aplikacji na iPadzie.<br /><br />Aplikacja jest bezpłatna. <br />W aplikacji dostępny jest jeden darmowy numer.</p> <br /><br />  <br /><a href="http://itunes.apple.com/pl/app/polityka/id403482333?mt=8#">Pobierz aplikację</a> <br /><br /><a href="http://itunes.apple.com/pl/app/polityka/id403482333?mt=8#"><img src="http://www.polityka.pl/download/polityka/app_store.png" width="300" border="0" /></a><br /><br />lub <a id="gotopage" href="#">kliknij tu, by przejść do serwisu</a>  <br /><br /><br /><br /><br />  </div></div>');   var date = new Date();  date.setTime(date.getTime() + (6 * 60 * 60 * 1000));  $.cookie("ipadad", "yes1", { expires: date, path: '/' });   $("#gotopage").click(function() {    $("#ipadad").hide();    $("#container").show();  }); }}); </p>
+<p> Polityka.pl </p>
+<p> O Polityce </p>
+<p> Archiwum </p>
+<p> Sklep </p>
+<p> Forum </p>
+<p> var initialUsernameString = 'wpisz login lub e-mail'; 	var initialPasswordString = 'wpisz hasło'; 	 	function initDialog() { 		  $('.passwordField').hide(); 		  $('.fakePasswordField').show(); 		   		  $('.fakePasswordField').each(function() { 		    this.value = initialPasswordString; 		  }); 		   		  $('.usernameField').each(function() { 		    		    this.value = initialUsernameString; 		    		  }); 		   		  $('.usernameField').blur(function(node) { 		  	var trimmed = jQuery.trim(this.value); 		  	if (trimmed == '') { 		    	this.value = initialUsernameString; 		    } 		  }); 		   		  $('.usernameField').focus(function(node) { 		  	if (this.value == initialUsernameString) { 		    	this.value = ''; 		    } 		  }); 		   		  $('.fakePasswordField').focus(function(node) { 		  	$('.fakePasswordField').hide(); 		  	$('.passwordField').show(); 		  	$('.passwordField:visible').each(function() {this.focus()}); 		  }); 		   		  $('.passwordField').blur(function(node) { 		  	var trimmed = jQuery.trim(this.value); 		  	if (trimmed == '') { 		  		$('.passwordField').hide(); 		  		$('.fakePasswordField').show(); 		    	$('.fakePasswordField:visible').each(function() {this.value = initialPasswordString}); 		    } 		  }); 		   	} 	 	function closeDialog() { 		$('.login-error').hide(); 	}  	$('.login-module-div').ready(function() { 	 	$("a#popupTrigger").fancybox({ 		'hideOnContentClick': false, 		overlayShow: true, 		centerOnScroll: true, 		frameHeight:150, 		callbackOnShow: initDialog, 		callbackOnClose: closeDialog 		 	});  	 	 	 	   	 	  	}); </p>
+<p> zarejestruj się </p>
+<p> | </p>
+<p> zaloguj </p>
+<p> zaloguj </p>
+<p> Logowanie </p>
+<p> zarejestruj się » </p>
+<p> zapomniałem hasła » </p>
+<p> if (isPrintPage()) { 			var trackingImg = document.createElement('img'); 			trackingImg.src = 'http://go.arbopl.bbelements.com/please/showit/1611/1/1/33/?typkodu=img&_idplan=137315'; 			trackingImg.border = '0'; 			trackingImg.alt = ''; 			 			var trackingImg2 = document.createElement('img'); 			trackingImg2.src = 'http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=tf&c=19&mc=imp&pli=3100973&PluID=0&ord=20110913&rtu=-1'; 			trackingImg2.border = '0'; 			trackingImg2.alt = '';  			var printAdNode = document.getElementById('printAd'); 			 			printAdNode.insertBefore(trackingImg, printAdNode.firstChild); 			printAdNode.insertBefore(trackingImg2, printAdNode.firstChild); 			 			printAdNode.style.display = 'block'; 			 		} </p>
+<p> Kraj </p>
+<p> Świat </p>
+<p> Społeczeństwo </p>
+<p> Rynek </p>
+<p> Kultura </p>
+<p> Nauka </p>
+<p> Historia </p>
+<p> Blogi </p>
+<p> Galerie </p>
+<p> Paszporty Polityki </p>
+<p> Odkryj Szwajcarię </p>
+<p> Obserwatorium Polityki </p>
+<p> Ekologia </p>
+<p> Komputery i internet </p>
+<p> Technika </p>
+<p> Zdrowie </p>
+<p> Człowiek </p>
+<p> Wszechświat </p>
+<p> Natura </p>
+<p> Paweł Walewski </p>
+<p> 5 stycznia 2012 </p>
+<p> 1 </p>
+<p> 2 </p>
+<p> 3 </p>
+<p> Niezdrowe relacje lekarz - pacjent </p>
+<p> Medycyna dobrych manier </p>
+<p> Ponad połowa osób przewlekle chorych deklaruje, że nie przestrzega zaleceń lekarskich! Nie ufają medycynie czy raczej obcesowym lekarzom? </p>
+<p> Powiększ </p>
+<p> Źródeł nieposłuszeństwa chorych należy szukać w gabinetach lekarskich, w których lekarze nie potrafili porozumieć sie z pacjentami. </p>
+<p> Czytaj także </p>
+<p> Optymiści zdrowieją szybciej </p>
+<p> Aby leczyć, trzeba się tego nauczyć. A kto wie, jak chorować? Współczesna nauka daje pewną... </p>
+<p> Dla Anny Jarosz, dziennikarki i szefowej działu medycznego magazynu „Zdrowie”, rozmowy z lekarzami to codzienność. Gdy jednak podczas przypadkowego badania dowiedziała się, że sama zakażona jest wirusem zapalenia wątroby typu C i czeka ją ciężka kuracja, poczuła się kompletnie bezradna. – </p>
+<p> Lekarz wręczył mi kartkę z rozpoznaniem HCV i wyszedł bez słowa wyjaśnienia. Wiedziałam, co oznacza ten skrót, ale zostałam sama z myślami, co dalej </p>
+<p> – opowiada Anna. W tej sytuacji dziennikarsko-medyczne doświadczenie nie zmniejsza lęku ani nie likwiduje zagubienia, z którym każdy pacjent musi sobie poradzić. – </p>
+<p> Nie oczekiwałam, by rozkładano przede mną czerwone dywany. Ale pacjenci łakną rzeczowych informacji, tymczasem niewielu lekarzy potrafi i chce z nimi szczerze rozmawiać </p>
+<p> . </p>
+<p> Najbardziej dotkliwy okazał się brak rzetelnych informacji na temat skutków ubocznych, mogących wystąpić podczas kuracji silnymi lekami, zwłaszcza interferonem. – </p>
+<p> Usłyszałam od lekarki tylko tyle, że czeka mnie ciężki rok. Wręczyła mi kartkę z listą możliwych działań niepożądanych, na które muszę być przygotowana: nudności, podwyższona temperatura, złe samopoczucie, wypadanie włosów. </p>
+<p> Wszystko podane z wersji </p>
+<p> light </p>
+<p> , tymczasem życie okazało się </p>
+<p> hard </p>
+<p> : zamiast nudności – silne wymioty, łagodne sformułowanie o podwyższeniu temperatury należało zinterpretować jako gorączkę powyżej 40 stopni z dreszczami, głowę oszpeciły łyse placki. – </p>
+<p> Wpadłam w panikę, gdy pewnej nocy dostałam krwawej biegunki, bo nikt mnie nie uprzedził, że to też skutek działania interferonu. Nikt nie doradził, jak pielęgnować wysuszoną jak pergamin skórę. Nikt nie mówił o depresji, ograniczając się do zdawkowych pytań: Jak się pani czuje? </p>
+<p> Nie śpię – odpowiadałam podczas wizyt kontrolnych. I co wtedy? Siadam do komputera. Aha – przytakiwał lekarz i chował wzrok w dokumentach. – </p>
+<p> Miałam wrażenie, że jest zawstydzony kontaktem z poważnie chorym człowiekiem. Kilka ogólnych pytań i dalej, następny czeka w kolejce. </p>
+<p> Choroba - ciąg upokorzeń </p>
+<p> Doświadczenie choroby, którą trzeba zaakceptować, uczy innego spojrzenia na świat, ale dla pacjentów to także ciąg upokorzeń, bo kontakty ze zbiurokratyzowaną i odhumanizowaną służbą zdrowia muszą być odtąd regularne. Konieczność rejestrowania się na badania, przesuwanie terminów wizyt, oczekiwanie tygodniami na spotkanie z lekarzem. Podpisujesz kwitki, otrzymujesz leki na kolejny miesiąc i co noc zasypiasz z niepewnością, jak będziesz się po nich czuć. W tym męczącym rytmie wyczekiwania żyją miliony przewlekle chorych: z rakiem, chorobami reumatycznymi, cukrzycą, astmą, nadciśnieniem. </p>
+<p> Mariola Kosowicz, kierownik Zakładu Psychoonkologii w warszawskim Centrum Onkologii: – </p>
+<p> Aby pacjenci byli gotowi podjąć trudy leczenia, nie wystarczy wystarać się o najlepszą kurację. Trzeba ich jeszcze do niej przekonać, by wytrwali. </p>
+<p> Wielu nie wytrzymuje, tak dzielnie jak Anna, narzuconego reżimu: dwa razy dziennie tabletki do łykania, co siedem dni zastrzyk w udo – i tak przez 48 tygodni. Bez gwarancji, że wirus uda się usunąć z organizmu. Dni, kiedy nie musiała się kłuć, były jeszcze gorsze, bo dopiero wtedy podany lek objawiał pełnię swojego działania – nieludzkim zmęczeniem, wstrętem do jedzenia, drżeniem rąk i torsjami. </p>
+<p> Lekarzom, którzy mają pretensję do chorych o brak cierpliwości i lekceważenie zaleceń, rzadko przychodzi do głowy, że źródeł nieposłuszeństwa tak naprawdę należy szukać w ich własnym gabinecie, w którym nie potrafili porozumieć się z pacjentem. – </p>
+<p> Gdybym wiedziała, co mnie czeka, lepiej przygotowałabym się na najgorsze </p>
+<p> – tłumaczy Anna, która mieszka sama. – </p>
+<p> Kładąc się do łóżka, postawiłabym przy nim miskę, pamiętałabym o mokrym ręczniku. </p>
+<p> czytaj dalej » </p>
+<p> drukuj </p>
+<p> poleć stronę </p>
+<p> facebook </p>
+<p> wykop </p>
+<p> dyskusja </p>
+<p> (6) </p>
+<p> 1 </p>
+<p> 2 </p>
+<p> 3 </p>
+<p> Poleć stronę </p>
+<p> Od: podaj swój e-mail </p>
+<p> Do: podaj e-mail adresata </p>
+<p> Możesz dopisać wiadomość: </p>
+<p> $(function() {         $("#recommend-article-popup").dialog({             autoOpen: false,             modal: true,             width: 335,             close: function() {                 $("#recommend-article-form")[0].reset();             }         });     });      function showRecommendationDialog() {         $("#recommend-article-popup").dialog('open');         $("#recommend-loading").hide();         $("#recommend-submit").show();     }      function sendRecommendation() {         $("#recommend-submit").hide();         $("#recommend-loading").show();         jQuery.post("/articles/ajax_recommend.html", {             articleId: $("#recommend-article-id").val(),             fromEmail: $("#recommend-from-email").val(),             toEmail: $("#recommend-to-email").val(),             additionalMessage: $("#recommend-message").val()         }, function(data) {             $("#recommend-loading").hide();             closeRecommendationDialog();         });     }      function closeRecommendationDialog() {         $("#recommend-article-form")[0].reset();         $("#recommend-article-popup").dialog('close');     } </p>
+<p> function mediumFont() {             	$("#article").removeClass( 'large_font' ); 				$("#article").removeClass( 'small_font' );	             } 			     		function largeFont() {             	$("#article").addClass( 'large_font' ); 				$("#article").removeClass( 'small_font' );				             }     		function smallFont() {             	$("#article").removeClass( 'large_font' ); 				$("#article").addClass( 'small_font' );	             } </p>
+<p> $(function() {         	$('a.art-attached-image').lightBox({                 txtImage: 'Obrazek',                 txtOf: 'z',                 imageLoading: 'http://www.polityka.pl/_resource/fs/img/lightbox-ico-loading.gif',                 imageBtnPrev: 'http://www.polityka.pl/_resource/fs/img/lightbox-btn-prev.gif',                 imageBtnNext: 'http://www.polityka.pl/_resource/fs/img/lightbox-btn-next.gif',                 imageBtnClose: 'http://www.polityka.pl/_resource/fs/img/lightbox-btn-close.gif',                 imageBlank: 'http://www.polityka.pl/_resource/fs/img/lightbox-blank.gif'         	});         }); 			$("a#popupTrigger").fancybox({ 		 	});       	   $(function() {	        			$("a.art-attached-video").fancybox({     				//'titlePosition'		: 'inside',     				//'transitionIn'		: 'none',     				//'transitionOut'		: 'none',     				'hideOnContentClick': false,     				'centerOnScroll': true, 					//'autoDimensions' 	: true 					'frameWidth'			: 590+2, 					'frameHeight' 			: 477+3     			});     			/*     			$("a.art-attached-video span.video_preview_container").mouseenter(function() {     				$("a.art-attached-video span.video_preview_button").show();     			});     			     			$("a.art-attached-video span.video_preview_container").mouseleave(function() {     				$("a.art-attached-video span.video_preview_button").hide();     			});     			*/     		}); </p>
+<p> function displayTab(number) {     var contentPrefix = "#mostPopular1326575397236" + " ul.most_read";     var prefixUl = "#mostPopular1326575397236" + " ul li";     var eq = ":eq(" + number + ")";     jQuery(prefixUl + eq).addClass("current");     jQuery(prefixUl).not(prefixUl + eq).removeClass("current");     jQuery(contentPrefix + eq).show();     jQuery(contentPrefix).not(contentPrefix + eq).hide();     return false;   } </p>
+<p> Najczęściej czytane </p>
+<p> Komentowane </p>
+<p> Polecane </p>
+<p> Czy nadchodzi kres motoryzacji? </p>
+<p> Edwin Bendyk </p>
+<p> Amerykański politolog przewiduje przyszłość </p>
+<p> Edwin Bendyk </p>
+<p> Jeśli na Księżycu jest woda - to jesteśmy w domu. </p>
+<p> Michał Różyczka </p>
+<p> Nałogi to rodzaj choroby - jak to leczyć? </p>
+<p> Wojciech Mikołuszko </p>
+<p> Niezdrowe relacje lekarz - pacjent </p>
+<p> Paweł Walewski </p>
+<p> Fałszywi prorocy GMO: cz. 2. Gilles-Eric Seralini </p>
+<p> Marcin Rotkiewicz </p>
+<p> Fałszywi prorocy GMO: cz.1. Arpad Pusztai </p>
+<p> Marcin Rotkiewicz </p>
+<p> Fałszywi prorocy GMO: cz. 4. Percy Schmeiser </p>
+<p> Marcin Rotkiewicz </p>
+<p> Kto nie lubi GMO? </p>
+<p> Marcin Rotkiewicz </p>
+<p> Fałszywi prorocy GMO: cz 5. Irina Władimirowna Jermakowa </p>
+<p> Marcin Rotkiewicz </p>
+<p> Czy nadchodzi kres motoryzacji? </p>
+<p> Edwin Bendyk </p>
+<p> Niezdrowe relacje lekarz - pacjent </p>
+<p> Paweł Walewski </p>
+<p> Kto nie lubi GMO? </p>
+<p> Marcin Rotkiewicz </p>
+<p> Czy społeczeństwo to fikcja? </p>
+<p> Edwin Bendyk </p>
+<p> Jeśli na Księżycu jest woda - to jesteśmy w domu. </p>
+<p> Michał Różyczka </p>
+<p> Nowe spojrzenie </p>
+<p> na społeczeństwo </p>
+<p> FOTO TYGODNIA </p>
+<p> Co to jest... </p>
+<p> blogi </p>
+<p> Blog szalonych naukowców </p>
+<p> Pachnący Doppler » </p>
+<p> Już kiedyś na tym blogu pisałem o swoim ograniczonym postrzeganiu muzyki. To były komentarze pod wpisem Piotra Panka „Muzyczny daltonizm Darwina i Freuda„. Niedawno przyszło mi do głowy jeszcze jedno skojarzenie typu poznawczego. </p>
+<p> 3-01-2012 10:41 </p>
+<p> komentarzy 13 </p>
+<p> Edwin Bendyk </p>
+<p> Przyszłość kultury, przyszłość polityki kulturalnej – zaproszenie na seminarium » </p>
+<p> Serdecznie zapraszam na kolejne, ostatnie już w tym semestrze seminarium z cyklu „Kultura i rozwój”. Tym razem poświęcone będzie „polityce kulturalnej opartej na wiedzy”, czyli o tym w jaki sposób zarządzać sferą życia przechodzącą gwałtowne zmiany (m.in. na skutek cyfryzacji)? </p>
+<p> 10-01-2012 07:44 </p>
+<p> komentarzy 0 </p>
+<p> Marek Penszko </p>
+<p> Duży ptaszek » </p>
+<p> Ile najwięcej wielokątów można wyciąć z płaszczyzny – lub lepiej, by były granice, z koła – prostymi (cięciwami)? Niezbyt trudno ustalić, że n^2/2 – 3n/2 + 1. </p>
+<p> 11-01-2012 00:15 </p>
+<p> komentarzy 6 </p>
+<p> jQuery(function() {         jQuery("div#manualGalleryList1326575739543 ul li:first").addClass("first");         jQuery("div#manualGalleryList1326575739543 ul li:last").addClass("last");         displayGalleryTab(0);     });      function displayGalleryTab(number) {         var prefixA = "#manualGalleryList1326575739543" + " a.manual_gallery_list_lead";         var prefixUl = "#manualGalleryList1326575739543" + " ul li";         var eq = ":eq(" + number + ")";         jQuery(prefixUl + eq).addClass("current");         jQuery(prefixUl).not(prefixUl + eq).removeClass("current");         jQuery(prefixA + eq).show();         jQuery(prefixA).not(prefixA + eq).hide();         return false;     } </p>
+<p> Zdjęcia </p>
+<p> Wymarłe </p>
+<p> Wizualizacje </p>
+<p> Chaiten </p>
+<p> Nauka 2011 </p>
+<p> Poczet wymarłych </p>
+<p> Zobaczyć niedostrzegalne </p>
+<p> Zasypane miasto </p>
+<p> inne galerie » </p>
+<p> var contextPath = ''; 	 	function doAjax(type, url, params, onSuccess, onError412, onError420) { 	    	jQuery.ajax({ 	    		type: type, 	    		url: contextPath + url, 	    		data: params, 	    		success: function(data){ 	    			onSuccess(data); 	    		}, 	    		error: function (request, textStatus, errorThrown) { 	    			if (request.status == 412) { 	    				onError412(request); 	    			} else if (request.status == 420 && typeof onError420 == "function") { 	    				onError420(request); 	    			} else { 	    				alert("Unexpected " + textStatus + " " + request.status + ": " + request.statusText); 	    			} 	    		} 	    	}); 	} 	 	$('#newsletter-module3017587549117361914').ready(function() { 					var initialEmailString = 'wpisz swój e-mail'; 			 			$('.newsletterEmail').each(function() { 		    	this.value = initialEmailString; 		  	}); 		  	 			$('.newsletterEmail').blur(function(node) { 			  	var trimmed = jQuery.trim(this.value); 			  	if (trimmed == '') { 			    	this.value = initialEmailString; 			    } 			}); 			 			$('.newsletterEmail').focus(function(node) { 			  	if (this.value == initialEmailString) { 			    	this.value = ''; 			    } 		  	}); 					  	 			}); 	 	 	function subscribeForNewsletter() { 					var email = $('#newsletterEmailField3017587549117361914')[0].value; 			if (!validateEmail(email)) { 				alert('Nieprawidłowy adres email.'); 				return false; 			} 			 		var newsletterId = 1; 		var newState = true; 		 			    	var params = {newsletterId: newsletterId, newState: newState, email: email};	 	    	                 var loadingNode = $('#changeSubscriptionStateLoading3017587549117361914');         loadingNode.show();                          doAjax(     			"POST",      			'/portal_modules/ajax_newsletter_change_subscription_state.html',      			params,      			function(data) {     				loadingNode.hide();     				onChangeSubscriptionState(data);     			},      			function(request) {     				loadingNode.hide();     				alert('Wystąpił błąd podczas zmiany ustawień dotyczących newsletterów.');     			}     	); 	} 	 	function onChangeSubscriptionState(data) { 	    if (data == 'OK') { 	    	beforeShowBottomMessage(); 	    	hideSubscribeButton(); 		    var subscribeNode = getSubscribeNode(); 		    		    	subscribeNode.innerHTML = 'Na podany adres wysłaliśmy wiadomość potwierdzającą. By dokończyć proces sprawdź swoją skrzynkę pocztową i kliknij zawarty w niej link.'; 		    	    } else if (data == 'ALREADY_SENT') {  	    	beforeShowBottomMessage(); 	    	hideSubscribeButton(); 	    	var subscribeNode = getSubscribeNode(); 	    	subscribeNode.innerHTML = 'Na ten adres wysłaliśmy emaila z prośbą o potwierdzenie subskrybcji newslettera. Jeżeli nie otrzymałeś emaila, proszę skontaktuj się z nami pod adresem polityka@polityka.com.pl'; 	    } else if (data == 'ALREADY_SUBSCRIBED') { 	    	beforeShowBottomMessage();  	    	var subscribeNode = getSubscribeNode(); 	    	subscribeNode.innerHTML = 'Ten adres email jest już dopisany do listy wysyłkowej newslettera.'; 	    } else if (data == 'EMAIL_ERROR') { 	    	alert("Wystąpił błąd podczas wysyłania maila - czy adres email jest prawidłowy?"); 	    } else { 		    alert("Wystąpił błąd: " + data); 	    }     }          function beforeShowBottomMessage() {     	var bottomList = $('#bottomList3017587549117361914');     	var bottomMessage = $('#bottomMessage3017587549117361914');     	var descriptionContainer = $('#newsletterDescriptionContainer3017587549117361914');     	bottomList.hide();     	descriptionContainer.hide();     	bottomMessage.show();     }          function hideSubscribeButton() {     	var subscribeButton = $('#subscribeButton3017587549117361914');     	subscribeButton.hide();     }          function getSubscribeNode() {     	return $('#bottomMessage3017587549117361914')[0];     }          function validateEmail(email) { 	   var reg = /^([A-Za-z0-9_\-\.])+\@([A-Za-z0-9_\-\.])+\.([A-Za-z]{2,4})$/; 	   var address = email; 	   return reg.test(address); 	} </p>
+<p> Zamów newsletter, by otrzymywać najciekawsze artykuły na swój adres e-mail </p>
+<p> zobacz przykład </p>
+<p> polityka prywatności </p>
+<p> Kraj » </p>
+<p> Podpalił się pod kancelarią. Mówił prawdę » </p>
+<p> Premier po sprawie prok. Przybyła » </p>
+<p> Armia kupuje śmigłowce. Który wybierze? » </p>
+<p> Świat » </p>
+<p> Tajwan – wschodni tygrys w rozkroku » </p>
+<p> Co się dzieje za kulisami Komunistycznej Partii Chin » </p>
+<p> Londyn - portret gospodarza igrzysk » </p>
+<p> Społeczeństwo » </p>
+<p> Ian Fleming - Bond doskonały » </p>
+<p> Czy Franciszek Smuda poprowadzi Polaków do zwycięstwa? » </p>
+<p> Damski fetysz - buty » </p>
+<p> Rynek » </p>
+<p> Polska zawalczy o unijny budżet » </p>
+<p> Jewgienij Kasperski - hakerzy mu nie straszni » </p>
+<p> Apokalipsa może być opłacalna » </p>
+<p> Kultura » </p>
+<p> Książkowa „Zima z kryminałem” 2012 » </p>
+<p> Dziewczyna, która narysowała stan wojenny » </p>
+<p> Co przyciągnie nas przed ekrany? » </p>
+<p> Nauka » </p>
+<p> Kilka pomysłów na zniszczenie świata » </p>
+<p> Czy społeczeństwo to fikcja? » </p>
+<p> Amerykański politolog przewiduje przyszłość » </p>
+<p> W numerze </p>
+<p> Polityka do słuchania » </p>
+<p> E-wydanie » </p>
+<p> Prenumerata » </p>
+<p> Archiwum » </p>
+<p> var firstVisibleId = 1;   jQuery(function() {     jQuery("a[id^=authors1326575575563]").click(function() {       if(this.id.charAt(this.id.length - 1) == 'a') {         if(firstVisibleId > 2) {           jQuery("#authors1326575575563 > a").show();         } else {           jQuery("#authors1326575575563 > a:eq(0)").hide();         }                  jQuery("li[id$=s" + (firstVisibleId - 1) + "]").show();         jQuery("li[id$=s" + (firstVisibleId + 11 - 1) + "]").hide();                  --firstVisibleId;       } else {         if(59 > 1) {           jQuery("#authors1326575575563 > a:eq(0)").show();         }         if(59 > firstVisibleId + 11) {           jQuery("#authors1326575575563 > a:eq(1)").show();         } else {           jQuery("#authors1326575575563 > a:eq(1)").hide();         }                  jQuery("li[id$=s" + firstVisibleId + "]").hide();         jQuery("li[id$=s" + (firstVisibleId + 11) + "]").show();                  ++firstVisibleId;       }              return false;     });   }); </p>
+<p> Autorzy POLITYKI </p>
+<p> « </p>
+<p> Janina Paradowska </p>
+<p> Jacek Żakowski </p>
+<p> Mariusz Janicki </p>
+<p> Wiesław Władyka </p>
+<p> Daniel Passent </p>
+<p> Marek Ostrowski </p>
+<p> Adam Szostkiewicz </p>
+<p> Joanna Solska </p>
+<p> Zdzisław Pietrasik </p>
+<p> Edwin Bendyk </p>
+<p> Jerzy Baczyński </p>
+<p> Martyna Bunda </p>
+<p> Krzysztof Burnetko </p>
+<p> Joanna Cieśla </p>
+<p> Jan Dziadul </p>
+<p> Roman Frister </p>
+<p> Andrzej Garlicki </p>
+<p> Edyta Gietka </p>
+<p> Adam Grzeszak </p>
+<p> Marek Henzler </p>
+<p> Cezary Kowanda </p>
+<p> Marcin Kołodziejczyk </p>
+<p> Agnieszka Krzemińska </p>
+<p> Adam Krzemiński </p>
+<p> Aneta Kyzioł </p>
+<p> Krystyna Lubelska </p>
+<p> Cezary Łazarewicz </p>
+<p> Wojciech Markiewicz </p>
+<p> Bianka Mikołajewska </p>
+<p> Sławomir Mizerski </p>
+<p> Krzysztof Mroziewicz </p>
+<p> Tadeusz Olszański </p>
+<p> Mirosław Pęczak </p>
+<p> Joanna Podgórska </p>
+<p> Piotr Pytlakowski </p>
+<p> Marcin Rotkiewicz </p>
+<p> Piotr Sarzyński </p>
+<p> Wawrzyniec Smoczyński </p>
+<p> Justyna Sobolewska </p>
+<p> Ryszarda Socha </p>
+<p> Piotr Stasiak </p>
+<p> Dorota Szwarcman </p>
+<p> Urszula Szyperska </p>
+<p> Paweł Tarnowski </p>
+<p> Paweł Walewski </p>
+<p> Jagienka Wilczak </p>
+<p> Ewa Wilk </p>
+<p> Jędrzej Winiecki </p>
+<p> Ewa Winnicka </p>
+<p> Paweł Wrabec </p>
+<p> Janusz Wróblewski </p>
+<p> Agnieszka Zagner </p>
+<p> Piotr Adamczewski </p>
+<p> Grzegorz Rzeczkowski </p>
+<p> Anna Dąbrowska </p>
+<p> Juliusz Ćwieluch </p>
+<p> Przemek Berg </p>
+<p> Bartek Chaciński </p>
+<p> Magda Papuzińska </p>
+<p> » </p>
+<p> O Polityce </p>
+<p> Redakcja </p>
+<p> Leśniczówka Nibork - Dom Pracy Twórczej </p>
+<p> Napisz do nas </p>
+<p> Biuro reklamy </p>
+<p> Regulaminy </p>
+<p> Tygodnik FORUM </p>
+<p> Technopolis - o grach z kulturą </p>
+<p> Wykonanie </p>
+<p> Javatech </p>
+<p> | Prawa autorskie © S.P. Polityka </p>
+<p> /* <![CDATA[ */  var bbkeywords=''; //fill in: 'key1;key2;..' bmone2n.addPosition('4057.5.2.30',''); bmone2n.addPosition('4057.5.1.33',''); bmone2n.addPosition('4057.5.6.36',''); bmone2n.getAd('go.arbopl.bbelements.com',bbkeywords,''+(typeof(bburlparam)=='string'?'&'+bburlparam:'')); /* ]]> */ </p>
+<p> /* <![CDATA[ */ bmone2n.makeAd('4057.5.2.30'); /* ]]> */ </p>
+<p> /* <![CDATA[ */ bmone2n.makeAd('4057.5.1.33'); /* ]]> */ </p>
+<p> /* <![CDATA[ */ bmone2n.makeAd('4057.5.6.36'); /* ]]> */ </p>
+<p> /* <![CDATA[ */ bmone2n.moveAd(); /* ]]> */ </p>
+<p> var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); </p>
+<p> try { var pageTracker = _gat._getTracker("UA-11208742-1"); pageTracker._trackPageview(); } catch(err) {} </p>
+<p> Ta strona do poprawnego działania wymaga włączenia mechanizmu "ciasteczek" w przeglądarce. </p>
+<p> Powrót na stronę główną </p>

@@ -46,7 +46,7 @@ def beautifulSoupScraping(content):
     return out
 
 # Parent folder and list of files
-folder = "D:/DocumentsHDD/M2/WebScraping/Corpus_detourage/"
+folder = "../../../resources/"
 files = [f for f in glob.glob(folder + "html/*")]
 
 index = 1

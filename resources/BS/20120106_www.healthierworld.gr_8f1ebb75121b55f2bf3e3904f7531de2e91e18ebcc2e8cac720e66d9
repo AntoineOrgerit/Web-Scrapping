@@ -1,0 +1,230 @@
+<p> Healthier World - Τίτλος αντιστρεπτόλυσινης (αστο – asto – aso) και στρεπτόκοκκος ομάδας α </p>
+<p> <!--//<![CDATA[    var m3_u = (location.protocol=='https:'?'https://openx.healthierworld.gr/www/delivery/ajs.php':'http://openx.healthierworld.gr/www/delivery/ajs.php');    var m3_r = Math.floor(Math.random()*99999999999);    if (!document.MAX_used) document.MAX_used = ',';    document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);    document.write ("?zoneid=1");    document.write ('&amp;cb=' + m3_r);    if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);    document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));    document.write ("&amp;loc=" + escape(window.location));    document.write ("&source=");    if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));    if (document.context) document.write ("&context=" + escape(document.context));    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");    document.write ("'><\/scr"+"ipt>"); //]]>--> </p>
+<p> Χρήσιμα Links </p>
+<p> | </p>
+<p> Επικοινωνία </p>
+<p> | </p>
+<p> RSS Feeds </p>
+<p> | </p>
+<p> Newsletter </p>
+<p> $(document).ready(function(){	 	$("#quicklinks").change(function() { 		if (this.value)	document.location = this.value; 	}); }); </p>
+<p> Quick links </p>
+<p> Εγκυμοσύνη </p>
+<p> Κεντρικό θέμα </p>
+<p> Ανδρας </p>
+<p> Γυναίκα </p>
+<p> Παιδί </p>
+<p> Ο Γιατρός συμβουλεύει </p>
+<p> Σας ενδιαφέρει </p>
+<p> Υπόθεμα </p>
+<p> Σύνθετη </p>
+<p> Αναζήτηση </p>
+<p> @import url("http://www.healthierworld.gr/resources/styles/accordion2level.css"); </p>
+<p> function initMenu(cvalue) { 	var i = 1; 	$('#Menu2 ul').each(function() { 		$(this).attr("id", 'smenu'+i); 		i = i+1; 	}); 	 	function initClasses(){ 		$('#Menu2 li a').each(function() { 			var checkElement2 = $(this).next(); 			if (checkElement2.is('ul')) { 				$(this).removeClass('collapse'); 				$(this).addClass('expand'); 			} 			if (checkElement2.is(':visible')) { 				 								 			} 		}); 	} 	 	$('#Menu2 ul').hide(); 	$("#Menu2 ul[id="+cvalue+"]").show(); 	initClasses();	 	$('#Menu2 li a').click(function() { 		initClasses();		 		var checkElement = $(this).next(); 		if((checkElement.is('ul')) && (checkElement.is(':visible'))) { 			checkElement.slideUp('slow'); 			 						 			return false; 		} 		if((checkElement.is('ul')) && (!checkElement.is(':visible'))) { 			$(this).addClass('collapse'); 			$('#Menu2 ul:visible').slideUp('slow'); 			checkElement.slideDown('slow'); 			 						 			return false; 		} 	}); }  $(document).ready(function() { 	 		initMenu(); 	 	$('#Menu2').show(); }); </p>
+<p> Υγεία </p>
+<p> Διάγνωση (check up) </p>
+<p> Αιματολογία </p>
+<p> Ακτινολογία </p>
+<p> Αλλεργίες </p>
+<p> Αναπνευστικό </p>
+<p> Ανατομία - Βιολογία </p>
+<p> Αυτοάνοσοι νόσοι </p>
+<p> Γαστρεντερολογία </p>
+<p> Γενική ιατρική </p>
+<p> Γενικού περιεχομένου </p>
+<p> Γυναικολογία </p>
+<p> Δερματολογία </p>
+<p> Εναλλακτική ιατρική </p>
+<p> Ενδοκρινολογία </p>
+<p> Καρδιολογία </p>
+<p> Λοιμώδη νόσοι </p>
+<p> Νευρολογία </p>
+<p> Νεφρολογία </p>
+<p> Νόσοι ακαθόριστης αιτιολογίας </p>
+<p> Ογκολογία </p>
+<p> Οδοντιατρική </p>
+<p> Ορθοπεδική - Ρευματολογία </p>
+<p> Ουρολογία </p>
+<p> Οφθαλμολογία </p>
+<p> Παθήσεις </p>
+<p> Παθολογία </p>
+<p> Πλαστική χειρουργική </p>
+<p> Σεξουαλική υγεία </p>
+<p> Σπάνιες παθήσεις </p>
+<p> Σύνδρομο </p>
+<p> Χειρουργική </p>
+<p> Ψυχολογία </p>
+<p> Ωτορινολαρυγγολογία </p>
+<p> Επικαιρότητα </p>
+<p> Ιατρικές ειδήσεις </p>
+<p> Ειδήσεις - Νέα </p>
+<p> Τεχνολογία - Έρευνα </p>
+<p> Περιβάλλον </p>
+<p> Κοινωνία </p>
+<p> Διάφορα </p>
+<p> Προσωπικότητες </p>
+<p> Ανθρωπολογία </p>
+<p> Άνδρας </p>
+<p> Άνδρας και Υγεία </p>
+<p> Ανδρολογία </p>
+<p> Διάφορα θέματα </p>
+<p> Γυναίκα </p>
+<p> Αισθητική χειρουργική </p>
+<p> Γενικού περιεχομένου </p>
+<p> Διάφορα </p>
+<p> Έρωτας & Σχέσεις </p>
+<p> Εγκυμοσύνη </p>
+<p> Ομορφιά </p>
+<p> Πρόληψη </p>
+<p> Υπογονιμότητα </p>
+<p> Ψυχολογία </p>
+<p> Παιδί </p>
+<p> Βρέφη και Υγεία </p>
+<p> Διαταραχές συμπεριφοράς </p>
+<p> Εκπαίδευση </p>
+<p> Παιδί και Υγεία </p>
+<p> Παιδιατρικά θέματα </p>
+<p> Ψυχολογία </p>
+<p> Θηλασμός </p>
+<p> Παιδί και Διατροφή </p>
+<p> Βλαστικά κύτταρα </p>
+<p> Ειδικές κοινωνικές ομάδες </p>
+<p> Οικογένεια - Κοινωνία </p>
+<p> Τρίτη ηλικία </p>
+<p> Άτομα με ειδικές ανάγκες </p>
+<p> Ευ ζήν - Διατροφή </p>
+<p> Διατροφή </p>
+<p> Παχυσαρκία </p>
+<p> Φυσική κατάσταση </p>
+<p> Ευεξία - Χαλάρωση </p>
+<p> Προορισμοί </p>
+<p> Εξάρτηση </p>
+<p> Αλκοολισμός </p>
+<p> Κάπνισμα </p>
+<p> Ναρκωτικά </p>
+<p> Η γνώμη σας μετράει </p>
+<p> Αρθρογραφία </p>
+<p> Απόψεις - Σχόλια επισκεπτών </p>
+<p> Γενικού περιεχομένου </p>
+<p> Ερωτήσεις - Απαντήσεις επισκεπτών </p>
+<p> Ζώα - Φυτά </p>
+<p> Κτηνιατρικά </p>
+<p> Φυτά </p>
+<p> Οργανισμοί </p>
+<p> Ο ιατρός συμβουλέυει </p>
+<p> Nοσοκομεία </p>
+<p> Φαρμακεία </p>
+<p> Προβολή </p>
+<p> <!--//<![CDATA[    var m3_u = (location.protocol=='https:'?'https://openx.healthierworld.gr/www/delivery/ajs.php':'http://openx.healthierworld.gr/www/delivery/ajs.php');    var m3_r = Math.floor(Math.random()*99999999999);    if (!document.MAX_used) document.MAX_used = ',';    document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);    document.write ("?zoneid=4");    document.write ('&amp;cb=' + m3_r);    if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);    document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));    document.write ("&amp;loc=" + escape(window.location));    document.write ("&source=");    if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));    if (document.context) document.write ("&context=" + escape(document.context));    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");    document.write ("'><\/scr"+"ipt>"); //]]>--> </p>
+<p> Προβολή </p>
+<p> <!--//<![CDATA[    var m3_u = (location.protocol=='https:'?'https://openx.healthierworld.gr/www/delivery/ajs.php':'http://openx.healthierworld.gr/www/delivery/ajs.php');    var m3_r = Math.floor(Math.random()*99999999999);    if (!document.MAX_used) document.MAX_used = ',';    document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);    document.write ("?zoneid=20");    document.write ('&amp;cb=' + m3_r);    if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);    document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));    document.write ("&amp;loc=" + escape(window.location));    document.write ("&source=");    if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));    if (document.context) document.write ("&context=" + escape(document.context));    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");    document.write ("'><\/scr"+"ipt>"); //]]>--> </p>
+<p> Healthier World </p>
+<p> Σας ενδιαφέρει </p>
+<p> Τίτλος αντιστρεπτόλυσινης (αστο – asto – aso) και στρεπτόκοκκος ομάδας α </p>
+<p> <!--//<![CDATA[    var m3_u = (location.protocol=='https:'?'https://openx.healthierworld.gr/www/delivery/ajs.php':'http://openx.healthierworld.gr/www/delivery/ajs.php');    var m3_r = Math.floor(Math.random()*99999999999);    if (!document.MAX_used) document.MAX_used = ',';    document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);    document.write ("?zoneid=16");    document.write ('&amp;cb=' + m3_r);    if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);    document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));    document.write ("&amp;loc=" + escape(window.location));    document.write ("&source=");    if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));    if (document.context) document.write ("&context=" + escape(document.context));    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");    document.write ("'><\/scr"+"ipt>"); //]]>--> </p>
+<p> Μέγεθος γραμματοσειράς </p>
+<p> Μοιραστείτε το </p>
+<p> | </p>
+<p> var addthis_config = { 			  ui_click: true 			} </p>
+<p> Ημερομηνία δημοσίευσης: 09/01/2012 </p>
+<p> Συντάκτης: </p>
+<p> Dr.Αναστασία Μοσχοβάκη </p>
+<p> (Ιατρός Ειδική Παθολόγος) </p>
+<p> Οι στρεπτόκοκκοι είναι θετικοί κατά Gram κόκκοι. Παραδοσιακά, ανάλογα με την ικανότητά τους να προκαλούν αιμόλυση ερυθρών στο εργαστήριο, διαιρούνται σε α, β, γ στρεπτοκόκκους. Ο β αιμολυτικός στρεπτόκκοκος διαιρείται κλασσικά στις ομάδες Α, Β, C, D, F, G και είναι κατεξοχήν παθογόνος για τον άνθρωπο. </p>
+<p> Οι στρεπτόκοκκοι της ομάδας Α, μεταδίδονται με σταγονίδια και μέσω φυσικής επαφής. Προκαλούν ένα ευρύ φάσμα νοσημάτων στον άνθρωπο (π.χ. φαρυγγίτιδα, αμυγδαλίτιδα, οστρακιά, φλεγμονές δέρματος, σήψη, πνευμονία, μηνιγγίτιδα, νεκρωτική προσβολή του δέρματος, αυτοάνοσα νοσήματα και εκδηλώσεις). </p>
+<p> Παράγουν ένα μεγάλο αριθμό αντιγόνων, έναντι των οποίων ο ανθρώπινος οργανισμός παράγει αντισώματα, σε μία προσπάθεια να εξουδετερώσει το επιτιθέμενο μικρόβιο. </p>
+<p> Η στρεπτολυσίνη Ο είναι μία αιμολυσίνη που παράγουν οι στρεπτόκοκκοι της ομάδας Α. Τα αντισώματα που παράγει ο οργανισμός έναντι της στρεπτολυσίνης μετρώνται κλασσικά στο εργαστήριο, με μια ειδική εξέταση την ΑΣΤΟ (ASTO H ASO). </p>
+<p> Παρά το γεγονός ότι η ΑΣΤΟ αυξάνεται σε περιπτώσεις λοίμωξης από το μικρόβιο, η ΑΣΤΟ μπορεί να είναι φυσιολογική επί στρεπτοκοκκικών λοιμώξεων, όταν η αντίδραση του ανοσοποιητικού και η παραγωγή του αντισώματος, είναι μειωμένη. Επίσης, ορισμένα άλλα νοσήματα και καταστάσεις, εκτός του στρεπτόκοκκου, συνοδεύονται από αυξημένη ΑΣΤΟ (π.χ. νοσήματα ήπατος, αγκυλοποιητική σπονδυλίτιδα, επιμολύνσεις). </p>
+<p> Η ΑΣΤΟ, στην ιατρική πράξη, χρησιμοποιείται για την επιβεβαίωση της διάγνωσης των στρεπτοκοκκικών λοιμώξεων, την εκτίμηση της επάρκειας της εκρίζωσης του στρεπτόκοκκου σε βάθος χρόνου, την αξιολόγηση υποτροπών. </p>
+<p> Η σωστή παθολογική εξέταση είναι σημαντική για την ορθή διαφορική διάγνωση και τη σωστή ιατρική αντιμετώπιση, σε κάθε περίπτωση. </p>
+<p> <!-- 		google_ad_client = "pub-8954039506430683"; 		google_ad_slot = "4404349369"; 		google_ad_width = 468; 		google_ad_height = 60; 		//--> </p>
+<p> <!--//<![CDATA[    var m3_u = (location.protocol=='https:'?'https://openx.healthierworld.gr/www/delivery/ajs.php':'http://openx.healthierworld.gr/www/delivery/ajs.php');    var m3_r = Math.floor(Math.random()*99999999999);    if (!document.MAX_used) document.MAX_used = ',';    document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);    document.write ("?zoneid=17");    document.write ('&amp;cb=' + m3_r);    if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);    document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));    document.write ("&amp;loc=" + escape(window.location));    document.write ("&source=");    if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));    if (document.context) document.write ("&context=" + escape(document.context));    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");    document.write ("'><\/scr"+"ipt>"); //]]>--> </p>
+<p> Το top 5 των φυτικών ινών </p>
+<p> Ο όρος φυτικές ή διαιτητικές ίνες είναι γνωστός από πολύ παλιά, όμως η αξία των φυτικών ινών στη διατροφή και την προφύλαξη από πολλές ασθένειες έχει αναγνωριστεί τα τελευταία χρόνια </p>
+<p> Διαβάστε περισσότερα .. </p>
+<p> Ελαττώστε την κυτταρίτιδα με μικρά tips </p>
+<p> Αποφύγετε την κατανάλωση      κόκκινου κρέατος (το πολύ μια φορά την  εβδομάδα και όσο το δυνατό άπαχο),      καθώς και την κατανάλωση ζωικών  λιπών. </p>
+<p> Διαβάστε περισσότερα .. </p>
+<p> .. δείτε όλα τα προτεινόμενα άρθρα </p>
+<p> Προβολή </p>
+<p> <!--//<![CDATA[    var m3_u = (location.protocol=='https:'?'https://openx.healthierworld.gr/www/delivery/ajs.php':'http://openx.healthierworld.gr/www/delivery/ajs.php');    var m3_r = Math.floor(Math.random()*99999999999);    if (!document.MAX_used) document.MAX_used = ',';    document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);    document.write ("?zoneid=2");    document.write ('&amp;cb=' + m3_r);    if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);    document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));    document.write ("&amp;loc=" + escape(window.location));    document.write ("&source=");    if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));    if (document.context) document.write ("&context=" + escape(document.context));    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");    document.write ("'><\/scr"+"ipt>"); //]]>--> </p>
+<p> Τι μάθαμε για το σεξ το 2011 </p>
+<p> Στο μικροσκόπιο της ιατρικής έρευνας βρέθηκε το σεξ την χρονιά που  πέρασε – και όσα αποκάλυψε, άλλοτε προκάλεσαν έκπληξη, άλλοτε θυμηδία  και ενίοτε θεωρήθηκαν αναμενόμενα. </p>
+<p> Διαβάστε περισσότερα .. </p>
+<p> Τα βότανα που ρίχνουν την πίεση </p>
+<p> Η υπέρταση ανήκει στις σύγχρονες παθήσεις της εποχής και κατά κανόνα  αντιμετωπίζεται με αλλαγές στον τρόπο ζωής και διατροφής (αποφυγή  αλατιού, </p>
+<p> Διαβάστε περισσότερα .. </p>
+<p> <!--//<![CDATA[    var m3_u = (location.protocol=='https:'?'https://openx.healthierworld.gr/www/delivery/ajs.php':'http://openx.healthierworld.gr/www/delivery/ajs.php');    var m3_r = Math.floor(Math.random()*99999999999);    if (!document.MAX_used) document.MAX_used = ',';    document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);    document.write ("?zoneid=21");    document.write ('&amp;cb=' + m3_r);    if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);    document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));    document.write ("&amp;loc=" + escape(window.location));    document.write ("&source=");    if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));    if (document.context) document.write ("&context=" + escape(document.context));    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");    document.write ("'><\/scr"+"ipt>"); //]]>--> </p>
+<p> Προβολή </p>
+<p> <!--//<![CDATA[    var m3_u = (location.protocol=='https:'?'https://openx.healthierworld.gr/www/delivery/ajs.php':'http://openx.healthierworld.gr/www/delivery/ajs.php');    var m3_r = Math.floor(Math.random()*99999999999);    if (!document.MAX_used) document.MAX_used = ',';    document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);    document.write ("?zoneid=19");    document.write ('&amp;cb=' + m3_r);    if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);    document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));    document.write ("&amp;loc=" + escape(window.location));    document.write ("&source=");    if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));    if (document.context) document.write ("&context=" + escape(document.context));    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");    document.write ("'><\/scr"+"ipt>"); //]]>--> </p>
+<p> Εναλλακτική ιατρική και λήψη φαρμάκων </p>
+<p> Τα φάρμακα της εναλλακτικής ιατρικής μπορούν να χρησιμοποιηθούν  συμπληρωματικά σε νοσήματα, στα οποία η συμβατική φαρμακολογική  αντιμετώπιση </p>
+<p> Διαβάστε περισσότερα .. </p>
+<p> <!--//<![CDATA[    var m3_u = (location.protocol=='https:'?'https://openx.healthierworld.gr/www/delivery/ajs.php':'http://openx.healthierworld.gr/www/delivery/ajs.php');    var m3_r = Math.floor(Math.random()*99999999999);    if (!document.MAX_used) document.MAX_used = ',';    document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);    document.write ("?zoneid=7");    document.write ('&amp;cb=' + m3_r);    if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);    document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));    document.write ("&amp;loc=" + escape(window.location));    document.write ("&source=");    if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));    if (document.context) document.write ("&context=" + escape(document.context));    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");    document.write ("'><\/scr"+"ipt>"); //]]>--> </p>
+<p> Προβολή </p>
+<p> <!--//<![CDATA[    var m3_u = (location.protocol=='https:'?'https://openx.healthierworld.gr/www/delivery/ajs.php':'http://openx.healthierworld.gr/www/delivery/ajs.php');    var m3_r = Math.floor(Math.random()*99999999999);    if (!document.MAX_used) document.MAX_used = ',';    document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);    document.write ("?zoneid=15");    document.write ('&amp;cb=' + m3_r);    if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);    document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));    document.write ("&amp;loc=" + escape(window.location));    document.write ("&source=");    if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));    if (document.context) document.write ("&context=" + escape(document.context));    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");    document.write ("'><\/scr"+"ipt>"); //]]>--> </p>
+<p> Τίτλος αντιστρεπτόλυσινης και στρεπτόκοκκος ομάδας α </p>
+<p> Οι στρεπτόκοκκοι είναι θετικοί κατά Gram κόκκοι. Παραδοσιακά, ανάλογα με  την ικανότητά τους να προκαλούν αιμόλυση ερυθρών στο εργαστήριο,  διαιρούνται σε α, β, γ στρεπτοκόκκους. </p>
+<p> Διαβάστε περισσότερα .. </p>
+<p> Οζώδες ερύθημα </p>
+<p> Πρόκειται για επώδυνα ψηλαφητά οζίδια ερυθρού χρώματος, που εμφανίζονται κυρίως στα κάτω άκρα. </p>
+<p> Διαβάστε περισσότερα .. </p>
+<p> Γρίπη και επιπλοκές </p>
+<p> Οι ιοί της γρίπης είναι RNA ιοί, μέλη της οικογένειας των ορθομυξοιών.  Ανάλογα με τα γενικά αντιγονικά χαρακτηριστικά, διαιρούνται σε γενικούς  τύπους (Α, Β, C κλπ). </p>
+<p> Διαβάστε περισσότερα .. </p>
+<p> Λιπώδης διήθηση: ενα συχνό αίτιο αύξησης των τρανσαμινάσων </p>
+<p> Οι τρανσαμινάσες (ασπαρτική τρανσαμινάση – AST – SGOT και αλανινική τρανσαμινάση – ALT – SGPT) είναι ηπατικά ένζυμα. </p>
+<p> Διαβάστε περισσότερα .. </p>
+<p> <!--//<![CDATA[    var m3_u = (location.protocol=='https:'?'https://openx.healthierworld.gr/www/delivery/ajs.php':'http://openx.healthierworld.gr/www/delivery/ajs.php');    var m3_r = Math.floor(Math.random()*99999999999);    if (!document.MAX_used) document.MAX_used = ',';    document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);    document.write ("?zoneid=10");    document.write ('&amp;cb=' + m3_r);    if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);    document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));    document.write ("&amp;loc=" + escape(window.location));    document.write ("&source=");    if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));    if (document.context) document.write ("&context=" + escape(document.context));    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");    document.write ("'><\/scr"+"ipt>"); //]]>--> </p>
+<p> Προβολή </p>
+<p> <!--//<![CDATA[    var m3_u = (location.protocol=='https:'?'https://openx.healthierworld.gr/www/delivery/ajs.php':'http://openx.healthierworld.gr/www/delivery/ajs.php');    var m3_r = Math.floor(Math.random()*99999999999);    if (!document.MAX_used) document.MAX_used = ',';    document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);    document.write ("?zoneid=3");    document.write ('&amp;cb=' + m3_r);    if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);    document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));    document.write ("&amp;loc=" + escape(window.location));    document.write ("&source=");    if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));    if (document.context) document.write ("&context=" + escape(document.context));    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");    document.write ("'><\/scr"+"ipt>"); //]]>--> </p>
+<p> Γυναίκα - Ομορφιά </p>
+<p> Μοιράζεσαι με άλλες τα καλλυντικά σου; Μάθε τι μπορεί να σου συμβεί! </p>
+<p> To μπότοξ προκαλεί κατάθλιψη </p>
+<p> Πού κρύβεται το μυστικό της αιώνιας νεότητας ; </p>
+<p> 8 συμβουλές για να μην «σκάσει» το δέρμα σας από το κρύο </p>
+<p> Μυστικά για τέλεια πόδια </p>
+<p> Διατροφή - Ευεξία </p>
+<p> 5 μύθοι και αλήθειες γύρω από την διατροφή </p>
+<p> Οι μητέρες ευθύνονται για την ανορεξία των εφήβων κοριτσιών </p>
+<p> Ο μύθος των 8 ποτηριών νερού </p>
+<p> Τρόποι για να ρίξετε την πίεση </p>
+<p> Νέα όπλα και μικρά μυστικά για το αδυνάτισμα </p>
+<p> Ψυχολογία </p>
+<p> Πού πήγαν οι αξιώσεις της καρδιάς; </p>
+<p> Κοινωνικο-Θεραπεία (Social Therapy) </p>
+<p> Διαζύγιο, παιδί και νέος σύντροφος </p>
+<p> Ποιό είναι το ισχυρό φύλο, οι άνδρες ή οι γυναίκες και γιατί; </p>
+<p> Μια στις δέκα γυναίκες μελαγχολεί μετά το σεξ </p>
+<p> Σας ενδιαφέρει </p>
+<p> Ψύχωση Κορσάκοφ </p>
+<p> Χαμηλή χοληστερόλη (η χοληστερίνη): χαμηλή ολική χοληστερόλη, χαμηλή ldl, χαμηλή hdl </p>
+<p> Λιπίδια αίματος </p>
+<p> Υψηλά τριγλυκερίδια </p>
+<p> Λιποπρωτεινική λιπάση (LPL) </p>
+<p> Αρχική Σελίδα </p>
+<p> | </p>
+<p> Ταυτότητα </p>
+<p> | </p>
+<p> Επικοινωνία </p>
+<p> | </p>
+<p> Όροι Χρήσης </p>
+<p> | </p>
+<p> Προσωπικά Δεδομένα </p>
+<p> | </p>
+<p> Προβληθείτε στο Healthier World </p>
+<p> © Healthier World 2009 - Designed & hosted by </p>
+<p> Mediascape Ltd </p>
+<p> Το healthierworld.gr συμμορφώνεται πλήρως με τις προδιαγραφές που ορίζει ο κώδικας δεοντολογίας </p>
+<p> HON (Health on the Net) </p>
+<p> περί δημοσίευσης αξιόπιστων πληροφοριών υγείας στο διαδίκτυο. </p>
+<p> Επιβεβαιώστε </p>
+<p> Κλείσιμο X </p>
+<p> Τίτλος </p>
+<p> Κλείσιμο X </p>
+<p> Εκτύπωση </p>
+<p> Προεπισκόπηση Εκτύπωσης </p>
+<p> <!--//<![CDATA[    var m3_u = (location.protocol=='https:'?'https://openx.healthierworld.gr/www/delivery/ajs.php':'http://openx.healthierworld.gr/www/delivery/ajs.php');    var m3_r = Math.floor(Math.random()*99999999999);    if (!document.MAX_used) document.MAX_used = ',';    document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);    document.write ("?zoneid=9");    document.write ('&amp;cb=' + m3_r);    if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);    document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));    document.write ("&amp;loc=" + escape(window.location));    document.write ("&source=");    if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));    if (document.context) document.write ("&context=" + escape(document.context));    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");    document.write ("'><\/scr"+"ipt>"); //]]>--> </p>
+<p> var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); 	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); </p>
+<p> try { 	 	var pageTracker = _gat._getTracker("UA-7044189-1"); 	pageTracker._setSessionTimeout("900"); 	pageTracker._trackPageview(); 	 	} catch(err) {} </p>
+<p> $(document).ready(function() { 		$("#members-area").load("http://www.healthierworld.gr//member/area"); 		$("#members-quicklogin").load("http://www.healthierworld.gr//member/quicklogin", {}, function(){ 			$('#modalWindow').jqmAddTrigger('a.thickbox'); 		}); 	}); </p>

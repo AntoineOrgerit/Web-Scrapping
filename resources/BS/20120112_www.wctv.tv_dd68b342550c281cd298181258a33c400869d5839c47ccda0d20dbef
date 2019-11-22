@@ -1,0 +1,255 @@
+<p> var js="0.0"; </p>
+<p> js="1.0"; </p>
+<p> js="1.1"; </p>
+<p> js="1.2"; </p>
+<p> js="1.3"; </p>
+<p> js="1.4"; </p>
+<p> js="1.5"; </p>
+<p> js="1.6"; </p>
+<p> js="1.7"; </p>
+<p> js="1.8"; </p>
+<p> js="1.9"; </p>
+<p> <!--  var bb=new Image();var _ti=910;var _q="";var na=(navigator.appName=="Netscape");var ns=(navigator.appName.substring(0,9)=="Microsoft");var _qDate=new Date();var _r=(document.referrer.indexOf(getdomain(location))>-1?"":document.referrer);_q+="&5="+parseInt(_qDate.getTimezoneOffset());_q+="&35="+parseInt(_qDate.toString().indexOf("aylight")>-1?1:0);_q+="&6=137110613";_q+="&7=42701";_q+="&8="+encodeURIComponent(document.location);_q+="&9="+encodeURIComponent(_r);_q+="&10="+encodeURIComponent(document.title);_q+="&11="+encodeURIComponent(navigator.userAgent);_q+="&12="+encodeURIComponent((na?navigator.language:navigator.userLanguage));_q+="&13="+((navigator.javaEnabled()?'1':'0'));_q+="&14="+encodeURIComponent(js);if(document.cookie.indexOf("cc")==-1)document.cookie="cc=t;";_q+="&15="+((document.cookie.indexOf("cc")==-1)?"0":"1");_q+="&16="+encodeURIComponent((screen.width+'x'+screen.height));_q+="&17="+encodeURIComponent(((ns)?screen.colorDepth:screen.pixelDepth));_q+="&18="+encodeURIComponent(Math.random());_q+="&19="+_ti;bb.src="http://s.clickability.com/s?"+_q; function setonclicks(a,b){var i=0;var retval=true;while(document.links[i]!=a){i++;}if(b.li[i])retval=b.li[i].oldonclick();bye(a);return retval;} function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.links.length;lnks.li=new Array(sze);for (var i=0; i<sze; i++){if(document.links[i].onclick){lnks.li[i]=document.links[i];lnks.li[i].oldonclick=document.links[i].onclick;}eval("document.links[i].onclick=function(){return setonclicks(this,lnks);}");}}function bye(a){if(a.href.toLowerCase().indexOf('http')!=0)return true;if(getdomain(location)==getdomain(a))return true;if(a.href.toLowerCase().indexOf('http')!=0)return true;var _qc="http://s.clickability.com/s?19=912";_qc+="&6=137110613";_qc+="&7=42701";_qc+="&18="+encodeURIComponent(Math.random());_qc+="&100="+a.href;_qc+="&101="+encodeURIComponent(a.text);var cc=new Image();if(na){cc.src=_qc;pc(100);}else cc.src=_qc;return true;}function pc(a){d = new Date(); while (1){m =new Date(); df = m-d;if( df > a ) {break;}}}function getdomain(a){var i=a.host.indexOf(":");return (i>=0)?a.host.substring(0,i):a.host;}if(self['setupalready']){var dosetup = false;alert('There are two $imware.tracker calls on this page. Please alert Client Services');}else{var dosetup = true;var hasonload=false;}if(dosetup && ((window.screen)||((new Array()).toSource)||((new Array()).shift&&ns))&&(navigator.userAgent.indexOf('Mac')<0)){if(window.onload){oldonld=window.onload;hasonload=true;}window.onload=newonld;var setupalready = true;}//--> </p>
+<p> DCF Releases Contractor Report Card </p>
+<p> <!--  // Cookie functions  var expDays = 1000; var exp = new Date();  exp.setTime(exp.getTime() + (expDays*24*60*60*1000));  function GetCookie (name) {       var arg = name + "=";       var alen = arg.length;       var clen = document.cookie.length;       var i = 0;       while (i < clen) {             var j = i + alen;             if (document.cookie.substring(i, j) == arg)               return getCookieVal (j);             i = document.cookie.indexOf(" ", i) + 1;             if (i == 0) break;        }   } function getCookieVal (offset) {       var endstr = document.cookie.indexOf (";", offset);       if (endstr == -1)         endstr = document.cookie.length;       return unescape(document.cookie.substring(offset, endstr)); }  function SetCookieDefaultExpire (name, value,domain) {       document.cookie = name + "=" + escape (value) + "; expires=" + exp.toGMTString() +     ("; domain="+domain); } function SetCookie (name, value,domain,expHours) {   	var cookieExp = new Date(); 	cookieExp.setTime(cookieExp.getTime() + (expHours*60*60*1000));     document.cookie = name + "=" + escape (value) + "; expires=" + cookieExp.toGMTString() +     ("; domain="+domain); }  function DeleteCookie (name,domain) {       var now= new Date();       now.setTime (exp.getTime() - 1);       var cval = GetCookie (name);       document.cookie = name + "=; expires=" + now.toGMTString()+     ("; domain="+domain); }  function addToCookie(name, value,domain){ 	var oldValue = GetCookie(name); 	if(oldValue){ 		value = oldValue +'|'+value; 	} 	//alert(value) 	SetCookieDefaultExpire(name, value,domain); } function getCookieValues(name){ 	var values = GetCookie(name); 	//alert(values) 	if(values){ 		var valueArray = new Array(); 		var i = 0; 		var valueNum = 0; 		var lastindex = 0; 		while(i>-1){ 			i = values.indexOf("|", lastindex) 			//alert(i); 			//alert(lastindex); 			//alert(valueNum); 			if(i == -1){ 				valueArray[valueNum] = values.substring(lastindex); 			}else{ 				valueArray[valueNum] = values.substring(lastindex,i); 			} 			//alert(valueArray[valueNum]); 			valueNum = valueNum  + 1; 			lastindex = i + 1; 			if(valueNum == 100) break; 		} 		return valueArray; 	} 	 }  function removeCookieValue(name, value,domain){ 	var favorites = getCookieValues(name); 	var newvalue = ""; 	for(var i= 0; i<favorites.length;i++){ 		var fav = favorites[i]; 		if(fav != value){ 			if(i > 0 &&  newvalue != ''){ newvalue = newvalue + "|";} 			newvalue = newvalue + fav; 		} 	} 	SetCookieDefaultExpire(name, newvalue,domain); }   function setFavorite(value, domain){ 	var fav = value; 	var len = fav.length; 	//alert(city); 	if(fav.indexOf("http://") == 0){ 		fav = fav.substring(7,len); 	} 	if(fav.indexOf("https://") == 0){ 		fav = fav.substring(8,len); 	}  	addToCookie("favorites",fav,domain); } --> </p>
+<p> function apvDwd(pid,title,pl,t) { if(!pl) {pl='';} var w = window.open("http://video.ap.org/vws/search/aspx/ap.aspx?f="+pid+"&g="+title+"&p="+pl+"&t="+t,"apvDwd","width=788,height=598,status=1,scrollbars=1,resizable=1"); } </p>
+<p> function displayVideoHelp(){var videohelppage = window.open('http://www.wctv.tv/unclassified/769277.html', 'CONTENT');} 	function playVideoClip ()     {displayVideoHelp();} 	function playVideoClips ()    {displayVideoHelp();}  	function checkLaunchVideo() {} </p>
+<p> //Objects to interact with server 	var CMSUtil = { 		interactWithServer: function(form, isAjax, buildObjectFunction,  									returnFunction, action, servlet,  									extraFields){ 			if(isAjax == true && returnFunction != null){             	var queryString = this.serializeForm(form); 				if(queryString != null){ 					if(action != null){ 						queryString += "&action=" + action + "&isAjax=Y";	 					}else{             			queryString += "&isAjax=Y";             		}             		if(extraFields){             			queryString += extraFields;             		}             		             		var req = this.getXmlRequestObject(); 					if(req != null) {             			var handlerFunction = this.getReadyStateHandler(req, returnFunction, buildObjectFunction); 						req.onreadystatechange = handlerFunction; 						req.open("POST", servlet, true);             			req.setRequestHeader("Content-Type", "application/x-www-form-urlencoded; charset=UTF-8");             			req.send(queryString);             			return false; 					} 				}             }else{  				this.submitUserFormNoAJAX(form, action, servlet);  			} 		}, 		 		getXmlRequestObject: function() { 			var req; 			if(window.XMLHttpRequest){ 				req = new XMLHttpRequest(); 			}else if(window.ActiveXObject){ 				try{ 					req = new ActiveXObject("Msxml2.XMLHTTP"); 				}catch(e){ 					try{ 						req = new ActiveXObject("Microsoft.XMLHTTP"); 					}catch(e){                			return null;                		} 				} 			}     		return req; 		}, 		 		getReadyStateHandler: function(req, returnFunction, buildObjectFunction) {  			return function () {  		    	// If the request's status is "complete"     			if (req.readyState == 4) {              				// Check that a successful server response was received    		   			if (req.status == 200) {          				// Pass the XML payload of the response to the          				// handler function         				var response = "(" + req.responseText + ")";             			response = eval(response); 						buildObjectFunction(response);	             			returnFunction(response);  					} else { 						// An HTTP problem has occurred         				alert("HTTP error: "+req.status);       				}     			}   			} 		}, 		 		serializeForm: function(form){ 			var paramString = ""; 			var ampRegex = new RegExp("&", "g"); 	  		var replaceAmpStr = escape("&#38;"); 	  		var percentRegex = new RegExp("%", "g");  	   		var replacePerStr = escape("&#37;");         		for(var i = 0;i < form.elements.length;i++){        			var field = form.elements[i];        			if(field.tagName === "TEXTAREA" || (field.tagName === "INPUT" && field.type !== "submit")){        				if(field.type === "checkbox" && !field.checked){        					 continue;        				} 					var fieldValue = field.value; 					fieldValue = fieldValue.replace(percentRegex, replacePerStr); 	       	    	fieldValue = fieldValue.replace(ampRegex, replaceAmpStr);        				paramString += field.name + "=" + fieldValue + "&";            		}        		}  			return paramString; 		}, 		submitUserFormNoAJAX: function(form, action, servlet){ 			if(servlet == null) return null;     	    form.action = servlet;      	    if(action != null) {     	    	var actionField = document.createElement('input');     	    	actionField.setAttribute('name', 'action');   					actionField.setAttribute('type', 'hidden');   					actionField.value = action;     	    	form.appendChild(actionField);     	    	     	    }     		form.submit();     	}     	 	} 	 	var Action = { 		attachAction: function(form, isAjax, returnFunction){ 			var action = ""; 			if(isAjax){ 				action = "attachActionAJAX"; 			} else { 				action = "attachAction"; 			} 			CMSUtil.interactWithServer(form, isAjax, Action.buildAction, returnFunction, action, "/s"); 		}, 		 		deleteAction: function(form, isAjax, returnFunction){         	var action = "";         	if(isAjax){         		action = "deleteActionAJAX";         	} else {         		action = "deleteAction";         	}         	CMSUtil.interactWithServer(form, isAjax, Action.deletedAction, returnFunction, action, "/s");         }, 		 		 		buildAction: function(response){ 			if(response.success == true){ 				Action.actionID = response.actionID; 				Action.contentID = response.contentID; 				Action.commentID = response.commentID; 				Action.contentTypeID = response.contentTypeID; 				Action.actionDate = response.actionDate; 				Action.userID = response.userID; 				Action.actionType = response.actionType; 				Action.slugLine = response.slugLine; 			} else { 			 	Action.error = response.error; 			} 		}, 		 		deletedAction: function(response){ 			if(response.success == true){ 				Action.actionID = response.actionID; 			} else { 				Action.error = response.error; 			} 		} 	} 	 	var Ranking = { 		insertRanking: function(form, isAjax, returnFunction){ 			CMSUtil.interactWithServer(form, isAjax, Ranking.buildRanking, returnFunction, "rankComment", "/p"); 		}, 		 		buildRanking: function(response){ 			if(response.success == true){ 				Ranking.success = true; 				Ranking.objectId = response.objectId; 				Ranking.type = response.type; 				Ranking.ipAddress = response.ipAddress; 				Ranking.rankDate = response.rankDate; 				Ranking.upRanking = response.upRanking; 				Ranking.downRanking = response.downRanking; 			} else { 				Ranking.error = response.error; 			} 		} 			 	} 			 	var Rating = { 		addRating: function(form, isAjax, returnFunction){ 			var action = ""; 			if(isAjax){ 				action = "addRatingAJAX"; 			} else { 				action = "addRating"; 			}             CMSUtil.interactWithServer(form, isAjax, Rating.buildRating, returnFunction, action, "/s");         },                  insertRating: function(form, isAjax, returnFunction){ 			var extraQueryStr = null; 			if(isAjax){ 				extraQueryStr = getFieldsForForm(); 			}else{ 				addFieldsToForm(form); 			} 			CMSUtil.interactWithServer(form, isAjax, Comment.buildComment, returnFunction, "insertComment", "/c", extraQueryStr); 		},          		buildRating: function(response){ 			if(response.success == true){ 				Rating.id = response.id; 				Rating.rating = response.rating; 				Rating.upvote = response.upvote; 				Rating.downvote = response.downvote; 				Rating.type = response.type; 				Rating.date = response.date; 				Rating.ipAddress = response.ipAddress; 			}else{ 				Rating.error = response.error; 			} 		} 		 	} 	 	var User = { 		createUser: function(form, isAjax, returnFunction){	 		    var action = ""; 			if(isAjax){ 				action = "createProfileAJAX"; 			} else { 				action = "createProfile"; 			}             CMSUtil.interactWithServer(form, isAjax, User.buildUser, returnFunction, action, "/s"); 		}, 		 		loginUser: function(form, isAjax, returnFunction){ 			var action = ""; 			if(isAjax){ 				action = "doLoginProfileAJAX"; 			} else { 				action = "doLoginProfile"; 			}         	CMSUtil.interactWithServer(form, isAjax, User.buildUser, returnFunction, action, "/s"); 		}, 		 		updateUser: function(form, isAjax, returnFunction){ 			var action = ""; 			if(isAjax){ 				action = "updateProfileAJAX"; 			} else { 				action = "updateProfile"; 			} 			CMSUtil.interactWithServer(form, isAjax, User.buildUser, returnFunction, action, "/s"); 		}, 		 		updateRegistration: function(form, isAjax, returnFunction){ 			var action = ""; 			if(isAjax){ 				action = "updateRegistrationAJAX"; 			} else { 				action = "updateReg"; 			} 			CMSUtil.interactWithServer(form, isAjax, User.buildUser, returnFunction, action, "/s"); 		}, 		 		updateProfilePassword: function(form, isAjax, returnFunction){ 			var action = ""; 			if(isAjax){ 				action = "updateProfilePasswordAJAX"; 			} else { 				action = "updateProfilePassword"; 			} 			CMSUtil.interactWithServer(form, isAjax, User.buildUser, returnFunction, action, "/s"); 		}, 		 		insertProfilePic: function(form, isAjax, returnFunction){ 			var action = ""; 			if(isAjax){ 				//not implemented as of yet 				return; 				//action = "updateImageAJAX"; 			} else { 				action = "updateImage"; 			} 			CMSUtil.interactWithServer(form, isAjax, User.buildUser, returnFunction, action, "/s"); 		}, 		 		buildUser: function(response){ 			if(response.success == true){ 				User.ID = response.ID; 				User.username = response.username; 				User.email = response.email; 				User.firstName = response.firstName; 				User.lastName = response.lastName; 				User.birthDate = response.birthDate; 				User.createDate = response.createDate; 				User.title = response.title; 				User.company = response.company; 				User.address1 = response.address1; 				User.address2 = response.address2; 				User.city = response.city; 				User.state = response.state; 				User.zipcode = response.zipcode; 				User.country = response.country; 				User.custom1 = response.custom1; 				User.custom2 = response.custom2; 				User.custom3 = response.custom3; 				User.custom4 = response.custom4; 				User.custom5 = response.custom5; 				User.custom6 = response.custom6; 				User.custom7 = response.custom7; 				User.custom8 = response.custom8; 				User.custom9 = response.custom9; 			}else{ 				User.error = response.error; 				User.errorMsg = response.errorMsg; 				User.errorCode = response.errorCode; 			} 		} 	} 	 	var UserContent = { 		insertContent: function(form, isAjax, returnFunction){ 			var extraQueryStr = null; 			 			if(isAjax){ 				extraQueryStr = getFieldsForForm(); 			}else{ 				addFieldsToForm(form); 			} 			UserContent.messages = null; 			CMSUtil.interactWithServer(form, isAjax, UserContent.buildContent, returnFunction, extraQueryStr, "/d"); 		}, 		 		editContent: function(form, isAjax, returnFunction){ 			CMSUtil.interactWithServer(form, isAjax, UserContent.buildContent, returnFunction, null, "/d"); 		}, 		 		buildContent: function(response){ 			if(response.success == true){ 				for (var i=0; i< response.fields.length; i++){ 					var field = response.fields[i]; 					UserContent[field] = response[field]; 				} 				UserContent.contentID = response.contentID; 				UserContent.contentType = response.contentType; 				UserContent.title = response.title; 				UserContent.status = response.status; 			} else { 				UserContent.error = response.error; 				UserContent.messages = response.messages; 			} 		} 	} 	 	var Comment = { 	 		insertComment: function(form, isAjax, returnFunction){ 			var extraQueryStr = null; 			if(isAjax){ 				extraQueryStr = getFieldsForForm(); 			}else{ 				addFieldsToForm(form); 			} 			CMSUtil.interactWithServer(form, isAjax, Comment.buildComment, returnFunction, "insertComment", "/c", extraQueryStr); 		}, 	 		deleteComment: function(form, isAjax, returnFunction){ 			var extraQueryStr = null; 			if(isAjax){ 				extraQueryStr = getFieldsForForm(); 			}else{ 				addFieldsToForm(form); 			} 			CMSUtil.interactWithServer(form, isAjax, Comment.nullifyComment, returnFunction, "deleteComment", "/c", extraQueryStr); 		}, 		 		updateComment: function(form, isAjax, returnFunction){ 			var extraQueryStr = null; 			if(isAjax){ 				extraQueryStr = getFieldsForForm(); 			} else { 				addFieldsToForm(form); 			} 			CMSUtil.interactWithServer(form, isAjax, Comment.buildComment, returnFunction, "updateComment", "/c", extraQueryStr); 		}, 		 		buildComment: function(response){ 						Comment.name = null; 			Comment.website = null; 			Comment.title = null; 			Comment.comment = null; 			Comment.email = null; 			Comment.rating = null; 			Comment.ratingType = null; 			Comment.commentType = null; 			Comment.flagged = false; 			Comment.isAuthor = false; 			Comment.error = null; 			Comment.status = null; 			Comment.level = 0; 			Comment.parentID = 0; 			Comment.threadID = 0; 			Comment.id = 0; 			Comment.extID = null;		 		 			if(response.success == true){ 				Comment.id = response.id; 				Comment.name = response.name; 				Comment.comment = response.comment; 				Comment.email = response.email; 				Comment.website = response.website; 				Comment.title = response.title; 				Comment.isAuthor = response.isAuthor; 				Comment.flagged = response.flagged; 				Comment.status = response.status; 				Comment.rating = response.rating; 				Comment.ratingType = response.ratingType; 				Comment.commentType = response.commentType; 				if(Comment.status == "AUTHOR"){ 					Comment.isAuthor = true; 				} else if(Comment.status != "APPROVED") { 					Comment.flagged = true; 				} 			    Comment.id = response.id; 			    Comment.threadID = response.threadID; 			    Comment.parentID = response.parentID; 			    Comment.level = response.level; 			    Comment.extID = response.extID; 			} else { 				Comment.error = response.error; 			} 		}, 		 		nullifyComment: function(response){ 			if(response.success == true){ 				Comment.comment = null; 				Comment.email = null; 				Comment.website = null; 				Comment.title = null; 				Comment.isAuthor = null; 				Comment.flagged = null; 				Comment.status = null; 				Comment.id = 0; 			    Comment.threadID = 0; 			    Comment.parentID = 0; 			    Comment.level = 0; 			    Comment.extID = null; 			} else { 				Comment.error = response.error; 			} 		} 	}	 	 	var Clickability = Clickability || {}; 	Clickability.SMTK = { 		kP : 0, 		aT : 0, 		myInterval : null, 		xPos : -1, 		yPos : -1, 		firstX : -1, 		firstY : -1, 		intervals : 0, 		cid :  137110613 , 		did :  42701 , 		d : 0, 		mT : 0 	} 	Clickability.SMTK.myInterval = window.setInterval(timedMousePos,250); 	document.onkeypress = lK; 	window.onload = rAT;  		Clickability.Comment = Comment; 		 		var p; 	var kP = 0; 	var	aT = 0; 	var myInterval = Clickability.SMTK.myInterval; 	var xPos = -1; 	var yPos = -1; 	var firstX = -1; 	var firstY = -1; 	var intervals = 0; 	var d = 0; 	var mT = 0; 	var cid =  137110613 ; 	var did =  42701 ;	 	 	function getMousePos(p) { 		if(!p)var p = window.event; 		if (p.pageX || p.pageY) { 			Clickability.SMTK.xPos = p.pageX; 			Clickability.SMTK.yPos = p.pageY; 		} else if (p.clientX || p.clientY) { 			Clickability.SMTK.xPos = p.clientX + document.body.scrollLeft + document.documentElement.scrollLeft; 			Clickability.SMTK.yPos = p.clientY + document.body.scrollTop + document.documentElement.scrollTop; 		} 	}  	 	function lK() {	 		Clickability.SMTK.kP++; 	}  	function rAT() { 		Clickability.SMTK.aT = new Date(); 	} 		 	function timedMousePos() { 		document.onmousemove = getMousePos; 		if (Clickability.SMTK.xPos >= 0 && Clickability.SMTK.yPos >= 0) { 			var newX = Clickability.SMTK.xPos; 			var newY = Clickability.SMTK.yPos; 			Clickability.SMTK.intervals++; 		} 		if (Clickability.SMTK.intervals == 1) { 			Clickability.SMTK.firstX = Clickability.SMTK.xPos; 			Clickability.SMTK.firstY = Clickability.SMTK.yPos; 		} else if (Clickability.SMTK.intervals == 2) { 			clearInterval(Clickability.SMTK.myInterval); 			calcDistance(Clickability.SMTK.firstX,Clickability.SMTK.firstY,newX,newY);	 		} 	}   	function calcDistance(aX,aY,bX,bY){ 		Clickability.SMTK.mT = Math.round(Math.sqrt(Math.pow(aX-bX,2)+Math.pow(aY-bY,2))); 	} 	 	function getFieldsForForm(){ 		var sT = new Date(); 		Clickability.SMTK.d = sT - Clickability.SMTK.aT; 		var queryString = "&"; 		queryString += "mT=" + Clickability.SMTK.mT;      	queryString += "&d=" + Clickability.SMTK.d;      	queryString += "&kP=" + Clickability.SMTK.kP;      	if(Clickability.SMTK.cid)queryString += "&cid=" + Clickability.SMTK.cid;      	if(Clickability.SMTK.did)queryString += "&did=" + Clickability.SMTK.did;      	queryString += "&socialMedia=Y"; 	    return queryString; 	} 		 	function addFieldsToForm(formObj, redirect) { 		var sT = new Date(); 		Clickability.SMTK.d = sT - Clickability.SMTK.aT; 		var mTField = document.createElement('input'); 		var dField = document.createElement('input'); 		var kPField = document.createElement('input');   		var cidField = document.createElement('input');   		var didField = document.createElement('input');   		var socialMedia = document.createElement('input');   	   	   		socialMedia.setAttribute('name','socialMedia'); 		socialMedia.setAttribute('type', 'hidden'); 		   		mTField.setAttribute('name','mT'); 		mTField.setAttribute('type', 'hidden');   	   		dField.setAttribute('name', 'd'); 		dField.setAttribute('type', 'hidden');   	   		kPField.setAttribute('name', 'kP'); 		kPField.setAttribute('type', 'hidden');   	 		cidField.setAttribute('name', 'cid'); 		cidField.setAttribute('type', 'hidden');   	   		didField.setAttribute('name', 'did');   		didField.setAttribute('type', 'hidden');	   	   		if(redirect != null) {   			var pathField = document.createElement('input');   			pathField.setAttribute('name', 'path');   			pathField.setAttribute('type', 'hidden');   			pathField.value = redirect;   			formObj.appendChild(pathField);   		}   		mTField.value = Clickability.SMTK.mT; 		dField.value = Clickability.SMTK.d; 		kPField.value = Clickability.SMTK.kP; 		cidField.value = Clickability.SMTK.cid; 		didField.value = Clickability.SMTK.did; 		socialMedia.value = "Y";  		formObj.appendChild(dField); 		formObj.appendChild(kPField); 		formObj.appendChild(mTField); 		formObj.appendChild(cidField); 		formObj.appendChild(didField); 		formObj.appendChild(socialMedia); 	}		 	 	//helper functions 	 	function insertComment(form, isAjax, returnFunction, showError){ 		return submitToServer(Comment.insertComment, "Unable to insert comment", form, isAjax, returnFunction, showError); 	} 	 	function updateComment(form, isAjax, returnFunction, showError){ 		return submitToServer(Comment.updateComment, "Unable to update comment", form, isAjax, returnFunction, showError); 	} 	 	function deleteComment(form, isAjax, returnFunction, showError){ 		return submitToServer(Comment.deleteComment, "Unable to delete comment", form, isAjax, returnFunction, showError); 	} 	 	function createUser(form, isAjax, returnFunction, showError){ 		return submitToServer(User.createUser, "Unable to create user", form, isAjax, returnFunction, showError); 	} 	 	function updateUser(form, isAjax, returnFunction, showError){ 		return submitToServer(User.updateUser, "Unable to update user", form, isAjax, returnFunction, showError); 	} 	 	function loginUser(form, isAjax, returnFunction, showError){ 		return submitToServer(User.loginUser, "Unable to login user", form, isAjax, returnFunction, showError); 	} 	 	function insertUserContent(form, isAjax, returnFunction, showError){ 		return submitToServer(UserContent.insertContent, "Unable to insert content item", form, isAjax, returnFunction, showError); 	} 	 	function editUserContent(form, isAjax, returnFunction, showError){ 		return submitToServer(UserContent.editContent, "Unable to edit content item", form, isAjax, returnFunction, showError); 	} 	 	function insertProfilePic(form, isAjax, returnFunction, showError){ 		return submitToServer(User.insertProfilePic, "Unable to upload profile photo", form, isAjax, returnFunction, showError); 	} 	 	function addRating(form, isAjax, returnFunction, showError){ 		return submitToServer(Rating.addRating, "Unable to add rating", form, isAjax, returnFunction, showError); 	} 	 	function insertRating(form, isAjax, returnFunction, showError){ 		return submitToServer(Rating.insertRating, "Unable to insert rating", form, isAjax, returnFunction, showError); 	} 	 	function attachAction(form, isAjax, returnFunction, showError){ 		return submitToServer(Action.attachAction, "Unable to attach action", form, isAjax, returnFunction, showError); 	} 	 	function deleteAction(form, isAjax, returnFunction, showError){ 		return submitToServer(Action.deleteAction, "Unable to delete action", form, isAjax, returnFunction, showError); 	} 	 	function insertRanking(form, isAjax, returnFunction, showError){ 		return submitToServer(Ranking.insertRanking, "Unable to insert ranking", form, isAjax, returnFunction, showError); 	} 	 	function submitToServer(method, msg, form, isAjax, returnFunction, showError){ 		method(form, isAjax, returnFunction); 	 		if(isAjax){ 			return false; 		} else { 			return true; 		} 	} </p>
+<p> var _gaq = _gaq || [];   _gaq.push(['_setAccount', 'UA-3637494-13']);   _gaq.push(['_trackPageview']);   (function() {     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);   })(); </p>
+<p> Home </p>
+<p> Make Us Your Home </p>
+<p> WCTV2 </p>
+<p> var headerHeight;  var orgHeight;  var headline_count;  var headline_interval;  var old_headline = 0;  var current_headline = 0;  $(document).ready(function(){ 	headerHeight = $("#header").css('height'); 	orgHeight = headerHeight; 	headerHeight = parseInt(headerHeight); 	headerHeight = headerHeight - 75; 	headerHeight = headerHeight / 2; 	 	$("#scrollup").css('height',orgHeight);     headline_count = $("div.scrollheadline").size();    $("div.scrollheadline:eq("+current_headline+")").css('top',headerHeight + 'px');      headline_interval = setInterval(headline_rotate,8000); //time in milliseconds    });    function headline_rotate() {    current_headline = (old_headline + 1) % headline_count;     $("div.scrollheadline:eq(" + old_headline + ")").animate({top: -205},2000, function() {      $(this).css('top','210px');    });    $("div.scrollheadline:eq(" + current_headline + ")").show().animate({top: headerHeight},2000);      old_headline = current_headline;  } </p>
+<p> #scrollup {    position: relative;    overflow: hidden;    height: 90px;    width: 250px;  }  .scrollheadline {    position: absolute;    top: 210px;    left: 5px;    height: 75px;    width: 250px;  } </p>
+<p> EYE ON THE FORECAST </p>
+<p> A comfortably cool Thursday morning, then partly cloudy, warm and breezy with only a stray afternoon shower or two. </p>
+<p> High: </p>
+<p> THU PM: 73 </p>
+<p> Low: </p>
+<p> THU AM: 45 </p>
+<p> Find out ways to make Moms Life Easier in North Florida - South Georgia - </p>
+<p> MOMSEVERYDAY </p>
+<p> Buy the </p>
+<p> Common Cents Coupon Book </p>
+<p> worth $2000 for ONLY $20! </p>
+<p> $('#stickerHeaderWx').cycle({ fx: 'fade', speedIn: 1000, speedOut: 500, delay: -3000, timeout: 4000, cleartypeNoBg:true }); </p>
+<p> Fog </p>
+<p> Temp: 46.0 F (7.8 C) </p>
+<p> More Weather </p>
+<p> Tallahassee Regional Airport, FL </p>
+<p> Fair </p>
+<p> Temp: 63.0 F (17.2 C) </p>
+<p> Wind Chill: 63 F (17 C) </p>
+<p> More Weather </p>
+<p> Apalachicola, FL </p>
+<p> Fair </p>
+<p> Temp: 52.0 F (11.1 C) </p>
+<p> Wind Chill: 63 F (17 C) </p>
+<p> More Weather </p>
+<p> Perry-Foley Airport, FL </p>
+<p> Partly Cloudy </p>
+<p> Temp: 53.0 F (11.7 C) </p>
+<p> Wind Chill: 63 F (17 C) </p>
+<p> More Weather </p>
+<p> Valdosta Regional Airport, GA </p>
+<p> Fair </p>
+<p> Temp: 50.0 F (10.0 C) </p>
+<p> Wind Chill: 48 F (9 C) </p>
+<p> More Weather </p>
+<p> Bainbridge, GA </p>
+<p> News </p>
+<p> Florida </p>
+<p> Georgia </p>
+<p> Good Morning Show </p>
+<p> Art, Do My Job! </p>
+<p> Helpful Links </p>
+<p> Traffic Updates </p>
+<p> Crime Stoppers </p>
+<p> Recent Arrests </p>
+<p> Court Cases </p>
+<p> Sex Offenders </p>
+<p> Pet Parade </p>
+<p> CBS News Live Feed </p>
+<p> Lottery </p>
+<p> National </p>
+<p> World </p>
+<p> Weather </p>
+<p> Local Weather </p>
+<p> Hurricane Headquarters </p>
+<p> Current Doppler Radar </p>
+<p> Pinpoint Radar Plus </p>
+<p> Your Wacky Weather </p>
+<p> Sports </p>
+<p> Local Sports </p>
+<p> High School Sports </p>
+<p> College Sports </p>
+<p> Scores </p>
+<p> Seminole Spotlight </p>
+<p> FAMU </p>
+<p> VSU </p>
+<p> NFL </p>
+<p> NBA </p>
+<p> MLB </p>
+<p> NHL </p>
+<p> NASCAR </p>
+<p> Fish & Wildlife </p>
+<p> Fish & Game Forecast </p>
+<p> Upload Your Sports Photos & Videos </p>
+<p> Health </p>
+<p> Health Links </p>
+<p> Health Matters </p>
+<p> Medical Minute </p>
+<p> Medical Edge </p>
+<p> Politics </p>
+<p> Local Politics </p>
+<p> National Politics </p>
+<p> The Usual Suspects </p>
+<p> Business </p>
+<p> Local Business </p>
+<p> National Business </p>
+<p> Product Recalls </p>
+<p> Eye on Business </p>
+<p> Gas Prices </p>
+<p> Financial </p>
+<p> Money Talks </p>
+<p> Stock Quotes </p>
+<p> Eye Report </p>
+<p> Community </p>
+<p> Calendar </p>
+<p> WCTV’s Chat Room </p>
+<p> Education </p>
+<p> In the Spotlight </p>
+<p> Forever Family </p>
+<p> Local Entertainment </p>
+<p> Entertainment Calendar </p>
+<p> Upload Your Local Entertainment Photos & Videos </p>
+<p> FSU Webcams </p>
+<p> Alligator Point Webcams </p>
+<p> St. George Island Webcams </p>
+<p> Opinion </p>
+<p> WCTV's Chat Room </p>
+<p> Announcements </p>
+<p> New Life </p>
+<p> Obituaries </p>
+<p> Birthdays </p>
+<p> Celebrations </p>
+<p> MomsEveryday </p>
+<p> Shop Here </p>
+<p> WCTVAutoMall </p>
+<p> Double Dollar Deals </p>
+<p> Common Cents Coupon Book </p>
+<p> Holiday Double Dollar Deals </p>
+<p> VIP Card – Silkisondan Karate </p>
+<p> VIP Player’s Card – Killearn Country Club </p>
+<p> VIP Player’s Card – Summerbrooke </p>
+<p> VIP Spa Card - Millennium </p>
+<p> Open House </p>
+<p> For Rent </p>
+<p> Ask the Experts </p>
+<p> Contests </p>
+<p> WCTV’s Pick with our Pros College Bowl Edition </p>
+<p> NASCAR’s Fast Lane Pro Racing Contest </p>
+<p> Jeopardy! EXP </p>
+<p> Pro Football Challenge 2011 </p>
+<p> Teacher of the Month </p>
+<p> Ringling Bros. and Barnum & Bailey Giveaway </p>
+<p> Food </p>
+<p> Mr. Food </p>
+<p> Celebrity Chef </p>
+<p> Restaurants </p>
+<p> Recipes </p>
+<p> Restaurant Review Blog </p>
+<p> Online Menus </p>
+<p> TV </p>
+<p> Programming </p>
+<p> Station Bios </p>
+<p> Contact Us </p>
+<p> News Team </p>
+<p> Sales Team </p>
+<p> Jobs at WCTV </p>
+<p> WCTV Internships </p>
+<p> Watch CBS Shows Now </p>
+<p> LawCall </p>
+<p> Dr. Oz </p>
+<p> WCTV2 </p>
+<p> function ChangeSize(Size) { 		document.getElementById("storyText").style.fontSize = Size; 	} 	function ChangeWeight(Weight) { 		document.getElementById("storyText").style.fontWeight = Weight; 	} </p>
+<p> var trkcid=137110613;var partnerID=42701; var _hb=1; </p>
+<p> Back to News </p>
+<p> var addthis_config = {"data_track_clickback":true}; addthis_options='favorites,email,digg,fark,google,live,myspace,twitter,facebook,delicious'; </p>
+<p> Posted: 2:12 PM Jan 11, 2012 </p>
+<p> DCF Releases Contractor Report Card </p>
+<p> The Department of Children and Families and the Florida Coalition for Children (FCC) unveiled a "Scorecard" targeted at measuring success as the nation’s preeminent social service network continues to evolve and protect Florida's families every day. </p>
+<p> Reporter: </p>
+<p> Florida Department of Children and Families Release </p>
+<p> Story </p>
+<p> 1 Comments </p>
+<p> function confirmAbuse(name,id) { 	if(name == "") { var name = "Anonymous"; } 	if(confirm("Report comment by " + name + " as abusive?")) { 		document.getElementById(id).submit() 	} } </p>
+<p> if (self['plpm'] && plpm['Top_Story_Ad']) document.write('<div style=\'text-align:center\'>');if (self['plpm'] && plpm['Top_Story_Ad']){ document.write(plpm['Top_Story_Ad']);} else if (self['plunpla'] && plunpla['5912']){document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=5912&c=6500&m=216&d=42701&a='+plunpla['5912']+'&pre=%3Cdiv+style%3D%27text-align%3Acenter%27%3E&post=%3C%2Fdiv%3E"></scr'+'ipt>'); } else {  if(self['plurp'] && plurp['5912']){} else {document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=5912&c=6500&m=216&d=42701&pre=%3Cdiv+style%3D%27text-align%3Acenter%27%3E&post=%3C%2Fdiv%3E"></scr'+'ipt>'); } }if (self['plpm'] && plpm['Top_Story_Ad']) document.write('</div>'); </p>
+<p> Font Size: </p>
+<p> TALLAHASSEE January 11, 2012 – The Department of Children and Families and the Florida Coalition for Children (FCC) today unveiled a "Scorecard" targeted at measuring success as the nation’s preeminent social service network continues to evolve and protect Florida's families every day. </p>
+<p> The Scorecard was developed in conjunction with the 20 community-based care lead agencies across the state. These nonprofit organizations contract with the state to handle all prevention, foster care, adoption and Independent Living services to children and families in the child welfare system. The Scorecard will be updated monthly and evaluate the lead agencies on 12 key measures to determine how well they are meeting the most critical needs of these at-risk children. </p>
+<p> “Florida’s system of community-based care has become a national model over the past decade,” said Department Secretary David Wilkins. “This tool will allow the sharing of best practices and ensure proven successful methods are being used statewide to further improve child safety and well-being.” </p>
+<p> The scorecard will measure the lead agencies across each indicator, including child safety, family preservation, adoptions, and well-being of children in foster care such as medical and dental services and educational goals. </p>
+<p> “As providers, the community-based care system is one of the most closely monitored and evaluated systems in the state, perhaps in the country even," </p>
+<p> said Mike Cusick, FCC president and CEO.  "Our goal in working to develop this scorecard with DCF is to ensure that the measures highlight areas where we are succeeding, while identifying areas of improvement to ensure the system achieves its ultimate goal of keeping kids safe and building strong families." </p>
+<p> The Scorecard and an explanation of the measurements are available online at http://www.dcf.state.fl.us/programs/cbc/cbcaccountability.shtml </p>
+<p> Latest Comments </p>
+<p> Posted by:  Random Government employee </p>
+<p> on Jan 11, 2012 at 05:42 PM </p>
+<p> A new menas to tabulate how much more money they can ask for next year because as everyone knows the only way to improve child protection in Florida is to throw more money at it when it is failing to succeed. </p>
+<p> Click here to post  or read all 1 comments. </p>
+<p> More Stories </p>
+<p> City Commission Names New Treasurer-Clerk </p>
+<p> FSU's National Hero Tribute </p>
+<p> New Poll Suggests Close Race Between Obama and GOP Nominee in FL </p>
+<p> [UPDATE]: Man Faces 25 to Life for Tallahassee Shooting </p>
+<p> Activists: Farmers Don't Take My Kodachrome Away </p>
+<p> MARTA Shooting </p>
+<p> Florida voting begins </p>
+<p> Florida Management Director Dies </p>
+<p> #divWNVideoCanvas20652 {top:24px; left:0px; position:absolute} #divWNGallery20652 {top:263px; left:0px; position:absolute} #divWNHeadline20652 {top:0px; left:0px; position:absolute} #divWNWidgetsContainer20652 {position:relative} </p>
+<p> var wnWidgetId_20652;  if (wnWidgetId_20652 == undefined) wnWidgetId_20652 = "20652";  var WNVideoCanvas20652 = new WNVideoWidget("WNVideoCanvas", "divWNVideoCanvas20652"); WNVideoCanvas20652.SetStylePackage("flatlight"); WNVideoCanvas20652.SetVariable("widgetId", wnWidgetId_20652); WNVideoCanvas20652.SetVariable("addThisDivId", "divWNImageCanvas20652_addThis"); WNVideoCanvas20652.SetVariable("incanvasAdDivId", "divWNImageCanvas20652_adDiv"); WNVideoCanvas20652.SetVariable("isMute", "false"); WNVideoCanvas20652.SetVariable("isAutoStart", "false"); WNVideoCanvas20652.SetVariable("playbackMaxBitrate", ""); WNVideoCanvas20652.SetVariable("assignablelink", "http%253A%252F%252Fapi.worldnow.com%252Ffeed%252Fv2.0%252Fwidgets%252F20652%253Falt%253Djs"); WNVideoCanvas20652.SetWidth(300); WNVideoCanvas20652.SetHeight(240); WNVideoCanvas20652.RenderWidget();  var WNGallery20652 = new WNVideoWidget("WNGallery", "divWNGallery20652"); WNGallery20652.SetStylePackage("flatlight"); WNGallery20652.SetVariable("widgetId", wnWidgetId_20652); WNGallery20652.SetVariable("addThisDivId", "divWNImageCanvas20652_addThis"); WNGallery20652.SetVariable("incanvasAdDivId", "divWNImageCanvas20652_adDiv"); WNGallery20652.SetVariable("rows", "4"); WNGallery20652.SetVariable("columns", "1"); WNGallery20652.SetVariable("playbackFormat", "flv-application/octet-stream,video/x-flv,video/flash"); WNGallery20652.SetVariable("topVideoCatNo", "52958"); WNGallery20652.SetVariable("searchBorderWidth", "1"); WNGallery20652.SetVariable("searchBorderAlpha", "100"); WNGallery20652.SetWidth(300); WNGallery20652.SetHeight(365); WNGallery20652.RenderWidget();  var WNHeadline20652 = new WNVideoWidget("WNHeadline", "divWNHeadline20652"); WNHeadline20652.SetStylePackage("flatlight"); WNHeadline20652.SetVariable("widgetId", wnWidgetId_20652); WNHeadline20652.SetVariable("addThisDivId", "divWNImageCanvas20652_addThis"); WNHeadline20652.SetVariable("incanvasAdDivId", "divWNImageCanvas20652_adDiv"); WNHeadline20652.SetVariable("defaultTitleText", ""); WNHeadline20652.SetWidth(300); WNHeadline20652.SetHeight(25); WNHeadline20652.RenderWidget(); </p>
+<p> Most Viewed </p>
+<p> Most Popular </p>
+<p> Most Commented </p>
+<p> Student Stabbed on TCC's Campus </p>
+<p> Video Voyeurism? Man Arrested for Grocery Cart Camera </p>
+<p> Calls For Hate Crime Investigation in FAMU Hazing Death </p>
+<p> Robbery Attempt Outside State Office Building </p>
+<p> LCSO: Deputies Arrest Man for Stealing Scrap Metal </p>
+<p> [UPDATE] Landlords Want Tenants Out: Tenants Evicted </p>
+<p> Gov. Deal Suspends 3 Brooks Co. School Board Members </p>
+<p> Casey Anthony Says Computer Was Hacked </p>
+<p> Browning to Step Down, Will Stay Thru Primary </p>
+<p> DCF Announces $72 Million in Grants to Help Homeless Across Florida </p>
+<p> Gov. Deal Suspends 3 Brooks Co. School Board Members </p>
+<p> 201 Comments </p>
+<p> [UPDATE] Judge: Claims in Other States OK at Fugitive Trial </p>
+<p> 163 Comments </p>
+<p> Protesters Converge on Capitol </p>
+<p> 81 Comments </p>
+<p> Video Voyeurism? Man Arrested for Grocery Cart Camera </p>
+<p> 67 Comments </p>
+<p> [UPDATE]: Man Faces 25 to Life for Tallahassee Shooting </p>
+<p> 53 Comments </p>
+<p> Calls For Hate Crime Investigation in FAMU Hazing Death </p>
+<p> 50 Comments </p>
+<p> initializetabcontent("maintab6515367"); </p>
+<p> Home </p>
+<p> News </p>
+<p> Weather </p>
+<p> Sports </p>
+<p> Contests </p>
+<p> Station Info </p>
+<p> DTV Info </p>
+<p> RSS </p>
+<p> Site Map </p>
+<p> Terms of Use </p>
+<p> PRIVACY POLICY/YOUR CALIFORNIA PRIVACY RIGHTS </p>
+<p> Advertising Non-Discrimination Certification </p>
+<p> EEO Statement </p>
+<p> Mobile Site </p>
+<p> Gray Television, Inc. - Copyright © 2002-2012 - Designed by Gray Interactive Media - Powered by Clickability  - </p>
+<p> Story ID: 137110613 </p>
+<p> _qoptions={ qacct:"p-423IyeSlam-w-" }; </p>
+<p> var _comscore = _comscore || []; _comscore.push({ c1: "2", c2: "6036361" }); (function() { var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true; s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js"; el.parentNode.insertBefore(s, el); })(); </p>

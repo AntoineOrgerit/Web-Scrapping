@@ -1,0 +1,70 @@
+<p> 微創手術練功  電腦來幫忙｜新聞速報｜中時樂活｜中時電子報 </p>
+<p> var sChannel = 'life'; //在此設定主頻道列代碼      var FocusCategory = "T01"; </p>
+<p> 樂活首頁 </p>
+<p> 新聞速報 </p>
+<p> 引用 </p>
+<p> 轉寄 </p>
+<p> 列印 </p>
+<p> 字體： </p>
+<p> 小 </p>
+<p> ． </p>
+<p> 中 </p>
+<p> ． </p>
+<p> 大 </p>
+<p> document.write('<span class="google-plusone"><g:plusone size="small" href="' + encodeURIComponent(String(window.location)) + '"></g:plusone></span>'); </p>
+<p> document.write('<iframe src="http://www.facebook.com/plugins/like.php?href='+ encodeURIComponent(String(window.location))+'&amp;layout=button_count&amp;show_faces=false&amp;width=90&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border: none; overflow: hidden; width: 90px; height: 21px; position: relative; top: 5px;" allowTransparency="true"></iframe>'); </p>
+<p> 微創手術練功  電腦來幫忙 </p>
+<p> 2012-01-12 </p>
+<p> 新聞速報 </p>
+<p> 中央社 </p>
+<p> 三軍總醫院和台灣科技大學合作，研發新一代微創手術訓練系統，可在住院醫師對著人體模型「練功」時，電腦模擬系統自動打分數、找錯誤，協助醫師提升「功力」。 </p>
+<p> 三總大腸直腸外科主治醫師李家政今天指出，這套系統將8位老手醫師示範手術技巧當成範本，當住院醫師、醫學院學生等生手要來練習夾、切、縫、避開神經、找到手術部位等技巧時，可以知道自己花了多少時間、哪裡出了錯。 </p>
+<p> 李家政舉例說明，用微創手術器械夾取模擬腫瘤的豆子，老手2分鐘內就能夾乾淨，新手在練習後，電腦模擬系統不但會計算時間，還會打分數，很像電玩遊戲自動打成績，同時顯示手的穩定程度，秀出誤觸其他部位、搞錯下刀部位等紀錄。 </p>
+<p> 目前微創手術的訓練主要依靠簡易的練習器具，或犧牲小豬、兔子，讓新手醫師練功的動物實驗來進行。三總院方應用這套系統，可以客觀評估外科醫師對微創手術的熟悉度與技巧，增加手術的安全性。 </p>
+<p> 他說，微創手術已成外科手術主流，利用手術器械和鏡頭插進病人體內進行手術，病人體表只有幾個2到3公分的切口，術後恢復快；然而醫師盯著內視鏡頭操作手中的器械，手眼要協調，手巧又要穩，才能在僅只1個硬幣大小的空間，手到病除。1010112 </p>
+<p> <!-- function delCookie(name){ 	document.cookie = name + "=; expires=Thu, 01-Jan-70 00:00:01 GMT" + "; path=/"; } delCookie("UNI_ID"); var Channel = "LIFE";																			//頻道 var UNI_ID = "132012011201582";																	//文章ID var define_content_1 = "微創手術練功  電腦來幫忙";													//標題 var define_content_2 = "http://life.chinatimes.com/2009Cti/Channel/Life/life-article/0,5047,130518+132012011201582,00.html";		//連結 var define_content_3 = "中時樂活";																	//分類名稱 var define_content_4 = "130518";															//分類ID var define_content_5 = "2012.01.12";	 var define_content_6 = "18";	 //--> </p>
+<p> MakeCTIweb20 (); </p>
+<p> var param_partner = "cti_tw_life_cm"; 		  		var param_ctxtID="cti_tw_travel_001";  		 var ysm_maxCount = 4;         document.write("<script src='http://www.chinatimes.com/2009Cti/cthead/Scripts-utf8/yahoo.js' charset='utf-8'></sc" + "ript>"); </p>
+<p> 更多 新聞速報  新聞 </p>
+<p> 流感急速升溫 疾管局再籲注意個人衛生 </p>
+<p> 母嬰醫療評鑑 新北東和診所奪冠 </p>
+<p> 天冷抵抗力弱  齒源膿瘍患者多 </p>
+<p> 腕隧道症候群 我列職業病 </p>
+<p> 年節大掃除 使用協助工具、動作別太大 </p>
+<p> 銀髮族 飲食要保「密」 改造能防「跌」 </p>
+<p> 乾癬患者  動脈較易堵塞 </p>
+<p> 貧血  小心大腸癌上身 </p>
+<p> 一百零三學年 明星高中如何入學傷腦筋 </p>
+<p> 中市：12年國教仍有名校迷思 </p>
+<p> <!-- 	function Gotoform(sel) { 	j=sel.selectedIndex; 	s=sel.options[j].value; 	if ( s != "null" ) parent.location= s; 	} 	//--> </p>
+<p> -----------------更多 新聞速報 ---------------- </p>
+<p> 獲教育獎章 學者願當科教義工 </p>
+<p> 連假多  各縣市幼兒園退費不一 </p>
+<p> 母嬰親善哺乳 診所拚認證 </p>
+<p> 春節東部幹線車票20、22日還有餘位 </p>
+<p> 投票日  國道估湧200萬車潮 </p>
+<p> 周六起中橫開放行車時段十噸以下車輛通行 </p>
+<p> 運雞貨車車禍  國道警驚險捉雞 </p>
+<p> 8大社福津貼 內政部春節前發畢 </p>
+<p> 1/16前 6道年菜送千戶弱勢家庭 </p>
+<p> 目睹家暴兒 女生受創難被發現 </p>
+<p> 除夕至初三上班  工資應加倍 </p>
+<p> 新北百貨勞檢 2/3超時工作或連續出勤 </p>
+<p> 冷氣團減弱了 晚上出門仍有寒意 </p>
+<p> 周六晚起全台轉有雨 年節假期有兩波冷氣團 </p>
+<p> 基隆宜蘭降雨機率高  全台多雲 </p>
+<p> 北部濕冷 全台雲量偏多 </p>
+<p> 新春祈福  法鼓山藝文美食滿載 </p>
+<p> NCC審頻道  七家需改善 </p>
+<p> 僑胞回台投票  飯店住房率微增 </p>
+<p> spac_writeAd ( "/SITE=CHINATIMES.TW/AREA=NEWS.HP/AAMSZ=292X22/POSITION=RIGHT01" ); </p>
+<p> spac_writeAd ( "/SITE=CHINATIMES.TW/AREA=NEWS.HP/AAMSZ=292X22/POSITION=RIGHT02" ); </p>
+<p> spac_writeAd ( "/SITE=CHINATIMES.TW/AREA=NEWS.HP/AAMSZ=292X22/POSITION=RIGHT03" ); </p>
+<p> spac_writeAd ( "/SITE=CHINATIMES.TW/AREA=NEWS.HP/AAMSZ=292X22/POSITION=RIGHT04" ); </p>
+<p> spac_writeAd ( "/SITE=CHINATIMES.TW/AREA=NEWS.HP/AAMSZ=292X22/POSITION=RIGHT05" ); </p>
+<p> spac_writeAd ( "/SITE=CLIFE.TW/AREA=LIFE.CP/AAMSZ=300X100/POSITION=RIGHTC" ); </p>
+<p> var bNeedCtiMenu=true; </p>
+<p> $("#comment").renderReply({                  Page_Size: 10              }, function(data) {                  $("#commentcount").html("<a href='#comment' class='comment'>迴響</a>：<span class='highlight'>" +                                          (typeof (data.ReplyCount) == "undefined" ? 0 : data.ReplyCount) + "篇</span>");              }); </p>
+<p> bust = Math.floor(1000000*Math.random()); document.write('<'+'SCRIPT LANGUAGE="JavaScript1.1" SRC="http://ad2.dotmore.com.tw/verify.aspx?w=84&charset=big5&ord='+bust+'?">'); document.write('</'+'SCRIPT>'); </p>
+<p> var _gaq = _gaq || [];      _gaq.push(['_setAccount', 'UA-949390-1']);    _gaq.push(['_trackPageview']);   _gaq.push(['_trackPageLoadTime']);    (function() {     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);   })(); </p>
+<p> _atrk_opts = { atrk_acct: "JvLre1aYs600Mr", domain:"chinatimes.com"}; atrk (); </p>

@@ -1,0 +1,550 @@
+<p> ����������˾����� ����������Ѻ�/title> </p>
+<p> #chLogo .left{width:660px} #chLogo .right{width:315px}  #contentA,#contentC{background:url(http://news.sohu.com/upload/pagerevision20090916/bgy.gif) repeat-y} #contentA .argue .btn span,.function .commentLink,.function .copylink,.function .fontSize,.function .editor,.lbgA,.lbgB,.rbgA,.rbgB,.lnowA,.rnowA{background:url(http://news.sohu.com/upload/pagerevision20090916/icon.gif) no-repeat} #contentC{background-position:-980px 0}  .line{background:url(http://news.sohu.com/upload/pagerevision20090916/xx1.gif);height:1px;width:92%;margin:0 auto;overflow:hidden;clear:both;font-size:1px} .lineA{background:#4273B3;height:3px;clear:both;font-size:1px;} .bordA{border-top:2px #AFC5DB solid} .bgA{background:#F4F4F4} .bgB{background:#ECF1F6}  /* ������ */ #contentA .boxA{height:257px;overflow:hidden} #contentA .boxA .f14b{font-size:14px;font-weight:bold}  /* ������� */ #contentA .boxB{height:301px;overflow:hidden} #contentA .boxB .snList li em{background:#8AA8C6;border:1px #8AA8C6 solid;color:#FFF}  /* ����� */ #contentA .boxC{height:392px;overflow:hidden} #contentA .boxC .list12 ul{clear:both;margin:12px auto 10px} #contentA .boxC .look{margin:10px auto 0} #contentA .boxC .look h3{height:21px;padding:0 12px;margin:0 auto 4px;} #contentA .boxC .look h3 span{float:left;width:60px;height:16px;padding-top:5px;background:#8AA8C6;font-weight: bold;color:#FFF;line-height:14px} #contentA .boxC .look p{padding-left:16px;text-align:left;line-height:24px}  .title{height:28px;padding:0 16px;border-bottom:2px #AFC5DB solid;background:#FFF;color:#333;line-height:28px;text-align:right} .title span{float:left;font-weight: bold;font-size:14px}  /* Ƶ����� */ #contentA .blockA{width:675px;margin:18px 0 0 auto;border:1px #E8E8E8 solid;border-left:0;border-right:0} #contentA .blockA .l{width:284px;margin-left:30px} #contentA .blockA .r{width:284px;margin-right:28px;padding-left:26px;border-left:1px #E8E8E8 solid;} #contentA .blockA h2{height:24px;margin:14px auto 0;line-height:24px} #contentA .blockA h2 span{font-size:14px} #contentA .blockA .pt{margin:8px auto 0;color:#333;line-height:18px} #contentA .blockA .pt div{margin-right:12px} #contentA .blockA .pt h4{margin-bottom:6px;font-weight: bold;color:#004276;line-height:18px;font-size:14px} #contentA .blockA .list12 ul{margin:20px auto 0} #contentA .blockA .list12 .more{margin:0 auto 11px;padding-right:6px;line-height:24px} #contentA .blockA .list14 ul{margin:20px auto 0} #contentA .blockA .list14 li{background:url(http://images.sohu.com/uiue/dot.gif) no-repeat;background-position:0 0;padding:5px 0 5px 14px} #contentA .blockA .list14 .more{margin:0 auto 11px;padding-right:6px;line-height:24px} #contentA .blockAA{border-top:0;margin:0 0 0 auto;}  .blogHot{height:290px} #contentA .left .blockA{display:none} #contentA .left .blockAA{display:block}  /* ��� 2010-09-08 */ #contentA .coverAge .pp{width:632px} #contentA .coverAge .pp li{width:146px;height:114px;padding-top:2px;margin:0 5px 10px;border:1px #E8E8E8 solid;} #contentA .coverAge .pp h5{height:20px;} </p>
+<p> //Ԫ���ƣ�m_n; tab_m_n //count:�����ĸ� function showDiv(m,n,count){ 	for(var i=1;i<=count;i++){ 	if (i==n){			 		getObject("li_"+m+"_"+i).className="libg"; 		getObject("div_"+m+"_"+i).className="show"; 	}else { 		getObject("li_"+m+"_"+i).className=""; 		getObject("div_"+m+"_"+i).className="hidden"; 		} 	} }  function getObject(objectId) { 	if(document.getElementById && document.getElementById(objectId)) { 	// W3C DOM 	return document.getElementById(objectId); 	} else if (document.all && document.all(objectId)) { 	// MSIE 4 DOM 	return document.all(objectId); 	} else if (document.layers && document.layers[objectId]) { 	// NN 4 DOM.. note: this won't find nested layers 	return document.layers[objectId]; 	} else { 	return false; 	}	 }  function showFontSize(){ 	var fontSizeLayer = jQuery("#font_size_lay"); 	if(fontSizeLayer.display == "none"){ 		fontSizeLayer.addClass("hidden"); 	}else{ 		fontSizeLayer.removeClass("hidden"); 	} 	 	fontSizeLayer.hover(function(){			 		fontSizeLayer.removeClass("hidden"); 	},function(){		 		fontSizeLayer.addClass("hidden"); 	})	 }  function showtab(m,n,count){     for(var i=1;i<=count;i++){        if (i==n){                    jQuery("#td_"+m+"_"+i).addClass("libg");                     jQuery("#tab_"+m+"_"+i).removeClass("hidden").addClass("show");            }        else {            jQuery("#td_"+m+"_"+i).removeClass("libg");            jQuery("#tab_"+m+"_"+i).removeClass("show").addClass("hidden");            }     } }  //ת����� function doZoom(size){	 	jQuery("#contentText").css("fontSize",size); }  function copyLink(){ 	try { 		var cText =  document.location.toString(); 		if (window.clipboardData) { 			window.clipboardData.setData("Text", cText); 			alert("������"); 		} else if (window.netscape) { 			try { 				netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect"); 			} catch (e) { 				alert("��������Ϊ���������\n����˲����������'about:config'���س�\nȻ��signed.applets.codebase_principal_support'��Ϊ'true',���������; 				return false; 			} 			var clip = Components.classes['@mozilla.org/widget/clipboard;1'].createInstance(Components.interfaces.nsIClipboard); 			if (!clip)  				return; 			var trans = Components.classes['@mozilla.org/widget/transferable;1'].createInstance(Components.interfaces.nsITransferable); 			if (!trans) { 				return; 			} 			trans.addDataFlavor('text/unicode'); 			var str = new Object(); 			var len = new Object(); 			var str = Components.classes["@mozilla.org/supports-string;1"].createInstance(Components.interfaces.nsISupportsString); 			 			str.data = cText; 			trans.setTransferData("text/unicode", str, cText.length * 2); 			var clipid = Components.interfaces.nsIClipboard; 			if (!clip)  				return false; 			clip.setData(trans, null, clipid.kGlobalClipboard); 			alert("������"); 		} 	} catch (e) { 	} };  //ý��Դ function media_span_url(id_media_span_url) {     if(id_media_span_url) {         id_media_span = $('media_span');         if(!id_media_span.getElementsByTagName('a').length) {             id_media_span.innerHTML = '<a href=\'' + id_media_span_url + '\' target=\'_blank\'>' + id_media_span.firstChild.nodeValue + '</a>';         }     } }  function switchAnonymous(){ 	var author = $("author") 	var anonymous = $("anonymous") 	if (anonymous.checked) { 		author.value = "���; 		anonymous.value = "true"; 	} else { 		author.value = ""; 		anonymous.value = "false"; 		author.focus(); 	} }  function changeAuthor(){ 	var author = $("author"); 	var anonymous = $("anonymous"); 	if (author.value != "���) { 		anonymous.checked = false; 		anonymous.value = "false"; 	} else { 		anonymous.checked = true; 		anonymous.value = "true"; 	} 	 }  function switchDebate(){ 	var title = $("comment.title") 	var debate = $("comment.debate") 	 	if (debate.checked) { 		title.value = ""; 		debate.value = "true"; 		title.disabled = false; 		 	} else { 		debate.value = "false"; 		title.value = "��������������������"; 		title.disabled = true; 	} }  function comment(){ 	if ($('argueForm').style.display == '') { 		$('argueForm').style.display = 'none'; 		$('replyForm').style.display = ''; 	} else { 		$('argueForm').style.display = ''; 		$('replyForm').style.display = 'none'; 	} 	switchDebate(); }  var clickCount = 0; var contentText = "��Ҫע����ܲ�뻰���������������������ע���������Ѻ�0��; function clearCommentContent(oObject){ 	clickCount++; 	if (clickCount == 1) { 		oObject.value = ""; 	} }  function checkCommentContent(oObject){ 	if (clickCount == 0) alert("���д��ĸ����"); 	else if (checkInput() != false) oObject.form.submit(); } function creset(){ 	if($("argueForm").style.display == "none"){ 		$("ccontent").value = contentText; 	}else{ 		$("comment.title").value = ""; 		$("spcontent").value = ""; 		$("opcontent").value = contentText; 	} }  function printArticle() { 	jQuery.getScript("http://news.sohu.com/upload/20100413/print_roll.min.js",function(){printer.print()},true) }  function showLayer(sele, lay){ 	var layer = jQuery("#"+lay); 	var sele = jQuery("#"+sele); 	var layerShow = false; 	if(layer.display == "none"){ 		layer.addClass("hidden"); 		sele.removeClass("seleOvr"); 	}else{ 		layer.removeClass("hidden"); 		sele.addClass("seleOvr"); 	} 	sele.mouseout(function(event){ 		window.setTimeout(function(){			 			if(!layerShow){ 				layer.addClass("hidden"); 				sele.removeClass("seleOvr"); 			}	 		},1000)		 	}) 	layer.hover(function(){	 		layerShow = true;		 		layer.removeClass("hidden"); 	},function(){	 		layerShow = false;	 		layer.addClass("hidden"); 		sele.removeClass("seleOvr"); 	})	 }  function submitForm(){  	var topicId="332467071"; 	var topicTitle = '����������˾����� ����������  	var topicSummary = '���������������ͼGJ<br><br><br><br><br><br><br><br><br>��������֡����������Ƶ�ǡ��ţ��������Э�͡��ţ��Ӫ����������������˾�ϯִ��ٸ�˹��������������Ϊʧ�������'; 	var topicUrl = 'http://news.sohu.com/20120117/n332467071.shtml';  	var pp = 'ixinminwang@sohu.com';//"passport"; 	var str = Base64 ? Base64.encode(/focus\.cn$/ig.test(pp) ? (pp + "@focus.cn") : pp) : pp;   win = window.open( '', 'qing_share', 'width=700,height=600,scrollbars=no'); 	$("#frm_title").val("topicTitle"); 	$("#frm_content").val(topicSummary); 	$("#frm_url").val(topicUrl); 	$("#frm_xpt").val(str); 	$("#frm_newsId").val(topicId); 	$("#frm").submit(); }  function jumpUrl(x){ 	var url = '', e = encodeURIComponent, s = screen, d = document, wd = 0, hg = 0, u = d.location; 	if(x=='t'){ 		url ="http://t.sohu.com/third/post.jsp?link="+e(u.href)+"&title="+e(d.title); 		wd = 660;hg = 470; 	}else if(x=='bai'){ 		url ="http://bai.sohu.com/share/blank/addbutton.do?link="+e(u.href)+"&title="+e(d.title); 		wd = 480;hg = 340; 	}else if(x=='douban'){ 		url ="http://www.douban.com/recommend/?url="+e(u.href)+"&title="+e(d.title); 		wd = 460;hg = 340; 	}else if(x=='renren'){ 		url ="http://share.renren.com/share/buttonshare?link="+e(u.href)+"&title="+e(d.title); 		wd = 590;hg = 430; 	}else if(x=='kaixin'){ 		url ="http://www.kaixin001.com/repaste/share.php?rurl="+e(u.href)+"&rtitle="+e(d.title); 		wd = 540;hg = 360; 	}else if(x=='itb'){ 		var ctxt = $('contentText').getElementsByTagName('p').length>0?$('contentText').getElementsByTagName('p')[0].innerHTML.replace(/<[^>].*?>/g,'').substr(0,120):''; 		url ="http://tieba.baidu.com/i/sys/share?link="+e(u.href)+"&type=text&title="+e(d.title)+"&content="+e(ctxt); 		wd = 626;hg = 436; 	}else if(x=='go139'){ 		url ="http://go.139.com/ishare.do?shareUrl="+e(u.href)+"&title="+e(d.title)+"&sid=20dd04a99380c2e8d56cf187f6658169"; 		wd = 630;hg = 500; 	}else if(x=='qq'){ 		url ="http://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url="+e(u.href); 		wd = 900;hg = 500; 	} 	 	function a(){ 		if (!window.open(url, 'sohushare', ['toolbar=0,status=0,resizable=1,width='+ wd +',height='+ hg +',left='+ (s.width - wd) / 2+ ',top='+ (s.height - hg) / 2])) 			u.href = [url].join(''); 	} 	if (/Firefox/.test(navigator.userAgent)){ 		setTimeout(a, 0); 	}else{ 		a(); 	} 	 	var stat = (new Image);                                                      	stat.src = "http://219.234.82.222/zhuanfa/index.php?newsId=" + /http:\/\/(.*)(\.sohu.com\/.*\/n)(.{9})/g.exec(document.location)[3] + "&newsName=" + e(d.title) + "&newsUrl=" + d.location.href + "&postId=" + x; } </p>
+<p> var sogou_is_brand = new Object();         sogou_is_brand["pid"]  = 'sohu__brand';         sogou_is_brand["charset"]   = 'gb2312';         sogou_is_brand["sohuurl"] = document.location.href; </p>
+<p> jQuery.noConflict(); </p>
+<p> if(window.location.href.getQueryString("ip")==null) AdLoc=sohu_IP_Loc.substr(0,4); else AdLoc=window.location.href.getQueryString("ip"); </p>
+<p> switch (AdLoc) {          case "CN44"://�㶫              if(sohu_IP_Loc.substr(0,6)=='CN4403'||sohu_IP_Loc.substr(0,6)=='CN4419'||sohu_IP_Loc.substr(0,6)=='CN4413'){               //�� ���������ݸ����� document.getElementById('69d3d0cd8a756eb3ace1e918e7123777').innerHTML ='<a href="http://egou.focus.cn/" target=_blank><img src="http://images.sohu.com/bill/s2009/focus/egf142_80.gif" border=0 width=142 height=80></img></a>';              }else{              //�� ��������ݸ��������Ĺ㶫���cument.getElementById('69d3d0cd8a756eb3ace1e918e7123777').innerHTML ='<a href="http://egou.focus.cn/" target=_blank><img src="http://images.sohu.com/bill/s2009/focus/egf142_80.gif" border=0 width=142 height=80></img></a>';          }              break;          case "CN31"://��� document.getElementById('69d3d0cd8a756eb3ace1e918e7123777').innerHTML ='<a href="http://egou.focus.cn/" target=_blank><img src="http://images.sohu.com/bill/s2009/focus/egf142_80.gif" border=0 width=142 height=80></img></a>';              break;          case "CN12"://���ocument.getElementById('69d3d0cd8a756eb3ace1e918e7123777').innerHTML ='<a href="http://egou.focus.cn/" target=_blank><img src="http://images.sohu.com/bill/s2009/focus/egf142_80.gif" border=0 width=142 height=80></img></a>';              break;          case "CN32"://���������� document.getElementById('69d3d0cd8a756eb3ace1e918e7123777').innerHTML ='<a href="http://egou.focus.cn/" target=_blank><img src="http://images.sohu.com/bill/s2009/focus/egf142_80.gif" border=0 width=142 height=80></img></a>';              break;          case "CN33"://���������� document.getElementById('69d3d0cd8a756eb3ace1e918e7123777').innerHTML ='<a href="http://egou.focus.cn/" target=_blank><img src="http://images.sohu.com/bill/s2009/focus/egf142_80.gif" border=0 width=142 height=80></img></a>';              break;          case "CN37"://ɽ������ϣ� document.getElementById('69d3d0cd8a756eb3ace1e918e7123777').innerHTML ='<a href="http://egou.focus.cn/" target=_blank><img src="http://images.sohu.com/bill/s2009/focus/egf142_80.gif" border=0 width=142 height=80></img></a>';              break;          case "CN50"://�� document.getElementById('69d3d0cd8a756eb3ace1e918e7123777').innerHTML ='<a href="http://egou.focus.cn/" target=_blank><img src="http://images.sohu.com/bill/s2009/focus/egf142_80.gif" border=0 width=142 height=80></img></a>';              break;          case "CN51"://������ɶ��� document.getElementById('69d3d0cd8a756eb3ace1e918e7123777').innerHTML ='<a href="http://egou.focus.cn/" target=_blank><img src="http://images.sohu.com/bill/s2009/focus/egf142_80.gif" border=0 width=142 height=80></img></a>';              break;          case "CN61"://��������� document.getElementById('69d3d0cd8a756eb3ace1e918e7123777').innerHTML ='<a href="http://egou.focus.cn/" target=_blank><img src="http://images.sohu.com/bill/s2009/focus/egf142_80.gif" border=0 width=142 height=80></img></a>';              break;          default://���������ȣ� document.getElementById('69d3d0cd8a756eb3ace1e918e7123777').innerHTML ='<a href="http://egou.focus.cn/" target=_blank><img src="http://images.sohu.com/bill/s2009/focus/egf142_80.gif" border=0 width=142 height=80></img></a>';      } </p>
+<p> try{ var TurnAD23=new Cookie(document,"TurnAD23",24); TurnAD23.load(); TurnAD23.visit=(TurnAD23.visit==null)?parseInt(Math.random()*2+1):TurnAD23.visit; if(TurnAD23.visit!=0)var intTurnAD23=TurnAD23.visit; TurnAD23.visit++; TurnAD23.visit=(TurnAD23.visit>2)?1:TurnAD23.visit; TurnAD23.store(); function showTurnAD23(basenum){ if (basenum==1){ var sohuFlash2 = new sohuFlash("http://images.sohu.com/bill/s2012/tiantianqi/haier/jan/yundianshi/590950111.swf","_3871b907a739a49886a8f22792311d79","590","95","7"); sohuFlash2.addParam("quality", "high"); sohuFlash2.addParam("wmode", "opaque"); sohuFlash2.addVariable("clickthru",escape("http://sohu.ad-plus.cn/event.ng/Type=click&FlightID=201112&TargetID=sohu&Values=3871b907,a739a498,86a8f227,92311d79&AdID=3230040")); if(typeof(document.pv)=='undefined') document.pv = new Array();var _a=new Image();var _b=new Image(); _a.src='http://alpha.brand.sogou.com/brand_pv?md5=3871b907a739a49886a8f22792311d79';document.pv.push(_a); _b.src='http://imp.ad-plus.cn/201112/3871b907a739a49886a8f22792311d79.php?a=99';document.pv.push(_b);sohuFlash2.write("TurnAD23");} else{ var sohuFlash2 = new sohuFlash("http://images.sohu.com/bill/s2011/jiaren/guanfeng/590x95_20K.swf","_d3b91be17dd4ec1e127e3d3c5bab874f","590","95","7"); sohuFlash2.addParam("quality", "high"); sohuFlash2.addParam("wmode", "opaque"); sohuFlash2.addVariable("clickthru",escape("http://sohu.ad-plus.cn/event.ng/Type=click&FlightID=201201&TargetID=sohu&Values=d3b91be1,7dd4ec1e,127e3d3c,5bab874f&AdID=11261408")); if(typeof(document.pv)=='undefined') document.pv = new Array();var _a=new Image();var _b=new Image(); _a.src='http://alpha.brand.sogou.com/brand_pv?md5=d3b91be17dd4ec1e127e3d3c5bab874f';document.pv.push(_a); _b.src='http://imp.ad-plus.cn/201201/d3b91be17dd4ec1e127e3d3c5bab874f.php?a=99';document.pv.push(_b); sohuFlash2.write("TurnAD23");} } showTurnAD23(intTurnAD23); }catch(e){} </p>
+<p> if(window.location.href.getQueryString("ip")==null) AdLoc=sohu_IP_Loc.substr(0,4); else AdLoc=window.location.href.getQueryString("ip"); </p>
+<p> switch (AdLoc) {          case "CN44"://�㶫              if(sohu_IP_Loc.substr(0,6)=='CN4403'||sohu_IP_Loc.substr(0,6)=='CN4419'||sohu_IP_Loc.substr(0,6)=='CN4413'){               //�� ���������ݸ����� document.getElementById('69d3d0cd8a756eb3ace1e918e7b4168e').innerHTML ='<a href="http://house.focus.cn/ztdir/house_mgkft2/bj.php" target=_blank><img src="http://images.sohu.com/bill/s2009/focus/1meiguo.jpg" border=0 width=142 height=80></img></a>';              }else{              //�� ��������ݸ��������Ĺ㶫���cument.getElementById('69d3d0cd8a756eb3ace1e918e7b4168e').innerHTML ='<a href="http://house.focus.cn/ztdir/house_mgkft2/bj.php" target=_blank><img src="http://images.sohu.com/bill/s2009/focus/1meiguo.jpg" border=0 width=142 height=80></img></a>';          }              break;          case "CN31"://��� document.getElementById('69d3d0cd8a756eb3ace1e918e7b4168e').innerHTML ='<a href="http://house.focus.cn/ztdir/house_mgkft2/bj.php" target=_blank><img src="http://images.sohu.com/bill/s2009/focus/1meiguo.jpg" border=0 width=142 height=80></img></a>';              break;          case "CN12"://���ocument.getElementById('69d3d0cd8a756eb3ace1e918e7b4168e').innerHTML ='<a href="http://house.focus.cn/ztdir/house_mgkft2/bj.php" target=_blank><img src="http://images.sohu.com/bill/s2009/focus/1meiguo.jpg" border=0 width=142 height=80></img></a>';              break;          case "CN32"://���������� document.getElementById('69d3d0cd8a756eb3ace1e918e7b4168e').innerHTML ='<a href="http://house.focus.cn/ztdir/house_mgkft2/bj.php" target=_blank><img src="http://images.sohu.com/bill/s2009/focus/1meiguo.jpg" border=0 width=142 height=80></img></a>';              break;          case "CN33"://���������� document.getElementById('69d3d0cd8a756eb3ace1e918e7b4168e').innerHTML ='<a href="http://house.focus.cn/ztdir/house_mgkft2/bj.php" target=_blank><img src="http://images.sohu.com/bill/s2009/focus/1meiguo.jpg" border=0 width=142 height=80></img></a>';              break;          case "CN37"://ɽ������ϣ� document.getElementById('69d3d0cd8a756eb3ace1e918e7b4168e').innerHTML ='<a href="http://house.focus.cn/ztdir/house_mgkft2/bj.php" target=_blank><img src="http://images.sohu.com/bill/s2009/focus/1meiguo.jpg" border=0 width=142 height=80></img></a>';              break;          case "CN50"://�� document.getElementById('69d3d0cd8a756eb3ace1e918e7b4168e').innerHTML ='<a href="http://house.focus.cn/ztdir/house_mgkft2/bj.php" target=_blank><img src="http://images.sohu.com/bill/s2009/focus/1meiguo.jpg" border=0 width=142 height=80></img></a>';              break;          case "CN51"://������ɶ��� document.getElementById('69d3d0cd8a756eb3ace1e918e7b4168e').innerHTML ='<a href="http://house.focus.cn/ztdir/house_mgkft2/bj.php" target=_blank><img src="http://images.sohu.com/bill/s2009/focus/1meiguo.jpg" border=0 width=142 height=80></img></a>';              break;          case "CN61"://��������� document.getElementById('69d3d0cd8a756eb3ace1e918e7b4168e').innerHTML ='<a href="http://house.focus.cn/ztdir/house_mgkft2/bj.php" target=_blank><img src="http://images.sohu.com/bill/s2009/focus/1meiguo.jpg" border=0 width=142 height=80></img></a>';              break;          default://���������ȣ� document.getElementById('69d3d0cd8a756eb3ace1e918e7b4168e').innerHTML ='<a href="http://house.focus.cn/ztdir/house_mgkft2/bj.php" target=_blank><img src="http://images.sohu.com/bill/s2009/focus/1meiguo.jpg" border=0 width=142 height=80></img></a>';      } </p>
+<p> ��a>| </p>
+<p> ��a>| </p>
+<p> ���a>| </p>
+<p> ��>| </p>
+<p> ��� </p>
+<p> | </p>
+<p> �� </p>
+<p> | </p>
+<p> �� </p>
+<p> | </p>
+<p> ����/a> </p>
+<p> ��㣺 </p>
+<p> ��������ֳ�/a> </p>
+<p> ������ </p>
+<p> ũ����н�ݺ��> </p>
+<p> ���� </p>
+<p> > </p>
+<p> ��� </p>
+<p> > </p>
+<p> ��� </p>
+<p> > </p>
+<p> ʱ��챨 </p>
+<p> ����������˾����� ����������h1> </p>
+<p> �� </p>
+<p> ��˵���pan class="f12">( </p>
+<p> ����/span> </p>
+<p> 2012�01�17�17:04 </p>
+<p> �Դ�� </p>
+<p> ���������� </p>
+<p> ������/a> </p>
+<p> ��/a> </p>
+<p> ��> </p>
+<p> � </p>
+<p> С </p>
+<p> ���������������ͼGJ </p>
+<p> ��������֡����������Ƶ�ǡ��ţ��������Э�͡��ţ��Ӫ����������������˾�ϯִ��ٸ�˹��������������Ϊʧ������������ </p>
+<p> �� </p>
+<p> ���������� </p>
+<p> ������˹���һ����������˵�������������Ƶ�ǡ��Ŵ�������˹�ơ�˹�����δ����ɣ���ʹ��ƫ��ȶ����������������� </p>
+<p> ����������ȷ����ƫ��ȶ�·����һԭ���������˾��֪������������� </p>
+<p> ����˹�����2002����ڿ�����˾�������ȫ��ܣ�2006����������14��������������ܵ�� </p>
+<p> ���������������Ƶ�ǡ���3�����������������ս�����б�����������ع����ͳ����6�����15�ʧ�����0����� </p>
+<p> �� </p>
+<p> ��Ϊ�ͬ�����ˡ� </p>
+<p> ��������������16���ϣ������������Ƶ�ǡ���뺣�������Ӵ�������Ϊ˹�������������µ�����������������������˸�ˡ��� </p>
+<p> ���������Ԯ�Ŀ��Ļ������˹������������ǰһ�Ȱѵ������ϼ��̨���������������⣺����������������������ļ���µ��ǳ���/p> </p>
+<p> ����Ŀ���������ִ���ǰ�����������˹���������������������̫��� </p>
+<p> �� </p>
+<p> ����ơ���ȫ���� </p>
+<p> �����ݿˡ������16���վ����˹���������βɷ��ݡ�˹�����2010�12���ͬ���������������ߣ���������‘̩̹��˺�rsquo;�����Ľ�������ò�����������������˵������������������ģ�׼���������Ӧ��κ���Ϳ�ܳ���⡣�˿Ͱ�ȫ������ </p>
+<p> �����ࡡ�������������壩 </p>
+<p> // <![CDATA[ media_span_url('http://xmwb.xinmin.cn/xmwb/html/2012-01/17/content_17_3.htm') //]]> </p>
+<p> (���༭��UN608) </p>
+<p> ���� </p>
+<p> var tcO = document.getElementById("shareIn").getElementsByTagName("a"); 		function shareIn(o){ 			for(var i=0; i<o.length; i++){ 				o[i].onmouseover = function (){ 					this.parentNode.getElementsByTagName("em")[0].style.display = "block"; 				} 				o[i].onmouseout = function (){ 					this.parentNode.getElementsByTagName("em")[0].style.display = "none"; 				} 			} 		} 		shareIn(tcO); </p>
+<p> /* ���ȵ�010-09-09 */ #contentA .tagHotg{clear:both;margin:10px auto 0;text-align:left} #contentA .tagHotg h3{height:24px;font:600 14px/24px "��";color:#333} #contentA .tagHotg .tagIntg{display: block;overflow:hidden;zoom:1;clear:both;width:100%;margin:3px auto 0} #contentA .tagHotg .tagIntg li{float:left;width:205px;font:14px/24px "��"} #contentA .tagHotg .tagIntg li a{ text-decoration:none !important;} #contentA .tagHotg .tagIntg li a:hover{text-decoration:underline !important;} #contentA .text .line{width:100%} </p>
+<p> ������Ƽ�3> </p>
+<p> ������� </p>
+<p> ����ִ����3�14� </p>
+<p> ����ּ�/a> </p>
+<p> ��۰������� </p>
+<p> ����ִ��� </p>
+<p> �������Ƶ�Ǻ��ִ��� </p>
+<p> ������ </p>
+<p> ����ֳ�� </p>
+<p> ������ </p>
+<p> var conmmShowlist = {showList:false}; </p>
+<p> var commConfig = typeof conmmShowlist == "undefined" ? {} : conmmShowlist; 			SohuComment.Init(jQuery.extend({topicId: 332467071},commConfig)); </p>
+<p> var sohuFlash2 = new sohuFlash("http://images.sohu.com/bill/s2011/liulin/benchi/9501001231zi.swf","_110dde36d61240bc18d736205f47bf3exy","0","0","7"); sohuFlash2.write("ce642306abcf97252cac4c3caeab6c66xy");  if(typeof(document.pv)=='undefined') document.pv = new Array();var _a=new Image(); _a.src='http://xls.go.sohu.com/201112/47c86f428248fb4ec1831c6a70a4b5e2.php?a=1'; document.pv.push(_a); </p>
+<p> ΢�����2> </p>
+<p> tips = new Array(2); tips[0] = "http://3rd.t.sohu.com/news/zt_user.jsp?id=324"; tips[1] = "http://3rd.t.sohu.com/news/zt_user.jsp?id=421"; index = Math.floor(Math.random() * tips.length); document.write("<iframe height='240' width='610'  frameborder='0' allowtransparency='1' scrolling='no' src=" + tips[index] + "></iframe>"); </p>
+<p> ̸̸��Ŀ��Ľ���������� </p>
+<p> ���ĳ���������� </p>
+<p> ����ѹ���ʼ </p>
+<p> �ҳ </p>
+<p> �� </p>
+<p> function CheckKeyWord(){ 	var sf = document.searchform; 	with(sf){   if (query.value == "����ؼ�{ 		query.value = ""; 		setTimeout("query.value='����ؼ� 1000); 	}  } 	return true; }  // �ı����Ĳ���� function CheckFormAction(v){ 	var sf = document.searchform; 	with(sf){   if (v=='web') { 		action = "http://www.sogou.com/web";     p.value = "02240100";				 	} else { 		p.value = "02240101"; 		action = "http://news.sogou.com/news"; 	}  } 	return true; }  //�ı����� function CheckColor(){ 	var query = document.searchform.query; 	if (query.value == "����ؼ�| query.value == "�����������ؼ�{ 		query.style.color = "#ccc"; 	} } </p>
+<p> �����/span> </p>
+<p> 12-01-17 </p>
+<p> �� </p>
+<p> �������ٸ�� �������Ͳ���/a> </p>
+<p> 12-01-17 </p>
+<p> �� </p>
+<p> �������ǧ�ŭ� �Ϊ�����ɺ޵�� </p>
+<p> 12-01-17 </p>
+<p> �� </p>
+<p> ��������ҵ�����ʵ�������a> </p>
+<p> 12-01-17 </p>
+<p> �� </p>
+<p> ����Ϊȡ��������ĺ�� ��������(ͼ) </p>
+<p> 12-01-17 </p>
+<p> �� </p>
+<p> ���������������Ⱦ�����5� </p>
+<p> 12-01-16 </p>
+<p> �� </p>
+<p> ����ִ�����6��� ������ָ����> </p>
+<p> 12-01-16 </p>
+<p> �� </p>
+<p> ����ִ��������� ������ɱ�ָ��/a> </p>
+<p> 12-01-16 </p>
+<p> �� </p>
+<p> �������������� �Ӫ����������(ͼ </p>
+<p> 12-01-16 </p>
+<p> �� </p>
+<p> ������������������ �����������ʼ(ͼ) </p>
+<p> 12-01-16 </p>
+<p> �� </p>
+<p> ������෭ ����������ıɱ����ָ��ͼ </p>
+<p> ��� </p>
+<p> �� ���� </p>
+<p> ����gt;> </p>
+<p> ���Ƽ�pan> </p>
+<p> ���Ƶ�ǺŶ��������> </p>
+<p> ����ƽ𺣰��Ϸ </p>
+<p> ���Ƶ����/a> </p>
+<p> ���Ƶ�Ǻ�/a> </p>
+<p> �����/a> </p>
+<p> �ƽ𺣰��� </p>
+<p> ������ </p>
+<p> ���Ƶ�Ǵ� </p>
+<p> ����� </p>
+<p> ���� </p>
+<p> try{             var i=new Image();         i.src='http://pingback.sogou.com/rltpv.png?surl='+escape(window.location)+'&'+Math.random(); }catch(err){ } </p>
+<p> ������� </p>
+<p> var newsvideocount = 5; </p>
+<p> Ϥ���ֳ�������ƹ� </p>
+<p> ӡ��ϲ�һ��������13��� </p>
+<p> ���ͧ�ΪŮ����ˮȡ��� </p>
+<p> ����콭ˮλ��� ���ֺӵ�δ�ͣ�� </p>
+<p> var vnlist = function(r1, r2){ 			try {                                      if(newsvideocount ==undefined){ 		                       var newsvideocount=10; 	                            } 				var s = 0, jsonData, jsonLength = 0, jsonList = ""; 				jsonData = eval(r2); 				jsonList = jsonData.newsVideoList 				var buffer = new stringBuffer(); 				var vpage = (Math.ceil(newsvideocount / 4)); 				var lbg = r1 > 0 ? "lbgB" : "lbgA"; 				var rbg = vpage > (r1 + 1) ? "rbgB" : "rbgA"; 				 				var vup = r1 > 0 ? 'onmouseover="this.className=\'lnowA\'" onmouseout="this.className=\'lbgB\'" onclick="vpg(' + (r1 - 1) + ')" style="cursor:pointer;"' : ''; 				var vdp = vpage > (r1 + 1) ? 'onmouseover="this.className=\'rnowA\'" onmouseout="this.className=\'rbgB\'" onclick="vpg(' + (r1 + 1) + ')" style="cursor:pointer;"' : ''; 				 				jsonLength = jsonList.length; 				jsonLength = jsonLength - (r1 * 4) > 4 ? 4 : jsonLength - (r1 * 4); 				 				buffer.append('<div class="tt"><div class="l">�������</div><div class="r"><span class="' + lbg + '"' + vup + '></span><em>' + (r1 + 1) + '/' + vpage + '</em><span class="' + rbg + '"' + vdp + '></span></div></div>'); 				buffer.append('<div class="pp"><ul>') 				for (var i = 0; i < jsonLength; i++) { 					var ti = i + (r1 * 4); 					var cl = i == 3 ? ' class="end"' : ""; 					var ttitle = jsonList[ti].title.length > 20 ? jsonList[ti].title.substr(0, 18) + ".." : jsonList[ti].title; 					var thref = '<a href="' + jsonList[ti].href + '" target="_blank" title="' + jsonList[ti].title + '" onclick="return sogouRelateVideoNews(this);" len="'+jsonLength+'" ind="'+ti+'">'; 					buffer.append('<li' + cl + '>' + thref + '<img src="' + jsonList[ti].picUrl + '" width="125" height="94" alt="" /></a><span>' + thref + ttitle + '</a></span><em class="floor">' + thref + '</a></em></li>'); 				} 				buffer.append('</ul></div></div>'); 				$("videoNews").innerHTML = buffer.toString(); 				buffer = null; 			}catch(e){}         }, vpg = function(v){ 			         	var nvjson = window.location.href; 			if(nvjson.indexOf("_")>-1){ 				nvjson = nvjson.replace(nvjson.substr(nvjson.indexOf("_"),(nvjson.indexOf(".shtml")-nvjson.indexOf("_"))),""); 			} 			nvjson = nvjson.replace(".shtml", "_news_video_all.inc"); 			         	if (typeof cms4relativeVideo != "object") {         		var cs = new createScript("", nvjson, vnlist, [v, "cms4relativeVideo"],{cache:false});         	} else {         		vnlist(v,cms4relativeVideo);         	}         }; 		         if (newsvideocount && newsvideocount >= 4) {         	$("videoNews").style.display = "";         	var vpage = (Math.ceil(newsvideocount / 4));         	var vrbg = vpage > 1 ? "rbgB" : "rbgA";         	var vdp = vpage > 1 ? 'onmouseover="this.className=\'rnowA\'" onmouseout="this.className=\'rbgB\'" onclick="vpg(1)" style="cursor:pointer;"' : '';         	$("videoNewsP").innerHTML = '<span class="lbgA"></span><em>1/' + vpage + '</em><span class="' + vrbg + '"' + vdp + '></span>';         } </p>
+<p> �����span> </p>
+<p> ������ĸ�ؼ�/a> </p>
+<p> ��ؽ����������ְ���ؼҹ���ְ����������ؼҵ�������󣬽�ֻز������� </p>
+<p> ���������ը ���Ϯ����Լ���/A> </p>
+<p> ��������˶����غ����A> </p>
+<p> ���������ս2012��ͳ��/A> </p>
+<p> ��ɽ��ʹ���������ҩ����� </p>
+<p> ��t;> </p>
+<p> ͼ˵���span> </p>
+<p> ���ʼ������ </p>
+<p> ����Ա�����ˡ��� </p>
+<p> �ż�ˣ�ѧ���Ȼ�������ף(ͼ) </p>
+<p> �����ô����������Ȼ�� </p>
+<p> ���������޳ܡ���������> </p>
+<p> �μ��������������ж� </p>
+<p> ��t;> </p>
+<p> ������� </p>
+<p> һ�ͼƬ��ѡ01.06-01.12 </p>
+<p> һ�ͼƬ��ѡ12.30-01.05 </p>
+<p> һ�ͼƬ��ѡ12.23-12.29 </p>
+<p> ������011 </p>
+<p> һ�ͼƬ��ѡ12.16-12.22 </p>
+<p> ����11����Ƭ--���� </p>
+<p> ����11����Ƭ--˲��д </p>
+<p> ������쵼����7�ȥ� </p>
+<p> ��/a> </p>
+<p> �Ҫ���� </p>
+<p> var sogou_param = new Array(); 			sogou_param["pid"]  = 'sohu__matrix'; 			sogou_param["ct"]   = 'matrix'; 			sogou_param["iw"]   = '560'; 			sogou_param["ih"]   = '180'; 			sogou_param["charset"]   = 'gb2312'; 			sogou_param["c_bo"] = 'trans'; 			sogou_param["c_bg"] = 'trans'; 			sogou_param["c_li"] = '000099'; 			sogou_param["c_te"] = '000000'; 			sogou_param["c_ur"] = '008000'; </p>
+<p> try{ var TurnAD475=new Cookie(document,"TurnAD475",24); TurnAD475.load(); TurnAD475.visit=(TurnAD475.visit==null)?parseInt(Math.random()*3+1):TurnAD475.visit; if(TurnAD475.visit!=0)var intTurnAD475=TurnAD475.visit; TurnAD475.visit++; TurnAD475.visit=(TurnAD475.visit>3)?1:TurnAD475.visit; TurnAD475.store(); function showTurnAD475(basenum){ if (basenum==1){ var sohuFlash2 = new sohuFlash("http://images.sohu.com/bill/s2011/ranzhang/aodi/bx/300250192.swf","_dfbd29ac34e0f02bdb357290a46b6d6a","300","250","7"); sohuFlash2.addParam("quality", "high"); sohuFlash2.addParam("wmode", "opaque"); sohuFlash2.addVariable("clickthru",escape("http://sohu.ad-plus.cn/event.ng/Type=click&FlightID=201201&TargetID=sohu&Values=dfbd29ac,34e0f02b,db357290,a46b6d6a&AdID=7060473")); if(typeof(document.pv)=='undefined') document.pv = new Array();var _a=new Image();var _b=new Image(); _a.src='http://alpha.brand.sogou.com/brand_pv?md5=dfbd29ac34e0f02bdb357290a46b6d6a';document.pv.push(_a); _b.src='http://imp.ad-plus.cn/201201/dfbd29ac34e0f02bdb357290a46b6d6a.php?a=99';document.pv.push(_b);  sohuFlash2.write("TurnAD475");} else if(basenum==2){ var sohuFlash2 = new sohuFlash("http://images.sohu.com/bill/s2012/hanzhijuan/suning/3002500116.swf","_de45cc2a41df78ce5b4291eb91467929","300","250","7"); sohuFlash2.addParam("quality", "high"); sohuFlash2.addParam("wmode", "opaque"); sohuFlash2.addVariable("clickthru",escape("http://sohu.ad-plus.cn/event.ng/Type=click&FlightID=201201&TargetID=sohu&Values=de45cc2a,41df78ce,5b4291eb,91467929&AdID=4638650")); if(typeof(document.pv)=='undefined') document.pv = new Array();var _a=new Image();var _b=new Image(); _a.src='http://alpha.brand.sogou.com/brand_pv?md5=de45cc2a41df78ce5b4291eb91467929';document.pv.push(_a); _b.src='http://imp.ad-plus.cn/201201/de45cc2a41df78ce5b4291eb91467929.php?a=99';document.pv.push(_b);sohuFlash2.write("TurnAD475");} else{ var sohuFlash2 = new sohuFlash("http://images.sohu.com/bill/s2011/hanzhijuan/xinghefengshang/baoban/3002501231.swf","_cb5070e65ccc8350655d539241948d8f","300","250","7"); sohuFlash2.addParam("quality", "high"); sohuFlash2.addParam("wmode", "opaque"); sohuFlash2.addVariable("clickthru",escape("http://sohu.ad-plus.cn/event.ng/Type=click&FlightID=201112&TargetID=sohu&Values=cb5070e6,5ccc8350,655d5392,41948d8f&AdID=9746798")); if(typeof(document.pv)=='undefined') document.pv = new Array();var _a=new Image();var _b=new Image(); _a.src='http://alpha.brand.sogou.com/brand_pv?md5=cb5070e65ccc8350655d539241948d8f';document.pv.push(_a); _b.src='http://imp.ad-plus.cn/201112/cb5070e65ccc8350655d539241948d8f.php?a=99';document.pv.push(_b); sohuFlash2.write("TurnAD475");} } showTurnAD475(intTurnAD475); }catch(e){} </p>
+<p> ��ȵ�span> </p>
+<p> ������ǧ�����С�¥��� </p>
+<p> 30��С�����������0�����޽�15��С�¥��[ </p>
+<p> �ϸ </p>
+<p> ] </p>
+<p> �Ӣ����������:��ͳ������ </p>
+<p> ��������� ר�ұ�ý���Ӧ����� </p>
+<p> ������������������ǧ�Ѱ�� </p>
+<p> ���������������������ϳ������� </p>
+<p> try{ var TurnAD476=new Cookie(document,"TurnAD476",24); TurnAD476.load(); TurnAD476.visit=(TurnAD476.visit==null)?parseInt(Math.random()*2+1):TurnAD476.visit; if(TurnAD476.visit!=0)var intTurnAD476=TurnAD476.visit; TurnAD476.visit++; TurnAD476.visit=(TurnAD476.visit>2)?1:TurnAD476.visit; TurnAD476.store(); function showTurnAD476(basenum){ if (basenum==1){ document.write('<iframe width=300 height=250 marginwidth=0 marginheight=0 hspace=0 frameborder=0 scrolling=no bordercolor=#000000 src=http://images.sohu.com/bill/s2011/fenfenchen/moso/300250tongfa.html></iframe>');} else{ document.getElementById('TurnAD476').innerHTML ='<iframe width=300 height=250 marginwidth=0 marginheight=0 hspace=0 frameborder=0 scrolling=no bordercolor=#000000 src=http://images.sohu.com/bill/s2011/fenfenchen/moso/300250tongfa.html></iframe>';} } showTurnAD476(intTurnAD476); }catch(e){} </p>
+<p> if(window.location.href.getQueryString("ip")==null) Loc=sohu_IP_Loc.substr(0,4); else Loc=window.location.href.getQueryString("ip"); </p>
+<p> ������� </p>
+<p> �� </p>
+<p> | </p>
+<p> �� </p>
+<p> 1 </p>
+<p> ��ȷ�������������... </p>
+<p> 3580416 </p>
+<p> 3 </p>
+<p> ������ҹײ�����ɡ�����/a> </p>
+<p> 3528733 </p>
+<p> 4 </p>
+<p> ��������ҩ�¹����� </p>
+<p> 3403735 </p>
+<p> 5 </p>
+<p> �ͷ���̸����������:����... </p>
+<p> 3266873 </p>
+<p> 6 </p>
+<p> �����ָ���Ӧ����˹... </p>
+<p> 2682175 </p>
+<p> 7 </p>
+<p> ��غ���Ů�����Ҳ��... </p>
+<p> 2557705 </p>
+<p> 8 </p>
+<p> �������˹���𳵷�� </p>
+<p> 2382468 </p>
+<p> 9 </p>
+<p> 1 </p>
+<p> �������������Ȩ��� ... </p>
+<p> 1911 </p>
+<p> 2 </p>
+<p> ��������������� ��� ... </p>
+<p> 1871 </p>
+<p> 3 </p>
+<p> ����ٰ�������󳵻� ... </p>
+<p> 1188 </p>
+<p> 5 </p>
+<p> ���ר���iPad�����999 ... </p>
+<p> 811 </p>
+<p> 7 </p>
+<p> ������ͳ ������ ... </p>
+<p> 776 </p>
+<p> 8 </p>
+<p> ɽ�ʡͨ�����������״Ԫ��ˢ���� ... </p>
+<p> 589 </p>
+<p> 10 </p>
+<p> �������Ϊ39������ ��. </p>
+<p> 551 </p>
+<p> #contentA .sohuVideo{height:312px;padding-top:10px} 		#contentA .sohuVideo .vMenu{height:25px} 		#contentA .sohuVideo .vMenu ul{height:18px;float:left;display:inline;margin:7px 0 0 16px} 		#contentA .sohuVideo .vMenu li{display:inline;cursor:pointer;float:left;font:14px/16px "��";color:#333} 		#contentA .sohuVideo .vMenu .libg{font-weight:bold} 		#contentA .sohuVideo .vMenu .wd{padding:0 7px} 		#contentA .sohuVideo .vMenu .vsea{float:right;height:25px;width:115px;background:url();display:inline;margin:0 2px 0 0} 		#contentA .sohuVideo .vMenu .vtx{width:58px;height:17px;padding:6px 0 0 8px;background:none;border:0;} 		#contentA .sohuVideo .vMenu .vbtn{width:37px;padding:6px 0 0;background:none;border:0;color:#FFF;line-height:14px} 		#contentA .sohuVideo .pp{width:127px;margin:10px 0 0 15px} 		#contentA .sohuVideo .pp li{position:relative;width:100%} 		#contentA .sohuVideo .pp span{margin:8px auto 12px} 		#contentA .sohuVideo .list12{width:142px;margin:0 8px 0 0} 		#contentA .sohuVideo .list12 ul{width:100%;margin:8px auto} 		#contentA .sohuVideo .list12 .line{width:134px}                 #searchBtn1{float:left;width:38px;position:relative;top:-15px;left:13px;} </p>
+<p> ���/li> </p>
+<p> | </p>
+<p> ������li> </p>
+<p> ������Ů��> </p>
+<p> �������Ƚ�� </p>
+<p> ʵ�Ů��ʨͬ���˯ </p>
+<p> �����Ը������� </p>
+<p> �Ƿ�Ұζ�������Ļ </p>
+<p> ֱ��ȱ뺷���� </p>
+<p> ʷ��С��� 1���� </p>
+<p> �������������a> </p>
+<p> ��������Ͳ </p>
+<p> ������������ </p>
+<p> ���ã��ģ˽���� </p>
+<p> ���ĸ��������/a> </p>
+<p> ��������� </p>
+<p> ���ר��/a> </p>
+<p> �� </p>
+<p> С�Ů���ǰ��u> </p>
+<p> ����������/u> </p>
+<p> ���� </p>
+<p> �����ɯ </p>
+<p> ԶԶ�İ� </p>
+<p> ��ԭ�� </p>
+<p> ���֮� </p>
+<p> �һ�����u> </p>
+<p> ���� </p>
+<p> ������� </p>
+<p> ���� </p>
+<p> Ҷ� </p>
+<p> ��ŷ� </p>
+<p> �ھŵ��/u> </p>
+<p> ¬��ﷹ��u> </p>
+<p> ����2 </p>
+<p> ����ֻ�� </p>
+<p> ��ջ�> </p>
+<p> ɱ¾ս�� </p>
+<p> ԡ��ɱ�� </p>
+<p> ����Ƽ�> </p>
+<p> �����������/a> </p>
+<p> 2012���������ؼҵ��� </p>
+<p> ��һ��ؼ�����������������[ </p>
+<p> �ϸ </p>
+<p> ] </p>
+<p> ��֮��� </p>
+<p> ���ɱ����ʲôӰ������ </p>
+<p> ���� </p>
+<p> �������������Ī��� </p>
+<p> ����� </p>
+<p> Ѫ���������/A> </p>
+<p> ���� </p>
+<p> ɹһ�������Ҽ�������ľ� </p>
+<p> ����� </p>
+<p> �������ⷿ���/A> </p>
+<p> ���� </p>
+<p> • </p>
+<p> 2012���� </p>
+<p> 2012�����/a> </p>
+<p> • </p>
+<p> ̨���/A> </p>
+<p> ���������> </p>
+<p> try{ var TurnAD477=new Cookie(document,"TurnAD477",24); TurnAD477.load(); TurnAD477.visit=(TurnAD477.visit==null)?parseInt(Math.random()*2+1):TurnAD477.visit; if(TurnAD477.visit!=0)var intTurnAD477=TurnAD477.visit; TurnAD477.visit++; TurnAD477.visit=(TurnAD477.visit>2)?1:TurnAD477.visit; TurnAD477.store(); function showTurnAD477(basenum){ if (basenum==1){ var sogou_is_one = new Object();  sogou_is_one["pid"]  = 'sohu__brand';  sogou_is_one["charset"]   = 'gb2312';  sogou_is_one["sohuurl"] = document.location.href;  sogou_is_one["iw1"]   = '300';  sogou_is_one["ih1"]   = '250';  sogou_is_one["place1"] = '2022';  sogou_is_one["div_id1"] = 'TurnAD477';  function q(s) {return s.replace(/%/g,"%25").replace(/&/g,"%26").replace(/#/g,"%23");}  var sogou_is_one_url = "http://cpc.brand.sogou.com/brand_ad_new";  var one_cnt = 0;  for(var p in sogou_is_one)  {                sogou_is_one_url += (one_cnt++ ? "&" : "?") + q(p) + "=" + q(sogou_is_one[p]);  }  var one_js = document.createElement('SCRIPT');  one_js.src=sogou_is_one_url;  document.getElementsByTagName('head')[0].appendChild(one_js);} else{ var sohuFlash2 = new sohuFlash("http://images.sohu.com/bill/s2012/yanrao/xuexi/20120113.swf","_9b29cafc8a9c5ccd2d8ba4ddb8d39ce8","300","250","7"); sohuFlash2.addParam("quality", "high"); sohuFlash2.addParam("wmode", "opaque"); sohuFlash2.addVariable("clickthru",escape("http://sohu.ad-plus.cn/event.ng/Type=click&FlightID=201201&TargetID=sohu&Values=9b29cafc,8a9c5ccd,2d8ba4dd,b8d39ce8&AdID=13888377")); if(typeof(document.pv)=='undefined') document.pv = new Array();var _a=new Image();var _b=new Image(); _a.src='http://alpha.brand.sogou.com/brand_pv?md5=9b29cafc8a9c5ccd2d8ba4ddb8d39ce8';document.pv.push(_a); _b.src='http://imp.ad-plus.cn/201201/9b29cafc8a9c5ccd2d8ba4ddb8d39ce8.php?a=99';document.pv.push(_b); sohuFlash2.write("TurnAD477");} } showTurnAD477(intTurnAD477); }catch(e){} </p>
+<p> ���ȵ�a> </p>
+<p> ���֮� </p>
+<p> ����� </p>
+<p> ������������������ </p>
+<p> ����ִ���8��� �����̩̹���/A> </p>
+<p> ǰ�ٶȸ߹ܳƺ����������ƴ��A> </p>
+<p> ΢����ְҵ������䡱 �ø�˻���� </p>
+<p> .blogHot{height:290px} </p>
+<p> .weiBlog{height:150px} 		#contentA .weiBlog .pt{margin:15px auto 4px} 		.weiBlog .pt li{line-height:24px;color:#333} 		.weiBlog .pt div{margin-top:6px;_margin-right:7px} 		.weiBlog .more{margin:0 auto;line-height:20px;padding-right:12px} </p>
+<p> �� </p>
+<p> ������������������ </p>
+<p> �� </p>
+<p> ����ִ���8��� �����̩̹���/a> </p>
+<p> �� </p>
+<p> ��·����˾����֭��΢�ɱ���a> </p>
+<p> �� </p>
+<p> ǰ�ٶȸ߹ܳƺ����������ƴ��a> </p>
+<p> ��;> </p>
+<p> ���𱬻�� </p>
+<p> ����ĳ������ĺ���Ļ�� </p>
+<p> ����M���HI����� </p>
+<p> ��ͷ�����a>| </p>
+<p> ��M����ͷ���Ӱʦ������ </p>
+<p> ��ͷ�����a>| </p>
+<p> �ؼ�������ʮ������� </p>
+<p> ��ͷ�����a>| </p>
+<p> ��㶫���Ů������Ȫ�(ͼ) </p>
+<p> ���� </p>
+<p> | </p>
+<p> �����ʵ���������������> </p>
+<p> ���/a> </p>
+<p> �㶫��������� </p>
+<p> �־��֤�����������/a> </p>
+<p> �У��ǿ������ </p>
+<p> 7000����˾�� </p>
+<p> ����������β��/a> </p>
+<p> Ҧ�����־ӱ����Ϸ </p>
+<p> ������ֲ�Ѫʳ� </p>
+<p> ���Ů�ʧ������ </p>
+<p> var sogou_param = new Array(); sogou_param["pid"]  = 'sohuwomenwz'; sogou_param["ct"]  = 'kwd'; sogou_param["fmt"]  = 'h_kwd'; sogou_param["dn"]  = '4'; sogou_param["iw"]   = '275'; sogou_param["ih"]   = '110'; sogou_param["fs"] = '12'; sogou_param["ul"] = '0'; sogou_param["c_bo"] = 'ffffff'; sogou_param["c_bg"] = 'trans'; sogou_param["c_fg"] = '004276'; sogou_param["tdw"] = '100'; sogou_param["charset"] = 'gb2312'; sogou_param["rn"] = '4'; sogou_param["cn"] = '3'; </p>
+<p> ������> </p>
+<p> ��Ů�����/A> </p>
+<p> �櫹�������Ů </p>
+<p> ���P��һ�ҵ��� </p>
+<p> �����ʳ�װ�� </p>
+<p> ���/a> </p>
+<p> ������� </p>
+<p> ������ɫ� </p>
+<p> �������/a> </p>
+<p> �� </p>
+<p> | </p>
+<p> ��� </p>
+<p> Ů��ʦ </p>
+<p> �ڵ��20� </p>
+<p> ���/a> </p>
+<p> �� </p>
+<p> | </p>
+<p> �ڰ�� </p>
+<p> ���Ϸ </p>
+<p> ���a> </p>
+<p> ĻǰĻ��> </p>
+<p> ��Ʒ�� </p>
+<p> �� </p>
+<p> | </p>
+<p> ������> </p>
+<p> ����/a> </p>
+<p> �Ұ�� </p>
+<p> ��ʱ�� </p>
+<p> ���> </p>
+<p> | </p>
+<p> ����������> </p>
+<p> ������� </p>
+<p> �����a> </p>
+<p> ���ע </p>
+<p> ���� </p>
+<p> 7�� </p>
+<p> ��Ů� </p>
+<p> ��� </p>
+<p> 2011�߿��� </p>
+<p> ���� </p>
+<p> Ҧ��� </p>
+<p> 2011�����չ </p>
+<p> ���� </p>
+<p> �ж����ĸ��ѡ </p>
+<p> ���ը </p>
+<p> 2011�߿��� </p>
+<p> 2011�߿� </p>
+<p> �վ��� </p>
+<p> ���� </p>
+<p> ��� </p>
+<p> | </p>
+<p> ʱ��� </p>
+<p> | </p>
+<p> ���䶯 </p>
+<p> | </p>
+<p> �۰�� </p>
+<p> | </p>
+<p> ��������a>| </p>
+<p> �����������a> </p>
+<p> �����/a> </p>
+<p> | </p>
+<p> ���/a>| </p>
+<p> �� </p>
+<p> | </p>
+<p> ��� </p>
+<p> ��� </p>
+<p> | </p>
+<p> ���� </p>
+<p> | </p>
+<p> ������ </p>
+<p> | </p>
+<p> ��� </p>
+<p> | </p>
+<p> ��Ƶ </p>
+<p> | </p>
+<p> ��Ƭ </p>
+<p> | </p>
+<p> ��߲���/a> </p>
+<p> ��Ƶ��/a> </p>
+<p> | </p>
+<p> ����˵ </p>
+<p> | </p>
+<p> ���/a> </p>
+<p> ���/a> </p>
+<p> | </p>
+<p> ���/a>| </p>
+<p> ̨����� </p>
+<p> | </p>
+<p> ���/a> </p>
+<p> | </p>
+<p> ���/a>| </p>
+<p> ��� </p>
+<p> | </p>
+<p> ���a> </p>
+<p> | </p>
+<p> ���| </p>
+<p> ���� </p>
+<p> | </p>
+<p> ���� </p>
+<p> ChinaRen </p>
+<p> | </p>
+<p> 17173 </p>
+<p> | </p>
+<p> ��� </p>
+<p> �� </p>
+<p> | </p>
+<p> ��� </p>
+<p> | </p>
+<p> �� </p>
+<p> �� </p>
+<p> | </p>
+<p> NBA </p>
+<p> | </p>
+<p> ��� </p>
+<p> | </p>
+<p> S </p>
+<p> �ƾ� </p>
+<p> | </p>
+<p> ��� </p>
+<p> | </p>
+<p> �� </p>
+<p> | </p>
+<p> ��� </p>
+<p> | </p>
+<p> �� </p>
+<p> | </p>
+<p> V </p>
+<p> ��� </p>
+<p> | </p>
+<p> ���� </p>
+<p> | </p>
+<p> �Ƶ </p>
+<p> | </p>
+<p> Ů� </p>
+<p> | </p>
+<p> ĸӤ </p>
+<p> | </p>
+<p> �� </p>
+<p> | </p>
+<p> �� </p>
+<p> �ѧ </p>
+<p> | </p>
+<p> Ӣ� </p>
+<p> �� </p>
+<p> | </p>
+<p> �� </p>
+<p> | </p>
+<p> ���� </p>
+<p> | </p>
+<p> ��� </p>
+<p> | </p>
+<p> ԭ�� </p>
+<p> | </p>
+<p> �ɫ </p>
+<p> IT </p>
+<p> | </p>
+<p> �� </p>
+<p> | </p>
+<p> �� </p>
+<p> У�¼ </p>
+<p> Ȧ� </p>
+<p> | </p>
+<p> �� </p>
+<p> | </p>
+<p> ��� </p>
+<p> | </p>
+<p> �㶫 </p>
+<p> �� </p>
+<p> | </p>
+<p> ��� </p>
+<p> | </p>
+<p> ���� </p>
+<p> | </p>
+<p> ��� </p>
+<p> | </p>
+<p> ʵ�����/span> </p>
+<p> ������� </p>
+<p> ��� </p>
+<p> Ӱ��� </p>
+<p> ҩƷ�� </p>
+<p> ���ѯ </p>
+<p> IP�� </p>
+<p> ������ </p>
+<p> ͼƬ�� </p>
+<p> ���ʷ�� </p>
+<p> ����� </p>
+<p> TV����� </p>
+<p> ���� </p>
+<p> ���ҳ </p>
+<p> - </p>
+<p> ������� </p>
+<p> - </p>
+<p> ֧���� </p>
+<p> - </p>
+<p> ���/a> - </p>
+<p> ����� </p>
+<p> - </p>
+<p> �ͷ��� </p>
+<p> - </p>
+<p> �ϵ��ʽ </p>
+<p> - </p>
+<p> �����˽Ȩ </p>
+<p> - </p>
+<p> About SOHU </p>
+<p> - </p>
+<p> ��˾�� </p>
+<p> Copyright </p>
+<p> © </p>
+<p> 2012 Sohu.com Inc. All Rights Reserved. ��� </p>
+<p> ���� </p>
+<p> ������ٱ��绰��010��62728061 �ٱ����� </p>
+<p> jubao@contact.sohu.com </p>
+<p> var  _wratingId = null; try{ _wratingId = _getAcc(); }catch(e){} if(_wratingId !=null){ document.write('<scr'+'ipt type="text/javascript" src="http://sohu.wrating.com/a1.js"></scr'+'ipt>'); } </p>
+<p> if(_wratingId !=null){ document.write('<scr'+'ipt type="text/javascript">'); document.write('var vjAcc="'+_wratingId+'";'); document.write('var wrUrl="http://sohu.wrating.com/";'); document.write('try{vjTrack();}catch(e){}'); document.write('</scr'+'ipt>'); } </p>
+<p> <!-- 	function sogouRelateNews(itm){ 		var i=new Image();         var len=itm.getAttribute("len");   var  ind= itm.getAttribute("ind");         len=(len==null)?"":len;   ind=(ind==null)?"":ind;         if(len == "" || ind == "" ) {            i.src='http://pingback.sogou.com/rltnews.png?durl='+escape(itm.href)+'&surl='+escape(window.location)+'&'+Math.random();         } else {            i.src='http://pingback.sogou.com/rltnews.png?durl='+escape(itm.href)+'&surl='+escape(window.location)+'&len='+len+'&ind='+ind+'&'+Math.random();         } 	    return true; 	}  	function sogouRelateWeb(itm){ 		var i=new Image();         var len=itm.getAttribute("len");  var  ind= itm.getAttribute("ind");         len=(len==null)?"":len; ind=(ind==null)?"":ind;         if(len == "" || ind == "" ) { 	 	     i.src='http://pingback.sogou.com/rltweb.png?durl='+escape(itm.href)+'&surl='+escape(window.location)+'&'+Math.random();         } else { 		     i.src='http://pingback.sogou.com/rltweb.png?durl='+escape(itm.href)+'&surl='+escape(window.location)+'&len='+len+'&ind='+ind+'&'+Math.random();         } 		return true; 	}  	function sogouRelateSaybar(itm){ 		var i=new Image(); 		i.src='http://pingback.sogou.com/rltsb.png?durl='+escape(itm.href)+'&surl='+escape(window.location)+'&'+Math.random(); 		return true; 	}  	function sogouRelateBlog(itm){ 		var i=new Image(); 		i.src='http://pingback.sogou.com/rltblog.png?durl='+escape(itm.href)+'&surl='+escape(window.location)+'&'+Math.random(); 		return true; 	} 	 	function sogouHotSaybar(itm){ 		var i=new Image(); 		i.src='http://pingback.sogou.com/rlthotsb.png?durl='+escape(itm.href)+'&surl='+escape(window.location)+'&'+Math.random(); 		return true; 	}      function sogouRelateVideoNews(itm){       var i=new Image();       var len=itm.getAttribute("len");  var  ind= itm.getAttribute("ind");       len=(len==null)?"":len;    ind=(ind==null)?"":ind;       if(len == "" || ind == "" ) {         i.src='http://pingback.sogou.com/rltvideonews.png?durl='+escape(itm.href)+'&surl='+escape(window.location)+'&'+Math.random();       } else {         i.src='http://pingback.sogou.com/rltvideonews.png?durl='+escape(itm.href)+'&surl='+escape(window.location)+'&len='+len+'&ind='+ind+'&'+Math.random();       } 	  return true;     }   //--> </p>
+<p> var cWidth=980; </p>
+<p> if(typeof(document.pv)=='undefined') document.pv = new Array();var _a=new Image(); _a.src='http://xls.go.sohu.com/201012/ee970cf0f5c53c86014a16fd32d9629a.php?3'; document.pv.push(_a);  imp(urlpath,123); if(PVUV_CheckArticle("gj11",24,1)){imp(urlpath,124);} if(PVUV_CheckArticle("gj12",24*365,1)){imp(urlpath,125);} </p>
+<p> AD = new ADM("FLOAT", 2);     AD.src = "http://images.sohu.com/bill/s2009/shanbai/baojie/6yue/1001000602.swf";     AD.href="http://goto.sogou.com/200905/256711c20f526ea88028870e1a36e2cc.php";     AD.tag="";     AddSchedule(AD); --> </p>
+<p> var sohuFlash2 = new sohuFlash("http://images.sohu.com/bill/s2012/xuezhou/yili/1/jindian/3002501231-nei.swf","_110dde36d61240bc18d736205f47bf3exy","0","0","7"); sohuFlash2.write("ce642306abcf97252cac4c3caeab6c66xy");  if(typeof(document.pv)=='undefined') document.pv = new Array();var _a=new Image(); _a.src='http://xls.go.sohu.com/201201/a750a2f0e3a883a518e4feb623e62769.php?a=1'; document.pv.push(_a); </p>
+<p> function q(s) {return s.replace(/%/g,"%25").replace(/&/g,"%26").replace(/#/g,"%23");}  var sogou_is_brand_url = "http://cpc.brand.sogou.com/brand_ad_new";  var brand_cnt = 0;  for(var p in sogou_is_brand)  {            if(typeof(sogou_is_brand[p]) == "string")                    sogou_is_brand_url += (brand_cnt++ ? "&" : "?") + q(p) + "=" + q(sogou_is_brand[p]);  }  if (brand_cnt>3)  {           var test= document.createElement('SCRIPT');           test.src=sogou_is_brand_url;           document.getElementsByTagName('head')[0].appendChild(test);  } </p>

@@ -1,0 +1,195 @@
+<p> 防制法三周年／吸菸人口少42萬 但抽更兇 | 生活新聞 | 生活天氣 | 聯合新聞網 </p>
+<p> var $jq = jQuery.noConflict(); $jq(document).ready(function(){ 						    	// 主選單 	$jq("#sidemenu li").hover( 		function() { $jq(this).addClass("iehover"); }, 		function() { $jq(this).removeClass("iehover"); } 	);  	 	// 取消超連結的虛線框 	$jq('a').focus(function(){ 		this.blur(); 	}); 	 }); </p>
+<p> <!-- function MM_jumpMenu(targ,selObj,restore){ //v3.0   eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");   if (restore) selObj.selectedIndex=0; } //--> </p>
+<p> 影音 </p>
+<p> │ </p>
+<p> 行動 </p>
+<p> │ </p>
+<p> 理財 </p>
+<p> │ </p>
+<p> 追星 </p>
+<p> │ </p>
+<p> 時尚 </p>
+<p> │ </p>
+<p> 電子報 </p>
+<p> │ </p>
+<p> 數位閱讀 </p>
+<p> │ </p>
+<p> 資料庫 </p>
+<p> │ </p>
+<p> Blog </p>
+<p> │ </p>
+<p> 便利貼 </p>
+<p> │ </p>
+<p> 求職求才 </p>
+<p> │ </p>
+<p> 購物 </p>
+<p> • </p>
+<p> udn 買東西 </p>
+<p> │ </p>
+<p> 招募夥伴 </p>
+<p> <!-- function chkform() {    document.sform1.Keywords.value=document.sform1.q.value;  //update by  kuai for  google search   if(document.sform1.Keywords.value == "") return;   if(document.getElementById("search_type").value == "udndata" ) 	document.sform1.action = "http://data.udn.com/data/Search";   else 	document.sform1.action = "http://udn.com/search/";   document.sform1.submit(); } //--> </p>
+<p> web </p>
+<p> udn </p>
+<p> 歷史新聞 </p>
+<p> <!-- // 選單數目 var nav_item = 10;  function nav_show(lv) { 	if(document.getElementById(lv)) 	{ 		document.getElementById(lv).style.display='block'; 	} 	 	for(var i=1;i<nav_item+1;i++) 	{ 		if(document.getElementById("sub_" + i) && "sub_" + i != lv) 		{ 			document.getElementById("sub_" + i).style.display='none'; 		} 	} } --> </p>
+<p> 台灣天氣 </p>
+<p> 旅遊天氣 </p>
+<p> 大陸天氣 </p>
+<p> 國外天氣 </p>
+<p> 衛星雲圖 </p>
+<p> •台灣衛星雲圖 </p>
+<p> •亞洲衛星雲圖 </p>
+<p> 樂透對獎 </p>
+<p> •樂線九宮格 </p>
+<p> •威力彩 </p>
+<p> •今彩539 </p>
+<p> •大樂透 </p>
+<p> •39樂合彩 </p>
+<p> •49樂合彩 </p>
+<p> •38樂合彩 </p>
+<p> •四星彩 </p>
+<p> •三星彩 </p>
+<p> 發票對獎 </p>
+<p> •本期開獎號碼 </p>
+<p> •上期開獎號碼 </p>
+<p> udn </p>
+<p> / </p>
+<p> 生活天氣 </p>
+<p> / </p>
+<p> 生活新聞 </p>
+<p> <!-- if (window.navigator.userAgent.indexOf("MSIE")>=1) { 	//如果瀏覽器是IE 	setActiveStyleSheet("sidemenu_IE.css"); } else { 	//如果瀏覽器是其他 	setActiveStyleSheet("sidemenu_FF.css"); }  function setActiveStyleSheet(title){    document.write('<link href="/2010/css/'+title+'" rel="stylesheet" type="text/css">');   } //--> </p>
+<p> udn推薦 </p>
+<p> 熱銷排行 </p>
+<p> var btt_100387_100829_ = Math.random(); if( (document.referrer=="undefined")||( document.referrer == "" )) {document.write ( "<ifr" + "ame scroll"+"ing='no' fram" + "eborder='0' marginwidth"+"='0' marginheight='" + "0' width='120'"+" height='540' "+"src="+"'http://"+"tw.ad.bt"+"nibbler"+".com"+"/a/b"+"tput3?"+"m=100387"+"&z=100829"+"&w=120"+"&h=540"+"&ch=100393"+"&ref=" + escape ( parent.document.referrer ) + "&url=" + escape ( parent.document.location ) +"&trac"+"k=y&if"+"rame=y&t="+ btt_100387_100829_ + "' ></i"+"frame>" );}else {document.write (  "<ifr" + "ame scroll"+"ing='no' fram" + "eborder='0' marginwidth"+"='0' marginheight='" + "0' width='120'"+" height='540' "+"src="+"'http://"+"tw.ad.bt"+"nibbler"+".com"+"/a/b"+"tput3?"+"m=100387"+"&z=100829"+"&w=120"+"&h=540"+"&ch=100393"+"&ref=" +  escape ( document.referrer ) +"&url=" + escape ( document.location ) +"&trac"+"k=y&if"+"rame=y&t="+ btt_100387_100829_ + "' ></i"+"frame>" );} </p>
+<p> 最新 </p>
+<p> | </p>
+<p> 發燒 </p>
+<p> | </p>
+<p> 哇新聞 </p>
+<p> var ur = document.URL;   var urArr = ur.split("/");   var urKey = urArr[urArr.length-1];    if (urKey == "" || urKey.indexOf("index") != -1) {}   else {     document.write("| 字級：<a href=\"javascript:chgFontSize('1');\"><img id=\"fs1\" border=\"0\" align=\"absmiddle\" src=\"/2010/images/fontsize_1.gif\"></a> <a href=\"javascript:chgFontSize('2');\"><img id=\"fs2\" border=\"0\" align=\"absmiddle\" src=\"/2010/images/fontsize_2.gif\"></a> <a href=\"javascript:chgFontSize('3');\"><img id=\"fs3\" border=\"0\" align=\"absmiddle\" src=\"/2010/images/fontsize_3.gif\"></a> <a href=\"javascript:chgFontSize('4');\"><img id=\"fs4\" border=\"0\" align=\"absmiddle\" src=\"/2010/images/fontsize_4.gif\"></a>");   } </p>
+<p> 請選擇---相關新聞 </p>
+<p> 熱門》加入熱血小工人，助貧童上學去 </p>
+<p> 熱門》趴踢一身紅！人氣紅不讓 </p>
+<p> 熱門》平價奢華 英倫品味頂級家電 </p>
+<p> 業者不保證頻寬 消基會：NCC嚴重失職 </p>
+<p> 消基會:我寬頻速度 世界倒數第四 </p>
+<p> 中華電信：101年實測速率超越日本 </p>
+<p> NCC：將抽測速率公布數據 </p>
+<p> 2011網路整備度評比 台灣大躍進 </p>
+<p> 超甜新品種蜜棗 蒼蠅發現的 </p>
+<p> 野上智寬吳寶春秒殺麵包 超商訂得到 </p>
+<p> 正忠排骨飯 加入開發票一族 </p>
+<p> 排骨比手掌大 正忠配菜不輸主菜 </p>
+<p> 學生寒假打工 7不原則自保 </p>
+<p> 文湖線斷電 北市議員批：二等捷運 </p>
+<p> 3月便道完工 中橫將開放小巴通行 </p>
+<p> 台北橋站吃喝玩樂 三和夜市全包 </p>
+<p> 有線電視費率 又有3縣市降價 </p>
+<p> 無毒清潔劑？ 火烤現出原形 </p>
+<p> 西堤牛排 捐血送5折券 </p>
+<p> 求職廣告騙人 沒保存證據難罰 </p>
+<p> 防制法三周年／吸菸人口少42萬 但抽更兇 </p>
+<p> 【聯合晚報╱記者李樹人/台北報導】 </p>
+<p> 2012.01.12 09:19 am </p>
+<p> 菸害防治新制上路  抽菸人口減少42萬 </p>
+<p> / 李樹人 </p>
+<p> 菸害防制法新規定屆滿三周年，過去三年吸菸人口減少42萬，但抽菸者平均每日吸菸量卻顯著增加。 </p>
+<p> 報系資料照 </p>
+<p> 抽菸的人少了，但老菸槍每天的吸菸量卻增加。菸害防制法新規定上路迄今屆滿三周年，衛生署今天發表實施成效指出，過去三年，全台減少42萬吸菸人口，男性吸菸率明顯下降，但成年女性吸菸率卻比前兩年還高；所有抽菸者平均每日吸菸量也顯著增加，平均每天吸菸量高達18.9支。 </p>
+<p> 國民健康局衛教中心研究員馮宗蟻指出，菸害防制法新規定自98年1月11日實施，今天滿三周年，新法重點在擴大禁菸場所範圍，包括室內公共場所、室內三人以上工作場所等。 </p>
+<p> 衛生署調查三年成效發現，近九成民眾認為無菸環境因新法實施而有改善，禁菸公共場所二手菸暴露率從97年的23.7%，降為100年的8.2%。但數據顯示，仍有近一成民眾曾在公共場所遭受二手菸的暴露。 </p>
+<p> 另外，職場二手菸暴露率由97年的32.1%降為19.9%；家庭二手菸暴露率從97年27.2%降為19.9%。從調查結果來看，重點禁菸場所已有改善，但在職場、家庭等地方仍有努力空間。 </p>
+<p> 抽菸人口方面，18歲以上成年人吸菸率微幅下降，推估過去三年來，國內減少42萬吸菸人口。但菸品消耗總量卻有回升趨勢，100年吸菸者平均每日吸菸量達18.9支，99年是18.1支；而抽菸男性去年平均每人每天抽20支香菸，99年為18.9支。 </p>
+<p> 「戒菸沒有那麼容易！」馮宗蟻指出，雖然少了42萬名抽菸人口，但菸品消耗總量卻增加，原因在於老菸槍越抽越兇，以致紙菸總量會逐年升高。財政部統計，100年截至10月底紙菸總量高達15.6億包，比前年同期14.9億包，增加7000萬包，增幅達4.7%。 </p>
+<p> 稽查方面，各縣市衛生局過去三年進行335萬多次稽查及輔導，罰金超過5000萬元。以去年1月至11月為例，就有4880人在禁菸場所吸菸而遭處分。 </p>
+<p> .mpromote {	font-family: Arial;	font-size: 12pt;	margin: 0;	padding: 0;	} A.mpromote:link {	color:#2d4b92;	text-decoration: none; } A.mpromote:visited {	color:#2d4b92;	text-decoration: none;} A.mpromote:hover, A.mpromote:active, A.mpromote:focus { 	text-decoration: none;} </p>
+<p> Titles = new Array('<a href="http://www.ezding.com.tw/udn/welcome.do" target=_blank>買票省很大 網路電影票優惠下殺</a>', '<a href="http://m.udn.com" target=_blank><font color="#ff8000">m.udn.com</font>最麻吉的口袋媒體，最適合手機瀏覽的網站</a>', '<a href="http://m.udn.com" target=_blank>手機在我手，新聞跟著走　<font color="#ff8000">m.udn.com</font>提供您最豐富的新聞資訊！</a>', '<a href="http://m.udn.com" target=_blank>捷運族注意！每日新鮮事，盡在<font color="#ff8000">m.udn.com</font>！</a>', '<a href="http://zh-tw.facebook.com/myudn" target=_blank>快按讚加入<font color="#ff8000">udn粉絲團</font>，udn寶寶陪你看新聞！</a>', '<a href="http://zh-tw.facebook.com/myudn" target=_blank>「讚」出來！加入<font color="#ff8000">udn粉絲團</font>，看看網友怎麼說！</a>', '<a href="http://zh-tw.facebook.com/myudn" target=_blank>非「讚」不可！歡迎加入<font color="#ff8000">udn粉絲團</font>，新聞你HOLD住！</a>', '<a href="http://reading.udn.com/newspaper/index.html" target=_blank>報紙的數位閱讀，PC+iPad版一次擁有 ！</a>', '<a href="http://reading.udn.com/act/20120111/index.html" target=_blank>udn線上電子書展，揪甘心大回饋！超殺折扣、獨家好禮，龍底加！</a>', '<a href="http://reading.udn.com/act/20120111/pod_01.html" target=_blank>花現鬼太郎在udn個人出版，全館消費滿額送特展門票</a>', '<a href="http://reading.udn.com/act/20120111/index.html" target=_blank>買電子書、雜誌和報紙，抽平板電腦、送購物金、送展覽門票</a>'); Id = Math.floor(Math.random()*Titles.length); document.write("<font class='mpromote'>"+Titles[Id]+"</font>"); </p>
+<p> 【2012/01/11 聯合晚報】 </p>
+<p> @ </p>
+<p> http://udn.com/ </p>
+<p> jQuery("#fs1").bind("mouseenter",function() {   this.src='/2010/images/fontsize_1o.gif' }); jQuery("#fs2").bind("mouseenter",function() {   this.src='/2010/images/fontsize_2o.gif' }); jQuery("#fs3").bind("mouseenter",function() {   this.src='/2010/images/fontsize_3o.gif' }); jQuery("#fs4").bind("mouseenter",function() {   this.src='/2010/images/fontsize_4o.gif' });  function GetCkValue( name ) {   var dc=document.cookie;   var prefix=name+"=";   var begin=dc.indexOf("; "+prefix);    if (begin==-1) begin=dc.indexOf(prefix);   else begin+=2;   if (begin==-1) return "";   var end=document.cookie.indexOf(";",begin);   if(end==-1) end=dc.length;   return dc.substring(begin+prefix.length,end); }  function setCookie(name,value,expiresOrNot,path,domain,secure,flag){   var url=document.URL;   var howLong=new Date();   howLong.setFullYear(howLong.getFullYear()+1);   var curCookie=name+"="+escape(value) +   ((expiresOrNot)?";expires="+howLong.toGMTString():"") +   ((path)?";path="+path:"") +   ((domain)?";domain="+domain:"") +   ((secure)?";secure":"");   document.cookie=curCookie;   if(flag!="null")history.go(0); }  if (GetCkValue("FontSize")!="") {   var fs = GetCkValue("FontSize");    chgFontSize(fs); } else {   var fs = 2;    chgFontSize(fs); }  function chgFontImg(size) {    jQuery("#fs4").attr("src","/2010/images/fontsize_4.gif");   jQuery("#fs3").attr("src","/2010/images/fontsize_3.gif");   jQuery("#fs2").attr("src","/2010/images/fontsize_2.gif");   jQuery("#fs1").attr("src","/2010/images/fontsize_1.gif");    jQuery("#fs4").bind("mouseleave",function() {     this.src='/2010/images/fontsize_4.gif'   });   jQuery("#fs3").bind("mouseleave",function() {     this.src='/2010/images/fontsize_3.gif'   });   jQuery("#fs2").bind("mouseleave",function() {     this.src='/2010/images/fontsize_2.gif'   });   jQuery("#fs1").bind("mouseleave",function() {     this.src='/2010/images/fontsize_1.gif'   });    if (size == "4") {     jQuery("#fs4").attr("src","/2010/images/fontsize_4o.gif");      jQuery("#fs4").bind("mouseleave",function() {       this.src='/2010/images/fontsize_4o.gif'     });   }   if (size == "3") {     jQuery("#fs3").attr("src","/2010/images/fontsize_3o.gif");      jQuery("#fs3").bind("mouseleave",function() {       this.src='/2010/images/fontsize_3o.gif'     });   }   if (size == "2") {     jQuery("#fs2").attr("src","/2010/images/fontsize_2o.gif");      jQuery("#fs2").bind("mouseleave",function() {       this.src='/2010/images/fontsize_2o.gif'     });   }   if (size == "1") {     jQuery("#fs1").attr("src","/2010/images/fontsize_1o.gif");      jQuery("#fs1").bind("mouseleave",function() {       this.src='/2010/images/fontsize_1o.gif'     });   }  }  function chgFontSize(size) {   if (size == "4") {     jQuery("div#story").css("font-size","20px");     jQuery("div#story").css("line-height","190%");    // jQuery("div.menu_block > span").each(function () { jQuery(this).css("font-size","12pt")});     chgFontImg("4");     setCookie("FontSize","4",false,"/","udn.com","","null");   }   else if (size == "3") {     jQuery("div#story").css("font-size","18px");     jQuery("div#story").css("line-height","190%");     chgFontImg("3");     setCookie("FontSize","3",false,"/","udn.com","","null");   }   else if (size == "2") {     jQuery("div#story").css("font-size","15px");     jQuery("div#story").css("line-height","190%");     chgFontImg("2");     setCookie("FontSize","2",false,"/","udn.com","","null");   }   else {     jQuery("div#story").css("font-size","13px");     jQuery("div#story").css("line-height","190%");     chgFontImg("1");     setCookie("FontSize","1",false,"/","udn.com","","null");   } } </p>
+<p> //jQuery(document).ready(function() { //  jQuery(".content_hot").append("<div id='dignews'></div>"); //});  function rId() {   var url=window.location.toString();   var ary=url.split("/")   var page=ary[ary.length-1];   if (page.indexOf("_") != -1) {     _ary=page.split("_");     var DigId=_ary[0];   }   else {     var ary2=page.split(".");     var DigId=ary2[0];   }    return DigId; }  function InitDig(page) {   DigId = rId();   jQuery(".content_hot").append("<div id='dignews'></div>");   jQuery("#dignews").html("<center><img src='/images/forumimg/images/loading2.gif?1x'><br /><br /><font style='font-weight:bolder;font-size:16px'>討論區塊載入中</font></center>");    if (page == "") page = 1;   setTimeout("ShowDigContent("+DigId+",'b',"+page+")",100);   ShowDigCount(); }  function ShowDig(page) {   DigId = rId();    jQuery("#dignews").html("<center><img src='/images/forumimg/images/loading2.gif?xx'><br /><br /><font style='font-weight:bolder;font-size:16px'>討論區塊載入中</font></center>");    if (page == "") page = 1;   setTimeout("ShowDigContent("+DigId+",'a',"+page+")",100); }  function ShowDigCount() {   DigId = rId();    var htmlContent = jQuery.ajax({     url: "/forum/postn.jsp?news_id="+DigId,     async: true,     success: function(html){      jQuery("#postn").html(html);     },     error: function() {}   });  }  function ef() {   DigId = rId();   window.location.href="http://forum.udn.com/forum/letter.jsp?newsid="+DigId; } function ShowDigContent(DigId,TUrl,page) {   //var htmlContent =    jQuery.ajax({     url: "/forum/post"+TUrl+".jsp?news_id="+DigId+"&currentPage="+page,     async: true,     success: function(html){       jQuery("#dignews").hide();       jQuery("#dignews").html(html);       jQuery("#dignews").toggle('slow');     },     error: function() {}   });   // 要判斷  success 才SHOW or IE6 will hang   //.responseText; }  jQuery(document).ready(function() {   ShowDigCount();  if (  $jq.browser.msie && $jq.browser.version == '6.0' )  {    // InitDig(1);   }else {InitDig(1); } }); </p>
+<p> <!-- function MM_openBrWindow(theURL,winName,features) { //v2.0 window.open(theURL,winName,features); } String.prototype.trim = function() { 	return this.replace(/^\s+|\s+$/g,""); } String.prototype.ltrim = function() { 	return this.replace(/^\s+/,""); } String.prototype.rtrim = function() { 	return this.replace(/\s+$/,""); } function openWin3(url) {     window.open(url,'',''); } function searchKeyWord() {     var txt = '';      if (window.getSelection) {         txt = window.getSelection();     } else if (document.getSelection) {         txt = document.getSelection();     } else if (document.selection) {         txt = document.selection.createRange().text;     } 	if (txt == "") 		window.open('http://data.udn.com/images/news2data/history.html','history','height=580,width=500,top=0,left=0,toolbar=no,menubar=no,scrollbars=no, resizable=no,location=no, status=no'); 	else { 		if(confirm("您要查詢的關鍵字是(" + txt+")")) 			openWin3("http://data.udn.com/data/Search?Keywords="+txt); 	} } //--> </p>
+<p> 歷史新聞 </p>
+<p> displayTrackBackMenu() </p>
+<p> 轉寄 </p>
+<p> 列印 </p>
+<p> 討論 </p>
+<p> 推薦 </p>
+<p> 相關新聞： </p>
+<p> 請選擇---相關新聞 </p>
+<p> 熱門》加入熱血小工人，助貧童上學去 </p>
+<p> 熱門》趴踢一身紅！人氣紅不讓 </p>
+<p> 熱門》平價奢華 英倫品味頂級家電 </p>
+<p> 業者不保證頻寬 消基會：NCC嚴重失職 </p>
+<p> 消基會:我寬頻速度 世界倒數第四 </p>
+<p> 中華電信：101年實測速率超越日本 </p>
+<p> NCC：將抽測速率公布數據 </p>
+<p> 2011網路整備度評比 台灣大躍進 </p>
+<p> 超甜新品種蜜棗 蒼蠅發現的 </p>
+<p> 野上智寬吳寶春秒殺麵包 超商訂得到 </p>
+<p> 正忠排骨飯 加入開發票一族 </p>
+<p> 排骨比手掌大 正忠配菜不輸主菜 </p>
+<p> 學生寒假打工 7不原則自保 </p>
+<p> 文湖線斷電 北市議員批：二等捷運 </p>
+<p> 3月便道完工 中橫將開放小巴通行 </p>
+<p> 台北橋站吃喝玩樂 三和夜市全包 </p>
+<p> 有線電視費率 又有3縣市降價 </p>
+<p> 無毒清潔劑？ 火烤現出原形 </p>
+<p> 西堤牛排 捐血送5折券 </p>
+<p> 求職廣告騙人 沒保存證據難罰 </p>
+<p> 歷史新聞 </p>
+<p> 轉寄 </p>
+<p> 列印 </p>
+<p> 討論 </p>
+<p> var aurl=window.location.href;   //var aurl="http://forum.udn.com/forum/NewsLetter/NewsPreview?Encode=utf-8&NewsID="+rId();   var ii=aurl.indexOf("#");    if ( ii != -1 ) {       aurl=aurl.substring(0,ii);    }      document.write("<iframe src=\"http://www.facebook.com/plugins/like.php?href="+aurl+"&amp;layout=button_count&amp;locale=zh_TW&amp;show_faces=true&amp;width=90&amp;action=like&amp;font=verdana&amp;colorscheme=light&amp;height=80\" scrolling=\"no\" frameborder=\"0\" style=\"border:none; overflow:hidden; width:120px; height:22px;\" allowTransparency=\"true\"></iframe>"); </p>
+<p> 新聞臉譜 </p>
+<p> (投下你對這則新聞的感覺) </p>
+<p> 直接看結果 </p>
+<p> 社 群 回 應 </p>
+<p> (function(d, s, id) { 				     					var js, fjs = d.getElementsByTagName(s)[0]; 					if (d.getElementById(id)) {return;} 					js = d.createElement(s); js.id = id; 					js.src = "//connect.facebook.net/zh_TW/all.js#xfbml=1"; 					fjs.parentNode.insertBefore(js, fjs); 					}(document, 'script', 'facebook-jssdk')); </p>
+<p> 相 關 BLOG </p>
+<p> udn 粉絲團 </p>
+<p> 好友分享 </p>
+<p> 訂閱電子報 </p>
+<p> 如果愛抱報 </p>
+<p> E起來閱讀電子報 </p>
+<p> 文學點心屋 </p>
+<p> 小魯閱讀時間 </p>
+<p> 說故事電子報 </p>
+<p> 慈濟月刊電子報 </p>
+<p> 星期八親子閱讀報 </p>
+<p> 阿布拉電子報 </p>
+<p> 嬰兒與母親電子報 </p>
+<p> Choyce全球走透育兒誌 </p>
+<p> 刊登網站廣告 </p>
+<p> ︱ </p>
+<p> 網站總覽 </p>
+<p> ︱ </p>
+<p> FAQ </p>
+<p> • </p>
+<p> 客服 </p>
+<p> ︱ </p>
+<p> 新聞授權 </p>
+<p> ︱ </p>
+<p> 著作權 </p>
+<p> • </p>
+<p> 隱私權聲明 </p>
+<p> ︱ </p>
+<p> 聯合報系 </p>
+<p> ︱ </p>
+<p> 訂報紙 </p>
+<p> ︱ </p>
+<p> 關於我們 </p>
+<p> ︱ </p>
+<p> 招募夥伴 </p>
+<p> Copyright © 2010 udn.com  All Rights Reserved. </p>
+<p> <!-- if(isMenu){ document.write("<SCRIPT SRC='../../2010hierSetEnvstory.js'><\/SCRIPT>"); document.write("<SCRIPT SRC='../../hierArrays.js'><\/SCRIPT>"); document.write("<SCRIPT LANGUAGE='JavaScript' SRC='../../hierIE_2010.js'><\/SCRIPT>"); } //--> </p>
+<p> if(window.location.href.indexOf("www.udn.com") == -1) { //判斷網頁是否位於archive (www.udn.com) 主機 var server = 'ad4.udn.com'; var sitepage = "udn.com/imp-news2008"; var position ="x12"; if (! (RN)) { var RN = new String (Math.random()); var RNS = RN.substring (2, 11); } var oas='http://' + server + '/RealMedia/ads/'; var oaspage= sitepage + '/1' + RNS + '@' + position; document.write ('<SCRIPT LANGUAGE="JavaScript1.1" SRC="' + oas + 'adstream_jx.ads/' + oaspage + '">'); document.write ('\<\/SCRIPT\>'); } //判斷結束 </p>
+<p> function getByteLength(str){   var iCount = 0;   for( k=0; k<str.length; k++ ) {     c = str.charCodeAt(k);     if ( c>=32 && c<=126 ) iCount++;     else iCount += 2;   }   return iCount; }  function getSubString(str,maxwclength) {   var iCount = 0;    for( k=0; k<str.length; k++ ) {     c = str.charCodeAt(k);     if ( c>=32 && c<=126 ) iCount++;     else iCount += 2;      if (iCount > maxwclength) {       str = str.substr(0,k) + "...";       break;     }   }    return str; } </p>
+<p> //這裡使用 rId function 是否存在來判斷是否是在內文頁中。所以沒有include gsg 會不作。 	if (typeof($jq) != "undefined" && typeof window.rId == 'function' ) {           //內文頁 $jq('table.border tr td table tr:nth-child(10) td').each(function() {        $jq(this).attr("align","left");  });  /* 2012 01 02 fix story 內含table 會不完整問題!! $jq('table.border tr td table tr:nth-child(6)').each(function() {      $jq(this).hide();      $jq(this).attr("id","embs2") ; }); */ $jq('table.border tr td table tr:nth-child(5) td:nth-child(1) table ').each(function() {    if ( ! $jq.browser.webkit )    $jq(this).hide();      $jq(this).attr("id","embs2") ; }); if ( ! $jq.browser.webkit ){ //fix author vanished on chrome!! $jq('table.border tr td table tr:nth-child(9) td').each(function() {      $jq(this).attr("id","linedot") ;      $jq(this).empty() ; }); } if ( $jq.browser.webkit){ //for google chrome /* $jq('table.border tr td table tr td table tr td table tr:conddtains("story_author")').each(function() {      $jq(this).attr("id","embauth") ; }); */ //table.border tr td table tr td table tr  var is=0; $jq('table.border tr td table tr td table tr td').each(function() {      if ( $jq(this).html().match("linedot")  ) {        is++;       if (is==2) $jq(this).hide();      } }); $jq('table.border tr td table tr td table tr td table tr').each(function() {      if ( $jq(this).html().match("letter.jsp") && $jq(this).html().match("push.gif") ) {      $jq(this).hide();      } });  } //end of webkit             var cc='--'; 		var str=""; 		var selects=$jq("#jumpMenu option"); 		var rlimit=20;                 var displaynum=7;                 //var bgimg='/2010/images/list_bg.gif';                 var bgimg='/img/more_bg.gif';                  if ( location.href.indexOf("ENTERTAINMENT") > 0 ){                     bgimg='/img/more_bg_star.gif';                  }                  if ( location.href.indexOf("FUND") > 0 || location.href.indexOf("FINANCE") > 0 || location.href.indexOf("STOCK") > 0 ){                     bgimg='/img/more_bg_money.gif';                  }         var maxwclength = 36;                  var rlimit=20; aa='<div id="news_area" style="border-bottom: 1px dotted #CCCCCC;background: url('+bgimg+') repeat-x scroll left top transparent;height:206px;width:548px;padding-bottom:6px">'; aa=aa+'<div id="related_news"  style="border-right: 1px solid #CCCCCC;    display: block;float:left;height:204px;position: relative;width: 269px;">';  	aa=aa+'<div class="news_head" style="float:left;color: #FFFFFF;display:block;font-size: 15px;font-weight: bold;height:28px;margin-bottom:5px;padding:3px 0 0 10px;width: 261px;" ><div class="more"  style="float:right;padding-right: 10px;padding-top: 0px;" ><a href="index.shtml"><img src="/2010MAIN/img/more.gif" height="21" width="39"  border="0"></a></div>相 關 新 聞</div>'; 	aa=aa+'<dl>';         var jj=0; 	for (var i=1;i<rlimit;i++){          if (selects[i] != undefined){          var textnode=selects[i].lastChild;                  descstr=textnode.nodeValue;          if ( (i>1) && (selects[i].value == selects[0].value ||  i > rlimit ) )  break;            if (getByteLength(descstr) > maxwclength ){                              descstr = getSubString(descstr,maxwclength);           }           var regex = /》/;          if ( descstr.match (regex)) {          }          else{             	 aa=aa+'<dd >•<a href="'+selects[i].value+'" class="story_category" style="font-size:13px;line-height:23px" >'+descstr+'</a></dd>';             jj++;            if ( jj >= displaynum ) break;          }  	}        } 	aa=aa+'</dl>'; 	aa=aa+'</div>';   aa=aa+'<div id="hot_news" style="display: block;float:left; position:relative;width: 273px; height:200px" >';      if (  $jq.browser.msie && $jq.browser.version == '6.0' )  {    	aa=aa+'<div class="news_head" style="float:left;color: #FFFFFF;display:block;font-size: 15px;font-weight: bold;height:28px;margin-bottom:5px;padding:3px 0 0 10px;width: 261px;" ><div class="more" style="float:right;padding-right: 10px;padding-top: 0px;"><a href="http://dignews.udn.com/forum/udnnews/news_hot.jsp?type=daily&from=story" target="_blank"><img src="/2010MAIN/img/more.gif" height="21" width="39" border="0"></a></div>發 燒 新 聞</div>';    }else{ 	aa=aa+'<div class="news_head" style="float:left;color: #FFFFFF;display:block;font-size: 15px;font-weight: bold;height:28px;margin-bottom:5px;padding:3px 0 0 10px;width: 269px;" ><div class="more" style="float:right;padding-right: 10px;padding-top: 0px;"><a href="http://dignews.udn.com/forum/udnnews/news_hot.jsp?type=daily&from=story" target="_blank"><img src="/2010MAIN/img/more.gif" height="21" width="39" border="0"></a></div>發 燒 新 聞</div>';    }         aa=aa+'<dl>'; 	aa=aa+'</dl>';	 	aa=aa+'</div>'; 	aa=aa+'</div>';               if ( $jq("#adsense") != undefined ) $jq(aa).insertBefore( $jq("#adsense")); 		$jq("#other table").css('display','none');     if (  $jq.browser.msie && $jq.browser.version == '6.0' )  {             $jq.ajax({             url: "/2010MAIN/inc/focus_hot7.html",               success: function(data){                      $jq('#hot_news').toggle();                      $jq('#hot_news').append(data);                      $jq('#hot_news').toggle();             }         });      }else{            $jq.ajax({             url: "/2010MAIN/inc/focus_hot7.html",               success: function(data){                      $jq('#hot_news').toggle();                      $jq('#hot_news').append(data);                      $jq('#hot_news').toggle();             }         });      } 	}         else{               var kk="<div id=\"wicon\" style=\"display:block;width:300px\"><iframe id=\"wiconif\" style=\"padding:0px;display:none\" witdth=\"200\" height=\"25\" scrolling=\"no\" frameborder=\"0\" allowTransparency=\"true\"  src=\"/w/s.php?s\" ></iframe></div>";           //首頁才放~           if(window.location.href.indexOf("/NEWS/main") != -1) {                  document.write(kk);                  y=$('#infobar').css('top');                  x=$('#infobar').css('left');                  nx=parseInt(x.replace('px',''))+568;                  nx=nx+"px";                                    p=$('#infobar').css('position');                      $('#wicon').css('top',y);                       $('#wicon').css('left',nx);                       $('#wicon').css('position',p);                       $('#wicon').insertAfter("#infobar");                      // $('#wicon').toggle();                       //$('#wiconif').toggle(1800);           }         } </p>
+<p> var _gaq = _gaq || [];   _gaq.push(['_setAccount', 'UA-19660006-1']);   _gaq.push(['_setDomainName', '.udn.com']);   _gaq.push(['_trackPageview']);    (function() {     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);   })(); </p>
+<p> var _comscore = _comscore || [];   _comscore.push({ c1: "2", c2: "7390954" });   (function() {     var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;     s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";     el.parentNode.insertBefore(s, el);   })(); </p>
+<p> /* var objtext;  if ( objtext=document.getElementById('search_kw') ){ 	objtext.value="落點分析"; 	objtext.style.color = "#999999"; 	objtext.onclick = function(){ 		KwCheckClear(); 	}; }  function KwCheckClear(){ 	if ( objtext=document.getElementById('search_kw') ){ 		if( objtext.value == "落點分析" ){ 			objtext.value=""; 		} 		objtext.style.color = "#000000"; 	}else{ 		return; 	} }*/ </p>
+<p> if ( window.location.href.indexOf("/NEWS/main") == -1 ) {     document.write("<script src='https://apis.google.com/js/plusone.js'><\/script>");   } </p>

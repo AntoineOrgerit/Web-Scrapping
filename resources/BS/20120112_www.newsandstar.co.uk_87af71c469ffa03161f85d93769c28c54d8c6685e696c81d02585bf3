@@ -1,0 +1,252 @@
+<p> News & Star | Opinion | Mark Green | Lessons to be learned from a sorry situation </p>
+<p> /* 			Global "swap" holder 			Use value, null, if no layer initially visible 			*/ 			var currLayerId = "dateSearch0";  			function togLayer(id) { 				if(currLayerId) setDisplay(currLayerId, "none"); 				if(id)setDisplay(id, "block"); 				currLayerId = id; 			}  			function setDisplay(id,value) { 				var elm = document.getElementById(id); 				elm.style.display = value; 			} </p>
+<p> .dateSearch{display: none}             #dateSearch0{display: block;} </p>
+<p> var tabView2 = new YAHOO.widget.TabView('findertabbedpanel'); </p>
+<p> var gs_channels="DEFAULT"; 		var gsurl=window.location!=window.top.location?document.referrer:window.location; 		document.write('<scr'+'ipt type="text/javascript" src="http://mediaforce.grapeshot.co.uk/cngroup/channels.cgi?url='+encodeURIComponent(gsurl)+'"></scr'+'ipt>'); </p>
+<p> document.write('<scr' + 'ipt language=Javascript1.1 src="http://ad.doubleclick.net/adj/opinion.nsnew/mark_green;abr=!webtv;tile=1;dcopt=ist;sz=728x90;ord=1480518959;gs_cat='+gs_channels+ ';"></scr'+'ipt>'); </p>
+<p> <!-- 					if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || (navigator.userAgent.indexOf("WebTV") >= 0)) { 					document.write('<a href="http://ad.doubleclick.net/N5015/jump/opinion.nsnew/mark_green;tile=1;sz=728x90;ord=1480518959;gs_cat='+gs_channels+ '">'); 					document.write('<img src="http://ad.doubleclick.net/N5015/ad/opinion.nsnew/mark_green;tile=1;sz=728x90;ord=1480518959;gs_cat='+gs_channels+ '" width="728" height="90" border="0"></a>'); 				} 				//--> </p>
+<p> Thursday, 12 January 2012 </p>
+<p> Vouchers </p>
+<p> | </p>
+<p> Jobs </p>
+<p> | </p>
+<p> Property </p>
+<p> | </p>
+<p> Motors </p>
+<p> | </p>
+<p> Travel </p>
+<p> | </p>
+<p> Dating </p>
+<p> | </p>
+<p> Find it </p>
+<p> | </p>
+<p> Family Notices </p>
+<p> News & Star </p>
+<p> document.write('<scr' + 'ipt language=Javascript1.1 src="http://ad.doubleclick.net/adj/opinion.nsnew/mark_green;abr=!webtv;tile=2;sz=468x60;ord=1480518959;gs_cat='+gs_channels+ ';"></scr'+'ipt>'); </p>
+<p> <!-- 					if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || (navigator.userAgent.indexOf("WebTV") >= 0)) { 					document.write('<a href="http://ad.doubleclick.net/N5015/jump/opinion.nsnew/mark_green;tile=2;sz=468x60;ord=1480518959;gs_cat='+gs_channels+ '">'); 					document.write('<img src="http://ad.doubleclick.net/N5015/ad/opinion.nsnew/mark_green;tile=2;sz=468x60;ord=1480518959;gs_cat='+gs_channels+ '" width="468" height="60" border="0"></a>'); 				} 				//--> </p>
+<p> Home </p>
+<p> News </p>
+<p> Sport </p>
+<p> Carlisle United </p>
+<p> Opinion </p>
+<p> Features </p>
+<p> Entertainment </p>
+<p> Pictures </p>
+<p> Videos </p>
+<p> Local info </p>
+<p> Advertising </p>
+<p> Our view </p>
+<p> Anne Pickles </p>
+<p> Mark Green </p>
+<p> Reiver </p>
+<p> Blogs </p>
+<p> Get the top news stories by RSS </p>
+<p> | </p>
+<p> What is RSS? </p>
+<p> function googleTranslateElementInit() { 		  new google.translate.TranslateElement({ 		    pageLanguage: 'en', 		    layout: google.translate.TranslateElement.InlineLayout.SIMPLE 		  }, 'google_translate_element'); 		} </p>
+<p> News & Star </p>
+<p> Opinion </p>
+<p> Mark Green </p>
+<p> Lessons to be learned from a sorry situation </p>
+<p> Published at 11:27, Thursday, 12 January 2012 </p>
+<p> Should private medical companies replace dangerous breast implants for free? Some private firms have ignored a call for them to take out PIP implants at no charge. </p>
+<p> They argue the Government and the medical watchdog, the Medicines and Healthcare Regulatory Products Agency are at fault for allowing the cut-price implants to be sold in the UK. </p>
+<p> ItвЂ™s not their fault that they used them and they say that replacing them with more expensive implants would financially ruin them. </p>
+<p> Are they right to refuse? Well, morally, no. They carried out the work so they should be responsible if it goes wrong later, surely? </p>
+<p> Private firms such as Nuffield, Spire Healthcare and BMI have followed the call from Health Secretary Andrew Lansley to replace the implants. </p>
+<p> But bosses at the firms that have refused would say they were running a business, not a church. They did not manufacture the implants and they did not pass them as safe to use in surgery. </p>
+<p> So should it be left to the NHS to replace them at a cost of tens of millions of pounds to the taxpayer? </p>
+<p> Well, as a last resort, it has a duty to. </p>
+<p> The Welsh government has said it would pay to remove and replace banned breast implants from women who were treated privately. </p>
+<p> Welsh health minister, Lesley Griffiths, said: вЂњRemoving the implants and not replacing them could result in unsightly scarring, loose skin, and potentially the accumulation of fluids, need for drainage, and risk of infection.вЂќ </p>
+<p> The NHS will pay to remove, but not replace, implants if a private clinic refuses or no longer exists. Which is not enough. </p>
+<p> One estimate claims that about 50,000 implants are involved (some cosmetic, some reconstructive), which could cost the NHS as much as ВЈ150m. </p>
+<p> What this whole sorry, scary mess has shown is that there is a shocking lack of governance and regulation on the issue. </p>
+<p> There needs to be stricter controls over what can be used in cosmetic and reconstructive surgery. </p>
+<p> There has to be clear and cast-iron responsibility for the work carried out. </p>
+<p> But also, any woman undertaking a breast implant for whatever reason must be properly informed that they donвЂ™t last forever, that they will need replacing and that there is always risk of rupture, however slight. </p>
+<p> Published by </p>
+<p> http://www.newsandstar.co.uk </p>
+<p> SHARE THIS ARTICLE </p>
+<p> del.icio.us </p>
+<p> Digg </p>
+<p> Facebook </p>
+<p> Newsvine </p>
+<p> Reddit </p>
+<p> Stumbleupon </p>
+<p> Technorati </p>
+<p> Latest videos </p>
+<p> A life-saver </p>
+<p> Knocked down </p>
+<p> Extreme walker </p>
+<p> Wooshy spinny </p>
+<p> Garden haven </p>
+<p> More videos  here </p>
+<p> Our View </p>
+<p> DonвЂ™t hurry plans for  city hostel </p>
+<p> Waste of a welcome offering </p>
+<p> Poverty not easily beaten </p>
+<p> BettyвЂ™s killer must be outed </p>
+<p> More Our view </p>
+<p> Anne Pickles </p>
+<p> Patient comes first in breast implants saga </p>
+<p> (1 comment) </p>
+<p> IвЂ™ve resolved to cancel my resolutions </p>
+<p> ItвЂ™s not just the teachers who should smarten up </p>
+<p> If I was Mary, IвЂ™d be texting too. Probably my mum to be honest </p>
+<p> More Anne Pickles </p>
+<p> Mark Green </p>
+<p> Lessons to be learned from a sorry situation </p>
+<p> A way to put a cat among the pandas </p>
+<p> Use shops or lose them </p>
+<p> County council move to Botchergate makes sense </p>
+<p> More Mark Green </p>
+<p> Have your say </p>
+<p> Carlisle council 'spying' on dog owners in bid to combat fouling menace </p>
+<p> (2 comments) </p>
+<p> Man who opened Carlisle's first Chinese restaurant dies </p>
+<p> (2 comments) </p>
+<p> Carlisle hostel that housed rapist to be reopened for homeless women </p>
+<p> (16 comments) </p>
+<p> Cumbria Lake District in things to вЂ�see before you dieвЂ™ guide </p>
+<p> (1 comment) </p>
+<p> Stagecoach pledges to look at improving Carlisle bus station </p>
+<p> (12 comments) </p>
+<p> Carlisle council rejects cash for return to weekly bin collections </p>
+<p> (26 comments) </p>
+<p> Extra cash for Carlisle schools to provide more primary places </p>
+<p> (18 comments) </p>
+<p> Eight weeks of traffic delays as Carlisle city centre roadworks begin </p>
+<p> (19 comments) </p>
+<p> Cumbria council plan to close half of its rubbish tips to save cash </p>
+<p> (53 comments) </p>
+<p> Pro-smoking shop opening in Cumbria in fight to get law changed </p>
+<p> (224 comments) </p>
+<p> document.write('<scr' + 'ipt language=Javascript1.1 src="http://ad.doubleclick.net/adj/opinion.nsnew/mark_green;abr=!webtv;tile=3;sz=300x250;ord=1480518959;gs_cat='+gs_channels+ ';"></scr'+'ipt>'); </p>
+<p> <!-- 					if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || (navigator.userAgent.indexOf("WebTV") >= 0)) { 					document.write('<a href="http://ad.doubleclick.net/N5015/jump/opinion.nsnew/mark_green;tile=3;sz=300x250;ord=1480518959;gs_cat='+gs_channels+ '">'); 					document.write('<img src="http://ad.doubleclick.net/N5015/ad/opinion.nsnew/mark_green;tile=3;sz=300x250;ord=1480518959;gs_cat='+gs_channels+ '" width="300" height="250" border="0"></a>'); 				} 				//--> </p>
+<p> Scan for our iPhone and Android apps </p>
+<p> function findit() { 	var searchTerm = document.getElementById("searchText"); 	if (searchTerm.value != null && searchTerm.value != "e.g. plumbers") 	{ 		var townName = "carlisle"; 		var pcode = "CA1"; 		var matchedid = 34; 		if ((window.location.href.indexOf("newsandstar") != -1) || (window.location.href.indexOf("Cumberland") != -1)) 		{ 			townName = "carlisle"; 			pcode = "CA1"; 			matchedid = 34; 		} 		if (window.location.href.indexOf("timesandstar") != -1) 		{ 			townName = "workington"; 			pcode = "CA14"; 			matchedid = 141;	 		} 		if (window.location.href.indexOf("nwemail") != -1) 		{ 			townName = "barrow"; 			pcode = "LA14"; 			matchedid = 14;	 		} 		if (window.location.href.indexOf("whitehaven") != -1) 		{ 			townName = "whitehaven"; 			pcode = "CA28"; 			matchedid = 138;	 		}   		newloc = "?type=" + encodeURI(searchTerm.value) + "&name=&town=" + townName + "&location=" + pcode + "&dist=30&sort=0&siteID=0&matchedTown=" + matchedid; 		window.location = "http://www.clickin2findit.co.uk/search.aspx"+newloc; 		return true; 	} }  function handleKeyPress(e){ var key=e.keyCode || e.which; if (key==13){ findit(); } }  function searchBoxClicked() { 	var searchTerm = document.getElementById("searchText"); 	searchTerm.style.color="black"; 	if (searchTerm.value == "e.g. plumbers") 		searchTerm.value = ""; } </p>
+<p> Search for: </p>
+<p> Vote </p>
+<p> Should the Government rethink its welfare reforms after its defeat in the House of Lords? </p>
+<p> Yes, the changes will hurt already vulnerable sections of society </p>
+<p> No, we must stick to the deficit reduction plan and the cost of welfare is too high </p>
+<p> Show Result </p>
+<p> #shoplinks {   	margin: 0px; 		padding-left: 0px; 		margin-left: 0px; 		border: 1px solid #7A67AE; 		width: 126px;     background:white;   }     #shoplinks a { 	font-family: arial;   text-decoration: none;    font-weight: bold; 	color: white; 	background-color:#7A67AE;   display: block;   width: 126px;   font-size: 18px;   vertical-align: middle;   border: none;  /*  float: left;*/ }     #shoplinks a:hover { 	color: #7A67AE;   }           #shoplinks a img {     border: none;     vertical-align: middle;       }       #clickin2:hover {background: url(http://www.cnnewmedia.co.uk/locker/clickin2promo/header_f2.jpg); }   #clickin2{background: url(http://www.cnnewmedia.co.uk/locker/clickin2promo/header.jpg); height:65px; margin-top: 0px;}   #date:hover {background: url(http://www.cnnewmedia.co.uk/locker/clickin2promo/date_f2.jpg);}   #date{background: url(http://www.cnnewmedia.co.uk/locker/clickin2promo/date.jpg); height:33px;  margin-top: 2px;}   #jobs:hover {background: url(http://www.cnnewmedia.co.uk/locker/clickin2promo/jobs_f2.jpg);}   #jobs{background: url(http://www.cnnewmedia.co.uk/locker/clickin2promo/jobs.jpg); height:33px;  margin-top: 2px;}   #motors:hover {background: url(http://www.cnnewmedia.co.uk/locker/clickin2promo/motors_f2.jpg);}   #motors{background: url(http://www.cnnewmedia.co.uk/locker/clickin2promo/motors.jpg); height:31px;  margin-top: 2px;}     #property:hover {background: url(http://www.cnnewmedia.co.uk/locker/clickin2promo/property_f2.jpg);}   #property{background: url(http://www.cnnewmedia.co.uk/locker/clickin2promo/property.jpg); height:35px;  margin-top: 2px;}    #compare:hover {background: url(http://www.cnnewmedia.co.uk/locker/clickin2promo/compare_left_f2.jpg);}   #compare{background: url(http://www.cnnewmedia.co.uk/locker/clickin2promo/compare_left.jpg); height:33px;  margin-top: 2px;}        #shop:hover {background: url(http://www.cnnewmedia.co.uk/locker/clickin2promo/shop_f2.jpg);}   #shop{background: url(http://www.cnnewmedia.co.uk/locker/clickin2promo/shop.jpg); height:33px;  margin-top: 2px;}        #findit:hover {background: url(http://www.cnnewmedia.co.uk/locker/clickin2promo/findit_left_f2.jpg);}   #findit{background: url(http://www.cnnewmedia.co.uk/locker/clickin2promo/findit_left.jpg); height:33px;  margin-top: 2px;}      /*  #compare-left:hover {background: url(http://www.cnnewmedia.co.uk/locker/clickin2promo/compare_left_f2.jpg);}   #compare-left{background: url(http://www.cnnewmedia.co.uk/locker/clickin2promo/compare_left.jpg); height:33px;}*/        #travel:hover {background: url(http://www.cnnewmedia.co.uk/locker/clickin2promo/travel_f2.jpg);}   #travel{background: url(http://www.cnnewmedia.co.uk/locker/clickin2promo/travel.jpg); height:33px;  margin-top: 2px;}       span.clickin2panel_left {float: left; margin-left: 3px; margin-top: 6px;}   span.clickin2panel_right {float: right; margin-right: 3px; margin-top: 6px;} </p>
+<p> property </p>
+<p> motors </p>
+<p> jobs </p>
+<p> find it </p>
+<p> travel </p>
+<p> date </p>
+<p> shop </p>
+<p> compare </p>
+<p> <!-- function MM_preloadImages() { //v3.0  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src="http://www.cnnewmedia.co.uk/locker/clickin2promo/" + a[i];}} //   if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}} } MM_preloadImages('header.jpg', 'header_f2.jpg','property.jpg','motors.jpg','jobs.jpg','date.jpg','property_f2.jpg','motors_f2.jpg','jobs_f2.jpg','date_f2.jpg','compare_left.jpg','compare_left_f2.jpg', 'findit_left.jpg', 'findit_left_f2.jpg', 'shop.jpg', 'shop_f2.jpg', 'travel.jpg', 'travel_f2.jpg'); //--> </p>
+<p> Contact us </p>
+<p> Send your photos </p>
+<p> Send your news </p>
+<p> Send a letter </p>
+<p> Staff phone nos </p>
+<p> Quick links </p>
+<p> Family Notices </p>
+<p> Obituaries </p>
+<p> CV Link </p>
+<p> Advertise with us </p>
+<p> Classifieds </p>
+<p> Find it in Cumbria </p>
+<p> Subscriptions </p>
+<p> Readers Travel </p>
+<p> Home Delivery </p>
+<p> CN Letterbox </p>
+<p> Exchange rates </p>
+<p> Blogs </p>
+<p> Join us at </p>
+<p> YouTube </p>
+<p> Facebook </p>
+<p> Twitter </p>
+<p> Flickr </p>
+<p> document.write('<scr' + 'ipt language=Javascript1.1 src="http://ad.doubleclick.net/adj/opinion.nsnew/mark_green;abr=!webtv;tile=4;sz=120x600;ord=1480518959;gs_cat='+gs_channels+ ';"></scr'+'ipt>'); </p>
+<p> <!-- 					if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || (navigator.userAgent.indexOf("WebTV") >= 0)) { 					document.write('<a href="http://ad.doubleclick.net/N5015/jump/opinion.nsnew/mark_green;tile=4;sz=120x600;ord=1480518959;gs_cat='+gs_channels+ '">'); 					document.write('<img src="http://ad.doubleclick.net/N5015/ad/opinion.nsnew/mark_green;tile=4;sz=120x600;ord=1480518959;gs_cat='+gs_channels+ '" width="120" height="600" border="0"></a>'); 				} 				//--> </p>
+<p> document.write('<scr' + 'ipt language=Javascript1.1 src="http://ad.doubleclick.net/adj/opinion.nsnew/mark_green;abr=!webtv;tile=5;sz=240x400;ord=1480518959;gs_cat='+gs_channels+ ';"></scr'+'ipt>'); </p>
+<p> <!-- 					if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || (navigator.userAgent.indexOf("WebTV") >= 0)) { 					document.write('<a href="http://ad.doubleclick.net/N5015/jump/opinion.nsnew/mark_green;tile=5;sz=240x400;ord=1480518959;gs_cat='+gs_channels+ '">'); 					document.write('<img src="http://ad.doubleclick.net/N5015/ad/opinion.nsnew/mark_green;tile=5;sz=240x400;ord=1480518959;gs_cat='+gs_channels+ '" width="240" height="400" border="0"></a>'); 				} 				//--> </p>
+<p> var tabView1280480679 = new YAHOO.widget.TabView('tabbedpanel_1280480679'); </p>
+<p> Most read today </p>
+<p> Week </p>
+<p> Month </p>
+<p> Commented today </p>
+<p> Week </p>
+<p> Month </p>
+<p> Man who opened Carlisle's first Chinese restaurant dies </p>
+<p> (2 comments) </p>
+<p> Machete and knives seized by Cumbria police after woman hurt </p>
+<p> Cumbrian man jailed for slashing girlfriend with bread knife </p>
+<p> Public meeting anger at plan to make Carlisle hostel women only </p>
+<p> Carlisle council 'spying' on dog owners in bid to combat fouling menace </p>
+<p> (2 comments) </p>
+<p> Cumbria cash machine con sparks police alert </p>
+<p> Cumbria council plan to close half of its rubbish tips to save cash </p>
+<p> (53 comments) </p>
+<p> Prison warning for ВЈ120,000 Carlisle con bid car salesman </p>
+<p> Eight weeks of traffic delays as Carlisle city centre roadworks begin </p>
+<p> (19 comments) </p>
+<p> Cumbrian social worker keeps job as drunk kiss claim not proved </p>
+<p> Pro-smoking shop opening in Cumbria in fight to get law changed </p>
+<p> (224 comments) </p>
+<p> Man killed in north Cumbria road crash named </p>
+<p> Twenty officers with Cumbria police have criminal record </p>
+<p> (39 comments) </p>
+<p> Police warning as Cumbria battered by strong winds </p>
+<p> Dog shot dead in Cumbria while being walked by owner </p>
+<p> (51 comments) </p>
+<p> Public meeting anger at plan to make Carlisle hostel women only </p>
+<p> Carlisle council rejects cash for return to weekly bin collections </p>
+<p> (26 comments) </p>
+<p> Pro-smoking shop opening in Cumbria in fight to get law changed </p>
+<p> (224 comments) </p>
+<p> Man who opened Carlisle's first Chinese restaurant dies </p>
+<p> (2 comments) </p>
+<p> Stagecoach pledges to look at improving Carlisle bus station </p>
+<p> (12 comments) </p>
+<p> Pro-smoking shop opening in Cumbria in fight to get law changed </p>
+<p> (224 comments) </p>
+<p> Cumbria council plan to close half of its rubbish tips to save cash </p>
+<p> (53 comments) </p>
+<p> Carlisle council rejects cash for return to weekly bin collections </p>
+<p> (26 comments) </p>
+<p> Cumbrian Tories split over Margaret Thatcher Iron Lady film </p>
+<p> (17 comments) </p>
+<p> Extra cash for Carlisle schools to provide more primary places </p>
+<p> (18 comments) </p>
+<p> Pro-smoking shop opening in Cumbria in fight to get law changed </p>
+<p> (224 comments) </p>
+<p> Easier to buy bullets than Calpol, claims Cumbrian MP </p>
+<p> (74 comments) </p>
+<p> Cumbria council plan to close half of its rubbish tips to save cash </p>
+<p> (53 comments) </p>
+<p> Twenty officers with Cumbria police have criminal record </p>
+<p> (39 comments) </p>
+<p> Revamp of Castle Street in Carlisle nominated for national award </p>
+<p> (29 comments) </p>
+<p> document.write('<scr' + 'ipt language=Javascript1.1 src="http://ad.doubleclick.net/adj/opinion.nsnew/mark_green;abr=!webtv;tile=6;sz=250x250;ord=1480518959;gs_cat='+gs_channels+ ';"></scr'+'ipt>'); </p>
+<p> <!-- 					if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || (navigator.userAgent.indexOf("WebTV") >= 0)) { 					document.write('<a href="http://ad.doubleclick.net/N5015/jump/opinion.nsnew/mark_green;tile=6;sz=250x250;ord=1480518959;gs_cat='+gs_channels+ '">'); 					document.write('<img src="http://ad.doubleclick.net/N5015/ad/opinion.nsnew/mark_green;tile=6;sz=250x250;ord=1480518959;gs_cat='+gs_channels+ '" width="250" height="250" border="0"></a>'); 				} 				//--> </p>
+<p> <!-- google_ad_client = "ca-pub-2991137633234314"; /* News Sites RH Col Square */ google_ad_slot = "4866516395"; google_ad_width = 250; google_ad_height = 250; //--> </p>
+<p> var _gaq = _gaq || [];   _gaq.push(['_setAccount', 'UA-1205041-47']);   _gaq.push(['_setDomainName', 'newsandstar.co.uk']);   _gaq.push(['_setAllowLinker', true]);   _gaq.push(['_trackPageview']);    (function() {     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);   })(); </p>
+<p> Cumberland News </p>
+<p> Times & Star </p>
+<p> Whitehaven News </p>
+<p> Hexham Courant </p>
+<p> NW Evening Mail </p>
+<p> Eskdale & Liddesdale Advertiser </p>
+<p> Cumbria Life </p>
+<p> in-cumbria </p>
+<p> clickin2 </p>
+<p> Property </p>
+<p> Motors </p>
+<p> Jobs </p>
+<p> Date </p>
+<p> Compare </p>
+<p> Shop </p>
+<p> Find it </p>
+<p> Travel </p>
+<p> CN Group </p>
+<p> <!-- 				function sitestat(ns_l){ns_l+='&amp;ns__t='+(new Date()).getTime();ns_pixelUrl=ns_l; 				ns_0=document.referrer; 				ns_0=(ns_0.lastIndexOf('/')==ns_0.length-1)?ns_0.substring(ns_0.lastIndexOf('/'),0):ns_0; 				if(ns_0.length>0)ns_l+='&amp;ns_referrer='+escape(ns_0); 				if(document.images){ns_1=new Image();ns_1.src=ns_l;}else 				document.write('<img src="'+ns_l+'" width="1" height="1" alt="">');} 				sitestat("http://uk.sitestat.com/cngroup/newsandstar/s?home.lessons-to-be-learned-from-a-sorry-situation.page"); 				//--> </p>

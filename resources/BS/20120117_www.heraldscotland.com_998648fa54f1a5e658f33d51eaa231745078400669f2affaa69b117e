@@ -1,0 +1,179 @@
+<p> Study reveals health potential of chocolate | Herald Scotland </p>
+<p> <!--//--><![CDATA[//><!-- jQuery.extend(Drupal.settings, { "basePath": "/", "combineBlocks": [ [ "#block-views-most_viewed_by_taxonomy-block", "#block-views-most_commented_articles-block_1" ], [ "#block-views-most_viewed_by_node_type-block", "#block-views-most_commented_blogs-block_1" ], [ "#block-views-most_viewed_by_node_type-block", "#block-views-most_commented_articles-block_1" ] ], "op_workflow_bonus": null }); //--><!]]> </p>
+<p> About Us </p>
+<p> Advertise </p>
+<p> Subscribe </p>
+<p> RSS </p>
+<p> Tuesday 17 January 2012 </p>
+<p> Complete archive of articles from 1989 to today </p>
+<p> News </p>
+<p> Home News </p>
+<p> Crime & Courts </p>
+<p> Health </p>
+<p> Education </p>
+<p> Transport </p>
+<p> Environment </p>
+<p> World News </p>
+<p> Jobs </p>
+<p> Property </p>
+<p> Cars </p>
+<p> Local Businesses </p>
+<p> Dating </p>
+<p> Family Notices </p>
+<p> Book an ad </p>
+<p> Politics </p>
+<p> Political News </p>
+<p> In Depth </p>
+<p> Opinion </p>
+<p> Holyrood TV </p>
+<p> Jobs </p>
+<p> Property </p>
+<p> Cars </p>
+<p> Local Businesses </p>
+<p> Dating </p>
+<p> Family Notices </p>
+<p> Book an ad </p>
+<p> Sport </p>
+<p> Football </p>
+<p> Opinion </p>
+<p> Rugby </p>
+<p> Golf </p>
+<p> Tennis </p>
+<p> Cricket </p>
+<p> Other Sports </p>
+<p> Jobs </p>
+<p> Property </p>
+<p> Cars </p>
+<p> Local Businesses </p>
+<p> Dating </p>
+<p> Family Notices </p>
+<p> Book an ad </p>
+<p> Business </p>
+<p> Company News </p>
+<p> Markets & Economy </p>
+<p> People </p>
+<p> Opinion </p>
+<p> Personal Finance </p>
+<p> Bulletin </p>
+<p> Jobs </p>
+<p> Property </p>
+<p> Cars </p>
+<p> Local Businesses </p>
+<p> Dating </p>
+<p> Family Notices </p>
+<p> Book an ad </p>
+<p> Comment </p>
+<p> Columnists </p>
+<p> The Diary </p>
+<p> Tom Shields </p>
+<p> Bloggers </p>
+<p> In Praise Of... </p>
+<p> Herald View </p>
+<p> Letters </p>
+<p> Obituaries </p>
+<p> Jobs </p>
+<p> Property </p>
+<p> Cars </p>
+<p> Local Businesses </p>
+<p> Dating </p>
+<p> Family Notices </p>
+<p> Book an ad </p>
+<p> Arts & Ents </p>
+<p> Film </p>
+<p> Stage </p>
+<p> Music </p>
+<p> Classical </p>
+<p> Visual </p>
+<p> Books & Poetry </p>
+<p> Opinion </p>
+<p> Listings </p>
+<p> Jobs </p>
+<p> Property </p>
+<p> Cars </p>
+<p> Local Businesses </p>
+<p> Dating </p>
+<p> Family Notices </p>
+<p> Book an ad </p>
+<p> Life & Style </p>
+<p> Fashion </p>
+<p> Homes & Interiors/Gardens </p>
+<p> Outdoors/Leisure </p>
+<p> Food & Drink </p>
+<p> Technology </p>
+<p> Jobs </p>
+<p> Property </p>
+<p> Cars </p>
+<p> Local Businesses </p>
+<p> Dating </p>
+<p> Family Notices </p>
+<p> Book an ad </p>
+<p> Going Out </p>
+<p> Puzzles </p>
+<p> Weather </p>
+<p> (function(d, s, id) {   var js, fjs = d.getElementsByTagName(s)[0];   if (d.getElementById(id)) return;   js = d.createElement(s); js.id = id;   js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1";   fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk')); </p>
+<p> Monday 16 January 2012 </p>
+<p> Text size </p>
+<p> Study reveals health potential of chocolate </p>
+<p> Marisa Duffy </p>
+<p> Senior Features Writer </p>
+<p> IT'S what chocoholics have claimed all along. </p>
+<p> Tweet </p>
+<p> Custom byline text: </p>
+<p> Marisa Duffy </p>
+<p> Chocolate, according to new research published today, can be good for you. </p>
+<p> Chocolate and cocoa have been found to reduce the risk of heart disease in women with type 2 diabetes, claims a study by the University of East Anglia (UEA). </p>
+<p> $(function () {                 var paraCount = Math.round($('.body-content p').length/2);                 if (paraCount > 2) {                     $('#article-mpu').appendTo($('.body-content p:nth-child(' + paraCount + ')'));                 } else {                     $('#article-mpu').remove();                 }             }); </p>
+<p> Tweet </p>
+<p> m__is_archived_content = false; 				   	      $(document).ready(function () {  				  var mmd = new Date (); 				  var mm = "";  				  if ($.cookie('sueid')) mm = mm + $.cookie('sueid');  				  if (! mm.match(/^[a-zA-Z0-9]+$/)) 				    mm = "";  				  var url_for_comments = "";  				  /* 				  if ($("div.field-field-d-identifier > div > div").length) { 				    url_for_comments = $.trim($("div.field-field-d-identifier > div > div").html()); 				  } else { 				    if (location.href.match(/\.[0-9]+$/)) { 				      url_for_comments = location.href; 				    } 				  } 				  */  				  if (location.href.match(/\.[0-9]+$/)) { 				    url_for_comments = location.href; 				  }  				  var m__tLogged = $.cookie('sueid'); 				   				  if (url_for_comments != "") { 				    $.ajax({"type": "GET", 					       "url":  "http://login.heraldscotland.com/gc.cgi", 					       "processData": true, 					       "data": {"url": "" + url_for_comments, "uum": "" + mm, "r": mmd.valueOf()}, 					       "dataType": "jsonp", 					       "success": function (j) { 					       articleTitle = $("h1.article-title").text() || ""; 					        					       if (m__tLogged && j.message) { 						 disqus_config = function () { 						   this.page.remote_auth_s3 = j.message + " " + j.hmac + " " + j.timestamp; 						   // the fallback value here is heraldscotland's public api key 						   this.page.api_key        = j.api_key || "PTKEOzJw8tjejd6UqDoSFuvyYHNLAHD52zOFp05OFMOnSGLlq87D0s3onFHBEJkv"; 						 }; 					       } 					      					       var myd_shortname    = 'heraldscotland';     // we can re-use the myHost variable for this because they match the disqus shortnames 					       var my_identifierurl = j.rawurl || location.href;   // disqus identifier and url 					       var d_url            = my_identifierurl; 					      					       var d_identifier = j.d_identifier || d_url; 					      					       var myCommentHTML = '<div id="disqus_thread"></div>' + 						 '<scr' + 'ipt type="text/javascript"> ' + 						 "var disqus_shortname  = '" + myd_shortname + "'; " + 						 "var disqus_identifier = '" + d_identifier  + "';" + 						 "var disqus_url        = '" + d_url         + "';" + 						 "var disqus_title      = unescape('" + escape(articleTitle) + "'); " + 						 '(function() {  ' + 						 " var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true; " + 						 " dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js'; " + 						 " (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq); " + 						 " })(); " + 						 '   </sc' + 'ript>  ';  					       $("div#disqushold").html(myCommentHTML);  					       return true; 					     }}); 				  } 				}); </p>
+<p> Most read </p>
+<p> Most commented </p>
+<p> Don't show me this again. </p>
+<p> © Copyright </p>
+<p> Herald & Times Group </p>
+<p> All rights reserved </p>
+<p> Our News Services </p>
+<p> Mobile </p>
+<p> Newspaper </p>
+<p> Digital Editions </p>
+<p> Back Issues </p>
+<p> Online Archive </p>
+<p> Email, Twitter, RSS </p>
+<p> Syndication </p>
+<p> Our Advertising Services </p>
+<p> Family Notices </p>
+<p> Book Your Newspaper Ad online </p>
+<p> Contact the Sales Team </p>
+<p> The Facts and Figures </p>
+<p> View Newspaper Ads </p>
+<p> Our Personal Services </p>
+<p> Help, Feedback & Contact </p>
+<p> Dating </p>
+<p> Travel Services </p>
+<p> Photo Sales </p>
+<p> Crosswords & Sudoku </p>
+<p> Our Colleagues </p>
+<p> Evening Times </p>
+<p> s1 </p>
+<p> Scottish Farmer </p>
+<p> TGO </p>
+<p> Newsquest Media Group </p>
+<p> About Us </p>
+<p> Herald & Times Group </p>
+<p> Terms & Conditions </p>
+<p> Privacy Policy </p>
+<p> Employment </p>
+<p> var s_account="newsquestheraldscotlandprod,newsquestgroupprod";         href = document.location.href;         href = href.replace(/\/services\//,"/");         path = href.split("/");         pName = "";         articleId = new Array("","");          for (x=4; x<7; x++) {             if (typeof path[x] == 'undefined') path[x] = '';             if (path[x] == "") {                 path[x] = path[x-1];             } else {                 path[x] = path[x-1] + "/" + path[x];             }              path[x] = path[x].replace(/\/undefined/g,"");         } </p>
+<p> if (typeof mySearchQuery == 'undefined') {             mySearchQuery = "";             myTotalHitCount = "";         }          s.pageName="(www) /" + path[6] + pName;         s.server="";         s.channel="";         s.pageType="";         s.prop1=mySearchQuery;         s.prop2=myTotalHitCount;         s.prop3=document.title;      if (document.location.href.match(/\.[0-9]+$/)) {       var articleId = document.location.href;       articleId = articleId.replace(/^.+\.([0-9]+)$/, "$1");        //s.prop4= document.location.href;       s.prop4 = articleId;     }     s.prop5="";      if (location.href.match(/\.com\/$/)) {       s.prop6 = 'homepage';       s.prop7 = 'homepage';       s.prop8 = 'homepage';       s.prop9 = 'homepage';     } else {       if (typeof prop6 == 'undefined') {         s.prop6=path[3];       } else {         s.prop6=prop6;       }        if (typeof prop7 == 'undefined') {         s.prop7=path[4];       } else {         s.prop7=prop7;       }        if (typeof prop8 == 'undefined') {         s.prop8=path[5];       } else {         s.prop8=prop8;       }        if (typeof prop9 == 'undefined') {         s.prop9=path[6];       } else {         s.prop9=prop9;       }     }      s.prop10="";     s.prop16=path[2];     s.prop17="Scotland";     s.prop18="Martini";     s.linkInternalFilters="javascript:,heraldscotland.com,theherald.co.uk"; /* Conversion Variables */     s.campaign="";     s.state="";     s.zip="";     s.events="";      if (typeof(m__is_signed_in) != "undefined" && typeof(m__is_comment_detail) != "undefined") {         if (m__is_comment_detail) {             if (! m__is_signed_in) {                 if (! $.cookie('ssiw')) {                     if (typeof(oo_myEvents) == "undefined") {                         oo_myEvents = new Array ();                     }                      oo_myEvents.push("event5");                     $.cookie("ssiw", 1, { path: '/', domain: 'heraldscotland.com' });                 }             }          }     }      if (typeof(oo_myEvents) != "undefined" && oo_myEvents.length > 0) {         s.events = oo_myEvents.join(",");     }      s.products="";     s.purchaseID="";     s.eVar14="";     s.eVar15="";      if (typeof(m__tLogged) != "undefined" && m__tLogged.match(/^[a-zA-Z0-9]+$/)) {         s.eVar19 = m__tLogged;     }      /* Hierarchy Variables */      s.hier1="newsquest," + "Scotland" + "," + path[2] + "," + path[6].replace(/\//,",");      /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/          var s_code=s.t();      if (s_code) {         document.write(s_code);     } </p>
+<p> var _sf_async_config={uid:2823,domain:'heraldscotland.com'};(function(){function loadPublishflow() {window._sf_endpt=(new Date()).getTime();var e = document.createElement('script');e.setAttribute('language', 'javascript');e.setAttribute('type', 'text/javascript');e.setAttribute('src',(('https:' == document.location.protocol) ? 'https://s3.amazonaws.com/' : 'http://s3.amazonaws.com/') + 'publishflow/javascript/data.js');document.body.appendChild(e);}var oldonload = window.onload;window.onload = (typeof window.onload != 'function') ?loadPublishflow : function() { oldonload(); loadPublishflow();  };})(); </p>
+<p> function quantcastPropValidator(property) {         return (property !='undefined' && typeof(property)=='string' && property.length > 0);     }      function quantcastLabelBuilder(){         if (quantcastPropValidator(s.prop6) && quantcastPropValidator(s.prop17)) {             return 'Property.' + s.prop17 + '.Site Section.' + s.prop6;         }     }      _qoptions={ qacct:"p-42Bk1WKC7O3WM", labels:quantcastLabelBuilder() }; </p>
+<p> quantSegs="";      function qc_results(result) {         for (var i = 0; i < result.segments.length; i++) {             quantSegs += result.segments[i].id + "|";         }     } </p>
+<p> audienceScienceSegments='';     var rsi_segs = [],         segs_beg=document.cookie.indexOf('rsi_segs=');      if (segs_beg>=0){          segs_beg=document.cookie.indexOf('=',segs_beg)+1;          if (segs_beg>0){             var segs_end=document.cookie.indexOf(';',segs_beg);              if(segs_end==-1) segs_end=document.cookie.length;              rsi_segs=document.cookie.substring(segs_beg,segs_end).split('|');              audienceScienceSegments= document.cookie.substring(segs_beg,segs_end)          }      }      // OAS Ad Serving code      var OAS_url = 'http://oas.newsquestdigital.co.uk/RealMedia/ads/',         OAS_sitepage = 'www.heraldscotland.com' + window.location.pathname;      if (OAS_sitepage.charAt(OAS_sitepage.length - 1) == '/') {         OAS_sitepage += 'index.php';     }      var OAS_listpos = 'Top,Right,Frame2,x01,x02,x03,Position1',         OAS_version = 10,         OAS_rn = new String (Math.random()),         OAS_rns = OAS_rn.substring (2, 11);      OAS_query = '';      if (quantSegs && quantSegs.length > 0) {         OAS_query += '&qcSegements=' + quantSegs;     }      if (audienceScienceSegments && audienceScienceSegments.length > 0) {         OAS_query += '&asSegements=' + audienceScienceSegments;     }      function OAS_NORMAL(pos) {         document.write('<a href="' + OAS_url + 'click_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' +                        OAS_listpos + '!' + pos +'?' + OAS_query + '">');           document.write('<img src="' +                        OAS_url + 'adstream_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos +                        '!' + pos +'?' + OAS_query + '" alt="" /><'+'/a>');     }      OAS_version = 11;      if (navigator.userAgent.indexOf('Mozilla/3') != -1 || navigator.userAgent.indexOf('Mozilla/4.0 WebTV') != -1) {         OAS_version = 10;     }      if (OAS_version >= 11) {         document.write('<scr' + 'ipt type="text/javascript" src="' + OAS_url + 'adstream_mjx.ads/' +                         OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos +'?' + OAS_query + '"><\/scr' + 'ipt>');     }      function OAS_AD(pos) {         if (OAS_version >= 11) {             OAS_RICH(pos);         } else {             OAS_NORMAL(pos);         }     }      mmmm = new String ($.cookie('sueid'));      var sscook = new String("$cookie.get.sueid");      function OAS_moveAds() {         var mpu2parNum      = 9,             mpu2leftorright = 'left',             displayMPU2 = true;          if (typeof(m__tURL) != "undefined" && m__tURL.match(/\/comment\//)) displayMPU2 = false;          // An implementation of 'fast ads'          var ls = document.getElementById("leaderboard-source"),             lt = document.getElementById("leaderboard");          if (ls && lt) lt.appendChild(ls);          var ms = document.getElementById("mpu-source"),             mt = document.getElementById("mpu");          if (ms && mt) mt.appendChild(ms);          var ms2 = document.getElementById("mpu2-source"),             mt2 = document.getElementById("mpu2");          if (ms2 && mt2) mt2.appendChild(ms2);          var ss = document.getElementById("skyscraper-source");         var st = document.getElementById("skyscraper");          if (ss && st) st.appendChild(ss);      }              YAHOO.util.Event.onDOMReady(OAS_moveAds); </p>
+<p> OAS_AD('Right'); </p>
+<p> OAS_AD('Top'); </p>
+<p> OAS_AD('Frame2'); </p>
+<p> OAS_AD('Position1'); </p>
+<p> Murdered by a monster </p>
+<p> Horta-Osorio declines £2.4m bonus at Lloyds </p>
+<p> New poll builds pressure for devo-max question </p>
+<p> Murder hunt as man beaten to death in city street </p>
+<p> Picture extra: how Scotland has helped to rebuild Haiti </p>

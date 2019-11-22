@@ -1,0 +1,203 @@
+<p> 天津网-深圳回应史上最牛工资单:"人均年薪30万"没违规 </p>
+<p> <!--大中小代码--> function fontZoom(size) {  document.getElementById('fontzoom').style.fontSize=size+'px' } <!--大中小代码--> </p>
+<p> function CreateShare() { 	function makeurl(url) { 		url = url.replace(/{url}/ig, encodeURIComponent("http://www.tianjinwe.com/tianjin/tbbd/201201/t20120112_4976286.html")); 		url = url.replace(/{title}/ig, encodeURIComponent("深圳回应史上最牛工资单:"人均年薪30万"没违规")); 		url = url.replace(/{site}/ig, encodeURI("http://www.tianjinwe.com")); 		url = url.replace(/{pic}/ig, ''); 		url = url.replace(/{cont}/ig, encodeURIComponent("深圳回应史上最牛工资单:"人均年薪30万"没违规")); 		url = url.replace(/{content}/ig, encodeURIComponent("深圳回应史上最牛工资单:"人均年薪30万"没违规")); 		return url; 	} 	var ct = $('.share').append('<ul class=\"t10\"></ul>'); 	ct = ct.find('ul'); 	var item = [ 		[0, 0, 682, 550, '腾讯QQ微博', 'http://v.t.qq.com/share/share.php?title={title}&url={url}&appkey=91669eaf0787447ebb7f10936a2d75f3&site={site}&pic={pic}'], 		[0, 1, 597, 500, '新浪微博', 'http://v.t.sina.com.cn/share/share.php?appkey=65464560&url={url}&title={title}'], 		[1, 0, 700, 500, '开心网', 'http://www.kaixin001.com/repaste/bshare.php?rtitle={title}&rurl={url}&rcontent={cont}'], 		[1, 1, 615, 440, 'QQ空间', 'http://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url={url}&title={title}&pic={pic}'], 		[1, 2, 945, 440, 'QQ校友', 'http://pengyou.qq.com/index.php?mod=usershare&act=onekey&to=xiaoyou&url={url}&title={title}'], 		[1, 3, 1020, 620, '百度Hi', 'http://apps.hi.baidu.com/share/?url={url}&title={title}&content={content}'], 		[1, 4, 732, 620, '网易微博', 'http://t.163.com/article/user/checkLogin.do?source={site}&info={cont}'], 		[1, 5, 700, 500, '人人网', 'http://share.renren.com/share/buttonshare.do?link={url}&title={title}'], 		[1, 6, 560, 298, '猫扑推客', 'http://tk.mop.com/api/post.htm?url={url}&title={title}&desc={content}'], 		[1, 7, 995, 525, '飞信', 'http://space.feixin.10086.cn/api/share?source={site}&title={content}&url={url}'], 		[1, 8, 660, 470, '搜狐微博', 'http://t.sohu.com/third/post.jsp?&url={url}&title={title}&content=utf-8&pic={pic}'], 		[1, 9, 700, 500, '淘江湖', 'http://share.jianghu.taobao.com/share/addShare.htm?url={url}&title={title}&content={content}'] 	]; 	var html = ''; 	$.each(item, function(i, n){ 		var btn = $('<li></li>').attr('title', '分享到“' + n[4] + "”").click(function(){ 			var url = makeurl(n[5]); 			window.open(url, '', 'width=' + n[2] + ', height=' + n[3] + ', top=' + (window.screen.availHeight - 40 - n[3]) / 2 + ', left=' + (window.screen.availWidth - 10 - n[2]) / 2 + ', toolbar=no, menubar=no, scrollbars=no, location=yes, resizable=no, status=no' ); 		}); 		if(n[0] == 0) btn.addClass('w').attr('style', 'background-position:' + (-n[1] * 16) + 'px 0px'); 		else if(n[0] == 1) btn.attr('style', 'background-position:' + (-n[1] * 16) + 'px -16px'); 		ct.append(btn); 	}); } </p>
+<p> 滚动新闻 </p>
+<p> ： </p>
+<p> var arrNewsItems = new Array();  	 			arrNewsItems.push(new Array("韩国一反应堆故障停机", '../../../hotnews/zxxx/201201/t20120112_4976032.html')); 	 			arrNewsItems.push(new Array("小牛顶翻凯尔特人 易建联未能亮相", '../../../hotnews/zxxx/201201/t20120112_4975952.html')); 	 			arrNewsItems.push(new Array("北京市２０１２年将继续着力保障和改善民生", '../../../hotnews/zxxx/201201/t20120112_4975950.html')); 	 			arrNewsItems.push(new Array("国家公务员局：全面推进公务员职业道德建设", '../../../hotnews/zxxx/201201/t20120112_4975945.html')); 	 			arrNewsItems.push(new Array("我国竞争性选拔公务员力度不断加大", '../../../hotnews/zxxx/201201/t20120112_4975944.html')); 	 			arrNewsItems.push(new Array("调查显示：哈尔滨市八成以上居民拥有自有住房", '../../../hotnews/zxxx/201201/t20120112_4975943.html')); 	 			arrNewsItems.push(new Array("海南警方悬赏１０万元搜捕南京抢劫案嫌疑人", '../../../hotnews/zxxx/201201/t20120112_4973976.html')); 	 			arrNewsItems.push(new Array("也门下令解除首都武装", '../../../hotnews/zxxx/201201/t20120112_4973784.html')); 	 			arrNewsItems.push(new Array("韩国一反应堆故障停机", '../../../hotnews/zxxx/201201/t20120112_4973550.html')); 	 			arrNewsItems.push(new Array("塞浦路斯放行俄“军火船”", '../../../hotnews/zxxx/201201/t20120112_4973414.html'));   		var intTickSpeed = 2000;var intTickPos = 0;var tickLocked = false;var fadeTimerID;var autoTimerID = 0; 		var intTypeSpeed = 16;var intCurrentPos = 0;var currentText = '';var currentLink = '';var strText = '';var isFirstPass = true; </p>
+<p> function initButtons() { 	getLinkElems(); 	playFirstTicker(); }  function prevArticle() {   if (tickLocked == false) { 	  if (intTickPos == 0) { 	    intTickPos = arrNewsItems.length-1; 	  } else { 	    intTickPos--; 		} 		setArticle(intTickPos); 	} } function nextArticle() { 	if (tickLocked == false) { 	  if (intTickPos == arrNewsItems.length-1) { 	    intTickPos = 0; 	  } else { 	    intTickPos++; 		} 		setArticle(intTickPos); 	} } function typeText() { 	if(intCurrentPos < currentText.length) { 		strText += currentText.charAt(intCurrentPos); 		setSpan(strText,currentLink); 		intCurrentPos++;		 	} else if (intCurrentPos == currentText.length) { 		strText += currentText.charAt(intCurrentPos); 		setSpan(strText,currentLink); 		clearInterval(typeInterval); 		hideCursor(); 	} else if (intCurrentPos > currentText.length){ 		setSpan(strText,currentLink); 		clearInterval(typeInterval); 		hideCursor(); 	} } function setSpan(strText, strLink) { 		var tickElem = document.getElementById("tick"); 		var tickFirstChild =  tickElem.firstChild; 		var tickLinkElem = document.createElement("a"); 		tickLinkElem.setAttribute('href', strLink);     	tickLinkElem.setAttribute('target', '_blank'); 		tickLinkElem.setAttribute('id', 'tickContentLink'); 		tickLinkElem.setAttribute('style', 'color:#004372'); 		tickText = document.createTextNode(strText); 		tickLinkElem.appendChild(tickText); 		tickElem.replaceChild(tickLinkElem,tickFirstChild); 		getLinkElems(); } function getLinkElems() { 	var tickerElem = document.getElementById("tick");  	var tickerAElem = tickerElem.getElementsByTagName("a");  	for (var i=0; i < tickerAElem.length; i++) {     tickerAElem[i].onmouseover = stopTicker;    	tickerAElem[i].onmouseout = resumeTicker;   } }  function setArticle(intPos) { 	if(arrNewsItems[intPos]!=null) { 		tickLocked = true; 		intCurrentPos = 0; 		strText = ''; 		setSpan('', '#'); 		showCursor(); 		currentText = arrNewsItems[intPos][0]; 		currentLink = arrNewsItems[intPos][1]; 		typeInterval = setInterval( "typeText()", intTypeSpeed); 		tickLocked = false;   } } function playTicker() {   isInFirstTimeout = false; 	if (autoTimerID != 0) { 		clearInterval(typeInterval); 		nextArticle();   }   autoTimerID = self.setTimeout("playTicker()", intTickSpeed); } function playFirstTicker() { 	if(isFirstPass == true) { 		hideCursor(); 		setSpan(arrNewsItems[0][0],arrNewsItems[0][1]); 		isFirstPass = false; 		typeInterval = setInterval('',0); 		isInFirstTimeout = true; 		autoTimerID = self.setTimeout("playFirstTicker()", intTickSpeed); 	} 	else if(isFirstPass == false) { 		clearTimeout(autoTimerID); 		isInFirstTimeout = false; 		setArticle(intTickPos); 		playTicker(); 	} } function stopTicker() { 	clearTimeout(autoTimerID); } function resumeTicker() { 	clearTimeout(autoTimerID); 	autoTimerID = self.setTimeout("playTicker()", intTickSpeed); } function delayTicker() {     clearTimeout(autoTimerID); 	clearInterval(typeInterval);   autoTimerID = self.setTimeout("playTicker()", intTickSpeed * 2); } function hideCursor() { 	document.getElementById("cursor").className = "hidden"; }  function showCursor() { 	document.getElementById("cursor").className = ""; } initButtons(); </p>
+<p> 首页 </p>
+<p> 天津 </p>
+<p> 民生 </p>
+<p> 社会 </p>
+<p> 滨海 </p>
+<p> 天下 </p>
+<p> 国内 </p>
+<p> 国际 </p>
+<p> 滚动 </p>
+<p> 财经 </p>
+<p> 体育 </p>
+<p> 文化 </p>
+<p> 专题 </p>
+<p> 网上帮办 </p>
+<p> 即时播报 </p>
+<p> 天津日报 </p>
+<p> 每日新报 </p>
+<p> 城市快报 </p>
+<p> 论坛 </p>
+<p> 当前位置： </p>
+<p> 首页 </p>
+<p> | </p>
+<p> 天津频道 </p>
+<p> | </p>
+<p> 特别报道 </p>
+<p> 深圳回应史上最牛工资单:"人均年薪30万"没违规 </p>
+<p> 来源：燕赵晚报  关键字： </p>
+<p> 住宅租赁;自有物业;制度缺陷;最牛工资;年薪 </p>
+<p> 作者： </p>
+<p> 2012-01-12 17:14 </p>
+<p> 时隔一年之后，因为“审计署报告证实属实”，曾引发网民广泛关注和质疑的深圳住宅租赁管理服务中心“最牛工资单”事件日前再度成为媒体和网络关注的焦点。该中心主管单位深圳市住建局有关负责人11日接受记者采访时称，相关行为属于“制度缺陷”，“最牛工资”问题“已在2011年度内全部整改完毕”。 </p>
+<p> 网民质疑 </p>
+<p> “史上最牛工资” </p>
+<p> 2010年12月，一则《史上最高公务员工资》的网帖在网上广为流传，其中提到“深圳市住宅租赁管理服务中心现有各类员工共65名，而该中心全年人员工资1913万元，人均年薪近30万，年薪最高的68万，最低的也有25万。这还不包括其他发放的实物以及现金等”。 </p>
+<p> 这一报告一度引发网民高度关注和强烈批评。而今年年初的最新信息则显示，国家有关部门的审计查明，这一“最牛工资单”基本属实。 </p>
+<p> 至此，“最牛工资”再次挑动了社会的敏感神经。 </p>
+<p> 为何对相关责任人没严肃处理 </p>
+<p> 媒体称，报告表示，因地方财政及国土房产主管部门未对其“自有物业”进行资产清查和产权认定，导致应作为国有资产管理的所谓“自有物业”收入变成了该租赁中心为员工发放高工资、高福利的来源。对此，不少网友质疑，该中心把国家财产当成“自有物业”，拿的国家钱，肥了自家地，属于严重违纪违规行为。 </p>
+<p> 不少网友质疑，出了这么大的事，只是让领导退回在财政领取的2万元薪水，处罚太轻。 </p>
+<p> 深圳市住建局表示，对于租赁中心这类经费自给、管理模式类似企业化管理的事业单位，深圳市已经从2009年开始着手进行改革，按深圳市有关规定，设置了实施绩效工资制度改革三年(2009—2011)过渡期，“这起事件并非只是深圳市住宅租赁管理服务中心独有，有些是体制改革当中的一些问题，因此处罚没有依据”。 </p>
+<p> window.HLBath=1; </p>
+<p> <!-- function createPageHTML(_nPageCount, _nCurrIndex, _sPageName, _sPageExt){ 	if(_nPageCount == null || _nPageCount<=1){ 		return; 	}  	var nCurrIndex = _nCurrIndex || 0;  	/*if(nCurrIndex == 0) 		document.write("<span style='float:left;height:20px;'>上一页</span>&nbsp;"); 	else 		document.write("<a href=\""+_sPageName+"_" + (_nCurrIndex-1) + "."+_sPageExt+"\" target='_self' style='float:left;height:20px;'>上一页</a>&nbsp;");*/ 		 	if(nCurrIndex == 0) 		document.write("<span>1</span>&nbsp;"); 	else 		document.write("<a href=\""+_sPageName+"."+_sPageExt+"\" target='_self'>1</a>&nbsp;");  	for(var i=1; i<_nPageCount; i++){ 		if(nCurrIndex == i) 			document.write("<span>"+(i+1) + "</span>&nbsp;"); 		else 			document.write("<a href=\""+_sPageName+"_" + i + "."+_sPageExt+"\" target='_self'>"+(i+1)+"</a>&nbsp;");		 	}  	/*if(nCurrIndex == _nPageCount) 		document.write("<span>下一页</span>&nbsp;"); 	else 		document.write("<a href=\""+_sPageName+"_" + (_nCurrIndex+1) + "."+_sPageExt+"\" target='_self'>下一页</a>&nbsp;");*/  } //WCM置标 createPageHTML(1, 0, "t20120112_4976286", "html");	 //--> </p>
+<p> 责任编辑： </p>
+<p> 李淼川 </p>
+<p> 【 </p>
+<p> 大 </p>
+<p> 中 </p>
+<p> 小 </p>
+<p> 】 </p>
+<p> 分享到： </p>
+<p> CreateShare() </p>
+<p> [ </p>
+<p> 进入论坛 </p>
+<p> ] </p>
+<p> 更多关于 </p>
+<p> 住宅租赁;自有物业;制度缺陷;最牛工资;年薪 </p>
+<p> 的新闻： </p>
+<p> 中青报：“天价工资”事件算不算集体贪污 </p>
+<p> 深圳住建局称下属事业单位人均年薪30万 未违规 </p>
+<p> 深圳1家事业单位人均年薪超30万 处罚仅收回2万 </p>
+<p> 买家改买为租 广州住宅租赁登记备案量环比增2倍 </p>
+<p> 哈市住宅销售市场观望趋势增强 住宅租赁价走高 </p>
+<p> 一季度哈市住宅销售市场降温 房屋租价上涨明显 </p>
+<p> 一季度北京高档住宅价格环比跌6.6% </p>
+<p> 住宅租赁市场迎来“小阳春”(图) </p>
+<p> 精彩推荐 </p>
+<p> 《非诚勿扰》再添光头 </p>
+<p> 小沈阳新剧日薪50万 </p>
+<p> “无裤乘地铁日” </p>
+<p> 巴拉圭“乳神”小清新 </p>
+<p> · </p>
+<p> 天津团购电影票成主流 限价令或将拯救原价票 </p>
+<p> · </p>
+<p> 赵本山爱徒小沈阳汤潮二度“泄歌门” </p>
+<p> · </p>
+<p> “强盗”狒狒爱抢食被处死 曾遭枪击超50次 图 </p>
+<p> · </p>
+<p> 日本佐贺市聘请中国留学生面对面服务中国游客 </p>
+<p> · </p>
+<p> “乐圣”贝多芬亲笔信曝光 信中抱怨缺钱又... </p>
+<p> · </p>
+<p> 美国“虎妈”教育方式大转弯宣称现在懂得放手 </p>
+<p> · </p>
+<p> 苏湘渝枪杀案嫌犯系同一人 多地悬赏225万缉凶 </p>
+<p> · </p>
+<p> 河南红十字会原党组书记获刑10年 与女下属... </p>
+<p> · </p>
+<p> 17岁男子拍下14岁女友裸照 数月后分手勒索... </p>
+<p> · </p>
+<p> 《潜伏》逃犯演员被以抢劫罪批捕 曾经逃亡... </p>
+<p> 新闻热点 </p>
+<p> · </p>
+<p> 铁道部门：春运网上订票明年或开多家“分店” </p>
+<p> · </p>
+<p> 统计局：去年12月CPI同比上涨4.1% 创15个月新低 </p>
+<p> · </p>
+<p> 周立波挺郭德纲骂狗仔：敢偷拍就别怪人“活... </p>
+<p> · </p>
+<p> 矮个劫匪的悲剧：1米6抢1米7 想捂嘴够不着被抓 </p>
+<p> · </p>
+<p> 周铁农：要和平要稳定要发展是两岸大势 </p>
+<p> · </p>
+<p> 天津市消协发布消费提示：慎选快递 贵物保价... </p>
+<p> · </p>
+<p> 三巨头低迷56分加时输球 保罗27+11送热火首连败 </p>
+<p> · </p>
+<p> 悉尼赛李娜逆转进决赛 击碎科维托娃登No.1美梦 </p>
+<p> 道听图说 </p>
+<p> 仨已婚男人分享一个她 </p>
+<p> 做神秘女人5天情夫 </p>
+<p> 小贝携爱子返回洛杉矶 </p>
+<p> 猩猩版“思想者” </p>
+<p> 揭秘中国十大明星空姐 </p>
+<p> 盘点《西游记》美女 </p>
+<p> 天津资讯 </p>
+<p> 网上帮办 </p>
+<p> 比亚迪新车15公里起火 </p>
+<p> · </p>
+<p> 水榭花都购房返现迟... </p>
+<p> · </p>
+<p> 昆俞家园春节前用气难 </p>
+<p> · </p>
+<p> 壳牌加油站拒为车主... </p>
+<p> · </p>
+<p> 暗访：网购电动车欺诈 </p>
+<p> · </p>
+<p> 房本面积缩减采暖费不减 </p>
+<p> 热线：022-28201031  网址： </p>
+<p> bb.tianjinwe.com </p>
+<p> 天津社会 </p>
+<p> · </p>
+<p> 天津网友发现内河客运站旧址 是否恢复漕运惹... </p>
+<p> · </p>
+<p> 天津“最窄自行车道”仅1.5米 并排勉强过两... </p>
+<p> · </p>
+<p> 天津市烟花爆竹上市 比去年多百余种新品 </p>
+<p> · </p>
+<p> 火车票实名制操作难 天津旅行社暂停春运期间... </p>
+<p> · </p>
+<p> 天航津陕冀联招百名准空乘 漂亮脸蛋不是最重... </p>
+<p> · </p>
+<p> 天津周末气温小幅回升适合逛街 今最高气温2℃ </p>
+<p> 网络热点 </p>
+<p> 流动人口成年轻化 </p>
+<p> · </p>
+<p> 买火车票“刷票” </p>
+<p> · </p>
+<p> 南京枪击劫案背后 </p>
+<p> · </p>
+<p> 春运大幕今开启 </p>
+<p> · </p>
+<p> 个人住房信息联网 </p>
+<p> · </p>
+<p> 宋柯辞职改卖烤鸭 </p>
+<p> 情感·倾诉 </p>
+<p> · </p>
+<p> 仨已婚男人分享一个她 </p>
+<p> · </p>
+<p> 做神秘女人5天情夫 </p>
+<p> · </p>
+<p> 少妇口述：那晚老公第一次让我兴奋 </p>
+<p> · </p>
+<p> 离婚后 我去找别人 </p>
+<p> · </p>
+<p> 口述：与小三纠缠十年 最后我们都输了 </p>
+<p> · </p>
+<p> 流产男友骂我水性杨花 </p>
+<p> 新闻回顾 </p>
+<p> · </p>
+<p> 可口可乐称橙汁中含杀真菌剂美汁源或牵涉其中 </p>
+<p> · </p>
+<p> 江西龙凤胎疑因食用圣元奶粉发病 致1死1伤 图 </p>
+<p> · </p>
+<p> 矮个劫匪的悲剧：1米6抢1米7 想捂嘴够不着被抓 </p>
+<p> · </p>
+<p> 央视春晚主持人阵容爆大冷门 李思思毕福剑上位 </p>
+<p> · </p>
+<p> 苏湘渝枪杀案嫌犯系同一人 多地悬赏225万缉凶 </p>
+<p> · </p>
+<p> 《潜伏》演员吉思光被以抢劫罪批捕 曾暴力袭警 </p>
+<p> var channel=encodeURIComponent("天津频道"); </p>
+<p> var lt_img=document.createElement('img');					 var url = location.href;									 var type = "3zhuaqu"; //var h = url.indexOf("?") == -1?url.length:url.indexOf("?"); //url = url.substring(0,h);									 var m=new Date().getTime();									 var c=escape(m*1000+Math.round(Math.random()*1000));		 var user="";		 var editor=encodeURIComponent("李淼川"); var author=encodeURIComponent(""); var column=encodeURIComponent("特别报道"); var strt='深圳回应史上最牛工资单:"人均年薪30万"没违规'.replace(/\"/g," "); var title=encodeURIComponent(strt); var source=encodeURIComponent("燕赵晚报"); var pbtime="2012-01-12";  with(document){ 	var ref = referrer==""?m_ws02("SMYUV"):referrer;		 	if(cookie.indexOf("SMYUV=")<0){cookie="SMYUV="+c+";path=/;expires=Sun, 29 July 2046 00:00:00 UTC;domain=tianjinwe.com";user=c;} 	else user=m_ws02("SMYUV");									 }  window.onload = function() { 	lt_img.src = "http://xwtj.tianjinwe.com/cloud.gif?tjwtype=" +type+ "&tjwurl=" +url+ "&tjwreferrer=" +ref+ "&tjwuser=" +user+ "&tjwtitle=" +title+ "&tjwauthor=" +author+ "&tjweditor=" +editor+ "&tjwcolumn=" +column+ "&tjwchannel=" +channel+ "&tjwsource=" +source+ "&tjwpbtime=" +pbtime+ "&end"; 		}  function m_ws02(name) {  	var arg = name + "="; 	var alen = arg.length;  	var clen = document.cookie.length; 	var i = 0;  	while (i < clen)  		{ var j = i + alen;  		if (document.cookie.substring(i, j) == arg) return m_ws01(j);  		i = document.cookie.indexOf(" ", i) + 1;  		if (i == 0) break; }  	return "";  } function m_ws01(offset) {  	var endstr = document.cookie.indexOf (";", offset);  	if (endstr == -1) endstr = document.cookie.length;  	return unescape(document.cookie.substring(offset, endstr)); } </p>
+<p> 关于我们 </p>
+<p> - </p>
+<p> 集团简介 </p>
+<p> - </p>
+<p> 版权声明 </p>
+<p> - </p>
+<p> 集团广告刊例 </p>
+<p> - </p>
+<p> 联系我们 </p>
+<p> 天津日报社版权所有 Copyright 2010-2020 天津日报社 </p>
+<p> 集团办公室:022-28201111 集团总编室：022-28202222 天津网：400-60-96260 </p>
+<p> 津ICP备07001863号  互联网新闻信息服务许可证 1212007001  增值电信业务经营许可证 B2-20070196 </p>
+<p> 广播电视节目制作经营许可证（津）字第070号  信息网络传播视听节目许可证号：0210476 </p>
+<p> var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://"); document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F1e80de8378094480b1f638d60fbf7304' type='text/javascript'%3E%3C/script%3E")); </p>

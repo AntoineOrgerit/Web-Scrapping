@@ -1,0 +1,201 @@
+<p> 龍味年菜 健康又吉祥｜地方新聞｜中時電子報 </p>
+<p> <!-- .txt13 {	font-family: "新細明體", "細明體", Taipei, default;	font-size: 13px;	line-height: 20px;} .txt15 {	font-family: "新細明體", "細明體", Taipei, default;	font-size: 15px;	line-height: 24px;} .txt24RB {	font-size: 24px;	font-weight: bold;	line-height: 30px;	color: #e5180d;} --> </p>
+<p> var sBannerADUrl="/2007Cti/2007Cti-News/Common/2007Cti-News-Ads-contentBanner/0,4599,110506,00.shtml"; var sRightADUrl="/2009Cti/Common/2009Cti-News-Ads-Right/0,5212,content+110506,00.shtml"; var bReferrer_Focus = false; if (document.referrer.toLowerCase().indexOf('2007moment') > 0) {   bReferrer_Focus = true;   sBannerADUrl="/2007Cti/2007Cti-News/Common/2007Cti-News-Ads-listBanner/0,4588,focusnews,00.shtml";   sRightADUrl="/2009Cti/Common/2009Cti-News-Ads-Right/0,5212,content+focusnews,00.shtml"; } </p>
+<p> var sChannel = 'news'; //在此設定主頻道列代碼      var FocusCategory = "T06"; </p>
+<p> document.write('<scr'+'ipt src="'+sBannerADUrl+'"></scr'+'ipt>'); </p>
+<p> 分類瀏覽 </p>
+<p> 今日焦點 </p>
+<p> 政治要聞 </p>
+<p> 財經產業 </p>
+<p> 股市金融 </p>
+<p> 國際要聞 </p>
+<p> 大陸港澳 </p>
+<p> 社會萬象 </p>
+<p> 影視娛樂 </p>
+<p> 生活新知 </p>
+<p> 地方掃描 </p>
+<p> 科技網路 </p>
+<p> 運動競技 </p>
+<p> 藝文展演 </p>
+<p> 其它 </p>
+<p> 總覽 </p>
+<p> 即時新聞： </p>
+<p> 新聞首頁 </p>
+<p> if(bReferrer_Focus==true) document.write("最新焦點"); 			  else document.write("<a href=/list/6.html>地方新聞</a></li>"); </p>
+<p> 引用 </p>
+<p> 轉寄 </p>
+<p> 列印 </p>
+<p> 字體： </p>
+<p> 小 </p>
+<p> ． </p>
+<p> 中 </p>
+<p> ． </p>
+<p> 大 </p>
+<p> document.write('<iframe src="http://www.facebook.com/plugins/like.php?href='+ encodeURIComponent(String(window.location))+'&amp;layout=box_count&amp;show_faces=false&amp;width=55&amp;action=like&amp;colorscheme=light&amp;height=60" scrolling="no" frameborder="0" style="border: none; overflow: hidden; width: 55px; height: 60px; position: relative; top: 5px;" allowTransparency="true"></iframe>'); </p>
+<p> <!-- 	function delCookie(name) 	{ 		document.cookie = name + "=; expires=Thu, 01-Jan-70 00:00:01 GMT" + "; path=/"; 	} 	delCookie("UNI_ID"); 	var Channel = "CHINATIMES";															//頻道 	var UNI_ID = "112012011100278";													//文章ID 	var define_content_1 = "龍味年菜 健康又吉祥";											//標題 	var define_content_2 = window.location.href;		//連結 	var define_content_3 = "C02版+地方";		//分類名稱 	var define_content_4 = "110506";											//分類ID 	var define_content_5 = "2012.01.11";	 	var define_content_6 = "6";											//Channel ID 	if(define_content_2.indexOf("fb_xd_fragment")>1) define_content_2=define_content_2.substring(0,define_content_2.indexOf("fb_xd_fragment")-1); 	//--> </p>
+<p> 龍味年菜 健康又吉祥 </p>
+<p> 2012-01-11 01:30 </p>
+<p> 中國時報 </p>
+<p> 【鐘武達、陳世宗／綜合報導】 </p>
+<p> ▲彰濱秀傳醫院營養師設計龍味十足的年菜，健康又吉利。（鐘武達攝） </p>
+<p> 彰濱秀傳醫院與台中梧棲區童醫院昨天不約而同，推出「龍」味十足、健康年菜！彰濱秀傳醫院營養師林圓真、吳雅瑛設計出「得舒飲食」的龍年健康餐，希望大家吃得健康又吉利；童醫院推出五道養生健康年菜，達到滋補養生功效。 </p>
+<p> 童醫院營養師楊舒涵說，今年年菜以低脂海鮮為主，佐以紅棗、枸杞等中藥香料調味，建議搭配一份燙青菜、水果及選擇無糖飲料，讓年菜能達到均衡營養；這五道年菜作法簡單，民眾在家也能輕鬆吃到五星級餐廳的水準。 </p>
+<p> 秀傳林圓真說，為了避免過完年後健康亮紅燈，「得舒飲食」很重要，就是掌握蔬果、纖維、運動三多及少油、少鹽、少糖三少原則。 </p>
+<p> MakeCTIweb20 (); </p>
+<p> var param_partner = "cti_tw_news_politics_content_cm"; 		  		var param_ctxtID="cti_tw_general_002";  		 var ysm_maxCount = 4;         document.write("<script src='http://www.chinatimes.com/2009Cti/cthead/Scripts-utf8/yahoo.js' charset='utf-8'></sc" + "ript>"); </p>
+<p> <!-- 	function Gotoform(sel) { 	i=sel.selectedIndex; 	s=sel.options[i].value; 	if ( s != "null" ) parent.location= s; 	} 	//--> </p>
+<p> 相關新聞 </p>
+<p> 台中》拉抬鄭麗文 胡志強笑了 </p>
+<p> 選民賀年卡提神 盧秀燕不喊累 </p>
+<p> 黃義交娘子軍好靚 林佳龍吉祥物吸睛 </p>
+<p> 廖了以回防豐原英嘉車隊合體 </p>
+<p> 高級英檢過關 高三女生被封英文神人 </p>
+<p> 蕭家淇：感情由他們決定 </p>
+<p> 聯保廠搬新田 豐富園區後年招商 </p>
+<p> 龍味年菜 健康又吉祥 </p>
+<p> 服飾業度寒冬 祭轎車拉買氣 </p>
+<p> 都會掃描－精緻歐洲雙人遊 李雨儒中獎 </p>
+<p> 都會掃描－騎士撞護欄亡 男涉過失被訴 </p>
+<p> 都會掃描－猛擊妻頭胸踢岳父 莽漢起訴 </p>
+<p> 都會掃描－車震被抓姦 小三被騙不起訴 </p>
+<p> 都會掃描－女子衣櫥上吊亡 生日成忌日 </p>
+<p> 都會掃描－企業志工交接暨績優表揚 </p>
+<p> 選舉看板－童瑞陽新文宣 槓上楊瓊瓔 </p>
+<p> 選舉看板－李順涼助選員 漂亮姊妹花 </p>
+<p> 彰化》溪州傳1票1千2 一男10萬交保 </p>
+<p> 黃秀芳掀粉紅旗海林滄敏看緊馬路口 </p>
+<p> 南投》魚池外環道動土 前往九族通樂 </p>
+<p> 被指涉賄草屯15位里長喊冤 </p>
+<p> 選舉看板－馬文君掛病號 燒聲喊凍蒜 </p>
+<p> 都會掃描－南投飯店等業者徵才六十人 </p>
+<p> 都會掃描－仁愛之家春節送餐預約登記 </p>
+<p> 街友圍爐  胡志強感謝各界愛心 </p>
+<p> -----------------更多地方新聞---------------- </p>
+<p> 台北》路口告急 催票卡實在 </p>
+<p> 倒數三天 郝留台北市固票 </p>
+<p> 倒數計時掀底牌 藍綠各打天王牌 </p>
+<p> 公務員請長假 幫簡余晏拜票 </p>
+<p> 郝龍斌與蘇貞昌 港湖助選再次對決 </p>
+<p> 周守訓姚文智 激烈駁火 </p>
+<p> 北市整修23國宅 明年2月竣工 </p>
+<p> 都會掃描－林錦源涉濫墾 無罪定讞 </p>
+<p> 都會掃描－無煙爆竹ＣＤ 供民索取 </p>
+<p> 都會掃描－放無薪假勞工 免費充電 </p>
+<p> 北市中山北路  工人疑施工不慎摔落死亡 </p>
+<p> 北市12區運動中心 寒假取消下午2-4點公益時段 </p>
+<p> 美味也要健康  新北推年菜食譜 </p>
+<p> 保障補習權益 北市印宣導品 </p>
+<p> 台北內湖花市  延長營業時間 </p>
+<p> 紓解寧夏商圈停車少 建成公園停車場今啟用 </p>
+<p> 北市便民服務  日均6475件 </p>
+<p> 自行車好停放  北市逾2萬車架 </p>
+<p> 主打生鮮食材  濱江年貨街待發 </p>
+<p> 春節將至  北市稽查國道客運 </p>
+<p> 新北》淡海新市鎮 將推萬戶合宜宅 </p>
+<p> 反映民意 候選人政見雷同多 </p>
+<p> 黑道ＶＳ．劈腿 李慶華火尬羅福助 </p>
+<p> 蘇嘉全挺何博文 淡水區車隊掃街 </p>
+<p> 蔡令怡輔選林德福 永和市場拜票 </p>
+<p> 果菜市場都更 李乾龍、高志鵬有異見 </p>
+<p> 花三千買年貨 抽中萬元手機 </p>
+<p> 吳寶田：合宜住宅 應擴大辦理 </p>
+<p> 新北抽驗  金針5件不合格 </p>
+<p> 羅福助打選戰 全經科學計算 </p>
+<p> 領表逾3萬件 合宜住宅超夯 </p>
+<p> 鄉林皇居打造品牌故事書 </p>
+<p> 新北首座 新莊運動中心年底啟用 </p>
+<p> 選舉看板－廖本煙司法說明會 妻昏厥 </p>
+<p> 選舉看板－馬吳為李慶華造勢 </p>
+<p> 都會掃描－蘆洲中正路爛 一周改善 </p>
+<p> 選舉看板－馬今陪李鴻鈞掃街 </p>
+<p> 金門》陳水在挺吳成典 金門投震撼彈 </p>
+<p> 金門綠營議員跪求 盼支持小英 </p>
+<p> 馬祖》投票去 台馬輪、合富輪使命必達 </p>
+<p> 花蓮》造勢舞台 候選人比一比 </p>
+<p> 花縣抽驗  不合格金針回收 </p>
+<p> 清水農場濫墾案 12人判刑 </p>
+<p> 選舉看板－偵訊9樁腳 8飭回1交保 </p>
+<p> 宜蘭》看戲抽平板 傳藝邀您龍來過年 </p>
+<p> 推動有機農業有成 宜大黃璋如喜獲獎 </p>
+<p> 基隆》 藍文宣告急 綠打夫人牌 </p>
+<p> 基隆市新聞－北台規模最大 鯨豚特展開幕囉 </p>
+<p> 桃園》年節應景金針 漂白劑超量30倍 </p>
+<p> 健康低碳年菜 阿基師授撇步 </p>
+<p> 3月杜鵑1月開 石門水庫提早迎春 </p>
+<p> 寒冬送暖 喜見弱勢戶減少 </p>
+<p> 同袍罵叛將 胡鎮埔飆淚 </p>
+<p> 散發不實文宣？楊麗環告黃適卓 </p>
+<p> 張建隆抬轎 蠟燭兩頭燒 </p>
+<p> 候選人另一半－羅桂芬 黃適卓最佳代言人 </p>
+<p> 都會掃描－混凝車墜山溝 駕駛獲救 </p>
+<p> 都會掃描－職訓課程 徵求執行單位 </p>
+<p> 新竹》春節嚴防流感 竹縣開辦特別門診 </p>
+<p> 竹縣計程車春節起運價 上限130元 </p>
+<p> 交大、台達電 共譜雲端願景 </p>
+<p> 簽賭站開選舉盤 乏人問津 </p>
+<p> 瓦歷斯貝林 訴求貼近原民 </p>
+<p> 勉勵呂學樟要勝選 台灣興衰在此一戰 91歲書法家揮毫相贈 </p>
+<p> 都會掃描－環保局今聯歡 洽公請改期 </p>
+<p> 都會掃描－客家流行歌大賽 報名中 </p>
+<p> 苗栗》撤建天花湖水庫 候選人紛攬功 </p>
+<p> 選戰軍師－輔選40年 古鎮清無役不與 </p>
+<p> 雲林》雲縣金龍福袋大方送 </p>
+<p> 北港遊客中心 帶你吃喝玩樂 </p>
+<p> 檢搜輔選幹部無所獲 綠營激烈抗議 </p>
+<p> 農漁會「非法」拉票 雲縣府保密專線 鼓勵申訴 </p>
+<p> 嘉義》特殊地名掌故 反成中埔商機 </p>
+<p> 賴清德 現身嘉義挺蔡易餘吳伯雄 南下猛推銷翁重鈞 </p>
+<p> 嘉義查獲選舉賭盤 逮七人 </p>
+<p> 嘉義查賄 1人承認賣票 </p>
+<p> 簡志偉挺友妻 自嘲比跑新聞還累 </p>
+<p> 涉違反選罷法被訴 涂醒哲無罪 黃敏惠不服 </p>
+<p> 都會掃描－返越娘家 同行兩子染登革熱 </p>
+<p> 台南》農場年節迎賓 賞茶花看特技秀 </p>
+<p> 成大砸2億 安心就學助貧生 </p>
+<p> 趙建銘看診滿檔 外婆喪禮缺席 </p>
+<p> 暢遊虎頭埤 一六八套券超優惠 </p>
+<p> 連番戲弄119 被揪出接罰單 </p>
+<p> 捨選立委挺馬 蔡育輝拚藍天 </p>
+<p> 吳敦義 陪蘇俊賓掃街許添財 接受王丹訪問 </p>
+<p> 選舉詐財新招 挑老人下手 </p>
+<p> 都會掃描－首府伍家興 研究所連中四元 </p>
+<p> 都會掃描－癌友陷困 企業捐十萬元應急 </p>
+<p> 綠營雲林抗議 群眾集結地檢署 </p>
+<p> 綠抗議雲林檢警  平和落幕 </p>
+<p> 尾牙宴  嘉市街友盼有工作 </p>
+<p> 高雄》超級戰區 吳王偕同林益世邱毅搶票 </p>
+<p> 吳敦義、楊秋興探視尤宏病妻 否認拔樁 </p>
+<p> 婚前答應愛妻：不主動參政 多次徵召 羅世雄為黨先鋒 </p>
+<p> 牽手望牽成  為林益世拜票 彭愛佳市場走5回 </p>
+<p> 候選人都喊抓鬼 選民霧煞煞 </p>
+<p> 一封電子信 離別32年同袍再續前緣 </p>
+<p> 美濃竹仔門電廠 旅遊景點 </p>
+<p> 騙很大 瓦斯行偷斤減兩被拆穿 </p>
+<p> 那瑪夏選務中心主任 涉賄收押 </p>
+<p> 選舉看板－陳菊陪李昆澤拜票 </p>
+<p> 選舉看板－蕭萬長力挺侯彩鳳 </p>
+<p> 選舉看板－管碧玲控告羅世雄 </p>
+<p> 都會掃描－兵分兩路緝毒 逮買家及藥頭 </p>
+<p> 都會掃描－喉返偵測系統 確認聲帶神經 </p>
+<p> 都會掃描－八年前遺棄男嬰 男子被起訴 </p>
+<p> 屏東》林邊高架車站啟用 紀念車票搶光光 </p>
+<p> 屏東年貨大街 14日開賣 </p>
+<p> 水煎法製毒 警方逮兩嫌 </p>
+<p> 選戰點將錄－輕鬆吹薩克斯風 李世斌走文藝風 </p>
+<p> 台東》客家團體挺饒慶鈴 </p>
+<p> 國內首見  台東風飛沙兵棋推演 </p>
+<p> 都會掃描－泰源技訓所 揪團減重第一名 </p>
+<p> 澎湖》馬公機場太陽光電工程啟動 </p>
+<p> 楊曜造勢成功 林炳坤文宣拚搏 </p>
+<p> 高雄燈會  打造龍形海上藝廊 </p>
+<p> 里港補助生育  發出首筆5萬5 </p>
+<p> 高小雄的家  帶孩子看高雄歷史 </p>
+<p> 高市計程車  小年夜起加50元 </p>
+<p> 複線供水  大愛永久屋春節無虞 </p>
+<p> var bwantcheck=false; </p>
+<p> document.write('<scr'+'ipt src="'+sRightADUrl+'"></scr'+'ipt>'); </p>
+<p> var bNeedCtiMenu=true; </p>
+<p> $("#comment").renderReply({                  Page_Size: 10              }, function(data) {                  $("#commentcount").html("<a href='#comment' class='comment'>迴響</a>：<span class='highlight'>" +                                          (typeof (data.ReplyCount) == "undefined" ? 0 : data.ReplyCount) + "篇</span>");              }); </p>
+<p> if(typeof(bwantcheck) == "undefined") var bwantcheck=false; 	if(bwantcheck==true) 	{ 		var sWantgaUrl="http://www.chinatimes.com/analytics/want-daily.js"; 		//document.write('<scr'+'ipt src="'+sWantgaUrl+'"></scr'+'ipt>'); 	}  bust = Math.floor(1000000*Math.random()); document.write('<'+'SCRIPT LANGUAGE="JavaScript1.1" SRC="http://ad2.dotmore.com.tw/verify.aspx?w=87&charset=big5&ord='+bust+'?">'); document.write('</'+'SCRIPT>'); </p>
+<p> var _gaq = _gaq || [];      _gaq.push(['_setAccount', 'UA-949390-1']);    _gaq.push(['_trackPageview']);   _gaq.push(['_trackPageLoadTime']);    (function() {     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);   })(); </p>
+<p> _atrk_opts = { atrk_acct: "JvLre1aYs600Mr", domain:"chinatimes.com"}; atrk (); </p>

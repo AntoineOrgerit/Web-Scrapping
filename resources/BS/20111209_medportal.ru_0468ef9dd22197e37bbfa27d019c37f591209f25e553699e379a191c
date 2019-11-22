@@ -1,0 +1,173 @@
+<p> Эстонский врач заплатит 31 тысячу евро за незаконные опыты на людях - МедНовости - MedPortal.ru </p>
+<p> VK.init({apiId: 2478907, onlyWidgets: true}); </p>
+<p> О нас </p>
+<p> МедРеклама </p>
+<p> Медпортал </p>
+<p> Медновости </p>
+<p> Клиники </p>
+<p> Медэнциклопедия </p>
+<p> Поиск лекарств </p>
+<p> Журнал «Будь здорова» </p>
+<p> <!--         if(typeof(ar_cn)=="undefined")             var ar_cn=1;         var ar_Tail='unknown';         if (document.referrer)             ar_Tail = escape(document.referrer);         var ar_link="http://ad.adriver.ru/cgi-bin/erle.cgi?sid=107481&sz=mednovosti&target=top&bt=43&pz=1&tail256=" + ar_Tail;          function ar_getDoc(t,n,l){             var doc;             if (t<100) {                 if(document.all && !window.opera) {                     doc = window.frames['ar_container_'+n].document;                 } else if(document.getElementById) {                     doc=document.getElementById('ar_container_'+n).contentDocument;                 }                  if(!doc){                     setTimeout('ar_getDoc('+(++t)+','+n+',"'+l+'")', 100);                 } else {                     var RndNum4NoCash = Math.round(Math.random() * 1000000000);                     doc.write ('<sc'+'ript language="JavaScript" type="text/javascript">var ar_bnum='+n+';<\/sc'+'ript>');                     doc.write ('<sc'+'ript language="JavaScript" type="text/javascript" src="'+l+'&rnd='+RndNum4NoCash+'"><\/sc'+'ript>');                 }             }         }          function ar_putContainer(n) {             document.write('<div style="visibility:hidden;height:0px;"><iframe id="ar_container_'+n+'" width=1 height=1 marginwidth=0 marginheight=0 scrolling=no frameborder=0><\/iframe><\/div>');         }          function ar_putDiv(n, f) {             document.write('<div id="ad_ph_'+n+'" style="'+(f?'position:absolute;':'')+'display:none"><\/div>');         }          ar_putContainer(ar_cn);ar_putDiv(ar_cn,0);ar_getDoc(0,ar_cn++,ar_link); //--> </p>
+<p> Главная </p>
+<p> Профессия </p>
+<p> Общество </p>
+<p> Здоровье </p>
+<p> Происшествия </p>
+<p> Наука </p>
+<p> Бизнес </p>
+<p> Распечатать </p>
+<p> Здание Тартуского суда. Фото с сайта betotrade.ee </p>
+<p> Эстонский врач заплатит 31 тысячу евро за незаконные опыты на людях </p>
+<p> 9 декабря 2011 года, 17:54 </p>
+<p> if(!window.pluso){pluso={version:'0.9.1',url:'http://share.pluso.ru/'};h=document.getElementsByTagName('head')[0];l=document.createElement('link');l.href=pluso.url+'pluso.css';l.type='text/css';l.rel='stylesheet';s=document.createElement('script');s.src=pluso.url+'pluso.js';s.charset='utf-8';h.appendChild(l);h.appendChild(s)} </p>
+<p> Эстонских врачей, проводивших незаконные исследования на пациентах, приговорили к штрафам. Как сообщает </p>
+<p> Delfi </p>
+<p> , соответствующее решение Тартуский уездный суд вынес в отношении главного врача Валгаской больницы Андреса Селля, а также бышего председателя эстонского комитета по этике проведения исследований на людях, профессора Тартуского университета Лембита Алликметса. </p>
+<p> Как сообщалось ранее, с апреля по сентябрь 2006 года в клинике университета и центре хирургии Medex были проведены 64 хирургических вмешательства. В ходе операций для наркоза был использован 2-хлоропрокаин, который не зарегистрирован в Эстонии и запрещен к ввозу на территорию страны. В 2008 году в двух научных изданиях появились статьи, описывающие исследования препарата. </p>
+<p> Следователи выяснили, что Селль, как организатор испытаний, получил 2-хлорпрокаин в Швейцарии. После этого он склонил Алликметса к подделке разрешения на проведение исследований в Эстонии. </p>
+<p> В результате суд признал Селля виновным в проведении незаконных экспериментов на людях, незаконном ввозе запрещенного препарата, а также склонении другого лица к подделке документов и использовании последних. Врача приговорили к штрафу свыше 31 тысячи евро. </p>
+<p> Вина Алликметса в фальсификации разрешения на проведение исследований также была доказана. В связи с этим он был оштрафован на 1524 евро. </p>
+<p> Ссылки по теме: </p>
+<p> – </p>
+<p> Суд признал врача Андреса Селля виновным в экспериментах над людьми </p>
+<p> - Delfi, 08.12.2011 </p>
+<p> – </p>
+<p> Эстонских врачей обвинили в опытах над людьми </p>
+<p> – Медновости, 05.08.2010 </p>
+<p> VK.Widgets.Group("vk_groups", {mode: 0, width: "auto", height: "292"}, 41005197); </p>
+<p> Комментарии (9) </p>
+<p> Представьтесь: </p>
+<p> Ваше мнение: </p>
+<p> Осталось символов: </p>
+<p> Код подтверждения: </p>
+<p> Уважаемые читатели! </p>
+<p> Ссылки на сторонние ресурсы, нецензурные, бессодержательные, пропагандистские и антинаучные высказывания удаляются без предупреждения. Максимальная длина комментария </p>
+<p> — 1000 </p>
+<p> символов. </p>
+<p> // передаём данные о текущей странице для загрузки комментариев             var CommentsURL = 'http://medportal.ru/comments/news/2011/12/09/seli/',                 pageNo = '0';             init(CommentsURL, pageNo); </p>
+<p> Это интересно </p>
+<p> document.write('<if'+'rame  style="width:200px; height: 80px; margin: 0px; overflow: hidden; border: 0px;" scrolling="no" frameborder="0" marginheight="0" marginwidth="0" src="http://mama.rotabanner.com/cgi-bin/iframe/medportal?options=B&arg1=80&arg2=80&arg5=12&arg3=200&arg4=80&id=' + Math.round(Math.random() * 100000) + '"></if'+'rame>'); </p>
+<p> document.write('<if'+'rame  style="width:200px; height: 80px; margin: 0px; overflow: hidden; border: 0px;" scrolling="no" frameborder="0" marginheight="0" marginwidth="0" src="http://mama.rotabanner.com/cgi-bin/iframe/medportal?options=B&arg1=80&arg2=80&arg5=12&arg3=200&arg4=80&id=' + Math.round(Math.random() * 100000) + '"></if'+'rame>'); </p>
+<p> document.write('<if'+'rame  style="width:200px; height: 80px; margin: 0px; overflow: hidden; border: 0px;" scrolling="no" frameborder="0" marginheight="0" marginwidth="0" src="http://mama.rotabanner.com/cgi-bin/iframe/medportal?options=B&arg1=80&arg2=80&arg5=12&arg3=200&arg4=80&id=' + Math.round(Math.random() * 100000) + '"></if'+'rame>'); </p>
+<p> document.write('<if'+'rame  style="width:200px; height: 80px; margin: 0px; overflow: hidden; border: 0px;" scrolling="no" frameborder="0" marginheight="0" marginwidth="0" src="http://mama.rotabanner.com/cgi-bin/iframe/medportal?options=B&arg1=80&arg2=80&arg5=12&arg3=200&arg4=80&id=' + Math.round(Math.random() * 100000) + '"></if'+'rame>'); </p>
+<p> (function(L){if(typeof(ar_cn)=="undefined")ar_cn=1; var S='setTimeout(function(e){if(!self.CgiHref){document.close();e=parent.document.getElementById("ar_container_"+ar_bnum);e.parentNode.removeChild(e);}},3000);',     j=' type="text/javascript"',t=0,D=document,n=ar_cn;L+=escape(D.referrer||'unknown')+'&rnd='+Math.round(Math.random()*999999999); function _(){if(t++<100){var F=D.getElementById('ar_container_'+n);     if(F){try{var d=F.contentDocument||(window.ActiveXObject&&window.frames['ar_container_'+n].document);     if(d){d.write('<sc'+'ript'+j+'>var ar_bnum='+n+';'+S+'<\/sc'+'ript><sc'+'ript'+j+' src="'+L+'"><\/sc'+'ript>');t=0}     else setTimeout(_,100);}catch(e){try{F.src="javascript:{document.write('<sc'+'ript"+j+">var ar_bnum="+n+"; document.domain=\""     +D.domain+"\";"+S+"<\/sc'+'ript>');document.write('<sc'+'ript"+j+" src=\""+L+"\"><\/sc'+'ript>');}";return}catch(E){}}}else setTimeout(_,100);}} D.write('<div style="visibility:hidden;height:0px;left:-1000px;position:absolute;"><iframe id="ar_container_'+ar_cn     +'" width=1 height=1 marginwidth=0 marginheight=0 scrolling=no frameborder=0><\/iframe><\/div><div id="ad_ph_'+ar_cn     +'" style="display:none;"><\/div>');_();ar_cn++; })('//ad.adriver.ru/cgi-bin/erle.cgi?sid=107481&sz=mednovosti&bn=5&target=top&bt=43&pz=3&tail256='); </p>
+<p> Последние новости </p>
+<p> 10:03 </p>
+<p> Собянин заявил </p>
+<p> о росте зарплаты столичных врачей на 20 процентов </p>
+<p> 09.04 18:38 </p>
+<p> В Вашингтоне прошел многотысячный </p>
+<p> митинг против сокращения бюджета NIH </p>
+<p> 09.04 17:26 </p>
+<p> Главврача кемеровской «скорой» </p>
+<p> уволили за низкие зарплаты подчиненных </p>
+<p> 09.04 17:16 </p>
+<p> Законопроект об орфанных лекарствах </p>
+<p> отправили на доработку </p>
+<p> 09.04 16:37 </p>
+<p> Популярное лекарство от аритмии </p>
+<p> связали с риском возникновения рака </p>
+<p> 09.04 15:08 </p>
+<p> Запрет на рекламу абортов </p>
+<p> будет вынесен на рассмотрение Думы </p>
+<p> 09.04 13:07 </p>
+<p> В опасности красного мяса </p>
+<p> обвинили кишечные бактерии </p>
+<p> 09.04 12:42 </p>
+<p> Зарплата иркутских врачей </p>
+<p> снизилась в три раза </p>
+<p> Все новости </p>
+<p> (function(L){if(typeof(ar_cn)=="undefined")ar_cn=1; var S='setTimeout(function(e){if(!self.CgiHref){document.close();e=parent.document.getElementById("ar_container_"+ar_bnum);e.parentNode.removeChild(e);}},3000);',     j=' type="text/javascript"',t=0,D=document,n=ar_cn;L+=escape(D.referrer||'unknown')+'&rnd='+Math.round(Math.random()*999999999); function _(){if(t++<100){var F=D.getElementById('ar_container_'+n);     if(F){try{var d=F.contentDocument||(window.ActiveXObject&&window.frames['ar_container_'+n].document);     if(d){d.write('<sc'+'ript'+j+'>var ar_bnum='+n+';'+S+'<\/sc'+'ript><sc'+'ript'+j+' src="'+L+'"><\/sc'+'ript>');t=0}     else setTimeout(_,100);}catch(e){try{F.src="javascript:{document.write('<sc'+'ript"+j+">var ar_bnum="+n+"; document.domain=\""     +D.domain+"\";"+S+"<\/sc'+'ript>');document.write('<sc'+'ript"+j+" src=\""+L+"\"><\/sc'+'ript>');}";return}catch(E){}}}else setTimeout(_,100);}} D.write('<div style="visibility:hidden;height:0px;left:-1000px;position:absolute;"><iframe id="ar_container_'+ar_cn     +'" width=1 height=1 marginwidth=0 marginheight=0 scrolling=no frameborder=0><\/iframe><\/div><div id="ad_ph_'+ar_cn     +'" style="display:none;"><\/div>');_();ar_cn++; })('//ad.adriver.ru/cgi-bin/erle.cgi?sid=107481&sz=mednovosti&bn=6&target=top&bt=43&pz=3&tail256='); </p>
+<p> <!-- if(typeof(ar_cn)=="undefined") var ar_cn=1; var ar_Tail='unknown'; if (document.referrer) ar_Tail = escape(document.referrer); var ar_link="http://ad.adriver.ru/cgi-bin/erle.cgi?sid=107481&sz=mednovosti&bn=3&target=top&bt=43&pz=3&tail256=" + ar_Tail; function ar_getDoc(t,n,l){     var doc;     if(t<100) {         if(document.all && !window.opera){             doc = window.frames['ar_container_'+n].document;         } else if(document.getElementById) {             doc=document.getElementById('ar_container_'+n).contentDocument;         }          if(!doc) {             setTimeout('ar_getDoc('+(++t)+','+n+',"'+l+'")', 100);         } else {             var RndNum4NoCash = Math.round(Math.random() * 1000000000);             doc.write ('<sc'+'ript language="JavaScript" type="text/javascript">var ar_bnum='+n+';<\/sc'+'ript>');             doc.write ('<sc'+'ript language="JavaScript" type="text/javascript" src="'+l+'&rnd='+RndNum4NoCash+'"><\/sc'+'ript>');         }     } }  function ar_putContainer(n) {     document.write('<div style="visibility:hidden;height:0px;position:absolute;"><iframe id="ar_container_'+n+'" width=1 height=1 marginwidth=0 marginheight=0 scrolling=no frameborder=0><\/iframe><\/div>'); } function ar_putDiv(n, f) {     document.write('<div id="ad_ph_'+n+'" style="'+(f?'position:absolute;':'')+'display:none"><\/div>'); } ar_putContainer(ar_cn);ar_putDiv(ar_cn,0);ar_getDoc(0,ar_cn++,ar_link); //--> </p>
+<p> (function(L){if(typeof(ar_cn)=="undefined")ar_cn=1; var S='setTimeout(function(e){if(!self.CgiHref){document.close();e=parent.document.getElementById("ar_container_"+ar_bnum);e.parentNode.removeChild(e);}},3000);',     j=' type="text/javascript"',t=0,D=document,n=ar_cn;L+=escape(D.referrer||'unknown')+'&rnd='+Math.round(Math.random()*999999999); function _(){if(t++<100){var F=D.getElementById('ar_container_'+n);     if(F){try{var d=F.contentDocument||(window.ActiveXObject&&window.frames['ar_container_'+n].document);     if(d){d.write('<sc'+'ript'+j+'>var ar_bnum='+n+';'+S+'<\/sc'+'ript><sc'+'ript'+j+' src="'+L+'"><\/sc'+'ript>');t=0}     else setTimeout(_,100);}catch(e){try{F.src="javascript:{document.write('<sc'+'ript"+j+">var ar_bnum="+n+"; document.domain=\""     +D.domain+"\";"+S+"<\/sc'+'ript>');document.write('<sc'+'ript"+j+" src=\""+L+"\"><\/sc'+'ript>');}";return}catch(E){}}}else setTimeout(_,100);}} D.write('<div style="visibility:hidden;height:0px;left:-1000px;position:absolute;"><iframe id="ar_container_'+ar_cn     +'" width=1 height=1 marginwidth=0 marginheight=0 scrolling=no frameborder=0><\/iframe><\/div><div id="ad_ph_'+ar_cn     +'" style="display:none;"><\/div>');_();ar_cn++; })('http://ad.adriver.ru/cgi-bin/erle.cgi?sid=107481&sz=mednovosti&bn=10&target=top&bt=43&pz=2&tail256='); </p>
+<p> 08.04 16:40 </p>
+<p> Судьба пациента </p>
+<p> Чего ждать, когда нечего ждать - несколько историй из одного региона </p>
+<p> 08.04 15:58 </p>
+<p> Медицинский туризм </p>
+<p> Коротко о главном и подводные камни лечения за рубежом </p>
+<p> 04.04 20:34 </p>
+<p> Россия на пути к золотому стандарту психоонкологии </p>
+<p> Интервью с психиатром Натальей Ривкиной </p>
+<p> 04.04 12:27 </p>
+<p> Жить без проблем со зрением – возможно! </p>
+<p> На вопросы читателей МедНовостей ответил офтальмохирург, профессор Кирилл Першин </p>
+<p> 26.03 13:37 </p>
+<p> Остеоартроз: как не стать инвалидом </p>
+<p> Современный хондропротектор ARTRA остановит болезнь </p>
+<p> 25.03 18:21 </p>
+<p> Жить без проблем со зрением – возможно! </p>
+<p> Онлайн-конференция офтальмохирурга, профессора Кирилла Першина </p>
+<p> Все статьи </p>
+<p> Происшествия </p>
+<p> 08.04 18:17 </p>
+<p> Пищевые отравления с одним летальным исходом </p>
+<p> произошли в Москве </p>
+<p> 08.04 17:56 </p>
+<p> Новый госпиталь для ветеранов </p>
+<p> не сдали в эксплуатацию из-за трещин в стене </p>
+<p> 08.04 17:54 </p>
+<p> Минздрав РСО-Алания займется </p>
+<p> разоблачением торговцев младенцами </p>
+<p> 08.04 15:57 </p>
+<p> Омский нарколог заплатит штраф </p>
+<p> в 18 раз больше взятки </p>
+<p> 08.04 12:01 </p>
+<p> В Москве алкоголик в одних трусах </p>
+<p> угнал «скорую» </p>
+<p> 08.04 08:59 </p>
+<p> Заведующая родильным отделением </p>
+<p> торговала младенцами </p>
+<p> new adriver("adriver_banner", {sid:107481,bt:52,pz:2,bn:0}); </p>
+<p> Лучшие комментарии </p>
+<p> К статье                      « </p>
+<p> Россия на пути к золотому стандарту психоонкологии </p>
+<p> »: </p>
+<p> 09.04 09:26 </p>
+<p> Частный доктор </p>
+<p> Катрис, + к вашему комментарию.  Уважаемые комментаторы, вы увидели только... </p>
+<p> К новости                      « </p>
+<p> Скончался знаменитый хирург Михаил Перельман </p>
+<p> »: </p>
+<p> 02.04 12:36 </p>
+<p> Выпускник ММА 1992 </p>
+<p> Как говорится, земля пухом... Запомнился Михаил Израилевич на занятиях по фт... </p>
+<p> 01.04 13:22 </p>
+<p> Василий </p>
+<p> Великий человек! Между прочим отметился и пионером кардиохирургии врожденных ... </p>
+<p> К новости                      « </p>
+<p> Джеймс Уотсон выступил с утверждением о канцерогенной роли антиоксидантов </p>
+<p> »: </p>
+<p> 20.03 17:49 </p>
+<p> Мимо шел </p>
+<p> Все хорошо в меру, в нужное время, и в нужном месте - и антиоксиданты, и проо... </p>
+<p> К новости                      « </p>
+<p> Столичные больницы укомплектуют роботами-хирургами </p>
+<p> »: </p>
+<p> 18.03 23:13 </p>
+<p> 2Дохтор </p>
+<p> У нас стоит ДаВинчи. На нем можно проводить удаленные операции, если в сосед... </p>
+<p> Пресс-релизы </p>
+<p> НОВОСТИ КОМПАНИЙ: Специалисты нового поколения в борьбе с онкозаболеванями </p>
+<p> СОБЫТИЯ: Врачи трех крупнейших городов России обсудили вопросы репродуктивного здоровья </p>
+<p> АФИША: Конференция «Консилиум главных врачей» </p>
+<p> СОБЫТИЯ: Жительница Казани выиграла в суде право на лечение </p>
+<p> СОБЫТИЯ: Совет экспертов: программа ВПЧ-вакцинации в ХМАО </p>
+<p> document.write("<a href='http://www.liveinternet.ru/click' target=_blank><img src='//counter.yadro.ru/hit?t17.2;r" + escape(document.referrer) + ((typeof(screen)=="undefined")?"":";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?screen.colorDepth:screen.pixelDepth)) + ";u" + escape(document.URL) +";i" + escape("Жж"+document.title.substring(0,80)) + ";" + Math.random() + "' border=0 width=88 height=31 alt='' title='LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня'><\/a>") </p>
+<p> <!-- d=document;var a='';a+=';r='+escape(d.referrer);js=10; //--> </p>
+<p> <!-- a+=';j='+navigator.javaEnabled();js=11; //--> </p>
+<p> <!-- s=screen;a+=';s='+s.width+'*'+s.height; a+=';d='+(s.colorDepth?s.colorDepth:s.pixelDepth);js=12; //--> </p>
+<p> <!-- js=13; //--> </p>
+<p> <!-- d.write('<a href="http://top.mail.ru/jump?from=1014739" target="_top">'+'<img src="http://db.c7.bf.a0.top.mail.ru/counter?id=1014739;t=242;js='+js+a+';rand='+Math.random()+'" alt="Рейтинг@Mail.ru" border="0" '+'height="31" width="88"><\/a>');if(11<js)d.write('<'+'!-- '); //--> </p>
+<p> <!-- if(11<js)d.write('--'+'>'); //--> </p>
+<p> var img = new Image();     img.src = 'http://www.tns-counter.ru/V13a***R>' + document.referrer.replace(/\*/g,'%2a') + '*medportal_ru/ru/CP1251/tmsec=medportal_total/'; </p>
+<p> var _gaq = _gaq || [];   _gaq.push(['_setAccount', 'UA-2150055-1']);   _gaq.push(['_trackPageview']);    (function() {     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);   })(); </p>
+<p> (function (d, w, c) {     (w[c] = w[c] || []).push(function() {         try {             w.yaCounter12154165 = new Ya.Metrika({ id:12154165, enableAll: true, webvisor:true });         } catch(e) { }     });          var n = d.getElementsByTagName("script")[0],         s = d.createElement("script"),         f = function () { n.parentNode.insertBefore(s, n); };     s.type = "text/javascript";     s.async = true;     s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";      if (w.opera == "[object Opera]") {         d.addEventListener("DOMContentLoaded", f);     } else { f(); } })(document, window, "yandex_metrika_callbacks"); </p>
+<p> О нас </p>
+<p> МедРеклама </p>
+<p> Медицинский портал </p>
+<p> www.medportal.ru </p>
+<p> . E-mail: </p>
+<p> info@medportal.ru </p>
+<p> © 1998—2013 Все права защищены. </p>

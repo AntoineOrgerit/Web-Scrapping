@@ -1,0 +1,554 @@
+<p> Managing food risks on holiday - The West Australian </p>
+<p> var iCanRefresh=true;     videoEventListener = function( pType, pItem ) {          switch (pType) {             case "onAdPlaybackComplete":             case "onPlaylistComplete":             case "onPlaybackComplete":             case "onPlaybackPause":             case "onPlaybackStop":             case "onPlayerReady":                 iCanRefresh=true;                 break;             case "onAdPlaybackStart":             case "onPlaybackResume":             case "onPlaybackStart":                 iCanRefresh=false;                 break; 			default:                  iCanRefresh=true; 				break;         }      }     setInterval("if(iCanRefresh) location.reload(true);", 300000); </p>
+<p> var yAdTools = {}; yAdTools.getArticleTitle = function() {     var headline = 'Managing food risks on holiday';     return headline; } </p>
+<p> YAHOO = window.YAHOO || {};YAHOO.aunz = YAHOO.aunz || {}; YAHOO.aunz.meta = { spaceId : 2142300048 , contentType : "a" }; </p>
+<p> var google_num_ads = 0; var google_last_ad_type = ''; function google_ad_request_done(google_ads) { var s;  if (google_ads.length == 0) return;  google_num_ads += google_ads.length; google_last_ad_type = google_ads[0].type; s = '<h4><a class="heading ad_attribution" href="'+ google_info.feedback_url+'" target="_blank">Sponsored Links</a></h4>'; if (google_ads[0].type == "html") { s += google_ads[0].snippet; } else if (google_ads[0].type == "text") {  if (google_ads.length == 1) { ad_title_class = 'ad_title_large'; ad_text_class = 'ad_text_large'; ad_url_class = 'ad_url_large'; } else { ad_title_class = 'ad_title'; ad_text_class = 'ad_text'; ad_url_class = 'ad_url'; } for(var i=0; i < google_ads.length; i++) { s += '<div><h4><a class="' + ad_title_class + '" href="' + google_ads[i].url + '" target="_blank">' + google_ads[i].line1 + '</a></h4>' +  '<p class="url">' + '<a class="' + ad_url_class + '" href="' + google_ads[i].url + '" target="_blank">' + google_ads[i].visible_url + '</a></p>' + '<p class="' + ad_text_class + '">' + google_ads[i].line2 + ' ' + google_ads[i].line3 + '</p></div>';  } } document.write(s); return; } </p>
+<p> @import url(http://l.yimg.com/us.js.yimg.com/lib/npn/ulm30_1.9.css); </p>
+<p> YAHOO.ulm.setcrumb('e7565fcd52ae6bf64ac4ef9281b6e508,1323974178');     //******************************************************************************     // messages     //******************************************************************************     YAHOO.ulm.setmessages( {         'ACTloading'             : "Retrieving location data...",         'ACTconfirmclearall'     : "Are you sure you want to delete all recent locations?",         'ACTconfirmclearallhead' : "Confirm Delete All Recent Locations",         'ACTconfirmclear'        : "Are you sure you want to delete this location?",         'ACTconfirmrecentsave'   : "Are you sure you want to save this location?",         'ACTconfirmaddnew'       : "Clicking OK will take you away from this page.",         'ACTconfirmedit'         : "Clicking OK will take you away from this page.",         'ACTclearall'            : "Clearing all location data...",         'ACTclearone'            : "Clearing location data...",         'ACTsettingdefault'      : "Setting default...",         'ACTsaving'              : "Saving location...",         'ACTsubmitting'          : "Submitting...",                  'TTtrigger'    : "",         'TTcloser'     : "Close this panel",         'TThelp'       : "",                  'TTclearall'   : "Delete the default and all recent locations",                  'TTsaveaddnew' : "Add a new location to my saved locations",                  'TTmakedefault': "Make this the default location",         'TTsave'       : "Save this location in my saved locations",         'TTedit'       : "Edit this saved location",         'TTclear'      : "Delete this location",                  'ERRgetdata'   : "We're sorry, the system is busy<br>Please try again in a few minutes.",         'ERRsaving'    : "Saving location...",         'ERRclearing'  : "Clearing location...",                  'CTArecent'    : "No recent locations"     } );          YAHOO.ulm.register( {         'module' : 'builtin',         'props'  : {             'debug'              : '0',             'locale'             : 'en_AU',             'dataurl'            : '/js/ulm30/',    //data url             'editpageurl'        : 'http://edit.npn.yahoo.com/ulm3.0/editpage/ulmedit.php',    //edit page url             'locationhovercolor' : '#FDF5E3',             'locationnormalcolor': '#FFF',                          'locationtype'       : '',             'triggers'           : [],             'widgettype'         : 'Overlay',             'callback'           : null,                          'dotdone'            : escape(location.href),             'prefill'            : {            '368' : '', '370' : '',                                     'isdefault' : 0                                   }                 }     } ); </p>
+<p> YAHOO = window.YAHOO || {}; 		    YAHOO.aunz = YAHOO.aunz || {}; 		    YAHOO.aunz.meta = YAHOO.aunz.meta || {}; 		    YAHOO.aunz.meta.crumb = ""; 		    YAHOO.aunz.meta.yid = ""; 		    YAHOO.aunz.meta.name = ""; 		    YAHOO.aunz.meta.loginUrl = "https://login.yahoo.com/config/login?.done=http%3A%2F%2Fau.news.yahoo.com%2Fthewest%2Flifestyle%2Fa%2F-%2Fhealth%2F12351176%2Fmanaging-food-risks-on-holiday%2F&.intl=au&.src="; 		    YAHOO.aunz.meta.signinUrl = "https://login.yahoo.com/config/login?logout=1&.done=http://au.news.yahoo.com/thewest/&.src=&.intl=au&.direct=1"; </p>
+<p> Sign In </p>
+<p> or </p>
+<p> Sign Up </p>
+<p> Yahoo!7 </p>
+<p> Mail </p>
+<p> Classifieds </p>
+<p> Real Estate </p>
+<p> Announcements </p>
+<p> Jobs </p>
+<p> Bloo </p>
+<p> Newsletters </p>
+<p> Home Delivery </p>
+<p> West Rewards </p>
+<p> Place an Ad </p>
+<p> Events </p>
+<p> The West </p>
+<p> Powered by Yahoo!7 News </p>
+<p> Search </p>
+<p> Search Web </p>
+<p> Sport </p>
+<p> HOME </p>
+<p> BUSINESS </p>
+<p> SPORT </p>
+<p> LIFE + STYLE </p>
+<p> ENTERTAINMENT </p>
+<p> TRAVEL </p>
+<p> MOTORING </p>
+<p> REGIONAL </p>
+<p> REAL ESTATE </p>
+<p> ANNOUNCEMENTS </p>
+<p> JOBS </p>
+<p> WEATHER </p>
+<p> Food + Drink </p>
+<p> Fashion </p>
+<p> Health + Wellbeing </p>
+<p> Home + Garden </p>
+<p> West Wine </p>
+<p> Search The West </p>
+<p> SEARCH </p>
+<p> Managing food risks on holiday </p>
+<p> Tamara Hunter, The West Australian </p>
+<p> December 14, 2011, 1:38 pm </p>
+<p> YAHOO.aunz.meta = YAHOO.aunz.meta || {};     YAHOO.aunz.meta.fbAppId = '';     YAHOO.aunz.meta.twitterId = 'thewest_com_au';     YAHOO.aunz.meta.isDark = false;     YAHOO.aunz.meta.fbLayout = 'button_count';     YAHOO.aunz.meta.isRecommend = true; YAHOO.aunz.meta.url = 'http://au.news.yahoo.com/thewest/lifestyle/a/-/health/12351176/managing-food-risks-on-holiday/'; </p>
+<p> Enlarge photo </p>
+<p> It can be hard enough managing a child with potentially deadly allergies, but the holiday season can throw extra challenges into the mix. </p>
+<p> Not only are children at risk of anaphylaxis - a severe form of allergic reaction which can quickly become life-threatening - likely to be present at social occasions with unusual, potentially risky food, but they're more likely to be going on holidays, far from the predictability of their home environment. </p>
+<p> "It's really about developing strategies to reduce the risk, thinking ahead," said Maria Said, president of allergy support group Anaphylaxis Australia. </p>
+<p> "For example, thinking about where you are going on holidays. Instead of booking a hotel room, people will often book an apartment so they have facilities to cook meals for themselves." </p>
+<p> While people with life-threatening allergies could eat out, they tended to limit such occasions because of the stress involved - particularly in countries with a different language. </p>
+<p> "Whether you're at home or away, it means you need to be more cautious," she said. "You need to disclose the allergy. You need to ask a lot more questions about the food and then you need to gauge the information that you have been given. </p>
+<p> "If a waiter says to you 'That should be OK', you ask for an ingredient list. You need to be a bit assertive and you do that because of safety. Near enough isn't good enough." </p>
+<p> She said families planning to travel anywhere by plane should directly contact the airline for its policy on carrying medications, including adrenaline auto-injectors. </p>
+<p> Although there were no allergen-free flights, families could reduce risk by alerting the airline to the allergy, asking about food and snacks served, taking their own food and always carrying their adrenaline pen with them. </p>
+<p> "They should get a doctor's letter and action plan outlining the allergy and confirming the need to carry medication, food, and the pen. Families should also find out what they can about emergency facilities near where they are staying." </p>
+<p> Many families were reluctant to travel after receiving an allergy diagnosis but it was possible to have a great trip with enough pre-planning, she said. </p>
+<p> Anaphylaxis Australia could point people to translation organisations which specialised in converting important information into whatever language was required. </p>
+<p> Whether travelling or at home, parents of highly allergic children were often accused of being neurotic and over-the-top. </p>
+<p> Relatives who did not understand the seriousness of the allergies could sometimes undermine parents, too. </p>
+<p> "It is really important to not write off the parent of the allergic individual as just being overanxious," Ms Said said. </p>
+<p> "People need to understand this is not a lifestyle choice. This isn't something they have chosen for themselves. Small amounts can trigger life-threatening reactions, and we actually need to know about cross-contamination. We need to see ingredient lists." </p>
+<p> Between 10 and 20 Australians die from anaphylactic reactions every year, with many of the victims teenagers or young adults. Young people were more at risk because they typically did more things on the hop, socialised more and did not want to draw attention to themselves. Other victims were people who were not under the care of an allergy specialist and who did not have clear strategies in place. </p>
+<p> Allergies were a community issue. </p>
+<p> "It's not just about the person with the allergy or their families," she said. "It's about relatives, the corner cafe, teachers, the school's camp organiser, the restaurant owner. Everyone needs to understand what they can do to help reduce risk." </p>
+<p> Much of the training around food allergies within the food services sector remained ad hoc and needed to be improved to ensure all service deliverers understood the risks and how to minimise them. </p>
+<p> "We understand that we can never say that any food is guaranteed to be safe," Ms Said said. "We always need to be prepared for an allergic reaction but there is a lot the food service sector can do to help reduce risk. Part of that is learning how to communicate with the allergic individual and developing strategies in workplaces to reduce risk." </p>
+<p> Travel tips and plans for those at risk of anaphylaxis can be found at  allergyfacts.org.au. </p>
+<p> google_ad_client = "ca-yahoo7-au-wan"; google_ad_channel = "aunews"; google_ad_output = "js"; google_max_num_ads = "4"; google_ad_type = "text"; google_safe = "high"; google_image_size = ""; google_encoding = "utf8"; google_language = "en"; google_adtest = "off"; google_hints = ""; google_skip = ""; google_ad_section = "aunews_wan"; </p>
+<p> YAHOO.aunz.meta = YAHOO.aunz.meta || {};     YAHOO.aunz.meta.fbAppId = '';     YAHOO.aunz.meta.twitterId = 'thewest_com_au';     YAHOO.aunz.meta.isDark = false;     YAHOO.aunz.meta.fbLayout = 'button_count';     YAHOO.aunz.meta.isRecommend = true; YAHOO.aunz.meta.url = 'http://au.news.yahoo.com/thewest/lifestyle/a/-/health/12351176/managing-food-risks-on-holiday/'; </p>
+<p> [ </p>
+<p> Change Location </p>
+<p> ] </p>
+<p> Perth </p>
+<p> Currently </p>
+<p> 18.3В° </p>
+<p> Today's forecast: </p>
+<p> Mostly sunny </p>
+<p> 16В° </p>
+<p> - </p>
+<p> 28В° </p>
+<p> 7 day forecast В» </p>
+<p> Most Viewed </p>
+<p> Woman's anorexia battle 'worst seen' </p>
+<p> Vigil as Meldrum undergoes surgery </p>
+<p> Elderly man lost on M25 for two days </p>
+<p> First fixed speed camera unveiled </p>
+<p> Mourners call for end to violence </p>
+<p> New billboard depicts Virgin Mary holding a pregnancy test </p>
+<p> Man found guilty of double murder </p>
+<p> Mayors bizarre family Christmas photo goes viral </p>
+<p> Swedish boy strangles four-year-old </p>
+<p> Molly Meldrum critical after fall </p>
+<p> Breaking </p>
+<p> 2:23 am </p>
+<p> System let us down, says wife of patient </p>
+<p> 2:15 am </p>
+<p> Government parking costs public $1m </p>
+<p> 2:05 am </p>
+<p> Household cash goes on the good life </p>
+<p> 6:01 pm </p>
+<p> Delays after Cannington crash </p>
+<p> 5:42 pm </p>
+<p> Molly Meldrum critical after fall </p>
+<p> 5:28 pm </p>
+<p> Bill Gates backs carbon tax </p>
+<p> 5:19 pm </p>
+<p> Irishman's extradition fight costs taxpayers </p>
+<p> 5:06 pm </p>
+<p> Fire warning for Central West </p>
+<p> 4:15 pm </p>
+<p> Broome officers being investigated </p>
+<p> 2:53 pm </p>
+<p> Police raid The Age </p>
+<p> More Breaking News </p>
+<p> » </p>
+<p> Most Commented </p>
+<p> Households struggle to make ends meet </p>
+<p> 41 </p>
+<p> Comments </p>
+<p> Shop hours reform 'good for all' </p>
+<p> 31 </p>
+<p> Comments </p>
+<p> Utility party bill sparks anger </p>
+<p> 28 </p>
+<p> Comments </p>
+<p> New Zealand claim remarkable Test win </p>
+<p> 23 </p>
+<p> Comments </p>
+<p> Big drop in eastern States tourists a 'black hole' for WA </p>
+<p> 21 </p>
+<p> Comments </p>
+<p> Former women's Test star to lead WACA </p>
+<p> 13 </p>
+<p> Comments </p>
+<p> Fishing fears stall marine parks </p>
+<p> 13 </p>
+<p> Comments </p>
+<p> Keelty questions single road access </p>
+<p> 10 </p>
+<p> Comments </p>
+<p> Air-con power bills surge </p>
+<p> 4 </p>
+<p> Comments </p>
+<p> Perth's Ricciardo clinches 2012 F1 drive </p>
+<p> 4 </p>
+<p> Comments </p>
+<p> Horoscopes </p>
+<p> Get your daily reading </p>
+<p> By Yasmin Boland </p>
+<p> Aries </p>
+<p> Taurus </p>
+<p> Gemini </p>
+<p> Cancer </p>
+<p> Leo </p>
+<p> Virgo </p>
+<p> Libra </p>
+<p> Scorpio </p>
+<p> Sagittarius </p>
+<p> Capricorn </p>
+<p> Aquarius </p>
+<p> Pisces </p>
+<p> COMPARE & SAVE </p>
+<p> Credit Cards </p>
+<p> bankmecu Low Rate... </p>
+<p> low rate </p>
+<p> 10.74% </p>
+<p> Citibank Clear... </p>
+<p> low rate </p>
+<p> 11.99% </p>
+<p> St.George Vertigo... </p>
+<p> low rate </p>
+<p> 13.24% </p>
+<p> NAB Low Rate Visa... </p>
+<p> low rate </p>
+<p> 13.49% </p>
+<p> BOQ Low Rate Visa... </p>
+<p> low rate </p>
+<p> 13.49% </p>
+<p> Westpac Low Rate </p>
+<p> low rate </p>
+<p> 13.49% </p>
+<p> HSBC Credit Card -... </p>
+<p> low rate </p>
+<p> 17.99% </p>
+<p> Virgin No Annual... </p>
+<p> low rate </p>
+<p> 18.99% </p>
+<p> Westpac 55 Day </p>
+<p> low rate </p>
+<p> 19.59% </p>
+<p> Virgin Flyer Credit... </p>
+<p> low rate </p>
+<p> 20.99% </p>
+<p> COMPARE MORE </p>
+<p> Saving Accounts </p>
+<p> USaver (Base Rate... </p>
+<p> max rate </p>
+<p> 6.11% </p>
+<p> ANZ Online Saver... </p>
+<p> max rate </p>
+<p> 6.00% </p>
+<p> Citibank Online... </p>
+<p> max rate </p>
+<p> 5.80% </p>
+<p> ANZ Progress Saver </p>
+<p> max rate </p>
+<p> 5.76% </p>
+<p> COMPARE MORE </p>
+<p> Home Loans </p>
+<p> State Custodians... </p>
+<p> variable rate </p>
+<p> 6.22% </p>
+<p> eMoney Full Doc... </p>
+<p> variable rate </p>
+<p> 6.28% </p>
+<p> Premium Plus... </p>
+<p> variable rate </p>
+<p> 6.34% </p>
+<p> MyRate.com.au -... </p>
+<p> variable rate </p>
+<p> 6.35% </p>
+<p> State Custodians... </p>
+<p> variable rate </p>
+<p> 6.47% </p>
+<p> Real Deal Home Loan </p>
+<p> variable rate </p>
+<p> 6.47% </p>
+<p> Premium Plus... </p>
+<p> variable rate </p>
+<p> 6.47% </p>
+<p> goGreen Home Loan </p>
+<p> variable rate </p>
+<p> 6.48% </p>
+<p> Basic Variable... </p>
+<p> variable rate </p>
+<p> 6.54% </p>
+<p> Mortgage Simplifier </p>
+<p> variable rate </p>
+<p> 6.62% </p>
+<p> COMPARE MORE </p>
+<p> Apple iPhone 4S Plans </p>
+<p> $19 Optus Cap for iPhone </p>
+<p> $70 incl. value </p>
+<p> 100 MB incl. data </p>
+<p> $41.00 </p>
+<p> /mth </p>
+<p> min cost $984.00 </p>
+<p> Fair Go Cap 19 </p>
+<p> $50 incl. value </p>
+<p> 50 MB incl. data </p>
+<p> $42.00 </p>
+<p> /mth </p>
+<p> min cost $1,008.00 </p>
+<p> $29 Cap Contract </p>
+<p> $180 incl. value </p>
+<p> 200 MB incl. data </p>
+<p> $44.00 </p>
+<p> /mth </p>
+<p> min cost $1,056.00 </p>
+<p> Fair Go Cap 29 </p>
+<p> $190 incl. value </p>
+<p> 250 MB incl. data </p>
+<p> $46.00 </p>
+<p> /mth </p>
+<p> min cost $1,104.00 </p>
+<p> $29 Optus Cap for iPhone </p>
+<p> $180 incl. value </p>
+<p> 200 MB incl. data </p>
+<p> $47.00 </p>
+<p> /mth </p>
+<p> min cost $1,128.00 </p>
+<p> Big Plan 29 </p>
+<p> $450 incl. value </p>
+<p> 250 MB incl. data </p>
+<p> $48.00 </p>
+<p> /mth </p>
+<p> min cost $1,152.00 </p>
+<p> Fair Go Cap 39 </p>
+<p> $300 incl. value </p>
+<p> 500 MB incl. data </p>
+<p> $52.00 </p>
+<p> /mth </p>
+<p> min cost $1,248.00 </p>
+<p> $49 Cap Contract </p>
+<p> $550 incl. value </p>
+<p> 1536 MB incl. data </p>
+<p> $54.00 </p>
+<p> /mth </p>
+<p> min cost $1,296.00 </p>
+<p> Big Plan 39 </p>
+<p> $650 incl. value </p>
+<p> 500 MB incl. data </p>
+<p> $54.00 </p>
+<p> /mth </p>
+<p> min cost $1,296.00 </p>
+<p> Fair Go Cap 49 </p>
+<p> $400 incl. value </p>
+<p> 2048 MB incl. data </p>
+<p> $57.00 </p>
+<p> /mth </p>
+<p> min cost $1,368.00 </p>
+<p> $59 Cap Contract </p>
+<p> $750 incl. value </p>
+<p> 2048 MB incl. data </p>
+<p> $59.00 </p>
+<p> /mth </p>
+<p> min cost $1,416.00 </p>
+<p> $49 Optus Cap </p>
+<p> $550 incl. value </p>
+<p> 1536 MB incl. data </p>
+<p> $59.00 </p>
+<p> /mth </p>
+<p> min cost $1,416.00 </p>
+<p> $59 Optus Cap </p>
+<p> $750 incl. value </p>
+<p> 2048 MB incl. data </p>
+<p> $59.00 </p>
+<p> /mth </p>
+<p> min cost $1,416.00 </p>
+<p> $59 Freedom Connect Plan </p>
+<p> $550 incl. value </p>
+<p> 1536 MB incl. data </p>
+<p> $63.00 </p>
+<p> /mth </p>
+<p> min cost $1,512.00 </p>
+<p> Fair Go Cap 59 </p>
+<p> $700 incl. value </p>
+<p> 3072 MB incl. data </p>
+<p> $64.00 </p>
+<p> /mth </p>
+<p> min cost $1,536.00 </p>
+<p> $50 Infinite Plan </p>
+<p> Unlimited </p>
+<p> 500 MB incl. data </p>
+<p> $67.00 </p>
+<p> /mth </p>
+<p> min cost $1,608.00 </p>
+<p> $50 Infinite Business Plan </p>
+<p> Unlimited </p>
+<p> 500 MB incl. data </p>
+<p> $67.00 </p>
+<p> /mth </p>
+<p> min cost $1,608.00 </p>
+<p> $65 Infinite Plan </p>
+<p> Unlimited </p>
+<p> 2048 MB incl. data </p>
+<p> $72.00 </p>
+<p> /mth </p>
+<p> min cost $1,728.00 </p>
+<p> $65 Infinite Business Plan </p>
+<p> Unlimited </p>
+<p> 2048 MB incl. data </p>
+<p> $72.00 </p>
+<p> /mth </p>
+<p> min cost $1,728.00 </p>
+<p> $79 Cap Contract </p>
+<p> $900 incl. value </p>
+<p> 3072 MB incl. data </p>
+<p> $79.00 </p>
+<p> /mth </p>
+<p> min cost $1,896.00 </p>
+<p> $79 Freedom Connect Plan </p>
+<p> $800 incl. value </p>
+<p> 2048 MB incl. data </p>
+<p> $79.00 </p>
+<p> /mth </p>
+<p> min cost $1,896.00 </p>
+<p> $79 Optus Cap </p>
+<p> $900 incl. value </p>
+<p> 3072 MB incl. data </p>
+<p> $79.00 </p>
+<p> /mth </p>
+<p> min cost $1,896.00 </p>
+<p> $49 Cap Contract </p>
+<p> $550 incl. value </p>
+<p> 1536 MB incl. data </p>
+<p> $81.00 </p>
+<p> /mth </p>
+<p> min cost $972.00 </p>
+<p> $85 Infinite Plan </p>
+<p> Unlimited </p>
+<p> 3072 MB incl. data </p>
+<p> $85.00 </p>
+<p> /mth </p>
+<p> min cost $2,040.00 </p>
+<p> $85 Infinite Business Plan </p>
+<p> Unlimited </p>
+<p> 3072 MB incl. data </p>
+<p> $85.00 </p>
+<p> /mth </p>
+<p> min cost $2,040.00 </p>
+<p> $59 Cap Contract </p>
+<p> $750 incl. value </p>
+<p> 2048 MB incl. data </p>
+<p> $86.00 </p>
+<p> /mth </p>
+<p> min cost $1,032.00 </p>
+<p> $50 Infinite Plan </p>
+<p> Unlimited </p>
+<p> 500 MB incl. data </p>
+<p> $87.00 </p>
+<p> /mth </p>
+<p> min cost $1,044.00 </p>
+<p> $50 Infinite Business Plan </p>
+<p> Unlimited </p>
+<p> 500 MB incl. data </p>
+<p> $87.00 </p>
+<p> /mth </p>
+<p> min cost $1,044.00 </p>
+<p> 89 Topless </p>
+<p> Unlimited </p>
+<p> 4096 MB incl. data </p>
+<p> $89.00 </p>
+<p> /mth </p>
+<p> min cost $2,136.00 </p>
+<p> $65 Infinite Plan </p>
+<p> Unlimited </p>
+<p> 2048 MB incl. data </p>
+<p> $97.00 </p>
+<p> /mth </p>
+<p> min cost $1,164.00 </p>
+<p> $65 Infinite Business Plan </p>
+<p> Unlimited </p>
+<p> 2048 MB incl. data </p>
+<p> $97.00 </p>
+<p> /mth </p>
+<p> min cost $1,164.00 </p>
+<p> $99 Timeless Extreme </p>
+<p> Unlimited </p>
+<p> 5120 MB incl. data </p>
+<p> $99.00 </p>
+<p> /mth </p>
+<p> min cost $2,376.00 </p>
+<p> $100 Infinite Plan </p>
+<p> Unlimited </p>
+<p> 4096 MB incl. data </p>
+<p> $100.00 </p>
+<p> /mth </p>
+<p> min cost $2,400.00 </p>
+<p> $100 Infinite Business Plan </p>
+<p> Unlimited </p>
+<p> 4096 MB incl. data </p>
+<p> $100.00 </p>
+<p> /mth </p>
+<p> min cost $2,400.00 </p>
+<p> $79 Cap Contract </p>
+<p> $900 incl. value </p>
+<p> 3072 MB incl. data </p>
+<p> $101.00 </p>
+<p> /mth </p>
+<p> min cost $1,212.00 </p>
+<p> $85 Infinite Plan </p>
+<p> Unlimited </p>
+<p> 3072 MB incl. data </p>
+<p> $107.00 </p>
+<p> /mth </p>
+<p> min cost $1,284.00 </p>
+<p> $85 Infinite Business Plan </p>
+<p> Unlimited </p>
+<p> 3072 MB incl. data </p>
+<p> $107.00 </p>
+<p> /mth </p>
+<p> min cost $1,284.00 </p>
+<p> $100 Infinite Plan </p>
+<p> Unlimited </p>
+<p> 4096 MB incl. data </p>
+<p> $118.00 </p>
+<p> /mth </p>
+<p> min cost $1,416.00 </p>
+<p> $100 Infinite Business Plan </p>
+<p> Unlimited </p>
+<p> 4096 MB incl. data </p>
+<p> $118.00 </p>
+<p> /mth </p>
+<p> min cost $1,416.00 </p>
+<p> $129 Timeless Extreme </p>
+<p> Unlimited </p>
+<p> 6144 MB incl. data </p>
+<p> $129.00 </p>
+<p> /mth </p>
+<p> min cost $3,096.00 </p>
+<p> COMPARE MORE </p>
+<p> Sponsored links </p>
+<p> <!--         ShowListings();         addHandlers();         // --> </p>
+<p> THE WEST NEWS HOME </p>
+<p> Breaking </p>
+<p> WA News </p>
+<p> National </p>
+<p> World </p>
+<p> Off Beat </p>
+<p> Galleries </p>
+<p> Crime Stoppers </p>
+<p> Business </p>
+<p> Sport </p>
+<p> Life + Style </p>
+<p> Entertainment </p>
+<p> Travel </p>
+<p> Opinion </p>
+<p> Video </p>
+<p> RSS </p>
+<p> ALSO ON THE WEST </p>
+<p> Advertising </p>
+<p> Corporate </p>
+<p> Editorial Policy </p>
+<p> Contact </p>
+<p> Careers </p>
+<p> Digital Editions Current </p>
+<p> Digital Editions Past </p>
+<p> Place an Ad in the paper </p>
+<p> Competitions </p>
+<p> WA Leading the Way </p>
+<p> FAQ </p>
+<p> TAB Form </p>
+<p> Home Delivery </p>
+<p> Newsletter </p>
+<p> My Resources </p>
+<p> Newspaper Print Tours </p>
+<p> WA FM </p>
+<p> Red FM </p>
+<p> Spirit Network </p>
+<p> Quokka </p>
+<p> Jobs </p>
+<p> Newspapers in Education </p>
+<p> Regional News </p>
+<p> Events </p>
+<p> bloo </p>
+<p> Twitter </p>
+<p> Facebook </p>
+<p> 'The West Australian' is a trademark of West Australian Newspapers Limited 2011. </p>
+<p> All rights reserved. </p>
+<p> Advertise with Us </p>
+<p> Privacy Policy </p>
+<p> Terms of Service </p>
+<p> Help </p>
+<p> Powered by Yahoo!7 News </p>
+<p> The West News Preferences </p>
+<p> Close </p>
+<p> Select your state to see news for your area. </p>
+<p> Save </p>
+<p> var _rsCI="yahoo-au";    var _rsCG="0";    var _rsIMG = new Image(1,1);    _rsIMG.src = "//secure-au.imrworldwide.com/cgi-bin/m?rnd=" + (new Date()).getTime() + "&ci=" + _rsCI + "&cg=" + _rsCG + "&si=" + escape(window.location.href) + "&rp=" + escape(document.referrer) + "&cc=1"; </p>
+<p> var YWATrackerObj = new YAHOO.aunz.YWA(10001397660209, 2142300039, "/intl/aunz/headlines/local/wan"), YWATracker = YWATrackerObj._t; </p>
+<p> jsloader.require("tabview");             jsloader.onSuccess.push(function(e){ new YAHOO.widget.TabView("media") });             jsloader.require("y7.modal"); 			jsloader.require("y7.video"); </p>
+<p> jsloader.require("y7.ulm"); </p>
+<p> jsloader.require("y7.tabbifier"); </p>
+<p> jsloader.require('genie.widgets'); </p>
+<p> jsloader.require("y7.prefs"); </p>
+<p> var e=document.getElementById('encoreload');             var a=e.getElementsByTagName('script');             if(a){               for(var i=0;i<a.length;i++){                 if(a[i].src!=null){                   a[i].removeAttribute('src')                 }               }             }             document.getElementById('encore-ad').appendChild(e);             document.getElementById('encoreload').style.display='block'; </p>

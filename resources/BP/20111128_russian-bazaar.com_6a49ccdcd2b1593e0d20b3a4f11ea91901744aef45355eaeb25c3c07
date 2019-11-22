@@ -1,0 +1,12 @@
+<HTML xmlns="http://www.w3.org/1999/xhtml">
+<style type="text/css">
+A:before { content:' '; } 
+A:after { content:' '; } 
+SPAN:before { content:' '; } 
+SPAN:after { content:' '; } 
+</style>
+<BODY class="front not-logged-in node-type-page i18n-en with-wireframes two-sidebars"><DIV id="wrapper"><DIV id="header"><DIV id="head-corner"><DIV style="display: none;"><DIV id="container"><DIV id="blogin" class="box"><TABLE><TBODY><TR><TD><A href="javascript:" onclick="jQuery('#license_text').slideDown();">С правилами и условиями соглашаюсь</A></TD></TR></TBODY></TABLE><DIV id="license_text" style="display:none;"><P>
+	Any image placed is the subject to copyright law.</P><P>
+	We reserve the right, at our sole discretion, to change, modify, delete or otherwise alter any advertisement that may be offensive, indecent, inaccurate, misleading, or otherwise objectionable to the users of the Russian Bazaar website. These rules may be applied to the advertisement that indicates any preference, limitation, or discrimination based on race, color, religion, sex, handicap, familial status or national origin, or an intention to make any such preference, limitation, or discrimination (for Real Estate Directory)</P><P>
+	The Russian Bazaar newspaper can delete any advertisement from the website if any of the rules mentioned above has been violated. In such a case the newspaper reserves the right not to refund any payment completed by the advertiser.</P><P>
+	All postings, images, photos, advertisements or other materials posted on, transmitted through, or linked from the Russian Bazaar website, are the sole responsibility of the person from whom such content was originated.</P></DIV></DIV><DIV id="bforgot" class="box" style="display:none;"><H2 class="txt_5">Напомнить пароль</H2></DIV></DIV></DIV></DIV></DIV></DIV></BODY></HTML>

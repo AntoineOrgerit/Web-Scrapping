@@ -1,0 +1,134 @@
+<p> Новости NEWSru.com :: Польский суд арестовал беглого российского экс-зампрокурора на 40 суток </p>
+<p> <!-- browser = ( 	((navigator.appName == "Netscape") && (parseInt(navigator.appVersion) >= 3 )) 	|| 	((navigator.appName == "Microsoft Internet Explorer") && (parseInt(navigator.appVersion) >= 4 )) 	|| 	((navigator.appName == "Opera") && (parseInt(navigator.appVersion) >= 7 )) );  imgon=new Array(); imgoff=new Array();  list = new Array("allnews","1","2","3","7","4","5","6","msc","inopress","zagolovkiru","realty","techno","auto","medicine");  for(i = 1; i <= list.length; i++){ 	imgon["m"+i] = new Image(); 	imgon["m"+i].src = "http://static.newsru.com/img/menu_v/"+list[i-1]+"a.gif"; 	imgoff["m"+i] = new Image(); 	imgoff["m"+i].src = "http://static.newsru.com/img/menu_v/"+list[i-1]+".gif"; }  imageRef="document.images";  function msover(which) { 	if (browser) { 		eval(imageRef + '["' + which + '"].src = imgon[which].src'); 	} }  function msout(which) { 	if (browser) { 		eval(imageRef + '["' + which + '"].src = imgoff[which].src'); 	} } // --> </p>
+<p> (function(L){if(typeof(ar_cn)=="undefined")ar_cn=1; var S='setTimeout(function(e){if(!self.CgiHref){document.close();e=parent.document.getElementById("ar_container_"+ar_bnum);e.parentNode.removeChild(e);}},3000);',     j=' type="text/javascript"',t=0,D=document,n=ar_cn;L+=escape(D.referrer||'unknown')+'&rnd='+Math.round(Math.random()*999999999); function _(){if(t++<100){var F=D.getElementById('ar_container_'+n);     if(F){try{var d=F.contentDocument||(window.ActiveXObject&&window.frames['ar_container_'+n].document);     if(d){d.write('<sc'+'ript'+j+'>var ar_bnum='+n+';'+S+'<\/sc'+'ript><sc'+'ript'+j+' src="'+L+'"><\/sc'+'ript>');t=0}     else setTimeout(_,100);}catch(e){try{F.src="javascript:{document.write('<sc'+'ript"+j+">var ar_bnum="+n+"; document.domain=\""     +D.domain+"\";"+S+"<\/sc'+'ript>');document.write('<sc'+'ript"+j+" src=\""+L+"\"><\/sc'+'ript>');}";return}catch(E){}}}else setTimeout(_,100);}} D.write('<div style="visibility:hidden;height:0px;left:-1000px;position:absolute;"><iframe id="ar_container_'+ar_cn     +'" width=1 height=1 marginwidth=0 marginheight=0 scrolling=no frameborder=0><\/iframe><\/div><div id="ad_ph_'+ar_cn     +'" style="display:none;"><\/div>');_();ar_cn++; })('http://ad.adriver.ru/cgi-bin/erle.cgi?sid=183090&target=top&bt=43&pz=0&tail256='); </p>
+<p> var img = new Image(); img.src = 'http://www.tns-counter.ru/V13a***' + document.referrer.replace(/\*/g,'%2a') + '*newsru_ru/ru/CP1251/tmsec=newsru_total/'; </p>
+<p> <!-- d=document;a='';a+=';r='+escape(d.referrer) js=10//--> </p>
+<p> <!-- a+=';j='+navigator.javaEnabled() js=11//--> </p>
+<p> <!-- s=screen;a+=';s='+s.width+'*'+s.height a+=';d='+(s.colorDepth?s.colorDepth:s.pixelDepth) js=12//--> </p>
+<p> <!-- js=13//--> </p>
+<p> <!-- d.write('<img src="http://top.list.ru/counter'+ '?id=91013;js='+js+a+';rand='+Math.random()+ '" height=1 width=1>') if(js>11)d.write('<'+'!-- ')//--> </p>
+<p> <!-- if(js>11)d.write('--'+'>')//--> </p>
+<p> <!-- document.write('<img src="http://counter.yadro.ru/hit?r'+ escape(document.referrer)+((typeof(screen)=='undefined')?'': ';s'+screen.width+'*'+screen.height+'*'+(screen.colorDepth? screen.colorDepth:screen.pixelDepth))+';u'+escape(document.URL)+ ';i'+escape('Жж'+document.title.substring(0,80))+';'+Math.random()+ '" width=1 height=1 alt="">')//--> </p>
+<p> <!-- if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); } if (typeof(document.referrer) != 'undefined') {   if (typeof(afReferrer) == 'undefined') {     afReferrer = escape(document.referrer);   } } else {   afReferrer = ''; } var addate = new Date();  document.write('<scr' + 'ipt type="text/javascript" src="http://ads.adfox.ru/715/prepareCode?p1=qud&amp;p2=y&amp;pct=c&amp;pfc=a&amp;pfb=a&amp;pr=' + pr +'&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;prr=' + afReferrer + '"><\/scr' + 'ipt>'); // --> </p>
+<p> NEWSru.com </p>
+<p> // </p>
+<p> Новости в мире </p>
+<p> // </p>
+<p> Среда, 4 января 2012 г. </p>
+<p> <!-- if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); } var addate = new Date();  var scrheight = '', scrwidth = ''; if (self.screen) { scrwidth = screen.width; scrheight = screen.height; } else if (self.java) { var jkit = java.awt.Toolkit.getDefaultToolkit(); var scrsize = jkit.getScreenSize(); scrwidth = scrsize.width; scrheight = scrsize.height; } document.write('<iframe src="http://ads.adfox.ru/715/getCode?p1=enx&amp;p2=tt&amp;p3=a&amp;p4=a&amp;pct=a&amp;plp=a&amp;pli=a&amp;pop=a&amp;pfc=a&amp;pfb=a&amp;pr=' + pr + '&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;pdw=' + scrwidth + '&amp;pdh=' + scrheight + '" frameBorder="0" width="125" height="217" marginWidth="0" marginHeight="0" scrolling="no" style="border: 0px; margin: 0px; padding: 0px;"><a href="http://ads.adfox.ru/715/goDefaultLink?p1=enx&amp;p2=tt" target="_top"><img src="http://ads.adfox.ru/715/getDefaultImage?p1=enx&amp;p2=tt" border="0" alt=""><\/a><\/iframe>'); //--> </p>
+<p> <!-- document.write('<SCR'+'IPT SRC="http://ads.vidigital.ru/ttj?id=980206&cb='+(Math.random()*1000000000000000000)+'" TYPE="text/javascript"></SCR'+'IPT>'); //--> </p>
+<p> <!-- if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); } if (typeof(document.referrer) != 'undefined') {   if (typeof(afReferrer) == 'undefined') {     afReferrer = escape(document.referrer);   } } else {   afReferrer = ''; } var addate = new Date();  document.write('<scr' + 'ipt type="text/javascript" src="http://ads.adfox.ru/173617/prepareCode?p1=besds&amp;p2=enhd&amp;pct=a&amp;pfc=a&amp;pfb=a&amp;pr=' + pr +'&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;prr=' + afReferrer + '"><\/scr' + 'ipt>'); // --> </p>
+<p> <!-- if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); } if (typeof(document.referrer) != 'undefined') {   if (typeof(afReferrer) == 'undefined') {     afReferrer = escape(document.referrer);   } } else {   afReferrer = ''; } var addate = new Date(); document.write('<scr' + 'ipt type="text/javascript" src="http://ads.adfox.ru/715/prepareCode?p1=dsa&amp;p2=ql&amp;pucn=a&amp;pfc=a&amp;pfb=a&amp;pr=' + pr +'&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;py=a&amp;prr=' + afReferrer + '"><\/scr' + 'ipt>'); // --> </p>
+<p> <!-- if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); } if (typeof(document.referrer) != 'undefined') {   if (typeof(afReferrer) == 'undefined') {     afReferrer = escape(document.referrer);   } } else {   afReferrer = ''; } var addate = new Date();  document.write('<scr' + 'ipt type="text/javascript" src="http://ads.adfox.ru/173617/prepareCode?p1=besdu&amp;p2=enhd&amp;pct=a&amp;pfc=a&amp;pfb=a&amp;pr=' + pr +'&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;prr=' + afReferrer + '"><\/scr' + 'ipt>'); // --> </p>
+<p> Польский суд арестовал беглого российского экс-зампрокурора на 40 суток </p>
+<p> время публикации: 4 января 2012 г., 14:07 </p>
+<p> последнее обновление: 5 января 2012 г., 08:54 </p>
+<p> Окружной суд в польском городе Новы-Сонч в среду постановил арестовать на 40 суток задержанного местными спецслужбами бывшего первого заместителя прокурора Московской области Александра Игнатенко, разыскиваемого Россией </p>
+<p> через Интерпол </p>
+<p> из-за обвинений по громкому делу о "крышевании" подпольного игорного бизнеса в Подмосковье. </p>
+<p> "Суд постановил применить в отношении Александра И. (фамилия по польским законам не называется) временный арест на срок 40 суток, то есть до 9 февраля текущего года", - сообщила ИТАР-ТАСС пресс-секретарь суда Люцина Франчак, подчеркнув, что в течение семи дней это решение может быть оспорено. </p>
+<p> Вначале сообщалось, что суд будет открытым для прессы, однако, спустя полчаса после начала заседания, судья решил продолжать его в закрытом режиме. Прессу пустили лишь в самом начале заседания и на оглашение вердикта. Игнатенко присутствовал в суде в сопровождении польского адвоката, которого ему предоставили здесь же. </p>
+<p> О рассмотрении дела в закрытом режиме попросил сам Игнатенко, сообщил адвокат Марчин Левчак, представляющий в суде интересы объявленного в России в международный розыск экс-прокурора. По его словам, Игнатенко не хотел, чтобы в глазах общественности он заранее казался виновным, так как пока речь идет только о временном аресте, передает </p>
+<p> "Эхо Москвы" </p>
+<p> . </p>
+<p> "Скорее всего, мы будем оспаривать решение, но перед принятием окончательного решения мне бы хотелось встретиться с моим подзащитным, к которому у меня пока нет доступа", - сообщил Левчак. "Я постараюсь встретиться с ним сегодня, но это будет непросто", - добавил защитник. </p>
+<p> "Он может подать на апелляцию сам, когда получит решение суда с переводом, но может попросить об этом меня, как выбранного для него защитника", - отметил адвокат. По его словам, присутствовавший в суде Игнатенко остался недоволен итогом, "так как у него были свои аргументы". </p>
+<p> Польша ждет от России запроса на экстрадицию </p>
+<p> Согласно установленной процедуре, теперь польская прокуратура ждет обращения российской стороны с просьбой о выдаче Игнатенко. "Если поступит запрос от российской прокуратуры о его выдаче, то по вопросу о правовой допустимости экстрадиции выскажется суд. Если решение будет положительным, то последнее слово, окончательное решение будет за министром справедливости", - сказал российским журналистам пресс-секретарь польской Генпрокуратуры республики Матеуш Мартынюк. Пока такой запрос от российской стороны не поступил. </p>
+<p> Окружной суд в Новом Сонче должен был принять решение о правовой допустимости экстрадиции подозреваемого. "Если таким будет решение суда, окончательное решение об экстрадиции Александра И. российским властям принимает министр юстиции Польши", - пояснил ранее </p>
+<p> РИА "Новости" </p>
+<p> пресс-секретарь генпрокуратуры Польши Матеуш Мартынюк. </p>
+<p> Москва может "ускорить процесс" выдачи </p>
+<p> В то же время адвокат Яков Аджиашвили, представлявший интересы Игнатенко в России, уверен, что его выдадут Москве, если вовремя будут оформлены необходимые документы, а можно даже быстрее. </p>
+<p> "Между Россией и Польшей заключен договор о взаимной помощи по уголовным, семейным и гражданским делам. Если все процессуальные документы будут оформлены надлежащим образом, то других вариантов нет - его выдадут", - сказал он в эфире радиостанции </p>
+<p> "Эхо Москвы" </p>
+<p> в среду. </p>
+<p> Аджиашвили отметил, что согласно международной практике, российской стороне предоставляется 40 дней на сбор документов по выдаче Игнатенко и перевод их на польский язык. "Если она сделает все быстрее, это несколько ускорит процесс", -  добавил адвокат. </p>
+<p> Как сообщалось, штурмовая группа ABW (Агентства внутренней безопасности) Польши </p>
+<p> задержала </p>
+<p> Александра Игнатенко 1 января 2012 года в 20:00 по местному времени (23:00 мск) на выезде из популярного польского горнолыжного курорта Закопане, куда он приехал несколько дней назад, чтобы встретиться с семьей. </p>
+<p> Сообщалось, что Игнатенко въехал в Польшу по паспорту гражданина Литвы с другой фамилией, и уже здесь высокопоставленный фигурант игорного дела встретился со своей женой и ребенком. Польские спецслужбы вели за Игнатенко постоянное наблюдение. Когда он выезжал из города, на трассе его автомобиль был окружен агентами ABW. Задержание длилось несколько секунд, прокурор при задержании не оказывал сопротивления, сообщила подробности польская радиостанция RMF FM. </p>
+<p> Девятого ноября 2011 года Генпрокуратура РФ направила письмо в Интерпол с согласием на объявление в розыск Игнатенко. Ранее Следственный комитет (СК) России потребовал объявить Игнатенко в розыск, однако тогда ГП сочла, что оснований для этого недостаточно. В СК было направлено представление об исправлении нарушений, объявление экс-прокурора в розыск затянулось. </p>
+<p> Ранее некоторые СМИ сообщали, что Игнатенко, возможно, находится на Украине или в Белоруссии. Представители компетентных органов этих страх, со своей стороны, заявили, что данных о том, что экс-прокурор находится на территории их стран, нет. Сам Игнатенко и его родственники были до последнего момента уверены в том, что он </p>
+<p> останется безнаказанным </p>
+<p> , поэтому они и решились на совместный отдых в Польше. </p>
+<p> Игорное дело </p>
+<p> Напомним, весной 2011 года в Подмосковье в связи с разоблачением незаконного игорного бизнеса разразился скандал, вызвавший широкий общественный резонанс. По данным следствия, предприниматель Иван Назаров организовал в 15 городах Московской области сеть подпольных казино. По данным правоохранительных органов, к нелегальному бизнесу, который приносил доход от 5 миллионов до 10 миллионов долларов в месяц, были причастны высокопоставленные сотрудники прокуратуры и МВД. </p>
+<p> Сам Назаров стал активно сотрудничать со следствием. По его словам, коррупционеры из прокуратуры и МВД получали </p>
+<p> до 80% всех доходов </p>
+<p> . В итоге в отдельное производство было выделено дело о получении крупных взяток руководителями прокуратуры Мособласти, а также сотрудниками ГУВД Подмосковья. </p>
+<p> Обвиняемыми по этому делу стали с десяток стражей порядка: начальник управления облпрокуратуры по надзору за следствием Дмитрий Урумов, прокурор Ногинска Владимир Глебов, прокурор Клина Эдуард Каплун, прокурор Одинцово Роман Нищеменко, прокурор Серпухова Олег Базылян и его помощник Михаил Жданович, два офицера управления "К" МВД РФ Фарит Темиргалиев и Михаил Куликов, три подмосковных милиционера, а также бывший зампрокурора Подмосковья Александр Игнатенко, объявленный в международный розыск. Также фигурантами дела становились прокурор Московской области Александр Мохов и ряд его подчиненных, однако впоследствии криминала в их действиях не нашли. </p>
+<p> <!-- if (navigator.appName != 'Microsoft Internet Explorer') { 	document.getElementById('newsljbut').style.display = 'block'; } // --> </p>
+<p> (function(d, s, id) {   var js, fjs = d.getElementsByTagName(s)[0];   if (d.getElementById(id)) return;   js = d.createElement(s); js.id = id;   js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";   fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk')); </p>
+<p> <!-- if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); } if (typeof(document.referrer) != 'undefined') {   if (typeof(afReferrer) == 'undefined') {     afReferrer = escape(document.referrer);   } } else {   afReferrer = ''; } var addate = new Date(); document.write('<scr' + 'ipt type="text/javascript" src="http://ads.adfox.ru/163443/prepareCode?p1=bjqvi&amp;p2=elcr&amp;pct=a&amp;pfc=a&amp;pfb=a&amp;plp=a&amp;pli=a&amp;pop=a&amp;pr=' + pr +'&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;prr=' + afReferrer + '"><\/scr' + 'ipt>'); // --> </p>
+<p> Ссылки по теме: </p>
+<p> Польская прокуратура попросила у суда ордер на арест экс-зампрокурора Мособласти </p>
+<p> // </p>
+<p> NEWSru.com </p>
+<p> // </p>
+<p> В мире </p>
+<p> // </p>
+<p> 3 января 2012 г. </p>
+<p> СМИ: Беглого зампрокурора Игнатенко задержали за новогодним столом </p>
+<p> // </p>
+<p> NEWSru.com </p>
+<p> // </p>
+<p> В мире </p>
+<p> // </p>
+<p> 3 января 2012 г. </p>
+<p> Польские спецслужбы задержали на курорте беглого зампрокурора Подмосковья, обвиняемого по "игорному делу" </p>
+<p> // </p>
+<p> NEWSru.com </p>
+<p> // </p>
+<p> В России </p>
+<p> // </p>
+<p> 2 января 2012 г. </p>
+<p> Каталог NEWSru.com: </p>
+<p> Информационные интернет-ресурсы </p>
+<p> Досье NEWSru.com </p>
+<p> : </p>
+<p> Европа </p>
+<p> // </p>
+<p> Польша </p>
+<p> // </p>
+<p> Россия </p>
+<p> //<![CDATA[ yandex_partner_id = 43120; yandex_site_bg_color = 'E6E6E6'; yandex_stat_id = 1215138; yandex_site_charset = 'utf-8'; yandex_ad_format = 'direct'; yandex_font_size = 0.9; yandex_font_family = 'arial'; yandex_direct_type = 'flat'; yandex_direct_limit = 4; yandex_direct_bg_color = 'E6E6E6'; yandex_direct_title_color = '0000FF'; yandex_direct_url_color = '006A29'; yandex_direct_all_color = '333333'; yandex_direct_text_color = '000000'; yandex_direct_hover_color = '0016A6'; yandex_direct_favicon = false; document.write('<sc'+'ript type="text/javascript" src="http://an.yandex.ru/system/context.js"></sc'+'ript>'); //]]> </p>
+<p> Последняя новость NEWSru.com – 10:26 </p>
+<p> Навальный ждет обвинительного приговора: собрал тюремный баул и приготовил тапочки </p>
+<p> // </p>
+<p> В России </p>
+<p> Досье NEWSru.com: </p>
+<p> Партии и политики </p>
+<p> / </p>
+<p> Общество </p>
+<p> / </p>
+<p> Навальный, Алексей </p>
+<p> <!-- if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); } if (typeof(document.referrer) != 'undefined') {   if (typeof(afReferrer) == 'undefined') {     afReferrer = escape(document.referrer);   } } else {   afReferrer = ''; } var addate = new Date();  document.write('<scr' + 'ipt type="text/javascript" src="http://ads.adfox.ru/173617/prepareCode?p1=bezms&amp;p2=envv&amp;pct=a&amp;pfc=a&amp;pfb=a&amp;pr=' + pr +'&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;prr=' + afReferrer + '"><\/scr' + 'ipt>'); // --> </p>
+<p> <!-- if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); } if (typeof(document.referrer) != 'undefined') {   if (typeof(afReferrer) == 'undefined') {     afReferrer = escape(document.referrer);   } } else {   afReferrer = ''; } var addate = new Date();  document.write('<scr' + 'ipt type="text/javascript" src="http://ads.adfox.ru/173617/prepareCode?p1=bezmt&amp;p2=envv&amp;pct=a&amp;pfc=a&amp;pfb=a&amp;pr=' + pr +'&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;prr=' + afReferrer + '"><\/scr' + 'ipt>'); // --> </p>
+<p> <!-- var random = Math.floor(Math.random() * 1000000000); document.write('<scr' + 'ipt language="JavaScript" src="http://engine.media-networks.ru/code?pid=2297&gid=454&oin=1&rid=' + random +'"></scr' + 'ipt>'); // --> </p>
+<p> <!-- var random = Math.floor(Math.random() * 1000000000); document.write('<scr' + 'ipt language="JavaScript" src="http://engine.media-networks.ru/code?pid=2298&gid=454&oin=1&rid=' + random +'"></scr' + 'ipt>'); // --> </p>
+<p> <!-- var random = Math.floor(Math.random() * 1000000000); document.write('<scr' + 'ipt language="JavaScript" src="http://engine.media-networks.ru/code?pid=2299&gid=454&oin=1&rid=' + random +'"></scr' + 'ipt>'); // --> </p>
+<p> // <!-- if(typeof(VongoMediaWorker)=="undefined" && document.getElementById("VongoMediaGateway")==null){ (function() { var s = document.createElement("script"); s.id = "VongoMediaGateway"; s.type = "text/javascript"; s.async = true; s.src = "http://cdn.vongomedia.ru/www/delivery/worker.js?_=" + Math.floor(Math.random()*99999999999); var x = document.getElementsByTagName("head")[0]; x.appendChild(s, x); })(); } // --> </p>
+<p> Среда, 10 апреля 2013 г. </p>
+<p> Последняя новость – 10:26 </p>
+<p> Все права на материалы и новости, опубликованные на сайте NEWSru.com, охраняются в соответствии с законодательством РФ. </p>
+<p> Допускается цитирование без согласования с редакцией не более 50% от объема оригинального материала, с обязательной прямой гиперссылкой на страницу, с которой материал заимствован. Гиперссылка должна размещаться непосредственно в тексте, воспроизводящем оригинальный материал NEWSru.com, до или после цитируемого блока. </p>
+<p> Обратная связь: </p>
+<p> редакция сайта </p>
+<p> / </p>
+<p> служба технической поддержки </p>
+<p> / </p>
+<p> рекламный отдел </p>
+<p> Прайс-лист на размещение рекламы </p>
+<p> Правила баннерного обмена </p>
+<p> Подписка на новости (RSS) </p>
+<p> © </p>
+<p> NEWSru.com – самые быстрые новости </p>
+<p> 2000-2013 </p>
+<p> <!-- if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); } var addate = new Date(); document.write('<iframe src="http://ads.adfox.ru/715/getCode?p1=cni&amp;p2=nj&amp;p3=a&amp;p4=a&amp;pucn=a&amp;pfc=a&amp;pfb=a&amp;pr=' + pr + '&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;py=a" frameBorder="0" width="200" height="377" marginWidth="0" marginHeight="0" scrolling="no" style="border: 0px; margin: 0px; padding: 0px;"><a href="http://ads.adfox.ru/715/goDefaultLink?p1=cni&amp;p2=nj" target="_top"><img src="http://ads.adfox.ru/715/getDefaultImage?p1=cni&amp;p2=nj" border="0" alt=""><\/a><\/iframe>'); //--> </p>
+<p> <!-- if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); } var addate = new Date(); document.write('<iframe src="http://ads.adfox.ru/715/getCode?p1=cjn&amp;p2=mq&amp;p3=a&amp;p4=a&amp;pucn=a&amp;pfc=a&amp;pfb=a&amp;pr=' + pr + '&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;py=a" frameBorder="0" width="200" height="300" marginWidth="0" marginHeight="0" scrolling="no" style="border: 0px; margin: 0px; padding: 0px;"><a href="http://ads.adfox.ru/715/goDefaultLink?p1=cjn&amp;p2=mq" target="_top"><img src="http://ads.adfox.ru/715/getDefaultImage?p1=cjn&amp;p2=mq" border="0" alt=""><\/a><\/iframe>'); //--> </p>
+<p> мНБНЯРХ ялх2 </p>
+<p> (function() {     var sc = document.createElement('script'); sc.type = 'text/javascript'; sc.async = true;     sc.src = 'http://js.smi2.ru/data/js/68597.js'; sc.charset = 'utf-8';     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc, s);   }()); </p>
+<p> <!-- if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); } if (typeof(document.referrer) != 'undefined') {   if (typeof(afReferrer) == 'undefined') {     afReferrer = escape(document.referrer);   } } else {   afReferrer = ''; } var addate = new Date();  document.write('<scr' + 'ipt type="text/javascript" src="http://ads.adfox.ru/173617/prepareCode?p1=belcs&amp;p2=emzm&amp;pct=a&amp;pfc=a&amp;pfb=a&amp;pr=' + pr +'&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;prr=' + afReferrer + '"><\/scr' + 'ipt>'); // --> </p>
+<p> <!-- //var width=0; //width=screen.width; //if (width >= 1000) {     document.getElementById('stakan').style.display = 'block'; //} // --> </p>
+<p> var _exchange_vars = {key: 'ee85874b16a6a5f23fec6d46dc0fd582'}; (function(){ var s = document.createElement("script"); s.async = true; s.src = "http://b.adinch.com/static/sdk/sdk.js"; document.getElementsByTagName("head")[0].appendChild(s); })(); </p>

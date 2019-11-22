@@ -1,0 +1,131 @@
+<p> Many office workers suffer chronic boredom - irishhealth.com </p>
+<p> <!-- function jumpmenuChange(obj) {  var dest = obj.options[obj.selectedIndex].value;  document.location = dest; } function DoPoll() {  document.pollform.submit(); } function DoSearch() {  if (document.searchform.ss.text != '') {  	document.searchform.submit();  } } // --> </p>
+<p> #advertisment { 	position:absolute; 	width: 930px; 	margin-left: auto; 	margin-right: auto; 	top: 26px; } </p>
+<p> window.fbAsyncInit = function() {         FB.init({appId: '116214205101696', status: true, cookie: true,                  xfbml: true});       };       (function() {         var e = document.createElement('script');         e.type = 'text/javascript';         e.src = document.location.protocol +           '//connect.facebook.net/en_GB/all.js';         e.async = true;         document.getElementById('fb-root').appendChild(e);       }()); </p>
+<p> <!-- if (window.adgroupid == undefined) { 	window.adgroupid = Math.round(Math.random() * 1000); } document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|257|2459185|0|225|ADTECH;loc=100;target=_blank;key=20226;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>'); //--> </p>
+<p> <!-- BANNER ROTATOR var how_many_ads = 2 var now = new Date() var sec = now.getSeconds() var ad = sec % how_many_ads; ad +=1;  //******************* AD NUMBER ONE ****************  if (ad==1){  url="https://www.irishhealth.com/cvt";  alt="Child Immunisation Tracker";  banner="/banner_ad/child_imm.gif";  width="185"; height="90"; }  //******************* AD NUMBER TWO ****************  if (ad==2) {  url="/topic.html?topicsect=18";  alt="Eye Channel";  banner="/banner_ad/eye_channel.gif";  width="185"; height="90"; }  //******************* AD NUMBER THREE ****************  if (ad==3) {  url="/pollen_cnt.html";  alt="Pollen Alert";  banner="/banner_ad/small_pollen.gif";  width="185"; height="90"; }   //document.write('<center>'); document.write('<a href=\"' + url + '">'); document.write('<img src=\"' + banner + '\" width=') document.write(width + ' height=' + height + ' '); document.write('alt=\"' + alt + '\" border=0><br>'); //document.write('</center>'); --> </p>
+<p> 149,342 registered members </p>
+<p> Login/Register </p>
+<p> &nbsp </p>
+<p> Logout </p>
+<p> Update My Details </p>
+<p> Home </p>
+<p> Health </p>
+<p> Topics </p>
+<p> Features/ </p>
+<p> Opinion </p>
+<p> Health </p>
+<p> Calculators </p>
+<p> Health </p>
+<p> Clinics </p>
+<p> Find a </p>
+<p> Professional </p>
+<p> Medical </p>
+<p> Q&As </p>
+<p> Discussions </p>
+<p> Online </p>
+<p> Video </p>
+<p> Immunisation </p>
+<p> Tracker </p>
+<p> Rate My </p>
+<p> Hospital </p>
+<p> Welcome to irishhealth.com (12 Jan, 2012) </p>
+<p> Quickfind </p>
+<p> - Take me to - </p>
+<p> Child Immunisation Tracker </p>
+<p> Contact Us </p>
+<p> Discussions/Your View </p>
+<p> Downloadable Health Resources </p>
+<p> Features/Opinion </p>
+<p> Find a Health Professional </p>
+<p> Health Calculators </p>
+<p> Health Clinics </p>
+<p> Health Topics </p>
+<p> Health Website Links </p>
+<p> Home </p>
+<p> In Case of Emergency </p>
+<p> Irishhealth Site Search </p>
+<p> Medical Dictionary </p>
+<p> Medical Q&As </p>
+<p> News </p>
+<p> On-line Polls </p>
+<p> Online Video Resources </p>
+<p> Patient Support Groups </p>
+<p> Podcasts </p>
+<p> Rate My Hospital </p>
+<p> Site Map </p>
+<p> World News </p>
+<p> Home </p>
+<p> Many office workers suffer chronic boredom </p>
+<p> #myGallery {   width: 320px !important;   height: 250px !important;   margin: auto; }  #myGallery, #myGallerySet, #flickrGallery {         width: 460px;         height: 345px;         z-index:5;         border: 1px solid #CCC; }  .jdGallery .slideInfoZone {         position: absolute;         z-index: 10;         width: 100%;         margin: 0px;         left: 0;         bottom: 0;         height: 40px;         background: #333;         color: #fff;         text-indent: 0;         overflow: hidden; } .jdGallery .slideInfoZone h2 {         font-size: 10%;         margin: 0;         padding :0;         font-weight: bold;         color: inherit; }  .jdGallery .slideElement {         width: 100%;         height: 100%;         background-color: #fff;         background-repeat: no-repeat;         background-position: center center;         background-image: url('img/loading-bar-black.gif'); } </p>
+<p> function startGallery() {   var myGallery = new gallery($('myGallery'), {     timed: false,     showCarousel: false      } ); document.getElementById('myGalleryWrapper').style.visibility='visible'; } window.addEvent('domready',startGallery); </p>
+<p> one-quarter of office workers experienced chronic boredom in their jobs </p>
+<p> ADVERTISEMENT </p>
+<p> Related News </p>
+<p> Bad managers are bad for the heart... </p>
+<p> Poor team spirit in work ups depression... </p>
+<p> 'Weekend effect' due to greater freedom... </p>
+<p> HSE work to rule set to end... </p>
+<p> Working overtime 'is bad for the heart'... </p>
+<p> Work absenteeism 'a serious issue'... </p>
+<p> Print </p>
+<p> Email </p>
+<p> Many office workers suffer chronic boredom </p>
+<p> [Posted: Thu 12/01/2012 by </p>
+<p> Deborah Condon </p>
+<p> www.irishhealth.com </p>
+<p> ] </p>
+<p> As many as one in four office workers suffer chronic boredom while working, with many choosing unhealthy options to deal with this, a new study has found. </p>
+<p> UK researchers assessed the boredom levels of over 100 office workers and asked them how they coped with this. </p>
+<p> The study revealed that one-quarter experienced chronic boredom in their jobs and some of the most common ways of coping with this were to drink coffee or eat chocolate. Workers were also more likely to drink alcohol if they had experienced a boring day. </p>
+<p> Boredom also affected working ability. Almost eight in 10 workers believed that they lost concentration if bored, while at least half said they made mistakes in their jobs if bored. </p>
+<p> The researchers from the University of Central Lancashire indicated that the main cause of boredom was 'an undemanding workload'. </p>
+<p> "Managers should look at ways of reducing sources of workplace boredom and at encouraging healthier ways of coping. Reducing the sources of boredom could involve enrichment programmes such as job rotation, multi-skilling and empowerment. Encouraging healthier ways of coping could include education or providing healthy snacks and drinks in canteens," they suggested. </p>
+<p> Details of these findings were presented at the annual conference of the British Psychological Society's Division of Occupational Psychology in Chester. </p>
+<p> Print </p>
+<p> Email </p>
+<p> To join the discussion, register by clicking </p>
+<p> here </p>
+<p> QUICK LINKS: </p>
+<p> asthma </p>
+<p> | </p>
+<p> arthritis </p>
+<p> | </p>
+<p> psoriasis </p>
+<p> | </p>
+<p> crohn's </p>
+<p> | </p>
+<p> heart </p>
+<p> | </p>
+<p> epilepsy </p>
+<p> | </p>
+<p> eczema </p>
+<p> | </p>
+<p> osteoporosis </p>
+<p> | </p>
+<p> pregnancy </p>
+<p> | </p>
+<p> depression </p>
+<p> | </p>
+<p> alzheimer </p>
+<p> | </p>
+<p> cancer </p>
+<p> | </p>
+<p> anxiety </p>
+<p> | </p>
+<p> overweight </p>
+<p> About Irishhealth.com </p>
+<p> | </p>
+<p> Privacy Policy </p>
+<p> | </p>
+<p> Contact us </p>
+<p> | </p>
+<p> Why Register? </p>
+<p> | </p>
+<p> Terms of Use/Disclaimer </p>
+<p> | </p>
+<p> Site Map </p>
+<p> Copyright © 2012. All rights reserved. We subscribe to the principles of the Health On the Net Foundation </p>
+<p> var sc_project=2558283;  var sc_invisible=0;  var sc_partition=24;  var sc_security="88b407b3"; </p>
+<p> var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); </p>
+<p> try { var pageTracker = _gat._getTracker("UA-6603205-1"); pageTracker._trackPageview(); } catch(err) {} </p>

@@ -1,0 +1,767 @@
+<p> JANRAIN.SSO.CAPTURE.check_login({ 		sso_server: 'https://sso.canada.com', 		client_id: 'p4s35uatbvmhb7u4tej9ut9zt5yf8xtd', 		redirect_uri: 'http://'+window.location.hostname+'/scripts/sso/postlogin.ashx', 		logout_uri: 'http://'+window.location.hostname+'/scripts/sso/logout.ashx?type=providers', 		xd_receiver: 'http://'+window.location.hostname+'/xdcomm.html' 	}); </p>
+<p> CDMScriptManager.load('/js/jquery-1.2.6.min.js'); 	CDMScriptManager.load('/js/slider.js'); </p>
+<p> CDMScriptManager.load('/js/pluck/pluckLocal.js'); </p>
+<p> CDMScriptManager.load(pluckScriptUrl);      CDMScriptManager.load('/js/pluck/pluck.js'); </p>
+<p> var _sf_startpt=(new Date()).getTime() </p>
+<p> .pluck-comm .pluck-user-persona { 			display: block !important; 		} </p>
+<p> Fertility doctors shouldn't forget unborn children </p>
+<p> #leaderboard { text-align:right } #leaderboard .ad { text-align:right } </p>
+<p> function getCookies() { return ""; } </p>
+<p> Array.prototype.uniqueAry = function ()                         {                             var r = new Array();                             o:for(var i = 0, n = this.length; i < n; i++)                             {                                 for(var x = 0, y = r.length; x < y; x++)                                 {                                     if(r[x]==this[i])                                     {                                         continue o;                                     }                                 }                                 r[r.length] = this[i];                             }                             return r;                         }                          function getCookie(cookieName)                         {                             var dc = document.cookie;                              //load external cookies from .canada.com if not currently on .canada.com                             if (location.hostname.match(/\.canada\.com$/gi) == null)                                 dc += ";" + getCookies(); //append to existing document cookie                              var cookie_str = ""; //this string will contain the value of the cookie name                             var needle = "[A-Za-z0-9_-]*" + cookieName + "[A-Za-z0-9_-]*=[^;]+";                             var regex = new RegExp(needle, "gi");                             var matches = dc.match(regex);                             if (matches != null)                             {                                 for (var x = 0; x < matches.length; x++)                                     matches[x] = matches[x].substring(matches[x].indexOf("=")+1).replace(new RegExp("[\\s]+$", "g"), ""); //remove keyname prefix and trim                                 cookie_str = matches.join(",");                                 matches = cookie_str.split(",");                                 matches = matches.uniqueAry(); //remove duplicates                                 cookie_str = matches.join(";") + ";";                             }                             return unescape(cookie_str);                         }                          function getAdCookie()                         {                             return getCookie("adcookie");                         }                          function setSurroundCookie(value)                         {                             document.cookie = "surroundId=" + escape(value) + "; path=/";                         }                          function getSurroundCookie()                         {                             var dc = document.cookie;                             var prefix = "surroundId=";                             var begin = dc.indexOf("; " + prefix);                             if (begin == -1)                             {                                 begin = dc.indexOf(prefix);                                 if (begin != 0) return null;                             }                             else                             {                                 begin += 2;                             }                             var end = document.cookie.indexOf(";", begin);                             if (end == -1) end = dc.length;                             return unescape(dc.substring(begin + prefix.length, end));                         }                          // Setup for surround session.                         var adid = ""; // used in the ad to start a surround session                         var surroundTag = getSurroundCookie(); // Get surround session id from the cookie                         if(surroundTag == null) // check if there was a surround session id in the cookie                         {                             surroundTag = "";                         }                         else                         {                             surroundTag = "srnd="+surroundTag+";"; // finish setting up the key-value for the ad tags                         }                          //Setup for adcookie.                         var adcookieTag = getAdCookie(); // Get the ad cookie string </p>
+<p> adcookieTag = typeof(adcookieTag) != 'undefined' ? adcookieTag : '';                         dartad_tile = typeof(dartad_tile) != 'undefined' ? dartad_tile + 1 : 1;                         var dartad_url = "http://ad.ca.doubleclick.net/N3081/adj/ch_bh.com/health/story;loc=theTop;loc=top;sz=468x60,728x90;dcopt=ist;kw=ron;kw=health;nk=print;pr=ch;ck=health;page=story;kw=ch;tile="+dartad_tile+";"+adcookieTag+surroundTag+"ord=43827184?"; // script ad code with adcookie, used for debug                         document.write('<script language="JavaScript1.1" src="http://ad.ca.doubleclick.net/N3081/adj/ch_bh.com/health/story;loc=theTop;loc=top;sz=468x60,728x90;dcopt=ist;kw=ron;kw=health;nk=print;pr=ch;ck=health;page=story;kw=ch;tile='+dartad_tile+';'+adcookieTag+surroundTag+'ord=43827184?"><\/script>'); </p>
+<p> if(adid != "") // check if the ad should start a surround session only if a surround session has not yet started                         {                             surroundTag = "srnd="+adid+";"; // setup the key-value for a surround session                             setSurroundCookie(adid); // store the surround session id in a cookie.                         } </p>
+<p> Â </p>
+<p> Â </p>
+<p> Weather Centre </p>
+<p> Â </p>
+<p> Â </p>
+<p> Â </p>
+<p> -30°C </p>
+<p> Â </p>
+<p> Ice crystals </p>
+<p> Calgary </p>
+<p> Detailed Forecast </p>
+<p> Â </p>
+<p> Start Home Delivery </p>
+<p> Subscriber Services </p>
+<p> Digital Edition </p>
+<p> Mobile Products </p>
+<p> Make Us Your Homepage </p>
+<p> canada.com network </p>
+<p> Newspapers </p>
+<p> National Post </p>
+<p> Victoria Times Colonist </p>
+<p> The Province (Vancouver) </p>
+<p> Vancouver Sun </p>
+<p> Edmonton Journal </p>
+<p> Calgary Herald </p>
+<p> Regina Leader-Post </p>
+<p> Saskatoon StarPhoenix </p>
+<p> Windsor Star </p>
+<p> Ottawa Citizen </p>
+<p> The Gazette (Montreal) </p>
+<p> DOSE </p>
+<p> Postmedia Community Publishing </p>
+<p> Nanaimo Daily News </p>
+<p> function handlePostLogin() { 		// change the login status bar to reflect a logged in state 		jQuery.getScript("http://"+window.location.hostname+"/scripts/sso/user.ashx?format=json&callback=renderLoginStatusBar");  		if((window.location+"").indexOf("/members/account-verified.html") > -1 || (window.location+"").indexOf("/members/cancel-deletion.html") > -1 || (window.location+"").indexOf("/members/reset-password-complete.html") > -1) window.location="/index.html"; 		else window.location.reload(); 	}  	function handlePostLogout() { 		// change the login status bar to reflect a logged out state 		jQuery.getScript("http://"+window.location.hostname+"/scripts/sso/user.ashx?format=json&callback=renderLoginStatusBar"); 		 		if((window.location+"").indexOf("edit-profile.html") > -1) window.location="/index.html"; 		else window.location.reload(); 	}  	function dologout() { 		// create the hidden logout iframe 		var src = 'http://'+window.location.hostname+'/scripts/sso/logout.ashx?iframe=true'; 		jQuery('<iframe id="iframe_logout" style="visibility:hidden;display:none" frameborder="0" hspace="0" scrolling="no" src="' + src + '"></iframe>').appendTo('body'); 	}  	function renderLoginStatusBar(user) { 		var user = user.User; 		var statusBarHtml = "";  		if (user.IsLoggedIn) { 			statusBarHtml += "<ul>"; 			statusBarHtml += "	<li>Hi " + user.DisplayName + "</li>"; 			statusBarHtml += " " + profileLink; 			statusBarHtml += "	<li><a href=\"javascript:dologout();\">Sign Out</a></li>"; 			statusBarHtml += "</ul>"; 		} 		else { 			statusBarHtml += "<ul>"; 			statusBarHtml += "	<li><a href=\"javascript:light.mask(jQuery('body'),light.getHtml('user_reg_internal_1t'));\">Log in</a></li>"; 			statusBarHtml += "	<li><a href=\"javascript:light.mask(jQuery('body'),light.getHtml('user_reg_internal_1t'));\">Register</a></li>"; 			statusBarHtml += "</ul>"; 		} 		document.getElementById("loginstatusbarchild").innerHTML = statusBarHtml; 	} </p>
+<p> jQuery.getScript("http://"+window.location.hostname+"/scripts/sso/user.ashx?format=json&callback=renderLoginStatusBar"); </p>
+<p> Calgary Herald </p>
+<p> Main callout pointer for calgaryherald.com </p>
+<p> Main callout pointer for calgaryherald.com </p>
+<p> more Â» </p>
+<p> Â </p>
+<p> Â </p>
+<p> Â </p>
+<p> Weather Centre </p>
+<p> Â </p>
+<p> Â </p>
+<p> Â </p>
+<p> -30°C </p>
+<p> Â </p>
+<p> Ice crystals </p>
+<p> Calgary </p>
+<p> Detailed Forecast </p>
+<p> Â </p>
+<p> Quick Links: </p>
+<p> Shopping </p>
+<p> , </p>
+<p> Obituaries </p>
+<p> , </p>
+<p> Horoscopes </p>
+<p> Search </p>
+<p> YellowPages </p>
+<p> Find a business or person on: </p>
+<p> CDMScriptManager.load("http://www.calgaryherald.com/js/autocomplete/jquery.autocomplete.min.js"); </p>
+<p> function doSearch() { 				var q = document.getElementById("q").value.replace(/ /g,"+"); 				if (q.length == 0) { 					alert("Please enter your search criteria"); 					return; 				} 				var dname = document.domain;  				if ( dname=="driving.ca") { 					document.location.href="http://www.driving.ca/calgary/search/search.html?q=" + escape(q); 					} 				else { 					document.location.href="http://www.calgaryherald.com/search/search.html?q=" + escape(q); 				} 			} 		 			//FAST WAVE 1 			//add javascript to hook up search text box in header 			//NOTE:  the url to the autocomplete service (app.qa.canada.com/search/search.svc/autocomplete)  			///      will need to be changed to the production url for go-live  			//set up autocomplete on search box in header 			jQuery(document).ready(function() { 				jQuery("#q").autocomplete("http://app.canada.com/search/search.svc/autocomplete", { 					dataType: 'jsonp', 					parse: function(data) { 						var rows = new Array(); 						data = data.Terms; 						for(var i=0; i<data.length; i++){ 							rows[i] = { data:{Term:data[i]}, value:data[i], result:data[i] }; 						} 						return rows; 					}, 					resultsClass: "fast_wave_results", 					formatItem: function(row, i, n) { 						return  row.Term; 					}, 					cacheLength: 0, 					extraParams: { 						format: "json" 					}, 					minChars: 1, 					max: 10, 					highlight: function(value, term) { 						var pos = value.toLowerCase().indexOf(term.toLowerCase()); 						return (pos > 0)?"<b>" + value.substring(0,pos) + "</b>" + value.substring(pos, term.length) + "<b>" + value.substring(pos + term.length) + "</b>":value.substring(0, term.length) + "<b>" + value.substring(pos + term.length) + "</b>"; 					}, 					scroll: false, 					selectFirst: false 				});  			}); </p>
+<p> Home </p>
+<p> News </p>
+<p> In News </p>
+<p> Home </p>
+<p> Calgary </p>
+<p> Data Centre </p>
+<p> Alberta </p>
+<p> Politics </p>
+<p> National </p>
+<p> World </p>
+<p> Videos </p>
+<p> Neighbours </p>
+<p> Crime </p>
+<p> Top Stories </p>
+<p> Â </p>
+<p> Calgary couple describe 'horrific experience' aboard sinking Costa Concordia (video) </p>
+<p> Â </p>
+<p> Â </p>
+<p> Laurence and Andrea Davis had just finished their appetizers when a loud bang echoed through the dining room of the luxury cruise ship. </p>
+<p> Â </p>
+<p> Video: Costa Concordia survivors return home </p>
+<p> Calgary couple swims to shore after cruise ship runs aground in Italy </p>
+<p> Italian cruise ship captain ordered back on board by Coast Guard </p>
+<p> Cruise disaster sounds alarm on industry </p>
+<p> Dozens missing as cruise ship slips on rocks </p>
+<p> Husband saved wife's life in disaster </p>
+<p> Why women before men? Sexism on the high seas? </p>
+<p> Captain accused of 'reckless manoeuvre,' abandoning ship </p>
+<p> 70 passengers plan class action suit over Italy cruise wreck </p>
+<p> Explosions used in hunt for 29 missing on Italian liner </p>
+<p> Weather </p>
+<p> Â </p>
+<p> Calgarians endure 'Blue Monday' for an even chillier Tuesday </p>
+<p> Weather warnings issued across the country </p>
+<p> Local Information </p>
+<p> Weather </p>
+<p> Traffic </p>
+<p> Digital Edition </p>
+<p> Today's Paper & Archive </p>
+<p> More in News </p>
+<p> Opinion </p>
+<p> In Opinion </p>
+<p> Home </p>
+<p> Herald Blogs </p>
+<p> Local Bloggers </p>
+<p> Letters </p>
+<p> Submit a Letter </p>
+<p> Columnists </p>
+<p> Editorials </p>
+<p> Editorial Cartoon </p>
+<p> Editorials </p>
+<p> Â </p>
+<p> Editorial: Political parties canât always trace suspect contributions </p>
+<p> Â </p>
+<p> Â </p>
+<p> The extent to which the Alberta Tories are culpable for receiving illegal donations is debatable. PC party president Bill Smith says the party is being made a scapegoat for the mistakes of others, while... </p>
+<p> Â </p>
+<p> Editorial </p>
+<p> Â </p>
+<p> Editorial: Good riddance to gag law </p>
+<p> Editorial: Healing in Hobbema </p>
+<p> Editorial: Stampede should try to keep log building </p>
+<p> The skinny on losing weight </p>
+<p> Editorial: A king needs his crown </p>
+<p> Editorial: Hate to happen </p>
+<p> Editorial: Gay marriage firestorm a legal, not homophobic, issue </p>
+<p> Comment </p>
+<p> Columnist </p>
+<p> Â </p>
+<p> Corbella: Still digging out from Edâs bad education... </p>
+<p> Breakenridge: Election flexibility gives Alberta Tories... </p>
+<p> Corbella: Losing jobs an invalid claim against pipeline... </p>
+<p> Remington: Brian Masonâs power play might have legs... </p>
+<p> More in Opinion </p>
+<p> Business </p>
+<p> In Business </p>
+<p> Home </p>
+<p> Real Estate </p>
+<p> Energy </p>
+<p> Money </p>
+<p> Markets on FP </p>
+<p> Top Stories </p>
+<p> Â </p>
+<p> Deteriorating global economy will slow pace of Canadian growth, Bank of Canada says </p>
+<p> Â </p>
+<p> Â </p>
+<p> The Bank of Canada has kept its key interest rate on hold, warning the global economy has "deteriorated" and that will slow the pace of growth in this country. </p>
+<p> Â </p>
+<p> Energy 		   Â Â» </p>
+<p> Â </p>
+<p> Ewart: Stephen Harper cools relations with Dalai Lama as he woos China </p>
+<p> Electricity use in Alberta set to break record </p>
+<p> WestJet planning new regional airline to match Air Canada in smaller cities </p>
+<p> Appetite for retail space strong in Calgary market </p>
+<p> Energy </p>
+<p> Northern Gateway </p>
+<p> Â </p>
+<p> 'Outsiders' delaying Northern Gateway pipeline hearings... </p>
+<p> Ewart: Stephen Harper cools relations with Dalai Lama... </p>
+<p> Iran digs in with oil warning to Saudi Arabia </p>
+<p> Electricity use in Alberta tonight set to break record... </p>
+<p> More in Business </p>
+<p> Sports </p>
+<p> In Sports </p>
+<p> Home </p>
+<p> Flames/Hockey </p>
+<p> Football </p>
+<p> Baseball </p>
+<p> Curling </p>
+<p> Golf </p>
+<p> MMA </p>
+<p> Lacrosse </p>
+<p> Rodeo/Chucks </p>
+<p> College/High School </p>
+<p> Soccer </p>
+<p> Spruce Meadows </p>
+<p> Top Stories </p>
+<p> Â </p>
+<p> Coach exhorts Flames to become road warriors </p>
+<p> Â </p>
+<p> Â </p>
+<p> Sutters wants team to have ‘junkyard-dog mentality’ </p>
+<p> Â </p>
+<p> Flamesâ Comeau hopes to click on new line </p>
+<p> Flames look to simplify things as road woes continue </p>
+<p> Game Day: Calgary at San Jose </p>
+<p> Flames happy with young goalie prospectâs progress </p>
+<p> Flames forced to juggle lines in quest for offence </p>
+<p> Johnson: Sutter as surly and abrasive as he ever was </p>
+<p> Sutter brothers downplay rivalry </p>
+<p> Darryl Sutter's Kings snap Flamesâ home win streak </p>
+<p> Follow Vicki Hall on Twitter </p>
+<p> NHL </p>
+<p> Â </p>
+<p> Flames look to simplify things as road woes continue </p>
+<p> Flamesâ Comeau hopes to click on new line </p>
+<p> Game Day: Calgary at San Jose </p>
+<p> Milos Raonic rolls into Australian Open second round </p>
+<p> Claybrooks poised to coach Stampsâ defensive line </p>
+<p> Nadal, Federer on semifinal collision course at Australian Open </p>
+<p> Jets topple flat Senators </p>
+<p> Features </p>
+<p> WHL </p>
+<p> Â </p>
+<p> Flames happy with young goalie prospectâs progress </p>
+<p> Crosby will never be The Kid again </p>
+<p> Nadal, Federer on semifinal collision course at Australian... </p>
+<p> Oiler captain struggling to find net </p>
+<p> More in Sports </p>
+<p> Entertainment </p>
+<p> In Entertainment </p>
+<p> Home </p>
+<p> Celebrity </p>
+<p> Movies </p>
+<p> Television </p>
+<p> TV Listings </p>
+<p> Swerve Calgary </p>
+<p> Theatre </p>
+<p> Music </p>
+<p> Books </p>
+<p> Local Festivals </p>
+<p> Top Stories </p>
+<p> Â </p>
+<p> Calgary composer and playwright David Rhymer weaves together three decades of song </p>
+<p> Â </p>
+<p> Â </p>
+<p> Before David Cronenberg ever made A Dangerous Method, Calgary theatre audiences knew Why Freud Feinted. </p>
+<p> Â </p>
+<p> Video: Calgary composer, playwright David Rhymer weaves together three decades of song </p>
+<p> More arts and entertainment news </p>
+<p> More theatre news </p>
+<p> Entertainment 		   Â Â» </p>
+<p> Â </p>
+<p> Laurie Anderson offers intimate tour of Cantos </p>
+<p> Barenaked Lady Kevin Hearn bares all </p>
+<p> Gallery: Ricky Gervais's Top 10 celebrity jabs from the 2012 Globes </p>
+<p> The Artist and The Descendants clean up at Golden Globes </p>
+<p> Celebrity </p>
+<p> Kelsey Grammer </p>
+<p> Â </p>
+<p> Kelsey Grammer, wife expecting twins </p>
+<p> Russell Brand cites Kurt Vonnegut to address Katy ... </p>
+<p> Stephen Colbert for president? </p>
+<p> Photos: Celebrities arriving at the Golden Globes </p>
+<p> More in Entertainment </p>
+<p> Life </p>
+<p> In Life </p>
+<p> Home </p>
+<p> Hers </p>
+<p> Food </p>
+<p> Taste Alberta </p>
+<p> Family </p>
+<p> Fashion & Beauty </p>
+<p> Pets </p>
+<p> Green Guide </p>
+<p> Comics & Diversions </p>
+<p> Mike Holmes </p>
+<p> Top Stories </p>
+<p> Â </p>
+<p> Edmonton parents find ways to beat the stink of âhockey stankâ </p>
+<p> Â </p>
+<p> Â </p>
+<p> Denise Miller comes to collect her son after his hockey game but abruptly stops in the doorway of the dressing room as if she’s walked into an invisible wall. She pinches her nose with her fingers... </p>
+<p> Â </p>
+<p> Cleaning smelly hockey equipment </p>
+<p> Â </p>
+<p> Gallery: Top Ten things NOT to do if you want to retire early </p>
+<p> When parental protection goes into overdrive </p>
+<p> Gardening trends for 2012 </p>
+<p> Start the press </p>
+<p> Scientists prove why booze is fun </p>
+<p> Copy Kate Beckinsale's natural hair and makeup </p>
+<p> Simple ways to 'green' your design </p>
+<p> Features </p>
+<p> Kickstart 2012 		   Â Â» </p>
+<p> Â </p>
+<p> Kickstart Your 2012 </p>
+<p> Help 'Make Death Wait' - and WIN! </p>
+<p> Click here to see our HERS winter issue </p>
+<p> Handset a flash from the past for your cellphone </p>
+<p> More in Life </p>
+<p> Health </p>
+<p> In Health </p>
+<p> Home </p>
+<p> Herald Health Club </p>
+<p> Women </p>
+<p> Men </p>
+<p> Family & Child </p>
+<p> Seniors </p>
+<p> Sexual Health </p>
+<p> Diet   Fitness </p>
+<p> Top Stories </p>
+<p> Â </p>
+<p> Broken heart boosts risk of heart attacks: Study </p>
+<p> Â </p>
+<p> Â </p>
+<p> Grief over the death of a loved one can cause a huge spike in a person's risk of heart attack, especially in the early days after the loss, says a U.S. study. </p>
+<p> Â </p>
+<p> Depression can elevate risk of heart disease: Study </p>
+<p> Aspirin not worth risks for healthy women: Study </p>
+<p> Low salt intake also linked to heart-disease deaths: Study </p>
+<p> Alcohol linked to better survival after heart attack </p>
+<p> Higher testosterone may equal lower heart risks </p>
+<p> Health </p>
+<p> Â </p>
+<p> Vitamin B may offer a boost to memory </p>
+<p> Acupuncture little better than 'sham' for migraine </p>
+<p> Forgetful 'senior moments' start in 40s, U.K. study finds </p>
+<p> 12 accessible superfoods for 2012 </p>
+<p> Health Club </p>
+<p> Fitness </p>
+<p> Â </p>
+<p> To optimize exercise, heed your heart rate training... </p>
+<p> Begin 2012 on a healthy note </p>
+<p> Calorie counters fooled by 'side-salad illusion' </p>
+<p> More in Health </p>
+<p> Technology </p>
+<p> In Technology </p>
+<p> Home </p>
+<p> Personal Tech </p>
+<p> Gaming </p>
+<p> Tech-Biz </p>
+<p> Internet </p>
+<p> Environment </p>
+<p> Space </p>
+<p> Science </p>
+<p> Best of YouTube </p>
+<p> Top Stories </p>
+<p> Â </p>
+<p> File sharing is a religion in Sweden </p>
+<p> Â </p>
+<p> Â </p>
+<p> Sweden dealt a symbolic blow to the global fight against digital music and film piracy by recognizing a group that promotes file-sharing across the Internet as a religion. </p>
+<p> Â </p>
+<p> Follow canada.com Tech on Twitter </p>
+<p> A look at five legal cases that defined the year in music </p>
+<p> Users choked up over Internet throttling </p>
+<p> U.S. piracy fight spills into Canada </p>
+<p> Google and Facebook have jitters over online piracy law </p>
+<p> U.S vote on anti-piracy act delayed </p>
+<p> Piracy act loses support in U.S. </p>
+<p> Yahoo! Answers </p>
+<p> Â </p>
+<p> The idiocy of Yahoo! Answers </p>
+<p> Phobos-Grunt Mars probe crashes into Pacific </p>
+<p> Rosie O'Donnell's dead shark pics cause controversy </p>
+<p> Beijing shoppers denied iPhone 4S, egg Apple store </p>
+<p> Science </p>
+<p> Galapagos Turtle </p>
+<p> Â </p>
+<p> Extinct Galapagos turtle may be alive </p>
+<p> Possible lost world found in Lake Huron </p>
+<p> New Super Soldier ants created by McGill </p>
+<p> First genetically modified monkeys born in U.S </p>
+<p> More in Technology </p>
+<p> Travel </p>
+<p> In Travel </p>
+<p> Home </p>
+<p> Trip Ideas </p>
+<p> Tools & Tips </p>
+<p> Community </p>
+<p> Destination Guides </p>
+<p> Ski Guide </p>
+<p> Top Stories </p>
+<p> Â </p>
+<p> Gallery: 32 places to visit when you retire </p>
+<p> Â </p>
+<p> Â </p>
+<p> Here are the top 32 places that everyone should have on their to-see bucket list. </p>
+<p> Â </p>
+<p> Travel: 2012 </p>
+<p> Â </p>
+<p> 30 reasons to get up & go in 2012 </p>
+<p> St. Barths can be outrageously expensive, but it doesn't have to be </p>
+<p> Local Stories </p>
+<p> Travel: Spas </p>
+<p> Â </p>
+<p> Beauty and body treatments at spas close to Montreal... </p>
+<p> Snowshoeing: A foray into the white pale of winter </p>
+<p> War of 1812 bicentennial offers a wealth of historic... </p>
+<p> The Thompson hotel is well placed for exploring Toronto... </p>
+<p> More in Travel </p>
+<p> Jobs </p>
+<p> In Jobs </p>
+<p> Home </p>
+<p> Search Jobs </p>
+<p> Resources </p>
+<p> Post Jobs </p>
+<p> Jobseekers </p>
+<p> Employer Login </p>
+<p> Top Employers </p>
+<p> Oil, Gas and Engineering Jobs </p>
+<p> Top Stories </p>
+<p> Â </p>
+<p> Most stressful jobs of 2012 </p>
+<p> Â </p>
+<p> Â </p>
+<p> New year, same work-related stress? U.S.-based job search website CareerCast has once again compiled its list of most stressful jobs, based on factors such as deadlines, competitiveness, income growth... </p>
+<p> Â </p>
+<p> Career Coach </p>
+<p> Â </p>
+<p> Career Coach: Hints to help bump up 2012 </p>
+<p> Never too late to alter bad habits </p>
+<p> More Stories </p>
+<p> Labour Unrest </p>
+<p> Â </p>
+<p> Microsoft probes labour unrest at Shanghai plant </p>
+<p> Human rights boss must clear 'toxic' air: Ottawa </p>
+<p> Tolerance tied to exposure: study </p>
+<p> Woodworking shop lets Grade 8 students try skilled... </p>
+<p> More in Jobs </p>
+<p> Cars </p>
+<p> In Cars </p>
+<p> Home </p>
+<p> New </p>
+<p> Used </p>
+<p> Weekly Specials </p>
+<p> Sell </p>
+<p> Research & Compare </p>
+<p> News & Events </p>
+<p> Videos </p>
+<p> Features </p>
+<p> Calgary Auto Show </p>
+<p> Top Stories </p>
+<p> Â </p>
+<p> Alberta year-over-year auto sales best in Canada </p>
+<p> Â </p>
+<p> Â </p>
+<p> Although new motor vehicle sales in November dipped in Alberta from the previous month, the province still had the best year-over-year rate of growth in the country. Statistics Canada said Monday that... </p>
+<p> Â </p>
+<p> Fuel economy is what sells </p>
+<p> Honda, Toyota predict big gains </p>
+<p> Civic still tops, but Ford claims 2011 sales crown </p>
+<p> Audi CEO: Auto industry faces tougher year in 2012 </p>
+<p> Corvett </p>
+<p> Â </p>
+<p> Photos: Chevrolet sends C6 Corvette off with collector edition </p>
+<p> BMW to invest about $900 million in U.S. plant by 2014 </p>
+<p> Class-action vs American Honda thrown out </p>
+<p> GM, German union in talks to restructure Opel </p>
+<p> China 2011 car sales rise at slowest annual pace </p>
+<p> European car makers must consolidate: Fiat CEO </p>
+<p> Features </p>
+<p> Toyota Tacoma </p>
+<p> Â </p>
+<p> Winter Diary, 2012 Toyota Tacoma V6 </p>
+<p> Auto Shows </p>
+<p> 2012 New Model Preview </p>
+<p> Special: Driver Education </p>
+<p> More in Cars </p>
+<p> Homes </p>
+<p> In Homes </p>
+<p> Home </p>
+<p> For Sale/Rent </p>
+<p> Real Estate Advice </p>
+<p> Home & style </p>
+<p> Home Renos </p>
+<p> Decorating </p>
+<p> Gardens </p>
+<p> Vacation Homes </p>
+<p> Mike Holmes </p>
+<p> Virtual Tour </p>
+<p> Top Stories </p>
+<p> Â </p>
+<p> Buyers go with the flow in Riverstone </p>
+<p> Â </p>
+<p> Â </p>
+<p> The successful southeast community of Cranston's final phase is about to be launched with Riverstone of Cranston, an estate neighbourhood with homes from the $600,000s to the $900,000s. </p>
+<p> Â </p>
+<p> Livability </p>
+<p> Â </p>
+<p> 'Experiment' set to revitalize area </p>
+<p> Albertan makes B.C. escape </p>
+<p> Industry eyeing a 'turnaround year' </p>
+<p> Condos on a roll ... again </p>
+<p> Montana magic </p>
+<p> Builders say goodbye to up and down 2011 </p>
+<p> Condo builders enjoying surge </p>
+<p> Features </p>
+<p> Home Style </p>
+<p> Â </p>
+<p> New Year, new home ideas that are yours </p>
+<p> Back in Canada: In need of home </p>
+<p> To slipcover or not? </p>
+<p> The blanc canvas </p>
+<p> More in Homes </p>
+<p> Classifieds </p>
+<p> In Classifieds </p>
+<p> Home </p>
+<p> Obituaries </p>
+<p> Announcements </p>
+<p> Vehicles </p>
+<p> Real Estate </p>
+<p> Rentals </p>
+<p> Jobs </p>
+<p> Pets </p>
+<p> For Sale </p>
+<p> Shopping </p>
+<p> This Week's Flyers </p>
+<p> Place an Ad </p>
+<p> FlyerCity </p>
+<p> Top Stories </p>
+<p> Â </p>
+<p> Alberta year-over-year auto sales best in Canada </p>
+<p> Â </p>
+<p> Â </p>
+<p> Although new motor vehicle sales in November dipped in Alberta from the previous month, the province still had the best year-over-year rate of growth in the country. Statistics Canada said Monday that... </p>
+<p> Â </p>
+<p> Fuel economy is what sells </p>
+<p> Honda, Toyota predict big gains </p>
+<p> Civic still tops, but Ford claims 2011 sales crown </p>
+<p> Audi CEO: Auto industry faces tougher year in 2012 </p>
+<p> Corvett </p>
+<p> Â </p>
+<p> Photos: Chevrolet sends C6 Corvette off with collector edition </p>
+<p> BMW to invest about $900 million in U.S. plant by 2014 </p>
+<p> Class-action vs American Honda thrown out </p>
+<p> GM, German union in talks to restructure Opel </p>
+<p> China 2011 car sales rise at slowest annual pace </p>
+<p> European car makers must consolidate: Fiat CEO </p>
+<p> Features </p>
+<p> Â </p>
+<p> Perfection Throughout! (HomesAndLand.com) $1,100,000... </p>
+<p> Rare Opportunity! (HomesAndLand.com) </p>
+<p> 1100 SF OFFICE CONDO 2nd floor, Sky (Calgary Herald... </p>
+<p> Condo bay 5576 sf, 900 sf office, 2 st (Calgary Herald... </p>
+<p> More in Classifieds </p>
+<p> Don't miss: </p>
+<p> Gallery: Golden Globes red carpet </p>
+<p> Special coverage: Awards shows </p>
+<p> Contest: COP bobsleigh </p>
+<p> Topic: Cruise ships </p>
+<p> Topic: Sarah Burke </p>
+<p> Â </p>
+<p> Â» </p>
+<p> RSS </p>
+<p> adcookieTag = typeof(adcookieTag) != 'undefined' ? adcookieTag : '';                         dartad_tile = typeof(dartad_tile) != 'undefined' ? dartad_tile + 1 : 1;                         var dartad_url = "http://ad.ca.doubleclick.net/N3081/adj/calgaryherald.com/health/story;loc=top;sz=960x42;kw=ron;kw=health;nk=print;pr=ch;ck=health;page=story;kw=ch;tile="+dartad_tile+";"+adcookieTag+surroundTag+"ord=43827184?"; // script ad code with adcookie, used for debug                         document.write('<script language="JavaScript1.1" src="http://ad.ca.doubleclick.net/N3081/adj/calgaryherald.com/health/story;loc=top;sz=960x42;kw=ron;kw=health;nk=print;pr=ch;ck=health;page=story;kw=ch;tile='+dartad_tile+';'+adcookieTag+surroundTag+'ord=43827184?"><\/script>'); </p>
+<p> if(adid != "") // check if the ad should start a surround session only if a surround session has not yet started                         {                             surroundTag = "srnd="+adid+";"; // setup the key-value for a surround session                             setSurroundCookie(adid); // store the surround session id in a cookie.                         } </p>
+<p> CDMScriptManager.load('/js/SpiderRedirect.js'); </p>
+<p> CDMScriptManager.load('/js/pluck/pluckLocal.js'); 				CDMScriptManager.load('http://pluck.calgaryherald.com/ver1.0/Direct/DirectProxy'); 				CDMScriptManager.load('/js/pluck/pluck.js');				 				CDMScriptManager.load('/js/adsync/adSyncLibrary.js'); </p>
+<p> if (typeof dartad_url != 'undefined') { 					var dd = adSync.ParseDartAdUrl(dartad_url); 					cwZoneAd=dd["zone"]; 					cwSiteAd =dd["site"]; 					cwKeyAd=dd["keyValues"]; 				}else { 					cwSiteAd = "ch_bh.com"; // plug in the Ad site variable 					cwZoneAd= "health/story"; // plug in the ad zone. 					cwKeyAd="kw=ron;kw=health"; // plug in the Ad key words. 				} </p>
+<p> var addthis_pub = 'canada.com';  				function tabClick(eventText, hasVideo, id, classname, pause,syncAds) 				{	 					//the statsEvent and Ad Refresh have been disabled on the story tab clicks 					//I've left the code in the xsl (just commented out), in case the decision gets reversed. 									 					//omniture event 					//statsEvent(eventText);	 					 					//set tab 					if(hasVideo) 						switchTab(id,classname, pause); 					else 						setClass(id, classname);  					//refresh ads 					//if(syncAds) 						//adSync.TriggerAdSynch(); 				}  				function statsEvent(eventText) 				{ 					//omniture event 					s.prop38=s.pageName + eventText; 					s.events=''; 					void(s.t());				 				}  				function showTab(firstentrytype) 				{ 					var tab = getQueryVar('tab'); 					var tabclass = '';  					if (tab == 'PHOT' || (firstentrytype.indexOf('image/') != -1 && tab == '')) 						tabclass = 'story_photo_content'; 					else if (tab == 'VID' || ((firstentrytype == 'application/vnd.ooyala') && tab == '')) 						tabclass = 'story_video_content'; 					else if (tab == 'FLSH' || (firstentrytype == 'application/x-shockwave-flash' && tab == '')) 						tabclass = 'story_interactive_content';  					if (tabclass != '') 						setClass('storypage', tabclass); 				} 				function EmailThis(qs, emailViewer)  				{ 					var url = "http://" + window.location.hostname + window.location.pathname; 					var id = "";  					id = getQueryVar("id"); 					if (id != "") 					{ 						url = addQS(url, "id=" + id); 					} 					if (qs != "") 					{ 						url = addQS(url, qs); 					} 					if (typeof(emailViewer) == "undefined" || emailViewer == null || emailViewer == "") emailViewer = "/story_emailthis.html"; 					openWindow(emailViewer + '?referrer=' + encodeURIComponent(url), 'StoryEmailThis', 'scrollbars=yes,resizable=yes,width=550,height=380') 				} 				function getQueryVar(key)  				{ 					var qs = window.location.search.substring(1); 					var arrQS = qs.split("&"); 					var value = "";  					for (i=0; i<arrQS.length; i++) { 						var ft = arrQS[i].split("="); 						if (ft[0] == key) { 							value =  ft[1]; 						} 					}  					return value; 				} 				function addQS(theURL, QS) 				{ 					var url = theURL; 					if (QS != '') 					{ 						if (url.indexOf("?") == -1)	{ 							url += "?" + QS; 						}  						else { 							url += "%26amp;" + QS; 						} 					} 					return url; 				} 				function openWindow(theURL, WinName, WinFeatures) { 					window.open(theURL, WinName, WinFeatures); 				} 				function jumpToAnchor(anchor)  				{ 					window.location = String(window.location).replace(/\#.*$/, "") + anchor; 				} 				function showAd(story_elem, ad_elem, ad_wrapper, offset) { 					var eosPos = Y(story_elem); 					var adPos = Y(ad_wrapper); 					var showAd = false; 					var offsetPos = 0; 					 					if (eosPos >= adPos) 					{ 						showAd = true; 					} 					else 					{ 						offsetPos = eosPos + offset; 						if (offsetPos >= adPos) 						{ 							showAd = true; 						} 					}  					// write out ad include 					if (showAd == true) 					{ 					   document.getElementById(ad_elem).style.display = "block";  					} 				}				 				function X(id) { 					var obj = document.getElementById(id); 					var x = obj.offsetLeft  					while (obj = obj.offsetParent) x += obj.offsetLeft 					return x 				} 				function Y(id) { 					var obj = document.getElementById(id); 					var y = obj.offsetTop  					while (obj = obj.offsetParent) y += obj.offsetTop 					return y 				} </p>
+<p> CDMScriptManager.load("http://s9.addthis.com/js/widget.php?v=10"); </p>
+<p> Fertility doctors shouldn't forget unborn children </p>
+<p> Â </p>
+<p> Â </p>
+<p> By Juliet Guichon And Ian Mitchell, Calgary Herald </p>
+<p> January 17, 2012 </p>
+<p> Â </p>
+<p> Tweet </p>
+<p> stLight.options({ 				publisher:'8f205be9-8545-4fa3-a030-c83238b6a3e5', 				offsetLeft:'-265', 				onhover: false, 				embeds:'true', 		}); </p>
+<p> showTab("text/html"); </p>
+<p> Â </p>
+<p> function resizeImage() { 					var imgBox = document.getElementById('imageBox'); 					var photo = document.getElementById('storyphoto');  					if (imgBox != null && photo != null) 					{ 						if(photo.width >= 460)  						{ 							imgBox.className = 'imagesize460'; 						} 						else  						{ 							if(photo.width >= 300)  							{ 								imgBox.className = 'imagesize310'; 							} 							else  							{ 								imgBox.className = 'imageboxpadding'; 							} 							imgBox.style.width = photo.width + 'px'; 						} 					} 				} 				function getStoryFontSize() { 					var storyfontsize = getCookie('storyfontsize'); 					var storyfontimage = getCookie('storyfontimage');  					// use cookied value, if present 					if (storyfontsize != null) 					{ 						setClass('story_content',storyfontsize);  						if (storyfontimage != null) 						{ 							setClass('fontsizecontainer',storyfontimage);  						} 					} 					else	// default it to para14 if no cookie 					{ 						setClass('story_content','para14');  						setClass('fontsizecontainer','size02'); 					} 				} 				function setStoryFontSize(storyfontsize,storyfontimage) { 					setClass('story_content',storyfontsize);  					setClass('fontsizecontainer',storyfontimage); 					setCookie('storyfontsize', storyfontsize, '365', '/', '', ''); 					setCookie('storyfontimage', storyfontimage, '365', '/', '', ''); 				} 				function setCookie( name, value, expires, path, domain, secure ) { 					// set time 					var today = new Date(); 					today.setTime( today.getTime() );  					if ( expires ) 					{ 						expires = expires * 1000 * 60 * 60 * 24; //days 					} 					var expires_date = new Date( today.getTime() + (expires) );  					document.cookie = name + "=" + escape( value ) + 					( ( expires ) ? ";expires=" + expires_date.toGMTString() : "" ) +  					( ( path ) ? ";path=" + path : "" ) +  					( ( domain ) ? ";domain=" + domain : "" ) + 					( ( secure ) ? ";secure" : "" ); 				} 				function getCookie( check_name ) { 					// split this cookie up into name/value pairs 					var a_all_cookies = document.cookie.split( ';' ); 					var a_temp_cookie = ''; 					var cookie_name = ''; 					var cookie_value = ''; 					var b_cookie_found = false; // set boolean t/f default f 					 					for ( i = 0; i < a_all_cookies.length; i++ ) 					{ 						// split apart each name=value pair 						a_temp_cookie = a_all_cookies[i].split( '=' ); 						 						// and trim left/right whitespace while we're at it 						cookie_name = a_temp_cookie[0].replace(/^\s+|\s+$/g, ''); 					 						// if the extracted name matches passed check_name 						if ( cookie_name == check_name ) 						{ 							b_cookie_found = true; 							// we need to handle case where cookie has no value but exists (no = sign, that is): 							if ( a_temp_cookie.length > 1 ) 							{ 								cookie_value = unescape( a_temp_cookie[1].replace(/^\s+|\s+$/g, '') ); 							} 							// note that in cases where cookie is initialized but no value, null is returned 							return cookie_value; 							break; 						} 						a_temp_cookie = null; 						cookie_name = ''; 					} 					if ( !b_cookie_found ) 					{ 						return null; 					} 				} </p>
+<p> The Alberta College of Physicians and Surgeons has recently published standards and guidelines concerning in vitro fertilization. </p>
+<p> IVF is offered in Alberta by the Foothills Regional Fertility Clinic in Calgary and the Edmonton Fertility Centre. The college's initial and limited set of requirements ought to be followed by substantial guidelines that focus on the interests of the children to be created. </p>
+<p> The college assumed regulatory responsibility for Alberta fertility practitioners in the wake of the Supreme Court of Canada's 2010 decision to strike down the federal government's law licensing and regulating fertility clinics. </p>
+<p> Yet, relevant sections of the Assisted Human Re-production Act are still in force. In ringing tones, the preamble states, "The Parliament of Canada recognizes and declares that . . . the health and well-being of children born through the application of assisted human reproductive technologies must be given priority in all decisions respecting their use." </p>
+<p> Is this value shared by the college? Its first IVF guide-lines are focused solely on practice standards. </p>
+<p> It is important, to be sure, that the medical practitioners and the laboratory support staff have appropriate professional qualifications and that fertility clients be screened for infectious disease. Yet, guidelines need to go beyond these essential pre-requisites. </p>
+<p> The college requires re-cord keeping, but this, too, is limited in its detail. Sadly for children conceived by donated sperm, egg or embryo, the college has not yet required that the identity, and the medical, social and cultural history of the do-nor be recorded, preserved and then disclosed to the child at adulthood. This is standard in adoption and was recently litigated. </p>
+<p> Suing the British Columbia College of Physicians and Surgeons and the province of B.C., a donor-conceived person, Olivia Pratten, argued that her right to equal benefit of the law had been violated. </p>
+<p> The B.C. Supreme Court judge agreed, writing, "The evidence in this case . . . compels me to the conclusion that cutting off a child from half of his or her biological origins is not in that child's best interests." </p>
+<p> Given the B.C. judicial ruling, the Alberta college should agree that creating a record for children of their progenitors is vital. A re-cord helps create the family history that can guide both prevention of genetically transmitted disease and healthy identity formation. </p>
+<p> People conceived by donor gametes have been insisting for some time that such a record is their right. Architect Bill Cordray, who was conceived by donor sperm, writes, "No legislature or court gave a gynaecologist the power to deny me my basic identity. He and thousands of other fertility physicians and clinic directors have simply presumed to sever the genealogical connections of millions of people before they are even conceived, making it impossible for these same people, when they become autonomous adults, to gain access to these important ties. This arrogation of power with-out democratic due process is illegitimate, immoral and outrageous." </p>
+<p> The Alberta college has another opportunity to focus on children's interests by addressing the number of embryos a fertility practitioner may insert in women. Clearly, everyone wishes to prevent another "octomom" - the California 2009 birth of eight babies after IVF. But any multiple pregnancy - twins and triplets - can lead to more complications than singletons for the mother during pregnancy and premature birth. Babies born early can need intensive neonatal medical treatment. Some premature infants suffer long-term consequences and others do not survive. The cost of neonatal intensive care is very high. </p>
+<p> According to University of Montreal pediatric re-searchers Annie Janvier, Bridget Spelke and Keith J. Barrington, Canada has one of the highest rates of multiple deliveries after IVF in the world and "a mandatory policy of single embryo transfer would be of substantial benefit to the health of Canadian babies while still benefiting infer-tile couples." </p>
+<p> So it is time for the Alberta college to take a position regarding best practice in embryo transfer. Some fertility specialists believe that without public funding, multiple embryos will continue to be implanted. Do funding issues determine best medical practice in a profession that aims first to do no harm? </p>
+<p> The field of reproductive technology is highly specialized and can bring inestimable joy in helping people to create families. Nevertheless, standards are necessary and should be set by a committee that includes people conceived by these practices and a geneticist, developmental psychologist and neonatologist. </p>
+<p> The Alberta College of Physicians and Surgeons states that it values the privilege of self-regulation and working in a collegial, proactive manner with all external stakeholders. </p>
+<p> When will they do so regarding IVF standards and guidelines? </p>
+<p> Ultimately, and as the Canadian Supreme Court has ruled, provincial and territorial legislatures have jurisdiction to regulate assisted human reproduction. The Alberta government should ensure that, in all the decisions respecting the use of assisted human re-production, the health and well-being of children born through the application of assisted human reproductive technologies are given highest priority. </p>
+<p> Juliet Guichon is a senior associate in the Office of Medical Bioethics and Ian Mitchell is a professor of pediatrics. They are colleagues in the faculty of medicine at the University of Calgary. </p>
+<p> Â© Copyright (c) The Calgary Herald </p>
+<p> Â </p>
+<p> Â </p>
+<p> Â </p>
+<p> E-mail this Article </p>
+<p> Print this Article </p>
+<p> Share this Article </p>
+<p> Â </p>
+<p> Â </p>
+<p> Â </p>
+<p> Â </p>
+<p> Location refreshed </p>
+<p> var geoloc_service_domain = "app.canada.com"; 	var geoloc_postproxy_domain = window.location.hostname+""; 	CDMScriptManager.load('/js/geo_location.js'); </p>
+<p> Â </p>
+<p> Story Tools </p>
+<p> Â </p>
+<p> E-mail this Article </p>
+<p> Print this Article </p>
+<p> jQuery('#liComment').hide(); </p>
+<p> Â </p>
+<p> Font: </p>
+<p> * </p>
+<p> * </p>
+<p> * </p>
+<p> * </p>
+<p> * </p>
+<p> // load up cookied story font size 								getStoryFontSize(); </p>
+<p> Â </p>
+<p> Image: </p>
+<p> * </p>
+<p> * </p>
+<p> * </p>
+<p> * </p>
+<p> Â </p>
+<p> Â </p>
+<p> Â </p>
+<p> Â </p>
+<p> Â </p>
+<p> jQuery('#soundoff').addClass('hideCommentForm'); </p>
+<p> Â </p>
+<p> var playingAd; 		document.write("<img id='vid1' height='1' width='1'>"); 		function videoScore(evt){ 			playingAd=evt.data.isAd; 			document.getElementById("vid1").src="http://beacon.securestudies.com/scripts/beacon.dll?C1=1&C2=10276888&C3=3005660&C4=" + window.location.pathname.toLowerCase() + "&C5=&C6=&C7=" + escape(window.location.href) + "&C8=" + escape(document.title) + "&C9=" + escape(document.referrer) + "&rn=" + Math.floor(Math.random()*99999999); 		} 		if (typeof tpController != 'undefined') {  		   tpController.addEventListener("OnMediaStart", "videoScore"); 		} </p>
+<p> Related Topics </p>
+<p> Alberta </p>
+<p> Health and Fitness </p>
+<p> Infertility </p>
+<p> adcookieTag = typeof(adcookieTag) != 'undefined' ? adcookieTag : '';                         dartad_tile = typeof(dartad_tile) != 'undefined' ? dartad_tile + 1 : 1;                         var dartad_url = "http://ad.ca.doubleclick.net/N3081/adj/ch_bh.com/health/story;loc=top_box;loc=top;sz=250x250,300x250,300x600;kw=ron;kw=health;nk=print;pr=ch;ck=health;page=story;kw=ch;tile="+dartad_tile+";"+adcookieTag+surroundTag+"ord=43827184?"; // script ad code with adcookie, used for debug                         document.write('<script language="JavaScript1.1" src="http://ad.ca.doubleclick.net/N3081/adj/ch_bh.com/health/story;loc=top_box;loc=top;sz=250x250,300x250,300x600;kw=ron;kw=health;nk=print;pr=ch;ck=health;page=story;kw=ch;tile='+dartad_tile+';'+adcookieTag+surroundTag+'ord=43827184?"><\/script>'); </p>
+<p> if(adid != "") // check if the ad should start a surround session only if a surround session has not yet started                         {                             surroundTag = "srnd="+adid+";"; // setup the key-value for a surround session                             setSurroundCookie(adid); // store the surround session id in a cookie.                         } </p>
+<p> Most Popular News </p>
+<p> Most Read </p>
+<p> E-mailed </p>
+<p> Commented </p>
+<p> Vulcan murder: Investigators re-create trusting senior's final hours alive (video) </p>
+<p> WestJet looks to buy smaller planes, challenge Air Canada </p>
+<p> Olds College gets 100-car donation to mark its centennial </p>
+<p> Calgarians to sell worldâs largest cut emerald (video) </p>
+<p> Public school trustees reveal secret plan to revamp their duties </p>
+<p> Golden Globes: Best and Worst moments </p>
+<p> Â </p>
+<p> more </p>
+<p> Â» </p>
+<p> RSS </p>
+<p> Demand for electricity sets Alberta record twice this week </p>
+<p> Regulators say hydraulic fracturing may have caused oil spill on farm near Innisfail </p>
+<p> The surprising strength of Canadaâs pension funds </p>
+<p> Alberta woman dies in crash near Radium Springs </p>
+<p> Vulcan murder: Investigators re-create trusting senior's final hours alive (video) </p>
+<p> Calgary couple swims to shore after cruise ship runs aground in Italy </p>
+<p> Â </p>
+<p> more </p>
+<p> Â» </p>
+<p> RSS </p>
+<p> setMostCommented("mostCommented", 6, 15); </p>
+<p> Sponsored By </p>
+<p> Calgary Herald Headline News </p>
+<p> Sign up to receive daily headline news from the Calgary Herald. </p>
+<p> Submit </p>
+<p> Our Privacy Statement </p>
+<p> Diet and Fitness </p>
+<p> Child and Teen </p>
+<p> document.write('<script language="JavaScript1.1" src="http://player.ooyala.com/player.js?wmode=transparent&playerContainerId=player2Div&callback=pmplayer2.PlayerCallbackEvent&playerId=player2&width=300&height=226&embedCode=R0ODdkMjqWI788TuOg7TAHvHmu_nHD92&'+pmAd.get()+'" ><\/script>'); </p>
+<p> var pmplayer2;         	pmplayer2 = new ooYala.PMPlayer('player2', 'player2Div', 'pmplayer2', 'R0ODdkMjqWI788TuOg7TAHvHmu_nHD92', '300','226', "90x60", 4, true, true);                            pmplayer2.Init();                                                        	pmplayer2.SetUpTabs(); </p>
+<p> adcookieTag = typeof(adcookieTag) != 'undefined' ? adcookieTag : '';                         dartad_tile = typeof(dartad_tile) != 'undefined' ? dartad_tile + 1 : 1;                         var dartad_url = "http://ad.ca.doubleclick.net/N3081/adj/ch_bh.com/health/story;loc=bot_box;loc=bot;sz=250x250,300x250;kw=ron;kw=health;nk=print;pr=ch;ck=health;page=story;kw=ch;tile="+dartad_tile+";"+adcookieTag+surroundTag+"ord=43827184?"; // script ad code with adcookie, used for debug                         document.write('<script language="JavaScript1.1" src="http://ad.ca.doubleclick.net/N3081/adj/ch_bh.com/health/story;loc=bot_box;loc=bot;sz=250x250,300x250;kw=ron;kw=health;nk=print;pr=ch;ck=health;page=story;kw=ch;tile='+dartad_tile+';'+adcookieTag+surroundTag+'ord=43827184?"><\/script>'); </p>
+<p> if(adid != "") // check if the ad should start a surround session only if a surround session has not yet started                         {                             surroundTag = "srnd="+adid+";"; // setup the key-value for a surround session                             setSurroundCookie(adid); // store the surround session id in a cookie.                         } </p>
+<p> showAd('EoS', 'bigboxlower', 'bigboxwrapperlower', 10); </p>
+<p> <!-- 				 google_ad_client   = 'ca-pub-1718995873402338'; 				 google_ad_output   = 'js'; 				 google_max_num_ads = '3'; 				 google_hints       = 'health'; 				 google_safe        = 'high'; 				 google_kw_color    = '#E2A9A9'; 				 google_ad_channel  = 'calgary-herald-health-story'; 				 google_adtest = 'off'; 				 google_feedback = 'on'; 				// --> </p>
+<p> <!-- 				function google_ad_request_done(google_ads) { 					document.write('<div class="googleadwrapper">'); 					document.write('<div class="box_e5e5e5">'); 					document.write('<div class="box_content">'); 					document.write('<div class="section_title_no_line">'); 					document.write('<h3>'); 					document.write('<a href="' + google_info.feedback_url + '" target="_blank"><span>Ads by Google</span></a>'); 					document.write('</h3>'); 					document.write('</div>'); 					document.write('<div class="clear">&nbsp;</div>');   					var i;  					// Display each ad in turn 					for(i = 0; i < google_ads.length; ++i) { 						document.write('<div class="col_300">'); 						document.write('<div class="wrapper_10_10_10_10">'); 						document.write('<a target="_blank" class="toplink" href="' + google_ads[i].url +'"' + 'onmouseout="window.status=\'\'"' + 'onmouseover="window.status=\'go to ' + google_ads[i].visible_url + '\';return true;">'); 						document.write('<b>' + google_ads[i].line1 + '</b></a>'); 						document.write('<div class="clear">&nbsp;</div>'); 						document.write(google_ads[i].line2); 						document.write('<div class="clear">&nbsp;</div>'); 						document.write(google_ads[i].line3); 						document.write('<div class="clear">&nbsp;</div>'); 						document.write('<a target="_blank" href="' + google_ads[i].url + '"' + 'onmouseout="window.status=\'\'"' + 'onmouseover="window.status=\'go to ' + google_ads[i].visible_url + '\';return true;">' + google_ads[i].visible_url + '</a>'); 						document.write('</div>'); 						document.write('</div>'); 					} 					document.write('</div>'); 					document.write('</div>'); 					document.write('</div>'); 				} 			// --> </p>
+<p> Inside The Calgary Herald </p>
+<p> CDMScriptManager.load("/js/slider.js"); </p>
+<p> Â </p>
+<p> Sneak peek gallery: Mariah Carey, Jennifer Hudson and others at the BET Honors </p>
+<p> Â </p>
+<p> World's top 10 film festivals </p>
+<p> Â </p>
+<p> Gallery: Celebs caught at odd moments at the Golden Globes </p>
+<p> Â </p>
+<p> Gallery: Fashion stars of the Golden Globes </p>
+<p> Â </p>
+<p> 'Get back on board,' captain ordered </p>
+<p> Â </p>
+<p> Gallery: Canadian stamps honour Queen </p>
+<p> Â </p>
+<p> Stephen Colbert for president? </p>
+<p> Â </p>
+<p> Golden age at the Globes </p>
+<p> Â </p>
+<p> Man's massive mustard museum </p>
+<p> Â </p>
+<p> Hello, Lindsay Lohan ... itâs the tax man </p>
+<p> var FooterFeature_2_Object = null;                 jQuery(function() { 			FooterFeature_2_Object = new MultiSlider2('FooterFeature_2_Window', 'FooterFeature_2_Content', 'FooterFeature_2_Entry', 10, 5, 1500, 5);  			jQuery('#FooterFeature_2_LeftNavButton').click(function() { FooterFeature_2_Object.slideLeft('FooterFeature_2_Object');}) ; 			jQuery('#FooterFeature_2_RightNavButton').click(function() { FooterFeature_2_Object.slideRight('FooterFeature_2_Object');}) ; 		}); </p>
+<p> tynt={'ap': "Read more: "}; </p>
+<p> Home </p>
+<p> News </p>
+<p> Opinion </p>
+<p> Business </p>
+<p> Sports </p>
+<p> Entertainment </p>
+<p> Life </p>
+<p> Health </p>
+<p> Technology </p>
+<p> Travel </p>
+<p> Jobs </p>
+<p> Cars </p>
+<p> Homes </p>
+<p> Classifieds </p>
+<p> Don't Miss </p>
+<p> Gallery: Golden Globes red carpet </p>
+<p> Special coverage: Awards shows </p>
+<p> Contest: COP bobsleigh </p>
+<p> Topic: Cruise ships </p>
+<p> Topic: Sarah Burke </p>
+<p> Â </p>
+<p> Â» </p>
+<p> RSS </p>
+<p> Most Popular </p>
+<p> Vulcan murder: Investigators re-create trusting senior's final hours alive (video) </p>
+<p> WestJet looks to buy smaller planes, challenge Air Canada </p>
+<p> Olds College gets 100-car donation to mark its centennial </p>
+<p> Â </p>
+<p> Â» </p>
+<p> RSS </p>
+<p> Formats </p>
+<p> Sitemap / RSS </p>
+<p> Contests </p>
+<p> Blogs </p>
+<p> Columnists </p>
+<p> Photo Galleries </p>
+<p> Videos </p>
+<p> Mobile </p>
+<p> iPad App </p>
+<p> The Herald </p>
+<p> About Us </p>
+<p> Contact Us </p>
+<p> Work for Us </p>
+<p> Advertise with Us </p>
+<p> Subscribe to the Print Edition </p>
+<p> Herald Carrier Jobs </p>
+<p> Tools </p>
+<p> Search </p>
+<p> Search for a Job </p>
+<p> Buy/Sell a Car </p>
+<p> Real Estate Listings </p>
+<p> SwarmJam Sweet Deals </p>
+<p> Place a Classified Ad </p>
+<p> E-mail Alerts </p>
+<p> swervecalgary.com </p>
+<p> Flyercity.ca </p>
+<p> canada.com Logo </p>
+<p> About canada.com </p>
+<p> Privacy Statement </p>
+<p> Terms </p>
+<p> Copyright & Permissions </p>
+<p> © 2008 - 2011 Postmedia Network Inc. All rights reserved. </p>
+<p> Unauthorized distribution, transmission or republication strictly prohibited. </p>
+<p> function footerSearch() { 			var q = document.getElementById("f").value.replace(/ /g,"+"); 			if (q.length == 0) { 				alert("Please enter your search criteria"); 				return; 			} 			document.location.href="/search/search.html?q=" + escape(q); 		} </p>
+<p> document.getElementById("f").value = document.getElementById("q").value; </p>
+<p> var _publishflow_config = {     client_id: 'calgaryherald.com' }; (function() {     function execPublishflowLogger() {         var _element = document.createElement('script');         _element.setAttribute('language', 'javascript');         _element.setAttribute('type', 'text/javascript');         _element.setAttribute('src', 'http://s3.amazonaws.com/publishflow/javascript/media.js');         document.body.appendChild(_element);     }     var _onLoadMethod = window.onload;     window.onload = (typeof window.onload != 'function') ? execPublishflowLogger : function() {         _onLoadMethod();         execPublishflowLogger();     }; })(); </p>
+<p> /**Postmedia values**/ 	var chartbeatPath = window.location.pathname.split( '/' ); 	var chartbeatpage = chartbeatPath[chartbeatPath.length-1].substring(0,chartbeatPath[chartbeatPath.length-1].lastIndexOf('.')); 	var sectionName = ''; 	var authorName = '';      	if (chartbeatPath[1].lastIndexOf('.')==-1) 	sectionName = chartbeatPath[1];  	if (chartbeatpage == 'story') 	authorName = $j('#storyheader .name').text(); 	 	/**Chartbeat values**/ 	var _sf_async_config={};     /** CONFIGURATION START **/     _sf_async_config.uid = 19083;     _sf_async_config.domain = 'calgaryherald.com'; 	 	_sf_async_config.sections = sectionName;	//This to your Section name       _sf_async_config.authors = authorName;	//This to your Author name   	     /** CONFIGURATION END **/     (function(){       function loadChartbeat() {         window._sf_endpt=(new Date()).getTime();         var e = document.createElement('script');         e.setAttribute('language', 'javascript');         e.setAttribute('type', 'text/javascript');         e.setAttribute('src',            (('https:' == document.location.protocol) ? 'https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/' : 'http://static.chartbeat.com/') +            'js/chartbeat.js');         document.body.appendChild(e);       }       var oldonload = window.onload;       window.onload = (typeof window.onload != 'function') ?          loadChartbeat : function() { oldonload(); loadChartbeat(); };     })(); </p>
+<p> <!--                         /* You may give each page an identifying name, server, and channel on                         the next lines. */                         s.pageName='/health/story.html';                         s.server=window.location.hostname.toLowerCase();                         s.channel='health';                         s.pageType='';                         s.prop1='health';                         s.prop2='health';                         s.prop3='canwest';                         s.prop4='Non-Registered';                         s.prop5=s.prop4 + ': ' + s.pageName;                         s.prop6='Calgary Herald/FREE';                         s.prop7='Calgary Herald';                         s.prop8='6006897';                         s.prop9='';                         s.prop10='';                         s.prop11='';                         s.prop13='';                         s.prop23=document.title;                         s.prop24=s.prop8;                         s.prop25='story';                         s.prop26='health';                                     s.prop27='';                           s.prop28='';                          s.prop29='';                         s.prop36='News';                          s.prop37='ch_bh.com';                          s.prop43='';                         s.prop44='';                         /* E-commerce Variables */                                                  s.events='';                         s.products='';                         s.purchaseID='';                         s.transactionID = s.purchaseID;                                                  /* s.prop48 for story only */                         s.prop48='Juliet Guichon And Ian Mitchell, Calgary Herald';                                                                /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/                         var s_code=s.t();if(s_code)document.write(s_code)//--> </p>
+<p> <!--                         if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')                         //--> </p>

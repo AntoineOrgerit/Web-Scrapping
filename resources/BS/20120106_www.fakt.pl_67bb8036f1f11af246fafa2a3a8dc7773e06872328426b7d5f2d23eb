@@ -1,0 +1,336 @@
+<p> Mleko w czasie diety. Czy mleko jest tuczące - Fakt.pl </p>
+<p> jQuery(document).ready(function() {   	  /*    	$('#tagLoaderImg').hide(); 		$('#tagNameInput').autocomplete({          source: function(request, response) {             $.ajax({                 url: "/tag/tagiJSON.asp",                 type: "GET",                 contentType: "text/plain; charset=utf-8",                 //timeout:100,                 dataType: "json",                 data: {                     term: request.term                     //maxRows: 15                 }, 								beforeSend: function(data){ 									if($('#tagNameInput').val().length < 3){ 										$('#tagLoaderImg').hide(); 										return false; 									} 									else $('#tagLoaderImg').show(); 								},                 success: function(data) {                 		$('#tagLoaderImg').hide();                     response($.map(data, function(item) {                         return {                             label: item.tag,                             value: item.value                         }                     }))                 }             })         },         select: function(event, ui) {         	var url = "http://www.fakt.pl/tag/"+ui.item.value; 					$(location).attr('href',url);         }     });   // pogoda       $('#cityLoaderImg').hide(); 		$('#cityNameInput').autocomplete({          source: function(request, response) {             $.ajax({                 url: "/pogoda/cityJSON.asp",                 type: "GET",                 contentType: "text/plain; charset=uft-8",                 //timeout:100,                 dataType: "json",                 data: {                     term: request.term                     //maxRows: 15                 }, 								beforeSend: function(data){ 									if($('#cityNameInput').val().length < 3){ 										$('#cityLoaderImg').hide(); 										return false; 									} 									else $('#cityLoaderImg').show(); 								},                 success: function(data) {                 		$('#cityLoaderImg').hide();                     response($.map(data, function(item) {                         return {                             label: item.tag,                             value: item.value                         }                     }))                 }             })         },         select: function(event, ui) {         	//var url = "http://www.fakt.pl/pogoda/miasto.asp?mid="+ui.item.value;         	var url = "http://www.fakt.pl/"+ui.item.value;  					$(location).attr('href',url);         }     });  // pogoda 2      $('#cityLoaderImg2').hide(); 		$('#cityNameInput2').autocomplete({          source: function(request, response) {             $.ajax({                 url: "/pogoda/cityJSON.asp",                 type: "GET",                 contentType: "text/plain; charset=utf-8",                 //timeout:100,                 dataType: "json",                 data: {                     term: request.term                     //maxRows: 15                 }, 								beforeSend: function(data){ 									if($('#cityNameInput2').val().length < 3){ 										$('#cityLoaderImg2').hide(); 										return false; 									} 									else $('#cityLoaderImg2').show(); 								},                 success: function(data) {                 		$('#cityLoaderImg2').hide();                     response($.map(data, function(item) {                         return {                             label: item.tag,                             value: item.value                         }                     }))                 }             })         },         select: function(event, ui) {       //  	var url = "http://www.fakt.pl/pogoda/miasto.asp?mid="+ui.item.value;           var url = "http://www.fakt.pl/"+ui.item.value;  					$(location).attr('href',url);         }     }); */     //pollm fix   $('div.box350a').hide();     // menu          $("#eFDM ul#eFtopMnFull li a:first-child").addClass('tl');       $("#eFDM ul#eFtopMnFull li ul li a:first-child").removeClass('tl');       $("#eFDM li.stat").mouseover(function () {  $("#eFDM li.stat").removeClass("dynamic"); $(this).toggleClass("dynamic"); });       $("#eFDM li.stat").mouseout(function () {  $("#eFDM li.stat").removeClass("dynamic"); });       $("#eFDM li.selected").mouseover(function () {  $(this).addClass("dynamic"); });       $("#eFDM li.selected").mouseout(function () {  $(this).addClass("dynamic"); });    // najpopnow        $("#tbNwst").click(function () { $("a.nvtAbb").removeClass("selected"); $(this).toggleClass("selected"); $('.rc1a').show(); $('.rc1b').hide();});       $("#tbMost").click(function () { $("a.nvtAbb").removeClass("selected"); $(this).toggleClass("selected"); $('.rc1a').hide(); $('.rc1b').show();});    	$('.rc1a').tinyscrollbar();	   	$('.rc1b').tinyscrollbar();	   	$('.rc1b').hide();      // zakladki piekny wschod i faktomania     /*       $(".bgb1").click(function () { $('div.selected').slideUp(500); $('#bgmc1').addClass('selected'); $('#bgmc1').slideDown(700);});       $(".bgb2").click(function () { $('div.selected').slideUp(500); $('#bgmc2').addClass('selected'); $('#bgmc2').slideDown(700);});       $(".bgb3").click(function () { $('div.selected').slideUp(500); $('#bgmc3').addClass('selected'); $('#bgmc3').slideDown(700);});       $(".bgb4").click(function () { $('div.selected').slideUp(500); $('#bgmc4').addClass('selected'); $('#bgmc4').slideDown(700);});       $(".bgb5").click(function () { $('div.selected').slideUp(500); $('#bgmc5').addClass('selected'); $('#bgmc5').slideDown(700);});       $(".bgb6").click(function () { $('div.selected').slideUp(500); $('#bgmc6').addClass('selected'); $('#bgmc6').slideDown(700);});       $(".bgb7").click(function () { $('div.selected').slideUp(500); $('#bgmc7').addClass('selected'); $('#bgmc7').slideDown(700);});       */ 			$("#singleColumn .rc1a a").click(function(){ window.open(this.href); return false; }); 			$("#singleColumn .rc1b a").click(function(){ window.open(this.href); return false; });   			$('#srcminiinput').focus(function() { 			  if ( $(this).val() == "Szukaj") 			  $(this).val('');  			    });  			$('#srcminiinput').blur(function() {              if ( $(this).val() == "" )                 $(this).val('Szukaj'); 			    });            $("#newsLet .input1").focus(function() {              if ( $(this).val() == "Podaj adres email")                 $(this).val('');          });           $("#newsLet .input1").blur(function() {              if ( $(this).val() == "" )                 $(this).val('Podaj adres email');          });            $("#NewslBox .input1").focus(function() {              if ( $(this).val() == "Podaj adres email")                 $(this).val('');          });           $("#NewslBox .input1").blur(function() {              if ( $(this).val() == "" )                 $(this).val('Podaj adres email');          });   			$(function(){ 			  try { $(".HPGalCont").jCarouselLite({ 	         btnNext: ".HPGnext", 		       btnPrev: ".HPGprev", 		       visible: 4, 		       scroll: 2 		      });    	    $(".HPMovCont").jCarouselLite({ 	         btnNext: ".HPMnext", 		       btnPrev: ".HPMprev", 		       visible: 4, 		       scroll: 2 		      });           } catch(err){ return false;         }     		var n = $(".bigulHPclass li").length;   	  if (n > 1) {   		 	$(".HPBignext").css('visibility','visible');   			$(".HPBigprev").css('visibility','visible');   				$("#HAbxHPB").jCarouselLite({   	         btnNext: ".HPBignext",   		       btnPrev: ".HPBigprev",   		       visible: 1,   		       scroll: 1,   		       auto: 5000   				});   			}  			else {   			$(".HPBignext").hide();   			$(".HPBigprev").hide();   			$("#HAbxHPB").css('visibility','visible'); 			}   	    $(".HPMovContMini").jCarouselLite({         btnNext: ".HPMnextMini",         btnPrev: ".HPMprevMini",         visible: 3,         scroll: 2 	    });        $(".gallHPd").jCarouselLite({         btnNext: ".aGalHPNext",         btnPrev: ".aGalHPPrev",         visible: 3,         scroll: 1       });        $('.HPMovCont').removeClass("Hide");       $('.HPGalCont').removeClass("Hide");        $("#OBJ1").animate({"opacity": "1.0"},{duration: 5000}).animate({"opacity": "toggle"},{duration: 1500});       $("#OBJ2").animate({"opacity": "0.0"},{duration: 5000}).animate({"opacity": "toggle"},{duration: 1500}).animate({"opacity": "1.0"},{duration: 5000}).animate({"opacity": "toggle"},{duration: 1500});        $(".mvBimgXbtn").click(function () {  $("#mvBcont").hide(1500);});  			});    // PRZELEW FUNDACJAFAKTU    $(document).ready(function() { 		$(".zgodaShortOut").mouseover(function () { $('.zgodaLong').show(); }); 		$(".zgodaShortOut2").mouseover(function () { $('.zgodaLong2').show(); }); 		$(".zgodaShortOut").mouseout(function () { $('.zgodaLong').hide(); }); 		$(".zgodaShortOut2").mouseout(function () { $('.zgodaLong2').hide(); }); 		$(".zgodaShortOut").mouseleave(function () { $('.zgodaLong').hide(); }); 		$(".zgodaShortOut2").mouseleave(function () { $('.zgodaLong2').hide(); }); 	});  // PRZELEW FUNDACJAFAKTU KONIEC        			}); 					function moderateTopic(element,tId) { 						$('.moderateTopic').load('/artykuly/zgloszenieDoModeracji.asp?Watek='+tId); 	        	$('.moderateTopic').dialog({ 	        		title: 'Zgłoś do moderacji', 	            width:360, 	            closeOnEscape: true,               beforeclose: function() { $(".moderateTopic").dialog('destroy'); }, 	            height:160, 	            modal:true, 	            resizable:false, 	            draggable:false 						});  					}  					function MOnewsl(url){           	$('<iframe frameborder="0" class="DLGnewsl" id="DLGnewsl" src="'+url+'"></iframe>').dialog({           		title: 'Opis programu',               width:640,               closeOnEscape: true,               height:480,               modal:true,               resizable:false,               draggable:false, 							open: function (){ 								$('iframe.DLGnewsl').height( $(this).height() ); 								$('iframe.DLGnewsl').width( $(this).width()+320 ); 							}   					});         	}   					function MOTv(url){           	$('<iframe frameborder="0" class="DLGtvshow" id="DLGtvshow" src="'+url+'"></iframe>').dialog({           		title: 'Opis programu',               width:640,               closeOnEscape: true,               height:480,               modal:true,               resizable:false,               draggable:false, 							open: function (){ 								$('iframe.DLGtvshow').height( $(this).height() ); 								$('iframe.DLGtvshow').width( $(this).width()+320 ); 							}   					});         	}   					function MOnagroda(url){           	$('<iframe frameborder="0" class="DLGnagroda" id="DLGnagroda" src="'+url+'"></iframe>').dialog({           		title: 'Nagrody',               width:640,               closeOnEscape: true,               height:480,               modal:true,               resizable:false,               draggable:false, 							open: function (){ 								$('iframe.DLGnagroda').height( $(this).height() ); 								$('iframe.DLGnagroda').width( $(this).width()+320 ); 							}   					});         	}  					function MOFMania(url){           	$('<iframe frameborder="0" class="DLGfmania" id="DLGfmania" src="'+url+'"></iframe>').dialog({           		title: 'Nagrody',               width:640,               closeOnEscape: true,               height:480,               modal:true,               resizable:false,               draggable:false, 							open: function (){ 								$('iframe.DLGfmania').height( $(this).height() ); 								$('iframe.DLGfmania').width( $(this).width()+320 ); 							}   					});         	}   					function MOcustom(url){           	$('<iframe frameborder="0" class="DLGcustom" id="DLGcustom" src="'+url+'"></iframe>').dialog({           		title: 'Fakt STYL',               width:640,               closeOnEscape: true,               height:480,               modal:true,               resizable:false,               draggable:false, 							open: function (){ 								$('iframe.DLGcustom').height( $(this).height() ); 								$('iframe.DLGcustom').width( $(this).width()+320 ); 							}   					});         	}   // a to do czego sluzy, dlaczego nie jest opisane?  	var setCookie = function ( name, value) { 		var expires_date = new Date(); 		expires_date = expires_date.setFullYear(2012); 		expires_date = new Date(expires_date); 		var path = "/"; 		var cookieString = name + "=" +escape( value ) + 		"; expires=" + expires_date.toGMTString() + 		( ( path ) ? "; path=" + path : "" ); 		document.cookie = cookieString; 	}  	var getCookie = function( check_name ) { 		var a_all_cookies = document.cookie.split( ';' ); 		var a_temp_cookie = ''; 		var cookie_name = ''; 		var cookie_value = ''; 		var b_cookie_found = false; // set boolean t/f default f  		for ( i = 0; i < a_all_cookies.length; i++ ) 		{ 			a_temp_cookie = a_all_cookies[i].split( '=' );   			cookie_name = a_temp_cookie[0].replace(/^\s+|\s+$/g, '');  			if ( cookie_name == check_name ) 			{ 				b_cookie_found = true; 				if ( a_temp_cookie.length > 1 ) 				{ 					cookie_value = unescape( a_temp_cookie[1].replace(/^\s+|\s+$/g, '') ); 				} 				return cookie_value; 				break; 			} 			a_temp_cookie = null; 			cookie_name = ''; 		} 		if ( !b_cookie_found ) 		{ 			return null; 		} 	} 	 	// artykul sondy     function PllHideScore() { $('#PllQuestion').show(); $('#PllScore').hide(); }    function PllShowScore() { $('#PllScore').show(); $('#PllQuestion').hide(); }    function RateHideScore() { $('#ratingForm').show(); $('#ratingScore').hide(); }    function RateShowScore() { $('#ratingForm').hide(); $('#ratingScore').show(); }    function RateHideScoreArt() { $('#ratingFormArt').show(); $('#ratingScoreArt').hide(); }    function RateShowScoreArt() { $('#ratingFormArt').hide(); $('#ratingScoreArt').show(); }    function DLGcloseX() { $(document).dialog('destroy'); alert('aqq'); }    $(document).ready(function() {  		$('#HPMovBx').removeClass("cNtHide"); 		 		 		 		$('.HPRCmlCnt').show(); 		$('#HP GalBx').removeClass("cNtHide"); 		$('#HAbxHP').removeClass("cNtHide"); 		$("#eFDM li").removeClass("selected"); 		$('div.box350a').show(600);     $('#PllQuestion').show();      $(".mvBimgXbtn a").click(function () {  $('#mvBcont').fadeOut(1000); });  		$(".goF").click(function () {setCookie('sfcv','.goF'); if($("#srcminiinput2").val() != "Szukaj w Internecie") $("#srcminiinput").val( $("#srcminiinput2").val() ); $('#sinF').show(); $('#sinG').hide(); }); 		$(".goG").click(function () {setCookie('sfcv','.goG'); if($("#srcminiinput").val() != "Szukaj w www.fakt.pl") $("#srcminiinput2").val( $("#srcminiinput").val() ); $('#sinF').hide(); $('#sinG').show(); });   		var sfcv = getCookie('sfcv');//search form checked value ref 		if(sfcv) $(sfcv).click();//attr('checked', true);    	$("#widget_facebook").hover(function() { $("#widget_facebook").stop(true, false).animate({ right: "0" }, 500); },function(){ $("#widget_facebook").stop(true, false).animate({ right: "-307" }, 500); },500);  		}); </p>
+<p> var crtg_nid="1799";var crtg_cookiename="critaxpl"; function crtg_getCookie(c_name){var i,x,y,ARRcookies=document.cookie.split(";");for(i=0;i<ARRcookies.length;i++){x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);x=x.replace(/^\s+|\s+$/g,"");if(x==c_name){return unescape(y);}}return'';}var crtg_content=crtg_getCookie(crtg_cookiename);var crtg_rnd=Math.floor(Math.random()*99999999999);var crtg_url='http://dis.eu.criteo.com/dis/rtt.js?networkId='+escape(crtg_nid);crtg_url+='&cookieName='+escape(crtg_cookiename);crtg_url+='&rnd='+crtg_rnd;crtg_url+='&varName=crtg_content';var crtg_script=document.createElement('script');crtg_script.type='text/javascript';crtg_script.src=crtg_url;crtg_script.async=true;if(document.getElementsByTagName("head").length>0)document.getElementsByTagName("head")[0].appendChild(crtg_script);else if(document.getElementsByTagName("body").length>0)document.getElementsByTagName("body")[0].appendChild(crtg_script); </p>
+<p> Restrictions.add("CommentsForm.TytulKomentarza",100);Restrictions.add("CommentsForm.Komentarz",3096);Restrictions.add("CommentsForm.PodpisAutora",50); </p>
+<p> sas_tmstp=Math.round(Math.random()*10000000000); sas_pageid='8191/104992'; var sas_formatids = '9222,3348,5664,3282,3624,4302,3284,3288,3289,5026,3347'; sas_target=crtg_content; document.write('<scr'+'ipt src="http://diff3.smartadserver.com/call2/pubjall/' + sas_pageid + '/' + sas_formatids + '/' + sas_tmstp + '/' + escape(sas_target) + '?"></scr'+'ipt>'); </p>
+<p> var pp_gemius_identifier = new String('.F3rOXw0QFSE4cT2zWwq9JeA7xDUPCdQnCr5R16se1L.87'); </p>
+<p> {document.write('<script type="text/javascript" id="cafenews.pl#7648bfca304b70cf5006abd38e8fc43f"><\/script><div id="cafenews.pl#cvb64mnc8vg4jd8gksd653jkadg7j6"><\/div>');setTimeout(function(){var d=new Date();document.getElementById("cafenews.pl#7648bfca304b70cf5006abd38e8fc43f").src='http://webservices.cafenews.pl/mpl/Static/Static.js?id=cafenews.pl#cvb64mnc8vg4jd8gksd653jkadg7j6&d='+d.getFullYear()+d.getMonth()+d.getDate();},250);} </p>
+<p> Fakt.pl </p>
+<p> Koktajl24 </p>
+<p> Smak </p>
+<p> Pieniądze </p>
+<p> Gry online </p>
+<p> Fun Fakt </p>
+<p> if (typeof sas_manager != 'undefined') sas_manager.render(3282); </p>
+<p> Mleko w czasie diety. Czy mleko jest tuczące </p>
+<p> 10 kwietnia 2013 r. </p>
+<p> w fakt.pl </p>
+<p> w internecie </p>
+<p> Fundacja Faktu </p>
+<p> Horoskop </p>
+<p> Donosy </p>
+<p> Wideo </p>
+<p> Hity Netu </p>
+<p> Erotyka </p>
+<p> Mieszkania </p>
+<p> Fun Fakt </p>
+<p> Sklep </p>
+<p> Najnowsze </p>
+<p> Encyklopedia wiedzy </p>
+<p> Najpopularniejsze </p>
+<p> Wydarzenia </p>
+<p> Polska </p>
+<p> Świat </p>
+<p> Katastrofa </p>
+<p> Faktobus </p>
+<p> Polityka </p>
+<p> Opinie </p>
+<p> Gwiazdy </p>
+<p> Plotki </p>
+<p> Seriale </p>
+<p> Lokalne </p>
+<p> Białystok </p>
+<p> Gdańsk </p>
+<p> Katowice </p>
+<p> Kraków </p>
+<p> Łódź </p>
+<p> Poznań </p>
+<p> Pomorze Zachodnie </p>
+<p> Warszawa </p>
+<p> Wrocław </p>
+<p> Sport </p>
+<p> Piłka nożna </p>
+<p> Sporty walki </p>
+<p> Inne sporty </p>
+<p> Galerie </p>
+<p> Styl </p>
+<p> Zdrowie </p>
+<p> Dieta i Fitness </p>
+<p> Moda </p>
+<p> Uroda </p>
+<p> Kuchnia </p>
+<p> Licznik kalorii </p>
+<p> Kalkulator BMI </p>
+<p> Tabela kaloryczna </p>
+<p> Pieniądze </p>
+<p> Prawo </p>
+<p> Finanse </p>
+<p> Konsument </p>
+<p> Tanie kredyty </p>
+<p> Nieruchomości </p>
+<p> Informacje </p>
+<p> ze SKOK-ów </p>
+<p> Komputery </p>
+<p> Nowości </p>
+<p> Gry </p>
+<p> Gadżety </p>
+<p> Komputer Świat </p>
+<p> Auto </p>
+<p> Wiadomości </p>
+<p> Porady </p>
+<p> Plotki </p>
+<p> Gry </p>
+<p> if (typeof sas_manager != 'undefined') sas_manager.render(3624); </p>
+<p> Fakt.pl </p>
+<p> > </p>
+<p> Styl </p>
+<p> > </p>
+<p> Zdrowie aktualności </p>
+<p> › </p>
+<p> Mleko w czasie diety. Czy mleko jest tuczące </p>
+<p> Mleko pomaga schudnąć </p>
+<p> Słowa kluczowe: </p>
+<p> zdrowie </p>
+<p> , </p>
+<p> odchudzanie </p>
+<p> , </p>
+<p> mleko </p>
+<p> 30.12.2011, 08:16 </p>
+<p> Planując dietę odchudzającą nie rezygnuj z nabiału. Zwykłe mleko może przyspieszyć utratę kilogramów. </p>
+<p> $(document).ready(function() {$('a[rel="fb_share"]').click( function() {window.open( $(this).attr('href'),'title', 'width=400, height=300' );return false;});}); </p>
+<p> #fSBxT iframe {width: 110px !important;} </p>
+<p> Dziś polecamy </p>
+<p> Oni tak bardzo sie kochali. Tych ... </p>
+<p> Piecdziesiatki do ... </p>
+<p> Tak sie dorobili na padlinie </p>
+<p> Czartoryska dostanie te wille w ... </p>
+<p> Oddal zycie, by ratowac dziecko </p>
+<p> Kim Kardashian pokazala ciazowy ... </p>
+<p> Penelope Cruz w ciazy! </p>
+<p> if (typeof sas_manager != 'undefined') sas_manager.render(5664); </p>
+<p> Dziś w Koktajl24.pl polecamy </p>
+<p> Odważne legginsy z wycięciami </p>
+<p> Modne lato według Diane von Fürstenberg </p>
+<p> Zegarkami nakarmią głodne dzieci </p>
+<p> new ASWidget('leftrecipes',230,365); </p>
+<p> Mleko ma sporo zalet, ale wiele osób go nie lubi. Co więcej, niektóre osoby nie są w stanie strawić cukru zawartego w mleku, stąd po wypiciu zaledwie szklanki tego płynu, grożą im sensacje żołądkowe. Ale jeśli należysz do szczęśliwców, którzy mleko mogą pić bez obaw - nie rezygnuj z niego.Najważniejsze plusy są dwa. Przede wszystkim dostarczysz swojemu ciału dużo wapnia. </p>
+<p> <!-- google_ad_client = "ca-pub-5310645159024207"; /* Fakt  - ?rodek artykułu */ google_ad_slot = "1491797665"; google_ad_width = 336; google_ad_height = 280; //--> </p>
+<p> Ten pierwiastek jest ważny szczególnie dla kobiet. A to dlatego, że po menopauzie wiele pań zmaga się z osteoporozą. Dodatkowa dawka wapnia z mleka pomaga im dłużej zachować sprawność i zdrowe kości.Nie bez znaczenia jest również wpływ mleka na naszą figurę. Naukowcy przebadali osoby otyłe. Uczestnicy eksperymentu oprócz stosowania diety i zwiększonej aktywności fizycznej musieli codziennie pić mleko. Druga grupa obywała się bez tego napoju. Po ponad 20 miesiącach okazało się, że pijący mleko schudli kilka kilogramów więcej. </p>
+<p> przepisy na smaczne dania z mlekiem znajdziesz na www.smak.pl </p>
+<p> [Daniel Lenart] </p>
+<p> function createRateCookie(name,value,days){if (days) {var date = new Date();date.setTime(date.getTime()+(days*24*60*60*1000));var expires = "; expires="+date.toGMTString();	}else var expires = "";document.cookie = name+"="+value+expires+"; path=/";}function readRateCookie(cookieName){ RateHideScoreArt(); var nameEQ = cookieName + "="; var ca = document.cookie.split(';'); for(var i=0;i < ca.length;i++) { var c = ca[i]; while (c.charAt(0)==' ') c = c.substring(1,c.length); if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length); if (c==cookieName) RateShowScoreArt(); } }; </p>
+<p> ŚR. OCENA: </p>
+<p> 5 </p>
+<p> . GŁOSÓW: </p>
+<p> 1 </p>
+<p> ŚR. OCENA: </p>
+<p> 5 </p>
+<p> . GŁOSÓW: </p>
+<p> 1 </p>
+<p> if (typeof sas_manager != 'undefined') sas_manager.render(3348); </p>
+<p> if (typeof sas_manager != 'undefined') sas_manager.render(9222); </p>
+<p> $(document).ready(function() {      var absoffset =  $("div.pollhook").offset().top;      var polloffset =  $("div.mvswrap").offset().top;       var polloffset = polloffset + 100 ;       if ( polloffset > absoffset) {         $(".mvswrap").addClass("MVSposLo");       }       else        {         $(".mvswrap").addClass("MVSposHi");       }   }); </p>
+<p> var __nc_widgets = __nc_widgets || [];  var __nc_j = __nc_j || null;   __nc_widgets.push(['4196-3285-5E2C-1002-1SG3tz', 'fakt.pl', 'recommendation', 1, 1]);   (function() {  var __nc = document.createElement('script'); __nc.type = 'text/javascript'; __nc.async = true; __nc.id = 'Nextclick_Manager';  __nc.src = 'http://nextclick.pl/widget/widget.recommendation.1.js';  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(__nc, s);  })(); </p>
+<p> Zobacz też </p>
+<p> Palą kobiety żywcem! Dla urody! </p>
+<p> Obalone mity! Pij kranówę, nic ci nie ... </p>
+<p> Znaleźli cudowny lek w jajkach! Leczy... </p>
+<p> Więcej </p>
+<p> | </p>
+<p> Kanały RSS </p>
+<p> <!-- google_ad_client = "ca-pub-5310645159024207"; /* Fakt - pod 1szym komentarzem */ google_ad_slot = "8317060464"; google_ad_width = 336; google_ad_height = 280; //--> </p>
+<p> No pewnie Nocki , mozemy </p>
+<p> przeniesc sie na pisanie listow , moze na gg </p>
+<p> moj email- nastia4@o2.pl </p>
+<p> Mialam isc spac, ale zagladnelam na moj ulubiony temat, w filmie Ziemianie, niestety nie chodzi tylko o Ameryke, tak dzieje sie wszedzie, na calym swiecie. </p>
+<p> Pisz- pokaze Ci wiecej, co dzieje sie u nas w Polsce. </p>
+<p> Na naszym rodzimym podworku. Jak to wyglada w Uni.Moze sie zdziwisz,albo i nie. Zobaczymy. </p>
+<p> Pozdrawiam. </p>
+<p> 04.01.2012 23:46 </p>
+<p> ella </p>
+<p> Zgłoś do moderacji </p>
+<p> do ELLI </p>
+<p> obejrzałem ten film, zastanawia mnie czemu prawie wszystko mozna w ameryce zobaczyc z tych filmow. cieszy mnie ze to widzisz ale moge cie zapewnic ze teraz jak jestesmy w uni jak to nie obraz sie miasto ma o nas zdanie dostajemy mnostwo kasy za darmo, a nic nie robimy. ostatnio w radiu jak slyszymy o skladkach zdrowotnych niech beda skoro nieuczciwie </p>
+<p> jest. zgadzam sie na nie. ale niech mi taksowkarz nie mowi ze jego praca nie rozni sie od mojej. jestes weganka, nie smieje sie z tego czy cie ponizam bron boze, ale te rosliny co jesz tez trzeba wyhodowac </p>
+<p> a to tez niesie ze soba jakies konsekwencje srodkow chemicznych, nawozow  itp. czlowiek nawet jesli przyrownamy go do zwierzecia </p>
+<p> musi jesc </p>
+<p> zwierzeta tez jedza siebie nawzajem by przetrwac, to prawo natury od poczatku swiata. jedne sa roslinozerne inne miesozerne a czlowiek </p>
+<p> praktycznie jak swinia wszystkozerny. wracajac do naszej kochanej uni(dla rolnikow) zebys ty wiedziala jakie my mamy wymagania odnosnie hodowli </p>
+<p> ile musi miec miejsca </p>
+<p> krowa jakie dlugie stasnowisko, zbiorniki na wszystko </p>
+<p> standardy pomieszczen i wogole. co tyczy sie kazdeh hodowli. nie przecze ci w stanowisku ferm ale to sa inne gospodarsta, tez maja swoje normy, przy kurach wlasnie jest rok w ktorym musza zrobic wieksze klatki  kura itp. wiec choc tyle dla nich. swiat potrzebuje zywnosci jednak, tego nie zatrzymasz. ja czy ty swiata nie zmienimy. jesli chcesz pisac dalej </p>
+<p> mozemy nr gg wymienic </p>
+<p> lub maila </p>
+<p> 04.01.2012 19:21 </p>
+<p> noki </p>
+<p> Zgłoś do moderacji </p>
+<p> Ok ,Noki pogadamy :) </p>
+<p> Ja nie jestem znawca i ekspertem od hodowli zwierzat to prawda -ale  jestem przeciwna i to stanowczo chowu zwerzat na skale przemyslowa. Czyli ? fermy kurze klatkowe ,sciolkowe i jakiekolwiek inne , ktore i tak zawsze prowadza do smierci ( znecania sie nad zwierzetami, torturowania i wykorzystywania do maxymalnych mozliwosci) Wie Pan ile zyje krowa mleczna przecietnie chowana w takich kombinatach smierci - od 3 max 5 lat - ma pan krowke to doskonale orientuje sie jak dlugo moze zyc  - nawet do 25 lat ..dlaczego odbiera im sie ich dzieci po 2 dniach ??? niewiadomo gdzie ? dlaczego cielatka zabijane sa dla podpuszcki w serach zoltyych i innych jak sa alternatyne metody, dlaczego sa trzymane w ciasnych kojcach gdzie nie moga nawet sie poruszyc, dlaczego swinki kastruje sie na zywca ??? dlaczego obcina im sie uszy?  wie pan ze to jest bestialstwo !!!, potem idzie sie do kosciolka tak na pasterke pomodlic sie za kogo , za swoje umeczone zwierzeta ? </p>
+<p> Wie pan ze krowy, swinie i kazda matka czy ludzka czy zwierzeca kocha swoje dzieci tak samo mocno i cierpi z tego powodu ze odbiera im sie malenstwo, ze zabija sie na ich oczach. </p>
+<p> Bicie , katowanie , tortury to rzecz normalna w takich fabrykach smierci, obozach zaglady. </p>
+<p> Czy mysli pan ze taki czlowiek nie jest w stanie zrobic czegos podobnego drugiemu czlowiekowi . </p>
+<p> Co dzieje sie na jarmarkach w czasie handlu zwierzetami ??? </p>
+<p> Sa na to dowody , sa zdjecia, sa filmy. </p>
+<p> Stworzylismy naszym mniejszym braciom pieklo na ziemi. </p>
+<p> A oni maja takie samo prawo byc tu na naszej planecie. </p>
+<p> Przypominam , ciagle to powtarzam - we wszystkich religiach swiata jedno z najwazniejszych przykazan mowi - NIE ZABIJAJ!!- najbardziej ignorowane przez czlowieka- czy gdzies jest  napisane- z wyjatkiem tych co maja lapy, siersc , piora czy skrzela ??? </p>
+<p> NIe. Wiec jak biegamy tak do kosciola to moze i zacznijmy przestrzegac i to  przykazanie Boze co ? </p>
+<p> Jestem weganka, od wielu lat nie jem ciala zwierzat, i zadnych produktow od zwierzecych, jestem zdrowa, pracuje, nie latam po lekarzach, nie wydaje na koncerny farmaceutyczne. Dieta wegsnska wcale nie jest drozsza, a na pewno zdrowsza, a przede wszystkim wolna od okrucienstwa. </p>
+<p> Wychodze z zalozenia - ze sama nigdy nie moglabym zabic zadne zwierze , wiec nie moge tez dawac zlecenia i placic za wykonanie morderstwa na zwierzeciu i na moim przyjacielu. Bo przyjaciol sie nie je. </p>
+<p> Bardzo szanuje i kocham zwierzeta bo sa lepsze od nas ludzi. </p>
+<p> Nie wspomne o rozrywce ? cyrki, polowania, ZOO , rodea i inne ! </p>
+<p> Obejrzyjcie film Ziemianie dostepny na YT. </p>
+<p> Okrucienstwo i podlosc osiagnelo swoje apogeum na ziemi.I niestety sprawca jest ciagle nienasycony czlowiek. </p>
+<p> Zwierzeta przezywaja animals holocaust. </p>
+<p> I nalezy to zatrzymac! Jezeli nie otworzymy oczu to i dla nas sie to zle skonczy. </p>
+<p> A co do przytulania - wiem ze nie da sie wszystkich poglaskac, przytulic ,ale mowic do nich czule mozna a zwierzeta to czuja, bo sa takimi samymi istotami jak my , tylko nie moga i nie maja komu sie poskarzyc na swoj parszywy los. </p>
+<p> 03.01.2012 22:07 </p>
+<p> ella </p>
+<p> Zgłoś do moderacji </p>
+<p> noki </p>
+<p> wiecie </p>
+<p> co jest demokracja, każdy robi jak uważa i jak myśli. jasne ze nie zapomniałem o zwierzętach w święta, zawsze jeździ się na pasterkę wiec można podsluchać </p>
+<p> a swoja drogą nie jestem jakimś wielkim producentem </p>
+<p> ale gdybym przytulił każde zwierze </p>
+<p> to brakło by mi czasu na życie. pozdrawiam </p>
+<p> jesli ktos chce </p>
+<p> poznac te prawdziwa strone wsi to mozna popisac </p>
+<p> 03.01.2012 19:27 </p>
+<p> noki </p>
+<p> Zgłoś do moderacji </p>
+<p> A ja powtórzę raz jeszcze </p>
+<p> Wiecie, co to jest SSAK? Jaka jest różnica między ssakiem a na przykład gadem? </p>
+<p> I człowiek jest JEDYNYM SSAKIEM NA ZIEMI PIJĄCYM INNOGATUNKOWE MLEKO. I to po okresie niemowlęcym. </p>
+<p> Jeśli ktoś pije mleko, bo lubi, to niech sobie pije. Ale jeśli pije, bo mu się wydaje, że jest dla niego zdrowe, to niech sobie pogoogla, albo pogada z pierwszym lepszym dietetykiem a się zdziwi. A już namawianie do picia ze względów zdrowotnych jest działaniem na szkodę drugiego człowieka. </p>
+<p> Dla jasności - nie mówię o jogurtach czy maślankach - to jest inna bajka. Tu rozmawiamy o mleku. </p>
+<p> 03.01.2012 17:04 </p>
+<p> Mądrala </p>
+<p> Zgłoś do moderacji </p>
+<p> 1 </p>
+<p> | </p>
+<p> 2 </p>
+<p> | </p>
+<p> 3 </p>
+<p> | </p>
+<p> 4 </p>
+<p> Dodaj komentarz </p>
+<p> Tytuł komentarza: </p>
+<p> Twój podpis: </p>
+<p> if (typeof sas_manager != 'undefined') sas_manager.render(3284); </p>
+<p> Najnowsze </p>
+<p> Najpopularniejsze </p>
+<p> 08:10 </p>
+<p> Premier pod pomnikiem ofiar ... </p>
+<p> 08:00 </p>
+<p> Anastasi w nich wierzy </p>
+<p> 08:00 </p>
+<p> Horoskop na środę 10 kwietnia </p>
+<p> 07:44 </p>
+<p> Odważne legginsy z wycięciami </p>
+<p> 07:43 </p>
+<p> Układ zamknięty, czyli jak wójt ... </p>
+<p> 07:26 </p>
+<p> Pomyłka śledczych czy zbrodnia ... </p>
+<p> 07:16 </p>
+<p> Zostań Miss Wiosny Faktu </p>
+<p> 07:14 </p>
+<p> Wpadka w ”Anatomii ... </p>
+<p> 07:04 </p>
+<p> Anita Gargas: Oficjalna wersja ... </p>
+<p> 07:03 </p>
+<p> Polscy skoczkowie polecą do Egiptu </p>
+<p> 07:00 </p>
+<p> Boniek wściekły na policję </p>
+<p> 07:00 </p>
+<p> Legia traci gwiazdy </p>
+<p> 07:00 </p>
+<p> Lyon chce Krychowiaka </p>
+<p> 06:58 </p>
+<p> Liszowska znów urodzi w Szwecji </p>
+<p> 06:51 </p>
+<p> Prof. Artymowicz: Oba filmy Anity ... </p>
+<p> 06:47 </p>
+<p> Nie chcemy biedaków w lidze </p>
+<p> 06:44 </p>
+<p> Rostowski: Zjadł zęby na walce o ... </p>
+<p> 06:32 </p>
+<p> Kontek: Uszanujmy pamięć tych, ... </p>
+<p> 06:27 </p>
+<p> Maciej Zakościelny rozstał się z ... </p>
+<p> 06:18 </p>
+<p> Marta Grycan chodzi w starych ... </p>
+<p> Więcej » </p>
+<p> Co dziś robi syn Anny German? Ma ... </p>
+<p> Adamczyk odkrył, że Kate Rozz ... </p>
+<p> Dziecko Górniak i Schramma ... </p>
+<p> Bezczelne kłamstwo o Annie ... </p>
+<p> Zaręczyny Górniak. Ukochany ... </p>
+<p> Skandal w Senacie. Nasza kasa ... </p>
+<p> Minister Nowak oblewa ocalony ... </p>
+<p> Autogranda! Tak gwiazdy dostają ... </p>
+<p> Katastrofa smoleńska: Rosyjski ... </p>
+<p> Grecy do Niemców: Zapłaćcie za ... </p>
+<p> Kulisy strasznego wypadku ... </p>
+<p> Matka zabiła Filipka, bo chciała ... </p>
+<p> Aleksander Kwaśniewski chce ... </p>
+<p> Szalona miłość! Policjant dręczył ... </p>
+<p> Grodzka śmieje się z obleśnego ... </p>
+<p> Autostrada A4. Kobieta zginęła, ... </p>
+<p> Burza w TVP1 po pokazie filmów o ... </p>
+<p> Koroniewska wystąpi w nowym ... </p>
+<p> Wellman do Prokopa: weź spier.... </p>
+<p> Grycanki pracują w ... </p>
+<p> if (typeof sas_manager != 'undefined') sas_manager.render(5026); </p>
+<p> Wideo </p>
+<p> Skrajne reakcje pod Pałacem </p>
+<p> <!-- google_ad_client = "ca-pub-5310645159024207"; /* Fakt - wysoki sidebar */ google_ad_slot = "3747260065"; google_ad_width = 300; google_ad_height = 250; //--> </p>
+<p> <!--//<![CDATA[ var m3_u = (location.protocol=='https:'?'https://ad.soft365.com/openx/www/delivery/ajs.php':'http://ad.soft365.com/openx/www/delivery/ajs.php'); var m3_r = Math.floor(Math.random()*99999999999); if (!document.MAX_used) document.MAX_used = ','; document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u); document.write ("?zoneid=139"); document.write ('&amp;cb=' + m3_r); if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used); document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : '')); document.write ("&amp;loc=" + escape(window.location)); if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer)); if (document.context) document.write ("&context=" + escape(document.context)); if (document.mmm_fo) document.write ("&amp;mmm_fo=1"); document.write ("'><\/scr"+"ipt>"); //]]>--> </p>
+<p> var so = new SWFObject("/appweb/jwplayer/player.swf", "mpl","300","202","9");       so.addParam("allowscriptaccess","always");so.addParam("allowfullscreen","true");       so.addParam("allowscriptaccess","always");so.addParam("allownetworking","all");       so.addParam("volume","1")so.addVariable("file", "http://www.fakt.pl/swf/loteria2013.flv");       so.addVariable("skin","/swf/modieus.swf");so.addVariable("image","/swf/loteria2013.jpg");       so.write("mediaspace"); </p>
+<p> NEWSLETTER </p>
+<p> Już jest </p>
+<p> nowy </p>
+<p> Newsletter Fakt.pl </p>
+<p> Zamów za darmo, bądź na bieżąco! </p>
+<p> if (typeof sas_manager != 'undefined') sas_manager.render(3288); </p>
+<p> Najpopularniejsze </p>
+<p> Alicja Bachleda-Curuś </p>
+<p> Alicja Bachleda-Curuś </p>
+<p> Aneta Zając </p>
+<p> Anna Mucha </p>
+<p> Anna Mucha </p>
+<p> Barwy szczęścia </p>
+<p> Doda </p>
+<p> Dzieci Gwiazd </p>
+<p> Edyta Górniak </p>
+<p> Gwiazdy Nago </p>
+<p> Gwiazdy Nago </p>
+<p> Kasia Cichopek </p>
+<p> Kasia Tusk </p>
+<p> Katarzyna Skrzynecka </p>
+<p> Kate Middleton </p>
+<p> Kinga Rusin </p>
+<p> Komisarz Alex </p>
+<p> M jak miłość </p>
+<p> M jak miłość </p>
+<p> Mam talent </p>
+<p> Must Be The Music </p>
+<p> Must Be The Music </p>
+<p> Na Wspólnej </p>
+<p> Na Wspólnej </p>
+<p> Nergal </p>
+<p> Reklama w internecie </p>
+<p> if (typeof sas_manager != 'undefined') sas_manager.render(3289); </p>
+<p> if (typeof sas_manager != 'undefined') sas_manager.render(4302); </p>
+<p> var _r = document.referrer ? encodeURIComponent(document.referrer) : ''; var _w = encodeURIComponent(document.location.href); var _e = document.inputEncoding ? document.inputEncoding : document.charset; document.write('<scr'+'ipt type="text/javascript" src="http://ads.businessclick.com/awrapper?data=3917dc34e07c9c7180df2ea9ef103361c7180d0fe18858ce8b129e285c22cfa4&ref2='+_w+'&ref1='+_r+'&referer='+_r+'&webpage='+_w+'&v=2&encoding='+_e+'&oid=3917dc34e07c9c7180df2ea9ef103361"><\/scr'+'ipt>'); </p>
+<p> © 2003-2013 Ringier Axel Springer Polska </p>
+<p> Żadna część jak i całość utworów umieszczonych na witrynie nie może być powielana i rozpowszechniana w jakikolwiek sposób </p>
+<p> (w tym także elektroniczny, mechaniczny lub inny), na jakimkolwiek polu eksploatacji i w jakiejkolwiek formie, włącznie </p>
+<p> z umieszczeniem w Internecie - bez pisemnej zgody Ringier Axel Springer Polska Sp. z o.o. Jakiekolwiek użycie lub wykorzystanie utworów w całości lub w części bez zgody Ringier Axel Springer Sp. z o.o. lub autorów jest zabronione i stanowi naruszenie prawa. </p>
+<p> Mleko w czasie diety. Czy mleko jest tuczące </p>
+<p> Zdrowie aktualności </p>
+<p> function addClickCounters() {     function extractParamFromUri(uri, paramName) {         if (!uri) {             return;        }         var uri = uri.split('#')[0];  // Remove anchor.         var parts = uri.split('?');  // Check for query params.         if (parts.length == 1) {             return;         }        var query = decodeURI(parts[1]);         // Find url param.         paramName += '=';         var params = query.split('&');         for (var i = 0, param; param = params[i]; ++i) {             if (param.indexOf(paramName) === 0) {                return unescape(param.split('=')[1]);             }         }     };    function is(variable) {         return typeof (variable) !== 'undefined' && variable;     }     if (is(window.FB) && is(FB.Event) && is(FB.Event.subscribe)) {         FB.Event.subscribe('edge.create', function(targetUrl) {             //console.log('liked');             _gaq.push(['_trackSocial', 'facebook', 'like', targetUrl]);         });         FB.Event.subscribe('edge.remove', function(targetUrl) {             //console.log('unliked');             _gaq.push(['_trackSocial', 'facebook', 'unlike', targetUrl]);         });         FB.Event.subscribe('message.send', function(targetUrl) {             //console.log('send');             _gaq.push(['_trackSocial', 'facebook', 'send', targetUrl]);         });     } }; function countClick(network, action) {     //console.log(network, action);     _gaq.push(['_trackSocial', network, action]); }; (function() { addClickCounters(); _gaq = window._gaq || []; _gaq.push(['_setAccount', 'UA-4033697-1']); _gaq.push(['_setCustomVar',1,'Category','Zdrowie aktualności',3]); _gaq.push(['_setCustomVar',2,'ShortUrl','null',3]); _gaq.push(['_setCustomVar',3,'pn','1',3]); _gaq.push(['_trackPageview']); var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })(); </p>
+<p> if(window.document.location.href.match('fb_xd_fragment')!=null) {     var reg=/\?/     window.document.location.href.match('fb_xd_fragment');     var start=window.document.location.href.search(reg)     window.location=window.document.location.href.substring(0,start); } </p>
+<p> window.___gcfg = {lang: 'pl'};    (function() {     var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;     po.src = 'https://apis.google.com/js/plusone.js';     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);   })(); </p>
+<p> Restrictions.init(); </p>
+<p> if (typeof sas_manager != 'undefined') sas_manager.render(3347); </p>
+<p> function nnResize(init) {  if( init==true ) with(navigator){ if ((appName=="Netscape")&&(parseInt(appVersion)==4)) onresize=nnResize; }  else location.reload();}nnResize(true); </p>

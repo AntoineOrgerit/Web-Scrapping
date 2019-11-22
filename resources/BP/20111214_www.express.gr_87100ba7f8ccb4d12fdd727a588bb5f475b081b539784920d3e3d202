@@ -1,0 +1,16 @@
+<HTML>
+<style type="text/css">
+A:before { content:' '; } 
+A:after { content:' '; } 
+SPAN:before { content:' '; } 
+SPAN:after { content:' '; } 
+</style>
+<BODY style="background-image: url('siteimg/BG.gif')" onload="showPanel2(document.getElementById('tap3'), 'panel3'); showPanel3(document.getElementById('bap3'), 'pan1');"><DIV align="center"><DIV align="center"><TABLE class="contentpaneopen"><TBODY><TR><TD class="date" align="left" align="left" colspan="2" valign="top"><SPAN class="createdate">
+			 Πηγή: <A class="external" href="http://www.express.gr">Express.gr</A><FONT class="createdate"> 14/12/11-12:43</FONT></SPAN></TD></TR><TR><TD id="resize" class="size5" align="left" valign="top" colspan="2">
+
+Οι παρακάτω τροφές μπορούν να προστατεύσουν από σοβαρές ασθένειες 
+όπως ο διαβήτης, ο καρκίνος και τα καρδιακά προβλήματα, ενώ ενισχύουν το
+ ανοσοποιητικό σύστημα. Επιπρόσθετα βοηθούν στην απώλεια βάρους ή στην 
+διατήρηση του σωστού βάρους.<P> </P><P>Αν μέχρι τώρα δεν προτιμούσατε αυτά τα υγιεινά τρόφιμα, ήρθε η ώρα να
+ γεμίσετε το καλάθι των αγορών σας με αυτά και να βοηθήσετε την υγεία 
+σας!</P><P><STRONG>1.</STRONG> 'Απαχο βοδινό κρέας</P></TD></TR></TBODY></TABLE></DIV></DIV></BODY></HTML>

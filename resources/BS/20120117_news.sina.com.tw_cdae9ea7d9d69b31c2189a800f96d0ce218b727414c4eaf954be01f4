@@ -1,0 +1,182 @@
+<p> 評：醫生有了高收入 患者才能得到好服務-財經新聞-新浪新聞中心 </p>
+<p> | </p>
+<p> 登入微博 </p>
+<p> | </p>
+<p> 客戶服務 </p>
+<p> | </p>
+<p> 新浪網 </p>
+<p> 搜尋／ </p>
+<p> $(document).ready(function(){ 		$("#form_kw").submit(function(){ 			$.ajax({ 			  type: "POST", 			  url: "/keyword.php", 			  dataType: "json", 			  data: "keyword=" + encodeURI($("#form_kw #kw").val()), 			  success: function(data){ 			  	return true; 			  } 			}); 		}); 	}); </p>
+<p> 新聞中心 </p>
+<p> 影音 </p>
+<p> 即時 </p>
+<p> 專題 </p>
+<p> 圖片 </p>
+<p> 政治 </p>
+<p> 社會 </p>
+<p> 娛樂 </p>
+<p> 兩岸 </p>
+<p> 國際 </p>
+<p> 生活 </p>
+<p> 旅遊 </p>
+<p> 體育 </p>
+<p> 財經 </p>
+<p> 文教 </p>
+<p> 科技 </p>
+<p> 產業 </p>
+<p> 新奇 </p>
+<p> 雜誌 </p>
+<p> 閱讀 </p>
+<p> $.getJSON("/include/rtBar.php",function(a){$("#rtBar_a").text(a.text).attr( { title:a.title , href:a.link });$("#rtBar_time").text(a.time)}); </p>
+<p> 財經新聞 </p>
+<p> > </p>
+<p> 北京新浪網 </p>
+<p> 評：醫生有了高收入 患者才能得到好服務 </p>
+<p> 北京新浪網 (2012-01-16 13:40) </p>
+<p> 分享| </p>
+<p> 【事件】“醫務人員的工資本來就應該比別人高，問題是高多少。我認為應該高5-10倍，這樣醫生才能有尊嚴地活著，醫改才能成功。”在日前的政協分組討論會上，廣東省政協委員、省婦幼保健院副院長王頎談及醫生工資的話題讓現場議論炸開了鍋。 </p>
+<p> 中廣網北京1月16日消息 關於高薪養醫的問題，中國之聲特約觀察員曹林作如下點評： </p>
+<p> 曹林：廣東省一個政協委員就說，醫生的工資應該比市內的平均的工資要高5-10倍，工資高而且來源要合法醫生們才會有尊嚴。在醫患沖突這樣的背景下，這樣的言論自然引起了很多的不滿跟批評。 </p>
+<p> 我看了一下這個不滿主要集中在兩個方面，第一是不滿這個比平均工資要高5-10倍，第二不滿工資高才有尊嚴、才有說法。其實我覺得這裡可能有一個誤解，那個政協委員不是說工資高才有尊嚴，而是說工資高而且來源合法才有尊嚴。現在很多醫生是偷偷摸摸拿提成、拿回扣、拿紅包來提高收入的，讓他們感覺自己很沒有尊嚴，他的意思其實是想說高工資要拿的光明正大而不是偷偷摸摸這才有尊嚴。 </p>
+<p> 其實我覺得公眾如果要理性的從自己的利益出發，應該支持這種醫生高收入。首先我覺得成為醫生的成本他會比一般其他的職業要高一些，不說其他的投入僅說人力資本上面的投入，比如說在醫學院讀書要比其他專業多學一年才能拿到畢業證。醫生所從事的這一種行業關係到每一個人的生死，關係到公眾的健康，我覺得這種職業非常重要，它的技術含量高它的風險也高，它理當享受這種高的回報。 </p>
+<p> 還有我覺得有了高收入的醫生，患者才能得到好的服務、專業的服務，因為妳很難想像，那種低收入能把咱們這個社會中最優秀的人才吸引到醫生行業中來。其實從中國目前的醫療投入跟患者支付的醫療成本來看，它是應該能夠支撐醫生的高收入的。老百姓總抱怨說中國的看病很貴，而且中國的藥價很高，看病貴、藥價高這些錢確實是應該能夠支撐醫生的這種高收入的，能夠實現這種高薪養醫的，但是在當下的醫療分配體制之下，看病貴跟藥價高的錢並沒有真正用來養這個醫療鏈條上最核心的醫生，反而是養了一批賣藥的，這個賣藥的非常富有，於是就有了這么一個醫患沖突。醫生抱怨收入低而且承擔這么一種高風險，患者又抱怨收費高還得不到好的服務，但是那些賣藥的卻在一邊數著錢一邊在偷偷的樂，窮了醫生，富了賣藥的，我覺得這是醫改最首先要改的問題。 </p>
+<p> document.write('<iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="637" height="122" src="http://zh.adsbro.com/sina/iframe/?size=637_122&channel=ifra_news&ref='+encodeURIComponent(document.location)+'&loc='+encodeURIComponent(document.referrer)+'"></i'+'frame>'); </p>
+<p> 其他財經新聞 </p>
+<p> 更多財經新聞 </p>
+<p> 英國最大食品製造商擬裁員600人 </p>
+<p> 【Market Watch】2012-01-17 21:41 </p>
+<p> 盤前：中美經濟數據利好美股期指走高 </p>
+<p> 【Market Watch】2012-01-17 21:40 </p>
+<p> [公司]中信銀行發行不超500億元債券獲董事會通過 </p>
+<p> 【北京新浪網】2012-01-17 21:40 </p>
+<p> 廣東省省長朱小丹：廣東外貿今年上半年最困難 </p>
+<p> 【北京新浪網】2012-01-17 21:40 </p>
+<p> 國資委：加強反腐倡廉建設促進中央企業做強做優 </p>
+<p> 【北京新浪網】2012-01-17 21:40 </p>
+<p> 發燒雜誌 </p>
+<p> 更多 </p>
+<p> 康健雜誌 </p>
+<p> 春節樂活遊提案》最好「玩」的博物館在台南！ </p>
+<p> 農曆春節假期長達九天，想好要去哪裡玩了嗎？ 台南有兩間充滿互動趣味的博物館，你可以乘上...《 </p>
+<p> 詳全文 </p>
+<p> 》 </p>
+<p> 疫苗防癌將成真 </p>
+<p> 我非固著之我：《姊妹》 </p>
+<p> 社會新鮮人，投資策略保守至上 </p>
+<p> 強打好書 </p>
+<p> 更多 </p>
+<p> 話語操縱術 </p>
+<p> 作者：凱倫．伯格 </p>
+<p> ★說出自己想說的，得到自己想要的！★5個步驟讓你7天成為溝通高手！★美國頂尖說活術專家30年經驗傳授，紐約時報、華爾街日報、CNN反覆引用！★成千上萬...《 </p>
+<p> 詳全文 </p>
+<p> 》 </p>
+<p> 編輯首推 </p>
+<p> 決戰2012 </p>
+<p> 全民投家換你作 投票送好禮 </p>
+<p> 瓦辛 </p>
+<p> 在礁溪，遇見京野菜的美好 </p>
+<p> 布三布四玩生活 </p>
+<p> 用你的小衣物，做你內心的小動物 </p>
+<p> 魔女克洛蒂 </p>
+<p> 我一步步遠離了喧嘩世界，悄悄跌進 </p>
+<p> document.write('<iframe width="100%" height="489" frameborder="0" scrolling="no" src="http://widget.weibo.com/relationship/bulkfollow.php?uids=1803608792,1986544897,2150766094,1918327921,2028990475&wide=1&color=C2D9F2,FFFFFF,0082CB,666666&showtitle=1&showinfo=1&sense=0&verified=1&count=5&refer=&dpc=1"></iframe>') </p>
+<p> Eunice超頂級貴婦SPA下殺1折　1/17限時搶購 </p>
+<p> 【中央社】 </p>
+<p> 宏達電千桌尾牙 王雪紅看好景氣 </p>
+<p> 【民視】 </p>
+<p> 苹果發布供應商報告被指轉嫁社會責任 </p>
+<p> 【北京新浪網】 </p>
+<p> 可口、百事皆現“殺菌門” </p>
+<p> 【北京新浪網】 </p>
+<p> 龍年紀念幣明開賣 週五已卡位 </p>
+<p> 【民視】 </p>
+<p> 更多 </p>
+<p> 希臘恐倒債 全球皮皮挫 </p>
+<p> 希臘可能倒債，外資急著賣股票撤離股市，造成今天股《 </p>
+<p> 詳全文 </p>
+<p> 》 </p>
+<p> 更多 </p>
+<p> 摩托羅拉擁富爸爸谷歌 市場觀望 </p>
+<p> 美債評等遭調降 全球股市跌跌不休 </p>
+<p> 台灣： </p>
+<p> ‧中央社 </p>
+<p> ‧中廣新聞網 </p>
+<p> ‧中央廣播電台 </p>
+<p> ‧NOWnews今日新聞 </p>
+<p> ‧教育廣播電台 </p>
+<p> ‧民視 </p>
+<p> ‧公視 </p>
+<p> ‧富比世 </p>
+<p> ‧美通社(亞洲) </p>
+<p> ‧優活健康資訊網 </p>
+<p> ‧大台灣旅遊網 </p>
+<p> ‧旅遊經 </p>
+<p> ‧網路地產王 </p>
+<p> ‧台灣醒報 </p>
+<p> ‧財訊快報 </p>
+<p> ‧24Drs.com </p>
+<p> ‧ACN </p>
+<p> ‧Hit Fm聯播網 </p>
+<p> ‧客家電視台 </p>
+<p> ‧LOOK生活網 </p>
+<p> ‧波仕特線上市調網 </p>
+<p> ‧Market Watch </p>
+<p> ‧鉅亨網 </p>
+<p> ‧台灣立報 </p>
+<p> ‧景點家 Tripass </p>
+<p> ‧欣傳媒 </p>
+<p> ‧Yes娛樂 </p>
+<p> ‧CROWNinc潮流媒體 </p>
+<p> ‧台灣競爭力論壇 </p>
+<p> ‧台灣新聞報 </p>
+<p> ‧生活童話 </p>
+<p> ‧中央日報 </p>
+<p> ‧新頭殼 </p>
+<p> ‧太陽網 </p>
+<p> 中國大陸： </p>
+<p> ‧北京新浪網 </p>
+<p> ‧上海世博 </p>
+<p> ‧南非世足 </p>
+<p> ‧新聞資料庫 </p>
+<p> 雜誌類 </p>
+<p> 閱讀類 </p>
+<p> 歷史新聞 </p>
+<p> 最會賣基金的人 </p>
+<p> 2011-01-17 </p>
+<p> 引導信貸資金流向中小企業 </p>
+<p> 2011-01-17 </p>
+<p> 膠價失控 輪胎業再次呼救 </p>
+<p> 2011-01-17 </p>
+<p> “閒錢”儲蓄不如投資低風險銀行理財產品 </p>
+<p> 2011-01-17 </p>
+<p> IPO再創新高  多元基金逐漸專業化 </p>
+<p> 2011-01-17 </p>
+<p> 更多 </p>
+<p> 北美新浪網 </p>
+<p> | </p>
+<p> 北京新浪網 </p>
+<p> | </p>
+<p> 香港新浪網 </p>
+<p> | </p>
+<p> SINA.com </p>
+<p> | </p>
+<p> SINA English </p>
+<p> 意見信箱 </p>
+<p> | </p>
+<p> 關於新浪 </p>
+<p> | </p>
+<p> 新浪新聞室 </p>
+<p> | </p>
+<p> 隱私權政策 </p>
+<p> | </p>
+<p> 聲明啟事 </p>
+<p> | </p>
+<p> 刊登廣告 </p>
+<p> Copyright © 1996- </p>
+<p> var now=new Date();document.write(now.getFullYear()); </p>
+<p> SINA.com All Rights Reserved </p>
+<p> var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); </p>
+<p> // By news.sina.com.tw try { var pageTracker = _gat._getTracker("UA-4068118-1"); pageTracker._trackPageview(); } catch(err) {} </p>
+<p> // By magazines.sina.com.tw try { var pageTracker = _gat._getTracker("UA-8600085-1"); pageTracker._trackPageview(); } catch(err) {} </p>
+<p> // By books.sina.com.tw try { var pageTracker = _gat._getTracker("UA-8600127-1"); pageTracker._trackPageview(); } catch(err) {} </p>
+<p> bust = Math.floor(1000000*Math.random()); document.write('<'+'SCRIPT LANGUAGE="JavaScript1.1" SRC="http://dotmore.sina.com.tw/verify.aspx?w=75&charset=utf-8&ord='+bust+'?">'); document.write('</'+'SCRIPT>'); </p>

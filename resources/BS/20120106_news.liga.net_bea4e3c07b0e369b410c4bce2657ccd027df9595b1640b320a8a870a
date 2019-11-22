@@ -1,0 +1,278 @@
+<p> Суд запретил ставить палатки под колонией, где сидит Тимошенко </p>
+<p> var theme_id = 134 </p>
+<p> var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-2374219-1']); _gaq.push(['_trackPageview']); _gaq.push(['secondTracker._setAccount', 'UA-2374219-2']); _gaq.push(['secondTracker._trackPageview']);  if(window.theme_id === undefined) var theme_id = 0;  if( theme_id == 550686  || window.location.href.indexOf("550686-vibori") != -1 ) {     _gaq.push(['vybory2012._setAccount', 'UA-33835966-1']);     _gaq.push(['vybory2012._trackPageview']); }  if( theme_id == 800237  || window.location.href.indexOf("800237-oskar") != -1 ) {     _gaq.push(['oskar2013._setAccount', 'UA-33835966-6']);     _gaq.push(['oskar2013._trackPageview']); }  if( window.location.href.indexOf("/photo/") != -1 || window.location.href.indexOf("/video/") != -1) {     _gaq.push(['multimedia._setAccount', 'UA-33835966-5']);     _gaq.push(['multimedia._trackPageview']); }   (function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })(); </p>
+<p> <!--//<![CDATA[     document.MAX_ct0 ='INSERT_CLICKURL_HERE';     var m3_u = (location.protocol=='https:'?'https://bg.liga.net/www/delivery/ajs.php':'http://bg.liga.net/www/delivery/ajs.php');     var m3_r = Math.floor(Math.random()*99999999999);     if (!document.MAX_used) document.MAX_used = ',';     document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);     document.write ("?zoneid=10");     document.write ('&amp;cb=' + m3_r);     if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);     document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));     document.write ("&amp;loc=" + escape(window.location));     if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));     if (document.context) document.write ("&context=" + escape(document.context));     if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {         document.write ("&amp;ct0=" + escape(document.MAX_ct0));     }     if (document.mmm_fo) document.write ("&amp;mmm_fo=1");     document.write ("'><\/scr"+"ipt>");     //]]>--> </p>
+<p> <!-- bmN=navigator,bmD=document,bmD.cookie='b=b',i=0,bs=[],bm={v:1747,s:1747,t:6,c:bmD.cookie?1:0,n:Math.round((Math.random()* 1000000)),w:0}; try{obHP.style.behavior="url('#default#homePage')";obHP.addBehavior('#default#homePage');if(obHP.isHomePage(window.location.href))bm.h=1;}catch(e){;} for(var f=self;f!=f.parent;f=f.parent)bm.w++; try{if(bmN.plugins&&bmN.mimeTypes.length&&(x=bmN.plugins['Shockwave Flash']))bm.m=parseInt(x.description.replace(/([a-zA-Z]|\s)+/,'')); else for(var f=3;f<20;f++)if(eval('new ActiveXObject("ShockwaveFlash.ShockwaveFlash.'+f+'")'))bm.m=f}catch(e){;} try{bm.y=bmN.javaEnabled()?1:0}catch(e){;} try{bmS=screen;bm.v^=bm.d=bmS.colorDepth||bmS.pixelDepth;bm.v^=bm.r=bmS.width}catch(e){;} r=bmD.referrer.slice(7);if(r&&r.split('/')[0]!=window.location.host){bm.f=escape(r);bm.v^=r.length} bm.v^=window.location.href.length;for(var x in bm) if(/^[hvstcnwmydrf]$/.test(x)) bs[i++]=x+bm[x]; bmD.write('<img src="http://c.bigmir.net/?'+bs.join('&')+'"  width="0" height="0" border="0" alt="bigmir)net TOP 100" title="bigmir)net TOP 100" />'); //--> </p>
+<p> new adriver("728x90tnews", {sid:164097, bt:52, bn:3}); </p>
+<p> .top_menu{     height : 23px;     margin : 0 0px 20px 0px;     position: relative;     z-index: 1;     font-family: "Trebuchet MS"; }  .top_menu table{ width : 94%; font-size : 14px; font-weight : bold; line-height : 23px; height : 23px; padding : 5px 0; margin : 0 3%; } .top_menu table td div a{     display : block;     padding : 0px 5px;     text-align : center;     text-decoration: none;     color: #7e7e7e;     line-height: 23px; } .top_menu table td div a span{ text-decoration: underline; white-space: nowrap; }  .top_menu table td div:hover a{ background-color : #000; color : #fff; text-shadow : none; } .top_menu table td div:hover a span{ text-decoration: none; }  .top_menu table td div.selected a{ background-color : #e0173d; color : #fff; padding : 0 10px; text-shadow : none; text-decoration: none; } .top_menu table td div.selected a b{ display: none; } .top_menu table td div.selected a span{ text-decoration: none; } .top_menu table td div{ float: left; width: 100%; position: relative; } .top_menu table td div.selected{ position : relative; z-index : 1; } .top_menu table td div.selected span.arr{     width : 15px;     height : 9px;     background : url(http://liga.net/bitrix/templates/liga/images/main_menu_arr_bottom.png) 0 0 no-repeat;     position : absolute;     top : 23px;     left : 42%;     z-index : 1; }  .top_menu table td div span.new_menu{     background: url("http://liga.net/bitrix/templates/liga/images/menu_new_red.png") no-repeat scroll 0 0 transparent;     display: block;     height: 16px;     position: absolute;     right: -20px;     top: -10px;     width: 34px;     z-index: 3; } </p>
+<p> ЛІГА.net </p>
+<p> Новости </p>
+<p> Бизнес </p>
+<p> Финансы </p>
+<p> Видео/Фото </p>
+<p> Мнения </p>
+<p> Инфографика </p>
+<p> Мониторинг СМИ </p>
+<p> Форумы </p>
+<p> Блоги </p>
+<p> Досье </p>
+<p> Пресс-центр </p>
+<p> Все проекты </p>
+<p> function topMenuResize()     {         var TM = document.getElementById('main_top_menu');         var IE='\v'=='v';             var tdToHide0 = document.getElementById('menu_item_multimedia');                 var tdToHide1 = document.getElementById('menu_item_smi');                  var topMenuWidth = TM.clientWidth;         if(topMenuWidth < 1024)         {                     if(tdToHide0) tdToHide0.style.display = 'none';                         if(tdToHide1) tdToHide1.style.display = 'none';                     }         else         {             if (document.all && !document.querySelector) {                             if(tdToHide0) {tdToHide0.style.display = 'block';}                                 if(tdToHide1) {tdToHide1.style.display = 'block';}                             } else {                             if(tdToHide0) {tdToHide0.style.display = 'table-cell';}                                 if(tdToHide1) {tdToHide1.style.display = 'table-cell';}                             }          }         return true;     }     window.onresize = function(event)     {         topMenuResize();         return true;     }     topMenuResize(); </p>
+<p> Мобильные версии </p>
+<p> PDA </p>
+<p> Рассылки </p>
+<p> USD: </p>
+<p> 8.11   8.15 </p>
+<p> EUR: </p>
+<p> 10.50   10.68 </p>
+<p> Погода в Киеве </p>
+<p> по-русски </p>
+<p> українською </p>
+<p> Фото </p>
+<p> Видео </p>
+<p> Архив </p>
+<p> Главная </p>
+<p> Политика </p>
+<p> Экономика </p>
+<p> Мир </p>
+<p> Происшествия </p>
+<p> Киев </p>
+<p> Спорт </p>
+<p> Культура </p>
+<p> Общество </p>
+<p> Игра </p>
+<p> new adriver("adriver_banner_2001009707", {sid:183740, bt:52, bn:1, pz:2}); </p>
+<p> Суд запретил ставить палатки под колонией, где сидит Тимошенко </p>
+<p> Поделиться: </p>
+<p> Печать </p>
+<p> 05.01.2012 10:02 </p>
+<p> Власти объясняют, что запрет связан с проведением ремонтных работ на улице, где находится колония </p>
+<p> Харьковский административный суд запретил партии </p>
+<p> Батькивщина </p>
+<p> установку агитационных палаток возле Качановской женской исправительной колонии N54 в Харькове, где содержится бывший премьер-министр Украины </p>
+<p> Юлия Тимошенко </p>
+<p> . Об этом сообщил директор департамента по взаимодействию с правоохранительными органами, оборонной, мобилизационной работы и гражданской обороны Харьковского горсовета Валентин Топчий. </p>
+<p> В настоящее время на месте, где в среду стояли палатки партии, работают машины водоотвода (канализации), передает </p>
+<p> Интерфакс-Украина </p>
+<p> . </p>
+<p> Как сообщалось ранее, в среду Харьковский горсовет обратился в суд с просьбой запретить установку агитпалаток возле Качановской исправительной колонии N54 в Харькове. </p>
+<p> "Это связано с проведением ремонтных работ на улице, где находится колония", - объяснил директор департамента Харьковского горсовета Валентин Топчий. </p>
+<p> Как сообщалось, Печерский суд Киева 11 октября 2011 года приговорил Тимошенко к 7 годам лишения свободы за превышение полномочий во время подписания газовых контрактов с Россией в 2009 году. </p>
+<p> Тимошенко содержалась в Киевском следственном изоляторе с 5 августа 2011 года. 30 декабря ее этапировали в Качановскую исправительную колонию в Харькове. </p>
+<p> В среду, 4 декабря, сторонники Тимошенко установили две агитационные палатки партии Батькивщина возле колонии. </p>
+<p> Вчера мэр Харькова </p>
+<p> Геннадий Керне </p>
+<p> с заявил, что сторонники экс-премьера Тимошенко не будут "играть в войну" под стенами Качановской колонии. "Считаю не допустимым бахвальство "боевика" </p>
+<p> Александра Турчинова </p>
+<p> , который уже заранее уверен, что сможет здесь вести себя безнаказанно", - сказал он. </p>
+<p> ЛIГАБiзнесIнформ </p>
+<p> Информационное агентство </p>
+<p> www.liga.net </p>
+<p> Теги: </p>
+<p> Тимошенко </p>
+<p> , </p>
+<p> тюрьма </p>
+<p> , </p>
+<p> суд </p>
+<p> Печать </p>
+<p> (function(d, s, id) {                         var js, fjs = d.getElementsByTagName(s)[0];                         if (d.getElementById(id)) return;                         js = d.createElement(s); js.id = id;                         js.src = "//connect.facebook.net/ru_RU/all.js#xfbml=1&appId=112838268763067";                         fjs.parentNode.insertBefore(js, fjs);                     }(document, 'script', 'facebook-jssdk')); </p>
+<p> Твитнуть </p>
+<p> !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs"); </p>
+<p> window.___gcfg = {lang: 'ru'};                    (function() {                     var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;                     po.src = 'https://apis.google.com/js/plusone.js';                     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);                   })(); </p>
+<p> VK.init({apiId: 2728719, onlyWidgets: true}); </p>
+<p> VK.Widgets.Like("vk_like", {type: "mini"}); </p>
+<p> Если Вы заметили орфографическую ошибку, выделите её мышью и нажмите Ctrl+Enter </p>
+<p> <!--         var vhblockID=2029, date=new Date();         document.write('<scr'+'ipt type="text/javascript"src="http://i.holder.com.ua/t/content.y'+(date.getFullYear()%100)+date.getMonth()+date.getDate()+'.js"></scr'+'ipt>');         //--> </p>
+<p> $(document).ready(function(){         $.get("/bitrix/ajax/counterinc.php?ELEMENT_ID=587390");     }); </p>
+<p> Материалы по теме </p>
+<p> 09.04.2013 23:34 </p>
+<p> Омбудсмен о помиловании Тимошенко: Теоретически возможно </p>
+<p> 09.04.2013 16:02 </p>
+<p> Власенко: Мандата меня лишил советник президента Портнов </p>
+<p> 09.04.2013 15:57 </p>
+<p> Родиона Киреева вызывают на допрос в Раду </p>
+<p> 09.04.2013 15:32 </p>
+<p> Власенко: Когда ЕСПЧ вернет мандат, просто зайду в Раду и все </p>
+<p> 09.04.2013 15:12 </p>
+<p> Власенко просит суд вернуть мандат - из-за новых обстоятельств </p>
+<p> Все материалы по теме: </p>
+<p> Уголовное преследование Тимошенко </p>
+<p> Добавление комментария означает Ваше согласие с </p>
+<p> Правилами комментирования </p>
+<p> . </p>
+<p> Комментарий будет удален, если: </p>
+<p> пропагандирует ненависть, дискриминацию по расовому, этническому, половому, религиозному, социальному признакам, содержит оскорбления, угрозы в адрес других участников обсуждения, конкретных лиц или организаций, нарушает любые применимые нормы права; </p>
+<p> распространяет персональные данные третьих лиц без их согласия; </p>
+<p> преследует коммерческие цели, содержит спам, рекламную информацию, ссылки на сторонние ресурсы; </p>
+<p> содержит обсценную лексику и её производные, а также намёки на употребление лексических единиц, подпадающих под это определение </p>
+<p> комментатор выдает себя за сотрудника сайта, автора и т.п. </p>
+<p> по иным причинам (в случае если модератор считает это необходимым) </p>
+<p> Если Вам кажется, что эти Правила слишком строги и/или жестоки - воздержитесь от написания комментариев на этом ресурсе. </p>
+<p> /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */         var disqus_shortname = 'liganet'; // required: replace example with your forum shortname          var disqus_title = 'Суд запретил ставить палатки под колонией, где сидит Тимошенко';         var disqus_identifier = '587390';         var disqus_url = 'http://news.liga.net/news/politics/587390-sud_zapretil_stavit_palatki_pod_koloniey_gde_sidit_timoshenko.htm';          /* * * DON'T EDIT BELOW THIS LINE * * */         (function() {             var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;             dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';             (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);         })(); </p>
+<p> /* customization */ table.MediaTraffic,  table.MediaTraffic tbody td a span {  /* цвет бордера таблицы и картинок */ 	border: 1px solid #dce3ee; 	background-color: #FFFFFF; 	} table.MediaTraffic thead td a { /* цвет ссылки "Разместить рекламу" */ 	color: #2a3f5e; 	background-color: #dce3ee; 	} table.MediaTraffic tbody td a { /* цвет рекламных ссылок */ 	color: #003399; 	} table.MediaTraffic tbody td a:hover { /* цвет рекламных ссылок onover */ 	color: #00183d; 	} table.MediaTraffic tbody td a:hover span { /* цвет бордера картинок onover */ 	border-color: #8da8cf; 	} /* ! */ table.MediaTraffic { 	width: 100%; 	border-collapse: collapse; 	border-spacing: 0; 	empty-cells: hide; 	margin: 0; 	padding: 0; 	} table.MediaTraffic thead td { 	padding: 0; 	} table.MediaTraffic thead td a { 	float: right; 	position: relative; 	z-index: 1; 	margin: -7px 9px -7px 0; 	height: 14px; 	line-height: 14px; 	padding: 0 10px; 	font: 10px Tahoma, Verdana, sans-serif; 	text-decoration: none; 	} table.MediaTraffic tbody td { 	/*width: 50%;*/ 	padding: 10px 10px 10px 5px; 	vertical-align: top; 	} table.MediaTraffic tbody td:first-child { 	padding-left: 15px; 	} table.MediaTraffic tbody td a { 	display: block; 	margin: 0 5px 0 -5px; 	outline: none; 	cursor: pointer; 	font: 11px Tahoma, Verdana, sans-serif; 	text-decoration: underline; 	text-align: center; 	} table.MediaTraffic tbody td a span { 	display: block; 	width: 100%; 	max-width: 120px; 	height: 90px; 	padding: 2px; 	margin: 0 auto 3px; 	background-position: 50% 50%; 	background-repeat: no-repeat; 	} table.MediaTraffic tbody td a:hover { 	text-decoration: none; 	} </p>
+<p> Разместить рекламу </p>
+<p> MediaTraffic </p>
+<p> var mtItem = [{site:10,format:1,bannerNumber:2,tag:'DIV',div:'mt_adv_h'}]; </p>
+<p> Новости раздела </p>
+<p> Мониторинг СМИ: выйдя из тюрьмы, Луценко стал крестным отцом </p>
+<p> 09:34 </p>
+<p> Лавринович возложил ответственность за неработающую Раду на народ </p>
+<p> 07:05 </p>
+<p> Омбудсмен о помиловании Тимошенко: Теоретически возможно </p>
+<p> вчера, 23:34 </p>
+<p> Все новости </p>
+<p> new adriver("240x350lnews", {sid:164097, bt:52, bn:5}); </p>
+<p> Инфографика </p>
+<p> Хроника преследования Тимошенко: от киотских денег до убийства Щербаня </p>
+<p> Вся инфографика </p>
+<p> Подписка на все новости </p>
+<p> var sbsinpt = $(".news_subscribe_block .input input");          if(sbsinpt.val() == 'Ваш e-mail')             sbsinpt.css({color: "#adadad"});          sbsinpt.focus(function(){             if(sbsinpt.val() == 'Ваш e-mail')                 sbsinpt.css({color: "#000000"}).val("");         });          sbsinpt.blur(function(){             if(sbsinpt.val() == '')                 sbsinpt.css({color: "#adadad"}).val("Ваш e-mail");         }); </p>
+<p> window.___gcfg = {lang: 'ru'};    (function() {     var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;     po.src = 'https://apis.google.com/js/plusone.js';     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);   })(); </p>
+<p> function readCookie(name) {         var nameEQ = name + "=";         var ca = document.cookie.split(';');         for(var i=0;i < ca.length;i++) {             var c = ca[i];             while (c.charAt(0)==' ') c = c.substring(1,c.length);             if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);         }         return null;     }      function frameFitting() {         var h = readCookie('BX_POLL_H');         if (!h) h = 0;         document.getElementById('polls_iframe_block').width = '100%';         document.getElementById('polls_iframe_block').height = (h);     }      PollTimer = setInterval("frameFitting()",200); </p>
+<p> вакансии кассир операционист киев </p>
+<p> , </p>
+<p> погода в Воронеже </p>
+<p> , </p>
+<p> интересные тесты </p>
+<p> , </p>
+<p> Томас Бальмес </p>
+<p> , </p>
+<p> музыка с радио </p>
+<p> , </p>
+<p> avtosale.ua </p>
+<p> new adriver("240x350rnews", {sid:164097, bt:52, bn:1}); </p>
+<p> new adriver("240x100rnews", {sid:164097, bt:52, bn:2}); </p>
+<p> <!--//<![CDATA[        document.MAX_ct0 ='INSERT_CLICKURL_HERE';        var m3_u = (location.protocol=='https:'?'https://bg.liga.net/www/delivery/ajs.php':'http://bg.liga.net/www/delivery/ajs.php');        var m3_r = Math.floor(Math.random()*99999999999);        if (!document.MAX_used) document.MAX_used = ',';        document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);        document.write ("?zoneid=6");        document.write ('&amp;cb=' + m3_r);        if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);        document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));        document.write ("&amp;loc=" + escape(window.location));        if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));        if (document.context) document.write ("&context=" + escape(document.context));        if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {            document.write ("&amp;ct0=" + escape(document.MAX_ct0));        }        if (document.mmm_fo) document.write ("&amp;mmm_fo=1");        document.write ("'><\/scr"+"ipt>");     //]]>--> </p>
+<p> .realty_informer{             width: 240px;             height: 80px;             margin: 0 0 30px 0;             overflow: hidden;             clear: both;             background: url(http://3doma.ua/bitrix/templates/main_main/images/informer-for-portal_bg.jpg) 0 0 no-repeat;         }         .realty_informer .realty_informer_logo{             heigth: 20px;             line-height: 20px;         }         .realty_informer .realty_informer_logo a{             display: inline-block;             height: 20px;             width: 80px;             text-decoration: none;         }         .realty_informer table{             width: 100%;             padding: 0;             margin: 0;             font-size: 13px;             line-height: 15px;         }         .realty_informer table td{             padding: 0;             margin: 0;             vertical-align: top;         }         .realty_informer table td a{             color: #4c504f;             text-decoration: none; 			font-weight: bold;         }         .realty_informer table td a:hover{text-decoration: underline;} </p>
+<p> В Украине дорожает торговая вторичка </p>
+<p> Читаемые </p>
+<p> Обсуждаемые </p>
+<p> 19830 </p>
+<p> "Железная леди": семь фактов о Маргарет Тэтчер </p>
+<p> 19387 </p>
+<p> Шустера уличили в манипуляциях на Интере </p>
+<p> 15147 </p>
+<p> Родиона Киреева вызывают на допрос в Раду </p>
+<p> 10189 </p>
+<p> Регионала Колесниченко забросали экскрементами в Киеве </p>
+<p> 9392 </p>
+<p> Цены на бензин в Украине могут вырасти на 6-7 грн. </p>
+<p> 48 </p>
+<p> В обход Украины. Зачем Путину новый газопровод </p>
+<p> 28 </p>
+<p> Революция Тэтчер </p>
+<p> 22 </p>
+<p> Мнения </p>
+<p> 20 </p>
+<p> Путин решил строить очередной газопровод в обход Украины </p>
+<p> 17 </p>
+<p> Россия приостановила переговоры по газовому консорциуму, - СМИ </p>
+<p> Загружается... </p>
+<p> Все новости </p>
+<p> Segodnya.ua </p>
+<p> #JobInformer{ min-width:160px !important; margin-top:20px !important; border:1px solid #E9C9AC !important; margin:0 !important; padding:0 !important; font:12px Arial,sans-serif !important; border-radius:5px !important;-moz-border-radius:5px !important;-webkit-border-radius:5px !important;-khtml-border-radius:5px !important;text-align: left !important;}     #JobInformer a{text-decoration:none !important;}     #JobInformer a:hover, #JobInformer span:hover{ text-decoration:underline !important; }     #JobInformer .clear{ visibility:hidden !important; height:0 !important; width:0 !important; clear:both !important; }     #JobInformer_logo{ background-color:#FFF !important; height:54px !important; padding:4px 10px 0px 20px !important;  border-radius:4px 4px 0 0 !important; -moz-border-radius:4px 4px 0 0 !important;-webkit-border-radius:4px 4px 0 0 !important;-khtml-border-radius:4px 4px 0 0 !important;}     #JobInformer_logo img{ position:absolute !important; z-index:1 !important;}     #JobInformer_head{ margin:0px !important; padding:10px 7px !important; border-top:1px solid #DD6800 !important; background-color:#FFAC00 !important;box-shadow:0px 6px 6px 0px #FB7B00 inset !important;-moz-box-shadow:0px 6px 6px 0px #FB7B00 inset !important;-webkit-box-shadow:0px 6px 6px 0px #FB7B00 inset !important;-khtml-box-shadow:0px 6px 6px 0px #FB7B00 inset !important;}     #JobInformer_head a, #JobInformer_head{ color:#fff !important; font:bold 14px Arial,sans-serif !important; text-shadow:2px 1px 2px #B66200 !important;-moz-text-shadow:2px 1px 2px #B66200 !important;-webkit-text-shadow:2px 1px 2px #B66200 !important;-khtml-text-shadow:2px 1px 2px #B66200 !important;}     #JobInformer .JobInformer_item{ border-bottom:1px dotted #B3B3B3 !important; margin:0px !important; padding:10px 7px !important; background:#fff !important;}     #JobInformer .JobInformer_item a, #JobInformer .JobInformer_item span,#JobInformer .JobInformer_item{ cursor:pointer !important; font:bold 13px Arial,sans-serif !important; color:#000 !important; }     #JobInformer .JobInformer_item:last-child{border-bottom-style:none !important;}     #JobInformer #JobInformer_bottom{ padding-bottom:10px !important; background-color:#F8F9F9 !important; box-shadow:0px 5px 10px 0px #E4E6E7 inset !important;-moz-box-shadow:0px 5px 10px 0px #E4E6E7 inset !important;-webkit-box-shadow:0px 5px 10px 0px #E4E6E7 inset !important;-khtml-box-shadow:0px 5px 10px 0px #E4E6E7 inset !important;}     #JobInformer_bottom { margin:0 !important; padding:10px 7px !important; border-radius:0 0 4px 4px !important;-moz-border-radius:0 0 4px 4px !important;-webkit-border-radius:0 0 4px 4px !important;-khtml-border-radius:0 0 4px 4px !important;}     #JobInformer_bottom a,#JobInformer_bottom{color:#A7A7A7 !important;font:12px Arial,sans-serif !important;} </p>
+<p> Поиск работы в Киеве </p>
+<p> Фельдшер </p>
+<p> Ландшафтный дизайнер </p>
+<p> Оператор </p>
+<p> Менеджер по продажам </p>
+<p> Сборщик пк </p>
+<p> работа мастера маникюра, педикюра в киеве </p>
+<p> Разместить рекламу </p>
+<p> MediaTraffic </p>
+<p> if (typeof(mtItem)!='object')var mtItem = new Array();mtItem[1] = {site:10,format:0,bannerNumber:6,tag:'DIV',div:'mt_adv_v'}; </p>
+<p> .news_from_partners_block{     border: 1px solid #dce2e5; } .news_from_partners_title{     float: left;     line-height: 22px;     padding: 0 10px;     background-color: #dce2e5;     text-transform: uppercase;     font-size: 14px;     font-weight: bold; } .news_from_partners_content{     padding: 10px;     clear: both; }  .join_informer_1949 * {     border: medium none;     margin: 0;     padding: 0; } .join_informer_1949 {     clear: both;     padding: 5px;     text-align: left; } .join_informer_1949 a.join_link, a.join_text {     color: #03275F;     font-family: Arial;     font-size: 12px;     font-weight: normal;     margin-bottom: 10px;     text-decoration: none; } .join_informer_1949 a.join_link:hover, a.join_text:hover {     color: #03275F;     text-decoration: underline; } .join_informer_1949 .join_img {     height: 45px;     margin-right: 2px;     width: 45px; } </p>
+<p> Новости партнеров </p>
+<p> Загрузка... </p>
+<p> var MarketGidDate = new Date();     document.write('<scr'+'ipt type="text/javascript" '     +'src="http://jsn.dt00.net/n/e/news.liga.net.10949.js?t='+MarketGidDate.getYear()+MarketGidDate.getMonth()+MarketGidDate.getDay()+MarketGidDate.getHours()     + '" charset="utf-8" ></scr'+'ipt>'); </p>
+<p> .join_informer_1961 * { border: none; padding: 0; margin: 0; } .join_informer_1961 { text-align:left; clear: both; padding: 5px;} .join_informer_1961 a.join_link, a.join_text {font-size: 12px;  font-family: Arial; margin-bottom:10px;  color:#03275F;text-decoration:none; font-weight:normal;} .join_informer_1961 a.join_link:hover, a.join_text:hover {  color:#03275F;text-decoration:underline;} .join_informer_1961 .join_img {width: 45px; height: 45px; } </p>
+<p> загрузка... </p>
+<p> (function() { var i = document.createElement("script"); i.type = "text/javascript";  i.async = true; i.charset = "utf-8"; i.src = "http://partner.join.com.ua/async/1961/"; var s = document.getElementsByTagName("script")[0];  s.parentNode.insertBefore(i, s); })(); </p>
+<p> Loading... </p>
+<p> Новости партнера </p>
+<p> //<!-- rnd = Math.round((Math.random() * 10000000)); document.write('<iframe src="http://b.adrock.com.ua/?0&2&1&'+rnd+'&0"' + 'width=468 height=60 frameborder=0 vspace=0 hspace=0 marginwidth=0 marginheight=0 scrolling=no>'); document.write('<a href="http://b.adrock.com.ua/c?0&2&1&'+rnd+'" target=_blank>'+ '<img src="http://b.adrock.com.ua/?0&2&1&'+rnd+'&1" alt="AdRock" width=468 height=60 border=0 ismap></a>'); document.write('</iframe>'); //--> </p>
+<p> //<!-- rnd = Math.round((Math.random() * 10000000)); document.write('<iframe src="http://b.adrock.com.ua/?0&2&1&'+rnd+'&0"' + 'width=468 height=60 frameborder=0 vspace=0 hspace=0 marginwidth=0 marginheight=0 scrolling=no>'); document.write('<a href="http://b.adrock.com.ua/c?0&2&1&'+rnd+'" target=_blank>'+ '<img src="http://b.adrock.com.ua/?0&2&1&'+rnd+'&1" alt="AdRock" width=468 height=60 border=0 ismap></a>'); document.write('</iframe>'); //--> </p>
+<p> .all_projects_block{ clear: both; padding: 20px 0px 0px 0px; } .all_projects_block .project_list_wrapper .project_list{ padding: 20px 0px 15px 10px; } .all_projects_block .footer_links_wrapper{ width: 18%;  }  .all_projects_block .project_list_wrapper .project_list ul{ 	padding: 0; 	margin: 0; 	list-style: none; } .all_projects_block .project_list_wrapper .project_list td{padding: 0 1% 0 0;} .all_projects_block .project_list_wrapper .project_list ul li{ font-size: 12px; margin: 5px 0; line-height: 14px; } .all_projects_block .project_list_wrapper .project_list ul li.block_title{ font-size: 14px; font-weight: bold; padding: 0 0 10px 0; color: #000;} .all_projects_block .project_list_wrapper .project_list ul li a{ color: #000000; text-decoration: none; } .all_projects_block .project_list_wrapper .project_list ul li a:hover{ color: #000000; text-decoration: underline; }  .all_projects_block .project_list_wrapper{ background-color: #cccccc; vertical-align: top; } .all_projects_block .footer_links_wrapper{ background-color: #777777; vertical-align: top;} .all_projects_block .footer_links_wrapper .footer_links{ padding: 20px; color: #fff; } .all_projects_block .footer_links_wrapper .footer_links ul{ padding: 0; margin: 0; list-style: none; } .all_projects_block .footer_links_wrapper .footer_links ul li{ font-size: 14px; line-height: 20px; } .all_projects_block .footer_links_wrapper .footer_links a{ color: #fff; text-decoration: underline; } .all_projects_block .footer_links_wrapper .footer_links a:hover{ text-decoration: none; } </p>
+<p> Новости </p>
+<p> Политика </p>
+<p> Экономика </p>
+<p> Общество </p>
+<p> Мир </p>
+<p> Новини </p>
+<p> Культура </p>
+<p> Спорт </p>
+<p> Столица Киев </p>
+<p> Бизнес </p>
+<p> ТЭК </p>
+<p> Индустрия </p>
+<p> Телеком </p>
+<p> IT </p>
+<p> Авто </p>
+<p> Транспорт </p>
+<p> Недвижимость </p>
+<p> Продовольствие </p>
+<p> FMCG </p>
+<p> Реклама и маркетинг </p>
+<p> Новости экономики </p>
+<p> Бизнес-кейсы </p>
+<p> Финансы </p>
+<p> Финансовые новости </p>
+<p> Курсы валют </p>
+<p> Конвертер валют </p>
+<p> Курсы НБУ </p>
+<p> Торги на UX </p>
+<p> Торги на ПФТС </p>
+<p> Кредиты </p>
+<p> Депозиты </p>
+<p> Проекты </p>
+<p> Досье </p>
+<p> Мониторинг СМИ </p>
+<p> Форумы </p>
+<p> Блоги </p>
+<p> Телепрограмма </p>
+<p> Поздравления на 8 марта </p>
+<p> Группа компаний ЛІГА </p>
+<p> Всеукраїнська мережа  ЛІГА:ЗАКОН </p>
+<p> ЛІГА:ЗАКОН </p>
+<p> СИСТЕМИ ЛІГА:ЗАКОН </p>
+<p> ЮРЛИГА </p>
+<p> Всеукраїнська мережа Практикумів </p>
+<p> Право Украины </p>
+<p> Мое Право </p>
+<p> Вища ЛІГА </p>
+<p> ИА ЛІГАБізнесІнформ </p>
+<p> Информационное агентство </p>
+<p> ЛІГАБізнесІнформ </p>
+<p> ЛІГА.net </p>
+<p> 3Doma.ua </p>
+<p> AdRock </p>
+<p> Аренда квартир в Киеве </p>
+<p> ПРЕСС-ЦЕНТР </p>
+<p> LBI Production </p>
+<p> IBG Group </p>
+<p> ЮСКУТУМ </p>
+<p> ЛЕТА </p>
+<p> СОЛАНО </p>
+<p> Ресторан </p>
+<p> Cartel </p>
+<p> Контакты </p>
+<p> Реклама </p>
+<p> Правила перепечатки </p>
+<p> Материалы Пресс-центра "Информационного Агентства "ЛІГАБізнесІнформ" основаны на содержании пресс-конференций, </p>
+<p> круглых столов и пресс-релизов </p>
+<p> © Информационное агентство ЛIГАБiзнесIнформ, 2007-2013 </p>
+<p> © Информационно-аналитический центр "ЛІГА", 1991-2013 </p>
+<p> Все права на материалы, размещенные на портале ЛІГА.net, охраняются в соответствии с законодательством Украины. </p>
+<p> <!--//--><![CDATA[//><!-- var pp_gemius_identifier = new String('bOE7AJfQ8A03e8WtIz43SJYTjy1pTs_SUO0Ccihtbr3.Z7'); //--><!]]> </p>
+<p> (function(w, c) {     (w[c] = w[c] || []).push(function() {         try {             w.yaCounter4185511 = new Ya.Metrika({id:4185511, enableAll: true, webvisor:true});         }         catch(e) { }     }); })(window, "yandex_metrika_callbacks"); </p>
+<p> var MarketGidDate = new Date(); document.write('<scr'+'ipt type="text/javascript" ' +'src="http://jsn.dt00.net/n/e/news.liga.net.8557.js?t='+MarketGidDate.getYear()+MarketGidDate.getMonth()+MarketGidDate.getDay()+MarketGidDate.getHours() + '" charset="windows-1251" ></scr'+'ipt>'); </p>
+<p> <!-- var _ga1_channel='1061'; var _ga1_color = '#03275F'; // --> </p>
+<p> /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */     var disqus_shortname = 'liganet'; // required: replace example with your forum shortname      /* * * DON'T EDIT BELOW THIS LINE * * */     (function () {         var s = document.createElement('script'); s.async = true;         s.type = 'text/javascript';         s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';         (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);     }()); </p>
+<p> <!--//<![CDATA[    document.MAX_ct0 ='INSERT_CLICKURL_HERE';    var m3_u = (location.protocol=='https:'?'https://bg.liga.net/www/delivery/ajs.php':'http://bg.liga.net/www/delivery/ajs.php');    var m3_r = Math.floor(Math.random()*99999999999);    if (!document.MAX_used) document.MAX_used = ',';    document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);    document.write ("?zoneid=144&amp;target=_blank");    document.write ('&amp;cb=' + m3_r);    if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);    document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));    document.write ("&amp;loc=" + escape(window.location));    if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));    if (document.context) document.write ("&context=" + escape(document.context));    if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {        document.write ("&amp;ct0=" + escape(document.MAX_ct0));    }    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");    document.write ("'><\/scr"+"ipt>"); //]]>--> </p>
+<p> new adriver("richnews", {sid:164097, bt:52, bn:4}); </p>
+<p> VK.init({apiId: 2728719, onlyWidgets: true}); </p>
+<p> . </p>
+<p> | </p>
+<p> .. </p>
+<p> // разместил тут потому что redtram перетирает onscroll     $(document).ready(function(){         $(window).scroll(function(){             LigaLazyLoad();         });     }); </p>

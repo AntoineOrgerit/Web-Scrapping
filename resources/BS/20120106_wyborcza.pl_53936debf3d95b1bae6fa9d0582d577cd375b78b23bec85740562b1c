@@ -1,0 +1,264 @@
+<p> W Rzeszowie nie chcą szczepić </p>
+<p> var now = new Date(2013, 3, 9, 21, 53, 3); </p>
+<p> document.write('<scr'+'ipt type=\"text/javascript\" src=\"http://ad.adview.pl/ad/BehavPixel.servlet?dir='+/gazetawyborcza/+'&dx='+76842+'"><\/script>'); </p>
+<p> var profileBan; 			if (typeof profileCookie != 'undefined'){ 				profileBan = profileCookie;  			}else { 				profileBan = null; 			}	 			var asParams; 			if (typeof n_pbt != 'undefined' && n_pbt != ''){ 				asParams = '&asParams=' + n_pbt;  			}else { 				asParams = ''; 			} 			document.write('<scr'+'ipt type="text/javascript" src="http://ad.adview.pl/ad/GetBan?dir=/gazetawyborcza/&jsp=23&dx=76842&t='+(new Date()).getTime()+'&p='+profileBan+asParams+'"><\/script>'); 			 			document.write('<scr'+'ipt type="text/javascript" src="http://bi.adview.pl/info/ban/banFunc.js"><\/script>'); </p>
+<p> putBan(2); </p>
+<p> var _sf_startpt=(new Date()).getTime() </p>
+<p> <!-- if (top.frames.length!=0) top.location=self.document.location; // --> </p>
+<p> <!--     var pp_gemius_identifier = new String('Apg7Ka_gcNYT1jBafP32V7R3P50WYYeMaHKm5ELGb53.c7/arg=76842/sarg='+'|'+profileCookie);  //--> </p>
+<p> <!--  protokol = /^https/i;  if ( protokol.test(window.location.href) )  {  document.writeln('<'+'scr'+'ipt type="text/javascript" src="https://gazeta.hit.gemius.pl/xgemius.js"></'+'scr'+'ipt>');  }  else  {  document.writeln('<'+'scr'+'ipt type="text/javascript" src="http://gazeta.hit.gemius.pl/xgemius.js"></'+'scr'+'ipt>');  }  //--> </p>
+<p> //<![CDATA[    var gazeta_pl = {  documentParam: {"root": "/gazetawyborcza/" }  , topLayerNewsletterConfig: {   uri: '',   closed_cookie_name: '',   signed_cookie_name: '' }  }; //]]> </p>
+<p> var _gaq = _gaq || [];  var utmgif = 'http://kropka.'+ window.location.hostname+'/__utm.gif';  _gaq.push(['_setAccount', 'UA-426268-1']);   _gaq.push(['_setCampaignCookieTimeout', 0]);   _gaq.push(['_trackPageview']);   _gaq.push(['second._setAccount', 'UA-426268-57']);   _gaq.push(['second._setCampaignCookieTimeout', 0]);   _gaq.push(['second._setLocalGifPath',utmgif]);   _gaq.push(['second._setLocalRemoteServerMode']);   _gaq.push(['second._trackPageview']);   (function() {  var ga = document.createElement('script');  ga.type = 'text/javascript'; ga.async = true;  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') +  '.google-analytics.com/ga.js';  var s = document.getElementsByTagName('script')[0];  s.parentNode.insertBefore(ga, s);  })(); </p>
+<p> (function() {  var tg = document.createElement('script');  tg.type = 'text/javascript';  tg.async = true;  tg.src = 'http://analytics.gazeta.pl/tg.js';  var s = document.getElementsByTagName('script')[0];  s.parentNode.insertBefore(tg, s);  })(); </p>
+<p> window.gazeta_pl = window.gazeta_pl || {}; window.gazeta_pl.functionQueue = window.gazeta_pl.functionQueue || []; window.gazeta_pl.functionQueue.push(function(){ 	function facebookReady(){ 		FB.init({ 	      appId  : 199770596725532, 	      status : true, // check login status  	      cookie : true, // enable cookies to allow the server to access the session 	      xfbml  : true,  // parse XFBML 	      oauth  : true,  // OAuth 2.0 	      //channelUrl: 'http://bi.gazeta.pl/info/facebook/fbjs.html' 	    });  		window.postFbInit();  	} 	if(window.FB) { 		facebookReady(); 	} else { 		window.fbAsyncInit = facebookReady; 	} 	 });  //Load the SDK Asynchronously   (function(d){      var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}      js = d.createElement('script'); js.id = id; js.async = true;      js.src = "//connect.facebook.net/pl_PL/all.js";      d.getElementsByTagName('head')[0].appendChild(js);    }(document)); </p>
+<p> window.___gcfg = {         lang: 'pl'       };        (function() {         var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;         po.src = 'https://apis.google.com/js/plusone.js';         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);       })(); </p>
+<p> var idPogoda=""; </p>
+<p> putBan(49); </p>
+<p> var pianoVariables = { 	service_id: '163', 	mode: 'bar_normal', 	method_verify:true }; var pianoHostProtocol = (("https:" == document.location.protocol) ? "https://" : "http://"); (function() { 	var s = document.createElement('script'); 	s.type = 'text/javascript'; 	s.async = true; 	s.src = pianoHostProtocol + 'pl.bar.pianomedia.eu/bar.js'; 	var p = document.getElementsByTagName('script')[0]; p.parentNode.insertBefore(s, p);  	if (typeof firstVisitSetCookieInfo == 'undefined') return;      var checkPianoAvaiable = setInterval(function() {         if (document.getElementById('piano-root') && document.body.childNodes[0].id != 'cookieInfoMsgWrapper') {             document.body.insertBefore(document.getElementById('cookieInfoMsgWrapper'),document.body.childNodes[0])             window.clearInterval(checkPianoAvaiable);         };     },100); 	 })(); </p>
+<p> Strona główna Gazeta.pl </p>
+<p> Tokfm.pl </p>
+<p> Poczta </p>
+<p> Forum </p>
+<p> Blogi </p>
+<p> Gazeta Wyborcza </p>
+<p> więcej </p>
+<p> Pogoda </p>
+<p> Archiwum </p>
+<p> Gry </p>
+<p> Programy </p>
+<p> Prezenty w Okazje.info </p>
+<p> Zaloguj się </p>
+<p> var gazeta_pl = gazeta_pl || {}; gazeta_pl.gameCenterRefresh = 0; </p>
+<p> putBan(1); </p>
+<p> Archiwum </p>
+<p> putBan(71); </p>
+<p> w serwisie </p>
+<p> w archiwum </p>
+<p> w internecie </p>
+<p> Witamy w Polsce </p>
+<p> Fałszywa reporterka TVN grasuje po kraju. Za rachunki nie płaci </p>
+<p> Magazyn Świąteczny </p>
+<p> Głowacki: Gdy wygra PiS, równie śmiesznego miejsca nie będzie </p>
+<p> Piątek Ekstra </p>
+<p> Dorwać prywaciarza. "Układ zamknięty" - film niewygodny dla władzy? </p>
+<p> Duży Format </p>
+<p> Bezdomna, ale żebrać nie będzie. Sprzedaje kwiaty, czyta "Quo vadis" </p>
+<p> Międzynarodowy </p>
+<p> Dlaczego w Szwecji nienawidzą kobiet. Czy to "efekt Breivika" </p>
+<p> Ale historia </p>
+<p> Elżbieta Batory słynęła z urody. To pierwsza seryjna morderczyni? </p>
+<p> Opinie </p>
+<p> Pomnik Sprawiedliwych w miejscu żydowskiego cierpienia </p>
+<p> WYSOKIE OBCASY </p>
+<p> Suknie balowe w obozie. Władze chciały zamęczyć i wyszydzić </p>
+<p> Sport.pl Ekstra </p>
+<p> Rosnący brzuch zmienia perspektywę. Także w sporcie </p>
+<p> MATERIAŁY PŁATNE, DOSTĘPNE W SYSTEMIE PIANO </p>
+<p> Więcej </p>
+<p> Kraj </p>
+<p> Quiz polityczny </p>
+<p> Rozmowy Kublik </p>
+<p> Świat </p>
+<p> Kultura </p>
+<p> Książki </p>
+<p> Film </p>
+<p> Muzyka </p>
+<p> Sztuka </p>
+<p> Teatr </p>
+<p> Telewizja </p>
+<p> NIKE 2012 </p>
+<p> Nauka </p>
+<p> Zdrowie </p>
+<p> Poczta Teremiski </p>
+<p> Opinie </p>
+<p> Komentarze </p>
+<p> Miasta </p>
+<p> Warszawa </p>
+<p> Białystok </p>
+<p> Bielsko-Biała </p>
+<p> Bydgoszcz </p>
+<p> Częstochowa </p>
+<p> Gorzów Wlkp. </p>
+<p> Katowice </p>
+<p> Kielce </p>
+<p> Kraków </p>
+<p> Lublin </p>
+<p> Łódź </p>
+<p> Olsztyn </p>
+<p> Opole </p>
+<p> Płock </p>
+<p> Poznań </p>
+<p> Radom </p>
+<p> Rzeszów </p>
+<p> Szczecin </p>
+<p> Toruń </p>
+<p> Trójmiasto </p>
+<p> Wrocław </p>
+<p> Zielona Góra </p>
+<p> Ale historia </p>
+<p> Wideo </p>
+<p> Duży Format </p>
+<p> Piątek Ekstra </p>
+<p> Świąteczny </p>
+<p> Międzynarodowy </p>
+<p> Nekrologi </p>
+<p> Nekrologi </p>
+<p> Wspomnienia </p>
+<p> Płatne </p>
+<p> wszystkie </p>
+<p> Jak urządzić świat? </p>
+<p> Trasy magiczne </p>
+<p> Sport.pl ekstra </p>
+<p> Kraj </p>
+<p> Wiadomości z regionów </p>
+<p> Świat </p>
+<p> Komentarze </p>
+<p> Kultura </p>
+<p> Nauka </p>
+<p> Gospodarka </p>
+<p> Sport </p>
+<p> Listy do "Gazety" </p>
+<p> Poradniki GW </p>
+<p> Akcje społeczne </p>
+<p> Młodzi odwagi </p>
+<p> Leczyć po ludzku </p>
+<p> Ale historia </p>
+<p> Duży Format </p>
+<p> Piątek Ekstra </p>
+<p> Nowa Świąteczna </p>
+<p> Wysokie Obcasy </p>
+<p> Witamy w Polsce </p>
+<p> Duży Kadr </p>
+<p> Wideo </p>
+<p> Archiwum Świątecznej </p>
+<p> Świąteczna krzepi </p>
+<p> Arka Noego </p>
+<p> Dwie na jednego </p>
+<p> Klub Goście Gazety </p>
+<p> Wyborcza do wyboru </p>
+<p> Tablet </p>
+<p> Kindle </p>
+<p> Smartphone </p>
+<p> E-wydanie </p>
+<p> Prenumerata </p>
+<p> Archiwum </p>
+<p> Galeria okładek </p>
+<p> Presscliping </p>
+<p> Newsletter </p>
+<p> Kolekcje Gazety </p>
+<p> Reklama w GW </p>
+<p> Patronaty Wyborcza.pl </p>
+<p> Wyborcza.pl </p>
+<p> .biz </p>
+<p> Wysokie Obcasy </p>
+<p> Sport </p>
+<p> __nav_init(); </p>
+<p> putBan(56); </p>
+<p> Gazeta Wyborcza </p>
+<p> > </p>
+<p> Teksty </p>
+<p> putBan(91); </p>
+<p> W Rzeszowie nie chcą szczepić </p>
+<p> Agata Kulczycka, Rzeszów </p>
+<p> 28.12.2011 										 										, aktualizacja: 28.12.2011 12:17 </p>
+<p> A </p>
+<p> A </p>
+<p> A </p>
+<p> Drukuj </p>
+<p> Grypa </p>
+<p> (Fot. Filip Klimaszewski / Agencja Gazeta) </p>
+<p> Rodzice maluchów z rzeszowskich żłobków nie chcą ich szczepić przeciwko pneumokokom i meningokokom, mimo że warte kilkaset złotych szczepionki funduje miasto </p>
+<p> Program profilaktycznych szczepień dla </p>
+<p> dzieci </p>
+<p> z rzeszowskich żłobków zakończył się 15 grudnia. - Każdy rodzic, który zdeklarował, że chce zaszczepić swoje </p>
+<p> dziecko </p>
+<p> , miał taką szansę - mówi Renata Żukowska, dyrektorka wydziału zdrowia urzędu miasta. Warunki były niewygórowane: dziecko musiało być zameldowane w Rzeszowie, chodzić do żłobka, mieć ukończone dwa lata w przypadku pneumokoków lub rok - w przypadku meningokoków. </p>
+<p> To szczepienia nieobowiązkowe, </p>
+<p> rodzice </p>
+<p> mogli zaoszczędzić nawet 390 zł (140 zł - meningokoki i 250 zł pneumokoki). Zainteresowanie było duże: - Rodzice pytali, uzgadniali terminy i nigdy się na nie nie zgłaszali - mówi Elżbieta Moskal, pielęgniarka koordynująca szczepienia. Ze szczepień skorzystało 283 dzieci, ok. 60 proc. tych, których rodzice zadeklarowali, że są zainteresowani. </p>
+<p> - Mieliśmy szczepionki najlepszej jakości, a zakażenie tymi bakteriami jest niezwykle groźne. Oferowaliśmy dogodne warunki: rodzice mogli przychodzić od godz. 8 do 17 prawie codziennie - mówi Moskal. </p>
+<p> Akcja szczepień trwała w Rzeszowie trzy lata. W przyszłym roku </p>
+<p> Rzeszów </p>
+<p> z powodu niskiej frekwencji zrezygnuje z nich, w ich miejsce pojawią się badania tarczycy dla kobiet, które ukończyły 40 lat. </p>
+<p> var rTeraz = new Date(1365537183668); function klodka (ddo) { 	if (rTeraz.getTime()>=ddo.getTime()) 		document.write('<'+'img src="/i/szukaj/k2b.gif" width=20 height=18 border=0 align="absmiddle"'+'>'); } </p>
+<p> var rTeraz = new Date(1333540082289); 					function klodka (ddo) { 						if (rTeraz.getTime()>=ddo.getTime()) 							document.write('<'+'img src="/i/szukaj/k2b.gif" width=20 height=18 border=0 align="absmiddle"'+'>'); 					} </p>
+<p> ZOBACZ TAKŻE </p>
+<p> Leki za pięć dwunasta </p>
+<p> Uwaga na grypę </p>
+<p> Ludzie jak osy </p>
+<p> var artykuly = new Array();  function show(x2){         for(var ii=0; ii < artykuly.length; ii++){                 var obj=document.getElementById("li"+artykuly[ii]);                 if (artykuly[ii]==x2){                         obj.style.display="none";                  }         } } function xxFromHref(href){         var wynik=new String(href);         var indx1=wynik.indexOf(",");         var indx2=0;         if (indx1 > 0) {//                 wynik=wynik.substring(indx1+1);                 indx1=wynik.indexOf(",");                 if (indx1 > 0){                         wynik=wynik.substring(indx1+1);                         indx1=wynik.indexOf(",");                         if (indx1 > 1){                                 wynik=wynik.substring(0,indx1);                         }                 }         }         indx2=wynik.lastIndexOf(".");         if (indx2 > 0) wynik=wynik.substring(0,indx2);         return wynik; } var xx=xxFromHref(window.top.location); var indx=0; </p>
+<p> Hugo-Bader, Stasiuk, Waglewski... Nowy numer magazynu KONTYNENTY na czytniki i tablety </p>
+<p> | SPRAWDŹ! </p>
+<p> show(xx); </p>
+<p> 0 </p>
+<p> Skomentuj </p>
+<p> Wyślij </p>
+<p> e-mailem </p>
+<p> putBan(4); </p>
+<p> Skomentuj: </p>
+<p> Zaloguj się </p>
+<p> lub </p>
+<p> zarejestruj </p>
+<p> , aby dodać komentarz </p>
+<p> Aby ocenić </p>
+<p> zaloguj się </p>
+<p> lub </p>
+<p> zarejestruj </p>
+<p> X </p>
+<p> putBan(85); </p>
+<p> <!-- 	var google_ad_client = 'ca-agora-pl_html'; 	var google_language = 'pl'; 	var google_gl = 'pl'; 	var google_encoding = 'utf8'; 	var google_safe = 'high';  	var google_color_bg = 'FFFFFF'; 	var google_color_border = 'FFFFFF'; 	var google_color_line = 'FFFFFF'; 	var google_color_link = '334fdb'; 	var google_color_text = '000000'; 	var google_color_url = '008000';   // --> </p>
+<p> putBan(62); </p>
+<p> var gazeta_pl = gazeta_pl || {}; 						  gazeta_pl.ArticleBannerConfig = { 						      "nobanner": false, 						      "elem": "banP62" 						  }; </p>
+<p> putBan(3); </p>
+<p> putBan(13); </p>
+<p> putBan(11); </p>
+<p> putBan(43); </p>
+<p> putBan(50); </p>
+<p> putBan(21); </p>
+<p> putBan(96); </p>
+<p> putBan(97); </p>
+<p> putBan(60); </p>
+<p> putBan(61); </p>
+<p> putBan(46); </p>
+<p> putBan(57); </p>
+<p> putBan(35); </p>
+<p> putBan(88); </p>
+<p> putBan(42); </p>
+<p> Na skróty: </p>
+<p> Gazeta.pl </p>
+<p> Wiadomości </p>
+<p> Sport.pl </p>
+<p> Biznes </p>
+<p> Gazeta Wyborcza </p>
+<p> Praca </p>
+<p> Program TV </p>
+<p> Polecamy: </p>
+<p> eMetro </p>
+<p> Dodaj ogłoszenie </p>
+<p> Reklama w Gazecie </p>
+<p> Nadaj nekrolog </p>
+<p> Wyniki Lotto </p>
+<p> Oferty nieruchomości </p>
+<p> Newsletter </p>
+<p> Facebook </p>
+<p> RSS </p>
+<p> Poczta </p>
+<p> Copyright </p>
+<p> © </p>
+<p> Agora SA </p>
+<p> O nas </p>
+<p> Staże u nas </p>
+<p> Reklama </p>
+<p> Prywatność </p>
+<p> Wszystkie artykuły </p>
+<p> Licencje </p>
+<p> Poleć stronę </p>
+<p> Zgłoś błąd </p>
+<p> <!--         function getCookie(name) {             var start = document.cookie.indexOf(name+"=");             var len = start+name.length+1;             if ((!start) && (name != document.cookie.substring(0,name.length))) return null;             if (start == -1) return null;             var end = document.cookie.indexOf(";",len);             if (end == -1) end = document.cookie.length;             return unescape(document.cookie.substring(len,end));         }         document.write('<'+'img src="https://p.gazeta.pl/?b=1&x=10877117&d=0&o=1&t='+(new Date()).getTime()+'&w=76842&u='+banCookie+'"'+'>');     //--> </p>
+<p> tyntVariables = {"ap":"Wi\u0119cej... "}; </p>
+<p> var _sf_async_config={uid:14371,domain:"wyborcza.pl"}; 		 	(function(){ 	function loadChartbeat() { 	window._sf_endpt=(new Date()).getTime(); 	var e = document.createElement('script'); 	e.setAttribute('language', 'javascript'); 	e.setAttribute('type', 'text/javascript'); 	e.setAttribute('src', 	(("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") + 	"js/chartbeat.js"); 	document.body.appendChild(e); 	} 	var oldonload = window.onload; 	window.onload = (typeof window.onload != 'function') ? 	loadChartbeat : function() { oldonload(); loadChartbeat(); }; 	})(); </p>
+<p> putBan(19); </p>
+<p> putBan(41); </p>
+<p> countBan(76842); </p>
+<p> putBan(94); </p>
+<p> function postFbInit(){ 		     	if(typeof enableFBComments != 'undefined' && enableFBComments == true) {     		gazeta_pl.FBComments.init();     	}     	     	if(typeof facebookMessageBody != 'undefined') {     		facebookMessageBody = facebookMessageBody.replace(/\[\/?\s*(quote|b|u|i|url|email|code|sonda|spoiler|video|\*).*?\]/g, '');              var FBCommentsConfig = {                  message : facebookMessageBody,                  link : 'http://wyborcza.pl/1,76842,10877117,W_Rzeszowie_nie_chca_szczepic.html?utm_source=facebook.com&utm_medium=SM&utm_campaign=FB_Komentarze',                  name: 'Przejdź do strony'              };              gazeta_pl.FBComments.send(FBCommentsConfig);         }                   gazeta_pl.FBC.init();          	} </p>

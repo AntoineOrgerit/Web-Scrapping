@@ -1,0 +1,289 @@
+<p> 瑞翎谷：今日欧美以看空为主(图) - FX168外汇宝网站 </p>
+<p> //iframe高度自适应 		function IFrameReSize(iframename) { 			var pTar = document.getElementById(iframename); 			if (pTar) {  //ff 				if (pTar.contentDocument && pTar.contentDocument.body.offsetHeight) { 					pTar.height = pTar.contentDocument.body.offsetHeight; 				} //ie 				else if (pTar.Document && pTar.Document.body.scrollHeight) { 					pTar.height = pTar.Document.body.scrollHeight; 				} 			} 		} 		//iframe宽度自适应 		function IFrameReSizeWidth(iframename) { 			var pTar = document.getElementById(iframename); 			if (pTar) {  //ff 				if (pTar.contentDocument && pTar.contentDocument.body.offsetWidth) { 					pTar.width = pTar.contentDocument.body.offsetWidth; 				}  //ie 				else if (pTar.Document && pTar.Document.body.scrollWidth) { 					pTar.width = pTar.Document.body.scrollWidth; 				} 			} 		} 		<!--导航菜单--> 		 		function MM_reloadPage(init) {  //reloads the window if Nav4 resized 		  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) { 			document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }} 		  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload(); 		} 		MM_reloadPage(true); 		function MM_findObj(n, d) { //v4.0 		  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) { 			d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);} 		  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n]; 		  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document); 		  if(!x && document.getElementById) x=document.getElementById(n); return x; 		} 		function MM_showHideLayers() { //v9.0 		  var i,p,v,obj,args=MM_showHideLayers.arguments; 		  for (i=0; i<(args.length-2); i+=3)  		  with (document) if (getElementById && ((obj=getElementById(args[i]))!=null)) { v=args[i+2]; 			if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v=='hide')?'hidden':v; } 			obj.visibility=v; } 		} </p>
+<p> 现货外汇 </p>
+<p> 期货外汇 </p>
+<p> 人民币行情 </p>
+<p> 股指金属 </p>
+<p> 银行拆借 </p>
+<p> 各国债券 </p>
+<p> 黄金权证 </p>
+<p> 图形分析 </p>
+<p> * </p>
+<p> 旧版图形 </p>
+<p> 支持阻力 </p>
+<p> 所有信息 </p>
+<p> 汇市指南 </p>
+<p> 央行动态 </p>
+<p> 人民币 </p>
+<p> 传媒头条 </p>
+<p> 滚动要闻 </p>
+<p> 金融商品 </p>
+<p> 国际组织 </p>
+<p> 专家建议 </p>
+<p> 专题报导 </p>
+<p> 银行汇评 </p>
+<p> 货币分析 </p>
+<p> 指标速报 </p>
+<p> 官员喊话 </p>
+<p> 其他速递 </p>
+<p> 美联储 </p>
+<p> 美商务部 </p>
+<p> 美劳工部 </p>
+<p> 美能源部 </p>
+<p> 美财政部 </p>
+<p> 美国指标 </p>
+<p> 各国指标 </p>
+<p> 财经月历 </p>
+<p> 信用评级 </p>
+<p> 网上开户 </p>
+<p> 免费试用 </p>
+<p> 实时报价 </p>
+<p> 金汇网站 </p>
+<p> 会员首页 </p>
+<p> 会员注册 </p>
+<p> 免费服务 </p>
+<p> 收费服务 </p>
+<p> 会员积分 </p>
+<p> 中行外汇宝 </p>
+<p> 中行黄金宝 </p>
+<p> 中行双向宝 </p>
+<p> 双向宝大赛 </p>
+<p> 产品信息 </p>
+<p> 相关利率 </p>
+<p> 专家心得 </p>
+<p> 产品教室 </p>
+<p> 首页 </p>
+<p> > </p>
+<p> 机构汇评 </p>
+<p> > </p>
+<p> 瑞翎谷 </p>
+<p> 正文 </p>
+<p> 相关资讯 </p>
+<p> 01/16 瑞翎谷：今日欧美以看空为主(图) </p>
+<p> 01/13 瑞翎谷：今日欧美以看空为主(图) </p>
+<p> 01/12 瑞翎谷：今日欧美以观望为主(图) </p>
+<p> 01/11 瑞翎谷：今日欧美以看空为主(图) </p>
+<p> 01/10 瑞翎谷：今日欧美以看空为主(图) </p>
+<p> 01/06 瑞翎谷：今日欧美以做空为主(图) </p>
+<p> 01/05 瑞翎谷：今日欧美以观望为主(图) </p>
+<p> 01/04 瑞翎谷：今日欧美以看空为主(图) </p>
+<p> 瑞翎谷：今日欧美以看空为主(图) </p>
+<p> 【北京时间 2012年01月17日 15:33】 </p>
+<p> 我要评论 </p>
+<p> ( </p>
+<p> 0 </p>
+<p> ) </p>
+<p> 背景色 </p>
+<p> 字号 </p>
+<p> 最大 </p>
+<p> 较大 </p>
+<p> 默认 </p>
+<p> 较小 </p>
+<p> 最小 </p>
+<p> 收藏&分享 </p>
+<p> 本地收藏夹 </p>
+<p> 百度搜藏 </p>
+<p> 雅虎收藏 </p>
+<p> QQ书签 </p>
+<p> 新浪ViVi </p>
+<p> 新浪微博 </p>
+<p> 豆瓣 </p>
+<p> 人人网 </p>
+<p> 开心网 </p>
+<p> 搜狐 白 </p>
+<p> 微软Live </p>
+<p> 同学微博 </p>
+<p> 转发 </p>
+<p> 推荐 </p>
+<p> 纠错 </p>
+<p> 关注 </p>
+<p> FX168 新浪微博 </p>
+<p> FX168 139说客 </p>
+<p> FX168 腾讯微博 </p>
+<p> FX168 和讯微博 </p>
+<p> FX168 搜狐微博 </p>
+<p> EUR/USD </p>
+<p> 汇评：标普继周五下调欧元区 </p>
+<p> 9 </p>
+<p> 个国家评级之后，周一又将欧洲金融稳定基金 </p>
+<p> EFSF </p>
+<p> 评级自 </p>
+<p> AAA </p>
+<p> 下调至 </p>
+<p> AA+ </p>
+<p> ；法国成功拍卖 </p>
+<p> 85.9 </p>
+<p> 亿欧元债券，债券收益率低于上次拍卖。但美国市场休市，盘面相对清淡。欧美日图下行趋势强劲，随机指标反弹乏力。今日 </p>
+<p> 17:30 </p>
+<p> 西班牙举行国债拍卖， </p>
+<p> 18:00 </p>
+<p> 希腊举行国债拍卖， </p>
+<p> 19:00 </p>
+<p> 欧盟救援基金 </p>
+<p> EFSF </p>
+<p> 拍卖债券。今日欧美以看空为主。阻力位： </p>
+<p> 1.2770  1.2860 </p>
+<p> ，支撑位： </p>
+<p> 1.2660  1.2600* </p>
+<p> 做空： </p>
+<p> 4 </p>
+<p> 小时图，若汇价在 </p>
+<p> 1.2770 </p>
+<p> 受到有效阻力，则我们做空，盈利目标 </p>
+<p> 50 </p>
+<p> 点该汇评日内有效，短线操作仅供参考 </p>
+<p> GBP/USD </p>
+<p> 汇评：标普宣布将 </p>
+<p> EFSF </p>
+<p> 的 </p>
+<p> AAA </p>
+<p> 评级调降至 </p>
+<p> AA+ </p>
+<p> ，前景展望由负面上调为发展。不过惠誉上周就已经表示在 </p>
+<p> 2012 </p>
+<p> 年不会下调法国评级以及穆迪也表示暂时会继续维持法国 </p>
+<p> 3A </p>
+<p> 评级。昨日由于美国市场休市，盘面相对清淡。镑美日图下跌趋势强劲，随机指标处于超卖。今日 </p>
+<p> 17:30 </p>
+<p> 西班牙举行国债拍卖，英国 </p>
+<p> 12 </p>
+<p> 月消费者物价指数年率， </p>
+<p> 18:00 </p>
+<p> 希腊举行国债拍卖， </p>
+<p> 19:00 </p>
+<p> 欧盟救援基金 </p>
+<p> EFSF </p>
+<p> 拍卖债券。今日镑美以看空为主。阻力位： </p>
+<p> 1.5400  1.5460 </p>
+<p> ，支撑位： </p>
+<p> 1.5280  1.5230* </p>
+<p> 做空： </p>
+<p> 4 </p>
+<p> 小时图，若汇价在 </p>
+<p> 1.5400 </p>
+<p> 受到有效阻力，则我们做空，盈利目标 </p>
+<p> 50 </p>
+<p> 点该汇评日内有效，短线操作仅供参考 </p>
+<p> AUD/USD </p>
+<p> 汇评：早盘公布的中国第四季度实际 </p>
+<p> GDP </p>
+<p> 年率为 </p>
+<p> 8.8% </p>
+<p> ，好于预期的 </p>
+<p> 8.7% </p>
+<p> ，差于前值的 </p>
+<p> 9.1% </p>
+<p> ，中国公布的经济数据总体较为强劲，澳美应声上扬。标普宣布将 </p>
+<p> EFSF </p>
+<p> 的 </p>
+<p> AAA </p>
+<p> 评级调降至 </p>
+<p> AA+ </p>
+<p> ，前景展望由负面上调为发展；法国成功拍卖 </p>
+<p> 85.9 </p>
+<p> 亿欧元债券，债券收益率低于上次拍卖。澳美日图随机指标处于超买，但仍未显示回落迹象。今日 </p>
+<p> 17:30 </p>
+<p> 西班牙举行国债拍卖， </p>
+<p> 18:00 </p>
+<p> 希腊举行国债拍卖， </p>
+<p> 19:00 </p>
+<p> 欧盟救援基金 </p>
+<p> EFSF </p>
+<p> 拍卖债券。今日澳美以震荡为主。阻力位： </p>
+<p> 1.0380  1.0450 </p>
+<p> ，支撑位： </p>
+<p> 1.0280  1.0200* </p>
+<p> 做空： </p>
+<p> 4 </p>
+<p> 小时图，若汇价在 </p>
+<p> 1.0380 </p>
+<p> 受到有效阻力，则我们做空，盈利目标 </p>
+<p> 50 </p>
+<p> 点 </p>
+<p> * </p>
+<p> 做多： </p>
+<p> 4 </p>
+<p> 小时图，若汇价有效突破 </p>
+<p> 1.0380 </p>
+<p> ，则我们做多，盈利目标 </p>
+<p> 50 </p>
+<p> 点 </p>
+<p> 4 </p>
+<p> 小时图，若汇价在 </p>
+<p> 1.0280 </p>
+<p> 受到有效支撑，则我们做多，盈利目标 </p>
+<p> 50 </p>
+<p> 点该汇评日内有效，短线操作仅供参考 </p>
+<p> 杭州瑞翎谷投资管理有限公司 </p>
+<p> 2012.1.17 </p>
+<p> <本文结束> </p>
+<p> www.FX168.com </p>
+<p> 收藏&分享 </p>
+<p> 本地收藏夹 </p>
+<p> 百度搜藏 </p>
+<p> 雅虎收藏 </p>
+<p> QQ书签 </p>
+<p> 新浪ViVi </p>
+<p> 新浪微博 </p>
+<p> 豆瓣 </p>
+<p> 人人网 </p>
+<p> 开心网 </p>
+<p> 搜狐 白 </p>
+<p> 微软Live </p>
+<p> 同学微博 </p>
+<p> 转发 </p>
+<p> 推荐 </p>
+<p> 纠错 </p>
+<p> 关注 </p>
+<p> FX168 新浪微博 </p>
+<p> FX168 139说客 </p>
+<p> FX168 腾讯微博 </p>
+<p> FX168 和讯微博 </p>
+<p> FX168 搜狐微博 </p>
+<p> 请选择看到此文时的心情 </p>
+<p> [ </p>
+<p> 查看更多心情排行 </p>
+<p> ] </p>
+<p> 关键字： </p>
+<p> 瑞翎谷 </p>
+<p> 汇市评论 </p>
+<p> |  1068  &nbsp </p>
+<p> 以上内容仅供参考，未经授权，不得转载！ </p>
+<p> 版权声明 </p>
+<p> 风险提示 </p>
+<p> 免责声明 </p>
+<p> 给主编写信 </p>
+<p> FX168财经集团： </p>
+<p> www.FX168.com </p>
+<p> www.24K99.com </p>
+<p> www.2Rich.net </p>
+<p> www.99QH.com </p>
+<p> 手机外汇宝 </p>
+<p> | </p>
+<p> RSS订阅中心 </p>
+<p> | </p>
+<p> 历史新闻 </p>
+<p> | </p>
+<p> 网站地图 </p>
+<p> | </p>
+<p> 收费服务 </p>
+<p> | </p>
+<p> 关于我们 </p>
+<p> | </p>
+<p> 广告联系 </p>
+<p> | </p>
+<p> 敬告读者 </p>
+<p> | </p>
+<p> About </p>
+<p> | </p>
+<p> FX168财经集团动态 </p>
+<p> 上海 021-63865123  |  北京 010-63983029  |  大连 0411-84800750 </p>
+<p> 南京 025-83808038  |  广州 013570408676  |  深圳 013724303427 </p>
+<p> 杭州 013957169629  |  温州 013858868321  |  重庆 018602310959 </p>
+<p> 上海科视数码频道制作有限公司版权所有  未经授权禁止复制、建立镜像、链接! </p>
+<p> 免费客服热线：4006-168-525 </p>
+<p> 所有内容仅供阁下自行研究参考，并非建议或暗示阁下做任何有关投资或理财的决定，阁下所做的任何交易决定应自行负责。 </p>
+<p> 沪ICP备 </p>
+<p> 05009270号 </p>
+<p> var _gaq = _gaq || [];               _gaq.push(['_setAccount', 'UA-9989844-1']);               _gaq.push(['_setDomainName', '.fx168.com']);               _gaq.push(['_trackPageview']);              (function() {                 var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;                 ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';                 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);              })(); </p>
+<p> SelectStyle(); </p>

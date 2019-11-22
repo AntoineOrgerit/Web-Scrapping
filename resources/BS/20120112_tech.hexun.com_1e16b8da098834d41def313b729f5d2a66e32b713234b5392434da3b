@@ -1,0 +1,204 @@
+<p> CES2012报道：尼康1系列展台魅力四射-科技频道-和讯网 </p>
+<p> #head2010 .navetc{height:27px; overflow:hidden; font-family:"宋体";} #head2010 .navL a{ padding:0px 2px;} #head2010 .navetc .navL{ width:840px; float:left; padding:3px 0 0 0; height: 52px; border-right:#bebebe 1px solid;}  #head2010 .navetc .navR{ width:111px; float:right; padding:3px 3px 3px 0; overflow: hidden;} #hexunMember_isloginedSetup_span_display_username{ width: 49px; height: 20px; overflow: hidden; text-align: right; padding:0 0 0 8px; margin-right: 5px;} #hexunMember_nologinSetup_div_display_nologin{ height: 20px; padding: 1px 0 0 0; line-height: 20px; text-align: center; background: #e8e8e8; overflow:hidden; margin-bottom:3px;} #hexunMember_isloginedSetup_div_display{ height: 20px; padding: 1px 0 0 0; line-height: 20px; text-align: center; background: #e8e8e8 } #hexunCalendar a,#hexunCalendar a:hover{ color:#C7E1FC;} </p>
+<p> 首页 </p>
+<p> - </p>
+<p> 新闻 </p>
+<p> - </p>
+<p> 股票 </p>
+<p> - </p>
+<p> 基金 </p>
+<p> - </p>
+<p> 期货 </p>
+<p> - </p>
+<p> 期指 </p>
+<p> - </p>
+<p> 黄金 </p>
+<p> - </p>
+<p> 外汇 </p>
+<p> - </p>
+<p> 债券 </p>
+<p> - </p>
+<p> 理财 </p>
+<p> - </p>
+<p> 银行 </p>
+<p> - </p>
+<p> 保险 </p>
+<p> - </p>
+<p> 信托 </p>
+<p> - </p>
+<p> 房产 </p>
+<p> - </p>
+<p> 汽车 </p>
+<p> - </p>
+<p> 科技 </p>
+<p> - </p>
+<p> 股吧 </p>
+<p> - </p>
+<p> 论坛 </p>
+<p> - </p>
+<p> 博客 </p>
+<p> - </p>
+<p> 微博 </p>
+<p> - </p>
+<p> 视频 </p>
+<p> - </p>
+<p> 理财服务 </p>
+<p> - </p>
+<p> Ａ股超市 </p>
+<p> var href=window.location.href;    hexunMember_loginSetup_signOutURL=href;//登出地址 hexunMember_loginSetup_noLoginDisplayMsg=""; //没登陆的提示 hexunMember_loginSetup_noLoginDisplayFlag="|";//登录和注册中间的分隔符号 或 用户名与登出中间的分隔符号，不需要分隔符可以为空 hexunMember_loginSetup_islogined_isDisplay=true;//如果是登陆状态，true=显示用户名和登出按钮等信息,flase=不显示任何信息 hexunMember_loginSetup_referrer=document.referrer;//请不要修改此项 hexunMember_loginSetup_MastLogin=0;//如果需要不登陆就一直弹窗，在此设置一下弹窗时间间隔(秒)。如果等于0本项无效 </p>
+<p> 设和讯为首页 </p>
+<p> 手机版 </p>
+<p> 手机版 </p>
+<p> (function(){ var obj = document.getElementById('phoneNewsText'); var url = window.location.href; if(url.indexOf('news.hexun.com')!=-1) {    obj.style.margin = '17px 0 0 20px';    obj.innerHTML = '免费手机资讯客户端下载';    obj.href = 'http://3g.hexun.com/download_zx.jsp'; } })(); </p>
+<p> 股票/基金 </p>
+<p> 微博 </p>
+<p> 新闻 </p>
+<p> 博客 </p>
+<p> new hxSuggest('textMessage','http://data.stock.hexun.com/include/AjaxSearch2011.ashx',{contrainer:document.getElementById('standStockPanel')}); </p>
+<p> (function(){ var reg = /^[http:\/\/\w|/w]+\.hexun\.com(\/|(\?[^\/]+)|\/index.html|\/index\-[\w]+.html)*$/; if(reg.test(window.location.href)){     var newNode = document.createElement("div");//创建div newNode.className="cabar";     var oldNode =document.getElementById("hexunCalendar");//获取div newNode.innerHTML = "<div id='hexunCalendar' class='hxcal'></div>";        oldNode.parentNode.replaceChild(newNode,oldNode);//直接替换标签 var w_div = document.createElement('div'); w_div.className = 'weather'; var w_frame = document.createElement('iframe'); w_frame.width = '100%'; w_frame.height = '22'; w_frame.frameBorder = '0'; w_frame.scrolling = 'no'; w_frame.allowTransparency = 'true'; w_frame.style.display = 'none'; w_frame.src = "http://m.weather.com.cn/m/hexunhead/"; w_div.appendChild(w_frame); newNode.appendChild(w_div);  if(w_frame.readyState)     w_frame.onreadystatechange = function() {       if(w_frame.readyState == 'loaded' || w_frame.readyState == 'complete') {     w_frame.style.display = ''; }    }; else  w_frame.onload = function() {     w_frame.style.display = '';     }; } })(); </p>
+<p> 原创 </p>
+<p> 高端访谈 </p>
+<p> 业界要闻 </p>
+<p> 互联网要闻 </p>
+<p> 电信要闻 </p>
+<p> 家电要闻 </p>
+<p> 商业计算 </p>
+<p> 精彩专题 </p>
+<p> 滚动 </p>
+<p> 数字生活 </p>
+<p> 整机 </p>
+<p> 手机 </p>
+<p> 家电 </p>
+<p> 图库 </p>
+<p> 和讯网 </p>
+<p> > </p>
+<p> 科技 </p>
+<p> > </p>
+<p> 正文 </p>
+<p> 打印 </p>
+<p> RSS </p>
+<p> CES2012报道：尼康1系列展台魅力四射 </p>
+<p> 字号 </p>
+<p> showComment_03(137177607,48) </p>
+<p> 2012年01月12日01:10 </p>
+<p> 来源： </p>
+<p> 天极网 </p>
+<p> 第1页 </p>
+<p> CES2012报道：尼康1系列展台魅力四射 </p>
+<p> 本次CES上，传统影像巨头尼康除了主打的奥运旗舰机型D4外，与去年第四季度发布的1系列微单也进行了大量的展出，并设有专用的试用体验舞台，而舞台中央则有2位穿着奇异的美女模特作为大家的试用拍摄对象。 </p>
+<p> 舞台中央的2位模特手持粉色和银色J1为试用者进行展示 </p>
+<p> 舞台周围有一圈的尼康1系列相机用参观者试用 </p>
+<p> 国际消费电子展(CES)由美国电子消费品制造商协会主办，是世界最大 的消费类电子产品展览会之一，从1967年的首届发展至今已有45年的历史，CES2012展会于2012年1月10日在美国拉斯维加斯盛大开幕。天极网将 派报道团队亲临拉斯维加斯，全程报道最新的消费电子行业动态。 </p>
+<p> 本届展会为期4天，期间将围绕最新的消费电子产品、技术、家庭生活 </p>
+<p> 科技 </p>
+<p> 、低碳环保能源的应用以及消费电子市 场的发展展开。同时本届展会上来自中国本土的企业和技术也将以重要身份登场，尤为令人期待。 </p>
+<p> 点击进入《天极网全程报道CES2012》专题 >> 了解更多 </p>
+<p> (function(){ var obj = null; if(document.getElementById('arctTailMark')) { obj = document.getElementById('arctTailMark'); } if(obj!=null) { var str = ' <a href=" http://www.hexun.com/?from=hxlogo" target="_blank" title="点击进入和讯首页"><img src=" http://img.hexun.com/home/hx.gif" style="margin:0;"/></a>'; try { 	var oo = obj.previousSibling; while(oo.nodeType!=1 || oo.innerHTML.replace(/\s|\u3000/g,'').length==0) {    oo = oo.previousSibling; } if(oo.nodeType==1 && oo.tagName.toLowerCase()=='p') {   var span = document.createElement('span');   span.innerHTML =str;   oo.appendChild(span);  } } catch (e){} } })(); </p>
+<p> 相关新闻 </p>
+<p> 01/12 01:30 </p>
+<p> 和你一起过年 尼康D3100热销价3999元 </p>
+<p> 01/11 17:57 </p>
+<p> 4张/秒1620万像素 尼康D5100仅4750元 </p>
+<p> 01/11 17:54 </p>
+<p> 超广角21倍光学变焦镜头 尼康L120相机 </p>
+<p> 01/11 17:54 </p>
+<p> 黑夜中也能拍出迷人的相片 尼康S9100 </p>
+<p> 01/11 17:54 </p>
+<p> 入门级单反 尼康D5100套机促销4950元 </p>
+<p> 01/11 17:54 </p>
+<p> 极具性价比 尼康D3100套机4050元送礼 </p>
+<p> 01/11 17:49 </p>
+<p> 摄友首选全画幅 尼康D700单机售14900 </p>
+<p> 01/11 17:48 </p>
+<p> 岁末特价到底 烟台尼康S1100jp相机促销 </p>
+<p> 相关推荐 </p>
+<p> 尼康 </p>
+<p> 我有话说 </p>
+<p> 已有 </p>
+<p> 0 </p>
+<p> 位网友发言 </p>
+<p> showComment_02(137177607,48) </p>
+<p> 自动登录 </p>
+<p> 用户名： </p>
+<p> 密码： </p>
+<p> 请在这里发表您个人看法，发言时请遵守法纪注意文明。 </p>
+<p> 正在验证用户信息... </p>
+<p> var valueofnameinput="用户名/邮箱/手机"; var valueofpassinout="******"; 	function checkLeaveWord() { 	var obj = document.getElementById('contentBefore'); 	obj. disabled='disabled'; 	obj.style.background = '#F5F5F5'; 	obj.value = '请登录后再发表评论！'; 	} </p>
+<p> alfdls </p>
+<p> 您好，欢迎您发表评论！ </p>
+<p> （言论仅代表会员个人观点，不代表和讯网观点） </p>
+<p> 第1页CES2012报道：尼康1系列展台魅力四射　　本次CES上，传统影像巨头尼康除了主打的奥运旗舰机型D4外，与去年第四季度发布的1系列微单也进行了大量的展出，并设有专用的试用体验舞台，而舞台中央则有2位穿着奇异的美女模特作为大家的试用拍摄对象。舞台中央的2位模特手持粉色和银色J1为试用者进行展示舞台周围有一圈的尼康1系列相机用参观者试用　　国际消费电子展(CES)由美国电子消费品制造商协会...... </p>
+<p> 请在这里发表您个人看法，发言时请遵守法纪注意文明。 </p>
+<p> 科技精品推荐 </p>
+<p> 特色： </p>
+<p> 高端访谈 </p>
+<p> 科普 </p>
+<p> 评论 </p>
+<p> 热点： </p>
+<p> Q3中概股财报汇总 </p>
+<p> 乔布斯病逝 </p>
+<p> 百度HR爆乳装一夜爆红 </p>
+<p> 电信版iPhone4S进入网审批阶段 最快2月份上市 </p>
+<p> [联通停止iPhone 4S私下预约] </p>
+<p> [在中国大卖有三个挑战] </p>
+<p> CSDN承认对安全问题重视不够 </p>
+<p> 李彦宏：百度业绩增长目标将完成 </p>
+<p> 小卖家遭殃欲逃离品聚网 </p>
+<p> 移动应用广告平台未获广告商认可 </p>
+<p> 百年柯达颓势背后的中国启示 </p>
+<p> 陶宏开称戒网瘾机构99%都骗人 </p>
+<p> 12种毒水果你吃了多少 </p>
+<p> 2011年度死亡景观佳作 </p>
+<p> 女生穿丁字裤微博求粉 </p>
+<p> 盘点史上最离奇木乃伊 </p>
+<p> 推广 </p>
+<p> 热点 </p>
+<p> 热点 </p>
+<p> 每日要闻推荐 </p>
+<p> 2012国际消费电子展进入第二日 </p>
+<p> 云计算或成圈地圈钱障眼法：各地建设热情高涨 </p>
+<p> 马化腾公开驳QQ实名：电话卖淫需运营商负责吗 </p>
+<p> 小米手机存三道难题：中国消费者手机爱好善变 </p>
+<p> CSDN董事长蒋涛反思泄密门：超八成网站存漏洞 </p>
+<p> 消息称微软计划重组营销部门 可能裁员数百人 </p>
+<p> 精彩焦点图鉴 </p>
+<p> 科学无法解释的恐怖照片 </p>
+<p> 世界上最犀利的21道早餐 </p>
+<p> 世界最神秘宗教大揭秘 </p>
+<p> 苍井空微博性感私密照 </p>
+<p> 排行榜 </p>
+<p> 1 </p>
+<p> 盘点科学无法解释的恐怖照片 </p>
+<p> 2 </p>
+<p> 百度度娘刘冬jocelin全套图片欣赏 </p>
+<p> 3 </p>
+<p> 揭秘世界最神秘宗教巫毒教：还魂尸在田间劳动 </p>
+<p> 4 </p>
+<p> 女生微博丁字裤求粉豪放程度让人咋舌 </p>
+<p> 5 </p>
+<p> 残忍至极的欧洲古代20大酷刑 </p>
+<p> 6 </p>
+<p> 2011年度爆笑�图精选 </p>
+<p> 7 </p>
+<p> 苍井空微博性感私密照大合集 </p>
+<p> 8 </p>
+<p> 探访西安精子库 捐精室内部实景曝光 </p>
+<p> 9 </p>
+<p> 曝光美军在亚洲的性暴行 </p>
+<p> 10 </p>
+<p> 惊悚鬼影 全球灵异有鬼照片集锦 </p>
+<p> 【免责声明】本文仅代表作者本人观点，与和讯网无关。和讯网站对文中陈述、观点判断保持中立，不对所包含内容的准确性、可靠性或完整性提供任何明示或暗示的保证。请读者仅作参考，并请自行承担全部责任。 </p>
+<p> 和讯恭候您的意见 </p>
+<p> - </p>
+<p> 联系我们 </p>
+<p> - </p>
+<p> 关于我们 </p>
+<p> - </p>
+<p> 广告服务 </p>
+<p> (function(){ if((/^[http:\/\/]*news\.hexun\.com(\/|\/index\.html)*$/).test(window.location.href)) document.write('<span style="padding-left:18px;">执行主编：姜洪桥</span>'); })(); </p>
+<p> 本站郑重声明：和讯公司系政府批准的证券投资咨询机构[ZX0005]。所载文章、数据仅供参考，使用前请核实，风险自负。 </p>
+<p> Copyright© 和讯网 和讯信息科技有限公司 All Rights Reserved 版权所有 复制必究 </p>
+<p> if(document.getElementById("shilu")!=null) { document.getElementById("shilu").style.width="710px"; } </p>
+<p> function coutLinkFrom(strId,mark,isId,p){   var obj = null;   if(isId) {   if(!document.getElementById(strId)) return;   obj = document.getElementById(strId);   }   else {      var parent = (typeof p!='undefined' && document.getElementById(p))?document.getElementById(p):document;      var arr = parent.getElementsByTagName('*');  var classesObj = [];  for(var i=0,l=arr.length;i<l;i++) {    if(arr[i].className && arr[i].className == strId) classesObj.push(arr[i]);  }  if(classesObj.length>=1) obj = classesObj[0];   }   if(obj==null) return;   var alist = obj.getElementsByTagName('a');   var len = alist.length;   for(var i=0;i<len;i++) {     if(alist[i].href) {    alist[i].href = (alist[i].href.indexOf('?')!=-1)?(alist[i].href+'&'+mark):(alist[i].href+'?'+mark); }   } } coutLinkFrom('jjjxmod','fromfunds=jjjx',false,'mainleft'); coutLinkFrom('yued','fromfunds=tjxd',true); </p>
+<p> (function(){   var reg = /^[http:\/\/\w|\w\.*\w|\w]+\.hexun\.com(\/|(\?[^\/]+)|\/index.html|\/index\-[\w]+.html)*$/;   if(!reg.test(window.location.href)) {     document.write('\x3Cscript type="text/javascript" src="http://img.hexun.com/base/version/hx_base.min1.1.js">\x3C/script>'+'\x3Cscript type="text/javascript" src="http://img.hexun.com/share/hxShare2011.js">\x3C/script><link href="http://img.hexun.com/share/hxShare2011.css" type="text/css" rel="stylesheet" />');     if(window.attachEvent) window.attachEvent('onload',function() {hxShare2011('');}); 	if(window.addEventListener) window.addEventListener('load',function(){hxShare2011('');},false);   } })(); </p>
+<p> (function(){ 	//全站通发广告 	var reg=/\/\d{9}(_\d+)?.(html|html\?\w*)$/;		 	if(reg.test(location.href)){ 		document.write('<script type="text/javascript" src="http://itv.hexun.com/lbi-html/ly/2011/allPages/tempAd.js"><\/script>'); 	} })() </p>

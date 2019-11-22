@@ -1,0 +1,446 @@
+<p> document.domain = "guardian.co.uk"; </p>
+<p> //<![CDATA[ 				OAS_url = 'http://oas.guardian.co.uk/RealMedia/ads/'; 				OAS_sitepage = "www.guardian.co.uk/society/2011/dec/15/assisted-suicide-new-advice/oas.html"; 				OAS_listpos = 'Top,Middle2,Right1,x31';  								OAS_query = 'k=gps&k=nhs&k=health&k=doctors&k=uk&k=assisted-suicide&cf=health+society&pid=&ct=article&pt=article&'; 				OAS_target = '_blank';  				OAS_rn = '001234567890'; 				OAS_rns = '1234567890'; 				OAS_rn = new String (Math.random()); 				OAS_rns = OAS_rn.substring (2, 11); 			//]]> </p>
+<p> Assisted suicide: GMC to draw up new advice | Society | guardian.co.uk </p>
+<p> //<![CDATA[ 	if (!commonStaticRoot) {	 		var commonStaticRoot = "http://static.guim.co.uk/static/b5c4e8d780aa8be3b8dd5e21c7bbe4b6245fb74c/common/"; 	} 	if (!sectionStaticRoot) {	 		var sectionStaticRoot = "http://static.guim.co.uk/static/b5c4e8d780aa8be3b8dd5e21c7bbe4b6245fb74c/society/"; 	} 	if (!staticHost) {	 		var staticHost="http://www.guardian.co.uk/"; 	} 	if (!sitePrefixUrl) { 		var sitePrefixUrl = "http://www.guardian.co.uk"; 	} //]]> </p>
+<p> var _sf_startpt=(new Date()).getTime(); </p>
+<p> window.jQuery || document.write('<script src="http://static.guim.co.uk/static/b5c4e8d780aa8be3b8dd5e21c7bbe4b6245fb74c/common/scripts/libs/jquery/1.6.4/jquery.min.js">\x3C/script>') </p>
+<p> var jQ = jQuery.noConflict(); </p>
+<p> //<![CDATA[ 	function insertStyleSheet(href) { 		var styleObject = document.createElement('link'); 		styleObject.setAttribute('href', commonStaticRoot + href); 		styleObject.setAttribute('type', 'text/css'); 		styleObject.setAttribute('media', 'screen'); 		styleObject.setAttribute('rel', 'stylesheet'); 		var head = document.getElementsByTagName('head')[0]; 		head.appendChild(styleObject); 	} 	insertStyleSheet('styles/js-on.css'); 	insertPluckStylesheet = true; 	//]]> </p>
+<p> //<![CDATA[ 	function init() { 		urlStack.clearUrlStack(); 		var signOutLink = document.getElementById("sign-out"); 		if (signOutLink) { 			signOutLink.onclick = signOut; 		} 		 		// Purely styling 		jQ('.js-show').removeClass('js-show'); 	}      guardian.r2.resourceRoot = "http://resource.guim.co.uk/";     var pageUrl = "http://www.guardian.co.uk/society/2011/dec/15/assisted-suicide-new-advice";     var pageSignature =  "c6675f381920cbb2476aa23fe6df4f0f318b0f74fcb52a50a90826c78c4529b7";      	var thirdPartyReferralCookieService = new guardian.r2.ThirdPartyReferralCookieService(); 	thirdPartyReferralCookieService.setThirdPartyReferralCookie(); 		 	var urlStack = new UrlStack(".guardian.co.uk");	 	var communitiesSite = false;                    	guardian.r2.signInListeners = new guardian.r2.SignInListeners();     (function () {	 		var signInView = new guardian.r2.SignInView("http://static.guim.co.uk/static/b5c4e8d780aa8be3b8dd5e21c7bbe4b6245fb74c/common/scripts/md5.js", communitiesSite); 		guardian.r2.signInController = new guardian.r2.SignInController(signInView, guardian.r2.signInListeners, "http://www.guardian.co.uk/tools/signin", pageUrl, pageSignature); 		 	}) (); 	 	(function () { 		var profileLinkView = new guardian.r2.ProfileLinkView(); 		profileLinkController = new guardian.r2.ProfileLinkController(profileLinkView, "http://www.guardian.co.uk/discussion/user/"); 	}) ();  	jQ(document).ready(init); 	//]]> </p>
+<p> Turn autoplay off </p>
+<p> Turn autoplay on </p>
+<p> Please activate cookies in order to turn autoplay off </p>
+<p> Jump to content [s] </p>
+<p> Jump to site navigation [0] </p>
+<p> Jump to search [4] </p>
+<p> Terms and conditions [8] </p>
+<p> Edition: </p>
+<p> UK </p>
+<p> US </p>
+<p> Sign in </p>
+<p> Mobile </p>
+<p> About us </p>
+<p> About us </p>
+<p> Contact us </p>
+<p> Press office </p>
+<p> Guardian Print Centre </p>
+<p> Guardian readers' editor </p>
+<p> Observer readers' editor </p>
+<p> Terms of service </p>
+<p> Privacy policy </p>
+<p> Advertising guide </p>
+<p> Digital archive </p>
+<p> Digital edition </p>
+<p> Guardian Weekly </p>
+<p> Buy Guardian and Observer photos </p>
+<p> Subscribe </p>
+<p> Today's paper </p>
+<p> The Guardian </p>
+<p> G2 features </p>
+<p> Comment and debate </p>
+<p> Editorials, letters and corrections </p>
+<p> Obituaries </p>
+<p> Other lives </p>
+<p> Sport </p>
+<p> Subscribe </p>
+<p> Subscribe </p>
+<p> Subscribe to the Guardian </p>
+<p> iPhone app </p>
+<p> iPad edition </p>
+<p> Kindle </p>
+<p> Extra </p>
+<p> Guardian Weekly </p>
+<p> Digital edition </p>
+<p> All our services </p>
+<p> ensurePackage('guardian.r2');  	guardian.r2.dropDownMenu = function () { 	 		// bar set up 		jQ('.top-navigation').show().addClass('top-navigation-js'); 		jQ('#fake-bar').remove();  		// functionality 		jQ('.drop-down').mouseover(function() { 			jQ(this).find('ul').css('display', 'block'); 		});  		jQ('.drop-down').mouseout(function() { 			jQ(this).find('ul').css('display', 'none'); 		});  	};	 	 	jQ(document).ready(function() { 		var myDropDownMenu = new guardian.r2.dropDownMenu(); 	}); </p>
+<p> The Guardian </p>
+<p> Society </p>
+<p> User comments </p>
+<p> Web </p>
+<p> News </p>
+<p> Sport </p>
+<p> Comment </p>
+<p> Culture </p>
+<p> Business </p>
+<p> Money </p>
+<p> Life & style </p>
+<p> Travel </p>
+<p> Environment </p>
+<p> TV </p>
+<p> Data </p>
+<p> Video </p>
+<p> Mobile </p>
+<p> Offers </p>
+<p> Jobs </p>
+<p> News </p>
+<p> Society </p>
+<p> Assisted suicide </p>
+<p> Assisted suicide: GMC to draw up new advice </p>
+<p> General Medical Council says law is clear but additional guidance is needed to deal with any complaints against doctors </p>
+<p> Tweet this </p>
+<p> reddit this </p>
+<p> omnitracker.omniTrackEVarEvent( 12, 16, 'Society: Reddit', 'click', '.reddit a' ); </p>
+<p> James Meikle </p>
+<p> guardian.co.uk </p>
+<p> , </p>
+<p> Thursday 15 December 2011 14.03 GMT </p>
+<p> Article history </p>
+<p> About this article </p>
+<p> Close </p>
+<p> Assisted suicide: GMC to draw up new advice </p>
+<p> This article was published on </p>
+<p> guardian.co.uk </p>
+<p> at </p>
+<p> 14.03 GMT on Thursday 15 December 2011 </p>
+<p> .  					   	It was last modified at </p>
+<p> 15.08 GMT on Thursday 15 December 2011 </p>
+<p> . </p>
+<p> Files at the Dignitas offices in Zurich, where more than 150 Britons have ended their lives. Photograph: David Levene for the Guardian </p>
+<p> Medical regulators are considering how to deal with allegations that </p>
+<p> doctors </p>
+<p> have helped people kill themselves after a patient asked them what support, if any, doctors could give to people considering ending their own lives. </p>
+<p> The </p>
+<p> General Medical Council (GMC) </p>
+<p> says doctors are already bound by the law that assisting or encouraging suicide remains a criminal offence but believes it needs to clarify how its own investigators deal with cases where no prosecution is mounted but complaints are still made about a doctor's fitness to practise. </p>
+<p> More than 150 Britons have travelled to the Dignitas clinic in Zurich, Switzerland, to end their own lives. A GMC working group is drafting internal guidance for decision-makers on fitness to practise cases before putting it out for public consultation late next month. </p>
+<p> Niall Dickson, the GMC's chief executive, said: "The issue of </p>
+<p> assisted suicide </p>
+<p> is complex and sensitive. We already have clear guidance for doctors that they must always act within the law and assisting or encouraging suicide remains a criminal offence. This guidance will not in any way change the legal position for doctors. It is not our role to take a position on whether or not the law should be changed; that is a matter for the relevant legislature. </p>
+<p> "We recognise however that there are a range of actions which could be considered as assisting in a suicide, such as providing information to a patient about suicide or providing practical assistance for someone to travel to a clinic such as Dignitas. Some of these actions may not lead to criminal charges but may still lead to complaints to us about a doctor's fitness to practise. </p>
+<p> "We therefore think our decision-makers will find it useful to have guidance about the factors they should consider when dealing with an allegation that a doctor has assisted a person to commit suicide. Doctors, patients and others may also find it helpful if we set out clearly how we will consider complaints in this area." </p>
+<p> The GMC says it has only considered three cases involving allegations relating to doctors assisting in a death in the past 10 years. One resulted from a conviction for assisting suicide in Canada and none from any conviction in the UK. </p>
+<p> There have been no prosecutions of anyone alleged to have assisted suicide in England and Wales since the </p>
+<p> director of public prosecutions, Keir Starmer, issued a new policy framework for prosecutors </p>
+<p> in February 2010. This came after Debbie Purdy, who has multiple sclerosis, convinced English law lords in 2009 that it was a breach of her human rights not to know whether her husband would be prosecuted if he accompanied her to the Dignitas clinic. </p>
+<p> But the legal position is being challenged again by </p>
+<p> a 46-year-old man who is almost paralysed </p>
+<p> . His lawyers suggest that, if successful, his action could lead to people seeking the help of doctors to ease their deaths in this country or enrolling health professionals to help them travel abroad. </p>
+<p> Starmer insisted the 2010 framework did not change the law, nor open the door for euthanasia, but focused on the motivation of the person suspected of assisting suicide. </p>
+<p> Six public interest factors against prosecution include whether the person who has died had reached a "voluntary, clear, settled and informed decision" and whether the suspect acted out of compassion and "reported the victim's suicide to the police and fully assisted them in their inquiries into the circumstances of the suicide or the attempt and his or her part in providing encouragement or assistance". </p>
+<p> In Scotland there is no offence of assisting suicide but in some circumstances the law of homicide may apply. Prosecutors have made clear it is up to the Holyrood parliament to decide whether the law needs changing. </p>
+<p> Printable version </p>
+<p> Send to a friend </p>
+<p> Share </p>
+<p> Clip </p>
+<p> Contact us </p>
+<p> larger </p>
+<p> | </p>
+<p> smaller </p>
+<p> Email </p>
+<p> Close </p>
+<p> Recipient's email address </p>
+<p> Your first name </p>
+<p> Your surname </p>
+<p> Add a note (optional) </p>
+<p> Your IP address will be logged </p>
+<p> Share </p>
+<p> Close </p>
+<p> Short link for this page: </p>
+<p> http://gu.com/p/345jg </p>
+<p> StumbleUpon </p>
+<p> reddit </p>
+<p> Tumblr </p>
+<p> Digg </p>
+<p> LinkedIn </p>
+<p> Google Bookmarks </p>
+<p> del.icio.us </p>
+<p> livejournal </p>
+<p> Facebook </p>
+<p> Twitter </p>
+<p> Contact us </p>
+<p> Close </p>
+<p> Contact the Society editor </p>
+<p> editor@societyguardian.co.uk </p>
+<p> Report errors or inaccuracies: </p>
+<p> userhelp@guardian.co.uk </p>
+<p> Letters for publication should be sent to: </p>
+<p> letters@guardian.co.uk </p>
+<p> If you need help using the site: </p>
+<p> userhelp@guardian.co.uk </p>
+<p> Call the main Guardian and Observer switchboard: </p>
+<p> +44 (0)20 3353 2000 </p>
+<p> Advertising guide </p>
+<p> License/buy our content </p>
+<p> Society </p>
+<p> Assisted suicide </p>
+<p> · </p>
+<p> Doctors </p>
+<p> · </p>
+<p> GPs </p>
+<p> · </p>
+<p> Health </p>
+<p> · </p>
+<p> NHS </p>
+<p> UK news </p>
+<p> Law </p>
+<p> More 			news </p>
+<p> Related </p>
+<p> 1 Aug 2010 </p>
+<p> GPs given new guide to help spot meningitis as lawsuits mount </p>
+<p> 29 Jul 2011 </p>
+<p> GP negligence claims: alarming rise revealed </p>
+<p> 20 Jun 2010 </p>
+<p> Police may quiz GP again over patients' deaths </p>
+<p> 6 Mar 2009 </p>
+<p> Doctors told to give more respect to wishes of dying patients </p>
+<p> Printable version </p>
+<p> Send to a friend </p>
+<p> Share </p>
+<p> Clip </p>
+<p> Contact us </p>
+<p> Article history </p>
+<p> Email </p>
+<p> Close </p>
+<p> Recipient's email address </p>
+<p> Your first name </p>
+<p> Your surname </p>
+<p> Add a note (optional) </p>
+<p> Your IP address will be logged </p>
+<p> Share </p>
+<p> Close </p>
+<p> Short link for this page: </p>
+<p> http://gu.com/p/345jg </p>
+<p> StumbleUpon </p>
+<p> reddit </p>
+<p> Tumblr </p>
+<p> Digg </p>
+<p> LinkedIn </p>
+<p> Google Bookmarks </p>
+<p> del.icio.us </p>
+<p> livejournal </p>
+<p> Facebook </p>
+<p> Twitter </p>
+<p> Contact us </p>
+<p> Close </p>
+<p> Contact the Society editor </p>
+<p> editor@societyguardian.co.uk </p>
+<p> Report errors or inaccuracies: </p>
+<p> userhelp@guardian.co.uk </p>
+<p> Letters for publication should be sent to: </p>
+<p> letters@guardian.co.uk </p>
+<p> If you need help using the site: </p>
+<p> userhelp@guardian.co.uk </p>
+<p> Call the main Guardian and Observer switchboard: </p>
+<p> +44 (0)20 3353 2000 </p>
+<p> Advertising guide </p>
+<p> License/buy our content </p>
+<p> About this article </p>
+<p> Close </p>
+<p> Assisted suicide: GMC to draw up new advice </p>
+<p> This article was published on </p>
+<p> guardian.co.uk </p>
+<p> at </p>
+<p> 14.03 GMT on Thursday 15 December 2011 </p>
+<p> .  					   	It was last modified at </p>
+<p> 15.08 GMT on Thursday 15 December 2011 </p>
+<p> . </p>
+<p> google_ad_client = 'ca-guardian_js'; google_ad_channel = 'society'; </p>
+<p> google_max_num_ads = '3'; </p>
+<p> //<![CDATA[ 			if (true) { 					  writeScript("http://pagead2.googlesyndication.com/pagead/show_ads.js", false, function(){}); 			} 		// ]]> </p>
+<p> Find the latest jobs in your sector: </p>
+<p> Arts & heritage </p>
+<p> Charities </p>
+<p> Education </p>
+<p> Environment </p>
+<p> Government </p>
+<p> Graduate </p>
+<p> Health </p>
+<p> Marketing & PR </p>
+<p> Media </p>
+<p> Sales </p>
+<p> Senior executive </p>
+<p> Social care </p>
+<p> Browse all jobs </p>
+<p> Team Manager, Early Intervention & Youth Development </p>
+<p> North London | £42,015 - £48,060 </p>
+<p> HARROW COUNCIL </p>
+<p> #query-trailblock li {border-top: 1px solid #929292; margin-bottom: 16px;} 	#query-trailblock li h2 {font-size: 1.4em; margin: 0 0 4px;} 	#query-trailblock li:last-child {margin-bottom: 0; border-top: 1px dotted #929292;} 	#query-trailblock li:last-child h2 {margin-top: 10px; font-size: 12px; font-family: sans-serif;} 	#query-trailblock .strapline {border-bottom: 1px dotted #929292; font-weight: bold; padding: 5px 0 5px; margin-bottom: 5px;} 	#query-trailblock .trail-comment-count {padding-top: 3px;} </p>
+<p> Healthcare Network </p>
+<p> Technology key to 'new model' of NI health and social care </p>
+<p> Northern Ireland to introduce e-patient records and expand telehealth and telecare as part of its shake up of health and social care </p>
+<p> Healthcare Network </p>
+<p> Achieving foundation status a 'tall order' for many NHS trusts </p>
+<p> Financial and leadership problems are among the obstacles preventing NHS trusts from gaining foundation status, sayMPs </p>
+<p> More from our Healthcare Network </p>
+<p> .promo-component.rss-aggregator-promo h3 { 	font-family:arial,sans-serif !important; 	font-size:12px !important; 	font-weight:bold !important; 	line-height:15px !important; } .rss-aggregator-promo .hd h3, .rss-aggregator-promo .hd h3 a {     color: #CC3300 !important;     font-size: 18px !important;     line-height: 21px !important;     font-family: georgia !important;     font-weight: normal !important; } </p>
+<p> Latest from the law blogosphere </p>
+<p> 15 Dec 2011 </p>
+<p> Opinion: “The Press – lashing out like cornered animals” – Brian Cathcart </p>
+<p> From Inforrm's Blog </p>
+<p> 15 Dec 2011 </p>
+<p> Arizona Sheriff’s Office Accused of Discrimination </p>
+<p> From Law Blog </p>
+<p> 15 Dec 2011 </p>
+<p> Italy's Bonelli adopts three pillar strategy </p>
+<p> From The Lawyer - News </p>
+<p> 15 Dec 2011 </p>
+<p> PRIVATE EMAILS AND TEXTS SUBJECT TO FOIA </p>
+<p> From Panopticon Blog </p>
+<p> 15 Dec 2011 </p>
+<p> Ivory Coast / ICC: The visit by Guillaume Soro to the ASP must not interfere with the impartiality of the Court and its Prosecutor </p>
+<p> From FIDH : mouvement mondial des droits de l'Homme </p>
+<p> .m-zeitgeist .bd { float: left } /* for the IE6 lols */   .m-zeitgeist .hd { padding-bottom: 0px; margin-bottom: -12px}   .m-zeitgeist .hd h2 { padding-bottom: 12px; }   .m-zeitgeist #att-panes { background-color: #fff; float: left; } 	.m-zeitgeist .att-toggle-pane { min-width:280px; }   .m-zeitgeist ol { padding: 0 5px; }   .m-zeitgeist #most-zeitgeist ol { padding-left: 0; }   .m-zeitgeist .zg-date { color: #D61D00; padding-left:5px; padding-top: 5px; }   .m-zeitgeist ol li { clear: both; padding-left: 15px; }   .m-zeitgeist div#att-most-viewed ol li.l1,   .m-zeitgeist div#att-latest ol li.l1 { padding-bottom: 9px !important; }   .m-zeitgeist ol li.footer { clear: both; padding-left: 0px !important; padding-top: 5px !important; }   .m-zeitgeist .rank { float: left; margin-left: -15px; }   .m-zeitgeist .kicker { font-weight: bold; }   .m-zeitgeist ol li.thumb { padding-left: 0; }   .m-zeitgeist ol li.thumb .rank { margin-left: 0; }   .m-zeitgeist ol li img { float: left; margin: 0 10px 3px 0; }      .m-zeitgeist #most-zeitgeist ol li { border-top: none; padding: 0; border-top: none; }     .m-zeitgeist #most-zeitgeist ol li .zeit-link {background-color: #fff; padding: 5px 0 9px 5px; border-top: 1px dotted #999; margin-bottom: 0px;  }     .m-zeitgeist #most-zeitgeist ol li.footer { border-top:1px dotted #999; padding: 5px 0 9px 10px; margin-left: 5px }     .m-zeitgeist #most-zeitgeist .m-zeigeist ol { padding-left: 0}      /* zeit-up */   .m-zeitgeist #most-zeitgeist .what-is { float: none; padding: 0 3px; vertical-align: middle; cursor: pointer; }   .about-zeit { position: relative; }   .zeit-popup { position: absolute; display: none; background-color: #dbedf3; color: #333; padding: 6px; width: 200px; }      .fade-1 { border-left: 5px solid #801100 !important;} .fade-2 { border-left: 5px solid #95382A !important;} .fade-3 { border-left: 5px solid #AA5F54 !important;} .fade-4 { border-left: 5px solid #BF867E !important;} .fade-5 { border-left: 5px solid #D4ADA8 !important;}  .m-zeitgeist div.hd { padding-bottom: 0; } .m-zeitgeist.most-viewed div.hd { padding-bottom: 7px; } </p>
+<p> jQ(function($){$('.about-zeit').each(function(){var distance=-10;var time=250;var hideDelay=500;var hideDelayTimer=null;var beingShown=false;var shown=false;var trigger=$('.what-is',this);var info=$('.zeit-popup',this).css('opacity',0);$([trigger.get(0),info.get(0)]).mouseover(function(){if(hideDelayTimer)clearTimeout(hideDelayTimer);if(beingShown||shown){return;}else{beingShown=true;info.css({top:-97,right:0,display:'block'}).animate({top:'-='+distance+'px',opacity:1},time,'swing',function(){beingShown=false;shown=true;});}return false;}).mouseout(function(){if(hideDelayTimer)clearTimeout(hideDelayTimer);hideDelayTimer=setTimeout(function(){hideDelayTimer=null;info.animate({top:'-='+distance+'px',opacity:0},time,'swing',function(){shown=false;info.css('display','none');});},hideDelay);return false;});});}); </p>
+<p> On Society </p>
+<p> Most viewed </p>
+<p> Zeitgeist </p>
+<p> Latest </p>
+<p> Last 24 hours </p>
+<p> 1. </p>
+<p> Housing benefit cuts defeated by House of Lords in welfare reform vote </p>
+<p> 2. </p>
+<p> Me? Competitive? I can't help it – I'm almost 50 </p>
+<p> 3. </p>
+<p> Cameron puts £400m into helping families out of 'responsibility deficit' </p>
+<p> 4. </p>
+<p> David Cameron unveils £448m plan to help 'problem families' </p>
+<p> 5. </p>
+<p> How can rising suicide rates be reversed in the face of cuts to mental health services? </p>
+<p> More most viewed </p>
+<p> Last 24 hours </p>
+<p> David Cameron unveils £448m plan to help 'problem families' </p>
+<p> Society daily 15.12.11 </p>
+<p> Tomorrow's People - Guardian Christmas charity appeal video </p>
+<p> How can rising suicide rates be reversed in the face of cuts to mental health services? </p>
+<p> Housing benefit cuts defeated by House of Lords in welfare reform vote </p>
+<p> More zeitgeist </p>
+<p> What is Zeitgeist? </p>
+<p> Zeitgeist is an experiment in showing trending news, topics and articles from the Guardian. Find out more in </p>
+<p> our blog post </p>
+<p> . </p>
+<p> Last 24 hours </p>
+<p> 1. </p>
+<p> Premature baby in California third smallest in world to survive </p>
+<p> 2. </p>
+<p> Christmas charity appeal: Guardian and Observer writers take to the phones </p>
+<p> 3. </p>
+<p> Five community organisations win Guardian Charity Awards </p>
+<p> 4. </p>
+<p> Assisted suicide: GMC to draw up new advice </p>
+<p> 5. </p>
+<p> David Cameron unveils £448m plan to help 'problem families' </p>
+<p> All today's stories </p>
+<p> NHS news on Twitter </p>
+<p> Follow the latest news on the NHS reforms with our team of health specialists </p>
+<p> sarahboseley: </p>
+<p> Global health funding so far weathering the economic storm </p>
+<p> http://t.co/j1NIBwbD </p>
+<p> about 4 hours, 4 minutes ago </p>
+<p> clare_horton: </p>
+<p> In </p>
+<p> #socdaily: </p>
+<p> "troubled families", telecare, </p>
+<p> #bigsociety, </p>
+<p> #nhssm, </p>
+<p> Christmas appeal telethon, Antony Gormley </p>
+<p> http://t.co/bLi7R9zo </p>
+<p> about 6 hours, 5 minutes ago </p>
+<p> patrickjbutler: </p>
+<p> Lansley orders independent assessments of </p>
+<p> #NHS </p>
+<p> boards </p>
+<p> http://t.co/SzhqiFtf </p>
+<p> << 20 trusts declare they will "never make foundation status" </p>
+<p> about 9 hours, 38 minutes ago </p>
+<p> Follow our health specialists on Twitter </p>
+<p> Bestsellers from the Guardian shop </p>
+<p> High vision energy saving lamps and accessories </p>
+<p> Fluorescent tubes provide a daylight-quality light, stay cooler when used and cost very little to run. </p>
+<p> From: £9.95 </p>
+<p> Visit the Guardian reader offers shop </p>
+<p> See all offers and services from the Guardian </p>
+<p> .m-guardianbookshop .rank { float: left; margin-left: -15px; } 	.m-guardianbookshop .thumb .rank { margin-left: 0; } 	.m-guardianbookshop h4 { border-top: none !important; font-weight: bold; margin-left: 5px !important; padding: 5px 0 8px 0 !important; } 	.m-guardianbookshop .bestsellers { background-color: #fff; padding-bottom: 17px;} 	.m-guardianbookshop ol { padding: 0 5px; } 	.m-guardianbookshop .l1 { clear: both; padding-left: 15px; } 	.m-guardianbookshop .thumb { padding-left: 0; } 	.m-guardianbookshop .thumb img { float: left; margin: 2px 10px 9px 0;} 	.m-guardianbookshop .price { display: inline; } 	.m-guardianbookshop .thumb .price { display: block; } 	.m-guardianbookshop .rank, .m-guardianbookshop .book-title { font-weight: bold; } 	.m-guardianbookshop input { border: 1px solid #999; width: 75%; min-height: 16px; margin-top: 8px; padding: 3px 2px;} </p>
+<p> This week's bestsellers </p>
+<p> 1. </p>
+<p> Secret Life of Bletchley Park </p>
+<p> by Sinclair McKay </p>
+<p> £8.99 </p>
+<p> 2. </p>
+<p> How to be a Woman </p>
+<p> by Caitlin Moran </p>
+<p> £11.99 </p>
+<p> 3. </p>
+<p> My Horse Warrior </p>
+<p> by Jack Seely </p>
+<p> £14.99 </p>
+<p> 4. </p>
+<p> All Hell Let Loose </p>
+<p> by Max Hastings </p>
+<p> £30.00 </p>
+<p> 5. </p>
+<p> Thinking Fast and Slow </p>
+<p> by Daniel Kahneman </p>
+<p> £25.00 </p>
+<p> Search the Guardian bookshop </p>
+<p> Search </p>
+<p> Sponsored feature </p>
+<p> function showSponsoredFeaturex31(){                     if (window.sponJSON) {                         if(typeof(sponJSON) === 'object') {                           adx31 = sponJSON;                           var node = jQ('.json-features.x31');                           convertJSONtoAd(                               node.find('img:first-child'),                               node.find('a.t6'),                               node.find('p:last-child'),                               adx31,                               node.find('.hd').children().eq(0),                               'x31'                           );                         }                     }                 }                                  jQ(document).ready(function(){                     jQ('.x31-script-placeholder').writeCapture().replaceWith('<script>showSponsoredFeaturex31()<' + '/script>')                 }) </p>
+<p> Related information </p>
+<p> UK news </p>
+<p> Law </p>
+<p> Society </p>
+<p> Assisted suicide </p>
+<p> · </p>
+<p> Doctors </p>
+<p> · </p>
+<p> GPs </p>
+<p> · </p>
+<p> Health </p>
+<p> · </p>
+<p> NHS </p>
+<p> 'Overseas doctors must speak good English' </p>
+<p> 28 Jun 2010 </p>
+<p> Out-of-hours doctors must be better regulated, says leader of the British Medical Association </p>
+<p> 27 May 2011 </p>
+<p> NHS reforms: hospital doctors want a place on GP boards </p>
+<p> 2 Nov 2011 </p>
+<p> Andrew Lansley dilutes plans to give patients unfettered choice of GP </p>
+<p> 14 Jun 2010 </p>
+<p> Baby P doctor missed 'unique opportunity' to save his life </p>
+<p> 31 Oct 2011 </p>
+<p> Doctors told to do more to keep the long-term ill employed </p>
+<p> Doctors should talk to patients about how they want to die, says regulator </p>
+<p> 20 May 2010 </p>
+<p> Assisted suicide still illegal, says General Medical Council, but there is no 'absolute obligation to prolong life' of terminally ill </p>
+<p> License/buy our content </p>
+<p> | </p>
+<p> Privacy policy </p>
+<p> | </p>
+<p> Terms & conditions </p>
+<p> | </p>
+<p> Advertising guide </p>
+<p> | </p>
+<p> Accessibility </p>
+<p> | </p>
+<p> A-Z index </p>
+<p> | </p>
+<p> Inside the Guardian blog </p>
+<p> | </p>
+<p> About us </p>
+<p> | </p>
+<p> Work for us </p>
+<p> | </p>
+<p> Join our dating site today </p>
+<p> © 2011 Guardian News and Media Limited or its affiliated companies. All rights reserved. </p>
+<p> .ten-col .important-story {      border-bottom-color: #fff !important;  } </p>
+<p> //<![CDATA[ 	if(true) { 		var s_account="guardiangu-society,guardiangu-network"; 		writeScript('http://static.guim.co.uk/static/b5c4e8d780aa8be3b8dd5e21c7bbe4b6245fb74c/common/scripts/omniture-H.22.4.js', false, function(){}); 	} 	//]]> </p>
+<p> //<![CDATA[ 	if(true) { 		if (false) { 		    s.pageName = document.title; 		} else { 			s.pageName="Assisted suicide: GMC to draw up new advice:Article:1677229"; 		} 		s.channel = "Society"; 		s.pageType=""; 		s.server='04'; 		s.prop2='GUID:(none)';  					s['prop3']="GU.co.uk"; 					s['prop4']="Assisted suicide (Society),Doctors (Society),GPs (Society),Health (Society),UK news,NHS (Society),Law,Society"; 					s['prop5']="Society Weekly,Not commercially useful,Health Society"; 					s['prop6']="James Meikle"; 					s['prop7']="11-Dec-15"; 					s['prop8']="1677229"; 					s['prop9']="Article"; 					s['prop10']="News"; 					s['prop11']="Society"; 					s['prop13']=""; 					s['prop25']=""; 					s['prop30']="content"; 		 		s.hier2="GU/Society/Assisted suicide"; 		s.events=""; 		s.eVar23="";  		try { 			if (guardian.r2.OmnitureTrackingOverride) { 				new guardian.r2.OmnitureTrackingOverride(s); 			} 		} 		catch(err) { 		}          if(jQ.cookie("GU_OMNITURE") !== null) {             s.events = jQ.cookie("GU_OMNITURE");             jQ.cookie("GU_OMNITURE", null, { path: '/', domain: '.guardian.co.uk'});         }          var s_code=s.t();if(s_code)document.write(s_code); 	} 	//]]> </p>
+<p> var _qevents = _qevents || []; 		(function() { 			var elem = document.createElement('script');  			elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js"; 			elem.async = true; 			elem.type = "text/javascript"; 			var scpt = document.getElementsByTagName('script')[0]; 			scpt.parentNode.insertBefore(elem, scpt); 		})(); 		_qevents.push( { qacct:'p-73ktnlRTKQPTw', labels: 'society'} ); </p>
+<p> var qcResults = function (result) { 				for (var i = 0, len = result.segments.length; i < len; i++) { 					OAS_query += 'qc=' + result.segments[i].id + '&'; 				} 			} </p>
+<p> if (true) {     jQ(document).ready(function () {         jQ('a[data-cpt]').each(             function () {             jQ(this).click(                 function () {                 var cpId = jQ(this).attr('data-cpt').split("-")[1];                 var currentLink = jQ(this).attr('href');                  if (currentLink.indexOf('intcmp=') == -1) {                     if(currentLink.indexOf('?') == -1) {                         var separator = '?'                     } else {                         var separator = '&'                     }                      jQ(this).attr('href', currentLink + separator + "intcmp=" + cpId);                 }             });         });     }); } </p>
+<p> //<![CDATA[ 	if (false) {         // guardian.co.uk Connect Adprobe Tag, MPU [9814], Leaderboard [9815]         var wlOrd = new Date().getTime();         document.write('<scr' + 'ipt type="text/javascript" src="http://req.connect.wunderloop.net/AP/1566/6033/10343/js?cus=10343,10344&ord=' + wlOrd + '"></sc' + 'ript>'); 	} // ]]> </p>
+<p> //<![CDATA[ 	if (false) {         OAS_query += 'wl10343=' + wl10343camp + '&wl10344=' + wl10344camp + '&'; 	} // ]]> </p>
+<p> //<![CDATA[  	if(true) { 		ensurePackage("guardian.r2.revsci");  		guardian.r2.revsci.cookieDomain = '.guardian.co.uk'; 		guardian.r2.revsci.gu_geo_country = '(none)'; 		guardian.r2.revsci.siteName = 'Society'; 					guardian.r2.revsci.commercialFolder = 'Health+Society' 				 		addEvent(null, 'load', function () { 			writeScript('http://js.revsci.net/gateway/gw.js?csid=E05516', true, function() { 				writeScript('http://static.guim.co.uk/static/b5c4e8d780aa8be3b8dd5e21c7bbe4b6245fb74c/common/scripts/revsci.js', true, function() { 					rs_initTracking(); 				}) 			}) 		}); 	}  	// ]]> </p>
+<p> //<![CDATA[ 											function OAS_NORMAL(pos) { 							document.write('<A HREF="' + OAS_url + 'click_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + pos + '!' + pos + '?' + OAS_query + '" TARGET=' + OAS_target + '>'); 							document.write('<IMG SRC="' + OAS_url + 'adstream_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + pos + '!' + pos + '?' + OAS_query + '" BORDER=0></A>'); 						}  						OAS_version = 11; 						if ((navigator.userAgent.indexOf('Mozilla/3') != -1) || (navigator.userAgent.indexOf('Mozilla/4.0 WebTV') != -1)) OAS_version = 10;                          if (true) {                             if (OAS_version >= 11) document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/SCRIPT>');                         }  						function OAS_AD(pos) {                             if (true) {                                 if (typeof(OAS_RICH) !== 'undefined' && OAS_version >= 11) {                                     OAS_RICH(pos);                                 } else {                                     OAS_NORMAL(pos);                                 }                             } 						} 					 				//]]> </p>
+<p> //<![CDATA[                 jQ('#ad-placeholder-Top').writeCapture().replaceWith('<script>OAS_AD("Top")<' + '/script>');                 //]]> </p>
+<p> jQ('#ad-temp-Top').hide(); </p>
+<p> //<![CDATA[                 jQ('#ad-placeholder-Middle2').writeCapture().replaceWith('<script>OAS_AD("Middle2")<' + '/script>');                 //]]> </p>
+<p> jQ('#ad-temp-Middle2').hide(); </p>
+<p> //<![CDATA[                 jQ('#ad-placeholder-Right1').writeCapture().replaceWith('<script>OAS_AD("Right1")<' + '/script>');                 //]]> </p>
+<p> jQ('#ad-temp-Right1').hide(); </p>
+<p> //<![CDATA[                 jQ('#ad-placeholder-x31').writeCapture().replaceWith('<script>OAS_AD("x31")<' + '/script>');                 //]]> </p>
+<p> jQ('#ad-temp-x31').hide(); </p>
+<p> ensurePackage('guardian.r2.omniture'); guardian.r2.omniture.isAvailable = function(){ 			return true; 	} </p>
+<p> //	<![CDATA[ 	if(true) {         var OAS_taxonomy='&Paneled_Site=guardian.co.uk&Paneled_Section=society'; 		jQ(document).ready(function(){ 			jQ.getScript('http://static.guim.co.uk/static/b5c4e8d780aa8be3b8dd5e21c7bbe4b6245fb74c/common/scripts/kantarmedia.js'); 		}); 	} 	// ]]> </p>
+<p> if(true) {         		jQ(function() { 		  if ('undefined' !== typeof MatchingEngine) { 		    MatchingEngine.logEvent('article', 'id=http://www.guardian.co.uk/society/2011/dec/15/assisted-suicide-new-advice'); 		  } 		}); 	} </p>
+<p> if (true) {         var _sf_async_config = {};         /** CONFIGURATION START **/         _sf_async_config.uid = 30676;         _sf_async_config.domain = document.domain;         _sf_async_config.sections = 'Society';         _sf_async_config.authors = 'James Meikle';         /** CONFIGURATION END **/         (function() {             function loadChartbeat() {                 window._sf_endpt = (new Date()).getTime();                 var e = document.createElement('script');                 e.setAttribute('language', 'javascript');                 e.setAttribute('type', 'text/javascript');                 e.setAttribute('src',                         (('https:' == document.location.protocol) ? 'https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/' : 'http://static.chartbeat.com/') +                                 'js/chartbeat.js');                 document.body.appendChild(e);             }              var oldonload = window.onload;             window.onload = (typeof window.onload != 'function') ?                     loadChartbeat : function() {                 oldonload();                 loadChartbeat();             };         })();     } </p>

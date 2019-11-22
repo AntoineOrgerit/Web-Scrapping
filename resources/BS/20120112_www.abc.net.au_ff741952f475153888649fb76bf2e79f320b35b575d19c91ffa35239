@@ -1,0 +1,152 @@
+<p> Bungee jumps suspended after Australian's plunge - ABC Sydney - Australian Broadcasting Corporation </p>
+<p> $(document).ready(function(){   	if (typeof $('#storyPhotosImg').attr('src') == 'undefined') { 		var geoCords = $('meta[name="geo.position"]'); 		geoCords = geoCords.attr('content'); 		geoCords = geoCords.split(';');  		showMap($('.related .expandable a:first'), '100%', geoCords[0], geoCords[1], '');		  	} 	  	var h1 = $('h1').html(); 	$('h1').remove(); 	$('#anchor').after('<h1>' + h1 + '</h1>'); 	 	$('.content_tools:first').css('background','none'); 	$('.content_tools:first').css('height','30px');	 	  	 	 	/* Video Check script fallback - 28112011 */ 	/* 	var videoCheck = $('meta[name="DC.type"]'); 	 		if (videoCheck.attr('content') == 'Moving Picture') { 			$('#col1 h1').after('<div id="media_main"></div>'); 			 				  			var xmlDoc = $.ajax({ 			  url:"/news/2012-01-12/bungee-jumps-suspended-after-australian27s-plunge/3770386/mediarss.xml?site=sydney", 			  context: document.body, 			  success: function(data){ 			  	 				 					var videoUrl = $(data).find('*[type="video/x-flv"]'); 						videoUrl = videoUrl.attr('url'); 					//	play_video(videoUrl,'','media_main',700,410,true); 				 			  	} 			   			  });		 			 			 	 		} 	*/ 		 	 }); </p>
+<p> Search: </p>
+<p> Radio </p>
+<p> TV </p>
+<p> Shop </p>
+<p> News </p>
+<p> Sport </p>
+<p> Local </p>
+<p> Children </p>
+<p> Science </p>
+<p> Environment </p>
+<p> more Topics </p>
+<p> help </p>
+<p> Go to sitemap </p>
+<p> | </p>
+<p> Go to primary menu </p>
+<p> | </p>
+<p> Go to content </p>
+<p> | </p>
+<p> Go to footer </p>
+<p> | </p>
+<p> ABC Local on your mobile phone </p>
+<p> visit another location </p>
+<p> Night skyline </p>
+<p> - Hanis </p>
+<p> Home </p>
+<p> Programs </p>
+<p> News </p>
+<p> Weather </p>
+<p> Emergencies </p>
+<p> Sport </p>
+<p> Events </p>
+<p> Recipes </p>
+<p> Photos & Videos </p>
+<p> Explore by Topic </p>
+<p> var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); 	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); </p>
+<p> try {  	var pageTracker = _gat._getTracker("UA-2910561-9");	                 	pageTracker._trackPageview(); 	} catch(err) {} </p>
+<p> // Avoiding duplication //var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); //document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); </p>
+<p> try { var pageTracker = _gat._getTracker("UA-2910561-32"); pageTracker._trackPageview(); pageTracker._trackPageLoadTime(); } catch(err) {} </p>
+<p> Print page </p>
+<p> Email this </p>
+<p> Share </p>
+<p> var addthis_config = { 							 pubid: "ra-4e38b88a25e8b818", 							 services_compact: 'google,google_plusone,linkedin,reddit,digg,stumbleupon,tumblr,more', 							 data_ga_property: 'UA-2910561-32', 							 data_ga_social: true, 							 ui_click: true, 							 data_track_textcopy: true							  					 			 						} 						 						var addthis_share = 						{ 							 								url: "http://www.abc.net.au/news/2012-01-12/bungee-jumps-suspended-after-australian27s-plunge/3770386/default.htm?site=sydney"				 							 						} </p>
+<p> Bungee jumps suspended after Australian's plunge </p>
+<p> Updated </p>
+<p> January 12, 2012 23:39:46 </p>
+<p> Erin Langworthy gives a thumbs-up in hospital (L) after surviving the bungy jump accident. </p>
+<p> <!-- 		if (typeof showPhotos == 'function') showPhotos('mediarss.xml'); 		--> </p>
+<p> Related Story: </p>
+<p> Australian survives as bungee cord snaps </p>
+<p> Related Story: </p>
+<p> Tourism minister takes bungee leap of faith </p>
+<p> Map: </p>
+<p> Zambia </p>
+<p> A Zimbabwean tourism company has suspended bungee jumps at Victoria Falls while they investigate an accident in which an Australian tourist plunged into the Zambezi River, a spokesman said on Thursday. </p>
+<p> "We voluntarily suspended bungee jumping for two days [from Wednesday] to allow an audit of the accident that happened" after a cord snapped, Shearwater Adventures spokesman Clement Mukwasi said. </p>
+<p> "This was to allow the auditors, management and crew the opportunity to analyse the causes of the broken cord and review the new system and procedures without distractions." </p>
+<p> Jumps could resume from the weekend, he added. </p>
+<p> On New Year's Eve, 22-year-old Australian Erin Langworthy jumped from the Victoria Falls bridge and fell headfirst into the Zambezi River, 111 metres below. </p>
+<p> The hair-raising accident was caught on video and Ms Langworthy is seen hitting the water with her feet still tied before being swept towards rapids on the river, which separates Zambia and Zimbabwe. </p>
+<p> Ms Langworthy managed to avoid any crocodiles and swim to the Zimbabwe side of the river, where she hauled herself out. </p>
+<p> She suffered a fractured collar bone and severe bruising and was taken to South Africa for treatment. </p>
+<p> Mr Mukwasi said "all other activities including bridge swings, slides tours and the restaurant facility will continue as normal." </p>
+<p> Zambia's tourism minister Given Lubinda on Sunday took a bungee jump in an attempt to assure tourists of its safety. </p>
+<p> Tourism is the lifeblood of the towns of Victoria Falls and Livingstone in Zambia, where upmarket resorts attract visitors from around the world. </p>
+<p> Mr Mukwasi said the probability of an accident was one in 50,000 jumps a year. </p>
+<p> AFP </p>
+<p> Tags: </p>
+<p> travel-and-tourism </p>
+<p> , </p>
+<p> zambia </p>
+<p> First posted </p>
+<p> January 12, 2012 23:33:06 </p>
+<p> Print page </p>
+<p> Email this </p>
+<p> Share </p>
+<p> var addthis_config = { 							 pubid: "ra-4e38b88a25e8b818", 							 services_compact: 'google,google_plusone,linkedin,reddit,digg,stumbleupon,tumblr,more', 							 data_ga_property: 'UA-2910561-32', 							 data_ga_social: true, 							 ui_click: true, 							 data_track_textcopy: true							  					 			 						} 						 						var addthis_share = 						{ 							 								url: "http://www.abc.net.au/news/2012-01-12/bungee-jumps-suspended-after-australian27s-plunge/3770386/default.htm?site=sydney"				 							 						} </p>
+<p> Search </p>
+<p> ABC Local </p>
+<p> ABC Sydney </p>
+<p> All ABC Local </p>
+<p> 18.0° </p>
+<p> in Sydney </p>
+<p> 17°/26° </p>
+<p> Friday </p>
+<p> 19°/24° </p>
+<p> Saturday </p>
+<p> 19°/23° </p>
+<p> Sunday </p>
+<p> Today's details and 7 day forecast </p>
+<p> var ctemp = '18.0'; </p>
+<p> Topics </p>
+<p> Arts and Entertainment </p>
+<p> Business, Economics and Finance </p>
+<p> Community and Society </p>
+<p> Defence and National Security </p>
+<p> Disasters and Accidents </p>
+<p> Education </p>
+<p> Environment </p>
+<p> Government and Politics </p>
+<p> Health </p>
+<p> Human Interest </p>
+<p> Information and Communication </p>
+<p> Law, Crime and Justice </p>
+<p> Lifestyle and Leisure </p>
+<p> Rural </p>
+<p> Science and Technology </p>
+<p> Sport </p>
+<p> Unrest, Conflict and War </p>
+<p> Weather </p>
+<p> Latest </p>
+<p> Videos </p>
+<p> Audio </p>
+<p> Photos </p>
+<p> Teen struck by train dies </p>
+<p> Spartan to focus police resources on drive-bys </p>
+<p> Police concerned over rise in drive-bys </p>
+<p> Narrow miss </p>
+<p> Calls for overweight passengers to pay more to fly </p>
+<p> NSW Country Hour podcast 12/1/12 </p>
+<p> Sydney beset by drive-by shootings </p>
+<p> Scorchers on fire </p>
+<p> NSW Country Hour podcast 11/1/12 </p>
+<p> NSW Country Hour podcast 10/1/12 </p>
+<p> Pablo Picasso visits New South Wales </p>
+<p> Sculptures bring arty beachside development </p>
+<p> History hides modernism but reveals creativity aplenty </p>
+<p> City signs reveal Acts of Kindness </p>
+<p> Manly welcomes its Sea Eagles home as champions </p>
+<p> Back to top </p>
+<p> Home </p>
+<p> About us </p>
+<p> Archives </p>
+<p> RSS </p>
+<p> Sitemap </p>
+<p> Contact us </p>
+<p> Newsletter </p>
+<p> Sydney </p>
+<p> Today </p>
+<p> Max: 26° Min: 17° </p>
+<p> Mostly sunny </p>
+<p> Visit another location </p>
+<p> ABC Home </p>
+<p> About the ABC </p>
+<p> Careers </p>
+<p> ABC Services </p>
+<p> ABC Contacts </p>
+<p> © 2012 ABC </p>
+<p> Conditions of Use </p>
+<p> Privacy Policy </p>
+<p> var pvar = { cid: "abc-aust", content: "0", server: "secure-au" }; 		var trac = nol_t(pvar); 		trac.record().post(); </p>

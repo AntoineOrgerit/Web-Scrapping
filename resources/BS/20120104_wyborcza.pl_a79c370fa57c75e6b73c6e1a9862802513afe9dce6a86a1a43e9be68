@@ -1,0 +1,296 @@
+<p> Rozbiorą Teatr Żydowski? Na jego miejscu biurowiec </p>
+<p> var now = new Date(2013, 3, 10, 9, 0, 6); </p>
+<p> document.write('<scr'+'ipt type=\"text/javascript\" src=\"http://ad.adview.pl/ad/BehavPixel.servlet?dir='+/gazetawyborcza/+'&dx='+75248+'"><\/script>'); </p>
+<p> var profileBan; 			if (typeof profileCookie != 'undefined'){ 				profileBan = profileCookie;  			}else { 				profileBan = null; 			}	 			var asParams; 			if (typeof n_pbt != 'undefined' && n_pbt != ''){ 				asParams = '&asParams=' + n_pbt;  			}else { 				asParams = ''; 			} 			document.write('<scr'+'ipt type="text/javascript" src="http://ad.adview.pl/ad/GetBan?dir=/gazetawyborcza/&jsp=23&dx=75248&t='+(new Date()).getTime()+'&p='+profileBan+asParams+'"><\/script>'); 			 			document.write('<scr'+'ipt type="text/javascript" src="http://bi.adview.pl/info/ban/banFunc.js"><\/script>'); </p>
+<p> putBan(2); </p>
+<p> var _sf_startpt=(new Date()).getTime() </p>
+<p> <!-- if (top.frames.length!=0) top.location=self.document.location; // --> </p>
+<p> <!--     var pp_gemius_identifier = new String('Apg7Ka_gcNYT1jBafP32V7R3P50WYYeMaHKm5ELGb53.c7/arg=75248/sarg='+'|'+profileCookie);  //--> </p>
+<p> <!--  protokol = /^https/i;  if ( protokol.test(window.location.href) )  {  document.writeln('<'+'scr'+'ipt type="text/javascript" src="https://gazeta.hit.gemius.pl/xgemius.js"></'+'scr'+'ipt>');  }  else  {  document.writeln('<'+'scr'+'ipt type="text/javascript" src="http://gazeta.hit.gemius.pl/xgemius.js"></'+'scr'+'ipt>');  }  //--> </p>
+<p> //<![CDATA[    var gazeta_pl = {  documentParam: {"root": "/gazetawyborcza/" }  , topLayerNewsletterConfig: {   uri: '',   closed_cookie_name: '',   signed_cookie_name: '' }  }; //]]> </p>
+<p> var _gaq = _gaq || [];  var utmgif = 'http://kropka.'+ window.location.hostname+'/__utm.gif';  _gaq.push(['_setAccount', 'UA-426268-1']);   _gaq.push(['_setCampaignCookieTimeout', 0]);   _gaq.push(['_trackPageview']);   _gaq.push(['second._setAccount', 'UA-426268-57']);   _gaq.push(['second._setCampaignCookieTimeout', 0]);   _gaq.push(['second._setLocalGifPath',utmgif]);   _gaq.push(['second._setLocalRemoteServerMode']);   _gaq.push(['second._trackPageview']);   (function() {  var ga = document.createElement('script');  ga.type = 'text/javascript'; ga.async = true;  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') +  '.google-analytics.com/ga.js';  var s = document.getElementsByTagName('script')[0];  s.parentNode.insertBefore(ga, s);  })(); </p>
+<p> (function() {  var tg = document.createElement('script');  tg.type = 'text/javascript';  tg.async = true;  tg.src = 'http://analytics.gazeta.pl/tg.js';  var s = document.getElementsByTagName('script')[0];  s.parentNode.insertBefore(tg, s);  })(); </p>
+<p> window.gazeta_pl = window.gazeta_pl || {}; window.gazeta_pl.functionQueue = window.gazeta_pl.functionQueue || []; window.gazeta_pl.functionQueue.push(function(){ 	function facebookReady(){ 		FB.init({ 	      appId  : 199770596725532, 	      status : true, // check login status  	      cookie : true, // enable cookies to allow the server to access the session 	      xfbml  : true,  // parse XFBML 	      oauth  : true,  // OAuth 2.0 	      //channelUrl: 'http://bi.gazeta.pl/info/facebook/fbjs.html' 	    });  		window.postFbInit();  	} 	if(window.FB) { 		facebookReady(); 	} else { 		window.fbAsyncInit = facebookReady; 	} 	 });  //Load the SDK Asynchronously   (function(d){      var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}      js = d.createElement('script'); js.id = id; js.async = true;      js.src = "//connect.facebook.net/pl_PL/all.js";      d.getElementsByTagName('head')[0].appendChild(js);    }(document)); </p>
+<p> window.___gcfg = {         lang: 'pl'       };        (function() {         var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;         po.src = 'https://apis.google.com/js/plusone.js';         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);       })(); </p>
+<p> var idPogoda=""; </p>
+<p> putBan(49); </p>
+<p> var pianoVariables = { 	service_id: '163', 	mode: 'bar_normal', 	method_verify:true }; var pianoHostProtocol = (("https:" == document.location.protocol) ? "https://" : "http://"); (function() { 	var s = document.createElement('script'); 	s.type = 'text/javascript'; 	s.async = true; 	s.src = pianoHostProtocol + 'pl.bar.pianomedia.eu/bar.js'; 	var p = document.getElementsByTagName('script')[0]; p.parentNode.insertBefore(s, p);  	if (typeof firstVisitSetCookieInfo == 'undefined') return;      var checkPianoAvaiable = setInterval(function() {         if (document.getElementById('piano-root') && document.body.childNodes[0].id != 'cookieInfoMsgWrapper') {             document.body.insertBefore(document.getElementById('cookieInfoMsgWrapper'),document.body.childNodes[0])             window.clearInterval(checkPianoAvaiable);         };     },100); 	 })(); </p>
+<p> Strona główna Gazeta.pl </p>
+<p> Tokfm.pl </p>
+<p> Poczta </p>
+<p> Forum </p>
+<p> Blogi </p>
+<p> Gazeta Wyborcza </p>
+<p> więcej </p>
+<p> Pogoda </p>
+<p> Archiwum </p>
+<p> Gry </p>
+<p> Programy </p>
+<p> Prezenty w Okazje.info </p>
+<p> Zaloguj się </p>
+<p> var gazeta_pl = gazeta_pl || {}; gazeta_pl.gameCenterRefresh = 0; </p>
+<p> putBan(1); </p>
+<p> Najnowsze artykuły </p>
+<p> putBan(71); </p>
+<p> w serwisie </p>
+<p> w archiwum </p>
+<p> w internecie </p>
+<p> Witamy w Polsce </p>
+<p> Fałszywa reporterka TVN grasuje po kraju. Za rachunki nie płaci </p>
+<p> Magazyn Świąteczny </p>
+<p> Głowacki: Gdy wygra PiS, równie śmiesznego miejsca nie będzie </p>
+<p> Piątek Ekstra </p>
+<p> Dorwać prywaciarza. "Układ zamknięty" - film niewygodny dla władzy? </p>
+<p> Duży Format </p>
+<p> Bezdomna, ale żebrać nie będzie. Sprzedaje kwiaty, czyta "Quo vadis" </p>
+<p> Międzynarodowy </p>
+<p> Dlaczego w Szwecji nienawidzą kobiet. Czy to "efekt Breivika" </p>
+<p> Ale historia </p>
+<p> Elżbieta Batory słynęła z urody. To pierwsza seryjna morderczyni? </p>
+<p> Opinie </p>
+<p> Pomnik Sprawiedliwych w miejscu żydowskiego cierpienia </p>
+<p> WYSOKIE OBCASY </p>
+<p> Suknie balowe w obozie. Władze chciały zamęczyć i wyszydzić </p>
+<p> Sport.pl Ekstra </p>
+<p> Rosnący brzuch zmienia perspektywę. Także w sporcie </p>
+<p> MATERIAŁY PŁATNE, DOSTĘPNE W SYSTEMIE PIANO </p>
+<p> Więcej </p>
+<p> Kraj </p>
+<p> Quiz polityczny </p>
+<p> Rozmowy Kublik </p>
+<p> Świat </p>
+<p> Kultura </p>
+<p> Książki </p>
+<p> Film </p>
+<p> Muzyka </p>
+<p> Sztuka </p>
+<p> Teatr </p>
+<p> Telewizja </p>
+<p> NIKE 2012 </p>
+<p> Nauka </p>
+<p> Zdrowie </p>
+<p> Poczta Teremiski </p>
+<p> Opinie </p>
+<p> Komentarze </p>
+<p> Miasta </p>
+<p> Warszawa </p>
+<p> Białystok </p>
+<p> Bielsko-Biała </p>
+<p> Bydgoszcz </p>
+<p> Częstochowa </p>
+<p> Gorzów Wlkp. </p>
+<p> Katowice </p>
+<p> Kielce </p>
+<p> Kraków </p>
+<p> Lublin </p>
+<p> Łódź </p>
+<p> Olsztyn </p>
+<p> Opole </p>
+<p> Płock </p>
+<p> Poznań </p>
+<p> Radom </p>
+<p> Rzeszów </p>
+<p> Szczecin </p>
+<p> Toruń </p>
+<p> Trójmiasto </p>
+<p> Wrocław </p>
+<p> Zielona Góra </p>
+<p> Ale historia </p>
+<p> Wideo </p>
+<p> Duży Format </p>
+<p> Piątek Ekstra </p>
+<p> Świąteczny </p>
+<p> Międzynarodowy </p>
+<p> Nekrologi </p>
+<p> Nekrologi </p>
+<p> Wspomnienia </p>
+<p> Płatne </p>
+<p> wszystkie </p>
+<p> Jak urządzić świat? </p>
+<p> Trasy magiczne </p>
+<p> Sport.pl ekstra </p>
+<p> Kraj </p>
+<p> Wiadomości z regionów </p>
+<p> Świat </p>
+<p> Komentarze </p>
+<p> Kultura </p>
+<p> Nauka </p>
+<p> Gospodarka </p>
+<p> Sport </p>
+<p> Listy do "Gazety" </p>
+<p> Poradniki GW </p>
+<p> Akcje społeczne </p>
+<p> Młodzi odwagi </p>
+<p> Leczyć po ludzku </p>
+<p> Ale historia </p>
+<p> Duży Format </p>
+<p> Piątek Ekstra </p>
+<p> Nowa Świąteczna </p>
+<p> Wysokie Obcasy </p>
+<p> Witamy w Polsce </p>
+<p> Duży Kadr </p>
+<p> Wideo </p>
+<p> Archiwum Świątecznej </p>
+<p> Świąteczna krzepi </p>
+<p> Arka Noego </p>
+<p> Dwie na jednego </p>
+<p> Klub Goście Gazety </p>
+<p> Wyborcza do wyboru </p>
+<p> Tablet </p>
+<p> Kindle </p>
+<p> Smartphone </p>
+<p> E-wydanie </p>
+<p> Prenumerata </p>
+<p> Archiwum </p>
+<p> Galeria okładek </p>
+<p> Presscliping </p>
+<p> Newsletter </p>
+<p> Kolekcje Gazety </p>
+<p> Reklama w GW </p>
+<p> Patronaty Wyborcza.pl </p>
+<p> Wyborcza.pl </p>
+<p> .biz </p>
+<p> Wysokie Obcasy </p>
+<p> Sport </p>
+<p> __nav_init(); </p>
+<p> putBan(56); </p>
+<p> Gazeta Wyborcza </p>
+<p> > </p>
+<p> Artykuły </p>
+<p> putBan(91); </p>
+<p> Rozbiorą Teatr Żydowski? Na jego miejscu biurowiec </p>
+<p> Tomasz Urzykowski </p>
+<p> 03.01.2012 										 										, aktualizacja: 03.01.2012 09:41 </p>
+<p> A </p>
+<p> A </p>
+<p> A </p>
+<p> Drukuj </p>
+<p> var gazeta_pl = gazeta_pl || {}; 					       		gazeta_pl.ArticleGalleryLinks = { 					       			next:'51,75248,10903885.html?i=1' 					       		}; </p>
+<p> Przy Twardej u wylotu ul. Emilii Plater trwa budowa 170-metrowego wieżowca. Z lewej Teatr Żydowski - na jego miejscu Towarzystwo Społeczno-Kulturalne Żydów w Polsce chce postawić 14-piętrowy biurowiec. Z prawej Biały Budynek z drugiej połowy XIX wieku, który... </p>
+<p> (Fot. Sławomir Kamiński / Agencja Gazeta) </p>
+<p> Zobacz zdjęcia </p>
+<p> (6) </p>
+<p> Przy pl. Grzybowskim szykuje się następna inwestycja. Właściciel budynku Teatru im. Estery Racheli i Idy Kamińskich chce w jego miejscu postawić biurowiec. </p>
+<p> var rTeraz = new Date(1365577206347); function klodka (ddo) { 	if (rTeraz.getTime()>=ddo.getTime()) 		document.write('<'+'img src="/i/szukaj/k2b.gif" width=20 height=18 border=0 align="absmiddle"'+'>'); } </p>
+<p> ZOBACZ TAKŻE </p>
+<p> Żydowski budynek zagrożony! Gmina chce go rozebrać </p>
+<p> (19-12-11, 10:00) </p>
+<p> Będzie nowy pomnik na pl. Grzybowskim: za ponad 2 mln </p>
+<p> (20-10-11, 13:32) </p>
+<p> Pomnik z 10 tys. nazwisk na pl. Grzybowskim: radni za </p>
+<p> (14-10-11, 09:00) </p>
+<p> Ta część Śródmieścia to dziś wielki teren budowy. - A plan miejscowy określający, co tu wolno stawiać, a czego nie, dopiero powstaje - zauważa Grzegorz Buczek, architekt i urbanista. </p>
+<p> Na wschód od pl. Grzybowskiego trwa przebudowa zabytkowych kamienic przy Próżnej 7 i 9 na luksusowy biurowiec. Przy Twardej rośnie już 160-metrowa wieża mieszkalna Cosmopolitan zaprojektowana światowej sławy architekta Helmuta Jahna. Będzie jej towarzyszyć niższy budynek żydowskiego centrum kulturalnego. Następne inwestycje planowane są tuż obok w enklawie żydowskich instytucji z Synagogą Nożyków. Tzw. Biały Budynek Gmina Wyznaniowa Żydowska chce rozebrać, dostała już nawet warunki zabudowy dla 180-metrowego wieżowca. Protestują obrońcy pamiątek po tej mniejszości w </p>
+<p> Warszawie </p>
+<p> , przypominając, że dom służy żydowskiej społeczności od XIX w. </p>
+<p> Jeszcze większe kontrowersje mogą wywołać plany dotyczące Teatru Żydowskiego im. Estery Racheli i Idy Kamińskich. Ten dwupiętrowy budynek z płaskim dachem i kamiennymi elewacjami powstał w latach 1966-67 według projektu Władysława Jotkiewicza, ale jego szkice koncepcyjne wykonał wcześniej wybitny architekt Bohdan Pniewski. Oddział Warszawski Stowarzyszenia Architektów Polskich (SARP) wpisał Teatr Żydowski na listę dóbr kultury współczesnej. - Ten budynek to bardzo udana próba wpisania współczesnego obiektu w historyczny układ urbanistyczny pl. Grzybowskiego. Nie jest tu zgrzytem, szanuje gabaryty i linię zabudowy - ocenia Grzegorz Buczek. </p>
+<p> Również ratusz uznał wartość budynku, zaliczając go do "cennych obiektów architektury współczesnej". Twórcy planu miejscowego powinni nakazać jego ochronę. Tymczasem miejskie Biuro Architektury rozpatruje wniosek spółki Idea o warunki zabudowy dla nowej inwestycji w miejscu teatru. To biurowiec o czterech kondygnacjach od pl. Grzybowskiego i 12 od tyłu, z trzypoziomowym garażem pod ziemią. </p>
+<p> - Możliwa jest zarówno rozbiórka, jak i przebudowa obecnego budynku. Rozstrzygnięcie tego wniosku planowane jest na pierwszy kwartał 2012 r. - informuje Dagmara Strzelczyk z wydziału prasowego ratusza. </p>
+<p> Co z działającą tu sceną? - Ależ ta inwestycja to dopiero pieśń przyszłości. Jeszcze kurka nawet gniazdka nie mości - słyszymy w biurze Towarzystwa Społeczno-Kulturalnego Żydów w Polsce, które jest właścicielem budynku. </p>
+<p> Okazuje się, że Teatr Żydowski tylko wynajmuje tu pomieszczenia. Jego dyrektor Szymon Szurmiej o planowanej budowie mówi niechętnie: - Mam przygotowany repertuar na dwa lata do przodu i nic innego mnie nie obchodzi. Teatr Żydowski jest jedną z dwóch takich scen na świecie, druga istnieje w Izraelu. Budynek przy pl. Grzybowskim powstał specjalnie dla nas. Teraz proponują mi ulokowanie teatru gdzieś w jakiejś budzie na końcu - mówi. </p>
+<p> Żydowska scena podlega miejskiemu Biuru Kultury. Jego dyrektor Marek Kraszewski twierdzi, że o planach biurowca nic nie wie. - Nikt się do nas nie zwracał w tej sprawie, nie prowadziliśmy żadnych rozmów. To jest tradycyjna lokalizacja Teatru Żydowskiego i przenoszenie go stąd byłoby czymś niepoważnym - zapowiada sprzeciw dyr. Kraszewski. Obiecuje przyjrzeć się wnioskowi złożonemu w Biurze Architektury. - Decyzja o warunkach zabudowy powinna być z nami skonsultowana - uważa. </p>
+<p> Według Grzegorza Buczka miasto musi dokonać wyboru między interesem publicznym a prywatnym. Chcąc zachować teatr, może wstrzymywać wydawanie decyzji do czasu uchwalenia miejscowego planu, który zapewni budynkowi ochronę. - Przy pl. Grzybowskim słowo ma jeszcze konserwator zabytków. Choć sam teatr nie jest pod jego ochroną, to już układ urbanistyczny placu tak - zauważa architekt. </p>
+<p> Stadion narodowy prawie cały wynajęty. Za ile? </p>
+<p> Przeczytaj także: </p>
+<p> Zburzą 100-metrowy wieżowiec. W jego miejsce gigant </p>
+<p> Zobacz więcej na temat: </p>
+<p> Żydzi </p>
+<p> , </p>
+<p> plac Grzybowski </p>
+<p> var artykuly = new Array();  function show(x2){         for(var ii=0; ii < artykuly.length; ii++){                 var obj=document.getElementById("li"+artykuly[ii]);                 if (artykuly[ii]==x2){                         obj.style.display="none";                  }         } } function xxFromHref(href){         var wynik=new String(href);         var indx1=wynik.indexOf(",");         var indx2=0;         if (indx1 > 0) {//                 wynik=wynik.substring(indx1+1);                 indx1=wynik.indexOf(",");                 if (indx1 > 0){                         wynik=wynik.substring(indx1+1);                         indx1=wynik.indexOf(",");                         if (indx1 > 1){                                 wynik=wynik.substring(0,indx1);                         }                 }         }         indx2=wynik.lastIndexOf(".");         if (indx2 > 0) wynik=wynik.substring(0,indx2);         return wynik; } var xx=xxFromHref(window.top.location); var indx=0; </p>
+<p> Hugo-Bader, Stasiuk, Waglewski... Nowy numer magazynu KONTYNENTY na czytniki i tablety </p>
+<p> | SPRAWDŹ! </p>
+<p> show(xx); </p>
+<p> Wyślij </p>
+<p> e-mailem </p>
+<p> Kup </p>
+<p> licencję </p>
+<p> putBan(4); </p>
+<p> putBan(85); </p>
+<p> <!-- 	var google_ad_client = 'ca-agora-pl_html'; 	var google_language = 'pl'; 	var google_gl = 'pl'; 	var google_encoding = 'utf8'; 	var google_safe = 'high';  	var google_color_bg = 'FFFFFF'; 	var google_color_border = 'FFFFFF'; 	var google_color_line = 'FFFFFF'; 	var google_color_link = '334fdb'; 	var google_color_text = '000000'; 	var google_color_url = '008000';   // --> </p>
+<p> putBan(62); </p>
+<p> var gazeta_pl = gazeta_pl || {}; 						  gazeta_pl.ArticleBannerConfig = { 						      "nobanner": false, 						      "elem": "banP62" 						  }; </p>
+<p> Najczęściej czytane </p>
+<p> Wszystko </p>
+<p> PŁATNE </p>
+<p> 1. </p>
+<p> Każdego, kto przyjedzie do Warszawy z transparentem, zapytałabym, czy potrafi wymienić wszystkie 96 ofiar. Ja potrafię </p>
+<p> 2. </p>
+<p> Kościelna komisja smoleńska </p>
+<p> 3. </p>
+<p> Diabeł in vitro. Episkopat oficjalnie: Zakazać sztucznego zapłodnienia. Jest jak produkcja ludzi </p>
+<p> 4. </p>
+<p> Polska prawica ogląda niemiecki serial </p>
+<p> 5. </p>
+<p> Sąd: Poczta Polska może bez zapowiedzi kontrolować telewizory w firmach i domach </p>
+<p> 1. </p>
+<p> Jak się kradnie miliony i nie idzie do więzienia </p>
+<p> 2. </p>
+<p> Grzechy i grzeszki średniowiecznych sypialni </p>
+<p> 3. </p>
+<p> Ksiądz, jego żona i reporterka </p>
+<p> 4. </p>
+<p> Z dziejów seksu w Polsce Ludowej </p>
+<p> 5. </p>
+<p> Zamek, który straszy </p>
+<p> putBan(3); </p>
+<p> putBan(13); </p>
+<p> putBan(11); </p>
+<p> putBan(43); </p>
+<p> putBan(50); </p>
+<p> putBan(21); </p>
+<p> putBan(96); </p>
+<p> putBan(97); </p>
+<p> putBan(60); </p>
+<p> putBan(61); </p>
+<p> putBan(46); </p>
+<p> putBan(57); </p>
+<p> Polecamy </p>
+<p> kraj </p>
+<p> Krucjata smoleńska - tak prawica opisuje przygotowania do obchodów rocznicy katastrofy smoleńskiej </p>
+<p> Witamy w Polsce </p>
+<p> Do wsi sprowadzili się Australijczycy. Miejscowi żule ich okradali, potem spalili. Inni przygarnęli pogorzelców </p>
+<p> Dodatki i kolekcje Gazety Wyborczej </p>
+<p> W środę z "Gazetą": </p>
+<p> Gazeta Dom </p>
+<p> putBan(35); </p>
+<p> putBan(88); </p>
+<p> putBan(42); </p>
+<p> Na skróty: </p>
+<p> Gazeta.pl </p>
+<p> Wiadomości </p>
+<p> Sport.pl </p>
+<p> Biznes </p>
+<p> Gazeta Wyborcza </p>
+<p> Praca </p>
+<p> Program TV </p>
+<p> Polecamy: </p>
+<p> eMetro </p>
+<p> Dodaj ogłoszenie </p>
+<p> Reklama w Gazecie </p>
+<p> Nadaj nekrolog </p>
+<p> Wyniki Lotto </p>
+<p> Oferty nieruchomości </p>
+<p> Newsletter </p>
+<p> Facebook </p>
+<p> RSS </p>
+<p> Poczta </p>
+<p> Copyright </p>
+<p> © </p>
+<p> Agora SA </p>
+<p> O nas </p>
+<p> Staże u nas </p>
+<p> Reklama </p>
+<p> Prywatność </p>
+<p> Wszystkie artykuły </p>
+<p> Licencje </p>
+<p> Poleć stronę </p>
+<p> Zgłoś błąd </p>
+<p> <!--         function getCookie(name) {             var start = document.cookie.indexOf(name+"=");             var len = start+name.length+1;             if ((!start) && (name != document.cookie.substring(0,name.length))) return null;             if (start == -1) return null;             var end = document.cookie.indexOf(";",len);             if (end == -1) end = document.cookie.length;             return unescape(document.cookie.substring(len,end));         }         document.write('<'+'img src="https://p.gazeta.pl/?b=1&x=10903885&d=0&o=1&t='+(new Date()).getTime()+'&w=75248&u='+banCookie+'"'+'>');     //--> </p>
+<p> tyntVariables = {"ap":"Wi\u0119cej... "}; </p>
+<p> var _sf_async_config={uid:14371,domain:"wyborcza.pl"}; 		 	(function(){ 	function loadChartbeat() { 	window._sf_endpt=(new Date()).getTime(); 	var e = document.createElement('script'); 	e.setAttribute('language', 'javascript'); 	e.setAttribute('type', 'text/javascript'); 	e.setAttribute('src', 	(("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") + 	"js/chartbeat.js"); 	document.body.appendChild(e); 	} 	var oldonload = window.onload; 	window.onload = (typeof window.onload != 'function') ? 	loadChartbeat : function() { oldonload(); loadChartbeat(); }; 	})(); </p>
+<p> putBan(19); </p>
+<p> putBan(41); </p>
+<p> countBan(75248); </p>
+<p> putBan(94); </p>
+<p> function postFbInit(){ 		     	if(typeof enableFBComments != 'undefined' && enableFBComments == true) {     		gazeta_pl.FBComments.init();     	}     	     	if(typeof facebookMessageBody != 'undefined') {     		facebookMessageBody = facebookMessageBody.replace(/\[\/?\s*(quote|b|u|i|url|email|code|sonda|spoiler|video|\*).*?\]/g, '');              var FBCommentsConfig = {                  message : facebookMessageBody,                  link : 'http://wyborcza.pl/1,75248,10903885,Rozbiora_Teatr_Zydowski__Na_jego_miejscu_biurowiec.html?utm_source=facebook.com&utm_medium=SM&utm_campaign=FB_Komentarze',                  name: 'Przejdź do strony'              };              gazeta_pl.FBComments.send(FBCommentsConfig);         }                   gazeta_pl.FBC.init();          	} </p>

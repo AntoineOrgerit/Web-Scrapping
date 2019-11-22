@@ -1,0 +1,182 @@
+<p> Η ΚΑΘΗΜΕΡΙΝΗ, kathimerini.com.cy </p>
+<p> $(document).ready(function(){ 	$(".lightbox").lightbox(); }); </p>
+<p> var totalSlides = 0; var currentSlide = 1; $(document).ready(function(){ 	totalSlides = $('.gal_img').length; 	if (totalSlides > 0) { 		GalUpdateNavButtons(); 	} }); </p>
+<p> var pvar = { cid: "cy-sppmedia", content: "0", server: "secure-uk" };  var trac = nol_t(pvar);  trac.record().post(); </p>
+<p> e-kathimerini NEWSLETTER </p>
+<p> ΟΙΚΟΝΟΜΙΚΗ </p>
+<p> ΕΝΤΥΠΗ ΕΚΔΟΣΗ </p>
+<p> ΕΛΛΗΝΙΚΗ ΕΚΔΟΣΗ </p>
+<p> ENGLISH EDITION </p>
+<p> www.kathimerini.com.cy </p>
+<p> Τελευταία ενημέρωση: 09:30 </p>
+<p> document.write('<iframe src="http://ads.adstore.com.cy/__gb/?zonid=14&sizid=1&'+(new Date()).getTime()+'" width="728" height="90" frameborder="0" scrolling="no"></iframe>'); </p>
+<p> HOME </p>
+<p> ΑΠΟΨΕΙΣ </p>
+<p> ΠΡΩΤΟΣΕΛΙΔΑ </p>
+<p> ΛΕΜΕΣΟΣ </p>
+<p> ΕΚΛΟΓΕΣ </p>
+<p> Είσοδος </p>
+<p> Εγγραφή </p>
+<p> ΚΥΠΡΟΣ </p>
+<p> ΠΟΛΙΤΙΚΗ </p>
+<p> ΑΘΛΗΤΙΣΜΟΣ </p>
+<p> ΟΙΚΟΝΟΜΙΚΗ </p>
+<p> ΕΛΛΑΔΑ </p>
+<p> ΚΟΣΜΟΣ </p>
+<p> GOOD LIFE </p>
+<p> ΠΟΛΙΤΙΣΜΟΣ </p>
+<p> ΑΓΓΕΛΙΕΣ </p>
+<p> GEEK </p>
+<p> Λεμεσός </p>
+<p> Δημοσκοπήσεις </p>
+<p> Εκλογές </p>
+<p> Κύπρος </p>
+<p> Ελλάδα </p>
+<p> Διεθνή </p>
+<p> Οικονομία </p>
+<p> Real Estate </p>
+<p> Επιχειρήσεις </p>
+<p> Αγορές </p>
+<p> Γυναίκα </p>
+<p> Showbiz </p>
+<p> Ταξίδια </p>
+<p> Γεύσεις </p>
+<p> Εστιατόρια </p>
+<p> Σινεμά </p>
+<p> Θέατρο - Χορός </p>
+<p> Μουσική </p>
+<p> Εικαστικά </p>
+<p> ενοικιάζονται </p>
+<p> πωλούνται </p>
+<p> ζητούν εργασία </p>
+<p> θέσεις εργασίας </p>
+<p> νέα </p>
+<p> κινητά - tablets </p>
+<p> social </p>
+<p> Πολιτισμός | Μουσική </p>
+<p> Ημερομηνία: 27.12.2011 | 22:55 </p>
+<p> Πέθανε ο Αμερικανός σαξοφωνίστας Σαμ Ρίβερς </p>
+<p> Κυκλοφόρησε πολλά επαναστατικά άλμπουμ με την εταιρεία Blue Note </p>
+<p> Newsroom Κ/ ΑΜΠΕ </p>
+<p> Ο Αμερικανός σαξοφωνίστας Σαμ Ρίβερς, ένας από τους γίγαντες της free jazz, πέθανε από πνευμονία σε ηλικία 88 ετών στο Ορλάντο της Φλόριντα (νοτιοανατολικά), ανακοίνωσε η οικογένειά του. </p>
+<p> Γεννημένος στην Οκλαχόμα (κέντρο) σε μια οικογένεια μουσικών, ο Σαμ Ρίβερς είχε αγκαλιάσει το κύμα της be-bop στη δεκαετία του 50 και έπαιξε με την Μπίλι Χόλιντεϊ, πριν συναντηθεί με τον Μάιλς Ντέιβις το 1964 και παίξει στο live Αλμπουμ του, "Miles in Tokyo", την ίδια χρονιά. </p>
+<p> Κυκλοφόρησε πολλά επαναστατικά άλμπουμ με την εταιρεία Blue Note, συμπεριλαμβανομένου του "Fuchia Swing Song", και έπαιξε με τον μπασίστα Ντέιβ Χόλαντ και τον ντράμερ Τόνι Ουίλιαμς. </p>
+<p> www.kathimerini.com.cy </p>
+<p> Άλλα άρθρα του ιδίου συγγραφέα </p>
+<p> G8: Συνεδρίαση υπουργών Εξωτερικών για Συρία και Β. Κορέα </p>
+<p> (10/04/2013) </p>
+<p> Το γρήγορο βάδισμα πιο ωφέλιμο για την καρδιά από το τρέξιμο </p>
+<p> (10/04/2013) </p>
+<p> Διαδήλωση για το αεροπορικό δυστύχημα του προέδρου Κατσίνσκι </p>
+<p> (10/04/2013) </p>
+<p> Επίθεση ενόπλου με 14 τραυματίες σε πανεπιστήμιο του Τέξας </p>
+<p> (10/04/2013) </p>
+<p> 4χρονος πυροβόλησε 6χρονο φίλο του στις ΗΠΑ </p>
+<p> (10/04/2013) </p>
+<p> Ελλάδα: Ένταση τα ξημερώματα στην Ιερισσό </p>
+<p> (10/04/2013) </p>
+<p> Η Αλέκα Παπαρήγα αφήνει το τιμόνι του ΚΚΕ </p>
+<p> (10/04/2013) </p>
+<p> Wall Street: Νέο ρεκόρ για τον Dow Jones </p>
+<p> (10/04/2013) </p>
+<p> Την Τετάρτη η απόφαση για την αύξηση κεφαλαίου της Εθνικής </p>
+<p> (09/04/2013) </p>
+<p> Ανησυχία ΟΗΕ για την καταναγκαστική εργασία στη Μέση Ανατολή </p>
+<p> (09/04/2013) </p>
+<p> document.write('<iframe src="http://ads.adstore.com.cy/__gb/?zonid=14&sizid=3&'+(new Date()).getTime()+'" width="468" height="60" frameborder="0" scrolling="no"></iframe>'); </p>
+<p> NEWS ROOM </p>
+<p> ΠΑΟΚ: Πρόταση σε Ανελκά </p>
+<p> | </p>
+<p> 09:30 </p>
+<p> ΑΕΚ: Με τον Δέλλα μπροστάρη </p>
+<p> | </p>
+<p> 09:28 </p>
+<p> Ολυμπιακός: Μίτσελ ο… πρωτάρης! </p>
+<p> | </p>
+<p> 09:27 </p>
+<p> Παναθηναϊκός: Ποντάρει στους Έλληνες </p>
+<p> | </p>
+<p> 09:24 </p>
+<p> Διαψεύδει για Μίλαν ο Ζούλιο Σέζαρ </p>
+<p> | </p>
+<p> 09:22 </p>
+<p> document.write('<iframe src="http://ads.adstore.com.cy/__gb/?zonid=14&sizid=2&'+(new Date()).getTime()+'" width="300" height="250" frameborder="0" scrolling="no"></iframe>'); </p>
+<p> ΔΗΜΟΦΙΛΕΣΤΕΡΑ </p>
+<p> Viewed </p>
+<p> Viewed </p>
+<p> Commented </p>
+<p> Commented </p>
+<p> Shared </p>
+<p> Shared </p>
+<p> Στα χέρια του Ομήρου η «τύχη» του Διοικητή </p>
+<p> Η Αλέκα Παπαρήγα αφήνει το τιμόνι του ΚΚΕ </p>
+<p> Ορατός ο κίνδυνος κατάρρευσης των ΚΑ </p>
+<p> Σοβαρά τραυματισμένος εντοπίσθηκε στη Λευκωσία </p>
+<p> Champions League: Ντόρτμουντ-Μάλαγα 3-2 </p>
+<p> Γράφει... η παρακάμερα </p>
+<p> [46] </p>
+<p> Η περίοδος χάριτος εξαντλήθηκε </p>
+<p> [44] </p>
+<p> H ψυχρολουσία του νέου Προέδρου </p>
+<p> [41] </p>
+<p> Παρέμβαση: Η Τρ. Κύπρου πρέπει να διασωθεί </p>
+<p> [39] </p>
+<p> Ο Σαρρής είναι επικίνδυνος </p>
+<p> [33] </p>
+<p> document.write('<iframe src="http://ads.adstore.com.cy/__gb/?zonid=14&sizid=2&'+(new Date()).getTime()+'" width="300" height="250" frameborder="0" scrolling="no"></iframe>'); </p>
+<p> blogzone </p>
+<p> Πολιτικό Παρασκήνιο </p>
+<p> Πώς το loutsiosgate παρασύρει όλο το πολιτικό σύστημα </p>
+<p> Πίσω απο τις κάμερες: </p>
+<p> - Δύο μηνιάτικα ο Λέβι </p>
+<p> - Τα ίδια έλεγε και με Σολάρι </p>
+<p> - Μπαρούφες με Απόλλωνα </p>
+<p> Some say... </p>
+<p> Κοπτοραπτική </p>
+<p> document.write('<iframe src="http://ads.adstore.com.cy/__gb/?zonid=14&sizid=2&'+(new Date()).getTime()+'" width="300" height="250" frameborder="0" scrolling="no"></iframe>'); </p>
+<p> ΕΙΔΗΣΕΙΣ </p>
+<p> Κύπρος </p>
+<p> Πολιτική </p>
+<p> Αθλητισμός </p>
+<p> Οικονομική </p>
+<p> Ελλάδα </p>
+<p> Κόσμος </p>
+<p> GoodLife </p>
+<p> Πολιτισμός </p>
+<p> Περιβάλλον </p>
+<p> Επιστήμη </p>
+<p> Τεχνολογία </p>
+<p> Media </p>
+<p> ΑΛΛΑ ΘΕΜΑΤΑ </p>
+<p> Απόψεις </p>
+<p> Αφιερώματα </p>
+<p> ΕΡΓΑΛΕΙΑ / ΥΠΗΡΕΣΙΕΣ </p>
+<p> Αναζήτηση </p>
+<p> e-kathimerini </p>
+<p> Έντυπη Έκδοση </p>
+<p> mobile </p>
+<p> iPnone </p>
+<p> Tablet </p>
+<p> Kathimerini on facebook </p>
+<p> ΠΛΗΡΟΦΟΡΙΕΣ </p>
+<p> Επικοινωνία </p>
+<p> Διαφήμιση </p>
+<p> Ταυτότητα </p>
+<p> SPPMEDIA NETWORK </p>
+<p> Ελληνική Έκδοση </p>
+<p> 24news.com.cy </p>
+<p> 4troxoi.24man.com.cy </p>
+<p> 24sports.com.cy </p>
+<p> madtv.com.cy </p>
+<p> livingetc.com.cy </p>
+<p> mydeejay.com.cy </p>
+<p> SPPMEDIA ACCOUNT </p>
+<p> Login </p>
+<p> Register </p>
+<p> ©2011 Η ΚΑΘΗΜΕΡΙΝΗ All rigths reserved. </p>
+<p> Η ΚΑΘΗΜΕΡΙΝΗ ΠΟΛΙΤΙΚΗ ΚΑΙ ΟΙΚΟΝΟΜΙΚΗ ΕΦΗΜΕΡΙΔΑ ΕΚΔΟΣΗ ΚΥΠΡΟΥ ΛΤΔ </p>
+<p> ΜΙΑ ΚΟΙΝΗ ΕΤΑΙΡΕΙΑ ΤΩΝ ΕΙΔΙΚΩΝ ΕΚΔΟΣΕΩΝ ΛΤΔ ΚΑΙ ΤΩΝ ΚΑΘΗΜΕΡΙΝΩΝ ΕΚΔΟΣΕΩΝ ΑΕ </p>
+<p> Design & Development by BDigital </p>
+<p> Powered by Webstudio </p>
+<p> var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); </p>
+<p> try { var pageTracker = _gat._getTracker("UA-10385152-1"); pageTracker._trackPageview(); } catch(err) {} </p>

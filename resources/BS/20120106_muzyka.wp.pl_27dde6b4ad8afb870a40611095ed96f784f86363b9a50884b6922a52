@@ -1,0 +1,217 @@
+<p> Pierwszy etap Emergenza Festiwal Polska za nami - Muzyka - WP.PL </p>
+<p> <!-- //<![CDATA[ 			  var pp_gemius_identifier = 'ba1AVIsncyNZicxnRhsOtrbuHQFkdSM4kQcyqj98xxD.F7';   var pp_gemius_hitcollector = 'wp.hit.gemius.pl';   var wp_dot_type = 'click';   var wp_sn = 'muzyka';   var wp_fba = '1365575078.710';   var wp_vm = 113; 			// ]]> --> </p>
+<p> muzyka </p>
+<p> Poczta </p>
+<p> | </p>
+<p> TopNews </p>
+<p> | </p>
+<p> WP.PL na komórkę </p>
+<p> WP.homepagelink() </p>
+<p> <!-- <![CDATA[           var rekid="552";           function NPB() {}           function NJB() {return false;} // ]]> --> </p>
+<p> NPB("002"); </p>
+<p> NPB("003"); </p>
+<p> NPB("009"); </p>
+<p> Muzyka </p>
+<p> Wiadomości </p>
+<p> Artyści </p>
+<p> Płyty </p>
+<p> Teledyski </p>
+<p> Galerie </p>
+<p> Gorące tematy </p>
+<p> Siesta Festival 2013 </p>
+<p> Lord of the Dance </p>
+<p> Koncert Chrisa De Burgha </p>
+<p> Deep Purple we Wrocławiu </p>
+<p> Steve Lukather w Polsce </p>
+<p> if (!WP.mcookie.get('iippa_resigned')) { 			 								if (WP.mcookie.get('iippa')) { 				 					var authorizedUsersStartView = WP.$(document.createElement('div')).attr('id', 'bxPasekPostepu').addClass('bx'); 					 					var leftCol = WP.$(document.createElement('div')).attr('id', 'leftCol').appendTo(authorizedUsersStartView); 					var leftColCnt = WP.$(document.createElement('div')).addClass('cnt').appendTo(leftCol); 					var friendBox = WP.$(document.createElement('div')).attr('style', 'width: 100%;').addClass('friendBx').append('<h2>Aktywno&#347;ci Twoich znajomych</h2>').appendTo(leftColCnt); 					WP.$(document.createElement('div')).attr('style', 'height: 57px;').addClass('dynamicPadding loading').appendTo(friendBox); 					WP.$(document.createElement('div')).attr('style', 'display: none;').addClass('mostViewed').appendTo(leftColCnt);  					var rightCol = WP.$(document.createElement('div')).attr('id', 'rightCol').addClass('noLogged').appendTo(authorizedUsersStartView); 					var rightColCnt = WP.$(document.createElement('div')).addClass('cnt').append('<h2 class="hd panel">Twoje<span> Informacje WP.PL</span></h2>').appendTo(rightCol); 					WP.$(document.createElement('div')).addClass('pData loading').appendTo(rightColCnt);  					WP.$(document.createElement('div')).addClass("clr").html('&nbsp;').appendTo(authorizedUsersStartView); 					 										function insertGUI(){ 						if (WP.$('.hot').length){ 							WP.$('.hot').last().after(authorizedUsersStartView) 						} else { 							setTimeout(insertGUI, 1000); 						}	 					}; 					insertGUI(); 				 								} else { 				 					var unregisteredUsersStartView = WP.$(document.createElement('div')).attr('id', 'bxPasekPostepu').addClass('noRegister bx white'); 					 					var leftCol = WP.$(document.createElement('div')).attr('id', 'leftCol').appendTo(unregisteredUsersStartView); 					var leftColCnt = WP.$(document.createElement('div')).addClass('cnt').appendTo(leftCol); 					WP.$(document.createElement('div')).attr('id', 'noAvatar').append('<img alt="" src="http://i.wp.pl/a/i/wiadomosci/fb/no-avatar.jpg" />').appendTo(leftColCnt); 					var friendActivity = WP.$(document.createElement('div')).attr('id', 'friendActivity').appendTo(leftColCnt); 					friendActivity.append('<h2>Zobacz, co zainteresowa&#322;o Twoich znajomych!</h2>'); 					var friendActivityInner = WP.$(document.createElement('div')).addClass('inner').appendTo(friendActivity); 					friendActivityInner.append('<p>Dowiedz si&#281;, co przegl&#261;daj&#261; Twoi znajomi i je&#347;li chcesz, udost&#281;pnij im swoje aktywno&#347;ci.</p>'); 					var friendActivityInnerMore = WP.$(document.createElement('div')).addClass('more rt').append('<a onclick="wiadPopOpen(); return false;">wi&#281;cej na ten temat</a>').appendTo(friendActivityInner); 					 					var rightCol = WP.$(document.createElement('div')).attr('id', 'rightCol').appendTo(unregisteredUsersStartView); 					var rightColCnt = WP.$(document.createElement('div')).addClass('cnt').appendTo(rightCol); 					var fblogin = WP.$(document.createElement('div')).attr('id', 'fblogin').addClass('btnBegin').append('<img alt="" src="http://i.wp.pl/a/i/supersport/socialreader/fb_login-big.png">').appendTo(rightColCnt);  					WP.$(document.createElement('div')).addClass('clr').html('&nbsp;').appendTo(unregisteredUsersStartView);  					function insertUnGUI(){ 						if (WP.$('.hot').length){ 							WP.$('.hot').last().after(unregisteredUsersStartView); 							createMinClosePanel(); 							startupMinimize(); 						} else { 							setTimeout(insertUnGUI, 1000); 						}	 					}; 					insertUnGUI(); 				} 			}		  			 			window.fbAsyncInit = function() { 				window.pasekInit(); 								window.sendAction(); 				 														FB.Event.subscribe('comment.create', function(response) { 							WP.stat.eventShow('srv=fbcomment&action=sent'); 							loadOpiCountFb(+1); 						}); 						FB.Event.subscribe('comment.remove', function(response) { 							loadOpiCountFb(); 						}); 								 			} 									 			function delayedWiadPopOpen(){ 				try { 					wiadPopOpen(); 				} catch (e){ 					setTimeout(delayedWiadPopOpen, 1000); 				} 			} </p>
+<p> NPB("001"); </p>
+<p> NPB("011"); </p>
+<p> NPB("012"); </p>
+<p> NPB("034"); </p>
+<p> NPB("037"); </p>
+<p> NPB("016"); </p>
+<p> Jurorzy "X Factor" wybrali tych najlepszych? </p>
+<p> Paulli uda się wrócić na szczyt? </p>
+<p> Edyta Górniak nagra płytę za granicą? </p>
+<p> Historia piosenki "Tyle słońca w całym mieście" </p>
+<p> Paulli uda się wrócić na szczyt? </p>
+<p> Edyta Górniak nagra płytę za granicą? </p>
+<p> Historia piosenki "Tyle słońca w całym mieście" </p>
+<p> więcej </p>
+<p> Romek Puchowski - Big Bad Brother </p>
+<p> Room 94 </p>
+<p> Chasing The Summer </p>
+<p> Lao Che </p>
+<p> Dym </p>
+<p> Coma </p>
+<p> Song 4 Boys </p>
+<p> Chasing The Summer </p>
+<p> - Coma </p>
+<p> Dym </p>
+<p> - Coma </p>
+<p> Song 4 Boys </p>
+<p> - Coma </p>
+<p> więcej </p>
+<p> NPB("020"); </p>
+<p> NPB("017"); </p>
+<p> Pierwszy etap Emergenza Festiwal Polska za nami </p>
+<p> 2011-12-23 </p>
+<p> inf. prasowa/ fot. mat. promocyjne </p>
+<p> <!-- 					function setFontSize(fSize) { 					    document.getElementById("aTxt").style.fontSize = fSize + "px"; 					    document.getElementById("aTxt").style.lineHeight = fSize + 2 + "px"; 					} 				    --> </p>
+<p> A </p>
+<p> A </p>
+<p> A </p>
+<p> NPB("013"); </p>
+<p> W Warszawie, Katowicach i Wrocławiu odbyły się już koncerty pierwszej polskiej edycji najbardziej popularnego na świecie festiwalu dla młodych zespołów, czyli </p>
+<p> Emergenza </p>
+<p> . Zespoły walczą o niesamowite nagrody: profesjonalny sprzęt muzyczny, sława, możliwość koncertowania na najbardziej popularnych scenach świata. Mamy już pierwszych zwycięzców! </p>
+<p> Festiwal rozpoczął się 9 grudnia od warszawskich koncertów w Fonobarze. Kolejne miasta: Katowice, Wrocław, kolejne etapy, aż do maja 2012 roku, doprowadzą zwycięski zespół z Polski na światowy finał Emergenzy. Zespoły grały po 30 minut, a publika demokratycznie wybierała te, które uważa za najlepsze tego wieczoru. Pierwsze cztery z największą ilością głosów awansowały do kolejnego etapu. </p>
+<p> Podczas finałów regionalnych i narodowych to sędziowie wybierają najlepszy zespół i przyznają nagrody. Zespół, który wygra finał krajowy weźmie udział w finale światowym w Niemczech na Tauberta Open Air Festival przed trzydziestotysięczną publiką. </p>
+<p> Emergenza </p>
+<p> płaci za przejazd i za pobyt zespołu na miejscu. Najlepszy zespół na świecie wybrany przez międzynarodowe Jury wygrywa trasę koncertową po Europie, instrumenty muzyczne i wiele innych cennych nagród. Jury wybiera również najlepszych instrumentalistów finału i przyznaje im nagrody w postaci sprzętu muzycznego ufundowanego przez sponsorów. </p>
+<p> W pierwszym etapie, tym samym przechodząc do finałów polskich, zwyciężyli: </p>
+<p> Warszawa: Indeed, Redroom, Natalia i Papierosy, Poligon Nr 4, Too Mint, </p>
+<p> The Stray </p>
+<p> , Imish, Straight Minds, </p>
+<p> Noko </p>
+<p> . </p>
+<p> Katowice: Shaleyesh, Absynth, Tora Tora Tora, Shiroroom, Ebola Cereal. </p>
+<p> Wrocław: Blanket, Splot, Skaza, Demonstracja, Offreason, Afterglow, Snowball Ambush, Clon, Pure Inception. </p>
+<p> "Na pewno zapanowanie nad ośmioma zespołami jednego wieczoru. Na Emergenzie wszystko dzieje się bardzo szybko. Zespół wchodzi na scenę ma pięć minut na instalacje i po tych pięciu minutach już gra, kończy po pół godzinie i od razu wchodzi następny zespół. My jako organizatorzy musimy bardzo pilnować czasu, żeby wszystko szło sprawnie. Póki co jesteśmy zadowoleni z tej współpracy" - opowiada Dominik Gacka, dyrektor polskiej Emergenzy. </p>
+<p> Grudniowe koncerty to pierwszy etap Festiwalu </p>
+<p> Emergenza </p>
+<p> Polska. Na razie odbywają się w trzech miastach w Polsce, jednak zainteresowanie i chęć udziału kapel jest na tyle spora, że organizatorzy już planują kolejne edycje poszerzyć o większą ilość miast. </p>
+<p> Najbliższe koncerty </p>
+<p> Emergenza </p>
+<p> Polska Festiwal: </p>
+<p> WARSZAWA - Fonobar, ul. Wawelska 5, godz. 19.00 </p>
+<p> 13 stycznia 2012: Ambasadores, Dot, Electric Foundation, Gonzo and The Prezidents, Happyness, Not In Paris, Orange the Juice, Polivinyl </p>
+<p> 14 stycznia 2012: Architecture Of Lie, Koan, Minerva, Mute, Petite Illusion, Rewolta, The Cookies, Watcher </p>
+<p> KATOWICE – Straszny Dwór, godz. 19.00 </p>
+<p> 15 stycznia 2012: skład zespołów zostanie ogłoszony niebawem na www.facebook.com/emergenzapolska oraz www. </p>
+<p> emergenza </p>
+<p> .net </p>
+<p> WROCŁAW – Łykend, ul. Podwale 37/38, , godz. 19.00 </p>
+<p> 20 stycznia 2012: Remembrance, Nurth, Ode to Venus, Red Bus, Monolight, The Great End, Sepia, Drunk n Rolled </p>
+<p> 21 stycznia 2012: People of the Haze, Lady Perfect, Passage, Cockroach, Maanalainen, White Russia, Wondodomu, Waste of Time </p>
+<p> oceń </p>
+<p> 11 </p>
+<p> 0 </p>
+<p> window.voted = false; </p>
+<p> Podziel się </p>
+<p> <!--                 		if (typeof(PWA_Itxt) == "undefined"){ 		                        PWA_Itxt = false;                 		} 	         		        if(PWA_Itxt!=true){                         		document.write('<scr' + 'ipt type="text/javascript"' + ' src="http://adsearch.adkontekst.pl/akon/intext_spliter?prid=3&caid=86774&form=9049:0:I&ns=' + (new Date()).getTime() + '"' + '></' + 'script>'); 		                }                 		//--> </p>
+<p> NJUSY </p>
+<p> Noko zagra przed Papa Roach </p>
+<p> WYWIADY </p>
+<p> "Świętowanie wolności" (rozmowa z Noko) </p>
+<p> MATERIAŁY WIDEO </p>
+<p> Bad Thoughts </p>
+<p> RECENZJE </p>
+<p> Rockowa szarlotka </p>
+<p> NPB("005"); </p>
+<p> Zobacz także </p>
+<p> NOKO </p>
+<p> "Byliśmy jak Beatlesi w Hamburgu" (rozmowa z Noko) </p>
+<p> Wasz pierwszy samochód. Co to było za auto? </p>
+<p> pytamy.pl </p>
+<p> W jakim wieku kobiety najczęściej mają pierwszy raz za sobą ?? </p>
+<p> pytamy.pl </p>
+<p> pierwszy kroczek... </p>
+<p> bloog.pl </p>
+<p> Czy u Was za oknem też jest tak cudownie biało? </p>
+<p> pytamy.pl </p>
+<p> II etap rozmowy kwalifikacyjnej </p>
+<p> kobiecyporadnik.pl </p>
+<p> Pierwszy raz </p>
+<p> kobiecyporadnik.pl </p>
+<p> Pierwszy stosunek </p>
+<p> kobiecyporadnik.pl </p>
+<p> Mój pierwszy raz był koszmarem! </p>
+<p> kobiecyporadnik.pl </p>
+<p> Twój pierwszy rower. </p>
+<p> pytamy.pl </p>
+<p> Ile mieliście lat jak wyemitowali pierwszy odcinek mody na sukces? </p>
+<p> pytamy.pl </p>
+<p> <!-- if (typeof(PWA_Itxt) == "undefined"){ 	PWA_Itxt = false; }  if(PWA_Itxt!=true){ 	document.write('<scr' + 'ipt type="text/javascript"' + ' src="http://adsearch.adkontekst.pl/_/ads0/?QAPS_AKPL=--3-68458-#13114--&noChache=false' + '"' + '></' + 'script>'); } //--> </p>
+<p> <!--         WP.dmodule('opinie v2'); --> </p>
+<p> Skomentuj </p>
+<p> WP.PL </p>
+<p> FB </p>
+<p> Korzystanie z komentarzy FB oznacza akceptację </p>
+<p> regulaminu </p>
+<p> REGULAMIN </p>
+<p> Nick </p>
+<p> Masz konto na WP.PL? </p>
+<p> Zaloguj się </p>
+<p> Nie masz konta? Załóż konto! </p>
+<p> Twój podpis: </p>
+<p> zmień swój podpis </p>
+<p> | </p>
+<p> wyloguj </p>
+<p> ...lub dodaj opinię anonimowo </p>
+<p> Twoja opinia </p>
+<p> Pozostało znaków: </p>
+<p> 4000 </p>
+<p> [Pokaż regulamin] </p>
+<p> REGULAMIN </p>
+<p> ostatnio aktywne | </p>
+<p> najnowsze </p>
+<p> | </p>
+<p> najstarsze </p>
+<p> | </p>
+<p> najczęściej oceniane </p>
+<p> | </p>
+<p> najczęściej odpowiadane </p>
+<p> Ocena: </p>
+<p> 0 </p>
+<p> [0] </p>
+<p> ~ </p>
+<p> Grammar Nazi </p>
+<p> [2011-12-30 16:24] </p>
+<p> "THIS" great end, nie "THE" great end. </p>
+<p> odpowiedz </p>
+<p> <!-- function loadOpiCountFb(modifier) { 	if (typeof modifier === 'undefined') { 		WP.$.ajax({ 			url: '//graph.facebook.com/?id=http://muzyka.wp.pl/wid,646075,wiadomosc.html', 			crossDomain: true, 			dataType: 'jsonp' 		}) 		.success(function(data) { 			if (typeof data.id !== 'undefined') { 				if (typeof data.comments !== 'undefined') { 					fbCommentsCounter = data.comments; 				} else { 					fbCommentsCounter = 0; 				} 				WP.$('#opiCountFb').html('(' + fbCommentsCounter + ')'); 			} 		}); 	} else { 		if (typeof fbCommentsCounter !== 'undefined') { 			fbCommentsCounter += modifier; 			WP.$('#opiCountFb').html('(' + fbCommentsCounter + ')'); 		} 	} } WP.$(function(){ 			WP.$('#opWyborT1, #opWyborT2').click(function(){ 						var heightOfTab1 = WP.$('#opWyborD1').height() || 0; 			var heightOfTab2 = WP.$('#opWyborD2').height() || 0; 			var heightOfViewport = WP.$(window).height(); 			var targetHeight = Math.min(Math.max(heightOfTab1, heightOfTab2), heightOfViewport); 			WP.$('#opWyborD1, #opWyborD2').css('min-height', targetHeight); 						var cookieValue = WP.$(this).attr('rel'); 			WP.mcookie.set('opiTab', cookieValue); 		}); 		 					WP.$('#opiCountWp').html('(1)'); 			 					loadOpiCountFb(); 	 		var opWybor = new WP.tabs('opWybor'); 	opWybor.press((WP.mcookie.get('opiTab') == 'fb') ? 2 : 1); }); //--> </p>
+<p> NPB("006"); </p>
+<p> Polecane: </p>
+<p> Pogoda </p>
+<p> | </p>
+<p> Wyznaczanie trasy </p>
+<p> | </p>
+<p> BMI </p>
+<p> | </p>
+<p> Tarot </p>
+<p> | </p>
+<p> Program tv </p>
+<p> | </p>
+<p> Plotki </p>
+<p> | </p>
+<p> Moje IP </p>
+<p> | </p>
+<p> Wiadomości </p>
+<p> | </p>
+<p> Sport </p>
+<p> | </p>
+<p> Top News </p>
+<p> O firmie </p>
+<p> | </p>
+<p> Dla prasy </p>
+<p> | </p>
+<p> Reklama </p>
+<p> | </p>
+<p> Biznes z WP.PL </p>
+<p> | </p>
+<p> Skontaktuj się z WP.PL </p>
+<p> | </p>
+<p> Praca </p>
+<p> | </p>
+<p> Prywatność </p>
+<p> | </p>
+<p> Zasady korzystania </p>
+<p> | </p>
+<p> Polityka antyspamowa </p>
+<p> Zobacz wszystkie serwisy </p>
+<p> | </p>
+<p> RSS </p>
+<p> Copyright © 1995-2013 </p>
+<p> Wirtualna Polska </p>
+<p> //clicktracking 	setTimeout(function(){var a=document.createElement("script"); 	var b=document.getElementsByTagName('script')[0]; 	a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/6469.js?"+Math.floor(new Date().getTime()/3600000); 	a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1); </p>

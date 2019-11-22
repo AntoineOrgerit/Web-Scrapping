@@ -1,0 +1,169 @@
+<p> Chinese tree offers hope for alcohol antidote - ABC Sydney - Australian Broadcasting Corporation </p>
+<p> $(document).ready(function(){   	if (typeof $('#storyPhotosImg').attr('src') == 'undefined') { 		var geoCords = $('meta[name="geo.position"]'); 		geoCords = geoCords.attr('content'); 		geoCords = geoCords.split(';');  		showMap($('.related .expandable a:first'), '100%', geoCords[0], geoCords[1], '');		  	} 	  	var h1 = $('h1').html(); 	$('h1').remove(); 	$('#anchor').after('<h1>' + h1 + '</h1>'); 	 	$('.content_tools:first').css('background','none'); 	$('.content_tools:first').css('height','30px');	 	  	 	 	/* Video Check script fallback - 28112011 */ 	/* 	var videoCheck = $('meta[name="DC.type"]'); 	 		if (videoCheck.attr('content') == 'Moving Picture') { 			$('#col1 h1').after('<div id="media_main"></div>'); 			 				  			var xmlDoc = $.ajax({ 			  url:"/news/2012-01-12/chinese-tree-offers-hope-for-alcohol-antidote/3770062/mediarss.xml?site=sydney", 			  context: document.body, 			  success: function(data){ 			  	 				 					var videoUrl = $(data).find('*[type="video/x-flv"]'); 						videoUrl = videoUrl.attr('url'); 					//	play_video(videoUrl,'','media_main',700,410,true); 				 			  	} 			   			  });		 			 			 	 		} 	*/ 		 	 }); </p>
+<p> Search: </p>
+<p> Radio </p>
+<p> TV </p>
+<p> Shop </p>
+<p> News </p>
+<p> Sport </p>
+<p> Local </p>
+<p> Children </p>
+<p> Science </p>
+<p> Environment </p>
+<p> more Topics </p>
+<p> help </p>
+<p> Go to sitemap </p>
+<p> | </p>
+<p> Go to primary menu </p>
+<p> | </p>
+<p> Go to content </p>
+<p> | </p>
+<p> Go to footer </p>
+<p> | </p>
+<p> ABC Local on your mobile phone </p>
+<p> visit another location </p>
+<p> Sydney panorama </p>
+<p> - Hanis </p>
+<p> Home </p>
+<p> Programs </p>
+<p> News </p>
+<p> Weather </p>
+<p> Emergencies </p>
+<p> Sport </p>
+<p> Events </p>
+<p> Recipes </p>
+<p> Photos & Videos </p>
+<p> Explore by Topic </p>
+<p> var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); 	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); </p>
+<p> try {  	var pageTracker = _gat._getTracker("UA-2910561-9");	                 	pageTracker._trackPageview(); 	} catch(err) {} </p>
+<p> // Avoiding duplication //var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); //document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); </p>
+<p> try { var pageTracker = _gat._getTracker("UA-2910561-32"); pageTracker._trackPageview(); pageTracker._trackPageLoadTime(); } catch(err) {} </p>
+<p> Print page </p>
+<p> Email this </p>
+<p> Permalink </p>
+<p> var addthis_config = { 				 pubid: "ra-4e38b88a25e8b818", 				 data_ga_property: 'UA-2910561-32', 				 data_ga_social : true, 				 data_track_textcopy: true  			} </p>
+<p> Share </p>
+<p> Chinese tree offers hope for alcohol antidote </p>
+<p> By Eleanor Bell </p>
+<p> Updated </p>
+<p> January 13, 2012 09:24:35 </p>
+<p> Researchers say a Chinese tree offers hope for treating alcoholism. </p>
+<p> <!-- 		if (typeof showPhotos == 'function') showPhotos('mediarss.xml'); 		--> </p>
+<p> Map: </p>
+<p> United States </p>
+<p> Researchers are investigating a 500-year-old Chinese hangover cure in the hope they can put its properties into a pill to help alcoholics and stave off sore heads. </p>
+<p> The researchers say the ancient Chinese remedy contains a compound which can prevent alcohol from having its usual intoxicating effects on the brain. </p>
+<p> The compound, DHM, which works by stopping alcohol from accessing the receptors in the brain, is extracted from an oriental raisin tree and has already proved its worth as an alcohol antidote in a series of experiments on rats. </p>
+<p> Researchers at the University of California injected rats with a dose of alcohol proportionate to the amount a human would get from downing 15 to 20 beers in two hours. </p>
+<p> Head researcher Dr Jing Liang said "when rats are drunk they behave like humans, just like that". </p>
+<p> In a bid to test coordination and clumsiness, Dr Liang looked at how long rats took to right themselves after being laid on their backs. </p>
+<p> Rats treated with DHM took just five minutes to recover, while those without the drug slept for more than an hour. </p>
+<p> As well as sobering them up, the treated rats also exhibited fewer hangover symptoms; for example, untreated rats were more likely to cower in the dark recesses of their maze. </p>
+<p> But Dr Liang says those dreaming of a magic antidote to drinking too much can think again. </p>
+<p> The presence of DHM also reduced the cravings for alcohol, a factor Dr Liang says could prove invaluable in treating alcoholism in humans. </p>
+<p> "If from the beginning you drink alcohol with DHM, you never go to a high level of drinking," she said. </p>
+<p> Direct antidote </p>
+<p> Dr Paul Haber from Australia's National Alcohol and Drug Research Centre welcomes the research. </p>
+<p> He says the development of a drug with these properties for humans could potentially save lives. </p>
+<p> "A direct antidote might be useful in the emergency department setting where people who are grossly intoxicated with alcohol sometimes are brought - Friday night, Saturday night situations - and this might wake them up quickly so they can go home," he said. </p>
+<p> "We do have patients like this who wind up in intensive care and there are deaths associated with direct alcohol poisoning." </p>
+<p> Risks </p>
+<p> Providing the drug is safe, effective and available, Dr Haber says there are still risks associated with an alcohol antidote. </p>
+<p> "Sometimes the antidote wears off too quickly," he said. </p>
+<p> "It works for a while but then it wears off and the person becomes intoxicated again, and if they have started driving home, for argument's sake, then becoming intoxicated again can be life-threatening." </p>
+<p> While a therapeutic drug may be some time away, Dr Liang is working on a supplement that could potentially prevent alcohol addiction. </p>
+<p> "You can take DHM with alcohol so you don't become addicted," she said. </p>
+<p> Dr Haber says while potential drugs often falter in human trials, the DHM discoveries are important. </p>
+<p> "So even if this particular compound does not prove to be a safe and effective treatment, it gives rise to a whole line of research into perhaps similar compounds," he said. </p>
+<p> Clinical trials on the effects of DHM on the human brain will begin soon. </p>
+<p> Tags: </p>
+<p> alcohol </p>
+<p> , </p>
+<p> medical-research </p>
+<p> , </p>
+<p> research </p>
+<p> , </p>
+<p> united-states </p>
+<p> , </p>
+<p> australia </p>
+<p> First posted </p>
+<p> January 12, 2012 19:32:37 </p>
+<p> Print page </p>
+<p> Email this </p>
+<p> Permalink </p>
+<p> var addthis_config = { 				 pubid: "ra-4e38b88a25e8b818", 				 data_ga_property: 'UA-2910561-32', 				 data_ga_social : true, 				 data_track_textcopy: true  			} </p>
+<p> Share </p>
+<p> Search </p>
+<p> ABC Local </p>
+<p> ABC Sydney </p>
+<p> All ABC Local </p>
+<p> 20.9° </p>
+<p> in Sydney </p>
+<p> 21°/27° </p>
+<p> Wednesday </p>
+<p> 21°/27° </p>
+<p> Thursday </p>
+<p> 21°/26° </p>
+<p> Friday </p>
+<p> Today's details and 7 day forecast </p>
+<p> var ctemp = '20.9'; </p>
+<p> Topics </p>
+<p> Arts and Entertainment </p>
+<p> Business, Economics and Finance </p>
+<p> Community and Society </p>
+<p> Defence and National Security </p>
+<p> Disasters and Accidents </p>
+<p> Education </p>
+<p> Environment </p>
+<p> Government and Politics </p>
+<p> Health </p>
+<p> Human Interest </p>
+<p> Information and Communication </p>
+<p> Law, Crime and Justice </p>
+<p> Lifestyle and Leisure </p>
+<p> Rural </p>
+<p> Science and Technology </p>
+<p> Sport </p>
+<p> Unrest, Conflict and War </p>
+<p> Weather </p>
+<p> Latest </p>
+<p> Videos </p>
+<p> Audio </p>
+<p> Photos </p>
+<p> Southern Stars get ready for Twenty20 </p>
+<p> Man faces court over Sydney bikie shooting </p>
+<p> Drive-by shooting rocks Wetherill Park </p>
+<p> Copycat fears </p>
+<p> Sydney shooting spike 'not unusual' </p>
+<p> NSW Country Hour 17/1/12 </p>
+<p> Police urge people to break wall of silence over shootings </p>
+<p> Conversations: Tim Flannery </p>
+<p> NSW Police Minister says organised crime behind drive-by shootings </p>
+<p> NSW Country Hour 16/1/12 </p>
+<p> Pablo Picasso visits New South Wales </p>
+<p> Sculptures bring arty beachside development </p>
+<p> History hides modernism but reveals creativity aplenty </p>
+<p> City signs reveal Acts of Kindness </p>
+<p> Manly welcomes its Sea Eagles home as champions </p>
+<p> Back to top </p>
+<p> Home </p>
+<p> About us </p>
+<p> Archives </p>
+<p> RSS </p>
+<p> Sitemap </p>
+<p> Contact us </p>
+<p> Newsletter </p>
+<p> Sydney </p>
+<p> Today </p>
+<p> Max: 27° Min: 21° </p>
+<p> Clearing shower </p>
+<p> Visit another location </p>
+<p> ABC Home </p>
+<p> About the ABC </p>
+<p> Careers </p>
+<p> ABC Services </p>
+<p> ABC Contacts </p>
+<p> © 2012 ABC </p>
+<p> Conditions of Use </p>
+<p> Privacy Policy </p>
+<p> var pvar = { cid: "abc-aust", content: "0", server: "secure-au" }; 		var trac = nol_t(pvar); 		trac.record().post(); </p>

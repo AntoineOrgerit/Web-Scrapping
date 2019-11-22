@@ -1,0 +1,119 @@
+<p> Management in Practice - Getting to grips with CQC outcomes and compliance </p>
+<p> jQuery(document).ready(function() { 	 		if (jQuery(".headlines #im0").length) 		{ 			window.setInterval('rotateHeadlines()', 5000); 		} 		 		lineUpByID('#gpbcontent','#topstoriescontent');	 		lineUpByID('#panelNutrition','#panelProfessional');	   		/*********************************************** 		* Easy Email Scrambler script- © Dynamic Drive (www.dynamicdrive.com) 		* This notice MUST stay intact for legal use 		* Visit http://www.dynamicdrive.com/ for full source code 		***********************************************/ 		 		var maildivider="{encrypt@thisemail}" //enter divider you use to divide your email address strings 		 		for (i=0; i<=(document.links.length-1); i++) 		{ 			if (document.links[i].href.indexOf(maildivider)!=-1) 			document.links[i].href=document.links[i].href.split(maildivider)[0]+"@"+document.links[i].href.split(maildivider)[1] 		}  	 	jQuery("#ATE_RevealOldQuestions").show(); 	 	jQuery("#ATE_OldQuestions").hide(); 	  	 	jQuery("#ATE_HREF_RevealOldQuestions").click(function () { 	 		jQuery("#ATE_OldQuestions").show(); 	 		jQuery("#ATE_RevealOldQuestions").hide(); 	 		 	 		jQuery('html, body').animate({ 				scrollTop: $("#ATE_OldQuestions").offset().top 			}, 2000); 	 	}); 	}); 	 	 	function mipPelotonVideo(sSource, sId, nWidth, nHeight) 	{ 		insertPelotonVideo(sSource, sId, nWidth, nHeight, 'anonymous'); 	} 	 	function styTog(targ_id,sty_attrJ,sty_attrC,set_val) 		{ 		var targ=document.getElementById(targ_id); 		var targ_stat=""; 		var targ_sty=""; 		var attr_chk=sty_attrC.toLowerCase() 		var excp_flag=0; 		 		if(attr_chk.indexOf("color")!=-1 || attr_chk.indexOf("font")!=-1) 			{ 			excp_flag=1; 			 			if(!document.getElementById("zedSpan")) 				{ 				var insSpan=document.createElement("span"); 				insSpan.setAttribute("id","zedSpan"); 				document.body.appendChild(insSpan); 				} 	 			var zS=document.getElementById("zedSpan").style 			zS[sty_attrJ]=set_val; 			} 		 			if(targ.currentStyle) 			{  //code for IE 				if(excp_flag==1)set_val=zS[sty_attrJ]; 				targ_stat=targ.currentStyle[sty_attrJ]; 			} 			else 			{  //code for W3C-spec-compatible 				if(excp_flag==1) 					{ 					var tst_span=document.getElementById("zedSpan"); 					var tst_sty=document.defaultView.getComputedStyle(tst_span,""); 						set_val=tst_sty.getPropertyValue(sty_attrC); 						excp_flag=0; 					} 				targ_sty=document.defaultView.getComputedStyle(targ,""); 				targ_stat=targ_sty.getPropertyValue(sty_attrC); 			}  			if (targ_stat!=set_val) 			{ 				try { targ.style[sty_attrJ]=set_val; } catch(e) {} 			} 			else 			{ 				targ.style[sty_attrJ]=""; 			}  		}  	/*********************************************** 	* Encrypt Email script- Please keep notice intact 	* Tool URL: http://www.dynamicdrive.com/emailriddler/ 	* **********************************************/ 	var encryptedemail_id1='';  	 	var emailriddlerarray=[109,105,112,64,99,97,109,112,100,101,110,46,99,111,109]; 	for (var i=0; i<emailriddlerarray.length; i++) encryptedemail_id1+=String.fromCharCode(emailriddlerarray[i]) </p>
+<p> _uacct = "UA-1425819-3"; 	urchinTracker(); </p>
+<p> Thursday 15 December 2011 </p>
+<p> Register </p>
+<p> Login </p>
+<p> Commissioning </p>
+<p> CQC </p>
+<p> HR </p>
+<p> IM&T </p>
+<p> Legislation </p>
+<p> Patient Services </p>
+<p> Premises </p>
+<p> Primary Care Development </p>
+<p> Risk Management </p>
+<p> Training </p>
+<p> Search </p>
+<p> All zones </p>
+<p> Commissioning </p>
+<p> CQC </p>
+<p> Finance </p>
+<p> HR </p>
+<p> IM&T </p>
+<p> Legislation </p>
+<p> Medical Equipment </p>
+<p> Partnership Issues </p>
+<p> Patient Access </p>
+<p> Patient Services </p>
+<p> Pharmacy and Drugs </p>
+<p> Premises </p>
+<p> Primary Care Development </p>
+<p> Risk Management </p>
+<p> Training </p>
+<p> for </p>
+<p> You are here: </p>
+<p> document.write('<a class="last" href="http://www.managementinpractice.com/article/27749/Getting_to_grips_with_CQC_outcomes_and_compliance" title="Getting to grips with CQC outcomes and compliance">Getting to...</a>'); </p>
+<p> Getting to... </p>
+<p> var oContainerDiv   = document.getElementById("crumbcontainer"); 		var nContainerWidth = oContainerDiv.offsetWidth;  		var oViewPortDiv    = document.getElementById("crumbviewport"); 		var nViewPortWidth  = oViewPortDiv.offsetWidth; 		 		while (nContainerWidth > nViewPortWidth) 		{ 			var sHTML    = oContainerDiv.innerHTML; 			var nIndex   = sHTML.indexOf("|"); 			 			if (nIndex > -1) 			{ 				oContainerDiv.innerHTML = sHTML.substring(nIndex+1); 				nContainerWidth = oContainerDiv.offsetWidth; 			} 			else 			{ 				break; 			} 		} </p>
+<p> Home </p>
+<p> Latest Issue </p>
+<p> Events </p>
+<p> CPD Zone </p>
+<p> Awards </p>
+<p> Suppliers Guide </p>
+<p> Special Offers </p>
+<p> Advertise </p>
+<p> News Email </p>
+<p> Flu Season Video </p>
+<p> As practices prepare for the winter flu vaccination season, we've produced a </p>
+<p> 5 minute video </p>
+<p> to help practice managers get ready for a very important and hectic part of the year. </p>
+<p> Get the magazine </p>
+<p> Apply for a free copy here </p>
+<p> Management Zones </p>
+<p> Commissioning </p>
+<p> CQC </p>
+<p> Finance </p>
+<p> HR </p>
+<p> IM&T </p>
+<p> Legislation </p>
+<p> Medical Equipment </p>
+<p> Partnership Issues </p>
+<p> Patient Access </p>
+<p> Patient Services </p>
+<p> Pharmacy and Drugs </p>
+<p> Premises </p>
+<p> Primary Care Development </p>
+<p> Risk Management </p>
+<p> Training </p>
+<p> Advertisement Feature </p>
+<p> Tweet </p>
+<p> Getting to grips with CQC outcomes and compliance </p>
+<p> Thursday 15th December 2011 </p>
+<p> By 1 April 2013 all GP practices must be registered with the Care Quality Commission (CQC) and declare that they are compliant with 16 'Core Quality and Safety Standards' for the regulated activities they provide. </p>
+<p> No doubt many practice managers are considering eLearning as a way of proving staff competence in each of the key areas, as it is a sure way of showing who was trained, when training took place and that the trainee achieved the required pass mark to be deemed competent. </p>
+<p> While it is a fact that eLearning will be an essential tool in the practice manager's toolbox with regard to proving compliance it is important that: </p>
+<p> It is easy to use. </p>
+<p> It is in line with CQC outcomes. </p>
+<p> It is cost-effective. </p>
+<p> It provides proof of competency. </p>
+<p> Blue Stream Learning Limited, an established provider of eLearning to the acute and primary care sectors of the NHS, has developed a suite of interactive training modules that ticks each of  these boxes. </p>
+<p> Training information is presented clearly and in an easy-to-navigate format, there are case studies and knowledge tests with randomly selected questions to give a true assessment of competency and a certificate is provided for printing or storing in  the database. </p>
+<p> In order to gauge the quality and accuracy of the content in terms of the needs of GP practices, Blue Stream Learning engaged the help of a number of pilot GP practice sites both locally and nationally. </p>
+<p> Whitemoor Medical Centre in Belper, Derbyshire have piloted Blue Stream's eLearning modules and have recently completed the Information Governance and Fire Safety modules during Quest sessions; feedback has been excellent, with trainees finding the training informative and very easy to navigate. It is also proving very cost-effective in comparison with other traditional methods, with the added benefit of providing auditable  training records. </p>
+<p> In addition, the ability to do the training 'at a time and in a place' that is convenient to the trainee enables them to provide training for staff members unable to attend pre-arranged training sessions. They are planning on incorporating further  modules into next year's training plan. </p>
+<p> Use of the Blue Stream Learning GP Practice eLearning suite could not be simpler, registration is free and there are no annual subscription fees. The cost is based on a completed training module (there is a bookmark facility to allow a trainee to leave and return to the training module if required). Purchased training courses do not expire and there is no minimum commitment. </p>
+<p> The suite resides on a secure server and can be accessed by a unique PIN code, which is practice specific. Each trainee registers on the system and is then presented with a menu of CQC outcomes. When each outcome is selected the trainee is able to choose from a drop-down list of compliance- related topics. </p>
+<p> The trainee can access the Management Information System (MIS) to view/print their training record and the practice manager/training manager can access all records for their practice for statistical/audit purposes. </p>
+<p> There has never been a greater need for a consistent comprehensive training tool within the GP practice environment and Blue Stream Learning Limited has: </p>
+<p> The right products at the right time and  at the right cost. </p>
+<p> Call us for more information on our freephone number 0800 1588661. </p>
+<p> Blue Stream Learning Limited </p>
+<p> 67 King Street </p>
+<p> Belper </p>
+<p> Derbyshire DE56 1QA </p>
+<p> www.bluestreamlearning.com </p>
+<p> Return to top </p>
+<p> USER TOOLS </p>
+<p> Have your say - comment on this item </p>
+<p> Email to friend </p>
+<p> Print-friendly version </p>
+<p> Flu Season Video </p>
+<p> As practices prepare for the winter flu vaccination season, we've produced a </p>
+<p> 5 minute video </p>
+<p> to help practice managers get ready for a very important and hectic part of the year. </p>
+<p> © Campden Publishing Limited 2011 </p>
+<p> Site Map </p>
+<p> | </p>
+<p> Accessibility </p>
+<p> | </p>
+<p> Terms & Conditions </p>
+<p> | </p>
+<p> Privacy Policy </p>
+<p> | </p>
+<p> Contacts </p>
+<p> Campden Publishing Ltd., 1 St John's Square London EC1M 4PN, is  a company registered in the United Kingdom with Reg. No. 2147432 </p>
+<p> www.campden.com </p>
+<p> /**************************************************** 	* DOM Image rollover v3.0: By Chris Poole http://chrispoole.com 	* Script featured on http://www.dynamicdrive.com 	* Keep this notice intact to use it :-) 	****************************************************/ </p>
+<p> Web design, hosting and programming by ModeZero </p>

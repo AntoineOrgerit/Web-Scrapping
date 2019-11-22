@@ -1,0 +1,411 @@
+<p> Больных СПИДом будут лечить бесплатно | ПРО ЗДОРОВЬЕ - Аргументы и Факты Украина </p>
+<p> a {text-decoration:none;} 	#forEnlarge {font-size:1.2em;line-height:1.2em;} 	#forEnlarge p {font-size:1em;} 	#forEnlarge table {font-size:1em;} 	.bubble_mess_fg, .bubble_mess {height:39px;overflow:hidden;line-height:20%;} 	.bubble { overflow:hidden; } 	#logo h1 {text-indent: -1900px; background: url(http://static2.aif.ru/img/logo/ukr.aif.ru.gif) bottom no-repeat; height: 77px;} </p>
+<p> var pp_gemius_identifier = new String('zUA1XWcogRZnyh0ft8whirdeLbpYhWeDm4KKcwyDzPP.Z7'); </p>
+<p> document.write('<img src="http://luxup.ru/tr/360/&r='+escape(document.referrer)+'&t='+(new Date()).getTime()+'" width="1" height="1"/>'); </p>
+<p> <!-- document.write("<img src='http://counter.yadro.ru/hit;AIF?r"+ escape(document.referrer)+((typeof(screen)=="undefined")?"": ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth? screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+ ";h"+escape(document.title.substring(0,80))+";"+Math.random()+ "' width=1 height=1 alt=''>")//--> </p>
+<p> var img = new Image(); 	img.src = 'http://www.tns-counter.ru/V13a***R>' + document.referrer.replace(/\*/g,'%2a') + '*aif_ru/ru/CP1251/tmsec=aif_total/'; </p>
+<p> if (isNaN($.cookie('conspage')))   { $.cookie('conspage',0,{   expires: 7,   path: "/" }); }; </p>
+<p> <!-- bbn_l = "&r"+Math.round((Math.random()*10000000)); document.cookie="holder=1; path=/";if(document.cookie)bbn_l+="&c1"; bbn_l+="&"+escape((self!=top)?"f"+document.referrer:"h"+window.location.href); document.write('<iFrame width="240" height="90" scrolling="no" src="http://h.holder.com.ua/s?b798&tf' + bbn_l +  '" frameborder="0" vspace="0" hspace="0" marginwidth="0" marginheight="0"></iFrame>'); //--> </p>
+<p> .caps {     color: #999999;     font-family: Arial,Helvetica,sans-serif;     font-size: 1em;     margin: 10px 0px;     padding: 0;     text-transform: uppercase; } .caps a { 	color: #0033FF; } </p>
+<p> Сделать стартовой </p>
+<p> | </p>
+<p> В Избранное </p>
+<p> $('.buttonOne').jFav(); </p>
+<p> | </p>
+<p> АиФ в Украине </p>
+<p> Аргументы и Факты </p>
+<p> iPhone </p>
+<p> | </p>
+<p> PDA </p>
+<p> | </p>
+<p> RSS </p>
+<p> 17 января 2012 </p>
+<p> В Конча-Заспе грабят чиновников: </p>
+<p> из одного дома украли 8 кг золота, из другого - коллекцию оружия </p>
+<p> Киевляне получили счета за ЖКУ </p>
+<p> с выросшими тарифами </p>
+<p> Кабмин отменил </p>
+<p> обязательные паркоматы </p>
+<p> Члена банды Дикаева убили </p>
+<p> из того же пистолета, что и женщину из Ржищева </p>
+<p> В Луганске предприняли еще одну попытку ограбить ПриватБанк </p>
+<p> Сотрудников спасло пуленепробиваемое стекло </p>
+<p> Украинскую армию сократят на 20% </p>
+<p> А денежное содержание военных увеличат в 2 раза </p>
+<p> jQuery(document).ready(function() { 	  jQuery("#scroll1").accessNewsTop({newsHeadline: "", newsSpeed: "normal"}); }); </p>
+<p> ГАЗЕТА </p>
+<p> Новости </p>
+<p> ОБЩЕСТВО </p>
+<p> ПОЛИТИКА </p>
+<p> ДЕНЬГИ </p>
+<p> ДОМ </p>
+<p> КУЛЬТУРА </p>
+<p> google.load("elements", "1", {packages: "transliteration"}); </p>
+<p> ПРО ЕДУ </p>
+<p> ПРО ЗДОРОВЬЕ </p>
+<p> ТЕСТЫ </p>
+<p> КОНФЕРЕНЦИИ </p>
+<p> ВОПРОС К РЕДАКЦИИ </p>
+<p> ИГРЫ </p>
+<p> Погода </p>
+<p> КНИЖНАЯ КОЛЛЕКЦИЯ </p>
+<p> function gotoCentralMagazine(select) { 	var value = select.options[select.selectedIndex].value; 	if(value == "") return; 	select.selectedIndex = 0; 	select.blur(); 	window.location = "http://"+value; } </p>
+<p> Выбрать город </p>
+<p> Москва </p>
+<p> Санкт-Петербург </p>
+<p> Архангельск </p>
+<p> Барнаул </p>
+<p> Волгоград </p>
+<p> Екатеринбург </p>
+<p> Иркутск </p>
+<p> Казань </p>
+<p> Камчатка </p>
+<p> Краснодар </p>
+<p> Майкоп </p>
+<p> Минск </p>
+<p> Мурманск </p>
+<p> Нижний Новгород </p>
+<p> Новосибирск </p>
+<p> Омск </p>
+<p> Оренбург </p>
+<p> Пермь </p>
+<p> Петрозаводск </p>
+<p> Псков </p>
+<p> Ростов-на-Дону </p>
+<p> Самара </p>
+<p> Саратов </p>
+<p> Ставрополь </p>
+<p> Ульяновск </p>
+<p> Челябинск </p>
+<p> Ярославль </p>
+<p> Другие города </p>
+<p> new adriver("banner_300x250", {sid:86867,bt:52,pz:2,bn:2}); </p>
+<p> function show_photo(photo_id) 	{ 		$(".photo").hide(); 		$("#article_photo_"+photo_id).show(); 		return false; 	} </p>
+<p> Больных СПИДом будут лечить бесплатно </p>
+<p> Фото: </p>
+<p> www.bez-zavisimosti.ru </p>
+<p> Больных СПИДом будут лечить бесплатно </p>
+<p> Автор: </p>
+<p> AIF.UA </p>
+<p> Опубликовано: </p>
+<p> 17 января 12 (16:49) </p>
+<p> Увеличить шрифт </p>
+<p> Нравится </p>
+<p> VK.init({apiId: 2308891, onlyWidgets: true}); </p>
+<p> VK.Widgets.Like('vk_like_1', {type: 'button', width: 160,  verb: 0, pageUrl: 'http://www.aif.ua/health-zdorovie/news/43571'}); </p>
+<p> Расходы возьмет на себя госбюджет. </p>
+<p> В этом году лечить от СПИд и ВИЧ будут за счет госбюджета, сообщил министр здравоохранения Анищенко. Дл этих целей бюджет предусматривает потратить на 92 миллиона гривен больше, чем в 2011 году. Всего лечение за деньги государства получат около 42 тыс. пациентов, в то время как в 2011 его получили только 22 тысячи человек. </p>
+<p> Успехи Украины в борьбе со СПИДом отметил и исполнительный директор Глобального фонда по борьбе со СПИДом, туберкулезом и малярией Мишель Казачкин. Вместе с этим он отметил, что эти достижения – очень хрупки. </p>
+<p> Украина и Россия также остаются ЕДИНСТВЕННЫМИ странами в мире, где эпидемия СПИДа все еще растет. По словам Анищенко, глобальный фонд по борьбе со СПИДом, туберкулезом и малярией выделит Украине $86 млн в рамках борьбы с ВИЧ. После реализации этой программы будет принято решение о дальнейшем финансированием глобальным фондом. </p>
+<p> Источник: </p>
+<p> Корреспондент </p>
+<p> Новости по теме: </p>
+<p> В СИЗО отныне наркотики продают вместе с морковкой </p>
+<p> Под Киевом нашли 17 нарколабораторий </p>
+<p> На Волыни продажей наркотиков занимался целый семейный подряд </p>
+<p> В Горловке майор милиции торговал наркотиками </p>
+<p> Мужчина к Рождеству превратил коноплю в ёлку </p>
+<p> Статьи по теме: </p>
+<p> Разговаривайте со своими детьми. Главный нарколог страны о том, что приводит подростков к алкоголю и наркотикам </p>
+<p> Вместо средств для похудания украинцам продают... наркотики </p>
+<p> Почему всё вкусное — вредно? Виновато... воспитание </p>
+<p> share42() </p>
+<p> Версия для печати </p>
+<p> На главную </p>
+<p> На главную "Про здоровье" </p>
+<p> Подписка </p>
+<p> Новости партнеров </p>
+<p> .informers {   border: 0px;   width: 700px;   clear: both;   overflow: hidden;   height: 81px; }  .informers * {   margin: 0;   padding: 0;   font-size: 13px;   font-family: sans-serif;   color: #000;   font-weight: normal;   text-decoration: none;   border:0;   background: none; }  .informers a {color: #0150D1}  .informers_item {margin: 2px 0; float: left; overflow: hidden; width: 230px; height: 77px;} .informers_clear {height: 0; width: 0; clear: both; font-size: 1px}  .informers_name {margin-right: 10px; height: 77px;} .informers_name a {color: #0033ff; font-size: 13px; line-height: 16px;} .informers_image {width: 99px; height: 77px; float: left; margin-right: 10px;} .informers_image a {} .informers_price {} .informers_price a {color: #000}  .informers_image img {    border: none !important;    float: none !important;    margin: 0  !important; } </p>
+<p> Загрузка... </p>
+<p> document.write("<sc"+"ript type='text/javascript' src='http://exchange.newsnet.in.ua/show.ad?inf=231&div=newnet_block231&ref="+escape(document.referrer)+"'></sc"+"ript>"); </p>
+<p> this.mailhost='Olga.Shibaeva@aif.ru'; host='www.aif.ua'; if(host=='spb.aif.ru'||host=='www.spb.aif.ru') 	{this.mailhost='yudaev_anton@mail.ru';} if(host=='sz.aif.ru'||host=='www.sz.aif.ru') 	{this.mailhost='kitpskov@list.ru';} if(host=='perm.aif.ru'||host=='www.perm.aif.ru') 	{this.mailhost='sza@aif.perm.ru';} if(host=='irk.aif.ru'||host=='www.irk.aif.ru') 	{this.mailhost='abam2004@mail.ru';} if(host=='nn.aif.ru'||host=='www.nn.aif.ru'||host=='aif-nn.ru'||host=='www.aif-nn.ru') 	{this.mailhost='anton@aif.nnov.ru';} if(host=='vlg.aif.ru'||host=='www.vlg.aif.ru') 	{this.mailhost='plothnikov@mail.ru';} if(host=='omsk.aif.ru'||host=='www.omsk.aif.ru') 	{this.mailhost='omsk-aif.ru@yandex.ru';} if(host=='kuban.aif.ru'||host=='www.kuban.aif.ru') 	{this.mailhost='nicslava@gmail.com';} if(host=='samara.aif.ru'||host=='www.samara.aif.ru') 	{this.mailhost='Ps78@yandex.ru';} if(host=='ul.aif.ru'||host=='www.ul.aif.ru') 	{this.mailhost='webred@mosaica.ru';} if(host=='altai.aif.ru'||host=='www.altai.aif.ru') 	{this.mailhost='paldelo@mail.ru';} if(host=='www.aif.ua'||host=='aif.ua'||host=='ukr.aif.ru'||host=='www.ukr.aif.ru') 	{this.mailhost='web@aif.ua';} </p>
+<p> Мета новости... </p>
+<p> .hollow{display: none;} </p>
+<p> А вы что думаете? </p>
+<p> Добавить в блог </p>
+<p> Правила </p>
+<p> На AIF.UA действует добровольная </p>
+<p> регистрация </p>
+<p> . Это удобно: Вам не придется каждый раз вводить свой ник, чтобы оставить комментарий. Если Вы уже зарегистрировались, пожалуйста, </p>
+<p> авторизуйтесь </p>
+<p> . </p>
+<p> Вы авторизованы на AIF.UA и можете отправлять комментарии как зарегистрированный пользователь. </p>
+<p> Выйти </p>
+<p> . </p>
+<p> Представьтесь, пожалуйста </p>
+<p> * </p>
+<p> Ваш E-mail </p>
+<p> (для обратной связи) </p>
+<p> Нам важно ваше мнение </p>
+<p> * </p>
+<p> Допустимое количество символов в сообщении: 2500. </p>
+<p> Tr = new Translit(); </p>
+<p> Синхронный перевод с транслита </p>
+<p> a </p>
+<p> b </p>
+<p> v </p>
+<p> g </p>
+<p> d </p>
+<p> e </p>
+<p> jo </p>
+<p> zh </p>
+<p> z </p>
+<p> i </p>
+<p> j </p>
+<p> k </p>
+<p> l </p>
+<p> m </p>
+<p> n </p>
+<p> o </p>
+<p> p </p>
+<p> r </p>
+<p> s </p>
+<p> t </p>
+<p> u </p>
+<p> f </p>
+<p> h,x </p>
+<p> c </p>
+<p> ch </p>
+<p> sh </p>
+<p> shh,w </p>
+<p> #,## </p>
+<p> y </p>
+<p> ’ </p>
+<p> je </p>
+<p> ju </p>
+<p> ja </p>
+<p> sx </p>
+<p> j/o </p>
+<p> j/e </p>
+<p> а </p>
+<p> б </p>
+<p> в </p>
+<p> г </p>
+<p> д </p>
+<p> е </p>
+<p> ё </p>
+<p> ж </p>
+<p> з </p>
+<p> и </p>
+<p> й </p>
+<p> к </p>
+<p> л </p>
+<p> м </p>
+<p> н </p>
+<p> о </p>
+<p> п </p>
+<p> р </p>
+<p> с </p>
+<p> т </p>
+<p> у </p>
+<p> ф </p>
+<p> х </p>
+<p> ц </p>
+<p> ч </p>
+<p> ш </p>
+<p> щ </p>
+<p> ъ </p>
+<p> ы </p>
+<p> ь </p>
+<p> э </p>
+<p> ю </p>
+<p> я </p>
+<p> сх </p>
+<p> йо </p>
+<p> йе </p>
+<p> * </p>
+<p> - поля, обязательные для заполнения </p>
+<p> Больных СПИДом будут лечить бесплатно </p>
+<p> Эти несложные правила помогут Вам получать удовольствие от общения на нашем сайте! </p>
+<p> Мы рады, что Вы решили оставить свой комментарий на сайте www.aif.ua! </p>
+<p> Для того, чтобы посещение нашего сайта и впредь оставалось для Вас приятным, просим неукоснительно соблюдать правила для комментариев: </p>
+<p> - Сообщение не должно содержать более 2500 знаков (с пробелами) </p>
+<p> - На сайте «АиФ Украина» мы общаемся на русском и украинском языках.  В обсуждении Вы можете использовать другие языки, только если уверены, что читатели смогут Вас правильно понять. </p>
+<p> - В комментариях запрещаются выражения, содержащие ненормативную лексику, унижающие человеческое достоинство, разжигающие межнациональную рознь. </p>
+<p> - Запрещаются спам, а также реклама любых товаров и услуг, иных ресурсов, СМИ или событий, не относящихся к контексту обсуждения статьи. </p>
+<p> - Не приветствуются сообщения, не относящиеся к содержанию статьи или к контексту обсуждения. </p>
+<p> Давайте будем уважать друг друга и сайт, на который Вы и другие читатели приходят пообщаться и высказать свои мысли. Администрация сайта оставляет за собой право удалять комментарии или часть комментариев, если они не соответствуют данным требованиям. </p>
+<p> Редакция оставляет за собой право публикации отдельных комментариев в бумажной версии издания или в виде отдельной статьи на сайте www.aif.ua. Вы также можете общаться друг с другом, заведя себе дневник на blog.aif.ru. </p>
+<p> Если у Вас есть вопрос или предложение, отправьте </p>
+<p> сообщение  для  администрации сайта </p>
+<p> function limitChars(textid, limit, infodiv) { 	var text = $('#'+textid).val(); 	var textlength = text.length; 	if(textlength > limit) 	{ 		$('#' + infodiv).html('Достигнуто ограничение в '+limit+' символов!'); 		$('#'+textid).val(text.substr(0,limit)); 		return false; 	} 	else 	{ 		$('#' + infodiv).html('Осталось символов: '+ (limit - textlength) + '.'); 		return true; 	} }  $(document).ready(function() {   	$('#comments_inp').keyup(function(){  		limitChars('comments_inp', 2500, 'charlimitinfo');  	})  	var login = $.cookie('login'); 	var hash = $.cookie('hash');  	if (login == null) 	{ 		// BC with old auth! 		if ( hash != null ) { 			$.post('/ajax/setlogin', function(data) {$('#user_name').val(data.result); $('#user_name').attr('readonly', true); $('#login_msg').html('Зарегистрированный пользователь:');}); 			$('#form_email').hide(); 			$('#auth_msg').hide(); 			var heightAF = 385; 		} else { 			setCookie('comments', '582b4d70cd4f5b47916a7a95c2f09664', {expires: 7, path: '/', domain: 'www.aif.ua', secure: false}); 			$('#user_msg').hide(); 			$('#user_name').val('');  			var heightAF = 460; 		}  	} else { 		$('#form_email').hide(); 		$('#auth_msg').hide(); 		$('#user_name').val(login); 		$('#user_name').attr('readonly', true); 		$('#login_msg').html('Зарегистрированный пользователь:'); 		var heightAF = 385; 	}  	$('#comments_inp').val(getRulesAF()); 	$('#comments_inp').css('color', '#999999');  	$('#tabs-block').height(heightAF); 	$('#tabs-block').show();   	$('#comments_inp').focus(function() 	{ 		//alert(showRule); 		if (showRule) { 			$('#comments_inp').css('color', '#000000'); 			$('#comments_inp').val(''); 			showRule = false; 		} 	});  });     //--< AjaxForm setup - see forms.js var afValidationRules = { 	user_name: {required: true, minlength: 3}, 	user_email: {email: true}, 	comments_inp: {required: true, minlength: 5, maxlength: 2500} };  var afValidationMessages = { 	user_name: { 		required: "Укажите Ваш псевдоним или логин", 		minlength: "Минимальная длина поля должна быть не менее 3 символа" 	}, 	user_email: "Укажите корректный адрес электронной почты", 	comments_inp: { 		required: "Укажите текст сообщения", 		minlength: "Минимальная длина поля должна быть не менее 5 символов", 		maxlength: "Максимальная длина поля должна быть не более 2500 символов" 	} };  function afSuccess(json) { 	if( json.result == 'ok') 	{ 		$('textarea[name=comments_inp]').each(function(){ 			$(this).get(0).value = ''; 		});  		$('#comments').html(json.content);         $('#c_content_2').load('http://www.aif.ua/aforism/?url='+document.URL+'&'+Math.random()); 	} else { 		SuccessFailedAF(json); 	}  	setSubmitAF(); } //-->  function getRulesAF() { showRule = true; var rules = new Array( 	"В комментариях на AIF.UA запрещены нецензурные выражения. Будьте умны и терпимы к чужому мнению. Нам всем очень не хватает позитива!", 	"Напоминаем, что на сайте AIF.UA выработан спокойный уважительный тон общения. Комментарии, содержащие более 1000 знаков, будут обрезаны - все желающие смогут их прочитать полностью, нажав ссылку ''продолжение комментария''.", 	"Язык комментариев на AIF.UA – русский или украинский. Если у Вас нет кириллической раскладки, пользуйтесь транслитом", 	"В комментариях на сайте AIF.UA не принято оскорблять оппонентов. Комментарии с бранью удаляются. Если Вам неприятен человек, чье мнение Вы не разделяете, будьте добры, обращайтесь к нему вежливо, например: «Уважаемый»!", 	"На сайте AIF.UA удаляются оскорбительные по отношению к разным национальностям выражения. Комментарии, их содержащие, как правило, не редактируются, а удаляются полностью.", 	"На сайте AIF.UA у всех одинаковые возможности высказать свое мнение. Будьте добры, не пишите в комментариях фразы ПРОПИСНЫМИ БУКВАМИ. КОММЕНТАРИИ, НАПИСАННЫЕ НА СAPS LOCK, БУДУТ УДАЛЕНЫ" );  var res = rules[Math.floor(Math.random() * rules.length)]; return res + '...'; } </p>
+<p> function SuccessGrantedAF(json) { 	if (json.content != null) { 		if ($.cookie('auth_referer') !== null) { // see user recupes for example 			var ref = $.cookie('auth_referer').split('|') 			window.location.replace(ref[0]); 		} else { 			$(afId).html(json.content); 		} 	} else { 		$(afId).html(json.result); 	} }  $(document).ready(function() { 	setValidatorAF(); }); </p>
+<p> Loading ... </p>
+<p> Читайте в разделе </p>
+<p> В Днепропетровске – бунт против закрытия больницы </p>
+<p> Жители одиннадцати сел проводят митинги. </p>
+<p> Изобретены таблетки с солнечным светом </p>
+<p> Недостаток солнца в холодное время года придумали компенсировать необычным способом. </p>
+<p> Украина перейдет на платную медицину </p>
+<p> Перестройка здравоохранения: будет внедрена страховая медицина. </p>
+<p> Все новости раздела » </p>
+<p> Онлайн-консультация с юристами </p>
+<p> Задай свой вопрос! </p>
+<p> Социальные сети: </p>
+<p> АиФ теперь в Facebook и Twitter </p>
+<p> Субъектив от Евгения Муджири: </p>
+<p> Очередное </p>
+<p> ТЕСТ-ДРАЙВЫ: </p>
+<p> Все о новинках автопрома на «АиФ» </p>
+<p> ОНЛАЙН-ИГРЫ: </p>
+<p> играй на «АиФ» </p>
+<p> ТЕСТЫ на «АиФ»: </p>
+<p> Узнай себя лучше </p>
+<p> ВОПРОС К РЕДАКЦИИ: </p>
+<p> Есть вопросы? Задавайте! Мы обязательно найдем ответы </p>
+<p> jQuery(document).ready( 	 function() { 		  jQuery("#scroll2").accessNewsTop({ 			   newsHeadline: "", 			   newsSpeed: "normal" 		  }); }); </p>
+<p> Читайте в бумажной версии </p>
+<p> Денег нет - сдаем помалу: ради необходимой цены газа Украина жертвует трубой </p>
+<p> В прошлом году Украина и Россия так и не подписали соглашение о поставках российского газа - Моск... </p>
+<p> ПОЛИТИКА </p>
+<p> Кризис в шоколаде </p>
+<p> Производство плитки популярного лакомства обходится в 3,5 - 5 грн. </p>
+<p> ЕДА </p>
+<p> Сделайте одолжение: каким будет рынок кредитования в 2012 году </p>
+<p> Год назад банкиры и украинцы были полны надежды на полноценное кредитование в 2011 году. </p>
+<p> ДЕНЬГИ </p>
+<p> АиФ № 1 » </p>
+<p> КАТАКЛИЗМ: </p>
+<p> Украине грозит глобальное потепление </p>
+<p> АЛКОГОЛЬ: </p>
+<p> Ученые раскрыли жуткую правду о пиве </p>
+<p> СОВЕТЫ УРОЛОГА: </p>
+<p> как победить импотенцию </p>
+<p> ОНКО: </p>
+<p> Какую кровь любит рак </p>
+<p> Х-ФАЙЛЫ: </p>
+<p> НЛО в Украине - частый гость </p>
+<p> jQuery(document).ready( 	function() { 	    jQuery("#scroll3").accessNewsTop({ 	         newsHeadline: "", 	         newsSpeed: "normal" 	    }); }); </p>
+<p> А вы что думаете? </p>
+<p> Страсти по секонд-хенду: Верховную Раду снова взяли в осаду </p>
+<p> Наивные работники легпрома, вы думаете, что ваша продукция конкурентна? То, что производится на уровне мировых брендов - стоит в Украине непомерно дорого. Школьный костюм стоит 350 грн + рубашка, обувь, ранец и т.д.. А если 2 детей?, Все будет хорошо, если средняя зарплата будет хотя бы 5 тыс... Но это же не реально, поэтому пусть носят одежду секонд-хенд те, кто этого хочет. А легпрому большой привет от китайцев!!! С ними надо бороться, а не с секондом. </p>
+<p> обсудить </p>
+<p> Жертвы эпидемии: «свиной грипп» возвращается </p>
+<p> Угроза от вируса свиного гриппа в прошлом году, на мой взгляд, преувеличена. Однако, тяжелые заболевания действительно были. И тогда нередко, и тамифлю, и другие лекарства, и дыхательные аппараты оказывались бесполезны. Т.е. причины большого количества тяжелых исходов и угрозы, не столько в вирусе гриппа  H1N1 или  H5N1 и т.д., сколько в неверном представлениеи о методах противостояния вирусу, где слишком часто страх, паника, коммерческие и др. интересы, берут вверх над наукой и здравым смыслом. Что касается опасностей - то они действительно имеют место. Но, они не решаются, ни вакцинацией, ни препаратами, как говорят, для усиления иммунитета, а скорее создаются! </p>
+<p> обсудить </p>
+<p> Что делать с бездомными животными? </p>
+<p> Тема паскудная. Вопрос стоит "что делать с бездомными животными"? А на самом деле, вопрос стоит "что делать с людьми, которым мешают животные. Кто виноват, что они оказались бездомными? А какие предложения - стерилизация, приют (т.е. тюрьма), отстрел. .Чтобы создать сносные условия ЖИЗНИ животным, надо создавать резервации для животных, финансировать из городского бюджета. Я думаю, территория для этого благородного дела у нас найдется, деньги тоже. Проблему с животными создали люди и решить должны положительно тоже люди. Больно читать, как просто решается вопрос чужой жизни. ВЫ ИМ ЕЕ НЕ ДАВАЛИ НЕ ВАМ ЛИШАТЬ! </p>
+<p> обсудить </p>
+<p> Пробки </p>
+<p> Курсы валют </p>
+<p> Гороскоп </p>
+<p> USD </p>
+<p> 7.9898 </p>
+<p> 0 </p>
+<p> EUR </p>
+<p> 10.2038 </p>
+<p> + 2.7965 </p>
+<p> RUB </p>
+<p> 0.2530 </p>
+<p> + 0.0078 </p>
+<p> CHF </p>
+<p> 8.4329 </p>
+<p> + 3.1443 </p>
+<p> Еще о финансах </p>
+<p> Овен </p>
+<p> на сегодня </p>
+<p> на завтра </p>
+<p> на месяц </p>
+<p> на год </p>
+<p> Читайте в сюжете </p>
+<p> Пиво повышает риск псориаза у женщин </p>
+<p> Выявлен штамм туберкулеза, не поддающийся лечению </p>
+<p> Медики провели уникальную операцию: удалили 90-кг опухоль </p>
+<p> После 30 лет немоты женщина смогла заговорить </p>
+<p> ПОГОДА </p>
+<p> Погода </p>
+<p> Погода в </p>
+<p> Киеве </p>
+<p> на сегодня </p>
+<p> завтра </p>
+<p> 10 дней </p>
+<p> в других городах </p>
+<p> var siCss=document.createElement("link");siCss.setAttribute("rel","stylesheet");siCss.setAttribute("type","text/css");siCss.setAttribute("href","http://informers.sinoptik.ua/css/informers.css");document.getElementsByTagName("head")[0].appendChild(siCss);function siClickCount(){var siCount=document.createElement("script");siCount.setAttribute("type","text/javascript");siCount.setAttribute("src","http://informers.sinoptik.ua/counter.php?lang=ru&rnd="+new Date().valueOf());document.getElementsByTagName("head")[0].appendChild(siCount);}function LoadInformer(data){document.getElementById("siHeader").innerHTML=data.date;for(var i=0;i<data.body.length;i++){if(data.body[i]!=null){document.getElementById("siCont"+i).innerHTML=data.body[i];}}document.getElementById("SinoptikInformer").style.display="block";} </p>
+<p> new adriver("banner_240x350", {sid:86867,bt:52,pz:2,bn:3}); </p>
+<p> Загрузка... </p>
+<p> Детали </p>
+<p> Загрузка... </p>
+<p> var MarketGidDate = new Date(); document.write('<scr'+'ipt type="text/javascript" '+'src="http://jsn.dt00.net/a/i/aif.ua.3785.js?t='+MarketGidDate.getYear()+MarketGidDate.getMonth()+ '" charset="utf-8" ></scr'+'ipt>'); </p>
+<p> Опрос </p>
+<p> function vote( id )   {   $.cookie('voted',$.cookie('voted')+','+id+',',{   expires: 7,   path: "/" });     //alert("vote: " + id);   	var has_answer = false;     var answer='';   if (document.voteForm.radiocount.value==0) {    myRadio = eval('document.voteForm.radio'+id);	  	for(var i = 0; i < myRadio.length; i++) { 		if(myRadio[i].checked) { 			answer = myRadio[i].value; 			has_answer = true; 		} 	} 	 } else {    	for(var i = 1; i <= document.voteForm.radiocount.value; i++) {   	myRadio = eval('document.voteForm.radio'+i);    		if(myRadio.checked>0) {  if (answer!='')  {answer=answer+','};  //alert(myRadio.value); 			 answer = answer + myRadio.value; 			has_answer = true; 		} 	} }  	if (! has_answer ) return false; 	//return false; 	var url = '/vote/vote/vote_id/' + id + '/answer/' + answer ; 	 	jQuery('div#vote000').load(url);  //alert(url);  	  	return false;   }   var uservoted = ''+$.cookie('voted'); var activevotes=new Array(); var randomvotes=new Array(); activevotes[0]=127;activevotes[1]=126;activevotes[2]=125;activevotes[3]=124;activevotes[4]=120;var active_total=5;var v_id=0;  var randcount = 0;  for (aa in activevotes) { vv_id=activevotes[aa]; var myRegExp = ','+activevotes[aa]+','; var matchPos1 = uservoted.search(myRegExp);  if(matchPos1 == -1) {      randcount++;      randomvotes[randcount]=activevotes[aa];	}  };   var lastvote = 1*$.cookie('lastvote'); if (lastvote > 0) {} else {lastvote=0};  if (randcount>0) {  if (lastvote >= randcount) {lastvote=0}; lastvote++; $.cookie('lastvote',lastvote);  v_id=randomvotes[lastvote];  } else {  if (lastvote >= active_total) {lastvote=0}; lastvote++; $.cookie('lastvote',lastvote);  v_id=activevotes[lastvote-1];  };  if (v_id==0) {v_id=vv_id}; </p>
+<p> Принять участие в других опросах </p>
+<p> if (v_id>0) { jQuery('div#vote000' ).load('/vote/show/vote_id/'+v_id); }; </p>
+<p> Новости партнеров </p>
+<p> .join_informer_793 {text-align:left; clear: both; padding: 5px;} .join_informer_793 a.join_link, a.join_text {text-transform: none; font-size: 13px; font-family: Arial; padding: 0px 0px 0px 0px; margin:0px 0px 10px 0px;color:#000000;text-decoration:none; font-weight:normal;} .join_informer_793 a.join_link:hover, a.join_text:hover {text-transform:  none; font-size: 13px; font-family: Arial; padding: 0px 0px 0px 0px; margin:0px 0px 10px 0px;color:#000000;text-decoration:underline;} .join_informer_793 .join_img {width:80px; height:80px;} </p>
+<p> Погода </p>
+<p> , </p>
+<p> Новости </p>
+<p> , загрузка... </p>
+<p> ShowInformer(document.getElementById("join_informer_793")); </p>
+<p> Читают </p>
+<p> Обсуждают </p>
+<p> После столкновения двух грузовиков из одного посыпались «Фольксвагены» </p>
+<p> (2725) </p>
+<p> Пытаясь угнать Бентли, киевлянин засыпал автомобили порошком </p>
+<p> (1692) </p>
+<p> Из газеты «Сегодня» уволили Гужву и Громницкую </p>
+<p> (1692) </p>
+<p> ТОП-50 самых читаемых материалов </p>
+<p> В Конча-Заспе грабят чиновников: из одного дома украли 8 кг золота, из другого - коллекцию оружия </p>
+<p> (5) </p>
+<p> «Российские свиньи больны африканской чумой» - Бисюк </p>
+<p> (1) </p>
+<p> Пытаясь угнать Бентли, киевлянин засыпал автомобили порошком </p>
+<p> (2) </p>
+<p> ТОП-50 самых обсуждаемых материалов </p>
+<p> Подписка на материалы сайта </p>
+<p> Подписка на газету </p>
+<p> RSS </p>
+<p> О нас </p>
+<p> Реклама в газете </p>
+<p> Реклама на сайте </p>
+<p> Обратная связь </p>
+<p> function PopupCenter(pageURL, title, w, h) { 	var left = (screen.width/2)-(w/2); 	var top = (screen.height/2)-(h/2); 	window.open(pageURL, title, 'toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=no, resizable=no, copyhistory=no, width='+w+', height='+h+', top='+top+', left='+left); }  $(function() { 	$('.userlink').click(function() 	{ 		var ts = new Date().getTime(); 		PopupCenter('/usermail?type=' + $(this).attr('title') + '&ts=' + ts, 'usermail', 500, 600); 		return false; 	}); }); </p>
+<p> #userform { 	-moz-border-radius: 6px; 	background: #eef2f7; 	-webkit-border-radius: 6px; 	border: 1px solid #536376; 	-webkit-box-shadow: rgba(0,0,0,.6) 0px 2px 12px; 	-moz-box-shadow:  rgba(0,0,0,.6) 0px 2px 12px;; 	padding: 14px 22px; 	width: 400px; 	position: relative; 	display: none; } #userform #userform_form { 	margin-top: 13px; } #userform label { 	display: block; 	margin-bottom: 10px; 	color: #536376; 	font-size: .9em; } #userform label input { 	display: block; 	width: 393px; 	height: 31px; 	background-position: -201px 0; 	padding: 2px 8px; 	font-size: 1.2em; 	line-height: 31px; }   .bottom_bar, .bottom_bar a, .bottom_bar p, .bottom_bar td { 	font-size: 10pt; 	font-weight: bold; }  .bottom_bar a { 	font-weight: normal; }  table.bottom_bar { 	margin: auto; 	width: 970px; 	margin-top: 10px; 	margin-bottom: 10px; 	/*border: 1px solid black;*/ }  .stdlink { 	color: #0033FF; 	text-decoration: none; }  a.stdlink:hover { 	color: #999999; } </p>
+<p> ЕСТЬ НОВОСТЬ? ПРИСЫЛАЙТЕ НАМ! </p>
+<p> ВАШЕ МНЕНИЕ О САЙТЕ </p>
+<p> ЧИТАЙТЕ НАС </p>
+<p> jQuery.fn.delaif = function(options) {      var settings = jQuery.extend({     maxChars: 2500, // максимальное колличество символов     leftChars: "осталось символов" // текст в конце строки информера   }, options);      return this.each(function() {          var me = $(this);          var l = settings.maxChars;          me.bind('keydown keypress keyup change',function(e) {                 tmps=me.val();                 re = /- сообщает сайт "Аргументов и Фактов" в статье \S+/;                 newstr = tmps.replace(re, "");                 if (newstr!=tmps) {me.val(newstr)};;               if(me.val().length>settings.maxChars) me.val(me.val().substr(0,settings.maxChars));              l = settings.maxChars - me.val().length;              me.next('div').html( settings.leftChars + ': '+ l );     });          me.after('<div class="maxlen">' + settings.leftChars + ': '  + settings.maxChars + '  </div>');   }); };               $(document).ready(function() {          $("#comments_inp").delaif();         $("#charlimitinfo").hide();     });      function addLink0() {     var body_element = document.getElementsByTagName('body')[0];     var selection;     selection = window.getSelection();      var pagelink = " - сообщает сайт \"Аргументов и Фактов\" в статье "+document.location.href;          if (selection.toString().length<250)      {var copytext = selection;}     else     {var copytext = '"'+selection + '"'+pagelink;}      var newdiv = document.createElement('div');     newdiv.style.position='absolute';     newdiv.style.left='-99999px';     body_element.appendChild(newdiv);     newdiv.innerHTML = copytext;     selection.selectAllChildren(newdiv);     window.setTimeout(function() {         body_element.removeChild(newdiv);     },0); } document.oncopy = addLink0; </p>
+<p> var img = new Image(); 	img.src = 'http://www.aif.ua/lock/counter.php'; </p>
+<p> <!-- d=document;var a='';a+=';r='+escape(d.referrer);js=10;//--> </p>
+<p> <!-- a+=';j='+navigator.javaEnabled();js=11;//--> </p>
+<p> <!-- s=screen;a+=';s='+s.width+'*'+s.height; a+=';d='+(s.colorDepth?s.colorDepth:s.pixelDepth);js=12;//--> </p>
+<p> <!-- js=13;//--> </p>
+<p> <!-- d.write('<a href="http://top.mail.ru/jump?from=59428" target="_top">'+ '<img src="http://d8.ce.b0.a0.top.mail.ru/counter?id=59428;t=49;js='+js+ a+';rand='+Math.random()+'" alt="Рейтинг@Mail.ru" border="0" '+ 'height="31" width="88"><\/a>');if(11<js)d.write('<'+'!-- ');//--> </p>
+<p> <!-- if(11<js)d.write('--'+'>');//--> </p>
+<p> document.write('<img src="http://luxup.ru/tr/360/&r='+escape(document.referrer)+'&t='+(new Date()).getTime()+'" width="1" height="1"/>'); </p>
+<p> var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); </p>
+<p> var pageTracker = _gat._getTracker("UA-3672159-1"); pageTracker._setDomainName("aif.ru"); pageTracker._initData(); pageTracker._trackPageview(); </p>
+<p> try { var yaCounter915317 = new Ya.Metrika({id:915317,           clickmap:true,           trackLinks:true,           accurateTrackBounce:true});} catch(e) { } </p>
+<p> <!-- bmN=navigator,bmD=document,bmD.cookie='b=b',i=0,bs=[],bm={o:1,v:125856,s:125856,t:6,c:bmD.cookie?1:0,n:Math.round((Math.random()* 1000000)),w:0}; for(var f=self;f!=f.parent;f=f.parent)bm.w++; try{if(bmN.plugins&&bmN.mimeTypes.length&&(x=bmN.plugins['Shockwave Flash']))bm.m=parseInt(x.description.replace(/([a-zA-Z]|\s)+/,'')); else for(var f=3;f<20;f++)if(eval('new ActiveXObject("ShockwaveFlash.ShockwaveFlash.'+f+'")'))bm.m=f}catch(e){;} try{bm.y=bmN.javaEnabled()?1:0}catch(e){;} try{bmS=screen;bm.v^=bm.d=bmS.colorDepth||bmS.pixelDepth;bm.v^=bm.r=bmS.width}catch(e){;} r=bmD.referrer.slice(7);if(r&&r.split('/')[0]!=window.location.host){bm.f=escape(r);bm.v^=r.length} bm.v^=window.location.href.length;for(var x in bm) if(/^[ovstcnwmydrf]$/.test(x)) bs[i++]=x+bm[x]; bmD.write('<sc'+'ript type="text/javascript" language="javascript" src="http://c.bigmir.net/?'+bs.join('&')+'"></sc'+'ript>'); //--> </p>
+<p> <!-- function BM_Draw(oBM_STAT){ document.write('<table cellpadding="0" cellspacing="0" border="0" style="display:inline;margin-right:4px;"><tr><td><div style="margin:0px;padding:0px;font-size:1px;width:88px;"><div style="background:url(\'http://i.bigmir.net/cnt/samples/diagonal/b59_top.gif\') no-repeat bottom;"> </div><div style="font:10px Tahoma;background:url(\'http://i.bigmir.net/cnt/samples/diagonal/b59_center.gif\');"><div style="text-align:center;"><a href="/go.php?http://top.bigmir.net/report/125856/" target="_blank" style="color:#0000ab;text-decoration:none;font:10px Tahoma;">bigmir<span style="color:#ff0000;">)</span>net</a></div><div style="margin-top:3px;padding: 0px 6px 0px 6px;color:#003596;"><div style="float:left;font:10px Tahoma;">'+oBM_STAT.hosts+'</div><div style="float:right;font:10px Tahoma;">'+oBM_STAT.hits+'</div></div><br clear="all"/></div><div style="background:url(\'http://i.bigmir.net/cnt/samples/diagonal/b59_bottom.gif\') no-repeat top;"> </div></div></td></tr></table>'); } //--> </p>
+<p> var _gaq = _gaq || [];   _gaq.push(['_setAccount', 'UA-17526662-1']);   _gaq.push(['_trackPageview']);    (function() {     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);   })(); </p>
+<p> © 2012 </p>
+<p> ЧАО «Украинская Медиа Корпорация» </p>
+<p> www.aif.ua </p>
+<p> Все права на материалы, опубликованные на данном ресурсе, принадлежат ЧАО «Украинская Медиа Корпорация». Какое-либо использование материалов без письменного разрешения «Украинская Медиа Корпорация» - запрещено. При правомерном использовании материалов с данного ресурса, гиперссылка на </p>
+<p> www.aif.ua </p>
+<p> обязательна </p>
+<p> Адрес редакции: 0408, Киев, ул.Фрунзе, 104 </p>
+<p> телефон: (044)205-43-04 </p>
+<p> e-mail: </p>
+<p> aif@aif.ua </p>
+<p> Отдел писем: </p>
+<p> letters@aif.ua </p>
+<p> По вопросам, связанным с сайтом и интернет-версиями изданий, пишите по адресу </p>
+<p> web@aif.ua </p>
+<p> резюме специалист по перевозкам Киев </p>
+<p> , </p>
+<p> Погода в Сутківцях </p>
+<p> , </p>
+<p> авиабилеты повышение цен </p>
+<p> , </p>
+<p> Галустян Михаил Сергеевич </p>
+<p> , </p>
+<p> музыка в современной обработке </p>
+<p> , </p>
+<p> куплю Киа Пиканто </p>
+<p> <!-- var RndNum4NoCash = Math.round(Math.random() * 1000000000); var ar_Tail='unknown'; if (document.referrer) ar_Tail = escape(document.referrer); document.write('<sc' + 'ript language="JavaScript" type="text/javascript" src="http://ad.adriver.ru/cgi-bin/erle.cgi?sid=86867&target=blank&bt=16&pz=0&rnd=' + RndNum4NoCash + '&tail256=' + ar_Tail + '"><\/sc' + 'ript>'); //--> </p>
+<p> new adriver.Plugin.require("old.adriver").onLoadComplete(function(){ adriver.onDomReady(function(){ }) }); </p>
+<p> var nuggCall=new Image();           var nuggrid=encodeURIComponent(top.location.href);  nuggCall.src="http://httpoolua.nuggad.net/bk?nuggn=1388958105&nuggsid=1628618704&nuggrid="+nuggrid+"&random="+Math.random(); </p>
+<p> var _vi_position="down"; </p>

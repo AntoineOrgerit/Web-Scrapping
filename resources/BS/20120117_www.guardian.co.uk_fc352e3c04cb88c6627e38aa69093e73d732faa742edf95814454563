@@ -1,0 +1,969 @@
+<p> document.domain = "guardian.co.uk"; </p>
+<p> //<![CDATA[ 				OAS_url = 'http://oas.guardian.co.uk/RealMedia/ads/'; 				OAS_sitepage = "www.guardian.co.uk/sport/2012/jan/15/health-campaign-prevent-epidemic-olympics/oas.html"; 				OAS_listpos = 'Top,Middle2,Right1,x31';  								OAS_query = 'k=olympics-2012&k=sport&k=health&k=society&k=uk&cf=health+society&pid=&ct=article&pt=article&'; 				OAS_target = '_blank';  				OAS_rn = '001234567890'; 				OAS_rns = '1234567890'; 				OAS_rn = new String (Math.random()); 				OAS_rns = OAS_rn.substring (2, 11); 			//]]> </p>
+<p> Health chiefs prepare campaign to prevent epidemic during Olympics | Sport | The Guardian </p>
+<p> //<![CDATA[ 	if (!commonStaticRoot) {	 		var commonStaticRoot = "http://static.guim.co.uk/static/894d5be2fd27175b6273c0b4d3966c55a95bac8a/common/"; 	} 	if (!sectionStaticRoot) {	 		var sectionStaticRoot = "http://static.guim.co.uk/static/894d5be2fd27175b6273c0b4d3966c55a95bac8a/sport/"; 	} 	if (!staticHost) {	 		var staticHost="http://www.guardian.co.uk/"; 	} 	if (!sitePrefixUrl) { 		var sitePrefixUrl = "http://www.guardian.co.uk"; 	} //]]> </p>
+<p> var _sf_startpt=(new Date()).getTime(); </p>
+<p> window.jQuery || document.write('<script src="http://static.guim.co.uk/static/894d5be2fd27175b6273c0b4d3966c55a95bac8a/common/scripts/libs/jquery/1.6.4/jquery.min.js">\x3C/script>') </p>
+<p> var jQ = jQuery.noConflict(); </p>
+<p> var thirdPartyReferralCookieService = new guardian.r2.ThirdPartyReferralCookieService(); 	thirdPartyReferralCookieService.setThirdPartyReferralCookie();  	var urlStack = new UrlStack(".guardian.co.uk"); 	var communitiesSite = false;  	 			   	//<![CDATA[ 	function init() { 		urlStack.clearUrlStack(); 		var signOutLink = document.getElementById("sign-out"); 		if (signOutLink) { 			signOutLink.onclick = signOut; 		} 		 		// Purely styling 		//jQ('.js-show').removeClass('js-show'); 	}	 	 	guardian.r2.resourceRoot = "http://resource.guim.co.uk/";     var pageUrl = "http://www.guardian.co.uk/sport/2012/jan/15/health-campaign-prevent-epidemic-olympics";     var pageSignature =  "3fe51fca1a70fde03673afaff0c96284251dafbea39683d9fe845012fed1df8a";      guardian.r2.signInListeners = new guardian.r2.SignInListeners();     (function () {	 		var signInView = new guardian.r2.SignInView("http://static.guim.co.uk/static/894d5be2fd27175b6273c0b4d3966c55a95bac8a/common/scripts/md5.js", communitiesSite); 		guardian.r2.signInController = new guardian.r2.SignInController(signInView, guardian.r2.signInListeners, "http://www.guardian.co.uk/tools/signin", pageUrl, pageSignature); 		 	}) (); 	 	/* 	(function () { 		var profileLinkView = new guardian.r2.ProfileLinkView(); 		profileLinkController = new guardian.r2.ProfileLinkController(profileLinkView, "http://www.guardian.co.uk/discussion/user/"); 	}) (); 	*/   	jQ(document).ready(init);  	  	var SIGN_IN_URL = 'http://www.guardian.co.uk/tools/signin'; 	var RESOURCE_ROOT = 'http://resource.guim.co.uk/'; 	var PROFILE_LINK_VIEW = "http://www.guardian.co.uk/discussion/user/"; </p>
+<p> //<![CDATA[ 	function insertStyleSheet(href) { 		var styleObject = document.createElement('link'); 		styleObject.setAttribute('href', commonStaticRoot + href); 		styleObject.setAttribute('type', 'text/css'); 		styleObject.setAttribute('media', 'screen'); 		styleObject.setAttribute('rel', 'stylesheet'); 		var head = document.getElementsByTagName('head')[0]; 		head.appendChild(styleObject); 	} 	insertStyleSheet('styles/js-on.css'); 	insertPluckStylesheet = true; 	//]]> </p>
+<p> ensurePackage('guardian.r2.omniture'); guardian.r2.omniture.isAvailable = function(){ 			return true; 	} </p>
+<p> Turn autoplay off </p>
+<p> Turn autoplay on </p>
+<p> Please activate cookies in order to turn autoplay off </p>
+<p> Jump to content [s] </p>
+<p> Jump to site navigation [0] </p>
+<p> Jump to search [4] </p>
+<p> Terms and conditions [8] </p>
+<p> Edition: </p>
+<p> UK </p>
+<p> US </p>
+<p> Sign in </p>
+<p> Mobile </p>
+<p> About us </p>
+<p> About us </p>
+<p> Contact us </p>
+<p> Press office </p>
+<p> Guardian Print Centre </p>
+<p> Guardian readers' editor </p>
+<p> Observer readers' editor </p>
+<p> Terms of service </p>
+<p> Privacy policy </p>
+<p> Advertising guide </p>
+<p> Digital archive </p>
+<p> Digital edition </p>
+<p> Guardian Weekly </p>
+<p> Buy Guardian and Observer photos </p>
+<p> Subscribe </p>
+<p> Today's paper </p>
+<p> The Guardian </p>
+<p> G2 features </p>
+<p> Comment and debate </p>
+<p> Editorials, letters and corrections </p>
+<p> Obituaries </p>
+<p> Other lives </p>
+<p> Sport </p>
+<p> EducationGuardian </p>
+<p> Subscribe </p>
+<p> Subscribe </p>
+<p> Subscribe to the Guardian </p>
+<p> iPhone app </p>
+<p> iPad edition </p>
+<p> Kindle </p>
+<p> Extra </p>
+<p> Guardian Weekly </p>
+<p> Digital edition </p>
+<p> All our services </p>
+<p> The Guardian </p>
+<p> Sport </p>
+<p> User comments </p>
+<p> Web </p>
+<p> News </p>
+<p> Sport </p>
+<p> Comment </p>
+<p> Culture </p>
+<p> Business </p>
+<p> Money </p>
+<p> Life & style </p>
+<p> Travel </p>
+<p> Environment </p>
+<p> TV </p>
+<p> Data </p>
+<p> Video </p>
+<p> Mobile </p>
+<p> Offers </p>
+<p> Jobs </p>
+<p> Sport </p>
+<p> Olympic Games 2012 </p>
+<p> Health chiefs prepare campaign to prevent epidemic during Olympics </p>
+<p> 'Surveillance system' set up to alert medics to first signs of unusual diseases this summer </p>
+<p> Tweet this </p>
+<p> reddit this </p>
+<p> omnitracker.omniTrackEVarEvent( 12, 16, 'Sport: Reddit', 'click', '.reddit a' ); </p>
+<p> James Meikle </p>
+<p> guardian.co.uk </p>
+<p> , </p>
+<p> Sunday 15 January 2012 10.01 GMT </p>
+<p> Article history </p>
+<p> About this article </p>
+<p> Close </p>
+<p> Health chiefs prepare campaign to prevent epidemic during Olympics </p>
+<p> This article was published on </p>
+<p> guardian.co.uk </p>
+<p> at </p>
+<p> 10.01 GMT on Sunday 15 January 2012 </p>
+<p> .  					   	A version appeared  in </p>
+<p> the Guardian </p>
+<p> on </p>
+<p> Monday 16 January 2012 </p>
+<p> .  					   	It was last modified at </p>
+<p> 12.51 GMT on Monday 16 January 2012 </p>
+<p> . </p>
+<p> Olympic site in east London: Health Protection Agency has been testing rapid alert systems to identify people with unusual symptoms. Photograph: Anthony Charlton/AFP/Getty Images </p>
+<p> A massive public health campaign in the UK and up to 200 countries around the world is being prepared by health chiefs to help guard against epidemics of infectious diseases during the 2012 </p>
+<p> Olympics and Paralympics this summer. </p>
+<p> Measures already in place include what organisers call the biggest health surveillance system in the world – covering everything from UK advice lines to hospital intensive care units – to alert medics to the first signs of unusual illness. </p>
+<p> At the other end of the scale, owners of small boats using the harbour and sea near the home of the sailing regatta at Weymouth will be warned not to release effluent into the water. </p>
+<p> The NHS will be trying to help foreign visitors to the UK understand in advance how the health service here works – especially the NHS Direct and 111 advice lines. Senior officials "do not want everyone queuing up at A&E at 5pm", one said. </p>
+<p> Brian McCloskey, London director of the </p>
+<p> Health Protection Agency (HPA) </p>
+<p> , who is in charge of its Olympics operations, said there would be no need for a specific vaccination programme either for UK residents or people coming in. </p>
+<p> "By and large it will be business as usual in terms of the public health services and people should just get on and enjoy the Games." </p>
+<p> The agency is responsible for disease control and monitoring as well as scientific and public health advice during emergencies. Details of some of the health measures follow the announcement last month that up to 13,500 military personnel, two naval vessels, helicopters, RAF Typhoon aircraft and surface-to-air missiles </p>
+<p> will be on hand to deter or react to acts of terrorism </p>
+<p> . </p>
+<p> Earlier this year, the Guardian revealed deep </p>
+<p> unease among senior officials at the HPA that the government was planning to abolish it weeks before the Games started in July. </p>
+<p> Ministers later delayed its planned demise until 2013, with its role being replaced within a new executive agency with a wider public health role outside the Department of Health. </p>
+<p> In the lead-up to the Games, the agency has been testing rapid alert systems to identify people with unusual symptoms or resistance to medicines who phone NHS Direct or attend A&E departments, are taken into hospital wards or intensive care units, or visit GP surgeries and drop-in clinics across swaths of the UK. </p>
+<p> Rapid testing procedures have also been developed to identify bacteria or viruses that cause infectious diseases and scan foods for potential food poisoning bugs. </p>
+<p> Cafes, burger vans and drinks and snack stalls throughout east London face spot checks on food hygiene and water quality, while Olympic arenas are already being monitored to ensure there is no danger of legionnaires' disease. </p>
+<p> New empty buildings are notoriously susceptible to becoming potential breeding grounds for the </p>
+<p> Legionella </p>
+<p> bacteria responsible for this type of pneumonia </p>
+<p> . </p>
+<p> The Games's swimming pools will be tested regularly for biological contamination with organisms responsible for gastrointestinal disease and open water used for events such as long-distance swimming, rowing, triathlon and sailing sampled to see if it is free of algae. </p>
+<p> Extra precautions are also being taken in cities that host matches in the Olympic football tournament, including Cardiff, Manchester, Newcastle and Glasgow, or provide homes for competing nations' pre-Games camps. </p>
+<p> The agency has led exercises to ensure it could still respond to a major emergency unrelated to the Olympics in another part of the country, such as a chemical explosion in north-east England. </p>
+<p> Both the agency and the London Olympics organising committee (Locog) believe that among the most likely public health risks could be an outbreak of diarrhoea and vomiting in the athlete's village where most of the 17,000 athletes and officials from 200 countries will be based. </p>
+<p> They are also well aware how even a small outbreak of that sort could put them under severe media and political pressure. </p>
+<p> McCloskey said that although mass gatherings such as the Olympics did carry extra risks from infectious diseases, problems were not that common. "We will see the occasional incident of diarrhoea or food poisoning at the Games but we see these every summer anyway." </p>
+<p> Experience garnered from other Olympic Games suggested that people could get "overexcited" in response to a disease outbreak, said McCloskey. "That is understandable. There are more people involved and the UK's national reputation depends on the Games." </p>
+<p> Until now surveillance of seasonal flu outbreaks and potential pandemics such as bird flu and swine flu has depended on reporting by GPs. But the system for reporting unusual symptoms has  widened to include acute hospitals. "One of the legacies we shall have [from the Games] is the most comprehensive surveillance system in the world," McCloskey said. </p>
+<p> The Department of Health said: "The NHS has robust plans in place to prepare for any additional demands created by the 2012 Games. </p>
+<p> "NHS organisations are working hard to ensure that they have plans in place so that the healthcare needs of local people are not compromised and that we also have high quality health services available to visitors. There is a comprehensive testing and exercising plan in place to make sure that all systems are ready for the Games." </p>
+<p> Thousands of athletes will begin arriving in Britain for training camps in June. The Olympic village opens in mid-July and the Olympics run from 27 July to 12 August. The Paralympics run from the end of August into September. </p>
+<p> On the busiest day – Saturday 4 August –  700,000 ticket holders will be moving around London to watch sessions at 11 venues. About 300,000 people will be around the Olympic Park alone on some days of the competition. </p>
+<p> In all, 8.8m tickets have been made available for the Games, with 6.6m going to the general public. </p>
+<p> Confirmation of the plans to the Guardian coincided with a series of six articles in the </p>
+<p> medical journal Lancet Infectious Diseases </p>
+<p> calling for more public health lessons to be learned from mass gatherings, ranging from the </p>
+<p> Hajj pilgrimages to Mecca </p>
+<p> to music festivals and global sports events.   Incidents range from unusual concentration of diseases, heatstroke and even stampedes. </p>
+<p> Ibrahim Abubakar, head of the HPA's TB section and author of one of the articles, said lessons learned in planning for the Olympics and other events could be crucial to reducing transmission of disease between different countries . "New audiences can take away public health messages when they return," said Abubakar. </p>
+<p> • The above article was amended on Monday 16 January. The six articles were published in the journal Lancet Infectious Diseases, not the Lancet as originally reported. </p>
+<p> Printable version </p>
+<p> Send to a friend </p>
+<p> Share </p>
+<p> Clip </p>
+<p> Contact us </p>
+<p> larger </p>
+<p> | </p>
+<p> smaller </p>
+<p> Email </p>
+<p> Close </p>
+<p> Recipient's email address </p>
+<p> Your first name </p>
+<p> Your surname </p>
+<p> Add a note (optional) </p>
+<p> Your IP address will be logged </p>
+<p> Share </p>
+<p> Close </p>
+<p> Short link for this page: </p>
+<p> http://gu.com/p/34y8h </p>
+<p> StumbleUpon </p>
+<p> reddit </p>
+<p> Tumblr </p>
+<p> Digg </p>
+<p> LinkedIn </p>
+<p> Google Bookmarks </p>
+<p> del.icio.us </p>
+<p> livejournal </p>
+<p> Facebook </p>
+<p> Twitter </p>
+<p> Contact us </p>
+<p> Close </p>
+<p> Contact the Sport editor </p>
+<p> football.editor@ </p>
+<p> guardianunlimited.co.uk </p>
+<p> Report errors or inaccuracies: </p>
+<p> reader@guardian.co.uk </p>
+<p> Letters for publication should be sent to: </p>
+<p> letters@guardian.co.uk </p>
+<p> If you need help using the site: </p>
+<p> userhelp@guardian.co.uk </p>
+<p> Call the main Guardian and Observer switchboard: </p>
+<p> +44 (0)20 3353 2000 </p>
+<p> Advertising guide </p>
+<p> License/buy our content </p>
+<p> Sport </p>
+<p> Olympic Games 2012 </p>
+<p> Society </p>
+<p> Health </p>
+<p> UK news </p>
+<p> More 			news </p>
+<p> More on this story </p>
+<p> Third arrest in spying allegations </p>
+<p> Olympics: </p>
+<p> A third person has been arrested in the investigation into Olympic Stadium spying allegations </p>
+<p> Olympics ticket resales to continue </p>
+<p> London Olympics countdown: 28 weeks to go </p>
+<p> Much more ahead of London 2012 </p>
+<p> Related </p>
+<p> 5 May 2011 </p>
+<p> Health agency issues Olympics emergency warning </p>
+<p> 8 Apr 2010 </p>
+<p> UK must act to prevent patient deaths caused by inept foreign doctors, MPs say </p>
+<p> 20 Oct 2008 </p>
+<p> Olympic 2012 chief insists Cadbury is appropriate sponsor </p>
+<p> 10 Mar 2007 </p>
+<p> Climbdown over NHS job rules for doctors </p>
+<p> Printable version </p>
+<p> Send to a friend </p>
+<p> Share </p>
+<p> Clip </p>
+<p> Contact us </p>
+<p> Article history </p>
+<p> Email </p>
+<p> Close </p>
+<p> Recipient's email address </p>
+<p> Your first name </p>
+<p> Your surname </p>
+<p> Add a note (optional) </p>
+<p> Your IP address will be logged </p>
+<p> Share </p>
+<p> Close </p>
+<p> Short link for this page: </p>
+<p> http://gu.com/p/34y8h </p>
+<p> StumbleUpon </p>
+<p> reddit </p>
+<p> Tumblr </p>
+<p> Digg </p>
+<p> LinkedIn </p>
+<p> Google Bookmarks </p>
+<p> del.icio.us </p>
+<p> livejournal </p>
+<p> Facebook </p>
+<p> Twitter </p>
+<p> Contact us </p>
+<p> Close </p>
+<p> Contact the Sport editor </p>
+<p> football.editor@ </p>
+<p> guardianunlimited.co.uk </p>
+<p> Report errors or inaccuracies: </p>
+<p> reader@guardian.co.uk </p>
+<p> Letters for publication should be sent to: </p>
+<p> letters@guardian.co.uk </p>
+<p> If you need help using the site: </p>
+<p> userhelp@guardian.co.uk </p>
+<p> Call the main Guardian and Observer switchboard: </p>
+<p> +44 (0)20 3353 2000 </p>
+<p> Advertising guide </p>
+<p> License/buy our content </p>
+<p> About this article </p>
+<p> Close </p>
+<p> Health chiefs prepare campaign to prevent epidemic during Olympics </p>
+<p> This article was published on </p>
+<p> guardian.co.uk </p>
+<p> at </p>
+<p> 10.01 GMT on Sunday 15 January 2012 </p>
+<p> .  					   	A version appeared  in </p>
+<p> the Guardian </p>
+<p> on </p>
+<p> Monday 16 January 2012 </p>
+<p> .  					   	It was last modified at </p>
+<p> 12.51 GMT on Monday 16 January 2012 </p>
+<p> . </p>
+<p> google_ad_client = 'ca-guardian_js'; google_ad_channel = 'sport'; </p>
+<p> var randomNumber=Math.floor(Math.random()*500)		 					if ((randomNumber > 0) && (randomNumber <= 100)) { 				google_ad_channel = 'Sport,E0';				 							} 					if ((randomNumber > 100) && (randomNumber <= 200)) { 				google_ad_channel = 'Sport,E2';				 									google_hints = 'motor sport'; 							} 					if ((randomNumber > 200) && (randomNumber <= 300)) { 				google_ad_channel = 'Sport,E1';				 									google_hints = 'cricket'; 							} 					if ((randomNumber > 300) && (randomNumber <= 400)) { 				google_ad_channel = 'Sport,E4';				 									google_hints = 'golf'; 							} 					if ((randomNumber > 400) && (randomNumber <= 500)) { 				google_ad_channel = 'Sport,E3';				 									google_hints = 'rugby'; 							} </p>
+<p> google_max_num_ads = '3'; </p>
+<p> //<![CDATA[ 			if (true) { 					  writeScript("http://pagead2.googlesyndication.com/pagead/show_ads.js", false, function(){}); 			} 		// ]]> </p>
+<p> #query-trailblock li {border-top: 1px solid #929292; margin-bottom: 16px;} 	#query-trailblock li h2 {font-size: 1.4em; margin: 0 0 4px;} 	#query-trailblock li:last-child {margin-bottom: 0; border-top: 1px dotted #929292;} 	#query-trailblock li:last-child h2 {margin-top: 10px; font-size: 12px; font-family: sans-serif;} 	#query-trailblock .strapline {border-bottom: 1px dotted #929292; font-weight: bold; padding: 5px 0 5px; margin-bottom: 5px;} 	#query-trailblock .trail-comment-count {padding-top: 3px;} </p>
+<p> Healthcare Network </p>
+<p> Why the NHS needs a friends and family test </p>
+<p> If patients don't answer 'yes' when you ask them if they would recommend the hospital to family and friends then you know you've got a problem, says </p>
+<p> Stephen Dunn </p>
+<p> Healthcare Network </p>
+<p> NHS education and training set to go local </p>
+<p> Proposals to devolve responsibility for NHS workforce education and training to a local level will have benefits for patients, says </p>
+<p> Sue Slipman </p>
+<p> More from our Healthcare Network </p>
+<p> .m-zeitgeist .bd { float: left } /* for the IE6 lols */   .m-zeitgeist .hd { padding-bottom: 0px; margin-bottom: -12px}   .m-zeitgeist .hd h2 { padding-bottom: 12px; }   .m-zeitgeist #att-panes { background-color: #fff; float: left; } 	.m-zeitgeist .att-toggle-pane { min-width:280px; }   .m-zeitgeist ol { padding: 0 5px; }   .m-zeitgeist #most-zeitgeist ol { padding-left: 0; }   .m-zeitgeist .zg-date { color: #D61D00; padding-left:5px; padding-top: 5px; }   .m-zeitgeist ol li { clear: both; padding-left: 15px; }   .m-zeitgeist div#att-most-viewed ol li.l1,   .m-zeitgeist div#att-latest ol li.l1 { padding-bottom: 9px !important; }   .m-zeitgeist ol li.footer { clear: both; padding-left: 0px !important; padding-top: 5px !important; }   .m-zeitgeist .rank { float: left; margin-left: -15px; }   .m-zeitgeist .kicker { font-weight: bold; }   .m-zeitgeist ol li.thumb { padding-left: 0; }   .m-zeitgeist ol li.thumb .rank { margin-left: 0; }   .m-zeitgeist ol li img { float: left; margin: 0 10px 3px 0; }      .m-zeitgeist #most-zeitgeist ol li { border-top: none; padding: 0; border-top: none; }     .m-zeitgeist #most-zeitgeist ol li .zeit-link {background-color: #fff; padding: 5px 0 9px 5px; border-top: 1px dotted #999; margin-bottom: 0px;  }     .m-zeitgeist #most-zeitgeist ol li.footer { border-top:1px dotted #999; padding: 5px 0 9px 10px; margin-left: 5px }     .m-zeitgeist #most-zeitgeist .m-zeigeist ol { padding-left: 0}      /* zeit-up */   .m-zeitgeist #most-zeitgeist .what-is { float: none; padding: 0 3px; vertical-align: middle; cursor: pointer; }   .about-zeit { position: relative; }   .zeit-popup { position: absolute; display: none; background-color: #dbedf3; color: #333; padding: 6px; width: 200px; }      .fade-1 { border-left: 5px solid #008000 !important;} .fade-2 { border-left: 5px solid #2A952A !important;} .fade-3 { border-left: 5px solid #54AA54 !important;} .fade-4 { border-left: 5px solid #7EBF7E !important;} .fade-5 { border-left: 5px solid #A8D4A8 !important;}  .m-zeitgeist div.hd { padding-bottom: 0; } .m-zeitgeist.most-viewed div.hd { padding-bottom: 7px; } </p>
+<p> jQ(function($){$('.about-zeit').each(function(){var distance=-10;var time=250;var hideDelay=500;var hideDelayTimer=null;var beingShown=false;var shown=false;var trigger=$('.what-is',this);var info=$('.zeit-popup',this).css('opacity',0);$([trigger.get(0),info.get(0)]).mouseover(function(){if(hideDelayTimer)clearTimeout(hideDelayTimer);if(beingShown||shown){return;}else{beingShown=true;info.css({top:-97,right:0,display:'block'}).animate({top:'-='+distance+'px',opacity:1},time,'swing',function(){beingShown=false;shown=true;});}return false;}).mouseout(function(){if(hideDelayTimer)clearTimeout(hideDelayTimer);hideDelayTimer=setTimeout(function(){hideDelayTimer=null;info.animate({top:'-='+distance+'px',opacity:0},time,'swing',function(){shown=false;info.css('display','none');});},hideDelay);return false;});});}); </p>
+<p> On Sport </p>
+<p> Most viewed </p>
+<p> Zeitgeist </p>
+<p> Latest </p>
+<p> Last 24 hours </p>
+<p> 1. </p>
+<p> Pakistan v England – day one as it happened </p>
+<p> 2. </p>
+<p> Laura Robson's gay rights stance reignites equality controversy </p>
+<p> 3. </p>
+<p> Saeed Ajmal's teasing teesra leaves England harried and hustled </p>
+<p> 4. </p>
+<p> Australian Open 2012: Andy Murray rallies to beat Ryan Harrison </p>
+<p> 5. </p>
+<p> English rugby failings highlighted by Irish success in Heineken Cup </p>
+<p> More most viewed </p>
+<p> Last 24 hours </p>
+<p> Pakistan v England – day one as it happened </p>
+<p> Saeed Ajmal's teasing teesra leaves England harried and hustled </p>
+<p> Australian Open 2012: Andy Murray rallies to beat Ryan Harrison </p>
+<p> Muhammad Ali at 70 – snapshots of boxing's greatest </p>
+<p> Muhammad Ali celebrates his 70th birthday - video </p>
+<p> More zeitgeist </p>
+<p> What is Zeitgeist? </p>
+<p> Zeitgeist is an experiment in showing trending news, topics and articles from the Guardian. Find out more in </p>
+<p> our blog post </p>
+<p> . </p>
+<p> Last 24 hours </p>
+<p> 1. </p>
+<p> London 2012: Locog reverse ferret on tickets tests public's goodwill </p>
+<p> 2. </p>
+<p> Pakistan v England, day one - in pictures </p>
+<p> 3. </p>
+<p> Matt Prior refuses to question Saeed Ajmal's action after dismal day </p>
+<p> 4. </p>
+<p> Australian Open 2012: Novak Djokovic makes strong start to title defence </p>
+<p> 5. </p>
+<p> Saeed Ajmal takes 7 for 55 as England fold against Pakistan spinners </p>
+<p> All today's stories </p>
+<p> NHS news on Twitter </p>
+<p> Follow the latest news on the NHS reforms with our team of health specialists </p>
+<p> clare_horton: </p>
+<p> In </p>
+<p> #socdaily: </p>
+<p> #DLA, </p>
+<p> Remploy, shed for rent, Lansley's chauffeur,  Scout volunteers, Leeds stars, elected mayors </p>
+<p> http://t.co/5fpXJUuC </p>
+<p> about 4 hours, 14 minutes ago </p>
+<p> patrickjbutler: </p>
+<p> Liveblog: "I'm terrified of the impact of </p>
+<p> #disability </p>
+<p> benefit reforms," says Baroness Tanni Grey-Thompson </p>
+<p> http://t.co/PP6txmrm </p>
+<p> #wrbliveblog </p>
+<p> about 5 hours, 25 minutes ago </p>
+<p> Claire_Phipps: </p>
+<p> so reforms to give PIP to *more* people? Or..? “@BBCr4today: </p>
+<p> #wrb </p>
+<p> needed because 'there are people who fall through the net' -Maria Miller" </p>
+<p> about 7 hours, 42 minutes ago </p>
+<p> • Follow our health specialists on this Twitter list </p>
+<p> • </p>
+<p> Find more tweets from our health team </p>
+<p> .g-tickets img{float:left;margin-right:10px;}         .g-tickets li{margin-top:10px;}         .g-tickets li p,.g-tickets li form,.g-tickets .book-link{margin-left:70px;}         .g-tickets .event-name{border-top:1px dotted #999;width:210px;padding-top:5px;font-weight:700;}         .g-tickets.component .event-name{width:229px;}         .g-tickets .book-link{margin-top:3px;}         .g-tickets .strapline{margin: 0px 0 20px;}         .g-tickets.component .find-tickets{width:300px;}         .g-tickets .find-tickets{border-top:1px dotted #999;margin-top:20px;padding-top:5px;float:left;width:100%;}         .g-tickets .search-tickets{display:block;}         .g-tickets .find-tickets input{margin:20px 0;}         .g-tickets li,.g-tickets .browse-tickets{float:left;}         .news-grid .g-tickets .hd{margin-bottom:0;min-height:18px;width:300px;padding-bottom:0;}         .news-grid .g-tickets .bd{float:left;background-color:#ededed;width:290px;padding:0 5px 20px;}         .news-grid .g-tickets .strapline{margin-bottom:10px;margin-top:0;}         .news-grid .g-tickets .event-name{width:219px;}         .news-grid .g-tickets .browse-tickets{width:100%;}         .news-grid .g-tickets{overflow:hidden;} </p>
+<p> Buy tickets for top sport events </p>
+<p> Compare and buy tickets for thousands of events </p>
+<p> Six Nations Championship </p>
+<p> Saturday, 4 Feb, 2012 </p>
+<p> Murrayfield - Edinburgh </p>
+<p> England v Ireland </p>
+<p> Saturday, 17 Mar, 2012 </p>
+<p> Twickenham Stadium - London </p>
+<p> England v Wales </p>
+<p> Saturday, 25 Feb, 2012 </p>
+<p> Twickenham Stadium - London </p>
+<p> Tickets to more sport events </p>
+<p> Browse tickets </p>
+<p> jQ('div.g-tickets form.find-tickets').submit(function(){                 var submitUrl = 'http://www.guardiantickets.co.uk/search/' + encodeURI(jQ('#search-query').val())                 document.location.href= submitUrl;                 return false;                                                 }); </p>
+<p> .m-guardianbookshop .rank { float: left; margin-left: -15px; } 	.m-guardianbookshop .thumb .rank { margin-left: 0; } 	.m-guardianbookshop h4 { border-top: none !important; font-weight: bold; margin-left: 5px !important; padding: 5px 0 8px 0 !important; } 	.m-guardianbookshop .bestsellers { background-color: #fff; padding-bottom: 17px;} 	.m-guardianbookshop ol { padding: 0 5px; } 	.m-guardianbookshop .l1 { clear: both; padding-left: 15px; } 	.m-guardianbookshop .thumb { padding-left: 0; } 	.m-guardianbookshop .thumb img { float: left; margin: 2px 10px 9px 0;} 	.m-guardianbookshop .price { display: inline; } 	.m-guardianbookshop .thumb .price { display: block; } 	.m-guardianbookshop .rank, .m-guardianbookshop .book-title { font-weight: bold; } 	.m-guardianbookshop input { border: 1px solid #999; width: 75%; min-height: 16px; margin-top: 8px; padding: 3px 2px;} </p>
+<p> This week's bestsellers </p>
+<p> 1. </p>
+<p> Inside the Divide </p>
+<p> by Richard Wilson </p>
+<p> £16.99 </p>
+<p> 2. </p>
+<p> Cyclebabble </p>
+<p> by James Randerson & Peter Walker </p>
+<p> £7.99 </p>
+<p> 3. </p>
+<p> Pathways </p>
+<p> by Nicholas Rudd-Jones & David Stewart </p>
+<p> £20.00 </p>
+<p> 4. </p>
+<p> You are the Ref </p>
+<p> by Paul Trevillion & Keith Hackett </p>
+<p> £12.99 </p>
+<p> 5. </p>
+<p> Racing Post Pocket Diary 2012 </p>
+<p> £8.99 </p>
+<p> Search the Guardian bookshop </p>
+<p> Search </p>
+<p> .soulmates-search { 	padding-bottom: 10px; } .soulmates-search h3 img { 	padding-bottom: 2px; }  .soulmates-search form { 	margin-top: 5px; } .soulmates-search li { 	padding-bottom: 5px; } .soulmates-search label { 	clear: left; 	display: block; 	float: left; 	width: 70px; }  .soulmates-search label.cont { 	clear: none; 	display: inline; 	float: none; 	padding: 0 5px; 	width: auto; }  .soulmates-search button { 	display: block; 	margin: 5px auto 0; } </p>
+<p> Search Soulmates profiles and find a date today </p>
+<p> I am a </p>
+<p> Woman </p>
+<p> Man </p>
+<p> Seeking </p>
+<p> Women </p>
+<p> Men </p>
+<p> Men & Women </p>
+<p> Aged </p>
+<p> 18 </p>
+<p> 19 </p>
+<p> 20 </p>
+<p> 21 </p>
+<p> 22 </p>
+<p> 23 </p>
+<p> 24 </p>
+<p> 25 </p>
+<p> 26 </p>
+<p> 27 </p>
+<p> 28 </p>
+<p> 29 </p>
+<p> 30 </p>
+<p> 31 </p>
+<p> 32 </p>
+<p> 33 </p>
+<p> 34 </p>
+<p> 35 </p>
+<p> 36 </p>
+<p> 37 </p>
+<p> 38 </p>
+<p> 39 </p>
+<p> 40 </p>
+<p> 41 </p>
+<p> 42 </p>
+<p> 43 </p>
+<p> 44 </p>
+<p> 45 </p>
+<p> 46 </p>
+<p> 47 </p>
+<p> 48 </p>
+<p> 49 </p>
+<p> 50 </p>
+<p> 51 </p>
+<p> 52 </p>
+<p> 53 </p>
+<p> 54 </p>
+<p> 55 </p>
+<p> 56 </p>
+<p> 57 </p>
+<p> 58 </p>
+<p> 59 </p>
+<p> 60 </p>
+<p> 61 </p>
+<p> 62 </p>
+<p> 63 </p>
+<p> 64 </p>
+<p> 65 </p>
+<p> 66 </p>
+<p> 67 </p>
+<p> 68 </p>
+<p> 69 </p>
+<p> 70 </p>
+<p> 71 </p>
+<p> 72 </p>
+<p> 73 </p>
+<p> 74 </p>
+<p> 75 </p>
+<p> 76 </p>
+<p> 77 </p>
+<p> 78 </p>
+<p> 79 </p>
+<p> 80 </p>
+<p> 81 </p>
+<p> 82 </p>
+<p> 83 </p>
+<p> 84 </p>
+<p> 85 </p>
+<p> 86 </p>
+<p> 87 </p>
+<p> 88 </p>
+<p> 89 </p>
+<p> 90 </p>
+<p> 91 </p>
+<p> 92 </p>
+<p> 93 </p>
+<p> 94 </p>
+<p> 95 </p>
+<p> 96 </p>
+<p> 97 </p>
+<p> 98 </p>
+<p> 99 </p>
+<p> 100 </p>
+<p> to </p>
+<p> 18 </p>
+<p> 19 </p>
+<p> 20 </p>
+<p> 21 </p>
+<p> 22 </p>
+<p> 23 </p>
+<p> 24 </p>
+<p> 25 </p>
+<p> 26 </p>
+<p> 27 </p>
+<p> 28 </p>
+<p> 29 </p>
+<p> 30 </p>
+<p> 31 </p>
+<p> 32 </p>
+<p> 33 </p>
+<p> 34 </p>
+<p> 35 </p>
+<p> 36 </p>
+<p> 37 </p>
+<p> 38 </p>
+<p> 39 </p>
+<p> 40 </p>
+<p> 41 </p>
+<p> 42 </p>
+<p> 43 </p>
+<p> 44 </p>
+<p> 45 </p>
+<p> 46 </p>
+<p> 47 </p>
+<p> 48 </p>
+<p> 49 </p>
+<p> 50 </p>
+<p> 51 </p>
+<p> 52 </p>
+<p> 53 </p>
+<p> 54 </p>
+<p> 55 </p>
+<p> 56 </p>
+<p> 57 </p>
+<p> 58 </p>
+<p> 59 </p>
+<p> 60 </p>
+<p> 61 </p>
+<p> 62 </p>
+<p> 63 </p>
+<p> 64 </p>
+<p> 65 </p>
+<p> 66 </p>
+<p> 67 </p>
+<p> 68 </p>
+<p> 69 </p>
+<p> 70 </p>
+<p> 71 </p>
+<p> 72 </p>
+<p> 73 </p>
+<p> 74 </p>
+<p> 75 </p>
+<p> 76 </p>
+<p> 77 </p>
+<p> 78 </p>
+<p> 79 </p>
+<p> 80 </p>
+<p> 81 </p>
+<p> 82 </p>
+<p> 83 </p>
+<p> 84 </p>
+<p> 85 </p>
+<p> 86 </p>
+<p> 87 </p>
+<p> 88 </p>
+<p> 89 </p>
+<p> 90 </p>
+<p> 91 </p>
+<p> 92 </p>
+<p> 93 </p>
+<p> 94 </p>
+<p> 95 </p>
+<p> 96 </p>
+<p> 97 </p>
+<p> 98 </p>
+<p> 99 </p>
+<p> 100 </p>
+<p> In </p>
+<p> Afghanistan </p>
+<p> Aland Islands </p>
+<p> Albania </p>
+<p> Algeria </p>
+<p> American Samoa </p>
+<p> Andorra </p>
+<p> Angola </p>
+<p> Anguilla </p>
+<p> Antarctica </p>
+<p> Antigua and Barbuda </p>
+<p> Argentina </p>
+<p> Armenia </p>
+<p> Aruba </p>
+<p> Australia </p>
+<p> Austria </p>
+<p> Bahrain </p>
+<p> Bangladesh </p>
+<p> Barbados </p>
+<p> Belarus </p>
+<p> Belgium </p>
+<p> Belize </p>
+<p> Benin </p>
+<p> Bermuda </p>
+<p> Bhutan </p>
+<p> Bolivia </p>
+<p> Bosnia and Herzegovina </p>
+<p> Botswana </p>
+<p> Bouvet Island </p>
+<p> Brazil </p>
+<p> British Virgin Islands </p>
+<p> Brunei </p>
+<p> Bulgaria </p>
+<p> Burkina Faso </p>
+<p> Burundi </p>
+<p> Cambodia </p>
+<p> Cameroon </p>
+<p> Canada </p>
+<p> Cape Verde </p>
+<p> Cayman Islands </p>
+<p> Central African Republic </p>
+<p> Chad </p>
+<p> Chile </p>
+<p> China </p>
+<p> Christmas Island </p>
+<p> Cocos (Keeling) Islands </p>
+<p> Colombia </p>
+<p> Comoros </p>
+<p> Congo </p>
+<p> Cook Islands </p>
+<p> Costa Rica </p>
+<p> Croatia </p>
+<p> Cuba </p>
+<p> Cyprus </p>
+<p> Czech Republic </p>
+<p> Democratic Republic of Congo </p>
+<p> Denmark </p>
+<p> Djibouti </p>
+<p> Dominica </p>
+<p> Dominican Republic </p>
+<p> East Timor </p>
+<p> Ecuador </p>
+<p> Egypt </p>
+<p> El Salvador </p>
+<p> Equatorial Guinea </p>
+<p> Eritrea </p>
+<p> Estonia </p>
+<p> Ethiopia </p>
+<p> Falkland Islands </p>
+<p> Faroe Islands </p>
+<p> Federated States of Micronesia </p>
+<p> Fiji </p>
+<p> Finland </p>
+<p> France </p>
+<p> French Guiana </p>
+<p> French Polynesia </p>
+<p> Gabon </p>
+<p> Georgia </p>
+<p> Germany </p>
+<p> Ghana </p>
+<p> Gibraltar </p>
+<p> Greece </p>
+<p> Greenland </p>
+<p> Grenada </p>
+<p> Guadeloupe </p>
+<p> Guam </p>
+<p> Guatemala </p>
+<p> Guinea </p>
+<p> Guinea-Bissau </p>
+<p> Guyana </p>
+<p> Haiti </p>
+<p> Heard Island and McDonald Islands </p>
+<p> Honduras </p>
+<p> Hong Kong </p>
+<p> Hungary </p>
+<p> Iceland </p>
+<p> India </p>
+<p> Indonesia </p>
+<p> Iran </p>
+<p> Iraq </p>
+<p> Ireland </p>
+<p> Israel </p>
+<p> Italy </p>
+<p> Ivory Coast </p>
+<p> Jamaica </p>
+<p> Japan </p>
+<p> Jordan </p>
+<p> Kazakhstan </p>
+<p> Kenya </p>
+<p> Kiribati </p>
+<p> Kuwait </p>
+<p> Kyrgyzstan </p>
+<p> Laos </p>
+<p> Latvia </p>
+<p> Lebanon </p>
+<p> Lesotho </p>
+<p> Liberia </p>
+<p> Libya </p>
+<p> Liechtenstein </p>
+<p> Lithuania </p>
+<p> Luxembourg </p>
+<p> Macau </p>
+<p> Macedonia </p>
+<p> Madagascar </p>
+<p> Malawi </p>
+<p> Malaysia </p>
+<p> Maldives </p>
+<p> Mali </p>
+<p> Malta </p>
+<p> Marshall Islands </p>
+<p> Martinique </p>
+<p> Mauritania </p>
+<p> Mauritius </p>
+<p> Mayotte </p>
+<p> Mexico </p>
+<p> Moldova </p>
+<p> Monaco </p>
+<p> Mongolia </p>
+<p> Montenegro </p>
+<p> Montserrat </p>
+<p> Morocco </p>
+<p> Mozambique </p>
+<p> Myanmar </p>
+<p> Namibia </p>
+<p> Nauru </p>
+<p> Nepal </p>
+<p> Netherlands </p>
+<p> Netherlands Antilles </p>
+<p> New Caledonia </p>
+<p> New Zealand </p>
+<p> Nicaragua </p>
+<p> Niger </p>
+<p> Nigeria </p>
+<p> Niue </p>
+<p> Norfolk Island </p>
+<p> North Korea </p>
+<p> Northern Mariana Islands </p>
+<p> Norway </p>
+<p> Oman </p>
+<p> Pakistan </p>
+<p> Palau </p>
+<p> Palestinian Occupied Territories </p>
+<p> Panama </p>
+<p> Papua New Guinea </p>
+<p> Paraguay </p>
+<p> Peru </p>
+<p> Philippines </p>
+<p> Pitcairn Islands </p>
+<p> Poland </p>
+<p> Portugal </p>
+<p> Puerto Rico </p>
+<p> Qatar </p>
+<p> Reunion </p>
+<p> Romania </p>
+<p> Russia </p>
+<p> Rwanda </p>
+<p> Saint Kitts and Nevis </p>
+<p> Saint Pierre and Miquelon </p>
+<p> Saint Vincent and the Grenadines </p>
+<p> Saint-Barthelemy </p>
+<p> Saint-Martin </p>
+<p> Samoa </p>
+<p> San Marino </p>
+<p> Sao Tome and Principe </p>
+<p> Saudi Arabia </p>
+<p> Senegal </p>
+<p> Serbia </p>
+<p> Seychelles </p>
+<p> Sierra Leone </p>
+<p> Singapore </p>
+<p> Slovakia </p>
+<p> Slovenia </p>
+<p> Solomon Islands </p>
+<p> Somalia </p>
+<p> South Africa </p>
+<p> South Georgia and the South Sandwich Islands </p>
+<p> South Korea </p>
+<p> Spain </p>
+<p> Spratly Islands </p>
+<p> Sri Lanka </p>
+<p> St Helena Ascension and Tristan da Cunha </p>
+<p> St. Lucia </p>
+<p> Sudan </p>
+<p> Suriname </p>
+<p> Svalbard and Jan Mayen </p>
+<p> Swaziland </p>
+<p> Sweden </p>
+<p> Switzerland </p>
+<p> Syria </p>
+<p> Taiwan </p>
+<p> Tajikistan </p>
+<p> Tanzania </p>
+<p> Thailand </p>
+<p> The Bahamas </p>
+<p> The Gambia </p>
+<p> Togo </p>
+<p> Tokelau </p>
+<p> Tonga </p>
+<p> Trinidad and Tobago </p>
+<p> Tunisia </p>
+<p> Turkey </p>
+<p> Turkmenistan </p>
+<p> Turks and Caicos Islands </p>
+<p> Tuvalu </p>
+<p> US Virgin Islands </p>
+<p> Uganda </p>
+<p> Ukraine </p>
+<p> United Arab Emirates </p>
+<p> United Kingdom </p>
+<p> United States </p>
+<p> Uruguay </p>
+<p> Uzbekistan </p>
+<p> Vanuatu </p>
+<p> Vatican City </p>
+<p> Venezuela </p>
+<p> Vietnam </p>
+<p> Wallis and Futuna </p>
+<p> Western Sahara </p>
+<p> Yemen </p>
+<p> Zambia </p>
+<p> Zimbabwe </p>
+<p> Within </p>
+<p> 5 miles </p>
+<p> 10 miles </p>
+<p> 20 miles </p>
+<p> 40 miles </p>
+<p> 60 miles </p>
+<p> 100 miles </p>
+<p> 200 miles </p>
+<p> 300 miles </p>
+<p> Of </p>
+<p> Search </p>
+<p> //<![CDATA[ function get_makes()	{ 	var dropDown; 	selectedIndex = 0; 		dropDown = document.atsearch.make; 	if (dropDown)  { 			dropDown.length = 0; 			for(index=0; index<make_d.length; index++)	{ 				dropDown[index] = new Option(make_d[index],make_v[index]); 				if (make_d[index]=="MAKE" || make_d[index]=="MAKE")  { 					dropDown[index] = new Option(make_d[index],""); 				  } 				if (make_d[index]=="ANY MAKE")  { 					dropDown[index] = new Option(make_d[index],"ANY"); 				  } 			  } 			dropDown.options[selectedIndex].selected = true; 		} } function get_range(ranges)	{ 	selectedIndex = 0; 	var dropDown; 		dropDown = document.atsearch.model; 	if (dropDown)  { 		dropDown.length = 0; 		for(index=0; index<ranges.length; index++)	{ 			dropDown[index] = new Option(ranges[index],ranges[index]); 			if (ranges[index]=="Model" || ranges[index]=="MODEL")  { 				dropDown[index] = new Option(ranges[index],""); 			  } 			  if (ranges[index]=="ANY MODEL")  { 				dropDown[index] = new Option(ranges[index],"ANY"); 			  } 			else if (ranges[index].toUpperCase() == "ANY MODEL" && req_model == "ANY")  { 				selectedIndex = index; 			} 		} 		dropDown.options[selectedIndex].selected = true; 	} }  function validate_postcode(){ 	if (document.getElementById("postcode_input").value != "") { 		document.atsearch.submit() 	}else { 		document.getElementById("postcode_validation_msg").style.visibility = "visible"; 	} }  function disableEnterKey(e) {      var key;           if(window.event)           key = window.event.keyCode; //IE      else           key = e.which; //firefox            return (key != 13); }  //]]> </p>
+<p> Find a car </p>
+<p> Used vehicle search </p>
+<p> From: </p>
+<p> Min price </p>
+<p> £500 </p>
+<p> £1000 </p>
+<p> £2000 </p>
+<p> £3000 </p>
+<p> £4000 </p>
+<p> £5000 </p>
+<p> £6000 </p>
+<p> £7000 </p>
+<p> £8000 </p>
+<p> £9000 </p>
+<p> £10000 </p>
+<p> £12500 </p>
+<p> £15000 </p>
+<p> £17500 </p>
+<p> £20000 </p>
+<p> £25000 </p>
+<p> £30000 </p>
+<p> £40000 </p>
+<p> £50000 </p>
+<p> To: </p>
+<p> Max price </p>
+<p> £500 </p>
+<p> £1000 </p>
+<p> £2000 </p>
+<p> £3000 </p>
+<p> £4000 </p>
+<p> £5000 </p>
+<p> £6000 </p>
+<p> £7000 </p>
+<p> £8000 </p>
+<p> £9000 </p>
+<p> £10000 </p>
+<p> £12500 </p>
+<p> £15000 </p>
+<p> £17500 </p>
+<p> £20000 </p>
+<p> £25000 </p>
+<p> £30000 </p>
+<p> £40000 </p>
+<p> £50000 </p>
+<p> Your details: </p>
+<p> Enter full postcode </p>
+<p> Show 50 results </p>
+<p> Show 100 results </p>
+<p> Show 150 results </p>
+<p> Show 200 results </p>
+<p> Postcode Required </p>
+<p> Sellers details: </p>
+<p> All </p>
+<p> Private </p>
+<p> Trade </p>
+<p> 1 mile </p>
+<p> 10 miles </p>
+<p> 20 miles </p>
+<p> 30 miles </p>
+<p> 40 miles </p>
+<p> 60 miles </p>
+<p> 100 miles </p>
+<p> 200 miles </p>
+<p> National </p>
+<p> Sort results by: </p>
+<p> Distance </p>
+<p> Price (ascending) </p>
+<p> Price (descending) </p>
+<p> //<![CDATA[ 				var num=0; // number of times doLists has been called 				var interval = null; 				function doLists()  { 					num++; 					if (num < 100)  { 						if (typeof get_makes == 'function' && typeof get_range =='function' && typeof _model=='object' && typeof make_v=='object' && typeof make_d=='object')  { 							get_makes(); 							get_range(_model[0]); 							clearInterval(interval); 						} 					} 					else { 						clearInterval(interval); 					} 				} 				interval=setInterval("doLists()", 100); 				doNewLists('',''); 			//]]> </p>
+<p> Sponsored feature </p>
+<p> function showSponsoredFeaturex31(){                     if (window.sponJSON) {                         if(typeof(sponJSON) === 'object') {                           adx31 = sponJSON;                           var node = jQ('.json-features.x31');                           convertJSONtoAd(                               node.find('img:first-child'),                               node.find('a.t6'),                               node.find('p:last-child'),                               adx31,                               node.find('.hd').children().eq(0),                               'x31'                           );                         }                     }                 }                                  jQ(document).ready(function(){                     jQ('.x31-script-placeholder').writeCapture().replaceWith('<script>showSponsoredFeaturex31()<' + '/script>')                 }) </p>
+<p> Find the latest jobs in your sector: </p>
+<p> Arts & heritage </p>
+<p> Charities </p>
+<p> Education </p>
+<p> Environment </p>
+<p> Government </p>
+<p> Graduate </p>
+<p> Health </p>
+<p> Marketing & PR </p>
+<p> Media </p>
+<p> Sales </p>
+<p> Senior executive </p>
+<p> Social care </p>
+<p> Browse all jobs </p>
+<p> Male Head of Physical Education </p>
+<p> Shipston-on-Stour, Warwickshire | Teacher Mains Scale plus TLR2b </p>
+<p> SHIPSTON HIGH SCHOOL </p>
+<p> Related information </p>
+<p> Sport </p>
+<p> Olympic Games 2012 </p>
+<p> UK news </p>
+<p> Society </p>
+<p> Health </p>
+<p> Olympic win helps jog UK out of couch potato habits </p>
+<p> 19 Aug 2005 </p>
+<p> Warnings of an obesity timebomb and the encouragement provided by London's winning bid for the 2012 Olympics appear to have spurred the British public into becoming sportier citizens. </p>
+<p> 6 Jul 2005 </p>
+<p> Hewitt: Olympics will boost nation's health </p>
+<p> 13 Feb 2005 </p>
+<p> London 2012 to be 'the greenest games' </p>
+<p> 29 Sep 2004 </p>
+<p> Rabies alert issued as virus found in bat </p>
+<p> 12 Oct 2003 </p>
+<p> No 10 orders flabby Britain to get fit </p>
+<p> Boris Johnson's Olympic pledge to Londoners </p>
+<p> 29 Apr 2009 </p>
+<p> Mayor unveils new plans to boost London's sporting participation as part of Olympics strategy </p>
+<p> Hot topics </p>
+<p> Olympic Games 2012 </p>
+<p> England cricket team </p>
+<p> Premier League </p>
+<p> Transfer window </p>
+<p> Champions League </p>
+<p> License/buy our content </p>
+<p> | </p>
+<p> Privacy policy </p>
+<p> | </p>
+<p> Terms & conditions </p>
+<p> | </p>
+<p> Advertising guide </p>
+<p> | </p>
+<p> Accessibility </p>
+<p> | </p>
+<p> A-Z index </p>
+<p> | </p>
+<p> Inside the Guardian blog </p>
+<p> | </p>
+<p> About us </p>
+<p> | </p>
+<p> Work for us </p>
+<p> | </p>
+<p> Join our dating site today </p>
+<p> © 2012 Guardian News and Media Limited or its affiliated companies. All rights reserved. </p>
+<p> //<![CDATA[ 	if(true) { 		var s_account="guardiangu-sport,guardiangu-network"; 		writeScript('http://static.guim.co.uk/static/534a025fbd5b6ca3cafea5df66abf4d49b01b6fd/common/scripts/omniture-H.22.4.js', false, function(){}); 	} 	//]]> </p>
+<p> //<![CDATA[ 	if(true) { 		if (false) { 		    s.pageName = document.title; 		} else { 			s.pageName="Health chiefs prepare campaign to prevent epidemic during Olympics:Article:1688597"; 		} 		s.channel = "Sport"; 		s.pageType=""; 		s.server='04'; 		s.prop2='GUID:(none)';  					s['prop3']="Guardian"; 					s['prop4']="Olympic Games 2012 olympics,Health (Society),Society,Sport,UK news"; 					s['prop5']="Society Weekly,Not commercially useful,Health Society,Olympic Games"; 					s['prop6']="James Meikle"; 					s['prop7']="12-Jan-16"; 					s['prop8']="1688597"; 					s['prop9']="Article"; 					s['prop10']="News"; 					s['prop11']="Sport"; 					s['prop13']=""; 					s['prop25']=""; 					s['prop30']="content"; 		 		s.hier2="GU/Sport/Olympic Games 2012"; 		s.events=""; 		s.eVar23="";  		try { 			if (guardian.r2.OmnitureTrackingOverride) { 				new guardian.r2.OmnitureTrackingOverride(s); 			} 		} 		catch(err) { 		}          if(jQ.cookie("GU_OMNITURE") !== null) {             s.events = jQ.cookie("GU_OMNITURE");             jQ.cookie("GU_OMNITURE", null, { path: '/', domain: '.guardian.co.uk'});         }          var s_code=s.t();if(s_code)document.write(s_code); 	} 	//]]> </p>
+<p> var _qevents = _qevents || []; 		(function() { 			var elem = document.createElement('script');  			elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js"; 			elem.async = true; 			elem.type = "text/javascript"; 			var scpt = document.getElementsByTagName('script')[0]; 			scpt.parentNode.insertBefore(elem, scpt); 		})(); 		_qevents.push( { qacct:'p-73ktnlRTKQPTw', labels: 'sport'} ); </p>
+<p> var qcResults = function (result) { 				for (var i = 0, len = result.segments.length; i < len; i++) { 					OAS_query += 'qc=' + result.segments[i].id + '&'; 				} 			} </p>
+<p> if (true) {     jQ(document).ready(function () {         jQ('a[data-cpt]').each(             function () {             jQ(this).click(                 function () {                 var cpId = jQ(this).attr('data-cpt').split("-")[1];                 var currentLink = jQ(this).attr('href');                  if (currentLink.indexOf('intcmp=') == -1) {                     if(currentLink.indexOf('?') == -1) {                         var separator = '?'                     } else {                         var separator = '&'                     }                      jQ(this).attr('href', currentLink + separator + "intcmp=" + cpId);                 }             });         });     }); } </p>
+<p> //<![CDATA[ 	if (false) {         // guardian.co.uk Connect Adprobe Tag, MPU [9814], Leaderboard [9815]         var wlOrd = new Date().getTime();         document.write('<scr' + 'ipt type="text/javascript" src="http://req.connect.wunderloop.net/AP/1566/6028/10332/js?cus=10332,10333&ord=' + wlOrd + '"></sc' + 'ript>'); 	} // ]]> </p>
+<p> //<![CDATA[ 	if (false) {         OAS_query += 'wl10332=' + wl10332camp + '&wl10333=' + wl10333camp + '&'; 	} // ]]> </p>
+<p> //<![CDATA[  	if(true) { 		ensurePackage("guardian.r2.revsci");  		guardian.r2.revsci.cookieDomain = '.guardian.co.uk'; 		guardian.r2.revsci.gu_geo_country = '(none)'; 		guardian.r2.revsci.siteName = 'Sport'; 					guardian.r2.revsci.commercialFolder = 'Health+Society' 				 		addEvent(null, 'load', function () { 			writeScript('http://js.revsci.net/gateway/gw.js?csid=E05516', true, function() { 				writeScript('http://static.guim.co.uk/static/894d5be2fd27175b6273c0b4d3966c55a95bac8a/common/scripts/revsci.js', true, function() { 					rs_initTracking(); 				}) 			}) 		}); 	}  	// ]]> </p>
+<p> //<![CDATA[ 											function OAS_NORMAL(pos) { 							document.write('<A HREF="' + OAS_url + 'click_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + pos + '!' + pos + '?' + OAS_query + '" TARGET=' + OAS_target + '>'); 							document.write('<IMG SRC="' + OAS_url + 'adstream_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + pos + '!' + pos + '?' + OAS_query + '" BORDER=0></A>'); 						}  						OAS_version = 11; 						if ((navigator.userAgent.indexOf('Mozilla/3') != -1) || (navigator.userAgent.indexOf('Mozilla/4.0 WebTV') != -1)) OAS_version = 10;                          if (true) {                             if (OAS_version >= 11) document.write('<scr' + 'ipt src="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/script>');                         }  						function OAS_AD(pos) {                             if (true) {                                 if (typeof(OAS_RICH) !== 'undefined' && OAS_version >= 11) {                                     OAS_RICH(pos);                                 } else {                                     OAS_NORMAL(pos);                                 }                             } 						} 					 				//]]> </p>
+<p> //<![CDATA[                 jQ('#ad-placeholder-Top').writeCapture().replaceWith('<script>OAS_AD("Top")<' + '/script>');                 //]]> </p>
+<p> jQ('#ad-temp-Top').hide(); </p>
+<p> //<![CDATA[                 jQ('#ad-placeholder-Middle2').writeCapture().replaceWith('<script>OAS_AD("Middle2")<' + '/script>');                 //]]> </p>
+<p> jQ('#ad-temp-Middle2').hide(); </p>
+<p> //<![CDATA[                 jQ('#ad-placeholder-Right1').writeCapture().replaceWith('<script>OAS_AD("Right1")<' + '/script>');                 //]]> </p>
+<p> jQ('#ad-temp-Right1').hide(); </p>
+<p> //<![CDATA[                 jQ('#ad-placeholder-x31').writeCapture().replaceWith('<script>OAS_AD("x31")<' + '/script>');                 //]]> </p>
+<p> jQ('#ad-temp-x31').hide(); </p>
+<p> ensurePackage('guardian.r2.omniture');   guardian.r2.omniture.trackComponents = true; </p>
+<p> //	<![CDATA[ 	if(true) {         var OAS_taxonomy='&Paneled_Site=guardian.co.uk&Paneled_Section=sport'; 		jQ(document).ready(function(){ 			jQ.getScript('http://static.guim.co.uk/static/894d5be2fd27175b6273c0b4d3966c55a95bac8a/common/scripts/kantarmedia.js'); 		}); 	} 	// ]]> </p>
+<p> if(true) {         		jQ(function() { 		  if ('undefined' !== typeof MatchingEngine) { 		    MatchingEngine.logEvent('article', 'id=http://www.guardian.co.uk/sport/2012/jan/15/health-campaign-prevent-epidemic-olympics'); 		  } 		}); 	} </p>
+<p> //	<![CDATA[     if (true) {         var _sf_async_config = {uid:2905,domain:'guardian.co.uk'};         jQ(document).ready(function(){             window._sf_endpt = (new Date()).getTime();             jQ.getScript('http://s3.amazonaws.com/publishflow/javascript/event.js');         });     }     // ]]> </p>
+<p> if (true) {         var _sf_async_config = {};         /** CONFIGURATION START **/         _sf_async_config.uid = 30676;         _sf_async_config.domain = document.domain;         _sf_async_config.sections = 'Sport';         _sf_async_config.authors = 'James Meikle';         _sf_async_config.useCanonical = true;         /** CONFIGURATION END **/         (function() {             function loadChartbeat() {                 window._sf_endpt = (new Date()).getTime();                 var e = document.createElement('script');                 e.setAttribute('language', 'javascript');                 e.setAttribute('type', 'text/javascript');                 e.setAttribute('src',                         (('https:' == document.location.protocol) ? 'https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/' : 'http://static.chartbeat.com/') +                                 'js/chartbeat.js');                 document.body.appendChild(e);             }              var oldonload = window.onload;             window.onload = (typeof window.onload != 'function') ?                     loadChartbeat : function() {                 oldonload();                 loadChartbeat();             };         })();     } </p>

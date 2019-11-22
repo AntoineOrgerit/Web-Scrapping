@@ -1,0 +1,205 @@
+<p> UK orders review of cosmetic surgery industry | WORLD News </p>
+<p> <!----> </p>
+<p> <!----> </p>
+<p> <!----> </p>
+<p> <!----> </p>
+<p> <!----> </p>
+<p> <!----> </p>
+<p> <!----> </p>
+<p> <!----> </p>
+<p> <!----> </p>
+<p> <!----> </p>
+<p> <!----> </p>
+<p> <!----> </p>
+<p> <!----> </p>
+<p> <!----> </p>
+<p> <!----> </p>
+<p> <!----> </p>
+<p> <!----> </p>
+<p> <!----> </p>
+<p> <!----> </p>
+<p> <!----> </p>
+<p> function onTemplateLoaded(experienceID) { 						var bcExp = brightcove.getExperience(experienceID); 						var modVP = bcExp.getModule(APIModules.VIDEO_PLAYER); 			    		modVP.addEventListener(BCMediaEvent.CHANGE,  			    		function(evt)     					{     						$('.vid-gallery li.selected').removeClass('selected');     						$('.vid-gallery li[data-content-id='+evt.media.referenceId+']').addClass('selected');     					});  					}; </p>
+<p> TVNZ </p>
+<p> Login / Register </p>
+<p> Contact </p>
+<p> News </p>
+<p> Sport </p>
+<p> Television </p>
+<p> TVNZ </p>
+<p> Ondemand </p>
+<p> Video </p>
+<p> NZ News </p>
+<p> World </p>
+<p> Business </p>
+<p> Politics </p>
+<p> Weather </p>
+<p> Entertainment </p>
+<p> Technology </p>
+<p> Lifestyle </p>
+<p> Travel </p>
+<p> Breakfast </p>
+<p> Opinion </p>
+<p> Cosmetic surgery reviewed after botched implants </p>
+<p> Published: </p>
+<p> 9:58AM Thursday January 12, 2012 </p>
+<p> Source: Reuters </p>
+<p> Email this article </p>
+<p> Print this article </p>
+<p> Text size </p>
+<p> + </p>
+<p> - </p>
+<p> www.setGlobal('keyword', 'WORLD'); 				www.setGlobal('articleId', '4684164'); </p>
+<p> var productionUrl = 'http%3A%2F%2Ftvnz.co.nz%2Fworld-news%2Fcosmetic-surgery-reviewed-after-botched-implants-4684164'; 			var urlEncodedArticleTitle = 'Cosmetic%20surgery%20reviewed%20after%20botched%20implants'; </p>
+<p> Share on Twitter </p>
+<p> Share on Facebook </p>
+<p> function bebo_click() { 					u=location.href; 					t=''; 					window.open('http://www.bebo.com/c/share?Url='+encodeURIComponent(u)+'&amp;Title='+encodeURIComponent(t),'sharer','toolbar=0,status=0,width=626,height=436'); 					return false; 				} </p>
+<p> Plastic surgery - </p>
+<p> Source: Thinkstock </p>
+<p> Related </p>
+<p> Heidi Montag regrets breast implants </p>
+<p> Britain said today it would investigate whether tighter regulation of the cosmetic surgery industry was needed after a health scare over breast implants made by a now defunct French company. </p>
+<p> Health Secretary Andrew Lansley also ordered a review into the safety and quality of private clinics offering cosmetic surgery in Britain. </p>
+<p> The government has been under pressure to act after an uproar in Britain over breast implants made by Poly Implant Prothese (PIP), which went bankrupt in 2010. </p>
+<p> "I have set out today a number of actions to ensure we learn the lessons and look at how we can tighten up regulation of the wider cosmetic industry so that this doesn't happen again," Lansley said in a statement. </p>
+<p> The French government has advised 30,000 women in France who bought implants from PIP to have them removed after concerns since the death from cancer of a French woman carrying PIP implants. </p>
+<p> The British government says there is no need for the routine removal of PIP breast implants but says concerned women given the implants through the state-funded National Health Service (NHS) could have them removed and replaced at NHS expense. </p>
+<p> Lansley told parliament health minister Frederick Howe he would carry out a rapid study of the use of PIP breast implants in Britain to draw lessons for future regulation. </p>
+<p> He said he had asked Bruce Keogh, the NHS medical director, to look into health safeguards for people seeking cosmetic surgery such as breast implants and wrinkle-smoothing treatments. </p>
+<p> Advertisement </p>
+<p> Keogh's review will look at whether there needs to be better regulation of cosmetic products and surgery in Britain and Europe and whether patients "can be confident that the people who carry out procedures have the skills to do so", Lansley said. </p>
+<p> The review will also look at record keeping, Lansley said, saying the implant affair had shown safety information the industry collected was of variable quality. "Without good data, we have no way of knowing when problems arise," he said. </p>
+<p> About 300,000 PIP implants were sold worldwide before the firm went out of business after an official probe revealed it was using a cheaper unapproved industrial-grade silicone in some products. </p>
+<p> A British review found no link between the implants and cancer, but had not been able to establish if the PIP implants were more likely to rupture than others, saying information from the industry to the regulator was patchy. </p>
+<p> Email this article </p>
+<p> Print this article </p>
+<p> Text size </p>
+<p> + </p>
+<p> - </p>
+<p> more... </p>
+<p> www.setGlobal('keyword', 'WORLD'); 				www.setGlobal('articleId', '4684164'); </p>
+<p> var productionUrl = 'http%3A%2F%2Ftvnz.co.nz%2Fworld-news%2Fcosmetic-surgery-reviewed-after-botched-implants-4684164'; 			var urlEncodedArticleTitle = 'Cosmetic%20surgery%20reviewed%20after%20botched%20implants'; </p>
+<p> Share on Twitter </p>
+<p> Share on Facebook </p>
+<p> function bebo_click() { 					u=location.href; 					t=''; 					window.open('http://www.bebo.com/c/share?Url='+encodeURIComponent(u)+'&amp;Title='+encodeURIComponent(t),'sharer','toolbar=0,status=0,width=626,height=436'); 					return false; 				} </p>
+<p> World News Video </p>
+<p> Scottish appetite for independence (4:12) </p>
+<p> US denies bomb attack (2:02) </p>
+<p> What do Scottish people think of independence? (2:24) </p>
+<p> World News </p>
+<p> $(document).ready(function() {var so = new SWFObject("http://images.tvnz.co.nz/tvnz_site_images/images/sponsor/sponsor_logo_blank.swf", "sponsor_logo", 280, 30, 8, "#FFFFFF");so.addParam("allowScriptAccess", "always");so.addParam("wmode", "transparent");so.addParam("menu", "false");so.write("sponsor");}); </p>
+<p> World News </p>
+<p> updated 21:10 </p>
+<p> US marine abuse tape a threat to Afghan peace talks </p>
+<p> Clean up begins in wake of Cyclone Heidi </p>
+<p> Haiti marks two years since catastrophic quake </p>
+<p> Russian tanker battles to reach frozen Alaska port </p>
+<p> Chch earthquake debris among royal gifts for 2011 </p>
+<p> photos </p>
+<p> Murder bumped off US list of top killers </p>
+<p> Designer goods frozen in Qld Health fraud case </p>
+<p> Advertisement </p>
+<p> Most Popular </p>
+<p> Turangi teen asks for forgiveness </p>
+<p> watch </p>
+<p> One dead, three others fighting for life after serious crash </p>
+<p> Fresh oil fears from Rena wreck </p>
+<p> watch </p>
+<p> Age gap no issue for Harry Styles and Caroline Flack </p>
+<p> Bus left teetering on roadside </p>
+<p> rss </p>
+<p> Latest News </p>
+<p> updated 21:52 </p>
+<p> Fresh oil fears from Rena wreck </p>
+<p> watch </p>
+<p> 21:47 </p>
+<p> Age gap no issue for Harry Styles and Caroline Flack </p>
+<p> updated 21:10 </p>
+<p> US marine abuse tape a threat to Afghan peace talks </p>
+<p> 20:57 </p>
+<p> Investigation into Beehive leak </p>
+<p> 20:49 </p>
+<p> Clean up begins in wake of Cyclone Heidi </p>
+<p> Sponsored Links </p>
+<p> Tackle poverty, sickness, hunger. Help kids and change the world. </p>
+<p> Advertising </p>
+<p> How do you want your news? </p>
+<p> Email </p>
+<p> Choose the news you want when you want it, all in one personalised daily e-mail. </p>
+<p> Mobile Devices </p>
+<p> TVNZ is available on mobile phones: Text TVNZ to 8869. </p>
+<p> Social Media </p>
+<p> TVNZ on Facebook and Twitter. </p>
+<p> News Feeds </p>
+<p> See when TVNZ have added new content. You can get the latest headlines anywhere. </p>
+<p> Podcasts </p>
+<p> Enjoy TVNZ on the move - a wide range of programmes and highlights are available. </p>
+<p> Copyright © 2012, Television New Zealand Limited. Breaking and Daily News, Sport & Weather | TV ONE, TV2 | Ondemand </p>
+<p> About TVNZ </p>
+<p> Inside TVNZ </p>
+<p> Careers </p>
+<p> Media Releases </p>
+<p> Your TV </p>
+<p> Digital TV / Freeview </p>
+<p> Submit a Programme Idea </p>
+<p> Make a Formal Complaint </p>
+<p> TV Advertising </p>
+<p> Online Advertising </p>
+<p> Programme Partnerships </p>
+<p> TVNZ Licensing </p>
+<p> TVNZ Production Services </p>
+<p> Advertorial Sales </p>
+<p> TVNZ Access Services </p>
+<p> Contact Us </p>
+<p> TVNZ News </p>
+<p> NZ News </p>
+<p> Business News </p>
+<p> Sport </p>
+<p> Weather Forecast </p>
+<p> Entertainment News </p>
+<p> World </p>
+<p> Politics </p>
+<p> Travel News </p>
+<p> ONE News Ondemand </p>
+<p> Technology News </p>
+<p> Contact TVNZ News </p>
+<p> TVNZ Entertainment </p>
+<p> Watch full episodes </p>
+<p> TVNZ Shows A-Z </p>
+<p> TV ONE </p>
+<p> TV2 </p>
+<p> U </p>
+<p> TVNZ 7 </p>
+<p> TVNZ Heartland </p>
+<p> Kidzone24 </p>
+<p> Full TV guide </p>
+<p> Shortland Street </p>
+<p> Good Morning </p>
+<p> TVNZ Ondemand FAQ </p>
+<p> Lifestyle </p>
+<p> Streaming speed test </p>
+<p> TVNZ.co.nz </p>
+<p> About TVNZ </p>
+<p> FAQs </p>
+<p> Contact Us </p>
+<p> Terms of Use </p>
+<p> Competition Terms & Conditions </p>
+<p> Privacy Policy </p>
+<p> House Rules </p>
+<p> TV Advertising </p>
+<p> Online Advertising </p>
+<p> jQuery(document).ready(function() 						{ 							InitDefault(); 							socialMedia.initSocialMedia(); 						}); </p>
+<p> var _rsCI="nz-nzoom"; 				var _rsCG="ep-empty-sectn-world-news-dist-empty-prog-empty-chanl-empty-site-news-kw-cosmetic+surgery-kw-united+kingdom-kw-france-kw-one+news-kw-world-sourc-reuters-sid-425822-did-4684164"; 				var _rsDN="//secure-nz.imrworldwide.com/"; 				var _rsSE=1; 				var _rsSV=""; 				var _rsSM=0.1; 				var _rsCC=0; 				//var _rsSI=escape(document.location + "?" + _rsCG); // works it out automatically 				var _rsCL=0; 				var _rsLOList = Array("http://tvnz.co.nz/"); 				for (_rsLOItem in _rsLOList) {if (document.location.href==_rsLOList[_rsLOItem]) {_rsCL=1;break}}; </p>
+<p> <!----> </p>
+<p> s.pageType = "".substring(0,100); 				s.channel = "news".substring(0,100).toLowerCase(); 				s.prop4 =   				"article" 		.substring(0,100).toLowerCase(); 				s.prop1 = "news:world".substring(0,100).toLowerCase(); 				s.prop2 = (s.prop1 + ':'+ 					"" 					).replace(/(^:+)|(:+$)/g,'') 				.substring(0,100).toLowerCase(); 				s.prop3 = (s.prop2 + ':' + 					"" 					+ ':' + s.prop4).replace(/(^:+)|(:+$)/g,'').replace(/:+/g,':') 				.substring(0,100).toLowerCase(); 				s.prop5 = "cosmetic surgery reviewed after botched implants".substring(0,100).toLowerCase(); 				s.prop6 = "4684164".substring(0,100); 				s.prop7 = "".substring(0,100); 				s.prop8 = "Reuters".substring(0,100); 				s.prop9 = "cosmeticsurgery,unitedkingdom,france,onenews,world".substring(0,100).toLowerCase(); 				s.prop10 = "Reuters".substring(0,100).toLowerCase(); 				s.prop11 = "".substring(0,100).toLowerCase(); 				s.prop12 = /news|sport/.test(s.channel)?'newsandsport':s.channel.substring(0,100).toLowerCase(); 				s.prop24= "".substring(0,100).toLowerCase(); 				s.prop26= "".substring(0,100).toLowerCase(); 				s.prop27= "".substring(0,100).toLowerCase();		 				s.prop28= s.prop4.substring(0,100).toLowerCase();  				if ( typeof swfobject != "undefined" )  {/* SWFObject Version 2 */ 					var playerVersion = swfobject.getFlashPlayerVersion(); 					s.prop42 = s.eVar42 = playerVersion.major + "." + playerVersion.minor + "." + playerVersion.release; 				} 				else if (typeof deconcept != "undefined") { /* SWFObject Version 1 */ 					var playerVersion = deconcept.SWFObjectUtil.getPlayerVersion(); 					s.prop42 = s.eVar42 = playerVersion.major + "." + playerVersion.minor + "." + playerVersion.rev; 				}  				analytics.omniture.updatePageTracking(); 				 				s.pageName = s.prop4+':'+'cosmeticsurgeryreviewedafterbotchedimplants'+':'+s.prop6.substring(0,100).toLowerCase(); 				s.hier1= s.prop3.replace(/:/g,'|').toLowerCase(); 				s.eVar15 = "".substring(0,100).toLowerCase();  				s.events=""; 				var precache_date = "Friday,13/01/12 00:07:16".match(/(\w+),(\d\d)\/(\d\d)\/(\d\d) (\d\d):(\d\d):(\d\d)/); 				if ( precache_date ) { 					// Time variable is available in SSI field, replace omniture function to use it  					s.getTimeParting = function(timeField,tzoffset,dst) { // ignores tzoffset/dst 						var hour = precache_date[5]; 						var day = precache_date[1].toLowerCase(); 						var daytype = (day == 'saturday' || day == 'sunday') ? 'weekend' : 'weekday'; 						return (timeField == 'h') ? hour + ':00' : // rounded down to hour 							   (timeField == 'd') ?	day : 							   (timeField == 'w') ? daytype : 								day + ', '+daytype;					      					}; 				} 				else { 					s.t = function(){};   				} </p>
+<p> <!--		 		/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/ 		var s_code=s.t();if(s_code)document.write(s_code)//--> </p>
+<p> <!-- 		if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-') 		//--> </p>
+<p> document.write(unescape('%3Cscript type="text/javascript" src="http://ad.au.doubleclick.net/adj/tvnz.co.nz/news/_/world-news/_/_/_/_;sectn=world-news;site=news;kw=COSMETICSURGERY;kw=UNITEDKINGDOM;kw=FRANCE;kw=ONENEWS;kw=WORLD;sourc=Reuters;sid=425822;did=4684164;sz=760x120,728x90;tile=' + ++dc_tile + ';ord=' + ord + '?"%3E%3C/script%3E')); </p>
+<p> document.write(unescape('%3Cscript type="text/javascript" src="http://ad.au.doubleclick.net/adj/tvnz.co.nz/news/_/world-news/_/_/_/_;pos=mid;sectn=world-news;site=news;kw=COSMETICSURGERY;kw=UNITEDKINGDOM;kw=FRANCE;kw=ONENEWS;kw=WORLD;sourc=Reuters;sid=425822;did=4684164;sz=300x250;tile=' + ++dc_tile + ';ord=' + ord + '?"%3E%3C/script%3E')); </p>
+<p> document.write(unescape('%3Cscript type="text/javascript" src="http://ad.au.doubleclick.net/adj/tvnz.co.nz/news/_/world-news/_/_/_/_;pos=top;sectn=world-news;site=news;kw=COSMETICSURGERY;kw=UNITEDKINGDOM;kw=FRANCE;kw=ONENEWS;kw=WORLD;sourc=Reuters;sid=425822;did=4684164;sz=300x250;tile=' + ++dc_tile + ';ord=' + ord + '?"%3E%3C/script%3E')); </p>
+<p> document.write(unescape('%3Cscript type="text/javascript" src="http://ad.au.doubleclick.net/adj/tvnz.co.nz/news/_/world-news/_/_/_/_;dcopt=ist;market=1;sectn=world-news;site=news;kw=COSMETICSURGERY;kw=UNITEDKINGDOM;kw=FRANCE;kw=ONENEWS;kw=WORLD;sourc=Reuters;sid=425822;did=4684164;sz=310x68;tile=' + ++dc_tile + ';ord=' + ord + '?"%3E%3C/script%3E')); </p>
+<p> document.write(unescape('%3Cscript type="text/javascript" src="http://ad.au.doubleclick.net/adj/tvnz.co.nz/news/_/world-news/_/_/_/_;dcopt=ist;market=2;sectn=world-news;site=news;kw=COSMETICSURGERY;kw=UNITEDKINGDOM;kw=FRANCE;kw=ONENEWS;kw=WORLD;sourc=Reuters;sid=425822;did=4684164;sz=310x68;tile=' + ++dc_tile + ';ord=' + ord + '?"%3E%3C/script%3E')); </p>
+<p> document.write(unescape('%3Cscript type="text/javascript" src="http://ad.au.doubleclick.net/adj/tvnz.co.nz/news/_/world-news/_/_/_/_;dcopt=ist;market=3;sectn=world-news;site=news;kw=COSMETICSURGERY;kw=UNITEDKINGDOM;kw=FRANCE;kw=ONENEWS;kw=WORLD;sourc=Reuters;sid=425822;did=4684164;sz=310x68;tile=' + ++dc_tile + ';ord=' + ord + '?"%3E%3C/script%3E')); </p>
+<p> var placeholders = $("div.placeHolder"); 			var ads = $("div.adContent"); 			ads.each(function (i, ad) { 				placeholders.eq(i).replaceWith($(ad).contents().not("script, noscript")); 			}); </p>
+<p> var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); 					document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); </p>
+<p> try {var pageTracker = _gat._getTracker("UA-808429-9");pageTracker._trackPageview();} catch(err) {} </p>

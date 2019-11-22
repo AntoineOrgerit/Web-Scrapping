@@ -1,0 +1,232 @@
+<p> Analyst gauges financial loss from Novartis recall - BusinessWeek </p>
+<p> <!--   #storyBody #inset #akABTestContainer { 	width: 190px; 	margin: 3px 0 20px 15px; }    #storyBody #inset #akABTestBlock { 	display:none; }   #storyBody #inset #AKrelatedItems { 	width: 190px; 	margin: 3px 0 20px 15px; }  #AKrelatedItems a:link, #AKrelatedItems a:visited { 	color: #064599; 	text-decoration: none; }  #AKrelatedItems a:hover, #AKrelatedItems a:active { 	color: #064599; 	text-decoration: underline; }  #AKrelatedItems ul li { 	font-size: 1.2em; 	font-weight: bold; 	margin-bottom: 1.2em; }   //--> </p>
+<p> <!-- 	   window.epulse_content_group = "cg1=ap news feed,cg2=ap stories,cg3=Analyst gauges financial loss from Novartis recall"; 	   var home = window.location.hostname; 	   if (home.indexOf("images") != -1) { 		 var page = "http://images.businessweek.com"; 	   } else { 		 var page = "http://www.businessweek.com"; 	   } 	   var s_pageName="Analyst gauges financial loss from Novartis recall"; 	   var s_prop1="ap stories"; 	   var s_prop3=(page + window.location.pathname); 	//--> </p>
+<p> //<![CDATA[  var cacheKiller = new Date(); if ('SWFObject' in window) { //Initialize SWFObject 	var so = new SWFObject("http://" + window.location.host + "/gateway.swf?cacheKiller=" + cacheKiller.getTime(), "gatewaySWF", "1", "1", "8"); 	so.addParam("allowScriptAccess", "always"); 	so.write("gatewaySWFWrapper"); 	window.gatewaySWF = document.getElementById("gatewaySWF"); } if (!('bw' in window && bw.cfg && bw.cfg.loadJquery === false) && !('jQuery' in window)) { //Check for loadJquery flag and Check if jQuery exists 	document.write('<scr'+'ipt src="http://res.businessweek.com/scripts/jquery.js" type="text/javascript"></scr'+'ipt>'); } //]]> </p>
+<p> Bloomberg </p>
+<p> BusinessWeek </p>
+<p> Business Exchange </p>
+<p> //<![CDATA[ 				if (!window.BW_adsys) { 					document.write('<scr' + 'ipt src="http://www.businessweek.com/common_scripts/BW_adsys.js" language="JavaScript" type="text/javascript"><\/scr' + 'ipt>'); 				} 				//]]> </p>
+<p> Get our new FREE iPad app now </p>
+<p> Home </p>
+<p> Blogs </p>
+<p> Columnists </p>
+<p> Lifestyle </p>
+<p> Magazine </p>
+<p> Newsletters </p>
+<p> Slide Shows </p>
+<p> Special Reports </p>
+<p> The Debate Room </p>
+<p> Videos </p>
+<p> Finance </p>
+<p> Finance Home </p>
+<p> Companies </p>
+<p> Economy </p>
+<p> Industry News </p>
+<p> Investing Blog </p>
+<p> Learning Center </p>
+<p> People Overview </p>
+<p> Real Estate Investing </p>
+<p> Retirement Planning </p>
+<p> Sectors & Industries </p>
+<p> Stocks </p>
+<p> Stocks & Markets </p>
+<p> Technology </p>
+<p> Technology Home </p>
+<p> CEO Tech Guide </p>
+<p> Columnists </p>
+<p> Computers </p>
+<p> Consumer Electronics </p>
+<p> Digital Entertainment </p>
+<p> Internet </p>
+<p> Investing </p>
+<p> Mobile & Wireless </p>
+<p> Product Reviews </p>
+<p> Software </p>
+<p> Hands On </p>
+<p> Innovation </p>
+<p> Innovation Home </p>
+<p> Architecture </p>
+<p> Auto Design </p>
+<p> Brand Blog </p>
+<p> Columnists </p>
+<p> Design </p>
+<p> Game Room </p>
+<p> Innovation Index </p>
+<p> Marketing </p>
+<p> Media Blog </p>
+<p> NEXT Blog </p>
+<p> Management </p>
+<p> Management Home </p>
+<p> Business Schools </p>
+<p> Board of Directors </p>
+<p> Book Reviews </p>
+<p> Career Management </p>
+<p> Case Studies </p>
+<p> Columnists </p>
+<p> Jobs </p>
+<p> Leadership </p>
+<p> Management IQ Blog </p>
+<p> Team Management </p>
+<p> Small Business </p>
+<p> Small Business Home </p>
+<p> Financing </p>
+<p> Policy </p>
+<p> Sales & Marketing </p>
+<p> Small Business Blog </p>
+<p> Smart Answers </p>
+<p> Starting a Business </p>
+<p> Viewpoints </p>
+<p> Global </p>
+<p> Global Home </p>
+<p> Asia </p>
+<p> Europe </p>
+<p> Europe Insight Blog </p>
+<p> Eye on Asia Blog </p>
+<p> //<![CDATA[ 		if (('jQuery' in window) && !('bw' in window && bw.cfg && bw.cfg.activateHeaderFlyout === false)) { //Check if jQuery exists & Check for activateHeaderFlyout flag 		$(document).ready(function(){ 			$('.nav-flyout-link').hover( 				function() { 					var el = $(this), 						lPos = el.position().left, 						flyout = $('.flyout', this), 						right = flyout.hasClass('flyout-right'); 					$(this).addClass('flyout-hover'); 					$('.flyout', this).css('left', right ? lPos - flyout.outerWidth() + el.outerWidth() : lPos); 				}, 				function() { 					$(this).removeClass('flyout-hover'); 				} 			); 		}); 		} 		//]]> </p>
+<p> var _sf_startpt=(new Date()).getTime() </p>
+<p> var _sf_async_config={uid:15087,domain:"businessweek.com"}; (function(){   function loadChartbeat() {     window._sf_endpt=(new Date()).getTime();     var e = document.createElement('script');     e.setAttribute('language', 'javascript');     e.setAttribute('type', 'text/javascript');     e.setAttribute('src',        (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +        "static.chartbeat.com/js/chartbeat.js");     document.body.appendChild(e);   }   var oldonload = window.onload;   window.onload = (typeof window.onload != 'function') ?      loadChartbeat : function() { oldonload(); loadChartbeat(); }; })(); </p>
+<p> // <![CDATA[ if (!window.BW_adsys) { 	document.write('<scr' + 'ipt src="http://www.businessweek.com/common_scripts/BW_adsys.js" language="JavaScript" type="text/javascript"><\/scr' + 'ipt>'); } // ]]> </p>
+<p> // <![CDATA[ if (!window.BW_sitezone) { 	BW_sitezone = 'top_news/general'; } if (window.BW_adsys) { 	document.write(BW_adsys('top', '/common_adcode/ap/topnews_10.htm')); } // ]]> </p>
+<p> The Associated Press </p>
+<p> January 10, 2012, 2:49PM ET </p>
+<p> Analyst gauges financial loss from Novartis recall </p>
+<p> Story Tools </p>
+<p> order a reprint </p>
+<p> digg this </p>
+<p> save to del.icio.us </p>
+<p> // <![CDATA[ if (!window.BW_adsys) { 	document.write('<scr' + 'ipt src="http://www.businessweek.com/common_scripts/BW_adsys.js" language="JavaScript" type="text/javascript"><\/scr' + 'ipt>'); } // ]]> </p>
+<p> // <![CDATA[ if (!window.BW_sitezone) { 	BW_sitezone = 'general/general'; } if (window.BW_adsys) { 	document.write(BW_adsys('middle1', '/common_adcode/bw_general_8.htm')); } // ]]> </p>
+<p> WASHINGTON </p>
+<p> Manufacturing problems at a Novartis factory that triggered the recall of four popular medicines could cost the company between $560 million and $750 million in lost sales and productivity, a Wall Street analyst estimated Tuesday. </p>
+<p> On Sunday the Swiss drugmaker announced the recall of 1,645 lots of Excedrin, NoDoz, Gas-X and Bufferin from the U.S. market due to reports of chipped and broken tablets and inconsistent bottle packaging that could cause medicines to be mixed up. The company previously closed the Lincoln, Neb., facility where the products were manufactured and says it does not know when operations will resume. Novartis expects to take a $120 million charge for the fourth quarter of 2011 related to the recalls. </p>
+<p> Leerink Swann analyst Seamus Fernandez cut his 2012 sales forecast and full-year earnings estimate for the company by $560 million and 20 cents per share, respectively. According to an investment note from Fernandez, the figure reflects the loss of a year's worth of sales of the recalled products, roughly $390 million, plus $170 million in lost production from an expected three-month shutdown of the facility. </p>
+<p> The Food and Drug Administration is currently investigating manufacturing and quality-control problems at the plant and is expected to be involved in approving the restart of operations. </p>
+<p> "History suggests that few manufacturing challenges resolve quickly, but a partial resumption of manufacturing is certainly possible, although a resumption of manufacturing and a full recovery in the recalled brands are likely to take considerably longer to resolve, particularly given the FDA's involvement," Fernandez states. </p>
+<p> In a worst-case scenario, Fernandez expects Novartis would lose $750 million in income if all products manufactured at the Lincoln plant are suspended for one year. That would be a 30 to 35 cent cut in earnings per share. </p>
+<p> Analysts surveyed by FactSet expect Novartis to earn $5.55 per share this year. </p>
+<p> In afternoon trading, U.S.-listed shares of Novartis fell 5 cents to $56.95. </p>
+<p> BW Extras </p>
+<p> Podcasts </p>
+<p> Mandel on Economics </p>
+<p> Behind the Cover </p>
+<p> CEO Guide to Tech </p>
+<p> more… </p>
+<p> RSS Feeds </p>
+<p> Most Popular </p>
+<p> Top News </p>
+<p> Innovation Trends </p>
+<p> more… </p>
+<p> E-mails </p>
+<p> Asia Insider </p>
+<p> MBA Express </p>
+<p> BW.com Insider </p>
+<p> more… </p>
+<p> Blogs </p>
+<p> Blogspotting </p>
+<p> Hot Property </p>
+<p> Tech Beat </p>
+<p> more… </p>
+<p> Most Popular Stories </p>
+<p> Read </p>
+<p> E-mailed </p>
+<p> Discussed </p>
+<p> Three Types of People to Fire Immediately </p>
+<p> Top B-School Stories of 2011 </p>
+<p> Lego Is for Girls </p>
+<p> Transocean: No Apologies Over Gulf Oil Spill </p>
+<p> It's Always Sunny in Silicon Valley </p>
+<p> RSS Feed: Most Read Stories </p>
+<p> Three Types of People to Fire Immediately </p>
+<p> Which Is America's Best City? </p>
+<p> Lego Is for Girls </p>
+<p> Top B-School Stories of 2011 </p>
+<p> Professional Women and a Secure Retirement </p>
+<p> RSS Feed: Most E-mailed Stories </p>
+<p> Korea's Next Challenge: Global Competitiveness </p>
+<p> RSS Feed: Most Discussed Stories </p>
+<p> // <![CDATA[ if (!window.BW_adsys) { 	document.write('<scr' + 'ipt src="http://www.businessweek.com/common_scripts/BW_adsys.js" language="JavaScript" type="text/javascript"><\/scr' + 'ipt>'); } // ]]> </p>
+<p> // <![CDATA[ if (!window.BW_sitezone) { 	BW_sitezone = 'top_news/general'; } if (window.BW_adsys) { 	document.write(BW_adsys('right2', '/common_adcode/db_general_top_9.htm')); } // ]]> </p>
+<p> Most Popular Multimedia </p>
+<p> Slide Shows </p>
+<p> The 20 Biggest Casinos </p>
+<p> 2006 Best Global Brands </p>
+<p> Olympic Architecture </p>
+<p> Best Young Tech Entrepreneurs 2009 </p>
+<p> Fuqua Virtual Tour </p>
+<p> RSS Feed: Most Popular Slide Shows </p>
+<p> <!-- function google_ad_request_done(google_ads) {  var s = ''; var i;  if (google_ads.length == 0) {return;}   if (google_ads.length == 1) {     s += '<div class="module textAd"><h2><a href=\"' + google_info.feedback_url + '\">Ads by Google<\/a><\/h2><ul>' +  	'<li style="font-size:14px;line-height:1.4;text-align:center;margin:20px 0 20px 0;"><a href=\"' + google_ads[0].url + '\"> ' + google_ads[0].line1 + '<\/a><br \/>' +    	'<span style="text-decoration:none;font-weight:normal;color:#333;"> ' + 	google_ads[0].line2 + '  ' + google_ads[0].line3 + '<\/span><br \/><a style="text-decoration:none;font-weight:normal;color:#007cd5;" href=\"' + google_ads[0].url + '\"">' + 	google_ads[0].visible_url + '<\/a><\/li><\/ul><\/div>';  }  if (google_ads.length > 1) {     s += '<div class="module textAd"><h2><a href=\"' + google_info.feedback_url + '\">Ads by Google<\/a><\/h2><ul style="background-color:#F0F0F0;border:1px solid #E5E5E5;padding:5px;">';  for(i = 0; i < google_ads.length; ++i) {     s += '<li><a href=\"' + google_ads[i].url + '\" style="color:#0000FF;"> ' + google_ads[i].line1 + '<\/a><br \/>' + 	'<span style="text-decoration:none;font-weight:normal;color:#000000;"> ' + 	google_ads[i].line2 + '  ' + google_ads[i].line3 + '<br \/><\/span><a style="color:#008000;text-decoration:none;font-weight:normal;"  href=\"' + google_ads[i].url + '\">' + 	google_ads[i].visible_url + '<\/a><\/li>'; 	}  	s += '<\/ul><\/div>';   }      document.write(s);     return;   } google_ad_client = "pub-6185772592614621"; google_ad_channel = "0369587921+1034830610"; google_ad_output = 'js'; google_max_num_ads = '4'; google_ad_type = "text"; google_feedback = 'on'; // --> </p>
+<p> // <![CDATA[ if (!window.BW_adsys) { 	document.write('<scr' + 'ipt src="http://www.businessweek.com/common_scripts/BW_adsys.js" language="JavaScript" type="text/javascript"><\/scr' + 'ipt>'); } // ]]> </p>
+<p> // <![CDATA[ if (!window.BW_sitezone) { 	BW_sitezone = 'top_news/general'; } if (window.BW_adsys) { 	document.write(BW_adsys('right3', '/common_adcode/db_general_bottom_9.htm')); } // ]]> </p>
+<p> BW Mall - Sponsored Links </p>
+<p> Buy a link now! </p>
+<p> <!-- 	var s_prop25 ="AP related items test"; 	 	//--> </p>
+<p> //<![CDATA[ 				if (!window.BW_adsys) { 					document.write('<scr' + 'ipt src="http://www.businessweek.com/common_scripts/BW_adsys.js" language="JavaScript" type="text/javascript"><\/scr' + 'ipt>'); 				} 				//]]> </p>
+<p> //<![CDATA[ 						if (!window.BW_sitezone) { 							BW_sitezone = 'general/general'; 						} 						if (window.BW_adsys) { 							document.write(BW_adsys('CircFooter')); 						} 					//]]> </p>
+<p> Special Reports </p>
+<p> Fix This/Transportation </p>
+<p> Crisis in Japan </p>
+<p> Health Care </p>
+<p> Sentiment Analysis </p>
+<p> More Special Reports </p>
+<p> Business Tools </p>
+<p> B-School Comparison </p>
+<p> B-School Calendar </p>
+<p> BW for Mobile </p>
+<p> E-mail Newsletters </p>
+<p> RSS </p>
+<p> White Papers </p>
+<p> A-Z Index </p>
+<p> BW Authors </p>
+<p> BX Topics </p>
+<p> Private Companies </p>
+<p> Public Companies </p>
+<p> Lists & Rankings </p>
+<p> Best Global Brands </p>
+<p> Best Places to Launch a Career </p>
+<p> Best Providers of Customer Service </p>
+<p> Best Undergraduate Business Schools </p>
+<p> Business School Rankings & Profiles </p>
+<p> BW 50: Best Performing Companies </p>
+<p> Top 100 IT Companies </p>
+<p> Most Innovative Companies </p>
+<p> Follow Us </p>
+<p> @BW on Twitter </p>
+<p> BW on Facebook </p>
+<p> Blogs </p>
+<p> EconoChat </p>
+<p> EuroCrisis </p>
+<p> Joshua Green on Politics </p>
+<p> Occupy Wall Street </p>
+<p> Small Business </p>
+<p> Technology </p>
+<p> [+] Rate this page </p>
+<p> //<![CDATA[ 	    $(window).bind("load", function() {	 			(function() { 				var oolab = document.createElement('script'); oolab.type = 'text/javascript'; oolab.async = true; 				oolab.src = '/js/onlineopinionV5/opinionlab.js'; 				(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(oolab); 			})(); 			}); 			 		$(window).bind("load", function() {	 			(function() { 				var oolabCss = document.createElement('link'); oolabCss.type = 'text/css'; oolabCss.async = true; oolabCss.rel='stylesheet'; 				oolabCss.href = '/js/onlineopinionV5/oo_style.css'; 				(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(oolabCss); 			})(); 			}); 			 		 $(window).load(function(){ 			 $("a.opinion-lab").live("click", function() { 			 	window.open("https://secure.opinionlab.com/ccc01/o.asp?id=yeMndEIb","opinionlab",'width=600,height=500,scrollbars=no'); 			  }); 		}); 	            //]]> </p>
+<p> Slideshow Gallery </p>
+<p> Autos </p>
+<p> Business Schools </p>
+<p> Design </p>
+<p> International </p>
+<p> Innovation </p>
+<p> Investing </p>
+<p> Managing </p>
+<p> Policy </p>
+<p> Real Estate </p>
+<p> Small Business </p>
+<p> Technology </p>
+<p> Magazine </p>
+<p> Current Issue </p>
+<p> Subscribe Now </p>
+<p> Bloomberg </p>
+<p> About </p>
+<p> Advertising </p>
+<p> Custom Publishing </p>
+<p> EDGE Programs </p>
+<p> Reprints </p>
+<p> Terms of Use </p>
+<p> Disclaimer </p>
+<p> Privacy Notice </p>
+<p> Ethics Code </p>
+<p> Contact Us </p>
+<p> Site Map </p>
+<p> ©2012 Bloomberg L.P. All Rights Reserved. </p>
+<p> //<![CDATA[         $(window).load(function(){ 		if(  			( 	window.location.hostname == "localhost" ) ||  			(	window.location.hostname == "www.businessweek.com" ) ||  			(	window.location.hostname == "app.businessweek.com" ) || 			(	window.location.hostname == "bw20.businessweek.com" )|| 			(	window.location.hostname == "uat.bw.bloomberg.com" ) ||  			(	window.location.hostname == "origin-www.businessweek.com" ) ||  			(	window.location.hostname == "qa.bw.dev.bloomberg.com" ) || 			(	window.location.hostname == "tools.businessweek.com" ) 			 			) { 				$('#footer-inner p.copyright').append('<span class="made-in-nyc"><a href="http://nytm.org/made" target="_blank" rel="nofollow external" id="made_in_nyc">Made in NYC</a></span>'); 				$('#branding_footer p.copyright').append('<span class="made-in-nyc"><a href="http://nytm.org/made" target="_blank" rel="nofollow external" id="made_in_nyc">Made in NYC</a></span>'); 			} 		});         //]]> </p>

@@ -1,0 +1,8 @@
+<HTML xmlns="http://www.w3.org/1999/xhtml">
+<style type="text/css">
+A:before { content:' '; } 
+A:after { content:' '; } 
+SPAN:before { content:' '; } 
+SPAN:after { content:' '; } 
+</style>
+<BODY id="weibo_user"><DIV id="wrapper"><DIV class="wrapper-in"><DIV id="container"><DIV class="userinfobox"><DIV class="openweibo"><DIV class="openweibo_txt03">CNTV微博为用户提供个性化服务，马上开通CNTV微博，关注主播、名人、朋友的最新动态，通过网页、手机随时记录生活中的新鲜事。</DIV></DIV></DIV><DIV class="sidebar"><DIV class="user-sidebar user-fans"><DIV class="sidebar-head">微博联播关注的人（6）</DIV></DIV></DIV></DIV></DIV></DIV></BODY></HTML>

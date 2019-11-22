@@ -1,0 +1,24 @@
+<HTML>
+<style type="text/css">
+A:before { content:' '; } 
+A:after { content:' '; } 
+SPAN:before { content:' '; } 
+SPAN:after { content:' '; } 
+</style>
+<BODY style="background-image: url('siteimg/BG.gif')" onload="showPanel2(document.getElementById('tap3'), 'panel3'); showPanel3(document.getElementById('bap3'), 'pan1');"><DIV align="center"><DIV align="center"><SPAN class="pathway">   Δωρεάν εμβολιασμούς σε παιδιά ξεκινούν οι Γιατροί του Κόσμου </SPAN><TABLE border="0" width="100%" id="table41" cellspacing="0" cellpadding="0"><TBODY><TR><TD align="left" class="contentheading" width="100%" style="">
+				Δωρεάν εμβολιασμούς σε παιδιά ξεκινούν οι Γιατροί του Κόσμου								</TD></TR></TBODY></TABLE><TABLE class="contentpaneopen"><TBODY><TR><TD class="date" align="left" align="left" colspan="2" valign="top"><SPAN class="createdate">
+			 Πηγή: <A class="external" href="http://www.express.gr">Express.gr</A><FONT class="createdate"> 08/12/11-17:04</FONT></SPAN></TD></TR><TR><TD id="resize" class="size5" align="left" valign="top" colspan="2">
+
+Πρόγραμμα δωρεάν εμβολιασμών για τα παιδιά που εξυπηρετούνται στο 
+πολυϊατρείο του Περάματος θα ξεκινήσουν οι Γιατροί του Κόσμου με την 
+υποστήριξη μεγάλου ιατρικού ιδιωτικού ομίλου, με αφορμή την Παγκόσμια 
+Ημέρα Παιδιού (11 Δεκεμβρίου).
+Η ειδική τελετή παράδοσης των εμβολίων, παρουσία εκπροσώπων των Γιατρών 
+του Κόσμου, του ιατρικού ομίλου, αλλά και συνεργαζόμενων με την οργάνωση
+ παιδιάτρων της ευρύτερης περιοχής θα γίνει την ερχόμενη Δευτέρα στις 
+11:00 το πρωί στο πολυϊατρείο των Γιατρών του Κόσμου στο Πέραμα 
+(Αριστείδου 5 και Ξενοφώντος, τηλ: 2104414718)
+Στόχος της νέας αυτής συνεργασίας είναι η στήριξη παιδιών από 
+οικογένειες που λόγω της οικονομικής κρίσης έχουν χάσει το βασικότερο 
+δικαίωμά τους, της πρόσβασης στην υγεία.
+</TD></TR></TBODY></TABLE></DIV></DIV></BODY></HTML>

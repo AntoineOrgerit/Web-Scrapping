@@ -1,0 +1,287 @@
+<p> Rak chorobą zawodową latynoskich prezydentów?         | rp.pl </p>
+<p> window.___gcfg = {         lang: 'pl'     }; 		     (function(){         var po = document.createElement('script');         po.type = 'text/javascript';         po.async = true;         po.src = 'https://apis.google.com/js/plusone.js';         var s = document.getElementsByTagName('script')[0];         s.parentNode.insertBefore(po, s);     })(); </p>
+<p> <!--//--><![CDATA[//><!-- var gemius_identifier = new String('d7A6D49hC2W83LlGCHpCeXXW.oi1rcbPWaofnF1TRoL.m7'); //--><!]]> </p>
+<p> Szkolenia i konferencje </p>
+<p> Poznaj nasze produkty </p>
+<p> e-sklep </p>
+<p> Komunikaty </p>
+<p> Newsletter </p>
+<p> Zaloguj </p>
+<p> Załóż konto </p>
+<p> Kod SMS </p>
+<p> Pliki cookies </p>
+<p> Czym są pliki cookies </p>
+<p> Używamy plików cookies, by ułatwić korzystanie z naszych serwisów. </p>
+<p> Jeśli nie chcesz, by pliki cookies były zapisywane na Twoim dysku                 zmień ustawienia swojej przeglądarki. </p>
+<p> OK </p>
+<p> REKLAMA </p>
+<p> + </p>
+<p> zaawansowane </p>
+<p> + </p>
+<p> pomoc </p>
+<p> Szukaj w dziale Ekonomia </p>
+<p> Szukaj w dziale Kraj </p>
+<p> Szukaj w dziale Prawo </p>
+<p> Szukaj w dziale Świat </p>
+<p> Kraj </p>
+<p> Świat </p>
+<p> Ekonomia24 </p>
+<p> Prawo </p>
+<p> Nieruchomości </p>
+<p> Praca </p>
+<p> Foto </p>
+<p> Opinie </p>
+<p> Kultura </p>
+<p> Nauka </p>
+<p> Sport </p>
+<p> Styl </p>
+<p> Warszawa </p>
+<p> Historia </p>
+<p> Weekend </p>
+<p> tv.rp.pl </p>
+<p> Najnowsze wiadomości </p>
+<p> Europa </p>
+<p> Rosja </p>
+<p> Wielka Brytania </p>
+<p> Niemcy </p>
+<p> Francja </p>
+<p> Włochy </p>
+<p> Czechy </p>
+<p> Słowacja </p>
+<p> Litwa </p>
+<p> Białoruś </p>
+<p> Ukraina </p>
+<p> Hiszpania </p>
+<p> Portugalia </p>
+<p> Skandynawia </p>
+<p> Irlandia </p>
+<p> Węgry </p>
+<p> Turcja </p>
+<p> Bałkany </p>
+<p> Kaukaz </p>
+<p> Gruzja </p>
+<p> Watykan </p>
+<p> Azja </p>
+<p> Bliski Wschód </p>
+<p> Półwysep Arabski </p>
+<p> Irak </p>
+<p> Iran </p>
+<p> Chiny </p>
+<p> Indie </p>
+<p> Półwysep Koreański </p>
+<p> Afganistan </p>
+<p> Japonia </p>
+<p> Tybet </p>
+<p> Birma </p>
+<p> Pakistan </p>
+<p> Ameryka Płn. </p>
+<p> USA </p>
+<p> Ameryka Płd. </p>
+<p> Ameryka Środ. </p>
+<p> Afryka </p>
+<p> Australia i Oceania </p>
+<p> Tematy </p>
+<p> Polityka </p>
+<p> Obyczaje </p>
+<p> Społeczeństwo </p>
+<p> Dyplomacja </p>
+<p> Przestępczość </p>
+<p> Kościoły i religie </p>
+<p> Raporty </p>
+<p> Zamachy w Norwegii </p>
+<p> Arabskie rewolucje </p>
+<p> Operacja w Afganistanie </p>
+<p> Wybory prezydenckie w USA </p>
+<p> Tymoszenko w więzieniu </p>
+<p> Pussy Riot </p>
+<p> Tutaj jesteś: </p>
+<p> rp.pl </p>
+<p> » </p>
+<p> Wiadomości </p>
+<p> » </p>
+<p> Świat </p>
+<p> » </p>
+<p> Ameryka Południowa </p>
+<p> function showModalBox() {  	jQuery('#dialogBox').empty();  	jQuery('#glassBox').fadeTo(400, 0.2); 	jQuery('#notLoggedInBox').clone().appendTo('#dialogBox'); 	jQuery('#dialogBox').find('.noAccessLoginBox').attr('id', 			'notLoggedInBoxModal').find('.noAccessLoginBox_closeIcon').show(); 	jQuery('#dialogBox').find('.closeBoxString').show(); 	jQuery('#dialogBox').show().addClass('noAccessLoginBoxDialog') 			.css( 					'left', 					(document.body.clientWidth - jQuery('#dialogBox') 							.outerWidth()) / 2);  	jQuery('.noAccessLoginBox_closeIcon').bind('click', function(event) { 		jQuery('#dialogBox').hide().empty(); 		jQuery('#glassBox').fadeOut(400); 		jQuery(".storyContent").find('p').show(); 		jQuery('#dialogBox').removeClass('noAccessLoginBoxDialog'); 		setCookie('closeId', '782683_1196507'); 		location.href = 'http://www.rp.pl/artykul/69991,782683-Rak-choroba-zawodowa-latynoskich-prezydentow-.html'; 	}); 	jQuery('.closeBoxString').bind('click', function(event) { 		jQuery('#dialogBox').hide().empty(); 		jQuery('#glassBox').fadeOut(400); 		jQuery(".storyContent").find('p').show(); 		jQuery('#dialogBox').removeClass('noAccessLoginBoxDialog'); 		setCookie('closeId', '782683_1196507'); 		location.href = 'http://www.rp.pl/artykul/69991,782683-Rak-choroba-zawodowa-latynoskich-prezydentow-.html'; 	}); }  function hideAndShow() { 	jQuery("#story").find('p').hide(); 	jQuery("#story").find('p.lead').show(); 	jQuery("#story").find('p:eq(1)').show();  }  jQuery(document).ready( 	function() { 	jQuery('.articleLoginInput').live('focus', function(event) { 		if(jQuery(this).val() == jQuery(this).attr("data-default")){ 			jQuery(this).val(""); 		} 	}).live('blur', function(event) { 		if(jQuery.trim(jQuery(this).val()) == ""){ 			jQuery(this).val(jQuery(this).attr("data-default")); 		} 	});  	jQuery('.articleLoginInputPass').live( 			'focus', 			function() { 				if (jQuery(this).attr('type') == 'text') { 					this.type = "password"; 				} 				if(jQuery(this).val() == jQuery(this).attr("data-default")){ 					jQuery(this).val(""); 				} 			}).live('blur', function(){ 				if(jQuery.trim(jQuery(this).val()) == "" || jQuery.trim(jQuery(this).val()) == jQuery(this).attr("data-default")){ 					this.type = "text"; 					this.value = jQuery(this).attr("data-default"); 				} 			}); 			 	jQuery('.noAccessLoginBox_smsInput').bind('focus', function(event) { 		if(jQuery(this).val() == jQuery(this).attr("data-default")){ 			jQuery(this).val(""); 		} 	}); }); </p>
+<p> Ameryka Południowa </p>
+<p> Rak, choroba zawodowa latynoskich prezydentów </p>
+<p> mt-o </p>
+<p> 28-12-2011, ostatnia aktualizacja 28-12-2011 20:19 </p>
+<p> Komentuj </p>
+<p> var addthis_config = { 		                services_exclude: 'print, email', 		                ui_language: "pl" 		            } </p>
+<p> A </p>
+<p> A </p>
+<p> A </p>
+<p> Cristina Kirchner </p>
+<p> źródło: AFP </p>
+<p> + Zobacz więcej zdjęć </p>
+<p> Redakcja poleca: </p>
+<p> Chory  na raka przez USA? </p>
+<p> 58-letnia prezydent Argentyny Cristina Kirchner, u której podczas rutynowego badania zdiagnozowano raka tarczycy, dołączyła do listy latynoskich przywódców dotkniętych chorobą nowotworową. </p>
+<p> Nie  musi jednak drżeć o urząd. W Ameryce Łacińskiej chory lider budzi  raczej sympatię i zyskuje na popularności. Rywale nie śmią go atakować,  bo zostałoby to źle odebrane przez wyborców. </p>
+<p> Przed  wyborami w Brazylii w 2010 r. zdiagnozowano raka układu limfatycznego u  faworytki w wyścigu prezydenckim Dilmy Rousseff. Nie stało się to  jednak tematem kampanii wyborczej, a rekonwalescencja nie przeszkodziła jej w spektakularnym zwycięstwie. Wkrótce miało się  zresztą okazać, że na raka krtani cierpi jej poprzednik i promotor,  charyzmatyczny Luiz Inácio Lula da Silva. </p>
+<p> Prezydentowi  Paragwaju Fernando Lugo nowotwór też przysporzył przyjaciół.  Wiceprezydent Federico Franco, który nie krył, że chce zastąpić lidera,  obiecał go lojalnie wspierać do końca kadencji. </p>
+<p> Empatia  zadziałała też w przypadku znienawidzonego przez opozycję przywódcy  Wenezueli Hugo Chaveza, któremu w czerwcu usunięto nowotwór w Hawanie.  Po czterech chemiach ogłosił, że jest zdrów jak ryba i wystartuje w przyszłorocznych wyborach. Znany z chorobliwej  awersji do USA Chavez sugeruje, że zachorowania latynoskich prezydentów  mają związek ze „zbrodniczą polityką imperium". </p>
+<p> Przeczytaj więcej o: </p>
+<p> Argentyna </p>
+<p> , </p>
+<p> brazylia </p>
+<p> , </p>
+<p> Cristina Kirchner </p>
+<p> , </p>
+<p> Dilma Rousseff </p>
+<p> , </p>
+<p> Fernando Lugo </p>
+<p> , </p>
+<p> Hugo Chavez </p>
+<p> , </p>
+<p> Luiz Inácio Lula da Silva </p>
+<p> , </p>
+<p> paragwaj </p>
+<p> , </p>
+<p> Przywódcy Ameryki Łacińskiej </p>
+<p> , </p>
+<p> wenezuela </p>
+<p> Rzeczpospolita </p>
+<p> © </p>
+<p> Wszystkie prawa zastrzeżone </p>
+<p> Żadna część jak i całość utworów zawartych w dzienniku nie może być powielana i rozpowszechniana  					lub dalej rozpowszechniana w jakiejkolwiek formie i w jakikolwiek sposób (w tym także elektroniczny  					lub mechaniczny lub inny albo na wszelkich polach eksploatacji) włącznie z kopiowaniem, szeroko pojętą digitalizacją,  					fotokopiowaniem lub kopiowaniem, w tym także zamieszczaniem w Internecie - bez pisemnej zgody GREMI MEDIA Sp. z o.o.  					Jakiekolwiek użycie lub wykorzystanie utworów w całości lub w części bez zgody GREMI MEDIA Sp. z o.o.  					lub autorów z naruszeniem prawa jest zabronione pod groźbą kary i może być ścigane prawnie. </p>
+<p> Rekomenduj artykuł, </p>
+<p> oddano głosów: </p>
+<p> Wydrukuj z Kyocerą </p>
+<p> © Licencja na publikację </p>
+<p> Napisz do redakcji </p>
+<p> var __nc_widgets = __nc_widgets || []; 							  var __nc_j = __nc_j || null; 							  var nextClickWebsite = nextClickWebsite || '';  							 							  if(nextClickWebsite == 'rpkom.pl'){ 								  __nc_widgets.push(['8861-84D6-6F8D-8A64-1Swvux', 'rp.pl', 'recommendation', 1, 1]); 								//if(typeof(console) != 'undefined'){ 								//	  console.log('rpkom'); 								//} 							  } 							  else{ 								  __nc_widgets.push(['F684-4840-0639-F15D-1Sqh7T', 'rp.pl', 'recommendation', 1, 1]); 							  } 							 							  (function() { 							    var __nc = document.createElement('script'); __nc.type = 'text/javascript'; __nc.async = true; __nc.id = 'Nextclick_Manager'; 							    __nc.src = 'http://nextclick.pl/widget/widget.recommendation.1.js'; 							    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(__nc, s); 							  })(); </p>
+<p> Sonda: Rocznica katastrofy smoleńskiej </p>
+<p> Premiera Tuska nie będzie w Smoleńsku. Będzie w Nigerii. Jak to oceniasz? </p>
+<p> To wymówka, by uniknąć trudnej sytuacji </p>
+<p> To oznaka lekceważenia rocznicy katastrofy </p>
+<p> Na Smoleńsku świat się nie kończy, premier ma inne zobowiązania dyplomatyczne </p>
+<p> Obecność premiera w Smoleńsku tylko spotęgowałaby konflikty </p>
+<p> Trudno powiedzieć </p>
+<p> Nie obchodzi mnie to </p>
+<p> Nie wiem, o co chodzi </p>
+<p> Głosuj! </p>
+<p> Newsletter "Rzeczpospolitej" </p>
+<p> Zobacz przykładowy newsletter </p>
+<p> Polecamy </p>
+<p> POLSKA INNOWACYJNA </p>
+<p> Wygraj z "Rz" szkolenia w Krzemowej Dolinie </p>
+<p> MARKI POLSKIE 2012 </p>
+<p> Ranking najcenniejszych polskich marek </p>
+<p> LISTA 2000 </p>
+<p> Największe polskie przedsiębiorstwa - Edycja 2012 </p>
+<p> Prawo budowlane </p>
+<p> Jak uniknąć pułapek, realizując inwestycję budowlaną </p>
+<p> PIT za 2012 rok </p>
+<p> PIT 2012: 50 problemów – 50 odpowiedzi </p>
+<p> Wspólnoty mieszkaniowe </p>
+<p> Jakie prawa ma członek wspólnoty mieszkaniowej </p>
+<p> MOJE PIENIĄDZE </p>
+<p> Grube miliony za Picassa </p>
+<p> NIERUCHOMOŚCI </p>
+<p> Firmy dalej tną koszty najmu </p>
+<p> SPORT </p>
+<p> Bogaci i desperaci </p>
+<p> STYL ŻYCIA </p>
+<p> Chorzy na RZS mogą się zgłosić na międzynarodowe badania </p>
+<p> NAUKA </p>
+<p> Nowy łowca planet NASA </p>
+<p> KULTURA </p>
+<p> Miłość po karierze </p>
+<p> ŻYCIE WARSZAWY </p>
+<p> Kupią nowy fotoradar </p>
+<p> PLUS MINUS </p>
+<p> Smoleński węzeł </p>
+<p> E-booki "Rzeczpospolitej" </p>
+<p> Co się od 2013 roku zmieni w przepisach emerytalnych </p>
+<p> Poradnik prawny dla przyszłych emerytów </p>
+<p> Rozwody, separacje, alimenty </p>
+<p> Rozwód czy separacja to zawsze porażka, często finansowa. Z reguły jednak okazuje się mniejszym złem, niż formalne pozostawanie w związku, którego nie da się utrzymać </p>
+<p> Testamenty, spadki, darowizny </p>
+<p> Poradnik o regułach dziedziczenia oraz praktyczne wskazówki dotyczące sporządzania testamentu </p>
+<p> empik.rp.pl poleca </p>
+<p> Brak kategorii do wyświetlenia. </p>
+<p> jQuery(document).ready(function() { 			empikBox_76904_tabsInit();		 		});  		function getAjaxProductParams(componentId, categoryId) 		{ 			try 			{ 				var url = '/ComponentAjax?componentId='+componentId+'&categoryId='+categoryId; 				jQuery.ajax({ 					type: "GET", 					url: url, 					success: function(data) { 						jQuery('#empikBox_'+componentId+'_productsBox').html(data); 					} 				}); 			} 			catch(err) 			{ 			} 		} 		 		function empikBox_76904_tabsInit() { 				var sComponentId = jQuery('#empikBox_76904').attr('id').replace('empikBox_', ''); 				try 				{ 					getAjaxProductParams(sComponentId, jQuery('#empikBox_76904').find('.empikBox_tabs').children('li:nth-child(1)').attr('id').replace('empikBox_76904_tab_','')); 					jQuery('#empikBox_76904').find('.empikBox_tabs').children('li:nth-child(1)').children('span').addClass('empikBox_tabActive'); 					empikBox_76904_fakePics(); 				} 				catch(err) 				{ 				} 			 			jQuery('#empikBox_76904').find('.empikBox_tabs').children('li').bind('click', function(){ 				var sComponentId = jQuery('#empikBox_76904').attr('id').replace('empikBox_', ''); 				try 				{ 					getAjaxProductParams(sComponentId, jQuery(this).attr('id').replace('empikBox_76904_tab_','')); 					empikBox_tabsEngine(jQuery(this)); 					empikBox_76904_fakePics(); 				} 				catch(err) 				{ 				}				 			}); 		} 	 		function empikBox_tabsEngine(oActiveElement) { 			oActiveElement.parent('.empikBox_tabs').find('span').removeClass('empikBox_tabActive'); 			oActiveElement.find('span').addClass('empikBox_tabActive'); 		} 		 		function empikBox_76904_fakePics() { 			jQuery('#empikBox_76904_productsBox').find('.empikBox_productImg').find('img').bind('error', function(){ 				jQuery(this).attr('src', 'http://www.rp.pl/static/img/empikbox_img.jpg'); 			}); 		} </p>
+<p> Kraj </p>
+<p> Kluby "Gazety Polskiej" demonstrowały przed ambasadą Rosji. "To był zamach" </p>
+<p> Stolica chce prywatyzować wodociągi? Bój radnego z ratuszem o jawność </p>
+<p> Śmiertelnie pobili żołnierza? Staną przed sądem </p>
+<p> Świat </p>
+<p> Lider partii Sinn Fein apeluje, żeby nie świętować śmierci Margaret Thacher </p>
+<p> Włoscy parlamentarzyści nie mogą korzystać z Facebooka i Twittera </p>
+<p> Sarkozy znów będzie się starał o prezydenturę Francji? </p>
+<p> Ekonomia </p>
+<p> Firmy i osoby prywatne niechętnie się zadłużają </p>
+<p> Gdzie taniej kupisz niż wynajmiesz </p>
+<p> Dowgielewicz wicegubernatorem Banku Rozwoju Rady Europy </p>
+<p> PRAWO </p>
+<p> Harcerze chcą subwencji na swoją działalność </p>
+<p> Jak nie utopić 1 proc. swojego podatku </p>
+<p> Rodzice nie zapłacą mniej za przedszkole </p>
+<p> Sport </p>
+<p> Jastrzębski Węgiel z zaliczką </p>
+<p> Legia bez goli </p>
+<p> Messi może zagrać z PSG </p>
+<p> Kultura </p>
+<p> Japońskie sny tajemniczej damy </p>
+<p> Rozdajemy bilety na filmy AfryKamery </p>
+<p> "Solidarni z Białorusią" zagrają kolejny koncert </p>
+<p> Opinie </p>
+<p> Komentarz rysunkowy. Jak długo macie zamiar pamiętać o Smoleńsku? </p>
+<p> Majewski: Przybywa pytań o Smoleńsk </p>
+<p> Marczuk: Arogancja władzy ćwiczona na emerytach </p>
+<p> Styl Życia </p>
+<p> Fretki na psich papierach </p>
+<p> Polacy wolą biegać, niż jeździć na rowerze </p>
+<p> Karolina lansuje La Palmę (wideo) </p>
+<p> Nieruchomości </p>
+<p> Rodzina królewska zgadza się na kontrolę finansów </p>
+<p> Karzaj porozmawia z talibami? </p>
+<p> Świętowanie znakomitych pomyłek </p>
+<p> Tu nas znajdziesz: </p>
+<p> DO GÓRY </p>
+<p> Przeczytaj też: </p>
+<p> La Plata i Buenos Aires pod wodą </p>
+<p> Co najmniej 52 osoby zginęły w ciągu ostatnich 48 godzin w wyniku powodzi w Buenos Aires i w La Plata, 60 km na południe od stolicy Argentyny. Ewakuowano ponad 2 tys. osób </p>
+<p> <!--  google_ad_client = "ca-pub-6667207745023366";  /* 234x60, utworzono 10-08-24 */  google_ad_slot = "4719381694";  google_ad_width = 234;  google_ad_height = 60;  //--> </p>
+<p> <!--  google_ad_client = "ca-pub-6667207745023366";  /* 234x60, utworzono 10-08-24 */  google_ad_slot = "4719381694";  google_ad_width = 234;  google_ad_height = 60;  //--> </p>
+<p> <!--  google_ad_client = "ca-pub-6667207745023366";  /* 234x60, utworzono 10-08-24 */  google_ad_slot = "4719381694";  google_ad_width = 234;  google_ad_height = 60;  //--> </p>
+<p> NASZE PRODUKTY </p>
+<p> NASZE SERWISY </p>
+<p> Gremi Media: </p>
+<p> O nas </p>
+<p> | </p>
+<p> Regulamin </p>
+<p> | </p>
+<p> Reklama </p>
+<p> | </p>
+<p> Napisz do nas </p>
+<p> | </p>
+<p> Kontakt </p>
+<p> | </p>
+<p> Pliki cookies </p>
+<p> © Copyright by GREMI MEDIA Sp. z o.o. </p>
+<p> document.write(unescape('%3Csc'+'rip'+'t type="text/javascript" id="cafenews.pl#adaaaf77e75e8e12eb5449a808eaeac4"%3E%3C/s'+'cri'+'pt%3E%3Cdiv id="cafenews.pl#cvb64mnc8vg4jd8gksd653jkadg7j6"%3E%3C/div%3E'));setTimeout('var d=new Date();document.getElementById("cafenews.pl#adaaaf77e75e8e12eb5449a808eaeac4").src="http://webservices.cafenews.pl/mpl/Static/Static.js?id=cafenews.pl#cvb64mnc8vg4jd8gksd653jkadg7j6&d="+d.getFullYear()+d.getMonth()+d.getDate();',250); </p>
+<p> var _smid = "8bo7ex8u23mg66xi";             (function() {                 var sm = document.createElement('script'); sm.type = 'text/javascript'; sm.async = true;                 sm.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'www.salesmanago.pl/static/sm.js';                 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sm, s);             })(); </p>
+<p> <!--//--><![CDATA[//><!-- var pp_gemius_identifier ='ncowrbNaLwu61utAcmyC7_Tk7HlpGjfP9BXUQ.DbNlj.v7'; //--><!]]> </p>
+<p> /* <![CDATA[ */  var bbkeywords=''; //fill in: 'key1;key2;..' bmone2n.addPosition('901.3.1.1',''); bmone2n.addPosition('901.3.1.2',''); bmone2n.addPosition('901.3.1.3',''); bmone2n.addPosition('901.3.1.4',''); bmone2n.addPosition('901.3.1.7',''); bmone2n.addPosition('901.3.2.2',''); bmone2n.addPosition('901.3.2.7',''); bmone2n.addPosition('901.3.3.7',''); bmone2n.addPosition('901.3.4.7',''); bmone2n.addPosition('901.3.5.7',''); bmone2n.addPosition('901.3.6.7',''); bmone2n.addPosition('901.3.7.7',''); bmone2n.addPosition('901.3.8.7',''); bmone2n.addPosition('901.3.9.7',''); bmone2n.getAd('go.idmnet.bbelements.com',bbkeywords,''+(typeof(bburlparam)=='string'?'&'+bburlparam:''),'iso-8859-2');/* ]]> */ </p>
+<p> /* <![CDATA[ */ bmone2n.makeAd('901.3.1.1'); /* ]]> */ </p>
+<p> /* <![CDATA[ */ bmone2n.makeAd('901.3.1.2'); /* ]]> */ </p>
+<p> /* <![CDATA[ */ bmone2n.makeAd('901.3.1.3'); /* ]]> */ </p>
+<p> /* <![CDATA[ */ bmone2n.makeAd('901.3.1.4'); /* ]]> */ </p>
+<p> /* <![CDATA[ */ bmone2n.makeAd('901.3.1.7'); /* ]]> */ </p>
+<p> /* <![CDATA[ */ bmone2n.makeAd('901.3.2.2'); /* ]]> */ </p>
+<p> /* <![CDATA[ */ bmone2n.makeAd('901.3.2.7'); /* ]]> */ </p>
+<p> /* <![CDATA[ */ bmone2n.makeAd('901.3.3.7'); /* ]]> */ </p>
+<p> /* <![CDATA[ */ bmone2n.makeAd('901.3.4.7'); /* ]]> */ </p>
+<p> /* <![CDATA[ */ bmone2n.makeAd('901.3.5.7'); /* ]]> */ </p>
+<p> /* <![CDATA[ */ bmone2n.makeAd('901.3.6.7'); /* ]]> */ </p>
+<p> /* <![CDATA[ */ bmone2n.makeAd('901.3.7.7'); /* ]]> */ </p>
+<p> /* <![CDATA[ */ bmone2n.makeAd('901.3.8.7'); /* ]]> */ </p>
+<p> /* <![CDATA[ */ bmone2n.makeAd('901.3.9.7'); /* ]]> */ </p>
+<p> /* <![CDATA[ */ bmone2n.moveAd(); /* ]]> */ </p>
+<p> common </p>
+<p> var ghmxy_align = 'center'; 		var ghmxy_type = 'absolute'; 		var ghmxy_identifier = new String("dvZKuMdp8_sHBqa8kksWWLQZP_0KwHr0WZGaM4jH_rL.L7"); </p>
+<p> window.fbAsyncInit = function() { 		FB.init({appId: '103391779803385', status: true, cookie: true, xfbml: true, oauth: true}); 	 	 		jQuery('#fbbox').html('<a href="https://graph.facebook.com/oauth/authorize?client_id=103391779803385&display=page&scope=email&zalogujFB=zaloguj&redirect_uri=http://www.rp.pl/artykul/782683.html"><img src="http://static.presspublica.pl/web/rp/img/layout/fb_icons/polacz_z_fb.png" /></a>');  		jQuery('#fbbox2').html('<a href="https://graph.facebook.com/oauth/authorize?client_id=103391779803385&display=page&scope=email&zalogujFB=zaloguj&redirect_uri=http://www.rp.pl/artykul/782683.html"><img src="http://static.presspublica.pl/web/rp/img/layout/fb_icons/polacz_z_fb.png" /></a>');  	 	};   (function() {    var e = document.createElement('script');    e.type = 'text/javascript';    e.src = document.location.protocol +      '//connect.facebook.net/pl_PL/all.js';    e.async = true;    document.getElementById('fb-root').appendChild(e);  }()); </p>
+<p> zamknij </p>

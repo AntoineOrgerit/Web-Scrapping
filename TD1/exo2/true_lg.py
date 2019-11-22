@@ -6,7 +6,7 @@ from utils.extractor import extract
 def jt_truelg_treatement(input_file, output_file, file_name):
     if input_file.read() != " ":
         input_file.seek(0)
-        languages = json.load(open("../../../resources/doc_lg.json"))
+        languages = json.load(open("../../resources/doc_lg.json"))
         
         language = languages[os.path.basename(file_name)]
         if language not in justext.get_stoplists():
@@ -21,7 +21,7 @@ def jt_truelg_treatement(input_file, output_file, file_name):
 
 
 def main():
-    extract("../../../resources/JT/", "../../../resources/JT_trueLg/", jt_truelg_treatement)
+    extract("../../resources/JT/", "../../resources/JT_trueLg/", jt_truelg_treatement)
 
 if __name__ == '__main__':
     main()

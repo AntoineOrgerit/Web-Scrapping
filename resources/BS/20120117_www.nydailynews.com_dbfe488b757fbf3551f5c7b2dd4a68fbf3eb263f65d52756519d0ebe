@@ -1,0 +1,294 @@
+<p> $44 million bill from Bronx-Lebanon Hospital - NY Daily News </p>
+<p> //  jQuery.noConflict();                                 jQuery(document).ready(function() {                                 setSearchType("site");                                  //jQuery("img[src$=png], #search_area").pngFix();                                 });                                 // contentType: nydn.StandardArticle                                 // currentLayout: nydn.HomePageLayout </p>
+<p> var _vrq = _vrq || [];    _vrq.push(['id', 5]);    _vrq.push(['automate', true]);    _vrq.push(['track', function(){}]);    (function(d, a){      var s = d.createElement(a),      x = d.getElementsByTagName(a)[0];      s.async = true;      s.src = 'http://a.visualrevenue.com/vrs.js';      x.parentNode.insertBefore(s, x);    })(document, 'script'); </p>
+<p> // CURRENT_LAYOUT  nydn.HomePageLayout // CURRENT_CONTENT_TYPE nydn.StandardArticle // modelType - nydn.InitYahooAdsElement //<![CDATA[ <!-- yld_mgr = {}; yld_mgr.slots = {}; yld_mgr.container_type="js"; yld_mgr.request_type="ac"; yld_mgr.pub_id="21058125506"; yld_mgr.site_name="NYDN"; yld_mgr.clk_dest="_blank"; yld_mgr.content_topic_id_list=["20430501"]; yld_mgr.site_section_name_list=["Article"]; yld_mgr.content_type_list=["fn_news"]; yld_mgr.cstm_content_cat_list=[null];  yld_mgr.slots.x46 = {}; yld_mgr.slots.x46.ad_delivery_mode='ipatf'; yld_mgr.slots.x46.ad_size_list=['728x90']; if(typeof yld_mgr.content_type_list != 'undefined') { yld_mgr.slots.x46.content_type_list = yld_mgr.content_type_list; } if(typeof yld_mgr.cstm_content_cat_list != 'undefined') { yld_mgr.slots.x46.cstm_content_cat_list=yld_mgr.cstm_content_cat_list;} yld_mgr.slots.x42 = {}; yld_mgr.slots.x42.ad_delivery_mode='ipbtf'; yld_mgr.slots.x42.ad_size_list=['190x90']; if(typeof yld_mgr.content_type_list != 'undefined') { yld_mgr.slots.x42.content_type_list = yld_mgr.content_type_list; } if(typeof yld_mgr.cstm_content_cat_list != 'undefined') { yld_mgr.slots.x42.cstm_content_cat_list=yld_mgr.cstm_content_cat_list;}  yld_mgr.slots.x47 = {}; yld_mgr.slots.x47.ad_delivery_mode='ipbtf'; yld_mgr.slots.x47.ad_size_list=['728x90']; if(typeof yld_mgr.content_type_list != 'undefined') { yld_mgr.slots.x47.content_type_list = yld_mgr.content_type_list; } if(typeof yld_mgr.cstm_content_cat_list != 'undefined') { yld_mgr.slots.x47.cstm_content_cat_list=yld_mgr.cstm_content_cat_list;}   yld_mgr.slots.x55 = {}; yld_mgr.slots.x55.ad_delivery_mode='ipbtf'; yld_mgr.slots.x55.ad_size_list=['300x250']; if(typeof yld_mgr.content_type_list != 'undefined') { yld_mgr.slots.x55.content_type_list = yld_mgr.content_type_list; } if(typeof yld_mgr.cstm_content_cat_list != 'undefined') { yld_mgr.slots.x55.cstm_content_cat_list=yld_mgr.cstm_content_cat_list;}  yld_mgr.slots.x44 = {}; yld_mgr.slots.x44.ad_delivery_mode='ipatf'; yld_mgr.slots.x44.ad_size_list=['950x35']; if(typeof yld_mgr.content_type_list != 'undefined') { yld_mgr.slots.x44.content_type_list = yld_mgr.content_type_list; } if(typeof yld_mgr.cstm_content_cat_list != 'undefined') { yld_mgr.slots.x44.cstm_content_cat_list=yld_mgr.cstm_content_cat_list;}   yld_mgr.slots.x50 = {}; yld_mgr.slots.x50.ad_delivery_mode='ipatf'; yld_mgr.slots.x50.ad_size_list=['300x250']; if(typeof yld_mgr.content_type_list != 'undefined') { yld_mgr.slots.x50.content_type_list = yld_mgr.content_type_list; } if(typeof yld_mgr.cstm_content_cat_list != 'undefined') { yld_mgr.slots.x50.cstm_content_cat_list=yld_mgr.cstm_content_cat_list;}  yld_mgr.slots.x42 = {}; yld_mgr.slots.x42.ad_delivery_mode='ipbtf'; yld_mgr.slots.x42.ad_size_list=['190x90']; if(typeof yld_mgr.content_type_list != 'undefined') { yld_mgr.slots.x42.content_type_list = yld_mgr.content_type_list; } if(typeof yld_mgr.cstm_content_cat_list != 'undefined') { yld_mgr.slots.x42.cstm_content_cat_list=yld_mgr.cstm_content_cat_list;}  yld_mgr.slots.x47 = {}; yld_mgr.slots.x47.ad_delivery_mode='ipbtf'; yld_mgr.slots.x47.ad_size_list=['728x90']; if(typeof yld_mgr.content_type_list != 'undefined') { yld_mgr.slots.x47.content_type_list = yld_mgr.content_type_list; } if(typeof yld_mgr.cstm_content_cat_list != 'undefined') { yld_mgr.slots.x47.cstm_content_cat_list=yld_mgr.cstm_content_cat_list;}    yld_mgr.slots.x86 = {}; yld_mgr.slots.x86.ad_delivery_mode='ipbtf'; yld_mgr.slots.x86.ad_size_list=['300x250']; if(typeof yld_mgr.content_type_list != 'undefined') { yld_mgr.slots.x86.content_type_list = yld_mgr.content_type_list; } if(typeof yld_mgr.cstm_content_cat_list != 'undefined') { yld_mgr.slots.x86.cstm_content_cat_list=yld_mgr.cstm_content_cat_list;}  //--> //]]> </p>
+<p> var _gaq = _gaq || [];     _gaq.push(['_setAccount', 'UA-20856122-1']);     _gaq.push(['_setDomainName', '.nydailynews.com']);     _gaq.push(['_trackPageview']);     (function() {     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);     })(); </p>
+<p> <!--     var YWATracker = YWA.getTracker("1000563892833");     var nydn_dgrp = jQuery.trim(jQuery("#area_title").text());   if(nydn_dgrp != "") { YWATracker.setDocumentGroup(nydn_dgrp);  } else {     YWATracker.setDocumentGroup("Homepage") ; }     YWATracker.submit();     function dcsMultiTrack() {}     //--> </p>
+<p> (function(d, s, id) {   var js, fjs = d.getElementsByTagName(s)[0];   if (d.getElementById(id)) return;   js = d.createElement(s); js.id = id;   js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=366487756153";   fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk')); </p>
+<p> document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E")); </p>
+<p> COMSCORE.beacon({     c1:2,     c2:7190388,     c3:"",     c4:"",     c5:"",     c6:"",     c15:""     }); </p>
+<p> //<![CDATA[                         <!--                         if(typeof yld_mgr != 'undefined') {                         yld_mgr.place_ad_here('x46');                         }                         //-->                         //]]> </p>
+<p> //<![CDATA[                         <!--                         if(typeof yld_mgr != 'undefined') {                         yld_mgr.place_ad_here('x42');                         }                         //-->                         //]]> </p>
+<p> Home </p>
+<p> Autos </p>
+<p> Real Estate </p>
+<p> Jobs </p>
+<p> Classifieds </p>
+<p> Apps </p>
+<p> Place an Ad </p>
+<p> Buy Pictures </p>
+<p> Contests </p>
+<p> Reader Offers </p>
+<p> nydn_userDetails(); </p>
+<p> Health </p>
+<p> SITE </p>
+<p> BLOGS </p>
+<p> WEB </p>
+<p> Search powered by </p>
+<p> Search Field </p>
+<p> <!--  function search_action(){         var url = document.getElementById("selecturl").value;          if(url == "blogs"){             document.searchForm.action = "http://www.nydailynews.com/blogs/nydn";             document.searchForm.q.name = "search";             document.searchForm.submit();         }         else {             document.searchForm.action ="/search-results/search-results-7.113";             document.searchForm.submit();         }  } //--> </p>
+<p> jQuery(document).ready(function(){          jQuery('ul.sf-menu').superfish({          pathClass:  'current',         pathLevels: 2,         speed: 'fast',         autoArrows:  false,         dropShadows: false         });          }); </p>
+<p> News </p>
+<p> National </p>
+<p> World </p>
+<p> Politics </p>
+<p> Crime </p>
+<p> Money </p>
+<p> CES </p>
+<p> The Week </p>
+<p> Photos </p>
+<p> Columnists </p>
+<p> News Blogs </p>
+<p> Sports </p>
+<p> Baseball </p>
+<p> Yankees </p>
+<p> Mets </p>
+<p> Scoreboard </p>
+<p> Leaders </p>
+<p> Standings </p>
+<p> Teams </p>
+<p> Players </p>
+<p> Player News </p>
+<p> Transactions </p>
+<p> Odds </p>
+<p> Football </p>
+<p> Giants </p>
+<p> Jets </p>
+<p> Pick'Em </p>
+<p> Scoreboard </p>
+<p> Leaders </p>
+<p> Standings </p>
+<p> Teams </p>
+<p> Players </p>
+<p> Player News </p>
+<p> Transactions </p>
+<p> Odds </p>
+<p> Basketball </p>
+<p> Knicks </p>
+<p> Scoreboard </p>
+<p> Leaders </p>
+<p> Standings </p>
+<p> Teams </p>
+<p> Players </p>
+<p> Player News </p>
+<p> Transactions </p>
+<p> Odds </p>
+<p> Hockey </p>
+<p> Rangers </p>
+<p> Scoreboard </p>
+<p> Leaders </p>
+<p> Standings </p>
+<p> Teams </p>
+<p> Players </p>
+<p> Player News </p>
+<p> Transactions </p>
+<p> Odds </p>
+<p> College </p>
+<p> I-Team </p>
+<p> High School </p>
+<p> More Sports </p>
+<p> Photos </p>
+<p> Columnists </p>
+<p> Sports Blogs </p>
+<p> Gossip </p>
+<p> Celebrity Photos </p>
+<p> Entertainment </p>
+<p> Movies </p>
+<p> Television </p>
+<p> Music & Arts </p>
+<p> Comics </p>
+<p> Contests </p>
+<p> Horoscopes </p>
+<p> Photos </p>
+<p> WATN Photos </p>
+<p> Columnists </p>
+<p> Entertainment Blogs </p>
+<p> Events </p>
+<p> New York </p>
+<p> Bronx </p>
+<p> Brooklyn </p>
+<p> Queens </p>
+<p> Uptown </p>
+<p> Education </p>
+<p> Weather </p>
+<p> Traffic </p>
+<p> Latino </p>
+<p> Photos </p>
+<p> Columnists </p>
+<p> Opinion </p>
+<p> Life & Style </p>
+<p> Eats </p>
+<p> Fashion </p>
+<p> Health </p>
+<p> Travel </p>
+<p> Horoscopes </p>
+<p> Comics </p>
+<p> Photos </p>
+<p> Photos </p>
+<p> Services </p>
+<p> NIE </p>
+<p> Feeds </p>
+<p> Social Media </p>
+<p> Mobile </p>
+<p> Home Delivery </p>
+<p> Manage Home Delivery </p>
+<p> FAQs </p>
+<p> Sitemap </p>
+<p> Media Kit </p>
+<p> Your Profile </p>
+<p> Death Notices </p>
+<p> //<![CDATA[             <!--             if(typeof yld_mgr != 'undefined' && typeof yld_mgr.slots.x44 != 'undefined') {              yld_mgr.place_ad_here('x44');             }             //-->             //]]> </p>
+<p> Print </p>
+<p> $44 million bill from Bronx-Lebanon Hospital </p>
+<p> 'System error' is blamed </p>
+<p> Comments </p>
+<p> By </p>
+<p> Kerry Wills </p>
+<p> AND </p>
+<p> Tracy Connor </p>
+<p> / NEW YORK DAILY NEWS </p>
+<p> Sunday, January 15 2012, 11:35 PM </p>
+<p> Tweet </p>
+<p> jQuery(document).ready(function(){     detectScroll;     function detectScroll(){         if( ( jQuery(window).scrollTop() > ( jQuery(".story-share").position().top + jQuery(".story-share").height() ) ) && ( jQuery(window).width() > 1230 ) ){             jQuery(".vertical").show();         }else{             jQuery(".vertical").hide();         }     }     jQuery(window).bind('scroll', detectScroll);      jQuery(window).resize(function() {         if((jQuery(window).width() > 1230) && (jQuery(window).scrollTop() > (jQuery(".story-share").position().top + jQuery(".story-share").height()))){             jQuery(".vertical").show();         }else{             jQuery(".vertical").hide();         }     });              jQuery("span.goto-comments").click(function(){          commentTop = jQuery("#story-comments").position().top;         jQuery('html,body').animate({ scrollTop: commentTop }, 500);     });     jQuery("span#post-comment").click(function(){          formTop = jQuery("#comment-form").position().top;         jQuery('html,body').animate({ scrollTop: formTop }, 500);     }); });                                           var act = new gigya.services.socialize.UserAction();                 //act.setUserMessage("This is the user message");                 act.setTitle("Ill! Man receives $44 million hospital bill ");                 act.setLinkBack("http://www.nydailynews.com/life-style/health/44-million-bill-bronx-lebanon-hospital-article-1.1006744");                 act.setDescription("Unemployed doorman Alexis Rodriguez couldn\u2019t believe his eyes when he opened an envelope from Bronx-Lebanon Hospital last week and saw what he appeared to owe.");                 //  act.addActionLink("Watch this movie", "http://vimeo.com/24496773");                 act.addMediaItem({ type: 'image', src: 'http://assets.nydailynews.com/polopoly_fs/1.1006946!/img/httpImage/image.jpg_gen/derivatives/searchthumbnail_75/image.jpg', href: 'http://www.nydailynews.com/life-style/health/44-million-bill-bronx-lebanon-hospital-article-1.1006744' });                 var showShareBarUI_params=                 {                  containerID: 'horizontal',                 shareButtons: 'Google-plusone,Stumbleupon,Tumblr, Reddit, Email',                 showCounts: 'none',                 userAction: act,                 onLoad: onLoadHandler,                 onSendDone: onSendDoneHandler                 }                                  function onLoadHandler(event){                     if(loginId.length > 0){                         jQuery('input[id$="gigya.services.socialize.plugins.share.showShareUI_tbYourEmail"]').val(loginId);                     }                 }                                  // onSendDone event handler.                 function onSendDoneHandler(event){                     if (event.providers == 'email') {                          // add this to email logger                         jQuery('.logger').empty();                         jQuery('.logger').append('<img src="/logger/p.gif?type=EMAILED&d=/2.169/2.1310/2.1314&a=1.1006744"/>');                     }                     else{                         // add this to share logger                         jQuery('.logger').empty();                         jQuery('.logger').append('<img src="/logger/p.gif?type=SOCIALNETWORK&d=/2.169/2.1310/2.1314&a=1.1006744"/>');                     }                 } </p>
+<p> gigya.services.socialize.showShareBarUI({},showShareBarUI_params); </p>
+<p> var act = new gigya.services.socialize.UserAction();                             act.setTitle("Ill! Man receives $44 million hospital bill ");                             act.setLinkBack("http://www.nydailynews.com/life-style/health/44-million-bill-bronx-lebanon-hospital-article-1.1006744");                             act.setDescription("Unemployed doorman Alexis Rodriguez couldn\u2019t believe his eyes when he opened an envelope from Bronx-Lebanon Hospital last week and saw what he appeared to owe.");                              act.addMediaItem({ type: 'image', src: 'http://assets.nydailynews.com/polopoly_fs/1.1006946!/img/httpImage/image.jpg_gen/derivatives/searchthumbnail_75/image.jpg', href: 'http://www.nydailynews.com/life-style/health/44-million-bill-bronx-lebanon-hospital-article-1.1006744' });                             var showShareBarUI_params=                             {                                layout:'vertical',                             containerID: 'vertical',                             shareButtons: [                             { provider: 'Facebook-Like',action: 'recommend',tooltip: 'Recommend'},                             { provider: 'Twitter-Tweet'},                             { provider: 'Google-plusone'},                             { provider: 'Stumbleupon'},                             { provider: 'Tumblr'},                             { provider: 'Digg'},                             { provider: 'Email'}                             ],                             showCounts: 'top',                             userAction: act,                             onLoad: onLoadHandler,                             onSendDone: onSendDoneHandler                             }                                                          function onLoadHandler(event){                                 if(loginId.length > 0){                                     jQuery('input[id$="gigya.services.socialize.plugins.share.showShareUI_tbYourEmail"]').val(loginId);                                 }                             }                                                          // onSendDone event handler.                             function onSendDoneHandler(event){                             if (event.providers == 'email') {                              // add this to email logger                             jQuery('.logger').empty();                             jQuery('.logger').append('<img src="/logger/p.gif?type=EMAILED&d=/2.169/2.1310/2.1314&a=1.1006744"/>');                             }                             else{                             // add this to log                             jQuery('.logger').empty();                             jQuery('.logger').append('<img src="/logger/p.gif?type=SOCIALNETWORK&d=/2.169/2.1310/2.1314&a=1.1006744"/>');                             }                             } </p>
+<p> gigya.services.socialize.showShareBarUI({},showShareBarUI_params); </p>
+<p> James Keivom/New York Daily News </p>
+<p> Alexis Rodriguez got a bill exeeding $44 million for Bronx-Lebanon Hospital outpatient services. </p>
+<p> Related </p>
+<p> Stories </p>
+<p> How my friend Ralph loved John Kennedy and Robert F. Kennedy </p>
+<p> George Michael, released from Austrian hospital, says he almost died from pneumonia </p>
+<p> George Michael released from the hospital after being treated for pneumonia </p>
+<p> George Michael hospitalized in Vienna with pneumonia, forced to postpone concerts </p>
+<p> Zsa Zsa Gabor hospitalized, falls into a 'little coma' </p>
+<p> 'Happy Gilmore' actress Frances Bay dies at 92 </p>
+<p> The hospital cured his pneumonia, but the bill — for an eye-popping $44 million — made him sick. </p>
+<p> Unemployed doorman </p>
+<p> Alexis Rodriguez </p>
+<p> couldn’t believe his eyes when he opened an envelope from Bronx-Lebanon Hospital last week and saw what he appeared to owe. </p>
+<p> “I almost had an asthma attack,” said Rodriguez, 28, just one of several hundred patients to receive absurdly inflated bills because of a “system error.” </p>
+<p> His amount due was $44,776,587 for outpatient services that in reality amounted to no more than $300. </p>
+<p> Initially, Rodriguez panicked because he had spent three weeks in the hospital with pneumonia in the spring and knew he had to pay part of the $40,000 cost. </p>
+<p> But he quickly realized the terrifying invoice couldn’t be right. He called the billing company and found out he wasn’t the only one with sticker shock. </p>
+<p> The billing firm, PHY Services, said it was a simple mistake: The subcontractor that prints the bills put the invoice number into the “amount due” field. </p>
+<p> “We are sending an apology letter to everyone who received it,” said PHY Services rep </p>
+<p> Ricardo Paul </p>
+<p> . </p>
+<p> The company has apparently been deluged with complaints. A recording for callers says: </p>
+<p> “If you are calling with respect to a billing statement for services provided at Bronx-Lebanon Hospital, please disregard the statement </p>
+<p> . You will be receiving a new statement shortly. “ </p>
+<p> Rodriguez said that even though no harm was done to his bottom line, the sloppiness surprised him. </p>
+<p> “It was a big error,” he said. </p>
+<p> “I think they should have somebody look over the bills before they send them out. </p>
+<p> “I understand manpower may be down, but to send out a lot of bills with numbers that big — someone could have had a heart attack.” </p>
+<p> Hospital spokesman </p>
+<p> Errol Schneer </p>
+<p> said he didn’t blame Rodriguez for being upset. </p>
+<p> “We certainly share any concerns he would have,” he said. </p>
+<p> tconnor@nydailynews.com </p>
+<p> Post a Comment » </p>
+<p> jQuery.ajaxSetup({ cache: false });                                         //jQuery(document).ready(function(){                                         //alert("first");                                         //jQuery("#commentsTabLi-1426922").removeAttr('style');                                         jQuery("#commentView-1426922").empty();                                         jQuery("#commentView-1426922").load('/cmlink/comments-7.1426922?pathIds=2.169%2C2.1310%2C2.1314&action=&view=&comment=&rd=http%3A%2F%2Fwww.nydailynews.com%2Flife-style%2Fhealth%2F44-million-bill-bronx-lebanon-hospital-article-1.1006744&commentId=&abuseType=');                                         jQuery("#articleTab-1006744").live('click', function(){                                         //jQuery("#articleTabLi-1006744").removeClass().addClass('art_nav_link_on tabs');                                         //jQuery("#commentsTabLi-1426922").removeClass().addClass('art_nav_link tabs');                                         // jQuery("#articleView-1006744").show();                                         // jQuery("#commentView-1426922").load('/cmlink/comments-7.1426922?pathIds=2.169%2C2.1310%2C2.1314');                                         jQuery("#commentView-1426922").load('/cmlink/comments-7.1426922?pathIds=2.169%2C2.1310%2C2.1314&view=comments');                                         });                                         jQuery("#commentsTab-1426922, #seeAllComment-1426922, #seeAllCommentOrReport-1426922").live('click', function(){                                         // alert("seocnds");                                         jQuery("#commentsTabLi-1426922").removeClass().addClass('art_nav_link_on tabs');                                         jQuery("#articleTabLi-1006744").removeClass().addClass('art_nav_link tabs');                                         jQuery("#articleView-1006744").hide();                                         jQuery("#commentView-1426922").load('/cmlink/comments-7.1426922?pathIds=2.169%2C2.1310%2C2.1314&view=&rd=http%3A%2F%2Fwww.nydailynews.com%2Flife-style%2Fhealth%2F44-million-bill-bronx-lebanon-hospital-article-1.1006744');                                         });                                         // }); </p>
+<p> Ads by Yahoo! </p>
+<p> <!--         var t = Math.floor(Math.random() * 100000);         var a = "http://cm.npc-nydn.overture.com/js_flat_1_0/?outputCharEnc=utf8&config=1468932575&ctxtUrl=http%3A%2F%2Fwww.nydailynews.com%2Flife-style%2Fhealth%2F44-million-bill-bronx-lebanon-hospital-article-1.1006744&ctxtId=health&type=health&source=npc_nydn_newyorkdailynews_t1_ctxt&maxCount=3";         var url = a;         document.write("<scr" + "ipt language=\"JavaScript1.1\" type=\"text/javascript\" src=\"" + url + "\"></scr" + "ipt>");         //--> </p>
+<p> <!--         if( typeof(zSr) != 'undefined') {         var i=6;         while (i < zSr.length) {             var descr = zSr[i++]; // listing description             var unused1 = zSr[i++]; // (ignore)             var clickURL = zSr[i++]; // listing link             var title = zSr[i++]; // listing title             var sitehost = zSr[i++]; // advertiser's domain name             var unused2 = zSr[i++]; // (ignore)             document.write('<p><a class="title" target="_new" href="' + clickURL + '">' + title + '</a><br /><a class="description" target="_new" href="' + clickURL + '">' + descr + '</a><br />');             document.write('<a class="host" target="_new" href="' + clickURL + '">(' + sitehost + ')</a></p>');             }             }             //--> </p>
+<p> //<![CDATA[          <!--          if(typeof yld_mgr != 'undefined')         { yld_mgr.place_ad_here("x50"); }         //-->          //]]> </p>
+<p> Most </p>
+<p> Popular </p>
+<p> Most Read </p>
+<p> Most Shared </p>
+<p> 1 </p>
+<p> Tot with skin disease dies in mom's arms </p>
+<p> 2 </p>
+<p> Ill! Man receives $44 million hospital bill </p>
+<p> 3 </p>
+<p> Paula Deen announces she has type 2 diabetes </p>
+<p> 4 </p>
+<p> Killer tunes: Walking with headphones can kill you </p>
+<p> 5 </p>
+<p> Manhattan lawyer sues spa for not feeding him </p>
+<p> 6 </p>
+<p> Cracker Barrel founder Dan Evins dead at 76 </p>
+<p> 7 </p>
+<p> On the plus (model) size </p>
+<p> 8 </p>
+<p> Depressed? Blame it on Blue Monday </p>
+<p> 9 </p>
+<p> ‘Totally drug-resistant’ TB reported in India </p>
+<p> 10 </p>
+<p> Royal pain: Diddy sued over ‘Empress’ perfume </p>
+<p> 1 </p>
+<p> Ill! Man receives $44 million hospital bill </p>
+<p> 2 </p>
+<p> Paula Deen announces she has type 2 diabetes </p>
+<p> 3 </p>
+<p> Tot with skin disease dies in mom's arms </p>
+<p> 4 </p>
+<p> Killer tunes: Walking with headphones can kill you </p>
+<p> 5 </p>
+<p> Royal pain: Diddy sued over ‘Empress’ perfume </p>
+<p> 6 </p>
+<p> Cracker Barrel founder Dan Evins dead at 76 </p>
+<p> 7 </p>
+<p> Henry Alford, the new Mr. Manners </p>
+<p> 8 </p>
+<p> ‘Totally drug-resistant’ TB reported in India </p>
+<p> 9 </p>
+<p> Depressed? Blame it on Blue Monday </p>
+<p> 10 </p>
+<p> Adults aged 65+ are the most frequent boozers </p>
+<p> <!--     jQuery("ul#tabs-7-1353957").idTabs();     //--> </p>
+<p> //<![CDATA[          <!--          if(typeof yld_mgr != 'undefined')         { yld_mgr.place_ad_here("x55"); }         //-->          //]]> </p>
+<p> Editors' Picks </p>
+<p> Lupica: Like Parcells, Coughlin is a Giant winner </p>
+<p> Tom Coughlin, a Bill Parcells protege, is within spitting distance of his 2nd Super Bowl ring. </p>
+<p> PHOTOS: The Golden Globes' golden girl </p>
+<p> Maria Menounos quite literally glows on the red carpet. See it: BEST & WORST DRESSED... </p>
+<p> Hey y'all, I have diabetes: Paula Deen's painful confession </p>
+<p> With signature dishes like her bacon-doughnut-egg burger and oil-drenched fried chicken, she brings Southern cooking a new level of indulgence. </p>
+<p> Mitt, we KNOW you're rich! Romney refuses to release tax returns </p>
+<p> GOP frontrunner - and multimillionaire - continues to waver on releasing tax returns. </p>
+<p> PHOTOS: Before They Were Famous (and got stylists) </p>
+<p> Blast from the past! Can you name this bleached blonde star? </p>
+<p> Boy, 10, accused of killing friend, 12 </p>
+<p> In shocking case, boy is accused of stabbing his pal in the chest with a kitchen knife. </p>
+<p> Toddler with rare disease loses fight, dies in mom's arms </p>
+<p> Brave boy's battle touched tens of thousands via his mother's blog. </p>
+<p> Pale Beyonce photo triggers white-hot controversy </p>
+<p> The new mom is barely recognizable in a new photo. </p>
+<p> Jay-Z vows to drop 'B-word' after daughter's birth </p>
+<p> Rapper and new dad vows to never again use the word “b---h.” </p>
+<p> Nicole Scherzinger horses around in a bikini </p>
+<p> Celebrity fit club: With paparazzi everywhere, stars have to be on top of their fitness game 24/7. </p>
+<p> PHOTOS: Happy 90th! Betty White’s reign as queen of Hollywood </p>
+<p> While most stars peak early on, White proves age is nothing but a number. </p>
+<p> Woman records herself doing meth, kills kids & herself </p>
+<p> Shoots her 2 children, their dad and a cousin before committing suicide: cops. </p>
+<p> Injured skier using breathing tube; doctors test brain function </p>
+<p> Sarah Burke still sedated one week after horrible crash. </p>
+<p> Mice infest bag of McDonald's burger buns </p>
+<p> SEE IT: A former fast food employee says mice ran rampant in the McDonald’s where he worked. </p>
+<p> //<![CDATA[          <!--          if(typeof yld_mgr != 'undefined')         { yld_mgr.place_ad_here("x86"); }         //-->          //]]> </p>
+<p> #story + .code_module{margin:0 0 25px;width:100%;text-align:center;float:none;}   .story-body .story-img{font:11px 'Arial';color:#999;margin-left:0;}   .story-body div img{width:635px;margin-left:-10px;}   .story-body div img + em, .story-body div img + br + em{display:block;font:11px 'Arial';color:#999;margin-bottom:25px;}   .static .facebook {width:450px;}    .vertical #vertical-reaction0 {overflow: visible !important;} </p>
+<p> (function () {     var d = new Image(1, 1);     d.onerror = d.onload = function () {       d.onerror = d.onload = null;     };     d.src = ["//secure-us.imrworldwide.com/cgi-bin/m?ci=us-805104h&cg=0&cc=1&si=", escape(window.location.href), "&rp=", escape(document.referrer), "&ts=compact&rnd=", (new Date()).getTime()].join('');   })(); </p>
+<p> //<![CDATA[                 <!--                    if(typeof yld_mgr != 'undefined') {                        yld_mgr.place_ad_here('x47');                    } else {                     var cb = '&cb=' + Math.floor(Math.random() * 100000);                    var query = 'http://open.ad.yieldmanager.net/a1?v=2&amp;pubId=21058125506&amp;site=NYDN&amp;ctLng=en-US&amp;sz=728x90&amp;rTy=ac&amp;fmt=standard%20graphical&amp;cDst=_blank&amp;dlv=ipbtf&amp;cTopId=20268501%2C20422501&amp;cCat=Gossip+Individual+Galleries&amp;conTy=fn_news';                    var url = query + cb;                    document.write('<iframe scrolling="no" frameborder="0" allowtransparency="true" marginwidth="0" marginheight="0" frameborder="0" id="nydn-adframe-x47" width="728" height="90" src="' + url + '"></iframe>');                }                 //-->                //]]> </p>
+<p> Back to Top </p>
+<p> Media Kit </p>
+<p> RSS </p>
+<p> Home Delivery </p>
+<p> Social Media </p>
+<p> Newsletters </p>
+<p> Place an Ad </p>
+<p> About our Ads </p>
+<p> Contact Us </p>
+<p> FAQ's </p>
+<p> Site Map </p>
+<p> Use of this website signifies your agreement to the </p>
+<p> Terms of Service </p>
+<p> and </p>
+<p> Privacy Policy </p>
+<p> . </p>
+<p> © Copyright 2012 NYDailyNews.com. All rights reserved. </p>
+<p> if (document.location.protocol == 'http:') {  var Tynt = Tynt || [];Tynt.push('s!3'); Tynt.s = Tynt.s || {l:"http://asc.tynt.com/nydn_logo_140x32.png", lh:32, lw:140};  (function() {  var s = document.createElement('script'); s.async = "async"; s.type = "text/javascript"; s.src = 'http://asd.tynt.com/ts.js';  var h = document.getElementsByTagName('script')[0]; h.parentNode.insertBefore(s, h); })();   } </p>
+<p> tyntVariables = {"ap":"Read more:"}; </p>
+<p> var _qevents = _qevents || [];   (function() {   var elem = document.createElement('script');   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";   elem.async = true;   elem.type = "text/javascript";   var scpt = document.getElementsByTagName('script')[0];   scpt.parentNode.insertBefore(elem, scpt);   })();    _qevents.push({   qacct:"p-af_gBGFZgopbs"   }); </p>

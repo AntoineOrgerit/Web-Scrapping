@@ -1,0 +1,479 @@
+<p> JANRAIN.SSO.CAPTURE.check_login({ 		sso_server: 'https://sso.canada.com', 		client_id: 'dvrbjcn34dw33nnd7yq3yh5rnrcj6e5f', 		redirect_uri: 'http://'+window.location.hostname+'/scripts/sso/postlogin.ashx', 		logout_uri: 'http://'+window.location.hostname+'/scripts/sso/logout.ashx?type=providers', 		xd_receiver: 'http://'+window.location.hostname+'/xdcomm.html' 	}); </p>
+<p> CDMScriptManager.load('/js/jquery-1.2.6.min.js'); 	CDMScriptManager.load('/js/slider.js'); </p>
+<p> CDMScriptManager.load('/js/pluck/pluckLocal.js'); </p>
+<p> CDMScriptManager.load(pluckScriptUrl);      CDMScriptManager.load('/js/pluck/pluck.js'); </p>
+<p> .pluck-comm .pluck-user-persona { 			display: block !important; 		} </p>
+<p> Postponing parenthood could have serious consequences, warns new study </p>
+<p> { 	'zone':"sQ7AQQe5q5pg_paAhT_ZVJ", 	'mode':"meter", 	'customPreCheck': "preCheckMontrealgazette100643",         'border': "IwmirnkOqMl6GwKc5_TO4j", 	'debug':0 } </p>
+<p> function preCheckMontrealgazette100643($) {     if (navigator.userAgent && ( navigator.userAgent.indexOf("iPad") != -1 || navigator.userAgent.indexOf("PlayBook") != -1 ))     {         return 0;     }     var metamatch = document.getElementsByTagName("meta");     for (var i=0; i < metamatch.length; i++) {     if (metamatch[i].name == "keywords") {     if (metamatch[i].content.match(/breaking/))        {        return 0;       }     }     }      loc = window.location + '';      if (loc.match(/\/(cars|jobs|homes)\/.+/i))     {         return 0;     }     else if (loc.match(/(story.html).*/i))     {          return 1;     }          return 0; } </p>
+<p> #leaderboard { text-align:right } #leaderboard .ad { text-align:right } </p>
+<p> function getCookies() { return ""; } </p>
+<p> Array.prototype.uniqueAry = function ()                         {                             var r = new Array();                             o:for(var i = 0, n = this.length; i < n; i++)                             {                                 for(var x = 0, y = r.length; x < y; x++)                                 {                                     if(r[x]==this[i])                                     {                                         continue o;                                     }                                 }                                 r[r.length] = this[i];                             }                             return r;                         }                          function getCookie(cookieName)                         {                             var dc = document.cookie;                              //load external cookies from .canada.com if not currently on .canada.com                             if (location.hostname.match(/\.canada\.com$/gi) == null)                                 dc += ";" + getCookies(); //append to existing document cookie                              var cookie_str = ""; //this string will contain the value of the cookie name                             var needle = "[A-Za-z0-9_-]*" + cookieName + "[A-Za-z0-9_-]*=[^;]+";                             var regex = new RegExp(needle, "gi");                             var matches = dc.match(regex);                             if (matches != null)                             {                                 for (var x = 0; x < matches.length; x++)                                     matches[x] = matches[x].substring(matches[x].indexOf("=")+1).replace(new RegExp("[\\s]+$", "g"), ""); //remove keyname prefix and trim                                 cookie_str = matches.join(",");                                 matches = cookie_str.split(",");                                 matches = matches.uniqueAry(); //remove duplicates                                 cookie_str = matches.join(";") + ";";                             }                             return unescape(cookie_str);                         }                          function getAdCookie()                         {                             return getCookie("adcookie");                         }                          function setSurroundCookie(value)                         {                             document.cookie = "surroundId=" + escape(value) + "; path=/";                         }                          function getSurroundCookie()                         {                             var dc = document.cookie;                             var prefix = "surroundId=";                             var begin = dc.indexOf("; " + prefix);                             if (begin == -1)                             {                                 begin = dc.indexOf(prefix);                                 if (begin != 0) return null;                             }                             else                             {                                 begin += 2;                             }                             var end = document.cookie.indexOf(";", begin);                             if (end == -1) end = dc.length;                             return unescape(dc.substring(begin + prefix.length, end));                         }                          // Setup for surround session.                         var adid = ""; // used in the ad to start a surround session                         var surroundTag = getSurroundCookie(); // Get surround session id from the cookie                         if(surroundTag == null) // check if there was a surround session id in the cookie                         {                             surroundTag = "";                         }                         else                         {                             surroundTag = "srnd="+surroundTag+";"; // finish setting up the key-value for the ad tags                         }                          //Setup for adcookie.                         var adcookieTag = getAdCookie(); // Get the ad cookie string </p>
+<p> adcookieTag = typeof(adcookieTag) != 'undefined' ? adcookieTag : '';                         dartad_tile = typeof(dartad_tile) != 'undefined' ? dartad_tile + 1 : 1;                         var dartad_url = "http://ad.ca.doubleclick.net/N3081/adj/mg_bh.com/health/story;loc=theTop;loc=top;sz=468x60,728x90;dcopt=ist;kw=ron;kw=health;nk=print;pr=mg;ck=health;page=story;kw=mg;tile="+dartad_tile+";"+adcookieTag+surroundTag+"ord=72614930?"; // script ad code with adcookie, used for debug                         document.write('<script language="JavaScript1.1" src="http://ad.ca.doubleclick.net/N3081/adj/mg_bh.com/health/story;loc=theTop;loc=top;sz=468x60,728x90;dcopt=ist;kw=ron;kw=health;nk=print;pr=mg;ck=health;page=story;kw=mg;tile='+dartad_tile+';'+adcookieTag+surroundTag+'ord=72614930?"><\/script>'); </p>
+<p> if(adid != "") // check if the ad should start a surround session only if a surround session has not yet started                         {                             surroundTag = "srnd="+adid+";"; // setup the key-value for a surround session                             setSurroundCookie(adid); // store the surround session id in a cookie.                         } </p>
+<p> Â </p>
+<p> Â </p>
+<p> Weather Centre </p>
+<p> Â </p>
+<p> Â </p>
+<p> Â </p>
+<p> -6°C </p>
+<p> Â </p>
+<p> Light snow </p>
+<p> MontrÃ©al </p>
+<p> Detailed Forecast </p>
+<p> Â </p>
+<p> Start Home Delivery </p>
+<p> Subscriber Services </p>
+<p> Digital Edition </p>
+<p> Mobile Products </p>
+<p> canada.com network </p>
+<p> Newspapers </p>
+<p> National Post </p>
+<p> Victoria Times Colonist </p>
+<p> The Province (Vancouver) </p>
+<p> Vancouver Sun </p>
+<p> Edmonton Journal </p>
+<p> Calgary Herald </p>
+<p> Regina Leader-Post </p>
+<p> Saskatoon StarPhoenix </p>
+<p> Windsor Star </p>
+<p> Ottawa Citizen </p>
+<p> The Gazette (Montreal) </p>
+<p> DOSE </p>
+<p> Postmedia Community Publishing </p>
+<p> Nanaimo Daily News </p>
+<p> function handlePostLogin() { 		// change the login status bar to reflect a logged in state 		jQuery.getScript("http://"+window.location.hostname+"/scripts/sso/user.ashx?format=json&callback=renderLoginStatusBar");  		if((window.location+"").indexOf("/members/account-verified.html") > -1 || (window.location+"").indexOf("/members/cancel-deletion.html") > -1 || (window.location+"").indexOf("/members/reset-password-complete.html") > -1) window.location="/index.html"; 		else window.location.reload(); 	}  	function handlePostLogout() { 		// change the login status bar to reflect a logged out state 		jQuery.getScript("http://"+window.location.hostname+"/scripts/sso/user.ashx?format=json&callback=renderLoginStatusBar"); 		 		if((window.location+"").indexOf("edit-profile.html") > -1) window.location="/index.html"; 		else window.location.reload(); 	}  	function dologout() { 		// create the hidden logout iframe 		var src = 'http://'+window.location.hostname+'/scripts/sso/logout.ashx?iframe=true'; 		jQuery('<iframe id="iframe_logout" style="visibility:hidden;display:none" frameborder="0" hspace="0" scrolling="no" src="' + src + '"></iframe>').appendTo('body'); 	}  	function renderLoginStatusBar(user) { 		var user = user.User; 		var statusBarHtml = "";  		if (user.IsLoggedIn) { 			statusBarHtml += "<ul>"; 			statusBarHtml += "	<li>Hi " + user.DisplayName + "</li>"; 			statusBarHtml += " " + profileLink; 			statusBarHtml += "	<li><a href=\"javascript:dologout();\">Sign Out</a></li>"; 			statusBarHtml += "</ul>"; 		} 		else { 			statusBarHtml += "<ul>"; 			statusBarHtml += "	<li><a href=\"javascript:light.mask(jQuery('body'),light.getHtml('user_reg_internal_1t'));\">Log in</a></li>"; 			statusBarHtml += "	<li><a href=\"javascript:light.mask(jQuery('body'),light.getHtml('user_reg_internal_1t'));\">Register</a></li>"; 			statusBarHtml += "</ul>"; 		} 		document.getElementById("loginstatusbarchild").innerHTML = statusBarHtml; 	} </p>
+<p> jQuery.getScript("http://"+window.location.hostname+"/scripts/sso/user.ashx?format=json&callback=renderLoginStatusBar"); </p>
+<p> Montreal Gazette </p>
+<p> /*Temporary styles for Aislin Xmas image*/ 				#logocol .headersponsor { margin-left:20px!important; width:260px!important; margin-bottom:-5px!important;} </p>
+<p> Â </p>
+<p> Â </p>
+<p> Weather Centre </p>
+<p> Â </p>
+<p> Â </p>
+<p> Â </p>
+<p> -6°C </p>
+<p> Â </p>
+<p> Light snow </p>
+<p> MontrÃ©al </p>
+<p> Detailed Forecast </p>
+<p> Â </p>
+<p> Quick Links: </p>
+<p> Shopping </p>
+<p> , </p>
+<p> Obituaries </p>
+<p> , </p>
+<p> Horoscopes </p>
+<p> Search </p>
+<p> YellowPages </p>
+<p> Find a business or person on: </p>
+<p> CDMScriptManager.load("http://www.montrealgazette.com/js/autocomplete/jquery.autocomplete.min.js"); </p>
+<p> function doSearch() { 				var q = document.getElementById("q").value.replace(/[^0-9a-zA-Z\s*]/g,""); 				q = q.replace(/ /g,"+"); 				if (q.length == 0) { 					alert("Please enter your search criteria"); 					return; 				} 				var dname = document.domain;  				if ( dname=="driving.ca") { 					document.location.href="http://www.driving.ca/montreal/search/search.html?q=" + escape(q); 					} 				else { 					document.location.href="http://www.montrealgazette.com/search/search.html?q=" + escape(q); 				} 			} 			//FAST WAVE 1 			//add javascript to hook up search text box in header 			//set up autocomplete on search box in header			 			jQuery(document).ready(function() { 				jQuery("#q").autocomplete("http://app.canada.com/search/search.svc/autocomplete", { 					dataType: 'jsonp', 					parse: function(data) { 						var rows = new Array(); 						data = data.Terms; 						for(var i=0; i<data.length; i++){ 							rows[i] = { data:{Term:data[i]}, value:data[i], result:data[i] }; 						} 						return rows; 					}, 					resultsClass: "fast_wave_results", 					formatItem: function(row, i, n) { 						return  row.Term; 					}, 					cacheLength: 0, 					extraParams: { 						format: "json" 					}, 					minChars: 1, 					max: 10, 					highlight: function(value, term) { 						var pos = value.toLowerCase().indexOf(term.toLowerCase()); 						return (pos > 0)?"<b>" + value.substring(0,pos) + "</b>" + value.substring(pos, term.length) + "<b>" + value.substring(pos + term.length) + "</b>":value.substring(0, term.length) + "<b>" + value.substring(pos + term.length) + "</b>"; 					}, 					scroll: false, 					selectFirst: false 				});  			}); </p>
+<p> Home </p>
+<p> News </p>
+<p> Montreal </p>
+<p> West Island </p>
+<p> National </p>
+<p> World </p>
+<p> Weather </p>
+<p> Daily Commuter </p>
+<p> Saturday Extra </p>
+<p> Oddities </p>
+<p> Today's Paper </p>
+<p> Opinion </p>
+<p> Aislin </p>
+<p> Blogs </p>
+<p> Editorials </p>
+<p> Columnists </p>
+<p> Op-Ed </p>
+<p> Letters </p>
+<p> Business </p>
+<p> Money </p>
+<p> Markets on FP </p>
+<p> Your Business </p>
+<p> Business Observer </p>
+<p> Open House </p>
+<p> Technocite </p>
+<p> Aerospace </p>
+<p> Legal Matters </p>
+<p> Sports </p>
+<p> Canadiens/Hockey </p>
+<p> Alouettes/Football </p>
+<p> Impact/Soccer </p>
+<p> Baseball </p>
+<p> Basketball </p>
+<p> Golf </p>
+<p> Auto Racing </p>
+<p> Tennis </p>
+<p> Hockey Inside/Out </p>
+<p> MMA </p>
+<p> Arts </p>
+<p> Festival Central </p>
+<p> Movie Guide </p>
+<p> Television </p>
+<p> TV Listings </p>
+<p> Music </p>
+<p> Books </p>
+<p> Celebrity </p>
+<p> Theatre </p>
+<p> Life </p>
+<p> Fashion & Beauty </p>
+<p> Food & Wine </p>
+<p> Parenting </p>
+<p> Relationships </p>
+<p> Green Life </p>
+<p> Diversions - Comics & Games </p>
+<p> Pets </p>
+<p> Mike Holmes </p>
+<p> Health </p>
+<p> Women </p>
+<p> Men </p>
+<p> Family & Child </p>
+<p> Sexual Health </p>
+<p> Diet   Fitness </p>
+<p> Technology </p>
+<p> Personal Tech </p>
+<p> Gaming </p>
+<p> Tech-Biz </p>
+<p> Internet </p>
+<p> Environment </p>
+<p> Space </p>
+<p> Science </p>
+<p> Best of YouTube </p>
+<p> Travel </p>
+<p> Trip Ideas </p>
+<p> Tools & Tips </p>
+<p> Community </p>
+<p> Destination Guides </p>
+<p> Jobs </p>
+<p> Home </p>
+<p> Search Jobs </p>
+<p> Resources </p>
+<p> Post Jobs </p>
+<p> Jobseekers </p>
+<p> Employer Login </p>
+<p> Top Employers </p>
+<p> Cars </p>
+<p> New </p>
+<p> Used </p>
+<p> Pre-Owned Weekly Specials </p>
+<p> Sell </p>
+<p> Research & Compare </p>
+<p> News & Events </p>
+<p> Videos </p>
+<p> Features </p>
+<p> Auto Show 2012 </p>
+<p> Homes </p>
+<p> For Sale/Rent </p>
+<p> Real Estate Advice </p>
+<p> Renovating </p>
+<p> Decorating </p>
+<p> Gardening </p>
+<p> Vacation Homes </p>
+<p> Classifieds </p>
+<p> Obituaries </p>
+<p> Announcements </p>
+<p> Vehicles </p>
+<p> Real Estate </p>
+<p> Rentals </p>
+<p> Jobs </p>
+<p> Pets </p>
+<p> For Sale </p>
+<p> Shopping </p>
+<p> Place an Ad </p>
+<p> FlyerCity </p>
+<p> Don't miss: </p>
+<p> Year in review </p>
+<p> Urban Expressions </p>
+<p> Gazette Christmas Fund </p>
+<p> Food and wine </p>
+<p> Contracts database </p>
+<p> Interactives </p>
+<p> Shelter </p>
+<p> Â </p>
+<p> Â» </p>
+<p> RSS </p>
+<p> adcookieTag = typeof(adcookieTag) != 'undefined' ? adcookieTag : '';                         dartad_tile = typeof(dartad_tile) != 'undefined' ? dartad_tile + 1 : 1;                         var dartad_url = "http://ad.ca.doubleclick.net/N3081/adj/montrealgazette.com/health/story;loc=top;sz=960x42;kw=ron;kw=health;nk=print;pr=mg;ck=health;page=story;kw=mg;tile="+dartad_tile+";"+adcookieTag+surroundTag+"ord=72614930?"; // script ad code with adcookie, used for debug                         document.write('<script language="JavaScript1.1" src="http://ad.ca.doubleclick.net/N3081/adj/montrealgazette.com/health/story;loc=top;sz=960x42;kw=ron;kw=health;nk=print;pr=mg;ck=health;page=story;kw=mg;tile='+dartad_tile+';'+adcookieTag+surroundTag+'ord=72614930?"><\/script>'); </p>
+<p> if(adid != "") // check if the ad should start a surround session only if a surround session has not yet started                         {                             surroundTag = "srnd="+adid+";"; // setup the key-value for a surround session                             setSurroundCookie(adid); // store the surround session id in a cookie.                         } </p>
+<p> .promobannerwrapper {margin-left:10px;} </p>
+<p> adcookieTag = typeof(adcookieTag) != 'undefined' ? adcookieTag : '';                         dartad_tile = typeof(dartad_tile) != 'undefined' ? dartad_tile + 1 : 1;                         var dartad_url = "http://ad.ca.doubleclick.net/N3081/adj/montrealgazette.com/health/story;loc=top;sz=960x86;kw=ron;kw=health;nk=print;pr=mg;ck=health;page=story;kw=mg;tile="+dartad_tile+";"+adcookieTag+surroundTag+"ord=72614930?"; // script ad code with adcookie, used for debug                         document.write('<script language="JavaScript1.1" src="http://ad.ca.doubleclick.net/N3081/adj/montrealgazette.com/health/story;loc=top;sz=960x86;kw=ron;kw=health;nk=print;pr=mg;ck=health;page=story;kw=mg;tile='+dartad_tile+';'+adcookieTag+surroundTag+'ord=72614930?"><\/script>'); </p>
+<p> if(adid != "") // check if the ad should start a surround session only if a surround session has not yet started                         {                             surroundTag = "srnd="+adid+";"; // setup the key-value for a surround session                             setSurroundCookie(adid); // store the surround session id in a cookie.                         } </p>
+<p> adcookieTag = typeof(adcookieTag) != 'undefined' ? adcookieTag : '';                         dartad_tile = typeof(dartad_tile) != 'undefined' ? dartad_tile + 1 : 1;                         var dartad_url = "http://ad.ca.doubleclick.net/N3081/adj/montrealgazette.com/health/story;loc=top;sz=960x42;kw=ron;kw=health;nk=print;pr=mg;ck=health;page=story;kw=mg;tile="+dartad_tile+";"+adcookieTag+surroundTag+"ord=72614930?"; // script ad code with adcookie, used for debug                         document.write('<script language="JavaScript1.1" src="http://ad.ca.doubleclick.net/N3081/adj/montrealgazette.com/health/story;loc=top;sz=960x42;kw=ron;kw=health;nk=print;pr=mg;ck=health;page=story;kw=mg;tile='+dartad_tile+';'+adcookieTag+surroundTag+'ord=72614930?"><\/script>'); </p>
+<p> if(adid != "") // check if the ad should start a surround session only if a surround session has not yet started                         {                             surroundTag = "srnd="+adid+";"; // setup the key-value for a surround session                             setSurroundCookie(adid); // store the surround session id in a cookie.                         } </p>
+<p> CDMScriptManager.load('/js/SpiderRedirect.js'); </p>
+<p> CDMScriptManager.load('/js/pluck/pluckLocal.js'); 				CDMScriptManager.load('http://pluck.montrealgazette.com/ver1.0/Direct/DirectProxy'); 				CDMScriptManager.load('/js/pluck/pluck.js');				 				CDMScriptManager.load('/js/adsync/adSyncLibrary.js'); </p>
+<p> if (typeof dartad_url != 'undefined') { 					var dd = adSync.ParseDartAdUrl(dartad_url); 					cwZoneAd=dd["zone"]; 					cwSiteAd =dd["site"]; 					cwKeyAd=dd["keyValues"]; 				}else { 					cwSiteAd = "mg_bh.com"; // plug in the Ad site variable 					cwZoneAd= "health/story"; // plug in the ad zone. 					cwKeyAd="kw=ron;kw=health"; // plug in the Ad key words. 				} </p>
+<p> var addthis_pub = 'canada.com';  				function tabClick(eventText, hasVideo, id, classname, pause,syncAds) 				{	 					//the statsEvent and Ad Refresh have been disabled on the story tab clicks 					//I've left the code in the xsl (just commented out), in case the decision gets reversed. 									 					//omniture event 					//statsEvent(eventText);	 					 					//set tab 					if(hasVideo) 						switchTab(id,classname, pause); 					else 						setClass(id, classname);  					//refresh ads 					//if(syncAds) 						//adSync.TriggerAdSynch(); 				}  				function statsEvent(eventText) 				{ 					//omniture event 					s.prop38=s.pageName + eventText; 					s.events=''; 					void(s.t());				 				}  				function showTab(firstentrytype) 				{ 					var tab = getQueryVar('tab'); 					var tabclass = '';  					if (tab == 'PHOT' || (firstentrytype.indexOf('image/') != -1 && tab == '')) 						tabclass = 'story_photo_content'; 					else if (tab == 'VID' || ((firstentrytype == 'application/vnd.ooyala') && tab == '')) 						tabclass = 'story_video_content'; 					else if (tab == 'FLSH' || (firstentrytype == 'application/x-shockwave-flash' && tab == '')) 						tabclass = 'story_interactive_content';  					if (tabclass != '') 						setClass('storypage', tabclass); 				} 				function EmailThis(qs, emailViewer)  				{ 					var url = "http://" + window.location.hostname + window.location.pathname; 					var id = "";  					id = getQueryVar("id"); 					if (id != "") 					{ 						url = addQS(url, "id=" + id); 					} 					if (qs != "") 					{ 						url = addQS(url, qs); 					} 					if (typeof(emailViewer) == "undefined" || emailViewer == null || emailViewer == "") emailViewer = "/story_emailthis.html"; 					openWindow(emailViewer + '?referrer=' + encodeURIComponent(url), 'StoryEmailThis', 'scrollbars=yes,resizable=yes,width=550,height=380') 				} 				function getQueryVar(key)  				{ 					var qs = window.location.search.substring(1); 					var arrQS = qs.split("&"); 					var value = "";  					for (i=0; i<arrQS.length; i++) { 						var ft = arrQS[i].split("="); 						if (ft[0] == key) { 							value =  ft[1]; 						} 					}  					return value; 				} 				function addQS(theURL, QS) 				{ 					var url = theURL; 					if (QS != '') 					{ 						if (url.indexOf("?") == -1)	{ 							url += "?" + QS; 						}  						else { 							url += "%26amp;" + QS; 						} 					} 					return url; 				} 				function openWindow(theURL, WinName, WinFeatures) { 					window.open(theURL, WinName, WinFeatures); 				} 				function jumpToAnchor(anchor)  				{ 					window.location = String(window.location).replace(/\#.*$/, "") + anchor; 				} 				function showAd(story_elem, ad_elem, ad_wrapper, offset) { 					var eosPos = Y(story_elem); 					var adPos = Y(ad_wrapper); 					var showAd = false; 					var offsetPos = 0; 					 					if (eosPos >= adPos) 					{ 						showAd = true; 					} 					else 					{ 						offsetPos = eosPos + offset; 						if (offsetPos >= adPos) 						{ 							showAd = true; 						} 					}  					// write out ad include 					if (showAd == true) 					{ 					   document.getElementById(ad_elem).style.display = "block";  					} 				}				 				function X(id) { 					var obj = document.getElementById(id); 					var x = obj.offsetLeft  					while (obj = obj.offsetParent) x += obj.offsetLeft 					return x 				} 				function Y(id) { 					var obj = document.getElementById(id); 					var y = obj.offsetTop  					while (obj = obj.offsetParent) y += obj.offsetTop 					return y 				} </p>
+<p> CDMScriptManager.load("http://s9.addthis.com/js/widget.php?v=10"); </p>
+<p> Postponing parenthood could have serious consequences, warns new study </p>
+<p> Â </p>
+<p> Â </p>
+<p> By Sharon Kirkey, Postmedia News </p>
+<p> January 17, 2012 10:13 AM </p>
+<p> Â </p>
+<p> Tweet </p>
+<p> var pluckContentID = 'SP6:6007363'; //value used by story_share_bar.inc to pull comments </p>
+<p> Comment </p>
+<p> 0 </p>
+<p> function getPluckContent(ArtKey) { 			    var commentsPageRequest = new PluckSDK.CommentsPageRequest(); 			    commentsPageRequest.CommentedOnKey = new PluckSDK.ExternalResourceKey({ Key: ArtKey });  			    PluckSDK.SendRequests([commentsPageRequest], responsePluckContentCallback); 			}  			function responsePluckContentCallback(responses) { 				//safely dump the response to Firebug 				var totalItems = isNaN(responses[0].TotalItems) ? 0 : responses[0].TotalItems; 				jQuery("#pluckCommentCount").text(totalItems); 			}  			//pluckContentID set in main.xsl 			getPluckContent(pluckContentID); </p>
+<p> stLight.options({ 				publisher:'8f205be9-8545-4fa3-a030-c83238b6a3e5', 				offsetLeft:'-265', 				onhover: false, 				embeds:'true', 		}); </p>
+<p> Â </p>
+<p> Story </p>
+<p> Photos ( 1 ) </p>
+<p> showTab("text/html"); </p>
+<p> Â </p>
+<p> function resizeImage() { 					var imgBox = document.getElementById('imageBox'); 					var photo = document.getElementById('storyphoto');  					if (imgBox != null && photo != null) 					{ 						if(photo.width >= 460)  						{ 							imgBox.className = 'imagesize460'; 						} 						else  						{ 							if(photo.width >= 300)  							{ 								imgBox.className = 'imagesize310'; 							} 							else  							{ 								imgBox.className = 'imageboxpadding'; 							} 							imgBox.style.width = photo.width + 'px'; 						} 					} 				} 				function getStoryFontSize() { 					var storyfontsize = getCookie('storyfontsize'); 					var storyfontimage = getCookie('storyfontimage');  					// use cookied value, if present 					if (storyfontsize != null) 					{ 						setClass('story_content',storyfontsize);  						if (storyfontimage != null) 						{ 							setClass('fontsizecontainer',storyfontimage);  						} 					} 					else	// default it to para14 if no cookie 					{ 						setClass('story_content','para14');  						setClass('fontsizecontainer','size02'); 					} 				} 				function setStoryFontSize(storyfontsize,storyfontimage) { 					setClass('story_content',storyfontsize);  					setClass('fontsizecontainer',storyfontimage); 					setCookie('storyfontsize', storyfontsize, '365', '/', '', ''); 					setCookie('storyfontimage', storyfontimage, '365', '/', '', ''); 				} 				function setCookie( name, value, expires, path, domain, secure ) { 					// set time 					var today = new Date(); 					today.setTime( today.getTime() );  					if ( expires ) 					{ 						expires = expires * 1000 * 60 * 60 * 24; //days 					} 					var expires_date = new Date( today.getTime() + (expires) );  					document.cookie = name + "=" + escape( value ) + 					( ( expires ) ? ";expires=" + expires_date.toGMTString() : "" ) +  					( ( path ) ? ";path=" + path : "" ) +  					( ( domain ) ? ";domain=" + domain : "" ) + 					( ( secure ) ? ";secure" : "" ); 				} 				function getCookie( check_name ) { 					// split this cookie up into name/value pairs 					var a_all_cookies = document.cookie.split( ';' ); 					var a_temp_cookie = ''; 					var cookie_name = ''; 					var cookie_value = ''; 					var b_cookie_found = false; // set boolean t/f default f 					 					for ( i = 0; i < a_all_cookies.length; i++ ) 					{ 						// split apart each name=value pair 						a_temp_cookie = a_all_cookies[i].split( '=' ); 						 						// and trim left/right whitespace while we're at it 						cookie_name = a_temp_cookie[0].replace(/^\s+|\s+$/g, ''); 					 						// if the extracted name matches passed check_name 						if ( cookie_name == check_name ) 						{ 							b_cookie_found = true; 							// we need to handle case where cookie has no value but exists (no = sign, that is): 							if ( a_temp_cookie.length > 1 ) 							{ 								cookie_value = unescape( a_temp_cookie[1].replace(/^\s+|\s+$/g, '') ); 							} 							// note that in cases where cookie is initialized but no value, null is returned 							return cookie_value; 							break; 						} 						a_temp_cookie = null; 						cookie_name = ''; 					} 					if ( !b_cookie_found ) 					{ 						return null; 					} 				} </p>
+<p> Â </p>
+<p> The new guideline to doctors comes amid growing concerns about the number of women delaying childbearing. In Canada, 11 per cent of first births now occur in women aged 35 and older, up from five per cent in 1987. </p>
+<p> Photograph by: </p>
+<p> Thinkstock, canada.com </p>
+<p> Men, and not just women, need to be aware of the "reproductive consequences" of postponing parenthood, new national guidelines on the risks of delayed child-bearing warn. </p>
+<p> Though women especially should recognize that their "fecundity and </p>
+<p> fertility </p>
+<p> " starts to decline precipitously after 32, a man's semen quality and fertility also worsens with age, according to guidelines endorsed by the </p>
+<p> Society of Obstetricians and Gynaecologists of Canada </p>
+<p> . </p>
+<p> In addition, babies born to fathers of "advanced paternal age" â defined as 40 and older at the time of conception â are at increased risk of genetic disorders, as well as </p>
+<p> schizophrenia </p>
+<p> , </p>
+<p> autism </p>
+<p> and some forms of </p>
+<p> cancer </p>
+<p> , according to the authors. </p>
+<p> The new guideline to doctors comes amid growing concerns about the number of women delaying childbearing. In Canada, 11 per cent of first births now occur in women aged 35 and older, up from five per cent in 1987. </p>
+<p> If the trend holds, society can expect to spend more on intensive care, special care nurseries and community services for children born to older parents who may have developmental, hearing, speech or language problems, the authors say. </p>
+<p> It could also affect the future growth of the country; women who postpone their first births tend to have fewer babies, if they become pregnant at all. </p>
+<p> "Widespread pre-conception counselling and education are needed and must be implemented so that the 95 per cent of Canadians who anticipate parenting at some point can make informed decisions," the authors write in this month's issue of the Journal of Obstetrics and Gynaecology Canada. </p>
+<p> But while the popular belief is that women are deferring motherhood for their careers, a related survey of more than 1,000 women in Calgary and Edmonton who gave birth to their first child between 2002 and 2003 found that the top three factors influencing timing of pregnancy â regardless of a woman's age â are relationship security, feeling in control of their life and feeling prepared to be a mother. </p>
+<p> Less than a third of women cited career goals, though women more than 35 were more likely than younger women to say they felt their biological clock was ticking. </p>
+<p> "We were really surprised, because that was the colloquial dogma â 'Oh, I need to get my career underway,' " said Suzanne Tough, a professor in pediatrics and community health sciences at the University of Calgary and a co-author of the study, as well as the guideline on delayed child-bearing. </p>
+<p> "Once women hit 25 . . . it was really the relationship that was the key factor in influencing when they chose to become a parent." </p>
+<p> The concern is that women may not realize what they're risking while they're waiting. </p>
+<p> For females, the biologically optimum period for having a baby is between 20 and 35. By age 32, a woman's fecundity â the probability of getting pregnant in a menstrual cycle â starts an irreversible slide. </p>
+<p> And getting pregnant is only the beginning. Compared to younger women, women more than 35 are at increased risk of miscarriage, ectopic pregnancies (where the fertilized egg implants outside the womb), diabetes, high blood pressure, placental abnormalities, multiple births and C-section deliveries. </p>
+<p> Babies born to older mothers are at higher risk of low birth weight, premature birth, chromosomal abnormalities, stillbirth and fetal death. They're more likely to need intensive care support and to have long-term health complications and challenges at school, Tough said. </p>
+<p> For men, age affects fertility a number of ways, she and her co-authors write. Older men tend to have "decreased coital frequency" and are more likely to experience sexual dysfunction. In addition, the volume, motility and per cent of normal sperm decrease with age. </p>
+<p> Reproductive health isn't just about women, said Tough, leader of a $5 million research team trying to reduce preterm births. "It's about men and women and couples and families." </p>
+<p> "The purpose of the guidelines is to enable couples to make informed decisions. There's a couple in this â not just a woman or not just a man or not just a baby." </p>
+<p> Women 35 years of age and older should be offered screening for chromosomal abnormalities and undergo a thorough second trimester ultrasound to look for "significant fetal defects", especially heart defects, according to the guideline. </p>
+<p> It also warns that while assisted baby-making technologies may be pushing the boundaries of reproduction, they can't guarantee a live birth; neither can they "compensate completely" for the natural fall off in fertility due to aging. </p>
+<p> For example, the live birth rate per cycle of in vitro fertilization falls from about 31 per cent at age 35, to less than five per cent by age 42. </p>
+<p> "Often what we hear is, 'If I'd known this sooner, I would have made a different decision,' " Tough said. </p>
+<p> skirkey@postmedia.com </p>
+<p> Twitter.com/sharon_kirkey </p>
+<p> Â© Copyright (c) Postmedia News </p>
+<p> Â </p>
+<p> Â </p>
+<p> Â </p>
+<p> E-mail this Article </p>
+<p> Print this Article </p>
+<p> Share this Article </p>
+<p> Â </p>
+<p> Â </p>
+<p> Â </p>
+<p> Â </p>
+<p> Location refreshed </p>
+<p> var geoloc_service_domain = "app.canada.com"; 	var geoloc_postproxy_domain = window.location.hostname+""; 	CDMScriptManager.load('/js/geo_location.js'); </p>
+<p> More on This Story </p>
+<p> Â </p>
+<p> Do twin embryos help each other survive? </p>
+<p> Lots of pregnancies linked to a healthier heart </p>
+<p> Healthy male diet may boost IVF success: Study </p>
+<p> Men, are you killing your sperm? Quantity, quality matter in male fertility </p>
+<p> Using one embryo in IVF doesn't cut birth rate: Study </p>
+<p> Â </p>
+<p> Story Tools </p>
+<p> Â </p>
+<p> E-mail this Article </p>
+<p> Print this Article </p>
+<p> jQuery('#liComment').hide(); </p>
+<p> Â </p>
+<p> Font: </p>
+<p> * </p>
+<p> * </p>
+<p> * </p>
+<p> * </p>
+<p> * </p>
+<p> // load up cookied story font size 								getStoryFontSize(); </p>
+<p> Â </p>
+<p> Image: </p>
+<p> * </p>
+<p> * </p>
+<p> * </p>
+<p> * </p>
+<p> Â </p>
+<p> Â </p>
+<p> Â </p>
+<p> Â </p>
+<p> Â </p>
+<p> Â </p>
+<p> The new guideline to doctors comes amid growing concerns about the number of women delaying childbearing. In Canada, 11 per cent of first births now occur in women aged 35 and older, up from five per cent in 1987. </p>
+<p> Photograph by: </p>
+<p> Thinkstock, canada.com </p>
+<p> Â </p>
+<p> Â </p>
+<p> Â </p>
+<p> E-mail this Gallery </p>
+<p> Print this Gallery </p>
+<p> Share this Gallery </p>
+<p> Â </p>
+<p> Â </p>
+<p> Â </p>
+<p> Photo Galleries  » </p>
+<p> More Photo Galleries 		   Â Â» </p>
+<p> Photos of the day </p>
+<p> See our editors' choices of the most eye-catching ... </p>
+<p> more Â» </p>
+<p> Â </p>
+<p> Photos: International Rythmic ... </p>
+<p> The International Rythmic Gymnastics event takes place... </p>
+<p> more Â» </p>
+<p> Â </p>
+<p> Photos: Eyes on the guys at menswear... </p>
+<p> Prada certainly knows how to steal the spotlight. ... </p>
+<p> more Â» </p>
+<p> Â </p>
+<p> More Photo Galleries » </p>
+<p> Â </p>
+<p> Â </p>
+<p> var playingAd; 		document.write("<img id='vid1' height='1' width='1'>"); 		function videoScore(evt){ 			playingAd=evt.data.isAd; 			document.getElementById("vid1").src="http://beacon.securestudies.com/scripts/beacon.dll?C1=1&C2=10276888&C3=3005660&C4=" + window.location.pathname.toLowerCase() + "&C5=&C6=&C7=" + escape(window.location.href) + "&C8=" + escape(document.title) + "&C9=" + escape(document.referrer) + "&rn=" + Math.floor(Math.random()*99999999); 		} 		if (typeof tpController != 'undefined') {  		   tpController.addEventListener("OnMediaStart", "videoScore"); 		} </p>
+<p> Related Topics </p>
+<p> Canada </p>
+<p> Health and Fitness </p>
+<p> Suzanne Tough </p>
+<p> adcookieTag = typeof(adcookieTag) != 'undefined' ? adcookieTag : '';                         dartad_tile = typeof(dartad_tile) != 'undefined' ? dartad_tile + 1 : 1;                         var dartad_url = "http://ad.ca.doubleclick.net/N3081/adj/mg_bh.com/health/story;loc=top_box;loc=top;sz=250x250,300x250,300x600;kw=ron;kw=health;nk=print;pr=mg;ck=health;page=story;kw=mg;tile="+dartad_tile+";"+adcookieTag+surroundTag+"ord=72614930?"; // script ad code with adcookie, used for debug                         document.write('<script language="JavaScript1.1" src="http://ad.ca.doubleclick.net/N3081/adj/mg_bh.com/health/story;loc=top_box;loc=top;sz=250x250,300x250,300x600;kw=ron;kw=health;nk=print;pr=mg;ck=health;page=story;kw=mg;tile='+dartad_tile+';'+adcookieTag+surroundTag+'ord=72614930?"><\/script>'); </p>
+<p> if(adid != "") // check if the ad should start a surround session only if a surround session has not yet started                         {                             surroundTag = "srnd="+adid+";"; // setup the key-value for a surround session                             setSurroundCookie(adid); // store the surround session id in a cookie.                         } </p>
+<p> Most Popular News </p>
+<p> Most Read </p>
+<p> E-mailed </p>
+<p> Commented </p>
+<p> Pop Forecast: Haywire is ready to rumble </p>
+<p> Montreal bands have big plans in 2012 </p>
+<p> Montreal surgeon pioneers revolutionary technique to repair perforated eardrums </p>
+<p> Police investigating molestation cases on STM buses </p>
+<p> Montreal Canadiens win does little to raise Cole's spirits </p>
+<p> Jean-Yves Migneault guilty in abduction, sexual assault of woman in Montreal </p>
+<p> Â </p>
+<p> more </p>
+<p> Â» </p>
+<p> RSS </p>
+<p> Tim Horton's doubles down on cup size </p>
+<p> Montreal scientists discover origins of rare neurological disease </p>
+<p> T-shirt parties are all the rage </p>
+<p> Montreal surgeon pioneers revolutionary technique to repair perforated eardrums </p>
+<p> New Cirque du Soleil show to be called Amaluna </p>
+<p> Crosby will never be The Kid again </p>
+<p> Â </p>
+<p> more </p>
+<p> Â» </p>
+<p> RSS </p>
+<p> setMostCommented("mostCommented", 6, 15); </p>
+<p> Sponsored By </p>
+<p> The Gazette Headline News </p>
+<p> Sign up to receive daily headline news from The Gazette. </p>
+<p> Submit </p>
+<p> Our Privacy Statement </p>
+<p> Diet and Fitness </p>
+<p> Child and Teen </p>
+<p> document.write('<script language="JavaScript1.1" src="http://player.ooyala.com/player.js?wmode=transparent&playerContainerId=player2Div&callback=pmplayer2.PlayerCallbackEvent&playerId=player2&width=300&height=226&embedCode=R0ODdkMjqWI788TuOg7TAHvHmu_nHD92&'+pmAd.get()+'" ><\/script>'); </p>
+<p> var pmplayer2;         	pmplayer2 = new ooYala.PMPlayer('player2', 'player2Div', 'pmplayer2', 'R0ODdkMjqWI788TuOg7TAHvHmu_nHD92', '300','226', "90x60", 4, true, true);                            pmplayer2.Init();                                                        	pmplayer2.SetUpTabs(); </p>
+<p> adcookieTag = typeof(adcookieTag) != 'undefined' ? adcookieTag : '';                         dartad_tile = typeof(dartad_tile) != 'undefined' ? dartad_tile + 1 : 1;                         var dartad_url = "http://ad.ca.doubleclick.net/N3081/adj/mg_bh.com/health/story;loc=bot_box;loc=bot;sz=250x250,300x250;kw=ron;kw=health;nk=print;pr=mg;ck=health;page=story;kw=mg;tile="+dartad_tile+";"+adcookieTag+surroundTag+"ord=72614930?"; // script ad code with adcookie, used for debug                         document.write('<script language="JavaScript1.1" src="http://ad.ca.doubleclick.net/N3081/adj/mg_bh.com/health/story;loc=bot_box;loc=bot;sz=250x250,300x250;kw=ron;kw=health;nk=print;pr=mg;ck=health;page=story;kw=mg;tile='+dartad_tile+';'+adcookieTag+surroundTag+'ord=72614930?"><\/script>'); </p>
+<p> if(adid != "") // check if the ad should start a surround session only if a surround session has not yet started                         {                             surroundTag = "srnd="+adid+";"; // setup the key-value for a surround session                             setSurroundCookie(adid); // store the surround session id in a cookie.                         } </p>
+<p> <!-- 				 google_ad_client   = 'ca-pub-1718995873402338'; 				 google_ad_output   = 'js'; 				 google_max_num_ads = '3'; 				 google_hints       = 'health'; 				 google_safe        = 'high'; 				 google_kw_color    = '#E2A9A9'; 				 google_ad_channel  = 'montreal-gazette-health-story'; 				 google_adtest = 'off'; 				 google_feedback = 'on'; 				// --> </p>
+<p> <!-- 				function google_ad_request_done(google_ads) { 					document.write('<div class="googleadwrapper">'); 					document.write('<div class="box_e5e5e5">'); 					document.write('<div class="box_content">'); 					document.write('<div class="section_title_no_line">'); 					document.write('<h3>'); 					document.write('<a href="' + google_info.feedback_url + '" target="_blank"><span>Ads by Google</span></a>'); 					document.write('</h3>'); 					document.write('</div>'); 					document.write('<div class="clear">&nbsp;</div>');   					var i;  					// Display each ad in turn 					for(i = 0; i < google_ads.length; ++i) { 						document.write('<div class="col_300">'); 						document.write('<div class="wrapper_10_10_10_10">'); 						document.write('<a target="_blank" class="toplink" href="' + google_ads[i].url +'"' + 'onmouseout="window.status=\'\'"' + 'onmouseover="window.status=\'go to ' + google_ads[i].visible_url + '\';return true;">'); 						document.write('<b>' + google_ads[i].line1 + '</b></a>'); 						document.write('<div class="clear">&nbsp;</div>'); 						document.write(google_ads[i].line2); 						document.write('<div class="clear">&nbsp;</div>'); 						document.write(google_ads[i].line3); 						document.write('<div class="clear">&nbsp;</div>'); 						document.write('<a target="_blank" href="' + google_ads[i].url + '"' + 'onmouseout="window.status=\'\'"' + 'onmouseover="window.status=\'go to ' + google_ads[i].visible_url + '\';return true;">' + google_ads[i].visible_url + '</a>'); 						document.write('</div>'); 						document.write('</div>'); 					} 					document.write('</div>'); 					document.write('</div>'); 					document.write('</div>'); 				} 			// --> </p>
+<p> Inside The Gazette </p>
+<p> CDMScriptManager.load("/js/slider.js"); </p>
+<p> Â </p>
+<p> 'Get back on board,' captain ordered </p>
+<p> Â </p>
+<p> Gallery: Canadian stamps honour Queen </p>
+<p> Â </p>
+<p> Stephen Colbert for president? </p>
+<p> Â </p>
+<p> Golden age at the Globes </p>
+<p> Â </p>
+<p> Man's massive mustard museum </p>
+<p> Â </p>
+<p> Hello, Lindsay Lohan ... itâs the tax man </p>
+<p> Â </p>
+<p> Salon de la lingerie 2012: gallery </p>
+<p> Â </p>
+<p> Take the weekly news quiz </p>
+<p> Â </p>
+<p> How to get Thatcher's style </p>
+<p> Â </p>
+<p> Why not have a cup of tea </p>
+<p> var FooterFeature_2_Object = null;                 jQuery(function() { 			FooterFeature_2_Object = new MultiSlider2('FooterFeature_2_Window', 'FooterFeature_2_Content', 'FooterFeature_2_Entry', 10, 5, 1500, 5);  			jQuery('#FooterFeature_2_LeftNavButton').click(function() { FooterFeature_2_Object.slideLeft('FooterFeature_2_Object');}) ; 			jQuery('#FooterFeature_2_RightNavButton').click(function() { FooterFeature_2_Object.slideRight('FooterFeature_2_Object');}) ; 		}); </p>
+<p> tynt={'ap': "Read more: "}; </p>
+<p> Home </p>
+<p> News </p>
+<p> Opinion </p>
+<p> Business </p>
+<p> Sports </p>
+<p> Entertainment </p>
+<p> Life </p>
+<p> Health </p>
+<p> Technology </p>
+<p> Travel </p>
+<p> Jobs </p>
+<p> Cars </p>
+<p> Homes </p>
+<p> Classifieds </p>
+<p> Don't Miss </p>
+<p> Year in review </p>
+<p> Urban Expressions </p>
+<p> Gazette Christmas Fund </p>
+<p> Food and wine </p>
+<p> Contracts database </p>
+<p> Interactives </p>
+<p> Shelter </p>
+<p> Â </p>
+<p> Â» </p>
+<p> RSS </p>
+<p> Most Popular </p>
+<p> Pop Forecast: Haywire is ready to rumble </p>
+<p> Montreal bands have big plans in 2012 </p>
+<p> Montreal surgeon pioneers revolutionary technique to repair perforated eardrums </p>
+<p> Â </p>
+<p> Â» </p>
+<p> RSS </p>
+<p> Formats </p>
+<p> Sitemap / RSS </p>
+<p> Contests </p>
+<p> Blogs </p>
+<p> Columnists </p>
+<p> Photo Galleries </p>
+<p> Videos </p>
+<p> Mobile </p>
+<p> Widget </p>
+<p> iPad App </p>
+<p> The Gazette </p>
+<p> About Us </p>
+<p> Contact Us </p>
+<p> Work for Us </p>
+<p> Advertise with Us </p>
+<p> Subscribe to the Print Edition </p>
+<p> Green Gazette </p>
+<p> The Gazette in the Community </p>
+<p> Tools </p>
+<p> Search </p>
+<p> Search for a Job </p>
+<p> Buy/Sell a Car </p>
+<p> Real Estate Listings </p>
+<p> SwarmJam Sweet Deals </p>
+<p> Place a Classified Ad </p>
+<p> E-mail Alerts </p>
+<p> Flyercity.ca </p>
+<p> canada.com Logo </p>
+<p> About canada.com </p>
+<p> Privacy Statement </p>
+<p> Terms </p>
+<p> Copyright & Permissions </p>
+<p> © 2008 - 2011 Postmedia Network Inc. All rights reserved. </p>
+<p> Unauthorized distribution, transmission or republication strictly prohibited. </p>
+<p> function footerSearch() { 				var q = document.getElementById("f").value.replace(/ /g,"+"); 				if (q.length == 0) { 					alert("Please enter your search criteria"); 					return; 				} 				document.location.href="/search/search.html?q=" + escape(q); 			} </p>
+<p> var _sf_async_config={uid:2831,domain:'montrealgazette.com'}; 			(function(){ 				function loadPublishflow() { 					window._sf_endpt=(new Date()).getTime(); 					var e = document.createElement('script'); 					e.setAttribute('language', 'javascript'); 					e.setAttribute('type', 'text/javascript'); 					e.setAttribute('src',(('https:' == document.location.protocol) ?  											'https://s3.amazonaws.com/' : 'http://s3.amazonaws.com/') + 'publishflow/javascript/data.js'); 					document.body.appendChild(e); 				} 				var oldonload = window.onload; 				window.onload = (typeof window.onload != 'function') ? 									loadPublishflow :  									function() {  										oldonload(); 										loadPublishflow(); 									}; 			})(); </p>
+<p> var _gaq = _gaq || [];   _gaq.push(['_setAccount', 'UA-24419597-2']);   _gaq.push(['_trackPageview']);    (function() {     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);   })(); </p>
+<p> <!--                         /* You may give each page an identifying name, server, and channel on                         the next lines. */                         s.pageName='/health/story.html';                         s.server=window.location.hostname.toLowerCase();                         s.channel='health';                         s.pageType='';                         s.prop1='health';                         s.prop2='health';                         s.prop3='canwest';                         s.prop4='Non-Registered';                         s.prop5=s.prop4 + ': ' + s.pageName;                         s.prop6='Postmedia News/FREE';                         s.prop7='Postmedia News';                         s.prop8='6007363';                         s.prop9='';                         s.prop10='';                         s.prop11='';                         s.prop13='';                         s.prop23=document.title;                         s.prop24=s.prop8;                         s.prop25='story';                         s.prop26='health';                                     s.prop27='';                           s.prop28='';                          s.prop29='';                         s.prop36='Fertility';                          s.prop37='mg_bh.com';                          s.prop43='';                         s.prop44='';                         /* E-commerce Variables */                                                  s.events='';                         s.products='';                         s.purchaseID='';                         s.transactionID = s.purchaseID;                                                  /* s.prop48 for story only */                         s.prop48='Sharon Kirkey, Postmedia News';                                                                /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/                         var s_code=s.t();if(s_code)document.write(s_code)//--> </p>
+<p> <!--                         if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')                         //--> </p>

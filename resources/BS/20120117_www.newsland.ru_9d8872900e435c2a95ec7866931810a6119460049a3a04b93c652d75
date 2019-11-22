@@ -1,0 +1,333 @@
+<p> Цены на алкоголь привяжут к градусам - новость из рубрики Общество, актуальная информация, обсуждение новости, дискуссии на Newsland. </p>
+<p> new adriver.Plugin.require("onScroll.adriver"); </p>
+<p> <!-- var xajaxConfig = { requestURI: "/exp/news/detail/id/866748/", debug: false, statusMessages: false, waitCursor: true, version: "xajax 0.5 Beta 1", legacy: false }; var xajaxLoaded=false; function xajax___construct(){return xajax.call("__construct", {parameters: arguments});} function xajax_indexAction(){return xajax.call("indexAction", {parameters: arguments});} function xajax_userLogin(){return xajax.call("userLogin", {parameters: arguments});} function xajax_userSignup(){return xajax.call("userSignup", {parameters: arguments});} function xajax_oauthSignup(){return xajax.call("oauthSignup", {parameters: arguments});} function xajax_userRestore(){return xajax.call("userRestore", {parameters: arguments});} function xajax_userSetProfile(){return xajax.call("userSetProfile", {parameters: arguments});} function xajax_addMessage(){return xajax.call("addMessage", {parameters: arguments});} function xajax_removeMessage(){return xajax.call("removeMessage", {parameters: arguments});} function xajax_addFriendshipRequest(){return xajax.call("addFriendshipRequest", {parameters: arguments});} function xajax_acceptFriendshipRequest(){return xajax.call("acceptFriendshipRequest", {parameters: arguments});} function xajax_removeFriend(){return xajax.call("removeFriend", {parameters: arguments});} function xajax_addUserToBlacklist(){return xajax.call("addUserToBlacklist", {parameters: arguments});} function xajax_removeUserFromBlacklist(){return xajax.call("removeUserFromBlacklist", {parameters: arguments});} function xajax_userSetSettings(){return xajax.call("userSetSettings", {parameters: arguments});} function xajax_addFeedback(){return xajax.call("addFeedback", {parameters: arguments});} function xajax_addNewsVote(){return xajax.call("addNewsVote", {parameters: arguments});} function xajax_addPollAnswer(){return xajax.call("addPollAnswer", {parameters: arguments});} function xajax_addNews(){return xajax.call("addNews", {parameters: arguments});} function xajax_tagsAction(){return xajax.call("tagsAction", {parameters: arguments});} function xajax_addCommentVote(){return xajax.call("addCommentVote", {parameters: arguments});} function xajax_addComment(){return xajax.call("addComment", {parameters: arguments});} function xajax_notifyParentCommentUser(){return xajax.call("notifyParentCommentUser", {parameters: arguments});} function xajax_notifyNewsUser(){return xajax.call("notifyNewsUser", {parameters: arguments});} function xajax_removeComment(){return xajax.call("removeComment", {parameters: arguments});} function xajax_addComplaint(){return xajax.call("addComplaint", {parameters: arguments});} function xajax_getCommentReplies(){return xajax.call("getCommentReplies", {parameters: arguments});} function xajax_userSubscribe(){return xajax.call("userSubscribe", {parameters: arguments});} function xajax___call(){return xajax.call("__call", {parameters: arguments});} function xajax_run(){return xajax.call("run", {parameters: arguments});} 	--> </p>
+<p> <!-- window.setTimeout(function () { if (!xajaxLoaded) { alert('Error: the xajax Javascript file could not be included. Perhaps the URL is incorrect?\nURL: /library/xajax/xajax_js/xajax.js'); } }, 6000); 	--> </p>
+<p> О портале </p>
+<p> Регистрация </p>
+<p> Войти </p>
+<p> Новости </p>
+<p> 522 новые </p>
+<p> Дискуссии </p>
+<p> 332 горячие </p>
+<p> Пользователи </p>
+<p> 2547 онлайн </p>
+<p> Добавить новость </p>
+<p> <!-- if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); } if (typeof(document.referrer) != 'undefined') {   if (typeof(afReferrer) == 'undefined') {     afReferrer = escape(document.referrer);   } } else {   afReferrer = ''; } var addate = new Date(); var dl = escape(document.location); var pr1 = Math.floor(Math.random() * 1000000);//var pr1 = 1234;   function AdWolf_SetLayerVis(spritename,state){document.getElementById(spritename).style.visibility=state;} function AdWolf_ShowOver(show){if(show){AdWolf_SetLayerVis('AdWolf_DivBaseFlash',"hidden"); AdWolf_SetLayerVis('AdWolf_DivOverFlash',"visible");}else{AdWolf_SetLayerVis('AdWolf_DivOverFlash',"hidden"); AdWolf_SetLayerVis('AdWolf_DivBaseFlash',"visible");}} function AdWolf_Open(){AdWolf_ShowOver(true);} function AdWolf_Close(){AdWolf_ShowOver(false);}   document.write('<div id="AdWolf_banner_'+pr1+'"><\/div>'); document.write('<div style="visibility:hidden; position:absolute;"><iframe id="AdWolf_iframe_'+pr1+'" width=1 height=1 marginwidth=0 marginheight=0 scrolling=no frameborder=0><\/iframe><\/div>');   function AdWolf_getCodeScript(AW_n,AW_src){    var AW_doc;    if(AW_n<10){       try{ 	     if(document.all && !window.opera){ 		    AW_doc = window.frames['AdWolf_iframe_'+pr1].document; 			}else if(document.getElementById){ 			         AW_doc = document.getElementById('AdWolf_iframe_'+pr1).contentDocument; 					 } 		 }catch(e){}     if(AW_doc){ 	   AW_doc.write('<scr'+'ipt type="text/javascript" src="'+AW_src+'"><\/scr'+'ipt>'); 	   }else{ 	      setTimeout('AdWolf_getCodeScript('+(++AW_n)+','+AW_src+')', 100); 		  } 		  } } AdWolf_getCodeScript(1,'http://a.adwolf.ru/prepareCode?p1=xt&amp;p2=m&amp;pct=a&amp;pfc=a&amp;pfb=a&amp;plp=a&amp;pli=a&amp;pop=a&amp;pr=' + pr +'&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;prr=' + afReferrer + '&amp;puid1=&amp;puid2=&amp;puid3=&amp;dl='+dl+'&amp;pr1='+pr1); // --> </p>
+<p> Все новости </p>
+<p> Политика </p>
+<p> Общество </p>
+<p> Экономика и бизнес </p>
+<p> Происшествия </p>
+<p> Личные деньги </p>
+<p> Спорт </p>
+<p> Кино </p>
+<p> Культура </p>
+<p> Игры </p>
+<p> Наука и технологии </p>
+<p> Здоровье </p>
+<p> Авто </p>
+<p> Мозаика </p>
+<p> Знакомства </p>
+<p> Другие новости по этой теме </p>
+<p> Русский путь: смертельные метастазы химеры </p>
+<p> Яндекс расскажет о ценах на бензин </p>
+<p> Беларусь: цены на продукты питания - рекорды 20-летия </p>
+<p> Цены на алкоголь привяжут к градусам </p>
+<p> Вчера в 9:10 </p>
+<p> GrosseBoss </p>
+<p> 268 </p>
+<p> 99 </p>
+<p> 11 </p>
+<p> Теги: </p>
+<p> алкоголь </p>
+<p> , </p>
+<p> цены </p>
+<p> , </p>
+<p> евгений брюн </p>
+<p> Главный нарколог страны, Евгений Брюн, предложил повысить цены на алкоголь. </p>
+<p> Как вы относитсь к этой инициативе? Должны ли водка и другие крепкие напитки стоить дорого? </p>
+<p> Эти вопросы Александр Андреев обсуждал с Евгением Брюном, а также собирал мнения слушателей Радио "Вести ФМ". </p>
+<p> Андреев:Сейчас Евгений Брюн у нас на связи. Евгений Алексеевич, здравствуйте. Правильно я понимаю, бутылка водки должна стоить рублей пятьсот, не меньше? </p>
+<p> Брюн: Во всяком случае, крепкие напитки должны стоить намного дороже, чем слабые напитки. </p>
+<p> Андреев: А чего мы этим добьёмся? Ну, будут пить вместо водки пиво. Разве это хорошо? </p>
+<p> Брюн: Это, в любом случае лучше, чем крепкие. </p>
+<p> Андреев: А чем лучше? Вы знаете, говорят, что пивной алкоголизм ничем не лучше водочного, даже хуже. </p>
+<p> Брюн: Наша наука не выделяет отдельно пивной алкоголизм. Там есть некоторые особенности при предпочтении пива. Но самостоятельного диагноза "пивной алкоголизм" не существует. Но алкогольная нагрузка всё равно будет меньше, если человек пьёт пиво, а не водку. </p>
+<p> Андреев: Нагрузка на печень, вы имеете в виду? </p>
+<p> Брюн: Нагрузка на печень. Я имею в виду, именно алкогольная нагрузка, спиртовая. И потом, ведро пива не выпьешь, чтобы получить какое-то большое, серьёзное опьянение. </p>
+<p> Андреев: Мне кажется, что ведро пива многие граждане России могут легко выпить. </p>
+<p> Брюн: Ничего подобного. Это так кажется, это иллюзии. Иллюзии, скорее, комические такие, когда мужики садятся и пьют по много литров. Таких людей единицы. А вот выпить большое количество крепкого напитка - это, к сожалению, большее число людей себе могут позволить. </p>
+<p> Андреев: Скажите, а какими вы видите тогда цены на пиво, на вино какое-то? </p>
+<p> Брюн: Я не торговец алкогольной продукцией. Я говорю, что сам принцип должен такой, на мой взгляд, соблюдаться. Он был бы справедлив. Понятно, что есть элитные вина, есть элитные напитки, и стоимость их должна по-другому как-то устраиваться. А для ординарных, столовых вин, для не очень элитных водок или пива эта схема должна, на мой взгляд, работать. Она разумна. </p>
+<p> Андреев: Наверное, с вином так и получается. Потому что вино где-то раза в три дороже, чем пиво. </p>
+<p> Брюн: Ну да. Но представьте себе, у нас хорошее пиво, которое безопасно пить, стоит 120 - 150 рублей за 0,5 литра. </p>
+<p> Андреев: Подождите, а это пиво, которое стоит 50 рублей за 0,5 литра - его небезопасно пить? </p>
+<p> Брюн: Я не знаю. Во всяком случае, я думаю, что не зря пиво стоит дёшево. Нужно считать себестоимость, нужно смотреть, что внутри входит, есть регламент приготовления пива. Я вообще считаю, что пиво должно состоять только из трёх составляющих: вода, солод и хмель. </p>
+<p> Андреев Александр </p>
+<p> Источник: </p>
+<p> radiovesti.ru </p>
+<p> 99 </p>
+<p> Добавить комментарий </p>
+<p> <!--// <![CDATA[         /* [id7] nl_teaser_h */             OA_show(7);         // ]]> --> </p>
+<p> Комментарии к новости (11) </p>
+<p> Valdemar_1962 </p>
+<p> комментирует материал </p>
+<p> Вчера в 9:20 </p>
+<p> # </p>
+<p> Два дятла собрались... Один интервьюирует, другой чушь порет.. </p>
+<p> 2 </p>
+<p> 0 минусов | 2 плюса </p>
+<p> Ответить </p>
+<p> Пожаловаться </p>
+<p> ferras33 </p>
+<p> комментирует материал </p>
+<p> Вчера в 9:20 </p>
+<p> # </p>
+<p> Ага. А не додумались всю спиртосодержащую продукцию к градусам привязать: лекарства, парфюмерию...??? </p>
+<p> 1 </p>
+<p> 0 минусов | 1 плюс </p>
+<p> Ответить </p>
+<p> Пожаловаться </p>
+<p> Flint52 </p>
+<p> комментирует материал </p>
+<p> Вчера в 9:21 </p>
+<p> # </p>
+<p> А почему привяжут их уже привязали!!! </p>
+<p> 1 </p>
+<p> 0 минусов | 1 плюс </p>
+<p> Ответить </p>
+<p> Пожаловаться </p>
+<p> salavat-vakipov </p>
+<p> комментирует материал </p>
+<p> Вчера в 9:24 </p>
+<p> # </p>
+<p> Что там говорить, пиво стоит дешевле чем соки. </p>
+<p> 0 </p>
+<p> Ответить </p>
+<p> Пожаловаться </p>
+<p> Алекс_17 </p>
+<p> комментирует материал </p>
+<p> Вчера в 9:31 </p>
+<p> # </p>
+<p> Считай-не считай, а  все это фуфло, что водка твоя, что вино,что пиво. СУРРОГАТ! Настоящие спиртные напитки были только в СССР, качественные и дешевые. Никто ими не травился,как сейчас от этих суррогатов. А "элитные" напитки-это у нас ну,разве только, для "небожителей" Так то вот. </p>
+<p> 1 </p>
+<p> 0 минусов | 1 плюс </p>
+<p> Ответить </p>
+<p> Пожаловаться </p>
+<p> Leo7575 </p>
+<p> комментирует материал </p>
+<p> Вчера в 9:36 </p>
+<p> # </p>
+<p> Гоните люди самогон и все будет в порядке.. </p>
+<p> 2 </p>
+<p> 0 минусов | 2 плюса </p>
+<p> Ответить </p>
+<p> Пожаловаться </p>
+<p> вигвам </p>
+<p> отвечает </p>
+<p> Leo7575 </p>
+<p> на </p>
+<p> комментарий </p>
+<p> Вчера в 10:45 </p>
+<p> # </p>
+<p> Зерновой. Тройной перегонки, с двух-трех летним сроком выдержки в дубовых бочонках, можно дольше... </p>
+<p> 0 </p>
+<p> Ответить </p>
+<p> Пожаловаться </p>
+<p> Kamak </p>
+<p> отвечает </p>
+<p> Leo7575 </p>
+<p> на </p>
+<p> комментарий </p>
+<p> Вчера в 12:45 </p>
+<p> # </p>
+<p> Люди жалуются, что выход самогона стал меньше из-за сахара. Туда тоже сою подсыпают?! </p>
+<p> 0 </p>
+<p> Ответить </p>
+<p> Пожаловаться </p>
+<p> вигвам </p>
+<p> комментирует материал </p>
+<p> Вчера в 10:44 </p>
+<p> # </p>
+<p> При всей своей скупости и прогматичности, америкосы специально производят "социальные" сорта крепкого алкоголя. Литровая бутыль Виски стоит порядка 10 американских денег и вполне доступна бомжам. По вкусу этот напиток - порядочная гадость, но гарантированно, что после его употребления никто не ослепнет и не откинет копыта... </p>
+<p> А вообще идея в статье - интересная. Эти дауны договорятся до того, что приравняют к одной цене бутылку сомнительной осетинской водки и крутой французский коньяк, крепость то, примерно одинакова... </p>
+<p> А если главного нарколога не пугает огромное количество пива, выпиваемое населением, а особенно молодежью, то имеет смысл повесить этого нарколога за шею, как соучастника в убийстве русского народа... </p>
+<p> 1 </p>
+<p> 0 минусов | 1 плюс </p>
+<p> Ответить </p>
+<p> Пожаловаться </p>
+<p> vandial </p>
+<p> комментирует материал </p>
+<p> Вчера в 13:01 </p>
+<p> # </p>
+<p> А почему квас тогда дороже пива? </p>
+<p> 0 </p>
+<p> Ответить </p>
+<p> Пожаловаться </p>
+<p> DUX BELLORVM </p>
+<p> комментирует материал </p>
+<p> Вчера в 17:20 </p>
+<p> # </p>
+<p> Я ухитряюсь найти пиво, которое безопасно пить, по 65-75р за 0.5л - в магазинах "Живое пиво". Питер: пл. Мужества (у начала пр. Непокорённых), также Коломяжский пр., 20 (подвал ближе к Аэродромной, мимо не пройдёшь точно) и ряд иных мест. Вкусно и полезно - пиво Zernoff. </p>
+<p> 0 </p>
+<p> Ответить </p>
+<p> Пожаловаться </p>
+<p> Другие новости по этой теме </p>
+<p> 16 января 1920 года в США был объявлен сухой закон </p>
+<p> chaskor.ru: </p>
+<p> Соединённые Штаты поставили над собой отчаянный эксперимент. 16 января 1920 года вступила в силу 18-я поправка к конституции, запретившая производство, продажу и транспортировку спиртных напитков. 13 лет сухого закона вместили в себя и ревущие двадцатые... </p>
+<p> Вчера в 12:35 </p>
+<p> YDAB11 </p>
+<p> 190 </p>
+<p> 91 </p>
+<p> 3 </p>
+<p> ЖКХ вызывает страх и трепет </p>
+<p> radiovesti.ru: </p>
+<p> В 90-е в частные руки отдали торговлю. Это позволило создать конкуренцию и значительно развить эту сферу. Может быть, так же нужно поступить с ЖКХ? Или эта сфера слишком важна для государства, чтобы доверить ее частникам? Об этом Евгений Стаховский... </p>
+<p> Вчера в 9:06 </p>
+<p> GrosseBoss </p>
+<p> 313 </p>
+<p> 97 </p>
+<p> 11 </p>
+<p> ФАС России: бензин подешевеет только к 2015 году </p>
+<p> primamedia.ru: </p>
+<p> Бензин подешевеет только к 2015 году, считают эксперты Федеральной  антимонопольной службы (ФАС) России. Однако не факт, что даже тогда  нефтяники умерят свои аппетиты. Единственное спасение для  автомобилистов, по мнению антимонопольщоков, - это переход... </p>
+<p> 15.01.2012 </p>
+<p> Doggie2 </p>
+<p> 3445 </p>
+<p> 339 </p>
+<p> 168 </p>
+<p> Русский с Costa Concordia: экипаж судна был пьян! </p>
+<p> Видео </p>
+<p> lifenews.ru: </p>
+<p> Российские туристы, спасшиеся при крушении круизного лайнера, обвиняют членов команды Costa Concordia.Life News удалось связаться с пассажирами злополучного теплохода, потерпевшего крушение у берегов Италии.По словам россиян, ЧП могло случиться по вине... </p>
+<p> 15.01.2012 </p>
+<p> feodorff </p>
+<p> 1071 </p>
+<p> 117 </p>
+<p> 22 </p>
+<p> Скучать на работе вредно для здоровья </p>
+<p> Видео </p>
+<p> utro-russia.ru: </p>
+<p> Скучать на работе вредно. Безделье грозит вылиться в серьезные проблемы  со здоровьем. В частности, скучающие сотрудники часто перекусывают, а  это грозит лишним весом и недовольством собой. Некоторые бездельники  даже отваживаются на прием спиртного.... </p>
+<p> 13.01.2012 </p>
+<p> МУСТАФА </p>
+<p> 1465 </p>
+<p> 34 </p>
+<p> 3 </p>
+<p> Исламисты Индонезии атаковали местное МВД </p>
+<p> Видео </p>
+<p> ntdtv.ru: </p>
+<p> 12 января в Индонезии представители радикальной мусульманской организации «Фронт защитников ислама» атаковали здание министерства внутренних дел. Причина их негодования в том, что по сообщениям в СМИ правительство планирует отменить внутренний... </p>
+<p> 13.01.2012 </p>
+<p> NTDRussian </p>
+<p> 225 </p>
+<p> 59 </p>
+<p> 1 </p>
+<p> Ученого поймали на подделке данных о пользе вина </p>
+<p> pronowosti.ru: </p>
+<p> Американский исследователь сфальсифицировал данные о полезных свойствах  компонента красного вина – ресвератрола, сообщает Medical News Today.Речь  идет о публикациях Дипака Даса, профессора факультета хирургии и  директора сердечно-сосудистого... </p>
+<p> 13.01.2012 </p>
+<p> pvm-77 </p>
+<p> 1905 </p>
+<p> 93 </p>
+<p> 31 </p>
+<p> Экономика Украины убита: расплата неизбежна </p>
+<p> hvylya.org: </p>
+<p> Вторая волна кризиса уже прошлась по Украине в 2011 году. Но ее упорно не хотели замечать ни чиновники (что и понятно) ни значительное количество отечественных экспертов (что заставляет усомниться в их компетентности). Радужные новости о низкой инфляции... </p>
+<p> 13.01.2012 </p>
+<p> znatalur </p>
+<p> 1015 </p>
+<p> 106 </p>
+<p> 10 </p>
+<p> Главным новогодним напитком россиян стала водка </p>
+<p> vesti.ru: </p>
+<p> В прошедшую новогоднюю ночь количество обращений за наркологической помощью выросло на 10% по сравнению с Новым годом-2011, а самым популярным напитком праздника была водка. Об этом рассказал сегодня журналистам главный нарколог Минздравсоцразвития РФ... </p>
+<p> 13.01.2012 </p>
+<p> feodorff </p>
+<p> 347 </p>
+<p> 118 </p>
+<p> 28 </p>
+<p> Новый закон бомбилам не указ </p>
+<p> radiovesti.ru: </p>
+<p> Навести порядок в такси так и не вышло. Несмотря на вступившие в силу новые правила извоза, бомбил-нелегалов на этом рынке меньше не стало.  Они по-прежнему работают без лицензий и требуемых кассовых аппаратов. В официальном такси новый закон соблюдают,... </p>
+<p> 13.01.2012 </p>
+<p> GrosseBoss </p>
+<p> 744 </p>
+<p> 101 </p>
+<p> 10 </p>
+<p> Медведев поручил ФАС проверить цены на бензин </p>
+<p> izvestia.ru: </p>
+<p> Ведомство Игоря Артемьева также проследит за наличием лекарств в аптеках и работой коммунальщиков Президент России Дмитрий Медведев поручил руководителю Федеральной антимонопольной службы Игорю Артемьеву провести мониторинг цен на бензин и другие виды... </p>
+<p> 13.01.2012 </p>
+<p> saffo </p>
+<p> 367 </p>
+<p> 114 </p>
+<p> 26 </p>
+<p> В России может быть введена госмонополия на алкоголь </p>
+<p> kazakh-zerno.kz: </p>
+<p> Госмонополия на производство и оборот алкогольных напитков в России может быть введена уже с 2013 года. Представители «Единой России», ранее критиковавшие эту идею, теперь говорят о том, что подобная мера, поддерживаемая всеми оппозиционными... </p>
+<p> 13.01.2012 </p>
+<p> Alexander. R </p>
+<p> 343 </p>
+<p> 105 </p>
+<p> 13 </p>
+<p> <!-- if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); } if (typeof(document.referrer) != 'undefined') {   if (typeof(afReferrer) == 'undefined') {     afReferrer = escape(document.referrer);   } } else {   afReferrer = ''; } var addate = new Date(); var dl = escape(document.location); var pr1 = Math.floor(Math.random() * 1000000);   function AdWolf_SetLayerVis(spritename,state){document.getElementById(spritename).style.visibility=state;} function AdWolf_ShowOver(show){if(show){AdWolf_SetLayerVis('AdWolf_DivBaseFlash',"hidden"); AdWolf_SetLayerVis('AdWolf_DivOverFlash',"visible");}else{AdWolf_SetLayerVis('AdWolf_DivOverFlash',"hidden"); AdWolf_SetLayerVis('AdWolf_DivBaseFlash',"visible");}} function AdWolf_Open(){AdWolf_ShowOver(true);} function AdWolf_Close(){AdWolf_ShowOver(false);}   document.write('<div id="AdWolf_banner_'+pr1+'"><\/div>'); document.write('<div style="visibility:hidden; position:absolute;"><iframe id="AdWolf_iframe_'+pr1+'" width=1 height=1 marginwidth=0 marginheight=0 scrolling=no frameborder=0><\/iframe><\/div>');   AdWolf_Scroll(pr1,'http://a.adwolf.ru/prepareCode?p1=xf&amp;p2=l&amp;pct=a&amp;pfc=a&amp;pfb=a&amp;plp=a&amp;pli=a&amp;pop=a&amp;pr=' + pr +'&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;prr=' + afReferrer + '&amp;puid1=&amp;puid2=&amp;puid3=&amp;dl='+dl+'&amp;pr1='+pr1);   // --> </p>
+<p> <!--// <![CDATA[     /* [id5] nl_teaser_0 */     OA_show(5); // ]]> --> </p>
+<p> Newsland на email </p>
+<p> new TWTR.Widget({             version: 2,                 type: 'profile',                 rpp: 3,                 interval: 6000,                 width: 240,                 height: 300,                 theme: {                     shell: {                         background: '#e5e5e5',                         color: '#767676'                     },                     tweets: {                         background: '#ffffff',                         color: '#444',                         links: '#767676'                     }                 },             features: {                 scrollbar: false,                 loop: false,                 live: false,                 hashtags: true,                 timestamp: true,                 avatars: false,                 behavior: 'default'             }         }).render().setUser('newslandru').start(); </p>
+<p> Загружается, подождите... </p>
+<p> <!-- var RndNum4NoCash = Math.round(Math.random() * 1000000000); var ar_Tail='unknown'; if (document.referrer) ar_Tail = escape(document.referrer); document.write( '<iframe src="http://ad.adriver.ru/cgi-bin/erle.cgi?' + 'sid=177935&bn=2&target=top&bt=22&pz=0&rnd=' + RndNum4NoCash + '&tail256=' + ar_Tail + '" frameborder=0 vspace=0 hspace=0 width=240 height=400 marginwidth=0' + ' marginheight=0 scrolling=no></iframe>'); //--> </p>
+<p> <!--// <![CDATA[     /* [id4] nl_240x400_2 */     OA_show(4); // ]]> --> </p>
+<p> О Newsland </p>
+<p> О портале </p>
+<p> Вакансии </p>
+<p> Правообладателям </p>
+<p> Пользовательское соглашение </p>
+<p> Лицензионное соглашение </p>
+<p> Правила размещения новостей </p>
+<p> Правила комментирования </p>
+<p> Частые вопросы (FAQ) </p>
+<p> Как повысить рейтинг пользователя </p>
+<p> Обратная связь </p>
+<p> Полезные фишки </p>
+<p> Email-рассылка </p>
+<p> iPhone/смартфон версия </p>
+<p> Яндекс виджет </p>
+<p> Рекламодателям </p>
+<p> Медиа-кит </p>
+<p> Прайс-лист </p>
+<p> Форматы рекламы </p>
+<p> Контакты </p>
+<p> За сутки 101224 посетителя оставили 522 новости и 17057 комментариев. </p>
+<p> Сейчас на сайте 2547 посетителей. </p>
+<p> © 2012 Newsland — информационно-дискуссионный портал, материалы которого формируют пользователи, размещая интересные новости и публицистические материалы и обсуждая острые политические и социальные темы. </p>
+<p> В соответствии с пользовательским соглашением редакция не несет ответственности за содержание материалов (новости, статьи, фото, видео, комментарии), которые размещают пользователи. Для урегулирования спорных вопросов и претензий Вы можете связаться с редакцией и администрацией Newsland по вопросам контента и модерации. </p>
+<p> стильные зимние классические мужские полуботинки </p>
+<p> суперпластификатор </p>
+<p> . </p>
+<p> <!--                     document.write("<a href='http://www.liveinternet.ru/click' "+                     "target=_blank><img src='//counter.yadro.ru/hit?t52.6;r"+                     escape(document.referrer)+((typeof(screen)=="undefined")?"":                     ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?                     screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+                     ";"+Math.random()+                     "' alt='' title='LiveInternet: показано число просмотров и"+                     " посетителей за 24 часа' "+                     "border='0' width='88' height='31'><\/a>")                     //--> </p>
+<p> <!--                     d=document;var a='';a+=';r='+escape(d.referrer);js=10;//--> </p>
+<p> <!--                     a+=';j='+navigator.javaEnabled();js=11;//--> </p>
+<p> <!--                     s=screen;a+=';s='+s.width+'*'+s.height;                     a+=';d='+(s.colorDepth?s.colorDepth:s.pixelDepth);js=12;//--> </p>
+<p> <!--                     js=13;//--> </p>
+<p> <!--                     d.write('<a href="http://top.mail.ru/jump?from=1306018" target="_top">'+                     '<img src="http://dd.ce.b3.a1.top.mail.ru/counter?id=1306018;t=48;js='+js+                     a+';rand='+Math.random()+'" alt="Рейтинг@Mail.ru" border="0" '+                     'height="31" width="88"><\/a>');if(11<js)d.write('<'+'!-- ');//--> </p>
+<p> <!--                     if(11<js)d.write('--'+'>');//--> </p>
+<p> Гость </p>
+<p> Войти </p>
+<p> Зарегистрироваться </p>
+<p> Восстановить пароль </p>
+<p> Обратная связь </p>
+<p> Логин или email </p>
+<p> Пароль </p>
+<p> Войти </p>
+<p> А также вы можете </p>
+<p> var img = new Image();         img.src = 'http://www.tns-counter.ru/V13a***R>' + document.referrer.replace(/\*/g,'%2a') + '*cmedia_ru/ru/CP1251/tmsec=newsland_total/'; </p>
+<p> var _gaq = _gaq || [];         _gaq.push(['_setAccount', 'UA-3582594-1']);         _gaq.push(['_addOrganic', 'm.yandex.ru', 'text', true]);         _gaq.push(['_addOrganic', 'images.yandex.ru', 'text', true]);         _gaq.push(['_addOrganic', 'blogs.yandex.ru', 'text', true]);         _gaq.push(['_addOrganic', 'video.yandex.ru', 'text', true]);         _gaq.push(['_addOrganic', 'go.mail.ru', 'q']);         _gaq.push(['_addOrganic', 'm.go.mail.ru', 'q', true]);         _gaq.push(['_addOrganic', 'mail.ru', 'q']);         _gaq.push(['_addOrganic', 'google.com.ua', 'q']);         _gaq.push(['_addOrganic', 'images.google.ru', 'q', true]);         _gaq.push(['_addOrganic', 'maps.google.ru', 'q', true]);         _gaq.push(['_addOrganic', 'nova.rambler.ru', 'query']);         _gaq.push(['_addOrganic', 'm.rambler.ru', 'query', true]);         _gaq.push(['_addOrganic', 'gogo.ru', 'q']);         _gaq.push(['_addOrganic', 'nigma.ru', 's']);         _gaq.push(['_addOrganic', 'search.qip.ru', 'query']);         _gaq.push(['_addOrganic', 'webalta.ru', 'q']);         _gaq.push(['_addOrganic', 'sm.aport.ru', 'r']);         _gaq.push(['_addOrganic', 'akavita.by', 'z']);         _gaq.push(['_addOrganic', 'meta.ua', 'q']);         _gaq.push(['_addOrganic', 'search.bigmir.net', 'z']);         _gaq.push(['_addOrganic', 'search.tut.by', 'query']);         _gaq.push(['_addOrganic', 'all.by', 'query']);         _gaq.push(['_addOrganic', 'search.i.ua', 'q']);         _gaq.push(['_addOrganic', 'index.online.ua', 'q']);         _gaq.push(['_addOrganic', 'web20.a.ua', 'query']);         _gaq.push(['_addOrganic', 'search.ukr.net', 'search_query']);         _gaq.push(['_addOrganic', 'search.com.ua', 'q']);         _gaq.push(['_addOrganic', 'search.ua', 'q']);         _gaq.push(['_addOrganic', 'poisk.ru', 'text']);         _gaq.push(['_addOrganic', 'go.km.ru', 'sq']);         _gaq.push(['_addOrganic', 'liveinternet.ru', 'ask']);         _gaq.push(['_addOrganic', 'gde.ru', 'keywords']);         _gaq.push(['_addOrganic', 'affiliates.quintura.com', 'request']);         _gaq.push(['_trackPageview']);         _gaq.push(['_trackPageLoadTime']);         (function() {             var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;             ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';             (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);         })(); </p>
+<p> (function(w, c) {         (w[c] = w[c] || []).push(function() {             try {                 w.yaCounter8161474 = new Ya.Metrika({id:8161474, enableAll: true});             }             catch(e) { }         });     })(window, "yandex_metrika_callbacks"); </p>
+<p> var openstat = { counter: 2224477, next: openstat, track_links: "all" };     (function(d, t, p) {     var j = d.createElement(t); j.async = true; j.type = "text/javascript";     j.src = ("https:" == p ? "https:" : "http:") + "//openstat.net/cnt.js";     var s = d.getElementsByTagName(t)[0]; s.parentNode.insertBefore(j, s);     })(document, "script", document.location.protocol); </p>
+<p> <!--     var RndNum4NoCash = Math.round(Math.random() * 1000000000);     var ar_Tail='unknown'; if (document.referrer) ar_Tail = escape(document.referrer);     document.write('<sc' + 'ript language="JavaScript" src="http://ad.adriver.ru/cgi-bin/erle.cgi?sid=170641&bt=16&target=blank&rnd=' + RndNum4NoCash + '&tail256=' + ar_Tail + '"></sc' + 'ript>');     //--> </p>
+<p> <!--     document.write('<scr' + 'ipt language="JavaScript" src="http://drive.videoclik.ru/code?pid=1091&rid=' + (Math.floor(Math.random() * 1000000000)) +'" charset="utf-8" type="text/JavaScript"></scr' + 'ipt>');     // --> </p>
+<p> var bbSite='http___newsland.ru'; var bbMainDomain='stat.arbocontext.ru'; </p>
+<p> /* <![CDATA[ */     var bbs=screen,bbn=navigator,bbh;bbh='&ubl='+1*bbn.browserLanguage+'&ucc='+1*bbn.cpuClass+'&ucd='+1*bbs.colorDepth+'&udx='+1*bbs.deviceXDPI+'&udy='+1*bbs.deviceYDPI+'&usl='+1*bbn.systemLanguage+'&uje='+1*bbn.javaEnabled()+'&uah='+1*bbs.availHeight+'&uaw='+1*bbs.availWidth+'&ubd='+1*bbs.bufferDepth+'&uhe='+1*bbs.height+'&ulx='+1*bbs.logicalXDPI+'&uly='+1*bbs.logicalYDPI+'&use='+1*bbs.fontSmoothingEnabled+'&uto='+(new Date()).getTimezoneOffset()+'&uui='+1*bbs.updateInterval+'&uul='+1*bbn.userLanguage+'&uwi='+1*bbs.width;     if(typeof(bburlparam)=='string') { bbh+='&'+bburlparam; }     if(typeof(bbkeywords)=='string') { bbh+='&keywords='+escape(bbkeywords); }     document.write("<scr"+"ipt type='text/javascript' charset='utf-8' src='http://go.arboru.bbelements.com/please/showit/2181/1/1/50/?typkodu=js"+bbh+"&bust="+Math.random()+"&target=_blank'><"+"\/scr"+"ipt>");     /* ]]> */ </p>
+<p> <!--// <![CDATA[     /* [id8] nl_fullscreen */     OA_show(8);     // ]]> --> </p>

@@ -1,0 +1,812 @@
+<p> 苍井空现身内地公司年会 商界大佬排队拥抱(图)_娱乐频道_凤凰网 </p>
+<p> function ignoreError() {  return true;} window.onerror = ignoreError; </p>
+<p> var docBody = null; function zoomDoc(size) {   if (!docBody) { return; }   if(size == 14) {$('small').className="smallsize";  $('big').className="bigsize";  }    else {$('small').className="bigsize";  $('big').className="smallsize";  }   docBody.style.fontSize = size + 'px';   var __childs = docBody.childNodes;   for (var i = 0; i < __childs.length; i++) { if (__childs[i].nodeType == 1) {  __childs[i].style.fontSize = size + 'px';   }  } } function init() {  docBody = $('artical_real');} V.addListener(window, 'load', init); </p>
+<p> .cWhite,.cWhite a:link,.cWhite a:visited,.cWhite a:hover,.cWhite a:active{color:#fff;} .clear{clear:both;height:0;line-height:0;font-size:0;overflow:hidden;} .h_infoNav{width:100%;margin:0 auto;background:url(http://res.img.ifeng.com/8cbe73a7378dafdb/2011/0401/n_10.gif) repeat-x bottom;height:32px;position:relative;z-index:800;} .h_masthead{height:32px;width:990px;margin:0 auto;padding:0 0 0 10px;background:url(http://res.img.ifeng.com/8cbe73a7378dafdb/2011/0401/n_10.gif) repeat-x bottom; position:relative;} .h_masthead p{float:left; padding-top:10px;} .h_infoNav .h_s01{background:url(http://res.img.ifeng.com/8cbe73a7378dafdb/2011/0401/n_12.gif) no-repeat left center;padding:0 15px;_padding:2px 15px 0} .h_infoNav .h_s02{background:url(http://res.img.ifeng.com/8cbe73a7378dafdb/2011/0401/n_13.gif) no-repeat left center;padding:0 23px 0 12px;_padding:2px 23px 0 12px} .h_infoNav .h_set{float:right; padding:10px 10px 0 0;} .h_set .cGray a{ padding-left:3px;} .h_set .cRed{color:#666; padding-left:10px;} .cGray2,.cGray2 a:link,.cGray2 a:visited,.cGray2 a:hover,.cGray2 a:active{color:#999;} .h_indexLogin{position:absolute; right:0; top:23px;background:url(http://res.img.ifeng.com/tres/images/channel_login.gif) no-repeat left top; width:341px; height:137px; z-index:100;} .h_indexLogin .h_close{float:left; width:332px; height:15px; padding:16px 9px 0 0;} .h_indexLogin .h_close a{float:right; background:url(http://res.img.ifeng.com/tres/images/icon_close.gif) no-repeat 0 2px; padding-left:9px;} .h_indexLogin ul{ float:left; width:161px; padding:7px 0 0 55px;} .h_indexLogin li{ height:30px;} .h_indexLogin label{ vertical-align:middle;} .h_indexLogin .text{width:124px;height:14px;font-size:12px;vertical-align:middle; padding:2px 0 0 2px;} .h_indexLogin .h_btn04{float:right;width:39px;height:19px;background:url(http://res.img.ifeng.com/tres/images/loginBtn.gif) repeat-x top;border:none;cursor:pointer;margin-right:1px; display:inline;} .h_indexReg{float:left; width:60px;padding:21px 0 0 30px; line-height:20px; color:#666;} .h_indexReg a{text-decoration:underline;} .h_indexReg a,.h_indexReg a:link,.h_indexReg a:visited,.h_indexReg a:hover,.h_indexReg a:active{color:#004276;} .h_mainNav{width:980px;height:29px;margin:0 auto;color:#ddd;padding:8px 10px 0; font-family:宋体;} .h_mainNav span{float:right; height:13px;background:url(http://res.img.ifeng.com/8cbe73a7378dafdb/2011/0401/n_11.gif) no-repeat 0 0;padding:1px 0 0 19px;} .h_mainNav ul{float:left;width:910px; padding-top:2px;} .h_mainNav li{float:left; background:url(http://res.img.ifeng.com/8cbe73a7378dafdb/2011/0427/line.gif) no-repeat left center; padding:0 6px 0 9px;} .h_mainNav .cRed, .cRed a:link, .cRed a:visited, .cRed a:hover, .cRed a:active {color: #BA2636;} </p>
+<p> 凤凰网首页 </p>
+<p> 手机凤凰网 </p>
+<p> 注册 </p>
+<p> 登录 </p>
+<p> 关闭 </p>
+<p> 账号 </p>
+<p> 密码 </p>
+<p> 没有账号？ </p>
+<p> 立即注册 </p>
+<p> $("h_getDay").innerHTML=getCnDateTimeStr(); var h_bkurl=window.location.href; $("h_backurl").value=h_bkurl; function h_closeloginbox(){   $('h_loginbox').style.display='none'; } function h_hideloginbox() {   ($("h_loginbox").style.display=="none")?($("h_loginbox").style.display=""):($("h_loginbox").style.display="none"); } function h_CheckInfo(){   var cookieEnabled=(navigator.cookieEnabled)?true:false;   if(!cookieEnabled){	alert('请开启浏览器COOKIE功能！');	return false;	}   if($('h_uname').value==''||$('h_uname').value==null){alert('请输入用户名');	$('h_uname').focus();	return false;}   if($('h_pass').value==''||$('h_pass').value==null){	alert('请输入密码');$('h_pass').focus();return false;	}   $('h_form1').submit();   return false; } function h_cb_userdetail() {   var msg='<span class="cRed"><a href="http://my.ifeng.com/?_c=index&_a=my" target="_blank">'+sso_username+'</a> 欢迎你</span><span class="cGray"><a href="http://my.ifeng.com/?_c=index&_a=logout&backurl='+escape(h_bkurl)+'" id="h_btnlogout">退出</a></span>';   $("h_welcome").innerHTML=msg;   $("h_login").style.display="none";   $("h_welcome").style.display="inline"; } function getCookie_comment(name){   var arr = document.cookie.match(new RegExp('(^| )'+name+'=([^;]*)(;|$)'));   if(arr!=null) return arr[2];   return null; } var sid = getCookie_comment("sid"); if(sid&&sid.length>32) {   sso_username=decodeURIComponent(sid.substr(32));   h_cb_userdetail(); } </p>
+<p> 凤凰卫视 </p>
+<p> 资讯 </p>
+<p> 财经 </p>
+<p> 娱乐 </p>
+<p> 体育 </p>
+<p> 时尚 </p>
+<p> 健康 </p>
+<p> 亲子 </p>
+<p> 汽车 </p>
+<p> 房产 </p>
+<p> 科技 </p>
+<p> 旅游 </p>
+<p> 读书 </p>
+<p> 教育 </p>
+<p> 文化 </p>
+<p> 历史 </p>
+<p> 军事 </p>
+<p> 视频 </p>
+<p> 博客 </p>
+<p> 快博 </p>
+<p> 论坛 </p>
+<p> 公益 </p>
+<p> 佛教 </p>
+<p> 星座 </p>
+<p> var a = 'http://bc.ifeng.com/main/c?db=ifeng&bid=5400,5212,1224&cid=1388,59,1&sid=12025&advid=57&camid=1306&show=ignore&url=http://www.ftms.com.cn/vehicles/reiz/'; var ad = 'http://y0.ifengimg.com/mappa/2011/12/30/1795b5e890a7db462263bf4ad5cb8bdc.swf'; var w = '1000'; var h = '90';  (function(flash_ad, flash_a, flash_w, flash_h){ 	var id = "flash_click_" + Math.ceil(Math.random()*1000000); 	flash_nad = '<object  width="'+flash_w+'px" height="'+flash_h+'px" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" id="flash_swf_'+id+'"><param name="wmode" value="opaque"/><param name="movie" value="'+flash_ad+'"><embed  width="'+flash_w+'px" height="'+flash_h+'px" wmode="opaque" src="'+flash_ad+'" type="application/x-shockwave-flash"></embed></object>'; 	document.write('<div style="clear: both; margin: 0 auto; width:'+flash_w+'px;height:'+flash_h+'px;" id="flash_outer_2_'+id+'"><div style="width:'+flash_w+'px;height:'+flash_h+'px;position:relative;" id="flash_outer_1_'+id+'">'+flash_nad+'<div style="position:absolute; top:0px; left:0px;z-index:3;"><a href="'+flash_a+'" target="_blank"><img style="width:'+flash_w+'px;height:'+flash_h+'px;border:0px" src="http://img.ifeng.com/tres/recommend/html/test/1x1.gif"></a></div></div></div><div class="clear"></div>'); })(ad, a, w, h); </p>
+<p> 马英九连任能否助推两岸新局 </p>
+<p> 马英九胜选，大陆“怀柔政策”奏效。未来四年，对台战略如何调整？ </p>
+<p> 那些年，我们一起追的女孩 </p>
+<p> 青春是一本太仓促的书，九把刀做客读书会，我们一起含泪拜读。 </p>
+<p> 第69届美国电影电视金球奖 </p>
+<p> 《十三钗》落败于伊朗影片《别离》，张艺谋五失金球最佳外语片。 </p>
+<p> 凤凰网娱乐 </p>
+<p> > </p>
+<p> 明星 </p>
+<p> > </p>
+<p> 日韩 </p>
+<p> > 正文 </p>
+<p> .navFind{float:right;width:323px;padding:6px 0 0} .navFind span{float:left} .navFind .text{width:182px;height:16px;padding:2px 0 0 5px;margin-top:1px !important;*margin-top:0px !important;margin-top:0;margin-right:7px;background:#fff;border:1px solid #819bb4;color:#646464;font-size:12px} .navFind .sel{width:55px;height:16px;margin:1px 9px 0 0;padding:2px 0 0 11px;border:1px solid #819bb4;border-right:none;background:#fff url(http://img.ifeng.com/tres/TemplateRes/14705/14705/images/general_head/nav0416_04.gif) no-repeat right center;font-size:12px;color:#646464;cursor:pointer} .navFind .button{width:51px;height:20px;padding:1px 0 0 2px;margin:1px 0 0;border:none;background:url(http://img.ifeng.com/tres/TemplateRes/14705/14705/images/general_head/navFind.gif) no-repeat 0 0;color:#000;font-weight:bold;cursor:pointer} #searchFormOption{position:relative;float:left;z-index:80} #loginFldselectop{position:absolute;border:1px solid #DFDFDF;top:20px;left:0px;width:48px;background:#fff;z-index:99} #loginFldselectop li{line-height:20px;height:20px} #loginFldselectop li a{line-height:20px;height:20px;text-decoration:none;color:#000000;padding-left:11px} 	.stockList{position:absolute;top:28px;left:0;width:300px; border:1px solid #195184; background:#fff; z-index:999;} 	.stockList a,.stockList a:visited{color:#0A5EA6;} 	.stockList .tab td{border-bottom:1px solid #ECECEC; height:21px!important;*height:20px!important;height:20px; padding-left:12px; text-align:left; color:#333;} 	.stockList .tab tr.current{background:#194E80;} 	.stockList .tab tr.current td{color:#fff;background:#194E80;} 	.stockList .tab tr.current td a{color:#fff;} 	.stockList .red{color:#f00;} </p>
+<p> 站内 </p>
+<p> 站内 </p>
+<p> 站外 </p>
+<p> 证券 </p>
+<p> 汽车 </p>
+<p> 视频 </p>
+<p> 苍井空现身内地公司年会 商界大佬排队拥抱(图) </p>
+<p> 2012年01月17日 00:03 </p>
+<p> 来源：新快报 </p>
+<p> 字号: </p>
+<p> T </p>
+<p> | </p>
+<p> T </p>
+<p> 0 </p>
+<p> 人参与 </p>
+<p> 0 </p>
+<p> 条评论 </p>
+<p> 打印 </p>
+<p> 转发 </p>
+<p> '正在加载中...' </p>
+<p> play('867cc067-6adb-4c8c-9c06-dbe25571773b'); </p>
+<p> 苍井空出席公司年会 </p>
+<p> 相关新闻<<< </p>
+<p> 苍井空助阵内地公司年会 众商界大佬轮番登台拥抱[高清大图] </p>
+<p> “年会美女”俨然是2012年的网络新热点。自本月初的度娘、易姐火速蹿红之后，1月15日晚，日本女星 </p>
+<p> 苍井空 </p>
+<p> 现身中国某电子商务网站的年会活动，并与该网站高层、老板以及到会的诸位互联网界大佬拥抱、合影，现场照片一夜之间传遍网络。 </p>
+<p> 当晚，一身皮草的苍井空以神秘嘉宾身份出现，与该网站代言人 </p>
+<p> 韩寒 </p>
+<p> 、 </p>
+<p> 王珞丹 </p>
+<p> 、 </p>
+<p> 黄晓明 </p>
+<p> 、 </p>
+<p> 李宇春 </p>
+<p> 一同亮相。在现场，苍井空展现了她的毛笔字功底，为该品牌的员工加油打气。天使投资人薛蛮子在网上表示，“见到了传说中的苍井空，观摩了她写书法，还问了她何时学书法，颜柳欧赵她临的谁的帖？她回答幼年日本即学书法，到中国来又开始学书，不临帖。” </p>
+<p> 有不少网友对该网站请苍井空参加年会的用意产生质疑，探究其目的是为了娱乐效果还是宣传效果？更有网友称当各种商界大佬上台与苍井空拥抱时，他们的身份颜面何在。 </p>
+<p> 苍井空 </p>
+<p> 出生日期：1983年11月11日身高：155cm体重：45公斤三围：B90G/W58/H83 </p>
+<p> 血型：B型 </p>
+<p> 职业：日本AV女优、电视演员在“熟女”和“妖女”林立的日本AV市场，苍井空因为其萝莉面孔及90G的胸围而赢得了“童颜巨乳”的外号以及超高人气，连续在2003年及2004年蝉联日本《VideoBoy》杂志年度AV女优第一名，成为真正的“宅男杀手”。 </p>
+<p> 娱评 </p>
+<p> 苍井空手里有一副好牌 </p>
+<p> 苍井空在内地的火爆程度，恐怕十年来日本明星无人能及，甚至其行业地位已 </p>
+<p> 经超 </p>
+<p> 越了自身在日本的知名度。有很多人好奇，为何一个北上的穿衣AV女优会取得如此成就？近几年，内地娱乐圈发展异常迅速，行业模式和发达程度基本上已经接近国际水平。我们也有达人秀，我们也有R&B歌手，我们也有像LadyGaga一样走视觉路线的 </p>
+<p> 孙悦 </p>
+<p> 。但是受到法律和体制的影响，有一样东西我们始终没有也不能有，那就是“AV女优”。 </p>
+<p> 苍井空穿上衣服了！那即意味着她的成人女星生涯走到了尽头，其实在日本成人影视界的高速“新陈代谢”环境中，苍井空的影响力只能勉强打入二流水准。但穿上衣服的苍井空来中国了，这意味可就天差地别了。就像 </p>
+<p> 鲁迅 </p>
+<p> 先生在《朝花夕拾》中描述一样“北京的白菜运往浙江，便用红头绳系住菜根，倒挂在水果店头，尊为胶菜。”中国不是缺AV女优，而是根本没有。绝大部分公众对于苍井空的认识完全不是其早期的成人录影带制品，而仅仅是其被媒体无限度放大的AV女优头衔。就像那个北京的白菜一样，日本的苍井空运往中国，便用AV光环套在头上，悬挂在各大媒体娱乐头条位置，尊为“苍老师”。 </p>
+<p> 行为上，苍井空和 </p>
+<p> 芙蓉姐姐 </p>
+<p> 、凤姐、度娘、易姐有一定的相似处，他们是基于网络产品的红人，而不同之处在于，苍井空手里有一副好牌，一副中国人没见过的好牌，只要按照中国的游戏规则出牌，想必无论如何都会有所收获。而说到本次苍井空现身某网站年会，并受到该网站高层领导的追捧，竞相合影留念之余更是将照片通过网络曝光，此举若非炒作,或许可以归纳为一种如 </p>
+<p> 旅游 </p>
+<p> 景点般的围观合影行为。毕竟，物以稀为贵。 </p>
+<p> #research{ width:560px; border:1px solid #ddd; padding:1px; margin:20px auto;}  #research h2{ font-size:14px; color:#901D24; font-weight:bold; background:url(http://img.ifeng.com/tres/appres/survey/images/research_bg.gif) repeat-x top; height:26px; border-bottom:1px solid #ddd; text-indent:8px;}   #research  .question{ padding:10px 20px; width:520px;} #research  .question h3{width:520px; margin:0 auto; text-align:center;font-family:"黑体"; font-size:16px; font-weight:normal; padding:10px 0 12px 0; background:url(http://img.ifeng.com/tres/appres/survey/images/dotline_cms.gif) repeat-x bottom; margin-bottom:12px;} #research  .question td{ font-size:14px;}  #research  .userinfo{ padding:3px 20px; width:520px; font-size:12px;} #research .submit{padding:15px 20px 20px 35px; width:500px;line-height: 16px;} #research .submit input{ width:50px; height:26px;} </p>
+<p> var jsonMaxSelect15707={"31166":"2","31167":"2","31168":"2"}; var jsonQuestion15707={"31166":"\u4f60\u5982\u4f55\u770b\u5f85\u4f01\u4e1a\u9080\u8bf7\u82cd\u4e95\u7a7a\u53c2\u52a0\u5e74\u4f1a\uff1f","31167":"\u4f60\u5e0c\u671b\u5728\u81ea\u5df1\u4f01\u4e1a\u7684\u5e74\u4f1a\u4e0a\u770b\u5230\u82cd\u4e95\u7a7a\u4e48\uff1f","31168":"\u4f60\u4e3a\u4ec0\u4e48\u559c\u6b22\u82cd\u4e95\u7a7a\uff1f"}; function openSurveyWin15707(btuType, surveyId, width, height, left, top) { 	var form=document.getElementsByName("voteForm"+surveyId); 	if(form.length==0) return false; 	form=form[0];     if ( (btuType == null || btuType=="1") && form != null ) {         //判断是否没有选择任何一个选项         //获得所有复选框         var _chk = form.getElementsByTagName("input");         //标识是否选择了任意一个备选选项         var _selected =new Object();         var _selCount = new Object();         for(var i = 0; i < _chk.length; i++) {             if( (_chk[i].name.search("q_") == 0)) {                 if (_chk[i].type=="checkbox" && _chk[i].checked) {                 	qnum=_chk[i].name.replace(/q_(\d+)\[\]/,"$1");                     _selected[qnum] = true;                     _selCount[qnum]++;                 } else if (_chk[i].type=="radio" && _chk[i].checked) {                		qnum=_chk[i].name.replace(/q_(\d+)\[\]/,"$1");                     _selected[qnum] = true;                 }             }         }         for(var key in jsonMaxSelect15707){         	if(_selected[key]>jsonMaxSelect15707[key]){         		alert("问题：“"+jsonQuestion15707[key]+"”只能选择"+jsonMaxSelect15707[key]+"项")         		return false;         	}else if(typeof(_selected[key])=="undefined"){         		alert("问题：”"+jsonQuestion15707[key]+"“还没有选择选项");         		return false;         	}         }         //用户信息         var survey_u=document.getElementById("userinfo"+surveyId);         if(survey_u){ 	        var survey_u_fname=new Object(); 	        if(survey_u){ 	        	_ucheck=survey_u.getElementsByTagName("input"); 		        for(var i = 0; i < _ucheck.length; i++) { 			   		survey_u_fname[ _ucheck[i].name]=true; 			     } 		     } 	        for(var key in survey_u_fname){ 	  			var elements=form.elements; 	       	 	var ck=false; 	       	 	 for(var i = 0; i < elements.length; i++) { 	       	 	 	if(elements[i].name==key){ 		       	 	 	if(elements[i].checked){ 		       	 	 		var ck=true; 		       	 	 	} 	       	 	 	} 	       	 	 } 	       	 	 if(ck==false){ 	       	 	 	alert("对不起，你还有用户信息没有选择"); 	       	 	 	return false; 	       	 	 } 	 	        } 	        _ucheck=survey_u.getElementsByTagName("select"); 			for(var i = 0; i < _ucheck.length; i++) { 			   	if(_ucheck[i].value==-1){ 			   		alert("对不起，你还有用户信息没有选择"); 	       	 	 	return false; 			   	} 			 } 		 }     }     if (btuType != null && btuType != "1") {         //查看         newWindow = window.open("http://survey.news.ifeng.com/result.php?surveyId=" + surveyId,"surveyResult","toolbar,resizable,scrollbars,dependent");         newWindow.focus();     } else {     	newWindow = window.open("about:blank","surveyResult","toolbar,resizable,scrollbars,dependent,width="+width+",height="+height+",left="+left+",top="+top);         newWindow.focus();         form.submit();     }     return false; } </p>
+<p> 调查 </p>
+<p> 你如何看待企业邀请苍井空参加年会？ </p>
+<p> 1.你如何看待企业邀请苍井空参加年会？ </p>
+<p> 炒作，邀请争议明星现身为企业博宣传 </p>
+<p> 民意，邀请苍井空或是企业内部票选结果，顺从员工意愿 </p>
+<p> 趣味，邀请特殊明星现身，难免被怀疑满足部分群体的个人趣味 </p>
+<p> 无所谓，企业有钱请什么样的人都可以 </p>
+<p> 2.你希望在自己企业的年会上看到苍井空么？ </p>
+<p> 希望，她是性感女神 </p>
+<p> 不希望，她是AV女优 </p>
+<p> 无所谓，只求围观 </p>
+<p> 3.你为什么喜欢苍井空？ </p>
+<p> 苍井空是在国内合法渠道唯一可见的日本AV女优 </p>
+<p> 苍井空洗心革面积极上进，是励志偶像 </p>
+<p> 苍井空面容娇美身材火辣是性感女神 </p>
+<p> 不喜欢 </p>
+<p> 1 </p>
+<p> 2 </p>
+<p> 苍井空中国走红 </p>
+<p> · </p>
+<p> 苍井空中国处女代言开价900万 1年身价暴涨50倍 </p>
+<p> · </p>
+<p> 苍井空在日本早过气 有人签300女优进军中 国 </p>
+<p> · </p>
+<p> 苍井空率23位日本女优袭港 现场辣舞[高清大图] </p>
+<p> 苍井空争议合影 </p>
+<p> · </p>
+<p> 宋祖英苍井空齐亮相 助阵吴征新公司成立[高清大图] </p>
+<p> · </p>
+<p> 苍井空亮相梅兰芳大剧院 与京剧泰斗同台合影[图集] </p>
+<p> 相关评论 </p>
+<p> · </p>
+<p> 娱评：苍井空在“下”一盘很大的棋 </p>
+<p> · </p>
+<p> 独家观察：度娘苍井空 “年会红人”成炒作生力军 </p>
+<p> 独家策划 </p>
+<p> · </p>
+<p> 《娱震3.0》之由苍井空聊日本AV产业 </p>
+<p> 李琳 </p>
+<p> [责任编辑：李琳] </p>
+<p> 标签： </p>
+<p> 苍井空 </p>
+<p> 1983年 </p>
+<p> 杂志网 </p>
+<p> 3g.ifeng.com </p>
+<p> 用手机随时随地看新闻 </p>
+<p> 0人 </p>
+<p> 分享到： </p>
+<p> var kb_reg=/<script[ ]*[^>]*?>[\s\S]*?<\/script>/gi;var kb_reg1=/<style[ ]*[^>]*?>[\s\S]*?<\/style>/gi;var kb_reg2=/<form[ ]*[^>]*?>[\s\S]*?<\/form>/gi;var kb_post=document.getElementById("artical_real").innerHTML;kb_post=kb_post.replace(kb_reg,"");kb_post=kb_post.replace(kb_reg1,"");kb_post=kb_post.replace(kb_reg2,"");var sharedata={type:'blog',sourceUrl:window.location.href,title:document.title,desc:kb_post}; </p>
+<p> 凤凰网个人中心 </p>
+<p> 请先登录再进行操作 </p>
+<p> 帐号： </p>
+<p> 密码： </p>
+<p> 记住登录状态 </p>
+<p> 找回密码 </p>
+<p> 注册凤凰通行证 </p>
+<p> var docid="12013959"; // 文章ID var docname="%E8%8B%8D%E4%BA%95%E7%A9%BA%E7%8E%B0%E8%BA%AB%E5%86%85%E5%9C%B0%E5%85%AC%E5%8F%B8%E5%B9%B4%E4%BC%9A%20%E5%95%86%E7%95%8C%E5%A4%A7%E4%BD%AC%E6%8E%92%E9%98%9F%E6%8B%A5%E6%8A%B1%28%E5%9B%BE%29"; // 文章标题 var chnnid="228"; // 频道ID var docurl="http%3A%2F%2Fent.ifeng.com%2Fidolnews%2Fjpkr%2Fdetail_2012_01%2F17%2F12013959_0.shtml"; // 文章URL地址 function renren_connent(type) {     var ifr = $('rr_iframe');     if (ifr) {         ifr.parentNode.removeChild(ifr);     }     var str = '<iframe width="710" height="600" frameborder="0" style="overflow: hidden; position: absolute; left: -1000px; top: -1000px; z-index: 999999;" src="http://ent.ifeng.com/renren/renren_' + type + '.html" id="rr_iframe" allowtransparency="true"/>';     if (document.body.insertAdjacentHTML) {         document.body.insertAdjacentHTML('BeforeEnd', str);     } else {         if (document.body.lastChild) {             var range = document.body.ownerDocument.createRange();             range.setStartAfter(document.body.lastChild);             frag = range.createContextualFragment(str);             document.body.appendChild(frag);         } else {             document.body.innerHTML = str;         }     }     var ifr = $('rr_iframe');     ifr.style.left = (document.body.clientWidth - 600) / 2 + 'px';     var diffY;     if (document.documentElement && document.documentElement.scrollTop) diffY = document.documentElement.scrollTop;     else if (document.body) diffY = document.body.scrollTop;     ifr.style.top = diffY + 'px'; }  function renrenlogin() {     var userid = C.getCookie('0fe4891425d9451c9de41f73745bcab9_user');     if (userid == undefined || userid == '') {} else {         XN_RequireFeatures(["Api"], function() {             XN.Main.init("0fe4891425d9451c9de41f73745bcab9", "http://ent.ifeng.com/renren/xd_receiver.html");             XN.Main.get_sessionState().waitUntilReady(function() {　　　XN.Main.apiClient.users_getInfo([userid], ['name'], function(result, ex) {                     if (!ex) {                         //成功获得调用结果result                         sso_username = result[0]["name"];                         $('cmtLogined').innerHTML = '<b>' + sso_username + '</b><font color="grey">(来自人人网)</font> 凤凰网欢迎您&nbsp;&nbsp;&nbsp;<a href="#" onclick="XN.Connect.logout(function(){logoutSite();});return false;">退出</a>';                         //将评论发布到人人网新鲜事                         $('snm02').innerHTML = '<input type="checkbox" name="ispubrrnew" value="1" checked="checked" />&nbsp;发布到人人网';                         $('cmtLogin').style.display = "none";                         $('cmtLogined').style.display = "";                         var xmkey = 'ifeng.com' + userid + 'ifeng.com';                         C.setCookie('renren_0fe4891425d9451c9de41f73745bcab9_uid', userid, 1, "/", "ifeng.com");                         C.setCookie('renren_0fe4891425d9451c9de41f73745bcab9_user', result[0]['name'], 1, "/", "ifeng.com");                         C.setCookie('renren_0fe4891425d9451c9de41f73745bcab9_key', xmkey, 1, "/", "ifeng.com");                     }                 });　　             });         });     } }  function logoutSite() {     C.deleteCookie('renren_0fe4891425d9451c9de41f73745bcab9_uid', "/", "ifeng.com");     C.deleteCookie('renren_0fe4891425d9451c9de41f73745bcab9_user', "/", "ifeng.com");     C.deleteCookie('renren_0fe4891425d9451c9de41f73745bcab9_key', "/", "ifeng.com");     C.deleteCookie('qq_0fe4891425d9451c9de41f73745bcab9_uid', "/", "ifeng.com");     C.deleteCookie('qq_0fe4891425d9451c9de41f73745bcab9_user', "/", "ifeng.com");     C.deleteCookie('qq_0fe4891425d9451c9de41f73745bcab9_key', "/", "ifeng.com");     window.location.reload(); }  function _toQQzoneLogin() {     document.domain = 'ifeng.com';     var childWindow = window.open("http://comment.ifeng.com/qq_connect/oauth/redirect_to_login.php", "TencentLogin", "modal=yes,width=450,height=320,menubar=0,scrollbars=1, resizable=1,status=1,titlebar=0,toolbar=0,location=1"); }  function __qqLogin() {     document.domain = 'ifeng.com';     var qquser = getCookie_comment("qq_0fe4891425d9451c9de41f73745bcab9_user") ? decodeURIComponent(getCookie_comment("qq_0fe4891425d9451c9de41f73745bcab9_user")) : null;     if (qquser && qquser.length > 1) {         document.getElementById('cmtLogin').style.display = "none";         //document.getElementById('renren').style.display = "none";         //document.getElementById('tencent').style.display = "none";         var text = "<b>" + qquser + "</b><font color=\"grey\">(来自腾讯QQ)</font>凤凰网欢迎您&nbsp;&nbsp;&nbsp;<a href=\"#\"  onclick=\"logoutSite();\">退出</a>";         //alert(qquser);         document.getElementById('cmtLogined').style.display = "block";         document.getElementById('cmtLogined').innerHTML = text;         document.getElementById('sweibo').style.display = "none";         document.getElementById('snm02').style.display = "none";         //document.getElementById('pubqzonenew').style.display = 'block';         //document.getElementById('pubqzonenew').innerHTML += "<span class=\"d02\" id=\"sqzone\"><input type=\"checkbox\" name=\"ext[sync_mb]\" value=\"1\" checked=\"checked\">&nbsp;同步到QQ空间</span>";     } }  function chklogin() {     var nsid = getCookie_comment("sid");     var rruser = getCookie_comment("renren_0fe4891425d9451c9de41f73745bcab9_user");     var qquser = getCookie_comment("qq_0fe4891425d9451c9de41f73745bcab9_user");     if ((nsid && nsid.length > 32) || (rruser && rruser.length > 1) || (qquser && qquser.length > 1)) {         return true;     } else {         alert("请您先登录，再发表评论。");         $("d_uname").focus();         return false;     } } window.onload = __qqLogin; </p>
+<p> 0 </p>
+<p> 人参与 </p>
+<p> 0 </p>
+<p> 条评论(查看) </p>
+<p> 网友评论 </p>
+<p> 共有 </p>
+<p> 0 </p>
+<p> 人参与 </p>
+<p> 评论 </p>
+<p> 0 </p>
+<p> 条 </p>
+<p> #comment2 #cmtLogin img{margin-left:3px;display:inline;} </p>
+<p> 用户名 </p>
+<p> 密码 </p>
+<p> 文明上网，登录评论！ </p>
+<p> 所有评论仅代表网友意见，凤凰网保持中立 </p>
+<p> 同步到微博 </p>
+<p> 发布评论可同步到微博，登录试试吧 </p>
+<p> 如果您还没有开通微博，勾选后会自动开通 </p>
+<p> var docUrl = "http://ent.ifeng.com/idolnews/jpkr/detail_2012_01/17/12013959_0.shtml"; var docName = "苍井空现身内地公司年会 商界大佬排队拥抱(图)"; var skey = 'ea6fc7'; </p>
+<p> $("cmtdocName").value = docName; $("cmtdocUrl").value = docUrl;  function getScript_cds(src, callback) {     var head = document.getElementsByTagName("head")[0];     var js = document.createElement("script");     js.setAttribute("src", src);     js.onload = js.onreadystatechange = function() {         if (!this.readyState || this.readyState == "loaded" || this.readyState == "complete") {             head.removeChild(js);             if (callback) callback();         }     }     head.appendChild(js); }  function reguser() {     var regURL = 'http://my.ifeng.com/?_c=register&_a=new-account&backurl=' + encodeURIComponent(docUrl);     window.open(regURL);     return false; }  function viewAllComment() {     var commentURL = 'http://comment.ifeng.com/view.php?docName=' + encodeURIComponent(docName) + '&docUrl=' + encodeURIComponent(docUrl) + '&skey=' + skey;     window.open(commentURL);     return false; }  function getCookie_comment(name) {     var arr = document.cookie.match(new RegExp('(^| )' + name + '=([^;]*)(;|$)'));     if (arr != null) return arr[2];     return null; }  function cmtCheckInfo(prefix) {     var cmtUser = prefix + '_uname';     var cmtPwd = prefix + '_pass';     var cmtFrm = prefix + '_frm';     var cookieEnabled = (navigator.cookieEnabled) ? true : false;     if (!cookieEnabled) {         alert('请开启浏览器COOKIE功能！');         return false;     }     if ($(cmtUser).value == '') {         alert('请输入用户名');         $(cmtUser).focus();         return false;     }     if ($(cmtPwd).value == '') {         alert('请输入密码');         $(cmtPwd).focus();         return false;     }     $(cmtFrm).submit();     return false; }  function cmtChangeBox(prefix) {     var rruser = getCookie_comment("0fe4891425d9451c9de41f73745bcab9_user");     var qquser = getCookie_comment("qq_0fe4891425d9451c9de41f73745bcab9_user");     if ((sid && sid.length > 32) || (rruser && rruser.length > 1) || (qquser && qquser.length > 1)) {         if ($(prefix + '_content').innerHTML == '文明上网，登录评论！') {             $(prefix + '_content').innerHTML = '';         }     } else {         $(prefix + '_content').innerHTML = '请您先登录，再发表评论。';         $(prefix + '_uname').focus();     } }  function ifengcmtcallback(num, allnum) {     $('comment_count').innerHTML = $('cmtuser01').innerHTML = $('cmtuser02').innerHTML = num;     $('comment_countall').innerHTML = $('cmtuserall01').innerHTML = $('cmtuserall02').innerHTML = allnum; }  function show_msg(prefix) {     if (sid && sid.length > 32) {         $(prefix + 'tbox2').style.display = '';     } else {         $(prefix + 'tbox').style.display = '';     } }  function remove_msg(prefix) {     $(prefix + 'tbox').style.display = 'none';     $(prefix + 'tbox2').style.display = 'none'; } getScript_cds("http://comment.ifeng.com/joincount.php?doc_url=" + encodeURIComponent(docUrl));  function cmtChkLogin(prefix, preuname) {     var rruser = getCookie_comment("0fe4891425d9451c9de41f73745bcab9_user");     var qquser = getCookie_comment("qq_0fe4891425d9451c9de41f73745bcab9_user");     if ((sid && sid.length > 32) || (rruser && rruser.length > 1) || (qquser&&qquser.length>1)) {         $(prefix + '_frm').submit();     } else {         alert("请您先登录，再发表评论。");         $(preuname + "_uname").focus();     } }  function cmtUserLogin(prefix) {     if (sid && sid.length > 32) {         var msg = "";         if (prefix == "cmt") {             msg = '';         }         msg += '<em><a href="http://comment.ifeng.com/viewpersonal.php?uname=' + sso_username + '" target="_blank">' + sso_username + '</a></em> | <a href="http://t.ifeng.com/" target="_blank">我的微博</a> | <a href="http://my.ifeng.com/" target="_blank">个人中心</a> |<a href="http://my.ifeng.com/?_c=index&_a=logout&backurl=' + docUrl + '"> 退出</a>';         $(prefix + "Logined").innerHTML = msg;     } else {         $(prefix + "Logined").innerHTML = '<b>' + sso_username + '</b><font color="grey">(来自人人网)</font> 凤凰网欢迎您&nbsp;&nbsp;&nbsp;<a href="#" onclick="XN.Connect.logout(function(){logoutSite();});return false;">退出</a>';         $('rnm02').innerHTML = '<input type="checkbox" name="ispubrrnew" value="1" checked="checked" />&nbsp;发布到人人网';     }     $(prefix + "Login").innerHTML = '';     $(prefix + "Login").style.display = 'none';     $(prefix + "Logined").style.display = ''; } </p>
+<p> $('comment2').style.display = ''; </p>
+<p> var arrBaiduCproConfig=new Array(); arrBaiduCproConfig['uid'] = 498570; arrBaiduCproConfig['n'] = 'ifeng_cpr'; arrBaiduCproConfig['tm'] = 80;  arrBaiduCproConfig['cm'] = 90;  arrBaiduCproConfig['um'] = 34; arrBaiduCproConfig['rad'] = 1; arrBaiduCproConfig['w'] = 585;  arrBaiduCproConfig['h'] =180;  arrBaiduCproConfig['bd'] = '#ffffff';  arrBaiduCproConfig['bg'] = '#ffffff';  arrBaiduCproConfig['tt'] = '#5256A3';  arrBaiduCproConfig['ct'] = '#444444';  arrBaiduCproConfig['url'] = '#489948';  arrBaiduCproConfig['bdl'] = '#444444';  arrBaiduCproConfig['wn'] = 1;  arrBaiduCproConfig['hn'] = 3;  arrBaiduCproConfig['ta'] = 'right';  arrBaiduCproConfig['tl'] = 'bottom';  arrBaiduCproConfig['bu'] = 1;  arrBaiduCproConfig['nfr'] = 1; </p>
+<p> <!-- document.write(baiduCproIFrame()); --> </p>
+<p> · </p>
+<p> 警惕!心脑血管病猝死 </p>
+<p> · </p>
+<p> 鼻炎-咽炎-照照就OK </p>
+<p> · </p>
+<p> 美国！戴手表，救心脑 </p>
+<p> · </p>
+<p> 心脑病防治—专家支招 </p>
+<p> · </p>
+<p> 戴一戴彻底摆脱降压药 </p>
+<p> · </p>
+<p> 调查心脑血管猝死机率 </p>
+<p> · </p>
+<p> 心脑血管病治疗新突破 </p>
+<p> · </p>
+<p> 紧急公告心脑血管人群 </p>
+<p> 社会 </p>
+<p> 娱乐 </p>
+<p> 生活 </p>
+<p> 探索 </p>
+<p> 38岁白领缺钱 抽死老父亲 </p>
+<p> 潘石屹：限购应对北京人外地人一视同仁 </p>
+<p> 小学规定学生当志愿者可免做寒假作业 </p>
+<p> 01/17 02:00 </p>
+<p> 老师规定学生迟到1分钟罚1元 小组成员连坐 </p>
+<p> 01/17 01:11 </p>
+<p> 苍井空现内地公司年会 商界大佬排队拥抱(图) </p>
+<p> 01/17 08:33 </p>
+<p> 30多岁男子吃大米“过敏” 腹痛腹泻20年 </p>
+<p> 01/17 02:31 </p>
+<p> 男子斥资千万在家乡修小洋楼送5组村民 </p>
+<p> 01/17 06:32 </p>
+<p> 38岁白领缺钱 抽死老父亲 </p>
+<p> 商界大佬排队拥抱苍井空(图) </p>
+<p> 41岁杨钰莹带妆上阵展玉女风采[高清大图] </p>
+<p> 01/17 09:02 </p>
+<p> 齐秦展示拔罐烧伤疤痕 全脸包裹纱布[高清大图] </p>
+<p> 01/17 09:03 </p>
+<p> 朝鲜电视台启用新人 80后女主播替李春姬[图集] </p>
+<p> 01/17 09:57 </p>
+<p> 央视春晚二次彩排 冯绍峰牵手董卿[高清大图] </p>
+<p> 01/17 09:00 </p>
+<p> 江苏台节目选手比赛吃蟑螂(图) </p>
+<p> 01/17 09:09 </p>
+<p> 38岁白领缺钱 抽死老父亲 </p>
+<p> 盘点年会抽奖 跟老板吃饭成最无奈奖 </p>
+<p> 少妇6中诱惑让男人情不自禁 </p>
+<p> 01/17 09:23 </p>
+<p> 中国民间房事养生禁忌大全(组图) </p>
+<p> 01/17 09:55 </p>
+<p> 揭秘男人背着女人最爱做的7件事 </p>
+<p> 01/16 09:37 </p>
+<p> 宝宝出生月份不同 对应易发疾病各异 </p>
+<p> 01/17 08:57 </p>
+<p> 口述：老婆偷人 用了17根香烟的时间 </p>
+<p> 01/17 09:24 </p>
+<p> 38岁白领缺钱 抽死老父亲 </p>
+<p> 阿富汗"男宠"的卑贱生活(组图) </p>
+<p> 实拍非洲国家残忍的割礼习俗(组图) </p>
+<p> 01/17 07:40 </p>
+<p> 壮观！十八万人集体群裸(组图) </p>
+<p> 01/17 07:44 </p>
+<p> 美国男子睪丸重89斤 筹款100万美元做切除手术(图) </p>
+<p> 01/17 07:47 </p>
+<p> 胆小慎入！秘鲁恐怖干尸阵(组图) </p>
+<p> 01/17 07:50 </p>
+<p> 十五个可能毁灭人类超级灾难(组图) </p>
+<p> 01/17 08:07 </p>
+<p> var tc_twtj=new TabControl(); tc_twtj.addRange($('twtj').getElementsByTagName('li'),['zixun','yule','shishang','keji']); tc_twtj.triggerType="mouseover"; tc_twtj.init(); </p>
+<p> 网罗天下 </p>
+<p> 男子为娶小三捅死妻舅 </p>
+<p> 家长租小孩给小偷掩护 </p>
+<p> 待业大学生砍死母亲 </p>
+<p> 猛女咬断抢劫犯手指 </p>
+<p> 实拍伊朗快艇接近美舰 </p>
+<p> 沈阳火车撞翻公交现场 </p>
+<p> 汪洋开会即兴吟对联 </p>
+<p> 城管殴打老人千人围观 </p>
+<p> 流浪汉锤杀7名站街女 </p>
+<p> 交警徒手擒拿持枪歹徒 </p>
+<p> 老太串通司机伪造车祸 </p>
+<p> 白领杀好友藏尸密码箱 </p>
+<p> var focusPic = new TabControl(); focusPic.addRange(['bt01','bt02','bt03'],['tpic01','tpic02','tpic03']); focusPic.preButton = 'pre_pic'; focusPic.nextButton = 'next_pic'; focusPic.triggerType = "click"; focusPic.enableSlide = true; focusPic.autoLoop = true; focusPic.slideInterval = 5000; focusPic.defaultPage =0; focusPic.init(); </p>
+<p> function getScript_cds(src,callback){   var head=document.getElementsByTagName("head")[0];   var js=document.createElement("script");   js.setAttribute("src",src);   js.onload=js.onreadystatechange=function(){     if(!this.readyState||this.readyState=="loaded"||this.readyState=="complete"){       head.removeChild(js);       if(callback) callback();     }   }   head.appendChild(js); } </p>
+<p> if(top.location!==self.location&&document.referrer.search(/http:\/\/[^\/]+\.ifeng\.com/i)!==0){  top.location=self.location;} function form9_submit() {   var form9_uname = $("form9_uname").value;   var form9_pass  = $("form9_pass").value;   if(form9_uname != "" && form9_pass != "") {     $("uname").value=form9_uname;     $("pass").value=form9_pass;     $('form1').submit();   } else {     alert("请输入用户名和密码！");     $("form9_uname").focus();     $("form9").reset();   } } function form9_show() {   $("login_form9").style.display="";   $("form9_uname").focus(); } function form9_hide() {   $("login_form9").style.display="none"; } function rmd_form9() {   if(sid&&sid.length>32) {     //调推荐接口     getScript_cds('http://iuser.ifeng.com/api.php?appkey=recommend&sid='+sid.substring(0,32)+encodeURIComponent(sso_username)+'&format=js&callback=userRecommend&operation=userRecommend&appid=6&fusername='+encodeURIComponent(sso_username)+'&article[url]=http://ent.ifeng.com/idolnews/jpkr/detail_2012_01/17/12013959_0.shtml&article[title]='+encodeURIComponent("苍井空现身内地公司年会 商界大佬排队拥抱(图)")+'&article[posttime]=1326729823&article[summary]='+encodeURIComponent("2011年9月1日，由某网站自制的首部网络剧《在线爱》在北京举办开播仪式，该剧因苍井空的加盟引发外界关注。2011年11月5日，苍井空微博晒与梅兰芳之子，著名京剧表演艺术家梅葆玖及其弟子胡文阁一同合影，网友…"));   } else {     form9_show();   } } function userRecommend(msg) {   if(msg.status != 0) {     alert(msg.body.msg);   } else {     var cnt = parseInt($("rmd_count").value)+1;     $("rmd_d").innerHTML=cnt+"人";     $("rmd_d").title="共有"+cnt+"人推荐此文章";     V.removeListener($("rmd_f"), 'click', function(){rmd_form9();});     $("rmd_f").value = "已推荐";     $("rmd_f").style.cursor="auto";     $("rmd_f").title="";     $("rmd_d_left").style.display="";     $("rmd_d_center").style.display="";     $("rmd_d_right").style.display="";   } } //个人中心对应页面 function getRecommendUserNum(msg) {   var cnt = (msg.body.num==undefined)?0:msg.body.num;   if(cnt != 0) {     $("rmd_d_left").style.display="";     $("rmd_d_center").style.display="";     $("rmd_d_right").style.display="";   }   $("rmd_d").innerHTML=cnt+"人";   $("rmd_count").value = cnt;   $("rmd_d").title="共有"+cnt+"人推荐此文章";   $("rmd_d").href="http://my.ifeng.com/?_c=recommend&_a=recommend-article&url=http://ent.ifeng.com/idolnews/jpkr/detail_2012_01/17/12013959_0.shtml";   $("rmd_d").target="_blank";   $("rmd_d").style.cursor="pointer"; } //调接口判断是否已推荐 function isRecommend(msg) {   if(msg.status == 1) {     $("rmd_f").value = "已推荐";     $("rmd_f").style.cursor="auto";     $("rmd_f").title="";   } else {     V.addListener($("rmd_f"), 'click', function(){rmd_form9();});     $("rmd_f").title="将本文推荐给凤凰好友";     $("rmd_f").style.cursor="pointer";   } } //推荐数字 getScript_cds('http://iuser.ifeng.com/api.php?appkey=recommend&operation=getRecommendUserNum&appid=6&url=http://ent.ifeng.com/idolnews/jpkr/detail_2012_01/17/12013959_0.shtml&format=js&callback=getRecommendUserNum'); var sso_username = ''; var sid = getCookie_comment("sid"); if(sid&&sid.length>32) {   sso_username=decodeURIComponent(sid.substr(32));   getScript_cds('http://iuser.ifeng.com/api.php?appkey=recommend&sid='+sid.substring(0,32)+encodeURIComponent(sso_username)+'&operation=isRecommend&appid=6&fusername='+encodeURIComponent(sso_username)+'&url=http://ent.ifeng.com/idolnews/jpkr/detail_2012_01/17/12013959_0.shtml&format=js&callback=isRecommend'); } else {   V.addListener($("rmd_f"), 'click', function(){rmd_form9();});   $("rmd_f").title="将本文推荐给凤凰好友";   $("rmd_f").style.cursor="pointer"; } V.addListener($("form9_hide"), 'click', function(){form9_hide();}); V.addListener($("form9_submit"), 'click', function(){form9_submit();});  $("form9_backurl").value= "http://ent.ifeng.com/idolnews/jpkr/detail_2012_01/17/12013959_0.shtml"; $("form9_reg").href   = "http://my.ifeng.com/?_c=register&_a=new-account&backurl=http://ent.ifeng.com/idolnews/jpkr/detail_2012_01/17/12013959_0.shtml"; </p>
+<p> (function() {   var docNode=$('artical_real');   var imgs=docNode.getElementsByTagName('img');   for(var i=0;i<imgs.length;i++) {     var img=imgs[i];     if(img.getAttribute("height")>100&&img.getAttribute("width")>100&&(img.parentNode.nodeName!="A")) {       img.style.cursor='pointer';       img.alt='点击进入下一页';       img.onclick=function() {         location.href="http://ent.ifeng.com/idolnews/jpkr/detail_2012_01/17/12013959_1.shtml";       };     }   } })(); </p>
+<p> var Alternate_2137 = { 	max:2, 	current:null, 	cookie_flag:null, 	id:2137, 	getCookie:function(N) { 		var c = document.cookie.split("; "); 		for(var i = 0; i < c.length; i ++) { 			var d = c[i].split("="); 			if(d[0] == N){	return unescape(d[1]);	} 		} 		return ""; 	}, 	setCookie:function(N, V, Q) { 		var L = new Date();	var z = new Date(L.getTime() + Q * 60000);	var domain = '.ifeng.com'; 		document.cookie = N + "=" + escape(V) + ";path=/;domain=" + domain + ";expires=" + z.toGMTString() + ";" 	}, 	getRandom:function() { 		return (parseInt(Math.random()*100000) % this.max); 	}, 	logic:function() { 		var sequence = this.getCookie(this.cookie_flag); 		if(typeof(sequence) === 'undefined' || sequence === '') { 			this.current = this.getRandom(); 		} else { 			this.current = sequence; 		} 		var sequence_next = (parseInt(this.current) + 1) % this.max; 		this.setCookie(this.cookie_flag, sequence_next, 60); 	}, 	play:function() { 		var _AdHtml = document.getElementById('ArpAdPro_' + this.id + this.current).innerHTML; 		_AdHtml = _AdHtml.replace('<!-- ArpAdPro_Date','').replace('ArpAdPro_Date_End -->','').replace(/{\+\+}/g,'--'); 		document.write(_AdHtml); 	}, 	init:function() { 		this.cookie_flag = 'IfengArp_' + this.id; 		this.logic(); 		this.play(); 	} }; Alternate_2137.init(); </p>
+<p> var a = 'http://bc.ifeng.com/main/c?db=ifeng&bid=5821,5606,1262&cid=1385,59,1&sid=12856&advid=367&camid=1349&show=ignore&url=http://fashion.ifeng.com/biz/special/weixingfu/index.shtml'; var ad = 'http://y0.ifengimg.com/mappa/2012/01/06/9df26ceec1c57af0e4fea878ccc62020.swf'; var w = '336'; var h = '280';  (function(flash_ad, flash_a, flash_w, flash_h){ 	var id = "flash_click_" + Math.ceil(Math.random()*1000000); 	flash_nad = '<object  width="'+flash_w+'px" height="'+flash_h+'px" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" id="flash_swf_'+id+'"><param name="wmode" value="opaque"/><param name="movie" value="'+flash_ad+'"><embed  width="'+flash_w+'px" height="'+flash_h+'px" wmode="opaque" src="'+flash_ad+'" type="application/x-shockwave-flash"></embed></object>'; 	document.write('<div style="clear: both; margin: 0 auto; width:'+flash_w+'px;height:'+flash_h+'px;" id="flash_outer_2_'+id+'"><div style="width:'+flash_w+'px;height:'+flash_h+'px;position:relative;" id="flash_outer_1_'+id+'">'+flash_nad+'<div style="position:absolute; top:0px; left:0px;z-index:3;"><a href="'+flash_a+'" target="_blank"><img style="width:'+flash_w+'px;height:'+flash_h+'px;border:0px" src="http://img.ifeng.com/tres/recommend/html/test/1x1.gif"></a></div></div></div><div class="clear"></div>'); })(ad, a, w, h); </p>
+<p> 娱乐推荐 </p>
+<p> 赵本山小品曝光：“黄昏激吻”惹祸 </p>
+<p> 赵本山现场靠吸氧维持体力 </p>
+<p> | </p>
+<p> 央视春晚完整节目单曝光 </p>
+<p> · </p>
+<p> 邓建国还款225万甩“老赖”恶名 承认与小娇妻分手 </p>
+<p> · </p>
+<p> 赵本山传闻搭档段红否认拍AV 不雅照被证实是PS </p>
+<p> · </p>
+<p> 韩寒重金征代笔证据 范冰冰加磅2000万以示支持 </p>
+<p> · </p>
+<p> 谢霆锋拒和张柏芝一起过年：再问复合就跳楼 </p>
+<p> · </p>
+<p> 32岁萧亚轩已立下遗嘱 身家数亿元新台币 </p>
+<p> · </p>
+<p> 测试你的禽兽指标 </p>
+<p> 你对他的爱能得多少分 </p>
+<p> .hotwords{ margin-bottom:-5px;} .hotwords .tit{ font-weight:bold; padding:5px 0;} .hotwords .tit span{float:right; font-weight:normal; color:#666;padding-right:14px;} .hotwords .tit a{color:#2b2b2b;} .hotwords .tit span a{color:#666;} .hotwords li{line-height:24px;} .hotwords li a{ padding-right:8px;} </p>
+<p> 来源： </p>
+<p> 百度新闻 </p>
+<p> 新闻热搜词 </p>
+<p> GDP增9.2% </p>
+<p> 春晚彩排 刘谦失手 </p>
+<p> 红派壹号 </p>
+<p> 沪指暴涨 </p>
+<p> 日本命名钓鱼岛 </p>
+<p> 范冰冰韩寒 悬赏 </p>
+<p> 赵本山 黄昏激吻 </p>
+<p> 购票预售期延长 </p>
+<p> 五粮液 黑榜 </p>
+<p> 养老金入市 </p>
+<p> 快递公司歇业 </p>
+<p> 保时捷调研车 恶搞 </p>
+<p> 商讯 </p>
+<p> · </p>
+<p> “脂肪肝”严重影响人的寿命，如何清除脂肪肝？ </p>
+<p> · </p>
+<p> 心脑血管病美国人吃什么？谁说心血管病不能康复 </p>
+<p> · </p>
+<p> 酒醉后错把小姨当妻子--事后小姨非要嫁我！ </p>
+<p> · </p>
+<p> 前列腺炎尿频急小腹坠会阴痛--轻松自治不求人 </p>
+<p> 中医药科技成果推广 </p>
+<p> · </p>
+<p> 白发：拒绝染发-30天自然转黑-必看（明星视频） </p>
+<p> · </p>
+<p> 痛风病-高尿酸-美国新药，权威治疗、不复发 </p>
+<p> · </p>
+<p> 哮喘-气管炎--权威新药，彻底治愈，杜绝反弹 </p>
+<p> · </p>
+<p> 牛皮顽癣-皮肤癣-牛皮顽癣-权威新药治疗抗复发 </p>
+<p> · </p>
+<p> 糖尿病--基因化糖新疗法--获国际重大突破。 </p>
+<p> ADFHOST5493="http://bc.ifeng.com"; ADFCID5493=732; ADFBID5493=5493; ADFUSER5493="http://bc.ifeng.com/c?d=ifeng-4&i=z732,347858,5493,12200&k=&p=0&v=651697073&wl=&rf=(null)&u="; </p>
+<p> 新闻图片 </p>
+<p> 十大被禁播的MV </p>
+<p> 齐秦自曝烧伤照片 </p>
+<p> 体育一周看台故事 </p>
+<p> 费雯丽：好莱坞最美小三 </p>
+<p> ADFHOST5558="http://bc.ifeng.com"; ADFCID5558=733; ADFBID5558=5558; ADFUSER5558="http://bc.ifeng.com/c?d=ifeng-0&i=z733,356177,5558,12345&k=&p=0&v=559814016&wl=&rf=(null)&u="; </p>
+<p> .label_3{width:320px;background:#fff;margin:9px auto 0 auto;} .label_3 ul{float:left;width:320px;height:42px;background:url(http://img.ifeng.com/page/label_2_bg.gif) repeat-y right top;} .label_3 li{float:left;width:106px;background:url(http://img.ifeng.com/page/label_3.gif) no-repeat bottom left; height:42px; font:normal 16px/42px 黑体; text-align:center;color:#416571;cursor:pointer;} .label_3 li.current{float:left;width:107px;background:url(http://img.ifeng.com/page/label_3.gif) no-repeat top left;} .label_3 li a{color:#416571;} .con3{float:left;width:292px;border:1px solid #ddd;background:#fff; padding:10px 13px; border-top:none;} .con3 img{float:left;width:290px;border:1px solid #ccc;} </p>
+<p> E人E本 </p>
+<p> 移动办公 </p>
+<p> 手写电脑 </p>
+<p> var label_3_ae=new TabControl(); label_3_ae.addRange($("label_3_ae_layor").getElementsByTagName("li"),["label_3_ae_1","label_3_ae_2","label_3_ae_3"]); label_3_ae.triggerType="mouseover"; label_3_ae.enableSlide=true; label_3_ae.slideInterval=5000; label_3_ae.defaultPage=0; label_3_ae.init(); </p>
+<p> 警惕:耳鸣--耳鸣长时耳鸣警惕耳聋 </p>
+<p> · </p>
+<p> 女人身体三处绝不能动 </p>
+<p> · </p>
+<p> 少吃一粒药血压轻松降 </p>
+<p> · </p>
+<p> 耳鸣长时耳鸣警惕耳聋 </p>
+<p> · </p>
+<p> 女人揉三阴终身不变老 </p>
+<p> · </p>
+<p> 惊！糖尿病者远离药物 </p>
+<p> · </p>
+<p> 20天练就一口流利英语 </p>
+<p> · </p>
+<p> 糖尿病-非药物-巧降糖 </p>
+<p> 视频 </p>
+<p> 民进党检讨 或弃台独？ </p>
+<p> 日本拟命名钓鱼岛岛屿 </p>
+<p> 曝金正日临终最后视频 </p>
+<p> 美欲打造印度联日抗华 </p>
+<p> 48小时点击排行 </p>
+<p> 1611682 </p>
+<p> 1 </p>
+<p> 香港再曝“淫媒门” 盘点女星与富豪交 </p>
+<p> 872968 </p>
+<p> 2 </p>
+<p> 苍井空助阵内地公司年会 众商界大佬轮 </p>
+<p> 770955 </p>
+<p> 3 </p>
+<p> 娱乐一周图片精选(01.09--01 </p>
+<p> 742874 </p>
+<p> 4 </p>
+<p> 歌舞女郎为游戏产品颁奖活动站台 着装 </p>
+<p> 739299 </p>
+<p> 5 </p>
+<p> 赵本山宣传新戏 称备战春晚压力大需吃 </p>
+<p> 729599 </p>
+<p> 6 </p>
+<p> 盘点女星和公婆合照 贾静雯因婆媳关系 </p>
+<p> 471512 </p>
+<p> 7 </p>
+<p> 董卿赵雅芝素颜照曝光 揭十大“妆”出 </p>
+<p> 459819 </p>
+<p> 8 </p>
+<p> 2012中华小姐竞选现场[高清大图] </p>
+<p> var a = 'http://bc.ifeng.com/main/c?db=ifeng&bid=4531,4348,745&cid=1382,59,1&sid=10232&advid=318&camid=809&show=ignore&url=http://my.51job.com/my/trace.php?adsnum=233001&ajp=aHR0cDovL215LjUxam9iLmNvbS9jYXJlZXJwb3N0L21hcmtldGluZy9scF8yMDExL2xwXzIwMTFfNi5odG1s'; var ad = 'http://y0.ifengimg.com/mappa/2012/01/12/b4087c8da701824f7123f72daeb1f351.swf'; var w = '336'; var h = '280';  (function(flash_ad, flash_a, flash_w, flash_h){ 	var id = "flash_click_" + Math.ceil(Math.random()*1000000); 	flash_nad = '<object  width="'+flash_w+'px" height="'+flash_h+'px" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" id="flash_swf_'+id+'"><param name="wmode" value="opaque"/><param name="movie" value="'+flash_ad+'"><embed  width="'+flash_w+'px" height="'+flash_h+'px" wmode="opaque" src="'+flash_ad+'" type="application/x-shockwave-flash"></embed></object>'; 	document.write('<div style="clear: both; margin: 0 auto; width:'+flash_w+'px;height:'+flash_h+'px;" id="flash_outer_2_'+id+'"><div style="width:'+flash_w+'px;height:'+flash_h+'px;position:relative;" id="flash_outer_1_'+id+'">'+flash_nad+'<div style="position:absolute; top:0px; left:0px;z-index:3;"><a href="'+flash_a+'" target="_blank"><img style="width:'+flash_w+'px;height:'+flash_h+'px;border:0px" src="http://img.ifeng.com/tres/recommend/html/test/1x1.gif"></a></div></div></div><div class="clear"></div>'); })(ad, a, w, h); </p>
+<p> 女人身体三处绝不能动 </p>
+<p> · </p>
+<p> 女人揉三阴终身不变老 </p>
+<p> · </p>
+<p> 耳鸣专家提示久鸣必聋 </p>
+<p> · </p>
+<p> 少吃一粒药血压轻松降 </p>
+<p> · </p>
+<p> 糖尿病不吃药轻松降糖 </p>
+<p> · </p>
+<p> 女人渴望被亲吻的部位 </p>
+<p> · </p>
+<p> 20天练就一口流利英语 </p>
+<p> · </p>
+<p> 耳鸣-长时耳鸣警耳聋 </p>
+<p> · </p>
+<p> 女人易出轨真相大揭秘 </p>
+<p> · </p>
+<p> 十个动作老公永不出轨 </p>
+<p> · </p>
+<p> 女人很伤肾的七个习惯 </p>
+<p> · </p>
+<p> 惊！糖尿病者远离药物 </p>
+<p> · </p>
+<p> 高血压:非药安全降压 </p>
+<p> 糖尿病--不吃药巧降糖--必看 </p>
+<p> · </p>
+<p> 糖尿病--巧降糖--妙招！ </p>
+<p> · </p>
+<p> 打呼噜--小心夜间猝死 </p>
+<p> · </p>
+<p> 帕金森脑萎缩国际新药 </p>
+<p> · </p>
+<p> 高血压--中医重大突破！ </p>
+<p> · </p>
+<p> 中医减肥餐--月瘦20斤！ </p>
+<p> · </p>
+<p> 糖尿病--基因化糖新疗法 </p>
+<p> · </p>
+<p> 茶王：降三高、补肝肾！ </p>
+<p> · </p>
+<p> 中医减肥餐每天一顿必瘦 </p>
+<p> · </p>
+<p> 牛皮顽癣全新干细胞疗法 </p>
+<p> · </p>
+<p> 糖尿病--巧降糖--必看 </p>
+<p> · </p>
+<p> 2012中高考必考点曝光 </p>
+<p> · </p>
+<p> 高血压非药物降压必看 </p>
+<p> 凤凰无线 </p>
+<p> 短信 </p>
+<p> 音乐 </p>
+<p> 彩铃 </p>
+<p> 视频 </p>
+<p> 齐秦烧伤后首度晒烧伤照 </p>
+<p> 苍井空遭商界大佬轮熊抱 </p>
+<p> 精彩MV </p>
+<p> | </p>
+<p> 特色铃音 </p>
+<p> | </p>
+<p> 首发推荐 </p>
+<p> | </p>
+<p> 奇趣音效 </p>
+<p> | </p>
+<p> 音乐 </p>
+<p> | </p>
+<p> 凤凰图铃 </p>
+<p> · </p>
+<p> 日设情报机关 </p>
+<p> · </p>
+<p> 曝小S怀第三胎 </p>
+<p> · </p>
+<p> 逃兵成电影明星 </p>
+<p> · </p>
+<p> 白冰背景曝光 </p>
+<p> · </p>
+<p> 汪峰禁唱有隐情 </p>
+<p> · </p>
+<p> 周杰伦大战科比 </p>
+<p> · </p>
+<p> 小沈阳成名记 </p>
+<p> · </p>
+<p> 蛇蝎女护士杀人 </p>
+<p> · </p>
+<p> 梁静茹不急造人 </p>
+<p> 资讯 </p>
+<p> 新闻： </p>
+<p> 大陆 </p>
+<p> | </p>
+<p> 国际 </p>
+<p> | </p>
+<p> 台湾 </p>
+<p> | </p>
+<p> 社会 </p>
+<p> 港澳 </p>
+<p> | </p>
+<p> 专题 </p>
+<p> | </p>
+<p> 图片 </p>
+<p> 评论： </p>
+<p> 自由谈 </p>
+<p> | </p>
+<p> 评中评 </p>
+<p> 最深度 </p>
+<p> | </p>
+<p> 时事开讲 </p>
+<p> 军事： </p>
+<p> 防务观察 </p>
+<p> | </p>
+<p> 防务写真 </p>
+<p> 中国军情 </p>
+<p> | </p>
+<p> 环球军情 </p>
+<p> 体育： </p>
+<p> NBA </p>
+<p> | </p>
+<p> 国内足球 </p>
+<p> 国际足球 </p>
+<p> | </p>
+<p> 体育图片 </p>
+<p> 历史： </p>
+<p> 轶闻秘档 </p>
+<p> | </p>
+<p> 历史映像室 </p>
+<p> 历史专题 </p>
+<p> | </p>
+<p> 民间说史 </p>
+<p> 文化： </p>
+<p> 文化时评 </p>
+<p> | </p>
+<p> 文坛往事 </p>
+<p> 人文轶闻 </p>
+<p> | </p>
+<p> 文化热点 </p>
+<p> 教育： </p>
+<p> 高考 </p>
+<p> | </p>
+<p> 高校库 </p>
+<p> | </p>
+<p> 考研 </p>
+<p> 公务员 </p>
+<p> | </p>
+<p> 深度专题 </p>
+<p> 财经 · 房产 </p>
+<p> 新闻： </p>
+<p> 大中华经济 </p>
+<p> | </p>
+<p> 环球财经 </p>
+<p> 政经观察 </p>
+<p> | </p>
+<p> 民生视点 </p>
+<p> 评论： </p>
+<p> 商业评论 </p>
+<p> | </p>
+<p> 宏观分析 </p>
+<p> 金融观察 </p>
+<p> | </p>
+<p> 凤凰专栏 </p>
+<p> 凤凰独家评 </p>
+<p> 股票： </p>
+<p> 数据频道 </p>
+<p> | </p>
+<p> 凤凰视点 </p>
+<p> 股市直播 </p>
+<p> | </p>
+<p> 股市投资观察 </p>
+<p> 理财： </p>
+<p> 基金 </p>
+<p> | </p>
+<p> 理财 </p>
+<p> | </p>
+<p> 银行 </p>
+<p> | </p>
+<p> 保险 </p>
+<p> 外汇 </p>
+<p> | </p>
+<p> 期指 </p>
+<p> | </p>
+<p> 期货 </p>
+<p> | </p>
+<p> 贵金属 </p>
+<p> 收藏 </p>
+<p> | </p>
+<p> 职场 </p>
+<p> 房产： </p>
+<p> 资讯 </p>
+<p> | </p>
+<p> 政策 </p>
+<p> | </p>
+<p> 新房 </p>
+<p> | </p>
+<p> 楼市 </p>
+<p> 业界 </p>
+<p> | </p>
+<p> 评论 </p>
+<p> | </p>
+<p> 专题 </p>
+<p> | </p>
+<p> 滚动 </p>
+<p> 别墅豪宅 </p>
+<p> | </p>
+<p> 访谈 </p>
+<p> | </p>
+<p> 开盘 </p>
+<p> 打折 </p>
+<p> | </p>
+<p> 图库 </p>
+<p> | </p>
+<p> 论坛 </p>
+<p> 娱乐 · 时尚 </p>
+<p> 娱乐： </p>
+<p> 明星 </p>
+<p> | </p>
+<p> 电影 </p>
+<p> | </p>
+<p> 电视 </p>
+<p> | </p>
+<p> 图片 </p>
+<p> 音乐 </p>
+<p> | </p>
+<p> 演出 </p>
+<p> | </p>
+<p> 星座 </p>
+<p> 趣味测试 </p>
+<p> | </p>
+<p> 影讯查询 </p>
+<p> 电影库 </p>
+<p> | </p>
+<p> 艺人资料库 </p>
+<p> 凤凰网·非常道 </p>
+<p> 时尚： </p>
+<p> 女人 </p>
+<p> | </p>
+<p> 服饰 </p>
+<p> | </p>
+<p> 美容 </p>
+<p> | </p>
+<p> 减肥 </p>
+<p> 奢侈品 </p>
+<p> | </p>
+<p> 情感 </p>
+<p> | </p>
+<p> 新娘 </p>
+<p> | </p>
+<p> 图片 </p>
+<p> 视频 </p>
+<p> | </p>
+<p> 活动 </p>
+<p> 汽车 · 旅游 </p>
+<p> 汽车： </p>
+<p> 资讯 </p>
+<p> | </p>
+<p> 业界 </p>
+<p> | </p>
+<p> 金融 </p>
+<p> | </p>
+<p> 专栏 </p>
+<p> 专题 </p>
+<p> | </p>
+<p> 购车 </p>
+<p> | </p>
+<p> 新车 </p>
+<p> | </p>
+<p> 导购 </p>
+<p> 行情 </p>
+<p> | </p>
+<p> 试驾 </p>
+<p> | </p>
+<p> 对比 </p>
+<p> | </p>
+<p> 玩车 </p>
+<p> 车型 </p>
+<p> | </p>
+<p> 图库 </p>
+<p> | </p>
+<p> SUV </p>
+<p> | </p>
+<p> 口碑 </p>
+<p> 车企 </p>
+<p> | </p>
+<p> 人物 </p>
+<p> | </p>
+<p> 车模 </p>
+<p> | </p>
+<p> 投诉 </p>
+<p> 车吧 </p>
+<p> | </p>
+<p> 上海车展 </p>
+<p> 旅游： </p>
+<p> 出境游 </p>
+<p> | </p>
+<p> 周边游 </p>
+<p> | </p>
+<p> 国内游 </p>
+<p> 主题游 </p>
+<p> | </p>
+<p> 业界 </p>
+<p> | </p>
+<p> 达人秀 </p>
+<p> 购物美食 </p>
+<p> | </p>
+<p> 趣图 </p>
+<p> | </p>
+<p> 视频 </p>
+<p> 景点大全 </p>
+<p> | </p>
+<p> 旅游图赏 </p>
+<p> 专栏 </p>
+<p> | </p>
+<p> 专题 </p>
+<p> | </p>
+<p> 户外 </p>
+<p> | </p>
+<p> 论坛 </p>
+<p> 科技 · 健康 </p>
+<p> 科技： </p>
+<p> 通信 </p>
+<p> | </p>
+<p> 3G </p>
+<p> | </p>
+<p> 互联网 </p>
+<p> | </p>
+<p> 传媒 </p>
+<p> IT业界 </p>
+<p> | </p>
+<p> 数码 </p>
+<p> | </p>
+<p> 笔记本 </p>
+<p> 手机 </p>
+<p> | </p>
+<p> 选机中心 </p>
+<p> 每日点评 </p>
+<p> | </p>
+<p> 风谈天下 </p>
+<p> 中外名刊 </p>
+<p> | </p>
+<p> 人物 </p>
+<p> 科技论坛 </p>
+<p> | </p>
+<p> 视频 </p>
+<p> 科技专题 </p>
+<p> | </p>
+<p> 探索 </p>
+<p> 健康： </p>
+<p> 养生 </p>
+<p> | </p>
+<p> 食疗 </p>
+<p> | </p>
+<p> 心理 </p>
+<p> | </p>
+<p> 疾病 </p>
+<p> 热点 </p>
+<p> | </p>
+<p> 自测 </p>
+<p> | </p>
+<p> 论坛 </p>
+<p> | </p>
+<p> 导医 </p>
+<p> 图库 </p>
+<p> | </p>
+<p> 健康大视界 </p>
+<p> 专题 </p>
+<p> | </p>
+<p> 卡路里计算器 </p>
+<p> 视频 </p>
+<p> | </p>
+<p> 百科 </p>
+<p> | </p>
+<p> 悬赏 </p>
+<p> .clear{ clear:both;} .chaFotNav ul, .chaFotNav li{ margin:0px; padding:0px;}/*100318*/ .chaFotNav li{ list-style:none;}/*100318*/  .chaFotNav { width:998px; border:1px #d9d9d9 solid; margin:0 auto; font-family:simsun, Arial; font-size:12px; clear:both;background:#fff;} .chaFotNav .endNList { width:772px; float:left; padding:8px 0px;}/*100325*/ .chaFotNav .endNList li { padding:0px 4px 0px 5px; background:url(http://img.ifeng.com/tres/TemplateRes/26110/26110/images/news_v5/zxicon_26.gif) right center no-repeat; float:left;} .chaFotNav .endNList li a { color:#2b2b2b; text-decoration:none;} .chaFotNav .endNList li a:hover{ text-decoration:underline;} .chaFotNav .navFocus { width:200px; padding:5px 0 0 0px; margin:0 0px 0 0; color:#ba2636; line-height:18px; float:right;}/*100325*/ .chaFotNav .navFocus a { line-height:18px; text-decoration:none;} .chaFotNav .navFocus a:hover { text-decoration:underline;} .chaFotNav .navV a, .chaFotNav .navVIP a, .chaFotNav .ifengPlay a, .chaFotNav .tvPlay a, .chaFotNav .navWap a, .chaFotNav .navTmp a { color:#ba2636; } .chaFotNav .navV { width:37px; background:url(http://img.ifeng.com/tres/TemplateRes/26110/26110/images/news_v5/nav0416_14.gif) no-repeat 1px 4px; padding:0 0 0 17px; float:left } .chaFotNav .navTmp { width:37px; float: left; }/*100325*/ /*.chaFotNav .navVIP { width:42px; background:url(http://img.ifeng.com/tres/TemplateRes/26110/26110/images/news_v5/nav0416_09.gif) no-repeat 24px 3px; float:left }*/ .chaFotNav .ifengPlay { width: 37px; float: left; }/*100325*/ .chaFotNav .tvPlay { width:55px; background:url(http://img.ifeng.com/tres/TemplateRes/26110/26110/images/news_v5/nav0416_17.gif) no-repeat 0px 3px; padding:0 0 0 15px; float:left } .chaFotNav .navWap { width:30px; background:url(http://img.ifeng.com/tres/TemplateRes/26110/26110/images/news_v5/nav0416_06.gif) no-repeat 0px 2px; padding:0 0 0 11px; float:left } .chaFotNav .nextTop { width:40px; height:20px; padding:7px 0 0 3px; border-left:1px #d9d9d9 solid; float:left } .chaFotNav02 { width:1000px; height:21px; margin:0 auto; background:#fff url(http://img.ifeng.com/tres/TemplateRes/26110/26110/images/news_v5/icon02_04.gif) repeat-x bottom;  font-size:0px; line-height:0px; clear:both }  .chaFooter{ color:#000; width:1000px; height:72px; margin:0 auto; clear:both; text-align:center; line-height:24px; font-family:Arial, simsun; font-size:12px;background:#fff; padding-top:8px;} .chaFooter a{ color:#000; text-decoration:none;} .chaFooter a:hover{ color:#000; text-decoration:underline;} .chaFooter .footLink{ line-height:22px;}/*100318*/ .chaFooter .footLink a{ padding:0px 8px;} .chaFooter .copyright{ color:#000; line-height:22px;}/*100318*/ </p>
+<p> 首页 </p>
+<p> 资讯 </p>
+<p> 台湾 </p>
+<p> 评论 </p>
+<p> 财经 </p>
+<p> 汽车 </p>
+<p> 科技 </p>
+<p> 房产 </p>
+<p> 旅游 </p>
+<p> 娱乐 </p>
+<p> 时尚 </p>
+<p> 体育 </p>
+<p> 军事 </p>
+<p> 历史 </p>
+<p> 读书 </p>
+<p> 教育 </p>
+<p> 健康 </p>
+<p> 亲子 </p>
+<p> 游戏 </p>
+<p> 城市 </p>
+<p> 论坛 </p>
+<p> 博报 </p>
+<p> 微博 </p>
+<p> 视频 </p>
+<p> · </p>
+<p> 纪实 </p>
+<p> · </p>
+<p> 直播 </p>
+<p> 凤凰卫视 </p>
+<p> 凤凰新媒体介绍 </p>
+<p> | </p>
+<p> 投资者关系 Investor Relations </p>
+<p> | </p>
+<p> 广告服务 </p>
+<p> | </p>
+<p> 诚征英才 </p>
+<p> | </p>
+<p> 保护隐私权 </p>
+<p> | </p>
+<p> 免责条款 </p>
+<p> | </p>
+<p> 法律顾问 </p>
+<p> | </p>
+<p> 意见反馈 </p>
+<p> | </p>
+<p> 凤凰卫视介绍 </p>
+<p> 凤凰新媒体 版权所有 </p>
+<p> Copyright © 2011 Phoenix New Media Limited All Rights Reserved. </p>
+<p> var IfengAdCookie = { author:"JingWu", version:"0.0.1", tmp:{}, set:function(param) { if(typeof(param) === 'undefined' || typeof(param.name) === 'undefined' || typeof(param.value) === 'undefined') { alert('参数有误，请返回修改! ex:{\'name\':,\'value\':,\'time\':}'); return false; } if(typeof(param.time) === 'undefined') { var now = new Date(); var date = new Date(now.getFullYear(), (now.getMonth() + 1), now.getDate(), 23, 59, 59); } else { var date = new Date(param.time); }  document.cookie = param.name + "=" + escape(param.value) + ";path=/;expires=" + date.toGMTString() + ";" }, get:function(param) { if(typeof(param) === 'undefined' || typeof(param.name) === 'undefined') { alert('参数有误，请返回修改! ex:{\'name\':}'); return false; } var c = document.cookie.split("; "); for(var i = 0; i < c.length; i ++) { var d = c[i].split("="); if(d[0] == param.name) { return unescape(d[1]); } } return ""; } };  var IfengAdAlternate = { version:'0.0.1', author:'JingWu', tmp:{}, stock:{}, play:function() { if(this.checkParam()) { } else { return false; } this.init_stock(); this.install(); }, checkParam:function() { var param = this.stock[this.tmp.id]; var len = this.stock[this.tmp.id].length; for(var i=0; i<len; i++) { if(typeof(param[i]) == 'undefined' ) { continue; } if( param[i].length == 4 ){ if( (param[i][0] === '') ) { alert('广告代码参数有误，在第 ' + i + ' 个广告，第 1 个参数'); return false; } if( param[i][1] === '' || isNaN(param[i][1]) ) { alert('广告代码参数有误，在第 ' + i + ' 个广告，第 2 个参数'); return false; } if( param[i][2] === true || param[i][2] === false ) { } else { alert('广告代码参数有误，在第 ' + i + ' 个广告，第 3 个参数'); return false; } if( param[i][3] === '' ) { alert('广告代码参数有误，在第 ' + i + ' 个广告，第 4 个参数'); return false; } } else { alert('第 ' + i + ' 个广告参数不全'); return false; } } return true; }, checkInstall:function() { if(typeof(IfengAdAlternate.tmp.checkInstall) == 'undefined') { IfengAdAlternate.tmp.checkInstall = 0; } document.write('<scr'+'ipt language="javascript" type="text/javascript" src="http://img.ifeng.com/tres/html/birangtest/checkInstall.js\">'+'</'+'script>'); }, install:function() { IfengAdAlternate.tmp.checkInstall = 0; var current_ad = this.getSequence(); if(current_ad === 'complete') { return true; } else { document.write(current_ad[0]); this.tmp.current = current_ad; // 将当前播放的广告放入当前页面的临时变量 this.checkInstall(); } }, installSucess:function() { return true; }, installFail:function() { if(IfengAdAlternate.stock[IfengAdAlternate.tmp.id].length == 1) { return true; } IfengAdAlternate.tmp.checkInstall = 0; IfengAdAlternate.install(); }, cookie_flag:function() { var flag_cookie = ""; var domain = document.domain.substr(0, (document.domain.length-10));  var href = document.location.href; var start = href.lastIndexOf("/") + 1; var end = href.lastIndexOf("."); href = href.substr(start, end-start);  flag_cookie = domain + href; return 'IfengAA_' + flag_cookie; }, getSequence:function() { var len_current_level = 0; var cookie_arr = new Array(); var next_level = 0; var level = 0;  IfengAdAlternate.tmp.complete = IfengAdAlternate.tmp.complete + 1; // 获取 cookie  var cookieFlag = IfengAdAlternate.cookie_flag(); var cookie = IfengAdCookie.get({'name': cookieFlag + IfengAdAlternate.tmp.id});  // 判断需要播放的广告 if(cookie == '') { len_current_level = IfengAdAlternate.tmp.level_list[IfengAdAlternate.tmp.level_arr[0]].length; if(len_current_level == 1) { // 只有一个广告 cookie_arr = [0, 0, 1]; } else { cookie_arr = [0, IfengAdAlternate.random(len_current_level), 1]; } } else { cookie_arr = cookie.split('_'); level = IfengAdAlternate.tmp.level_arr[cookie_arr[0]]; len_current_level = IfengAdAlternate.tmp.level_list[level].length; if(cookie_arr[2] >= len_current_level) { // 当前级别广告是否播放完成 if(cookie_arr[0] >= IfengAdAlternate.tmp.level_arr.length-1) { // 广告轮播完成，重新开始轮播 len_first_level = IfengAdAlternate.tmp.level_list[IfengAdAlternate.tmp.level_arr[0]].length; if(len_first_level == 1) { // 只有一个广告 cookie_arr = [0, 0, 1]; } else { cookie_arr = [0, IfengAdAlternate.random(len_first_level), 1]; } } else { // 播放下一级别广告 next_level = IfengAdAlternate.tmp.level_arr[parseInt(cookie_arr[0])+1]; len_next_level = IfengAdAlternate.tmp.level_list[next_level].length; if(len_next_level == 1) { // 只有一个广告 cookie_arr = [parseInt(cookie_arr[0])+1, 0, 1]; } else { cookie_arr = [parseInt(cookie_arr[0])+1, IfengAdAlternate.random(len_next_level), 1]; } } } else { if(cookie_arr[1] >= len_current_level-1) { cookie_arr = [cookie_arr[0], 0, parseInt(cookie_arr[2])+1]; } else { cookie_arr = [cookie_arr[0], parseInt(cookie_arr[1]) + 1, parseInt(cookie_arr[2])+1]; } } } IfengAdCookie.set({'name':cookieFlag + IfengAdAlternate.tmp.id, 'value': cookie_arr[0] + '_' + cookie_arr[1] + '_' + cookie_arr[2]}); if(IfengAdAlternate.tmp.complete >= 10) { return 'complete'; } else { level = this.tmp.level_arr[cookie_arr[0]]; return this.tmp.level_list[level][cookie_arr[1]]; } }, random:function(len) { return (parseInt(Math.random()*100000) % len); }, init_stock:function() { var list = this.stock[this.tmp.id]; var len = list.length; var len_list=0; var level=0; var level_arr = new Array(); var level_list = new Array();  // 序列存储对原始数据的要求为：按等级顺序排列 for(var i=0; i<len; i++) { level = list[i][1]; // 获取广告级别 if(level_arr[level_arr.length-1] == level) { // 广告级别已存在，将广告放入同级别数组中 len_list = level_list[level].length; level_list[level][len_list] = list[i]; } else { // 新的广告级别 level_arr[level_arr.length] = level; level_list[level] = [list[i]]; } } IfengAdAlternate.tmp.level_arr = level_arr; IfengAdAlternate.tmp.level_list = level_list; }, init:function(param) { this.tmp.id = param.id; this.tmp.complete = 0; this.stock[param.id] = param.list; this.play(); } };  var Alternate_inner={ id:'fashion', list:[ ['<scr'+'ipt language="javascript" type="text/javascript" src="http://sc.ifeng.com/js.ng/level=content&location=2&site=ifeng&type=ifocus\">'+'</'+'script>',1,true,"_IFOCUS_CONTROL_"], ['<scr'+'ipt language="javascript" type="text/javascript" src="http://static.acs86.com/ifeng/41385.js\">'+'</'+'script>',2,true,"_ACS86_ENABLE_41385_"], ['<scr'+'ipt language="javascript" type="text/javascript" src="http://img.ifeng.com/tres/html/birangtest/adsame.js\">'+'</'+'script>',2,true,"_ADSAME_CONTROL_"], ['<scr'+'ipt language="javascript" type="text/javascript" src="http://img.ifeng.com/tres/recommend/cpro/quantone/2010/10/101030/101030-SmartMedia-ent.js\">'+'</'+'script>',2,true,"_SMARTMEDIA_3327886665615566_CTRL_"] ] };  IfengAdAlternate.init(Alternate_inner); </p>
+<p> if(sid&&sid.length>32){     sso_username=decodeURIComponent(sid.substr(32));     cmtUserLogin('cmt'); }else{     $("cmtBackUrl").value=docUrl;     renrenlogin(); } </p>

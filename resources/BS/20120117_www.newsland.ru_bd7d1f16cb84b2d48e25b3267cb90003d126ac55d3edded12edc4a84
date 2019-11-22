@@ -1,0 +1,220 @@
+<p> Виноград спасёт от слепоты - новость из рубрики Здоровье, актуальная информация, обсуждение новости, дискуссии на Newsland. </p>
+<p> new adriver.Plugin.require("onScroll.adriver"); </p>
+<p> <!-- var xajaxConfig = { requestURI: "/exp/news/detail/id/867687/", debug: false, statusMessages: false, waitCursor: true, version: "xajax 0.5 Beta 1", legacy: false }; var xajaxLoaded=false; function xajax___construct(){return xajax.call("__construct", {parameters: arguments});} function xajax_indexAction(){return xajax.call("indexAction", {parameters: arguments});} function xajax_userLogin(){return xajax.call("userLogin", {parameters: arguments});} function xajax_userSignup(){return xajax.call("userSignup", {parameters: arguments});} function xajax_oauthSignup(){return xajax.call("oauthSignup", {parameters: arguments});} function xajax_userRestore(){return xajax.call("userRestore", {parameters: arguments});} function xajax_userSetProfile(){return xajax.call("userSetProfile", {parameters: arguments});} function xajax_addMessage(){return xajax.call("addMessage", {parameters: arguments});} function xajax_removeMessage(){return xajax.call("removeMessage", {parameters: arguments});} function xajax_addFriendshipRequest(){return xajax.call("addFriendshipRequest", {parameters: arguments});} function xajax_acceptFriendshipRequest(){return xajax.call("acceptFriendshipRequest", {parameters: arguments});} function xajax_removeFriend(){return xajax.call("removeFriend", {parameters: arguments});} function xajax_addUserToBlacklist(){return xajax.call("addUserToBlacklist", {parameters: arguments});} function xajax_removeUserFromBlacklist(){return xajax.call("removeUserFromBlacklist", {parameters: arguments});} function xajax_userSetSettings(){return xajax.call("userSetSettings", {parameters: arguments});} function xajax_addFeedback(){return xajax.call("addFeedback", {parameters: arguments});} function xajax_addNewsVote(){return xajax.call("addNewsVote", {parameters: arguments});} function xajax_addPollAnswer(){return xajax.call("addPollAnswer", {parameters: arguments});} function xajax_addNews(){return xajax.call("addNews", {parameters: arguments});} function xajax_tagsAction(){return xajax.call("tagsAction", {parameters: arguments});} function xajax_addCommentVote(){return xajax.call("addCommentVote", {parameters: arguments});} function xajax_addComment(){return xajax.call("addComment", {parameters: arguments});} function xajax_notifyParentCommentUser(){return xajax.call("notifyParentCommentUser", {parameters: arguments});} function xajax_notifyNewsUser(){return xajax.call("notifyNewsUser", {parameters: arguments});} function xajax_removeComment(){return xajax.call("removeComment", {parameters: arguments});} function xajax_addComplaint(){return xajax.call("addComplaint", {parameters: arguments});} function xajax_getCommentReplies(){return xajax.call("getCommentReplies", {parameters: arguments});} function xajax_userSubscribe(){return xajax.call("userSubscribe", {parameters: arguments});} function xajax___call(){return xajax.call("__call", {parameters: arguments});} function xajax_run(){return xajax.call("run", {parameters: arguments});} 	--> </p>
+<p> <!-- window.setTimeout(function () { if (!xajaxLoaded) { alert('Error: the xajax Javascript file could not be included. Perhaps the URL is incorrect?\nURL: /library/xajax/xajax_js/xajax.js'); } }, 6000); 	--> </p>
+<p> О портале </p>
+<p> Регистрация </p>
+<p> Войти </p>
+<p> Новости </p>
+<p> 522 новые </p>
+<p> Дискуссии </p>
+<p> 332 горячие </p>
+<p> Пользователи </p>
+<p> 2547 онлайн </p>
+<p> Добавить новость </p>
+<p> <!-- if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); } if (typeof(document.referrer) != 'undefined') {   if (typeof(afReferrer) == 'undefined') {     afReferrer = escape(document.referrer);   } } else {   afReferrer = ''; } var addate = new Date(); var dl = escape(document.location); var pr1 = Math.floor(Math.random() * 1000000);//var pr1 = 1234;   function AdWolf_SetLayerVis(spritename,state){document.getElementById(spritename).style.visibility=state;} function AdWolf_ShowOver(show){if(show){AdWolf_SetLayerVis('AdWolf_DivBaseFlash',"hidden"); AdWolf_SetLayerVis('AdWolf_DivOverFlash',"visible");}else{AdWolf_SetLayerVis('AdWolf_DivOverFlash',"hidden"); AdWolf_SetLayerVis('AdWolf_DivBaseFlash',"visible");}} function AdWolf_Open(){AdWolf_ShowOver(true);} function AdWolf_Close(){AdWolf_ShowOver(false);}   document.write('<div id="AdWolf_banner_'+pr1+'"><\/div>'); document.write('<div style="visibility:hidden; position:absolute;"><iframe id="AdWolf_iframe_'+pr1+'" width=1 height=1 marginwidth=0 marginheight=0 scrolling=no frameborder=0><\/iframe><\/div>');   function AdWolf_getCodeScript(AW_n,AW_src){    var AW_doc;    if(AW_n<10){       try{ 	     if(document.all && !window.opera){ 		    AW_doc = window.frames['AdWolf_iframe_'+pr1].document; 			}else if(document.getElementById){ 			         AW_doc = document.getElementById('AdWolf_iframe_'+pr1).contentDocument; 					 } 		 }catch(e){}     if(AW_doc){ 	   AW_doc.write('<scr'+'ipt type="text/javascript" src="'+AW_src+'"><\/scr'+'ipt>'); 	   }else{ 	      setTimeout('AdWolf_getCodeScript('+(++AW_n)+','+AW_src+')', 100); 		  } 		  } } AdWolf_getCodeScript(1,'http://a.adwolf.ru/prepareCode?p1=xt&amp;p2=m&amp;pct=a&amp;pfc=a&amp;pfb=a&amp;plp=a&amp;pli=a&amp;pop=a&amp;pr=' + pr +'&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;prr=' + afReferrer + '&amp;puid1=&amp;puid2=&amp;puid3=&amp;dl='+dl+'&amp;pr1='+pr1); // --> </p>
+<p> Все новости </p>
+<p> Политика </p>
+<p> Общество </p>
+<p> Экономика и бизнес </p>
+<p> Происшествия </p>
+<p> Личные деньги </p>
+<p> Спорт </p>
+<p> Кино </p>
+<p> Культура </p>
+<p> Игры </p>
+<p> Наука и технологии </p>
+<p> Здоровье </p>
+<p> Авто </p>
+<p> Мозаика </p>
+<p> Знакомства </p>
+<p> Другие новости по этой теме </p>
+<p> У правшей, сломавших правую руку, меняется мозг </p>
+<p> Бацилла бессмертия найдена в сибирской вечной мерзлоте </p>
+<p> Онищенко одобряет традицию купаться в проруби на Крещение </p>
+<p> Виноград спасёт от слепоты </p>
+<p> Сегодня в 10:51 </p>
+<p> Демократизатор. </p>
+<p> 326 </p>
+<p> 117 </p>
+<p> 0 </p>
+<p> Теги: </p>
+<p> здоровый образ жизни </p>
+<p> , </p>
+<p> продукты питания </p>
+<p> , </p>
+<p> ученые </p>
+<p> , </p>
+<p> исследования </p>
+<p> Виноград способен спасти от слепоты - именно к такому заключению пришли ученые из Нью-Йоркского университета Фордхэм (Fordham University in New York). </p>
+<p> Согласно результатам проведенного исследования, именно антиоксидантные свойства винограда скрывают в себе лечебные свойства и способны в значительной степени снизить вероятность появления у пожилого человека возрастной макулярной дегенерации. Напомним, что именно это заболевание является одним из самых распространённых, от него страдают миллионы людей по всей планете. </p>
+<p> Как проводились исследования </p>
+<p> Во время проведения исследования, были изучены, систематизированы и приведены к общему знаменателю данные полученные из результатов экспериментов, проводимых на грызунах. Все мыши, принимавшие участие в этом исследовании, были разделены на три группы: первая держалась на виноградной диете, вторая употребляла пищу обогащённую лютеином - природным пигментом, относящимся к группе гидроксилированных каротиноидов, третья находилась на обычном питании. Результаты, полученные по завершению эксперимента, позволили сделать вывод, что виноград не только обеспечивает защиту сетчатки глаза от окислительного повреждения, но и способен предотвратить слепоту. Причем эффективность винограда, вдвое превысила эффективность лютеина. </p>
+<p> «Виноград обладает грандиозным защитным эффектом. Он однозначно полезен для зрения и содействует сохранению его остроты вплоть до самой старости», - именно такой комментарий исследованию дал руководитель проекта - доктор Сильвия Финнеманн. Согласно ее словам, результаты, полученные в ходе исследования, в очередной раз подтверждают тот факт, что возрастное ухудшение зрения и его полная потеря является последствием окислительных и кумулятивных повреждений сетчатки. </p>
+<p> «Продолжительная диета, обогащённая антиоксидантами природного происхождения, например, такими как содержаться в винограде, позволит сохранить не только пигментный эпителий сетчатки глаза, но и ее функции», - слова Сильвии Финнеманн, опубликованные в Medical Xpress. </p>
+<p> Возраст и зрение </p>
+<p> Согласно пояснениям медиков, при возрастной макулярной дегенерации у человека поражается макулярное (центрально) зрение, что в дальнейшем может привести к слепоте на один, либо оба глаза. Из-за прогрессирующей ВМД отмирают фоторецепторы глаза, ответственные за восприятие и обработку изображения. Как правило, это болезнь возникает у людей, возраст которых превышает 50 лет. </p>
+<p> Самые подробные результаты исследований о воздействии винограда на зрение человека, можно прочитать в медицинском журнале Free Radical Biology and Medicine. </p>
+<p> Источник: </p>
+<p> vsezdorovo.com </p>
+<p> 117 </p>
+<p> Добавить комментарий </p>
+<p> <!--// <![CDATA[         /* [id7] nl_teaser_h */             OA_show(7);         // ]]> --> </p>
+<p> Выскажите свое мнение первым! </p>
+<p> Другие новости по этой теме </p>
+<p> Для сосредоточения России необходимо сосредоточение элиты </p>
+<p> politobraz.ru: </p>
+<p> Более 150 лет тому назад – перед великими реформами Александра II -  министр иностранных дел Александр Михайлович Горчаков написал: «Россия  сосредотачивается». 16 января 2012 года кандидат в Президенты России  Владимир Путин в газете... </p>
+<p> Сегодня в 14:57 </p>
+<p> YDAB11 </p>
+<p> 177 </p>
+<p> 203 </p>
+<p> 8 </p>
+<p> Из-за морозов в сибирских частях солдат кормят салом </p>
+<p> rg.ru: </p>
+<p> В частях Центрального военного округа в связи с аномально низкими температурами, установившимися в ряде регионов Западной Сибири, приняты дополнительные меры по сохранению здоровья военнослужащих, предотвращению простудных заболеваний и случаев... </p>
+<p> Сегодня в 14:46 </p>
+<p> GrosseBoss </p>
+<p> 202 </p>
+<p> 204 </p>
+<p> 10 </p>
+<p> Интеллект зависит от музыкальных предпочтений </p>
+<p> subscribe.ru: </p>
+<p> Ученые обнаружили зависимость интеллекта от музыкальных предпочтений. Самые низкие результаты в тестах на определение коэффициента развития интеллекта показали те, кто много лет увлекается стилем хип-хоп, а также rnb.  Рэперов, таким образом, называют... </p>
+<p> Сегодня в 14:10 </p>
+<p> YDAB11 </p>
+<p> 948 </p>
+<p> 177 </p>
+<p> 30 </p>
+<p> В Бразилии обнаружили родственников сибирских динозавров </p>
+<p> lenta.ru: </p>
+<p> Международная группа исследователей обнаружила в Бразилии родственников  антеозавров - древних ящеров, которых раньше находили только в России,  Африке и Китае.Статья ученых появилась в журнале Proceedings of the National Academy of Sciences 16 января... </p>
+<p> Сегодня в 13:16 </p>
+<p> AngelD </p>
+<p> 151 </p>
+<p> 126 </p>
+<p> 3 </p>
+<p> Ученые назвали продукты для профилактики инсульта </p>
+<p> pronowosti.ru: </p>
+<p> Магний в рационе снижает риск развития ишемического инсульта, показало  масштабное исследование. Причем, речь идет не о специальных БАДах, а о  продуктах питания, богатых магнием – зеленых овощах, орехах, бобовых,  подчеркивают... </p>
+<p> Сегодня в 11:22 </p>
+<p> pvm-77 </p>
+<p> 478 </p>
+<p> 125 </p>
+<p> 4 </p>
+<p> Засуха в Аргентине угрожает повысить цены на кукурузу </p>
+<p> bfm.ru: </p>
+<p> Фьючерсы на кукурузу и сою на Чикагской бирже за один день прибавили более 1%.  Затянувшаяся в Аргентине засуха угрожает значительно снизить урожай  кукурузы и сои в этой стране, которая является вторым по объемам мировым  экспортером кукурузы. По... </p>
+<p> Сегодня в 11:21 </p>
+<p> lucky hat </p>
+<p> 120 </p>
+<p> 173 </p>
+<p> 0 </p>
+<p> Сорт марихуаны назвали именем дочери певицы Бейонсе </p>
+<p> ivona.bigmir.net: </p>
+<p> В честь новорожденной дочери поп-дивы Бейонсе и рэпера Jay-Z Блю Айви Картер назвали новый сорт медицинской марихуаны. Новинка получила название OG Blue Ivy. Сочетание букв ОG в названии сорта марихуаны может являться своеобразной отсылкой к названию... </p>
+<p> Сегодня в 11:12 </p>
+<p> Демократизатор. </p>
+<p> 161 </p>
+<p> 123 </p>
+<p> 6 </p>
+<p> Ученые: любовь превращает секс в лекарство </p>
+<p> pronowosti.ru: </p>
+<p> Секс по любви гораздо полезнее для здоровья, доказали ученые из  университета Огайо. В ходе исследования специалисты пришли к выводу, что  интимная близость с любимым человеком снижает содержание холестерина в  крови.Объяснением такой неожиданной связи... </p>
+<p> Сегодня в 11:11 </p>
+<p> pvm-77 </p>
+<p> 323 </p>
+<p> 121 </p>
+<p> 2 </p>
+<p> Кто же все-таки был на Болотной и на Сахарова? </p>
+<p> basilisklab.com: </p>
+<p> Результаты соцопросов от Левада-Центра скучные. Но так как народ на митинги собирался через интернет, то «все ходы записаны».  Давайте посмотрим: кто ходил на митинг, что их интересует, какие книжки они читали, какие фильмы смотрели и о чем... </p>
+<p> Сегодня в 10:26 </p>
+<p> skader97 </p>
+<p> 387 </p>
+<p> 181 </p>
+<p> 12 </p>
+<p> Украина: заявления главсанврача России - публичный терроризм </p>
+<p> news.liga.net: </p>
+<p> По мнению регионала, Украине нужно использовать рычаги Всемирной торговой организации Заявления главного санврача России Геннадия Онищенко и ограничение экспорта украинских продуктов являются публичным терроризмом со стороны России. Об этом заявил в... </p>
+<p> Сегодня в 8:11 </p>
+<p> Imosa </p>
+<p> 191 </p>
+<p> 161 </p>
+<p> 6 </p>
+<p> Академия имени Можайского: 300 лет в авангарде прогресса </p>
+<p> Видео </p>
+<p> vesti.ru: </p>
+<p> Один из старейших вузов России - Военно-космическая академия имени Можайского - отмечает юбилей. Она была основана 300 лет назад указом царя Петра как первая инженерная школа в стране. С тех пор легендарная "Можайка" не раз меняла название, там... </p>
+<p> Сегодня в 7:29 </p>
+<p> МУСТАФА </p>
+<p> 165 </p>
+<p> 153 </p>
+<p> 1 </p>
+<p> Роботов запрограммировали на любопытство </p>
+<p> Видео </p>
+<p> popmech.ru: </p>
+<p> На парижской выставке Beautiful Elsewhere демонстрируют любопытных роботов. Представила их группа ученых и разработчиков из исследовательского центра INRIA во главе с Пьер-Ивом Удее (Pierre-Yves Oudeyer). Эта исследовательская группа, носящая название... </p>
+<p> Сегодня в 5:37 </p>
+<p> andnik </p>
+<p> 132 </p>
+<p> 49 </p>
+<p> 1 </p>
+<p> <!-- if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); } if (typeof(document.referrer) != 'undefined') {   if (typeof(afReferrer) == 'undefined') {     afReferrer = escape(document.referrer);   } } else {   afReferrer = ''; } var addate = new Date(); var dl = escape(document.location); var pr1 = Math.floor(Math.random() * 1000000);   function AdWolf_SetLayerVis(spritename,state){document.getElementById(spritename).style.visibility=state;} function AdWolf_ShowOver(show){if(show){AdWolf_SetLayerVis('AdWolf_DivBaseFlash',"hidden"); AdWolf_SetLayerVis('AdWolf_DivOverFlash',"visible");}else{AdWolf_SetLayerVis('AdWolf_DivOverFlash',"hidden"); AdWolf_SetLayerVis('AdWolf_DivBaseFlash',"visible");}} function AdWolf_Open(){AdWolf_ShowOver(true);} function AdWolf_Close(){AdWolf_ShowOver(false);}   document.write('<div id="AdWolf_banner_'+pr1+'"><\/div>'); document.write('<div style="visibility:hidden; position:absolute;"><iframe id="AdWolf_iframe_'+pr1+'" width=1 height=1 marginwidth=0 marginheight=0 scrolling=no frameborder=0><\/iframe><\/div>');   AdWolf_Scroll(pr1,'http://a.adwolf.ru/prepareCode?p1=xf&amp;p2=l&amp;pct=a&amp;pfc=a&amp;pfb=a&amp;plp=a&amp;pli=a&amp;pop=a&amp;pr=' + pr +'&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;prr=' + afReferrer + '&amp;puid1=&amp;puid2=&amp;puid3=&amp;dl='+dl+'&amp;pr1='+pr1);   // --> </p>
+<p> <!--// <![CDATA[     /* [id5] nl_teaser_0 */     OA_show(5); // ]]> --> </p>
+<p> Newsland на email </p>
+<p> new TWTR.Widget({             version: 2,                 type: 'profile',                 rpp: 3,                 interval: 6000,                 width: 240,                 height: 300,                 theme: {                     shell: {                         background: '#e5e5e5',                         color: '#767676'                     },                     tweets: {                         background: '#ffffff',                         color: '#444',                         links: '#767676'                     }                 },             features: {                 scrollbar: false,                 loop: false,                 live: false,                 hashtags: true,                 timestamp: true,                 avatars: false,                 behavior: 'default'             }         }).render().setUser('newslandru').start(); </p>
+<p> Загружается, подождите... </p>
+<p> <!-- var RndNum4NoCash = Math.round(Math.random() * 1000000000); var ar_Tail='unknown'; if (document.referrer) ar_Tail = escape(document.referrer); document.write( '<iframe src="http://ad.adriver.ru/cgi-bin/erle.cgi?' + 'sid=177935&bn=2&target=top&bt=22&pz=0&rnd=' + RndNum4NoCash + '&tail256=' + ar_Tail + '" frameborder=0 vspace=0 hspace=0 width=240 height=400 marginwidth=0' + ' marginheight=0 scrolling=no></iframe>'); //--> </p>
+<p> <!--// <![CDATA[     /* [id4] nl_240x400_2 */     OA_show(4); // ]]> --> </p>
+<p> О Newsland </p>
+<p> О портале </p>
+<p> Вакансии </p>
+<p> Правообладателям </p>
+<p> Пользовательское соглашение </p>
+<p> Лицензионное соглашение </p>
+<p> Правила размещения новостей </p>
+<p> Правила комментирования </p>
+<p> Частые вопросы (FAQ) </p>
+<p> Как повысить рейтинг пользователя </p>
+<p> Обратная связь </p>
+<p> Полезные фишки </p>
+<p> Email-рассылка </p>
+<p> iPhone/смартфон версия </p>
+<p> Яндекс виджет </p>
+<p> Рекламодателям </p>
+<p> Медиа-кит </p>
+<p> Прайс-лист </p>
+<p> Форматы рекламы </p>
+<p> Контакты </p>
+<p> За сутки 101224 посетителя оставили 522 новости и 17057 комментариев. </p>
+<p> Сейчас на сайте 2547 посетителей. </p>
+<p> © 2012 Newsland — информационно-дискуссионный портал, материалы которого формируют пользователи, размещая интересные новости и публицистические материалы и обсуждая острые политические и социальные темы. </p>
+<p> В соответствии с пользовательским соглашением редакция не несет ответственности за содержание материалов (новости, статьи, фото, видео, комментарии), которые размещают пользователи. Для урегулирования спорных вопросов и претензий Вы можете связаться с редакцией и администрацией Newsland по вопросам контента и модерации. </p>
+<p> кожаные высокие мужские классические сапоги ugg в интернет магазине </p>
+<p> матрасы </p>
+<p> <!--                     document.write("<a href='http://www.liveinternet.ru/click' "+                     "target=_blank><img src='//counter.yadro.ru/hit?t52.6;r"+                     escape(document.referrer)+((typeof(screen)=="undefined")?"":                     ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?                     screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+                     ";"+Math.random()+                     "' alt='' title='LiveInternet: показано число просмотров и"+                     " посетителей за 24 часа' "+                     "border='0' width='88' height='31'><\/a>")                     //--> </p>
+<p> <!--                     d=document;var a='';a+=';r='+escape(d.referrer);js=10;//--> </p>
+<p> <!--                     a+=';j='+navigator.javaEnabled();js=11;//--> </p>
+<p> <!--                     s=screen;a+=';s='+s.width+'*'+s.height;                     a+=';d='+(s.colorDepth?s.colorDepth:s.pixelDepth);js=12;//--> </p>
+<p> <!--                     js=13;//--> </p>
+<p> <!--                     d.write('<a href="http://top.mail.ru/jump?from=1306018" target="_top">'+                     '<img src="http://dd.ce.b3.a1.top.mail.ru/counter?id=1306018;t=48;js='+js+                     a+';rand='+Math.random()+'" alt="Рейтинг@Mail.ru" border="0" '+                     'height="31" width="88"><\/a>');if(11<js)d.write('<'+'!-- ');//--> </p>
+<p> <!--                     if(11<js)d.write('--'+'>');//--> </p>
+<p> Гость </p>
+<p> Войти </p>
+<p> Зарегистрироваться </p>
+<p> Восстановить пароль </p>
+<p> Обратная связь </p>
+<p> Логин или email </p>
+<p> Пароль </p>
+<p> Войти </p>
+<p> А также вы можете </p>
+<p> var img = new Image();         img.src = 'http://www.tns-counter.ru/V13a***R>' + document.referrer.replace(/\*/g,'%2a') + '*cmedia_ru/ru/CP1251/tmsec=newsland_total/'; </p>
+<p> var _gaq = _gaq || [];         _gaq.push(['_setAccount', 'UA-3582594-1']);         _gaq.push(['_addOrganic', 'm.yandex.ru', 'text', true]);         _gaq.push(['_addOrganic', 'images.yandex.ru', 'text', true]);         _gaq.push(['_addOrganic', 'blogs.yandex.ru', 'text', true]);         _gaq.push(['_addOrganic', 'video.yandex.ru', 'text', true]);         _gaq.push(['_addOrganic', 'go.mail.ru', 'q']);         _gaq.push(['_addOrganic', 'm.go.mail.ru', 'q', true]);         _gaq.push(['_addOrganic', 'mail.ru', 'q']);         _gaq.push(['_addOrganic', 'google.com.ua', 'q']);         _gaq.push(['_addOrganic', 'images.google.ru', 'q', true]);         _gaq.push(['_addOrganic', 'maps.google.ru', 'q', true]);         _gaq.push(['_addOrganic', 'nova.rambler.ru', 'query']);         _gaq.push(['_addOrganic', 'm.rambler.ru', 'query', true]);         _gaq.push(['_addOrganic', 'gogo.ru', 'q']);         _gaq.push(['_addOrganic', 'nigma.ru', 's']);         _gaq.push(['_addOrganic', 'search.qip.ru', 'query']);         _gaq.push(['_addOrganic', 'webalta.ru', 'q']);         _gaq.push(['_addOrganic', 'sm.aport.ru', 'r']);         _gaq.push(['_addOrganic', 'akavita.by', 'z']);         _gaq.push(['_addOrganic', 'meta.ua', 'q']);         _gaq.push(['_addOrganic', 'search.bigmir.net', 'z']);         _gaq.push(['_addOrganic', 'search.tut.by', 'query']);         _gaq.push(['_addOrganic', 'all.by', 'query']);         _gaq.push(['_addOrganic', 'search.i.ua', 'q']);         _gaq.push(['_addOrganic', 'index.online.ua', 'q']);         _gaq.push(['_addOrganic', 'web20.a.ua', 'query']);         _gaq.push(['_addOrganic', 'search.ukr.net', 'search_query']);         _gaq.push(['_addOrganic', 'search.com.ua', 'q']);         _gaq.push(['_addOrganic', 'search.ua', 'q']);         _gaq.push(['_addOrganic', 'poisk.ru', 'text']);         _gaq.push(['_addOrganic', 'go.km.ru', 'sq']);         _gaq.push(['_addOrganic', 'liveinternet.ru', 'ask']);         _gaq.push(['_addOrganic', 'gde.ru', 'keywords']);         _gaq.push(['_addOrganic', 'affiliates.quintura.com', 'request']);         _gaq.push(['_trackPageview']);         _gaq.push(['_trackPageLoadTime']);         (function() {             var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;             ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';             (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);         })(); </p>
+<p> (function(w, c) {         (w[c] = w[c] || []).push(function() {             try {                 w.yaCounter8161474 = new Ya.Metrika({id:8161474, enableAll: true});             }             catch(e) { }         });     })(window, "yandex_metrika_callbacks"); </p>
+<p> var openstat = { counter: 2224477, next: openstat, track_links: "all" };     (function(d, t, p) {     var j = d.createElement(t); j.async = true; j.type = "text/javascript";     j.src = ("https:" == p ? "https:" : "http:") + "//openstat.net/cnt.js";     var s = d.getElementsByTagName(t)[0]; s.parentNode.insertBefore(j, s);     })(document, "script", document.location.protocol); </p>
+<p> <!--     var RndNum4NoCash = Math.round(Math.random() * 1000000000);     var ar_Tail='unknown'; if (document.referrer) ar_Tail = escape(document.referrer);     document.write('<sc' + 'ript language="JavaScript" src="http://ad.adriver.ru/cgi-bin/erle.cgi?sid=170641&bt=16&target=blank&rnd=' + RndNum4NoCash + '&tail256=' + ar_Tail + '"></sc' + 'ript>');     //--> </p>
+<p> <!--     document.write('<scr' + 'ipt language="JavaScript" src="http://drive.videoclik.ru/code?pid=1091&rid=' + (Math.floor(Math.random() * 1000000000)) +'" charset="utf-8" type="text/JavaScript"></scr' + 'ipt>');     // --> </p>
+<p> var bbSite='http___newsland.ru'; var bbMainDomain='stat.arbocontext.ru'; </p>
+<p> /* <![CDATA[ */     var bbs=screen,bbn=navigator,bbh;bbh='&ubl='+1*bbn.browserLanguage+'&ucc='+1*bbn.cpuClass+'&ucd='+1*bbs.colorDepth+'&udx='+1*bbs.deviceXDPI+'&udy='+1*bbs.deviceYDPI+'&usl='+1*bbn.systemLanguage+'&uje='+1*bbn.javaEnabled()+'&uah='+1*bbs.availHeight+'&uaw='+1*bbs.availWidth+'&ubd='+1*bbs.bufferDepth+'&uhe='+1*bbs.height+'&ulx='+1*bbs.logicalXDPI+'&uly='+1*bbs.logicalYDPI+'&use='+1*bbs.fontSmoothingEnabled+'&uto='+(new Date()).getTimezoneOffset()+'&uui='+1*bbs.updateInterval+'&uul='+1*bbn.userLanguage+'&uwi='+1*bbs.width;     if(typeof(bburlparam)=='string') { bbh+='&'+bburlparam; }     if(typeof(bbkeywords)=='string') { bbh+='&keywords='+escape(bbkeywords); }     document.write("<scr"+"ipt type='text/javascript' charset='utf-8' src='http://go.arboru.bbelements.com/please/showit/2181/1/1/50/?typkodu=js"+bbh+"&bust="+Math.random()+"&target=_blank'><"+"\/scr"+"ipt>");     /* ]]> */ </p>
+<p> <!--// <![CDATA[     /* [id8] nl_fullscreen */     OA_show(8);     // ]]> --> </p>

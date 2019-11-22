@@ -1,0 +1,770 @@
+<p> Василиса Володина поможет определить, склонен ли ваш мужчина к разводам // SARATOV.KP.RU Комсомольская правда в Саратове </p>
+<p> $.noConflict();       KPjQuery = jQuery.noConflict(); </p>
+<p> var crtg_nid="2044"; var crtg_cookiename="crt_kpru"; var crtg_varname="crtg_content"; function crtg_getCookie(c_name){ var i,x,y,ARRCookies=document.cookie.split(";");for(i=0;i<ARRCookies.length;i++){x=ARRCookies[i].substr(0,ARRCookies[i].indexOf("="));y=ARRCookies[i].substr(ARRCookies[i].indexOf("=")+1);x=x.replace(/^\s+|\s+$/g,"");if(x==c_name){return unescape(y);}}return'';} var crtg_content = crtg_getCookie(crtg_cookiename);var crtg_rnd=Math.floor(Math.random()*99999999999); var crtg_url=location.protocol+'//rtax.criteo.com/delivery/rta/rta.js?netId='+escape(crtg_nid);crtg_url+='&cookieName='+escape(crtg_cookiename);crtg_url+='&rnd='+crtg_rnd;crtg_url+='&varName=' + escape(crtg_varname); var crtg_script=document.createElement('script');crtg_script.type='text/javascript';crtg_script.src=crtg_url;crtg_script.async=true; if(document.getElementsByTagName("head").length>0)document.getElementsByTagName("head")[0].appendChild(crtg_script);else if(document.getElementsByTagName("body").length>0)document.getElementsByTagName("body")[0].appendChild(crtg_script); </p>
+<p> new adriver.Plugin.require("onScroll.adriver"); </p>
+<p> /* функция кроссбраузерного определения отступа от верха документа к текущей позиции скроллера прокрутки */ function getScrollTop() {            var scrOfY = 0;            if( typeof( window.pageYOffset ) == "number" ) {                    //Netscape compliant                    scrOfY = window.pageYOffset;            } else if( document.body            && ( document.body.scrollLeft            || document.body.scrollTop ) ) {                    //DOM compliant                    scrOfY = document.body.scrollTop;            } else if( document.documentElement            && ( document.documentElement.scrollLeft             || document.documentElement.scrollTop ) ) {                    //IE6 Strict                    scrOfY = document.documentElement.scrollTop;            }            return scrOfY; }  Event.observe(window, 'scroll', function() {     if (document.getElementById("ad_ph_1").innerHTML != '') { 	fixPaneRefresh();     } });  function fixPaneRefresh(){ 	var top  = getScrollTop(); 	var y = 30; 	if (top < y){ 		document.getElementById("fixedBox").style.marginTop = (y-top) + "px"; 	} else { 		document.getElementById("fixedBox").style.marginTop = "0px"; 	} } </p>
+<p> наверх </p>
+<p> Саратов </p>
+<p> Абакан </p>
+<p> Барнаул </p>
+<p> Белгород </p>
+<p> Благовещенск </p>
+<p> Брянск </p>
+<p> Великий Новгород </p>
+<p> Владивосток </p>
+<p> Владимир </p>
+<p> Волгоград </p>
+<p> Вологда </p>
+<p> Воронеж </p>
+<p> Екатеринбург </p>
+<p> Иваново </p>
+<p> Ижевск </p>
+<p> Иркутск </p>
+<p> Казань </p>
+<p> Калининград </p>
+<p> Кемерово </p>
+<p> Киров </p>
+<p> Краснодар </p>
+<p> Красноярск </p>
+<p> Курск </p>
+<p> Липецк </p>
+<p> Москва </p>
+<p> Мурманск </p>
+<p> Нижний Новгород </p>
+<p> Новосибирск </p>
+<p> Омск </p>
+<p> Орел </p>
+<p> Пенза </p>
+<p> Пермь </p>
+<p> Псков </p>
+<p> Ростов-на-Дону </p>
+<p> Рязань </p>
+<p> Самара </p>
+<p> Санкт-Петербург </p>
+<p> Саратов </p>
+<p> Смоленск </p>
+<p> Ставрополь </p>
+<p> Сыктывкар </p>
+<p> Тамбов </p>
+<p> Тверь </p>
+<p> Томск </p>
+<p> Тула </p>
+<p> Тюмень </p>
+<p> Ульяновск </p>
+<p> Уфа </p>
+<p> Хабаровск </p>
+<p> Челябинск </p>
+<p> Чита </p>
+<p> Ярославль </p>
+<p> Балканы </p>
+<p> Беларусь </p>
+<p> Бишкек </p>
+<p> Молдова </p>
+<p> Северная Европа </p>
+<p> США </p>
+<p> Украина </p>
+<p> Чехия </p>
+<p> Сегодня </p>
+<p> 10 Апреля </p>
+<p> Погода за окном </p>
+<p> +2°C </p>
+<p> Cообщества </p>
+<p> Анкета </p>
+<p> Настройки </p>
+<p> Выйти </p>
+<p> Все уведомления </p>
+<p> Быстрый сайт </p>
+<p> Подключено </p>
+<p> Отключить </p>
+<p> Добро пожаловать! </p>
+<p> Что бы сайт стал еще лучше мы скрыли рекламу. </p>
+<p> Здесь вы можете включить или отключить рекламу. </p>
+<p> Скрыть подсказку </p>
+<p> var informer_show = 0;       	KPjQuery('.my-kp-informer').on('click',function(obj){         obj.stopPropagation();         if(!informer_show) {             var container = KPjQuery('#informer-container');              if(container.length > 0) {                 KPjQuery('body').one('click', function(e){                     KPjQuery('#informer').addClass('hideDropDown');                     KPjQuery('#informer').removeClass('dropDown');                     informer_show = 0;                 });                 }                   		KPjQuery.ajax(             {                 url: '/_ajax/profile_informer?key='+ApolloApi.getUserInfo().sosh_o,                 type: 'GET',                 timeout: 15000,                 cache: false,                 dataType: 'json',                 beforeSend: function() {                     container.html('<div class="ajax-loader" style="text-align: center; margin: 10px;"><img src="http://s3.stc.all.kpcdn.net/images/ajax-loader.gif" alt="Идет загрузка приложения..."></div>');                 },                 success: function(response) {                      if(response.errorCode == 0) {                         container.empty();                         var i = 0;                         var new_count = 0;                         for(; i < response.result.length; i++) {                              var elem = KPjQuery('<a>', {                                 class: response.result[i].readed ? 'noticeBlock' : 'noticeBlock notRead',                                 title: response.result[i].readed ? 'Прочитанное уведомление' : 'Непрочитанное уведомление',                                 href: response.result[i].url,                                 id: 'noticeBlock_'+response.result[i].id                             });                             elem.data({id_read: response.result[i].id});                              if(!response.result[i].readed) {                                 new_count++;                                 // need send message - message is read!                                 elem.on('click',function(e){                                     var target = KPjQuery(this);                                     var data = 'key=' + ApolloApi.getUserInfo().sosh_o + '&ids=' + target.data('id_read');                                     KPjQuery.ajax(                                     {                                         url: '/_ajax/profile_informer?ts=' + (new Date()).getTime(),                                         type: 'POST',                                         timeout: 5000,                                         cache: false,                                         dataType: 'json',                                         'data': data,                                         success: function() {                                             window.location.href = target.attr('href');                                         },                                         error: function() {                                             window.location.href = target.attr('href');                                         }                                     });                                     return false;                                 });                             }                              elem.html('<img src="' + response.result[i].image + '"/><span class="p">' + response.result[i].text + '</span>');                             container.append(elem);                          }                         // not be found notices                         if( i==0 ) {                             container.html('<p class="center">У вас нет уведомлений.</p>');                         }                         else if(new_count > 0){                             KPjQuery('#jewel_new').addClass('new').removeClass('new-none').html('<span>' + new_count + '</span>');                         }                     }                  }             });             KPjQuery('#informer').addClass('dropDown');             KPjQuery('#informer').removeClass('hideDropDown');             informer_show = 1;         }         else {             KPjQuery('#informer').addClass('hideDropDown');             KPjQuery('#informer').removeClass('dropDown');             informer_show = 0;         } 		 		return false; 	}); </p>
+<p> var _gaq = _gaq || [];   _gaq.push(['_setAccount', 'UA-39785797-1']); _gaq.push(['_addOrganic', 'images.yandex.ru', 'q', true]); _gaq.push(['_addOrganic', 'go.mail.ru', 'q']); _gaq.push(['_addOrganic', 'nova.rambler.ru', 'query', true]); _gaq.push(['_addOrganic', 'nigma.ru', 's']); _gaq.push(['_addOrganic', 'webalta.ru', 'q']); _gaq.push(['_addOrganic', 'aport.ru', 'r']); _gaq.push(['_addOrganic', 'poisk.ru', 'text']); _gaq.push(['_addOrganic', 'km.ru', 'sq']); _gaq.push(['_addOrganic', 'liveinternet.ru', 'ask']); _gaq.push(['_addOrganic', 'search.qip.ru', 'query']); _gaq.push(['_addOrganic', 'ru.yahoo.com', 'p']); _gaq.push(['_addOrganic', 'search.tut.by', 'query']); _gaq.push(['_addOrganic', 'blogs.yandex.ru', 'text', true]); _gaq.push(['_addOrganic', 'search.icq.com', 'q']); _gaq.push(['_addOrganic', 'search.ukr.net', 'search_query']); _gaq.push(['_addOrganic', 'all.by', 'query']); _gaq.push(['_addOrganic', 'search.conduit.com', 'q']); _gaq.push(['_addOrganic', 'ask.com', 'q']); _gaq.push(['_addOrganic', 'isearch.babylon.com', 'q']); _gaq.push(['_setDomainName', '.kp.ru']);   _gaq.push(['_setDomainName', 'kp.ru']);   _gaq.push(['_setAllowLinker', true]);   _gaq.push(['_trackPageview']);    (function() {     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;     ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);   })(); </p>
+<p> (function(){     var b, a;     b=document.createElement("script");     b.src="//a1.vdna-assets.com/analytics.js";     b.async=true;     a=document.getElementsByTagName("head")[0];     a.insertBefore(b,a.firstChild);     this.VDNA=this.VDNA||{};     this.VDNA.queue=this.VDNA.queue||[]; }());         VDNA.queue.push({             apiKey : "kp.ru-saratov",             method : "reportPageView"         }); </p>
+<p> (function(){     var b, a;     b=document.createElement("script");     b.src="//a1.vdna-assets.com/analytics.js";     b.async=true;     a=document.getElementsByTagName("head")[0];     a.insertBefore(b,a.firstChild);     this.VDNA=this.VDNA||{};     this.VDNA.queue=this.VDNA.queue||[]; }());         VDNA.queue.push({             apiKey : "kp.ru",             method : "reportPageView"         }); </p>
+<p> (function(){     var b, a;     b=document.createElement("script");     b.src="//a1.vdna-assets.com/analytics.js";     b.async=true;     a=document.getElementsByTagName("head")[0];     a.insertBefore(b,a.firstChild);     this.VDNA=this.VDNA||{};     this.VDNA.queue=this.VDNA.queue||[]; }());         VDNA.queue.push({             apiKey : "kp.ru-saratov",             method : "reportPageView"         }); </p>
+<p> (function(){     var b, a;     b=document.createElement("script");     b.src="//a1.vdna-assets.com/analytics.js";     b.async=true;     a=document.getElementsByTagName("head")[0];     a.insertBefore(b,a.firstChild);     this.VDNA=this.VDNA||{};     this.VDNA.queue=this.VDNA.queue||[]; }());         VDNA.queue.push({             apiKey : "kp.ru",             method : "reportPageView"         }); </p>
+<p> <!-- 	var kref = ''; 	try {kref = escape(document.referrer);} catch(e){}; 	var d = document, b = document.body; 	var img = d.createElement('IMG'); 	with(img.style){position = 'absolute'; width = '0px'; height = '0px';} 	img.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'b.kavanga.ru/exp?sid=1223&bt=3&bn=1&ct=8&prr=' + kref + '&rnd=' + Math.round(Math.random()*1000000); 	b.insertBefore(img, b.firstChild); //--> </p>
+<p> <!-- new Image().src = "//counter.yadro.ru/hit;kp/reg/saratov?r"+ escape(document.referrer)+((typeof(screen)=="undefined")?"": ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth? screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+ ";h"+escape(document.title.substring(0,80))+ ";"+Math.random();//--> </p>
+<p> var img = new Image(); 	img.src = 'http://www.tns-counter.ru/V13a***R>' + document.referrer.replace(/\*/g,'%2a') + '*kp_ru/ru/UTF-8/tmsec=kp_tv/'; </p>
+<p> //<![CDATA[ var a='';js=10;d=document; try{a+=';r='+escape(d.referrer);}catch(e){}try{a+=';j='+navigator.javaEnabled();js=11;}catch(e){} try{s=screen;a+=';s='+s.width+'*'+s.height;a+=';d='+(s.colorDepth?s.colorDepth:s.pixelDepth);js=12;}catch(e){} try{if(typeof((new Array).push('t'))==="number")js=13;}catch(e){} try{d.write('<a href="http://top.mail.ru/jump?from=294001" rel="nofollow"><img src="http://dc.c7.b4.a0.top.mail.ru/counter?id=294001;js='+js+ a+';rand='+Math.random()+'" alt="Рейтинг@Mail.ru" style="border:0;" height="1" width="1" \/><\/a>');}catch(e){}//]]> </p>
+<p> /* <![CDATA[ */ var openstat = { counter: 2026010, next: openstat, vars: { region: "Саратов", theme: "Телевизор" } }; document.write(unescape("%3Cscript%20src=%22http" + (("https:" == document.location.protocol) ? "s" : "") + "://openstat.net/cnt.js%22%20defer=%22defer%22%3E%3C/script%3E"));  /* ]]> */ </p>
+<p> new adriver("adriver_banner_333443659", {sid:51864, bt:52, sz:'reklama', bn:7, pz:1}); </p>
+<p> (function(L){if(typeof(ar_cn)=="undefined")ar_cn=1; var S='setTimeout(function(e){if(!self.CgiHref){document.close();e=parent.document.getElementById("ar_container_"+ar_bnum);e.parentNode.removeChild(e);}},3000);',     j=' type="text/javascript"',t=0,D=document,n=ar_cn;L='' + ('https:' == document.location.protocol ? 'https:' : 'http:') + ''+L+escape(D.referrer||'unknown')+'&rnd='+Math.round(Math.random()*999999999); function _(){if(t++<100){var F=D.getElementById('ar_container_'+n);     if(F){try{var d=F.contentDocument||(window.ActiveXObject&&window.frames['ar_container_'+n].document);     if(d){d.write('<sc'+'ript'+j+'>var ar_bnum='+n+';'+S+'<\/sc'+'ript><sc'+'ript'+j+' src="'+L+'"><\/sc'+'ript>');t=0}     else setTimeout(_,100);}catch(e){try{F.src="javascript:{document.write('<sc'+'ript"+j+">var ar_bnum="+n+"; document.domain=\""     +D.domain+"\";"+S+"<\/sc'+'ript>');document.write('<sc'+'ript"+j+" src=\""+L+"\"><\/sc'+'ript>');}";return}catch(E){}}}else setTimeout(_,100);}} D.write('<div style="visibility:hidden;height:0px;left:-1000px;position:absolute;"><iframe id="ar_container_'+ar_cn     +'" width=1 height=1 marginwidth=0 marginheight=0 scrolling=no frameborder=0><\/iframe><\/div><div id="ad_ph_'+ar_cn     +'" style="display:none;"><\/div>');_();ar_cn++; })('//ad.adriver.ru/cgi-bin/erle.cgi?sid=51864&sz=second&bn=3&target=top&bt=43&pz=1&tail256='); </p>
+<p> (function(L){if(typeof(ar_cn)=="undefined")ar_cn=1; var S='setTimeout(function(e){if(!self.CgiHref){document.close();e=parent.document.getElementById("ar_container_"+ar_bnum);e.parentNode.removeChild(e);}},3000);',     j=' type="text/javascript"',t=0,D=document,n=ar_cn;L+=escape(D.referrer||'unknown')+'&rnd='+Math.round(Math.random()*999999999); function _(){if(t++<100){var F=D.getElementById('ar_container_'+n);     if(F){try{var d=F.contentDocument||(window.ActiveXObject&&window.frames['ar_container_'+n].document);     if(d){d.write('<sc'+'ript'+j+'>var ar_bnum='+n+';'+S+'<\/sc'+'ript><sc'+'ript'+j+' src="'+L+'"><\/sc'+'ript>');t=0}     else setTimeout(_,100);}catch(e){try{F.src="javascript:{document.write('<sc'+'ript"+j+">var ar_bnum="+n+"; document.domain=\""     +D.domain+"\";"+S+"<\/sc'+'ript>');document.write('<sc'+'ript"+j+" src=\""+L+"\"><\/sc'+'ript>');}";return}catch(E){}}}else setTimeout(_,100);}} D.write('<div style="visibility:hidden;height:0px;left:-1000px;position:absolute;"><iframe id="ar_container_'+ar_cn     +'" width=1 height=1 marginwidth=0 marginheight=0 scrolling=no frameborder=0><\/iframe><\/div><div id="ad_ph_'+ar_cn     +'" style="display:none;"><\/div>');_();ar_cn++; })('http://ad.adriver.ru/cgi-bin/erle.cgi?sid=163325&sz=vse_vnutrennie&bn=4&target=blank&bt=43&pz=0&tail256='); </p>
+<p> (function(L){if(typeof(ar_cn)=="undefined")ar_cn=1; var S='setTimeout(function(e){if(!self.CgiHref){document.close();e=parent.document.getElementById("ar_container_"+ar_bnum);e.parentNode.removeChild(e);}},3000);',     j=' type="text/javascript"',t=0,D=document,n=ar_cn;L+=escape(D.referrer||'unknown')+'&rnd='+Math.round(Math.random()*999999999); function _(){if(t++<100){var F=D.getElementById('ar_container_'+n);     if(F){try{var d=F.contentDocument||(window.ActiveXObject&&window.frames['ar_container_'+n].document);     if(d){d.write('<sc'+'ript'+j+'>var ar_bnum='+n+';'+S+'<\/sc'+'ript><sc'+'ript'+j+' src="'+L+'"><\/sc'+'ript>');t=0}     else setTimeout(_,100);}catch(e){try{F.src="javascript:{document.write('<sc'+'ript"+j+">var ar_bnum="+n+"; document.domain=\""     +D.domain+"\";"+S+"<\/sc'+'ript>');document.write('<sc'+'ript"+j+" src=\""+L+"\"><\/sc'+'ript>');}";return}catch(E){}}}else setTimeout(_,100);}} D.write('<div style="visibility:hidden;height:0px;left:-1000px;position:absolute;"><iframe id="ar_container_'+ar_cn     +'" width=1 height=1 marginwidth=0 marginheight=0 scrolling=no frameborder=0><\/iframe><\/div><div id="ad_ph_'+ar_cn     +'" style="display:none;"><\/div>');_();ar_cn++; })('http://ad.adriver.ru/cgi-bin/erle.cgi?sid=171114&target=top&bt=43&pz=0&tail256='); </p>
+<p> (function(L){if(typeof(ar_cn)=="undefined")ar_cn=1; var S='setTimeout(function(e){if(!self.CgiHref){document.close();e=parent.document.getElementById("ar_container_"+ar_bnum);e.parentNode.removeChild(e);}},3000);',     j=' type="text/javascript"',t=0,D=document,n=ar_cn;L+=escape(D.referrer||'unknown')+'&rnd='+Math.round(Math.random()*999999999); function _(){if(t++<100){var F=D.getElementById('ar_container_'+n);     if(F){try{var d=F.contentDocument||(window.ActiveXObject&&window.frames['ar_container_'+n].document);     if(d){d.write('<sc'+'ript'+j+'>var ar_bnum='+n+';'+S+'<\/sc'+'ript><sc'+'ript'+j+' src="'+L+'"><\/sc'+'ript>');t=0}     else setTimeout(_,100);}catch(e){try{F.src="javascript:{document.write('<sc'+'ript"+j+">var ar_bnum="+n+"; document.domain=\""     +D.domain+"\";"+S+"<\/sc'+'ript>');document.write('<sc'+'ript"+j+" src=\""+L+"\"><\/sc'+'ript>');}";return}catch(E){}}}else setTimeout(_,100);}} D.write('<div style="visibility:hidden;height:0px;left:-1000px;position:absolute;"><iframe id="ar_container_'+ar_cn     +'" width=1 height=1 marginwidth=0 marginheight=0 scrolling=no frameborder=0><\/iframe><\/div><div id="ad_ph_'+ar_cn     +'" style="display:none;"><\/div>');_();ar_cn++; })('http://ad.adriver.ru/cgi-bin/erle.cgi?sid=163325&sz=ves_sait&bn=1&target=blank&bt=43&pz=1&tail256='); </p>
+<p> Новости Саратова </p>
+<p> связь с редакцией </p>
+<p> Для мобильных устройств: </p>
+<p> RSS </p>
+<p> WAP </p>
+<p> PDA </p>
+<p> IPAD </p>
+<p> MOBILE </p>
+<p> IPhone </p>
+<p> Android </p>
+<p> Bada </p>
+<p> Windows Mobile 6.5 </p>
+<p> Читай свежий номер </p>
+<p> 10 Апреля № 50 </p>
+<p> Фото </p>
+<p> Видео </p>
+<p> Все о КП </p>
+<p> Вакансии </p>
+<p> Еженедельник </p>
+<p> Телеканал КП </p>
+<p> Радио КП </p>
+<p> Реклама </p>
+<p> Коллекции КП </p>
+<p> Акции КП </p>
+<p> Пресс-центр </p>
+<p> Партнерам </p>
+<p> Полярный дневник "КП" </p>
+<p> Подписка </p>
+<p> Моя дача </p>
+<p> 2 МЛН. товаров </p>
+<p> Перевал Дятлова </p>
+<p> Колумнисты </p>
+<p> Телевизор </p>
+<p> Скидки </p>
+<p> Инфографика </p>
+<p> Новости </p>
+<p> Политика </p>
+<p> Экономика </p>
+<p> Общество </p>
+<p> Происшествия </p>
+<p> Звезды </p>
+<p> Наука </p>
+<p> Спорт </p>
+<p> Авто </p>
+<p> Дом. Семья </p>
+<p> Здоровье </p>
+<p> .all_sel-section {display: none;} 		.s_tv {width: 990px; height: 188px; margin: 0px 0px 17px 0px;} 		.s_tv img {display: block;} 		.s_tv-ins {width: 990px; height: 67px; background-color: #0081e5; overflow: hidden;} 		.s_tv-ins a.txt {float: left; display: block; width: 290px; height: 67px; margin: 0px 30px; background: url(http://kp.ru/f/4/image/82/45/614582.jpg) left top no-repeat;} 		.s_tv-ins ul {float: left; width: 540px; list-style-type: none; padding: 10px 0px 10px 0px;} 		.s_tv-ins ul li {float: left; padding: 0px 20px 0px 0px; font-size: 16px; font-family: Tahoma, Arial, Helvetica, sans-serif; color: white; line-height: 1.4em;} 		.s_tv-ins ul li a {color: white; text-decoration: none;} 		.s_tv-ins ul li a:hover {text-decoration: underline;} </p>
+<p> Глас народа </p>
+<p> Человек с экрана </p>
+<p> Сериалы </p>
+<p> Проекты </p>
+<p> Зацепило! </p>
+<p> Шоу </p>
+<p> Вокруг экрана </p>
+<p> Вопрос-ответ </p>
+<p> Интервью </p>
+<p> Отругай ТВ </p>
+<p> Телевизор </p>
+<p> Надежда ШУЛЬГА </p>
+<p> (5 Января 2012, 18:30) </p>
+<p> Василиса Володина поможет определить, склонен ли ваш мужчина к разводам </p>
+<p> Комментарии: </p>
+<p> 12 </p>
+<p> Ведущая программы «Давай поженимся» написала книгу «Астрология обольщения. Ключи к сердцу мужчины» </p>
+<p> До недавнего времени на издании книг в программе «Давай поженимся» «специализировалась» </p>
+<p> Роза Сябитова </p>
+<p> . Главная телесваха страны строчила книги на все случаи жизни: и как завоевать мужчину, и как его удержать, и как поднять собственную самооценку. И вот в новом году в «книгописании» дебютирует астролог из брачного телешоу </p>
+<p> Василиса Володина </p>
+<p> . Ее уже давно просили написать книгу для наших женщин, но у Василисы никак не находилось времени. Однако, совсем недавно она все-таки собралась и выпустила очень любопытный томик. </p>
+<p> - Моя книга о том, как понравиться мужчине, вызвать его интерес и даже, возможно, любовь, - рассказывает о своем произведении телеастролог.  - Я не описываю уникальных рецептов соблазнения, просто потому, что их не существует. Самое важное, что я постаралась сказать на языке астрологии - мужчины очень разные. Понятий «любой», «средний», «обычный» применительно к ним не существует. И для того, чтобы вызвать искренний, продолжительный интерес представителя сильной половины человечества, нужно понять, каков он. Задуматься о его чувствах, интересах и потребностях – и сделать все, чтобы соответствовать им. И тогда можно рассчитывать на то, что он полюбит вас. </p>
+<p> В книге «Астрология обольщения. Ключи к сердцу мужчины» вы сможете прочитать, чего ваш избранник ждет от любви и от женщин, получите четкие рекомендации, как ему понравиться и сохранить отношения. Книга научит вас лучше разбираться в сильной половине человечества, поможет понять, что каждый мужчина уникален и ключ к его сердцу должен быть особенным. Также вы узнаете, насколько ваш мужчина склонен к разводам, в чем его «изюминка», на кого из знаменитостей он похож в личной жизни. </p>
+<p> Книга поступит в продажу ориентировочно в начале февраля, а пока на своем официальном сайте Василиса запустила сервис, который называется «определи мужские предпочтения». Введите дату, время и место рождения вашего избранника, и вы узнаете, какой тип женщин он предпочитает и чего ждет от своей второй половины. </p>
+<p> Вернуться на главную </p>
+<p> InitMyKpBookmark(); </p>
+<p> Выслать по почте </p>
+<p> Версия для печати </p>
+<p> Показать код </p>
+<p> Скрыть код </p>
+<p> <div style="margin: 0px 0px 10px 0px; padding: 10px 10px 10px 10px; border: 1px solid #969696; background:#FFFFFF; font-family:Tahoma, Arial, Helvetica, sans-serif;"><div style="padding: 0px 0px 6px 0px;"><a href="http://www.kp.ru/"><img src="http://www.kp.ru/_img/logo_min.gif" border="0" alt="Комсомольская Правда" /></a></div><div style="float: left; padding: 4px 10px 0px 0px; margin: 0px; position: relative;"><a href="http://saratov.kp.ru/daily/25814.3/2792950/"><img src="http://kp.ru/f/12/image/67/48/3254867.jpg" alt="Василиса Володина поможет определить, склонен ли ваш мужчина к разводам" style="display: block; border: 0px;" /></a></div><h2 style=" padding:0px; margin:0px; padding-bottom: 5px; font-size: 12px; left:0px; font-family:Tahoma, Arial, Helvetica, sans-serif; line-height:16px;"><a href="http://saratov.kp.ru/daily/25814.3/2792950/" style="text-decoration:none; color:#20507b;">Василиса Володина поможет определить, склонен ли ваш мужчина к разводам</a></h2><div style="color: #646464; padding-bottom: 2px;  font-size:11px;"><a href="http://saratov.kp.ru/daily/25814.3/2792950/" style="color: #646464; text-decoration:none;">5 Января 2012 18:05</a></div><p style="padding: 0px; margin: 0px; font-size:11px; line-height:14px;"><a href="http://saratov.kp.ru/daily/25814.3/2792950/" style="text-decoration:none; color:#323232;">Ведущая программы «Давай поженимся» написала книгу «Астрология обольщения. Ключи к сердцу мужчины»</a></p><div style="padding-top: 5px; font-size:11px;"><a href="http://saratov.kp.ru/daily/25814.3/2792950/" style="color:#20507b; text-decoration:none;">Подробнее »</a></div><span style="clear:both; font-size:0px; line-height:0px; overflow:hidden; display:block;"></span></div> </p>
+<p> Скопировать код </p>
+<p> Василиса Володина поможет определить, склонен ли ваш мужчина к разводам </p>
+<p> 5 Января 2012 18:05 </p>
+<p> Ведущая программы «Давай поженимся» написала книгу «Астрология обольщения. Ключи к сердцу мужчины» </p>
+<p> Подробнее » </p>
+<p> ZeroClipboard.setMoviePath( '/_swf/ZeroClipboard.swf' );     var clip = null;     function initZeroClipboard() { 		clip = new ZeroClipboard.Client();         clip.setHandCursor( true ); 		clip.glue( 'ccopy' ); 		clip.addEventListener('complete', oncomplete);     } 	function oncomplete(client) { 		$('ccopy').innerHTML = "Код скопирован"; 	}   	Event.observe(window, 'load', function() {         //initZeroClipboard(); 		//clip.setText( $('tcopy').value );     });      function cshowLJtext() { 		$('copen', 'cclose', 'cshow').invoke('toggle'); 		initZeroClipboard(); 		clip.setText( $('tcopy').value ); 	} </p>
+<p> Новости сми </p>
+<p> Загружается, подождите... </p>
+<p> <!-- function adriverPoster(L){     if(typeof(ar_cn)=="undefined")ar_cn=1;     var W=window,D=document,E=D.documentElement,T=0,N=ar_cn,P=0,C=D.compatMode=="CSS1Compat",         X='<scr'+'ipt type="text/javascript">var ar_bnum='+N+';setTimeout(function(e){if(!self.CgiHref){document.close();e=parent.document.getElementById("ar_container_"+ar_bnum);e.parentNode.removeChild(e)}},3000);',         Y='<\/sc'+'ript><sc'+'ript type="text/javascript" src="'+L+'&tail256='+escape(D.referrer||'unknown')+'&rnd='+Math.round(Math.random()*999999999)+'"><\/sc'+'ript>';     function G(){if(T++<100){var o=D.getElementById('ar_container_'+N);if(o){try{var d=o.contentDocument||(W.ActiveXObject&&W.frames['ar_container_'+N].document);if(d){d.write(X+Y)}else setTimeout(arguments.callee,100)}catch(e){try{o.src = "javascript:{document.write('"+X+'document.domain="'+D.domain+'";'+Y+"')}";return}catch(E){}}}else setTimeout(arguments.callee,100)}}     function A(e,t,f){if(e.addEventListener)e.addEventListener(t,f,false);else if(e.attachEvent)e.attachEvent('on'+t,f)}     function R(e,t,f){if(e.removeEventListener)e.removeEventListener(t,f,false);else if(e.detachEvent)e.detachEvent('on'+t,f)}     function S(){var ch=self.innerHeight||C&&E.clientHeight||D.body.clientHeight,st=self.pageYOffset||C&&E.scrollTop||D.body.scrollTop;if(P>=st&&st+ch>=P){R(W,'scroll',S);G()}}     A(W,'load',function(){var o=D.getElementById('ad_ph_'+N);if(o){while(o.offsetParent){P+=o.offsetTop;o=o.offsetParent}A(W,'scroll',S);S()}});     D.write('<div style="position:absolute;visibility:hidden;height:0px;"><iframe id="ar_container_'+N+'" width=1 height=1 marginwidth=0 marginheight=0 scrolling=no frameborder=0><\/iframe><\/div><div id="ad_ph_'+N+'"><\/div>');     ar_cn++; } adriverPoster("http://ad.adriver.ru/cgi-bin/erle.cgi?sid=51864&sz=second&bn=7&target=top&bt=49&pz=1"); //--> </p>
+<p> function ml_ph(p){document.write('<div id="magnaph'+p+'" style="display:none"></div>');}function ml_c(p){document.write('<div style="visibility:hidden;position:absolute"><iframe id="ml_c'+p+'" width=1 height=1 marginwidth=0 marginheight=0 scrolling=no frameborder=0></iframe></div>');}function ml_getCode(n,p,s){var d;if(n<10){try{if(document.all && !window.opera){d = window.frames['ml_c'+p].document;}else if(document.getElementById){d=document.getElementById('ml_c'+p).contentDocument;}}catch(e){}try{s+=(location.href!==undefined&&location.href!=''?'&l='+location.href:'')+(document.referrer!==undefined&&document.referrer!=''?'&r='+document.referrer:'');}catch(e){}if(d){d.write('<scr'+'ipt  charset="windows-1251" src="'+s+'"></scr'+'ipt>');}else {setTimeout('ml_getCode('+(++n)+','+p+',"'+s+'")', 100);}}}var place_id = '5110';ml_ph(place_id); ml_c(place_id);ml_getCode(1,place_id,'http://qip.magna.ru/xml_out/?id='+place_id+'&rid=' + Math.round(Math.random()*100000)); </p>
+<p> function hide_complaint_form() {             KPjQuery('#popup-background, #popup-complaint-form').fadeOut(600);             return false;         }          function complaint_comment(comment_id) {             var userData;             if(typeof(ApolloApi) !== 'undefined' && ApolloApi.getUserInfo()) {                 userData = ApolloApi.getUserInfo();                 KPjQuery('#complaint-key').attr('value', userData.sosh_o);                 KPjQuery('#complaint-comment-id').attr('value',comment_id);                  switch(userData.user_type) {                     case 'journalist':                     case 'star':                     case 'expert':                          KPjQuery.ajax(                             {                                 url: '/_ajax/complaint_comment/'+comment_id,                                 type: 'post',                                 data: 'cause_id=0&key='+userData.sosh_o,                                  cache: false,                                 dataType: 'json',                                 beforeSend: function() {                                     KPjQuery('#comment-'+comment_id).animate({opacity: 0.2},1000);                                 },                                 error: function() {                                     KPjQuery('#comment-'+comment_id).css({opacity: 1});                                 },                                 success: function(response) {                                      if(response.errorCode == 0 && response.showComment == 0) {                                         //hide comment                                         KPjQuery('#comment-'+comment_id).fadeOut(400);                                     }                                 }                             }                         );                         break;                      case 'user':                     case 'web_journalist':                      default:                         KPjQuery('#popup-complaint-form').attr('action', '/_ajax/complaint_comment/'+comment_id);                          KPjQuery('#popup-background, #popup-complaint-form').fadeIn(600);                                                  break;                                      }                 return false;             }             return true;         }          function submit_complaint() {                          var comment_id = KPjQuery('#complaint-comment-id').attr('value');             KPjQuery.ajax(                 {                     url: KPjQuery('#popup-complaint-form').attr('action'),                     data: KPjQuery('#popup-complaint-form').serialize(),                     type: 'POST',                     timeout: 15000,                     cache: false,                     dataType: 'json',                     success: function(response) {                          if(response.errorCode == 0 && response.showComment == 0) {                             //hide comment                             KPjQuery('#comment-'+comment_id).fadeOut(400);                         }                     }                 }             );                          KPjQuery('#popup-background, #popup-complaint-form').fadeOut(400);         } </p>
+<p> Пожаловаться на комментарий </p>
+<p> Выберите причину для жалобы </p>
+<p> Пропаганда войны, призыв к разжиганию национальной, расовой или религиозной ненависти и вражды </p>
+<p> Нарушение авторских прав </p>
+<p> Материалы порнографического характера </p>
+<p> Оскорбление других пользователей </p>
+<p> Другая причина </p>
+<p> Читать </p>
+<p> Пользовательское соглашение </p>
+<p> и </p>
+<p> Политику по защите персональных данных </p>
+<p> Если после публикации вы перестанете видеть данный комментарий, то это значит что ваша жалоба не одинока: мы скрываем проблемный материал. </p>
+<p> Отмена </p>
+<p> Отправить </p>
+<p> Комментарии </p>
+<p> 12 </p>
+<p> Комментировать </p>
+<p> var CommentsObj = {     current: 0,     classId: 13,     objectId: 2792950,     regionId: 0 };  function toggleFormCmt( CommentID, cId, oId, rId, parentId ) {     currWrpFrm = KPjQuery( '#form_' + CommentsObj.current );     nextWrpFrm = KPjQuery( '#form_' + CommentID );              KPjQuery('#cm-result').html('');     if (!currWrpFrm || !nextWrpFrm) { return; }              currBtn = KPjQuery( '#btn-' + CommentsObj.current );     nextBtn = KPjQuery( '#btn-' + CommentID );      if ( nextBtn ) { nextBtn.hide(); }     if ( currBtn ) { currBtn.show(); }      currWrpFrm.hide();     nextWrpFrm.html(currWrpFrm.html());     currWrpFrm.html('');      var comment_to = KPjQuery('#cm-to');     comment_to.attr('value', CommentID);          if (CommentID == 1) { comment_to.attr('value', 0); }      if (( CommentID == 0 ) || ( CommentID == 1 )) {         KPjQuery( '#cm-submit' ).html('Комментировать');     } else {         KPjQuery( '#cm-submit' ).html('Ответить');     }     nextWrpFrm.show();          CommentsObj.classId = cId;     CommentsObj.objectId = oId;     CommentsObj.regionId = rId;           KPjQuery('#cm-region').attr('value', CommentsObj.regionId);     KPjQuery('#cm-form').attr('action',"/_ajax/add_comment/" + CommentsObj.classId + "/" + CommentsObj.objectId + "/" + (parentId ? parentId : CommentID)).show();      CommentsObj.current = CommentID; } </p>
+<p> Оставить комментарий </p>
+<p> О модерации </p>
+<p> Уважаемые читатели! </p>
+<p> Ваши сообщения будут опубликованы только после проверки их модератором. Модерация осуществляется круглосуточно без выходных. </p>
+<p> Комментарии могут быть опубликованы, если они не содержат: </p>
+<p> — Призывов к насилию, межнациональной розни и прочим нарушениям закона </p>
+<p> — Оскорбление или уничижение России, ее символов и первых лиц. </p>
+<p> — Ненормативной лексики </p>
+<p> — Личных оскорблений или проявлений неуважения в адрес авторов материала, других посетителей форума, иных лиц, а также «Комсомольской правды» </p>
+<p> — Ссылок на какие-либо страницы в интернете </p>
+<p> — Рекламы товаров или услуг, адресов или телефонов и т.п. </p>
+<p> Администрация сайта оставляет за собой право удалять любые сообщения с форума без объяснения причин. Администрация сайта не несет ответственности за содержание сообщений. Мнение автора сообщения может не совпадать с мнением редакции. </p>
+<p> Как пользователь социальной сети </p>
+<p> Оставить комментарий под другим именем </p>
+<p> Как пользователь любимой соцсети </p>
+<p> Гость </p>
+<p> Ваша персональная страничка на KP.RU </p>
+<p> Ваше сообщение </p>
+<p> Комментировать </p>
+<p> Осталось символов - </p>
+<p> 2000 </p>
+<p> function add_comment() {              var form = KPjQuery('#cm-form');          var name = KPjQuery('#cm-guest-name');         if(name.attr('value') == 'Ваше имя')             name.attr('value', '');         var text = KPjQuery('#cm-text');         if(text.attr('value') == 'Ваше сообщение')             text.attr('value','');          KPjQuery.ajax(             {                 url: form.attr('action'),                 type: 'post',                 data: form.serialize(),                  cache: false,                 dataType: 'html',                 beforeSend: function() {                     KPjQuery('#cm-submit').attr('disabled', true);                     KPjQuery('#cm-form').hide();                     KPjQuery('#cm-preloader').show();                 },                 error: function() {                     KPjQuery('#cm-submit').attr('disabled', false);                     KPjQuery('#cm-preloader').hide();                     KPjQuery('#cm-result').text('Ошибка соединения');                 },                 success: function(response) {                     KPjQuery('#cm-text').attr('value', 'Ваше сообщение');                     max_count();                     KPjQuery('#cm-submit').attr('disabled', false);                     KPjQuery('#cm-preloader').hide();                     KPjQuery('#cm-result').html(response);                 }             }         );                    return false;     }      KPjQuery(document).ready(function(){         // подцепляем нормальные ссылки для кнопок залогинивания         KPjQuery('.my-kp-login').each(function(index, elem){             elem.href = 'http://my.kp.ru/login.do?returnUrl=http%3A%2F%2Fsaratov.kp.ru%2Fdaily%2F25814.3%2F2792950%2F';         });     });      function changeTypeForm(type) {         container = document.getElementById('cm-form');         // нечего делать на не существующей форме         if(!container)             return;          var guest_auto_name = readCookie('guest_user_name');         if (!guest_auto_name) {             // для анонимного пользователя присвоим имя по умолчанию             var host = window.location.host.replace(/.*\.([-a-z0-9]*)\.(\w*)$/,".$1.$2");             if(!/^\./.test(host)) {                 host = "." + host;             }             guest_auto_name = 'Гость №' + Math.floor(Math.random()*10000);             createCookie('guest_user_name', guest_auto_name, 4*30, host);         }                  switch(type) {             case 'anonymous':                 container.className = 'all_add-comment cm_anonymous';                 document.getElementById('cm-guest-auto-name').value = guest_auto_name;                 document.getElementById('cm-guest-display-auto-name').innerHTML = guest_auto_name;                 document.getElementById('cm-user-id').value='';                 document.getElementById('cm-user-name').innerHTML='';                 // document.getElementById('cm-user-type').innerHTML='';                 document.getElementById('cm-user-image').src='/regions/msk/_img/all_add-comment-img.jpg';                 document.getElementById('cm-user-profile').href='#';                 document.getElementById('cm-key').value='';                 document.getElementById('cm-guest-mode').value = 1;                 break;             case 'authorized':                 var info = ApolloApi.getUserInfo();                 container.className='all_add-comment cm_authenticated';                 document.getElementById('cm-user-id').value=info.id;                 document.getElementById('cm-user-name').innerHTML=info.name;                                  // switch(info.user_type) {                 //     case 'user':                  //         document.getElementById('cm-user-type').innerHTML='id';                 //         break;                 //     case 'journalist':                 //         document.getElementById('cm-user-type').innerHTML='журналист';                 //         break;                 // }                 document.getElementById('cm-user-image').src=info.userpic.b28;                 document.getElementById('cm-user-profile').href=info.userUrl;                 document.getElementById('cm-key').value=info.sosh_o;                 document.getElementById('cm-guest-mode').value = 0;                 break;           }         return false;     }      function max_count() {         var text    = document.getElementById('cm-text');         var max1    = document.getElementById('cm-words-count-1');         var max;         var limit   = 2000;                  max = text.value.length;         if (max < limit) {             max1.style.color = 'green';             max1.innerHTML = (limit - max);         } else {             max1.style.color = 'red';             max1.innerHTML = (limit - max);                      }     }        if (typeof(ApolloApi) !== 'undefined') {          if(!ApolloApi.getUserInfo())             // если не залогинен             changeTypeForm('anonymous');         else             changeTypeForm('authorized');     } </p>
+<p> Гость </p>
+<p> Как повысить статус? </p>
+<p> Как поменять статус и перестать быть Гостем на KP.RU? </p>
+<p> Есть два способа: </p>
+<p> 1. Зарегистрироваться на нашем сайте, что займет у вас пару минут. </p>
+<p> 2. Войти с помощью своего аккаунта в других соцсетях. </p>
+<p> В любом случае вы получаете не только оригинальное имя, но и становитесь пользователем нашей соцсети MyKP.ru. Это позволит вам комментировать любые заметки на сайте KP.RU с минимальной модерацией, участвовать в конкурсах, заводить сообщества по интересам, делиться своими фотографиями, смотреть видео. </p>
+<p> ЗАРЕГИСТРИРОВАТЬСЯ </p>
+<p> Морель </p>
+<p> 07.01.2012, 17:44 </p>
+<p> Отношусь к Василисе с большой симпатией, но она взялась не за свое дело. </p>
+<p> Василисушка, ну какая из вас соблазнительница? </p>
+<p> Определенно, это не ваша сильная масть. </p>
+<p> Вы хорошая домашняя женщина с прекрасными манерами и живым умом, и если бы вы написали книгу о том, как минимально раздражать мужчину, как соблюдать этикет или как выбирать бубенчики на шею, по каким фазам Луны чем кормить семью и т.п., то вы были бы уместны. </p>
+<p> А что вы можете сообщить о том, чем вы сами никогда не занимались? </p>
+<p> Вы кого-то сами соблазняли? </p>
+<p> Вы замечательно умеете нравиться, вызывать симпатию, и об этом вам и следует писать, если хотите. </p>
+<p> Но соблазнение это другое, оно связано со страстью, стучащей изнутри, которая в вас, Василиса, не чувствуется. Оставли бы вы тему, которой не владеете и которую не отстрадали сами. </p>
+<p> Ответить </p>
+<p> Гость </p>
+<p> Как повысить статус? </p>
+<p> Как поменять статус и перестать быть Гостем на KP.RU? </p>
+<p> Есть два способа: </p>
+<p> 1. Зарегистрироваться на нашем сайте, что займет у вас пару минут. </p>
+<p> 2. Войти с помощью своего аккаунта в других соцсетях. </p>
+<p> В любом случае вы получаете не только оригинальное имя, но и становитесь пользователем нашей соцсети MyKP.ru. Это позволит вам комментировать любые заметки на сайте KP.RU с минимальной модерацией, участвовать в конкурсах, заводить сообщества по интересам, делиться своими фотографиями, смотреть видео. </p>
+<p> ЗАРЕГИСТРИРОВАТЬСЯ </p>
+<p> df </p>
+<p> 07.01.2012, 2:13 </p>
+<p> Ковать бабки на пропаганде невежества - прибыльнейшее дело в нынешней России. </p>
+<p> Ответить </p>
+<p> Гость </p>
+<p> Как повысить статус? </p>
+<p> Как поменять статус и перестать быть Гостем на KP.RU? </p>
+<p> Есть два способа: </p>
+<p> 1. Зарегистрироваться на нашем сайте, что займет у вас пару минут. </p>
+<p> 2. Войти с помощью своего аккаунта в других соцсетях. </p>
+<p> В любом случае вы получаете не только оригинальное имя, но и становитесь пользователем нашей соцсети MyKP.ru. Это позволит вам комментировать любые заметки на сайте KP.RU с минимальной модерацией, участвовать в конкурсах, заводить сообщества по интересам, делиться своими фотографиями, смотреть видео. </p>
+<p> ЗАРЕГИСТРИРОВАТЬСЯ </p>
+<p> Денис </p>
+<p> 06.01.2012, 19:26 </p>
+<p> сказывается низкий уровень образования - пол страны внимают астрологам </p>
+<p> Ответить </p>
+<p> Гость </p>
+<p> Как повысить статус? </p>
+<p> Как поменять статус и перестать быть Гостем на KP.RU? </p>
+<p> Есть два способа: </p>
+<p> 1. Зарегистрироваться на нашем сайте, что займет у вас пару минут. </p>
+<p> 2. Войти с помощью своего аккаунта в других соцсетях. </p>
+<p> В любом случае вы получаете не только оригинальное имя, но и становитесь пользователем нашей соцсети MyKP.ru. Это позволит вам комментировать любые заметки на сайте KP.RU с минимальной модерацией, участвовать в конкурсах, заводить сообщества по интересам, делиться своими фотографиями, смотреть видео. </p>
+<p> ЗАРЕГИСТРИРОВАТЬСЯ </p>
+<p> бред </p>
+<p> 06.01.2012, 19:22 </p>
+<p> "Склонен к разводам" это как? </p>
+<p> Я понимаю "склонен к полноте, пьянству, походам налево" и т.д. А к разводам? Т.е. непреодолимая тяга, как к урению, сладкому, типа, надо срочно жениться и быстрей развестись! И опять! И снова! Обожаю разводы? </p>
+<p> Ответить </p>
+<p> Гость </p>
+<p> Как повысить статус? </p>
+<p> Как поменять статус и перестать быть Гостем на KP.RU? </p>
+<p> Есть два способа: </p>
+<p> 1. Зарегистрироваться на нашем сайте, что займет у вас пару минут. </p>
+<p> 2. Войти с помощью своего аккаунта в других соцсетях. </p>
+<p> В любом случае вы получаете не только оригинальное имя, но и становитесь пользователем нашей соцсети MyKP.ru. Это позволит вам комментировать любые заметки на сайте KP.RU с минимальной модерацией, участвовать в конкурсах, заводить сообщества по интересам, делиться своими фотографиями, смотреть видео. </p>
+<p> ЗАРЕГИСТРИРОВАТЬСЯ </p>
+<p> валера 1 979г 24января </p>
+<p> 06.01.2012, 8:33 </p>
+<p> какои тип девушек он предпочитает </p>
+<p> Ответить </p>
+<p> Гость </p>
+<p> Как повысить статус? </p>
+<p> Как поменять статус и перестать быть Гостем на KP.RU? </p>
+<p> Есть два способа: </p>
+<p> 1. Зарегистрироваться на нашем сайте, что займет у вас пару минут. </p>
+<p> 2. Войти с помощью своего аккаунта в других соцсетях. </p>
+<p> В любом случае вы получаете не только оригинальное имя, но и становитесь пользователем нашей соцсети MyKP.ru. Это позволит вам комментировать любые заметки на сайте KP.RU с минимальной модерацией, участвовать в конкурсах, заводить сообщества по интересам, делиться своими фотографиями, смотреть видео. </p>
+<p> ЗАРЕГИСТРИРОВАТЬСЯ </p>
+<p> Елена </p>
+<p> 06.01.2012, 18:54 </p>
+<p> Валера предпочитает девушек старше по возрасту, серьезных, устремленных в даль, с высшим оразованием и большим кругозором, сильных и романтичных. Тяжело найти такое в одной девушке-женщине. Брак поздний. </p>
+<p> Гость </p>
+<p> Как повысить статус? </p>
+<p> Как поменять статус и перестать быть Гостем на KP.RU? </p>
+<p> Есть два способа: </p>
+<p> 1. Зарегистрироваться на нашем сайте, что займет у вас пару минут. </p>
+<p> 2. Войти с помощью своего аккаунта в других соцсетях. </p>
+<p> В любом случае вы получаете не только оригинальное имя, но и становитесь пользователем нашей соцсети MyKP.ru. Это позволит вам комментировать любые заметки на сайте KP.RU с минимальной модерацией, участвовать в конкурсах, заводить сообщества по интересам, делиться своими фотографиями, смотреть видео. </p>
+<p> ЗАРЕГИСТРИРОВАТЬСЯ </p>
+<p> гость </p>
+<p> 06.01.2012, 4:49 </p>
+<p> Дурить с умным лицом, на всю страну да ещё деньги за это получать! И никакой ответственности! Ну, если людям это необходимо, тогда ладно. </p>
+<p> Ответить </p>
+<p> Гость </p>
+<p> Как повысить статус? </p>
+<p> Как поменять статус и перестать быть Гостем на KP.RU? </p>
+<p> Есть два способа: </p>
+<p> 1. Зарегистрироваться на нашем сайте, что займет у вас пару минут. </p>
+<p> 2. Войти с помощью своего аккаунта в других соцсетях. </p>
+<p> В любом случае вы получаете не только оригинальное имя, но и становитесь пользователем нашей соцсети MyKP.ru. Это позволит вам комментировать любые заметки на сайте KP.RU с минимальной модерацией, участвовать в конкурсах, заводить сообщества по интересам, делиться своими фотографиями, смотреть видео. </p>
+<p> ЗАРЕГИСТРИРОВАТЬСЯ </p>
+<p> Эксперт </p>
+<p> 06.01.2012, 4:35 </p>
+<p> Интересный собрался в программе коллектив. Сваху муж регулярно колотит, астролог разведена, ведущая несколько раз замужем побывала. </p>
+<p> Ответить </p>
+<p> Гость </p>
+<p> Как повысить статус? </p>
+<p> Как поменять статус и перестать быть Гостем на KP.RU? </p>
+<p> Есть два способа: </p>
+<p> 1. Зарегистрироваться на нашем сайте, что займет у вас пару минут. </p>
+<p> 2. Войти с помощью своего аккаунта в других соцсетях. </p>
+<p> В любом случае вы получаете не только оригинальное имя, но и становитесь пользователем нашей соцсети MyKP.ru. Это позволит вам комментировать любые заметки на сайте KP.RU с минимальной модерацией, участвовать в конкурсах, заводить сообщества по интересам, делиться своими фотографиями, смотреть видео. </p>
+<p> ЗАРЕГИСТРИРОВАТЬСЯ </p>
+<p> Ирина </p>
+<p> 07.01.2012, 13:23 </p>
+<p> С чего вы взяли.что астролог разведена? </p>
+<p> Гость </p>
+<p> Как повысить статус? </p>
+<p> Как поменять статус и перестать быть Гостем на KP.RU? </p>
+<p> Есть два способа: </p>
+<p> 1. Зарегистрироваться на нашем сайте, что займет у вас пару минут. </p>
+<p> 2. Войти с помощью своего аккаунта в других соцсетях. </p>
+<p> В любом случае вы получаете не только оригинальное имя, но и становитесь пользователем нашей соцсети MyKP.ru. Это позволит вам комментировать любые заметки на сайте KP.RU с минимальной модерацией, участвовать в конкурсах, заводить сообщества по интересам, делиться своими фотографиями, смотреть видео. </p>
+<p> ЗАРЕГИСТРИРОВАТЬСЯ </p>
+<p> Морель </p>
+<p> 07.01.2012, 17:56 </p>
+<p> Лариса там на месте, у ней язык острый, только слишком зациклена на себе, Василиса тоже не портит программу, а Роза совсем никудышняя, но она изображает простой народ, "мужем битую" и у товарок там в роли клоуна. </p>
+<p> Меня особенно возмущает, как она рассуждает о ста тысячах в месяц "хотя бы", которые мужчина должен зарабатывать, чтобы быть привлекательным женихом, в то время как на переферии врач, инженер или учитель на тяжелой реальной работе получают несравнимые гроши. </p>
+<p> Возникает вопрос, у них все же там сватье дело, или бордель с бендершей Розой? </p>
+<p> Гость </p>
+<p> Как повысить статус? </p>
+<p> Как поменять статус и перестать быть Гостем на KP.RU? </p>
+<p> Есть два способа: </p>
+<p> 1. Зарегистрироваться на нашем сайте, что займет у вас пару минут. </p>
+<p> 2. Войти с помощью своего аккаунта в других соцсетях. </p>
+<p> В любом случае вы получаете не только оригинальное имя, но и становитесь пользователем нашей соцсети MyKP.ru. Это позволит вам комментировать любые заметки на сайте KP.RU с минимальной модерацией, участвовать в конкурсах, заводить сообщества по интересам, делиться своими фотографиями, смотреть видео. </p>
+<p> ЗАРЕГИСТРИРОВАТЬСЯ </p>
+<p> Гость </p>
+<p> 06.01.2012, 2:40 </p>
+<p> Дьявол сейчас в нынешней "церкви". </p>
+<p> А астрологов и магов настоящая, традиционная церковь всегда уважала и привечала. </p>
+<p> Ответить </p>
+<p> Гость </p>
+<p> Как повысить статус? </p>
+<p> Как поменять статус и перестать быть Гостем на KP.RU? </p>
+<p> Есть два способа: </p>
+<p> 1. Зарегистрироваться на нашем сайте, что займет у вас пару минут. </p>
+<p> 2. Войти с помощью своего аккаунта в других соцсетях. </p>
+<p> В любом случае вы получаете не только оригинальное имя, но и становитесь пользователем нашей соцсети MyKP.ru. Это позволит вам комментировать любые заметки на сайте KP.RU с минимальной модерацией, участвовать в конкурсах, заводить сообщества по интересам, делиться своими фотографиями, смотреть видео. </p>
+<p> ЗАРЕГИСТРИРОВАТЬСЯ </p>
+<p> Гость </p>
+<p> 05.01.2012, 23:28 </p>
+<p> Астрология -языческое занятие ,пришедшее из языческих страни экстрасенсы-те же маги и колдуны,толтко в современом виде. </p>
+<p> Кто не верит,забейте в поисковике-как православие относится к экстрасенсам.И вы поймете,почему экстрасенсы-слуги дьявола,как они губят души людей,направляя их к дьяволу. </p>
+<p> Ответить </p>
+<p> Комментировать </p>
+<p> Новости сми </p>
+<p> Загрузка... </p>
+<p> Реклама </p>
+<p> <!-- google_ad_client = "ca-pub-7127235648224767"; /* Блок большой текст-графика */ google_ad_slot = "7075376506"; google_ad_width = 728; google_ad_height = 90; //--> </p>
+<p> <!-- function adriverPoster(L){     if(typeof(ar_cn)=="undefined")ar_cn=1;     var W=window,D=document,E=D.documentElement,T=0,N=ar_cn,P=0,C=D.compatMode=="CSS1Compat",         X='<scr'+'ipt type="text/javascript">var ar_bnum='+N+';setTimeout(function(e){if(!self.CgiHref){document.close();e=parent.document.getElementById("ar_container_"+ar_bnum);e.parentNode.removeChild(e)}},3000);',         Y='<\/sc'+'ript><sc'+'ript type="text/javascript" src="'+L+'&tail256='+escape(D.referrer||'unknown')+'&rnd='+Math.round(Math.random()*999999999)+'"><\/sc'+'ript>';     function G(){if(T++<100){var o=D.getElementById('ar_container_'+N);if(o){try{var d=o.contentDocument||(W.ActiveXObject&&W.frames['ar_container_'+N].document);if(d){d.write(X+Y)}else setTimeout(arguments.callee,100)}catch(e){try{o.src = "javascript:{document.write('"+X+'document.domain="'+D.domain+'";'+Y+"')}";return}catch(E){}}}else setTimeout(arguments.callee,100)}}     function A(e,t,f){if(e.addEventListener)e.addEventListener(t,f,false);else if(e.attachEvent)e.attachEvent('on'+t,f)}     function R(e,t,f){if(e.removeEventListener)e.removeEventListener(t,f,false);else if(e.detachEvent)e.detachEvent('on'+t,f)}     function S(){var ch=self.innerHeight||C&&E.clientHeight||D.body.clientHeight,st=self.pageYOffset||C&&E.scrollTop||D.body.scrollTop;if(P>=st&&st+ch>=P){R(W,'scroll',S);G()}}     A(W,'load',function(){var o=D.getElementById('ad_ph_'+N);if(o){while(o.offsetParent){P+=o.offsetTop;o=o.offsetParent}A(W,'scroll',S);S()}});     D.write('<div style="position:absolute;visibility:hidden;height:0px;"><iframe id="ar_container_'+N+'" width=1 height=1 marginwidth=0 marginheight=0 scrolling=no frameborder=0><\/iframe><\/div><div id="ad_ph_'+N+'"><\/div>');     ar_cn++; } adriverPoster("http://ad.adriver.ru/cgi-bin/erle.cgi?sid=51864&bn=1&target=top&bt=49&pz=3"); //--> </p>
+<p> (function(L){if(typeof(ar_cn)=="undefined")ar_cn=1; var S='setTimeout(function(e){if(!self.CgiHref){document.close();e=parent.document.getElementById("ar_container_"+ar_bnum);e.parentNode.removeChild(e);}},3000);',     j=' type="text/javascript"',t=0,D=document,n=ar_cn;L+=escape(D.referrer||'unknown')+'&rnd='+Math.round(Math.random()*999999999); function _(){if(t++<100){var F=D.getElementById('ar_container_'+n);     if(F){try{var d=F.contentDocument||(window.ActiveXObject&&window.frames['ar_container_'+n].document);     if(d){d.write('<sc'+'ript'+j+'>var ar_bnum='+n+';'+S+'<\/sc'+'ript><sc'+'ript'+j+' src="'+L+'"><\/sc'+'ript>');t=0}     else setTimeout(_,100);}catch(e){try{F.src="javascript:{document.write('<sc'+'ript"+j+">var ar_bnum="+n+"; document.domain=\""     +D.domain+"\";"+S+"<\/sc'+'ript>');document.write('<sc'+'ript"+j+" src=\""+L+"\"><\/sc'+'ript>');}";return}catch(E){}}}else setTimeout(_,100);}} D.write('<div style="visibility:hidden;height:0px;left:-1000px;position:absolute;"><iframe id="ar_container_'+ar_cn     +'" width=1 height=1 marginwidth=0 marginheight=0 scrolling=no frameborder=0><\/iframe><\/div><div id="ad_ph_'+ar_cn     +'" style="display:none;"><\/div>');_();ar_cn++; })('http://ad.adriver.ru/cgi-bin/erle.cgi?sid=51864&sz=televizor&bn=2&target=top&bt=43&pz=1&tail256='); </p>
+<p> KPjQuery(document).ready(function() {     KPjQuery( "#tabs" ).tabs({ show: { effect: "fadeIn", duration: 600 } }); 	 }); </p>
+<p> new TWTR.Widget({ 		version: 2, 		type: 'search', 		search: 'onlinekpru', 		interval: 60000, 		title: 'Комсомольская правда', 		subject: '@onlinekpru', 		width: 285, 		height: 120, 		theme: { 			shell: { 				background: '#8ec1da', 				color: '#ffffff' 			}, 			tweets: { 				background: '#ffffff', 				color: '#444444', 				links: '#1985b5' 			} 		}, 		features: { 			scrollbar: false, 			loop: true, 			live: true, 			hashtags: true, 			timestamp: true, 			avatars: true, 			toptweets: true, 			behavior: 'default' 		} 	}).render().start(); </p>
+<p> VK.Widgets.Group("vk_groups", {mode: 0, width: "285", height: "210"}, 15722194); </p>
+<p> Читайте также </p>
+<p> 01:00 </p>
+<p> Дмитрий Харатьян: «Игроки напрасно ищут в моих глазах подсказку» </p>
+<p> 01:00 </p>
+<p> Анна Андрусенко: «Мне приснился вещий сон» </p>
+<p> 01:00 </p>
+<p> Пугачевой подарили двух клонов, а Титомир навлек на себя гнев Казарновской </p>
+<p> 01:00 </p>
+<p> Все тайны мексиканской кухни </p>
+<p> 01:00 </p>
+<p> «Под прикрытием» тени «Глухаря» </p>
+<p> 01:00 </p>
+<p> И в парке Горького станцует Псай «Гангнам» </p>
+<p> вчера, 17:20 </p>
+<p> Анна Семенович научит готовить Гвинет Пэлтроу </p>
+<p> Event.observe(window, "load", function(){                  var links = $$('a[href="'+document.location.pathname+'"]');                 for (var i=0; i<links.length; i++) {                     var ctr = links[i].up('li');                     if ( ctr && ctr.hasClassName("s_also") == true ) {                         ctr.hide();                     }                 }         }); </p>
+<p> //	google.load("prototype", "1.6.1.0"); //	google.load("scriptaculous", "1.8.2"); 	google.setOnLoadCallback(OnLoad);  	function OnLoad(){ 			//consolelog('Google JavaScript API are loaded.'); 			var f_login=0;   			window.fbAsyncInit = function() { 				FB.init({appId: '191944177588942', cookie: true, logging: true, status: true, xfbml: true});   				FB.Event.subscribe('auth.login', function(response) { 					//consolelog('User is Logged In'); 				});   				FB.Event.subscribe('auth.logout', function(response) { 					//consolelog('Session was terminated!'); 				});   				FB.Event.subscribe('edge.create', function(response) { 					//consolelog("User liked <a target='_blank' href='" + response + "'>this page.</a>"); 				});  				FB.getLoginStatus(function(response) { 					if (response.status === 'connected') { 						// the user is logged in and has authenticated your app, and response.authResponse supplies 						// the user's ID, a valid access token, a signed request, and the time the access token  						// and signed request each expire 						var uid = response.authResponse.userID; 						var accessToken = response.authResponse.accessToken; 						$('fb_loader').show(); 						$('fb_nologin').hide(); 						f_login=1;  						// проверяем состояние публикации 						var f_switch = parseInt(readCookie('fbSwitch')); 						if(f_switch != -1){ // если не запрещено, то ставим по умолчанию разрешение 							createCookie('fbSwitch', 1, 90); 							$('fb_switch').removeClassName('off'); 							$('fb_switch').addClassName('on'); 						}  						// получаем данные пользователя 						FB.api('/me?fields=first_name,last_name,link,username,picture', function(response) { 							////consolelog('Get user info. '+response.picture+' '+response.first_name+' '+response.last_name+' '); 							fbUserInfo(response); // выведем данные пользователя 							fbUserActivity(); 						}); 						  					} else if (response.status === 'not_authorized') { 						// the user is logged in to Facebook, but has not authenticated your app 						$('fb_loader').hide(); 						$('fb_login').hide(); 						$('fb_nologin').show(); 						fbPopupShow(); 					} else { 						// the user isn't logged in to Facebook. 						$('fb_loader').hide(); 						$('fb_login').hide(); 						$('fb_nologin').show(); 						fbPopupShow(); 					} 					//consolelog('Status: '+response.status);  				}, true); 			};  			(function() { 				var e = document.createElement('script'); 				e.async = true; 				e.src = document.location.protocol + '//connect.facebook.net/ru_RU/all.js'; 				document.getElementById('fb-root').appendChild(e); 			}()); 	} 	 	function fbPopupShow() { 		$('fb_loader').hide(); 		$('fb_login').hide(); 		$('fb_nologin').show();  		var f_popup = parseInt(readCookie('fbPopup')); 		if(f_popup != 1){ // если еще не показали поп-ап 			//$('fb_popup').show(); // поп-ап для рекламмы приложения 			var domain = document.domain.split(".").splice(-2).join('.'); 			createCookie('fbPopup', 1, 1,'.'+domain); // запоминаем в куке  		} 	}   	function fbUserInfo(response){  		var img = new Element('img', {src: response.picture.data.url, title: response.first_name+" "+response.last_name});  		$('fb_avatar').href=response.link; 		$('fb_avatar').innerHTML=''; 		$('fb_avatar').appendChild(img);  		$('fb_username').innerHTML = response.first_name+" "+response.last_name; 		$('fb_username').href=response.link; 		 		$('fb_profile_url').href=response.link; 		 		var f_switch = parseInt(readCookie('fbSwitch')); 		if(f_switch == 1){ 			$('fb_switch').removeClassName('off'); 			$('fb_switch').addClassName('on'); 		}else{ 			$('fb_switch').removeClassName('on'); 			$('fb_switch').addClassName('off'); 		}  		$('fb_loader').hide(); 		$('fb_login').show(); // покажем инфо пользователя 	}  	function deleteRequest(requestId) { 		FB.api( "/" + requestId, "delete", 		function(response) { 			//consolelog(dump(response)); 			$('act_li_'+requestId).fade({duration: 0.3}); 		}); 	}  	function fbUserActivity(){ 		postAct();  		// удаляем старые действия 		while ($('fb_activity_list').childNodes.length > 0){ 			$('fb_activity_list').removeChild($('fb_activity_list').lastChild); 		}  		// получаем последние действия 		FB.api('/me/news.reads?date_format=U', function(response) { 			for( var i = 0; i < (( response.data < 6 ) ? data.length : 6 ); i++  ){ 				if(response.data[i] != undefined){ 					//consolelog(" QQ: " +response.data[i]['data']['article']['title']+" "+response.data[i]['id']+" "+response.data[i]['start_time']); 				 					var li = new Element('li', {id: 'act_li_'+response.data[i]['id']}); 					var a_t =  new Element('a', {href: response.data[i]['data']['article']['url'], target: '_blank', class: 'news'}).update(response.data[i]['data']['article']['title']); 					li.appendChild(a_t); 					var d_date = new Element('div', {class: 'date'}).update(GetTime(response.data[i]['start_time'])); 					li.appendChild(d_date); 					var a_delete =  new Element('a', {href: '#', title: 'Удалить запись', class: 'close', onClick: 'deleteRequest(' + response.data[i]['id']+'); return false;'}); 					li.appendChild(a_delete); 				 					$('fb_activity_list').appendChild(li); 				} 			} 		});		 	}   	function fbLogout(){ 		FB.logout(function(response) { 			$('fb_login').hide(); 			$('fb_loader').show(); 			document.location.href = document.location.href; 		}); 	}   	function fbLogin(){ 		FB.login(function(response) { 			if (response.authResponse) { 			 				//consolelog('Welcome!  Fetching your information.... '); 				$('fb_nologin').hide(); 				$('fb_loader').show(); 				//$('fb_popup').hide(); // скрываем поп-ап  				// проверяем состояние публикации 				var f_switch = parseInt(readCookie('fbSwitch')); 				if(f_switch != -1){ // если не запрещено, то ставим по умолчанию разрешение 					createCookie('fbSwitch', 1, 90); 					$('fb_switch').removeClassName('off'); 					$('fb_switch').addClassName('on'); 				}  				FB.api('/me?fields=first_name,last_name,link,username,picture', function(response) { 					//consolelog('Good to see you, ' + response.name + '.'); 					fbUserInfo(response); 					fbUserActivity(); 				});  			} else { 				//consolelog('User cancelled login or did not fully authorize.'); 			} 		}, {scope:'publish_actions'}); 	}  //function createCookie( name, value, days ) { //function readCookie( name ) { //function eraseCookie( name ) { 	function fbSwitch(){ 		var f_switch = parseInt(readCookie('fbSwitch')); 		if(f_switch == 1){ 			createCookie('fbSwitch', -1, 90); 			$('fb_switch').removeClassName('on'); 			$('fb_switch').addClassName('off'); 		}else{ 			createCookie('fbSwitch', 1, 90); 			$('fb_switch').removeClassName('off'); 			$('fb_switch').addClassName('on'); 			postAct(); // если включили, то сразу публикуем активность 		} 	}  	function fbRemoveApp(){ 		FB.api("me/permissions", "DELETE", function(response){ 			eraseCookie('fbSwitch'); 			document.location.href = document.location.href; 		}); 	} 	 	function postAct(){ 		if($$("meta[property='og:type']")[0] == undefined) return;  		var f_switch = parseInt(readCookie('fbSwitch')); 		//consolelog("Switch: " +f_switch); 		var url=''; 		 		if($$("meta[property='og:type']")[0].getAttribute('content') == 'article' && f_switch != -1){ 			$('fb_switch').addClassName('switch-on'); 			url=$$("meta[property='og:url']")[0].getAttribute('content'); 		}else{ 			return; 		}  		FB.api( 			'/me/news.reads?article=' + url, 			'post', 			function(response) { 				if (!response || response.error) { 					//consolelog('Error post act'); 				} else { 					//consolelog('Read successful! Action ID: ' + response.id); 					//var ll = new Element('li').update('adasdasdasdasd'); // добавим в ленту активности 					//$('fb_activity_list').insertBefore(ll, $('fb_activity_list').firstChild);	  					 					fbUserActivity(); // обновляем активность, при успешной публикации 				} 		}); 	}  	Event.observe(document.body, 'click', function(event) { 		// First element from event source with 'container' among its CSS classes 		if (!$(Event.element(event)).up('#fb_login') && !$(Event.element(event)).up('#fb_corner') && !$(Event.element(event)).up('#fb_settings') ){ 			fbHidePopup(); 		}else{ 			return true; // alert("No..."); // 		} 	});	  	function GetTime (utime){ 		var current_timestamp = Math.round((new Date()).getTime() / 1000); 		var time_ago = current_timestamp - utime, 		days = Math.floor( time_ago/86400 ), 		hours = Math.floor( ( time_ago - days * 86400)/3600 ), 		min = Math.floor( ( time_ago - days * 86400 - hours * 3600 )/60 ), 		sec = time_ago - days * 86400 - hours * 3600 - min * 60, 		time_ago_text = (( days > 0 ) ? days + " " + WordMorf( days, "день", "дня", "дней" ) : 			(( hours > 0 ) ?  				hours + " " + WordMorf( hours, "час", "часа", "часов" ) :  					(( min > 0 ) ?  						min + " " + WordMorf( min, "минута", "минуты", "минут" ) :  							(( sec > 0 ) ? sec + " " + WordMorf( sec, "секунда", "секунды", "секунд" ) : "0" )  					) 			) 		) + " назад"; 										 		return time_ago_text; 	} 	 	 	function WordMorf(n, one, two, many){ 		//WordMorf( n, 'кальмар', 'кальмара', 'кальмаров' );  		return n % 10 == 1 && n % 100 != 11 ? one : n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 10 || n % 100 >= 20) ? two : many; 	}  	function fbHidePopup(){ 		if($('fb_activity').style.display != "none") $('fb_activity').fade({ duration: 0.2 }); 		if($('fb_settings').style.display != "none") $('fb_settings').fade({ duration: 0.2 }); 		if($('fb_corner').style.display != "none") $('fb_corner').fade({ duration: 0.2 }); 	}  	 	 		function dump(arr,level) { 	var dumped_text = ""; 	if(!level) level = 0; 	 	//The padding given at the beginning of the line. 	var level_padding = ""; 	for(var j=0;j<level+1;j++) level_padding += "	"; 	 	if(typeof(arr) == 'object') { //Array/Hashes/Objects  		for(var item in arr) { 			var value = arr[item]; 			 			if(typeof(value) == 'object') { //If it is an array, 				dumped_text += level_padding + "'" + item + "' ...\n"; 				dumped_text += dump(value,level+1); 			} else { 				dumped_text += level_padding + "'" + item + "' => \"" + value + "\"\n"; 			} 		} 	} else { //Stings/Chars/Numbers etc. 		dumped_text = "===>"+arr+"<===("+typeof(arr)+")"; 	} 	return dumped_text; } </p>
+<p> Делитесь с друзьями в Facebook информацией о том, что вы читали и смотрели на kp.ru! </p>
+<p> Войти </p>
+<p> Авторизируйтесь, чтобы начать </p>
+<p> Вы вошли с помощью Facebook </p>
+<p> Ваша активность </p>
+<p> Ваша активность </p>
+<p> посмотреть другие активности на своей стене </p>
+<p> Настройки </p>
+<p> Сообщить о проблеме </p>
+<p> Выйти из Facebook </p>
+<p> Удалить это приложение </p>
+<p> Закрыть </p>
+<p> Дорогой друг! То, что тебе интересно – интересно и твоим друзьям на «Фейсбук». Поделись новостями, которые читаешь сам. Эти новости отобразятся в твоей ленте в реальном времени. </p>
+<p> Присоединяйся! </p>
+<p> loading... </p>
+<p> var pollrnd = Math.floor( Math.random()*10000 ); 	new Ajax.Updater( 		'poll456_443', 		'/_ajax/gpoll/456/?par='+pollrnd, 		{	 			method: 'get',	  			parameters: { sid: 443 }, 			onLoading:function(){ 				$('poll456_443'+'_preloader').show(); 			}, 			onLoaded:function(){ 				$('poll456_443'+'_preloader').hide(); 			}, 			onComplete: function(tr) { 				if (tr.status == 200) { 					Effect.Appear($('poll456_443')); 				} 				$('poll456_443'+'_preloader').hide(); 			} 		} 	); </p>
+<p> Новости сми </p>
+<p> Загрузка... </p>
+<p> .all_block-ins2 ul li .img {float: left; background: url(/images/all_experts-img-bg.gif) top left no-repeat; width:80px; height:74px; margin-left:-4px; padding:2px 0px 0px 4px;} .all_block-ins2 ul li .img img {display: block; width: 70px; height: 70px;} .all_block-ins2 ul li .txt {float: left; width: 196px;} </p>
+<p> Родительский рекорд-2013 </p>
+<p> 10 миллионов - многодетным родителям </p>
+<p> «Комсомольская правда» и гуманитарный фонд Андрея Скоча «Поколение» объявляют о начале конкурса «Родительский рекорд-2013» </p>
+<p> Блоги журналистов </p>
+<p> Сергей Черных. Блогоборчество </p>
+<p> Блог редактора отдела иллюстраций </p>
+<p> Виктор Баранец. Человек с ружьем. </p>
+<p> Блог военного обозревателя "КП" </p>
+<p> Новости сми </p>
+<p> Загружается, подождите... </p>
+<p> СЕТЬ ADPROFY </p>
+<p> var AdFrameHost = (("https:" == document.location.protocol)                  ? "https://" : "http://") +              "p.adframesrc.com"; document.write(unescape("%3Cscript src='" +              AdFrameHost +              "/static/js/blockm.js?" +              (new Date()).getTime() +              "' charset='UTF-8' type='text/javascript'%3E%3C/script%3E")); </p>
+<p> НЕДВИЖИМОСТЬ: ОБЪЯВЛЕНИЯ </p>
+<p> yandex_partner_id = 26254; yandex_site_bg_color = 'FFFFFF'; yandex_site_charset = 'windows-1251'; yandex_ad_format = 'direct'; yandex_font_size = 0.9; yandex_direct_type = 'vertical'; yandex_direct_border_type = 'block'; yandex_direct_limit = 3; yandex_direct_title_font_size = 2; yandex_direct_header_bg_color = '545B64'; yandex_direct_bg_color = 'FFFFFF'; yandex_direct_border_color = 'D7D7D7'; yandex_direct_title_color = '175294'; yandex_direct_url_color = '175294'; yandex_direct_all_color = 'CC0000'; yandex_direct_text_color = '000000'; yandex_direct_hover_color = '175294'; yandex_direct_favicon = true; document.write('<sc'+'ript type="text/javascript" src="http://an.yandex.ru/system/context.js"></sc'+'ript>'); </p>
+<p> Новости </p>
+<p> var el = document.getElementById('CNM117');     if (el && el.getAttribute('atr117', 3)) {         el.setAttribute('atr117', '');         var dateNM = new Date();         var t = Math.floor(dateNM.getTime()/(1000*600));         var NMces=document.createElement('script');         NMces.type = 'text/javascript';         NMces.charset = 'UTF-8';         NMces.src='http://c.novostimira.com.ua/l/117?v='+t;         el.parentNode.appendChild(NMces);     } </p>
+<p> Архив номеров </p>
+<p> | </p>
+<p> Подписка </p>
+<p> Апрель 2013 </p>
+<p> пн </p>
+<p> вт </p>
+<p> ср </p>
+<p> чт </p>
+<p> пт </p>
+<p> сб </p>
+<p> вс </p>
+<p> 1 </p>
+<p> 2 </p>
+<p> 3 </p>
+<p> 4 </p>
+<p> 5 </p>
+<p> 6 </p>
+<p> 7 </p>
+<p> 8 </p>
+<p> 9 </p>
+<p> 10 </p>
+<p> 11 </p>
+<p> 12 </p>
+<p> 13 </p>
+<p> 14 </p>
+<p> 15 </p>
+<p> 16 </p>
+<p> 17 </p>
+<p> 18 </p>
+<p> 19 </p>
+<p> 20 </p>
+<p> 21 </p>
+<p> 22 </p>
+<p> 23 </p>
+<p> 24 </p>
+<p> 25 </p>
+<p> 26 </p>
+<p> 27 </p>
+<p> 28 </p>
+<p> 29 </p>
+<p> 30 </p>
+<p> 1 </p>
+<p> 2 </p>
+<p> 3 </p>
+<p> 4 </p>
+<p> 5 </p>
+<p> 6 </p>
+<p> 7 </p>
+<p> 8 </p>
+<p> 9 </p>
+<p> 10 </p>
+<p> 11 </p>
+<p> 12 </p>
+<p> 13 </p>
+<p> 14 </p>
+<p> 15 </p>
+<p> 16 </p>
+<p> 17 </p>
+<p> 18 </p>
+<p> 19 </p>
+<p> 20 </p>
+<p> 21 </p>
+<p> 22 </p>
+<p> 23 </p>
+<p> 24 </p>
+<p> 25 </p>
+<p> 26 </p>
+<p> 27 </p>
+<p> 28 </p>
+<p> 29 </p>
+<p> 30 </p>
+<p> 31 </p>
+<p> 1 </p>
+<p> 2 </p>
+<p> 3 </p>
+<p> 4 </p>
+<p> 5 </p>
+<p> 6 </p>
+<p> 7 </p>
+<p> 8 </p>
+<p> 9 </p>
+<p> 10 </p>
+<p> 11 </p>
+<p> 12 </p>
+<p> 13 </p>
+<p> 14 </p>
+<p> 15 </p>
+<p> 16 </p>
+<p> 17 </p>
+<p> 18 </p>
+<p> 19 </p>
+<p> 20 </p>
+<p> 21 </p>
+<p> 22 </p>
+<p> 23 </p>
+<p> 24 </p>
+<p> 25 </p>
+<p> 26 </p>
+<p> 27 </p>
+<p> 28 </p>
+<p> 1 </p>
+<p> 2 </p>
+<p> 3 </p>
+<p> 4 </p>
+<p> 5 </p>
+<p> 6 </p>
+<p> 7 </p>
+<p> 8 </p>
+<p> 9 </p>
+<p> 10 </p>
+<p> 11 </p>
+<p> 12 </p>
+<p> 13 </p>
+<p> 14 </p>
+<p> 15 </p>
+<p> 16 </p>
+<p> 17 </p>
+<p> 18 </p>
+<p> 19 </p>
+<p> 20 </p>
+<p> 21 </p>
+<p> 22 </p>
+<p> 23 </p>
+<p> 24 </p>
+<p> 25 </p>
+<p> 26 </p>
+<p> 27 </p>
+<p> 28 </p>
+<p> 29 </p>
+<p> 30 </p>
+<p> 31 </p>
+<p> 1 </p>
+<p> 2 </p>
+<p> 3 </p>
+<p> 4 </p>
+<p> 5 </p>
+<p> 6 </p>
+<p> 7 </p>
+<p> 8 </p>
+<p> 9 </p>
+<p> 10 </p>
+<p> 11 </p>
+<p> 12 </p>
+<p> 13 </p>
+<p> 14 </p>
+<p> 15 </p>
+<p> 16 </p>
+<p> 17 </p>
+<p> 18 </p>
+<p> 19 </p>
+<p> 20 </p>
+<p> 21 </p>
+<p> 22 </p>
+<p> 23 </p>
+<p> 24 </p>
+<p> 25 </p>
+<p> 26 </p>
+<p> 27 </p>
+<p> 28 </p>
+<p> 29 </p>
+<p> 30 </p>
+<p> 31 </p>
+<p> 1 </p>
+<p> 2 </p>
+<p> 3 </p>
+<p> 4 </p>
+<p> 5 </p>
+<p> 6 </p>
+<p> 7 </p>
+<p> 8 </p>
+<p> 9 </p>
+<p> 10 </p>
+<p> 11 </p>
+<p> 12 </p>
+<p> 13 </p>
+<p> 14 </p>
+<p> 15 </p>
+<p> 16 </p>
+<p> 17 </p>
+<p> 18 </p>
+<p> 19 </p>
+<p> 20 </p>
+<p> 21 </p>
+<p> 22 </p>
+<p> 23 </p>
+<p> 24 </p>
+<p> 25 </p>
+<p> 26 </p>
+<p> 27 </p>
+<p> 28 </p>
+<p> 29 </p>
+<p> 30 </p>
+<p> Комсомолка </p>
+<p> в социальных сетях: </p>
+<p> Как с нами связаться: </p>
+<p> Схема проезда </p>
+<p> Читателям </p>
+<p> возрастная категория сайта </p>
+<p> 12+ </p>
+<p> Все о КП </p>
+<p> Вакансии </p>
+<p> Еженедельник </p>
+<p> Телеканал КП </p>
+<p> Радио КП </p>
+<p> Реклама </p>
+<p> Коллекции КП </p>
+<p> Акции КП </p>
+<p> Пресс-центр </p>
+<p> Партнерам </p>
+<p> Новости </p>
+<p> Политика </p>
+<p> Экономика </p>
+<p> Общество </p>
+<p> Происшествия </p>
+<p> Звезды </p>
+<p> Наука </p>
+<p> Спорт </p>
+<p> Авто </p>
+<p> Дом. Семья </p>
+<p> УЧРЕДИТЕЛЬ И РЕДАКЦИЯ: </p>
+<p> ЗАО «ИД «Комсомольская правда». </p>
+<p> Сетевое издание (сайт) зарегистрировано Роскомнадзором, свидетельство Эл№ФC77-50166 от 15 июня 2012. </p>
+<p> Главный редактор - Сунгоркин В.Н. </p>
+<p> Шеф-редактор сайта - Носова О.В. </p>
+<p> Сообщения и комментарии читателей сайта размещаются без предварительного редактирования. Редакция оставляет за собой право удалить их с сайта или отредактировать, если указанные сообщения и комментарии являются злоупотреблением свободой массовой информации или нарушением иных требований закона. </p>
+<p> © ЗАО ИД «Комсомольская правда», 2013. </p>
+<p> АДРЕС РЕДАКЦИИ: Саратовский филиал ЗАО "Издательский дом "Комсомольская правда", ул. Советская, д.51Б. ПОЧТОВЫЙ ИНДЕКС: 410056   КОНТАКТНЫЙ ТЕЛЕФОН: +7(8452) 73-45-01, 73-41-53.     ТИПОГРАФИЯ: Саратовский филиал ООО "Типографии "Комсомольская правда". Тел.: +7(8452) 57-26-41. </p>
+<p> Исключительные права на материалы, размещённые на интернет-сайте </p>
+<p> www.kp.ru </p>
+<p> , в соответствии с законодательством Российской Федерации об охране результатов интеллектуальной деятельности принадлежат ЗАО "Издательский дом "Комсомольская правда", и не подлежат использованию другими лицами в какой бы то ни было форме без письменного разрешения правообладателя. </p>
+<p> Приобретение авторских прав: </p>
+<p> kp@kp.ru </p>
+<p> Для читателей. Нам важно ваше мнение: (495)777-02-82, 8-800-200-0057 (бесплатно для жителей РФ). </p>
+<p> Реклама на сайте www.kp.ru </p>
+<p> Новости </p>
+<p> Последние новости </p>
+<p> Новости шоу-бузнеса </p>
+<p> Бизнес новости </p>
+<p> Новости дня </p>
+<p> Новости России </p>
+<p> Новости Саратова </p>
+<p> Новости мира </p>
+<p> Гид </p>
+<p> Новости в регионах: </p>
+<p> Москва </p>
+<p> Абакан </p>
+<p> Барнаул </p>
+<p> Белгород </p>
+<p> Благовещенск </p>
+<p> Брянск </p>
+<p> Великий Новгород </p>
+<p> Владивосток </p>
+<p> Владимир </p>
+<p> Волгоград </p>
+<p> Вологда </p>
+<p> Воронеж </p>
+<p> Екатеринбург </p>
+<p> Иваново </p>
+<p> Ижевск </p>
+<p> Иркутск </p>
+<p> Казань </p>
+<p> Калининград </p>
+<p> Кемерово </p>
+<p> Киров </p>
+<p> Краснодар </p>
+<p> Красноярск </p>
+<p> Курск </p>
+<p> Липецк </p>
+<p> Мурманск </p>
+<p> Нижний Новгород </p>
+<p> Новосибирск </p>
+<p> Омск </p>
+<p> Орел </p>
+<p> Пенза </p>
+<p> Пермь </p>
+<p> Псков </p>
+<p> Ростов-на-Дону </p>
+<p> Рязань </p>
+<p> Самара </p>
+<p> Санкт-Петербург </p>
+<p> Саратов </p>
+<p> Смоленск </p>
+<p> Ставрополь </p>
+<p> Сыктывкар </p>
+<p> Тамбов </p>
+<p> Тверь </p>
+<p> Томск </p>
+<p> Тула </p>
+<p> Тюмень </p>
+<p> Ульяновск </p>
+<p> Уфа </p>
+<p> Хабаровск </p>
+<p> Челябинск </p>
+<p> Чита </p>
+<p> Ярославль </p>
+<p> Новости за рубежом: </p>
+<p> Балканы </p>
+<p> Беларусь </p>
+<p> Бишкек </p>
+<p> Молдова </p>
+<p> Северная Европа </p>
+<p> США </p>
+<p> Украина </p>
+<p> Чехия </p>
+<p> var _top100q = _top100q || [];  _top100q.push(["setAccount", "17841"]); _top100q.push(["trackPageviewByLogo", document.getElementById("top100counter")]);  (function(){  var top100 = document.createElement("script"); top100.type = "text/javascript";  top100.async = true;  top100.src = ("https:" == document.location.protocol ? "https:" : "http:") + "//st.top100.ru/pack/pack.min.js";  var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(top100, s); })(); </p>
+<p> Партнер «Рамблера» </p>
+<p> Социализация сайта: </p>
+<p> Apollo </p>
+<p> new adriver("adriver_banner_1211996466", {sid:51864, bt:52, sz:'second', bn:8, pz:3}); </p>
+<p> new adriver("adriver_banner_2053692800", {sid:163325, bt:52, sz:'vse_vnutrennie'}); </p>
+<p> new adriver("adriver_banner_240612201", {sid:163325, bt:52, sz:'vse_vnutrennie'}); </p>
+<p> new adriver("adriver_banner_2100680506", {sid:163325, bt:52, sz:'vse_vnutrennie'}); </p>
+<p> new adriver("adriver_banner_1649155753", {sid:163325, bt:52, sz:'vse_vnutrennie'}); </p>
+<p> var begun_auto_pad = 102459057; var begun_block_id = 194583743; </p>
+<p> var MarketGidDate = new Date(); document.write('<scr'+'ipt type="text/javascript" ' +'src="http://jsn.dt00.net/k/p/kp.ru.4421.js?t='+MarketGidDate.getYear()+MarketGidDate.getMonth()+MarketGidDate.getDay()+MarketGidDate.getHours() + '" charset="windows-1251" ></scr'+'ipt>'); </p>
+<p> var MarketGidDate = new Date();     document.write('<scr'+'ipt type="text/javascript" '     +'src="http://jsn.dt00.net/k/p/kp.ru.4164.js?t='+MarketGidDate.getYear()+MarketGidDate.getMonth()+MarketGidDate.getDay()+MarketGidDate.getHours()     + '" charset="windows-1251" ></scr'+'ipt>'); </p>
+<p> var MarketGidDate = new Date();     document.write('<scr'+'ipt type="text/javascript" '+'src="http://mg.dt00.net/js/k/p/kp.ru.4421.js?t='+MarketGidDate.getYear()+MarketGidDate.getMonth()+ '" charset="windows-1251" ></scr'+'ipt>'); </p>
+<p> new adriver("adriver_banner_1990746781", {sid:163325, bt:52, sz:'novosti'}); </p>
+<p> (function(){ 		function isF(c,t){ 			var is=!!(document.cookie.indexOf(c)==-1),e; 			if (is){ 				e=new Date();e.setTime(e.getTime()+t); 				document.cookie=c+'=1; expires='+e.toGMTString()+'; path=/;'; 			} 			return is 		} 		if (navigator.cookieEnabled && isF('ar_cv', 1000 * 60 * 60 * 24 * 7)) { 			new adriver("adriver_banner_sync", {sid:189921, bt:52}); 		} 	}()); </p>
+<p> new adriver("adriver_banner_1508231416", {sid:163325, bt:52, sz:'vse_vnutrennie'}); </p>
+<p> if (typeof (pr) == 'undefined') var pr = Math.floor(Math.random() * 1000000); if (typeof (document.referrer) != 'undefined') {     if (typeof (afReferrer) == 'undefined') afReferrer = escape(document.referrer); } else {     afReferrer = ''; } var addate = new Date(); (function(placeholderId, bannerPosition, banWidth, banHeight, link){     var dl = escape(document.location),         placeholder = document.getElementById(placeholderId);     link += '&dl=' + dl + '&phid=' + placeholderId + '&pap1=' + bannerPosition;     function addEvent(e,t,f){         if (e.addEventListener) e.addEventListener(t, f, false);         else if (e.attachEvent) e.attachEvent('on'+t, f);     }     function removeEvent(e,t,f){         if (e.removeEventListener) e.removeEventListener(t, f, false);         else if (e.detachEvent) e.detachEvent('on'+t, f);     }     function loadScriptAdWolf(obj,src){         var createElementScript = document.createElement("script");         createElementScript.type = 'text/javascript';         createElementScript.async = true;         createElementScript.src = src;         afterPlaceholder = obj.nextSibling;         afterPlaceholder.parentNode.insertBefore(createElementScript, afterPlaceholder);     }     function getPosition(obj){         var t = 0, l = 0;         if (obj) {             while (obj.offsetParent) {                 t += obj.offsetTop;                 l += obj.offsetLeft;                 obj = obj.offsetParent;             }         }         return {"left":l, "top":t};     }     function getWindowGeometry() {         var cMode = document.compatMode,             ch = self.innerHeight || cMode == "CSS1Compat" && document.documentElement.clientHeight || document.body.clientHeight,             st = self.pageYOffset || cMode == "CSS1Compat" && document.documentElement.scrollTop || document.body.scrollTop,             cw = self.innerWidth || cMode == "CSS1Compat" && document.documentElement.clientWidth || document.body.clientWidth,             sl = self.pageXOffset || cMode == "CSS1Compat" && document.documentElement.scrollLeft || document.body.scrollLeft;         return {"clientHeight":ch, "clientWidth":cw, "scrollTop":st, "scrollLeft":sl};     }     function getBannerVisibility(){         var position = getPosition(placeholder),             windowGeometry = getWindowGeometry();          if ( (position.top < windowGeometry.clientHeight && position.left < windowGeometry.clientWidth) || ( (windowGeometry.scrollTop - position.top < banHeight && windowGeometry.clientHeight + windowGeometry.scrollTop > position.top) && (windowGeometry.scrollLeft - position.left < banWidth && windowGeometry.clientWidth + windowGeometry.scrollLeft > position.left) ) ) {              removeEvent(window, 'scroll', getBannerVisibility);             loadScriptAdWolf(placeholder,link);         }     }     if (placeholder) addEvent(window, 'scroll', getBannerVisibility); })('placeholderIdAdwolf40x200', 'center_left', 40, 200, 'http://a.adwolf.ru/prepareCode?p1=cec&p2=cd&pct=a&pfc=a&pfb=a&plp=a&pli=a&pop=a&pr=' + pr +'&pt=b&pd=' + addate.getDate() + '&pw=' + addate.getDay() + '&pv=' + addate.getHours() + '&prr=' + afReferrer + '&puid1=&puid2=&puid3=&puid5=&puid6='); </p>
+<p> new adriver("adriver_banner_1424280189", {sid:51864, bt:52, sz:'second', bn:2, pz:3}); </p>
+<p> new adriver("adriver_banner_1814484803", {sid:51864, bt:52, bn:8, pz:3}); </p>
+<p> new adriver("adriver_banner_1348733458", {sid:163325, bt:52, sz:'ves_sait'}); </p>
+<p> (function(){  var cb = Math.random();  document.write(unescape('%3Cspan id=%22targetix-container-'+cb+'%22 style=%22display:inline-block; line-height:0px%22%3E%3C/span%3E'));  document.MAX_used = document.MAX_used || ',';  var m3_u = (document.location.protocol=='https:'?'https://ads.targetix.net/ajs.php':'http://ads.targetix.net/ajs.php');  m3_u += unescape('%3Fzoneid=1247');  m3_u += unescape('%26cb=') + cb;  if (document.MAX_used != ',') m3_u += unescape('%26exclude=') + document.MAX_used;  m3_u += document.charset ? unescape('%26charset=')+document.charset : (document.characterSet ? unescape('%26charset=')+document.characterSet : '');  m3_u += unescape('%26loc=') + encodeURIComponent(window.location);  if (document.referrer) m3_u += unescape('%26referer=') + encodeURIComponent(document.referrer);  if (document.context) m3_u += unescape('%26context=') + encodeURIComponent(document.context);  if (document.mmm_fo) m3_u += unescape('%26mmm_fo=1');  var m3_ajs = document.createElement('script');m3_ajs.type = 'text/javascript';m3_ajs.async = true;m3_ajs.src = m3_u;  (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(m3_ajs); })(); </p>
+<p> {lang: 'ru'} </p>
+<p> if (document.getElementById("ad_ph_1").innerHTML == '') {     $('fixedBox').setStyle({       marginTop: '0'     }); }  else {         $('fixedBox').setStyle({       marginTop: '30px'     });   } </p>

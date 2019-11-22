@@ -1,0 +1,336 @@
+<p> Курятина украинских производителей заражена сальмонеллой - Портал Medicina.ua </p>
+<p> { 		lang: "ru" 	} </p>
+<p> $(document).ready(function() { 	//Шилдик 	$("#zeemaLogo") 		.css( {backgroundPosition: "0px 0px"} ) 		.mouseover(function(){ 			$(this).stop().animate({backgroundPosition:"(0px -31px)"}, {duration:200}) 		}) 		.mouseout(function(){ 			$(this).stop().animate({backgroundPosition:"(0px -1px)"}, {duration:200, complete:function(){ 				$(this).css({backgroundPosition: "0px 0px"}) 			}}) 		}) }); </p>
+<p> adgn_zone = 'b15ac611-2c69-4b04-ad93-e34f1e037dd8'; adgn_uid = 'f814a73a-85c8-4f01-b797-82e28cad49e1'; </p>
+<p> var err_login = 0; 		  	//----------------------------------- 	function show(){ 		$('#log_div').show(); 	} 	 	 	//----------------------------------- 	function valid_form_login(){ 		var err = true; 		if($('#login').val() == ''){ 		    err = false; 		    $('#err_login').show(); 		} 		else{ 		    $('#err_login').hide(); 		} 			 		if($('#pass').val() == ''){ 		    err = false; 		    $('#err_pass').show(); 		} 		else{ 			$('#err_pass').hide(); 		} 			 		if(err)         	document.form_login.submit(); 			 	}  var auth; var sensor; 	 $(document).ready(function(){ 	auth = $('#authDiv'); 	sensor = $('#sensorShadow'); 	closeAuth = $('#close'); 	 	sensor.click(function(){ 		auth.hide(); 		sensor.hide(); 	})  	closeAuth.click(function(){ 		auth.hide(); 		sensor.hide(); 	}) 	 })  function showAuth(id) { 	id.blur();  	auth.css({ 		left: "50%", 		margin: "0 0 0 -160px", 		top: "305px", 		display: "block" 	});  	sensor.css({ 		display: "block", 		height: $(document).height() + "px", 		opacity: 0.5 	}); }   var qst; var sensor; 	 $(document).ready(function(){ 	qst = $('#qstDiv'); 	sensor = $('#sensorShadow'); 	closeQst = $('#close2'); 	 	sensor.click(function(){ 		qst.hide(); 		sensor.hide(); 	})  	closeQst.click(function(){ 		qst.hide(); 		sensor.hide(); 	}) })  function showQst(id) { 	id.blur();  	qst.css({ 		left: "50%", 		margin: "0 0 0 -160px", 		top: "305px", 		display: "block" 	});  	sensor.css({ 		display: "block", 		height: $(document).height() + "px", 		opacity: 0.5 	}); }  		$(document).ready(function(){ 			$(".popup a").hover(function() { 			$(this).next(".pop").stop(true, true).animate({opacity: "show"}, "fast"); 			$(this).css('color','#666969'); 			$(this).css('text-decoration','underline'); 			}, function() { 			$(this).next(".pop").animate({opacity: "hide"}, "fast"); 			$(this).css('color','#3e4141') 			$(this).css('text-decoration','none') 			}); 		}); </p>
+<p> Войти </p>
+<p> | </p>
+<p> Регистрация </p>
+<p> Для чего нужна регистрация? </p>
+<p> Если Вы — посетитель, регистрация на портале позволит Вам уже в ноябре создать свою персональную страницу с различными сервисами, с которой смогут ознакомиться врачи. А сейчас после регистрации Вам доступно создание новых тем и активное участие в обсуждении на форуме. </p>
+<p> Если Вы — врач, то после регистрации Вы сможете консультировать посетителей портала, а также найти потенциальных пациентов. </p>
+<p> Для добавления вопроса в разделе «Консультация» регистрация не требуется. </p>
+<p> Вся медицина </p>
+<p> | </p>
+<p> Клиники и центры </p>
+<p> | </p>
+<p> Болезни </p>
+<p> | </p>
+<p> Лекарства </p>
+<p> var where_search = 'all'; 	function setWhere(where) { 		if(where == 'drugs') { 			document.frmSearch.action='/search_drug/zakaz/'; 		} 		else { 			document.frmSearch.action='/search/'; 		} 		$('#search_tp').remove(); 		$('#search_id').remove(); 		if(where=="clinics") { 			$('#frmSearch').append('<input type="hidden" name="tp" id="search_tp" value="ct">'); 			$('#frmSearch').append('<input type="hidden" name="id" id="search_id" value="1">'); 		} 		else { 			if(where=="diseases") { 				$('#frmSearch').append('<input type="hidden" name="tp" id="search_tp" value="ct">'); 				$('#frmSearch').append('<input type="hidden" name="id" id="search_id" value="3">'); 			} 			else { 				$('#search_tp').remove(); 				$('#search_id').remove(); 			} 		}  		$('#where_search_'+where_search).removeClass('act'); 		$('#where_search_'+where).addClass('act');  		where_search = where; 	} </p>
+<p> $(document).ready(function(){ 		$('.m1 .ti').hover( 		function(){ 			$(this).find('.t').addClass('hov'); 			$(this).find('.child').css('display','block');	 		}, 		function(){ 			$(this).find('.t').delay('500').removeClass('hov'); 			$(this).find('.child').delay('500').css('display','none');	 		}); 		 		$('.m1 .tim').hover( 		function(){ 			$(this).find('.t').addClass('hove');  		}, 		function(){ 			$(this).find('.t').removeClass('hove'); 		}); 			 	}); </p>
+<p> Пресс-центр </p>
+<p> | </p>
+<p> Клиники </p>
+<p> Клиники и центры </p>
+<p> Диагностические центры </p>
+<p> Медицинские лаборатории </p>
+<p> Лечение за рубежом </p>
+<p> Госучреждения </p>
+<p> Аптеки </p>
+<p> Оптика </p>
+<p> | </p>
+<p> Болезни </p>
+<p> По алфавиту </p>
+<p> А </p>
+<p> Б </p>
+<p> В </p>
+<p> Г </p>
+<p> Д </p>
+<p> Е </p>
+<p> Ж </p>
+<p> З </p>
+<p> И </p>
+<p> Й </p>
+<p> К </p>
+<p> Л </p>
+<p> М </p>
+<p> Н </p>
+<p> О </p>
+<p> П </p>
+<p> Р </p>
+<p> С </p>
+<p> Т </p>
+<p> У </p>
+<p> Ф </p>
+<p> Х </p>
+<p> Ц </p>
+<p> Ч </p>
+<p> Ш </p>
+<p> Щ </p>
+<p> Э </p>
+<p> Ю </p>
+<p> Я </p>
+<p> Диагностика заболеваний </p>
+<p> Методы диагностики </p>
+<p> Лабораторные анализы </p>
+<p> По типам </p>
+<p> Аллергические заболевания </p>
+<p> Болезни волос и кожи головы </p>
+<p> Болезни глаз </p>
+<p> Болезни желудочно-кишечного тракта </p>
+<p> Болезни зубов и полости рта </p>
+<p> Болезни молочных желез </p>
+<p> Болезни органов дыхания </p>
+<p> Болезни сердца и сосудов </p>
+<p> Болезни суставов </p>
+<p> Детские болезни </p>
+<p> Женские болезни </p>
+<p> Заболевания головного мозга </p>
+<p> Заболевания опорно-двигательной системы, травмы </p>
+<p> Венерические заболевания </p>
+<p> Инфекционные заболевания </p>
+<p> Кожные заболевания </p>
+<p> ЛОР-болезни </p>
+<p> Мужские болезни </p>
+<p> Наркологические болезни </p>
+<p> Неврологические болезни </p>
+<p> Неотложные состояния </p>
+<p> Общие заболевания </p>
+<p> Онкологические заболевания (опухоли, рак) </p>
+<p> Проктологические заболевания </p>
+<p> Психические болезни </p>
+<p> Сексуальные расстройства </p>
+<p> Урологические болезни </p>
+<p> Хирургические болезни </p>
+<p> Эндокринологические болезни </p>
+<p> | </p>
+<p> Врачи </p>
+<p> По специализации </p>
+<p> Акушер-гинеколог, репродуктолог </p>
+<p> Аллерголог-иммунолог </p>
+<p> Аллерголог-иммунолог детский </p>
+<p> Анестезиолог, реаниматолог </p>
+<p> Вертебролог </p>
+<p> Гастроэнтеролог </p>
+<p> Гинеколог </p>
+<p> Гирудотерапевт </p>
+<p> Гомеопат </p>
+<p> Дерматовенеролог </p>
+<p> Дерматокосметолог </p>
+<p> Диагност </p>
+<p> Диетолог </p>
+<p> Инфекционист </p>
+<p> Инфекционист детский </p>
+<p> Кардиолог </p>
+<p> Кардиотерапевт </p>
+<p> Кардиохирург </p>
+<p> Маммолог </p>
+<p> Массажист </p>
+<p> Невролог </p>
+<p> Невролог-геронтолог </p>
+<p> Нейрохирург </p>
+<p> Нейрохирург детский </p>
+<p> Нейрохирург сосудистый </p>
+<p> Онколог </p>
+<p> Онкохирург </p>
+<p> Ортопед-травматолог </p>
+<p> Отолог, отоневролог, отонейрохирург </p>
+<p> | </p>
+<p> Лечение за рубежом </p>
+<p> | </p>
+<p> Дочки-матери </p>
+<p> Беременность </p>
+<p> Роды </p>
+<p> После родов </p>
+<p> Пресс-центр </p>
+<p> Консультации детских врачей </p>
+<p> Полезные адреса </p>
+<p> Mamma-forum </p>
+<p> | </p>
+<p> Консультация </p>
+<p> Последние 10 консультаций </p>
+<p> Задать вопрос </p>
+<p> По направлениям </p>
+<p> Акушерство, репродуктология </p>
+<p> Аллергология </p>
+<p> Аллергология детская </p>
+<p> Анестезиология, реаниматология, интенсивная терапия </p>
+<p> Вертебрология </p>
+<p> Гастроэнтерология </p>
+<p> Гинекология </p>
+<p> Гинекология детская, подростковая </p>
+<p> Гинекология оперативная </p>
+<p> Гирудотерапия </p>
+<p> Гомеопатия </p>
+<p> Дерматовенерология </p>
+<p> Функциональная и УЗИ-диагностика </p>
+<p> Кардиология </p>
+<p> Кардиохирургия </p>
+<p> Косметология </p>
+<p> Маммология </p>
+<p> Массаж </p>
+<p> Неврология </p>
+<p> Нейрохирургия </p>
+<p> Онкология (опухоли, рак) </p>
+<p> Ортопедия, травматология </p>
+<p> Отология, отоневрология, отонейрохирургия </p>
+<p> Оториноларингология (ЛОР) </p>
+<p> Офтальмология </p>
+<p> Офтальмология детская </p>
+<p> Педиатрия </p>
+<p> Пластическая хирургия </p>
+<p> Проктология </p>
+<p> Психиатрия </p>
+<p> Психология, гештальт-терапия </p>
+<p> Ревматология </p>
+<p> Сексология </p>
+<p> Сосудистая хирургия, флебология </p>
+<p> Стоматология </p>
+<p> Стоматология детская </p>
+<p> Сурдология </p>
+<p> Сурдопедагогика </p>
+<p> Терапия, семейная медицина </p>
+<p> Трихология (заболевания волос) </p>
+<p> Урология, андрология </p>
+<p> Хирургия общая </p>
+<p> Эндокринология </p>
+<p> Эндоскопия </p>
+<p> | </p>
+<p> Форум </p>
+<p> | </p>
+<p> Аптека </p>
+<p> По алфавиту </p>
+<p> А </p>
+<p> Б </p>
+<p> В </p>
+<p> Г </p>
+<p> Д </p>
+<p> Е </p>
+<p> Ж </p>
+<p> З </p>
+<p> И </p>
+<p> Й </p>
+<p> К </p>
+<p> Л </p>
+<p> М </p>
+<p> Н </p>
+<p> О </p>
+<p> П </p>
+<p> Р </p>
+<p> С </p>
+<p> Т </p>
+<p> У </p>
+<p> Ф </p>
+<p> Х </p>
+<p> Ц </p>
+<p> Ч </p>
+<p> Ш </p>
+<p> Щ </p>
+<p> Э </p>
+<p> Ю </p>
+<p> Я </p>
+<p> 0-9 </p>
+<p> A </p>
+<p> B </p>
+<p> C </p>
+<p> D </p>
+<p> E </p>
+<p> F </p>
+<p> G </p>
+<p> H </p>
+<p> I </p>
+<p> J </p>
+<p> K </p>
+<p> L </p>
+<p> M </p>
+<p> N </p>
+<p> O </p>
+<p> P </p>
+<p> Q </p>
+<p> R </p>
+<p> S </p>
+<p> T </p>
+<p> U </p>
+<p> V </p>
+<p> W </p>
+<p> X </p>
+<p> Y </p>
+<p> Z </p>
+<p> Поиск медикамента </p>
+<p> | </p>
+<p> Здоровье и красота </p>
+<p> Каталог Fitness&Beauty </p>
+<p> Косметические процедуры </p>
+<p> Пластические операции </p>
+<p> Диеты </p>
+<p> Новости </p>
+<p> | </p>
+<p> Статьи </p>
+<p> function m1Move(id) { 	$("#m1_" + id).toggleClass("over"); } </p>
+<p> Главная </p>
+<p> / </p>
+<p> Пресс-центр </p>
+<p> / </p>
+<p> Новости </p>
+<p> / </p>
+<p> Курятина украинских производителей заражена сальмонеллой </p>
+<p> Курятина украинских производителей заражена сальмонеллой </p>
+<p> 16 января 2012 </p>
+<p> gettyimages </p>
+<p> Государственная ветеринарная и фитосанитарная служба Украины заявила о том, что курятина некоторых украинских производителей заражена сальмонеллой. Эксперты обнаружили патогенную бактерию в мясе двух торговых марок. </p>
+<p> Согласно сообщению Государственной ветеринарной и фитосанитарной службы от 5 января возбудитель сальмонеллеза был выявлен в образцах продукции ООО «Агромарс». На данный момент ведется выяснения причин заражения курятины. Кроме того, представители службы отметили, что в течение 2011 года сальмонелла была обнаружена в мясе ООО "Агромарс" (ТМ "Гавриловские цыплята") и ООО "Старинская птицефабрика". </p>
+<p> Сальмонеллез </p>
+<p> – это острая кишечная инфекция, которая вызывается сальмонеллой. Заражение происходит через употребление пищевых продуктов, содержащих живые бактерии. В основном, это мясо, молоко и яйца. </p>
+<p> VK.init({apiId: 2316644, onlyWidgets: true}); </p>
+<p> VK.Widgets.Like("vk_like", {type: "button", verb: 1}); </p>
+<p> Tweet </p>
+<p> Читайте также </p>
+<p> 5 мифов об отравлениях </p>
+<p> Новый экспресс-тест от ученых против кишечной инфекции </p>
+<p> Холера в Мариуполе </p>
+<p> adgn_zone = '0348199c-e780-43a8-8461-b7fea38bca53'; adgn_uid = 'f814a73a-85c8-4f01-b797-82e28cad49e1'; </p>
+<p> Loading... </p>
+<p> Лучшие новости </p>
+<p> Последние новости </p>
+<p> Новости медицины Украины </p>
+<p> С начала года тысяча украинцев заболела корью </p>
+<p> Мировые медновости </p>
+<p> У людей обнаружены рецепторы, воспринимающие вкус жира </p>
+<p> Мировые медновости </p>
+<p> Зависимость от Интернета изменяет структуру мозга </p>
+<p> adgn_zone = '24745084-2dea-4374-a81b-733e566f3170'; adgn_uid = 'f814a73a-85c8-4f01-b797-82e28cad49e1'; </p>
+<p> А знаете ли Вы... </p>
+<p> ...как стрессы в детстве влияют на человека? </p>
+<p> По мнению немецких ученых, стрессы и психологические травмы в раннем возрасте навсегда изменяют работу генов. Эта мутация негативно сказывается на умственных способностях и поведении человека в дальнейшем. </p>
+<p> Новости мира </p>
+<p> Новости мира </p>
+<p> var dateNM = new Date(); 		var t = Math.floor(dateNM.getTime()/(1000*60)); 		document.write('<scr' 			+'ipt type="text/javascript" ' 			+'src="http://t.novostimira.com/t/n/217/1/template.js?v=' 			+t 			+'" charset="Windows-1251" ></scr' 			+'ipt>'); </p>
+<p> var objFrom = document.getElementById("fromDirections"); 							var objTo = document.getElementById("contRight"); 							if(objFrom && objTo && fromDirections===false) { 								fromDirections = true; 								objTo.innerHTML = objTo.innerHTML+objFrom.innerHTML; 								objFrom.innerHTML = ''; 								objTo.style.display = "block"; 							} </p>
+<p> Ваш браузер не поддерживает плавающие фреймы! </p>
+<p> Пресс-центр </p>
+<p> Клиники </p>
+<p> Болезни </p>
+<p> Врачи </p>
+<p> Лечение за рубежом </p>
+<p> Дочки-матери </p>
+<p> Консультация </p>
+<p> Форум </p>
+<p> Аптека </p>
+<p> Здоровье и красота </p>
+<p> Обратная связь </p>
+<p> О проекте </p>
+<p> Для клиник </p>
+<p> Реклама на сайте </p>
+<p> Карта сайта </p>
+<p> © Medicina.ua 2005—2009. Все права защищены. </p>
+<p> <!-- 	function BM_Draw(oBM_STAT){ 	document.write('<table cellpadding="0" cellspacing="0" border="0" style="display:inline;margin-right:4px;"><tr><td><div style="margin:0px;padding:0px;font-size:1px;width:88px;"><div style="background:url(\'http://i.bigmir.net/cnt/samples/diagonal/b59_top.gif\') no-repeat bottom;">&nbsp;</div><div style="font:10px Tahoma;background:url(\'http://i.bigmir.net/cnt/samples/diagonal/b59_center.gif\');"><div style="text-align:center;"><a href="http://www.bigmir.net/" target="_blank" style="color:#0000ab;text-decoration:none;font:10px Tahoma;">bigmir<span style="color:#ff0000;">)</span>net</a></div><div style="margin-top:3px;padding: 0px 6px 0px 6px;color:#003596;"><div style="float:left;font:10px Tahoma;">'+oBM_STAT.hosts+'</div><div style="float:right;font:10px Tahoma;">'+oBM_STAT.hits+'</div></div><br clear="all"/></div><div style="background:url(\'http://i.bigmir.net/cnt/samples/diagonal/b59_bottom.gif\') no-repeat top;">&nbsp;</div></div></td></tr></table>'); 	} 	//--> </p>
+<p> <!-- 	bmN=navigator,bmD=document,bmD.cookie='b=b',i=0,bs=[],bm={o:1,v:16828952,s:16828952,t:0,c:bmD.cookie?1:0,n:Math.round((Math.random()* 1000000)),w:0}; 	for(var f=self;f!=f.parent;f=f.parent)bm.w++; 	try{if(bmN.plugins&&bmN.mimeTypes.length&&(x=bmN.plugins['Shockwave Flash']))bm.m=parseInt(x.description.replace(/([a-zA-Z]|\s)+/,'')); 	else for(var f=3;f<20;f++)if(eval('new ActiveXObject("ShockwaveFlash.ShockwaveFlash.'+f+'")'))bm.m=f}catch(e){;} 	try{bm.y=bmN.javaEnabled()?1:0}catch(e){;} 	try{bmS=screen;bm.v^=bm.d=bmS.colorDepth||bmS.pixelDepth;bm.v^=bm.r=bmS.width}catch(e){;} 	r=bmD.referrer.slice(7);if(r&&r.split('/')[0]!=window.location.host){bm.f=escape(r);bm.v^=r.length} 	bm.v^=window.location.href.length;for(var x in bm) if(/^[ovstcnwmydrf]$/.test(x)) bs[i++]=x+bm[x]; 	bmD.write('<sc'+'ript type="text/javascript" language="javascript" src="http://c.bigmir.net/?'+bs.join('&')+'"></sc'+'ript>'); 	//--> </p>
+<p> <!-- 	iS='<img src="http://r.i.ua/s?u3504&p56&n'+Math.random(); 	iD=document;iD.cookie="iua=1";if(iD.cookie)iS+='&c1'; 	iS+='&d'+(screen.colorDepth?screen.colorDepth:screen.pixelDepth) 	+"&w"+screen.width+'&h'+screen.height; 	iT=iD.referrer.slice(7);iH=window.location.href.slice(7); 	((iI=iT.indexOf('/'))!=-1)?(iT=iT.substring(0,iI)):(iI=iT.length); 	if(iT!=iH.substring(0,iI))iS+='&f'+escape(iD.referrer.slice(7)); 	iS+='&r'+escape(iH); 	iD.write(iS+'" border="0" width="88" height="31" />'); 	//--> </p>
+<p> <!-- 		var st24Date=(new Date()).getTime(); 		var st24Src='http://ua5.hit.stat24.com/_'+st24Date; 		st24Src+='/script.js?id='; 		st24Src+='zUA6D67qJxS.NlrmzWY7S5Zz7zEpwye4YHJzEJJ84rv.K7/l=11'; 		var st24Tg='<'+'scr'+'ipt type="text/javascript" src="'; 		document.writeln(st24Tg+st24Src+'"></'+'scr'+'ipt>'); 		//--> </p>
+<p> <!-- 	document.write("<a href='http://www.liveinternet.ru/click' "+ 	"target=_blank><img src='http://counter.yadro.ru/hit?t44.6;r"+ 	escape(document.referrer)+((typeof(screen)=="undefined")?"": 	";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth? 	screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+ 	";"+Math.random()+ 	"' alt='' title='LiveInternet' "+ 	"border='0' width='31' height='31'><\/a>") 	//--> </p>
+<p> Авторизация </p>
+<p> Логин </p>
+<p> Обязательное поле </p>
+<p> Пароль </p>
+<p> Обязательное поле </p>
+<p> Войти </p>
+<p> Регистрация </p>
+<p> Для чего нужна регистрация? </p>
+<p> Если Вы — посетитель, регистрация на портале позволит Вам создать свою персональную страницу с различными сервисами, с которой смогут ознакомиться врачи. А сейчас после регистрации Вам доступно создание новых тем и активное участие в обсуждении на форуме. </p>
+<p> Если Вы — врач, то после регистрации Вы сможете консультировать посетителей портала, а также найти потенциальных пациентов. </p>
+<p> Для добавления вопроса в разделе «Консультация» регистрация не требуется. </p>
+<p> var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); </p>
+<p> try { var pageTracker = _gat._getTracker("UA-10130092-1"); pageTracker._trackPageview(); } catch(err) {} </p>
+<p> <!--//--><![CDATA[//><!-- var pp_gemius_identifier = new String('.XdAgiNxT8TAADLUmL_RH8UXHbE10yNorRzKjUvHZyX.X7'); //--><!]]> </p>
+<p> try { var yaCounter1814062 = new Ya.Metrika({id:1814062,           clickmap:true,           trackLinks:true, webvisor:true});} catch(e) { } </p>

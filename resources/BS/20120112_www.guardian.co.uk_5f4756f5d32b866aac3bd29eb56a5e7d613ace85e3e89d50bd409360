@@ -1,0 +1,487 @@
+<p> document.domain = "guardian.co.uk"; </p>
+<p> //<![CDATA[ 				OAS_url = 'http://oas.guardian.co.uk/RealMedia/ads/'; 				OAS_sitepage = "www.guardian.co.uk/uk/2012/jan/10/wales-replace-french-breast-implants/oas.html"; 				OAS_listpos = 'Top,Middle2,Right1,x31';  								OAS_query = 'k=french-breast-implant-scandal&k=wales&k=health&k=health-and-wellbeing&k=world&k=plastic-surgery&cf=fashion+and+beauty&pid=&ct=article&pt=article&'; 				OAS_target = '_blank';  				OAS_rn = '001234567890'; 				OAS_rns = '1234567890'; 				OAS_rn = new String (Math.random()); 				OAS_rns = OAS_rn.substring (2, 11); 			//]]> </p>
+<p> Wales pays to replace French-made breast implants – but England won't | UK news | The Guardian </p>
+<p> //<![CDATA[ 	if (!commonStaticRoot) {	 		var commonStaticRoot = "http://static.guim.co.uk/static/534a025fbd5b6ca3cafea5df66abf4d49b01b6fd/common/"; 	} 	if (!sectionStaticRoot) {	 		var sectionStaticRoot = "http://static.guim.co.uk/static/534a025fbd5b6ca3cafea5df66abf4d49b01b6fd/uk/"; 	} 	if (!staticHost) {	 		var staticHost="http://www.guardian.co.uk/"; 	} 	if (!sitePrefixUrl) { 		var sitePrefixUrl = "http://www.guardian.co.uk"; 	} //]]> </p>
+<p> var _sf_startpt=(new Date()).getTime(); </p>
+<p> window.jQuery || document.write('<script src="http://static.guim.co.uk/static/534a025fbd5b6ca3cafea5df66abf4d49b01b6fd/common/scripts/libs/jquery/1.6.4/jquery.min.js">\x3C/script>') </p>
+<p> var jQ = jQuery.noConflict(); </p>
+<p> var thirdPartyReferralCookieService = new guardian.r2.ThirdPartyReferralCookieService(); 	thirdPartyReferralCookieService.setThirdPartyReferralCookie();  	var urlStack = new UrlStack(".guardian.co.uk"); 	var communitiesSite = false;  	 			   	//<![CDATA[ 	function init() { 		urlStack.clearUrlStack(); 		var signOutLink = document.getElementById("sign-out"); 		if (signOutLink) { 			signOutLink.onclick = signOut; 		} 		 		// Purely styling 		//jQ('.js-show').removeClass('js-show'); 	}	 	 	guardian.r2.resourceRoot = "http://resource.guim.co.uk/";     var pageUrl = "http://www.guardian.co.uk/uk/2012/jan/10/wales-replace-french-breast-implants";     var pageSignature =  "88e301541736b03cd5fd25e958ae67bbedee1648fefcdfb5137296af7dcebc58";      guardian.r2.signInListeners = new guardian.r2.SignInListeners();     (function () {	 		var signInView = new guardian.r2.SignInView("http://static.guim.co.uk/static/534a025fbd5b6ca3cafea5df66abf4d49b01b6fd/common/scripts/md5.js", communitiesSite); 		guardian.r2.signInController = new guardian.r2.SignInController(signInView, guardian.r2.signInListeners, "http://www.guardian.co.uk/tools/signin", pageUrl, pageSignature); 		 	}) (); 	 	/* 	(function () { 		var profileLinkView = new guardian.r2.ProfileLinkView(); 		profileLinkController = new guardian.r2.ProfileLinkController(profileLinkView, "http://www.guardian.co.uk/discussion/user/"); 	}) (); 	*/   	jQ(document).ready(init);  	  	var SIGN_IN_URL = 'http://www.guardian.co.uk/tools/signin'; 	var RESOURCE_ROOT = 'http://resource.guim.co.uk/'; 	var PROFILE_LINK_VIEW = "http://www.guardian.co.uk/discussion/user/"; </p>
+<p> //<![CDATA[ 	function insertStyleSheet(href) { 		var styleObject = document.createElement('link'); 		styleObject.setAttribute('href', commonStaticRoot + href); 		styleObject.setAttribute('type', 'text/css'); 		styleObject.setAttribute('media', 'screen'); 		styleObject.setAttribute('rel', 'stylesheet'); 		var head = document.getElementsByTagName('head')[0]; 		head.appendChild(styleObject); 	} 	insertStyleSheet('styles/js-on.css'); 	insertPluckStylesheet = true; 	//]]> </p>
+<p> ensurePackage('guardian.r2.omniture'); guardian.r2.omniture.isAvailable = function(){ 			return true; 	} </p>
+<p> Turn autoplay off </p>
+<p> Turn autoplay on </p>
+<p> Please activate cookies in order to turn autoplay off </p>
+<p> Jump to content [s] </p>
+<p> Jump to site navigation [0] </p>
+<p> Jump to search [4] </p>
+<p> Terms and conditions [8] </p>
+<p> Edition: </p>
+<p> UK </p>
+<p> US </p>
+<p> Sign in </p>
+<p> Mobile </p>
+<p> About us </p>
+<p> About us </p>
+<p> Contact us </p>
+<p> Press office </p>
+<p> Guardian Print Centre </p>
+<p> Guardian readers' editor </p>
+<p> Observer readers' editor </p>
+<p> Terms of service </p>
+<p> Privacy policy </p>
+<p> Advertising guide </p>
+<p> Digital archive </p>
+<p> Digital edition </p>
+<p> Guardian Weekly </p>
+<p> Buy Guardian and Observer photos </p>
+<p> Subscribe </p>
+<p> Today's paper </p>
+<p> The Guardian </p>
+<p> G2 features </p>
+<p> Comment and debate </p>
+<p> Editorials, letters and corrections </p>
+<p> Obituaries </p>
+<p> Other lives </p>
+<p> Sport </p>
+<p> Subscribe </p>
+<p> Subscribe </p>
+<p> Subscribe to the Guardian </p>
+<p> iPhone app </p>
+<p> iPad edition </p>
+<p> Kindle </p>
+<p> Extra </p>
+<p> Guardian Weekly </p>
+<p> Digital edition </p>
+<p> All our services </p>
+<p> The Guardian </p>
+<p> UK and World news </p>
+<p> User comments </p>
+<p> Web </p>
+<p> News </p>
+<p> Sport </p>
+<p> Comment </p>
+<p> Culture </p>
+<p> Business </p>
+<p> Money </p>
+<p> Life & style </p>
+<p> Travel </p>
+<p> Environment </p>
+<p> TV </p>
+<p> Data </p>
+<p> Video </p>
+<p> Mobile </p>
+<p> Offers </p>
+<p> Jobs </p>
+<p> News </p>
+<p> UK news </p>
+<p> Wales </p>
+<p> Wales pays to replace French-made breast implants – but England won't </p>
+<p> Welsh health minister says not removing defective implants could endanger women's health </p>
+<p> Tweet this </p>
+<p> reddit this </p>
+<p> omnitracker.omniTrackEVarEvent( 12, 16, 'UK news: Reddit', 'click', '.reddit a' ); </p>
+<p> Denis Campbell </p>
+<p> guardian.co.uk </p>
+<p> , </p>
+<p> Tuesday 10 January 2012 22.24 GMT </p>
+<p> Article history </p>
+<p> About this article </p>
+<p> Close </p>
+<p> Wales pays to replace French-made breast implants – but England won't </p>
+<p> This article was published on </p>
+<p> guardian.co.uk </p>
+<p> at </p>
+<p> 22.24 GMT on Tuesday 10 January 2012 </p>
+<p> .  					   	A version appeared  on p7 of the </p>
+<p> Main section </p>
+<p> section of </p>
+<p> the Guardian </p>
+<p> on </p>
+<p> Wednesday 11 January 2012 </p>
+<p> .  					   	It was last modified at </p>
+<p> 00.07 GMT on Wednesday 11 January 2012 </p>
+<p> . </p>
+<p> A woman holds her removed defective silicone gel breast implant, manufactured by the now defunct French company Poly Implant Prothese (PIP). Photograph: Reuters </p>
+<p> The Welsh government says it will pay to replace French-made PIP breast implants for women who were treated privately. </p>
+<p> Welsh health minister Lesley Griffiths said not replacing the implants could endanger women's health, given some have already ruptured. </p>
+<p> The health secretary, </p>
+<p> Andrew Lansley </p>
+<p> , will rule out following suit in England when he updates MPs on the scandal today. </p>
+<p> The Commons health select committee is to inquire into the cosmetic treatments industry. </p>
+<p> "There's been a huge explosion in this country in cosmetic procedures generally over the last 10 years, particularly driven by celebrity culture and programmes like The Only Way Is Essex. </p>
+<p> "Yet at the moment not everyone who carries out these invasive procedures is properly qualified, and procedures such as dermal fillers and Botox injections have the potential to make this a cowboy industry. We need to protect women and have a proper framework," said Dr Daniel Poulter, the Conservative MP for Central Suffolk and North Ipswich, who is a committee member and hospital doctor. </p>
+<p> Printable version </p>
+<p> Send to a friend </p>
+<p> Share </p>
+<p> Clip </p>
+<p> Contact us </p>
+<p> larger </p>
+<p> | </p>
+<p> smaller </p>
+<p> Email </p>
+<p> Close </p>
+<p> Recipient's email address </p>
+<p> Your first name </p>
+<p> Your surname </p>
+<p> Add a note (optional) </p>
+<p> Your IP address will be logged </p>
+<p> Share </p>
+<p> Close </p>
+<p> Short link for this page: </p>
+<p> http://gu.com/p/34tf4 </p>
+<p> StumbleUpon </p>
+<p> reddit </p>
+<p> Tumblr </p>
+<p> Digg </p>
+<p> LinkedIn </p>
+<p> Google Bookmarks </p>
+<p> del.icio.us </p>
+<p> livejournal </p>
+<p> Facebook </p>
+<p> Twitter </p>
+<p> Contact us </p>
+<p> Close </p>
+<p> Report errors or inaccuracies: </p>
+<p> reader@guardian.co.uk </p>
+<p> Letters for publication should be sent to: </p>
+<p> letters@guardian.co.uk </p>
+<p> If you need help using the site: </p>
+<p> userhelp@guardian.co.uk </p>
+<p> Call the main Guardian and Observer switchboard: </p>
+<p> +44 (0)20 3353 2000 </p>
+<p> Advertising guide </p>
+<p> License/buy our content </p>
+<p> UK news </p>
+<p> Wales </p>
+<p> Society </p>
+<p> Health </p>
+<p> World news </p>
+<p> Breast implant scandal </p>
+<p> Life and style </p>
+<p> Health & wellbeing </p>
+<p> · </p>
+<p> Plastic surgery </p>
+<p> Politics </p>
+<p> Health policy </p>
+<p> · </p>
+<p> Andrew Lansley </p>
+<p> More 			news </p>
+<p> Related </p>
+<p> 4 Jan 2012 </p>
+<p> Breast implant scandal: Lansley condemns private firms over data </p>
+<p> 31 Dec 2011 </p>
+<p> Breast implants scandal: Andrew Lansley orders new review of dangers </p>
+<p> 9 Jan 2012 </p>
+<p> UK breast implant providers defy call for free replacement </p>
+<p> 6 Jan 2012 </p>
+<p> PIP breast implants can be removed for free on the NHS </p>
+<p> Printable version </p>
+<p> Send to a friend </p>
+<p> Share </p>
+<p> Clip </p>
+<p> Contact us </p>
+<p> Article history </p>
+<p> Email </p>
+<p> Close </p>
+<p> Recipient's email address </p>
+<p> Your first name </p>
+<p> Your surname </p>
+<p> Add a note (optional) </p>
+<p> Your IP address will be logged </p>
+<p> Share </p>
+<p> Close </p>
+<p> Short link for this page: </p>
+<p> http://gu.com/p/34tf4 </p>
+<p> StumbleUpon </p>
+<p> reddit </p>
+<p> Tumblr </p>
+<p> Digg </p>
+<p> LinkedIn </p>
+<p> Google Bookmarks </p>
+<p> del.icio.us </p>
+<p> livejournal </p>
+<p> Facebook </p>
+<p> Twitter </p>
+<p> Contact us </p>
+<p> Close </p>
+<p> Report errors or inaccuracies: </p>
+<p> reader@guardian.co.uk </p>
+<p> Letters for publication should be sent to: </p>
+<p> letters@guardian.co.uk </p>
+<p> If you need help using the site: </p>
+<p> userhelp@guardian.co.uk </p>
+<p> Call the main Guardian and Observer switchboard: </p>
+<p> +44 (0)20 3353 2000 </p>
+<p> Advertising guide </p>
+<p> License/buy our content </p>
+<p> About this article </p>
+<p> Close </p>
+<p> Wales pays to replace French-made breast implants – but England won't </p>
+<p> This article was published on </p>
+<p> guardian.co.uk </p>
+<p> at </p>
+<p> 22.24 GMT on Tuesday 10 January 2012 </p>
+<p> .  					   	A version appeared  on p7 of the </p>
+<p> Main section </p>
+<p> section of </p>
+<p> the Guardian </p>
+<p> on </p>
+<p> Wednesday 11 January 2012 </p>
+<p> .  					   	It was last modified at </p>
+<p> 00.07 GMT on Wednesday 11 January 2012 </p>
+<p> . </p>
+<p> google_ad_client = 'ca-guardian_js'; google_ad_channel = 'uknews'; </p>
+<p> google_max_num_ads = '3'; </p>
+<p> //<![CDATA[ 			if (true) { 					  writeScript("http://pagead2.googlesyndication.com/pagead/show_ads.js", false, function(){}); 			} 		// ]]> </p>
+<p> #query-trailblock li {border-top: 1px solid #929292; margin-bottom: 16px;} 	#query-trailblock li h2 {font-size: 1.4em; margin: 0 0 4px;} 	#query-trailblock li:last-child {margin-bottom: 0; border-top: 1px dotted #929292;} 	#query-trailblock li:last-child h2 {margin-top: 10px; font-size: 12px; font-family: sans-serif;} 	#query-trailblock .strapline {border-bottom: 1px dotted #929292; font-weight: bold; padding: 5px 0 5px; margin-bottom: 5px;} 	#query-trailblock .trail-comment-count {padding-top: 3px;} </p>
+<p> Healthcare Network </p>
+<p> NHS hospital mergers fail to produce gains </p>
+<p> Larger deficits, longer patient waiting times and no increase in staff productivity are the outcomes of hospital mergers, says study </p>
+<p> Healthcare Network </p>
+<p> Trusts losing out over invoicing gaps </p>
+<p> Gaps in recording and invoicing for patient treatments result in trusts losing hard cash but better training and support for coders could stem the flow </p>
+<p> More from our Healthcare Network </p>
+<p> .m-zeitgeist .bd { float: left } /* for the IE6 lols */   .m-zeitgeist .hd { padding-bottom: 0px; margin-bottom: -12px}   .m-zeitgeist .hd h2 { padding-bottom: 12px; }   .m-zeitgeist #att-panes { background-color: #fff; float: left; } 	.m-zeitgeist .att-toggle-pane { min-width:280px; }   .m-zeitgeist ol { padding: 0 5px; }   .m-zeitgeist #most-zeitgeist ol { padding-left: 0; }   .m-zeitgeist .zg-date { color: #D61D00; padding-left:5px; padding-top: 5px; }   .m-zeitgeist ol li { clear: both; padding-left: 15px; }   .m-zeitgeist div#att-most-viewed ol li.l1,   .m-zeitgeist div#att-latest ol li.l1 { padding-bottom: 9px !important; }   .m-zeitgeist ol li.footer { clear: both; padding-left: 0px !important; padding-top: 5px !important; }   .m-zeitgeist .rank { float: left; margin-left: -15px; }   .m-zeitgeist .kicker { font-weight: bold; }   .m-zeitgeist ol li.thumb { padding-left: 0; }   .m-zeitgeist ol li.thumb .rank { margin-left: 0; }   .m-zeitgeist ol li img { float: left; margin: 0 10px 3px 0; }      .m-zeitgeist #most-zeitgeist ol li { border-top: none; padding: 0; border-top: none; }     .m-zeitgeist #most-zeitgeist ol li .zeit-link {background-color: #fff; padding: 5px 0 9px 5px; border-top: 1px dotted #999; margin-bottom: 0px;  }     .m-zeitgeist #most-zeitgeist ol li.footer { border-top:1px dotted #999; padding: 5px 0 9px 10px; margin-left: 5px }     .m-zeitgeist #most-zeitgeist .m-zeigeist ol { padding-left: 0}      /* zeit-up */   .m-zeitgeist #most-zeitgeist .what-is { float: none; padding: 0 3px; vertical-align: middle; cursor: pointer; }   .about-zeit { position: relative; }   .zeit-popup { position: absolute; display: none; background-color: #dbedf3; color: #333; padding: 6px; width: 200px; }      .fade-1 { border-left: 5px solid #D61D00 !important;} .fade-2 { border-left: 5px solid #DC422A !important;} .fade-3 { border-left: 5px solid #E26754 !important;} .fade-4 { border-left: 5px solid #E88C7E !important;} .fade-5 { border-left: 5px solid #EEB1A8 !important;}  .m-zeitgeist div.hd { padding-bottom: 0; } .m-zeitgeist.most-viewed div.hd { padding-bottom: 7px; } </p>
+<p> jQ(function($){$('.about-zeit').each(function(){var distance=-10;var time=250;var hideDelay=500;var hideDelayTimer=null;var beingShown=false;var shown=false;var trigger=$('.what-is',this);var info=$('.zeit-popup',this).css('opacity',0);$([trigger.get(0),info.get(0)]).mouseover(function(){if(hideDelayTimer)clearTimeout(hideDelayTimer);if(beingShown||shown){return;}else{beingShown=true;info.css({top:-97,right:0,display:'block'}).animate({top:'-='+distance+'px',opacity:1},time,'swing',function(){beingShown=false;shown=true;});}return false;}).mouseout(function(){if(hideDelayTimer)clearTimeout(hideDelayTimer);hideDelayTimer=setTimeout(function(){hideDelayTimer=null;info.animate({top:'-='+distance+'px',opacity:0},time,'swing',function(){shown=false;info.css('display','none');});},hideDelay);return false;});});}); </p>
+<p> On UK news </p>
+<p> Most viewed </p>
+<p> Zeitgeist </p>
+<p> Latest </p>
+<p> Last 24 hours </p>
+<p> 1. </p>
+<p> Birmingham couple killed in 'horrendous' murder </p>
+<p> 2. </p>
+<p> High speed rail 2: a day in the life of Britain's new rail network animated </p>
+<p> 3. </p>
+<p> Birmingham couple's murder could be revenge attack </p>
+<p> 4. </p>
+<p> Meet Nicky Moffat, the highest ranked woman in the British army </p>
+<p> 5. </p>
+<p> BBC can show interview with terror suspect held without trial, court rules </p>
+<p> More most viewed </p>
+<p> Last 24 hours </p>
+<p> High speed rail 2: a day in the life of Britain's new rail network animated </p>
+<p> Birmingham couple's murder could be revenge attack </p>
+<p> No Trousers on the Tube day - in pictures </p>
+<p> Birmingham couple killed in 'horrendous' murder </p>
+<p> Meet Nicky Moffat, the highest ranked woman in the British army </p>
+<p> More zeitgeist </p>
+<p> What is Zeitgeist? </p>
+<p> Zeitgeist is an experiment in showing trending news, topics and articles from the Guardian. Find out more in </p>
+<p> our blog post </p>
+<p> . </p>
+<p> Last 24 hours </p>
+<p> 1. </p>
+<p> Richard Dawkins backs student society over Muhammad cartoon </p>
+<p> 2. </p>
+<p> High speed rail 2: a day in the life of Britain's new rail network animated </p>
+<p> 3. </p>
+<p> Abbot Hall lays on a northern feast of watercolour by Turner and his friends </p>
+<p> 4. </p>
+<p> Birmingham couple's murder could be revenge attack </p>
+<p> 5. </p>
+<p> Welcome to Yorkshire wins gold at World Travel Awards </p>
+<p> All today's stories </p>
+<p> NHS news on Twitter </p>
+<p> Follow the latest news on the NHS reforms with our team of health specialists </p>
+<p> clare_horton: </p>
+<p> Three-quarters of GPs want health and social care bill withdrawn, poll reveals </p>
+<p> http://t.co/nTrqSsJC </p>
+<p> about 7 minutes ago </p>
+<p> patrickjbutler: </p>
+<p> Live blog: Freud in clear over welfare bill disabled children amendment "ambush" - at least for now </p>
+<p> http://t.co/UpF7gpGN </p>
+<p> #wrbliveblog </p>
+<p> about 1 hour, 20 minutes ago </p>
+<p> tianran: </p>
+<p> Three-quarters of GPs want health and social care bill withdrawn, poll reveals </p>
+<p> http://t.co/RTS3Y1Mo </p>
+<p> via </p>
+<p> @guardian </p>
+<p> about 1 hour, 36 minutes ago </p>
+<p> • Follow our health specialists on this Twitter list </p>
+<p> • </p>
+<p> Find more tweets from our health team </p>
+<p> Check your BMI </p>
+<p> Weight: </p>
+<p> 7 st </p>
+<p> 8 st </p>
+<p> 9 st </p>
+<p> 10 st </p>
+<p> 11 st </p>
+<p> 12 st </p>
+<p> 13 st </p>
+<p> 14 st </p>
+<p> 15 st </p>
+<p> 16 st </p>
+<p> 17 st </p>
+<p> 18 st </p>
+<p> 19 st </p>
+<p> 20 st </p>
+<p> 21 st </p>
+<p> 22 st </p>
+<p> 23 st </p>
+<p> 24 st </p>
+<p> 25 st </p>
+<p> 26 st </p>
+<p> 27 st </p>
+<p> 28 st </p>
+<p> 29 st </p>
+<p> 30 st </p>
+<p> 0 lbs </p>
+<p> 1 lbs </p>
+<p> 2 lbs </p>
+<p> 3 lbs </p>
+<p> 4 lbs </p>
+<p> 5 lbs </p>
+<p> 6 lbs </p>
+<p> 7 lbs </p>
+<p> 8 lbs </p>
+<p> 9 lbs </p>
+<p> 10 lbs </p>
+<p> 11 lbs </p>
+<p> 12 lbs </p>
+<p> 13 lbs </p>
+<p> Height: </p>
+<p> 4 ft </p>
+<p> 5 ft </p>
+<p> 6 ft </p>
+<p> 7 ft </p>
+<p> 0 ins </p>
+<p> 1 ins </p>
+<p> 2 ins </p>
+<p> 3 ins </p>
+<p> 4 ins </p>
+<p> 5 ins </p>
+<p> 6 ins </p>
+<p> 7 ins </p>
+<p> 8 ins </p>
+<p> 9 ins </p>
+<p> 10 ins </p>
+<p> 11 ins </p>
+<p> Gender: </p>
+<p> Female </p>
+<p> Male </p>
+<p> .m-guardianbookshop .rank { float: left; margin-left: -15px; } 	.m-guardianbookshop .thumb .rank { margin-left: 0; } 	.m-guardianbookshop h4 { border-top: none !important; font-weight: bold; margin-left: 5px !important; padding: 5px 0 8px 0 !important; } 	.m-guardianbookshop .bestsellers { background-color: #fff; padding-bottom: 17px;} 	.m-guardianbookshop ol { padding: 0 5px; } 	.m-guardianbookshop .l1 { clear: both; padding-left: 15px; } 	.m-guardianbookshop .thumb { padding-left: 0; } 	.m-guardianbookshop .thumb img { float: left; margin: 2px 10px 9px 0;} 	.m-guardianbookshop .price { display: inline; } 	.m-guardianbookshop .thumb .price { display: block; } 	.m-guardianbookshop .rank, .m-guardianbookshop .book-title { font-weight: bold; } 	.m-guardianbookshop input { border: 1px solid #999; width: 75%; min-height: 16px; margin-top: 8px; padding: 3px 2px;} </p>
+<p> This week's bestsellers </p>
+<p> 1. </p>
+<p> Bigger Message </p>
+<p> by Martin Gayford </p>
+<p> £18.95 </p>
+<p> 2. </p>
+<p> Stop What You're Doing and Read This! </p>
+<p> £4.99 </p>
+<p> 3. </p>
+<p> Send Up the Clowns </p>
+<p> by Simon Hoggart </p>
+<p> £8.99 </p>
+<p> 4. </p>
+<p> Why It's Kicking Off Everywhere </p>
+<p> by Paul Mason </p>
+<p> £14.99 </p>
+<p> 5. </p>
+<p> Very Short History of Western Thought </p>
+<p> by Stephen Trombley </p>
+<p> £14.99 </p>
+<p> Search the Guardian bookshop </p>
+<p> Search </p>
+<p> Guardian shop - Health and fitness </p>
+<p> Mighty Ice Grips (for heeled shoes) </p>
+<p> Just slip them over your shoes for safe walking on ice, snow or sleet. </p>
+<p> From: £9.95 </p>
+<p> Browse more health and fitness products </p>
+<p> Visit the Guardian reader offers shop </p>
+<p> Sponsored feature </p>
+<p> function showSponsoredFeaturex31(){                     if (window.sponJSON) {                         if(typeof(sponJSON) === 'object') {                           adx31 = sponJSON;                           var node = jQ('.json-features.x31');                           convertJSONtoAd(                               node.find('img:first-child'),                               node.find('a.t6'),                               node.find('p:last-child'),                               adx31,                               node.find('.hd').children().eq(0),                               'x31'                           );                         }                     }                 }                                  jQ(document).ready(function(){                     jQ('.x31-script-placeholder').writeCapture().replaceWith('<script>showSponsoredFeaturex31()<' + '/script>')                 }) </p>
+<p> Find the latest jobs in your sector: </p>
+<p> Arts & heritage </p>
+<p> Charities </p>
+<p> Education </p>
+<p> Environment </p>
+<p> Government </p>
+<p> Graduate </p>
+<p> Health </p>
+<p> Marketing & PR </p>
+<p> Media </p>
+<p> Sales </p>
+<p> Senior executive </p>
+<p> Social care </p>
+<p> Browse all jobs </p>
+<p> Chief Executive </p>
+<p> London | £100,000 </p>
+<p> RELATE </p>
+<p> Related information </p>
+<p> Politics </p>
+<p> Health policy </p>
+<p> · </p>
+<p> Andrew Lansley </p>
+<p> Life and style </p>
+<p> Health & wellbeing </p>
+<p> · </p>
+<p> Plastic surgery </p>
+<p> Society </p>
+<p> Health </p>
+<p> UK news </p>
+<p> Wales </p>
+<p> World news </p>
+<p> Breast implant scandal </p>
+<p> Breast implant scandal: Lansley and private clinics clash over free treatment </p>
+<p> 7 Jan 2012 </p>
+<p> Private clinics rebuff health secretary after he appeals to their 'moral duty' over breast surgery cost </p>
+<p> 3 Jan 2012 </p>
+<p> Plastic surgeons challenge breast implant scandal statistics </p>
+<p> 11 Jan 2012 </p>
+<p> Breast implant scandal: comestic surgery companies face court action </p>
+<p> 11 Jan 2012 </p>
+<p> The PIP breast implant scandal shows the real cost of private health </p>
+<p> 6 Jan 2012 </p>
+<p> Medical devices and Chinese toys share same level of safety checks </p>
+<p> NHS patients believed to be among faulty French breast implant victims </p>
+<p> 21 Dec 2011 </p>
+<p> It has also emerged that 250 women with silicone breast implants made by Poly Implant Prothese are suing six UK clinics </p>
+<p> Hot topics </p>
+<p> Occupy London </p>
+<p> Libya </p>
+<p> Tunisia </p>
+<p> Syria </p>
+<p> License/buy our content </p>
+<p> | </p>
+<p> Privacy policy </p>
+<p> | </p>
+<p> Terms & conditions </p>
+<p> | </p>
+<p> Advertising guide </p>
+<p> | </p>
+<p> Accessibility </p>
+<p> | </p>
+<p> A-Z index </p>
+<p> | </p>
+<p> Inside the Guardian blog </p>
+<p> | </p>
+<p> About us </p>
+<p> | </p>
+<p> Work for us </p>
+<p> | </p>
+<p> Join our dating site today </p>
+<p> © 2012 Guardian News and Media Limited or its affiliated companies. All rights reserved. </p>
+<p> //<![CDATA[ 	if(true) { 		var s_account="guardiangu-news,guardiangu-network"; 		writeScript('http://static.guim.co.uk/static/534a025fbd5b6ca3cafea5df66abf4d49b01b6fd/common/scripts/omniture-H.22.4.js', false, function(){}); 	} 	//]]> </p>
+<p> //<![CDATA[ 	if(true) { 		if (false) { 		    s.pageName = document.title; 		} else { 			s.pageName="Wales pays to replace French-made breast implants * but England won\'t:Article:1686586"; 		} 		s.channel = "UK news"; 		s.pageType=""; 		s.server='08'; 		s.prop2='GUID:(none)';  					s['prop3']="Guardian"; 					s['prop4']="Wales (News),Health (Society),French breast implant scandal,Health and wellbeing (Life and style),Plastic surgery (Life and style),World news,UK news,Health policy,Politics,Andrew Lansley"; 					s['prop5']="Fashion and Beauty,Unclassified,Not commercially useful,Health Society,Health"; 					s['prop6']="Denis Campbell"; 					s['prop7']="12-Jan-10"; 					s['prop8']="1686586"; 					s['prop9']="Article"; 					s['prop10']="News"; 					s['prop11']="UK news"; 					s['prop13']=""; 					s['prop25']=""; 					s['prop30']="content"; 		 		s.hier2="GU/UK news/Wales"; 		s.events=""; 		s.eVar23="";  		try { 			if (guardian.r2.OmnitureTrackingOverride) { 				new guardian.r2.OmnitureTrackingOverride(s); 			} 		} 		catch(err) { 		}          if(jQ.cookie("GU_OMNITURE") !== null) {             s.events = jQ.cookie("GU_OMNITURE");             jQ.cookie("GU_OMNITURE", null, { path: '/', domain: '.guardian.co.uk'});         }          var s_code=s.t();if(s_code)document.write(s_code); 	} 	//]]> </p>
+<p> var _qevents = _qevents || []; 		(function() { 			var elem = document.createElement('script');  			elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js"; 			elem.async = true; 			elem.type = "text/javascript"; 			var scpt = document.getElementsByTagName('script')[0]; 			scpt.parentNode.insertBefore(elem, scpt); 		})(); 		_qevents.push( { qacct:'p-73ktnlRTKQPTw', labels: 'uk'} ); </p>
+<p> var qcResults = function (result) { 				for (var i = 0, len = result.segments.length; i < len; i++) { 					OAS_query += 'qc=' + result.segments[i].id + '&'; 				} 			} </p>
+<p> if (true) {     jQ(document).ready(function () {         jQ('a[data-cpt]').each(             function () {             jQ(this).click(                 function () {                 var cpId = jQ(this).attr('data-cpt').split("-")[1];                 var currentLink = jQ(this).attr('href');                  if (currentLink.indexOf('intcmp=') == -1) {                     if(currentLink.indexOf('?') == -1) {                         var separator = '?'                     } else {                         var separator = '&'                     }                      jQ(this).attr('href', currentLink + separator + "intcmp=" + cpId);                 }             });         });     }); } </p>
+<p> //<![CDATA[ 	if (false) {         // guardian.co.uk Connect Adprobe Tag, MPU [9814], Leaderboard [9815]         var wlOrd = new Date().getTime();         document.write('<scr' + 'ipt type="text/javascript" src="http://req.connect.wunderloop.net/AP/1566/6033/10343/js?cus=10343,10344&ord=' + wlOrd + '"></sc' + 'ript>'); 	} // ]]> </p>
+<p> //<![CDATA[ 	if (false) {         OAS_query += 'wl10343=' + wl10343camp + '&wl10344=' + wl10344camp + '&'; 	} // ]]> </p>
+<p> //<![CDATA[  	if(true) { 		ensurePackage("guardian.r2.revsci");  		guardian.r2.revsci.cookieDomain = '.guardian.co.uk'; 		guardian.r2.revsci.gu_geo_country = '(none)'; 		guardian.r2.revsci.siteName = 'UK news'; 					guardian.r2.revsci.commercialFolder = 'Fashion+and+Beauty' 				 		addEvent(null, 'load', function () { 			writeScript('http://js.revsci.net/gateway/gw.js?csid=E05516', true, function() { 				writeScript('http://static.guim.co.uk/static/534a025fbd5b6ca3cafea5df66abf4d49b01b6fd/common/scripts/revsci.js', true, function() { 					rs_initTracking(); 				}) 			}) 		}); 	}  	// ]]> </p>
+<p> //<![CDATA[ 											function OAS_NORMAL(pos) { 							document.write('<A HREF="' + OAS_url + 'click_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + pos + '!' + pos + '?' + OAS_query + '" TARGET=' + OAS_target + '>'); 							document.write('<IMG SRC="' + OAS_url + 'adstream_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + pos + '!' + pos + '?' + OAS_query + '" BORDER=0></A>'); 						}  						OAS_version = 11; 						if ((navigator.userAgent.indexOf('Mozilla/3') != -1) || (navigator.userAgent.indexOf('Mozilla/4.0 WebTV') != -1)) OAS_version = 10;                          if (true) {                             if (OAS_version >= 11) document.write('<scr' + 'ipt src="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/script>');                         }  						function OAS_AD(pos) {                             if (true) {                                 if (typeof(OAS_RICH) !== 'undefined' && OAS_version >= 11) {                                     OAS_RICH(pos);                                 } else {                                     OAS_NORMAL(pos);                                 }                             } 						} 					 				//]]> </p>
+<p> //<![CDATA[                 jQ('#ad-placeholder-Top').writeCapture().replaceWith('<script>OAS_AD("Top")<' + '/script>');                 //]]> </p>
+<p> jQ('#ad-temp-Top').hide(); </p>
+<p> //<![CDATA[                 jQ('#ad-placeholder-Middle2').writeCapture().replaceWith('<script>OAS_AD("Middle2")<' + '/script>');                 //]]> </p>
+<p> jQ('#ad-temp-Middle2').hide(); </p>
+<p> //<![CDATA[                 jQ('#ad-placeholder-Right1').writeCapture().replaceWith('<script>OAS_AD("Right1")<' + '/script>');                 //]]> </p>
+<p> jQ('#ad-temp-Right1').hide(); </p>
+<p> //<![CDATA[                 jQ('#ad-placeholder-x31').writeCapture().replaceWith('<script>OAS_AD("x31")<' + '/script>');                 //]]> </p>
+<p> jQ('#ad-temp-x31').hide(); </p>
+<p> ensurePackage('guardian.r2.omniture');   guardian.r2.omniture.trackComponents = true; </p>
+<p> //	<![CDATA[ 	if(true) {         var OAS_taxonomy='&Paneled_Site=guardian.co.uk&Paneled_Section=uk'; 		jQ(document).ready(function(){ 			jQ.getScript('http://static.guim.co.uk/static/534a025fbd5b6ca3cafea5df66abf4d49b01b6fd/common/scripts/kantarmedia.js'); 		}); 	} 	// ]]> </p>
+<p> if(true) {         		jQ(function() { 		  if ('undefined' !== typeof MatchingEngine) { 		    MatchingEngine.logEvent('article', 'id=http://www.guardian.co.uk/uk/2012/jan/10/wales-replace-french-breast-implants'); 		  } 		}); 	} </p>
+<p> if (true) {         var _sf_async_config = {};         /** CONFIGURATION START **/         _sf_async_config.uid = 30676;         _sf_async_config.domain = document.domain;         _sf_async_config.sections = 'UK news';         _sf_async_config.authors = 'Denis Campbell';         _sf_async_config.useCanonical = true;         /** CONFIGURATION END **/         (function() {             function loadChartbeat() {                 window._sf_endpt = (new Date()).getTime();                 var e = document.createElement('script');                 e.setAttribute('language', 'javascript');                 e.setAttribute('type', 'text/javascript');                 e.setAttribute('src',                         (('https:' == document.location.protocol) ? 'https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/' : 'http://static.chartbeat.com/') +                                 'js/chartbeat.js');                 document.body.appendChild(e);             }              var oldonload = window.onload;             window.onload = (typeof window.onload != 'function') ?                     loadChartbeat : function() {                 oldonload();                 loadChartbeat();             };         })();     } </p>

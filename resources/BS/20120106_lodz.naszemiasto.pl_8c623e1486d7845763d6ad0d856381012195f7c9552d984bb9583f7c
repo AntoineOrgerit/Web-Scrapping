@@ -1,0 +1,485 @@
+<p> Malaria - niebezpieczne pamiątka z wakacji  - Łódź - Naszemiasto.pl </p>
+<p> function GR() { return; }; var oG_OSA = {'serwis':'nm','sUrl':'http://s.naszemiasto.pl','adOceanEmiter':'s1.gratkapl.adocean.pl', 'iframeReklama':'http://gratka.pl/reklama/', 'vat':{"stawka":0.23,"procent":23,"brutto":1.23} , tracking: []}; </p>
+<p> if(GR&&!GR.DOM){jQuery=jQuery.noConflict(true);} </p>
+<p> var adMiejsce = {"billboard":"adoceangratkaplugeiinlufa","footer":"adoceangratkaplvkhijpmlij","rectangle_300x250":"adoceangratkaplsloommgqse","button_NxN1":"adoceangratkaplxkrfgsmjpt","button_NxN2":"adoceangratkaplulimjpgoko","button_NxN3":"adoceangratkaplrmpsmmqsjj","button_NxN4":"adoceangratkaplongjqjkhzi","button_NxN5":"adoceangratkapllonpdxdmjd","linki_podartykulowe":"adoceangratkaplndkikxfivb","adtaily_1":"adoceangratkaplwalegwrqni","button_160xN1":"adoceangratkaplvclfeokltf","button_160xN2":"adoceangratkaplmfqiovhjhu","button_160xN3":"adoceangratkaplzfhpbtrnrp","button_160xN4":"adoceangratkaplwgoffqlsmk","intertext":"adoceangratkapltfepmufniz","button_NxN6":"adoceangratkaplyoeghunqty","link_gorny_tresciowy":"adoceangratkapltddemrpocl","link_boks_dlugi":"adoceangratkaplqekkpojtmg","link_boks_krotki_lewy":"adoceangratkaplnfrqcmdirf","link_boks_krotki_prawy":"adoceangratkaplkgihgjnmma","nasze_miasto_srodtext":"adoceangratkapltchkdnstgf","toplayer":"adoceangratkapllbnintgsel","boks_150x250_1":"adoceangratkapluhgentqffu","pasek_505x80":"adoceangratkaplufhifwpfcq","boks_150x250_2":"adoceangratkaplweeohvnjjo","boks_widget":"adoceangratkaplrgkhgojoyh","pasek_podmenu":"adoceangratkaplpkggnwrrvz","pasek_645x100":"adoceangratkaplndkikxfivb","pasek_970x100":"adoceangratkaplxccjjigssz"}; </p>
+<p> GR('wywolajReklamy', 1, {"keys":["nie,lodzkie,lodz,artykul,artykul,ros"],"vars":[],"kodMaster":"Ul1LepbbmK_QXY53zJrfqc_XIjzJK15uoJ3tqhsEF.r.a7"}); </p>
+<p> FB.init({       appId: '235398489840878',        cookie: true,        xfbml: true,       oauth: true     }); </p>
+<p> RSS </p>
+<p> | </p>
+<p> Newsletter </p>
+<p> | </p>
+<p> Zarejestruj się </p>
+<p> | </p>
+<p> Zaloguj się </p>
+<p> | </p>
+<p> Zaloguj przez facebook </p>
+<p> Zaloguj się </p>
+<p> błąd: nieprawidłowy e-mail bądź hasło </p>
+<p> E-mail: </p>
+<p> Hasło: </p>
+<p> Nie masz konta? </p>
+<p> Zarejestruj się </p>
+<p> Przypomnij hasło </p>
+<p> Zapomniałeś hasła? </p>
+<p> Podaj e-mail na który prześlemy odnośnik do wprowadzenia nowego hasła. </p>
+<p> nieprawidłowy e-mail </p>
+<p> e-mail został wysłany </p>
+<p> E-mail: </p>
+<p> « powrót </p>
+<p> Zmiana w regulaminie serwisu </p>
+<p> Musisz zaakceptować regulamin! </p>
+<p> W związku ze zmianami w serwisie regulamin uległ zmianie.               Aby móc się zalogować i skorzystać z nowych funkcji musisz               zaakceptować </p>
+<p> treść nowego regulaminu </p>
+<p> .               Warto zapoznać się również z naszą </p>
+<p> polityką prywatności. </p>
+<p> Musisz zaakceptować regulamin! </p>
+<p> * Oświadczam, że zapoznałem / zapoznałam się z treścią </p>
+<p> Regulaminu </p>
+<p> w tym z zapisami informującymi o fakcie i zakresie przetwarzania moich danych osobowych oraz o osobie Administratora Danych Osobowych (ADO), i w pełni akceptuję ich treść </p>
+<p> Oświadczam, że wyrażam zgodę na przetwarzanie moich danych osobowych dla celów marketingowych produktów podmiotów współpracujących z ADO w zakresie serwisu Naszemiasto.pl. </p>
+<p> Łódź </p>
+<p> Zmień miasto </p>
+<p> » </p>
+<p> (function(tr) {     GR('pFacebookInitlogin');     if ($('link-zaloguj-sie')) {         $('link-zaloguj-sie').onclick = function() {             GR('pokazUkryj',['logowanie-box','logowanie-info','form-nawigator']);             GR('przelaczCssClass', 'wyszukiwarka-naglowek', 'ukryty');             return false;         };         $('logowanie-zaloguj').onclick = function() {             GR('p_logowanie_loguj');             return false;         };     }     tr.push({elements: [$('link-zmien-miasto')], href: '/pasek/zmien_miasto'});     tr.push({elements: [$('nazwa_miasta')], href: '/pasek/miasto'});     tr.push({elements: [$('link-rss')], href: '/pasek/rss'});     tr.push({elements: [$('link-newslettery')], href: '/pasek/newsletter'});     tr.push({elements: [$('link-zarejestruj-sie')], href: '/pasek/rejestracja'}); })(oG_OSA.tracking); </p>
+<p> X </p>
+<p> Wybierz region </p>
+<p> Zobacz listę wszystkich miast w NaszeMiasto.pl </p>
+<p> Wybierz miasto </p>
+<p> Wybierz region... </p>
+<p> Bełchatów </p>
+<p> Brzeziny </p>
+<p> Kutno </p>
+<p> Łęczyca </p>
+<p> Łowicz </p>
+<p> Łódź </p>
+<p> Pabianice </p>
+<p> Piotrków Trybunalski </p>
+<p> Radomsko </p>
+<p> Sieradz </p>
+<p> Skierniewice </p>
+<p> Tomaszów Mazowiecki </p>
+<p> Wieluń </p>
+<p> Zduńska Wola </p>
+<p> Zgierz </p>
+<p> Kino </p>
+<p> Katalog firm </p>
+<p> Gdzie zjeść </p>
+<p> Mapa miasta </p>
+<p> Forum </p>
+<p> oG_OSA.miasta = { m1:{rm1:'wszystkie'},     'dolnyslask': { r428:'Wybierz miasto ...', '__MIASTO__': 'Miasta Kobiet',       'bielawa':'Bielawa', 'bogatynia':'Bogatynia', 'boleslawiec':'Bolesławiec', 'brzegdolny':'Brzeg Dolny', 'dusznikizdroj':'Duszniki-Zdrój', 'dzierzoniow':'Dzierżoniów', 'glogow':'Głogów', 'gluszyca':'Głuszyca', 'gora':'Góra', 'jawor':'Jawor', 'jelczlaskowice':'Jelcz-Laskowice', 'jeleniagora':'Jelenia Góra', 'kamiennagora':'Kamienna Góra', 'karpacz':'Karpacz', 'klodzko':'Kłodzko', 'kudowazdroj':'Kudowa-Zdrój', 'ladekzdroj':'Lądek-Zdrój', 'legnica':'Legnica', 'luban':'Lubań', 'lubin':'Lubin', 'lwowekslaski':'Lwówek Śląski', 'milicz':'Milicz', 'olesnica':'Oleśnica', 'olawa':'Oława', 'polanicazdroj':'Polanica-Zdrój', 'polkowice':'Polkowice', 'stronieslaskie':'Stronie  Śląskie', 'strzegom':'Strzegom', 'strzelin':'Strzelin', 'sycow':'Syców', 'szczawnozdroj':'Szczawno-Zdrój', 'szklarskaporeba':'Szklarska Poręba', 'srodaslaska':'Środa Śląska', 'swidnica':'Świdnica', 'swiebodzice':'Świebodzice', 'swieradowzdroj':'Świeradów-Zdrój', 'trzebnica':'Trzebnica', 'walbrzych':'Wałbrzych', 'wolow':'Wołów', 'wroclaw':'Wrocław', 'zabkowiceslaskie':'Ząbkowice Śląskie', 'zgorzelec':'Zgorzelec', 'zlotoryja':'Złotoryja' },    'kujawskopomorskie': { r429:'Wybierz miasto ...', '__MIASTO__': 'Miasta Kobiet',       'bydgoszcz':'Bydgoszcz', 'torun':'Toruń' },    'lubelskie': { r431:'Wybierz miasto ...', '__MIASTO__': 'Miasta Kobiet',       'bialapodlaska':'Biała Podlaska', 'bilgoraj':'Biłgoraj', 'chelm':'Chełm', 'hrubieszow':'Hrubieszów', 'janowlubelski':'Janów Lubelski', 'kazimierzdolny':'Kazimierz Dolny', 'krasnystaw':'Krasnystaw', 'krasnik':'Kraśnik', 'lubartow':'Lubartów', 'lublin':'Lublin', 'leczna':'Łęczna', 'lukow':'Łuków', 'opolelubelskie':'Opole Lubelskie', 'parczew':'Parczew', 'pulawy':'Puławy', 'radzynpodlaski':'Radzyń Podlaski', 'ryki':'Ryki', 'swidnik':'Świdnik', 'tomaszowlubelski':'Tomaszów Lubelski', 'wlodawa':'Włodawa', 'zamosc':'Zamość' },    'lubuskie': { r432:'Wybierz miasto ...', '__MIASTO__': 'Miasta Kobiet',       'gorzowwielkopolski':'Gorzów Wielkopolski', 'krosnoodrzanskie':'Krosno Odrzańskie', 'miedzyrzecz':'Międzyrzecz', 'nowasol':'Nowa Sól', 'slubice':'Słubice', 'strzelcekrajenskie':'Strzelce Krajeńskie', 'sulecin':'Sulęcin', 'swiebodzin':'Świebodzin', 'zielonagora':'Zielona Góra', 'zagan':'Żagań', 'zary':'Żary' },    'lodzkie': { r433:'Wybierz miasto ...', '__MIASTO__': 'Miasta Kobiet',       'belchatow':'Bełchatów', 'brzeziny':'Brzeziny', 'kutno':'Kutno', 'leczyca':'Łęczyca', 'lowicz':'Łowicz', 'lodz':'Łódź', 'pabianice':'Pabianice', 'piotrkowtrybunalski':'Piotrków Trybunalski', 'radomsko':'Radomsko', 'sieradz':'Sieradz', 'skierniewice':'Skierniewice', 'tomaszowmazowiecki':'Tomaszów Mazowiecki', 'wielun':'Wieluń', 'zdunskawola':'Zduńska Wola', 'zgierz':'Zgierz' },    'malopolska': { r434:'Wybierz miasto ...', '__MIASTO__': 'Miasta Kobiet',       'bochnia':'Bochnia', 'brzesko':'Brzesko', 'chrzanow':'Chrzanów', 'dabrowatarnowska':'Dąbrowa Tarnowska', 'debica':'Dębica', 'gorlice':'Gorlice', 'krakow':'Kraków', 'krynica':'Krynica', 'krzeszowice':'Krzeszowice', 'limanowa':'Limanowa', 'miechow':'Miechów', 'myslenice':'Myślenice', 'nowysacz':'Nowy Sącz', 'nowytarg':'Nowy Targ', 'olkusz':'Olkusz', 'oswiecim':'Oświęcim', 'proszowice':'Proszowice', 'rabka':'Rabka-Zdrój', 'skawina':'Skawina', 'suchabeskidzka':'Sucha Beskidzka', 'tarnow':'Tarnów', 'wadowice':'Wadowice', 'wieliczka':'Wieliczka', 'zakopane':'Zakopane' },    'mazowsze': { r435:'Wybierz miasto ...', '__MIASTO__': 'Miasta Kobiet',       'ciechanow':'Ciechanów', 'plock':'Płock', 'radom':'Radom', 'siedlce':'Siedlce', 'warszawa':'Warszawa' },    'opolskie': { r430:'Wybierz miasto ...', '__MIASTO__': 'Miasta Kobiet',       'opole':'Opole' },    'podkarpackie': { r436:'Wybierz miasto ...', '__MIASTO__': 'Miasta Kobiet',       'brzozow':'Brzozów', 'debica':'Dębica', 'jaroslaw':'Jarosław', 'jaslo':'Jasło', 'kolbuszowa':'Kolbuszowa', 'krosno':'Krosno', 'lezajsk':'Leżajsk', 'lubaczow':'Lubaczów', 'lancut':'Łańcut', 'mielec':'Mielec', 'nisko':'Nisko', 'przemysl':'Przemyśl', 'przeworsk':'Przeworsk', 'ropczyce':'Ropczyce', 'rzeszow':'Rzeszów', 'sanok':'Sanok', 'stalowawola':'Stalowa Wola', 'strzyzow':'Strzyżów', 'tarnobrzeg':'Tarnobrzeg', 'ustrzykidolne':'Ustrzyki Dolne' },    'podlaskie': { r437:'Wybierz miasto ...', '__MIASTO__': 'Miasta Kobiet',       'augustow':'Augustów', 'bialystok':'Białystok', 'lomza':'Łomża', 'suwalki':'Suwałki' },    'pomorze': { r438:'Wybierz miasto ...', '__MIASTO__': 'Miasta Kobiet',       'bytow':'Bytów', 'chojnice':'Chojnice', 'czersk':'Czersk', 'czluchow':'Człuchów', 'gdansk':'Gdańsk', 'gdynia':'Gdynia', 'gniew':'Gniew', 'hel':'Hel', 'kartuzy':'Kartuzy', 'koscierzyna':'Kościerzyna', 'kwidzyn':'Kwidzyn', 'lebork':'Lębork', 'malbork':'Malbork', 'miastko':'Miastko', 'nowydworgdanski':'Nowy Dwór Gdański', 'pelplin':'Pelplin', 'prabuty':'Prabuty', 'pruszczgdanski':'Pruszcz Gdański', 'puck':'Puck', 'reda':'Reda', 'rumia':'Rumia', 'slupsk':'Słupsk', 'sopot':'Sopot', 'starogardgdanski':'Starogard Gdański', 'sztum':'Sztum', 'tczew':'Tczew', 'ustka':'Ustka', 'wejherowo':'Wejherowo' },    'slask': { r439:'Wybierz miasto ...', '__MIASTO__': 'Miasta Kobiet',       'bedzin':'Będzin', 'bielskobiala':'Bielsko-Biała', 'bytom':'Bytom', 'chorzow':'Chorzów', 'cieszyn':'Cieszyn', 'czeladz':'Czeladź', 'czestochowa':'Częstochowa', 'dabrowagornicza':'Dąbrowa Górnicza', 'gliwice':'Gliwice', 'jastrzebiezdroj':'Jastrzębie-Zdrój', 'jaworzno':'Jaworzno', 'katowice':'Katowice', 'klobuck':'Kłobuck', 'lubliniec':'Lubliniec', 'mikolow':'Mikołów', 'myslowice':'Mysłowice', 'myszkow':'Myszków', 'piekaryslaskie':'Piekary Śląskie', 'pszczyna':'Pszczyna', 'raciborz':'Racibórz', 'rudaslaska':'Ruda Śląska', 'rybnik':'Rybnik', 'siemianowiceslaskie':'Siemianowice Śląskie', 'sosnowiec':'Sosnowiec', 'szczyrk':'Szczyrk', 'swietochlowice':'Świętochłowice', 'tarnowskiegory':'Tarnowskie Góry', 'tychy':'Tychy', 'ustron':'Ustroń', 'wisla':'Wisła', 'wodzislawslaski':'Wodzisław Śląski', 'zabrze':'Zabrze', 'zawiercie':'Zawiercie', 'zory':'Żory', 'zywiec':'Żywiec' },    'swietokrzyskie': { r440:'Wybierz miasto ...', '__MIASTO__': 'Miasta Kobiet',       'kielce':'Kielce' },    'warmiaimazury': { r441:'Wybierz miasto ...', '__MIASTO__': 'Miasta Kobiet',       'bartoszyce':'Bartoszyce', 'braniewo':'Braniewo', 'dzialdowo':'Działdowo', 'elblag':'Elbląg', 'elk':'Ełk', 'gizycko':'Giżycko', 'goldap':'Gołdap', 'ilawa':'Iława', 'ketrzyn':'Kętrzyn', 'lidzbarkwarminski':'Lidzbark Warmiński', 'mragowo':'Mrągowo', 'nidzica':'Nidzica', 'nowemiastolubawskie':'Nowe Miasto Lubawskie', 'olecko':'Olecko', 'olsztyn':'Olsztyn', 'ostroda':'Ostróda', 'pisz':'Pisz', 'szczytno':'Szczytno', 'wegorzewo':'Węgorzewo' },    'wielkopolska': { r442:'Wybierz miasto ...', '__MIASTO__': 'Miasta Kobiet',       'chodziez':'Chodzież', 'czarnkow':'Czarnków', 'gniezno':'Gniezno', 'gostyn':'Gostyń', 'grodzisk':'Grodzisk Wielkopolski', 'jarocin':'Jarocin', 'kalisz':'Kalisz', 'kepno':'Kępno', 'kolo':'Koło', 'konin':'Konin', 'koscian':'Kościan', 'krotoszyn':'Krotoszyn', 'leszno':'Leszno', 'miedzychod':'Międzychód', 'nowytomysl':'Nowy Tomyśl', 'oborniki':'Oborniki', 'opalenica':'Opalenica', 'ostrow':'Ostrów Wielkopolski', 'ostrzeszow':'Ostrzeszów', 'pila':'Piła', 'pleszew':'Pleszew', 'poznan':'Poznań', 'rawicz':'Rawicz', 'slupca':'Słupca', 'swarzedz':'Swarzędz', 'szamotuly':'Szamotuły', 'srem':'Śrem', 'srodawielkopolska':'Środa Wielkopolska', 'trzcianka':'Trzcianka', 'turek':'Turek', 'wagrowiec':'Wągrowiec', 'wolsztyn':'Wolsztyn', 'wrzesnia':'Września', 'zbaszyn':'Zbąszyń', 'zlotow':'Złotów' },    'zachodniopomorskie': { r443:'Wybierz miasto ...', '__MIASTO__': 'Miasta Kobiet',       'koszalin':'Koszalin', 'slawno':'Sławno', 'szczecin':'Szczecin' }    };     oG_OSA.adresStrony = '.naszemiasto.pl';     oG_OSA.subdomena = 'lodz';     GR("o_formularz_inicjalizuj", "form-mapa", {"plik": sUrl + "/p/js/zmien_miasto.js?40"});          (function(tr){         tr.push({elements: [$('katalog-link-sm')], href: '/naglowek/katalog_firm'});         tr.push({elements: [$('kino-link-sm')], href: '/naglowek/kino'});         tr.push({elements: [$('gastronomia-link-sm')], href: '/naglowek/gdzie_zjesc'});         tr.push({elements: [$('mapa-link-sm')], href: '/naglowek/mapa'});         tr.push({elements: [$('forum-link-sm')], href: '/naglowek/forum'});         tr.push({elements: [$('szukaj-link-sm')], href: '/naglowek/szukaj'});     })(oG_OSA.tracking); </p>
+<p> GR("wstawReklame","billboard", "", "", "", true); </p>
+<p> Wydarzenia </p>
+<p> Regionalne </p>
+<p> Kultura </p>
+<p> Gospodarcze </p>
+<p> Serwisy specjalne </p>
+<p> Galerie </p>
+<p> Finanse </p>
+<p> Rozrywka </p>
+<p> Imprezy </p>
+<p> Kino </p>
+<p> Teatr </p>
+<p> Program TV </p>
+<p> Gry online </p>
+<p> Katalog firm </p>
+<p> + Dodaj firmę </p>
+<p> Firmy i uslugi </p>
+<p> Gastronomia </p>
+<p> Noclegi </p>
+<p> Urzędy </p>
+<p> Ogłoszenia </p>
+<p> Nieruchomości </p>
+<p> mieszkanie </p>
+<p> dom </p>
+<p> działka </p>
+<p> Motoryzacja </p>
+<p> samochód </p>
+<p> motocykl </p>
+<p> części </p>
+<p> Praca </p>
+<p> Turystyka </p>
+<p> Pozostałe </p>
+<p> dodaj ogłoszenie do prasy </p>
+<p> Turystyka </p>
+<p> Kalendarz Turysty </p>
+<p> Przewodnik po regionie </p>
+<p> Aktywnie </p>
+<p> Niezbędnik </p>
+<p> Forum Podróżnika </p>
+<p> Rezerwuj hotel </p>
+<p> Bilety lotnicze </p>
+<p> Sport </p>
+<p> Piłka nożna </p>
+<p> Siatkówka </p>
+<p> Koszykówka </p>
+<p> Rugby </p>
+<p> Piłka ręczna </p>
+<p> Żużel </p>
+<p> Hokej </p>
+<p> Konkursy </p>
+<p> Miasta Kobiet </p>
+<p> Weekend </p>
+<p> GR("wstawReklame", "pasek_podmenu", "", "", "", true); </p>
+<p> (function() {     var rozwiniete = {}, i,         li = GR('$$', 'wiecej', $('menu-nowe'), 'li'),         zwin = function(el) {             if (!rozwiniete[el.id]) {                 GR('usunCssClass', el, 'rozwin');             }         },         rozwin = function(el) {             if (rozwiniete[el.id]) {                 GR('dodajCssClass', el, 'rozwin');             }         };     for (i in li) {         Zdarzenia.zaczep(li[i], 'mouseover', function() {             var menu = Zdarzenia.pobierz().target; 	        while (!GR('czyCssClass', menu, 'elListyPozPierwszy')) { 		        menu = menu.parentNode; 	        }             rozwiniete[menu.id] = true;             setTimeout(function() {rozwin(menu);}, 250);         });         Zdarzenia.zaczep(li[i], 'mouseout', function() {             var menu = Zdarzenia.pobierz().target; 	        while (!GR('czyCssClass', menu, 'elListyPozPierwszy')) { 		        menu = menu.parentNode; 	        }             rozwiniete[menu.id] = false;             setTimeout(function() {zwin(menu);}, 250);         });     }     GR('p_tracking_menuMiejskie', 'lodz'); })(); (function(tr){     var zamienPolskieZnaki = function(str) {         str = str.replace("ó", "o");         str = str.replace("ł", "l");         str = str.replace("ń", "n");         str = str.replace("ż", "z");         str = str.replace("ź", "z");         str = str.replace("ć", "c");         str = str.replace("ą", "a");         str = str.replace("ę", "e");         str = str.replace("ś", "s");         str = str.replace("\ ", "_");         return str;     }     GR('$$', 'elListyPozPierwszyLink', $('menu-nowe'), '', function(el) {         GR('$$', 'nazwa', el, 'span', function(e) {             var nazwa = e.innerHTML;             tr.push({elements: [el], href: '/menu_miejskie/poziom_1:' + zamienPolskieZnaki(nazwa.trim().toLowerCase())});         });     });     GR('$$', 'menuPodkategoria', $('menu-nowe'), '', function(el) {         var nazwa = el.innerHTML;         tr.push({elements: [el], href: '/menu_miejskie/poziom_2:' + zamienPolskieZnaki(nazwa.toLowerCase())});     }); })(oG_OSA.tracking); </p>
+<p> function wstaw_napis() {     oEl = GR("$", "czego_szukasz");     if (oEl.value == '') {         oEl.value = 'Czego szukasz?';     } } function usun_napis() {     oEl = GR("$", "czego_szukasz");     if (oEl.value == 'Czego szukasz?') {         oEl.value = '';     } } Zdarzenia.zaczep(GR("$", "czego_szukasz"), "focus", usun_napis); Zdarzenia.zaczep(GR("$", "czego_szukasz"), "blur", wstaw_napis); </p>
+<p> Łódź </p>
+<p> » </p>
+<p> Wydarzenia </p>
+<p> » </p>
+<p> Malaria - niebezpieczne pamiątka z wakacji </p>
+<p> (function(tr){           tr.push({elements: $('lokalizator').getElementsByTagName('a'), href: '/sciezka_nawigacyjna/link_do_strony'});       })(oG_OSA.tracking); </p>
+<p> « poprzedni artykuł </p>
+<p> następny artykuł » </p>
+<p> oG_OSA.idMaterial = 1236765;     GR("p_material_sasiednie");     GR('p_tracking_poprzedniNastepnyArtykul'); </p>
+<p> GR("DOMReady", addthis.init); </p>
+<p> Malaria - niebezpieczne pamiątka z wakacji </p>
+<p> 2012-01-13,   Aktualizacja:         wczoraj     21:46 </p>
+<p> Joanna Barczykowska </p>
+<p> 40-latek przez rok leczył się z przeziębień i grypy, czuł, że łamało go w kościach i miał obniżoną odporność. W końcu choroba rozłożyła go na łopatki. Kiedy trafił do szpitala im. Biegańskiego w Łodzi, okazało się, że to malaria. 40-latek jest jednym z trzech łodzian, którzy w tym sezonie zachorowali na malarię. </p>
+<p> W ostatnim roku zanotowano u nas sześć przypadków malarii  (© fot. Wojtek Wilczynski) </p>
+<p> Masz zdjęcie do tego tematu? Wyślij </p>
+<p> » </p>
+<p> Dodaj zdjęcie do materiału. </p>
+<p> Autor </p>
+<p> Opis </p>
+<p> Dodawanie zdjęcia </p>
+<p> Maksymalny rozmiar pliku to 5 MB </p>
+<p> Aby wysłać zdjęcie musisz zgodzić się z poniższym warunkiem. </p>
+<p> Dodając zdjęcie oświadczam, że mam prawo do dysponowania nim, zgadzam się na przetwarzanie danych w celu jego publikacji,         oraz na nieodpłatne wykorzystanie zdjęć w serwisie naszemiasto.pl oraz innych serwisach i gazetach Grupy Polskapresse. Proszę o         podpisanie autora zdjęcia w sposób podany w formularzu </p>
+<p> (function (tr) {     var sprawdzCheckbox = function(e) {         if($('wyslij-zdjecie-zgoda-wykorzystanie').checked) {             return true;         }         Zdarzenia.anuluj(e);         return false;     }     tr.push({elements: [$('wyslij-zdjecie-plik-zapisz')], href: '/impreza/dodaj_zdjecie', initCall: sprawdzCheckbox});     GR('pWyslijzdjecie'); })(oG_OSA.tracking); </p>
+<p> U żadnego z nich nie zdiagnozowano malarii mózgowej, która często kończy się śmiercią. Przez najbliższe tygodnie zostaną jednak pod opieką lekarzy. </p>
+<p> 40-latek z Łodzi trafił do szpitala dopiero rok po egzotycznej podróży. Od 2008 do 2010 roku mieszkał w Ugandzie. Przez rok po powrocie leczył się na przeciągające się przeziębienia i grypy. Czuł, że ma osłabioną odporność i co chwila łapie infekcje. W końcu rozpoznano u niego malarię. Podobnie było w przypadku 30-latka z Łodzi, który rok temu był na wakacjach w Kamerunie. Do szpitala trafił dopiero po kilku miesiącach. Lekarze od razu podali mu odpowiednie leki. </p>
+<p> - Malaria jest tropikalną chorobą pasożytniczą. Większość jej odmian można z powodzeniem u nas wyleczyć. Wyjątkiem jest malaria mózgowa, przy której jest bardzo wysoka śmiertelność. W przypadku malarii trzeba działać szybko, żeby organizm się nie odwodnił - mówi prof. Daniela Dworniak, wojewódzki konsultant ds. chorób zakaźnych w Łodzi. </p>
+<p> Mieszkańcy województwa łódzkiego coraz częściej decydują się na egzotyczne podróże. </p>
+<p> ∨ Czytaj dalej </p>
+<p> Reklama </p>
+<p> GR("wstawStaraReklama","nasze_miasto_srodtext","","","",1,"",function(){GR("dodajCssClass","reklama_srodtekst","schowaj");}); </p>
+<p> Oprócz niezapomnianych wspomnień, przywożą groźne choroby tropikalne i pasożyty. </p>
+<p> W ciągu ostatniego roku w Łódzkiem było sześć przypadków malarii. Mężczyzna, który wrócił z urlopu na Bali, oraz małżonkowie, podróżujący po Wietnamie, Laosie i Kambodży trafili do szpitala imienia Biegańskiego. Ostatnią pacjen -tką była 28-latka z Łodzi, która w maju podróżowała po Indiach. Sezon na egzotyczne podróże trwa jeszcze do końca kwietnia, dlatego mieszkańcy województwa powinni na siebie uważać. </p>
+<p> - Coraz częstsze wyjazdy do egzotycznych krajów skutkują większą liczbą zachorowań, dlatego konieczne są szczepienia ochronne. Powinno się je wykonać kilka tygodni przed wyjazdem. Jedyne wymagane w ruchu międzynarodowym są szczepienia przeciw żółtej febrze, które trzeba zrobić, wyjeżdżając np. do Afryki Środkowej czy Ameryki Łacińskiej. Pozostałe szczepienia są zalecane. Szczególnie ważne są szczepienia przeciw WZW A - choroba szerzy się drogą pokarmową - mówi Urszula Sztuka-Polińska, dyrektor Wojewódzkiej Stacji Sanitarno-Epidemiologicznej w Łodzi. - Poza szczepieniami bardzo ważna jest także chemioterapia przeciw malarii, bo jest ona bardzo rozpowszechnioną chorobą pasożytniczą w tropiku. Największe ryzyko zachorowania występuje w Afryce subsaharyjskiej i Oceanii, ale trzeba mieć się na baczności także w niektórych regionach Azji. </p>
+<p> W samej Łodzi notuje się kilka przypadków malarii rocznie. Choroba może być śmiertelna. Dotąd odnotowano w województwie jeden taki przypadek - kilkanaście lat temu zmarła kobieta, która zaraziła się w Kenii. </p>
+<p> - Po powrocie z egzotycznych wakacji warto się przebadać, ponieważ objawy malarii uwidaczniają się dopiero po jakimś czasie od zakażenia i dopadają pacjentów po powrocie z wakacji - mówi prof. Daniela Dworniak. I dodaje, że w naszych warunkach klimatycznych osoba chora nie może zarazić innych malarią. </p>
+<p> GR("DOMReady", addthis.init); </p>
+<p> Zobacz także </p>
+<p> Próbna ewakuacja w szpitalu Biegańskiego </p>
+<p> W Biegańskim chcą odwołać naczelną pielęgniarkę </p>
+<p> (function(tr) {     tr.push({elements: GR('$$', 'zdjeciePodobne', $('materialyPodobne')), href: '/boks_zobacz_takze/zdjecie_materialu_', licznik: true});     tr.push({elements: GR('$$', 'linkPodobny', $('materialyPodobne')), href: '/boks_zobacz_takze/link_do_materialu_', licznik: true}); })(oG_OSA.tracking); </p>
+<p> Tagi: </p>
+<p> egzotyczne choroby łódź </p>
+<p> , </p>
+<p> malaria łódź </p>
+<p> , </p>
+<p> objawy malarii </p>
+<p> , </p>
+<p> szpital Biegańskiego </p>
+<p> GR("wstawReklame","linki_podartykulowe"); </p>
+<p> GR('wstawReklame','button_NxN5','','','REKLAMA'); </p>
+<p> Komentarze ( </p>
+<p> 8 </p>
+<p> ) </p>
+<p> Wyświetl od </p>
+<p> najnowszych </p>
+<p> najstarszych </p>
+<p> Dodaj komentarz </p>
+<p> Dodaj komentarz </p>
+<p> Tytuł: </p>
+<p> Treść komentarza: </p>
+<p> Twój podpis: </p>
+<p> Wpisz kod z obrazka: </p>
+<p> Akceptuję </p>
+<p> regulamin </p>
+<p> SaycoRa (gość) </p>
+<p> 2012-01-13 13:31 </p>
+<p> Tak działa "systemowa" służba zdrowia... </p>
+<p> Lekarz zamiast leczyć musi wypełnić całą masę papierów i nie może poświęcić pacjentowi tyle czasu ile powinien bo nie zdąży pomóc innym...Chory system.Każdy student medycyny wie,że najważniejsza jest DIAGNOZA,dopiero prawidłowo postawiona zaowocuje odpowiednio dobraną terapią.Tymczasem lekarz nie ma czasu na podstawę,czyli na wywiad z pacjentem,dlatego przechodzi do badania i stawia diagnozę na podstawie objawów,a przebieg wielu chorób może wyglądać podobnie... </p>
+<p> +3 </p>
+<p> / </p>
+<p> -2 </p>
+<p> zgłoś naruszenie </p>
+<p> odpowiedz </p>
+<p> 2 </p>
+<p> ja37 (gość) </p>
+<p> 2012-01-13 10:48 </p>
+<p> Ciekawe, kto płaci? </p>
+<p> Miałeś kasę na wakacje  -  lecz się sam za 100%, w PL malarii nie ma. </p>
+<p> Trzeba było nad Bałtyk pojechać, a nie sie ciągać u czarnuchów. </p>
+<p> Na własne życzenie choroba - za własne pieniążki leczenie. </p>
+<p> +3 </p>
+<p> / </p>
+<p> -19 </p>
+<p> zgłoś naruszenie </p>
+<p> odpowiedz </p>
+<p> 5740 (gość) </p>
+<p> 2012-01-14 21:49 </p>
+<p> o co ci chodzi, pajacu? Jak płaci ubezpieczenie zdrowotne, to ma prawo być leczonym w ramach ubezpieczenia. Takich przychlastów jak ty powinno się za to leczyć przymusowo na mózg ( oczywiście w ramach ubezpieczenia) </p>
+<p> 0 </p>
+<p> / </p>
+<p> 0 </p>
+<p> zgłoś naruszenie </p>
+<p> odpowiedz </p>
+<p> Xawery (gość) </p>
+<p> 2012-01-14 19:51 </p>
+<p> Lepiej nie wychodź poza dom bo jak złamiesz nogę na ulicy to drugi taki jak ty przylezie i cię zwyzywa, że chcesz teraz państwowy gips na prwatną nogę zakładać. Głupotą gdzie się zaraziłeś? </p>
+<p> 0 </p>
+<p> / </p>
+<p> 0 </p>
+<p> zgłoś naruszenie </p>
+<p> odpowiedz </p>
+<p> Ł (gość) </p>
+<p> 2012-01-13 09:34 </p>
+<p> a za kurację 100 % odpłatności o ile mu przyjmą receptę </p>
+<p> jak długo czekał na przyjęcie do szpitala bo nie napisali. </p>
+<p> +6 </p>
+<p> / </p>
+<p> 0 </p>
+<p> zgłoś naruszenie </p>
+<p> odpowiedz </p>
+<p> west (gość) </p>
+<p> 2012-01-13 09:06 </p>
+<p> Pamiętacie jak murzyn pogryzł kontrolera biletów? </p>
+<p> Jak podano że jest nosicielem HIV i na których dyskotekach balował to na badanie na obecność wirusa zgłosiło się 37 dziewczyn (w samej Łodzi) </p>
+<p> +11 </p>
+<p> / </p>
+<p> -1 </p>
+<p> zgłoś naruszenie </p>
+<p> odpowiedz </p>
+<p> Mc (gość) </p>
+<p> 2012-01-13 08:51 </p>
+<p> Nie narzekaj...mamy super służbę zdrowia... </p>
+<p> ewentualne leczenie do decyzji NFZ! </p>
+<p> +4 </p>
+<p> / </p>
+<p> -2 </p>
+<p> zgłoś naruszenie </p>
+<p> odpowiedz </p>
+<p> Henio (gość) </p>
+<p> 2012-01-13 08:43 </p>
+<p> Problem z lekarzami pierwszego kontaktu.. </p>
+<p> "- Po powrocie z egzotycznych wakacji warto się przebadać.." </p>
+<p> tylko gdzie? </p>
+<p> "Przerobiłem" kilka przychodni i kilkunastu lekarzy pierwszego kontaktu, </p>
+<p> wszędzie jest to samo.. </p>
+<p> jak coś się dzieje - przepisują jeden lek, trzeci, dziesiąty i leczą na chybił-trafił, </p>
+<p> testują leki i albo trafią ,albo się pogorszy - wtedy to już szpital, </p>
+<p> badań praktycznie się nie robi, bo po co - diagnostyka kosztuje, jak mi kiedyś kierownik przychodni odpowiedział.. </p>
+<p> żenada.. </p>
+<p> +8 </p>
+<p> / </p>
+<p> -1 </p>
+<p> zgłoś naruszenie </p>
+<p> odpowiedz </p>
+<p> Dodaj komentarz </p>
+<p> Dodaj komentarz </p>
+<p> Tytuł: </p>
+<p> Treść komentarza: </p>
+<p> Twój podpis: </p>
+<p> Wpisz kod z obrazka: </p>
+<p> Akceptuję </p>
+<p> regulamin </p>
+<p> Treść komentarza: </p>
+<p> Twój podpis: </p>
+<p> Wpisz kod z obrazka: </p>
+<p> Akceptuję </p>
+<p> regulamin </p>
+<p> var id_post =  0 ,       id_post_rodzic =  0 ,       id_post_korzen =  0 ;   GR("zaladujPlikJS", "http://s.naszemiasto.pl/p/js/komentarze.js", "plik");     GR('pAddthisUstawkomentarze');     (function(tr) {     tr.push({elements: GR('$$', 'dodajKomentarzPrzycisk'), href: '/material_karta_agregator/dodaj_komentarz_niezalogowany'});     tr.push({elements: GR('$$', 'komentarzOdpowiedz'), href: '/material_karta_agregator/odpowiedz_na_komentarz'});     tr.push({elements: GR('$$', 'komentarzWyslij'), href: '/material_karta_agregator/wyslij_komentarz'});   })(oG_OSA.tracking); </p>
+<p> (function(tr){     tr.push({elements: GR('$$', 'tag'), href: '/material_karta_agregator/tag'}); })(oG_OSA.tracking); </p>
+<p> Wydarzenia dnia </p>
+<p> dzisiaj 18:24 </p>
+<p> Wielkie Badanie Ciśnienia w Manufakturze. Rekord Guinnessa został pobity </p>
+<p> dzisiaj 05:49 </p>
+<p> Poszukiwany listami gończymi postrzelony przy Karolewskiej </p>
+<p> dzisiaj 05:44 </p>
+<p> Casting na opiekuna psa ze schroniska przy Marmurowej </p>
+<p> dzisiaj 05:36 </p>
+<p> Pacjenci nie mogą wykupić leków a lekarze obradują </p>
+<p> dzisiaj 05:30 </p>
+<p> Nikt nie chce budynku po markecie przy Wydawniczej 19 </p>
+<p> dzisiaj 05:26 </p>
+<p> Rodzice przeciw likwidacji szkoły dla dzieci niesłyszących i słabosłyszących... </p>
+<p> Chcesz dostawać najważniejsze informacje z Twojego miasta? Zapisz się do newslettera! </p>
+<p> (function(tr, url) {     var zapiszSie = $('zapisz-sie');     GR('$$', 'link', $('lista-wydarzenia-dnia'), 'a', function(e) {         if (e.getAttribute('href').split('#')[0] === url) {             GR('dodajCssClass', e.parentNode, 'wyrozniony');         }     });     Zdarzenia.zaczep(zapiszSie, 'blur', function() {         if ('' === zapiszSie.value) {             zapiszSie.value = 'jan.kowalski@domena.pl';             GR('dodajCssClass', zapiszSie, 'puste');         }     });     Zdarzenia.zaczep(zapiszSie, 'focus', function() {         if ('jan.kowalski@domena.pl' === zapiszSie.value) {             zapiszSie.value = '';             GR('usunCssClass', zapiszSie, 'puste');         }     });     tr.push({elements: GR('$$', 'zdjecie', $('lista-wydarzenia-dnia')), href: '/boks_wydarzenia_dnia/zdjecie_', licznik: true});     tr.push({elements: GR('$$', 'link', $('lista-wydarzenia-dnia')), href: '/boks_wydarzenia_dnia/link_do_materialu_', licznik: true});     tr.push({elements: [$('zapisz-sie-button')], href: '/pasek/newsletter'}); })(oG_OSA.tracking, window.location.pathname); </p>
+<p> Dodaj artykuł </p>
+<p> (function(tr){     tr.push({elements: [$('dodaj-artykul')], href: '/smarty/dodaj_artykul'}); })(oG_OSA.tracking); </p>
+<p> Najczęściej </p>
+<p> dodaj artykuł » </p>
+<p> Komentowane </p>
+<p> Czytane </p>
+<p> Zbigniew Papierski zostanie prezesem MPK? </p>
+<p> 88 </p>
+<p> Łódzcy strażacy uwolnili kota, który utknął w rurze </p>
+<p> 63 </p>
+<p> Łódź rozmawia o rozbudowie trasy W-Z, która połączy Retkinię z Janowem </p>
+<p> 63 </p>
+<p> Eksperci z Łodzi zbadają uczniów cierpiących na dyskalkulię </p>
+<p> 52 </p>
+<p> Chcą dopracować komunikację w Łodzi </p>
+<p> 49 </p>
+<p> Nowe Centrum Łodzi jest głównie wizją </p>
+<p> 47 </p>
+<p> Najlepszy kierowca i motorniczy 2011 łódzkiego MPK </p>
+<p> 45 </p>
+<p> Zakaz palenia nie tylko na przystankach </p>
+<p> 44 </p>
+<p> Zdjęcia dawnej Łodzi: Lata 50. XX wieku [GALERIA] </p>
+<p> 9 </p>
+<p> Nowy dworzec Łódź Fabryczna: budowa na żywo w internecie [ZDJĘCIA+FILMY] </p>
+<p> 28 </p>
+<p> Studniówki 2012 w Łodzi. Studniówka XVIII LO [ZDJĘCIA] </p>
+<p> 8 </p>
+<p> Kilkuset łodzian przyszło oddać krew kilkudniowej Konstancji [ZDJĘCIA+FILM] </p>
+<p> 41 </p>
+<p> Nowe Centrum Łodzi jest głównie wizją </p>
+<p> 47 </p>
+<p> Pilne! Potrzebna krew dla 2-dniowej dziewczynki w CZMP w Łodzi: grupa AB Rh- </p>
+<p> 58 </p>
+<p> Łódź rozmawia o rozbudowie trasy W-Z, która połączy Retkinię z Janowem </p>
+<p> 63 </p>
+<p> Łódź zadłuża się po uszy. Za rok dług Łodzi ma sięgnąć 1,9 mld zł </p>
+<p> 42 </p>
+<p> GR('p_tracking_boksNajczesciej');  (function(tr) {     tr.push({elements: [$('zakladki-komentowane')], href: '/rankingi/komentowane'});     tr.push({elements: [$('zakladki-czytane')], href: '/rankingi/czytane'});     tr.push({elements: [$('boks-najczesciej-dodaj-artykul')], href: '/rankingi/dodaj_artykul'});     tr.push({elements: $('zakladki-linki').getElementsByTagName('a'), href: '/rankingi/link_do_materialu_', licznik: true}); })(oG_OSA.tracking); </p>
+<p> Wideo </p>
+<p> Pożar na Sasanek 1 </p>
+<p> Wypadek koło Castoramy </p>
+<p> Pożar pustostanu na Lipowej 83 </p>
+<p> (function(tr) {     tr.push({elements: $('boks-youtube').getElementsByTagName('a'), href: '/boks_puls_polski'}); })(oG_OSA.tracking);      GR('pBokswideo', 'boks-youtube'); </p>
+<p> GR("wstawReklame", "rectangle_300x250", "", "", "Reklama", 1); </p>
+<p> GR("wstawReklameButtony", "Reklama", ["button_NxN1","button_NxN2","button_NxN3","button_NxN4"]); </p>
+<p> Ogłoszenia nieruchomości </p>
+<p> Mieszkanie 1-pokojowe, 20 m </p>
+<p> 2 </p>
+<p> , 1 piętro </p>
+<p> 77 000 zł </p>
+<p> M-2 w centrum, własność, ładne, tanie mieszkanie, I piętro  Mieszkanie: pokó </p>
+<p> Mieszkanie 2-pokojowe, 41 m </p>
+<p> 2 </p>
+<p> , parter </p>
+<p> 115 000 zł </p>
+<p> |   OFERTA EKSKLUZYWNA ! ! ! KUPUJĄCY O % PROWIZJI ! ! ! Bardzo widne mieszk </p>
+<p> Zobacz więcej na dom.gratka.pl </p>
+<p> » </p>
+<p> Ogłoszenia motoryzacyjne </p>
+<p> Chrysler PT Cruiser 2.0 benzyna 2000r. </p>
+<p> 8500.00 zł </p>
+<p> Samochód sprowadzony z Anglii kierownica po stronie prawej z mozliwoscia prz </p>
+<p> Mercedes-Benz E Klasse E 200 CLASSIC I WŁAŚCICIEL 2.0 benzyna 1995r. </p>
+<p> 9500.00 zł </p>
+<p> Zobacz więcej na moto.gratka.pl </p>
+<p> » </p>
+<p> GR("wstawReklame", "boks_widget", "", "", "Reklama", true); </p>
+<p> Ogłoszenia pracodawców </p>
+<p> Pracownik działu jakości (okolice Poddębic) </p>
+<p> Gostków Stary k. Poddębic </p>
+<p> kelnerka, pizzerman </p>
+<p> Łódź </p>
+<p> Zatrudnię kelnerkę i pizzermana. </p>
+<p> Kelner (-ka) </p>
+<p> Zgierz </p>
+<p> Praca przy obsłudze imprez okolicznościowych, gości indywidualnych jak i gości hotelowych. Samodzielność, pracowitość, dyspozycyjność. Mile widziane doś... </p>
+<p> Zobacz więcej na praca.gratka.pl </p>
+<p> » </p>
+<p> (function(tr) {     tr.push({elements: GR('$$', 'zobaczWiecejLink', $('ogloszenia')), href: '/widget_ogloszenia/zobacz_wiecej'});     tr.push({elements: GR('$$', 'link', $('ogloszenia')), href: '/widget_ogloszenia/tytul_', licznik: true});     tr.push({elements: GR('$$', 'zdjecie', $('ogloszenia')), href: '/widget_ogloszenia/zdjecie_', licznik: true}); })(oG_OSA.tracking); </p>
+<p> Zobacz koniecznie </p>
+<p> Weekend w Łodzi </p>
+<p> Sprawdź co dzieje się w mieście </p>
+<p> Utrudnienia na łódzkich drogach </p>
+<p> Korki, remonty, kolizje, MPK... śledź... </p>
+<p> Polska Dziennik Łódzki - e-gazeta </p>
+<p> Zamów prenumeratę </p>
+<p> Zaloguj się i pobierz Express... </p>
+<p> Najpopularniejsza gazeta Łodzi w PDF </p>
+<p> Ściągnij aplikację </p>
+<p> Rozrywka NaszeMiasto.pl już na iPhone'a! </p>
+<p> Blogowe Dbajki </p>
+<p> Konkurs dla blogerów na Dbajkę </p>
+<p> Odliczamy dni do Euro! </p>
+<p> Najświeższe newsy o Euro 2012 </p>
+<p> Weekend w Łodzi </p>
+<p> Sprawdź co się dzieje w naszym mieście! </p>
+<p> Setki darmowych gier w jednym... </p>
+<p> Najnowsze hity, gry flash, MMO, do... </p>
+<p> 68. Tour de Pologne </p>
+<p> 22 zespoły pojawią się na starcie... </p>
+<p> Futbol na wesoło </p>
+<p> Piłkarskie plotki, sportowe plotki, WAGs,... </p>
+<p> Perły w Koronie Województwa... </p>
+<p> Zobacz wyniki </p>
+<p> Shakira w łódzkiej Atlas Arenie... </p>
+<p> Gry komputerowe </p>
+<p> Gry wideo i komputerowe, recenzje </p>
+<p> Aranżacja wnętrz </p>
+<p> Wyposażenie wnętrz, porady, architetkura </p>
+<p> Filmy online </p>
+<p> VOD, kino online, filmy online, tanie filmy </p>
+<p> Samochody, motoryzacja, testy </p>
+<p> Prawo jazdy, testy, samochody, motocykle,... </p>
+<p> GR(     "o_prezentacja_inicjalizuj",     "koniecznie-zobacz",     {       pokaz: 6,       czasZmiany: 1000,       szerokoscWejsciowa: 150,       czasPrzesuniecia: 0,       przewijanie: 0     },     false );  (function(tr){     tr.push({elements: GR("$$", 'zobaczKoniecznieTytul', $('koniecznie-zobacz'), 'a'), href: '/boks_zobacz_koniecznie/tytul_', licznik: true});     tr.push({elements: GR("$$", 'zobaczKoniecznieLink', $('koniecznie-zobacz'), 'a'), href: '/boks_zobacz_koniecznie/link_na_warstwie_', licznik: true});     tr.push({elements: GR("$$", 'obrazek', $('koniecznie-zobacz'), 'a'), href: '/boks_zobacz_koniecznie/zdjecie_', licznik: true}); })(oG_OSA.tracking); </p>
+<p> GR("wstawReklame","pasek_970x100", "", "", "", true); </p>
+<p> Serwisy branżowe: </p>
+<p> » </p>
+<p> Ogłoszenia </p>
+<p> » </p>
+<p> Motoryzacja </p>
+<p> » </p>
+<p> Nieruchomości </p>
+<p> » </p>
+<p> Sklepy internetowe </p>
+<p> » </p>
+<p> Praca </p>
+<p> » </p>
+<p> Turystyka </p>
+<p> » </p>
+<p> Ogłoszenia pozostałe </p>
+<p> Serwisy partnerskie: </p>
+<p> » </p>
+<p> Grupa wydawnicza </p>
+<p> » </p>
+<p> Wiadomości </p>
+<p> » </p>
+<p> PolskaTimes </p>
+<p> » </p>
+<p> Samochody </p>
+<p> » </p>
+<p> Program TV </p>
+<p> » </p>
+<p> Piłka nożna </p>
+<p> Dzienniki regionalne: </p>
+<p> » </p>
+<p> Dziennik Bałtycki </p>
+<p> » </p>
+<p> Dziennik Łódzki </p>
+<p> » </p>
+<p> Dziennik Zachodni </p>
+<p> » </p>
+<p> Gazeta Krakowska </p>
+<p> » </p>
+<p> Gazeta Wrocławska </p>
+<p> » </p>
+<p> Głos Wielkopolski </p>
+<p> » </p>
+<p> Kurier Lubelski </p>
+<p> » </p>
+<p> Express Ilustrowany </p>
+<p> Serwisy tematyczne: </p>
+<p> » </p>
+<p> Echo Miasta </p>
+<p> » </p>
+<p> Deweloperzy </p>
+<p> Na górę strony </p>
+<p> GR("wstawReklame", "footer"); </p>
+<p> O NaszymMieście </p>
+<p> Marketing </p>
+<p> Reklama </p>
+<p> Kontakt </p>
+<p> Praca </p>
+<p> Prywatność </p>
+<p> Regulamin </p>
+<p> Mapa serwisu </p>
+<p> © 2000-2012 </p>
+<p> Polskapresse Sp. z o.o. </p>
+<p> ® Realizacja serwisu: </p>
+<p> Gratka Technologie Sp. z o.o. </p>
+<p> GR("wstawReklame","toplayer"); </p>
+<p> GR('dodajOnload', function() {         GR('p_linki_zewnetrzne', new RegExp('naszemiasto.pl', 'i'));     });      (function(tr){         tr.push({elements: $('stopka-gora').getElementsByTagName('a'), href: '/stopka/link'});         tr.push({elements: $('stopka-linki').getElementsByTagName('a'), href: '/stopka/link'});     })(oG_OSA.tracking); </p>
+<p> var pp_gemius_identifier ='bQ1L0s_ukMXKcuT0RVDds7QGj3iyXwO82Dp2SD2FT3D.47/sarg=artykul';   GR("GAustawDomyslny", "UA-1032830-1", ".naszemiasto.pl");       GR("GAdodajKodSledzacy", "UA-1032830-8", ".naszemiasto.pl"); </p>
+<p> GR('wywolajReklamy', 1, 'WajrcbEjiE5NjjhWT.F9hszEw4SmgtKB.na2_lQK19n.L7', function() {     if ('function' === typeof adoceangratkaplyhiiqidfui) {         adoceangratkaplyhiiqidfui();     } }); GR('wstawReklame', 'intertext'); </p>
+<p> oG_OSA.onclick_id = 'WDA';  (function(tr) {     // logo     tr.push({elements: [$('logo')], href:'/naglowek/logo'});            // boksy autopromocyjne     tr.push({elements: GR('$$', 'autopromocja'), href: '/male_autopromocyjne/tytul'});      //ecommerce     if ($('ecommerce') != null) {         tr.push({elements: $('ecommerce').getElementsByTagName('a'), href: '/ecommerce/link'});     } })(oG_OSA.tracking); //wywołanie inita dla trackingu GR('pTrackInit', oG_OSA.tracking);  //wymagane dla IE window.onunload = function() {     oG_OSA.tracking.length = 0; } </p>

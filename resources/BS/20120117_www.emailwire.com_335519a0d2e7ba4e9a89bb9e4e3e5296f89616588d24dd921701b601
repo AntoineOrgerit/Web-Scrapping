@@ -1,0 +1,859 @@
+<p> Alaska Center for Dentistry Pampers During Dentistry Procedures </p>
+<p> <!--         .right_dw{             float:right;             width:186px;             height:100%;             border-left:#CCCCCC 1px solid;             margin:45px 0 0 0;             }         .right_dw img{             margin:0 0 0 6px;             }         .thumb img{             border:1px solid #FFCC34;             margin:0 0 5px 6px;             }         .right_dw p{             font-family:Verdana, Arial, Helvetica, sans-serif;             font-size:10px;             text-align:left;             width:150px;             margin:0 0 5px 0;             }         --> </p>
+<p> About Us </p>
+<p> Contact Us </p>
+<p> Help </p>
+<p> function checkfields() {     var err='';     if(document.getElementById('user_top').value=="")         err += "* The username is mandatory\n";     if(document.getElementById('pass_top').value=="")         err += "* The password is mandatory";      if(err != '') {         err =  "Sorry but your sign-in failed:\n\n" + err;         alert(err);         return false;     } } </p>
+<p> user name </p>
+<p> password </p>
+<p> Client login: </p>
+<p> First time user </p>
+<p> sign up </p>
+<p> Forgot your </p>
+<p> login info? </p>
+<p> Website Directory </p>
+<p> Submit Website </p>
+<p> Search </p>
+<p> All categories </p>
+<p> Advertising </p>
+<p> General </p>
+<p> Aerospace </p>
+<p> General </p>
+<p> Agriculture </p>
+<p> General </p>
+<p> Airlines </p>
+<p> General </p>
+<p> America - Post 9/11 </p>
+<p> General </p>
+<p> Apparel </p>
+<p> General </p>
+<p> Apple Products </p>
+<p> Architectural </p>
+<p> General </p>
+<p> Architecture </p>
+<p> Architecture </p>
+<p> Art & Entertainments </p>
+<p> Books </p>
+<p> Celebrities </p>
+<p> Country Music </p>
+<p> Dance </p>
+<p> Magazines </p>
+<p> Movies </p>
+<p> Museums </p>
+<p> Music </p>
+<p> Music Downloads </p>
+<p> News & Talk Shows </p>
+<p> Performing Arts </p>
+<p> Photography </p>
+<p> Television </p>
+<p> Web Sites </p>
+<p> Arts/Culture </p>
+<p> General </p>
+<p> Auction </p>
+<p> General </p>
+<p> Automotive </p>
+<p> Aftermarket </p>
+<p> Classic Autos </p>
+<p> Consumer Publications </p>
+<p> General </p>
+<p> Motorcycle & Bike </p>
+<p> Racing </p>
+<p> Recreational Vehicle </p>
+<p> Repair & Service </p>
+<p> Trade Publications </p>
+<p> Blogging & Social Media </p>
+<p> Blogging & Social Media </p>
+<p> Business </p>
+<p> Advertising / Marketing </p>
+<p> Books </p>
+<p> Consumer Research </p>
+<p> Direct Marketing </p>
+<p> e-Commerce </p>
+<p> Entrepreneurs </p>
+<p> Finance </p>
+<p> Franchise </p>
+<p> Human Resources </p>
+<p> Insurance </p>
+<p> Investment </p>
+<p> Management </p>
+<p> Markets </p>
+<p> Network Marketing </p>
+<p> Online Marketing / SEO </p>
+<p> Payday Loans </p>
+<p> Public Relations </p>
+<p> Publications </p>
+<p> Real Estate </p>
+<p> Retail </p>
+<p> Stocks </p>
+<p> Supermarkets </p>
+<p> Women in Business </p>
+<p> Careers/HR </p>
+<p> General </p>
+<p> Chemical </p>
+<p> General </p>
+<p> Coaching / Mentoring </p>
+<p> Coaching / Mentoring </p>
+<p> Computers </p>
+<p> Apple Products </p>
+<p> Databases </p>
+<p> Games & Entertainment </p>
+<p> General </p>
+<p> Hosting </p>
+<p> Instruction </p>
+<p> Linux / GNU "Open Source" </p>
+<p> Macintosh </p>
+<p> Microsoft Windows PC </p>
+<p> Operating Systems </p>
+<p> Programming </p>
+<p> Security </p>
+<p> Software </p>
+<p> Tablet PCs </p>
+<p> Utilities </p>
+<p> Construction </p>
+<p> General </p>
+<p> Consumer </p>
+<p> Gifts and Collectibles </p>
+<p> Hobbies </p>
+<p> Web sites / Internet </p>
+<p> Design </p>
+<p> Graphic Design </p>
+<p> Industrial </p>
+<p> Web </p>
+<p> eCommerce </p>
+<p> General </p>
+<p> Economy </p>
+<p> General </p>
+<p> Education </p>
+<p> College / University </p>
+<p> General </p>
+<p> Home Schooling </p>
+<p> K-12 </p>
+<p> Post Graduate </p>
+<p> Technical </p>
+<p> Electronics </p>
+<p> General </p>
+<p> Email Marketing </p>
+<p> General </p>
+<p> EmailWire Press Releases </p>
+<p> Press Release Tips </p>
+<p> Employment/Careers </p>
+<p> General </p>
+<p> Engineering </p>
+<p> General </p>
+<p> Entertainment </p>
+<p> General </p>
+<p> Environment </p>
+<p> General </p>
+<p> Events / Trade Shows </p>
+<p> General </p>
+<p> Finance </p>
+<p> General </p>
+<p> Food </p>
+<p> General </p>
+<p> Franchise </p>
+<p> General </p>
+<p> Fraud / Identity Theft </p>
+<p> General </p>
+<p> Gaming </p>
+<p> General </p>
+<p> Government </p>
+<p> General </p>
+<p> Judicial </p>
+<p> Law Enforcement </p>
+<p> Legislative </p>
+<p> Local </p>
+<p> National </p>
+<p> Public Services </p>
+<p> Security </p>
+<p> State </p>
+<p> Transportation </p>
+<p> Healthcare </p>
+<p> General </p>
+<p> Home and Family </p>
+<p> Banking / Personal Finance </p>
+<p> Bereavement / Loss </p>
+<p> Home Furnishings / Interiors </p>
+<p> Landscaping & Gardening </p>
+<p> Marriage / Relationships </p>
+<p> Money </p>
+<p> Parenting </p>
+<p> Payday Loans </p>
+<p> Pets </p>
+<p> Taxes </p>
+<p> Wedding / Bridal </p>
+<p> Home Schooling </p>
+<p> General </p>
+<p> Hotels/Resorts </p>
+<p> General </p>
+<p> Household </p>
+<p> General </p>
+<p> Industry </p>
+<p> Aerospace / Defense </p>
+<p> Agriculture </p>
+<p> Apparel / Textiles </p>
+<p> Broadcast </p>
+<p> Construction / Building </p>
+<p> Electrical </p>
+<p> Food </p>
+<p> Funeral </p>
+<p> Healthcare </p>
+<p> Leisure / Hospitality </p>
+<p> Logistics / Shipping </p>
+<p> Manufacturing / Production </p>
+<p> Mining / Metals </p>
+<p> Oil / Energy </p>
+<p> Paper / Forest Products </p>
+<p> Plumbing, Heating & AC </p>
+<p> Print Media </p>
+<p> Printing </p>
+<p> Publishing </p>
+<p> Radio </p>
+<p> Restaurants </p>
+<p> Tobacco </p>
+<p> Toy </p>
+<p> Insurance </p>
+<p> General </p>
+<p> Internet/Online </p>
+<p> General </p>
+<p> Legal </p>
+<p> General </p>
+<p> Leisure </p>
+<p> General </p>
+<p> Lifestyle </p>
+<p> Beauty </p>
+<p> Dating / Singles </p>
+<p> Diet / Weight Loss </p>
+<p> Fashion </p>
+<p> Food / Beverage </p>
+<p> Health & Fitness </p>
+<p> Hotel / Resorts </p>
+<p> Pastimes </p>
+<p> Restaurants </p>
+<p> Retirement </p>
+<p> Travel & Tourism </p>
+<p> Machinery </p>
+<p> General </p>
+<p> Maritime </p>
+<p> General </p>
+<p> Medical </p>
+<p> Addiction </p>
+<p> Allergies </p>
+<p> Alternative Medicine </p>
+<p> Asthma </p>
+<p> Cancer </p>
+<p> Cardiology </p>
+<p> Chiropractic </p>
+<p> Dental </p>
+<p> Dermatology </p>
+<p> Diabetes </p>
+<p> Emergency </p>
+<p> Family Medicine </p>
+<p> General </p>
+<p> General </p>
+<p> Geriatrics </p>
+<p> Hospitals </p>
+<p> Infectious Diseases </p>
+<p> Internal Medicine </p>
+<p> Managed Care / HMO </p>
+<p> Medical Products </p>
+<p> Mental Health </p>
+<p> Neurology </p>
+<p> Nursing </p>
+<p> Nutrition </p>
+<p> OB / GYN </p>
+<p> Pediatrics </p>
+<p> Pharmaceuticals </p>
+<p> Physical Therapy </p>
+<p> Plastic Surgery </p>
+<p> Psychology </p>
+<p> Radiology / Imaging </p>
+<p> Research </p>
+<p> Sports Medicine </p>
+<p> Surgery </p>
+<p> Vision </p>
+<p> Military </p>
+<p> General </p>
+<p> Mining/Metals </p>
+<p> General </p>
+<p> Miscellaneous </p>
+<p> General </p>
+<p> Nanotechnology </p>
+<p> Nanotechnology </p>
+<p> Non-profit </p>
+<p> General </p>
+<p> Occupational Safety </p>
+<p> Occupational Safety </p>
+<p> Oil/Energy </p>
+<p> General </p>
+<p> Opinion / Editorial </p>
+<p> Opinion / Editorial </p>
+<p> Paper Products </p>
+<p> General </p>
+<p> Paper/Forest </p>
+<p> General </p>
+<p> Pharmaceuticals </p>
+<p> General </p>
+<p> Podcasting </p>
+<p> Announce </p>
+<p> Tools and Services </p>
+<p> Politics </p>
+<p> Politics </p>
+<p> Print Media </p>
+<p> General </p>
+<p> Public Utilities </p>
+<p> Public Utilities </p>
+<p> Publishing </p>
+<p> General </p>
+<p> Radio </p>
+<p> General </p>
+<p> Real Estate </p>
+<p> General </p>
+<p> Religion </p>
+<p> Christian </p>
+<p> General </p>
+<p> Islam </p>
+<p> Jewish </p>
+<p> Other </p>
+<p> Restaurants </p>
+<p> General </p>
+<p> Retail </p>
+<p> General </p>
+<p> RSS & Content Syndication </p>
+<p> RSS & Content Syndication </p>
+<p> Science and Research </p>
+<p> Science and Research </p>
+<p> Self-Help / Personal Growth </p>
+<p> Self-Help / Personal Growth </p>
+<p> Shipbuilding </p>
+<p> General </p>
+<p> Society </p>
+<p> African American Interests </p>
+<p> Asian Interests </p>
+<p> Childrens Issues </p>
+<p> Disabled Issues / Disabilities </p>
+<p> Gay / Lesbian </p>
+<p> Hispanic </p>
+<p> Mens Interests </p>
+<p> Native American </p>
+<p> Senior Citizens </p>
+<p> Social Services </p>
+<p> Teen Issues/Interests </p>
+<p> Womens Interest </p>
+<p> Software </p>
+<p> General </p>
+<p> Sports </p>
+<p> Baseball </p>
+<p> Basketball </p>
+<p> Bicycling </p>
+<p> Boating / Maritime </p>
+<p> Bowling </p>
+<p> Boxing </p>
+<p> Fishing </p>
+<p> Football </p>
+<p> Golf </p>
+<p> Hockey </p>
+<p> Hunting </p>
+<p> Martial Arts </p>
+<p> Outdoors </p>
+<p> Rugby </p>
+<p> Soccer </p>
+<p> Tennis </p>
+<p> Water </p>
+<p> Winter/Snow </p>
+<p> Sports/Fitness </p>
+<p> General </p>
+<p> Stocks </p>
+<p> General </p>
+<p> Supermarkets </p>
+<p> General </p>
+<p> Technology </p>
+<p> Biotechnology </p>
+<p> Computer </p>
+<p> Electronics </p>
+<p> Enterprise Software </p>
+<p> Games </p>
+<p> Graphics/Printing/CAD </p>
+<p> Hardware / Peripherals </p>
+<p> Industrial </p>
+<p> Information </p>
+<p> Internet </p>
+<p> Multimedia </p>
+<p> Networking </p>
+<p> Public Sector/Government </p>
+<p> Robotics </p>
+<p> Semiconductor </p>
+<p> Software </p>
+<p> Telecommunications </p>
+<p> Webmasters </p>
+<p> Telecom </p>
+<p> General </p>
+<p> Television </p>
+<p> General </p>
+<p> Tobacco </p>
+<p> General </p>
+<p> Trade </p>
+<p> General </p>
+<p> Transportation </p>
+<p> General </p>
+<p> Travel </p>
+<p> General </p>
+<p> Utilities </p>
+<p> General </p>
+<p> Volunteer </p>
+<p> Volunteer </p>
+<p> Weather </p>
+<p> Weather </p>
+<p> Home </p>
+<p> > </p>
+<p> News By Company </p>
+<p> > </p>
+<p> Alaska Center for Dentistry </p>
+<p> Tweet </p>
+<p> (function() { 													var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true; 													po.src = 'https://apis.google.com/js/plusone.js'; 													var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s); 												  })(); </p>
+<p> Alaska Center for Dentistry Pampers During Dentistry Procedures </p>
+<p> A smile even in the dentists chair. </p>
+<p> Alaska Center for Dentistry </p>
+<p> Have a nice looking and whiter teeth at Alaska Center for Dentistry </p>
+<p> ( </p>
+<p> EMAILWIRE.COM </p>
+<p> , January 16, 2012 )  Anchorage, AK -- Alaska Centre for Dentistry is a </p>
+<p> general dentist in Anchorage </p>
+<p> that provides dental treatment among other wide range services. They include dental prosthetics, tooth sealants, root canals, tooth implants, child dental, cosmetic dentistry. The centre has continued to provide its clients with personable, affordable and comfortable dental experience over the years. </p>
+<p> Appointments have come to be something of pleasure to the clients since they are provided with entertainment and refreshments in their visits. </p>
+<p> The kids are kept busy with toys and movies while the adults are provided with headphones with soothing music. Call this a little bit too much pampering. </p>
+<p> The highly qualified </p>
+<p> anchorage dentists </p>
+<p> at the centre offer high quality treatment to all kinds of dental matters. The dentists make sure that all patients gets a smile that they so desire. At Alaska dental centre, they believe that any patient should be satisfied by their dentals. </p>
+<p> That is why the centre has gone out of its way to bring extra comfort to its customers by rewarding them for every new patient they bring. They give a slash of the dental care income to both the client and the new patient. They also give out free, take home, whitening kits to their clients. </p>
+<p> One of their most unique procedures is Cosmetic Dentistry where they do teeth whitening, teeth bonding, bone and tissue regeneration as well as enamel shaping, full mouth restoration and dental implants. These treatments helps even restore the worst dental structures to the level that that the patients would want. </p>
+<p> When one comes to the centre they might mistake it for a childrens recreation corner. This is because there are playing toys and movie rooms for children as they wait for their parents to get treated. That is if its not them that are getting treated. </p>
+<p> About </p>
+<p> Alaska Center for Dentistry </p>
+<p> : </p>
+<p> Alaska Center for Dentistry, are committed to providing their customers with comfortable, personable and affordable dental experiences. Their dedicated staffs are there to bring their customers the finest quality in dental care in a warm and trusting environment. It is their mission to provide their patients with the highest quality comprehensive dental treatment available. They use the latest technologies to offer their patients state of the art dental care. </p>
+<p> Contact Information: </p>
+<p> Alaska Center for Dentistry </p>
+<p> Isak Hines </p>
+<p> Tel: (907) - 562 - 2515 </p>
+<p> Email us </p>
+<p> This is a press release. </p>
+<p> Press release distribution </p>
+<p> and press release services by EmailWire.Com: </p>
+<p> http://www.emailwire.com/us-press-release-distribution.php. </p>
+<p> addthis_url = location.href; addthis_title = document.title; addthis_pub = 'groupweb'; </p>
+<p> Private Equity, Angel Investing </p>
+<p> Equity Alliance / Private Equity, Angel Investing, / IPO, Venture Capital & IR services / Equity Alliance International </p>
+<p> Equityallianceir.com </p>
+<p> Penny Stocks to Watch </p>
+<p> Sign up for hot penny stock picks </p>
+<p> Gains of 500%+ possible! </p>
+<p> Premiumstockpicks.com/landing/ </p>
+<p> Your text Ads &   PR </p>
+<p> Text Ads plus unlimited press releases, One release featured/Day for only $575 per month. </p>
+<p> Read more on Text Ads & PR </p>
+<p> Your text Ads Here! </p>
+<p> Text Ads are only $289 per month. Ads are placed same day. </p>
+<p> More   on Text Ads Advertising </p>
+<p> <!-- google_ad_client = "pub-8067340778164251"; /* 120x600, created 10/15/08 */ google_ad_slot = "2707498254"; google_ad_width = 120; google_ad_height = 600; //--> </p>
+<p> <!-- google_ad_client = "ca-pub-8067340778164251"; /* EmailWire-footer */ google_ad_slot = "8265303923"; google_ad_width = 728; google_ad_height = 90; //--> </p>
+<p> Search </p>
+<p> All categories </p>
+<p> Advertising </p>
+<p> General </p>
+<p> Aerospace </p>
+<p> General </p>
+<p> Agriculture </p>
+<p> General </p>
+<p> Airlines </p>
+<p> General </p>
+<p> America - Post 9/11 </p>
+<p> General </p>
+<p> Apparel </p>
+<p> General </p>
+<p> Apple Products </p>
+<p> Architectural </p>
+<p> General </p>
+<p> Architecture </p>
+<p> Architecture </p>
+<p> Art & Entertainments </p>
+<p> Books </p>
+<p> Celebrities </p>
+<p> Country Music </p>
+<p> Dance </p>
+<p> Magazines </p>
+<p> Movies </p>
+<p> Museums </p>
+<p> Music </p>
+<p> Music Downloads </p>
+<p> News & Talk Shows </p>
+<p> Performing Arts </p>
+<p> Photography </p>
+<p> Television </p>
+<p> Web Sites </p>
+<p> Arts/Culture </p>
+<p> General </p>
+<p> Auction </p>
+<p> General </p>
+<p> Automotive </p>
+<p> Aftermarket </p>
+<p> Classic Autos </p>
+<p> Consumer Publications </p>
+<p> General </p>
+<p> Motorcycle & Bike </p>
+<p> Racing </p>
+<p> Recreational Vehicle </p>
+<p> Repair & Service </p>
+<p> Trade Publications </p>
+<p> Blogging & Social Media </p>
+<p> Blogging & Social Media </p>
+<p> Business </p>
+<p> Advertising / Marketing </p>
+<p> Books </p>
+<p> Consumer Research </p>
+<p> Direct Marketing </p>
+<p> e-Commerce </p>
+<p> Entrepreneurs </p>
+<p> Finance </p>
+<p> Franchise </p>
+<p> Human Resources </p>
+<p> Insurance </p>
+<p> Investment </p>
+<p> Management </p>
+<p> Markets </p>
+<p> Network Marketing </p>
+<p> Online Marketing / SEO </p>
+<p> Payday Loans </p>
+<p> Public Relations </p>
+<p> Publications </p>
+<p> Real Estate </p>
+<p> Retail </p>
+<p> Stocks </p>
+<p> Supermarkets </p>
+<p> Women in Business </p>
+<p> Careers/HR </p>
+<p> General </p>
+<p> Chemical </p>
+<p> General </p>
+<p> Coaching / Mentoring </p>
+<p> Coaching / Mentoring </p>
+<p> Computers </p>
+<p> Apple Products </p>
+<p> Databases </p>
+<p> Games & Entertainment </p>
+<p> General </p>
+<p> Hosting </p>
+<p> Instruction </p>
+<p> Linux / GNU "Open Source" </p>
+<p> Macintosh </p>
+<p> Microsoft Windows PC </p>
+<p> Operating Systems </p>
+<p> Programming </p>
+<p> Security </p>
+<p> Software </p>
+<p> Tablet PCs </p>
+<p> Utilities </p>
+<p> Construction </p>
+<p> General </p>
+<p> Consumer </p>
+<p> Gifts and Collectibles </p>
+<p> Hobbies </p>
+<p> Web sites / Internet </p>
+<p> Design </p>
+<p> Graphic Design </p>
+<p> Industrial </p>
+<p> Web </p>
+<p> eCommerce </p>
+<p> General </p>
+<p> Economy </p>
+<p> General </p>
+<p> Education </p>
+<p> College / University </p>
+<p> General </p>
+<p> Home Schooling </p>
+<p> K-12 </p>
+<p> Post Graduate </p>
+<p> Technical </p>
+<p> Electronics </p>
+<p> General </p>
+<p> Email Marketing </p>
+<p> General </p>
+<p> EmailWire Press Releases </p>
+<p> Press Release Tips </p>
+<p> Employment/Careers </p>
+<p> General </p>
+<p> Engineering </p>
+<p> General </p>
+<p> Entertainment </p>
+<p> General </p>
+<p> Environment </p>
+<p> General </p>
+<p> Events / Trade Shows </p>
+<p> General </p>
+<p> Finance </p>
+<p> General </p>
+<p> Food </p>
+<p> General </p>
+<p> Franchise </p>
+<p> General </p>
+<p> Fraud / Identity Theft </p>
+<p> General </p>
+<p> Gaming </p>
+<p> General </p>
+<p> Government </p>
+<p> General </p>
+<p> Judicial </p>
+<p> Law Enforcement </p>
+<p> Legislative </p>
+<p> Local </p>
+<p> National </p>
+<p> Public Services </p>
+<p> Security </p>
+<p> State </p>
+<p> Transportation </p>
+<p> Healthcare </p>
+<p> General </p>
+<p> Home and Family </p>
+<p> Banking / Personal Finance </p>
+<p> Bereavement / Loss </p>
+<p> Home Furnishings / Interiors </p>
+<p> Landscaping & Gardening </p>
+<p> Marriage / Relationships </p>
+<p> Money </p>
+<p> Parenting </p>
+<p> Payday Loans </p>
+<p> Pets </p>
+<p> Taxes </p>
+<p> Wedding / Bridal </p>
+<p> Home Schooling </p>
+<p> General </p>
+<p> Hotels/Resorts </p>
+<p> General </p>
+<p> Household </p>
+<p> General </p>
+<p> Industry </p>
+<p> Aerospace / Defense </p>
+<p> Agriculture </p>
+<p> Apparel / Textiles </p>
+<p> Broadcast </p>
+<p> Construction / Building </p>
+<p> Electrical </p>
+<p> Food </p>
+<p> Funeral </p>
+<p> Healthcare </p>
+<p> Leisure / Hospitality </p>
+<p> Logistics / Shipping </p>
+<p> Manufacturing / Production </p>
+<p> Mining / Metals </p>
+<p> Oil / Energy </p>
+<p> Paper / Forest Products </p>
+<p> Plumbing, Heating & AC </p>
+<p> Print Media </p>
+<p> Printing </p>
+<p> Publishing </p>
+<p> Radio </p>
+<p> Restaurants </p>
+<p> Tobacco </p>
+<p> Toy </p>
+<p> Insurance </p>
+<p> General </p>
+<p> Internet/Online </p>
+<p> General </p>
+<p> Legal </p>
+<p> General </p>
+<p> Leisure </p>
+<p> General </p>
+<p> Lifestyle </p>
+<p> Beauty </p>
+<p> Dating / Singles </p>
+<p> Diet / Weight Loss </p>
+<p> Fashion </p>
+<p> Food / Beverage </p>
+<p> Health & Fitness </p>
+<p> Hotel / Resorts </p>
+<p> Pastimes </p>
+<p> Restaurants </p>
+<p> Retirement </p>
+<p> Travel & Tourism </p>
+<p> Machinery </p>
+<p> General </p>
+<p> Maritime </p>
+<p> General </p>
+<p> Medical </p>
+<p> Addiction </p>
+<p> Allergies </p>
+<p> Alternative Medicine </p>
+<p> Asthma </p>
+<p> Cancer </p>
+<p> Cardiology </p>
+<p> Chiropractic </p>
+<p> Dental </p>
+<p> Dermatology </p>
+<p> Diabetes </p>
+<p> Emergency </p>
+<p> Family Medicine </p>
+<p> General </p>
+<p> General </p>
+<p> Geriatrics </p>
+<p> Hospitals </p>
+<p> Infectious Diseases </p>
+<p> Internal Medicine </p>
+<p> Managed Care / HMO </p>
+<p> Medical Products </p>
+<p> Mental Health </p>
+<p> Neurology </p>
+<p> Nursing </p>
+<p> Nutrition </p>
+<p> OB / GYN </p>
+<p> Pediatrics </p>
+<p> Pharmaceuticals </p>
+<p> Physical Therapy </p>
+<p> Plastic Surgery </p>
+<p> Psychology </p>
+<p> Radiology / Imaging </p>
+<p> Research </p>
+<p> Sports Medicine </p>
+<p> Surgery </p>
+<p> Vision </p>
+<p> Military </p>
+<p> General </p>
+<p> Mining/Metals </p>
+<p> General </p>
+<p> Miscellaneous </p>
+<p> General </p>
+<p> Nanotechnology </p>
+<p> Nanotechnology </p>
+<p> Non-profit </p>
+<p> General </p>
+<p> Occupational Safety </p>
+<p> Occupational Safety </p>
+<p> Oil/Energy </p>
+<p> General </p>
+<p> Opinion / Editorial </p>
+<p> Opinion / Editorial </p>
+<p> Paper Products </p>
+<p> General </p>
+<p> Paper/Forest </p>
+<p> General </p>
+<p> Pharmaceuticals </p>
+<p> General </p>
+<p> Podcasting </p>
+<p> Announce </p>
+<p> Tools and Services </p>
+<p> Politics </p>
+<p> Politics </p>
+<p> Print Media </p>
+<p> General </p>
+<p> Public Utilities </p>
+<p> Public Utilities </p>
+<p> Publishing </p>
+<p> General </p>
+<p> Radio </p>
+<p> General </p>
+<p> Real Estate </p>
+<p> General </p>
+<p> Religion </p>
+<p> Christian </p>
+<p> General </p>
+<p> Islam </p>
+<p> Jewish </p>
+<p> Other </p>
+<p> Restaurants </p>
+<p> General </p>
+<p> Retail </p>
+<p> General </p>
+<p> RSS & Content Syndication </p>
+<p> RSS & Content Syndication </p>
+<p> Science and Research </p>
+<p> Science and Research </p>
+<p> Self-Help / Personal Growth </p>
+<p> Self-Help / Personal Growth </p>
+<p> Shipbuilding </p>
+<p> General </p>
+<p> Society </p>
+<p> African American Interests </p>
+<p> Asian Interests </p>
+<p> Childrens Issues </p>
+<p> Disabled Issues / Disabilities </p>
+<p> Gay / Lesbian </p>
+<p> Hispanic </p>
+<p> Mens Interests </p>
+<p> Native American </p>
+<p> Senior Citizens </p>
+<p> Social Services </p>
+<p> Teen Issues/Interests </p>
+<p> Womens Interest </p>
+<p> Software </p>
+<p> General </p>
+<p> Sports </p>
+<p> Baseball </p>
+<p> Basketball </p>
+<p> Bicycling </p>
+<p> Boating / Maritime </p>
+<p> Bowling </p>
+<p> Boxing </p>
+<p> Fishing </p>
+<p> Football </p>
+<p> Golf </p>
+<p> Hockey </p>
+<p> Hunting </p>
+<p> Martial Arts </p>
+<p> Outdoors </p>
+<p> Rugby </p>
+<p> Soccer </p>
+<p> Tennis </p>
+<p> Water </p>
+<p> Winter/Snow </p>
+<p> Sports/Fitness </p>
+<p> General </p>
+<p> Stocks </p>
+<p> General </p>
+<p> Supermarkets </p>
+<p> General </p>
+<p> Technology </p>
+<p> Biotechnology </p>
+<p> Computer </p>
+<p> Electronics </p>
+<p> Enterprise Software </p>
+<p> Games </p>
+<p> Graphics/Printing/CAD </p>
+<p> Hardware / Peripherals </p>
+<p> Industrial </p>
+<p> Information </p>
+<p> Internet </p>
+<p> Multimedia </p>
+<p> Networking </p>
+<p> Public Sector/Government </p>
+<p> Robotics </p>
+<p> Semiconductor </p>
+<p> Software </p>
+<p> Telecommunications </p>
+<p> Webmasters </p>
+<p> Telecom </p>
+<p> General </p>
+<p> Television </p>
+<p> General </p>
+<p> Tobacco </p>
+<p> General </p>
+<p> Trade </p>
+<p> General </p>
+<p> Transportation </p>
+<p> General </p>
+<p> Travel </p>
+<p> General </p>
+<p> Utilities </p>
+<p> General </p>
+<p> Volunteer </p>
+<p> Volunteer </p>
+<p> Weather </p>
+<p> Weather </p>
+<p> Advertising </p>
+<p> | </p>
+<p> How to contact us </p>
+<p> | </p>
+<p> Privacy Statement </p>
+<p> | </p>
+<p> EmailWire Press Releases </p>
+<p> | </p>
+<p> Partnership Opportunities </p>
+<p> EmailWire is a press release distribution service of GroupWeb Media LLC. </p>
+<p> © Copyright GroupWeb Media LLC 2012 </p>

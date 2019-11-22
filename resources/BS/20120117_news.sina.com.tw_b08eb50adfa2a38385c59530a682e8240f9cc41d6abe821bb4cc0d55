@@ -1,0 +1,182 @@
+<p> 龍年春節闔家遊 15條國家步道走春-旅遊新聞-新浪新聞中心 </p>
+<p> | </p>
+<p> 登入微博 </p>
+<p> | </p>
+<p> 客戶服務 </p>
+<p> | </p>
+<p> 新浪網 </p>
+<p> 搜尋／ </p>
+<p> $(document).ready(function(){ 		$("#form_kw").submit(function(){ 			$.ajax({ 			  type: "POST", 			  url: "/keyword.php", 			  dataType: "json", 			  data: "keyword=" + encodeURI($("#form_kw #kw").val()), 			  success: function(data){ 			  	return true; 			  } 			}); 		}); 	}); </p>
+<p> 新聞中心 </p>
+<p> 影音 </p>
+<p> 即時 </p>
+<p> 專題 </p>
+<p> 圖片 </p>
+<p> 政治 </p>
+<p> 社會 </p>
+<p> 娛樂 </p>
+<p> 兩岸 </p>
+<p> 國際 </p>
+<p> 生活 </p>
+<p> 旅遊 </p>
+<p> 體育 </p>
+<p> 財經 </p>
+<p> 文教 </p>
+<p> 科技 </p>
+<p> 產業 </p>
+<p> 新奇 </p>
+<p> 雜誌 </p>
+<p> 閱讀 </p>
+<p> $.getJSON("/include/rtBar.php",function(a){$("#rtBar_a").text(a.text).attr( { title:a.title , href:a.link });$("#rtBar_time").text(a.time)}); </p>
+<p> 旅遊新聞 </p>
+<p> > </p>
+<p> 台灣醒報 </p>
+<p> 龍年春節闔家遊 15條國家步道走春 </p>
+<p> 台灣醒報 (2012-01-17 17:59) </p>
+<p> 分享| </p>
+<p> 【台灣醒報記者李宛儒台北報導】山區野溪匯流而下，雪山聖稜線上的白雪，徜徉在先民古道之上，如此美景讓人想要一探究竟。今年春節假期，林務局特別列出全台15條國家級森林步道，提供民眾「走春」好選擇。林務局推廣科科長夏榮生說，這些困難度較低的步道，非常適合全家大小出遊。 </p>
+<p> 林務局推動全國步道系統屆滿10年，依照步道困難度分成5個等級，因應龍年春節假期長，特別從全台百條步道中精選出15條難度較低的登山步道，遍布台灣各地。 </p>
+<p> 這15條步道分別有，北台灣的宜蘭九寮溪自然步道、台北烏來桶后越嶺步道、桃園東滿步道、新竹五指山登山步道、苗栗馬那邦山登山步道；中台灣的台中斯可巴步道、彰化清水岩之中央嶺森林步道、南投奧萬大國家森林遊樂區步道群。 </p>
+<p> 南部地區包含雲林龍過脈森林步道、嘉義獨立山步道、台南崁頭山步道、高雄六義山、屏東虎寮山，東部則有台東關山紅石步道和花蓮鯉魚山。 </p>
+<p> 林務局森林育樂組組長謝尚達表示，國人在春節期間習慣在家中打牌，他建議民眾可以規畫一到兩天的出外踏青活動，讓全家大小一起走入山林，有助於抒解工作壓力。 </p>
+<p> 夏榮生則提醒民眾出外踏青，務必發揮愛護山林行動，不干擾自然生態，不隨意採摘植物，她也特別強調，「避免攜帶家中寵物進入山林，防止引入外來種病菌。」 </p>
+<p> 謝尚達也提醒，部分步道有遊客總量管制，民眾可在行車途中收聽廣播路上訊息，或者配合當地警察交通疏導，避免因遊客過多敗興而歸。相關資訊可上林務局山林悠遊導覽網站：http://recreation.forest.gov.tw/ </p>
+<p> jQuery( function(){ 			$('#slider1').bxSlider({ 				infiniteLoop : false , 				displaySlideQty: 4, 				moveSlideQty: 2 			}); 		} ); </p>
+<p> document.write('<iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="637" height="122" src="http://zh.adsbro.com/sina/iframe/?size=637_122&channel=ifra_news&ref='+encodeURIComponent(document.location)+'&loc='+encodeURIComponent(document.referrer)+'"></i'+'frame>'); </p>
+<p> 其他旅遊新聞 </p>
+<p> 更多旅遊新聞 </p>
+<p> 海邊歡度新春 感受別樣喜慶 </p>
+<p> 【北京新浪網】2012-01-17 18:40 </p>
+<p> 煙花匯演喜迎龍年 盡享精美新年禮遇 </p>
+<p> 【北京新浪網】2012-01-17 18:25 </p>
+<p> 新春佳節文華送冬日喜悅(組圖) </p>
+<p> 【北京新浪網】2012-01-17 18:25 </p>
+<p> 塞班島餐飲推荐 </p>
+<p> 【北京新浪網】2012-01-17 18:11 </p>
+<p> 塞班島購物地點推荐 </p>
+<p> 【北京新浪網】2012-01-17 18:11 </p>
+<p> 發燒雜誌 </p>
+<p> 更多 </p>
+<p> Cheers 快樂工作人 </p>
+<p> 社會新鮮人，投資策略保守至上 </p>
+<p> 《Cheers》雜誌於本期開始，推出「理財健診室」，邀請知名理財部落客「口...《 </p>
+<p> 詳全文 </p>
+<p> 》 </p>
+<p> 地理系：空間資訊應用　有明星產業架勢 </p>
+<p> 我非固著之我：《姊妹》 </p>
+<p> 疫苗防癌將成真 </p>
+<p> 強打好書 </p>
+<p> 更多 </p>
+<p> 麻美姐姐教你 手放 </p>
+<p> 作者：麻美由真 </p>
+<p> 身經百戰的她，絕對有資格告訴經驗值也不如她的你我，到底什麼才是女孩喜歡、想要的性愛。──知名人氣部落客 雨狗少了麻美，AV史就得改寫！在AV界千錘百鍊...《 </p>
+<p> 詳全文 </p>
+<p> 》 </p>
+<p> 編輯首推 </p>
+<p> 瓦辛 </p>
+<p> 在礁溪，遇見京野菜的美好 </p>
+<p> 魔女克洛蒂 </p>
+<p> 我一步步遠離了喧嘩世界，悄悄跌進 </p>
+<p> 決戰2012 </p>
+<p> 全民投家換你作 投票送好禮 </p>
+<p> 布三布四玩生活 </p>
+<p> 用你的小衣物，做你內心的小動物 </p>
+<p> document.write('<iframe width="100%" height="489" frameborder="0" scrolling="no" src="http://widget.weibo.com/relationship/bulkfollow.php?uids=1803608792,1986544897,2150766094,1918327921,2028990475&wide=1&color=C2D9F2,FFFFFF,0082CB,666666&showtitle=1&showinfo=1&sense=0&verified=1&count=5&refer=&dpc=1"></iframe>') </p>
+<p> 全球最恐怖景點之一！挪威懸空巨石　挑戰你的膽大指數 </p>
+<p> 【NOWnews今日新聞】 </p>
+<p> 再槓！威力彩周四拚9億 </p>
+<p> 【欣傳媒】 </p>
+<p> 春節旅遊系列報導（二） </p>
+<p> 【景點家 Tripass】 </p>
+<p> 名將名酒 </p>
+<p> 【欣傳媒】 </p>
+<p> 更多 </p>
+<p> 2011台北國際旅展折扣殺很大 </p>
+<p> 一年一度的2011台北國際旅展( Taipei 《 </p>
+<p> 詳全文 </p>
+<p> 》 </p>
+<p> 更多 </p>
+<p> 人類極限林義傑回來了！擁抱絲路一萬公里長征 </p>
+<p> 饕客必吃 秋季限定美食特搜 </p>
+<p> 台灣： </p>
+<p> ‧中央社 </p>
+<p> ‧中廣新聞網 </p>
+<p> ‧中央廣播電台 </p>
+<p> ‧NOWnews今日新聞 </p>
+<p> ‧教育廣播電台 </p>
+<p> ‧民視 </p>
+<p> ‧公視 </p>
+<p> ‧富比世 </p>
+<p> ‧美通社(亞洲) </p>
+<p> ‧優活健康資訊網 </p>
+<p> ‧大台灣旅遊網 </p>
+<p> ‧旅遊經 </p>
+<p> ‧網路地產王 </p>
+<p> ‧台灣醒報 </p>
+<p> ‧財訊快報 </p>
+<p> ‧24Drs.com </p>
+<p> ‧ACN </p>
+<p> ‧Hit Fm聯播網 </p>
+<p> ‧客家電視台 </p>
+<p> ‧LOOK生活網 </p>
+<p> ‧波仕特線上市調網 </p>
+<p> ‧Market Watch </p>
+<p> ‧鉅亨網 </p>
+<p> ‧台灣立報 </p>
+<p> ‧景點家 Tripass </p>
+<p> ‧欣傳媒 </p>
+<p> ‧Yes娛樂 </p>
+<p> ‧CROWNinc潮流媒體 </p>
+<p> ‧台灣競爭力論壇 </p>
+<p> ‧台灣新聞報 </p>
+<p> ‧生活童話 </p>
+<p> ‧中央日報 </p>
+<p> ‧新頭殼 </p>
+<p> ‧太陽網 </p>
+<p> 中國大陸： </p>
+<p> ‧北京新浪網 </p>
+<p> ‧上海世博 </p>
+<p> ‧南非世足 </p>
+<p> ‧新聞資料庫 </p>
+<p> 雜誌類 </p>
+<p> 閱讀類 </p>
+<p> 歷史新聞 </p>
+<p> 加州自駕游：沿途美景全記錄 一路隨心伴妳行 </p>
+<p> 2011-10-28 </p>
+<p> 加州自駕游：沿途美景全記錄 一路隨心伴妳行(2) </p>
+<p> 2011-10-28 </p>
+<p> 西藏拉薩河：世界高原第一大河之神奇靈魂 </p>
+<p> 2011-10-28 </p>
+<p> 加州蜜月游：帶著甜蜜上路 讓這一刻成為永恆 </p>
+<p> 2011-10-28 </p>
+<p> 加州內華達：藏匿沁人心脾的深色秋景(組圖) </p>
+<p> 2011-10-28 </p>
+<p> 更多 </p>
+<p> 北美新浪網 </p>
+<p> | </p>
+<p> 北京新浪網 </p>
+<p> | </p>
+<p> 香港新浪網 </p>
+<p> | </p>
+<p> SINA.com </p>
+<p> | </p>
+<p> SINA English </p>
+<p> 意見信箱 </p>
+<p> | </p>
+<p> 關於新浪 </p>
+<p> | </p>
+<p> 新浪新聞室 </p>
+<p> | </p>
+<p> 隱私權政策 </p>
+<p> | </p>
+<p> 聲明啟事 </p>
+<p> | </p>
+<p> 刊登廣告 </p>
+<p> Copyright © 1996- </p>
+<p> var now=new Date();document.write(now.getFullYear()); </p>
+<p> SINA.com All Rights Reserved </p>
+<p> var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); </p>
+<p> // By news.sina.com.tw try { var pageTracker = _gat._getTracker("UA-4068118-1"); pageTracker._trackPageview(); } catch(err) {} </p>
+<p> // By magazines.sina.com.tw try { var pageTracker = _gat._getTracker("UA-8600085-1"); pageTracker._trackPageview(); } catch(err) {} </p>
+<p> // By books.sina.com.tw try { var pageTracker = _gat._getTracker("UA-8600127-1"); pageTracker._trackPageview(); } catch(err) {} </p>
+<p> bust = Math.floor(1000000*Math.random()); document.write('<'+'SCRIPT LANGUAGE="JavaScript1.1" SRC="http://dotmore.sina.com.tw/verify.aspx?w=75&charset=utf-8&ord='+bust+'?">'); document.write('</'+'SCRIPT>'); </p>

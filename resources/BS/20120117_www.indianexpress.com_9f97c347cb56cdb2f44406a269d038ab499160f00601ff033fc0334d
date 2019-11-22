@@ -1,0 +1,183 @@
+<p> // <![CDATA[     var mobile = (/Series60|Nokia|SymbianOS|iphone|android|blackberry|mini|windows\sce|palm/i.test(navigator.userAgent.toLowerCase()));       if (mobile) { 	var url = window.location; 	url = String(url); 	var urllengthmin = url.length - 1; 	urllength = url.length; 	var strCheck = url.substring(urllengthmin,urllength); 	if(strCheck == '/') 	{ 		url = url.substring(0,urllengthmin); 	}    	 var urlArray = url.split('/');      var arrayLength =  urlArray.length;      var id = urlArray[arrayLength-1];	    	 var headline = urlArray[arrayLength-2];		       document.location = "http://m.indianexpress.com/news/"+headline+"/"+id+"/";  	 //document.location = "http://m.indianexpress.com/story_mobile.php?storyid="+id;       //  window.stop();     } // ]]> </p>
+<p> Eating from a red plate could help you to lose weight - Indian Express </p>
+<p> var lastdiv='';    var frmdata="<div class='feedbackfrm'><div class='left_div'> </div>  <div class='discus_panel_head'>Write a Message</div>  <div class='discus_panel'>	<div id='comment_result'></div>      <FORM ACTION='javascript:void(0)' METHOD='post' NAME='frmcomment' CLASS='font' ID='frmcomment' onSubmit='insertCommet(900246)'><input type=hidden name=parent><INPUT TYPE='hidden' NAME='typ' VALUE='commentSubmit' />	<INPUT TYPE='hidden' NAME='storyId' VALUE='900246' />	<table border='0' align='center' cellpadding='0' cellspacing='3' style='font-size:11px;color:#585858;'>        <tr>          <td width='70px' height='20px'><div id='divname'>Name</div></td>          <td width='170px'><input name='name' type='text' class='textfild' id='name' />              <span style='color:#f00;'>*</span></td>          <td width='200px' rowspan='3' valign='top'><div id='divmessage'>Message</div>            <TEXTAREA NAME='comment' ROWS='3' cols='20' ID='textarea' class='textarea'></TEXTAREA><span style='color:#f00;'>*</span></td>        </tr>        <tr>          <td height='20px'><div id='divemail'>Email ID</div></td>          <td><INPUT NAME='email' TYPE='text' CLASS='textfild' ID='email' />              <span style='color:#f00; font'>*</span></td>        </tr>        <tr>          <td height='20px'><div id='divsubject'>Subject</div></td>          <td><INPUT NAME='subject' TYPE='text' CLASS='textfild' ID='subject' />              <span style='color:#f00; '>*</span></td>        </tr>      <!--   <tr>          <td>Country</td>          <td><input name='textfield4' type='text' class='textfild' />              <span style='color:#f00;'>*</span></td>          <td align='right'>Maximum characters allowed <span style='margin-right:10px;'>&nbsp; 1200 &nbsp;&nbsp;</span></td>        </tr> -->      </table>      <table width='100%' border='0' cellspacing='0' cellpadding='0'>        <tr>          <td colspan='2' class='terms'>TERMS OF USE:<br />           The views represented here are not endorsed by www.indianexpress.com. The person writing and submitting the comment is / are responsible for the content of comment. The comment should not have inflammatory, abusive, derogatory language or any language deemed unfit for publication. There will be time lag between the submission and publication of the comments. The website reserves the right to publish or reject any message. </td>        </tr>        <tr>          <td width='5%' align='left'><span>            <input type='checkbox' name='checkbox' value='checkbox' />          </span></td>          <td width='95%' class='terms'>&nbsp;&nbsp;I agree to the terms of use. </td>        </tr>      </table>      <div align='center'>     <input type=submit name='Submit' value='Submit'>       </div>    </FORM>  </div></div>";   var frmdataforward="<div class='feedbackfrm1'><div class='left_div'></div>  <div class='discus_panel_head'>Forward To Friend</div>  <div class='discus_panel'>	<div id='comment_result_forward'></div>      <FORM ACTION='' METHOD='post' NAME='frmcommentforward' CLASS='font' ID='frmcommentforward' onSubmit='return forwardLink();'>	<INPUT TYPE='hidden' NAME='link' VALUE='http://www.indianexpress.com/news/eating-from-a-red-plate-could-help-you-to-lose-weight/900246'/>	<table width='500' border='0' align='left' cellpadding='3' cellspacing='0' style='font-size:11px;color:#585858;'>        <tr>          <td width='35%' valign='top' style='padding-bottom:10px';><div id='divmynameforward'>Your Name</div></td>          <td width='65%' style='padding-bottom:10px';><input name='myname' type='text' class='textfild' id='myname' />              <span style='color:#f00;'>*</span>	  </td>        </tr>        <tr>          <td valign='top' style='padding-bottom:10px';><div id='divmyemailforward'>Your Email ID</div></td>          <td style='padding-bottom:10px';><INPUT NAME='myemail' TYPE='text' CLASS='textfild' ID='myemail' />              <span style='color:#f00; font'>*</span></td>        </tr>        <tr>          <td valign='top' style='padding-bottom:10px';><div id='divfriendsemailforward'>Friend's Email ID</div></td>          <td style='padding-bottom:10px';><INPUT NAME='friendsemail' TYPE='text' CLASS='textfild' ID='friendsemail' />              <span style='color:#f00; font'>*</span></td>        </tr>   <tr><td colspan='2' align='center' style='padding-bottom:10px';><input type=submit name='Submit' value='Submit'></td></tr>       </table>      <div align='center'>        <!-- <input name='image' type='image' src='http://static.expressindia.com/ie/story/images/buton_submit.gif' /> --> </div>    </FORM>  </div></div><BR><BR>"; </p>
+<p> function showdiv(val)   {     if (val == 1)     {       document.getElementById('subcontent').style.display="block";     }     if (val == 2)     {       document.getElementById('subcontent').style.display="none";       //return false;     }     if (val == 3)     {       document.getElementById('noikaMouseOver').style.display="block";     }	  	if (val == 4)     {       document.getElementById('favorite').style.display="block";     }	  	if (val == 5)     {       document.getElementById('favorite').style.display="none";     }    }    function hide(ele) {     var srcElement = document.getElementById(ele);          srcElement.style.display= 'none';     //return false;   } </p>
+<p> {parsetags: 'explicit'} </p>
+<p> (function(d, s, id) { 	  var js, fjs = d.getElementsByTagName(s)[0]; 	  if (d.getElementById(id)) {return;} 	  js = d.createElement(s); js.id = id; 	  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=176383315772341"; 	  fjs.parentNode.insertBefore(js, fjs); 	}(document, 'script', 'facebook-jssdk')); </p>
+<p> var _comscore = _comscore || [];   _comscore.push({ c1: "2", c2: "8738137" });   (function() {     var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;     s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";     el.parentNode.insertBefore(s, el);   })();         function search_SendDataSearch() { 	 	var q=document.searchTop.q.value; 	//alert(document.searchTop.stype.value); 	if (document.searchTop.stype.value!="City") 	{ 			if (q=="") 			{ 				alert('Please Enter Search Value') 				document.searchTop.q.focus(); 				window.status='Please Enter Search Value'; 				return false; 			} 	} 	if (document.searchTop.stype.value=="indianexpress") 	{ 		//document.searchTop.action="/search.php?q="+ q; 		//document.searchTop.submit(); 		var searchText = q; 		searchText = searchText.replace(/(<pre[\s\S]*?>[\s\S]*?<\/pre>)| {2,}/ig, ' '); 		var splitText = searchText.split(' '); 		if(splitText.length > 5) 		{ 			alert("your search exceed max number of words limit"); 			return false 		} 		 		var url = "/gsearch.php?cof=FORID%3A10&ie=ISO-8859-1&cx=partner-pub-9517772455344405%3Aw4l2qg-ta2o&q="+q+"&sort=date&hq=more%3Arecent4&sa=Search#1052"			 		window.location.href=url;   } 	if (document.searchTop.stype.value=="express") 	{	 		window.location.href="http://www.expressindia.com/gsearch.php?cof=FORID%3A10&ie=ISO-8859-1&cx=partner-pub-9517772455344405%3A7g933d4wd7i&q="+q+"&as_qdr=y5&sa=Search#1148"; //	document.searchTop.action="/search.php?q="+ q; 		//document.searchTop.submit(); 	} 	else if (document.searchTop.stype.value=="web") 	{ 	document.searchTop.action="http://www.indianexpress.com/gsearch.php?cx=partner-pub-9517772455344405%3Aoudczv-4zkx&cof=FORID%3A10&ie=ISO-8859-1&q="+ q + "&as_qdr=y5&sa=Search#"; 	document.searchTop.method="Post"; 	document.searchTop.submit(); 	}   else if (document.searchTop.stype.value=="screenindia") 	{ 		var url = "http://www.screenindia.com/gsearch.php?cx=partner-pub-9517772455344405:6b8xsz-mz73&cof=FORID%3A10&ie=ISO-8859-1&q="+q+"&as_qdr=y5&sa=Search&type=screen" 		window.location.href = url; 	} 	 	else if (document.searchTop.stype.value=="shopping") 	{		 	 			window.location.href="http://shopping.expressindia.com/index.php?page=tsearch&lexemes="+ q; 	}  	else if (document.searchTop.stype.value=="City") 	{ 		//var name=document.searchTop.cityTop.value;	 		document.searchTop.action="/citySearch.php"; 		document.searchTop.submit(); 	  	} 	 return false; } </p>
+<p> Sign In </p>
+<p> / </p>
+<p> Register </p>
+<p> Delhi </p>
+<p> Bangalore </p>
+<p> Mumbai </p>
+<p> Chennai </p>
+<p> Pune </p>
+<p> Kolkata </p>
+<p> Hyderabad </p>
+<p> Ahmedabad </p>
+<p> Goa </p>
+<p> Jaipur </p>
+<p> IndianExpress </p>
+<p> Expressindia </p>
+<p> Web </p>
+<p> Screenindia </p>
+<p> document.write(dataStr) </p>
+<p> News </p>
+<p> India </p>
+<p> | </p>
+<p> World </p>
+<p> | </p>
+<p> Business </p>
+<p> | </p>
+<p> Cities </p>
+<p> | </p>
+<p> Sports </p>
+<p> | </p>
+<p> Showbiz </p>
+<p> | </p>
+<p> Lifestyle </p>
+<p> | </p>
+<p> IE Blogs </p>
+<p> | </p>
+<p> Technology </p>
+<p> | </p>
+<p> Videos </p>
+<p> | </p>
+<p> Photos </p>
+<p> | </p>
+<p> Archives </p>
+<p> Channels </p>
+<p> Astrology </p>
+<p> | </p>
+<p> Cricket </p>
+<p> | </p>
+<p> Tenders </p>
+<p> | </p>
+<p> Classified </p>
+<p> | </p>
+<p> Reader Blogs </p>
+<p> | </p>
+<p> Reader Comments </p>
+<p> | </p>
+<p> FORMULA 1 </p>
+<p> | </p>
+<p> Jansatta </p>
+<p> GS_googleAddAdSenseService("ca-pub-9517772455344405"); GS_googleEnableAllServices(); </p>
+<p> GA_googleAddSlot("ca-pub-9517772455344405", "IE_Story_728x900"); </p>
+<p> GA_googleFetchAds(); </p>
+<p> GA_googleFillSlot("IE_Story_728x900"); </p>
+<p> You are here: </p>
+<p> IE </p>
+<p> » </p>
+<p> Story </p>
+<p> Epaper </p>
+<p> Stocks </p>
+<p> Today's Paper </p>
+<p> Weather </p>
+<p> Horoscope </p>
+<p> changeClass(); </p>
+<p> Eating from a red plate could help you to lose weight </p>
+<p> gapi.plusone.go("plusone1"); </p>
+<p> Share </p>
+<p> | </p>
+<p> var addthis_config = {"data_track_clickback":false}; </p>
+<p> Agencies </p>
+<p> : London, Mon Jan 16 2012, 14:12 hrs </p>
+<p> Serving up meals on red plates or drinking from red cups cuts consumption by about 40 per cent, scientists have found. </p>
+<p> German and Swiss academics behind the discovery say the colour red may encourage diners to avoid snacking because it is commonly associated with the idea of danger, prohibition and stop, a media report said. </p>
+<p> They claim the discovery means the government and food industry could use red packaging on unhealthy foods as a deterrent  and could even use more red in pubs to prevent people drinking too much, they claimed. </p>
+<p> In the study, 41 male students were asked to drink tea from cups marked with red or blue labels. They drank 44 per cent less from cups with red labels. </p>
+<p> In the second part of the study, 109 people were given ten pretzels each on either a red, blue or white plate. Those with a red plate ate fewer pretzels. </p>
+<p> Red may be associated with alarm or something primeval, said Ursula Arens, from the British Dietetic Association. </p>
+<p> The results were published in the journal Appetite. </p>
+<p> Tags: </p>
+<p> red plate </p>
+<p> , </p>
+<p> lose weight </p>
+<p> , </p>
+<p> avoid snacking </p>
+<p> , </p>
+<p> food news </p>
+<p> Share </p>
+<p> | </p>
+<p> var addthis_config = {"data_track_clickback":false}; </p>
+<p> Ads by Google </p>
+<p> function google_ad_request_done(google_ads) { var s = ''; var i; if (google_ads.length == 0) { return; } if (google_ads[0].type=="text") { if (google_ads.length > 0) { s += ""; for(i=0; i < google_ads.length; ++i) {  s += '<a href="' + google_ads[i].url + '" target="_blank" ' + 'onmouseout="window.status=\'\'" ' + 'onmouseover="window.status=\'go to ' + google_ads[i].visible_url + '\'" ' + '>' + google_ads[i].line1 + '&nbsp; </a>'+ '<b>'+google_ads[i].line2 +'&nbsp; '+google_ads[i].line3 + '</b>' +  '<span><a href="' + google_ads[i].url + '" target="_blank" ' + 'onmouseout="window.status=\'\'" ' + 'onmouseover="window.status=\'go to ' + google_ads[i].visible_url + '\'" ' + '>'+google_ads[i].visible_url.substr(0,20) +'</span></a>';  } } s += ""; }  document.write(s); return; }  google_ad_client = "pub-9517772455344405"; google_ad_output = 'js'; google_max_num_ads = 2; google_ad_slot = "1801448143"; google_ad_channel = "ies_300x250-text"; google_adtest = 'off'; google_safe = 'high'; google_ad_section = 'ie_home_all'; </p>
+<p> Previous Story </p>
+<p> UP polls: Maya drops 100 sitting MLAs from candidate list </p>
+<p> Next Story </p>
+<p> India all set to lose No 2 spot in Test ranking </p>
+<p> Reader's Comments(1) </p>
+<p> | </p>
+<p> Post a comment </p>
+<p> How much more stupid can we get </p>
+<p> Reply </p>
+<p> | </p>
+<p> Forward </p>
+<p> conscience | 16-Jan-2012 </p>
+<p> This is the height of the ridiculous please...... </p>
+<p> Post your Comment </p>
+<p> Name: </p>
+<p> Email: </p>
+<p> Title: </p>
+<p> Maximum characters allowed </p>
+<p> Comment: </p>
+<p> Enter image text </p>
+<p> I agree to the terms of use. </p>
+<p> GS_googleAddAdSenseService("ca-pub-9517772455344405"); GS_googleEnableAllServices(); </p>
+<p> GA_googleAddSlot("ca-pub-9517772455344405", "IE_S_1st_300x250"); </p>
+<p> GA_googleFetchAds(); </p>
+<p> GA_googleFillSlot("IE_S_1st_300x250"); </p>
+<p> GS_googleAddAdSenseService("ca-pub-9517772455344405"); GS_googleEnableAllServices(); </p>
+<p> GA_googleAddSlot("ca-pub-9517772455344405", "IE_S_2nd_300x250"); </p>
+<p> GA_googleFetchAds(); </p>
+<p> GA_googleFillSlot("IE_S_2nd_300x250"); </p>
+<p> GS_googleAddAdSenseService("ca-pub-9517772455344405"); GS_googleEnableAllServices(); </p>
+<p> GA_googleAddSlot("ca-pub-9517772455344405", "IE_S_4th_300x250"); </p>
+<p> GA_googleFetchAds(); </p>
+<p> GA_googleFillSlot("IE_S_4th_300x250"); </p>
+<p> GS_googleAddAdSenseService("ca-pub-9517772455344405"); GS_googleEnableAllServices(); </p>
+<p> GA_googleAddSlot("ca-pub-9517772455344405", "IE_300x90_1st"); </p>
+<p> GA_googleFetchAds(); </p>
+<p> GA_googleFillSlot("IE_300x90_1st"); </p>
+<p> Group Sites : </p>
+<p> Express India </p>
+<p> | </p>
+<p> Financial Express </p>
+<p> | </p>
+<p> Screen India </p>
+<p> | </p>
+<p> Loksatta </p>
+<p> | </p>
+<p> Kashmir Live </p>
+<p> | </p>
+<p> Exims </p>
+<p> | </p>
+<p> Express Towers </p>
+<p> Privacy Policy </p>
+<p> | </p>
+<p> Feedback </p>
+<p> | </p>
+<p> Site Map </p>
+<p> | </p>
+<p> Advertise With Us </p>
+<p> | </p>
+<p> Express Group </p>
+<p> | </p>
+<p> Contact Us </p>
+<p> | </p>
+<p> Subscribe </p>
+<p> © 2012 The Indian Express Limited. All rights reserved </p>
+<p> GS_googleAddAdSenseService("ca-pub-9517772455344405");   GS_googleEnableAllServices(); </p>
+<p> GA_googleAddSlot("ca-pub-9517772455344405", "si_popunder_5X5"); </p>
+<p> GA_googleFetchAds(); </p>
+<p> GA_googleFillSlot("si_popunder_5X5"); </p>
+<p> var _gaq = _gaq || [];   _gaq.push(['_setAccount', 'UA-1403607-3']);   _gaq.push(['_trackPageview']);    (function() {     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);   })(); </p>
+<p> function show(ele) {       var srcElement = document.getElementById(ele);       if(srcElement != null) {         if(srcElement.style.display == "block") {           srcElement.style.display= 'none';         }         else {           srcElement.style.display='block';         }       }       //return false;     } </p>
+<p> function hide(ele) {       var srcElement = document.getElementById(ele);            srcElement.style.display= 'none';       //return false;     } </p>
+<p> Printable Version </p>
+<p> Mail This Article </p>
+<p> Read Comments </p>
+<p> In Depth Analysis </p>
+<p> Add to favorites </p>

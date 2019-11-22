@@ -1,0 +1,700 @@
+<p> Michał Deskur za Adama Rapackiego? - Wiadomości - WP.PL </p>
+<p> <!-- //<![CDATA[ 			  var pp_gemius_identifier = 'B2abwmMQpKPP05jYFSgwi5ZVzSUppwL6WSSVYep_Uwf.Y7';   var pp_gemius_hitcollector = 'wp.hit.gemius.pl';   var wp_dot_type = 'click';   var wp_sn = 'wiadomosci';   var wp_fba = '1365573140.026';   var wp_wyszukajwwp = 1;   var wp_vm = 113; 			// ]]> --> </p>
+<p> <!-- <![CDATA[           var rekid="753";           function NPB() {}           function NJB() {return false;} // ]]> --> </p>
+<p> WP.$(window).load(function () { 		removeBoxesByPriority() 	}); </p>
+<p> wiadomości </p>
+<p> Poczta </p>
+<p> | </p>
+<p> TopNews </p>
+<p> | </p>
+<p> WP.PL na komórkę </p>
+<p> WP.homepagelink() </p>
+<p> NPB("002"); </p>
+<p> NPB("003"); </p>
+<p> NPB("009"); </p>
+<p> Strona główna </p>
+<p> Polska </p>
+<p> Wiadomości lokalne </p>
+<p> Świat </p>
+<p> Tylko w WP.PL </p>
+<p> Reporter WP24 </p>
+<p> Ciekawostki </p>
+<p> Nauka </p>
+<p> Przestępczość </p>
+<p> Media </p>
+<p> NPB("001"); </p>
+<p> NPB("014"); </p>
+<p> więcej </p>
+<p> Raporty specjalne: </p>
+<p> Katastrofa smoleńska </p>
+<p> Sprawa Madzi </p>
+<p> Papież </p>
+<p> Ustawa o związkach partnerskich </p>
+<p> Wielkanoc </p>
+<p> Ruch Palikota </p>
+<p> Więzienia CIA </p>
+<p> Najnowsze wiadomości: </p>
+<p> Mariusz Błaszczak: to jeden wielki skandal </p>
+<p> Najnowsze wiadomości: </p>
+<p> Prof. Paweł Artymowicz: oba filmy Anity Gargas przeczą sobie </p>
+<p> Najnowsze wiadomości: </p>
+<p> Największe kontrowersje katastrofy smoleńskiej </p>
+<p> Najnowsze wiadomości: </p>
+<p> Premier: przyjdzie taki dzień, gdy katastrofa smoleńska nie będzie dzieliła Polaków </p>
+<p> Najnowsze wiadomości: </p>
+<p> Zagadkowa śmierć laureata Nagrody Nobla Pabla Nerudy - film </p>
+<p> window._wpSocialQueue.p.push({ 			app: 'FB',   			pluginName: 'fbActivityBar', 			data: { 				recommendationsUrl: '/fbrecommendationsranking.json', 				box : WP.$('#fbActivityBar'), 				statisticsName : 'og_box1', 				lang : { 					aboutApp : 'Aplikacja <b>Informacje WP.PL</b> obejmuje aktywności z serwisów:  <ul>    <li>Wiadomości WP.PL</li>  <li>Kobieta WP.PL</li> <li>Sport WP.PL</li> </ul> Logując się do niej otrzymasz informacje o czytanych materiałach przez Twoich znajomych i Ciebie tylko z wyżej wymienionych serwisów.    ', 					aboutAppURL : '/', 					appName : 'wiadomości.wp.pl', 					reportURL : 'http://pomoc.wp.pl/serwis,Wiadomosci,typ,Uwaga,formularz.html'			 				} 			} 		}); </p>
+<p> window._wpSocialQueue.p.push({         			app: "FB",  			pluginName: "fbSendTimedAction",  				data: { 					acceptedDocumentTypes: "article", 					sendTimeout: 11, 					actionName: "news.reads", 					namespace: null				} 			}); </p>
+<p> Druga kadencja Donalda Tuska </p>
+<p> - czytaj raport specjalny! </p>
+<p> więcej </p>
+<p> tematy na czasie: </p>
+<p> Katastrofa smoleńska </p>
+<p> Sprawa Madzi </p>
+<p> Papież </p>
+<p> Michał Deskur za Adama Rapackiego? </p>
+<p> . </p>
+<p> RMF FM, wp.pl </p>
+<p> | </p>
+<p> dodane </p>
+<p> 2012-01-04 </p>
+<p> (10:54) </p>
+<p> window._wpSocialQueue.p.push({app: "FB", pluginName: "fbShareButton"}); </p>
+<p> window._wpSocialQueue.a.push('TWITTER'); </p>
+<p> window._wpSocialQueue.p.push({ app: "GPLUS", pluginName: "commonPlugins",data: {}}); </p>
+<p> fot. PAP / Leszek Szymański </p>
+<p> Adam Rapacki </p>
+<p> IDŹ DO OPINII </p>
+<p> IVONA Text To Speech </p>
+<p> //<![CDATA[ 			window.WebreaderAutoCreate = 0; 			window.WebreaderAsyncCommands = new Array(); 			window.WebreaderAsyncCommands.push(function(){  			// Metoda ta musi zostac wywolana przed Webreader.create() 			Webreader.config({  			// HTML przycisku ktory uaktywnia otwarzacz iWebReader  			// Mozna w to miejsce wstawic obrazek (IMG) lub pustego spana z odpowiednia klasa CSS 			// Wazne aby nie dodawac do obrazka zawartosci atrybutu alt="" a pozostawic ja pusta, 			// Powyzsze zalecenia sa rekomendowane dlatego ze skrypt automatycznie wstawia do linku 			// ukryty element zawierajacy opis linku dla screenreaderow. 			activationButton:'<span style="width:183px;float:left"><img src="http://i.wp.pl/a/i/wiadomosci/odsluchaj.png" alt="" style="float:right;" /></span>',  			// Sciezka do katalogu zawierajacego pliki webreadera 			wrHost:'http://i.wp.pl/a/i/wiadomosci/ivona/', 			// Relatywna sciezka wzgledem wrHost do pliku swf odtwarzacza webreader 			wrSwf:'wrswf.swf', 			// Relatywna sciezka wzgledem wrHost do pliku z jasnym gradientem  			lightBg:'wrlight.png', 			// Relatywna sciezka wzgledem wrHost do pliku z ciemnym gradientem 			darkBg:'wrdark.png',   			// Nie puszcza reqestu walidujacego przy kazdej odslonie strony	i powoduje domyslna walidacje odtarzaczy 			// W przypadku WP ten argument powinien byc zawsze ustawiony na false !!!  			performValidation:false  			});    			Webreader.create({ 			// Wyglad odtwarzacza flash (0,1,2) 			playerMode:1, 			// Id elementu do którego bedzie wstawiony odtwarzacz 			parentId:"ivonawebreader_1", 			// Kolor obramowania 			borColor:0xCCCCCC, 			// Kolor tla 			bgColor:0xFFFFFF, 			// Kolor przyciskow 			btnColor:0xc6131a, 			// Wyrownanie 0-do lewej 1-do prawej 			scrollMode:1, 			// Jezyk interfejsu 			lang:'pl', 			// Url do pliku audio   	 			soundUrl:escape("http://www.ivona.com/online/fileWebRead.php"+ 			// ID glosu 			"?v=2"+ 			// Klasa elementow ktore maja byc czytane 			"&dc=czytajto"+ 			// Klasa elementow ktore maja zostac pominiete 			"&sdc=nieczytaj"+ 			// Pomijaj elementy o tagu 			"&sde=div,table"+ 			// Glosnosc 			"&pv=100"+ 			// Predkosc 			"&pr=125"+ 			// ID uslugi 			"&i=fY46ytEacJ"+ 			// Url biezacej strony 			"&u="+escape(document.location.href))  			},26);  			}); 			//]]> </p>
+<p> "Wątpimy, czy nowy zastępca szefa MSW zna specyfikę pracy służb mundurowych". Tak funkcjonariusze, z którymi rozmawiał reporter RMF FM, komentują informacje, że nowym wiceministrem spraw wewnętrznych zostanie Michał Deskur. Wczoraj premier odwołał ze stanowiska wiceszefa resortu Adama Rapackiego i powołał dwóch nowych urzędników. Oficjalnie ich nazwiska poznamy dziś przed południem. </p>
+<p> Funkcjonariusze nie kryją zdziwienia, że ich służby ma nadzorować człowiek, który zaczął sprawdzać się w polityce dopiero przed miesiącem. Nie ma żadnego doświadczenia w administracji publicznej - mówią policjanci i BOR-owcy w rozmowie z reporterem RMF FM. Co więcej, jest mało prawdopodobne, by znał specyfikę funkcjonowania służb mundurowych. </p>
+<p> Personalia nowych wiceministrów zostaną przedstawione na konferencji prasowej. Jeden z wiceministrów - według informacji dziennikarza RMF - ma się zajmować służbami mundurowymi, a drugi - systemami informatycznymi CEPiK i PESEL. </p>
+<p> REKLAMA </p>
+<p> Czytaj dalej </p>
+<p> if(typeof isSrd05=='undefined'){NPB("005");} </p>
+<p> if (NJB('srodtekst') && typeof isSrd05=='undefined'){document.getElementById('rekSrd05').style.display='block';var isSrd05=true;} </p>
+<p> Michał Deskur </p>
+<p> , od niedawna członkowi gabinetu politycznego ministra spraw wewnętrznych Jacka Cichockiego, prawdopodobnie będzie odpowiadał za ponad 100-tysięczną rzeszę policjantów i funkcjonariuszy BOR. Problem w tym, że Deskur to człowiek stosunkowo młody (38 l.), z niewielkim doświadczeniem urzędnika państwowego. Jest specjalistą od księgowości. Ma doświadczenie biznesowe, które zdobywał we Francji, pracując w firmie audytorskiej. </p>
+<p> Drugi z wiceministrów - jak twierdzą rozmówcy RMF FM - jest spoza </p>
+<p> MSW </p>
+<p> . Wiadomo jednak że pracuje w administracji rządowej. </p>
+<p> Adam Rapacki </p>
+<p> został odwołany przez premiera na wniosek szefa MSW Jacka Cichockiego. Oficjalne powody dymisji wciąż nie są znane. </p>
+<p> <!-- 			if (typeof(PWA_Itxt) == "undefined"){                         	PWA_Itxt = false; 			}  			if(PWA_Itxt!=true){                         	document.write('<scr' + 'ipt type="text/javascript"' + ' src="http://adsearch.adkontekst.pl/akon/intext_spliter?prid=3&caid=102430&form=9044:0:I&ns=' + (new Date()).getTime() + '"' + '></' + 'script>'); 			} 			//--> </p>
+<p> Polub </p>
+<p> wiadomości.wp.pl </p>
+<p> na Facebooku </p>
+<p> window._wpSocialQueue.p.push({ app: "FB", pluginName: "fbFanpageLikeBox" }); </p>
+<p> TopNews - najpopularniejsze materiały WP.PL </p>
+<p> TAGI: </p>
+<p> michał deskur </p>
+<p> , </p>
+<p> adam rapacki </p>
+<p> , </p>
+<p> msw </p>
+<p> , </p>
+<p> dymisja </p>
+<p> oceń </p>
+<p> tak </p>
+<p> 3 </p>
+<p> 25% </p>
+<p> nie </p>
+<p> 9 </p>
+<p> 75% </p>
+<p> window._wpSocialQueue.p.push({ 				app: "FB", 				pluginName: "wpVoteBox", 				data: { 					box: WP.$(".stampOcen") 				} 			}); </p>
+<p> window._wpSocialQueue.p.push({app: "FB", pluginName: "fbShareButton"}); </p>
+<p> window._wpSocialQueue.a.push('TWITTER'); </p>
+<p> window._wpSocialQueue.p.push({ app: "GPLUS", pluginName: "commonPlugins",data: {}}); </p>
+<p> <!-- <![CDATA[  	if (typeof ENTRY_HIT == "undefined") { 		var ENTRY_HIT = ''; 	} 	 	ENTRY_HIT = '&serwishit=653&typehit=article&entryhit=14138089'; // ]]> --> </p>
+<p> Przeczytaj też </p>
+<p> "Pozbyli się go. Pan generał był niewygodny" </p>
+<p> dodane </p>
+<p> 2012-01-04 </p>
+<p> (18:21) </p>
+<p> Trzęsienie ziemi w MSW - zmiany na ważnych stanowiskach </p>
+<p> aktualizacja </p>
+<p> 2012-01-04 </p>
+<p> (12:20) </p>
+<p> Kolejny cios w Schetynę </p>
+<p> aktualizacja </p>
+<p> 2012-01-04 </p>
+<p> (07:23) </p>
+<p> Stało się. Tusk odwołał wiceministra Rapackiego </p>
+<p> aktualizacja </p>
+<p> 2012-01-03 </p>
+<p> (17:27) </p>
+<p> Szef MSW złożył wniosek o odwołanie Rapackiego </p>
+<p> dodane </p>
+<p> 2012-01-03 </p>
+<p> (10:45) </p>
+<p> Sensacyjna zmiana w nowym rządzie </p>
+<p> aktualizacja </p>
+<p> 2012-01-03 </p>
+<p> (08:28) </p>
+<p> "To było poza zasięgiem polskiej prezydencji" </p>
+<p> dodane </p>
+<p> 2012-01-02 </p>
+<p> (08:50) </p>
+<p> W innych </p>
+<p> serwisach </p>
+<p> Pytamy.pl: </p>
+<p> Czy Tusk powinien zdymisjonować ministrów? </p>
+<p> WP.TV: </p>
+<p> Z Wiejskiej: Będzie dymisja Sikorskiego? </p>
+<p> Moto: </p>
+<p> Straż poluje na kierowców </p>
+<p> try { 					var params = "sn=" + wp_sn; 					params += "&c=wiadomosci"; 					params += "&s="; 					params += "&v=wiadomosc.html"; 					params += "&h1=pytamy.pl&r1=sondaze"; 					params += "&h2=wp.tv&r2=video"; 					params += "&h3=moto.wp.pl&r3=wiadomosci"; 					WP.stat.eventShow("srv=sowa&action=show&par=" + encodeURIComponent(params)); 				} catch (ex) {} </p>
+<p> Czekamy na Twoje zgłoszenie! </p>
+<p> Byłeś świadkiem lub uczestnikiem ważnego zdarzenia? Poinformuj Internautów o tym, co dzieje się w Polsce, na świecie, w Twojej okolicy! </p>
+<p> Wyślij nam  zdjęcie, film lub artykuł! </p>
+<p> Najciekawsze opublikujemy! </p>
+<p> <!-- if (typeof(PWA_Itxt) == "undefined"){         PWA_Itxt = false; }  if(PWA_Itxt!=true){         document.write('<scr' + 'ipt type="text/javascript"' + ' src="http://adsearch.adkontekst.pl/_/ads0/?QAPS_AKPL=--3-95314-#12077--&noChache=false' + '"' + '></' + 'script>'); } //--> </p>
+<p> //<![CDATA[ 	WP.dmodule('opinie v3'); //]]> </p>
+<p> Opinie (46) </p>
+<p> //<![CDATA[ window._wpSocialQueue.p.push({ 	app : 'FB', 	pluginName : 'fbComments', 	data : { 		acceptedDocumentTypes : 'article', 		actionName : 'comment', 		namespace : -1	} }); //]]> </p>
+<p> Nick </p>
+<p> Masz konto na WP.PL? </p>
+<p> Zaloguj się </p>
+<p> Nie masz konta? Załóż konto! </p>
+<p> Twój podpis: </p>
+<p> zmień swój podpis </p>
+<p> | </p>
+<p> wyloguj się </p>
+<p> ...lub dodaj opinię anonimowo </p>
+<p> Twoja opinia </p>
+<p> Opublikuj na Facebooku </p>
+<p> Pozostało znaków: </p>
+<p> 4000 </p>
+<p> REGULAMIN </p>
+<p> Akceptuję </p>
+<p> regulamin </p>
+<p> zamieszczania opinii w serwisie i wyrażam zgodę na przetwarzanie przez Wirtualną Polskę S.A. moich danych osobowych dla celów związanych z zamieszczeniem mojej opinii w serwisie. </p>
+<p> Wirtualna Polska S.A. </p>
+<p> w Gdańsku informuje, że zgodnie z art. 24 ust. 1 pkt 3 i 4 ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych, podanie danych jest dobrowolne, a ponadto Użytkownikowi przysługuje prawo dostępu do treści swoich danych oraz ich poprawiania. </p>
+<p> ostatnio aktywne | </p>
+<p> najnowsze </p>
+<p> | </p>
+<p> najstarsze </p>
+<p> | </p>
+<p> najczęściej oceniane </p>
+<p> | </p>
+<p> najczęściej odpowiadane </p>
+<p> 0 </p>
+<p> 0 </p>
+<p> ~ </p>
+<p> tomasz </p>
+<p> [2012-01-04 22:22] </p>
+<p> Tusk konsoliduje swą autorytarną władzę wiele na ten temat mówi stanowisko Rady Adwokackiej które tu zamieszczam. Pięknie wybraliście rodacy? Polak jest najbardziej inwigilowanym obywatelem UE - uważa Naczelna Rada Adwokacka. Dlatego postuluje pilną zmianę prawa dotyczącego przechowywania danych telekomunikacyjnych, m.in. bilingów. W zeszłym roku służby pytały o nie 1,3 mln razy. To najwięcej w Unii. Polska zajmuje pierwsze miejsce w Europie pod względem liczby wniosków składanych do firm telekomunikacyjnych o dane klientów. Według KE w 2010 roku zanotowano 1,3 mln zapytań dot. danych abonentów, wykazów połączeń (bilingów) oraz informacji o lokalizacji telefonów komórkowych, czyli również ich użytkowników. Dane te nie dotyczą kontroli operacyjnej (podsłuchów, podglądu i kontroli korespondencji). </p>
+<p> odpowiedz </p>
+<p> 0 </p>
+<p> 0 </p>
+<p> ~ </p>
+<p> luki2 </p>
+<p> [2012-01-04 19:54] </p>
+<p> Szacunek dla Pana Rapackiego. </p>
+<p> odpowiedz </p>
+<p> 0 </p>
+<p> 0 </p>
+<p> ~ </p>
+<p> pyton </p>
+<p> [2012-01-04 14:50] </p>
+<p> zagadka: czym różnią się platformersy od normalnych ludzi ? odp.: jednego normalnego człowieka musi zastąpić dwóch platformersów, widocznie odbiegają POziomem intelektualnym i wszystko muszą tylko stadnie ... </p>
+<p> odpowiedz </p>
+<p> 0 </p>
+<p> 0 </p>
+<p> ~ </p>
+<p> daro </p>
+<p> [2012-01-04 12:04] </p>
+<p> Proszę sie nie martwić o Pana generała Rapackiego , już sobie wypracował emeryturę . Pan Rapacki szybko się piął w karierze policjanta jako młody człowiek. </p>
+<p> odpowiedz </p>
+<p> 3 </p>
+<p> 2 </p>
+<p> ~ </p>
+<p> polka </p>
+<p> [2012-01-04 11:22] </p>
+<p> to sa  żarty  z panstwa polskiego  - żę gw i tvn nie  jest zdiwiona  CUDA   .HEHEHEHEE    KSIĘGOWY  /   A PO 49 % POPARCIA </p>
+<p> odpowiedz </p>
+<p> pokaż </p>
+<p> 2 </p>
+<p> ukryte odpowiedzi </p>
+<p> 1 </p>
+<p> 0 </p>
+<p> ~ </p>
+<p> ala </p>
+<p> [2012-01-04 11:33] </p>
+<p> @polka </p>
+<p> ^ </p>
+<p> ,,Zdiwiona''to ty jesteś... </p>
+<p> odpowiedz </p>
+<p> 0 </p>
+<p> 0 </p>
+<p> ~ </p>
+<p> antek </p>
+<p> [2012-01-04 11:56] </p>
+<p> @ala </p>
+<p> ^ </p>
+<p> masz barchany? </p>
+<p> odpowiedz </p>
+<p> 0 </p>
+<p> 0 </p>
+<p> ~ </p>
+<p> Berlińczyk </p>
+<p> [2012-01-04 11:55] </p>
+<p> Aby dogłębnie przebudować aparat tzw. wymiaru sprawiedliwości trzeba dokonywać takich zmian. Zmiany te przynoszą wymierne efekty bo rujnują układy i powiązania w wymiarze sprawiedliwości. Stara ubecja wciąż działa wedle starego schematu : kogo nie przekupią to zbierają haki na niego lub członków rodziny i poddają ostremu szantażowi. Nie odpuszczają ani sędziom , ani adwokatom a nawet prokuratorom. Rapacki jako stary zomowiec stosował te metody bez opamiętania !!! Jego tępe siepacze z cbś niszczyli wszystkich po drodze nie oszczędzali nikogo a ostatnio zawzięcie niszczyli drobnych przedsiębiorców. </p>
+<p> odpowiedz </p>
+<p> 1 </p>
+<p> 0 </p>
+<p> ~ </p>
+<p> Franek </p>
+<p> [2012-01-04 11:53] </p>
+<p> Zalatuje "Opus Dei"!!!!!!!!!!!!! </p>
+<p> odpowiedz </p>
+<p> 3 </p>
+<p> 1 </p>
+<p> ~ </p>
+<p> ? </p>
+<p> [2012-01-04 11:36] </p>
+<p> Na ministrów maja jeszcze szansę następujący POLITYCZNI,na uwagę zasługują roczniki osób: ,,U ministra Cichockiego (za BIPem MSW) Informacje o pracownikach Gabinetu Politycznego Ministra SWiA zgodnie z przepisami art. 39a ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz.U. z 2003 r. Nr 24, poz. 199 z pózn. zm.) Stanisław Baranski - doradca w Gabinecie Politycznym Ministra Spraw Wewnetrznych, ur. 10.05.1984 r., zatrudniony od dnia 22 listopada 2011 r., pełny etat,  Michał Deskur â doradca w Gabinecie Politycznym Ministra Spraw Wewnetrznych, ur. 22.09.1973 r., zatrudniony od dnia 1 grudnia 2011 r., pełny etat Joanna Faryna-Wielowieyska â asystent polityczny Ministra Spraw Wewnetrznych, ur. 10.05.1985 r., zatrudniona od dnia 28 listopada 2011 r., pełny etat Michał Sokolnicki â doradca w Gabinecie Politycznym Ministra Spraw Wewnetrznych, ur. 07.06.1969 r., zatrudniony od dnia 15 grudnia 2011 r., pełny etat Małgorzata Wozniak â doradca w Gabinecie Politycznym Ministra Spraw Wewnetrznych, ur. 9.05.1974 r., zatrudniona od dnia 22 listopada 2011 r., pełny etat Mateusz Reszczyk â doradca Sekretarza Stanu w Ministerstwie Spraw Wewnetrznych, ur. 15.03.1974 r., zatrudniony od dnia 26 listopada 2011 r., pełny etat Łukasz Szerner â doradca Podsekretarza Stanu w Ministerstwie Spraw Wewnetrznych, ur. 24.11.1985 r., zatrudniony od dnia 1 grudnia 2011 r., pełny etat </p>
+<p> odpowiedz </p>
+<p> pokaż </p>
+<p> 1 </p>
+<p> ukrytą odpowiedź </p>
+<p> 0 </p>
+<p> 0 </p>
+<p> ~ </p>
+<p> Darmi </p>
+<p> [2012-01-04 11:49] </p>
+<p> @? </p>
+<p> ^ </p>
+<p> pewnie razem kopią w gałę :-) </p>
+<p> odpowiedz </p>
+<p> 1 </p>
+<p> 2 </p>
+<p> ~ </p>
+<p> izunia </p>
+<p> [2012-01-04 11:49] </p>
+<p> To jest właśnie demokracja , jak coś  nie pasuje do układu to WON!! </p>
+<p> odpowiedz </p>
+<p> 0 </p>
+<p> 0 </p>
+<p> ~ </p>
+<p> inka </p>
+<p> [2012-01-04 11:47] </p>
+<p> Dlatego nigdy w Polsce nie bedzie normalnie! Szacun Panie Rapacki </p>
+<p> odpowiedz </p>
+<p> 1 </p>
+<p> 0 </p>
+<p> ~ </p>
+<p> obwe </p>
+<p> [2012-01-04 11:47] </p>
+<p> to jest celowe osłabienie policji aby pełowcy mogli robić przekręty na dużą skalę. Już wiadomo, że obecna koalicja nie dotrwa do końca no to trzeba się teraz na chapać. </p>
+<p> odpowiedz </p>
+<p> 3 </p>
+<p> 1 </p>
+<p> ~ </p>
+<p> niki4 </p>
+<p> [2012-01-04 11:45] </p>
+<p> Skoro pracę jaką do tej pory wykonywał jden człowiek zatrudniono teraz dwóch, to znaczy zastąpiono jednego mądrego i zorganizowanego dwoma głupszymi. Czy dobrze rozumiem? </p>
+<p> odpowiedz </p>
+<p> 2 </p>
+<p> 1 </p>
+<p> ~ </p>
+<p> no </p>
+<p> [2012-01-04 11:32] </p>
+<p> ...czy  ten  Deskur   to  wnuk   biskupa </p>
+<p> odpowiedz </p>
+<p> pokaż </p>
+<p> 2 </p>
+<p> ukryte odpowiedzi </p>
+<p> 0 </p>
+<p> 0 </p>
+<p> ~ </p>
+<p> Qń </p>
+<p> [2012-01-04 11:40] </p>
+<p> @no </p>
+<p> ^ </p>
+<p> Syn </p>
+<p> odpowiedz </p>
+<p> 0 </p>
+<p> 0 </p>
+<p> kasienka </p>
+<p> [2012-01-04 11:45] </p>
+<p> @no </p>
+<p> ^ </p>
+<p> nie to Syn - po angielskiemu grzech </p>
+<p> odpowiedz </p>
+<p> 6 </p>
+<p> 9 </p>
+<p> ~ </p>
+<p> XXXXXXX </p>
+<p> [2012-01-04 11:16] </p>
+<p> No tak, "nie zna specyfiki służb", czyli nie będzie trzymał sztamy z policjantami, zadba o interes publiczny bardziej niż o interesy mundurowych. </p>
+<p> odpowiedz </p>
+<p> pokaż </p>
+<p> 6 </p>
+<p> ukrytych odpowiedzi </p>
+<p> pokaż </p>
+<p> 1 </p>
+<p> wcześniejszą odpowiedź </p>
+<p> 1 </p>
+<p> 1 </p>
+<p> ~ </p>
+<p> pangrzywa </p>
+<p> [2012-01-04 11:33] </p>
+<p> @XXXXXXX </p>
+<p> ^ </p>
+<p> Jest dokładnie odwrotnie; nie ma zielonego pojęcia jak te służby działają więc będzie chodził na ich pasku bo mu każdy KIT wcisną; tak samo było z Milczanowskim w l. 90 </p>
+<p> odpowiedz </p>
+<p> 1 </p>
+<p> 1 </p>
+<p> AZAZEL 666 </p>
+<p> [2012-01-04 11:36] </p>
+<p> @j23 </p>
+<p> ^ </p>
+<p> Twoja głupota jest aż nie prawdopodobna... </p>
+<p> odpowiedz </p>
+<p> 2 </p>
+<p> 0 </p>
+<p> ~ </p>
+<p> mat </p>
+<p> [2012-01-04 11:37] </p>
+<p> @XXXXXXX </p>
+<p> ^ </p>
+<p> Po pierwsze Rapacki nie był po stronie policjantów, ale Schetyny. Po drugie nowy minister będzie po stronie Tusk a nie po stronie interesu publicznego. Oj naiwny,naiwny... </p>
+<p> odpowiedz </p>
+<p> 0 </p>
+<p> 0 </p>
+<p> ~ </p>
+<p> a </p>
+<p> [2012-01-04 11:38] </p>
+<p> @XXXXXXX </p>
+<p> ^ </p>
+<p> a jaki jest ten interes publiczny-bezprawie? Skoro nie będzie sprawnej policji to będzie korupcja bandytka itp tzw. nowa Kolumbia lub Meksyk, to jest ten interes publiczny??? </p>
+<p> odpowiedz </p>
+<p> 0 </p>
+<p> 0 </p>
+<p> ~ </p>
+<p> J23 </p>
+<p> [2012-01-04 11:44] </p>
+<p> @jarek_3 </p>
+<p> ^ </p>
+<p> DZIĘKUJĘ ZA KOMPLEMENT! TO OZNACZA ŻE JESTEM INNY NIŻ TY. A TO JEST DLA MNIE ZASZCZYTEM. JEŚLI JESTEŚ W STANIE TO ZROZUMIEĆ (-; </p>
+<p> odpowiedz </p>
+<p> 1 </p>
+<p> 0 </p>
+<p> ~ </p>
+<p> fully </p>
+<p> [2012-01-04 11:44] </p>
+<p> jak ktoś z rocznika 84 85 moze byc doradca ministra to tytlko u nas chyba bo zajebiste doswiadczenie przemawia prawda???? </p>
+<p> odpowiedz </p>
+<p> 2 </p>
+<p> 0 </p>
+<p> ~ </p>
+<p> Rocznik72 </p>
+<p> [2012-01-04 11:43] </p>
+<p> Gratuluje rocznika i zawodu za policjanta księgowy gratuluje TUSKU!!!!!! </p>
+<p> odpowiedz </p>
+<p> 1 </p>
+<p> 1 </p>
+<p> ~ </p>
+<p> @piotr </p>
+<p> [2012-01-04 11:41] </p>
+<p> Jakoś lekarz który s.....ł sprawę służby zdrowia ( przepraszam ochrony zdrowia ) nikogo nie dziwi. I jeszcze jedno czy np. lekarz który leczy chorych na raka, aby dobrze leczyc tę chorobę musiał wcześniej być chory aby skutecznie leczyć raka? Nie jestem za młodzieżą w administracji, ale biadolenia nie rozumuję. </p>
+<p> odpowiedz </p>
+<p> 0 </p>
+<p> 0 </p>
+<p> ~ </p>
+<p> wow </p>
+<p> [2012-01-04 11:41] </p>
+<p> Roman Dmowski wiceministrem MSW, szok! </p>
+<p> odpowiedz </p>
+<p> 9 </p>
+<p> 1 </p>
+<p> ~ </p>
+<p> Gluś </p>
+<p> [2012-01-04 11:17] </p>
+<p> nieważne, że Deskur jest dyletantem. Czy ten Deskur to rodzina znanego kardynała? Oto na naszych oczach tworzy się nowa nomenklatura. I co teraz powiedzą styropianki szczekające 30 lat temu o nomenklaturze partyjnej? </p>
+<p> odpowiedz </p>
+<p> pokaż </p>
+<p> 3 </p>
+<p> ukryte odpowiedzi </p>
+<p> 1 </p>
+<p> 0 </p>
+<p> ~ </p>
+<p> tak </p>
+<p> [2012-01-04 11:30] </p>
+<p> @Gluś </p>
+<p> ^ </p>
+<p> Rapacki to rodzina znanego z PRLu komucha. </p>
+<p> odpowiedz </p>
+<p> 0 </p>
+<p> 0 </p>
+<p> ~ </p>
+<p> Stoa </p>
+<p> [2012-01-04 11:35] </p>
+<p> @Gluś </p>
+<p> ^ </p>
+<p> Zdecydowanie jest to rodzina kardynała - bratanek. </p>
+<p> odpowiedz </p>
+<p> 0 </p>
+<p> 0 </p>
+<p> ~ </p>
+<p> komuch </p>
+<p> [2012-01-04 11:40] </p>
+<p> @tak </p>
+<p> ^ </p>
+<p> Wymysl cos innego,ludzie maja te bzdury w serdecznym powazaniu.Ty za kazdym obrazem masz komucha.Zaraz cie zje, </p>
+<p> odpowiedz </p>
+<p> 1 </p>
+<p> 0 </p>
+<p> ~ </p>
+<p> POrażka </p>
+<p> [2012-01-04 11:40] </p>
+<p> Kolejny z klanu PełOwsko-Kościelnego </p>
+<p> odpowiedz </p>
+<p> 1 </p>
+<p> 2 </p>
+<p> następna </p>
+<p> » </p>
+<p> Szukaj w serwisie </p>
+<p> WP.$('#queryForm').submit(function () { 				var input = WP.$(this).children('input[name=query]')[0]; 				if ('' == input.value) 					return false; 			}); </p>
+<p> Bądź z nami na bieżąco </p>
+<p> window._wpSocialQueue.a.push('FB'); </p>
+<p> Facebook </p>
+<p> X </p>
+<p> window._wpSocialQueue.a.push('GPLUS'); </p>
+<p> Google Plus </p>
+<p> X </p>
+<p> RSS </p>
+<p> mobile </p>
+<p> window._wpSocialQueue.p.push({ 				app: "WP", 				pluginName: "wpJoinUs", 				data: { 					headerText: null, 					box : WP.$(".wpSocial-joinus"), 					termsSelector : ".regulamin", 					termsUrl : null				}} 			); </p>
+<p> NPB("034"); </p>
+<p> NPB("037"); </p>
+<p> Najważniejsze </p>
+<p> wiadomości </p>
+<p> Największe kontrowersje katastrofy smoleńskiej </p>
+<p> dodane </p>
+<p> 1 godzinę i 12 minut </p>
+<p> temu </p>
+<p> Premier: przyjdzie taki dzień, gdy katastrofa smoleńska nie będzie dzieliła Polaków </p>
+<p> dodane </p>
+<p> 1 godzinę i 22 minuty </p>
+<p> temu </p>
+<p> W Smoleńsku i Katyniu oddadzą hołd Polakom </p>
+<p> dodane </p>
+<p> (04:46) </p>
+<p> MON rozważa przywrócenie przedwojennych stopni wojskowych </p>
+<p> dodane </p>
+<p> (04:50) </p>
+<p> Zespół Laska zaczyna działać. Premier podpisał... </p>
+<p> dodane </p>
+<p> 2013-04-09 </p>
+<p> (21:35) </p>
+<p> Martwe noworodki znalezione w Lubawie </p>
+<p> dodane </p>
+<p> 2013-04-09 </p>
+<p> (20:49) </p>
+<p> więcej wiadomości </p>
+<p> Raporty specjalne </p>
+<p> 01. </p>
+<p> Katastrofa smoleńska </p>
+<p> 02. </p>
+<p> Sprawa Madzi </p>
+<p> 03. </p>
+<p> Papież </p>
+<p> 04. </p>
+<p> Ustawa o związkach partnerskich </p>
+<p> 05. </p>
+<p> Wielkanoc </p>
+<p> wszystkie raporty </p>
+<p> Galerie </p>
+<p> Martwe noworodki znalezione w Lubawie </p>
+<p> Film "Prezydent" </p>
+<p> Wiosenne roztopy </p>
+<p> Działaczki Femenu zaskoczyły Władimira... </p>
+<p> dodaj zdjęcie </p>
+<p> więcej galerii </p>
+<p> Wideo </p>
+<p> Zagadkowa śmierć laureata Nagrody Nobla Pabla Nerudy - film </p>
+<p> Ratownicy uratowali 4-latkę, która wpadła do studni - film </p>
+<p> Z Wiejskiej: na lewicy króluje PiS </p>
+<p> Józef Oleksy: jestem wyższy od Lecha Wałęsy </p>
+<p> dodaj film </p>
+<p> więcej filmów </p>
+<p> NPB("010"); </p>
+<p> NPB("011"); </p>
+<p> NPB("017"); </p>
+<p> NPB("018"); </p>
+<p> chcę wysłać </p>
+<p> Zrobiłeś unikalne zdjęcie, </p>
+<p> napisałeś ciekawą </p>
+<p> wiadomość? </p>
+<p> Wyślij je do nas lub załóż </p>
+<p> własne konto, na którym </p>
+<p> je opublikujesz. </p>
+<p> Najlepsze materiały </p>
+<p> publikujemy na stronie głównej serwisu. </p>
+<p> Ostatnio dodane przez </p>
+<p> reporterów </p>
+<p> WP24 </p>
+<p> Woda - wątpliwy sposób na rachunek za śmieci </p>
+<p> dodane przez: evak, mj </p>
+<p> Prognoza pogody </p>
+<p> dodane przez: Internauta WP24 </p>
+<p> więcej </p>
+<p> Tylko w WP.PL </p>
+<p> Gra wokół katastrofy smoleńskiej, o co chodzi rosyjskim władzom? </p>
+<p> Prof. Wawrzyniec Konarski o Margaret Thatcher: oto dlaczego wzbudza kontrowersje </p>
+<p> Cezary Gmyz: zapis czarnych skrzynek mógł być zmanipulowany </p>
+<p> więcej </p>
+<p> <!-- // <![CDATA[ WiadLokalneMiasta = {1019391:"Białystok", 1019389:"Bydgoszcz, Toruń", 1019379:"Gdańsk", 1019381:"Gorzów Wlkp., Zielona Góra", 1019409:"Katowice", 1019405:"Kielce", 1019401:"Kraków", 1019383:"Lublin", 1019395:"Łódź", 1019385:"Olsztyn", 1019399:"Opole", 1019407:"Poznań", 1019403:"Rzeszów", 1019387:"Szczecin", 1019393:"Warszawa", 1019397:"Wrocław"}; WiadLokalneMiastaGeo = 1019393; // ]]> --> </p>
+<p> Wiadomości </p>
+<p> lokalne </p>
+<p> W środę utrudnienia w ruchu w Warszawie wz. z obchodami 3. rocznicy katastrofy smoleńskiej </p>
+<p> Karetka przyjechała za późno; chory zmarł </p>
+<p> Margaret Thatcher czy Edward Gierek? Radni wybiorą patrona ronda w Warszawie </p>
+<p> Prokuratura umorzyła śledztwo ws. śmierci Jolanty Brzeskiej </p>
+<p> We wtorek wznowienie poszukiwań zaginionego z zatopionej łodzi w Warszawie </p>
+<p> Na Wiśle zatonął kuter holowniczy </p>
+<p> Pikieta związkowców przed Ministerstwem Zdrowia </p>
+<p> Opóźnienia metra z powodu awarii </p>
+<p> Lotnisko Chopina: wiadomo już, co znaleźli robotnicy </p>
+<p> Policja zatrzymała podejrzanych o pomoc w napadzie na konwój w Wólce Kosowskiej </p>
+<p> więcej wiadomości </p>
+<p> Konflikty </p>
+<p> Adm. Samuel Locklear: USA będą w stanie przechwycić rakiety Korei Północnej </p>
+<p> Szef NATO Anders Fogh Rasmussen uda się wkrótce do Korei Południowej </p>
+<p> Akt oskarżenia ws. śmiertelnego pobicia żołnierza z Łaska </p>
+<p> Izrael: dożywocie dla żydowskiego radykała za mordowanie Palestyńczyków </p>
+<p> Afganistan: z pomocą Polaków przechwycono materiały do produkcji bomb </p>
+<p> więcej </p>
+<p> Na sygnale </p>
+<p> Ciała noworodków znalezione w zamrażalniku! </p>
+<p> Tragiczny finał imprezy. Piotrek konał dwa dni </p>
+<p> Policjanci mieli "gratisy" w agencji towarzyskiej? </p>
+<p> Cała rodzinka to robiła - wszyscy wpadli </p>
+<p> więcej </p>
+<p> // <![CDATA[ var pollChecked = false; // ]]> </p>
+<p> Sonda </p>
+<p> Czy weźmiesz udział w obchodach 3. rocznicy katastrofy smoleńskiej? </p>
+<p> Tak </p>
+<p> Nie </p>
+<p> Jeszcze nie wiem </p>
+<p> liczba oddanych głosów: 2563 </p>
+<p> zobacz wyniki » </p>
+<p> najczęsciej czytacie </p>
+<p> najczęsciej polecacie </p>
+<p> najgorętsze dyskusje </p>
+<p> .01 </p>
+<p> Marcin Wolski: Zabawy z Tygrysem </p>
+<p> .02 </p>
+<p> Tajemniczy pociąg przejechał przez Polskę. Przewoził uran </p>
+<p> .03 </p>
+<p> Edmund Klich: Rosjanie kłamali w śledztwie </p>
+<p> .04 </p>
+<p> Płonie luksusowy hotel w Groznym </p>
+<p> .05 </p>
+<p> Makabryczne znalezisko w domu małżeństwa z Lubawy </p>
+<p> więcej popularnych wiadomości </p>
+<p> .01 </p>
+<p> Polacy znużeni informacjami o tematyce homoseksualnej - ankieta WP.PL </p>
+<p> .02 </p>
+<p> Dzieci to luksus - państwo nie pomaga rodzinom </p>
+<p> .03 </p>
+<p> Marcin Wolski: gry planszowe premiera wszystkich trampkarzy </p>
+<p> .04 </p>
+<p> Papież mieszka w Domu Świętej Marty bo nie chce być izolowany </p>
+<p> .05 </p>
+<p> Papież Franciszek: kusiła mnie kobieta </p>
+<p> więcej popularnych wiadomości </p>
+<p> .01 </p>
+<p> Zespół Macierewicza w rocznicę katastrofy zaprezentuje nowe ustalenia </p>
+<p> .02 </p>
+<p> Katastrofa smoleńska nadal jest zagadką dla Polaków </p>
+<p> .03 </p>
+<p> Edmund Klich: Rosjanie kłamali w śledztwie </p>
+<p> .04 </p>
+<p> "Nie wykluczam prowokacji" podczas obchodów rocznicy katastrofy smoleńskiej </p>
+<p> .05 </p>
+<p> Jarosław Kaczyński: oddanie śledztwa ws. Smoleńska to drwienie sobie z Polski, degraduje nas </p>
+<p> więcej popularnych wiadomości </p>
+<p> <!-- // <![CDATA[ 		var tab = WP.tabs('Naj'); 	// ]]> --> </p>
+<p> Tagi </p>
+<p> antoni macierewicz </p>
+<p> barbara piasecka johnson </p>
+<p> donald tusk </p>
+<p> dziecko </p>
+<p> franciszek </p>
+<p> janusz palikot </p>
+<p> jorge mario bergoglio </p>
+<p> katastrofa </p>
+<p> katastrofa smoleńska </p>
+<p> korea północna </p>
+<p> kościół katolicki </p>
+<p> kuria rzymska </p>
+<p> leszek miller </p>
+<p> lotnisko </p>
+<p> matka </p>
+<p> papież </p>
+<p> papież franciszek </p>
+<p> policja </p>
+<p> reforma </p>
+<p> rocznica </p>
+<p> rosja </p>
+<p> sejm </p>
+<p> smoleńsk </p>
+<p> sondaż </p>
+<p> śmierć </p>
+<p> usa </p>
+<p> watykan </p>
+<p> wojna </p>
+<p> wypadek </p>
+<p> zamach </p>
+<p> NPB("006"); </p>
+<p> Polecane: </p>
+<p> Pogoda </p>
+<p> | </p>
+<p> Wyznaczanie trasy </p>
+<p> | </p>
+<p> BMI </p>
+<p> | </p>
+<p> Tarot </p>
+<p> | </p>
+<p> Program tv </p>
+<p> | </p>
+<p> Plotki </p>
+<p> | </p>
+<p> Moje IP </p>
+<p> | </p>
+<p> Wiadomości </p>
+<p> | </p>
+<p> Sport </p>
+<p> | </p>
+<p> Top News </p>
+<p> O firmie </p>
+<p> | </p>
+<p> Dla prasy </p>
+<p> | </p>
+<p> Reklama </p>
+<p> | </p>
+<p> Biznes z WP.PL </p>
+<p> | </p>
+<p> Skontaktuj się z WP.PL </p>
+<p> | </p>
+<p> Praca </p>
+<p> | </p>
+<p> Prywatność </p>
+<p> | </p>
+<p> Zasady korzystania </p>
+<p> | </p>
+<p> Polityka antyspamowa </p>
+<p> Zobacz wszystkie serwisy </p>
+<p> | </p>
+<p> RSS </p>
+<p> Copyright © 1995-2013 </p>
+<p> Wirtualna Polska </p>
+<p> setTimeout(function () { 				var a=document.createElement("script"); 				var b=document.getElementsByTagName('script')[0]; 				a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/6469.js?"+Math.floor(new Date().getTime()/3600000); 				a.async=true; 				a.type="text/javascript"; 				b.parentNode.insertBefore(a,b); 			}, 1); </p>
+<p> window.WPsocial.config('FB', { 				fbAppId : '196956980412461', 				fbNamespace : 'wiadomosciwppl', 				fbXfbml : false, 				fbStatus : true, 				fbCookie : true, 				fbLang : 'pl_PL' 			}); </p>
+<p> window.WPsocial.config('GPLUS', { 				parseTags : 'onload', 				gplusLang : 'pl' 			}); </p>
+<p> window.WPsocial.settings.set({version : '1.0.0',baseLink : '//a.wpimg.pl/a/i/wpsocialadmin/' }); 			var i, c; 			c = _wpSocialQueue.p.length;for ( i =0; i < c; i++) {  				if (window._wpSocialQueue.p[i].useBaseLink) { 					window._wpSocialQueue.p[i].scriptUrl =  WPsocial.settings.getBaseLink(true) + window._wpSocialQueue.p[i].scriptUrl;     				}     				window.WPsocial.addPlugin(window._wpSocialQueue.p[i]); 			} 			c = _wpSocialQueue.a.length; 			for (i = 0; i < c; i++) { 				window.WPsocial.loadApplication(window._wpSocialQueue.a[i]); 			} </p>

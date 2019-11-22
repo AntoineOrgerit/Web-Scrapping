@@ -1,0 +1,159 @@
+<p> Samsung 全白版Galaxy10.1寸/7寸平板越南亮相 - 數碼 - 新浪網 </p>
+<p> // for pulldown function jumpContentPage(cat, period, mediaFilter, newsId)	{ var _url = document.location.href; if (/mobile/.test(_url))	{ Channel.util.open_url('/mobile/news/'+cat+'/'+period+'/'+mediaFilter+'/'+newsId+'/1.html', 'no'); }	else	{ Channel.util.open_url('/news/'+cat+'/'+period+'/'+mediaFilter+'/'+newsId+'/1.html', 'no'); } return false; } // // resize font size var resizeFontBtn = 'normal'; function resizeContentFont (size, buttonObj)	{ switch (size)	{ case 'large'	:	$('#news_text p').css('font-size', '18px'); $('#news_text p').css('line-height', '27px'); $('#news_text .contentTitle').css('font-size', '20px'); break; case 'small'	:	$('#news_text p').css('font-size', '12px'); $('#news_text p').css('line-height', '20px'); $('#news_text .contentTitle').css('font-size', '12px'); break; case 'normal'	:	$('#news_text p').css('font-size', '15px'); $('#news_text p').css('letter-spacing', '1px'); $('#news_text p').css('line-height', '22px'); $('#news_text .contentTitle').css('font-size', '15px'); break; default				: break; } $('#resizeFontBtn'+resizeFontBtn).removeClass('buttonOn'); $(buttonObj).addClass('buttonOn'); resizeFontBtn = size; } // </p>
+<p> 1月17日 17°C </p>
+<p> 香港新浪首頁 </p>
+<p> 微博 </p>
+<p> Blog </p>
+<p> 郵箱 </p>
+<p> 新聞 </p>
+<p> 財經 </p>
+<p> 娛樂 </p>
+<p> eLadies </p>
+<p> 數碼 </p>
+<p> 教育 </p>
+<p> GAME </p>
+<p> 足球 </p>
+<p> 旅遊 </p>
+<p> Hi, </p>
+<p> 登出 </p>
+<p> 登入 </p>
+<p> Channel.sln.showHeaderInfo(); </p>
+<p> var as_random = as_get_cookie('SINA_GRAN'); if (as_random > 20){ // to remove the SINA_GRAN cookie assigned to channel. to be remove after on 2009/11/1 	as_delete_global_cookie('SINA_GRAN'); 	as_delete_cookie('SINA_GRAN'); 	as_random = as_get_cookie('SINA_GRAN'); }  if (as_random == null) {   as_random = Math.floor(Math.random()*7); } else { 	as_random++; } as_set_global_cookie('SINA_GRAN', as_random);  function as_get_random_seq(count){   return as_random%count; }  	 var as_section='ros'; //all page are ros except match the following var as_curr_url = document.location.href;     as_curr_url= as_curr_url.replace(RegExp("^http://"+location.hostname), '');  var as_exact_match = new Array( "/", "/index.html", "/nw/main/dc.html", "/nw/main/dv.html", "/nw/main/mplayer.html", "/nw/main/apple.html", "/nw/main/tv.html", "/nw/main/notebook.html"  );    var as_pattern = new Array( //"/test/regex.html$" );                     for ( var i = 0; i < as_exact_match.length; i++) {   if (as_exact_match[i] == as_curr_url) {   	as_section='index'; break;   } }  if (as_section == "ros"){   for ( var i = 0; i < as_pattern.length; i++) {     if (as_curr_url.match(as_pattern[i])) {   	  as_section='index'; break;     }   } }  // check if mobile section pages var mobile = 0; if (as_curr_url.match("/mobile/"))	{ 	mobile = 1; } </p>
+<p> randomstr = new String (Math.random()); randomstr = randomstr.substring(1,8);  var temp_url = '';  if(mobile) { //--Mobile Sub-Channel--// temp_url = 'http://pixel-hk.pixelinteractivemedia.com/adj.php?ts=' + randomstr + '&sid=421810721481'; document.write('<scr'+'ipt language="JavaScript" SRC="'+temp_url+'"></scr'+'ipt>'); } else { //--Digital Channel--// if (as_section == 'index'){ temp_url = 'http://pixel-hk.pixelinteractivemedia.com/adj.php?ts=' + randomstr + '&sid=661143671484'; document.write('<scr'+'ipt language="JavaScript" SRC="'+temp_url+'"></scr'+'ipt>'); } else {      var str = document.location.href;     var reg1a = new RegExp("sony-alpha"); 	if(  (reg1a.test(str))  )     { 	    //--Sony Alpha 55--//         randomstr = new String (Math.random());         randomstr = randomstr.substring(1,8);         document.write ("<" + "script language='JavaScript' type='text/javascript' src='" + "http://pixel-hk.pixelinteractivemedia.com/adj.php?ts=" + randomstr + "&amp;sid=360558333659" + "'><" + "/script>"); 	} 	else 	{         temp_url = 'http://pixel-hk.pixelinteractivemedia.com/adj.php?ts=' + randomstr + '&sid=661143671484'; 		document.write('<scr'+'ipt language="JavaScript" SRC="'+temp_url+'"></scr'+'ipt>');     } }  } </p>
+<p> 主頁 </p>
+<p> 手機 </p>
+<p> 攝影 </p>
+<p> 影音 </p>
+<p> 電腦 </p>
+<p> Apple </p>
+<p> 互聯網 </p>
+<p> 新知 </p>
+<p> 微博 </p>
+<p> 進階搜尋 </p>
+<p> function switchSubNav	(subnav)	{ Channel.ajax.loadContent('subnavContainer', '/api/subnav/'+subnav+'.html'); }  $("#nav_99").addClass("selected"); if (typeof document.getElementById("subnav") != "undefined")	{ $("#subnav").addClass("text1_HL"); } </p>
+<p> 數碼 </p>
+<p> 新聞 </p>
+<p> eWeek：諾基亞WP戰略終將失敗十大原因 </p>
+<p> Samsung 全白版Galaxy10.1寸/7寸平板越南亮相 </p>
+<p> 雜誌:智能電視將成科技界下場變革焦點 </p>
+<p> Samsung 全白版Galaxy10.1寸/7寸平板越南亮相 </p>
+<p> 2012-01-15  20:00 </p>
+<p> 1 / 7 </p>
+<p> $('#showOverlayBtn').lightBox({ overlayOpacity: 0.7, imageLoading: '/images/100924/nwAlbum/overlayLoading.gif', imageBtnClose: '/images/100924/nwAlbum/overlayClose.gif', imageBtnPrev:		'/images/100924/nwAlbum/overlayPrev.gif', imageBtnNext:		'/images/100924/nwAlbum/overlayNext.gif', iframeUrl : '/nw/album.html?n=1166951&m=1919644' }); </p>
+<p> function jsPhotoslideObj_initCallback (carousel) { jQuery('#jsPhotoslideNextBtn').bind('click', function() { carousel.next(); return false; }); jQuery('#jsPhotoslidePrevBtn').bind('click', function() { carousel.prev(); return false; }); }; jQuery('#jsPhotoslideObj').jcarousel({ initCallback: jsPhotoslideObj_initCallback, wrap: 'circular', scroll:1 }); </p>
+<p> 調整字體︰ </p>
+<p> 大 </p>
+<p> 中 </p>
+<p> 小 </p>
+<p> 據國外媒體報導， Samsung 日前在越南展出了全新的白色版Galaxy Tab 10.1和Tab 7.0 Plus平板電腦。 </p>
+<p> 這兩款平板是 Samsung 的熱門機型，市面上的Galaxy Tab 10.1和Tab 7.0 Plus有黑色和白色兩種版本，但之前的白色版本設備只有背面是白色的，正面螢幕的周圍還是黑色。而 Samsung 這次展出的是全白版，正面和背面都是白色。 </p>
+<p> 除顏色之外，全白色版Galaxy Tab 10.1和Tab 7.0 Plus的配置與其它顏色版本一樣。 </p>
+<p> Galaxy Tab 10.1採用10.1英吋1280x800螢幕，搭載1GHz雙核處理器並配備315萬像素自動對焦鏡頭，配有LED閃光燈等，運行Android 3.0系統。 </p>
+<p> Galaxy Tab 7.0 Plus採用的是7.0英吋1024x600螢幕，搭載1.2GHz雙核處理器，配備315萬像素鏡頭，配有LED閃光燈等，運行Android 3.2系統。 </p>
+<p> 除了新浪微博外，香港新浪科技正式登陸Facebook專頁，我們希望以此機會，天天為更多不同的朋友，帶來第一手中文數碼科技新聞，不論是科技業 界或是數碼產品資訊和傳聞，我們都會天天送上不斷更新，務求令大家知得更多。 還不快點到Facebook LIKE 我們的專頁~ </p>
+<p> http://www.facebook.com/sinadigital </p>
+<p> 我們也開了Google plus page,如有Google plus account的你,也可follow 我們吧! </p>
+<p> https://plus.google.com/104792312952728477864 </p>
+<p> (內容由新浪北京提供。未經授權，不得轉載。) </p>
+<p> //add_newsClicked('1166951'); </p>
+<p> TAGS </p>
+<p> 硬件 </p>
+<p> , </p>
+<p> Notebook / PC </p>
+<p> , </p>
+<p> 電腦品牌 </p>
+<p> , </p>
+<p> Samsung </p>
+<p> , </p>
+<p> Samsung </p>
+<p> , </p>
+<p> 平板電腦 </p>
+<p> , </p>
+<p> RSS </p>
+<p> eWeek：諾基亞WP戰略終將失敗十大原因 </p>
+<p> 雜誌:智能電視將成科技界下場變革焦點 </p>
+<p> // Resize iframe to full height function resizeIframe(height) { // "+60" is a general rule of thumb to allow for differences in // IE & and FF height reporting, can be adjusted as required.. document.getElementById('mass_follow').height = parseInt(height); } </p>
+<p> 贊助網站 </p>
+<p> /*<![CDATA[*/ $(document).ready(function(){ var cm = new SINA.ads.contentmatch({ hostName        : "cmh.hk.overture.com", dataFormat        : "js_flat_1_0", config            : "20499789115", source            : "sina_hk_ctxt", ctxtRotate			: 1, ctxtId            : ["mobile", "technology", "auto" ], ctxtUrl            : encodeURIComponent(window.location.href), ctxtCat            : "hk_t1_default_automotive", type            : "mobile", maxCount        : "2", keywordCharEnc    : "utf-8-hkscs", outputCharEnc    : "utf-8-hkscs" }); cm.loadAds(function(ads) { var str = ""; for (var i=0; i<ads.length; i++) { str += "<p onclick='window.open(\""+ads[i]["link"]+"\");return false;' align='left' style='cursor:hand;cursor:pointer;padding-bottom:10px;color:#464646;font-size:12px'><a style='font-size:15px;color:#6665CD;text-decoration:none' target='_blank' href="+ads[i]["link"]+"><b>"+ads[i]["title"]+"</b></a><br />"+ads[i]["description"]+"<br /><i>"+ads[i]["host"]+"</i></p>"; } document.getElementById("contentMatch").innerHTML = str; }); }); /*]]>*/ </p>
+<p> var temp_url = '';  if(mobile) { //--Mobile Sub-Channel--// temp_url = 'http://as.sinahk.net/f?s=227&w=100&h=1&t=_blank'; dhtmlLoadScript(temp_url); } else { //--Digital Channel--// if (as_section == 'index'){ temp_url = 'http://as.sinahk.net/f?s=407&w=100&h=1&t=_blank'; } else { temp_url = 'http://as.sinahk.net/f?s=407&w=100&h=1&t=_blank'; } dhtmlLoadScript(temp_url); } </p>
+<p> randomstr = new String (Math.random()); randomstr = randomstr.substring(1,8);  var temp_url = '';  if(mobile)  { //--Mobile Sub-Channel--// 	var str = document.location.href; 	var reg1a = new RegExp("966091"); 	var reg1b = new RegExp("966092"); 	var reg1c = new RegExp("966095"); 	var reg1d = new RegExp("966100"); 	var reg1e = new RegExp("966101"); 	if(  (reg1a.test(str)) || (reg1b.test(str)) || (reg1c.test(str)) || (reg1d.test(str)) || (reg1e.test(str))  ) 	{ 		//--HTC--// 		randomstr = new String (Math.random()); 		randomstr = randomstr.substring(1,8); 		document.write ("<" + "script language='JavaScript' type='text/javascript' src='" + "http://pixel-hk.pixelinteractivemedia.com/adj.php?ts=" + randomstr + "&sid=783479693679" + "'><" + "/script>"); 	}     else     {         temp_url = 'http://pixel-hk.pixelinteractivemedia.com/adj.php?ts=' + randomstr + '&sid=662127101482';         document.write('<scr'+'ipt language="JavaScript" SRC="'+temp_url+'"></scr'+'ipt>');     } } else { //--Digital Channel--// if (as_section == 'index'){ temp_url = 'http://pixel-hk.pixelinteractivemedia.com/adj.php?ts=' + randomstr + '&sid=576720771485'; document.write('<scr'+'ipt language="JavaScript" SRC="'+temp_url+'"></scr'+'ipt>'); } else {      var str = document.location.href;     var reg1a = new RegExp("sony-alpha"); 	if(  (reg1a.test(str))  )     { 	    //--Sony Alpha 55--// 		randomstr = new String (Math.random());         randomstr = randomstr.substring(1,8);         document.write ("<" + "script language='JavaScript' type='text/javascript' src='" + "http://pixel-hk.pixelinteractivemedia.com/adj.php?ts=" + randomstr + "&amp;sid=597168513660" + "'><" + "/script>");     } 	else 	{         temp_url = 'http://pixel-hk.pixelinteractivemedia.com/adj.php?ts=' + randomstr + '&sid=576720771485'; 		document.write('<scr'+'ipt language="JavaScript" SRC="'+temp_url+'"></scr'+'ipt>');     } }  } </p>
+<p> randomstr = new String (Math.random());randomstr = randomstr.substring(1,8);var temp_url = ''; if (as_section == 'index'){ temp_url = 'http://as.sinahk.net/f?s=853&w=300&h=250&t=_blank';} else { temp_url = 'http://as.sinahk.net/f?s=853&w=300&h=250&t=_blank';}document.write('<scr'+'ipt language="JavaScript" SRC="'+temp_url+'"></scr'+'ipt>'); </p>
+<p> var temp_url = '';  if(mobile)  { //--Mobile Sub-Channel--//    temp_url = 'http://as.sinahk.net/f?s=224&w=300&h=60&t=_blank';    dhtmlLoadScript(temp_url); } else { //--Digital Channel--// if (as_section == 'index'){ temp_url = 'http://as.sinahk.net/f?s=409&w=300&h=90&t=_blank'; } else { temp_url = 'http://as.sinahk.net/f?s=409&w=300&h=90&t=_blank'; } dhtmlLoadScript(temp_url); } </p>
+<p> 微博速報 </p>
+<p> 專題 </p>
+<p> 美國消費電子展 CES 2012 </p>
+<p> 作為年初最早的綜合性消費電子大展，CES帶給我們的不僅是新穎的產品和精彩的發佈活動，在數碼影像領域... </p>
+<p> iPad 3傳聞再起 </p>
+<p> 該消息稱iPad 2貼牌生產的訂量在2011年第四季度為1400-1500萬台，但在2012年第一季度下降到了400-500... </p>
+<p> Google ICS 香港發佈會 </p>
+<p> Samsung和Google終於確認，是次發佈會真的會在10月19日香港時間上午10 時在港舉行。 </p>
+<p> 蘋果宣布喬布斯逝世 </p>
+<p> Apple 公司對外宣佈聯和創始人斯蒂夫•喬布斯辭世，享年56歲。 </p>
+<p> 蘋果Let's talk iPhone發佈會專題 </p>
+<p> 蘋果將會在美國時間10月4日舉行發佈會，從以上圖片中可見，今次大會主題是“Let's talk iPhone"。 </p>
+<p> 最熱文章 </p>
+<p> 模特兒台下鮮為人知的生活寫真 </p>
+<p> 俄年輕女孩潛入秘密火箭工廠：內部似死亡... </p>
+<p> 國外好笑街頭遊戲塗鴉(圖)! </p>
+<p> 秒殺GALAXY S3  4核/5.3寸LG新旗艦曝光 </p>
+<p> Jim Richardson：自然風光攝影作品欣賞 </p>
+<p> 三星新機皇Galaxy S III再曝光：窄邊設計... </p>
+<p> 庫克：我們都被iPhone 4S在中國需求量嚇... </p>
+<p> Apple 聯合創始人：Android部分功能優於... </p>
+<p> 十三種奇特北極動物 </p>
+<p> CES 2012贏家和輸家：蘋果未參展居輸家之... </p>
+<p> 新聞分享 </p>
+<p> 投票 </p>
+<p> 2012你最期待的手機 (只可選一個答案) </p>
+<p> 新一代iPhone </p>
+<p> Galaxy S3 </p>
+<p> HTC 4核Edge </p>
+<p> Lumia 900 </p>
+<p> Panasonic 首部 Android </p>
+<p> Intel Android 手機 </p>
+<p> Blackberry 新系統手機 </p>
+<p> Sony Ericsson ( Nozomi) </p>
+<p> 數碼資訊 </p>
+<p> 手機新品介紹 </p>
+<p> 手機評測 </p>
+<p> 手機專題 </p>
+<p> 攝影新品介紹 </p>
+<p> 相機評測 </p>
+<p> 相機專題 </p>
+<p> 影音新品介紹 </p>
+<p> 影音產品評測 </p>
+<p> 影音專題 </p>
+<p> 電腦新品介紹 </p>
+<p> 電腦產品評測 </p>
+<p> 電腦專題 </p>
+<p> 蘋果新品介紹 </p>
+<p> 蘋果產品評測 </p>
+<p> 蘋果專題 </p>
+<p> 科技新知 </p>
+<p> 科技專題 </p>
+<p> 相關頻道 </p>
+<p> 旅遊攝影 </p>
+<p> 遊戲機科技 </p>
+<p> 奇聞軼事 </p>
+<p> 明星 / 美女 </p>
+<p> 女性數碼產品 </p>
+<p> 新浪簡介 </p>
+<p> | </p>
+<p> 新浪網尋人 </p>
+<p> | </p>
+<p> 網站導航 </p>
+<p> | </p>
+<p> 意見信箱 </p>
+<p> | </p>
+<p> 廣告查詢 </p>
+<p> | </p>
+<p> 加入會員 </p>
+<p> | </p>
+<p> 隱私權保護 </p>
+<p> Copyright © 2012 SINA.com All Rights Reserved　 版權所有 不得轉載 </p>
+<p> if(mobile)  { //--Mobile Sub-Channel--// document.write('<scr'+'ipt type="text/javascript" src="http://asjs.sinahk.net/soccer/wc2010/result_feed/get_feed.js"></scr'+'ipt>'); document.write('<scr'+'ipt src="http://as.sinahk.net/f?s=229&w=700&h=120&t=_blank" type="text/javascript"></scr'+'ipt>'); } else { //--Digital Channel--//    if (as_section == 'index'){        randomstr = new String (Math.random());randomstr = randomstr.substring(1,8);document.write ("<" + "script language='JavaScript' type='text/javascript' src='" + "http://servedby.adsfactor.net/adj.php?ts=" + randomstr + "&amp;sid=79419961577" + "'><" + "/script>");    } } </p>
+<p> var _comscore = _comscore || [];_comscore.push({ c1: "2", c2: "8275064" });(function() {var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s, el);})(); </p>
+<p> <!-- var _rsCI="hk-Sina"; var _rsCG="0"; var _rsDT=0; var _rsDU=0; var _rsDO=1; var _rsX6=0; var _rsSI=escape(window.location); var _rsLP=location.protocol.indexOf('https')>-1?'https:':'http:'; var _rsRP=escape(document.referrer); var _rsND=_rsLP+'//secure-asia.imrworldwide.com/'; if (parseInt(navigator.appVersion)>=4) { var _rsRD=(new Date()).getTime(); var _rsSE=0; var _rsSV=""; var _rsSM=0; _rsCL='<scr'+'ipt language="JavaScript" type="text/javascript" src="'+_rsND+'v51.js"><\/scr'+'ipt>'; } else { _rsCL='<img src="'+_rsND+'cgi-bin/m?ci='+_rsCI+'&cg='+_rsCG+'&si='+_rsSI+'&rp='+_rsRP+'">'; } document.write(_rsCL); //--> </p>
+<p> var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); </p>
+<p> try { var pageTracker = _gat._getTracker("UA-7621498-1"); pageTracker._trackPageview(); } catch(err) {} </p>
+<p> if (mobile)	{ randomstr = new String (Math.random());randomstr = randomstr.substring(1,8);document.write ("<" + "script language='JavaScript' type='text/javascript' src='" + "http://servedby.wordsnap.asia/adjk.php?ts=" + randomstr + "&amp;sid=761625491481" + "'><" + "/script>"); } else { randomstr = new String (Math.random());randomstr = randomstr.substring(1,8);document.write ("<" + "script language='JavaScript' type='text/javascript' src='" + "http://servedby.wordsnap.asia/adjk.php?ts=" + randomstr + "&amp;sid=706548911484" + "'><" + "/script>"); } </p>

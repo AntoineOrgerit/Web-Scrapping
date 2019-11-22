@@ -1,0 +1,220 @@
+<p> В Одессе официально болеют ОРВИ почти 5 тысяч человек - Новости Одессы - 048.ua - сайт города Одессы </p>
+<p> //<![CDATA[ var client; $(document).ready(function(){ 	client = jQuery.Zend.jsonrpc({url: '/api/v1/jsonrpc'}); 	$('#subscribe').click(function(){ 		subscribenews('subscribe', $('#email').val()); 	});  	$('#unsubscribe').click(function(){ 		subscribenews('unsubscribe', $('#email').val()); 	}); }); function subscribenews(action, email){ 	var data = client.subscribenews(action, email); 	$.each(data, function(index, value) { 		$("#error_block").html(value); 	}); }     //]]> </p>
+<p> //<![CDATA[ $(document).ready(function() { 	new Ya.share({ 		element: 'sharelink', 		l10n: 'ru', 		elementStyle: { 			'type': 'none', 			'border': false, 			'quickServices': ['vkontakte', 'facebook', 'twitter', 'odnoklassniki', 'gbuzz', 'moimir', 'yaru'] 		}, 		title: 'В Одессе официально болеют ОРВИ почти 5 тысяч человек', 			image: 'http://citysites.com.ua/upload/img/news/top/small/orvi1322413805.jpeg', 			serviceSpecific: { 			twitter: { 				title: 'В Одессе официально болеют ОРВИ почти 5 тысяч человек #odessa' 			} 		} 	}); });    //]]> </p>
+<p> //<![CDATA[ var page_id; var page_type; $(document).ready(function() { 	page_id = 95913; 	page_type = "news"; });    //]]> </p>
+<p> window.vkAsyncInit = function() { 	VK.init({apiId: 2025692}); VK.Widgets.Like("vk_like", {type: "button", verb: 1});}; setTimeout(function() { 	var el = document.createElement('script'); 	el.type = 'text/javascript'; 	el.src = 'http://vkontakte.ru/js/api/openapi.js'; 	el.async = true; 	document.getElementById('vk_api_transport').appendChild(el); }, 0); </p>
+<p> window.fbAsyncInit = function() { 	FB.init({appId:143932985658653, status:true, cookie:true, xfbml:true}); };  (function() { 	var e = document.createElement('script'); 	e.type = 'text/javascript'; 	e.src = document.location.protocol + '//connect.facebook.net/ru_RU/all.js';//#xfbml=1 	e.async = true; 	document.getElementById('fb-root').appendChild(e); }()); </p>
+<p> #pogoda_small { 	position:absolute; 	display:none; } </p>
+<p> Сегодня </p>
+<p> Вечером </p>
+<p> +7 °С </p>
+<p> Завтра </p>
+<p> Днём </p>
+<p> +8 °С </p>
+<p> Вечером </p>
+<p> +6 °С </p>
+<p> Погода на неделю </p>
+<p> Одесса </p>
+<p> $(document).ready(function(){  	$("#pogoda_blok").click( 		function(){ 			var p = $("#pogoda_blok"); 			var offset = p.offset(); 	        offsetleft = offset.left; 			offsettop = offset.top + 30;             $("#pogoda_small").css({'top' : offsettop, 'left' : offsetleft}); 			$("#pogoda_small").slideToggle("fast"); 			return false; 		}, 		function(){ 			$("#pogoda_small").slideUp("fast"); 		} 	); }); </p>
+<p> +9 °С </p>
+<p> var mounts=new Array('января','февраля','марта','апреля','мая','июня','июля','августа','сентября','октября','ноября','декабря'); $(document).ready(function(){ 	var dateObj = new Date(); 	dateObj.setHours(dateObj.getHours()+2); 	var new_date_str = dateObj.getUTCDate() + ' ' + mounts[dateObj.getUTCMonth()] + 	' | ' + dateObj.getUTCHours() + ':' + addnul(dateObj.getUTCMinutes()); 	$('.header_date').html(new_date_str); }); function addnul(n) { 	if (n < 10) { 		return '0' + n; 	} 	return n; } </p>
+<p> #headsearch td { color:black; font-family:verdana,tahoma,arial,verdana; font-size:11px; text-align:left; } </p>
+<p> Главная </p>
+<p> Новости </p>
+<p> Справочник предприятий </p>
+<p> Шоппинг </p>
+<p> Работа </p>
+<p> Авто </p>
+<p> Досуг </p>
+<p> Афиша </p>
+<p> Знакомства </p>
+<p> Битва ФАКУЛЬТЕТОВ </p>
+<p> Королева Одессы 2011 </p>
+<p> Кубок Одесской области по черлидингу </p>
+<p> Погода </p>
+<p> Объявления </p>
+<p> Транспорт </p>
+<p> Гороскоп </p>
+<p> Голос города </p>
+<p> Карта города </p>
+<p> Мы в сети: </p>
+<p> ТОП-20 новостей сайта </p>
+<p> Художник Папашон </p>
+<p> Регистрация предприятия </p>
+<p> Вход для предприятий </p>
+<p> RSS </p>
+<p> Рубрики </p>
+<p> Топ-20 </p>
+<p> Криминал </p>
+<p> Культура </p>
+<p> Общество </p>
+<p> Политика </p>
+<p> Происшествия </p>
+<p> Бизнес </p>
+<p> Новости компаний </p>
+<p> Акции компаний </p>
+<p> Спорт </p>
+<p> Страна и мир </p>
+<p> Потребителю </p>
+<p> Технологии </p>
+<p> Экология </p>
+<p> Здоровье </p>
+<p> Образование </p>
+<p> Экономика </p>
+<p> Реклама </p>
+<p> Подписка на новости и афишу </p>
+<p> Ваш e-Mail адрес </p>
+<p> Архив новостей </p>
+<p> Январь </p>
+<p> Февраль </p>
+<p> Март </p>
+<p> Апрель </p>
+<p> Май </p>
+<p> Июнь </p>
+<p> Июль </p>
+<p> Август </p>
+<p> Сентябрь </p>
+<p> Октябрь </p>
+<p> Ноябрь </p>
+<p> Декабрь </p>
+<p> 2011 </p>
+<p> 2010 </p>
+<p> $(document).ready(function() { 	$("#month").change(function() {     $.get("/ajax/calendar", {month_ajax: $("#month").val(),years_ajax: $("#years").val(), model: 'Table_News_News'}, function(data)     {        $("#calendar").html(data);     }); 		$('#calendar').slideUp("slow"); 		$('#calendar').slideDown("slow"); 	}); 	$("#years").change(function() {    $.get("/ajax/calendar", {month_ajax: $("#month").val(),years_ajax: $("#years").val(), model: 'Table_News_News'}, function(data)     {        $("#calendar").html(data);     }); 		$('#calendar').slideUp("slow"); 		$('#calendar').slideDown("slow"); 	});   $.get("/ajax/calendar", {month_ajax: $("#month").val(),years_ajax: $("#years").val(), model: 'Table_News_News'}, function(data)     {        $("#calendar").html(data);     }); }); </p>
+<p> В Одессе официально болеют ОРВИ почти 5 тысяч человек </p>
+<p> Сайт города Одессы </p>
+<p> / </p>
+<p> Новости </p>
+<p> / </p>
+<p> Здоровье </p>
+<p> / </p>
+<p> В Одессе официально болеют ОРВИ почти 5 тысяч человек </p>
+<p> 28.11.2011 | 09:15 </p>
+<p> Разместить в своём: </p>
+<p> Версия для печати </p>
+<p> Заболеваемость острыми респираторными инфекциями среди населения города находится на сезонном уровне, сообщили в санитарно-эпидемиологической службе города Одессы. </p>
+<p> За последнюю неделю за медицинской помощью с симптомами острой респираторной вирусной инфекции в лечебно-профилактические учреждения города обратилось 4 867 человек, что соответствует средним многолетним контрольным показателям. </p>
+<p> В настоящее время на территории города регистрируется заболеваемость острыми респираторными инфекциями негриппозной природы. </p>
+<p> Наиболее важным моментом в борьбе с острыми респираторными инфекциями и гриппом является их профилактика, отмечают специалисты. </p>
+<p> Как показывает опыт предыдущих лет, наибольшую эффективность в профилактике заболевания гриппом имеет применение противогриппозных вакцин. Введение в организм вакцины не может вызвать заболевание, но путем выработки защитных антител стимулирует иммунную систему для борьбы с инфекцией. </p>
+<p> На сегодня в аптечной сети города реализуются вакцины ФЛЮАРИКС, ИНФЛУВАК, ВАКСИГРИПП, ГРИППОЛ ПЛЮС, ИНФЛЕКСАЛ В. В Одессе в этом году пожелало получить прививку против гриппа 1395 человек. </p>
+<p> 048.ua </p>
+<p> Твитнуть </p>
+<p> {lang: 'ru'} </p>
+<p> Оставить комментарий </p>
+<p> Пожалуйста, не оставляйте оскорбительные, клеветнические комментарии, призывы к национальной розни, а также сообщения не относящиеся к теме публикации. Эти комментарии будут удалены. </p>
+<p> Для отправки комментариев нужно включить javascript </p>
+<p> Имя </p>
+<p> setTimeout(function() { 	$("div.comment_subs input#subs").bind("focusin", function() { 		$("#subs").unbind("focusin"); 		$("div.comment_subs label").html(""); 	}); }, 0); </p>
+<p> Всего сообщений: 0 </p>
+<p> Новости на подобную тему </p>
+<p> 27.11 | 15:00 </p>
+<p> Сколько стоит плохое лечение? </p>
+<p> (1) </p>
+<p> 25.11 | 14:50 </p>
+<p> Одесситам предложат прививать детей от менингококка </p>
+<p> 25.11 | 14:15 </p>
+<p> Бельгийскую прививку АКДС готовы вернуть в украинские поликлиники </p>
+<p> 25.11 | 09:30 </p>
+<p> Медики не нашли связи между прививкой и смертью ребенка </p>
+<p> 24.11 | 16:15 </p>
+<p> В Одессе помогут льготникам за счет высокопоставленных стоматологов </p>
+<p> 24.11 | 15:30 </p>
+<p> Медики предупредили одесситов о смертельно опасной бацилле </p>
+<p> 23.11 | 14:15 </p>
+<p> Родители умершего двухлетнего малыша считают, что перед прививкой медики не провели обследования </p>
+<p> (2) </p>
+<p> 22.11 | 12:00 </p>
+<p> В Минздраве отрицают, что смерть двухлетнего ребенка в Одессе связана с введением вакцины </p>
+<p> (1) </p>
+<p> 22.11 | 09:00 </p>
+<p> В Одессе медики устанавливают, была ли прививка причиной смерти двухлетнего ребенка </p>
+<p> 18.11 | 13:00 </p>
+<p> В Одесской области построят целый центр для реабилитации двух украинских космонавтов </p>
+<p> (4) </p>
+<p> Последние новости </p>
+<p> 28.11 | 17:00 </p>
+<p> На Одесщине в собственном доме сгорела 86-летняя женщина </p>
+<p> 28.11 | 16:45 </p>
+<p> Небо над Одессой заволокло дымом (фото) </p>
+<p> 28.11 | 16:30 </p>
+<p> В Одессе Ниссан сбил велосипедиста </p>
+<p> 28.11 | 16:15 </p>
+<p> В Одесской области на крупной взятке «погорела» чиновница одного из беднейших районов </p>
+<p> 28.11 | 16:00 </p>
+<p> В Одессе пожарные спасли кошку </p>
+<p> 28.11 | 15:45 </p>
+<p> Под Одессой в жилой пятиэтажке взорвался газ </p>
+<p> 28.11 | 15:30 </p>
+<p> Пьяный водитель «Лады» устроил «догонялки» в центре Одессы </p>
+<p> 28.11 | 15:15 </p>
+<p> Депутатам за народные деньги закупили 500 невероятно дорогих ноутбуков </p>
+<p> (3) </p>
+<p> 28.11 | 15:00 </p>
+<p> Одесские власти ответят за гриф «Для служебного пользования» Генплана в прокуратуре </p>
+<p> (1) </p>
+<p> 28.11 | 14:59 </p>
+<p> Правительство отменило новогодние и рождественские каникулы для украинцев </p>
+<p> 28.11 | 14:45 </p>
+<p> Под Одессой Ниссан сбил 34-летнего мужчину </p>
+<p> 28.11 | 14:30 </p>
+<p> Пенсионеры с вилами и лопатами в Донецке взяли штурмом обладминистрацию </p>
+<p> (2) </p>
+<p> 28.11 | 14:15 </p>
+<p> ДемАльянс нашел повод, как оштрафовать одесскую мэрию </p>
+<p> 28.11 | 14:10 </p>
+<p> Неподалеку одесского ж/д вокзала сгорели два двухэтажных жилых дома (фото) </p>
+<p> 28.11 | 14:00 </p>
+<p> В Одессе объявят о сотрудничестве министры Украины и Венгрии </p>
+<p> (1) </p>
+<p> 28.11 | 13:45 </p>
+<p> Из Приморского района Одессы собираются отселить 26 тысяч человек? </p>
+<p> 28.11 | 13:30 </p>
+<p> В Одесской области под колесами трактора погиб «пассажир» из прицепа </p>
+<p> 28.11 | 13:15 </p>
+<p> В Одесской области пограничники с голливудскими спецэфектами задерживали «контрабас» с молдавским куревом </p>
+<p> (1) </p>
+<p> 28.11 | 13:00 </p>
+<p> Одесские «януковичи» и «тигипковцы» заявляют, что проблем между ними нет </p>
+<p> 28.11 | 12:45 </p>
+<p> Под Одессой за квартирные махинации осудили военного офицера </p>
+<p> ТОП новости </p>
+<p> В Одессе прошла акция «Украина против Януковича» </p>
+<p> (44) </p>
+<p> Одесса, Янукович, «Потемкинские деревни» </p>
+<p> (51) </p>
+<p> Янукович в Одессе сотворил чудо </p>
+<p> (29) </p>
+<p> Янукович взял под личный контроль вопрос с выделением земли в Отраде </p>
+<p> (13) </p>
+<p> Ликвидация в  Одессе. День сегодняшний </p>
+<p> (20) </p>
+<p> Скандал в Одесской областной телерадиокомпании «докатился» до Президента </p>
+<p> (602) </p>
+<p> Простыни пропаганды </p>
+<p> (10) </p>
+<p> Юрий Кармазин: расследование одесских журналистов по делу Дикаева — это повод Президенту созвать СНБО </p>
+<p> (15) </p>
+<p> Я - корреспондент </p>
+<p> Есть интересная новость? </p>
+<p> Расскажите о ней всему городу. Мы опубликуем. </p>
+<p> <!-- 	 var mail_user; 	 var mail_host; 	 mail_user = 'news'; 	 mail_host = '@'+ '048.ua'; 	 document.write('<a href="mailto:'+mail_user+mail_host+'" >'+mail_user+mail_host+'</a>'); 	//--> </p>
+<p> Тел: </p>
+<p> (048) </p>
+<p> 705-1-333 </p>
+<p> (многоканальный) </p>
+<p> , </p>
+<p> 794-96-09 </p>
+<p> Почта: </p>
+<p> <!-- 	 var mail_user; 	 var mail_host; 	 mail_user = 'info'; 	 mail_host = '@'+ '048.ua'; 	 document.write('<a href="mailto:'+mail_user+mail_host+'" >'+mail_user+mail_host+'</a>'); 	//--> </p>
+<p> Авторские права </p>
+<p> | </p>
+<p> Реклама на сайте </p>
+<p> | </p>
+<p> Сеть городских сайтов </p>
+<p> | </p>
+<p> Наши журналисты </p>
+<p> <!-- document.write("<a href='http://www.liveinternet.ru/click;048inua' "+ "target=_blank rel='nofollow'><img src='//counter.yadro.ru/hit;048inua?t52.6;r"+ escape(document.referrer)+((typeof(screen)=="undefined")?"": ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth? screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+ ";"+Math.random()+ "' alt='' title='LiveInternet: показано число просмотров и"+ " посетителей за 24 часа' "+ "border='0' width='88' height='31'><\/a>") //--> </p>
+<p> <!-- bmN=navigator,bmD=document,bmD.cookie='b=b',i=0,bs=[],bm={v:16822505,s:16822505,t:2,c:bmD.cookie?1:0,n:Math.round((Math.random()* 1000000)),w:0}; for(var f=self;f!=f.parent;f=f.parent)bm.w++; try{if(bmN.plugins&&bmN.mimeTypes.length&&(x=bmN.plugins['Shockwave Flash']))bm.m=parseInt(x.description.replace(/([a-zA-Z]|\s)+/,'')); else for(var f=3;f<20;f++)if(eval('new ActiveXObject("ShockwaveFlash.ShockwaveFlash.'+f+'")'))bm.m=f}catch(e){;} try{bm.y=bmN.javaEnabled()?1:0}catch(e){;} try{bmS=screen;bm.v^=bm.d=bmS.colorDepth||bmS.pixelDepth;bm.v^=bm.r=bmS.width}catch(e){;} r=bmD.referrer.slice(7);if(r&&r.split('/')[0]!=window.location.host){bm.f=escape(r);bm.v^=r.length} bm.v^=window.location.href.length;for(var x in bm) if(/^[vstcnwmydrf]$/.test(x)) bs[i++]=x+bm[x]; bmD.write('<a href="http://top.bigmir.net/" target="_blank" rel="nofollow" onClick="img=new Image();img.src=&quot;http://www.bigmir.net/?cl=16822505&quot;;"><img src="http://c.bigmir.net/?'+bs.join('&')+'"  width="88" height="31" border="0" alt="bigmir)net TOP 100" title="bigmir)net TOP 100"></a>'); //--> </p>
+<p> Copyright @ 2009 - 2011 </p>
+<p> 048.ua - сайт города Одессы </p>
+<p> var _gaq = _gaq || [];   _gaq.push(['_setAccount', 'UA-8955215-3']);   _gaq.push(['_setDomainName', 'none']);   _gaq.push(['_setAllowLinker', true]);   _gaq.push(['_trackPageview']);   (function() {     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);   })(); </p>

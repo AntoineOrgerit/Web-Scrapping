@@ -1,0 +1,8 @@
+<HTML xmlns="http://www.w3.org/1999/xhtml">
+<style type="text/css">
+A:before { content:' '; } 
+A:after { content:' '; } 
+SPAN:before { content:' '; } 
+SPAN:after { content:' '; } 
+</style>
+</HTML>

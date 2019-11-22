@@ -1,0 +1,981 @@
+<p> adSetAdURL('http://' + ((document.domain && document.domain != '')?document.domain:'www.huffingtonpost.com') + ((location.port)?':'+location.port:'') + '/_uac/adpage.html'); </p>
+<p> 'Bushmeat' Trade May Import Disease, Study Suggests </p>
+<p> huff.v() </p>
+<p> jQuery.getScript('http://s.huffpost.com/assets/js.php?f=', function(){ 				huff.emit('ready'); 			}); </p>
+<p> // common modules huff.use('conf', 'modal', 'image', 'layout', 'cookies', 'user', 'track', 'common', 'promo', 'app-feeds', 'front/quickread', 'front/topnav'); // bpage modules huff.use('front/bignews', 'bpage/threeup', 'bpage'); </p>
+<p> HPConfig.comments_update_interval = 200000;		HPConfig.comments_update_for_all_users = false;		HPConfig.user_show_levels_and_badges_disabled = false; </p>
+<p> HPFB.api_key = "4d965afccc4d86c598dbf5d94fb34a7c";     HPFB.app_id = "46744042133"; </p>
+<p> var feedKeyword = "Wellness"; </p>
+<p> HPAds.full_page_config = {"flights":[{"mode":"all_but","name":"devil","spots":["left_lower"]}]}; </p>
+<p> commercial_video = {                       "site_and_category":"huffpost.green",                       "package":""                   }; </p>
+<p> var ads_ext_ref_sig = ''; </p>
+<p> TwitterAnywhere.anywhere(); </p>
+<p> HPConfig.enable_fb_widgets = 1; 	HPConfig.current_vertical_name = 'green'; 	HPConfig.current_vertical_id = 13;	 	HPConfig.current_web_address = "www.huffingtonpost.com";     HPConfig.current_uri = "/2012/01/11/bushmeat-trade-infectious-disease_n_1200262.html"; 	HPConfig.hp_static_domain = "s.huffpost.com"; 	HPConfig.inst_type = "prod"; 	HPConfig.timestamp_for_clearing_js = "0"; 	HPConfig.slideshow_individual_slide_link = false; // by default 	HPConfig.slideshow_mode = "0"; 	HPConfig.slideshow_type = ""; 	HPConfig.slideshow_id = 0; 	HPConfig.wide_format = 0; 	HPConfig.entry_id = 1200262; 	HPConfig.blog_id = 2; 	HPConfig.entry_design = ""; 	HPConfig.display_domain = "i.huffpost.com"; 	HPConfig.page_type = "bpage"; 	HPConfig.twitter_signature = "@huffingtonpost";     HPConfig.current_vertical_color = '#399800';     HPConfig.current_vertical_color_light = '#2F7B02';     HPConfig.entry_tags = new Array('hivaids','africa','immigration','international-travel','bushmeat','ebola','global-trade','infectious-diseases','the-infection-loop','wildlife-trade');     HPConfig.huffsite = "www.huffingtonpost.com";      	 		 	//Synchronise the user login status on multi-domain with huffingtonpost.com 		  		HPConfig.recaptcha_key = "6Ld6ZcISAAAAAIhkL02obhQNn6tdW47W-t-HcPAO"; 	HPConfig.bit_ly_key = {"user_name":"huffpost","user_key":"R_3db9b90fe8f78f0f2b180e72055462c8"}; 	HPConfig.entry_expanded = 0; 	            HPConfig.image = 'http://i.huffpost.com/gen/463018/thumbs/s-BUSHMEAT-large.jpg';             HPAds.social_campaigns = {"all_on_everywhere":{"fb_100x20":"","hashtag":"","twitter_optout_language":"","email_message":""},"social_green":{"fb_100x20":"","hashtag":"","twitter_optout_language":"","email_message":""}};     	 	HPConfig.terms_link = ""; 	HPConfig.privacy_link = ""; </p>
+<p> tacProp = new Object();                 tacProp.vert = "Green";                 tacProp.tags="kventryid=1200262;kvcmsid=hpo:1200262;kvent=3450077:3698566;kvsub=982065:980149:981192:980470:983889:979163:981525:978094:982661:982665;kvpagetype=bpage:news:atf;kveditags=hivaids:africa:immigration:international-travel:bushmeat:ebola:global-trade:infectious-diseases:the-infection-loop:wildlife-trade;kvvert=green;kvblogger=lynne-peeples;kvspon=y;" + HPAds.adtech_client_side_inf();                 adSetOthAT(tacProp.tags); </p>
+<p> HPConfig.fb_recom_version = 2; 	HPConfig.most_popular_version = 3; </p>
+<p> HPFB.init(); </p>
+<p> var zone_info = "huffpost.green;green=1;health-news=1;reporting=1;science=1;world=1;;blogger=lynne-peeples;entry_id=1200262;hivaids=1;africa=1;immigration=1;international-travel=1;bushmeat=1;ebola=1;global-trade=1;infectious-diseases=1;the-infection-loop=1;wildlife-trade=1"; </p>
+<p> var _gaq = _gaq || []; HPTrack.async = true; HPTrack.getTracker();  	HPTrack.setCustomVar("news", "default"); HPTrack.setCustomVar('vertical', 'Green'); 		    HPTrack.trackPageview(); 	 (function() {   var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;   ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';   (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga); })(); 		            bN_cfg = { 	h: location.hostname, 	p: {"dL_ch":"us.hpmggre","dL_dpt":"default","dL_cmsID":"hpo:1200262","dL_author":"Lynne Peeples","dL_crtdt":"2012-01-11 19:00:00","dL_tags":"HIV\/AIDS,africa,immigration,International Travel,bushmeat,ebola,global trade,infectious diseases,the infection loop,wildlife trade","cobrand":"HuffPost"}};          function runOmni() {   s_265.pfxID = 'hpo';   s_265.channel = 'us.hpmggre';   s_265.linkInternalFilters = 'javascript:,huffingtonpost.com';   s_265.prop16 = 'news';   s_265.prop1 = 'default';   s_265.pageName = "" + document.title;   s_265.prop9 = 'hpo:1200262';   s_265.prop22 = 'lynne-peeples';   s_265.prop23 = '01-11-2012';   s_265.prop12 = "" + document.URL.split('?')[0];   s_265.t();    }  s_265_account ="aolhuffpostgreen,aolsvc";  (function(d){ var s = d.createElement('script'); s.src = "http://o.aolcdn.com/os_merge/?file=/aol/beacon.min.js&file=/aol/omniture.min.js"; d.getElementsByTagName('head')[0].appendChild(s); })(document); </p>
+<p> HuffPost's QuickRead... </p>
+<p> ShareBox.ad = function (tag_id) 	{ 		if ($(tag_id) == undefined) return;  		if ($(tag_id).innerHTML != '') return; 		 		ad_spec = { 			"zone_info": "huffpost.green;green=1;health-news=1;reporting=1;science=1;world=1;;blogger=lynne-peeples;entry_id=1200262;hivaids=1;africa=1;immigration=1;international-travel=1;bushmeat=1;ebola=1;global-trade=1;infectious-diseases=1;the-infection-loop=1;wildlife-trade=1", 			"ord": 1326380743, 			"tile": 3, 			"width": 300, 			"height": 250, 			"el_id": tag_id + "_js", 			"class_name": "ad_block ad_wide top", 			"type": "iframe" 		} 		HuffPoUtil.WEDGJE.write(ad_spec, tag_id); 	}; </p>
+<p> Loading... </p>
+<p> ShareBox.set_email_class(); 	var CommentPoller = { 		check: function(entry_id) 		{ 			if (document.getElementById('lastComment')) { 				var last=document.getElementById('lastComment').innerHTML; 				Comments.addCommentMy(entry_id, last, 0); 			} 			setTimeout("CommentPoller.check(1200262);", 30000); 		} 	} 	CommentPoller.check(1200262); </p>
+<p> HuffPost's QuickRead... </p>
+<p> ShareBox.ad = function (tag_id) 	{ 		ad_spec = { 			"zone_info": "huffpost.green;green=1;health-news=1;reporting=1;science=1;world=1;;blogger=lynne-peeples;entry_id=1200262;hivaids=1;africa=1;immigration=1;international-travel=1;bushmeat=1;ebola=1;global-trade=1;infectious-diseases=1;the-infection-loop=1;wildlife-trade=1", 			"ord": 1326380743, 			"tile": 3, 			"width": 300, 			"height": 250, 			"el_id": tag_id + "_js", 			"class_name": "ad_block ad_wide top", 			"type": "iframe" 		} 		HuffPoUtil.WEDGJE.write(ad_spec, tag_id); 	}; </p>
+<p> Loading... </p>
+<p> ShareBox.set_email_class(); 	var CommentPoller = { 		check: function(entry_id) 		{ 			if (document.getElementById('lastComment')) { 				var last=document.getElementById('lastComment').innerHTML; 				Comments.addCommentMy(entry_id, last, 0); 			} 			setTimeout("CommentPoller.check(1200262);", 30000); 		} 	} 	CommentPoller.check(1200262); 	/* ShareBox.ad("ad_email"); */ </p>
+<p> EDITION: U.S. </p>
+<p> CA </p>
+<p> Canada </p>
+<p> US </p>
+<p> United States </p>
+<p> UK </p>
+<p> United Kingdom </p>
+<p> Climate Change </p>
+<p> The Infection Loop </p>
+<p> EPA </p>
+<p> Animals </p>
+<p> Armchair Detective </p>
+<p> More </p>
+<p> Log in </p>
+<p> (function($) {                             var un = HuffCookies.getUserName(),                                 c = "<div class=\"arrow-user-active\"><\/div><div class=\"user-dropdown absolute\"><div class=\"brd-container\"><ul class=\"snb-container\" id=\"li_alerts\"><li class=\"alerts\"><a href=\"\/social\/{username}?action=notifications\">My Alerts<span class=\"corners_10px count\"><\/span><\/a><\/li><li id=\"snb-comment_replies\"><a href=\"\/social\/{username}?action=notifications#!\/alerts\/new\/comment_replies\">Comment Replies<span><\/span><\/a><div class=\"updates\"><\/div><\/li><li id=\"snb-comment_badges\"><a href=\"\/social\/{username}?action=notifications#!\/alerts\/new\/comment_badges\">Comment Badges<span><\/span><\/a><div class=\"updates\"><\/div><\/li><li id=\"snb-favorited_comments\"><a href=\"\/social\/{username}?action=notifications#!\/alerts\/new\/favorited_comments\">Favorited Comments<span><\/span><\/a><div class=\"updates\"><\/div><\/li><li id=\"snb-new_followers\"><a href=\"\/social\/{username}?action=notifications#!\/alerts\/new\/new_followers\">New Followers<span><\/span><\/a><div class=\"updates\"><\/div><\/li><\/ul><ul class=\"snb-container snb-container-right\" id=\"li_stories\"><li class=\"stories\"><a href=\"\/social\/{username}?action=notifications\">My Stories<span class=\"corners_10px count\"><\/span><\/a><\/li><li id=\"snb-recommendations\"><a href=\"\/social\/{username}?action=notifications#!\/stories\/new\/recommendations\">Stories You Might Like<span><\/span><\/a><div class=\"updates\"><\/div><\/li><li id=\"snb-breaking_news\"><a href=\"\/social\/{username}?action=notifications#!\/stories\/new\/breaking_news\">Breaking News<span><\/span><\/a><div class=\"updates\"><\/div><\/li><\/ul><div class=\"clear-0\"><\/div><\/div><div class=\"get-alerts\"><a class=\"see-all-alerts\" href=\"\/social\/{username}?action=notifications\">See All Alerts<\/a><a class=\"see-all-news\" href=\"\/social\/{username}?action=notifications\">See All News Alerts<\/a><input type=\"text\" placeholder=\"Enter email address\" id=\"navbar_subscribe\" onfocus=\"QuickSubscribeUser.checkInput(this)\" class=\"email input_border color_ACACAC arial_11 padding_top_3 padding_left_3 float_left margin_right_5\" \/><a href=\"javascript:void(0);\" onclick=\"QuickSubscribeUser.pop('_form', '', null, 'navbar_subscribe'); return false;\" class=\"button small white margin_top_1 margin_right_5 text_transf_none\">Get Alerts<\/a><\/div><\/div>".replace(/{username}/g, un),                                 s = $('#social-nav-bar');                             if ( un )                             {                                 s.html(c).css('display', 'inline-block');                                 SocialNotifications.init(                                     {                                        ajax: false                                    });                             } else s.empty();                         })(jQuery); </p>
+<p> | </p>
+<p> Sign Out </p>
+<p> #topnav_margin_btm { margin:0 !important } </p>
+<p> if(HPAds.ad_check_page_config('leaderboard_flex')) {                             var adId = '93318075';                             htmlAdWH(adId, "lb", "lb","fc");                             var debugadcode = '';                             document.write(debugadcode);                         } </p>
+<p> HPAds.ad_onload('div#ad_leaderboard_flex iframe','HPAds.ad_uac_onload_handler(\' iframe[class^="uac_"]\',this,\'bottom_ad_border_div\',10)') </p>
+<p> January 12, 2012 </p>
+<p> Like </p>
+<p> 85K </p>
+<p> jQuery('#fb_like_vertical').mouseenter(function() { 	var html = "<div id=\"fb-tooltip\" class=\"fb-tooltip-main\"><div class=\"fb-tooltip-wrapper\"><span>Follow us on Facebook</span><br/>Get updates from HuffPost Green posted directly to your News Feed.<div class=\"corner\"><div class=\"first\"></div><div class=\"second\"></div></div></div></div>"; 	var coords = [-5, -78]; 	if( HPConfig.current_vertical_name == 'homepage' ) { 		coords = [-5, -70]; 	} 	else if( HPConfig.current_vertical_name == 'mapquest' ) { 		coords = [-5, -68]; 	} 	FloatingPrompt.embed(this, html, undefined, 'top', {fp_intersects:1, timeout_remove:2000,ignore_arrow: true, width:236, add_xy:coords, class_name: 'clear-overlay'});	 }); </p>
+<p> CONNECT </p>
+<p> HPUtil.initUserNavStatus(false); </p>
+<p> FRONT PAGE </p>
+<p> U.S. </p>
+<p> UK </p>
+<p> CANADA </p>
+<p> POLITICS </p>
+<p> 2012 BLOG </p>
+<p> HUFFPOST HILL </p>
+<p> 2012 ELECTIONS </p>
+<p> FUNDRACE </p>
+<p> GREEN </p>
+<p> POLLSTER </p>
+<p> SPECULATRON </p>
+<p> OFF THE BUS </p>
+<p> BUSINESS </p>
+<p> SMALL BUSINESS </p>
+<p> ENTERTAINMENT </p>
+<p> CELEBRITY </p>
+<p> ENTERTAINMENT </p>
+<p> MUSIC </p>
+<p> RADIO </p>
+<p> MOVIES </p>
+<p> TV </p>
+<p> GAMES </p>
+<p> COMEDY </p>
+<p> TECH </p>
+<p> TECH </p>
+<p> TECHCRUNCH </p>
+<p> JOYSTIQ </p>
+<p> SCIENCE </p>
+<p> ENGADGET </p>
+<p> APPLE BLOG </p>
+<p> MEDIA </p>
+<p> LIFE & STYLE </p>
+<p> STYLE NEWS </p>
+<p> STYLELIST </p>
+<p> FOOD NEWS </p>
+<p> WEDDINGS </p>
+<p> PARENTS </p>
+<p> GREEN </p>
+<p> TRAVEL </p>
+<p> STYLELIST HOME </p>
+<p> KITCHEN DAILY </p>
+<p> DIVORCE </p>
+<p> HUFF/POST50 </p>
+<p> RELIGION </p>
+<p> CULTURE </p>
+<p> ARTS </p>
+<p> PARENTS </p>
+<p> TRAVEL </p>
+<p> COLLEGE </p>
+<p> RELIGION </p>
+<p> IMPACT </p>
+<p> BOOKS </p>
+<p> EDUCATION </p>
+<p> COMEDY </p>
+<p> URLESQUE </p>
+<p> HEALTHY LIVING </p>
+<p> HEALTH AND FITNESS </p>
+<p> HEALTH NEWS </p>
+<p> MINDFUL LIVING </p>
+<p> SLEEP </p>
+<p> WOMEN </p>
+<p> HEALTHY LIVING </p>
+<p> PARENTS </p>
+<p> LOCAL </p>
+<p> NEW YORK </p>
+<p> SAN FRANCISCO </p>
+<p> DENVER </p>
+<p> MIAMI </p>
+<p> PATCH </p>
+<p> CHICAGO </p>
+<p> LOS ANGELES </p>
+<p> DC </p>
+<p> DETROIT </p>
+<p> YELLOW PAGES </p>
+<p> MORE </p>
+<p> SCIENCE </p>
+<p> BLACKVOICES </p>
+<p> SPORTS </p>
+<p> WORLD </p>
+<p> EDUCATION </p>
+<p> GAY VOICES </p>
+<p> GREEN </p>
+<p> LATINOVOICES </p>
+<p> COLLEGE </p>
+<p> CRIME </p>
+<p> WEIRD NEWS </p>
+<p> HIGH SCHOOL </p>
+<p> GREEN </p>
+<p> ENERGY </p>
+<p> CLIMATE CHANGE </p>
+<p> ANIMALS </p>
+<p> GREEN TECH </p>
+<p> POLITICS </p>
+<p> FOOD </p>
+<p> GREEN HOLIDAY </p>
+<p> .header-search {margin-bottom: 0px;}  #ad_curtain {height:auto;margin:10px auto 0;width:938px} </p>
+<p> if(HPAds.ad_check_page_config('curtain')) {                         document.write('');                         var ks = [];                         if(typeof ad_overrides != 'undefined' && ad_overrides.keyvalues_supress) {                             ks = ad_overrides.keyvalues_supress;                         }                         var ad_code = '<script type="text/javascript" src="http://ad.doubleclick.net/adj/huffpost.green/curtain;green=1;health-news=1;reporting=1;science=1;world=1;;blogger=lynne-peeples;entry_id=1200262;hivaids=1;africa=1;immigration=1;international-travel=1;bushmeat=1;ebola=1;global-trade=1;infectious-diseases=1;the-infection-loop=1;wildlife-trade=1;global=1;' + HPAds.ads_client_side_qvs() + ';' + HPAds.ads_client_info() + ';load_mode=inline;page_type=bpage;page_type=news;page_type=atf;pos=curtain;social=all_on_everywhere;social=social_green;dcopt=ist;u=938x200|bpage,news,atf|curtain|hivaids,africa,immigration,international-travel,bushmeat,ebola,global-trade,infectious-diseases,the-infection-loop,wildlife-trade||' + HPAds.ads_u_value() + '|1200262|||' + HPAds.ads_inf_value() + ';sz=938x200;tile=4;ord=64885195?"></scr'+'ipt>';                     	document.write(supress_keyvalues(ks, ad_code));                         var debugadcode = '';                         document.write(debugadcode);                     } </p>
+<p> HuffPoUtil.AvatarLoader.loadAvatar('http://www.huffingtonpost.com'); </p>
+<p> var extra_view = false; 				if (document.referrer != '' && typeof(document.referrer) == 'string') { 					if (document.referrer.indexOf(window.location.hostname) != -1 && document.referrer.indexOf(window.location.pathname) != -1) { 						extra_view = true; 					} 				} 				var stats_project_image_src = "http://entry-stats.huffpost.com/?1200262&statsentryview" + Math.random().toString(16).replace('0.','') + '&'; 				if (document.referrer != '') { 					stats_project_image_src += escape(document.referrer); 				} 				stats_project_image_src += '&' + extra_view.toString(); 				document.write('<img src="'+ stats_project_image_src +'" width="1" height="1" style=\"height:1px; line-height:1px; overflow:hidden\" />'); 				// SNP tracking 				SNProject.track('1200262','entry_view',0);  			             ViewTracker.VerticalType = "13";             ViewTracker.AddView(); </p>
+<p> Lynne Peeples </p>
+<p> lynne.peeples@huffingtonpost.com </p>
+<p> Become a fan of this reporter </p>
+<p> GET UPDATES FROM Lynne </p>
+<p> Like </p>
+<p> 834 </p>
+<p> 'Bushmeat' Trade May Import Disease, Study Suggests </p>
+<p> Skull (A) and hand (B) of nonhuman primate bushmeat. </p>
+<p> jQuery(document).ready(function() { 					jQuery("#img_caption_1200262").mouseenter(function(){ 					  jQuery('#caption_1200262').fadeIn(100); 					}).mouseleave(function(e){ 					    if( e.relatedTarget.id == 'caption_1200262' ) return false; 						jQuery('#caption_1200262').fadeOut(100); 					}); 					jQuery('#caption_1200262').mouseleave(function(e){ 						if( e.relatedTarget.id != 'img_caption_1200262' ) 							jQuery('#caption_1200262').fadeOut(100); 					}); 				}); </p>
+<p> First Posted: 1/11/12 06:57 PM ET </p>
+<p> Updated: 1/12/12 12:28 AM ET </p>
+<p> React </p>
+<p> HPFacebookVoteV2.init(1200262, '\'Bushmeat\' Trade May Import Disease, Study Suggests', 'Thousands of pounds of primate parts, rodents and other dry, smoked or raw animals -- so-called \\\"bushmeat\\\" -- are smuggled into the United States as food every year, frequently hidden inside cases of similarly stinky but legal fish. Scientists now warn that the increasing practice may also be bringing deadly disease into the country.  \\\"We know a fair amount about the risks of harvesting and slaughtering the animals in countries far away,\\\" said Nina Marano, branch chief of quarantine...', 'http://www.huffingtonpost.com/2012/01/11/bushmeat-trade-infectious-disease_n_1200262.html', 'http://i.huffpost.com/gen/463018/thumbs/s-BUSHMEAT-small.jpg', 'Please join me at &lt;a href=&quot;http://www.huffingtonpost.com/&quot;&gt;Huffington Post&lt;/a&gt;!', 'news', ["Inspiring","Enlightening","Infuriating","Scary","Helpful","Amazing","Innovative","Adorable"]); </p>
+<p> Inspiring </p>
+<p> Enlightening </p>
+<p> Infuriating </p>
+<p> Scary </p>
+<p> Helpful </p>
+<p> Amazing </p>
+<p> Innovative </p>
+<p> Adorable </p>
+<p> Follow </p>
+<p> HIV/AIDS </p>
+<p> , </p>
+<p> Africa </p>
+<p> , </p>
+<p> Immigration </p>
+<p> , </p>
+<p> International Travel </p>
+<p> , </p>
+<p> Bushmeat </p>
+<p> , </p>
+<p> Ebola </p>
+<p> , </p>
+<p> Global Trade </p>
+<p> , </p>
+<p> Infectious Diseases </p>
+<p> , </p>
+<p> The Infection Loop </p>
+<p> , </p>
+<p> Wildlife Trade </p>
+<p> , </p>
+<p> Green News </p>
+<p> #news_entries #ad_sharebox_260x60 img {padding:0px;margin:0px} </p>
+<p> if(HPAds.ad_check_page_config('sharebox_260x60')) {                             var adId = '93315214';                             htmlAdWH(adId, "260", "60","f");                             var debugadcode = '';                             document.write(debugadcode);                         } </p>
+<p> setTimeout(function(){if(typeof social_campaign != 'undefined' && jQuery('.print-link')[0].href.indexOf(social_campaign) == -1 ) { var _print_href = jQuery('.print-link')[0].href; jQuery('.print-link').attr( 'href' , _print_href + '&comm_ref=' + social_campaign )} },3000) </p>
+<p> share this story </p>
+<p> var inst_def = Badges.getUniqName();  		window[inst_def.obj_name] = new Badges({ 			unique_id: inst_def.unique_id, 			holder_id: "badges_v2_1", 			panel_layout: 8, 			complete_callback_func_name: "", 			share_details_callback: false, 			additional_panel_classes: "", 			entry_params: { 				"id" : 1200262, 				"title" : "'Bushmeat' Trade May Import Disease, Study Suggests", 				"created_on": 1326326400, 				"vertical_name": "Green", 				"tweet_comm_hash" : "", 				"tweet_comm_text" : "", 				"force_fb_like"	  : 1,                 "custom_tweet_text" : ""			}, 						 			global_name: "window." + inst_def.obj_name 		});   	// ===================================================== 	// Now goes logic for every layout   	   	   	 		window[inst_def.obj_name].setPanelBorderStyle("glamorous_4");          var slices = {             1: "facebook_glamorous",             2: "retweet_glamorous",             3: "email_glamorous",             4: "google_plusone_glamorous"         }; 		 		// checking for ie7 safari 3 and ff 3.5 browsers because +1 badge not work 		if ((jQuery.browser.mozilla && (jQuery.browser.version <= '1.9.2'))  			|| (jQuery.browser.msie && (jQuery.browser.version <= '7.0'))  			|| (jQuery.browser.safari && (jQuery.browser.version <= '526.12.2'))) 			slices[4] = "comment_glamorous";  		window[inst_def.obj_name].setSlices(slices);  	  	 	 			// Finaly, launch our badges 		Badges.launch("badges_v2_1", inst_def); </p>
+<p> Get Green Alerts </p>
+<p> Sign Up </p>
+<p> Submit this story </p>
+<p> digg </p>
+<p> reddit </p>
+<p> stumble </p>
+<p> Thousands of pounds of primate parts, rodents and other dry, smoked or raw animals -- so-called " </p>
+<p> bushmeat </p>
+<p> " -- are smuggled into the United States as food every year, frequently hidden inside cases of similarly stinky but legal fish. Scientists now warn that the increasing practice may also be bringing deadly disease into the country. </p>
+<p> "We know a fair amount about the risks of harvesting and slaughtering the animals in countries far away," said Nina Marano, branch chief of quarantine and border health services at the U.S. Centers for Disease Control and Prevention. "But we wanted to know more about the persistence, if any, [of pathogens] once the animals have been slaughtered." </p>
+<p> In a small </p>
+<p> study </p>
+<p> published Tuesday in the journal </p>
+<p> PLoS ONE </p>
+<p> , Marano and colleagues from several institutions tested samples of some 44 nonhuman primates and rodents seized by customs agents at JFK International Airport in New York, as well as a few other U.S. points of entry. They then ran sophisticated genetic tests to detect pathogens. </p>
+<p> Sure enough, the researchers found that several bugs had made the trip, including diseases that belong to the same family as HIV -- which also originated in African bushmeat. </p>
+<p> "This is good example of why we want to know about these viruses. We want to prevent any kind of future epidemic similar to what happened with HIV," said Bill Switzer, a microbiologist at the CDC and preeminent expert on the simian foamy virus. First identified in the mid-1990s, SFV is common in nonhuman primates and known to spread quickly. It has also made the jump to humans, though it has yet to cause obvious symptoms. </p>
+<p> Among the other pathogens found in the confiscated bushmeat were several forms of herpes, all of which could pose threats to humans. </p>
+<p> "We are also worried about the viruses that we haven't identified yet," said Kristine Smith, the study's lead researcher and the associate director for health and policy at </p>
+<p> EcoHealth Alliance </p>
+<p> , a New York-based organization of scientists dedicated to the dual goals of conservation and public health. </p>
+<p> if(HPAds.ad_check_page_config('mid_article')) {                             var adId = 'null';                             HPAds.adSonar("1523352", "2348767", "300", "250");                             var debugadcode = '';                             document.write(debugadcode);                         } </p>
+<p> Overall, an estimated </p>
+<p> three of every four </p>
+<p> emerging infectious diseases in humans originate in wildlife. As HuffPost reported last month, the </p>
+<p> live wildlife trade </p>
+<p> can also expose humans to infectious diseases such as monkeypox, bird flu and rat bite fever. Boris Pavlin, the head of the Northern Micronesia office of the World Health Organization who was not involved in the Smith study, warned of potential exposures from close contact with pets that can bite and scratch, noting that "a living being can create an infectious aerosol, which bushmeat normally would not." </p>
+<p> Pavlin said he was not surprised by the results of the Smith study. "My research has shown that there are myriad species of imported animals that are known to be </p>
+<p> potential carriers of zoonotic pathogens </p>
+<p> ," he said. "This study is the first to demonstrate virus directly in imported bushmeat, but it basically confirms what we all suspected." </p>
+<p> A person handling meat may be directly exposed to an animal's blood and internal tissues, which Pavlin said "could be extremely dangerous, particularly as the bushmeat being prepared may be 'double-dead.'" In other words, the animal may have initially died from disease before being found and processed for consumption. This is the scenario that likely gave rise to the deadly Ebola virus. </p>
+<p> People may also be exposed to disease by eating the bushmeat. As with chicken and </p>
+<p> salmonella </p>
+<p> , the level of risk depends on how well the meat is cooked, but millions of Africans rely on bushmeat for protein, and surveys of West African communities have found that many people are unaware that they could get sick from this practice. </p>
+<p> While greater travel and immigration between the United States and Africa means the potential for more direct U.S. exposure, Smith suggests that even a bushmeat hunter contracting a disease abroad could affect health, economy, food and natural resources here. </p>
+<p> "Unfortunately, it is ' </p>
+<p> One Health </p>
+<p> '," said Smith, referring to the emerging movement that seeks more recognition of the connections between the health of the environment, animals and human beings. </p>
+<p> To get a better handle on just how much bushmeat is entering the country -- currently estimated at </p>
+<p> 15,000 pounds a year </p>
+<p> -- as well as the range of diseases that are traveling with it, Smith and her team are now expanding their study to include most of the U.S. airports that have a CDC quarantine. </p>
+<p> Any bushmeat found by U.S. customs agents is already confiscated and destroyed. Ideally, the CDC would like to intervene earlier -- say, before someone abroad even plans their trip. "We are hoping that as we go along with these studies, we can develop educational campaigns to better inform people coming into the U.S. about the risks of bringing bushmeat," said Gale Galland, leader of the CDC's zoonoses team. </p>
+<p> Such efforts may well pay dividends, Pavlin said. "The end users of bushmeat are likely to be very specific communities, which may benefit from targeted efforts to educate them about the potential risks associated with bushmeat," he said. "If we can decrease the demand, we can decrease the risk." </p>
+<p> FOLLOW HUFFPOST </p>
+<p> GREEN </p>
+<p> ON </p>
+<p> Facebook: </p>
+<p> Like </p>
+<p> 85K </p>
+<p> jQuery('#fb_like_submissions').mouseenter(function() { 	var html = "<div id=\"fb-tooltip\" class=\"fb-tooltip-main\"><div class=\"fb-tooltip-wrapper\"><span>Follow us on Facebook</span><br/>Get updates from HuffPost Green posted directly to your News Feed.<div class=\"corner\"><div class=\"first\"></div><div class=\"second\"></div></div></div></div>"; 	var coords = [-5, -72]; 	// display fb-bubble 	FloatingPrompt.embed(this, html, undefined, 'top', {fp_intersects:1, timeout_remove:2000,ignore_arrow: true, width:236, add_xy:coords, class_name: 'clear-overlay'});	 }); </p>
+<p> Twitter: </p>
+<p> Get Alerts </p>
+<p> CONTRIBUTE </p>
+<p> TO THIS STORY </p>
+<p> Send Corrections </p>
+<p> Send us a Link </p>
+<p> Contact us </p>
+<p> Send a Tip </p>
+<p> Send Photos/Videos </p>
+<p> Comment </p>
+<p> jQuery(document).ready(Submissions.init); </p>
+<p> #ad_bottom_article_text {margin-bottom: 15px} </p>
+<p> HPAds.adSonar(1523349,2348767,580,275); </p>
+<p> HIV/AIDS </p>
+<p> Africa </p>
+<p> The Infection Loop </p>
+<p> Immigration </p>
+<p> Thousands of pounds of primate parts, rodents and other dry, smoked or raw animals -- so-called "bushmeat" -- are smuggled into the United States as food every year, frequently hidden inside cases of ... </p>
+<p> Thousands of pounds of primate parts, rodents and other dry, smoked or raw animals -- so-called "bushmeat" -- are smuggled into the United States as food every year, frequently hidden inside cases of ... </p>
+<p> HPAds.five_min={ business:{url:"textBGColor_MO=%232B0073&fallbackType=featured&fallback=2&categories=2,310"}, celebrity:{url:"textBGColor_MO=%23B10000&featured=true&categories=298",title:"Top Celebrity Videos..."}, comedy:{url:"textBGColor_MO=%23BF1900&videoGroupID=126791",title:"Top Comedy Videos..."}, entertainment:{url:"textBGColor_MO=%23B10000&fallbackType=featured&fallback=298&categories=298"}, food:{url:"textBGColor_MO=%23390218&fallbackType=featured&fallback=6&categories=6"}, "healthy-living":{url:"textBGColor_MO=%236AA3B1&fallbackType=featured&fallback=8&categories=8,5"}, parents:{url:"textBGColor_MO=%23A1C468&fallback=11&categories=11"}, style:{url:"textBGColor_MO=%23C62575&fallbackType=featured&fallback=4&categories=4"}, technology:{url:"textBGColor_MO=%23616070&fallbackType=featured&fallback=16&categories=16"}, travel:{url:"textBGColor_MO=%23239CB7&fallbackType=featured&fallback=17&categories=17"}, world:{url:"textBGColor_MO=%230088C3&videoGroupID=124926",title:"Top World Videos..."}, kitchendaily:{url:"textBGColor_MO=%237D8A66&fallbackType=featured&fallback=6&categories=6"}, "uk-entertainment":{url:"textBGColor=transparent&textFGColor_MO=%23FFFFFF&textBGColor_MO=%239E1D1F&featured=true&categories=298&title=Top%20Entertainment%20Videos",title:"Top Entertainment Videos"}, "uk-tech":{url:"textBGColor=transparent&textFGColor_MO=%23FFFFFF&textBGColor_MO=%23727082&fallbackType=featured&fallback=16&categories=16",title:"Related Tech Videos"}, "uk-style":{url:"textBGColor=transparent&textFGColor_MO=%23FFFFFF&textBGColor_MO=%2385194C&fallbackType=featured&fallback=4&categories=4",title:"Related Style Videos"}, "uk-celebrity":{url:"textBGColor=transparent&textFGColor_MO=%23FFFFFF&textBGColor_MO=%239E1D1F&fallbackType=featured&fallback=298&categories=298",title:"Related Celebrity Videos"}, "uk-comedy":{url:"&textBGColor=transparent&textFGColor_MO=%23FFFFFF&textBGColor_MO=%239E1E21&videoGroupID=132116&title=Top%20Comedy%20Videos",title:"Top Comedy Videos..."} };  typeof HPConfig.current_vertical_name!=="undefined"&&HPAds.five_min[HPConfig.current_vertical_name]&&(document.write('<script type="text/javascript" src="http://pshared.5min.com/Scripts/ThumbSeed2.js?sid=577&textLocation=1&thumbnailSize=0&width=579&height=200&displayHeader=' + ((HPConfig.current_vertical_name=='kitchendaily' || HPConfig.current_vertical_name.lastIndexOf('uk-') != -1 )?'true':'false') + '&textFGColor=%23000000&textBGColor=transparent&textFGColor_MO=%23FFFFFF&'+HPAds.five_min[HPConfig.current_vertical_name].url+'"><\/script>'),jQuery(function(){jQuery("div#related_videos").prepend('<div class="related" style="padding-left:3px;"><h2 class="'+HPConfig.current_vertical_name+'"><a class="text" name="5min" style="text-transform:capitalize;">'+(HPAds.five_min[HPConfig.current_vertical_name].title?HPAds.five_min[HPConfig.current_vertical_name].title:"Related "+HPConfig.current_vertical_name.replace(/[^\w\s]/gi," ")+" Videos...")+" </a></h2><br/></div>")})); </p>
+<p> nycnewsnow </p>
+<p> Bushmeat Spreading Diseases in NYC; U.K. Happy Meals Swap Toys for Books </p>
+<p> http://t.co/Vkdrrt0F </p>
+<p> #newyork </p>
+<p> #nyc </p>
+<p> 1 hour ago </p>
+<p> from </p>
+<p> dlvr.it </p>
+<p> HuffPostGreen </p>
+<p> Is the "bushmeat" trade importing disease? </p>
+<p> http://t.co/9CTUuh8p </p>
+<p> 10 hours ago </p>
+<p> from </p>
+<p> TweetDeck </p>
+<p> nydailynews </p>
+<p> Illegal bushmeat smuggled into New York could spread disease or spark pandemics, says study </p>
+<p> http://t.co/8rFbnbo9 </p>
+<p> 14 hours ago </p>
+<p> from </p>
+<p> TweetDeck </p>
+<p> HuffingtonPost </p>
+<p> "Bushmeat" trade may import disease </p>
+<p> http://t.co/lmvB6ANp </p>
+<p> 15 hours ago </p>
+<p> from </p>
+<p> The Huffington Post </p>
+<p> GlobalPost </p>
+<p> Did you see "Contagion"? Illegal African "bushmeat" carries disease through JFK airport, largely unchecked: </p>
+<p> http://t.co/PV953ATb </p>
+<p> 21 hours ago </p>
+<p> from </p>
+<p> web </p>
+<p> Show more results </p>
+<p> TOP INFLUENCERS ON THIS TOPIC </p>
+<p> 89 </p>
+<p> 70 </p>
+<p> 61 </p>
+<p> 29 </p>
+<p> TOP LINKS ON THIS TOPIC </p>
+<p> 1 </p>
+<p> of </p>
+<p> 2 </p>
+<p> Just another news: Bushmeat disease </p>
+<p> Study finds bushmeat smuggled into city could spread disease - NY Daily News </p>
+<p> Bushmeat' Trade May Import Disease, Study Suggests: Thousands of pounds of primate parts, rodents and other dry... </p>
+<p> http://www.medicalnewstoday.com/articles/240221.php </p>
+<p> Study finds bushmeat smuggled into city could spread disease </p>
+<p> Around the Web: </p>
+<p> Bushmeat in NYC! </p>
+<p> Africa News: Herpes and other viruses in illegally imported "bushmeat" </p>
+<p> Madagascar Wildlife Facing Threat Of Illegal Hunting </p>
+<p> Police Raid Asian Wildlife Markets in New Enforcement Push </p>
+<p> Bush Burning Is Major Challenge In Northern Ghana </p>
+<p> More in Green... </p>
+<p> Renda Fuel Tanker Less Than 100 Miles... </p>
+<p> Myanmar Snub-Nosed Monkey Photos Reveal Recently Discovered... </p>
+<p> South Africa Rhino Poaching: 8 Animals Lost... </p>
+<p> Hamlet The Mini Pig Wants His Bottle... </p>
+<p> huff.emit('content/update', '#related_images'); </p>
+<p> Comments </p>
+<p> 29 </p>
+<p> Pending Comments </p>
+<p> 0 </p>
+<p> View FAQ </p>
+<p> Previewing Your Comment. </p>
+<p> This comment has not yet been posted </p>
+<p> You have exceeded your word limit by </p>
+<p> words. Please click the "Edit" button and shorten your comment. </p>
+<p> Post Comment </p>
+<p> Edit </p>
+<p> Cancel </p>
+<p> Click here to leave a comment.  HuffPost High School welcomes a lively, thoughtful debate in the comment section. Keep in mind that the articles here are penned by young authors, so please keep criticism respectful, and help us to keep this a safe and supportive place for writers of all ages to contribute. </p>
+<p> Post Comment </p>
+<p> Preview Comment </p>
+<p> To reply to a Comment: </p>
+<p> Click "Reply" at the bottom of the comment; after being approved your comment will appear directly underneath the comment you replied to. </p>
+<p> Post Comment </p>
+<p> Preview Comment </p>
+<p> To reply to a Comment: </p>
+<p> Click "Reply" at the bottom of the comment; after being approved your comment will appear directly underneath the comment you replied to. </p>
+<p> Share your Comment: </p>
+<p> Post to Facebook. </p>
+<p> Post to Blogger. </p>
+<p> Post to Twitter. </p>
+<p> Post to WordPress. </p>
+<p> Post to TypePad. </p>
+<p> Post to Tumblr. </p>
+<p> Post to Yahoo! </p>
+<p> Blogger login: </p>
+<p> Blogger password: </p>
+<p> Select blog: </p>
+<p> refresh list </p>
+<p> Remember me: </p>
+<p> Wordpress host: </p>
+<p> Wordpress login: </p>
+<p> Wordpress password: </p>
+<p> Remember me: </p>
+<p> TypePad host: </p>
+<p> TypePad login: </p>
+<p> TypePad password: </p>
+<p> Select blog: </p>
+<p> refresh list </p>
+<p> Remember me: </p>
+<p> Tumblr login: </p>
+<p> Tumblr password: </p>
+<p> Remember me: </p>
+<p> Community Notice:  We've made some changes to our badge program, including the addition </p>
+<p> of our newest badge: Community Curator. </p>
+<p> Read more here. </p>
+<p> View All </p>
+<p> Favorites </p>
+<p> Recency </p>
+<p> | </p>
+<p> Popularity </p>
+<p> = _("Page")?>: </p>
+<p> 1 </p>
+<p> 2 </p>
+<p> = _("Next")?> › </p>
+<p> = _("Last")?> » </p>
+<p> (2 total) </p>
+<p> trespanieli </p>
+<p> 405 Fans </p>
+<p> 2 hours ago( 6:23 AM) </p>
+<p> As long as it's killing the monsters involved in this illegal, immoral trade, I say have at it. </p>
+<p> trespanieli: As long as it's killing the monsters involved in this </p>
+<p> http://www.huffingtonpost.com/social/trespanieli/bushmeat-trade-infectious-disease_n_1200262_128304842.html </p>
+<p> History </p>
+<p> | </p>
+<p> Permalink </p>
+<p> | </p>
+<p> Share it </p>
+<p> Loading comments… </p>
+<p> gravityhunter </p>
+<p> Lock, wave n pull </p>
+<p> 120 Fans </p>
+<p> 3 hours ago( 5:56 AM) </p>
+<p> Can't be any more dangerous than chinese treats.... </p>
+<p> ­. </p>
+<p> gravityhunter: Can't be any more dangerous than chinese treats..... </p>
+<p> http://www.huffingtonpost.com/social/gravityhunter/bushmeat-trade-infectious-disease_n_1200262_128303474.html </p>
+<p> History </p>
+<p> | </p>
+<p> Permalink </p>
+<p> | </p>
+<p> Share it </p>
+<p> Loading comments… </p>
+<p> Dinkum Olam </p>
+<p> 29 Fans </p>
+<p> 8 hours ago( 1:02 AM) </p>
+<p> pandemic in the making. Wipe out humans, animals thrive... I LOVE IT ! </p>
+<p> Dinkum_Olam: pandemic in the making. Wipe out humans, animals thrive... I </p>
+<p> http://www.huffingtonpost.com/social/Dinkum_Olam/bushmeat-trade-infectious-disease_n_1200262_128287032.html </p>
+<p> History </p>
+<p> | </p>
+<p> Permalink </p>
+<p> | </p>
+<p> Share it </p>
+<p> Loading comments… </p>
+<p> The Forgotten Man </p>
+<p> 1 Fans </p>
+<p> 11 hours ago( 9:44 PM) </p>
+<p> Really! This is actually a problem!! Seems to me that a couple of well trained German Shepard's should be able to sniff out dead meat festering in a suitcase, pretty quickly... Way to go TSA! </p>
+<p> The_Forgotten_Man: Really! This is actually a problem!! Seems to me that </p>
+<p> http://www.huffingtonpost.com/social/The_Forgotten_Man/bushmeat-trade-infectious-disease_n_1200262_128256753.html </p>
+<p> History </p>
+<p> | </p>
+<p> Permalink </p>
+<p> | </p>
+<p> Share it </p>
+<p> Loading comments… </p>
+<p> Joeyjackal </p>
+<p> 59 Fans </p>
+<p> 11 hours ago( 9:17 PM) </p>
+<p> I suppose it will take another outbreak of something equally horrible or worst than Ebola or HIV as far as symptoms and/or likelihood of transmissi </p>
+<p> ­on for us to take these instances of casual introducti </p>
+<p> ­on of harmful micro-orga </p>
+<p> ­nisms from other species through their ingestion in the pursuit of human curiosity in the realm of affairs of the palate or culinary before we learn our lesson and seriously re-examine this practice. </p>
+<p> Joeyjackal: I suppose it will take another outbreak of something equally </p>
+<p> http://www.huffingtonpost.com/social/Joeyjackal/bushmeat-trade-infectious-disease_n_1200262_128251984.html </p>
+<p> History </p>
+<p> | </p>
+<p> Permalink </p>
+<p> | </p>
+<p> Share it </p>
+<p> Loading comments… </p>
+<p> HUFFPOST SUPER USER </p>
+<p> Catherine Lynch Monks </p>
+<p> I want my country back. </p>
+<p> 451 Fans </p>
+<p> 12 hours ago( 9:09 PM) </p>
+<p> Zombie apocalypse anyone? </p>
+<p> Catherine_Lynch_Monks: Zombie apocalypse anyone? </p>
+<p> http://www.huffingtonpost.com/social/Catherine_Lynch_Monks/bushmeat-trade-infectious-disease_n_1200262_128250259.html </p>
+<p> History </p>
+<p> | </p>
+<p> Permalink </p>
+<p> | </p>
+<p> Share it </p>
+<p> Loading comments… </p>
+<p> 2BOrNot2B </p>
+<p> 42 Fans </p>
+<p> 12 hours ago( 8:52 PM) </p>
+<p> We need a much larger and well-train </p>
+<p> ­ed, dedicated team of import discoverer </p>
+<p> ­s covering all vessels and containers </p>
+<p> ­. Unlike what Vilask is doing over at his agency, we need to turn this geneticall </p>
+<p> ­y modified food and imports of foods around. Make them safer, not less safe. All these rich corporate boys are Lobbying to reduce protection </p>
+<p> ­s to the American Food Chain. When will the government get it? WE LIKE OUR FOOD and WATER PROTECTED, OUR SOIL Organic. Where is our CONGRESS - the baboons? </p>
+<p> 2BOrNot2B: We need a much larger and well-trained, dedicated team of </p>
+<p> http://www.huffingtonpost.com/social/2BOrNot2B/bushmeat-trade-infectious-disease_n_1200262_128247057.html </p>
+<p> History </p>
+<p> | </p>
+<p> Permalink </p>
+<p> | </p>
+<p> Share it </p>
+<p> Loading comments… </p>
+<p> Cupik </p>
+<p> FAUX-free  Alaskan. </p>
+<p> 472 Fans </p>
+<p> 12 hours ago( 8:45 PM) </p>
+<p> ya think?  Don't need to read article to know the obvious. </p>
+<p> Cupik: ya think? Don't need to read article to know the </p>
+<p> http://www.huffingtonpost.com/social/Cupik/bushmeat-trade-infectious-disease_n_1200262_128245633.html </p>
+<p> History </p>
+<p> | </p>
+<p> Permalink </p>
+<p> | </p>
+<p> Share it </p>
+<p> Loading comments… </p>
+<p> wesdfs </p>
+<p> 53 Fans </p>
+<p> 12 hours ago( 8:35 PM) </p>
+<p> I thought cooking the meat until its 350  on the inside would kill the deseases-- </p>
+<p> ­---not that I would eat it--Its just a thought </p>
+<p> wesdfs: I thought cooking the meat until its 350 on the </p>
+<p> http://www.huffingtonpost.com/social/wesdfs/bushmeat-trade-infectious-disease_n_1200262_128243655.html </p>
+<p> History </p>
+<p> | </p>
+<p> Permalink </p>
+<p> | </p>
+<p> Share it </p>
+<p> Loading comments… </p>
+<p> HUFFPOST SUPER USER </p>
+<p> mudshark12 </p>
+<p> Now who are you jiving with that cosmik debris? </p>
+<p> 403 Fans </p>
+<p> 12 hours ago( 8:18 PM) </p>
+<p> Two quotations from an excellent example of a well written article by Lynne Peeples: </p>
+<p> "Overall, an estimated three of every four emerging infectious diseases in humans originate in wildlife. As HuffPost reported last month, the live wildlife trade can also expose humans to infectious diseases such as monkeypox, bird flu and rat bite fever." </p>
+<p> "A person handling meat may be directly exposed to an animal's blood and internal tissues, which Pavlin said "could be extremely dangerous, particular </p>
+<p> ­ly as the bushmeat being prepared may be 'double-de </p>
+<p> ­ad.'" In other words, the animal may have initially died from disease before being found and processed for consumptio </p>
+<p> ­n. This is the scenario that likely gave rise to the deadly Ebola virus." </p>
+<p> Don't this make your mouth just water for Bush Meat? Its to die for, yum! </p>
+<p> Actually I'm glad I haven't eaten yet, as the thought of this makes me violently ill. One would have to be certifiabl </p>
+<p> ­y insane to eat this awful so-called "food". </p>
+<p> mudshark12: Two quotations from an excellent example of a well written </p>
+<p> http://www.huffingtonpost.com/social/mudshark12/bushmeat-trade-infectious-disease_n_1200262_128240280.html </p>
+<p> History </p>
+<p> | </p>
+<p> Permalink </p>
+<p> | </p>
+<p> Share it </p>
+<p> Loading comments… </p>
+<p> HUFFPOST SUPER USER </p>
+<p> Patricia Russell </p>
+<p> We are sorry, your micro-bio did not meet our guid </p>
+<p> 315 Fans </p>
+<p> 12 hours ago( 8:15 PM) </p>
+<p> Being a vegetarian </p>
+<p> ­, it's not my problem. </p>
+<p> Patricia_Russell: Being a vegetarian, it's not my problem. </p>
+<p> http://www.huffingtonpost.com/social/Patricia_Russell/bushmeat-trade-infectious-disease_n_1200262_128239805.html </p>
+<p> History </p>
+<p> | </p>
+<p> Permalink </p>
+<p> | </p>
+<p> Share it </p>
+<p> HUFFPOST SUPER USER </p>
+<p> anitaroosevelt </p>
+<p> want some Ayn Rand with those fries? </p>
+<p> 1597 Fans </p>
+<p> 12 hours ago( 8:33 PM) </p>
+<p> Actually,  the diseases can spread to humans and then so on and so on........ </p>
+<p> ­.viruses mutate. </p>
+<p> anitaroosevelt: Actually, the diseases can spread to humans and then so </p>
+<p> http://www.huffingtonpost.com/social/anitaroosevelt/bushmeat-trade-infectious-disease_n_1200262_128243364.html </p>
+<p> History </p>
+<p> | </p>
+<p> Permalink </p>
+<p> | </p>
+<p> Share it </p>
+<p> Loading comments… </p>
+<p> Loading comments… </p>
+<p> TAIsabel </p>
+<p> Suffer no fools. </p>
+<p> 501 Fans </p>
+<p> 13 hours ago( 8:13 PM) </p>
+<p> Who the hell eats bushmeat in the US?! </p>
+<p> TAIsabel: Who the hell eats bushmeat in the US?! </p>
+<p> http://www.huffingtonpost.com/social/TAIsabel/bushmeat-trade-infectious-disease_n_1200262_128239322.html </p>
+<p> History </p>
+<p> | </p>
+<p> Permalink </p>
+<p> | </p>
+<p> Share it </p>
+<p> HUFFPOST SUPER USER </p>
+<p> anitaroosevelt </p>
+<p> want some Ayn Rand with those fries? </p>
+<p> 1597 Fans </p>
+<p> 12 hours ago( 8:32 PM) </p>
+<p> Immigrants from countries that do eat bushmeat  and some gourmets (?) </p>
+<p> I don't understand it either. </p>
+<p> anitaroosevelt: Immigrants from countries that do eat bushmeat and some gourmets </p>
+<p> http://www.huffingtonpost.com/social/anitaroosevelt/bushmeat-trade-infectious-disease_n_1200262_128243175.html </p>
+<p> History </p>
+<p> | </p>
+<p> Permalink </p>
+<p> | </p>
+<p> Share it </p>
+<p> TAIsabel </p>
+<p> Suffer no fools. </p>
+<p> 501 Fans </p>
+<p> 12 hours ago( 8:43 PM) </p>
+<p> I travelled in East Africa on Safari and the only game meat I ate during the entire month I was there was zebra and antelope.  Not once was primate or rodent offered anywhere. </p>
+<p> TAIsabel: I travelled in East Africa on Safari and the only </p>
+<p> http://www.huffingtonpost.com/social/TAIsabel/bushmeat-trade-infectious-disease_n_1200262_128245233.html </p>
+<p> History </p>
+<p> | </p>
+<p> Permalink </p>
+<p> | </p>
+<p> Share it </p>
+<p> There are More Comments on this Thread. </p>
+<p> Click Here To See them All </p>
+<p> Loading comments… </p>
+<p> Dinkum Olam </p>
+<p> 29 Fans </p>
+<p> 8 hours ago( 1:03 AM) </p>
+<p> gourmet dead rotting flesh..... </p>
+<p> ­yummmeeeee </p>
+<p> ­e ! </p>
+<p> really? </p>
+<p> Dinkum_Olam: gourmet dead rotting flesh.....yummmeeeeee ! really? </p>
+<p> http://www.huffingtonpost.com/social/Dinkum_Olam/bushmeat-trade-infectious-disease_n_1200262_128287164.html </p>
+<p> History </p>
+<p> | </p>
+<p> Permalink </p>
+<p> | </p>
+<p> Share it </p>
+<p> Loading comments… </p>
+<p> Loading comments… </p>
+<p> DeRrDiZzLe </p>
+<p> 8 Fans </p>
+<p> 3 hours ago( 5:26 AM) </p>
+<p> I actually eat bushmeat on a weekly basis. Every friday my family & I gather & enjoy eachothers company over a delicious plate of bushmeat! It is the newest trend of things going on here in Chicago. I extremely reccomend it Isabel, it is the tastiest thing in the world! </p>
+<p> DeRrDiZzLe: I actually eat bushmeat on a weekly basis. Every friday </p>
+<p> http://www.huffingtonpost.com/social/DeRrDiZzLe/bushmeat-trade-infectious-disease_n_1200262_128302157.html </p>
+<p> History </p>
+<p> | </p>
+<p> Permalink </p>
+<p> | </p>
+<p> Share it </p>
+<p> Loading comments… </p>
+<p> Loading comments… </p>
+<p> HUFFPOST SUPER USER </p>
+<p> flowereater </p>
+<p> Occupied. </p>
+<p> 367 Fans </p>
+<p> 13 hours ago( 8:11 PM) </p>
+<p> Oh, please say it ain't so. I clicked on the little picture with hopes that I was not seeing right. What the capital F are people thinking? Humans are the most disgracefu </p>
+<p> ­l species on the planet since we supposedly have the capacity to reason. Whoever supports this are the true primates . . . that is primitive. </p>
+<p> flowereater: Oh, please say it ain't so. I clicked on the </p>
+<p> http://www.huffingtonpost.com/social/flowereater/bushmeat-trade-infectious-disease_n_1200262_128238913.html </p>
+<p> History </p>
+<p> | </p>
+<p> Permalink </p>
+<p> | </p>
+<p> Share it </p>
+<p> DeRrDiZzLe </p>
+<p> 8 Fans </p>
+<p> 3 hours ago( 5:27 AM) </p>
+<p> You should try it before you knock it Ms. FLOWEREATE </p>
+<p> ­R! </p>
+<p> DeRrDiZzLe: You should try it before you knock it Ms. FLOWEREATER! </p>
+<p> http://www.huffingtonpost.com/social/DeRrDiZzLe/bushmeat-trade-infectious-disease_n_1200262_128302220.html </p>
+<p> History </p>
+<p> | </p>
+<p> Permalink </p>
+<p> | </p>
+<p> Share it </p>
+<p> Loading comments… </p>
+<p> Loading comments… </p>
+<p> AMERICA REPORTS </p>
+<p> Tell the truth-sets you free </p>
+<p> 3 Fans </p>
+<p> 13 hours ago( 8:06 PM) </p>
+<p> Oh my Lord, biological warfare! Totally gross, for the hunger in America, because when entry to a foreign land you must adapt to the countryman </p>
+<p> ­'s laws! </p>
+<p> Now if visiting off to the foreign land  you are a diplomat, then you must conform to the country statues and laws also! </p>
+<p> AMERICA_REPORTS: Oh my Lord, biological warfare! Totally gross, for the hunger </p>
+<p> http://www.huffingtonpost.com/social/AMERICA_REPORTS/bushmeat-trade-infectious-disease_n_1200262_128238109.html </p>
+<p> History </p>
+<p> | </p>
+<p> Permalink </p>
+<p> | </p>
+<p> Share it </p>
+<p> Loading comments… </p>
+<p> HUFFPOST SUPER USER </p>
+<p> Amy Lindelof </p>
+<p> 222 Fans </p>
+<p> 13 hours ago( 7:44 PM) </p>
+<p> If they are aware that the meat must be illegally smuggled to this country, why are they not aware of the risks of cross-cont </p>
+<p> ­amination? </p>
+<p> Amy_Lindelof: If they are aware that the meat must be illegally </p>
+<p> http://www.huffingtonpost.com/social/Amy_Lindelof/bushmeat-trade-infectious-disease_n_1200262_128233882.html </p>
+<p> History </p>
+<p> | </p>
+<p> Permalink </p>
+<p> | </p>
+<p> Share it </p>
+<p> Loading comments… </p>
+<p> = _("Page")?>: </p>
+<p> 1 </p>
+<p> 2 </p>
+<p> = _("Next")?> › </p>
+<p> = _("Last")?> » </p>
+<p> (2 total) </p>
+<p> new comment(s) on this entry — Click to refresh </p>
+<p> Loading comments… </p>
+<p> if (HPConfig.ipad_application) 		huff.use('layout', function(l){ 			l.lazy_images('#comments_1200262', { 				frame: '#container-for-entry .wrapper-for-entry' 			}); 		}); 	else 		huff.emit('content/update', '#comments_1200262');  	Comments.topicName = ''; 	Comments.topicDir = '';  			CommentsLoader.wrapped = true; 		//if (HuffCookies.getUserName() || CommentsLoader.loading) { 	if (HuffCookies.getUserName() ) { 		// change the post button 		button_logged = document.getElementById('post_button_for_logged_in'); 		button_not_logged = document.getElementById('post_button_for_not_logged_in'); 		if (button_logged && button_not_logged) { 			button_logged.style.display = 'none'; 			button_not_logged.style.display = 'block'; 		}  			}   	if (typeof(CommentsLoader.setListeners) !== "undefined") { 		CommentsLoader.setListeners(); 	}  	var update_time_interval = 30000; 	if (HPConfig.comments_update_interval || HPConfig.comments_update_interval === 0) { 		update_time_interval = HPConfig.comments_update_interval; 	}  	var update_comments = false; 	// should we update comments for everyone ? 	if (HPConfig.comments_update_for_all_users === true) { 		// yes, for everyone 		update_comments = true; 	} else { 		// no - then maybe your user is logged in ? 		if (HPConfig.comments_update_for_all_users === false && HuffCookies.getUserName()) { 			// yes, logged in - we may update comments 			update_comments = true; 		} 	} 	if (update_comments === true) { 		setTimeout("CommentPollerV3.check(1200262, true);", update_time_interval); 	} </p>
+<p> HuffPoUtil.onPageReady(function(){Comments.init(1200262)});              HuffPoUtil.onPageReady(function() {                     var CommentsSharer = new CommentsSharerClass({                             type: 'horizontal',                             triggersClassName: 'share_comment_popup_trigger'                     });                     var CommentsFavoriteSharer = new CommentsSharerClass({                             type: 'vertical',                             triggersClassName: 'share_favorite_comment_popup_trigger'                     });                     CommentsSharer.addPopupTriggers();                     CommentsFavoriteSharer.addPopupTriggers();             }); </p>
+<p> if(HPAds.ad_check_page_config('right_rail_flex')) {                             var adId = '93314206';                             htmlAdWH(adId, "RR", "RR","f");                             var debugadcode = '';                             document.write(debugadcode);                         } </p>
+<p> PHOTO GALLERIES </p>
+<p> Flood Worries And Some Relief In Irene's Wake </p>
+<p> PHOTOS: This Week's Best In Animals -- Giant... </p>
+<p> Offshore Drilling Supporters Make Waves At Hearing </p>
+<p> var group = 'A'; 	var trk = HPTrack.Module('galleries-' + group, 'Photo Galleries - ' + group); 	trk.impression();  	jQuery('#hp_module_photos_all_pages a').click(function(e) {		 		var label = jQuery(this).text() || jQuery(this).next().text(); 		trk.trackLink(e, jQuery.trim(label)); 	});  	function create_url_for_slideshow_posts(page) { 		var url = ''; 		if($('slideshow_ids_'+page)) 			return url = '/ajax/common/photo_galleries.php?vertical=&page='+page+'&entries_ids='+$('slideshow_ids_'+page).innerHTML; 		else 			return false; 	} 	 var module_photos_pagination = new CommonPaginator({'moduleName': 'module_photos', 'maxPage': 1, 'is_circle': true, 'is_ajax_update': true, 'create_page_ajax_url':create_url_for_slideshow_posts, 'update_images': true}); </p>
+<p> SNPModule.load(''); </p>
+<p> FOLLOW US </p>
+<p> var s2title, phone_n;  handleSendResponse = function(s) { 	console.log(JSON.stringify(s)); 	console.log(s.status); 	if (s.status == 4) { 		s2title.html("Your message was sent to "+phone_n+'.'); 	} else if (s.status == 5) {  		s2title.html("Send Failed"); 	} else if (s.status == 3) {  		s2title.html("Sorry, no more messages may be sent today."); 	} } errorHandle = function(request, errorType, errorThrown) { 	if(errorType == 'timeout') {  		s2title.html("Send Failed"); 	} } </p>
+<p> jQuery('#af-iphone_bubble .showlegal').live('click', function(){ 	if(jQuery('#af-iphone_bubble .s2disclaimer').html() != jQuery('#af-iphone_bubble .s2legal').html()) { 		jQuery('#af-iphone_bubble .s2disclaimer').slideUp(500, function(){ 			jQuery('#af-iphone_bubble .s2disclaimer').html(jQuery('#af-iphone_bubble .s2legal').html()).slideDown(500); 		}); 	} 	return false; }); jQuery('#af-iphone_bubble input[value="Send"]').live('click', function(){ 	s2title = jQuery('#af-iphone_bubble .s2title'); 	phone_n = jQuery('#af-iphone_bubble input[name="p1"]').val().replace(/-/g, ''); 	if(phone_n == 5555555555 || isNaN(phone_n) || phone_n.length != 10) { 		jQuery('#af-iphone_bubble .s2subtitle').fadeOut(500, function () { 			jQuery('#af-iphone_bubble .s2subtitle').html('Please use a valid 10-digit mobile number.').css('color', '#FF0000').fadeIn(500); 		}); 		return false; 	} 	jQuery('#af-iphone_bubble .s2title').html('Sending...'); 	var appid = '26'; 	var appkey = 'ao1qvHJSh3Z7hgQQ'; 	var phone = phone_n; 	var message = 'Huffington Post for iPhone'; 	var link = 'http://itunes.apple.com/us/app/huffingtonpost-com/id306621789?mt=8'; 	var url = 'http://s2c.aol.com/s2c/sendtocell.jsp?appid='+encodeURIComponent(appid)+'&appkey='+encodeURIComponent(appkey)+'&phone='+encodeURIComponent(phone)+'&message='+encodeURIComponent(message)+'&link='+encodeURIComponent(link); 	console.log(url); 	jQuery.ajax({ 		url: url, 		dataType: "jsonp", 		crossDomain: true, 		timeout: 15 * 1000, 		error: errorHandle 	}); 	return false; }); jQuery('#af-iphone_bubble .closable').live('click', function(){ 	jQuery('#af-iphone_bubble').parent().addClass('hidden'); }); </p>
+<p> jQuery('#af-android_bubble .showlegal').live('click', function(){ 	if(jQuery('#af-android_bubble .s2disclaimer').html() != jQuery('#af-android_bubble .s2legal').html()) { 		jQuery('#af-android_bubble .s2disclaimer').slideUp(500, function(){ 			jQuery('#af-android_bubble .s2disclaimer').html(jQuery('#af-android_bubble .s2legal').html()).slideDown(500); 		}); 	} 	return false; }); jQuery('#af-android_bubble input[value="Send"]').live('click', function(){ 	s2title = jQuery('#af-android_bubble .s2title'); 	phone_n = jQuery('#af-android_bubble input[name="p1"]').val().replace(/-/g, ''); 	if(phone_n == 5555555555 || isNaN(phone_n) || phone_n.length != 10) { 		jQuery('#af-android_bubble .s2subtitle').fadeOut(500, function () { 			jQuery('#af-android_bubble .s2subtitle').html('Please use a valid 10-digit mobile number.').css('color', '#FF0000').fadeIn(500); 		}); 		return false; 	} 	jQuery('#af-android_bubble .s2title').html('Sending...'); 	var appid = '26'; 	var appkey = 'ao1qvHJSh3Z7hgQQ'; 	var phone = phone_n; 	var message = 'Huffington Post for Android'; 	var link = 'http://market.android.com/details?id=com.huffingtonpost.android'; 	var url = 'http://s2c.aol.com/s2c/sendtocell.jsp?appid='+encodeURIComponent(appid)+'&appkey='+encodeURIComponent(appkey)+'&phone='+encodeURIComponent(phone)+'&message='+encodeURIComponent(message)+'&link='+encodeURIComponent(link); 	console.log(url); 	jQuery.ajax({ 		url: url, 		dataType: "jsonp", 		crossDomain: true, 		timeout: 15 * 1000, 		error: errorHandle 	}); 	return false; }); jQuery('#af-android_bubble .closable').live('click', function(){ 	jQuery('#af-android_bubble').parent().addClass('hidden'); }); </p>
+<p> jQuery('#af-blackberry_bubble .showlegal').live('click', function(){ 	if(jQuery('#af-blackberry_bubble .s2disclaimer').html() != jQuery('#af-blackberry_bubble .s2legal').html()) { 		jQuery('#af-blackberry_bubble .s2disclaimer').slideUp(500, function(){ 			jQuery('#af-blackberry_bubble .s2disclaimer').html(jQuery('#af-blackberry_bubble .s2legal').html()).slideDown(500); 		}); 	} 	return false; }); jQuery('#af-blackberry_bubble input[value="Send"]').live('click', function(){ 	s2title = jQuery('#af-blackberry_bubble .s2title'); 	phone_n = jQuery('#af-blackberry_bubble input[name="p1"]').val().replace(/-/g, ''); 	if(phone_n == 5555555555 || isNaN(phone_n) || phone_n.length != 10) { 		jQuery('#af-blackberry_bubble .s2subtitle').fadeOut(500, function () { 			jQuery('#af-blackberry_bubble .s2subtitle').html('Please use a valid 10-digit mobile number.').css('color', '#FF0000').fadeIn(500); 		}); 		return false; 	} 	jQuery('#af-blackberry_bubble .s2title').html('Sending...'); 	var appid = '26'; 	var appkey = 'ao1qvHJSh3Z7hgQQ'; 	var phone = phone_n; 	var message = 'Huffington Post for Blackberry'; 	var link = 'http://appworld.blackberry.com/webstore/content/19143'; 	var url = 'http://s2c.aol.com/s2c/sendtocell.jsp?appid='+encodeURIComponent(appid)+'&appkey='+encodeURIComponent(appkey)+'&phone='+encodeURIComponent(phone)+'&message='+encodeURIComponent(message)+'&link='+encodeURIComponent(link); 	console.log(url); 	jQuery.ajax({ 		url: url, 		dataType: "jsonp", 		crossDomain: true, 		timeout: 15 * 1000, 		error: errorHandle 	}); 	return false; }); jQuery('#af-blackberry_bubble .closable').live('click', function(){ 	jQuery('#af-blackberry_bubble').parent().addClass('hidden'); }); </p>
+<p> Connect with your friends </p>
+<p> Check out stories you might like, </p>
+<p> and see what your friends are sharing! </p>
+<p> Loading twitter module... </p>
+<p> Most Popular on HuffPost </p>
+<p> %2Fr74UCpKtN1BzXzXDXGceiHExgHJJrPVi0OkWcU4zgeGuvVyjgQT22DEYHdNSBQ3BOqN2IVNsFbN59Y831fTGSz1%2FbeM47Jc </p>
+<p> jPI3i%2FDNS0jktSu8aiiI0BlYCqaepCL2EOKmfje6%2FNmlNF8eL4yFK1x0wR73VH9j1juBnsrXHs%2FMbZYjMA%2B4VgFZZMRExJSx </p>
+<p> 1 </p>
+<p> of </p>
+<p> 2 </p>
+<p> WATCH: Teen Girl Scout Launches Cookie Boycott Over Organization's Transgender Policy </p>
+<p> Recommend </p>
+<p> 15K </p>
+<p> Jay-Z Writes Song For Baby Blue Ivy </p>
+<p> Like </p>
+<p> 3K </p>
+<p> Patrick Swayze's Wife Finally Takes Off Wedding Ring </p>
+<p> Like </p>
+<p> 523 </p>
+<p> PHOTOS: Coachella's Official 2012 Lineup Announced </p>
+<p> Like </p>
+<p> 4K </p>
+<p> Fugitive Ratted Out By 2-Year-Old Son </p>
+<p> Recommend </p>
+<p> 431 </p>
+<p> LOOK: Halo Forms Over Broncos Game </p>
+<p> Like </p>
+<p> 5K </p>
+<p> WATCH:  George Lucas Says Hollywood Wouldn't Fund 'Red Tails' Because Of Black Cast </p>
+<p> Like </p>
+<p> 19K </p>
+<p> Did Beyonce Really Name Her Baby After The Devil? </p>
+<p> Like </p>
+<p> 538 </p>
+<p> AnnaLynne McCord Tweets Topless Photo At Random Fan </p>
+<p> Recommend </p>
+<p> 171 </p>
+<p> Don't Miss HuffPost Bloggers </p>
+<p> 1 </p>
+<p> of </p>
+<p> 5 </p>
+<p> Maria Bello </p>
+<p> Two Years Later -- Reimagining Haiti </p>
+<p> Dave "Mudcat" Saunders </p>
+<p> U.S. Content to Sit on Haiti Aid </p>
+<p> Bernard-Henri Lévy </p>
+<p> Could the Fate of Europe, Also, Hinge on Budapest? </p>
+<p> Martha Coakley </p>
+<p> Giving Voice Back to the People </p>
+<p> Evan Shapiro </p>
+<p> Nobody Knows Anything </p>
+<p> Mohamed A. El-Erian </p>
+<p> Noisy Election Campaign Is a Prelude to Partial Compromise </p>
+<p> Chris Mooney </p>
+<p> Why Republicans Deny Science: The Quest for a Scientific Explanation </p>
+<p> Rider Strong </p>
+<p> 2011: The Year I Kept My Mouth Shut </p>
+<p> Paul Rieckhoff </p>
+<p> A Message to All Candidates: Our Troops Aren’t Props </p>
+<p> Bif Naked </p>
+<p> How My Father Put Me At Ease With My Childhood ’Lesbian’ Dalliances </p>
+<p> TOP VIDEO PICKS </p>
+<p> 1 </p>
+<p> of </p>
+<p> 9 </p>
+<p> How to Live an Eco Friendly Life </p>
+<p> One Bobin Scarf: Plying in Casting </p>
+<p> How to Reduce Energy Consumption </p>
+<p> var ndn_lightbox=null; 				var ndn_lightbox_launch = function(videoData, entry_url){ 					if(ndn_lightbox==null) { 						ndn_lightbox = new FIVEMIN.VideoLightbox({playerWidth:625, playerHeight: 440, isFreewheel:true}); 						ndn_lightbox.init({"lightboxAnim": 0, "overlayOpacity": "0.7", "overlayColor": "#222", "show5minLink": false, "show5minText": false, "relatedMode": 2	}); 					} 					 					var videoid = 0; 					var matches = entry_url.match(/[&?]vid=([^&]*)&/); 					if(matches != null && matches.length > 0) videoid = matches[1]; 					 					if(videoid == 0 || videoid == '0') return; 					 					var c = ndn_videos.length; 					while(c > 0 && ndn_videos[0].toString() != videoid.toString()) ndn_videos.push(ndn_videos.shift()); 					 					videoData.playerType = 'playerseed'; 					videoData.playerParam = 'http://pshared.5min.com/Scripts/PlayerSeed.js?sid=577&width=600&height=435&companionPos=bottom&hasCompanion=true&relatedMode=2&relatedBottomHeight=60&shuffle=0&autoStart=true&cbFailOverURL=fwscript&playList='+ndn_videos.join(','); 					 					ndn_lightbox.show(videoData); 				}; 				var ndn_videos = []; 				var ndn_max_page = 9; 				var ndn_entries = [ 			 				[ 					 					({ 						'title':'How to Live an Eco Friendly Life', 						'entry_url':'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=275992270&sitesection=huffingtonpost', 						'img_url':'http://pthumbnails.5min.com/5519846/275992270_7.jpg', 						'entry_click':(function(e){ndn_lightbox_launch({ 'title': 'How to Live an Eco Friendly Life', 'PageURL': 'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=275992270&sitesection=huffingtonpost', 'ReferrerURL': 'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=275992270&sitesection=huffingtonpost' },'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=275992270&sitesection=huffingtonpost'); e.preventDefault(); e.stopPropagation(); return false;}) 					}), 					 					({ 						'title':'One Bobin Scarf: Plying in Casting', 						'entry_url':'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=90827245&sitesection=huffingtonpost', 						'img_url':'http://pthumbnails.5min.com/1816545/90827245_17.jpg', 						'entry_click':(function(e){ndn_lightbox_launch({ 'title': 'One Bobin Scarf: Plying in Casting', 'PageURL': 'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=90827245&sitesection=huffingtonpost', 'ReferrerURL': 'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=90827245&sitesection=huffingtonpost' },'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=90827245&sitesection=huffingtonpost'); e.preventDefault(); e.stopPropagation(); return false;}) 					}), 					 					({ 						'title':'How to Reduce Energy Consumption', 						'entry_url':'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=172964857&sitesection=huffingtonpost', 						'img_url':'http://pthumbnails.5min.com/3459298/172964857_7.jpg', 						'entry_click':(function(e){ndn_lightbox_launch({ 'title': 'How to Reduce Energy Consumption', 'PageURL': 'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=172964857&sitesection=huffingtonpost', 'ReferrerURL': 'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=172964857&sitesection=huffingtonpost' },'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=172964857&sitesection=huffingtonpost'); e.preventDefault(); e.stopPropagation(); return false;}) 					}) 					 				], 			 				[ 					 					({ 						'title':'How to Repurpose Rubber Bands', 						'entry_url':'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=121945611&sitesection=huffingtonpost', 						'img_url':'http://pthumbnails.5min.com/2438913/121945611_3.jpg', 						'entry_click':(function(e){ndn_lightbox_launch({ 'title': 'How to Repurpose Rubber Bands', 'PageURL': 'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=121945611&sitesection=huffingtonpost', 'ReferrerURL': 'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=121945611&sitesection=huffingtonpost' },'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=121945611&sitesection=huffingtonpost'); e.preventDefault(); e.stopPropagation(); return false;}) 					}), 					 					({ 						'title':'How to Card Angora Fiber', 						'entry_url':'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=8907183&sitesection=huffingtonpost', 						'img_url':'http://pthumbnails.5min.com/178144/8907183_10.jpg', 						'entry_click':(function(e){ndn_lightbox_launch({ 'title': 'How to Card Angora Fiber', 'PageURL': 'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=8907183&sitesection=huffingtonpost', 'ReferrerURL': 'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=8907183&sitesection=huffingtonpost' },'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=8907183&sitesection=huffingtonpost'); e.preventDefault(); e.stopPropagation(); return false;}) 					}), 					 					({ 						'title':'How to Install Solar Lights', 						'entry_url':'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=113416403&sitesection=huffingtonpost', 						'img_url':'http://pthumbnails.5min.com/2268329/113416403_5.jpg', 						'entry_click':(function(e){ndn_lightbox_launch({ 'title': 'How to Install Solar Lights', 'PageURL': 'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=113416403&sitesection=huffingtonpost', 'ReferrerURL': 'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=113416403&sitesection=huffingtonpost' },'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=113416403&sitesection=huffingtonpost'); e.preventDefault(); e.stopPropagation(); return false;}) 					}) 					 				], 			 				[ 					 					({ 						'title':'How to Recycle Batteries', 						'entry_url':'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=61995495&sitesection=huffingtonpost', 						'img_url':'http://pthumbnails.5min.com/1239910/61995495_3.jpg', 						'entry_click':(function(e){ndn_lightbox_launch({ 'title': 'How to Recycle Batteries', 'PageURL': 'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=61995495&sitesection=huffingtonpost', 'ReferrerURL': 'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=61995495&sitesection=huffingtonpost' },'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=61995495&sitesection=huffingtonpost'); e.preventDefault(); e.stopPropagation(); return false;}) 					}), 					 					({ 						'title':'Creating an Eco-Friendly Bathroom', 						'entry_url':'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=444702056&sitesection=huffingtonpost', 						'img_url':'http://pthumbnails.5min.com/8894042/444702056_7.jpg', 						'entry_click':(function(e){ndn_lightbox_launch({ 'title': 'Creating an Eco-Friendly Bathroom', 'PageURL': 'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=444702056&sitesection=huffingtonpost', 'ReferrerURL': 'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=444702056&sitesection=huffingtonpost' },'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=444702056&sitesection=huffingtonpost'); e.preventDefault(); e.stopPropagation(); return false;}) 					}), 					 					({ 						'title':'Eco-Friendly Mercedes Smart Car', 						'entry_url':'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=481388018&sitesection=huffingtonpost', 						'img_url':'http://pthumbnails.5min.com/9627761/481388018_11.jpg', 						'entry_click':(function(e){ndn_lightbox_launch({ 'title': 'Eco-Friendly Mercedes Smart Car', 'PageURL': 'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=481388018&sitesection=huffingtonpost', 'ReferrerURL': 'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=481388018&sitesection=huffingtonpost' },'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=481388018&sitesection=huffingtonpost'); e.preventDefault(); e.stopPropagation(); return false;}) 					}) 					 				], 			 				[ 					 					({ 						'title':'How to Recycle and make the Most of Old Toys', 						'entry_url':'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=77389054&sitesection=huffingtonpost', 						'img_url':'http://pthumbnails.5min.com/1547782/77389054_4.jpg', 						'entry_click':(function(e){ndn_lightbox_launch({ 'title': 'How to Recycle and make the Most of Old Toys', 'PageURL': 'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=77389054&sitesection=huffingtonpost', 'ReferrerURL': 'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=77389054&sitesection=huffingtonpost' },'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=77389054&sitesection=huffingtonpost'); e.preventDefault(); e.stopPropagation(); return false;}) 					}), 					 					({ 						'title':'How to Save on Water', 						'entry_url':'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=406074079&sitesection=huffingtonpost', 						'img_url':'http://pthumbnails.5min.com/8121482/406074079_3.jpg', 						'entry_click':(function(e){ndn_lightbox_launch({ 'title': 'How to Save on Water', 'PageURL': 'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=406074079&sitesection=huffingtonpost', 'ReferrerURL': 'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=406074079&sitesection=huffingtonpost' },'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=406074079&sitesection=huffingtonpost'); e.preventDefault(); e.stopPropagation(); return false;}) 					}), 					 					({ 						'title':'How to Get Paid to Recycle', 						'entry_url':'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=517216608&sitesection=huffingtonpost', 						'img_url':'http://pthumbnails.5min.com/10344333/517216608_c_140_105.jpg', 						'entry_click':(function(e){ndn_lightbox_launch({ 'title': 'How to Get Paid to Recycle', 'PageURL': 'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=517216608&sitesection=huffingtonpost', 'ReferrerURL': 'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=517216608&sitesection=huffingtonpost' },'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=517216608&sitesection=huffingtonpost'); e.preventDefault(); e.stopPropagation(); return false;}) 					}) 					 				], 			 				[ 					 					({ 						'title':'Hydroponic Aquaponic Indoor Grow System', 						'entry_url':'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=10555196&sitesection=huffingtonpost', 						'img_url':'http://pthumbnails.5min.com/211104/10555196_14.jpg', 						'entry_click':(function(e){ndn_lightbox_launch({ 'title': 'Hydroponic Aquaponic Indoor Grow System', 'PageURL': 'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=10555196&sitesection=huffingtonpost', 'ReferrerURL': 'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=10555196&sitesection=huffingtonpost' },'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=10555196&sitesection=huffingtonpost'); e.preventDefault(); e.stopPropagation(); return false;}) 					}), 					 					({ 						'title':'Clean Water: the Ripple Effect', 						'entry_url':'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=101187604&sitesection=huffingtonpost', 						'img_url':'http://pthumbnails.5min.com/2023753/101187604_10.jpg', 						'entry_click':(function(e){ndn_lightbox_launch({ 'title': 'Clean Water: the Ripple Effect', 'PageURL': 'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=101187604&sitesection=huffingtonpost', 'ReferrerURL': 'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=101187604&sitesection=huffingtonpost' },'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=101187604&sitesection=huffingtonpost'); e.preventDefault(); e.stopPropagation(); return false;}) 					}), 					 					({ 						'title':'Fun Green Ways to Beat Gas Prices', 						'entry_url':'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=410369057&sitesection=huffingtonpost', 						'img_url':'http://pthumbnails.5min.com/8207382/410369057_3.jpg', 						'entry_click':(function(e){ndn_lightbox_launch({ 'title': 'Fun Green Ways to Beat Gas Prices', 'PageURL': 'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=410369057&sitesection=huffingtonpost', 'ReferrerURL': 'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=410369057&sitesection=huffingtonpost' },'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=410369057&sitesection=huffingtonpost'); e.preventDefault(); e.stopPropagation(); return false;}) 					}) 					 				], 			 				[ 					 					({ 						'title':'Moving to a Green Home to Save on Green', 						'entry_url':'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=517120871&sitesection=huffingtonpost', 						'img_url':'http://pthumbnails.5min.com/10342418/517120871_19.jpg', 						'entry_click':(function(e){ndn_lightbox_launch({ 'title': 'Moving to a Green Home to Save on Green', 'PageURL': 'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=517120871&sitesection=huffingtonpost', 'ReferrerURL': 'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=517120871&sitesection=huffingtonpost' },'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=517120871&sitesection=huffingtonpost'); e.preventDefault(); e.stopPropagation(); return false;}) 					}), 					 					({ 						'title':'How to Green Your Beauty Routine', 						'entry_url':'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=230509996&sitesection=huffingtonpost', 						'img_url':'http://pthumbnails.5min.com/4610200/230509996_3.jpg', 						'entry_click':(function(e){ndn_lightbox_launch({ 'title': 'How to Green Your Beauty Routine', 'PageURL': 'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=230509996&sitesection=huffingtonpost', 'ReferrerURL': 'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=230509996&sitesection=huffingtonpost' },'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=230509996&sitesection=huffingtonpost'); e.preventDefault(); e.stopPropagation(); return false;}) 					}), 					 					({ 						'title':'How to Protect the Environment', 						'entry_url':'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=38356478&sitesection=huffingtonpost', 						'img_url':'http://pthumbnails.5min.com/767130/38356478_1.jpg', 						'entry_click':(function(e){ndn_lightbox_launch({ 'title': 'How to Protect the Environment', 'PageURL': 'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=38356478&sitesection=huffingtonpost', 'ReferrerURL': 'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=38356478&sitesection=huffingtonpost' },'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=38356478&sitesection=huffingtonpost'); e.preventDefault(); e.stopPropagation(); return false;}) 					}) 					 				], 			 				[ 					 					({ 						'title':'Natural Insect Control - Garden Girl TV', 						'entry_url':'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=39126224&sitesection=huffingtonpost', 						'img_url':'http://pthumbnails.5min.com/782525/39126224_13.jpg', 						'entry_click':(function(e){ndn_lightbox_launch({ 'title': 'Natural Insect Control - Garden Girl TV', 'PageURL': 'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=39126224&sitesection=huffingtonpost', 'ReferrerURL': 'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=39126224&sitesection=huffingtonpost' },'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=39126224&sitesection=huffingtonpost'); e.preventDefault(); e.stopPropagation(); return false;}) 					}), 					 					({ 						'title':'How to Green Clean a Bathroom Floor', 						'entry_url':'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=145446385&sitesection=huffingtonpost', 						'img_url':'http://pthumbnails.5min.com/2908928/145446385_2.jpg', 						'entry_click':(function(e){ndn_lightbox_launch({ 'title': 'How to Green Clean a Bathroom Floor', 'PageURL': 'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=145446385&sitesection=huffingtonpost', 'ReferrerURL': 'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=145446385&sitesection=huffingtonpost' },'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=145446385&sitesection=huffingtonpost'); e.preventDefault(); e.stopPropagation(); return false;}) 					}), 					 					({ 						'title':'Cool Green Products', 						'entry_url':'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=278595764&sitesection=huffingtonpost', 						'img_url':'http://pthumbnails.5min.com/5571916/278595764_24.jpg', 						'entry_click':(function(e){ndn_lightbox_launch({ 'title': 'Cool Green Products', 'PageURL': 'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=278595764&sitesection=huffingtonpost', 'ReferrerURL': 'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=278595764&sitesection=huffingtonpost' },'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=278595764&sitesection=huffingtonpost'); e.preventDefault(); e.stopPropagation(); return false;}) 					}) 					 				], 			 				[ 					 					({ 						'title':'Natural Cleaners Tips', 						'entry_url':'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=362332664&sitesection=huffingtonpost', 						'img_url':'http://pthumbnails.5min.com/7246654/362332664_7.jpg', 						'entry_click':(function(e){ndn_lightbox_launch({ 'title': 'Natural Cleaners Tips', 'PageURL': 'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=362332664&sitesection=huffingtonpost', 'ReferrerURL': 'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=362332664&sitesection=huffingtonpost' },'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=362332664&sitesection=huffingtonpost'); e.preventDefault(); e.stopPropagation(); return false;}) 					}), 					 					({ 						'title':'Water Conservation Products', 						'entry_url':'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=502309965&sitesection=huffingtonpost', 						'img_url':'http://pthumbnails.5min.com/10046200/502309965_5.jpg', 						'entry_click':(function(e){ndn_lightbox_launch({ 'title': 'Water Conservation Products', 'PageURL': 'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=502309965&sitesection=huffingtonpost', 'ReferrerURL': 'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=502309965&sitesection=huffingtonpost' },'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=502309965&sitesection=huffingtonpost'); e.preventDefault(); e.stopPropagation(); return false;}) 					}), 					 					({ 						'title':'How to Go Green in 5 Easy Steps', 						'entry_url':'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=243669578&sitesection=huffingtonpost', 						'img_url':'http://pthumbnails.5min.com/4873392/243669578_3.jpg', 						'entry_click':(function(e){ndn_lightbox_launch({ 'title': 'How to Go Green in 5 Easy Steps', 'PageURL': 'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=243669578&sitesection=huffingtonpost', 'ReferrerURL': 'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=243669578&sitesection=huffingtonpost' },'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=243669578&sitesection=huffingtonpost'); e.preventDefault(); e.stopPropagation(); return false;}) 					}) 					 				], 			 				[ 					 					({ 						'title':'How to Clean a Microwave', 						'entry_url':'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=240947497&sitesection=huffingtonpost', 						'img_url':'http://pthumbnails.5min.com/4818950/240947497_c_140_105.jpg', 						'entry_click':(function(e){ndn_lightbox_launch({ 'title': 'How to Clean a Microwave', 'PageURL': 'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=240947497&sitesection=huffingtonpost', 'ReferrerURL': 'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=240947497&sitesection=huffingtonpost' },'http://www.huffingtonpost.com/newsinc/landing_page.html?vid=240947497&sitesection=huffingtonpost'); e.preventDefault(); e.stopPropagation(); return false;}) 					}) 					 				] 			 			]; 				for(var col = 0; col < ndn_entries.length; col++){ 					for(var item = 0; item < ndn_entries[col].length; item++){ 						var matches = ndn_entries[col][item].entry_url.match(/[&?]vid=([^&]*)&/); 						if(matches != null && matches.length > 0) ndn_videos.push(matches[1]); 					} 				} 				 				jQuery("#hp_ndn_page_1 .snp_most_popular_entry").each(function(){ 					var title=jQuery(this).attr('data-title'); 					var link=jQuery(this).attr('data-link'); 					 					if(jQuery(this).hasClass('large_entry')){ 						var thumbUrl = jQuery(this).find('.widget_thumb').attr('longdesc'); 						var _h = 190; 						var _w = 260; 						var _pattern = /^([^_]+)(_[0-9ct]+)(_[0-9]+_[0-9]+)?(\.)?(\w{3})$/; 						var _matches = _pattern.exec(thumbUrl); 						var _newStr = _matches[1] + _matches[2] + '_'+_w +'_'+ _h + _matches[4] + _matches[5]; 						jQuery(this).find('.widget_thumb').attr('longdesc', _newStr).attr('src', _newStr); 					} 					 					jQuery('a', this).click(function(e){ndn_lightbox_launch({ 'title': title, 'PageURL': link, 'ReferrerURL': link },link); e.preventDefault(); e.stopPropagation(); return false;}); 				}); 				 				var ndn_pagination = new CommonPaginator({'moduleName': 'ndn', 'maxPage': ndn_max_page, 'is_circle': true, 'is_custom_data': true, 'custom_data': ndn_entries, 'custom_img_width': 74, 'custom_img_height': 54, 'custom_play_button': true}); 				HuffPoUtil.ImageLoader.foldCheck("hp_ndn_page_1"); </p>
+<p> if($('snp_not_signed_mp_page_0'))                     huff.emit('content/update', '#snp_not_signed_mp_page_0');                 if($('snp_not_signed_mpr_page_0'))                     huff.emit('content/update', '#snp_not_signed_mpr_page_0'); </p>
+<p> MOST DISCUSSED RIGHT NOW </p>
+<p> 2RgnQXLokElFimSGDV8i8a43pip0bdKP </p>
+<p> iJKomeBLqmM3QvAVQ0trgKQA9zRBn5c9 </p>
+<p> 1 </p>
+<p> of </p>
+<p> 2 </p>
+<p> Tornado Destroys Dozens Of Buildings In North Carolina </p>
+<p> Tanker Carrying Fuel To Iced-In Alaska Town Hindered By Currents And Thick Ice </p>
+<p> HOT ON FACEBOOK </p>
+<p> 2RgnQXLokElFimSGDV8i8TKPvBq8xPkmgYINREC4w8w%3D </p>
+<p> iJKomeBLqmM3QvAVQ0trgPTAYkCdRanfpr%2BnvSQA9QM%3D </p>
+<p> jpeKJKgSs0bJPlRX0pV4Fss35VaaM%2Fhsd5ArrOAf1yA%3D </p>
+<p> 7GJYATt01SkC5oGPzmZ3og%3D%3D </p>
+<p> 1 </p>
+<p> of </p>
+<p> 3 </p>
+<p> WATCH: Cutest Piglet Ever Wants His Bottle </p>
+<p> Like </p>
+<p> 1K </p>
+<p> WATCH: The World's Tiniest Vertebrate Discovered </p>
+<p> Like </p>
+<p> 1K </p>
+<p> HOT ON TWITTER </p>
+<p> 2RgnQXLokElFimSGDV8i8f8ym0hHXTuf </p>
+<p> iJKomeBLqmM3QvAVQ0trgDrc%2BaNUFZ3B </p>
+<p> 1 </p>
+<p> of </p>
+<p> 2 </p>
+<p> RT @alyssa_milano Incredible! Must See! ➛ http://t.co/pMdfLQZF /via @heykim </p>
+<p> alyssa_milano </p>
+<p> Incredible! Must See! ➛ </p>
+<p> http://t.co/pMdfLQZF </p>
+<p> /via </p>
+<p> @heykim </p>
+<p> Retweet </p>
+<p> RT @louiebaur Girl Scout Launches Cookie Boycott Campaign After Organization's Inclusion Of Transgender Child (VIDEO) http://t.co/KfgJjZ30 </p>
+<p> louiebaur </p>
+<p> Girl Scout Launches Cookie Boycott Campaign After Organization's Inclusion Of Transgender Child (VIDEO) </p>
+<p> http://t.co/KfgJjZ30 </p>
+<p> Retweet </p>
+<p> SNPModule.HotOn.init(); // initialize tracking </p>
+<p> if(HPAds.ad_check_page_config('sponsorship_2')) {                             var adId = 'null';                             HPAds.adSonar("1523355", "2348767", "300", "250");                             var debugadcode = '';                             document.write(debugadcode);                         } </p>
+<p> HUFFPOST'S BIG NEWS PAGES </p>
+<p> Office Theft: Why Employees May Steal At Work </p>
+<p> Video </p>
+<p> Putin Campaign Website Promises Accountability </p>
+<p> Vladimir Putin </p>
+<p> Obama Campaign Locks In On Romney As Opponent </p>
+<p> Elections 2012 </p>
+<p> Mitt Romney PAC Fires Back At Newt Gingrich With New Ad (VIDEO) </p>
+<p> South Carolina Primary </p>
+<p> Arrests In Puerto Rico, U.S. In Document Fraud Case </p>
+<p> Crime </p>
+<p> India High Commission Complain To BBC Over Jeremy Clarkson's Jokes During 'Top Gear India Special' </p>
+<p> TV </p>
+<p> Retail Sales December 2011: Retail Sales Increased By The Most In A Decade Last Year </p>
+<p> Holidays </p>
+<p> With 'Dr. Sweet's Tinderbox' Wright Museum Tackles Legacy Of Segregation </p>
+<p> Segregation </p>
+<p> Bill Moyers: I'm Back On TV Because 'Nothing Else Was As Interesting' </p>
+<p> AP </p>
+<p> more big news pages </p>
+<p> » </p>
+<p> huff.emit('content/update', '#most_popular_bpages'); </p>
+<p> FRONT PAGE </p>
+<p> U.S. </p>
+<p> UK </p>
+<p> CANADA </p>
+<p> POLITICS </p>
+<p> 2012 BLOG </p>
+<p> HUFFPOST HILL </p>
+<p> 2012 ELECTIONS </p>
+<p> FUNDRACE </p>
+<p> GREEN </p>
+<p> POLLSTER </p>
+<p> SPECULATRON </p>
+<p> OFF THE BUS </p>
+<p> BUSINESS </p>
+<p> SMALL BUSINESS </p>
+<p> ENTERTAINMENT </p>
+<p> CELEBRITY </p>
+<p> ENTERTAINMENT </p>
+<p> MUSIC </p>
+<p> RADIO </p>
+<p> MOVIES </p>
+<p> TV </p>
+<p> GAMES </p>
+<p> COMEDY </p>
+<p> TECH </p>
+<p> TECH </p>
+<p> TECHCRUNCH </p>
+<p> JOYSTIQ </p>
+<p> SCIENCE </p>
+<p> ENGADGET </p>
+<p> APPLE BLOG </p>
+<p> MEDIA </p>
+<p> LIFE & STYLE </p>
+<p> STYLE NEWS </p>
+<p> STYLELIST </p>
+<p> FOOD NEWS </p>
+<p> WEDDINGS </p>
+<p> PARENTS </p>
+<p> GREEN </p>
+<p> TRAVEL </p>
+<p> STYLELIST HOME </p>
+<p> KITCHEN DAILY </p>
+<p> DIVORCE </p>
+<p> HUFF/POST50 </p>
+<p> RELIGION </p>
+<p> CULTURE </p>
+<p> ARTS </p>
+<p> PARENTS </p>
+<p> TRAVEL </p>
+<p> COLLEGE </p>
+<p> RELIGION </p>
+<p> IMPACT </p>
+<p> BOOKS </p>
+<p> EDUCATION </p>
+<p> COMEDY </p>
+<p> URLESQUE </p>
+<p> HEALTHY LIVING </p>
+<p> HEALTH AND FITNESS </p>
+<p> HEALTH NEWS </p>
+<p> MINDFUL LIVING </p>
+<p> SLEEP </p>
+<p> WOMEN </p>
+<p> HEALTHY LIVING </p>
+<p> PARENTS </p>
+<p> LOCAL </p>
+<p> NEW YORK </p>
+<p> SAN FRANCISCO </p>
+<p> DENVER </p>
+<p> MIAMI </p>
+<p> PATCH </p>
+<p> CHICAGO </p>
+<p> LOS ANGELES </p>
+<p> DC </p>
+<p> DETROIT </p>
+<p> YELLOW PAGES </p>
+<p> MORE </p>
+<p> SCIENCE </p>
+<p> BLACKVOICES </p>
+<p> SPORTS </p>
+<p> WORLD </p>
+<p> EDUCATION </p>
+<p> GAY VOICES </p>
+<p> GREEN </p>
+<p> LATINOVOICES </p>
+<p> COLLEGE </p>
+<p> CRIME </p>
+<p> WEIRD NEWS </p>
+<p> HIGH SCHOOL </p>
+<p> GREEN </p>
+<p> ENERGY </p>
+<p> CLIMATE CHANGE </p>
+<p> ANIMALS </p>
+<p> GREEN TECH </p>
+<p> POLITICS </p>
+<p> FOOD </p>
+<p> GREEN HOLIDAY </p>
+<p> Advertise </p>
+<p> | </p>
+<p> Make HuffPost your Home Page </p>
+<p> | </p>
+<p> RSS </p>
+<p> | </p>
+<p> Careers </p>
+<p> | </p>
+<p> FAQ </p>
+<p> User Agreement </p>
+<p> | </p>
+<p> Privacy </p>
+<p> | </p>
+<p> Comment Policy </p>
+<p> | </p>
+<p> About Us </p>
+<p> | </p>
+<p> About Our Ads </p>
+<p> | </p>
+<p> Contact Us </p>
+<p> Copyright © 2012 TheHuffingtonPost.com, Inc. | </p>
+<p> "The Huffington Post" is a registered trademark of TheHuffingtonPost.com, Inc. All rights reserved. </p>
+<p> Part of </p>
+<p> AOL Lifestyle </p>
+<p> huff.emit('content/update', '#twitter_promo'); </p>
+<p> //ads processing     if (HuffPoUtil.WEDGJE.ad_renders && HuffPoUtil.WEDGJE.ad_renders.length)     {         for (var i=0; i<HuffPoUtil.WEDGJE.ad_renders.length; i++)         {             HuffPoUtil.WEDGJE.ad_renders[i]();         }     } </p>
+<p> HPAds.ad_store_move_to_place(false); </p>
+<p> /* use hot keys for slidehow */ 		     // add to body browser type     jQuery('body').addClass(HPBrowser.browser_class().toLowerCase() + (HPBrowser.version() + '').replace('.', '-')); </p>
+<p> if (HuffCookies.get('huffpost_become_fan')) 	{ 		simulateClick("blogger_menu_becomefan"); 		HuffCookies.del('huffpost_become_fan'); 	} </p>
+<p> document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E")); </p>
+<p> var comscore_data = {         c1:2,         c2:6723616,         c3:"",         c4:"",         c5:"green",         c6:"",         c15:"",         options: {             url_append: "comscorekw=green"         }     }     COMSCORE.beacon(comscore_data); </p>
+<p> function comScore(t) {         var b="comScore",o=document,f=o.location,a="",e="undefined",g=2048,s,k,p,h,r="characterSet",n="defaultCharset",m=(typeof encodeURIComponent!=e?encodeURIComponent:escape);         if (o.cookie.indexOf(b+"=")!=-1) {              p=o.cookie.split(";");             for (h=0,f=p.length;h<f;h++) {                 var q=p[h].indexOf(b+"=");                 if (q!=-1) {                     a="&"+unescape(p[h].substring(q+b.length+1))                 }             }         }         t=t+"&ns__t="+(new Date().getTime());         t=t+"&ns_c="+(o[r]?o[r]:(o[n]?o[n]:""))+"&c8="+m(o.title)+a+"&c7="+m(f&&f.href?f.href:o.URL)+"&c9="+m(o.referrer);         if (typeof(s_265) != 'undefined') {             var un  = "undefined";             t += (typeof(s_265.pageName) != un) ? ("&name=" + s_265.pageName) : "";             t += (typeof(s_265.channel) != un) ? ("&channel=" + s_265.channel) : "";             t += (typeof(s_265.prop1) != un) ? ("&department=" + s_265.prop1) : "";             t += ((typeof(s_265.prop2) != un) && (s_265.prop2 != "hpo : ") ) ? ("&subdepartment=" + s_265.prop2) : "";             t += (typeof(s_265.prop9) != un) ? ("&content_id=" + s_265.prop9) : "";             t += (typeof(s_265.prop16) != un) ? ("&content_type=" + s_265.prop16) : "";             t += (typeof(s_265.prop18) != un) ? ("&super_tags=" + s_265.prop18) : "";             t += (typeof(s_265.prop22) != un) ? ("&author_name=" + s_265.prop22) : "";             t += (typeof(s_265.prop23) != un) ? ("&orig_pub_date=" + s_265.prop23) : "";             t += ((typeof(s_265.campaign) != un) && (s_265.campaign != "")) ? ("&ncid=" + s_265.campaign) : "";             t += ((typeof(s_265.eVar16) != un) && (s_265.eVar16 != "")) ? ("&icid=" + s_265.eVar16) : "";         }         if (t.length>g&&t.indexOf("&")>0){             s=t.substr(0,g-8).lastIndexOf("&");             t=(t.substring(0,s)+"&ns_cut="+m(t.substring(s+1))).substr(0,g)         }         if(o.images){             k=new Image();             if(typeof ns_p==e){                 ns_p=k             }             k.src=t         } else {             o.write(["<","p","><",'img src="',t,'" height="1" width="1" alt="*"',"><","/p",">"].join(""))         }    };    COMSCORE.newBeacon = function() {        comScore('http'+(document.location.href.charAt(4)=='s'?'s://sb':'://b')+'.scorecardresearch.com/b?c1=2&c2=12438529');    }    COMSCORE.newBeacon(); </p>
+<p> var HPS = HPTrack.Services;     HPS.setOptions('Quantcast', {         labels:"Green",         qacct:"p-6fTutip1SMLM2"     });     HPS.trackTo(['Quantcast']); </p>
+<p> HPUtil.ExtTracking.Nielsen(); </p>
+<p> HuffPost Lightbox </p>
+<p> BF_BB_DATA = null; 			(function( ){ 			        document.write('<div id="BF_BUZZBOX" style="height: 0px; width: 0px;"></div>'); 			            var sid="71I817";   var c=""; var b=""; 			            BF_BB_SCRIPT=document.createElement('script'); BF_BB_SCRIPT.type="text/javascript"; 			                BF_BB_SRC="http://buzzbox.buzzfeed.com/wd/BuzzBox?sid=" + sid + c + b + '&it=1&cb=' + (new Date()).getTime(); 			                setTimeout(function() { document.getElementById('BF_BUZZBOX').appendChild(BF_BB_SCRIPT); BF_BB_SCRIPT.src=BF_BB_SRC; },1); 			})(); </p>
+<p> HPAds.ad_html_wh("green","bpage"); </p>
+<p> huff.use('conf', function(c){ c.set({"mtime":1326380744,"entry":1200262,"vertical":"green","vertical-id":13,"vertical-name":"Green","ads\/zone":"","vertical\/bignews":"green","threeup":{"version":2},"twitter\/search":{"clientside":false,"keyword":"bushmeat disease","config":{"search_tag":"bushmeat disease","max_id":"157462917703417857","min_id":"157155957363843072"}}}); }); </p>

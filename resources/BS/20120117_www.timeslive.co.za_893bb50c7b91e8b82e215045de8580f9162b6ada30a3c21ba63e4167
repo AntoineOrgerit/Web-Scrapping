@@ -1,0 +1,388 @@
+<p> var OA_zones = {                 'sponsored_1':263,'sponsored_2':263,'sponsored_3':263,                 'sponsored_4':263,'sponsored_5':263,'sponsored_6':263,                 'sponsored_7':263,'sponsored_8':263,'sponsored_9':263,                 'sponsored_10':263             } </p>
+<p> var ord = 322497198544;              jQuery(function(){ 	        var SelfLocation = window.location.href.split('?'); 	        switch (SelfLocation[1]) {                     case "justify_right":                         jQuery(".megamenu").megamenu({ 'justify':'right' });                         break;                     case "justify_left":                     default:                         jQuery(".megamenu").megamenu(); 	        }             }); </p>
+<p> var _nolggGlobalParams = {         clientid:"us-502202",         vcid:"c20",         cisuffix:"",         sfcode:"za",         prod:"sc"     }; </p>
+<p> var canUseSWF = false; // forces native mode     var uid = 0;     var gg1 = new gg();     gg1.ggInitialize(_nolggGlobalParams,uid,canUseSWF); </p>
+<p> var _sf_startpt=(new Date()).getTime(); </p>
+<p> Horse owner charged with animal cruelty - Times LIVE </p>
+<p> (function() {     var em = document.createElement('script'); em.type = 'text/javascript'; em.async = true;     em.src = ('https:' == document.location.protocol ? 'https://za-ssl' : 'http://za-cdn') + '.effectivemeasure.net/em.js';     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(em, s);   })(); </p>
+<p> Sunday Times </p>
+<p> The Times </p>
+<p> LIVE Sites </p>
+<p> Sowetan LIVE </p>
+<p> Business LIVE </p>
+<p> Sport LIVE </p>
+<p> Sunday World </p>
+<p> Other Avusa Titles </p>
+<p> Sign Up </p>
+<p> Sign In </p>
+<p> Please enter your login details </p>
+<p> You can also sign in with your Sowetan LIVE & </p>
+<p> Business LIVE account details. </p>
+<p> Sign Up </p>
+<p> Forgot password? </p>
+<p> function setValue(pValue) {                     document.getElementById("hiddenProviderId").value = pValue;                     return true;                 } </p>
+<p> Sign in with: </p>
+<p> Subscribe to our papers </p>
+<p> m.timeslive.co.za </p>
+<p> Times LIVE </p>
+<p> Mbeki questions Twitter's usefulness </p>
+<p> New SABC CEO appointed </p>
+<p> function GetUserProfile()     {         document.getElementById("getUserForm").submit();      } </p>
+<p> document.write('<script language="JavaScript" src="http://ad.za.doubleclick.net/adj/timeslive2/home_weather;sz=310x20;ord=' + ord + '?" type="text/javascript"><\/script>'); </p>
+<p> Tue Jan 17 17:11:29 SAST 2012 </p>
+<p> 27° </p>
+<p> Johannesburg </p>
+<p> 27°C / 16°C </p>
+<p> Set my city </p>
+<p> | </p>
+<p> 7 day forecast </p>
+<p> News </p>
+<p> Home </p>
+<p> South Africa </p>
+<p> Africa </p>
+<p> World </p>
+<p> LATEST IN Home </p>
+<p> 47 die in another round of South Sudan tribal violence </p>
+<p> British army defuses pipe bomb near Belfast school </p>
+<p> South Africa's murder capital cities </p>
+<p> Clinton commends Ivory Coast justice effort </p>
+<p> Former cop jailed for 23 years for murder </p>
+<p> LATEST IN South Africa </p>
+<p> South Africa's murder capital cities </p>
+<p> Former cop jailed for 23 years for murder </p>
+<p> Rhino bull killed near Mossel Bay </p>
+<p> Recycling levy for tyres in February </p>
+<p> Ambulances not exempt from Chapman's Peak toll </p>
+<p> LATEST IN Africa </p>
+<p> 47 die in another round of South Sudan tribal violence </p>
+<p> Clinton commends Ivory Coast justice effort </p>
+<p> South Sudan: Sudan stealing south's oil </p>
+<p> Lebanese probe finds Ethiopian airline crash due to pilot error </p>
+<p> Chevron: rig catches fire off Nigeria's delta </p>
+<p> LATEST IN World </p>
+<p> British army defuses pipe bomb near Belfast school </p>
+<p> Missing from cruise liner include 14 Germans, captain questioned </p>
+<p> Chinese dissident to stand trial for poem </p>
+<p> Polish condom market goes limp </p>
+<p> 'Mein Kampf' set for first German post-war reprint </p>
+<p> Politics </p>
+<p> Politics </p>
+<p> LATEST IN Politics </p>
+<p> MPs tussle over info bill logistics </p>
+<p> South Africa's murder capital cities </p>
+<p> Mbeki questions Twitter's usefulness </p>
+<p> Ka Plaatjie appointed to SABC board </p>
+<p> False knowledge ended Gaddafi's rule, says Mbeki </p>
+<p> Sport </p>
+<p> Sport </p>
+<p> LATEST IN SPORT </p>
+<p> Ancelotti mulls PSG shopping list </p>
+<p> Britain wins South Pole cricket match on Scott centenary </p>
+<p> Two injury withdrawals fro SA under-20s </p>
+<p> Djokovic has fun in the sun while Stosur wilts </p>
+<p> Serena looks rusty on Melbourne Park return </p>
+<p> Business </p>
+<p> Business </p>
+<p> LATEST IN BUSINESS </p>
+<p> Cabinet preps Zuma for state-of-nation address </p>
+<p> SA needs '7% carat policies' to grow at 7% </p>
+<p> Fitch revises Outlook on SA banks to Negative </p>
+<p> Specter of Scorpions hangs over secrecy bill </p>
+<p> EM overweight positions tick lower in January </p>
+<p> Entertainment </p>
+<p> Entertainment </p>
+<p> Celebrity </p>
+<p> Movies </p>
+<p> Music </p>
+<p> Gaming </p>
+<p> Puzzles & Games </p>
+<p> Horoscopes </p>
+<p> TV Guide </p>
+<p> Competitions </p>
+<p> LATEST IN Entertainment </p>
+<p> Polish singer fined for bad-mouthing Bible </p>
+<p> Durban heist film grosses R320k in first week </p>
+<p> 'The Artist', 'Tinker Tailor' sweep Bafta nominations </p>
+<p> Swift teases songs about heartbreak on next album </p>
+<p> Wonderful finale to Assassins Creed </p>
+<p> LATEST IN Celebrity </p>
+<p> Swift teases songs about heartbreak on next album </p>
+<p> Obsessed Kate Bush fan breaks into her house to propose </p>
+<p> Scientists name fly after Beyonce </p>
+<p> Whitney from 'The Hills' to show label at New York Fashion Week </p>
+<p> Kristen Stewart is the face of Balenciaga's new fragrance </p>
+<p> LATEST IN Movies </p>
+<p> Durban heist film grosses R320k in first week </p>
+<p> 'The Artist', 'Tinker Tailor' sweep Bafta nominations </p>
+<p> Quick review: Little Bit of Heaven* </p>
+<p> Close Up: Machine Gun Preacher </p>
+<p> 'The Artist' top Golden Globe winner </p>
+<p> LATEST IN Music </p>
+<p> Polish singer fined for bad-mouthing Bible </p>
+<p> Swift teases songs about heartbreak on next album </p>
+<p> Upcoming artists vie for Usher opening spot </p>
+<p> Lady Gaga's Born This Way 'sounds familiar': Madonna </p>
+<p> Newly discovered Brahms work set for world premiere </p>
+<p> LATEST IN Gaming </p>
+<p> Wonderful finale to Assassins Creed </p>
+<p> 'Angry Brides' game targets Indian dowry demands </p>
+<p> Gaming key to Sony profit rebound-executive </p>
+<p> 0101tv1WED </p>
+<p> 0101tv2WED </p>
+<p> LATEST IN Competitions </p>
+<p> Life & Style </p>
+<p> Life & Style </p>
+<p> Motoring </p>
+<p> Family </p>
+<p> Books LIVE </p>
+<p> LATEST IN Life & Style </p>
+<p> Afghan calligrapher creates world's largest Koran </p>
+<p> Quick Reviews: 1701 </p>
+<p> Exploring intimacy </p>
+<p> 'Last Werewolf' has serious bite </p>
+<p> Growth of world tourism slowing </p>
+<p> LATEST IN Motoring </p>
+<p> Carpocalypse Now </p>
+<p> The Wanted List </p>
+<p> Safety milestone for Geely </p>
+<p> Festive wishes as MotorMania takes a break </p>
+<p> Taking back the streets </p>
+<p> LATEST IN Family </p>
+<p> Facebook group plans global Info Bill protests </p>
+<p> New app charges you for skipping gym </p>
+<p> Fertility rates to drop, says SAIRR </p>
+<p> I resolve to sort the memory snaps this year </p>
+<p> Dearth of black models at Rio fashion week sees call for quotas </p>
+<p> Travel </p>
+<p> Travel </p>
+<p> LATEST IN Travel </p>
+<p> Accidental Tourist: Scamming the scammer </p>
+<p> Adventures on South Africa's Garden Route </p>
+<p> My Kind of Holiday: Josette Eales </p>
+<p> Reader's Africa: Blazing a trail from Kenya to Cape Town </p>
+<p> Peter's Post: A quiet holiday during Bali's New Year </p>
+<p> Food </p>
+<p> Food </p>
+<p> LATEST IN Food </p>
+<p> Recipes for macho bachelors </p>
+<p> Christmas picks </p>
+<p> Weird meat website not for sensitive viewers </p>
+<p> FESTIVE SETTING: Wish you a merry meal </p>
+<p> The kos of true love </p>
+<p> Sci-Tech </p>
+<p> Sci-Tech </p>
+<p> LATEST IN Sci-Tech </p>
+<p> Recycling levy for tyres in February </p>
+<p> Swiss to return Greek silver </p>
+<p> US may have caused Mars probe failure: Russia </p>
+<p> Top TV – Porn and censorship </p>
+<p> Palaeontologists find South America's oldest predator </p>
+<p> Opinion </p>
+<p> Opinion </p>
+<p> Columnists </p>
+<p> Editorials </p>
+<p> Commentary </p>
+<p> Blogs </p>
+<p> LATEST IN Opinion </p>
+<p> Top TV – Porn and censorship </p>
+<p> Clearing the bonus debacle will restore Cricket SA's image </p>
+<p> Live concert etiquette </p>
+<p> 'Sick' ANC must return to putting the people first </p>
+<p> Hogarth: 15 January 2012 </p>
+<p> LATEST IN Columnists </p>
+<p> Top TV – Porn and censorship </p>
+<p> Clearing the bonus debacle will restore Cricket SA's image </p>
+<p> City needs lesson in elegance </p>
+<p> Race to the South Pole </p>
+<p> Only human after all </p>
+<p> LATEST IN Editorials </p>
+<p> Red flag for green paper: iLIVE </p>
+<p> Nature as vital as nurture: iLIVE </p>
+<p> Wary of e-toll delay tactics: iLIVE </p>
+<p> UJ staff behave like bouncers: iLIVE </p>
+<p> Africa must unite to take back riches: iLIVE </p>
+<p> LATEST IN Commentary </p>
+<p> So many questions: Phillip Dexter </p>
+<p> Our pass rate focus is too narrow </p>
+<p> And now, a word from Zzzzzzuma </p>
+<p> Obituary: Zithulele Sinqe: legend of long-distance running </p>
+<p> Learning to give back to our communities </p>
+<p> Videos </p>
+<p> iLIVE </p>
+<p> iLIVE </p>
+<p> LATEST IN iLIVE </p>
+<p> Red flag for green paper: iLIVE </p>
+<p> Nature as vital as nurture: iLIVE </p>
+<p> Wary of e-toll delay tactics: iLIVE </p>
+<p> UJ staff behave like bouncers: iLIVE </p>
+<p> Africa must unite to take back riches: iLIVE </p>
+<p> Latest </p>
+<p> previous </p>
+<p> next </p>
+<p> Swaziland state paper fires editor after democracy interviews </p>
+<p> 47 die in another round of South Sudan tribal violence </p>
+<p> British army defuses pipe bomb near Belfast school </p>
+<p> A tale of four cities </p>
+<p> Clinton commends Ivory Coast justice effort </p>
+<p> Former cop jailed for 23 years for murder </p>
+<p> Polish singer fined for bad-mouthing Bible </p>
+<p> Rhino bull killed near Mossel Bay </p>
+<p> Recycling levy for tyres in February </p>
+<p> Durban heist film grosses R320k in first week </p>
+<p> Swiss to return Greek silver </p>
+<p> Missing from cruise liner include 14 Germans, captain questioned </p>
+<p> Ambulances not exempt from Chapman's Peak toll </p>
+<p> South Sudan: Sudan stealing south's oil </p>
+<p> Chinese dissident to stand trial for poem </p>
+<p> Polish condom market goes limp </p>
+<p> Henning murder case postponed </p>
+<p> Property </p>
+<p> | </p>
+<p> Cars </p>
+<p> | </p>
+<p> Jobs </p>
+<p> Find </p>
+<p> Tue Jan 17 17:51:37 SAST 2012 </p>
+<p> var CurrentUserID = 74019;     var CurrentArticleID = 3637984; </p>
+<p> document.write('<script language="JavaScript" src="http://ad.za.doubleclick.net/adj/timeslive2/news_south_africa;pos=top;tile=2;dcopt=ist;sz=728x90;ord=' + ord + '?" type="text/javascript"><\/script>'); </p>
+<p> HIV slur: girls fuming </p>
+<p> Home </p>
+<p> South Africa </p>
+<p> Article </p>
+<p> Horse owner charged with animal cruelty </p>
+<p> Sapa | 2012-01-17 07:03:10.0 </p>
+<p> Brown horse. File photo. </p>
+<p> Image by: </p>
+<p> Gallo Images/Thinkstock </p>
+<p> Save & Share </p>
+<p> Tweet </p>
+<p> Email </p>
+<p> Print </p>
+<p> document.write('<script language="JavaScript" src="http://ad.za.doubleclick.net/adj/timeslive2/news_south_africa;pos=left;tile=3;sz=160x600;ord=' + ord + '?" type="text/javascript"><\/script>'); </p>
+<p> The SPCA says a man has been charged with animal cruelty after he allegedly neglected to care for his horses, resulting them in being put down in Vereeniging, Gauteng on Monday. </p>
+<p> "The horses were underweight and had problematic hooves which caused severe pain and suffering," said Society for the Prevention of Cruelty to Animals' Vereeniging manager Marlien Pieterse in a statement. </p>
+<p> The owner had ignored warnings by the SPCA to get the two horses and a foal treated. The foal was born with a severely deformed mouth which caused severe pain whilst eating. </p>
+<p> "The owner refused to hand the horses over to the SPCA and became verbally abusive towards our inspectors." </p>
+<p> A warrant was obtained from the Vereeniging Magistrate's Court and the police called to help. </p>
+<p> "All three equine had to be humanely destroyed under instruction of a veterinarian and equine specialist." </p>
+<p> Pieterse said if the owner had treated the animals sooner, they would not have had to be put down. </p>
+<p> The owner was expected to be prosecuted in terms of the Animals Protection Act. </p>
+<p> Save & Share </p>
+<p> Tweet </p>
+<p> SHARE YOUR OPINION </p>
+<p> If you have an opinion you would like to share on this article,                 please </p>
+<p> send us an e-mail </p>
+<p> to the Times LIVE iLIVE team. In the mean time, </p>
+<p> click here </p>
+<p> to view the Times LIVE iLIVE section. </p>
+<p> document.write('<script language="JavaScript" src="http://ad.za.doubleclick.net/adj/timeslive2/news_south_africa;pos=top;tile=4;sz=300x600,300x250;ord=' + ord + '?" type="text/javascript"><\/script>'); </p>
+<p> Most Popular </p>
+<p> Today </p>
+<p> This Month </p>
+<p> 1 </p>
+<p> Strippers a hit in Cape court </p>
+<p> 2 </p>
+<p> Ali Bacher fights to protect his legacy </p>
+<p> 3 </p>
+<p> New SABC CEO appointed </p>
+<p> 4 </p>
+<p> Recall of 3350 SA Minis </p>
+<p> 5 </p>
+<p> The 'monster' turns up for a shower </p>
+<p> 1 </p>
+<p> ANC appeals to clan to rein in Mandla Mandela </p>
+<p> 2 </p>
+<p> Zapiro cartoons </p>
+<p> 3 </p>
+<p> Lawyer in row over R1m bling </p>
+<p> 4 </p>
+<p> Car remote blocking crime on the rise: how to protect yourself </p>
+<p> 5 </p>
+<p> IEB matric results release approved </p>
+<p> Read more popular stories </p>
+<p> Mom's errand of love cut short by tragedy </p>
+<p> SA private schooling cheaper than UK, US </p>
+<p> Banned SA doc resurfaces in the Cape </p>
+<p> Aim higher, Oprah tells SA </p>
+<p> North West farmer killed, wife assaulted </p>
+<p> document.write('<script language="JavaScript" src="http://ad.za.doubleclick.net/adj/timeslive2/news_south_africa;pos=bottom;tile=5;sz=300x250,45x45;ord=' + ord + '?" type="text/javascript"><\/script>'); </p>
+<p> google_ad_client = "ca-pub-0370095952508018"; google_ad_slot = "5822129054"; google_ad_width = 300; google_ad_height = 250; </p>
+<p> Sponsored Links </p>
+<p> <!--// <![CDATA[                     OA_show('sponsored_1');                     //]]>--> </p>
+<p> <!--// <![CDATA[                     OA_show('sponsored_2');                     //]]>--> </p>
+<p> <!--// <![CDATA[                     OA_show('sponsored_3');                     //]]>--> </p>
+<p> <!--// <![CDATA[                     OA_show('sponsored_4');                     //]]>--> </p>
+<p> <!--// <![CDATA[                     OA_show('sponsored_5');                     //]]>--> </p>
+<p> <!--// <![CDATA[                     OA_show('sponsored_6');                     //]]>--> </p>
+<p> <!--// <![CDATA[                     OA_show('sponsored_7');                     //]]>--> </p>
+<p> <!--// <![CDATA[                     OA_show('sponsored_8');                     //]]>--> </p>
+<p> <!--// <![CDATA[                     OA_show('sponsored_9');                     //]]>--> </p>
+<p> <!--// <![CDATA[                     OA_show('sponsored_10');                     //]]>--> </p>
+<p> <!--//<![CDATA[    var m3_u = (location.protocol=='https:'?'https://ads.avusa.co.za/www/delivery/ajs.php':'http://ads.avusa.co.za/www/delivery/ajs.php');    var m3_r = Math.floor(Math.random()*99999999999);    if (!document.MAX_used) document.MAX_used = ',';    document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);    document.write ("?zoneid=275");    document.write ('&amp;cb=' + m3_r);    if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);    document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));    document.write ("&amp;loc=" + escape(window.location));    if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));    if (document.context) document.write ("&context=" + escape(document.context));    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");    document.write ("'><\/scr"+"ipt>"); //]]>--> </p>
+<p> <!--//<![CDATA[    var m3_u = (location.protocol=='https:'?'https://ads.avusa.co.za/www/delivery/ajs.php':'http://ads.avusa.co.za/www/delivery/ajs.php');    var m3_r = Math.floor(Math.random()*99999999999);    if (!document.MAX_used) document.MAX_used = ',';    document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);    document.write ("?zoneid=276");    document.write ('&amp;cb=' + m3_r);    if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);    document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));    document.write ("&amp;loc=" + escape(window.location));    if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));    if (document.context) document.write ("&context=" + escape(document.context));    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");    document.write ("'><\/scr"+"ipt>"); //]]>--> </p>
+<p> <!--//<![CDATA[    var m3_u = (location.protocol=='https:'?'https://ads.avusa.co.za/www/delivery/ajs.php':'http://ads.avusa.co.za/www/delivery/ajs.php');    var m3_r = Math.floor(Math.random()*99999999999);    if (!document.MAX_used) document.MAX_used = ',';    document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);    document.write ("?zoneid=277");    document.write ('&amp;cb=' + m3_r);    if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);    document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));    document.write ("&amp;loc=" + escape(window.location));    if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));    if (document.context) document.write ("&context=" + escape(document.context));    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");    document.write ("'><\/scr"+"ipt>"); //]]>--> </p>
+<p> <!--//<![CDATA[    var m3_u = (location.protocol=='https:'?'https://ads.avusa.co.za/www/delivery/ajs.php':'http://ads.avusa.co.za/www/delivery/ajs.php');    var m3_r = Math.floor(Math.random()*99999999999);    if (!document.MAX_used) document.MAX_used = ',';    document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);    document.write ("?zoneid=278");    document.write ('&amp;cb=' + m3_r);    if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);    document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));    document.write ("&amp;loc=" + escape(window.location));    if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));    if (document.context) document.write ("&context=" + escape(document.context));    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");    document.write ("'><\/scr"+"ipt>"); //]]>--> </p>
+<p> Main Menu </p>
+<p> News </p>
+<p> Politics </p>
+<p> Sport </p>
+<p> Business </p>
+<p> Entertainment </p>
+<p> Life & Style </p>
+<p> Travel </p>
+<p> Food </p>
+<p> Sci-Tech </p>
+<p> Opinion </p>
+<p> Videos </p>
+<p> iLive </p>
+<p> Blogs </p>
+<p> Our Network </p>
+<p> Times LIVE Dating </p>
+<p> Sowetan LIVE </p>
+<p> Sport LIVE </p>
+<p> Sunday World </p>
+<p> Books LIVE </p>
+<p> Business LIVE </p>
+<p> Avusa Media LIVE </p>
+<p> Social Network </p>
+<p> Facebook Page </p>
+<p> Twitter </p>
+<p> Partner Sites </p>
+<p> Exclusive Books </p>
+<p> Junction Sites </p>
+<p> Career </p>
+<p> Auto </p>
+<p> Property </p>
+<p> BDFM </p>
+<p> Map IT </p>
+<p> NuMetro </p>
+<p> I-Net Bridge </p>
+<p> Online Services </p>
+<p> Advertise Online </p>
+<p> Subscribe To Newsletter </p>
+<p> Competitions </p>
+<p> Mobile </p>
+<p> RSS Feeds </p>
+<p> Syndication </p>
+<p> Print Services </p>
+<p> Advertise In Print </p>
+<p> Subscription Services </p>
+<p> Projects </p>
+<p> Food Awards </p>
+<p> Heritage Project </p>
+<p> ReadRight </p>
+<p> Contact Us </p>
+<p> Contact Details </p>
+<p> Other </p>
+<p> Site Map </p>
+<p> Terms & Conditions </p>
+<p> Times LIVE </p>
+<p> © 2011 AVUSA, Inc. All rights reserved. </p>
+<p> Use of this site constitutes acceptance of our </p>
+<p> Terms & Conditions </p>
+<p> and </p>
+<p> Privacy Policy </p>
+<p> . </p>
+<p> DMMA </p>
+<p> $(function(){                 // Option set as a global variable                 $.fn.loopedSlider.defaults.addPagination = true;                  $('#loopedSliderAggregator').loopedSlider({                 	autoHeight: 600,                 	autoStart: false,                     hoverPause: true,                     pagination:"aggregatorPagination",                     containerClick: false                 });                 $('#loopedSliderColumnists').loopedSlider({                 	autoHeight: 600,                 	autoStart: false,                     hoverPause: true,                     pagination:"aggregatorPagination",                     containerClick: false                 });                 $('#loopedSlider').loopedSlider({                     autoHeight: 600,                     hoverPause: true                 });                 $('#sectionloopedslider').loopedSlider({                     autoHeight: 600,                     autoStart: 8000,                     hoverPause: true,                     addPagination: false,                     containerClick:false                 });                 $('#headlineloopedslider').loopedSlider({                     autoStart: 6000,                     autoHeight: 600,                     hoverPause: true,                     addPagination: false,                     containerClick:false                 });             }); </p>
+<p> var _gaq = _gaq || [];     _gaq.push(['_setAccount', 'UA-9714899-1']);     _gaq.push(['_trackPageview']);     _gaq.push(['_trackPageLoadTime']);      (function() {         var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;         ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);     })(); </p>

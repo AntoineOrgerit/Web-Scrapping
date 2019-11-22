@@ -1,0 +1,370 @@
+<p> var startLoadTime = (new Date()).getTime(); </p>
+<p> Biggest ovarian cancer breakthrough in 15 years - mirror.co.uk </p>
+<p> var gs_channels = "default"; </p>
+<p> //<![CDATA[ 		var statsPageProps = new Object; 		statsPageProps.eventsList = ''; 	//]]> </p>
+<p> //<![CDATA[ 			var useGoogleJSLogo = true; //displayhandler may override this value 			function setGoogleLogoIfNeeded() { 				if (useGoogleJSLogo) { 					setGoogleLogo(); 				} 			}  			tm.imageServer = 'http://images.mirror.co.uk/';  	 		//]]> </p>
+<p> //<![CDATA[ 				document.domain="mirror.co.uk"; 			//]]> </p>
+<p> //<![CDATA[ 				tm.siteLife.daapi.setServerUrl('http://community.mirror.co.uk/ver1.0/Direct/Process'); 			//]]> </p>
+<p> //<![CDATA[ 				tm.zones = ''; 			//]]> </p>
+<p> //<![CDATA[ 					(function(d, s, id) { 					  var js, fjs = d.getElementsByTagName(s)[0]; 					  if (d.getElementById(id)) {return;} 					  js = d.createElement(s); js.id = id; 					  js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1&appId=123792601022133"; 					  fjs.parentNode.insertBefore(js, fjs); 					}(document, 'script', 'facebook-jssdk'));//]]> </p>
+<p> //<![CDATA[ 				var rsi_segs = []; 				var segs_beg=document.cookie.indexOf('rsi_segs='); 				if (segs_beg>=0){ 					segs_beg=document.cookie.indexOf('=',segs_beg)+1; 					if(segs_beg>0){ 						var segs_end=document.cookie.indexOf(';',segs_beg); 						if(segs_end==-1) segs_end=document.cookie.length; 						rsi_segs=document.cookie.substring(segs_beg,segs_end).split('|'); 					} 				} 				var segLen=20; 				var segQS=""; 				if (rsi_segs.length<segLen){ 					segLen=rsi_segs.length 				} 				for (var i=0;i<segLen;i++){ 					segQS+=("rsi"+"="+rsi_segs[i]+";")					 				} 			//]]> </p>
+<p> var _gaq = _gaq || []; 			  _gaq.push(['_setAccount', 'UA-229407-1']); 			  _gaq.push(['_trackPageview']);  			  (function() { 			    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 			    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; 			    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); 			  })(); </p>
+<p> <!--  var OMNI_DEBUG_LEVEL = 33;     function GetURLVars() { 	 	var args = new Object(); 	a_pairs = document.location.search.split(/[?&]/); 	for (i = 0; i < a_pairs.length; i ++) { 		 		a_bits = a_pairs[i].split('='); 		if ((a_bits.length == 2) && (a_bits[0].length)) { 			if (args[a_bits[0]] == undefined) { 				 				args[a_bits[0]] = unescape(a_bits[1]); 			} else { 				 				args[a_bits[0]] = args[a_bits[0]] + ',' + unescape(a_bits[1]); 			} 		} 	}  	return args; }  function GetCampaign() { 	var urlvars = GetURLVars(); 	var campaignSrc; 	if (typeof(urlvars.campaign) != 'undefined') { 		campaignSrc = urlvars.campaign; 	} else { 		campaignSrc =""; 	} 	return campaignSrc; }   var s_account; s_account = s_account || "tmrmgnthreeaggprod,tmrmirrorprod"; //--> </p>
+<p> <!--  var pageName = "m4/News/Health News"   if (typeof startLoadTime != 'undefined') { 	var endLoadTime = (new Date()).getTime(); 	var totalLoadTime = Math.round((endLoadTime - startLoadTime) / 100) /10; } else { 	var totalLoadTime = 0; }   s.channel="News"; s.pageType=""; s.prop1="News|Health News"; s.prop2=""; s.prop3=""; s.prop4="";   s.prop5 = "m4"; try { 	var omnitureSitename = ( 		(typeof getCookieVal == 'undefined')?getCookie:getCookieVal 	)('brandingheader_site_name'); 	if (omnitureSitename) s.prop5 = omnitureSitename; } catch(e) { 	 }  s.prop9="page.cfm" s.prop10="23703293" s.prop11="" s.prop12="" s.prop13="" s.prop14=GetCampaign(); s.prop16="MGN5" s.prop18="homepage" s.prop19="23703293" s.prop21="MGN2" s.prop24="" s.prop27 = totalLoadTime s.prop30="article"  s.hier1="m4|News|Health News"   s.campaign=s.prop14 s.state="" s.zip="" s.products="" s.purchaseID="" var eVar1Val="" var eVar2Val="" var eVar3Val="" var eVar4Val="" var eventsList=""  s.prop15="m4_biggest-ovarian-cancer-breakthrough-in-15-years" s.prop22=s.prop23="" if (typeof(statsPageProps)!='undefined'){ 	if (typeof(statsPageProps.productCode)!='undefined')s.products=';'+statsPageProps.productCode 	if (typeof(statsPageProps.jobSearchLocation)!='undefined')eVar3Val=statsPageProps.jobSearchLocation 	if (typeof(statsPageProps.jobSearchIndustry)!='undefined')eVar4Val=statsPageProps.jobSearchIndustry 	eventsList=statsPageProps.eventsList 	if (typeof(statsPageProps.videoTitle)!='undefined'){ 		eVar2Val=s.prop23=statsPageProps.videoTitle; 	 	} 	/* override props if defined from header var statsPageProps */ 	if (typeof(statsPageProps.path1) != 'undefined') { 			s.prop1 = statsPageProps.path1; 	} 	if (typeof(statsPageProps.path2) != 'undefined') { 			s.prop2 = statsPageProps.path2; 	} 	if (typeof(statsPageProps.path3) != 'undefined') { 			s.prop3 = statsPageProps.path3; 	} 	if (typeof(statsPageProps.siteName) != 'undefined') { 			s.prop5 = statsPageProps.siteName; 	} 	if (typeof(statsPageProps.region) != 'undefined') { 		s.prop16 = statsPageProps.region; 	} 	if (typeof(statsPageProps.itemTitle) != 'undefined') { 		s.prop19 = statsPageProps.itemTitle; 	} 	if (typeof(statsPageProps.publishingGroup) != 'undefined') { 		s.prop21 = statsPageProps.publishingGroup; 	} 	if (typeof(statsPageProps.channel) != 'undefined') { 		s.channel = statsPageProps.channel; 	} 	if (typeof(statsPageProps.classifiedCategory) != 'undefined') { 		statsClassifiedCategory = statsPageProps.classifiedCategory; 	} 	if (typeof(statsPageProps.contentCategory) != 'undefined') { 		statsContentCategory = statsPageProps.contentCategory; 	}  	 	if (typeof(statsPageProps.moleBusinessName) != 'undefined') { 		s.prop26='Mole-Enquiry'; 		s.eVar7=statsPageProps.moleBusinessName; 	}  	// in case the kyte video starts playing before s is defined, then the event will be sent here 	if (typeof(statsPageProps.kyteEvent) != 'undefined') { 		eventsList += (eventsList ? ',' : '') + statsPageProps.kyteEvent; 	}  	// for image gallery kyte shows 	if (typeof(statsPageProps.galleryName) != 'undefined') { 		s.prop35=statsPageProps.galleryName; 		s.eVar12=statsPageProps.galleryName; 	} 	 	// for offers flyout 	if (typeof(statsPageProps.flyout) != 'undefined') { 		s.prop36 = statsPageProps.flyout; 	} }      s.events=eventsList s.eVar1=eVar1Val s.eVar2=eVar2Val s.eVar3=eVar3Val s.eVar4=eVar4Val s.eVar5=""   s.pageName = setOmniturePageName(pageName); if (typeof(statsPageProps)!='undefined' && typeof(statsPageProps.pageNameSuffix)!='undefined') { 	s.pageName += statsPageProps.pageNameSuffix; // adds a suffix if present on page. }  if (typeof(statsClassifiedCategory) != "undefined") { 	 	s.prop4 = statsClassifiedCategory; 	 	s.prop18 = s.prop18 || statsClassifiedCategory; } if (typeof(statsContentCategory) != "undefined") { 	s.prop18 = statsContentCategory; }  if (s.prop4 != "" && s.prop5 != "") s.prop12 = s.prop5 + "_" + s.prop4; if (s.prop4 != "" && s.prop16 != "") s.prop17 = s.prop16 + "_" + s.prop4; var s_code=s.t();if(s_code)document.write(s_code);   var puffLinks = $('*[type=puff] a'); //Add click event puffLinks.click(function(){ 	//get object id 	var parentEl = $(this); 	var objectId = ""; 	var containerName = ""; 	 	//We want to find the content object on the page. 	do { 		parentEl = parentEl.parent(); 	} while (parentEl &&  			!parentEl.attr('tagName').toLowerCase().match(/(tm:)?contentobject/));  	if (!parentEl) { 		tm.logger.error(['Puff Tracking:', 'No parent tm:contentobject tag'], OMNI_DEBUG_LEVEL); 		return !tm.logger.enabled; //if debug mode don't follow link 	} else { 		objectId = parentEl.attr('objectid'); 	} 	 	// So we now have the content object we are looking for - we continue on up the tree 	// to get the name of the container holding it. 	do { 		parentEl = parentEl.parent(); 	} while (parentEl &&  			!parentEl.attr('tagName').toLowerCase().match(/(tm:)?container/) );  	if (!parentEl) { 		tm.logger.error(['Puff Tracking:', 'no parent tm:container tag'], OMNI_DEBUG_LEVEL); 		return !tm.logger.enabled; //if debug mode don't follow link 	} else { 		containerName = parentEl.attr('name'); 	}  	tm.logger.debug(['Puff Tracking:', 'objectId:', objectId,  			'containerName:', containerName, parentEl ], OMNI_DEBUG_LEVEL);  	s.eVar13 = s.pageName + '-' + containerName + '-' + objectId; 	s.events = 'event17'; 	s.t(); 	 	tm.logger.info(['Puff Tracking:', 'Omniture event sent' ], OMNI_DEBUG_LEVEL);  	return tm.logger.debugLevel != OMNI_DEBUG_LEVEL; //if debug mode don't follow link }); //Log to console if required. tm.logger.debug( [ 'Puff Tracking: Links', puffLinks ], OMNI_DEBUG_LEVEL );     //--> </p>
+<p> <!-- if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-') //--> </p>
+<p> Reader Offers </p>
+<p> Bingo </p>
+<p> Cashback </p>
+<p> Scratchcards </p>
+<p> Dating </p>
+<p> Tickets </p>
+<p> Comps </p>
+<p> Money </p>
+<p> AC_FL_RunContent = 0; </p>
+<p> <!--//<![CDATA[ 		var d_names = new Array("Sun", "Mon", "Tue", 				"Wed", "Thu", "Fri", "Sat");  		var m_names = new Array("Jan", "Feb", "Mar", 		"Apr", "May", "Jun", "Jul", "Aug", "Sep", 		"Oct", "Nov", "Dec");  		var d = new Date(); 		var curr_day = d.getDay(); 		var curr_date = d.getDate(); 		var sup = ""; 		if (curr_date == 1 || curr_date == 21 || curr_date ==31) 		   { 		   sup = "st"; 		   } 		else if (curr_date == 2 || curr_date == 22) 		   { 		   sup = "nd"; 		   } 		else if (curr_date == 3 || curr_date == 23) 		   { 		   sup = "rd"; 		   } 		else 		   { 		   sup = "th"; 		   } 		var curr_month = d.getMonth(); 		var curr_year = d.getFullYear(); 		var curr_hour = d.getHours();  		if (curr_hour < 12) 		   { 		   a_p = "am"; 		   } 		else 		   { 		   a_p = "pm"; 		   } 		if (curr_hour == 0) 		   { 		   curr_hour = 12; 		   } 		if (curr_hour > 12) 		   { 		   curr_hour = curr_hour - 12; 		   }  		var curr_min = d.getMinutes(); 		curr_min = curr_min + "";  		if (curr_min.length == 1) 		   { 		   curr_min = "0" + curr_min; 		   } 		   //]]--> </p>
+<p> //<![CDATA[ 			//Set the variables required for jQuery to change the weather 			// the file http://images.mirror.co.uk/js/m4/ajaxWeather.js updates the weather values using these variables 			var sharedDatasource = 'shared'; 			var weatherSourceId = 3; 			var weatherTownId = 2271; 			var publicImageServer = 'http://images.mirror.co.uk'; 			var defaultTownID = '2271'; 			//]]> </p>
+<p> London </p>
+<p> Min:0°C </p>
+<p> Max:7°C </p>
+<p> //<![CDATA[ 				/* 	$Copyright Trinity Mirror $Date: 2009-08-11 16:28:00 +0100 (Tue, 11 Aug 2009) $ 	$Revision: 52471 $ */ // parse document.cookie // returns a string or null. function getCookieVal(key) { 	var pos = document.cookie.indexOf( key + "=" ); 	if( pos != -1 ) { 		var start = pos + key.length + 1;  		var end = document.cookie.indexOf(";", start); 		if( end == -1 ) end = document.cookie.length; 		var value = document.cookie.substring(start, end); 		return unescape(value); 	} 	return null; } /* set a key in document.cookie with optional expiry and path. */ function setCookieVal(key,value,duration_sec,path) { 	var theCookie = key + "=" + escape(value); 	if (duration_sec && duration_sec > 0) { 		var exp = new Date(); 		exp.setTime(exp.getTime() + (duration_sec * 1000)); 		theCookie += '; expires=' + exp.toGMTString(); 	} 	if (path) { 		theCookie += ';path=' + path; 	} 	document.cookie = theCookie; } /*  *   * Writes out headers for being logged in or not.  *   */  function writeAuthHeader(regionId, needsCookies, regUrl, mailAddress, needsDiv, commProfileUrl,  		type, profileUrl) {	 	var siteLifeUId = ""; 	var siteLifeDisplayName = ""; 	if (!type) { // consumer type 		type = 2; 	} 	 	if (needsCookies) { 		mailAddress = getCookieVal("AUTH_SITE" + regionId + "_EMAIL"); 		if (commProfileUrl) { 			var at = getCookieVal("AT"); 			if (at) { 				var atVals = at.split("&"); 				for (var i = 0; i < atVals.length; i++) { 					if (atVals[i].length > 2 && atVals[i].substring(0,2) == 'u=') { 						siteLifeUId = atVals[i].substring(2); 					} 					if (atVals[i].length > 2 && atVals[i].substring(0,2) == 'a=') { 						siteLifeDisplayName = atVals[i].substring(2); 						if (type != 1) { 							profileUrl = commProfileUrl + siteLifeDisplayName + '/'; 						}  					} 				} 			} 		} 	} 	if (type == 1) { // i.e. forums 		if (!profileUrl) { 			profileUrl = '/profile.php?mode=editprofile'; 		} else { 			//try to append session id to the profile url 			var sid = document.body.innerHTML.match(/sid=[0-9a-fA-F]+/); 			if (sid && sid.length) { 				profileUrl = profileUrl + '&' + sid; 			} 		} 	}  	if (needsDiv) {  		document.write('<div class="RegistrationHeader">'); 	}  	var a_redirect = location.href.match(/[&?]redirect=([^?&]*)/i); 	if (a_redirect != null) { 		var queryString = location.href.replace(/^[^?]*\?/, ''); 		redirectURL = a_redirect[1] + '&' + queryString.replace(/[&?](redirect|account|logout|register)=([^?&]*)/gi, ''); 	} else { 		redirectURL = escape(location.href); 	} 	 	if (mailAddress) { 		// User is logged in 		writeAuthHeaderLoggedIn(mailAddress, 								regUrl + '?account=1', 								regUrl + '?logout=1&redirect=' + redirectURL, 								profileUrl, 								siteLifeUId, 								siteLifeDisplayName);  	} else { 		// User is not logged in 		 		//removed register=1 to allow toggle between login and register pages 		var loginURL = regUrl + '?' + (type != 2 ? 'type='+type+'&' : '')  				+ 'redirect=' + redirectURL; 		loginURL = loginURL.replace(/[&?](register)=([^?&]*)/gi, ''); 		writeAuthHeaderLoggedOut(loginURL, regUrl + '?register=1&type='+type+'&redirect=' +  				redirectURL, profileUrl); 	} 	 	if (needsDiv) { 		document.write('</div>'); 	} }  			//]]> </p>
+<p> //<![CDATA[  function writeAuthHeaderLoggedOut(loginURL, registerURL) { 	document.write('<li class="login"><a href="' + loginURL + '">login</a></li><li class="register"><a href="' + registerURL + '">register</a></li>'); }  function writeAuthHeaderLoggedIn(mailAddress, accountURL, logoutURL, 								commProfileUrl, siteLifeUId, siteLifeDisplayName) { 	if (commProfileUrl && siteLifeUId && siteLifeDisplayName) { 		var welcome =	'<li class="login-user">Welcome <a href="' + commProfileUrl + '?UID=' + 						siteLifeUId + '">' + siteLifeDisplayName + '</a></li>'; 	} 	else { 		var welcome = '<li class="login-user">' + mailAddress + '</li>'; 	} 	document.write(	'<li class="logout"><a href="' + logoutURL + 					'">Log out</a></li><li class="your-account"><a href="' + accountURL + 					'">Your account</a></li>' + welcome); }  writeAuthHeader(100, 				true, 				'/registration/index.cfm', 				null, 				false, 				'http://www.mirror.co.uk/community/profile/', 				2  				);  	//]]> </p>
+<p> mirror.co.uk </p>
+<p> document.write(d_names[curr_day] + " " + curr_date + sup + 					" " + m_names[curr_month] + " " + curr_year + " " + curr_hour + ":" + curr_min + a_p); </p>
+<p> //<![CDATA[   if (typeof dartOrd == 'undefined') dartOrd=Math.random()*10000000000000000000; if (typeof tm.zones == 'undefined') {tm.zones = "";}   (function (x) { if (tm.defer) {tm.defer.defer(x); } else { document.write(x);}})('<scr' + 	'ipt type="text/javascript" ' +  'src="http://ad.uk.doubleclick.net/adj/mirror.5293/' +  'news_leaderboard_top_728x90;sz=728x90,468x60;pos=top;sect=health-news;psect=news;zone=news;templ=page;oid=23703293;gs_cat='+gs_channels+'' + tm.zones  +  ';dcopt=ist' +  ';tile=' + tm.nextTileValue() +  ';' + (typeof segQS != "undefined" ? segQS:"" ) +  ';ord=' +  dartOrd +    '?"><\/scr' +  'ipt>');   				//]]> </p>
+<p> Search Mirror.co.uk </p>
+<p> Site Map </p>
+<p> Tags </p>
+<p> RSS </p>
+<p> Home </p>
+<p> News </p>
+<p> Top Stories </p>
+<p> Weird World </p>
+<p> Kerber and Black </p>
+<p> Video </p>
+<p> Royal Family </p>
+<p> Latest </p>
+<p> Pictures </p>
+<p> Politics </p>
+<p> Technology </p>
+<p> Health News </p>
+<p> City </p>
+<p> Scottish News </p>
+<p> London 2012 </p>
+<p> P & S Investigate </p>
+<p> Topics </p>
+<p> Mobile </p>
+<p> Sport </p>
+<p> Football </p>
+<p> Columnists </p>
+<p> MirrorSport Blog </p>
+<p> Football Spy </p>
+<p> Racing </p>
+<p> Motorsport </p>
+<p> British Superbikes </p>
+<p> Cricket </p>
+<p> Tennis </p>
+<p> Rugby Union </p>
+<p> Golf </p>
+<p> Boxing </p>
+<p> Basketball </p>
+<p> MMA & Wrestling </p>
+<p> Rugby League </p>
+<p> Darts </p>
+<p> Fourth Down Blog </p>
+<p> Cycling Blog </p>
+<p> Topics </p>
+<p> Sports Tickets </p>
+<p> Mobile </p>
+<p> Video </p>
+<p> Celebs & TV </p>
+<p> 3am </p>
+<p> Celebs News </p>
+<p> Fashion and Beauty </p>
+<p> TV </p>
+<p> Dancing On Ice </p>
+<p> X Factor </p>
+<p> Strictly Come Dancing </p>
+<p> I'm A Celebrity </p>
+<p> Celebrity Big Brother </p>
+<p> We Love Telly Podcast </p>
+<p> Dean Piper </p>
+<p> Film </p>
+<p> Music </p>
+<p> Celebrity Beauty </p>
+<p> Coleen Nolan </p>
+<p> Tess Daly </p>
+<p> Nadia Sawalha </p>
+<p> Video </p>
+<p> Mobile </p>
+<p> Music Tickets </p>
+<p> Life & Style </p>
+<p> Psychic Sally Morgan </p>
+<p> Dating </p>
+<p> Horoscopes </p>
+<p> Real Life </p>
+<p> Coleen Nolan </p>
+<p> Nadia Sawalha </p>
+<p> Tess Daly </p>
+<p> Jeff Brazier </p>
+<p> Karen Barber </p>
+<p> Beauty </p>
+<p> TalkTalk Digital Heroes </p>
+<p> Dieting </p>
+<p> Sex & Relationships </p>
+<p> Fashion </p>
+<p> Family </p>
+<p> Mirror Photos </p>
+<p> Cashback </p>
+<p> Reader Offers </p>
+<p> Advice </p>
+<p> Christmas </p>
+<p> Motoring </p>
+<p> Dr Miriam </p>
+<p> Agony Aunt </p>
+<p> Cash Queens </p>
+<p> Diarmuid Gavin </p>
+<p> Mirror Investigates </p>
+<p> Homes </p>
+<p> Gardening </p>
+<p> Money </p>
+<p> Get Britain Working </p>
+<p> Money </p>
+<p> Quids In </p>
+<p> Travel </p>
+<p> Opinion </p>
+<p> Kerber & Black cartoons </p>
+<p> Blogs </p>
+<p> Columnists </p>
+<p> Voice of the Mirror </p>
+<p> Fun & Games </p>
+<p> Andy Capp </p>
+<p> Simon's Cat </p>
+<p> Competitions </p>
+<p> Crosswords </p>
+<p> Bingo </p>
+<p> Sudoku </p>
+<p> Cartoons </p>
+<p> Casino </p>
+<p> Video Games </p>
+<p> Video </p>
+<p> News </p>
+<p> Sport </p>
+<p> Celebs </p>
+<p> Film Trailers </p>
+<p> Home </p>
+<p> News </p>
+<p> Health News </p>
+<p> Biggest ovarian cancer breakthrough in 15 years </p>
+<p> by Lachlan Mackinnon, Daily Mirror </p>
+<p> 17/01/2012 </p>
+<p> Decrease font size </p>
+<p> Increase font size </p>
+<p> <!-- AddThis Button Start -->	 	var addthis_share = { 	url_transforms : { 	clean: true, 	shorten: {  	twitter: 'bitly', 	facebook: 'bitly'  	} 	}, 	shorteners : { 	 bitly : { 	 login: 'dailymirror', 	 apiKey: 'R_33891c131eea1632a0817c30b6d45823' 	 } 	} 	}; 	var addthis_config = { 	data_track_clickback : 'true'	 	}; </p>
+<p> Avastin </p>
+<p> Women with ovarian cancer have been given new hope after doctors got the go-ahead to treat them with a drug that stops tumour growth. </p>
+<p> Bevacizumab, also known as Avastin, is the first medicine in 15 years that has been shown to improve the outcome for those suffering the disease, experts revealed. </p>
+<p> Campaigners welcomed news the drug was given approval for use in Britain by European medical chiefs. </p>
+<p> Advertisement >> </p>
+<p> //<![CDATA[   if (typeof dartOrd == 'undefined') dartOrd=Math.random()*10000000000000000000; if (typeof tm.zones == 'undefined') {tm.zones = "";}   (function (x) { if (tm.defer) {tm.defer.defer(x); } else { document.write(x);}})('<scr' + 	'ipt type="text/javascript" ' +  'src="http://ad.uk.doubleclick.net/adj/mirror.5293/' +  'news_mputwo_centre_300x250;sz=300x250;pos=centre;sect=health-news;psect=news;zone=news;templ=page;oid=23703293;gs_cat='+gs_channels+'' + tm.zones +  ';tile=' + tm.nextTileValue() +  ';' + (typeof segQS != "undefined" ? segQS:"" ) +  ';ord=' +  dartOrd +    '?"><\/scr' +  'ipt>');   	//]]> </p>
+<p> Louise Bayne, chief executive of the charity Ovacome, said: “We are delighted. This heralds a new era of hope for women with ovarian cancer who have previously been faced with a devastating diagnosis plus a lack of innovative treatments.” </p>
+<p> The drug has been licensed for use against bowel, breast, lung and kidney cancer but scientists found it halted ovarian growths. </p>
+<p> In women with advanced tumours who were given Avastin and chemotherapy, their illness did not deteriorate for 18.2 months compared to 12 months for those who just had chemo. The drug works by stopping the tumours forming blood vessels. </p>
+<p> Consultant oncologist Dr Timothy Perren, from St James’ Hospital, Leeds, said: “Ovarian cancer has the worst outcomes of all ­gynaecological cancers and halting disease progression for six months is a major step forward in treating it.” </p>
+<p> But Ovarian Cancer Action boss Gilda Witte said more work needed to be done to diagnose the disease earlier and save more lives. </p>
+<p> avastin </p>
+<p> , </p>
+<p> bevacizumab </p>
+<p> , </p>
+<p> ovacome </p>
+<p> //<![CDATA[ var OB_permalink= 'http://www.mirror.co.uk/news/health-news/2012/01/17/biggest-ovarian-cancer-breakthrough-in-15-years-115875-23703293/'; var OB_Template="mirrorgroup"; var OB_widgetId= 'AR_1'; var OB_langJS ='http://widgets.outbrain.com/lang_en.js'; if ( typeof(OB_Script)!='undefined' ) 	OutbrainStart(); else { 	var OB_Script = true; 	var str = "<script src='http://widgets.outbrain.com/outbrainWidget.js'; type='text/javascript'></"+"script>"; 	document.write(str); } //]]> </p>
+<p> <!-- AddThis Button Start -->	 	var addthis_share = { 	url_transforms : { 	clean: true, 	shorten: {  	twitter: 'bitly', 	facebook: 'bitly'  	} 	}, 	shorteners : { 	 bitly : { 	 login: 'dailymirror', 	 apiKey: 'R_33891c131eea1632a0817c30b6d45823' 	 } 	} 	}; 	var addthis_config = { 	data_track_clickback : 'true'	 	}; </p>
+<p> Print </p>
+<p> Send </p>
+<p> Share </p>
+<p> Search Mirror.co.uk </p>
+<p> RSS </p>
+<p> | </p>
+<p> Site Map </p>
+<p> | </p>
+<p> Tags </p>
+<p> Quick Search </p>
+<p> Search Local Mole for a comprehensive business directory list </p>
+<p> //<![CDATA[ 			 			 			var fcwLogger = function(){}; 			if( tm.siteLife.logger != null){ 				fcwLogger = function(level){ 					tm.siteLife.logger.log(level, 'fullCommentsWidget', arguments); 				} 				fcwLogger('info','log enabled'); 			}  			(function(){  				var sitelifeId = tm.siteLife.display.getUniqueId(); 				document.write('<span id="sitelife-comments-bottom"></span>'); 				document.write('<div id="sitelife-commentsWidget-bottom"></div>');   				tm.siteLife.daapi.getArticle( 					"100-115875-23703293", 					function(article){ 						tm.siteLife.display.displayCommentCount( 							article, 							'sitelife-commentsWidget-bottom', 							false, 							'Users\' Comments', 							false 						); 					} 				); 			})();  			var pluckLoginURL = 						"http://www.mirror.co.uk/registration/index.cfm?redirect=", 					pluckRegisterURL = 						"http://www.mirror.co.uk/registration/index.cfm?register=1&type=4&redirect=";  		//]]> </p>
+<p> //<![CDATA[   if (typeof dartOrd == 'undefined') dartOrd=Math.random()*10000000000000000000; if (typeof tm.zones == 'undefined') {tm.zones = "";}   (function (x) { if (tm.defer) {tm.defer.defer(x); } else { document.write(x);}})('<scr' + 	'ipt type="text/javascript" ' +  'src="http://ad.uk.doubleclick.net/adj/mirror.5293/' +  'news_adstrap2_centre_438x50;sz=438x50;pos=centre;sect=health-news;psect=news;zone=news;templ=page;oid=23703293;gs_cat='+gs_channels+'' + tm.zones  +  ';tile=' + tm.nextTileValue() +  ';' + (typeof segQS != "undefined" ? segQS:"" ) +  ';ord=' +  dartOrd +    '?"><\/scr' +  'ipt>');   				//]]> </p>
+<p> //<![CDATA[ 				var google_adnum = 0;  			 				function google_ad_request_done(google_ads) { 			 					if (google_ads.length == 0) { 						return; 					}  					function anchorLink(str,url,visible_url,cssclass) { 						 return '<a href="'+ url + '" ' 							+ ((typeof(cssclass)=='undefined')?(' '):(' class="'+cssclass+'" ')) 							+ '\'" onmouseover="window.status=\''  + encodeURI(visible_url) 							+ '\'" onmouseout="window.status=\'\'">' + str + '</a>'; 					}  					google_adnum += google_ads.length;  					if (typeof(google_info)=="undefined"){ 						var feedback_url = "http://services.google.com/feedback/online_hws_feedback"; 					} else { 						var feedback_url = google_info.feedback_url; 					}  					if('pub-4010713000150964'=='pub-4010713000150964'){ 						var s =	'<div class="'+ wrapperClass +'"><h4 class="list-head-color1 m4-adsbygoogle-header replace"><a class="google-adlink" href="'+feedback_url+'">Ads by Google<span></span></a></h4>'; 					} else { 						var s =	'<div class="'+ wrapperClass +'"><h4 class="list-head-color1 m4-adsbygoogle-header replace">Ads by Google<span></span></h4>' + 								'<div class="sponsored-link"><p><a class="google-adlink" href="' 								+feedback_url+'">Ads by Google</a></p></div>'; 					}  					for (var i = 0; i < google_ads.length; ++i) { 						if (google_ads[i].type == "image") { 							s +='<a href="' + google_ads[i].url + 								'" target="_top" title="go to ' + google_ads[i].visible_url + 								'"><img style="border:0" src="' + google_ads[i].image_url + 								'"width="' + google_ads[i].image_width + 								'"height="' + google_ads[i].image_height + '"/></a>'; 						} else { 							s += '<div class="sponsored-link">' + 								'<h5>' + anchorLink(google_ads[i].line1,google_ads[i].url, 										google_ads[i].visible_url) + '</h5>' 								+ '<p>' + google_ads[i].line2 + '&nbsp;' 								+ ((typeof(google_ads[i].line3)=='undefined')?(' '):( google_ads[i].line3 )) 								+ '<br />' 								+ '<span>' + anchorLink(google_ads[i].visible_url,google_ads[i].url, 										google_ads[i].visible_url,"google-adlink") + '</span>' 								+ '</p></div>'; 						} 					}  					s += '</div>' + "\r\n"; 					wrapperClass = null;  					document.write(s); 					return; 				} 				//]]> </p>
+<p> google_max_num_ads = '3'; 		google_ad_channel = '5245193662'; 		google_ad_type = 'text'; 		google_ad_client = 'pub-4010713000150964'; 		google_feedback = 'on'; 		google_language = 'en'; 		google_encoding = 'utf8'; 		 			google_skip = google_adnum; 			google_ad_output = 'js'; 		 		var wrapperClass = 'm4-adsbygoogle'; </p>
+<p> var tm; // Namespacing 	if (!tm) tm = {}; 	tm.rlItemId = '100-115875-23703293'; 	tm.rlAuthCookie = 'auth_site100_userid'; 	tm.rlAnonCookie = 'anonId'; 	tm.rlSiteName = 'm4'; </p>
+<p> var tm; // Namespacing 	if (!tm) tm = {}; 	tm.rlItemId = '100-115875-23703293'; 	tm.rlAuthCookie = 'auth_site100_userid'; 	tm.rlAnonCookie = 'anonId'; 	tm.rlSiteName = 'm4'; </p>
+<p> //<![CDATA[   if (typeof dartOrd == 'undefined') dartOrd=Math.random()*10000000000000000000; if (typeof tm.zones == 'undefined') {tm.zones = "";}   (function (x) { if (tm.defer) {tm.defer.defer(x); } else { document.write(x);}})('<scr' + 	'ipt type="text/javascript" ' +  'src="http://ad.uk.doubleclick.net/adj/mirror.5293/' +  'news_mpu_centre_300x250;sz=300x250,300x600;pos=centre;sect=health-news;psect=news;zone=news;templ=page;oid=23703293;gs_cat='+gs_channels+'' + tm.zones  +  ';tile=' + tm.nextTileValue() +  ';' + (typeof segQS != "undefined" ? segQS:"" ) +  ';ord=' +  dartOrd +    '?"><\/scr' +  'ipt>');   				//]]> </p>
+<p> //<![CDATA[   if (typeof dartOrd == 'undefined') dartOrd=Math.random()*10000000000000000000; if (typeof tm.zones == 'undefined') {tm.zones = "";}   (function (x) { if (tm.defer) {tm.defer.defer(x); } else { document.write(x);}})('<scr' + 	'ipt type="text/javascript" ' +  'src="http://ad.uk.doubleclick.net/adj/mirror.5293/' +  'news_promobox1_centre_300x60;sz=300x60;pos=centre;sect=health-news;psect=news;zone=news;templ=page;oid=23703293;gs_cat='+gs_channels+'' + tm.zones  +  ';tile=' + tm.nextTileValue() +  ';' + (typeof segQS != "undefined" ? segQS:"" ) +  ';ord=' +  dartOrd +    '?"><\/scr' +  'ipt>');   				//]]> </p>
+<p> //<![CDATA[   if (typeof dartOrd == 'undefined') dartOrd=Math.random()*10000000000000000000; if (typeof tm.zones == 'undefined') {tm.zones = "";}   (function (x) { if (tm.defer) {tm.defer.defer(x); } else { document.write(x);}})('<scr' + 	'ipt type="text/javascript" ' +  'src="http://ad.uk.doubleclick.net/adj/mirror.5293/' +  'news_promobox2_centre_300x48;sz=300x48;pos=centre;sect=health-news;psect=news;zone=news;templ=page;oid=23703293;gs_cat='+gs_channels+'' + tm.zones  +  ';tile=' + tm.nextTileValue() +  ';' + (typeof segQS != "undefined" ? segQS:"" ) +  ';ord=' +  dartOrd +    '?"><\/scr' +  'ipt>');   				//]]> </p>
+<p> More Health News </p>
+<p> Computer exercise games 'could help fight dementia' </p>
+<p> Dream of making artificial body parts becoming a reality </p>
+<p> Biggest ovarian cancer breakthrough in 15 years </p>
+<p> Teenage girl who vomits 50 times a day needs £22k bionic stomach operation </p>
+<p> NHS facing "neurology timebomb" as Parkinson’s and motor neurone disease patients soar </p>
+<p> Vitamin D may boost eyesight and heart health, research suggests </p>
+<p> Big rise in pedestrians killed while listening to headphones </p>
+<p> Pills 'add to risk of falling over', says study </p>
+<p> Genuine Leather Shoes </p>
+<p> £39.95 - BOGOF </p>
+<p> //<![CDATA[   if (typeof dartOrd == 'undefined') dartOrd=Math.random()*10000000000000000000; if (typeof tm.zones == 'undefined') {tm.zones = "";}   (function (x) { if (tm.defer) {tm.defer.defer(x); } else { document.write(x);}})('<scr' + 	'ipt type="text/javascript" ' +  'src="http://ad.uk.doubleclick.net/adj/mirror.5293/' +  'news_mputhree_centre_300x250;sz=300x250;pos=centre;sect=health-news;psect=news;zone=news;templ=page;oid=23703293;gs_cat='+gs_channels+'' + tm.zones  +  ';tile=' + tm.nextTileValue() +  ';' + (typeof segQS != "undefined" ? segQS:"" ) +  ';ord=' +  dartOrd +    '?"><\/scr' +  'ipt>');   				//]]> </p>
+<p> Cruise ship Britons safe </p>
+<p> The Foreigh Office has confirmed all British passengers and crew on board the stricken Costa Concordia, which keeled over off the Italian coast, are safe. </p>
+<p> Stars prepare for Gervais's jibes </p>
+<p> Stars prepare for Ricky Gervais to take aim, as the comic returns to host the Golden Globe awards. </p>
+<p> Second arrest in Birmingham double murder </p>
+<p> A second man has been arrested in connection with the murder of a couple who were found dead in their home. </p>
+<p> London turns cool for ice festival </p>
+<p> Canary Wharf turns cool with the annual London Ice Sculpting Festival. </p>
+<p> Man quizzed over bodies in house </p>
+<p> Police arrest a man on suspicion of murder after double killing in Leeds </p>
+<p> McCarthy hails Fletcher </p>
+<p> Mick McCarthy praises Steven Fletcher after the striker helped Wolves to a 1-1 draw with Tottenham </p>
+<p> See this months Kerber and Black cartoons </p>
+<p> Rihanna's raunchy Paris performance </p>
+<p> Australia beat Wales in the third place play-off </p>
+<p> Gaddafi Dead: Newspaper reaction from around the world </p>
+<p> Gaddafi Dead: Celebrations in London and Manchester </p>
+<p> Gaddafi Dead: The former leader with his female bodyguards </p>
+<p> The Queen arrives in Australia for her first visit since 2006 </p>
+<p> Dale Farm eviction begins </p>
+<p> Beyonce proves she's one hot mum-to-be </p>
+<p> Miranda Kerr's new Victoria's Secret Lingerie Shoot </p>
+<p> Antelope crashes into mountain biker </p>
+<p> Site Map </p>
+<p> Advice </p>
+<p> Agony Aunt </p>
+<p> Cash Queens </p>
+<p> Christmas </p>
+<p> Diarmuid Gavin </p>
+<p> Dr Miriam </p>
+<p> Gardening </p>
+<p> Get Britain Working </p>
+<p> Homes </p>
+<p> Mirror Investigates </p>
+<p> Money </p>
+<p> Motoring </p>
+<p> Celebs & TV </p>
+<p> 3am </p>
+<p> Celebrity Beauty </p>
+<p> Celebrity Big Brother </p>
+<p> Celebs News </p>
+<p> Coleen Nolan </p>
+<p> Dancing On Ice </p>
+<p> Dean Piper </p>
+<p> Fashion and Beauty </p>
+<p> Film </p>
+<p> I'm A Celebrity </p>
+<p> Mobile </p>
+<p> Music </p>
+<p> Music Tickets </p>
+<p> Nadia Sawalha </p>
+<p> Strictly Come Dancing </p>
+<p> Tess Daly </p>
+<p> TV </p>
+<p> Video </p>
+<p> We Love Telly Podcast </p>
+<p> X Factor </p>
+<p> Fun & Games </p>
+<p> Andy Capp </p>
+<p> Bingo </p>
+<p> Cartoons </p>
+<p> Casino </p>
+<p> Competitions </p>
+<p> Crosswords </p>
+<p> Simon's Cat </p>
+<p> Sudoku </p>
+<p> Video Games </p>
+<p> Life & Style </p>
+<p> Beauty </p>
+<p> Cashback </p>
+<p> Coleen Nolan </p>
+<p> Dating </p>
+<p> Dieting </p>
+<p> Family </p>
+<p> Fashion </p>
+<p> Horoscopes </p>
+<p> Jeff Brazier </p>
+<p> Karen Barber </p>
+<p> Mirror Photos </p>
+<p> Nadia Sawalha </p>
+<p> Psychic Sally Morgan </p>
+<p> Reader Offers </p>
+<p> Real Life </p>
+<p> Sex & Relationships </p>
+<p> TalkTalk Digital Heroes </p>
+<p> Tess Daly </p>
+<p> Money </p>
+<p> Quids In </p>
+<p> News </p>
+<p> City </p>
+<p> Health News </p>
+<p> Kerber and Black </p>
+<p> Latest </p>
+<p> London 2012 </p>
+<p> Mobile </p>
+<p> P & S Investigate </p>
+<p> Pictures </p>
+<p> Politics </p>
+<p> Royal Family </p>
+<p> Scottish News </p>
+<p> Technology </p>
+<p> Top Stories </p>
+<p> Topics </p>
+<p> Video </p>
+<p> Weird World </p>
+<p> Opinion </p>
+<p> Blogs </p>
+<p> Columnists </p>
+<p> Kerber & Black cartoons </p>
+<p> Voice of the Mirror </p>
+<p> Sport </p>
+<p> Basketball </p>
+<p> Boxing </p>
+<p> British Superbikes </p>
+<p> Columnists </p>
+<p> Cricket </p>
+<p> Cycling Blog </p>
+<p> Darts </p>
+<p> Football </p>
+<p> Football Spy </p>
+<p> Fourth Down Blog </p>
+<p> Golf </p>
+<p> MirrorSport Blog </p>
+<p> MMA & Wrestling </p>
+<p> Mobile </p>
+<p> Motorsport </p>
+<p> Racing </p>
+<p> Rugby League </p>
+<p> Rugby Union </p>
+<p> Sports Tickets </p>
+<p> Tennis </p>
+<p> Topics </p>
+<p> Video </p>
+<p> Travel </p>
+<p> Video </p>
+<p> Celebs </p>
+<p> Film Trailers </p>
+<p> News </p>
+<p> Sport </p>
+<p> Find a job </p>
+<p> Find a home </p>
+<p> Find a new home </p>
+<p> Find a local business </p>
+<p> About Us </p>
+<p> Advertising </p>
+<p> Contact Us </p>
+<p> Sell Your Story </p>
+<p> Cookie Policy </p>
+<p> For the record </p>
+<p> Privacy Statement </p>
+<p> Terms and Conditions </p>
+<p> Paper Subscription to The Daily Mirror </p>
+<p> Paper Subscription to The Sunday Mirror </p>
+<p> //<![CDATA[ tyntVariables = {"ap":"Read more: ","el":""}; //]]> </p>
+<p> //<![CDATA[ (function(){var b,a;b=document.createElement("script");b.src="http://a1.vdna-assets.com/analytics.js";b.async=true;a=document.getElementsByTagName("head")[0];a.insertBefore(b,a.firstChild);this.VDNA=this.VDNA||{};this.VDNA.queue=this.VDNA.queue||[];}()); //]]> </p>
+<p> //<![CDATA[ VDNA.queue.push({     apiKey : 'mirror',     method : "reportPageView" }); //]]> </p>
+<p> //<![CDATA[ 	 	if (typeof displayTopAds == 'function') {displayTopAds();}  	 	if (tm.defer) {tm.defer.renderDeferred();} 		//]]> </p>
+<p> //<![CDATA[ 						tm.siteLife.daapi.post(); 					//]]> </p>

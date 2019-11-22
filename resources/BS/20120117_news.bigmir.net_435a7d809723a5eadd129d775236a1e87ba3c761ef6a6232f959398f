@@ -1,0 +1,334 @@
+<p> Ученые выяснили, какие продукты защищают от инсульта - Новости - IVONA - bigmir)net </p>
+<p> var BM_MAIN_DOMAIN = '.bigmir.net'; 	var HOST = 'ivona.bigmir.net'; 	var BM_IMG_SERVER = 'http://bm.img.com.ua/'; 	var BM_IMG_STORAGE = 'http://v.img.com.ua/b/'; 	if (parent && parent != window && !parent.bm_forever) parent.location.href = window.location.href;      // for adriver     var N = 3;     var ar_bn1 = Math.floor(Math.random() * N + 1); </p>
+<p> GS_googleAddAdSenseService("ca-pub-5625824244895650");         GS_googleEnableAllServices(); </p>
+<p> GA_googleAddSlot("ca-pub-5625824244895650", "DFP_bigmir_468x60_niz_04.08.2011"); </p>
+<p> GA_googleFetchAds(); </p>
+<p> body { background: url("http://bm.img.com.ua/widget/81a9c2d12a67c814a21e212481c8d193.jpg") no-repeat top center;background:#000 url("http://bm.img.com.ua/widget/81a9c2d12a67c814a21e212481c8d193.jpg") no-repeat top center !important;} </p>
+<p> var custom = {};                                                     var std = { gender:100, age:101 },i;                     for (i in std) { try { custom[std[i]] = eval(i) } catch(e) { } }                     new adriver.Plugin.require("old.adriver").onLoadComplete(function(){                         new adriver("adriver_top", { sid:85794,bt:52,pz:1, keyword: typeof __keyword != "undefined" ? __keyword : "", bn:ar_bn1, custom: custom , sz:"ivona_tobacco" });                 }); </p>
+<p> На главную </p>
+<p> Все сервисы </p>
+<p> Войти </p>
+<p> Почта </p>
+<p> IVONA - Новости </p>
+<p> Главная </p>
+<p> Шоу-Biz </p>
+<p> Мода и Красота </p>
+<p> Здоровье </p>
+<p> Он и Она </p>
+<p> Беременность </p>
+<p> Дети </p>
+<p> Кулинария </p>
+<p> Дом </p>
+<p> Гороскопы </p>
+<p> Бутик </p>
+<p> Избранное </p>
+<p> Новости </p>
+<p> Советы </p>
+<p> Диета и питание </p>
+<p> Фитнес </p>
+<p> Онлайн консультация </p>
+<p> Горячие темы: </p>
+<p> НОВЫЙ ГОД 2012 </p>
+<p> Госветслужба: Российское мясо опасно для Украины </p>
+<p> ФОКУС.ua </p>
+<p> Автобусы из аэропорта Борисполь будут ездить с интервалом в минуту </p>
+<p> ФОКУС.ua </p>
+<p> Шевченко может закончить карьеру в Милане </p>
+<p> Спорт </p>
+<p> Фанаты Ливерпуля жестко поиздевались над звездой МанСити (ВИДЕО) </p>
+<p> Спорт </p>
+<p> На затонувшем лайнере нашли еще пять тел погибших </p>
+<p> ФОКУС.ua </p>
+<p> Новичок Динамо порадовался роскошному сюрпризу, но плед за 11 тысяч гривен его смутил </p>
+<p> Спорт </p>
+<p> window.NetworkSlider.effect_step = 600; window.NetworkSlider.init('standart'); window.NetworkSlider.initMode( 		'standart',  		6,  		300,  		2,  		'gb-network_carousel_m' ); window.NetworkSlider.initMode( 		'wide',  		6,  		310,  		3,  		'gb-network_carousel_b' );  //Analytics  var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-3119939-34']); _gaq.push(['_trackPageview']);   (function() {     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);   })();   function trackLink( targetTo ) { 	 	var pageTracker=_gat._getTracker('UA-3119939-34');     	pageTracker._trackEvent('карусель горизонтальная', document.domain, targetTo ); 	return true; } </p>
+<p> Ученые выяснили, какие продукты защищают от инсульта </p>
+<p> if( _gaq == undefined ) 	{ 		var _gaq = _gaq || []; 		_gaq.push(['_setAccount', 'UA-3119939-34']); 		_gaq.push(['_trackPageview']); 		 		(function() { 		  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 		  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/u/ga_beta.js'; 		  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); 		})(); 	} </p>
+<p> Сегодня, 11:09 </p>
+<p> Комментариев:1 </p>
+<p> Добавить комментарий </p>
+<p> function GoogleLIKE_Analytics(obj){ 			_gaq.push(['_trackSocial', 'GooglePlusOne', obj.state, obj.href]);	 		} </p>
+<p> Tweet </p>
+<p> try { 	    		    if (twttr && twttr.events && twttr.events.bind) { 	    		      twttr.events.bind('tweet', function(event) { 	    		        if (event) { 	    		          var targetUrl; // Default value is undefined. 	    		          if (event.target && event.target.nodeName == 'IFRAME') {  	    		        	  targetUrl = function(uri, paramName) { 	    		        		  if (!uri) { 	    		        		    return; 	    		        		  } 	    		        		  var uri = uri.split('#')[0];  // Remove anchor. 	    		        		  var parts = uri.split('?');  // Check for query params. 	    		        		  if (parts.length == 1) { 	    		        		    return; 	    		        		  } 	    		        		  var query = decodeURI(parts[1]);  	    		        		  // Find url param. 	    		        		  paramName += '='; 	    		        		  var params = query.split('&'); 	    		        		  for (var i = 0, param; param = params[i]; ++i) { 	    		        		    if (param.indexOf(paramName) === 0) { 	    		        		      return unescape(param.split('=')[1]); 	    		        		    } 	    		        		  } 	    		        		  return; 	    		        		}(event.target.src, 'url'); 	    		        	   	    		              	    		          } 	    		          _gaq.push(['_trackSocial', 'twitter', 'tweet', 	    		            targetUrl]); 	    		        } 	    		      }); 	    		    } 	    		  } catch (e) {} </p>
+<p> $().ready(function(){ 				VK.Observer.subscribe('widgets.like.liked', function(response) { 					_gaq.push(['_trackSocial', 'vk', 'like']); 				});		 				VK.Observer.subscribe('widgets.like.unliked', function(response) { 					_gaq.push(['_trackSocial', 'vk', 'unlike']); 				});                                 VK.init({ apiId: 2438540, onlyWidgets: true });             }); </p>
+<p> $().ready(function(){                 VK.Widgets.Like("vk_like", { type: "mini" });             }); </p>
+<p> $().ready(function(){                FB.init({                  status: true, cookie: true, xfbml: true,                  channelUrl  : 'http://ivona.bigmir.net/fb_cu.html'  // custom channel                }); 				FB.Event.subscribe('edge.create', function(url) { 					  _gaq.push(['_trackSocial', 'facebook', 'like', url]); 					}); 				FB.Event.subscribe('edge.remove', function(url) { 					_gaq.push(['_trackSocial', 'facebook', 'unlike', url]); 				});                            }); </p>
+<p> $().ready(function (){ 		$('a._addhashonclick').click(function() { 			var href = $(this).attr('href'); 			if (!$(this).attr('ohref')) $(this).attr('ohref', href); 			var suff = '&url=' + encodeURIComponent(document.location.href); 			if ($(this).attr('hashonly')) suff = document.location.hash; 			$(this).attr('href', $(this).attr('ohref') + suff); 		}); 	}); </p>
+<p> Специалисты пришли к выводу, что продукты, богатые магнием защищают от инсульта. </p>
+<p> Чтобы защититься от инсульта включи в свой рацион зеленые листовые овощи, орехи и бобы </p>
+<p> / </p>
+<p> shutterstock </p>
+<p> $(function() {                     $('#article_slider').data('images', [                                                     { 'src' : 'http://v.img.com.ua/b/300x200/1/2c/2ccc460385b763b849056cd2d5ba72c1.jpg', 'text' : 'Чтобы защититься от инсульта включи в свой рацион зеленые листовые овощи, орехи и бобы', 'source' : 'shutterstock' }                                            ]);                     $('#article_slider').data('image_max', 1);                 }); </p>
+<p> Согласно данным, полученным в ходе международного исследования с участием 250 тысяч человек, люди, в рационе которых преобладают продукты богатые магнием, в большей степени защищены от инсультов. </p>
+<p> Читай также: </p>
+<p> Ухудшение памяти предвещает инсульт </p>
+<p> По словам профессора Каролинского Института Сюзанны Ларссон, что чем больше магния в рационе человека, тем меньше вероятность возникновения ишемического инсульта. Изучив 7 предыдущих исследований, опубликованных за последние 14 лет, она выяснила, что из всех добровольцев, за которыми наблюдали в среднем одиннадцать с половиной лет, около 6500 человек (3%) перенесли инсульт за это время. </p>
+<p> Анализ шведских ученых показал, что каждые дополнительные 100 мг магния, поглощаемые ежедневно, снижают риск инсульта на 9%. Среднестатистический американский участник употреблял по 242 мг в день, хотя рекомендуемая норма – 420 мг для мужчин старше 31 года и 320 мг для женщин того же возраста ежедневно. </p>
+<p> Читай также: </p>
+<p> Последствия инсульта: Из регбиста в гомосексуалиста </p>
+<p> Большинство исследований позволили исключить из результатов другие факторы, например наследственность, однако пока остается неясным, можно ли объяснить сделанные выводы употреблением других продуктов. Ученые также пока не могут однозначно утверждать, что именно магний в рационе человека защищает его от инсульта. Для прояснения этого вопроса требуются дополнительные исследования. </p>
+<p> Нужно также отметить, что большое количество магния содержится в доступных и недорогих продуктах питания: в гречневой и пшенной крупах, фасоли, горохе, шпинате, арбузе, сухом молоке, халве, орехах (фундук). Вполне возможно обеспечить суточную потребность в магнии с помощью ржаного и пшеничного хлеба, черной смородины, кукурузы, сыра, моркови. </p>
+<p> Напомним также, что </p>
+<p> курильщиков инсульт поражает на 9 лет раньше, чем некурящих </p>
+<p> . </p>
+<p> Если вы заметили ошибку, выделите текст и нажмите Ctrl+Enter чтобы сообщить об этом редакции </p>
+<p> Теги: </p>
+<p> магний </p>
+<p> , </p>
+<p> диета </p>
+<p> , </p>
+<p> питание </p>
+<p> , </p>
+<p> инсульт </p>
+<p> , </p>
+<p> сердце </p>
+<p> Источник: </p>
+<p> meddaily.ru, rbc.ru </p>
+<p> Статья добавлена в ваше </p>
+<p> избранное </p>
+<p> Закрыть </p>
+<p> Статья удалена из вашего </p>
+<p> избранного </p>
+<p> Закрыть </p>
+<p> $().ready(function (){ 		$('a._addhashonclick').click(function() { 			var href = $(this).attr('href'); 			if (!$(this).attr('ohref')) $(this).attr('ohref', href); 			var suff = '&url=' + encodeURIComponent(document.location.href); 			if ($(this).attr('hashonly')) suff = document.location.hash; 			$(this).attr('href', $(this).attr('ohref') + suff); 		}); 	}); </p>
+<p> Статьи по теме </p>
+<p> Ешь и будь здорова </p>
+<p> Диета и питание </p>
+<p> Красное мясо провоцирует ишемический инсульт </p>
+<p> Новости </p>
+<p> Ученые: Риск развития инсульта связан с группой крови </p>
+<p> Новости </p>
+<p> Гранатовый сок помогает справиться со стрессом </p>
+<p> Новости </p>
+<p> GA_googleFillSlot("DFP_bigmir_468x60_niz_04.08.2011"); </p>
+<p> var global_comment_settings_text2='Добавить комментарий';             ; </p>
+<p> Комментариев </p>
+<p> (1) </p>
+<p> Имя: </p>
+<p> Комментарий: </p>
+<p> Осталось </p>
+<p> 300 </p>
+<p> символов </p>
+<p> Введите символы с картинки: </p>
+<p> Сменить картинку </p>
+<p> setTimeout(function() { Recaptcha.create(RECAPTCHA_PUBLIC_KEY, "recaptcha_widget", { theme: "custom", custom_theme_widget: "recaptcha_widget", lang : "ru" } ); }, 3000); </p>
+<p> Включите поддержку JavaScript для отображения картинки с защитным кодом </p>
+<p> <!-- 		if(typeof(window.comCaptchaToolTip) != 'function') { 			function comCaptchaToolTip(event) { 				event = (event) ? event : window.event; 				var X = Get_MouseCoord_X(event) - 10 + f_scrollLeft(); 				var Y = Get_MouseCoord_Y(event) - 10 + f_scrollTop(); 				showToolTip(event, 'mouseover', Trim_Str(__$('com_captcha_hidden_desc').innerHTML), X, Y); 			} 		} 		//Attach_EventListener(__$('com_captcha_tooltip'), 'mouseover', comCaptchaToolTip); 	//--> </p>
+<p> function rateComment(inId) {  		var vElem		= __$('rev_'+inId); 		var vElemDiv	= __$('com_'+inId); 		var vElemLine	= __$('com_line_'+inId);  		if (vElem.rev=='show') { 			vElem.rev = 'hide'; 			vElemDiv.style.display = 'none'; 			vElem.innerHTML = 'Показать';  			if(vElemLine!=null) 				vElemLine.style.display = 'block'; 		} else if (vElem.rev=='hide') { 			vElem.rev = 'show'; 			vElemDiv.style.display = 'block'; 			vElem.innerHTML = 'Скрыть';  			if(vElemLine!=null) 				vElemLine.style.display = 'none'; 		}  	}  	function rateAJAX(inUserComId, inComId, inVal) {  		var vars = [{'name':'comRateHttpReq', 'value':'1'}, {'name':'userComId', 'value':inUserComId}, {'name':'comId', 'value':inComId}, {'name':'valSwitch', 'value':inVal}];  		var vSpan	= __$('rate_' + inComId); 		var vBuffer	= vSpan.innerHTML;  		var prikol2LoadObj = new UserHttpRequest(vars, 'http://ivona.bigmir.net/health/news/324369-Uchenye-vyjasnili--kakie-produkty-zacshicshajut-ot-insul-ta');  		prikol2LoadObj.onSate_Complete = function() { 			var vBody=prikol2LoadObj.httpRequest.responseJS.body; 			if (vBody=='not_allow') { 				vBody = ''; 				vSpan.innerHTML = 'Вы уже проголосовали за этот комментарий!'; 			} else if (vBody=='error'||vBody=='') { 				vBody = ''; 				vSpan.innerHTML = 'Ошибка'; 			} 			vBody = vBody.replace(/[^-+\d]/g,''); 			if(vBody) { 				vSpan.innerHTML = vBuffer; 				var oRateVal = __$('rate_val_' + inComId); 				oRateVal.className = vBody == 0 ? "c-gray" : (vBody > 0 ? "comment_green" : "comment_red"); 				var vRateVal = oRateVal.innerHTML = "<b>" + vBody + "</b>"; 				var vRateJs = __$('rate_js_' + inComId);  				if (vRateJs!=null) vRateJs.innerHTML = ''; 			} 		}  		prikol2LoadObj.Do_BeforSend = function() { 			vSpan.innerHTML = '<img src="http://bm.img.com.ua/hp/img/progress_bar.gif" />'; 		}  		prikol2LoadObj.Do_After_ExceedTimeout = function() { 			vSpan.innerHTML = vBuffer; 		}  		prikol2LoadObj.Load(true); 	} </p>
+<p> Бувший_східняк </p>
+<p> 17.01.2012, 18:02 </p>
+<p> Оценка: </p>
+<p> 0 </p>
+<p> - Папа, а без чего бы ты легче всего обошелся? Без кофе, без сигарет, или без водки? </p>
+<p> - Без твоей мамы, доченька. </p>
+<p> <!--  		// --- global comment variables container --- // 		/* 		window.commJsGlVar = {  			bmImgServer : "http://bm.img.com.ua/",  			commCaptchaWebPath : "http://main.bigmir.net/include/c_captcha.inc.php",  			commScriptFullUrl : "http://ivona.bigmir.net/health/news/324369-Uchenye-vyjasnili--kakie-produkty-zacshicshajut-ot-insul-ta",  			commTplIdPrefix : "CMNT_ID_",  			commTplAnchorPrefix : "CMNT_ANCHOR_",  			commNullId : "0",  			commID : "0",  			commErrorMsg : Boolean()  		}; 		*/ 		// --- end comment global variables container --- // 		$().ready(function(){ 			initComments(false); 		});	 		var commSortOrder = "DESC"; 		  	//--> </p>
+<p> var RECAPTCHA_PUBLIC_KEY="6LcDxrwSAAAAALVkn89_h8Q_4mgXU-QqWf0vc_Ph"; </p>
+<p> Популярные теги </p>
+<p> мясо </p>
+<p> инсульт </p>
+<p> мнение эксперта </p>
+<p> биологические часы </p>
+<p> сердце </p>
+<p> гормоны </p>
+<p> мозг </p>
+<p> ученые </p>
+<p> здоровье </p>
+<p> рак </p>
+<p> лишний вес </p>
+<p> питание </p>
+<p> депрессия </p>
+<p> похмелье </p>
+<p> диетолог </p>
+<p> ритм </p>
+<p> врачи </p>
+<p> праздники </p>
+<p> диета </p>
+<p> кожа </p>
+<p> роды </p>
+<p> онлайн консультация </p>
+<p> Украина </p>
+<p> золото </p>
+<p> онкология </p>
+<p> старение </p>
+<p> лечение </p>
+<p> память </p>
+<p> курение </p>
+<p> Загрузка... </p>
+<p> document.write("<sc"+"ript type='text/javascript' src='http://exchange.newsnet.in.ua/show.ad?inf=253&div=newnet_block253&ref="+escape(document.referrer)+"'></sc"+"ript>"); </p>
+<p> Реклама </p>
+<p> var custom = {};                                                 var std = { gender:100, age:101 },i;                 for (i in std){ try{ custom[std[i]]=eval(i)}catch(e){ } }                 new adriver.Plugin.require("old.adriver").onLoadComplete(function(){                     new adriver("adriver_mid", { sid:85794,sz:"ivona_tobacco",bt:52,pz:2, keyword: typeof __keyword != "undefined" ? __keyword : "",bn:ar_bn1, custom: custom });                 }); </p>
+<p> /** * inspired by Christopher Manciero * http://www.chrismanciero.com/ * * * */  var timerlen = 5; var slideAniLen = 300; var pluginDivsHeight = {};  // plugin v2 class function PluginV2 (id, num) { 	this.id = id; 	this.num = num; 	this.parent_id = 'parent_' + id; }  PluginV2.prototype = { 	GA_account: 'UA-3119939-34', 	num: 0, // real number of the plugin 	id: '',	// id of the div 	parent_id: '',	// id of the parent div 	moving: false,	// true if it's already moving 	dir: null,	// direction of moving 	endLength: 0,	// length of opened div 	startTime: 0,	// start time 	timerID: 0, // timer id 	obj: null, // div to slide 	initialized: false, 	// whether plugins were initialized  	trackLink: function( domain, pluginName ){ 		 		var pageTracker=_gat._getTracker(this.GA_account);     		pageTracker._trackEvent('баян', domain, pluginName ); 		return true; 	}, 	 	// openes plugin 	open: function() { 		if (this.moving) 			return;  		if (document.getElementById(this.id).style.display != "none") 			return;  		this.addClass(this.parent_id, 'gb-informers_project_open');  		this.moving = true; 		this.dir = 'down'; 		this.startSlide(); 	},  	// closes plugin 	close: function() { 		if (this.moving) 			return;  		if (document.getElementById(this.id).style.display == "none") 			return;  		this.removeClass(this.parent_id, 'gb-informers_project_open'); 		document.getElementById(this.id).style.overflow = 'hidden';  		this.moving = true; 		this.dir = 'up'; 		this.startSlide(); 	},  	// toggles plugin 	toggle: function() { 		if (!this.initialized) { 			return; 		}  		if (document.getElementById(this.id).style.display == "none") { 			// div is hidden, so let's open it 			this.open(); 		} 		else { 			// div is visible, so close it 			this.close(); 		} 	},  	isOpened: function() { 		return document.getElementById(this.id).style.display != "none"; 	},  	// starts plugin slide 	startSlide: function() { 		this.obj = document.getElementById(this.id); 		this.endLength = pluginDivsHeight[this.obj.id]; 		this.startTime = (new Date()).getTime();  		if (this.dir == "down") 			this.obj.style.height = "1px";  		this.obj.style.display = "block";  		var self = this;	// closure  		this.timerID = setInterval(function(){self.slideTick()}, timerlen); 	},  	/** 	*  	checks if it's time to end the slide or to keep sliding 	*/ 	slideTick: function() { 		var elapsed = (new Date()).getTime() - this.startTime;  		if (elapsed > slideAniLen) 			this.endSlide(); 		else { 			var d = Math.round(elapsed / slideAniLen * this.endLength); 			if(this.dir == "up") 				d = this.endLength - d;  			obj = this.obj; 			obj.style.height = d + "px"; 		}  		return; 	},  	/*    	*	ends sliding    	*/ 	endSlide: function () { 		clearInterval(this.timerID);  		if (this.dir == "up") 			this.obj.style.display = "none";  		this.obj.style.height = this.endLength + "px";  		delete(this.moving); 		delete(this.timerID); 		delete(this.startTime); 		delete(this.endLength); 		delete(this.obj); 		delete(this.dir);  		return; 	},  	// some utils  	hasClass: function(id, className) { 		var obj = document.getElementById(id); 		return obj.className.indexOf(className) != -1; 	},  	addClass: function(id, className) { 		var obj = document.getElementById(id); 		if (!this.hasClass(id, className)) obj.className += " " + className; 	},  	removeClass: function(id, className) { 		var obj = document.getElementById(id); 		if (this.hasClass(id, className)) { 			var st = obj.className;     		obj.className = st.replace(' gb-informers_project_open', ''); 		} 	},  	getElementCurrentStyle: function(element, CssStyleProperty) { 		if (!element) return false; 		if (element.currentStyle) { 			return element.currentStyle[this.cssToJavascriptStyle(CssStyleProperty)]; 		} 		else if (window.getComputedStyle) { 			var compStyle = window.getComputedStyle(element, ''); 			return compStyle.getPropertyValue(CssStyleProperty); 		} 		else { 			return ''; 		} 	},  	cssToJavascriptStyle: function(CssProperty) { 		var stringArray = CssProperty.toLowerCase().split('-'); 		if (stringArray.length == 1) { 			return stringArray[0]; 		} 		var ret = (CssProperty.indexOf("-") == 0) ? stringArray[0].charAt(0).toUpperCase() + stringArray[0].substring(1) : stringArray[0]; 		for (var i = 1; i < stringArray.length; i++) { 			var s = stringArray[i]; 			ret += s.charAt(0).toUpperCase() + s.substring(1); 		} 		return ret; 	},  	addGoogleAnalytics: function () {  //		var pluginDiv = document.getElementById(this.parent_id); //		var children = pluginDiv.getElementsByTagName('a'); //		var parameters = pluginDiv.getAttribute('rel'); // //		for (var i = 0; i < children.length; i++) { //			var tagName = children[i].tagName.toLowerCase(); //			children[i].href = children[i].href + parameters; //		} 		 	},  	init: function() {      		var checked = false; 		if (pluginTicksCounter++ > 15) { 			checked = true; 		}  		var rootDiv = document.getElementById('gb_informers'); 		var pluginDivs = rootDiv.getElementsByTagName("div"); 		var photoChecked = true;  		if (document.getElementById('gb-informers_photo_box') != null) { 			photoChecked = false; 		}  		for (var i = 0; i < pluginDivs.length; i++) {  			// check whether the style is applied already 			if (!checked && pluginDivs[i].className == 'gb-informers_project_content') {  				if (!photoChecked) { 					//gel all child divs 					var childDivs = pluginDivs[i].getElementsByTagName("div"); 					for (var j = 0; j < childDivs.length; j++) { 						if (typeof(childDivs[j].className) != 'undefined') { 							if (childDivs[j].className == 'gb-informers_photo') {  								if (pluginPhotoLoadCounter > 3) { 									photoChecked = true; 								} 								else { 									return; 								} 							} 						} 					}  					if (!photoChecked) { 						continue; 					} 				}  				if (((this.getElementCurrentStyle(pluginDivs[i], 'width') == '300px') && photoChecked)) { 					checked = true; 				} 				else { 					return; 				} 			} 		}          		if (checked) { 			for (var i = 0; i < pluginDivs.length; i++) { 				if (pluginDivs[i].className == 'gb-informers_project_content_box') {  					if (pluginDivs[i].style.display == 'none') { 						pluginDivs[i].style.display = 'block'; 						pluginDivsHeight[pluginDivs[i].id] = pluginDivs[i].offsetHeight; 						pluginDivs[i].style.display = 'none'; 					} 					else { 						pluginDivsHeight[pluginDivs[i].id] = pluginDivs[i].offsetHeight; 					}  					var id = pluginDivs[i].id; 					var key = 'plugin_v2_';  					var num = id.substring(id.indexOf(key) + key.length) 					PluginsV2[num] = new PluginV2(id, num); 					PluginsV2[num].addGoogleAnalytics(); 				}  				this.initialized = true;                 togglePluginFirst(); 				clearInterval(pluginTimerID); 			} 		}         	},  	incPhotoLoadCounter: function() { 		pluginPhotoLoadCounter++; 	} }  var PluginsV2 = new Array(); var pluginTicksCounter = 0; var pluginPhotoLoadCounter = 0; var pluginTimerID = setInterval('PluginV2.prototype.init()', 100);  function togglePluginFirst() {     var firstBlock = 1;                                                           firstBlock = 3; // re-init firstBlock                                   for (i in PluginsV2) { 		if (typeof PluginsV2[i] == 'object' && typeof PluginsV2[i].num != 'undefined') {             if (i!=firstBlock) {                 PluginsV2[i].close();             } 		} 	} }  function togglePlugin(id) {     for (i in PluginsV2) { 		if (typeof PluginsV2[i] == 'object' && typeof PluginsV2[i].num != 'undefined' && PluginsV2[i].isOpened()) { 			PluginsV2[i].close(); 		} 	} 	var Plugin = PluginsV2[id]; 	Plugin.toggle(); 	return false; }  //Analytics  var _gaq = _gaq || []; _gaq.push(['_setAccount', PluginV2.prototype.GA_account]); _gaq.push(['_trackPageview']);  (function() {     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);   })(); </p>
+<p> Портал для мужчин </p>
+<p> Урок пикапа: знакомимся с девушкой </p>
+<p> Жена Бориса Беккера устроила пляжный стриптиз (ФОТО) </p>
+<p> Мода-2012: мужчины готовятся носить милитари (ВИДЕО) </p>
+<p> Больше статей </p>
+<p> Все новости спорта </p>
+<p> Семин: Нам достаточно новичков </p>
+<p> Источник: Шевченко может закончить карьеру в Милане </p>
+<p> Мирча Луческу: Шахтер - это то, чего мне сейчас больше всего не хватает </p>
+<p> Больше статей </p>
+<p> online-журнал для женщин </p>
+<p> Волочкова снова выложила в блог пикантные фото </p>
+<p> Громкие секс-скандалы с участием учительниц </p>
+<p> Что оказывает влияние на рост ребенка </p>
+<p> Больше статей </p>
+<p> Новости Финансов </p>
+<p> Пять врагов здоровья, которые живут в твоем офисе </p>
+<p> Почти 25% офисных работников донимает скука </p>
+<p> За брошенный окурок мимо урны – штраф 850 гривен </p>
+<p> Больше статей </p>
+<p> Читай нас в удобном формате </p>
+<p> RSS </p>
+<p> Facebook </p>
+<p> Вконтакте </p>
+<p> Twitter </p>
+<p> Популярные статьи </p>
+<p> Ученые выяснили, что ускоряет старение мозга </p>
+<p> Новости </p>
+<p> Ученые нашли средство от похмелья и алкоголизма </p>
+<p> Новости </p>
+<p> Из-за вспышки холеры в РФ могут частично закрыть границу с Украиной </p>
+<p> Новости </p>
+<p> Размести свои видеоматериалы </p>
+<p> Загрузка... </p>
+<p> document.write("<sc"+"ript type='text/javascript' src='http://exchange.newsnet.in.ua/show.ad?inf=296&div=newnet_block296&ref="+escape(document.referrer)+"'></sc"+"ript>"); </p>
+<p> Загрузка... </p>
+<p> var MarketGidDate = new Date();     document.write('<scr'+'ipt type="text/javascript" '     +'src="http://jsn.dt00.net/i/v/ivona.bigmir.net.8583.js?t='+MarketGidDate.getYear()+MarketGidDate.getMonth()     + '" charset="utf-8" ></scr'+'ipt>'); </p>
+<p> Внутри IVONA </p>
+<p> Мода и Красота </p>
+<p> Прыщи в зрелом возрасте: Как избавиться от это... </p>
+<p> Мода и Красота </p>
+<p> В США выбрали самую красивую девушку </p>
+<p> Здоровье </p>
+<p> Виноград помогает избежать слепоты </p>
+<p> Мода и Красота </p>
+<p> Дизайнеры создали наряды для игрушечных собак </p>
+<p> Мода и Красота </p>
+<p> Модные провалы звезд на церемонии Золотой глобус </p>
+<p> Дом </p>
+<p> Дом Робби Уильямса: Эксцентричный певец выбира... </p>
+<p> Здоровье </p>
+<p> Как худеет Пэрис Хилтон: Минус 5 кг за неделю </p>
+<p> Кулинария </p>
+<p> Завтрак выходного дня: Яичница с грибами в дух... </p>
+<p> Кулинария </p>
+<p> ТОП-5 полезных способов приготовления овощей </p>
+<p> Он и Она </p>
+<p> Пенсионеры устроили оргию в доме престарелых </p>
+<p> Мода и Красота </p>
+<p> Анджелина Джоли затмила всех на церемонии Золо... </p>
+<p> Он и Она </p>
+<p> Как оригинально провести зимний день </p>
+<p> Пожалуйста, все свои замечания и предложения направляйте в нашу </p>
+<p> Службу поддержки </p>
+<p> Разместить рекламу </p>
+<p> /* customization */ table.MediaTraffic tbody td a span {   background-color: #FFFFFF;   } .MediaTraffic_a {   color: #2a3f5e;   background-color: #dce3ee; }  /* ! */ table.MediaTraffic {   width: auto;   border-collapse: collapse;   border-spacing: 0;   empty-cells: hide;   margin: 0;   padding: 0;   float:left;   margin-top:-1px;   } table.MediaTraffic thead td {   padding: 0;   } .MediaTraffic_a {   position: relative;   z-index: 1;   margin: 0px 9px 0px 0;   height: 14px;   line-height: 14px;   padding: 0 10px;   font: 10px Arial, Tahoma, Verdana, sans-serif;   text-decoration: none;   } table.MediaTraffic tbody td {   vertical-align: top;   width:120px !important;   min-height: 84px;   overflow:hidden;   padding-right: 40px;   } table.MediaTraffic tbody td a {   display: block;   outline: none;   cursor: pointer;   font: 11px Arial, Tahoma, Verdana, sans-serif;   width:120px;   overflow:hidden; } table.MediaTraffic tbody td a span {   display: block;   width: 100%;   max-width: 116px;   height: 90px;   padding: 2px;   margin: 0 auto 3px;   background-position: 50% 50%;   background-repeat: no-repeat;   } </p>
+<p> <!-- var mtSite = 5; var mtBannerNumber = 3; var mtUserStatus = 0;   MouseMediaTrafic = { 	pageTracker: null, 	gaAccount: 'UA-3119939-34', 	status: 0, 	age:	0, 	gender: null, 	getMtUserStatus: function() { 		this.status = 0; 		 		this.age = this.readCookie('bm_age');  		this.gender = this.readCookie('bm_gender'); 		 		if(this.gender) { 			this.status += 0x100; 			this.status += 0x1; //if have sex 			if(this.gender == 'm') {//if male 				this.status += 0x2; 			} 			if (this.age >= 12 && this.age <= 17) 				this.status += 0x4; 			else if (this.age >= 18 && this.age <= 24) 				this.status += 0x8; 			else if (this.age >= 25 && this.age <= 30) 				this.status += 0x10; 			else if (this.age >= 31 && this.age <= 40) 				this.status += 0x20; 			else if (this.age >= 41 && this.age <= 50) 				this.status += 0x40; 			else if (this.age > 50) 				this.status += 0x80;  		} 		return this.status; 	}, 	readCookie: function(name) { 		var nameEQ = name + "="; 		var ca = document.cookie.split(';'); 		for(var i=0;i < ca.length;i++) { 			var c = ca[i]; 			while (c.charAt(0)==' ') c = c.substring(1,c.length); 			if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length); 		} 		return null; 	}, 	init: function(){ 		window.mtClick = function(obj, str) 		{ 		        if (!obj.href)obj.href = str; 		        if(MouseMediaTrafic.pageTracker == null) MouseMediaTrafic.pageTracker = _gat._getTracker(MouseMediaTrafic.gaAccount); 		        MouseMediaTrafic.pageTracker._trackEvent('обзор сети mediatraffic', document.domain, document.location.href ); 		        return true; 		}  	} }; mtUserStatus = MouseMediaTrafic.getMtUserStatus();  //Analytics  if( typeof(_gaq) == 'undefined' ) { 	var _gaq = _gaq || []; 	_gaq.push(['_setAccount', MouseMediaTrafic.gaAccount]); 	_gaq.push(['_trackPageview']); 	 	(function() { 	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; 	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); 	  })(); 	   }  //--> </p>
+<p> Аукционы Киев </p>
+<p> bigmir)net аукционы </p>
+<p> Квартиры Донецк </p>
+<p> Emarket.ua </p>
+<p> Измерительный инструмент </p>
+<p> Vcene.ua </p>
+<p> Основные разделы </p>
+<p> bigmir)net в сети </p>
+<p> Авто </p>
+<p> Аукционы </p>
+<p> Афиша </p>
+<p> Видео </p>
+<p> Вопрос-Ответ </p>
+<p> Гороскопы </p>
+<p> Дневники </p>
+<p> Евро-2012 </p>
+<p> Ivona </p>
+<p> Игры </p>
+<p> Знакомства </p>
+<p> Карты </p>
+<p> M port </p>
+<p> Новости </p>
+<p> Открытки </p>
+<p> Переводчик </p>
+<p> Погода </p>
+<p> Покупон </p>
+<p> Почта </p>
+<p> Приколы </p>
+<p> Работа </p>
+<p> Рейтинг </p>
+<p> Спорт </p>
+<p> Техно </p>
+<p> ТВ-программа </p>
+<p> Туризм </p>
+<p> Финансы </p>
+<p> Фото </p>
+<p> Чат </p>
+<p> Шоу-Биз </p>
+<p> Facebook </p>
+<p> Twitter </p>
+<p> В Контакте </p>
+<p> LiveJournal </p>
+<p> Блог Бигмира </p>
+<p> Наверх </p>
+<p> Корреспондент.net </p>
+<p> Новинар </p>
+<p> Ricardo </p>
+<p> © 2000-2011, </p>
+<p> ООО "КП-ТВ" </p>
+<p> .                     Все права защищены. </p>
+<p> Помощь </p>
+<p> Реклама на сайте </p>
+<p> Правила </p>
+<p> Связаться с нами </p>
+<p> Использование материалов </p>
+<p> Договор пользования сайтом </p>
+<p> <!--     bmN=navigator,bmD=document,bmD.cookie='b=b',i=0,bs=[],bm={ o:1,v:16792470,s:16792470,t:6,c:bmD.cookie?1:0,n:Math.round((Math.random()* 1000000)),w:0};     for(var f=self;f!=f.parent;f=f.parent)bm.w++;     try{ if(bmN.plugins&&bmN.mimeTypes.length&&(x=bmN.plugins['Shockwave Flash']))bm.m=parseInt(x.description.replace(/([a-zA-Z]|\s)+/,''));     else for(var f=3;f<20;f++)if(eval('new ActiveXObject("ShockwaveFlash.ShockwaveFlash.'+f+'")'))bm.m=f}catch(e){ ;}     try{ bm.y=bmN.javaEnabled()?1:0}catch(e){ ;}     try{ bmS=screen;bm.v^=bm.d=bmS.colorDepth||bmS.pixelDepth;bm.v^=bm.r=bmS.width}catch(e){ ;}     r=bmD.referrer.slice(7);if(r&&r.split('/')[0]!=window.location.host){ bm.f=escape(r);bm.v^=r.length}     bm.v^=window.location.href.length;for(var x in bm) if(/^[ovstcnwmydrf]$/.test(x)) bs[i++]=x+bm[x];     bmD.write('<sc'+'ript type="text/javascript" language="javascript" src="http://c.bigmir.net/?'+bs.join('&')+'"></sc'+'ript>');     //--> </p>
+<p> <!-- bmN=navigator,bmD=document,bmD.cookie='b=b',i=0,bs=[],bm={ o:1,v:23,s:23,t:6,c:bmD.cookie?1:0,n:Math.round((Math.random()* 1000000)),w:0}; for(var f=self;f!=f.parent;f=f.parent)bm.w++; try{ if(bmN.plugins&&bmN.mimeTypes.length&&(x=bmN.plugins['Shockwave Flash']))bm.m=parseInt(x.description.replace(/([a-zA-Z]|\s)+/,'')); else for(var f=3;f<20;f++)if(eval('new ActiveXObject("ShockwaveFlash.ShockwaveFlash.'+f+'")'))bm.m=f}catch(e){ ;} try{ bm.y=bmN.javaEnabled()?1:0}catch(e){ ;} try{ bmS=screen;bm.v^=bm.d=bmS.colorDepth||bmS.pixelDepth;bm.v^=bm.r=bmS.width}catch(e){ ;} r=bmD.referrer.slice(7);if(r&&r.split('/')[0]!=window.location.host){ bm.f=escape(r);bm.v^=r.length} bm.v^=window.location.href.length;for(var x in bm) if(/^[ovstcnwmydrf]$/.test(x)) bs[i++]=x+bm[x]; bmD.write('<sc'+'ript type="text/javascript" language="javascript" src="http://c.bigmir.net/?'+bs.join('&')+'"></sc'+'ript>'); //--> </p>
+<p> <!--      var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));     //--> </p>
+<p> <!--     if(window._gat) {      try {       var firstTracker = _gat._getTracker("UA-1609229-16");       firstTracker._initData();       firstTracker._trackPageview();       var secondTracker = _gat._getTracker("UA-3119939-34");       // secondTracker._setDomainName("www.bigmir.net");       // Organic Tracker       secondTracker._addOrganic("go.mail.ru","q");       secondTracker._addOrganic("rambler.ru","query");       secondTracker._addOrganic("search.ukr.net","search_query");       secondTracker._addOrganic("search.qip.ru","query");       secondTracker._addOrganic("images.google.com","q");       secondTracker._addOrganic("nigma.ru","s");       secondTracker._addOrganic("icq.com","q");       secondTracker._addOrganic("meta.ua","q");       secondTracker._addOrganic("bigmir.net","z");       secondTracker._addOrganic("gogo.ru","q");       secondTracker._addOrganic("aport.ru","r");       secondTracker._addOrganic("tut.by","query");       secondTracker._initData();       secondTracker._trackPageview();      }catch(e){}     }     //--> </p>
+<p> <!--//--><![CDATA[//><!--     var pp_gemius_identifier = new String('p8XlnPr45Qo.xhw1UPw0KOVD76bdVlrzdKKahEz0Y7f.M7');     //--><!]]> </p>
+<p> <!-- 		var RndNum4NoCash = Math.round(Math.random() * 1000000000); 		var ar_Tail='unknown'; if (document.referrer) ar_Tail = escape(document.referrer); 		document.write('<sc' + 'ript language="JavaScript" type="text/javascript" src="http://ad.adriver.ru/cgi-bin/erle.cgi?sid=85794&sz=ivona_tobacco&target=blank&bt=16&pz=0&rnd=' + RndNum4NoCash + '&tail256=' + ar_Tail + '"><\/sc' + 'ript>'); 	//--> </p>
+<p> <!--     iS='<img src="http://r.i.ua/s?u11&p0&n'+Math.random();     iD=document;if(!iD.cookie)iD.cookie="b=b; path=/";if(iD.cookie)iS+='&c1';     iS+='&d'+(screen.colorDepth?screen.colorDepth:screen.pixelDepth)     +"&w"+screen.width+'&h'+screen.height;     iT=iD.referrer.slice(7);iH=window.location.href.slice(7);     ((iI=iT.indexOf('/'))!=-1)?(iT=iT.substring(0,iI)):(iI=iT.length);     if(iT!=iH.substring(0,iI))iS+='&f'+escape(iD.referrer.slice(7));     iS+='&r'+escape(iH);     iD.write(iS+'" border="0" width="1" height="1" />');     //--> </p>
+<p> <!--     new Image().src = "http://counter.yadro.ru/hit?r"+     escape(document.referrer)+((typeof(screen)=="undefined")?"":     ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?     screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+     ";"+Math.random();//--> </p>
+<p> var ya_params = {/*Здесь параметры визита*/}; </p>
+<p> (function(w, c) {         (w[c] = w[c] || []).push(function() {             try {                 w.yaCounter7234894 = new Ya.Metrika({id:7234894, enableAll: true,params:window.ya_params||{ }});             }             catch(e) { }         });     })(window, "yandex_metrika_callbacks"); </p>
+<p> Основные разделы </p>
+<p> bigmir)net в сети </p>
+<p> Авто </p>
+<p> Аукционы </p>
+<p> Афиша </p>
+<p> Видео </p>
+<p> Вопрос-Ответ </p>
+<p> Гороскопы </p>
+<p> Дневники </p>
+<p> Евро-2012 </p>
+<p> Ivona </p>
+<p> Игры </p>
+<p> Знакомства </p>
+<p> Карты </p>
+<p> M port </p>
+<p> Новости </p>
+<p> Открытки </p>
+<p> Переводчик </p>
+<p> Погода </p>
+<p> Покупон </p>
+<p> Почта </p>
+<p> Приколы </p>
+<p> Работа </p>
+<p> Рейтинг </p>
+<p> Спорт </p>
+<p> Техно </p>
+<p> ТВ-программа </p>
+<p> Туризм </p>
+<p> Финансы </p>
+<p> Фото </p>
+<p> Чат </p>
+<p> Шоу-Биз </p>
+<p> Facebook </p>
+<p> Twitter </p>
+<p> В Контакте </p>
+<p> LiveJournal </p>
+<p> Блог Бигмира </p>
+<p> Корреспондент.net </p>
+<p> Новинар </p>
+<p> Ricardo </p>
+<p> $().ready(function(){ $.get('?_ctr=ratepage&id=324369'); }); </p>

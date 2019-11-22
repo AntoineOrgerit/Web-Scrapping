@@ -7,16 +7,16 @@ def extract_source(file_name):
 
 
 def main():
-    original_repository_path = "../../../resources/html/"
-    clean_repository_path = "../../../resources/clean/"
+    original_repository_path = "../../resources/html/"
+    clean_repository_path = "../../resources/clean/"
     source_repositories_name_and_path = [
-            ("JT", "../../../resources/JT/"),
-            ("BP", "../../../resources/BP/"),
-            ("BS", "../../../resources/BS/"),
-            ("JT_langid", "../../../resources/JT_langid/"),
-            ("JT_trueLg", "../../../resources/JT_trueLg/"),
-            ("unfluff", "../../../resources/unfluff/"),
-            ("BTE", "../../../resources/BTE/")
+            ("JT", "../../resources/JT/"),
+            ("BP", "../../resources/BP/"),
+            ("BS", "../../resources/BS/"),
+            ("JT_langid", "../../resources/JT_langid/"),
+            ("JT_trueLg", "../../resources/JT_trueLg/"),
+            ("unfluff", "../../resources/unfluff/"),
+            ("BTE", "../../resources/BTE/")
         ]
     print_header_key = "JT"
     

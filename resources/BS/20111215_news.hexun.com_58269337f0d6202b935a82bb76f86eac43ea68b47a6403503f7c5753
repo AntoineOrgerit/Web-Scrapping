@@ -1,0 +1,197 @@
+<p> 被告人刑期与罚金均大幅减少-新闻频道-和讯网 </p>
+<p> var wrap_=document.getElementById("wrap"); if(wrap_!=null){ if(window.location.href.indexOf("http://insurance.hexun.com")>=0 ){ 	wrap_.style.paddingTop="128px"; } if(window.location.href.indexOf("http://opinion.hexun.com")>=0 || window.location.href.indexOf("http://bschool.hexun.com")>=0 || window.location.href.indexOf("http://book.hexun.com")>=0 || window.location.href.indexOf("http://gongyi.hexun.com")>=0 || window.location.href.indexOf("http://trust.hexun.com")>=0){ 		wrap_.style.paddingTop="114px";	 	}          if(window.location.href.indexOf("http://news.hexun.com")>=0 ||  window.location.href.indexOf("http://funds.hexun.com")>=0 || window.location.href.indexOf("http://futures.hexun.com")>=0 || window.location.href.indexOf("http://qizhi.hexun.com")>=0 || window.location.href.indexOf("http://forex.hexun.com")>=0 || window.location.href.indexOf("http://gold.hexun.com")>=0 || window.location.href.indexOf("http://bond.hexun.com")>=0 || window.location.href.indexOf("http://money.hexun.com")>=0 ||  window.location.href.indexOf("http://stock.hexun.com")>=0 ||  window.location.href.indexOf("http://pe.hexun.com")>=0 ||  window.location.href.indexOf("http://shoucang.hexun.com")>=0 || window.location.href.indexOf("http://pension.hexun.com")>=0 ){ 		wrap_.style.paddingTop="126px";	 	} if(window.location.href.indexOf("http://bank.hexun.com")>=0){ wrap_.style.paddingTop="167px";  } if(window.location.href.indexOf("http://tax.hexun.com")>=0){ wrap_.style.paddingTop="147px";  } if(window.location.href.indexOf("http://xianhuo.hexun.com")>=0){ wrap_.style.paddingTop="112px";  }  } </p>
+<p> 和讯网 </p>
+<p> > </p>
+<p> 新闻 </p>
+<p> > </p>
+<p> 正文 </p>
+<p> 被告人刑期与罚金均大幅减少 </p>
+<p> /*实现图片的按比例缩放*/  function DrawImage(ImgD, iwidth, iheight) {      var image = new Image();      image.src = ImgD.src;      if(image.width > 0 && image.height > 0){          if(image.width / image.height >= iwidth / iheight){              if(image.width > iwidth){                  ImgD.width = iwidth;                  ImgD.height = (image.height * iwidth) / image.width;              }              else{                  ImgD.width = image.width;                  ImgD.height = image.height;              }              // ImgD.alt = image.width + "×" + image.height;          }          else{              if(image.height > iheight){                  ImgD.height = iheight;                  ImgD.width = (image.width * iheight) / image.height;              }              else{                  ImgD.width = image.width;                  ImgD.height = image.height;              }              // ImgD.alt = image.width + "×" + image.height;          }      }   }   //  --------------------------------------- </p>
+<p> 2011年12月16日00:22 </p>
+<p> 来源： </p>
+<p> 东方网-劳动报 </p>
+<p> showComment_01(136360504,153) </p>
+<p> 字号: </p>
+<p> 据新华社河南鲁山12月15日电 引起全国关注的“368万天价过路费案”，15日在河南省鲁山县人民法院重审，被告人犯罪事实认定和判处刑期与原判决均有重大变化。 </p>
+<p> 庭审结束后法官当庭宣判：被告人时建锋犯诈骗罪，判处有期徒刑两年6个月，并处罚金人民币1万元。此前，河南省平顶山市中级人民法院认为被告人时建锋犯诈骗罪，判处无期徒刑，剥夺政治权利终身，并判处罚金200万元。 </p>
+<p> 推荐阅读 </p>
+<p> 杨文俊卸任蒙牛总裁职务 中粮地产孙伊萍接任 </p>
+<p> 房地产库存超5万亿 </p>
+<p> 发改委再度约谈食用油涨价企业 </p>
+<p> 信号商卡斯柯回应动车事故 </p>
+<p> 北京建筑业劳动合同范本出炉 </p>
+<p> [组图]车晓离婚后否认3亿分手费 </p>
+<p> [股神争霸] </p>
+<p> 涨停王浮出水面 </p>
+<p> 馨月：央行意外降准的三大原因 </p>
+<p> 在犯罪事实认定方面，经鲁山县人民法院审理查明，2008年5月份，被告人时建锋到其弟时军锋经营的沙场帮忙，时军锋明确告知时建锋拉沙车辆所用的“WJ－30055”、“WJ－30056”车辆号牌、证件均系伪造。2008年10月底，时建锋开始全面参与沙场经营管理，负责安排车辆营运、发放雇工工资、购买销售河沙等。经会计事务所审计：2008年11月1日至2009年1月1日，悬挂“WJ－30055”、“WJ－30056”号牌的两辆货车在郑尧高速公路通行，骗免高速公路通行费（按核准装载量计算）计人民币117660.63元。此前，河南省平顶山市中级人民法院认为被告人时建锋骗免高速公路通行费3682110元。 </p>
+<p> 同时，法官当庭宣判被告人时军锋犯诈骗罪，判处有期徒刑7年，并处罚金人民币5万元；被告人时留申、王明伟犯伪证罪，各判处有期徒刑1年，缓刑1年。 </p>
+<p> (function(){ var obj = null; if(document.getElementById('arctTailMark')) { obj = document.getElementById('arctTailMark'); } if(obj!=null) { var str = ' <a href=" http://www.hexun.com/?from=hxlogo" target="_blank" title="点击进入和讯首页"><img src=" http://img.hexun.com/home/hx.gif" style="margin:0;"/></a>'; try { 	var oo = obj.previousSibling; while(oo.nodeType!=1 || oo.innerHTML.replace(/\s|\u3000/g,'').length==0) {    oo = oo.previousSibling; } if(oo.nodeType==1 && oo.tagName.toLowerCase()=='p') {   var span = document.createElement('span');   span.innerHTML =str;   oo.appendChild(span);  } } catch (e){} } })(); </p>
+<p> 【免责声明】本文仅代表作者本人观点，与和讯网无关。和讯网站对文中陈述、观点判断保持中立，不对所包含内容的准确性、可靠性或完整性提供任何明示或暗示的保证。请读者仅作参考，并请自行承担全部责任。 </p>
+<p> 财经名博 </p>
+<p> A股资金 </p>
+<p> 将长期流出 </p>
+<p> 货币滥发 </p>
+<p> 的下场 </p>
+<p> 相关新闻 </p>
+<p> 12/14 19:47 </p>
+<p> 陕西乾县“灭门凶杀案”一审宣判 被告人被判死刑 </p>
+<p> 12/14 10:24 </p>
+<p> 乾县一家五口险遭灭门案一审宣判被告人获死刑 </p>
+<p> 12/09 13:02 </p>
+<p> 导致35人死伤的沈阳“8・28”火灾4名被告人被判刑 </p>
+<p> 12/07 06:52 </p>
+<p> 足坛打假扫黑系列案将开庭 被告人多达13名 </p>
+<p> 12/06 07:43 </p>
+<p> 深圳硫酸泼杀儿童续：被告人一审被判无期 </p>
+<p> 12/06 02:27 </p>
+<p> 检方抗诉 否认被告人曾自首 </p>
+<p> 12/05 03:31 </p>
+<p> 未决犯罪嫌疑人、被告人审前表现纳入量刑情节 </p>
+<p> 相关推荐 </p>
+<p> 被告人 </p>
+<p> showComment_02(136360504,153) </p>
+<p> 自动登录 </p>
+<p> 用户名： </p>
+<p> 密码： </p>
+<p> 请在这里发表您个人看法，发言时请遵守法纪注意文明。 </p>
+<p> 正在验证用户信息... </p>
+<p> var valueofnameinput="用户名/邮箱/手机"; var valueofpassinout="******"; 	function checkLeaveWord() { 	var obj = document.getElementById('contentBefore'); 	obj. disabled='disabled'; 	obj.style.background = '#F5F5F5'; 	obj.value = '请登录后再发表评论！'; 	} </p>
+<p> alfdls </p>
+<p> 您好，欢迎您发表评论！ </p>
+<p> （言论仅代表会员个人观点，不代表和讯网观点） </p>
+<p> 据新华社河南鲁山12月15日电&nbsp;引起全国关注的“368万天价过路费案”，15日在河南省鲁山县人民法院重审，被告人犯罪事实认定和判处刑期与原判决均有重大变化。　　庭审结束后法官当庭宣判：被告人时建锋犯诈骗罪，判处有期徒刑两年6个月，并处罚金人民币1万元。此前，河南省平顶山市中级人民法院认为被告人时建锋犯诈骗罪，判处无期徒刑，剥夺政治权利终身，并判处罚金200万元。　　在犯罪事实...... </p>
+<p> 请在这里发表您个人看法，发言时请遵守法纪注意文明。 </p>
+<p> 推广 </p>
+<p> 热点 </p>
+<p> 热点 </p>
+<p> 推广 </p>
+<p> 热点专题 </p>
+<p> 思辨重庆经济路径 </p>
+<p> 中国抵制欧盟征收航空碳税 </p>
+<p> 2012年成品油价首次上调 </p>
+<p> 吴英案：刀口下的辩论 </p>
+<p> 帝国赌局：看不懂的海航迷雾 道不清的资本围城 </p>
+<p> 三一重工26.54亿元收购普茨迈斯特90%股权 </p>
+<p> 大摩华鑫涉嫌基金黑幕风波 </p>
+<p> 养老金入市运作拉开帷幕 </p>
+<p> 保监会2012年监管新政：整顿治理 </p>
+<p> 烟台银行涉4.3亿元承兑汇票案 </p>
+<p> 方韩之争折射时代之短 </p>
+<p> 公车采购警惕伪自主 </p>
+<p> 电商企业深陷三国舌战 </p>
+<p> 感谢您的参与! </p>
+<p> 查看[ </p>
+<p> 本文全部评论 </p>
+<p> ] </p>
+<p> 您已复制了此链接。赶快分享给您的朋友吧！ </p>
+<p> #head2010 .navetc{height:27px; overflow:hidden; font-family:"宋体";} #head2010 .navL a{ padding:0px 1px;} #head2010 .navetc .navL{ width:840px; float:left; padding:3px 0 0 0; height: 52px; border-right:#bebebe 1px solid;}  #head2010 .navetc .navR{ width:111px; float:right; padding:3px 3px 3px 0; overflow: hidden;} #hexunMember_isloginedSetup_span_display_username{ width: 49px; height: 20px; overflow: hidden; text-align: right; padding:0 0 0 8px; margin-right: 5px;} #hexunMember_nologinSetup_div_display_nologin{ height: 20px; padding: 1px 0 0 0; line-height: 20px; text-align: center; background: #e8e8e8; overflow:hidden; margin-bottom:3px;} #hexunMember_isloginedSetup_div_display{ height: 20px; padding: 1px 0 0 0; line-height: 20px; text-align: center; background: #e8e8e8 } #hexunCalendar a,#hexunCalendar a:hover{ color:#C7E1FC;} </p>
+<p> 首页 </p>
+<p> - </p>
+<p> 新闻 </p>
+<p> - </p>
+<p> 股票 </p>
+<p> - </p>
+<p> 基金 </p>
+<p> - </p>
+<p> 期货 </p>
+<p> - </p>
+<p> 期指 </p>
+<p> - </p>
+<p> 黄金 </p>
+<p> - </p>
+<p> 外汇 </p>
+<p> - </p>
+<p> 债券 </p>
+<p> - </p>
+<p> 理财 </p>
+<p> - </p>
+<p> 银行 </p>
+<p> - </p>
+<p> 保险 </p>
+<p> - </p>
+<p> 信托 </p>
+<p> - </p>
+<p> 房产 </p>
+<p> - </p>
+<p> 汽车 </p>
+<p> - </p>
+<p> 科技 </p>
+<p> - </p>
+<p> 股吧 </p>
+<p> - </p>
+<p> 论坛 </p>
+<p> - </p>
+<p> 博客 </p>
+<p> - </p>
+<p> 微博 </p>
+<p> - </p>
+<p> 视频 </p>
+<p> - </p>
+<p> 专栏 </p>
+<p> - </p>
+<p> 看点 </p>
+<p> - </p>
+<p> 问达 </p>
+<p> - </p>
+<p> 培训 </p>
+<p> var href=window.location.href;    hexunMember_loginSetup_signOutURL=href;//登出地址 hexunMember_loginSetup_noLoginDisplayMsg=""; //没登陆的提示 hexunMember_loginSetup_noLoginDisplayFlag="|";//登录和注册中间的分隔符号 或 用户名与登出中间的分隔符号，不需要分隔符可以为空 hexunMember_loginSetup_islogined_isDisplay=true;//如果是登陆状态，true=显示用户名和登出按钮等信息,flase=不显示任何信息 hexunMember_loginSetup_referrer=document.referrer;//请不要修改此项 hexunMember_loginSetup_MastLogin=0;//如果需要不登陆就一直弹窗，在此设置一下弹窗时间间隔(秒)。如果等于0本项无效 </p>
+<p> 设和讯为首页 </p>
+<p> 手机版 </p>
+<p> 免费手机资讯客户端下载 </p>
+<p> (function(){ var obj = document.getElementById('phoneNewsText'); var url = window.location.href; if(url.indexOf('stock.hexun.com')>=0) {    obj.style.margin = '17px 0 0 20px';    obj.innerHTML = '免费手机股票客户端下载';    obj.href = 'http://3g.hexun.com/download_stock/'; }else if(url.indexOf('funds.hexun.com')>=0) {   obj.style.margin = '17px 0 0 20px';    obj.innerHTML = '免费手机基金客户端下载';    obj.href = 'http://3g.hexun.com/download_fund/'; }else if(url.indexOf('forex.hexun.com')>=0) {   obj.style.margin = '17px 0 0 20px';    obj.innerHTML = '免费手机外汇客户端下载';    obj.href = 'http://3g.hexun.com/download_forex/'; } })(); </p>
+<p> 股票/基金 </p>
+<p> 微博 </p>
+<p> 新闻 </p>
+<p> 博客 </p>
+<p> new hxSuggest('textMessage','http://data.stock.hexun.com/include/AjaxSearch2011.ashx',{contrainer:document.getElementById('standStockPanel')}); </p>
+<p> (function(){ var reg = /^[http:\/\/\w|/w]+\.hexun\.com(\/|(\?[^\/]+)|\/index.html|\/index\-[\w]+.html)*$/; if(reg.test(window.location.href)){     var newNode = document.createElement("div");//创建div newNode.className="cabar";     var oldNode =document.getElementById("hexunCalendar");//获取div newNode.innerHTML = "<div id='hexunCalendar' class='hxcal'></div>";        oldNode.parentNode.replaceChild(newNode,oldNode);//直接替换标签 var w_div = document.createElement('div'); w_div.className = 'weather'; var w_frame = document.createElement('iframe'); w_frame.width = '100%'; w_frame.height = '22'; w_frame.frameBorder = '0'; w_frame.scrolling = 'no'; w_frame.allowTransparency = 'true'; w_frame.style.display = 'none'; w_frame.src = "http://m.weather.com.cn/m/hexunhead/"; w_div.appendChild(w_frame); newNode.appendChild(w_div);  if(w_frame.readyState)     w_frame.onreadystatechange = function() {       if(w_frame.readyState == 'loaded' || w_frame.readyState == 'complete') {     w_frame.style.display = ''; }    }; else  w_frame.onload = function() {     w_frame.style.display = '';     }; } })(); </p>
+<p> 滚动 </p>
+<p> 金融资本 </p>
+<p> 国内经济 </p>
+<p> 产业经济 </p>
+<p> 公司新闻 </p>
+<p> 时事 </p>
+<p> 国际经济 </p>
+<p> 新兴市场 </p>
+<p> 生活消费 </p>
+<p> 财经评论 </p>
+<p> 专题 </p>
+<p> 新闻周刊 </p>
+<p> 财经公司 </p>
+<p> 人物 </p>
+<p> 访谈 </p>
+<p> 热点 </p>
+<p> 和讯预测 </p>
+<p> 地区数据 </p>
+<p> 封面 </p>
+<p> 报告 </p>
+<p> 公益 </p>
+<p> 读书 </p>
+<p> 商学院 </p>
+<p> 部委 </p>
+<p> 理财产品 </p>
+<p> 数据 </p>
+<p> 藏品 </p>
+<p> 奢侈品 </p>
+<p> 日历 </p>
+<p> 理财培训 </p>
+<p> var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); </p>
+<p> try { var pageTracker = _gat._getTracker("UA-2167933-30"); pageTracker._trackPageview(); } catch(err) {} </p>
+<p> 和讯恭候您的意见 </p>
+<p> - </p>
+<p> 联系我们 </p>
+<p> - </p>
+<p> 关于我们 </p>
+<p> - </p>
+<p> 广告服务 </p>
+<p> (function(){ if((/^[http:\/\/]*news\.hexun\.com(\/|\/index\.html)*$/).test(window.location.href)) document.write('<span style="padding-left:18px;">执行主编：姜洪桥</span>'); })(); </p>
+<p> 本站郑重声明：和讯公司系政府批准的证券投资咨询机构[ZX0005]。所载文章、数据仅供参考，使用前请核实，风险自负。 </p>
+<p> Copyright© 和讯网 和讯信息科技有限公司 All Rights Reserved 版权所有 复制必究 </p>
+<p> if(document.getElementById("shilu")!=null) { document.getElementById("shilu").style.width="710px"; } </p>
+<p> function coutLinkFrom(strId,mark,isId,p){   var obj = null;   if(isId) {   if(!document.getElementById(strId)) return;   obj = document.getElementById(strId);   }   else {      var parent = (typeof p!='undefined' && document.getElementById(p))?document.getElementById(p):document;      var arr = parent.getElementsByTagName('*');  var classesObj = [];  for(var i=0,l=arr.length;i<l;i++) {    if(arr[i].className && arr[i].className == strId) classesObj.push(arr[i]);  }  if(classesObj.length>=1) obj = classesObj[0];   }   if(obj==null) return;   var alist = obj.getElementsByTagName('a');   var len = alist.length;   for(var i=0;i<len;i++) {     if(alist[i].href) {    alist[i].href = (alist[i].href.indexOf('?')!=-1)?(alist[i].href+'&'+mark):(alist[i].href+'?'+mark); }   } } coutLinkFrom('jjjxmod','fromfunds=jjjx',false,'mainleft'); coutLinkFrom('yued','fromfunds=tjxd',true); </p>
+<p> (function(){   var reg = /^[http:\/\/\w|\w\.*\w|\w]+\.hexun\.com(\/|(\?[^\/]+)|\/index.html|\/index\-[\w]+.html)*$/;    if(!reg.test(window.location.href)) {     document.write('\x3Cscript type="text/javascript" src="http://img.hexun.com/base/version/hx_base.min1.1.js">\x3C/script>'+'\x3Cscript type="text/javascript" src="http://img.hexun.com/share/hxShare2011_bd.js">\x3C/script><link href="http://img.hexun.com/share/hxShare2011_bd.css" type="text/css" rel="stylesheet" />');     if(window.attachEvent) window.attachEvent('onload',function() {hxShare2011('');}); 	if(window.addEventListener) window.addEventListener('load',function(){hxShare2011('');},false); 	   } })(); </p>
+<p> (function(){ 	//全站通发广告 	var reg=/\/\d{9}(_\d+)?.(html|html\?\w*)$/;		 	if(reg.test(location.href)){ 	    function allPages(){ 		    var script = document.createElement('script'); 			script.type = 'text/javascript'; 			script.src = 'http://itv.hexun.com/lbi-html/ly/2011/allPages/tempAd.js?r='+Math.random(); 			document.body.appendChild(script);	 		} 		if(window.attachEvent) window.attachEvent('onload',function() {allPages()}); 		if(window.addEventListener) window.addEventListener('load',function(){allPages()},false); 		//document.write('<script type="text/javascript" src="http://itv.hexun.com/lbi-html/ly/2011/allPages/tempAd.js"><\/script>'); 	} })() </p>
+<p> var _gaq = _gaq || [];   _gaq.push(['_setAccount', 'UA-2167933-30']);   _gaq.push(['_trackPageview']);    (function() {     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);   })(); </p>
+<p> .selected_text { position:absolute; width:84px; height:23px; border:1px solid #DCDCDC; background:#FFF;} .selected_text ul {padding-left:8px;} .selected_text ul li {float:left; background:url(http://img.hexun.com/img/2011/pup_icon.gif) no-repeat; width:16px; height:16px; margin-right:9px; margin-top:5px; cursor:pointer;} .selected_text ul li.text_wb { background-position:0 0;} .selected_text ul li.text_pl {background-position:-27px 0;} .selected_text ul li.text_jc {background-position:-54px 0;} </p>
+<p> reuters_glos_parseDom('artibody','GlossaryWidget'); </p>

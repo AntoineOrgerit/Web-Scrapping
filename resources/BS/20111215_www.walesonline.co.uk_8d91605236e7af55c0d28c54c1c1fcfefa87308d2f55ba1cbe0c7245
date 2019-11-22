@@ -1,0 +1,429 @@
+<p> var startLoadTime = (new Date()).getTime(); </p>
+<p> Supermarkets could face £1,000 fines for failing to display food hygiene scores - Wales News - News - WalesOnline </p>
+<p> var gs_channels = "default"; </p>
+<p> //<![CDATA[ 			if(document.location.protocol == 'http:') { 				var Tynt = Tynt || []; 				Tynt.push('buV5OqPIGr349Zadbi-bnq'); 				Tynt.i = {"ap" : "Read More"}; 				$.getScript('http://tcr.tynt.com/ti.js'); 			} 			//]]> </p>
+<p> //<![CDATA[ 		var statsPageProps = new Object; 		statsPageProps.eventsList = ''; 	//]]> </p>
+<p> //<![CDATA[ 			var useGoogleJSLogo = true; //displayhandler may override this value 			function setGoogleLogoIfNeeded() { 				if (useGoogleJSLogo) { 					setGoogleLogo(); 				} 			}  			tm.imageServer = 'http://images.icnetwork.co.uk/';  	 		delete tm.teaserBlocks; 	 		//]]> </p>
+<p> //<![CDATA[ 				tm.kyte.sitename = 'icwales2'; 			//]]> </p>
+<p> //<![CDATA[ 				document.domain="walesonline.co.uk"; 			//]]> </p>
+<p> //<![CDATA[ 				tm.siteLife.daapi.setServerUrl('http://community.walesonline.co.uk/ver1.0/Direct/Process'); 			//]]> </p>
+<p> //<![CDATA[ 				tm.zones = ';zone=news;zone1=wales%2Dnews'; 			//]]> </p>
+<p> //<![CDATA[ 				var rsi_segs = []; 				var segs_beg=document.cookie.indexOf('rsi_segs='); 				if (segs_beg>=0){ 					segs_beg=document.cookie.indexOf('=',segs_beg)+1; 					if(segs_beg>0){ 						var segs_end=document.cookie.indexOf(';',segs_beg); 						if(segs_end==-1) segs_end=document.cookie.length; 						rsi_segs=document.cookie.substring(segs_beg,segs_end).split('|'); 					} 				} 				var segLen=20; 				var segQS=""; 				if (rsi_segs.length<segLen){ 					segLen=rsi_segs.length 				} 				for (var i=0;i<segLen;i++){ 					segQS+=("rsi"+"="+rsi_segs[i]+";")					 				} 			//]]> </p>
+<p> //<![CDATA[   if (typeof dartOrd == 'undefined') dartOrd=Math.random()*10000000000000000000; if (typeof tm.zones == 'undefined') {tm.zones = "";}   document.write('<scr' + 	'ipt type="text/javascript" ' +  'src="http://ad.uk.doubleclick.net/adj/icwales2.5293/' +  'news;slot=top%5Fleaderboard;sect=wales%2Dnews;templ=page;cat=News;reg=Wales;st=other;oid=29949634;sz=728x90;gs_cat='+gs_channels+'' + tm.zones  +  ';dcopt=ist' +  ';tile=' + tm.nextTileValue() +  ';' + (typeof segQS != "undefined" ? segQS:"" ) +  ';ord=' +  dartOrd +    '?"><\/scr' +  'ipt>');   				//]]> </p>
+<p> //<![CDATA[   if (typeof dartOrd == 'undefined') dartOrd=Math.random()*10000000000000000000; if (typeof tm.zones == 'undefined') {tm.zones = "";}   document.write('<scr' + 	'ipt type="text/javascript" ' +  'src="http://ad.uk.doubleclick.net/adj/icwales2.5293/' +  'news;slot=top%5Fad;sect=wales%2Dnews;templ=page;cat=News;reg=Wales;st=other;oid=29949634;sz=255x90;gs_cat='+gs_channels+'' + tm.zones  +  ';tile=' + tm.nextTileValue() +  ';' + (typeof segQS != "undefined" ? segQS:"" ) +  ';ord=' +  dartOrd +    '?"><\/scr' +  'ipt>');   				//]]> </p>
+<p> 6°C - 13 kph wind </p>
+<p> Updated 5:51pm 15 December 2011: </p>
+<p> //<![CDATA[ 				/* 	$Copyright Trinity Mirror $Date: 2009-08-11 16:28:00 +0100 (Tue, 11 Aug 2009) $ 	$Revision: 52471 $ */ // parse document.cookie // returns a string or null. function getCookieVal(key) { 	var pos = document.cookie.indexOf( key + "=" ); 	if( pos != -1 ) { 		var start = pos + key.length + 1;  		var end = document.cookie.indexOf(";", start); 		if( end == -1 ) end = document.cookie.length; 		var value = document.cookie.substring(start, end); 		return unescape(value); 	} 	return null; } /* set a key in document.cookie with optional expiry and path. */ function setCookieVal(key,value,duration_sec,path) { 	var theCookie = key + "=" + escape(value); 	if (duration_sec && duration_sec > 0) { 		var exp = new Date(); 		exp.setTime(exp.getTime() + (duration_sec * 1000)); 		theCookie += '; expires=' + exp.toGMTString(); 	} 	if (path) { 		theCookie += ';path=' + path; 	} 	document.cookie = theCookie; } /*  *   * Writes out headers for being logged in or not.  *   */  function writeAuthHeader(regionId, needsCookies, regUrl, mailAddress, needsDiv, commProfileUrl,  		type, profileUrl) {	 	var siteLifeUId = ""; 	var siteLifeDisplayName = ""; 	if (!type) { // consumer type 		type = 2; 	} 	 	if (needsCookies) { 		mailAddress = getCookieVal("AUTH_SITE" + regionId + "_EMAIL"); 		if (commProfileUrl) { 			var at = getCookieVal("AT"); 			if (at) { 				var atVals = at.split("&"); 				for (var i = 0; i < atVals.length; i++) { 					if (atVals[i].length > 2 && atVals[i].substring(0,2) == 'u=') { 						siteLifeUId = atVals[i].substring(2); 					} 					if (atVals[i].length > 2 && atVals[i].substring(0,2) == 'a=') { 						siteLifeDisplayName = atVals[i].substring(2); 						if (type != 1) { 							profileUrl = commProfileUrl + siteLifeDisplayName + '/'; 						}  					} 				} 			} 		} 	} 	if (type == 1) { // i.e. forums 		if (!profileUrl) { 			profileUrl = '/profile.php?mode=editprofile'; 		} else { 			//try to append session id to the profile url 			var sid = document.body.innerHTML.match(/sid=[0-9a-fA-F]+/); 			if (sid && sid.length) { 				profileUrl = profileUrl + '&' + sid; 			} 		} 	}  	if (needsDiv) {  		document.write('<div class="RegistrationHeader">'); 	}  	var a_redirect = location.href.match(/[&?]redirect=([^?&]*)/i); 	if (a_redirect != null) { 		var queryString = location.href.replace(/^[^?]*\?/, ''); 		redirectURL = a_redirect[1] + '&' + queryString.replace(/[&?](redirect|account|logout|register)=([^?&]*)/gi, ''); 	} else { 		redirectURL = escape(location.href); 	} 	 	if (mailAddress) { 		// User is logged in 		writeAuthHeaderLoggedIn(mailAddress, 								regUrl + '?account=1', 								regUrl + '?logout=1&redirect=' + redirectURL, 								profileUrl, 								siteLifeUId, 								siteLifeDisplayName);  	} else { 		// User is not logged in 		 		//removed register=1 to allow toggle between login and register pages 		var loginURL = regUrl + '?' + (type != 2 ? 'type='+type+'&' : '')  				+ 'redirect=' + redirectURL; 		loginURL = loginURL.replace(/[&?](register)=([^?&]*)/gi, ''); 		writeAuthHeaderLoggedOut(loginURL, regUrl + '?register=1&type='+type+'&redirect=' +  				redirectURL, profileUrl); 	} 	 	if (needsDiv) { 		document.write('</div>'); 	} }  			//]]> </p>
+<p> //<![CDATA[  function setAvatar(profileURL, loggedIn, profileURL ) { 	if (profileURL && loggedIn) { 		var avatar = document.getElementById('header-pluck-avatar'); 		if (avatar) { //see if we have a cookie with user avatar image 			var avatarImgURL = getCookieVal("PLUCK_USER_AVATAR"); 			var avatarImg = avatar.getElementsByTagName('IMG'); 			if (avatarImg.length == 1 && avatarImgURL) { 				avatarImg[0].src = avatarImgURL;  			} 			var avatarURL = avatar.getElementsByTagName('A'); 			if (avatarURL) { 				avatarURL[0].href = profileURL; 			} 		} 	} } 	 function writeAuthHeaderLoggedOut(loginURL, registerURL, profileURL) { 	document.write( 			'Join the Community!<br/>' + 			'<a href="' + loginURL + '">Log In</a>' +  			' | ' +  			'<a href="' + registerURL + '">Register</a>' 		); 		 	//hide the avatar if needed 	setAvatar(profileURL, false); }  function truncName( nam, cnt ) { 	var tNam = nam.substr(0, cnt); 	if (tNam != nam) { 		tNam = tNam + '&hellip;'; 	} 	return tNam; }  function writeAuthHeaderLoggedIn(mailAddress, accountURL, logoutURL, 						profileURL, siteLifeUId, displayName) { 	if (profileURL && siteLifeUId && displayName) { 		var welcome = 'Welcome ' +  				'<span class="username">' +  					'<a href="' + profileURL + '">' +  						truncName(displayName, 10) +  					'</a>' +  				'</span>'; 		setAvatar(true, true, profileURL); 	} else { 		var welcome = 'Welcome ' +  				'<span class="username">' + 					truncName(displayName ? displayName : mailAddress, 10 ) + 				'</span>'; 		//hide the avatar if needed 		setAvatar(false, true, profileURL ? profileURL : accountURL); 	} 	 	document.write(	 			welcome + '<br />' +  			'<span class="your-account"><a href="' + accountURL + '">My account</a></span>' + 			' | ' + 			'<span class="log-out"><a href="' + logoutURL + '">Log out</a></span>' 		); }  writeAuthHeader(54, 				true, 				'http://www.walesonline.co.uk/registration/index.cfm', 				null, 				false, 				'http://www.walesonline.co.uk/community/profile/', 				2  				);  	//]]> </p>
+<p> Get involved </p>
+<p> Send your stories </p>
+<p> | </p>
+<p> Contact us </p>
+<p> RSS news for you </p>
+<p> Home </p>
+<p> News </p>
+<p> Wales News </p>
+<p> CardiffOnline </p>
+<p> ValleysOnline </p>
+<p> Datastore </p>
+<p> Local Welsh News </p>
+<p> Columnists </p>
+<p> UK News </p>
+<p> World News </p>
+<p> Politics </p>
+<p> Education News </p>
+<p> Health News </p>
+<p> Country and Farming </p>
+<p> Letters to the editor </p>
+<p> Need to Read </p>
+<p> Corrections and clarifications </p>
+<p> Rugby </p>
+<p> Rugby News </p>
+<p> Focus on Rugby </p>
+<p> Rugby Columnists </p>
+<p> Blues </p>
+<p> Dragons </p>
+<p> Scarlets </p>
+<p> Ospreys </p>
+<p> Welsh Premier </p>
+<p> Divisions 1 East & West </p>
+<p> Divisions 2 - 6 </p>
+<p> Rugby Blogs </p>
+<p> Rugby World Cup 2011 Archive </p>
+<p> Sports </p>
+<p> Sports News </p>
+<p> Columnists </p>
+<p> Grassroots </p>
+<p> Parklife </p>
+<p> Olympics 2012 </p>
+<p> Athletics </p>
+<p> Cycling </p>
+<p> Boxing </p>
+<p> Tennis </p>
+<p> Glamorgan CCC </p>
+<p> Cricket </p>
+<p> Ice Hockey </p>
+<p> Golf </p>
+<p> Rugby League </p>
+<p> Motor Sport </p>
+<p> Football </p>
+<p> Football News </p>
+<p> Football Columnists </p>
+<p> Wales Football </p>
+<p> Cardiff City </p>
+<p> Swansea City </p>
+<p> Wrexham </p>
+<p> Merthyr Tydfil </p>
+<p> Newport County </p>
+<p> Welsh Premier </p>
+<p> Football Videos & Pictures </p>
+<p> Football Blogs </p>
+<p> Farewell to Ninian </p>
+<p> Lifestyle </p>
+<p> Showbiz </p>
+<p> Real Life </p>
+<p> Entertainment </p>
+<p> Christmas </p>
+<p> The Beauty Box </p>
+<p> Health & Fitness </p>
+<p> Weddings </p>
+<p> Food & Drink </p>
+<p> Style & Shopping </p>
+<p> Home & Interiors </p>
+<p> Wellbeing </p>
+<p> Books </p>
+<p> WM Magazine </p>
+<p> Lifestyle Blogs </p>
+<p> Columnists </p>
+<p> Entertainment </p>
+<p> Business </p>
+<p> Business News </p>
+<p> Features </p>
+<p> Business Columnists </p>
+<p> Commercial Property </p>
+<p> Personal Finance </p>
+<p> Videos & Pictures </p>
+<p> Business Advice </p>
+<p> Appointments </p>
+<p> Assembly Business </p>
+<p> Business Debate </p>
+<p> Business Calendar </p>
+<p> Business Deals </p>
+<p> Business Style </p>
+<p> Top 300 </p>
+<p> Business in Wales magazine </p>
+<p> Classifieds </p>
+<p> Business in Wales </p>
+<p> Business in Swansea </p>
+<p> Business in Cardiff </p>
+<p> Bookanad.com </p>
+<p> LocalMole </p>
+<p> Jobs Wales </p>
+<p> Motors Wales </p>
+<p> Homes Wales </p>
+<p> BuySell </p>
+<p> Discount Vouchers </p>
+<p> Family Notices BMD </p>
+<p> Public Notices </p>
+<p> Dating </p>
+<p> Your Money </p>
+<p> Travel </p>
+<p> Videos & Pics </p>
+<p> News </p>
+<p> Pembrokeshire Murders </p>
+<p> Royal Wedding </p>
+<p> Sport </p>
+<p> Business </p>
+<p> Politics </p>
+<p> History & Nostalgia </p>
+<p> Health Check Wales </p>
+<p> Go Green </p>
+<p> Entertainment </p>
+<p> Your Videos & Pics </p>
+<p> Buy A Photo </p>
+<p> Photoblog </p>
+<p> Photomarathon </p>
+<p> Big Picture </p>
+<p> Go Green </p>
+<p> News </p>
+<p> Green Living </p>
+<p> Climate Change </p>
+<p> Business </p>
+<p> Energy </p>
+<p> Environment </p>
+<p> Partners </p>
+<p> Go Green Video </p>
+<p> Transport </p>
+<p> Waste </p>
+<p> Communities </p>
+<p> Green Blogs </p>
+<p> Health Check Wales </p>
+<p> Health News </p>
+<p> Diet </p>
+<p> Fitness </p>
+<p> Health Features </p>
+<p> UK & World Health News </p>
+<p> Information </p>
+<p> CardiffOnline </p>
+<p> Cardiff news </p>
+<p> Cardiff Rugby </p>
+<p> Cardiff Football </p>
+<p> yourCardiff </p>
+<p> //<![CDATA[ 				 				function megaHoverOver(){                        $(this).find(".sub").stop().fadeTo('fast', 1).show();                                                //Calculate width of all ul's                        (function($){                            jQuery.fn.calcSubWidth = function(){                                rowWidth = 0;                                //Calculate row                                $(this).find("ul").each(function(){                                    rowWidth += $(this).width();                                });                            };                        })(jQuery);                                                if ($(this).find(".row").length > 0) { //If row exists...                            var biggestRow = 0;                            //Calculate each row                            $(this).find(".row").each(function(){                                $(this).calcSubWidth();                                //Find biggest row                                if (rowWidth > biggestRow) {                                    biggestRow = rowWidth;                                }                            });                            //Set width                            $(this).find(".sub").css({                                'width': biggestRow                            });                            $(this).find(".row:last").css({                                'margin': '0'                            });                                                    }                        else { //If row does not exist...                            $(this).calcSubWidth();                            //Set Width                            $(this).find(".sub").css({                                'width': rowWidth                            });                                                    }                    }                                        function megaHoverOut(){                        $(this).find(".sub").stop().fadeTo('fast', 0, function(){                            $(this).hide();                        });                    }                                                            var config = {                        sensitivity: 1, // number = sensitivity threshold (must be 1 or higher)                            interval: 50, // number = milliseconds for onMouseOver polling interval                            over: megaHoverOver, // function = onMouseOver callback (REQUIRED)                            timeout: 100, // number = milliseconds delay before onMouseOut                            out: megaHoverOut // function = onMouseOut callback (REQUIRED)                        };                                        $("ul#topnav li .sub").css({                        'opacity': '0'                    });                    $("ul#topnav li").hoverIntent(config);                                        //add new flag based on the newuntil attribute set above                    var subNavItems = $('.newuntil');                                        $('.newuntil').each(function(){                    	try {                     	var dateBits = $(this).attr('class').replace('newuntil ', '');                     	var dateBits = dateBits ? dateBits.split('/') : [];                     	var d = new Date();                     	if (dateBits.length == 3 ) {                     		var today = new Date(d.getFullYear(), d.getMonth()+1, d.getDate());                     		var navExpiryDate = new Date( dateBits[2], dateBits[1], dateBits[0]);  	                    	if ( navExpiryDate >= today ) {                     			$('a', this).append('<span>new</span>');                     			tm.logger.info(['New Nav Item', nDate + ' IS >= ' + cDate ]);                     		} else {                     			tm.logger.info(['Old Nav Item', nDate + ' IS NOT >= ' + cDate ]);                     		}                     	}                     } catch (Ex) {}                    });             //]]> </p>
+<p> Hot Topics » </p>
+<p> Big Cats </p>
+<p> Winter Weather </p>
+<p> Severn Barrage </p>
+<p> Christmas channel </p>
+<p> Popular articles </p>
+<p> Jacks Banter </p>
+<p> Bluebirds Banter </p>
+<p> More... </p>
+<p> Home </p>
+<p> News </p>
+<p> Wales News </p>
+<p> //<![CDATA[   if (typeof dartOrd == 'undefined') dartOrd=Math.random()*10000000000000000000; if (typeof tm.zones == 'undefined') {tm.zones = "";}   document.write('<scr' + 	'ipt type="text/javascript" ' +  'src="http://ad.uk.doubleclick.net/adj/icwales2.5293/' +  'news;slot=sponsorship;sect=wales%2Dnews;templ=page;cat=News;reg=Wales;st=other;oid=29949634;sz=140x60;gs_cat='+gs_channels+'' + tm.zones  +  ';tile=' + tm.nextTileValue() +  ';' + (typeof segQS != "undefined" ? segQS:"" ) +  ';ord=' +  dartOrd +    '?"><\/scr' +  'ipt>');   				//]]> </p>
+<p> Supermarkets could face £1,000 fines for failing to display food hygiene scores </p>
+<p> by </p>
+<p> Madeleine Brindley </p>
+<p> , WalesOnline </p>
+<p> Dec 14 2011 </p>
+<p> //<![CDATA[ 	 	(function(){ 	var sitelifeId = tm.siteLife.display.getUniqueId(); 	document.write('<div class="SiteLife_comment"><a id="sitelife-commentsWidget-top" href="#sitelife-commentsWidget-bottom" onclick="window.location.hash=this.href.split(\'#\')[1];return false;"></a></div>'); 	 	tm.siteLife.daapi.getArticle( 	"54-91466-29949634", 	function(article){ 	tm.siteLife.display.displayCommentCount( 	article, 	'sitelife-commentsWidget-top', 	false, 	'Comments', 	true, 	false 	); 	} 	); 	})();//call anonymous function 	//]]> </p>
+<p> //<![CDATA[ 	gSiteLife.Recommend("ExternalResource", "54-91466-29949634"); 	//]]> </p>
+<p> //<![CDATA[ 	var addthis_config = {"data_track_clickback":true, 	services_compact: 'reddit,stumbleupon,tumblr,delicious,blogger,wordpress' 	}; 	var addthis_share = { 	url: self.location+'' 	, title: document.title.substr(0, document.title.lastIndexOf("-") - 1 , document.title.length ) 	 	+ " from @walesonline" 	 	}; 	//]]> </p>
+<p> Food rating </p>
+<p> Restaurants, takeaways and even supermarkets could face a maximum £1,000 fine if they fail to display their scores on the doors. </p>
+<p> The Welsh Government will today publish proposals to force all food businesses to publicise their food hygiene rating on their premises. </p>
+<p> If the legislation is passed, Wales will become the first country to introduce a mandatory display scheme – and it could be in place by 2014. </p>
+<p> Health Minister Lesley Griffiths said the legislation will help to improve food hygiene across Wales and would be "good for business". </p>
+<p> //<![CDATA[   if (typeof dartOrd == 'undefined') dartOrd=Math.random()*10000000000000000000; if (typeof tm.zones == 'undefined') {tm.zones = "";}   document.write('<scr' + 	'ipt type="text/javascript" ' +  'src="http://ad.uk.doubleclick.net/adj/icwales2.5293/' +  'article_mpu;slot=article%5Fmpu;sect=wales%2Dnews;templ=page;cat=News;reg=Wales;st=other;oid=29949634;sz=300x250;gs_cat='+gs_channels+'' + tm.zones +  ';tile=' + tm.nextTileValue() +  ';' + (typeof segQS != "undefined" ? segQS:"" ) +  ';ord=' +  dartOrd +    '?"><\/scr' +  'ipt>');   	//]]> </p>
+<p> It comes in the wake of the 2005 E.coli O157 outbreak, which killed Mason Jones and affected more than 150 others across the South Wales Valleys. </p>
+<p> Mrs Griffiths, who will launch a three-month consultation into the proposals today in Llandudno, said: “I believe food hygiene is vital for the protection of public health, and this scheme will help drive up standards and benefit consumers and businesses alike. </p>
+<p> “The scheme will enable consumers to make a more informed choice about where they choose to eat or shop for food. </p>
+<p> “Mandatory display of hygiene scores will also benefit food businesses. Good food hygiene means a good rating, which is good for business. </p>
+<p> “Professor Hugh Pennington, who chaired the public inquiry into the 2005 E.coli outbreak supports such a scheme as an inexpensive way of driving significant improvements in food safety.” </p>
+<p> Food business, including restaurants, takeaways, school and hospital canteens, are awarded a food hygiene rating of between zero and five based on their regular environmental health inspections. </p>
+<p> A rating of zero means urgent improvement is necessary; a five means a business has very good hygiene standards. </p>
+<p> The ratings were launched in October 2010 and are available online. Some businesses, usually those with a rating of three (generally satisfactory) or more, chose to display their ratings on their premises. </p>
+<p> Under the proposals, businesses which do not display their hygiene rating could be hit with a £200 fixed penalty notice fine and a maximum fine of £1,000 if prosecuted. </p>
+<p> The consultation document, which is published today, says the mandatory scheme would apply to all places where people eat out and where they buy their food from, including supermarkets, delicatessens and bakeries. </p>
+<p> It is thought 30,000 businesses in Wales would be covered by the scheme. Currently more than 13,500 have been rated under the voluntary scheme operated by the Food Standards Agency. </p>
+<p> Julie Barratt, director of the Chartered Institute of Environmental Health in Wales, said: “We think this is a marvellous idea and believe it is important for the public to be able to make informed choices about where they eat. </p>
+<p> “The publication of a hygiene score on the door means people can make appropriate choices and it will also drive up standards – if a one-rated business is next door to a five-rated business, the public will chose the five, meaning the other will have to up its game.” </p>
+<p> Maria Battle, senior director of Consumer Focus Wales, which has campaigned for a mandatory scheme, said: “The overwhelming majority of people in Wales have told us they want a simple and transparent food hygiene standards system with mandatory display of food hygiene ratings. </p>
+<p> “They also said they want to be able to download inspection reports from the food hygiene rating scheme website, while more than half of people told us they want to simply pick up the phone or write to their local council to obtain the information. </p>
+<p> “We’re pleased a question on the public availability of inspection reports has been asked as part of the consultation. </p>
+<p> “We also welcome on-the-spot penalties to deal with any food businesses that are unhappy about displaying poor ratings on their premises. Similar schemes that ran in New York and Toronto have been successful and helped to deter businesses from non-display in the first place and drove up standards.” </p>
+<p> Health Minister Lesley Griffiths explains why the Welsh Government wants to become the first in the UK to force food businesses to display their hygiene scores on their doors </p>
+<p> //<![CDATA[ 	 	(function(){ 	var sitelifeId = tm.siteLife.display.getUniqueId(); 	document.write('<div class="SiteLife_comment"><a id="sitelife-commentsWidget-middle" href="#sitelife-commentsWidget-bottom" onclick="window.location.hash=this.href.split(\'#\')[1];return false;"></a></div>'); 	 	tm.siteLife.daapi.getArticle( 	"54-91466-29949634", 	function(article){ 	tm.siteLife.display.displayCommentCount( 	article, 	'sitelife-commentsWidget-middle', 	false, 	'Comments', 	true, 	false 	); 	} 	); 	})();//call anonymous function 	//]]> </p>
+<p> //<![CDATA[ 	gSiteLife.Recommend("ExternalResource", "54-91466-29949634"); 	//]]> </p>
+<p> //<![CDATA[ 	var OB_Template = 'WalesOnline'; 	var OB_permalink = 'http://www.walesonline.co.uk/news/wales-news/2011/12/14/restaurants-takeaways-and-even-supermarkets-could-face-1-000-fines-if-they-fail-to-display-their-food-hygiene-scores-on-the-doors-91466-29949634/'; 	if (typeof(OB_Script) != 'undefined') { 	OutbrainStart(); 	} 	else { 	var OB_Script = true; 	document.write(unescape("%3Cscript src=\'http://widgets.outbrain.com/outbrainWidget.js\' type=\'text/javascript\'%3E%3C/script%3E")); 	} 	//]]> </p>
+<p> Related Tags </p>
+<p> e.coli </p>
+<p> , </p>
+<p> food hygiene scores </p>
+<p> , </p>
+<p> food poisoning </p>
+<p> , </p>
+<p> lesley griffiths </p>
+<p> (What's this) </p>
+<p> Related Stories </p>
+<p> Food hygiene ratings are "good for business" says Health Minister Lesley Griffiths </p>
+<p> Dec 14 2011 </p>
+<p> Top 300: Health Editor Madeleine Brindley examines why the health service needs to change </p>
+<p> Dec 14 2011 </p>
+<p> The Children’s Hospital of Wales finally receives the funds to complete its "world class" development </p>
+<p> Dec 13 2011 </p>
+<p> Children's Hospital for Wales to receive £63.8m funding boost </p>
+<p> Dec 12 2011 </p>
+<p> Playgrounds across Wales targeted in new moves to stub out smoking in public </p>
+<p> Dec 6 2011 </p>
+<p> Woman 'did not get E.coli infection at Singleton Hospital' </p>
+<p> Nov 29 2011 </p>
+<p> Nursery and playgroup will re-open after Bangor E.coli outbreak </p>
+<p> Nov 26 2011 </p>
+<p> Do you want it to snow at Christmas? </p>
+<p> Whatever you need this Christmas, go to www.LocalMole.co.uk - the fast, accurate local business directory. </p>
+<p> //<![CDATA[ 				var google_adnum = 0;  			 				function google_ad_request_done(google_ads) { 			 					if (google_ads.length == 0) { 						return; 					}  					function anchorLink(str,url,visible_url,cssclass) { 						 return '<a href="'+ url + '" ' 							+ ((typeof(cssclass)=='undefined')?(' '):(' class="'+cssclass+'" ')) 							+ '\'" onmouseover="window.status=\''  + encodeURI(visible_url) 							+ '\'" onmouseout="window.status=\'\'">' + str + '</a>'; 					}  					google_adnum += google_ads.length;  					if (typeof(google_info)=="undefined"){ 						var feedback_url = "http://services.google.com/feedback/online_hws_feedback"; 					} else { 						var feedback_url = google_info.feedback_url; 					}  					if('pub-6059318011805114'=='pub-4010713000150964'){ 						var s =	'<div class="'+ wrapperClass +'"><h4 class="list-head-color1 "><a class="google-adlink" href="'+feedback_url+'">Sponsored Links</a></h4>'; 					} else { 						var s =	'<div class="'+ wrapperClass +'"><h4 class="list-head-color1 ">Sponsored Links</h4>' + 								'<div class="sponsored-link"><p><a class="google-adlink" href="' 								+feedback_url+'">Ads by Google</a></p></div>'; 					}  					for (var i = 0; i < google_ads.length; ++i) { 						if (google_ads[i].type == "image") { 							s +='<a href="' + google_ads[i].url + 								'" target="_top" title="go to ' + google_ads[i].visible_url + 								'"><img style="border:0" src="' + google_ads[i].image_url + 								'"width="' + google_ads[i].image_width + 								'"height="' + google_ads[i].image_height + '"/></a>'; 						} else { 							s += '<div class="sponsored-link">' + 								'<h5>' + anchorLink(google_ads[i].line1,google_ads[i].url, 										google_ads[i].visible_url) + '</h5>' 								+ '<p>' + google_ads[i].line2 + '&nbsp;' 								+ ((typeof(google_ads[i].line3)=='undefined')?(' '):( google_ads[i].line3 )) 								+ '<br />' 								+ '<span>' + anchorLink(google_ads[i].visible_url,google_ads[i].url, 										google_ads[i].visible_url,"google-adlink") + '</span>' 								+ '</p></div>'; 						} 					}  					s += '</div>' + "\r\n"; 					wrapperClass = null;  					document.write(s); 					return; 				} 				//]]> </p>
+<p> google_max_num_ads = '2'; 		google_ad_channel = '3941327537+7778083637'; 		google_ad_type = 'text'; 		google_ad_client = 'pub-6059318011805114'; 		google_feedback = 'on'; 		google_language = 'en'; 		google_encoding = 'utf8'; 		 			google_skip = google_adnum; 			google_ad_output = 'js'; 		 		var wrapperClass = 'share-article'; </p>
+<p> Share </p>
+<p> //<![CDATA[ 				var addthis_config = {"data_track_clickback":true, 									services_compact: 'reddit,stumbleupon,tumblr,delicious,blogger,wordpress' 									}; 				var addthis_share = { 					url: self.location+'' 					, title: document.title.substr(0, document.title.lastIndexOf("-") - 1 , document.title.length ) 					 						+ " from @walesonline" 					 				}; 			//]]> </p>
+<p> //<![CDATA[ 			 			 			var fcwLogger = function(){}; 			if( tm.siteLife.logger != null){ 				fcwLogger = function(level){ 					tm.siteLife.logger.log(level, 'fullCommentsWidget', arguments); 				} 				fcwLogger('info','log enabled'); 			}  			(function(){  				var sitelifeId = tm.siteLife.display.getUniqueId(); 				document.write('<span id="sitelife-comments-bottom"></span>'); 				document.write('<div id="sitelife-commentsWidget-bottom"></div>');   				tm.siteLife.daapi.getArticle( 					"54-91466-29949634", 					function(article){ 						tm.siteLife.display.displayCommentCount( 							article, 							'sitelife-commentsWidget-bottom', 							false, 							'Comments', 							false 						); 					} 				); 			})();  			var pluckLoginURL = 						"http://www.walesonline.co.uk/registration/index.cfm?redirect=", 					pluckRegisterURL = 						"http://www.walesonline.co.uk/registration/index.cfm?register=1&type=4&redirect=";  		//]]> </p>
+<p> Related Stories </p>
+<p> Food hygiene ratings are "good for business" says Health Minister Lesley Griffiths </p>
+<p> Dec 14 2011 </p>
+<p> Top 300: Health Editor Madeleine Brindley examines why the health service needs to change </p>
+<p> Dec 14 2011 </p>
+<p> The Children’s Hospital of Wales finally receives the funds to complete its "world class" development </p>
+<p> Dec 13 2011 </p>
+<p> Children's Hospital for Wales to receive £63.8m funding boost </p>
+<p> Dec 12 2011 </p>
+<p> Playgrounds across Wales targeted in new moves to stub out smoking in public </p>
+<p> Dec 6 2011 </p>
+<p> //<![CDATA[ 					function checktopsearch(frm) { 						if (frm.q.value.replace(/^[\s\t]*/, "").replace(/[\s\t]*$/, "") == '') { 							alert("Please enter some search text"); 							frm.q.focus(); 							return false; 						} 						return true; 					} 					useGoogleJSLogo = true; 			//]]> </p>
+<p> Site </p>
+<p> Web </p>
+<p> //<![CDATA[   if (typeof dartOrdT160x60 == 'undefined') dartOrdT160x60=Math.random()*10000000000000000000; if (typeof tm.zones == 'undefined') {tm.zones = "";}   document.write('<scr' + 	'ipt type="text/javascript" ' +  'src="http://ad.uk.doubleclick.net/adj/icwales2.5293/' +  'news;tp=1;tn=2;to=h;tr=1;tcs=2;te=2;slot=right%5Ftable1%5FR21;sect=wales%2Dnews;templ=page;cat=News;reg=Wales;st=other;oid=29949634;sz=160x60,160x120;gs_cat='+gs_channels+'' + tm.zones  +  ';' + (typeof segQS != "undefined" ? segQS:"" ) +  ';ord=' +  dartOrdT160x60 +    '?"><\/scr' +  'ipt>');   				//]]> </p>
+<p> //<![CDATA[   if (typeof dartOrd == 'undefined') dartOrd=Math.random()*10000000000000000000; if (typeof tm.zones == 'undefined') {tm.zones = "";}   document.write('<scr' + 	'ipt type="text/javascript" ' +  'src="http://ad.uk.doubleclick.net/adj/icwales2.5293/' +  'news;slot=mpu;sect=wales%2Dnews;templ=page;cat=News;reg=Wales;st=other;oid=29949634;sz=300x250,300x600;gs_cat='+gs_channels+'' + tm.zones  +  ';tile=' + tm.nextTileValue() +  ';' + (typeof segQS != "undefined" ? segQS:"" ) +  ';ord=' +  dartOrd +    '?"><\/scr' +  'ipt>');   				//]]> </p>
+<p> Walesonline Classifieds </p>
+<p> bookanad.com </p>
+<p> Jobs in Wales </p>
+<p> Cars in Wales </p>
+<p> Find a dream date </p>
+<p> Photosales </p>
+<p> Wales Vouchers </p>
+<p> Find local business </p>
+<p> Homes in Wales </p>
+<p> BuySell </p>
+<p> Cashback </p>
+<p> Advertise </p>
+<p> Video Production </p>
+<p> LocalMole.co.uk Business Finder </p>
+<p> Please enter a Business and Location. </p>
+<p> Pubs in Cardiff </p>
+<p> Plumbers in Cardiff </p>
+<p> Restaurants in Cardiff </p>
+<p> Builders in Cardiff </p>
+<p> Hotels in Cardiff </p>
+<p> Schools in Cardiff </p>
+<p> More Cardiff Businesses » </p>
+<p> Accountants in Cardiff </p>
+<p> Architects in Cardiff </p>
+<p> Beauty Salons in Cardiff </p>
+<p> Business Centres in Cardiff </p>
+<p> Business Services in Cardiff </p>
+<p> Cafes in Cardiff </p>
+<p> Caravan Dealers in Cardiff </p>
+<p> Car Dealers in Cardiff </p>
+<p> Car Hire in Cardiff </p>
+<p> Care Homes in Cardiff </p>
+<p> Cleaners in Cardiff </p>
+<p> Computer Repair in Cardiff </p>
+<p> Debt Advice in Cardiff </p>
+<p> Dentists in Cardiff </p>
+<p> Doctors in Cardiff </p>
+<p> Driving Schools in Cardiff </p>
+<p> Electricians in Cardiff </p>
+<p> Estate Agents in Cardiff </p>
+<p> Florists in Cardiff </p>
+<p> Funeral Directors in Cardiff </p>
+<p> Garden Centres in Cardiff </p>
+<p> Hairdressers in Cardiff </p>
+<p> Insurance Services in Cardiff </p>
+<p> Lawyers in Cardiff </p>
+<p> Locksmiths in Cardiff </p>
+<p> Marketing Companies in Cardiff </p>
+<p> Mobile Phones in Cardiff </p>
+<p> Museums in Cardiff </p>
+<p> Nursery Schools in Cardiff </p>
+<p> Office Rental in Cardiff </p>
+<p> Pet Services in Cardiff </p>
+<p> Plasterers in Cardiff </p>
+<p> Solicitors in Cardiff </p>
+<p> Takeaways in Cardiff </p>
+<p> Taxis in Cardiff </p>
+<p> Wedding Services in Cardiff </p>
+<p> $("a.lm-toggle").toggle( 	function(){ 	$(this).parent().next().show(); 	$(this).text("Hide"); 	return false; 	},  	function(){ 	$(this).parent().next().hide(); 	$(this).text("More Businesses in Cardiff"); 	return false; 	} 	); </p>
+<p> List your business for free » </p>
+<p> //<![CDATA[   if (typeof dartOrdT160x60 == 'undefined') dartOrdT160x60=Math.random()*10000000000000000000; if (typeof tm.zones == 'undefined') {tm.zones = "";}   document.write('<scr' + 	'ipt type="text/javascript" ' +  'src="http://ad.uk.doubleclick.net/adj/icwales2.5293/' +  'news;tp=1;tn=2;to=h;tr=1;tcs=2;te=2;slot=right%5Ftable2%5FR21;sect=wales%2Dnews;templ=page;cat=News;reg=Wales;st=other;oid=29949634;sz=160x60,160x120;gs_cat='+gs_channels+'' + tm.zones  +  ';' + (typeof segQS != "undefined" ? segQS:"" ) +  ';ord=' +  dartOrdT160x60 +    '?"><\/scr' +  'ipt>');   				//]]> </p>
+<p> google_max_num_ads = '6'; 		google_ad_channel = '8617321078+7778083637'; 		google_ad_type = 'text'; 		google_ad_client = 'pub-6059318011805114'; 		google_feedback = 'on'; 		google_language = 'en'; 		google_encoding = 'utf8'; 		 			google_skip = google_adnum; 			google_ad_output = 'js'; 		 		var wrapperClass = 'one-col'; </p>
+<p> //<![CDATA[   if (typeof dartOrd == 'undefined') dartOrd=Math.random()*10000000000000000000; if (typeof tm.zones == 'undefined') {tm.zones = "";}   document.write('<scr' + 	'ipt type="text/javascript" ' +  'src="http://ad.uk.doubleclick.net/adj/icwales2.5293/' +  'news;slot=right%5Fsky;sect=wales%2Dnews;templ=page;cat=News;reg=Wales;st=other;oid=29949634;sz=120x600,160x600;gs_cat='+gs_channels+'' + tm.zones  +  ';tile=' + tm.nextTileValue() +  ';' + (typeof segQS != "undefined" ? segQS:"" ) +  ';ord=' +  dartOrd +    '?"><\/scr' +  'ipt>');   				//]]> </p>
+<p> Hot Topics » </p>
+<p> Big Cats </p>
+<p> Winter Weather </p>
+<p> Severn Barrage </p>
+<p> Christmas channel </p>
+<p> Popular articles </p>
+<p> Jacks Banter </p>
+<p> Bluebirds Banter </p>
+<p> More... </p>
+<p> WalesOnline, the best source for Welsh news, sport, business and entertainment. Powered by the Western Mail, South Wales Echo, Wales on Sunday and Celtic Weekly Newspapers. Produced by Media Wales Ltd. </p>
+<p> Contact us </p>
+<p> . </p>
+<p> About us </p>
+<p> WalesOnline, the best source for </p>
+<p> Welsh news </p>
+<p> , sport, </p>
+<p> business </p>
+<p> and </p>
+<p> lifestyle </p>
+<p> and </p>
+<p> entertainment </p>
+<p> . Powered by the Western Mail, South Wales Echo, Wales on Sunday and Celtic Weekly Newspapers. Produced by </p>
+<p> Media Wales Ltd </p>
+<p> . </p>
+<p> Login or Register </p>
+<p> Popular sections </p>
+<p> Home </p>
+<p> News </p>
+<p> Cardiff News </p>
+<p> South Wales Valleys News </p>
+<p> UK News </p>
+<p> Rugby News </p>
+<p> Cardiff Blues </p>
+<p> Dragons </p>
+<p> Scarlets </p>
+<p> Ospreys </p>
+<p> Welsh Premier League </p>
+<p> FootballNation </p>
+<p> Football News </p>
+<p> Cardiff City FC News </p>
+<p> Swansea City FC News </p>
+<p> Business </p>
+<p> Videos & Pics </p>
+<p> News Videos </p>
+<p> Sports Videos </p>
+<p> News Pictures </p>
+<p> Sports Pictures </p>
+<p> Audio </p>
+<p> Country & Farming </p>
+<p> Special Features </p>
+<p> Useful links </p>
+<p> Sitemap </p>
+<p> Contact Us </p>
+<p> Complaints </p>
+<p> Corrections and Clarifications </p>
+<p> Book an advert in our newspapers or online </p>
+<p> Accessibility </p>
+<p> RSS feed info </p>
+<p> Weather </p>
+<p> Send Your Stories </p>
+<p> Our Twitter Feed </p>
+<p> Our Facebook Group </p>
+<p> yourCardiff </p>
+<p> Letters to the editor </p>
+<p> Datastore </p>
+<p> Topic Index </p>
+<p> Journalist directory </p>
+<p> Community Guidelines </p>
+<p> Frequently Asked Questions </p>
+<p> Advertising Information </p>
+<p> Subscriptions </p>
+<p> Buy a photo </p>
+<p> Our site network </p>
+<p> Jobs Wales </p>
+<p> Homes Wales </p>
+<p> Motors Wales </p>
+<p> WalesOnline Dating </p>
+<p> The Geek Files </p>
+<p> Buy & Sell Locally </p>
+<p> Book an ad </p>
+<p> Cashback </p>
+<p> LocalMole - Trusted Local Businesses </p>
+<p> Property Search Cardiff </p>
+<p> Mirror Reader Offers </p>
+<p> Copyright and Trade Mark Notice </p>
+<p> © 2011 owned by or licensed to Media Wales Ltd. WalesOnline™ is a trade mark of Media Wales Ltd. Please read our </p>
+<p> Terms and Conditions </p>
+<p> and </p>
+<p> Privacy Statement </p>
+<p> before using this site. </p>
+<p> //<![CDATA[   if (typeof dartOrd == 'undefined') dartOrd=Math.random()*10000000000000000000; if (typeof tm.zones == 'undefined') {tm.zones = "";}   document.write('<scr' + 	'ipt type="text/javascript" ' +  'src="http://ad.uk.doubleclick.net/adj/icwales2.5293/' +  'news;slot=bottom%5Fleaderboard;sect=wales%2Dnews;templ=page;cat=News;reg=Wales;st=other;oid=29949634;sz=728x90;gs_cat='+gs_channels+'' + tm.zones  +  ';tile=' + tm.nextTileValue() +  ';' + (typeof segQS != "undefined" ? segQS:"" ) +  ';ord=' +  dartOrd +    '?"><\/scr' +  'ipt>');   				//]]> </p>
+<p> //<![CDATA[   if (typeof dartOrd == 'undefined') dartOrd=Math.random()*10000000000000000000; if (typeof tm.zones == 'undefined') {tm.zones = "";}   document.write('<scr' + 	'ipt type="text/javascript" ' +  'src="http://ad.uk.doubleclick.net/adj/icwales2.5293/' +  'news;slot=bottom%5Fad;sect=wales%2Dnews;templ=page;cat=News;reg=Wales;st=other;oid=29949634;sz=255x90;gs_cat='+gs_channels+'' + tm.zones  +  ';tile=' + tm.nextTileValue() +  ';' + (typeof segQS != "undefined" ? segQS:"" ) +  ';ord=' +  dartOrd +    '?"><\/scr' +  'ipt>');   				//]]> </p>
+<p> <!--  var OMNI_DEBUG_LEVEL = 33;     function GetURLVars() { 	 	var args = new Object(); 	a_pairs = document.location.search.split(/[?&]/); 	for (i = 0; i < a_pairs.length; i ++) { 		 		a_bits = a_pairs[i].split('='); 		if ((a_bits.length == 2) && (a_bits[0].length)) { 			if (args[a_bits[0]] == undefined) { 				 				args[a_bits[0]] = unescape(a_bits[1]); 			} else { 				 				args[a_bits[0]] = args[a_bits[0]] + ',' + unescape(a_bits[1]); 			} 		} 	}  	return args; }  function GetCampaign() { 	var urlvars = GetURLVars(); 	var campaignSrc; 	if (typeof(urlvars.campaign) != 'undefined') { 		campaignSrc = urlvars.campaign; 	} else { 		campaignSrc =""; 	} 	return campaignSrc; }   var s_account; s_account = s_account || "mgntrinitymirroraggregate,tmr-icwales"; //--> </p>
+<p> <!--  var pageName = "icwales2/News/Wales News"   if (typeof startLoadTime != 'undefined') { 	var endLoadTime = (new Date()).getTime(); 	var totalLoadTime = Math.round((endLoadTime - startLoadTime) / 100) /10; } else { 	var totalLoadTime = 0; }   s.channel="News"; s.pageType=""; s.prop1="News|Wales News"; s.prop2=""; s.prop3=""; s.prop4="";   s.prop5 = "icwales2"; try { 	var omnitureSitename = ( 		(typeof getCookieVal == 'undefined')?getCookie:getCookieVal 	)('brandingheader_site_name'); 	if (omnitureSitename) s.prop5 = omnitureSitename; } catch(e) { 	 }  s.prop9="page.cfm" s.prop10="29949634" s.prop11="" s.prop12="" s.prop13="" s.prop14=GetCampaign(); s.prop16="Wales" s.prop18="News" s.prop19="29949634" s.prop21="Wales-WME" s.prop24="" s.prop27 = totalLoadTime s.prop30="article"  s.hier1="icwales2|News|Wales News"   s.campaign=s.prop14 s.state="" s.zip="" s.products="" s.purchaseID="" var eVar1Val="" var eVar2Val="" var eVar3Val="" var eVar4Val="" var eventsList=""  s.prop15="icwales2_supermarkets-could-face-1-000-fines-for-failing-to-display-food-hygiene-scores" s.prop22=s.prop23="" if (typeof(statsPageProps)!='undefined'){ 	if (typeof(statsPageProps.productCode)!='undefined')s.products=';'+statsPageProps.productCode 	if (typeof(statsPageProps.jobSearchLocation)!='undefined')eVar3Val=statsPageProps.jobSearchLocation 	if (typeof(statsPageProps.jobSearchIndustry)!='undefined')eVar4Val=statsPageProps.jobSearchIndustry 	eventsList=statsPageProps.eventsList 	if (typeof(statsPageProps.videoTitle)!='undefined'){ 		eVar2Val=s.prop23=statsPageProps.videoTitle; 	 	} 	/* override props if defined from header var statsPageProps */ 	if (typeof(statsPageProps.path1) != 'undefined') { 			s.prop1 = statsPageProps.path1; 	} 	if (typeof(statsPageProps.path2) != 'undefined') { 			s.prop2 = statsPageProps.path2; 	} 	if (typeof(statsPageProps.path3) != 'undefined') { 			s.prop3 = statsPageProps.path3; 	} 	if (typeof(statsPageProps.siteName) != 'undefined') { 			s.prop5 = statsPageProps.siteName; 	} 	if (typeof(statsPageProps.region) != 'undefined') { 		s.prop16 = statsPageProps.region; 	} 	if (typeof(statsPageProps.itemTitle) != 'undefined') { 		s.prop19 = statsPageProps.itemTitle; 	} 	if (typeof(statsPageProps.publishingGroup) != 'undefined') { 		s.prop21 = statsPageProps.publishingGroup; 	} 	if (typeof(statsPageProps.channel) != 'undefined') { 		s.channel = statsPageProps.channel; 	} 	if (typeof(statsPageProps.classifiedCategory) != 'undefined') { 		statsClassifiedCategory = statsPageProps.classifiedCategory; 	} 	if (typeof(statsPageProps.contentCategory) != 'undefined') { 		statsContentCategory = statsPageProps.contentCategory; 	}  	 	if (typeof(statsPageProps.moleBusinessName) != 'undefined') { 		s.prop26='Mole-Enquiry'; 		s.eVar7=statsPageProps.moleBusinessName; 	}  	// in case the kyte video starts playing before s is defined, then the event will be sent here 	if (typeof(statsPageProps.kyteEvent) != 'undefined') { 		eventsList += (eventsList ? ',' : '') + statsPageProps.kyteEvent; 	}  	// for image gallery kyte shows 	if (typeof(statsPageProps.galleryName) != 'undefined') { 		s.prop35=statsPageProps.galleryName; 		s.eVar12=statsPageProps.galleryName; 	} 	 	// for offers flyout 	if (typeof(statsPageProps.flyout) != 'undefined') { 		s.prop36 = statsPageProps.flyout; 	} }      s.events=eventsList s.eVar1=eVar1Val s.eVar2=eVar2Val s.eVar3=eVar3Val s.eVar4=eVar4Val s.eVar5=""   s.pageName = setOmniturePageName(pageName); if (typeof(statsPageProps)!='undefined' && typeof(statsPageProps.pageNameSuffix)!='undefined') { 	s.pageName += statsPageProps.pageNameSuffix; // adds a suffix if present on page. }  if (typeof(statsClassifiedCategory) != "undefined") { 	 	s.prop4 = statsClassifiedCategory; 	 	s.prop18 = s.prop18 || statsClassifiedCategory; } if (typeof(statsContentCategory) != "undefined") { 	s.prop18 = statsContentCategory; }  if (s.prop4 != "" && s.prop5 != "") s.prop12 = s.prop5 + "_" + s.prop4; if (s.prop4 != "" && s.prop16 != "") s.prop17 = s.prop16 + "_" + s.prop4; var s_code=s.t();if(s_code)document.write(s_code);   var puffLinks = $('*[type=puff] a'); //Add click event puffLinks.click(function(){ 	//get object id 	var parentEl = $(this); 	var objectId = ""; 	var containerName = ""; 	 	//We want to find the content object on the page. 	do { 		parentEl = parentEl.parent(); 	} while (parentEl &&  			!parentEl.attr('tagName').toLowerCase().match(/(tm:)?contentobject/));  	if (!parentEl) { 		tm.logger.error(['Puff Tracking:', 'No parent tm:contentobject tag'], OMNI_DEBUG_LEVEL); 		return !tm.logger.enabled; //if debug mode don't follow link 	} else { 		objectId = parentEl.attr('objectid'); 	} 	 	// So we now have the content object we are looking for - we continue on up the tree 	// to get the name of the container holding it. 	do { 		parentEl = parentEl.parent(); 	} while (parentEl &&  			!parentEl.attr('tagName').toLowerCase().match(/(tm:)?container/) );  	if (!parentEl) { 		tm.logger.error(['Puff Tracking:', 'no parent tm:container tag'], OMNI_DEBUG_LEVEL); 		return !tm.logger.enabled; //if debug mode don't follow link 	} else { 		containerName = parentEl.attr('name'); 	}  	tm.logger.debug(['Puff Tracking:', 'objectId:', objectId,  			'containerName:', containerName, parentEl ], OMNI_DEBUG_LEVEL);  	s.eVar13 = s.pageName + '-' + containerName + '-' + objectId; 	s.events = 'event17'; 	s.t(); 	 	tm.logger.info(['Puff Tracking:', 'Omniture event sent' ], OMNI_DEBUG_LEVEL);  	return tm.logger.debugLevel != OMNI_DEBUG_LEVEL; //if debug mode don't follow link }); //Log to console if required. tm.logger.debug( [ 'Puff Tracking: Links', puffLinks ], OMNI_DEBUG_LEVEL );     //--> </p>
+<p> <!-- if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-') //--> </p>
+<p> //<![CDATA[ 	 	if (typeof displayTopAds == 'function') {displayTopAds();}  	 	if (tm.defer) {tm.defer.renderDeferred();} 		//]]> </p>
+<p> //<![CDATA[   if (typeof dartOrd == 'undefined') dartOrd=Math.random()*10000000000000000000; if (typeof tm.zones == 'undefined') {tm.zones = "";}   document.write('<scr' + 	'ipt type="text/javascript" ' +  'src="http://ad.uk.doubleclick.net/adj/icwales2.5293/' +  'news;slot=contextual;cat=News;sz=1x1' + tm.zones  +  ';' + (typeof segQS != "undefined" ? segQS:"" ) +  ';ord=' +  dartOrd +    '?"><\/scr' +  'ipt>');   				//]]> </p>
+<p> //<![CDATA[ 						tm.siteLife.daapi.post(); 					//]]> </p>
+<p> //<![CDATA[ 						tm.removeUnwantedDivs(); 					//]]> </p>

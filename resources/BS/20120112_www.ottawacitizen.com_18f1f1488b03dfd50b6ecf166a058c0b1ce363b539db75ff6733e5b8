@@ -1,0 +1,754 @@
+<p> JANRAIN.SSO.CAPTURE.check_login({ 		sso_server: 'https://sso.canada.com', 		client_id: 'vmy3xyw9g86txxqnps3a8fjv2xuthvfx', 		redirect_uri: 'http://'+window.location.hostname+'/scripts/sso/postlogin.ashx', 		logout_uri: 'http://'+window.location.hostname+'/scripts/sso/logout.ashx?type=providers', 		xd_receiver: 'http://'+window.location.hostname+'/xdcomm.html' 	}); </p>
+<p> CDMScriptManager.load('/js/jquery-1.2.6.min.js'); 	CDMScriptManager.load('/js/slider.js'); </p>
+<p> CDMScriptManager.load('/js/pluck/pluckLocal.js'); </p>
+<p> CDMScriptManager.load(pluckScriptUrl);      CDMScriptManager.load('/js/pluck/pluck.js'); </p>
+<p> .pluck-comm .pluck-user-persona { 			display: block !important; 		} </p>
+<p> It's time to tone down tanning </p>
+<p> #leaderboard { text-align:right } #leaderboard .ad { text-align:right } </p>
+<p> function getCookies() { return ""; } </p>
+<p> Array.prototype.uniqueAry = function ()                         {                             var r = new Array();                             o:for(var i = 0, n = this.length; i < n; i++)                             {                                 for(var x = 0, y = r.length; x < y; x++)                                 {                                     if(r[x]==this[i])                                     {                                         continue o;                                     }                                 }                                 r[r.length] = this[i];                             }                             return r;                         }                          function getCookie(cookieName)                         {                             var dc = document.cookie;                              //load external cookies from .canada.com if not currently on .canada.com                             if (location.hostname.match(/\.canada\.com$/gi) == null)                                 dc += ";" + getCookies(); //append to existing document cookie                              var cookie_str = ""; //this string will contain the value of the cookie name                             var needle = "[A-Za-z0-9_-]*" + cookieName + "[A-Za-z0-9_-]*=[^;]+";                             var regex = new RegExp(needle, "gi");                             var matches = dc.match(regex);                             if (matches != null)                             {                                 for (var x = 0; x < matches.length; x++)                                     matches[x] = matches[x].substring(matches[x].indexOf("=")+1).replace(new RegExp("[\\s]+$", "g"), ""); //remove keyname prefix and trim                                 cookie_str = matches.join(",");                                 matches = cookie_str.split(",");                                 matches = matches.uniqueAry(); //remove duplicates                                 cookie_str = matches.join(";") + ";";                             }                             return unescape(cookie_str);                         }                          function getAdCookie()                         {                             return getCookie("adcookie");                         }                          function setSurroundCookie(value)                         {                             document.cookie = "surroundId=" + escape(value) + "; path=/";                         }                          function getSurroundCookie()                         {                             var dc = document.cookie;                             var prefix = "surroundId=";                             var begin = dc.indexOf("; " + prefix);                             if (begin == -1)                             {                                 begin = dc.indexOf(prefix);                                 if (begin != 0) return null;                             }                             else                             {                                 begin += 2;                             }                             var end = document.cookie.indexOf(";", begin);                             if (end == -1) end = dc.length;                             return unescape(dc.substring(begin + prefix.length, end));                         }                          // Setup for surround session.                         var adid = ""; // used in the ad to start a surround session                         var surroundTag = getSurroundCookie(); // Get surround session id from the cookie                         if(surroundTag == null) // check if there was a surround session id in the cookie                         {                             surroundTag = "";                         }                         else                         {                             surroundTag = "srnd="+surroundTag+";"; // finish setting up the key-value for the ad tags                         }                          //Setup for adcookie.                         var adcookieTag = getAdCookie(); // Get the ad cookie string </p>
+<p> adcookieTag = typeof(adcookieTag) != 'undefined' ? adcookieTag : '';                         dartad_tile = typeof(dartad_tile) != 'undefined' ? dartad_tile + 1 : 1;                         var dartad_url = "http://ad.ca.doubleclick.net/N3081/adj/oc_bh.com/health/story;loc=theTop;loc=top;sz=468x60,728x90;dcopt=ist;kw=ron;kw=health;nk=print;pr=oc;ck=health;page=story;kw=oc;tile="+dartad_tile+";"+adcookieTag+surroundTag+"ord=61521012?"; // script ad code with adcookie, used for debug                         document.write('<script language="JavaScript1.1" src="http://ad.ca.doubleclick.net/N3081/adj/oc_bh.com/health/story;loc=theTop;loc=top;sz=468x60,728x90;dcopt=ist;kw=ron;kw=health;nk=print;pr=oc;ck=health;page=story;kw=oc;tile='+dartad_tile+';'+adcookieTag+surroundTag+'ord=61521012?"><\/script>'); </p>
+<p> if(adid != "") // check if the ad should start a surround session only if a surround session has not yet started                         {                             surroundTag = "srnd="+adid+";"; // setup the key-value for a surround session                             setSurroundCookie(adid); // store the surround session id in a cookie.                         } </p>
+<p> Â </p>
+<p> Â </p>
+<p> Weather Centre </p>
+<p> Â </p>
+<p> Â </p>
+<p> Â </p>
+<p> -9°C </p>
+<p> Â </p>
+<p> Light snow </p>
+<p> Ottawa </p>
+<p> Detailed Forecast </p>
+<p> Â </p>
+<p> Start Home Delivery </p>
+<p> Subscriber Services </p>
+<p> Digital Edition </p>
+<p> Email Alerts </p>
+<p> Mobile Products </p>
+<p> canada.com network </p>
+<p> Newspapers </p>
+<p> National Post </p>
+<p> Victoria Times Colonist </p>
+<p> The Province (Vancouver) </p>
+<p> Vancouver Sun </p>
+<p> Edmonton Journal </p>
+<p> Calgary Herald </p>
+<p> Regina Leader-Post </p>
+<p> Saskatoon StarPhoenix </p>
+<p> Windsor Star </p>
+<p> Ottawa Citizen </p>
+<p> The Gazette (Montreal) </p>
+<p> DOSE </p>
+<p> Postmedia Community Publishing </p>
+<p> Nanaimo Daily News </p>
+<p> function handlePostLogin() { 		// change the login status bar to reflect a logged in state 		jQuery.getScript("http://"+window.location.hostname+"/scripts/sso/user.ashx?format=json&callback=renderLoginStatusBar");  		if((window.location+"").indexOf("/members/account-verified.html") > -1 || (window.location+"").indexOf("/members/cancel-deletion.html") > -1 || (window.location+"").indexOf("/members/reset-password-complete.html") > -1) window.location="/index.html"; 		else window.location.reload(); 	}  	function handlePostLogout() { 		// change the login status bar to reflect a logged out state 		jQuery.getScript("http://"+window.location.hostname+"/scripts/sso/user.ashx?format=json&callback=renderLoginStatusBar"); 		 		if((window.location+"").indexOf("edit-profile.html") > -1) window.location="/index.html"; 		else window.location.reload(); 	}  	function dologout() { 		// create the hidden logout iframe 		var src = 'http://'+window.location.hostname+'/scripts/sso/logout.ashx?iframe=true'; 		jQuery('<iframe id="iframe_logout" style="visibility:hidden;display:none" frameborder="0" hspace="0" scrolling="no" src="' + src + '"></iframe>').appendTo('body'); 	}  	function renderLoginStatusBar(user) { 		var user = user.User; 		var statusBarHtml = "";  		if (user.IsLoggedIn) { 			statusBarHtml += "<ul>"; 			statusBarHtml += "	<li>Hi " + user.DisplayName + "</li>"; 			statusBarHtml += " " + profileLink; 			statusBarHtml += "	<li><a href=\"javascript:dologout();\">Sign Out</a></li>"; 			statusBarHtml += "</ul>"; 		} 		else { 			statusBarHtml += "<ul>"; 			statusBarHtml += "	<li><a href=\"javascript:light.mask(jQuery('body'),light.getHtml('user_reg_internal_1t'));\">Log in</a></li>"; 			statusBarHtml += "	<li><a href=\"javascript:light.mask(jQuery('body'),light.getHtml('user_reg_internal_1t'));\">Register</a></li>"; 			statusBarHtml += "</ul>"; 		} 		document.getElementById("loginstatusbarchild").innerHTML = statusBarHtml; 	} </p>
+<p> jQuery.getScript("http://"+window.location.hostname+"/scripts/sso/user.ashx?format=json&callback=renderLoginStatusBar"); </p>
+<p> Ottawa Citizen </p>
+<p> Division of Canwest Publishing Inc. </p>
+<p> Â </p>
+<p> Â </p>
+<p> Weather Centre </p>
+<p> Â </p>
+<p> Â </p>
+<p> Â </p>
+<p> -9°C </p>
+<p> Â </p>
+<p> Light snow </p>
+<p> Ottawa </p>
+<p> Detailed Forecast </p>
+<p> Â </p>
+<p> Quick Links: </p>
+<p> Shopping </p>
+<p> , </p>
+<p> Obituaries </p>
+<p> , </p>
+<p> Horoscopes </p>
+<p> Search </p>
+<p> YellowPages </p>
+<p> Find a business or person on: </p>
+<p> CDMScriptManager.load("http://www.ottawacitizen.com/js/autocomplete/jquery.autocomplete.min.js"); </p>
+<p> function doSearch() { 				var q = document.getElementById("q").value.replace(/[^0-9a-zA-Z\s*]/g,""); 				q = q.replace(/ /g,"+"); 				if (q.length == 0) { 					alert("Please enter your search criteria"); 					return; 				} 				var dname = document.domain;  				if ( dname=="driving.ca") { 					document.location.href="http://www.driving.ca/ottawa/search/search.html?q=" + escape(q); 					} 				else { 					document.location.href="http://www.ottawacitizen.com/search/search.html?q=" + escape(q); 				} 			} 			//FAST WAVE 1 			//add javascript to hook up search text box in header 			//set up autocomplete on search box in header			 			jQuery(document).ready(function() { 				jQuery("#q").autocomplete("http://app.canada.com/search/search.svc/autocomplete", { 					dataType: 'jsonp', 					parse: function(data) { 						var rows = new Array(); 						data = data.Terms; 						for(var i=0; i<data.length; i++){ 							rows[i] = { data:{Term:data[i]}, value:data[i], result:data[i] }; 						} 						return rows; 					}, 					resultsClass: "fast_wave_results", 					formatItem: function(row, i, n) { 						return  row.Term; 					}, 					cacheLength: 0, 					extraParams: { 						format: "json" 					}, 					minChars: 1, 					max: 10, 					highlight: function(value, term) { 						var pos = value.toLowerCase().indexOf(term.toLowerCase()); 						return (pos > 0)?"<b>" + value.substring(0,pos) + "</b>" + value.substring(pos, term.length) + "<b>" + value.substring(pos + term.length) + "</b>":value.substring(0, term.length) + "<b>" + value.substring(pos + term.length) + "</b>"; 					}, 					scroll: false, 					selectFirst: false 				});  			}); </p>
+<p> Home </p>
+<p> News </p>
+<p> In News </p>
+<p> Home </p>
+<p> Ottawa & Area </p>
+<p> Canada </p>
+<p> World </p>
+<p> The Blotter </p>
+<p> Weather </p>
+<p> Today's Paper & Archive </p>
+<p> Around Town </p>
+<p> Diplomatica </p>
+<p> Ottawa & Area </p>
+<p> Â </p>
+<p> Chelsea mother facing murder charge attempts suicide... </p>
+<p> Â </p>
+<p> Â </p>
+<p> The Sûreté du Québec has been called into investigate after a Chelsea mother charged in the death of her seven-year-old daughter attempted suicide in the Hull Detention Centre early Wednesday... </p>
+<p> Â </p>
+<p> Chelsea mom fit for trial in daughter's death, court rules </p>
+<p> Photo Gallery </p>
+<p> Â </p>
+<p> Video, Photos: Winterlude Snow Making </p>
+<p> Smoker told to move to the back of the bus </p>
+<p> Records show depth of anger over bus route changes at General hospital campus </p>
+<p> Mother warns of lax Internet security at Nepean high school </p>
+<p> Four teens arrested in connection with Gatineau bridge fire </p>
+<p> Blogs </p>
+<p> Opinion </p>
+<p> Â </p>
+<p> The Bulldog </p>
+<p> Greater Ottawa </p>
+<p> Omnivore's Ottawa </p>
+<p> The Ed Board </p>
+<p> Campus </p>
+<p> More in News </p>
+<p> Opinion </p>
+<p> In Opinion </p>
+<p> Home </p>
+<p> Letters </p>
+<p> Columnists </p>
+<p> Editorials </p>
+<p> Op-Ed </p>
+<p> Blogs </p>
+<p> Submit Letters </p>
+<p> Editorials </p>
+<p> Â </p>
+<p> Hands off, please </p>
+<p> Â </p>
+<p> Roy Romanow says the federal government’s hands-off approach to health care will lead to provincial experimentation and a greater role for the private sector. To which we can only say: yes, please... </p>
+<p> Â </p>
+<p> Editorial </p>
+<p> Â </p>
+<p> Tax credits offer little value </p>
+<p> Intensification is a fact of life </p>
+<p> Two sides to a story </p>
+<p> The cityâs loss </p>
+<p> Liberals have a long road back </p>
+<p> Not just a trim will do </p>
+<p> Blogs </p>
+<p> The Ed Board </p>
+<p> The Bulldog </p>
+<p> Ideas and Consequences </p>
+<p> More in Opinion </p>
+<p> Business </p>
+<p> In Business </p>
+<p> Home </p>
+<p> Money </p>
+<p> Markets on FP </p>
+<p> Top Stories </p>
+<p> Â </p>
+<p> Specialty products drive paper industry </p>
+<p> Â </p>
+<p> Â </p>
+<p> Glatfelter Gatineau Ltée flipped the switch this week on a new, $9-million production line that doubles the mill’s output of high-absorbency paper used in adult diapers, tampons and similar... </p>
+<p> Â </p>
+<p> Video: Glatfelter opening </p>
+<p> Immigration </p>
+<p> Â </p>
+<p> Fisher: Canada should target talented, unemployed Europeans </p>
+<p> Skyscraper boom bad news, bank says </p>
+<p> St. John's goes from leader to laggard </p>
+<p> DragonWave tech firm reports $8-million loss </p>
+<p> Money </p>
+<p> Â </p>
+<p> Are you an American in Canada thinking of... </p>
+<p> Gift card: Use it before you lose it </p>
+<p> The five biggest pitfalls to staying rich... </p>
+<p> More in Business </p>
+<p> Sports </p>
+<p> In Sports </p>
+<p> Home </p>
+<p> Hockey </p>
+<p> Senators Extra </p>
+<p> Football </p>
+<p> Baseball </p>
+<p> Basketball </p>
+<p> Golf </p>
+<p> Auto Racing </p>
+<p> High School Sports </p>
+<p> Tennis </p>
+<p> Soccer </p>
+<p> Top Stories </p>
+<p> Â </p>
+<p> Mysteries surround comatose skier Sarah Burke </p>
+<p> Â </p>
+<p> Â </p>
+<p> Whistler freestyle skiing pioneer Sarah Burke remained in an induced coma Wednesday, one day after suffering a severe injury during a training run at Park City Mountain Resort in Utah. </p>
+<p> Â </p>
+<p> Freestyle skiing pioneer fought for sport at  Olympics </p>
+<p> Canadian freestyle skier Sarah Burke in coma after fall </p>
+<p> Skier Burke in induced coma after crash </p>
+<p> Bleacher Report: Sarah Burke's rall shocks ski community </p>
+<p> Crash </p>
+<p> Â </p>
+<p> Photos: Sarah Burke </p>
+<p> Players wary of potential trades that could mess with room </p>
+<p> Senators prediction panel: Game 45 </p>
+<p> MacLean downplays Karlsson's injury </p>
+<p> Cole: Rats No. 1 on the list in NHL at the half </p>
+<p> This Week in the CCHL: Strictly business </p>
+<p> NFL picks: Tebow's time up in New England </p>
+<p> Crosby back on blades this week: coach </p>
+<p> Sports Blogs </p>
+<p> Sports 		   Â Â» </p>
+<p> Â </p>
+<p> SenatorsExtra </p>
+<p> Scouring the Sidelines </p>
+<p> The Beautiful Game </p>
+<p> Par for the Course </p>
+<p> More in Sports </p>
+<p> Arts </p>
+<p> In Arts </p>
+<p> Home </p>
+<p> Movies </p>
+<p> Television </p>
+<p> Event Listings </p>
+<p> TV Listings </p>
+<p> Music </p>
+<p> Books </p>
+<p> Celebrity </p>
+<p> Capital Cappies </p>
+<p> The Playlist </p>
+<p> Top Stories </p>
+<p> Â </p>
+<p> Harry Potter, Katy Perry big People's Choice winners </p>
+<p> Â </p>
+<p> Â </p>
+<p> Emma Stone was the first winner of the night, picking up trophies for favourite movie actress and favourite comedic movie actress. </p>
+<p> Â </p>
+<p> Photos: People's Choice Awards </p>
+<p> Dose.ca: Best and worst People's Choice moments </p>
+<p> Katy Perry exits show after split from Brand </p>
+<p> People's Choice Awards </p>
+<p> Â </p>
+<p> Photos: People's Choice Awards </p>
+<p> A bolt from the blue </p>
+<p> Concert Preview: The amiable avant-gardist </p>
+<p> Concert preview: Finding the good in goodbye </p>
+<p> Fun with movie stars </p>
+<p> How The Finder was found </p>
+<p> Arts Blogs </p>
+<p> The Big Beat </p>
+<p> Classical Ottawa </p>
+<p> Jazzblog.ca </p>
+<p> Sax and the City </p>
+<p> More in Arts </p>
+<p> Life </p>
+<p> In Life </p>
+<p> Home </p>
+<p> Real Deal </p>
+<p> Health </p>
+<p> Fashion & Beauty </p>
+<p> Food & Wine </p>
+<p> Parenting </p>
+<p> Relationships </p>
+<p> CitizenCycle </p>
+<p> Faith & Ethics </p>
+<p> World of Birds </p>
+<p> Life Story </p>
+<p> Diversions - Comics & Games </p>
+<p> Top Stories </p>
+<p> Â </p>
+<p> A bolt from the blue </p>
+<p> Â </p>
+<p> Â </p>
+<p> Baroness Thatcher, the three-term British prime minister — the first and to date only woman elected to that post — had a political career that stretched from 1959 to 1990. </p>
+<p> Â </p>
+<p> IBS </p>
+<p> Â </p>
+<p> Study takes aim at bowel disease </p>
+<p> Internet addiction becomes more than a buzzword </p>
+<p> Environmental groups raise alarm over Alaska salmon practices </p>
+<p> Even minimal exercise reduces heart attack risk: study </p>
+<p> Stroke risk doubles if heart quivers, study finds </p>
+<p> Frequent red meat eaters at higher risk of stroke </p>
+<p> Breastfeeding mom takes on Facebook nudity policy </p>
+<p> Life Blogs </p>
+<p> Adventures of a Working Mom </p>
+<p> Omnivore's Ottawa </p>
+<p> Real Deal </p>
+<p> More in Life </p>
+<p> Technology </p>
+<p> In Technology </p>
+<p> Home </p>
+<p> Personal Tech </p>
+<p> Gaming </p>
+<p> Tech-Biz </p>
+<p> Internet </p>
+<p> Environment </p>
+<p> Space </p>
+<p> Science </p>
+<p> Best of YouTube </p>
+<p> Top Stories </p>
+<p> Â </p>
+<p> Doomsday clock ticks closer to midnight </p>
+<p> Â </p>
+<p> Â </p>
+<p> Global uncertainty on how to deal with the threats of nuclear weapons and climate change have forced the "Doomsday clock" one minute closer to midnight, leading international scientists said. </p>
+<p> Â </p>
+<p> Follow canada.com Tech on Twitter </p>
+<p> Our culture is obsessed by apocalypse </p>
+<p> The climate change alarmists need to get their own doomsday symbol </p>
+<p> Cold comfort as ice age delayed 1,500 years </p>
+<p> A front-row seat for the apocalypse in 2012 </p>
+<p> Dion calls for better green policies </p>
+<p> Fidel Castro warns of climate change, nuclear war </p>
+<p> CES 2012 </p>
+<p> Â </p>
+<p> Gallery: CES 2012 in Las Vegas </p>
+<p> CES 2012: The AVN Porn sideshow </p>
+<p> CES 2012: Microsoft's monster bash lacked substance </p>
+<p> Google search goes social </p>
+<p> Extinct Galapagos turtle may be alive </p>
+<p> Are Canada's digital laws unconstitutional? </p>
+<p> BlackBerry not hot at CES </p>
+<p> Science </p>
+<p> Galapagos Turtle </p>
+<p> Â </p>
+<p> Extinct Galapagos turtle may be alive </p>
+<p> Possible lost world found in Lake Huron </p>
+<p> New Super Soldier ants created by McGill </p>
+<p> First genetically modified monkeys born in U.S </p>
+<p> More in Technology </p>
+<p> Travel </p>
+<p> In Travel </p>
+<p> Home </p>
+<p> Trip Ideas </p>
+<p> Tools & Tips </p>
+<p> Community </p>
+<p> Destination Guides </p>
+<p> Top Stories </p>
+<p> Â </p>
+<p> Strong winds forcing flights to divert to Atlantic Canada </p>
+<p> Â </p>
+<p> Â </p>
+<p> A U.S. airline has been forced to make frequent unscheduled stops in Atlantic Canada recently while en route to the United States from Europe due to unusually strong winds interfering with the planes' ... </p>
+<p> Â </p>
+<p> Sports </p>
+<p> Â </p>
+<p> Thousands sign on to petition protesting Jasper trail observation deck </p>
+<p> New rules require airlines in the U.S. to show fees with fares </p>
+<p> Hotel room service speeds up </p>
+<p> Fears for tourism as Egypt Islamists verge on victory </p>
+<p> Photo Galleries </p>
+<p> Â </p>
+<p> Travel Photo of the Day </p>
+<p> Photo Gallery: Life in Myanmar's capital </p>
+<p> Photo Gallery: China's lunar new year migration begins... </p>
+<p> Photo Gallery: The 13th annual Harbin Ice and Snow... </p>
+<p> More in Travel </p>
+<p> Health </p>
+<p> Health </p>
+<p> Home </p>
+<p> Women </p>
+<p> Men </p>
+<p> Family & Child </p>
+<p> Seniors </p>
+<p> Sexual Health </p>
+<p> Diet & Fitness </p>
+<p> Editor's Picks </p>
+<p> Â </p>
+<p> Give free booze to addicts, advocates say </p>
+<p> Â </p>
+<p> Â </p>
+<p> Rob Morgan says when you wake up after getting drunk on hand sanitizer it feels like your kidney is bulging out of your body. </p>
+<p> Â </p>
+<p> Higher alcohol prices may curb drinking: Study </p>
+<p> Yaffe: $600K spent in bid to close injection site underscores Tory stubbornness </p>
+<p> Free crack pipes handed out to Vancouver addicts </p>
+<p> T.O. health outreach handing out overdose 'kits' </p>
+<p> Stroke risk </p>
+<p> Â </p>
+<p> Frequent red meat eaters at higher risk of stroke </p>
+<p> Hospital rooms may be nearly as noisy as chainsaws </p>
+<p> Jobs </p>
+<p> In Jobs </p>
+<p> Home </p>
+<p> Search Jobs </p>
+<p> Resources </p>
+<p> Post Jobs </p>
+<p> Jobseekers </p>
+<p> Employer Login </p>
+<p> Top Employers </p>
+<p> Top Stories </p>
+<p> Â </p>
+<p> Gratitude can bring workplace perspective </p>
+<p> Â </p>
+<p> Â </p>
+<p> Feeling appreciation internally is wonderful, and expressing it outward is a gift to others. </p>
+<p> Â </p>
+<p> Find a job! </p>
+<p> Winning workplaces cultivate trust, contest shows </p>
+<p> Finding perfect job starts with knowing what you want </p>
+<p> Workplace wellness plans benefit employees, bosses </p>
+<p> Gotta have a laugh at work: Experts </p>
+<p> Tech Training </p>
+<p> Â </p>
+<p> High-tech training in the developing world </p>
+<p> Align goals with values </p>
+<p> Features </p>
+<p> Criminal Record </p>
+<p> Â </p>
+<p> Balancing a criminal record and a resume </p>
+<p> Lesson learned the hard way </p>
+<p> Employee's life choices, work habits not co-worker... </p>
+<p> Employers, schools aim to head off labour crunch </p>
+<p> More in Jobs </p>
+<p> Cars </p>
+<p> In Cars </p>
+<p> Home </p>
+<p> New </p>
+<p> Used </p>
+<p> Weekly Specials </p>
+<p> Sell </p>
+<p> Research & Compare </p>
+<p> News & Events </p>
+<p> Videos </p>
+<p> Features </p>
+<p> Top Stories </p>
+<p> Â </p>
+<p> GM, German union in talks to restructure Opel </p>
+<p> Â </p>
+<p> Â </p>
+<p> General Motors Co could shift more vehicle production to its European factories in a cost-cutting deal with its German union that could avert a damaging standoff and keep Opel out of bankruptcy. </p>
+<p> Â </p>
+<p> Vehicles to watch for in 2012 </p>
+<p> GM to re-design Volt battery </p>
+<p> Car makers to face tough times unaided </p>
+<p> Detroit hails resurgence of auto industry </p>
+<p> China Autos </p>
+<p> Â </p>
+<p> China 2011 car sales rise at slowest annual pace </p>
+<p> European car makers must consolidate: Fiat CEO </p>
+<p> Speeding Lamborghini sold in wake of BC stunt </p>
+<p> Mercedes-Benz 'friends' Facebook </p>
+<p> Lutz: 'Car guys regaining control' </p>
+<p> Online service unites parking spaces with drivers </p>
+<p> GM makes changes to Volt </p>
+<p> Flashy new rich driving India's luxury-car boom </p>
+<p> Features </p>
+<p> Toyota Tacoma </p>
+<p> Â </p>
+<p> Winter Diary, 2012 Toyota Tacoma V6 </p>
+<p> Auto Shows </p>
+<p> 2012 New Model Preview </p>
+<p> Special: Driver Education </p>
+<p> Winter driving guide </p>
+<p> More in Cars </p>
+<p> Homes </p>
+<p> In Homes </p>
+<p> Home </p>
+<p> For Sale/Rent </p>
+<p> Real Estate Advice </p>
+<p> Renovating </p>
+<p> Decorating </p>
+<p> Gardening </p>
+<p> Vacation Homes </p>
+<p> Mike Holmes </p>
+<p> Top Stories </p>
+<p> Â </p>
+<p> Trends for 2012 </p>
+<p> Â </p>
+<p> Â </p>
+<p> Smaller houses? Bigger condos? The death of chocolate brown kitchen cabinetry and the triumph of tangy tangerine wallpaper? We chat up experts near and far for what to expect on the home front in 2012... </p>
+<p> Â </p>
+<p> Gardening trends for 2012 </p>
+<p> Â </p>
+<p> Gardening trends for 2012 </p>
+<p> Forgotten beauty </p>
+<p> Open sesame </p>
+<p> Itâs wants versus needs in Baeumlerâs new show </p>
+<p> Redefining cosy </p>
+<p> Marketplace: Cocooning from the cold </p>
+<p> Mike Holmes: Donât ignore smells that can spell danger </p>
+<p> Steve Maxwell: Wrapped profiles a convincing substitute for real wood </p>
+<p> Container gardening in winter </p>
+<p> Six tips to help you stay warm this winter </p>
+<p> Ottawa Condos </p>
+<p> Â </p>
+<p> Simple, safe heaters for outdoor spaces </p>
+<p> New on the street: Three in one </p>
+<p> Low-rise project is a sign of the times </p>
+<p> Following the trend </p>
+<p> Soaring to new heights </p>
+<p> More in Homes </p>
+<p> Classifieds </p>
+<p> In Classifieds </p>
+<p> Home </p>
+<p> Personals </p>
+<p> Obituaries </p>
+<p> Announcements </p>
+<p> Vehicles </p>
+<p> Real Estate </p>
+<p> Rentals </p>
+<p> Jobs </p>
+<p> Pets </p>
+<p> For Sale </p>
+<p> Shopping </p>
+<p> Place an Ad </p>
+<p> FlyerCity </p>
+<p> Top Stories </p>
+<p> Â </p>
+<p> GM, German union in talks to restructure Opel </p>
+<p> Â </p>
+<p> Â </p>
+<p> General Motors Co could shift more vehicle production to its European factories in a cost-cutting deal with its German union that could avert a damaging standoff and keep Opel out of bankruptcy. </p>
+<p> Â </p>
+<p> Vehicles to watch for in 2012 </p>
+<p> GM to re-design Volt battery </p>
+<p> Car makers to face tough times unaided </p>
+<p> Detroit hails resurgence of auto industry </p>
+<p> China Autos </p>
+<p> Â </p>
+<p> China 2011 car sales rise at slowest annual pace </p>
+<p> European car makers must consolidate: Fiat CEO </p>
+<p> Speeding Lamborghini sold in wake of BC stunt </p>
+<p> Mercedes-Benz 'friends' Facebook </p>
+<p> Lutz: 'Car guys regaining control' </p>
+<p> Online service unites parking spaces with drivers </p>
+<p> GM makes changes to Volt </p>
+<p> Features </p>
+<p> Â </p>
+<p> Land Commercial (Oodle) </p>
+<p> For Sale or Lease (Ottawa Citizen) </p>
+<p> More in Classifieds </p>
+<p> Don't miss: </p>
+<p> The Gift </p>
+<p> Style Magazine </p>
+<p> Weather Watch </p>
+<p> Blogs </p>
+<p> Videos </p>
+<p> Reader Galleries </p>
+<p> Photo galleries </p>
+<p> This Week's Flyers </p>
+<p> Â </p>
+<p> Â» </p>
+<p> RSS </p>
+<p> adcookieTag = typeof(adcookieTag) != 'undefined' ? adcookieTag : '';                         dartad_tile = typeof(dartad_tile) != 'undefined' ? dartad_tile + 1 : 1;                         var dartad_url = "http://ad.ca.doubleclick.net/N3081/adj/ottawacitizen.com/health/story;loc=top;sz=960x42;kw=ron;kw=health;nk=print;pr=oc;ck=health;page=story;kw=oc;tile="+dartad_tile+";"+adcookieTag+surroundTag+"ord=61521012?"; // script ad code with adcookie, used for debug                         document.write('<script language="JavaScript1.1" src="http://ad.ca.doubleclick.net/N3081/adj/ottawacitizen.com/health/story;loc=top;sz=960x42;kw=ron;kw=health;nk=print;pr=oc;ck=health;page=story;kw=oc;tile='+dartad_tile+';'+adcookieTag+surroundTag+'ord=61521012?"><\/script>'); </p>
+<p> if(adid != "") // check if the ad should start a surround session only if a surround session has not yet started                         {                             surroundTag = "srnd="+adid+";"; // setup the key-value for a surround session                             setSurroundCookie(adid); // store the surround session id in a cookie.                         } </p>
+<p> adcookieTag = typeof(adcookieTag) != 'undefined' ? adcookieTag : '';                         dartad_tile = typeof(dartad_tile) != 'undefined' ? dartad_tile + 1 : 1;                         var dartad_url = "http://ad.ca.doubleclick.net/N3081/adj/ottawacitizen.com/health/story;loc=top;sz=960x42;kw=ron;kw=health;nk=print;pr=oc;ck=health;page=story;kw=oc;tile="+dartad_tile+";"+adcookieTag+surroundTag+"ord=61521012?"; // script ad code with adcookie, used for debug                         document.write('<script language="JavaScript1.1" src="http://ad.ca.doubleclick.net/N3081/adj/ottawacitizen.com/health/story;loc=top;sz=960x42;kw=ron;kw=health;nk=print;pr=oc;ck=health;page=story;kw=oc;tile='+dartad_tile+';'+adcookieTag+surroundTag+'ord=61521012?"><\/script>'); </p>
+<p> if(adid != "") // check if the ad should start a surround session only if a surround session has not yet started                         {                             surroundTag = "srnd="+adid+";"; // setup the key-value for a surround session                             setSurroundCookie(adid); // store the surround session id in a cookie.                         } </p>
+<p> CDMScriptManager.load('/js/SpiderRedirect.js'); </p>
+<p> CDMScriptManager.load('/js/pluck/pluckLocal.js'); 				CDMScriptManager.load('http://pluck.ottawacitizen.com/ver1.0/Direct/DirectProxy'); 				CDMScriptManager.load('/js/pluck/pluck.js');				 				CDMScriptManager.load('/js/adsync/adSyncLibrary.js'); </p>
+<p> if (typeof dartad_url != 'undefined') { 					var dd = adSync.ParseDartAdUrl(dartad_url); 					cwZoneAd=dd["zone"]; 					cwSiteAd =dd["site"]; 					cwKeyAd=dd["keyValues"]; 				}else { 					cwSiteAd = "oc_bh.com"; // plug in the Ad site variable 					cwZoneAd= "health/story"; // plug in the ad zone. 					cwKeyAd="kw=ron;kw=health"; // plug in the Ad key words. 				} </p>
+<p> var addthis_pub = 'canada.com';  				function tabClick(eventText, hasVideo, id, classname, pause,syncAds) 				{	 					//the statsEvent and Ad Refresh have been disabled on the story tab clicks 					//I've left the code in the xsl (just commented out), in case the decision gets reversed. 									 					//omniture event 					//statsEvent(eventText);	 					 					//set tab 					if(hasVideo) 						switchTab(id,classname, pause); 					else 						setClass(id, classname);  					//refresh ads 					//if(syncAds) 						//adSync.TriggerAdSynch(); 				}  				function statsEvent(eventText) 				{ 					//omniture event 					s.prop38=s.pageName + eventText; 					s.events=''; 					void(s.t());				 				}  				function showTab(firstentrytype) 				{ 					var tab = getQueryVar('tab'); 					var tabclass = '';  					if (tab == 'PHOT' || (firstentrytype.indexOf('image/') != -1 && tab == '')) 						tabclass = 'story_photo_content'; 					else if (tab == 'VID' || ((firstentrytype == 'application/vnd.ooyala') && tab == '')) 						tabclass = 'story_video_content'; 					else if (tab == 'FLSH' || (firstentrytype == 'application/x-shockwave-flash' && tab == '')) 						tabclass = 'story_interactive_content';  					if (tabclass != '') 						setClass('storypage', tabclass); 				} 				function EmailThis(qs, emailViewer)  				{ 					var url = "http://" + window.location.hostname + window.location.pathname; 					var id = "";  					id = getQueryVar("id"); 					if (id != "") 					{ 						url = addQS(url, "id=" + id); 					} 					if (qs != "") 					{ 						url = addQS(url, qs); 					} 					if (typeof(emailViewer) == "undefined" || emailViewer == null || emailViewer == "") emailViewer = "/story_emailthis.html"; 					openWindow(emailViewer + '?referrer=' + encodeURIComponent(url), 'StoryEmailThis', 'scrollbars=yes,resizable=yes,width=550,height=380') 				} 				function getQueryVar(key)  				{ 					var qs = window.location.search.substring(1); 					var arrQS = qs.split("&"); 					var value = "";  					for (i=0; i<arrQS.length; i++) { 						var ft = arrQS[i].split("="); 						if (ft[0] == key) { 							value =  ft[1]; 						} 					}  					return value; 				} 				function addQS(theURL, QS) 				{ 					var url = theURL; 					if (QS != '') 					{ 						if (url.indexOf("?") == -1)	{ 							url += "?" + QS; 						}  						else { 							url += "%26amp;" + QS; 						} 					} 					return url; 				} 				function openWindow(theURL, WinName, WinFeatures) { 					window.open(theURL, WinName, WinFeatures); 				} 				function jumpToAnchor(anchor)  				{ 					window.location = String(window.location).replace(/\#.*$/, "") + anchor; 				} 				function showAd(story_elem, ad_elem, ad_wrapper, offset) { 					var eosPos = Y(story_elem); 					var adPos = Y(ad_wrapper); 					var showAd = false; 					var offsetPos = 0; 					 					if (eosPos >= adPos) 					{ 						showAd = true; 					} 					else 					{ 						offsetPos = eosPos + offset; 						if (offsetPos >= adPos) 						{ 							showAd = true; 						} 					}  					// write out ad include 					if (showAd == true) 					{ 					   document.getElementById(ad_elem).style.display = "block";  					} 				}				 				function X(id) { 					var obj = document.getElementById(id); 					var x = obj.offsetLeft  					while (obj = obj.offsetParent) x += obj.offsetLeft 					return x 				} 				function Y(id) { 					var obj = document.getElementById(id); 					var y = obj.offsetTop  					while (obj = obj.offsetParent) y += obj.offsetTop 					return y 				} </p>
+<p> CDMScriptManager.load("http://s9.addthis.com/js/widget.php?v=10"); </p>
+<p> It's time to tone down tanning </p>
+<p> Â </p>
+<p> Salon use linked to melanoma </p>
+<p> Â </p>
+<p> By Joanne Chianello, Ottawa Citizen </p>
+<p> January 12, 2012 </p>
+<p> Â </p>
+<p> Tweet </p>
+<p> stLight.options({ 				publisher:'8f205be9-8545-4fa3-a030-c83238b6a3e5', 				offsetLeft:'-265', 				onhover: false, 				embeds:'true', 		}); </p>
+<p> showTab("text/html"); </p>
+<p> Â </p>
+<p> function resizeImage() { 					var imgBox = document.getElementById('imageBox'); 					var photo = document.getElementById('storyphoto');  					if (imgBox != null && photo != null) 					{ 						if(photo.width >= 460)  						{ 							imgBox.className = 'imagesize460'; 						} 						else  						{ 							if(photo.width >= 300)  							{ 								imgBox.className = 'imagesize310'; 							} 							else  							{ 								imgBox.className = 'imageboxpadding'; 							} 							imgBox.style.width = photo.width + 'px'; 						} 					} 				} 				function getStoryFontSize() { 					var storyfontsize = getCookie('storyfontsize'); 					var storyfontimage = getCookie('storyfontimage');  					// use cookied value, if present 					if (storyfontsize != null) 					{ 						setClass('story_content',storyfontsize);  						if (storyfontimage != null) 						{ 							setClass('fontsizecontainer',storyfontimage);  						} 					} 					else	// default it to para14 if no cookie 					{ 						setClass('story_content','para14');  						setClass('fontsizecontainer','size02'); 					} 				} 				function setStoryFontSize(storyfontsize,storyfontimage) { 					setClass('story_content',storyfontsize);  					setClass('fontsizecontainer',storyfontimage); 					setCookie('storyfontsize', storyfontsize, '365', '/', '', ''); 					setCookie('storyfontimage', storyfontimage, '365', '/', '', ''); 				} 				function setCookie( name, value, expires, path, domain, secure ) { 					// set time 					var today = new Date(); 					today.setTime( today.getTime() );  					if ( expires ) 					{ 						expires = expires * 1000 * 60 * 60 * 24; //days 					} 					var expires_date = new Date( today.getTime() + (expires) );  					document.cookie = name + "=" + escape( value ) + 					( ( expires ) ? ";expires=" + expires_date.toGMTString() : "" ) +  					( ( path ) ? ";path=" + path : "" ) +  					( ( domain ) ? ";domain=" + domain : "" ) + 					( ( secure ) ? ";secure" : "" ); 				} 				function getCookie( check_name ) { 					// split this cookie up into name/value pairs 					var a_all_cookies = document.cookie.split( ';' ); 					var a_temp_cookie = ''; 					var cookie_name = ''; 					var cookie_value = ''; 					var b_cookie_found = false; // set boolean t/f default f 					 					for ( i = 0; i < a_all_cookies.length; i++ ) 					{ 						// split apart each name=value pair 						a_temp_cookie = a_all_cookies[i].split( '=' ); 						 						// and trim left/right whitespace while we're at it 						cookie_name = a_temp_cookie[0].replace(/^\s+|\s+$/g, ''); 					 						// if the extracted name matches passed check_name 						if ( cookie_name == check_name ) 						{ 							b_cookie_found = true; 							// we need to handle case where cookie has no value but exists (no = sign, that is): 							if ( a_temp_cookie.length > 1 ) 							{ 								cookie_value = unescape( a_temp_cookie[1].replace(/^\s+|\s+$/g, '') ); 							} 							// note that in cases where cookie is initialized but no value, null is returned 							return cookie_value; 							break; 						} 						a_temp_cookie = null; 						cookie_name = ''; 					} 					if ( !b_cookie_found ) 					{ 						return null; 					} 				} </p>
+<p> It's about this time of year when the lucky among us heading for the sun and sand of Caribbean resorts start to muse about investing in a "base tan." Or for those of us Ottawabound, a series of indoor tanning sessions seems just the thing to boost the spirits and bronze over that mid-January pallor. </p>
+<p> But before signing a longterm contract with your local R-U-Tanned, there's something Dr. Isra Levy would like you to know: Tanning beds significantly increase the chances of getting melanoma, the deadliest form of skin cancer. </p>
+<p> Dramatic? Maybe, but the frustration expressed by Ottawa's medical officer of health is understandable. Melanoma is one of the more preventable cancers and yet reports to be tabled to the city's board of health on Monday show that the rate of melanoma was "significantly higher in Ottawa compared to the rest of Ontario." In 2007, there were 146 cases of melanoma diagnosed in Ottawa. Even more alarming, melanoma is the secondmost prevalent cancer in Ottawa among young people, accounting for more than 10 per cent of all cancers for those aged 15 to 29. </p>
+<p> Now, melanoma doesn't even make the top 10 of most common cancers in Ottawa, although that would be little comfort to 146 cancer patients dealing with their dire diagnoses. Heading that list is breast cancer with 553 incidents in 2007, followed closely by lung cancer with 502 diagnoses. </p>
+<p> Lung cancer was also the third most prevalent cause of death in Ottawa in 2007 and responsible for more "potential years of lost life" - that is, the time lost by dying prematurely - than any other cause of death in this city. </p>
+<p> Like melanoma, lung cancer is particularly frustrating because, for the most part, it can be avoided by not smoking or exposing oneself to second-hand smoke. </p>
+<p> Ottawa took the lead in public health when it banned smoking in restaurants and bars 10 years ago. That was a controversial and court-challenged move, but a decade later, few of us would welcome a return to smoking wherever we go. </p>
+<p> Currently, the city is considering an expansion of its no-smoking bylaw. City council will soon decide whether to expand the ban to outdoor public areas such as beaches and parks. So far, most of the response from the public has been positive. </p>
+<p> But what, from a public policy point of view, has the city done about skin cancer? </p>
+<p> Certainly, there have been education campaigns. By now, we all know we shouldn't bake ourselves to a crisp, that we should slather on sunscreen and wear goofy-looking, widebrimmed hats in the scorching sun. </p>
+<p> There has been less success in spreading the message that tanning beds are not safer than outdoor tans. The use of tanning beds is a problem for young people in particular, who are big users of the service. (It's not unusual to see salons advertising tans for graduation.) Studies show that those who use indoor tanning beds before age 35 are 75 per cent more likely to develop melanoma. </p>
+<p> For the past several years, the Canadian Cancer Society, as well as the Ontario Medical Association, have called for restrictions on tanning booths for those under 18. It's a proposal city council should seriously consider. </p>
+<p> Currently, the indoor tanning industry isn't regulated. Health Canada offers voluntary guidelines, but it's up to individual operators to have rules about the age of their clients. One large chain, for example, says that customers under age 18 need the consent of a parent. </p>
+<p> Sarnia came close to banning minors from tanning salons late last year, but chickened out at the last minute. Belleville also passed on the chance to restrict access to tanning beds. </p>
+<p> But a year ago this month, Victoria's regional government restricted tanning bed use to those over 18, affecting 13 municipalities and two regional districts in British Columbia. There are re-strictions in Nova Scotia, California, Australia and several European countries, and in Brazil tanning beds are banned outright. </p>
+<p> The studies are fairly unanimous, with U.S. and international health agencies calling tanning beds carcinogenic to humans. </p>
+<p> Genetics do play a role in an individual's chances of contracting melanoma, but among the Mayo Clinic's advice for preventing melanoma is straightforward: "Do not use tanning booths." </p>
+<p> Adults are allowed free choice, even if that choice isn't good for them. That includes getting an indoor tan. But we have all kinds of rules that protect children - they aren't allowed to drink alcohol, or smoke cigarettes until they're 19, no matter what their parents say. Given the known risks, why should tanning beds be any different. </p>
+<p> jchianello@ottawacitizen.com </p>
+<p> Â© Copyright (c) The Ottawa Citizen </p>
+<p> Â </p>
+<p> Â </p>
+<p> Â </p>
+<p> E-mail this Article </p>
+<p> Print this Article </p>
+<p> Share this Article </p>
+<p> Â </p>
+<p> Â </p>
+<p> Â </p>
+<p> Â </p>
+<p> Location refreshed </p>
+<p> var geoloc_service_domain = "app.canada.com"; 	var geoloc_postproxy_domain = window.location.hostname+""; 	CDMScriptManager.load('/js/geo_location.js'); </p>
+<p> Â </p>
+<p> Story Tools </p>
+<p> Â </p>
+<p> E-mail this Article </p>
+<p> Print this Article </p>
+<p> jQuery('#liComment').hide(); </p>
+<p> Â </p>
+<p> Font: </p>
+<p> * </p>
+<p> * </p>
+<p> * </p>
+<p> * </p>
+<p> * </p>
+<p> // load up cookied story font size 								getStoryFontSize(); </p>
+<p> Â </p>
+<p> Image: </p>
+<p> * </p>
+<p> * </p>
+<p> * </p>
+<p> * </p>
+<p> Â </p>
+<p> Â </p>
+<p> Â </p>
+<p> Related Stories from Around the Web </p>
+<p> Guest Post: Community Activist Gary Ludington On Skin Cancer </p>
+<p> Â </p>
+<p> The Bulldog </p>
+<p> Â </p>
+<p> Friday, March 04, 2011 </p>
+<p> Â </p>
+<p> Â </p>
+<p> jQuery('#soundoff').addClass('hideCommentForm'); </p>
+<p> Â </p>
+<p> var playingAd; 		document.write("<img id='vid1' height='1' width='1'>"); 		function videoScore(evt){ 			playingAd=evt.data.isAd; 			document.getElementById("vid1").src="http://beacon.securestudies.com/scripts/beacon.dll?C1=1&C2=10276888&C3=3005660&C4=" + window.location.pathname.toLowerCase() + "&C5=&C6=&C7=" + escape(window.location.href) + "&C8=" + escape(document.title) + "&C9=" + escape(document.referrer) + "&rn=" + Math.floor(Math.random()*99999999); 		} 		if (typeof tpController != 'undefined') {  		   tpController.addEventListener("OnMediaStart", "videoScore"); 		} </p>
+<p> Related Topics </p>
+<p> Ottawa </p>
+<p> Cancer </p>
+<p> Health and Fitness </p>
+<p> adcookieTag = typeof(adcookieTag) != 'undefined' ? adcookieTag : '';                         dartad_tile = typeof(dartad_tile) != 'undefined' ? dartad_tile + 1 : 1;                         var dartad_url = "http://ad.ca.doubleclick.net/N3081/adj/oc_bh.com/health/story;loc=top_box;loc=top;sz=250x250,300x250,300x600;kw=ron;kw=health;nk=print;pr=oc;ck=health;page=story;kw=oc;tile="+dartad_tile+";"+adcookieTag+surroundTag+"ord=61521012?"; // script ad code with adcookie, used for debug                         document.write('<script language="JavaScript1.1" src="http://ad.ca.doubleclick.net/N3081/adj/oc_bh.com/health/story;loc=top_box;loc=top;sz=250x250,300x250,300x600;kw=ron;kw=health;nk=print;pr=oc;ck=health;page=story;kw=oc;tile='+dartad_tile+';'+adcookieTag+surroundTag+'ord=61521012?"><\/script>'); </p>
+<p> if(adid != "") // check if the ad should start a surround session only if a surround session has not yet started                         {                             surroundTag = "srnd="+adid+";"; // setup the key-value for a surround session                             setSurroundCookie(adid); // store the surround session id in a cookie.                         } </p>
+<p> Most Popular News </p>
+<p> Most Read </p>
+<p> E-mailed </p>
+<p> Commented </p>
+<p> CES 2012: Microsoft's monster bash lacked substance </p>
+<p> Some departments face cuts of 'more than 10%': Flaherty </p>
+<p> Kemptville trio wins CHEO Dream of a Lifetime Lottery </p>
+<p> Chelsea mother facing murder charge attempts suicide in Hull jail </p>
+<p> Itâs time the city put restrictions on tanning salons </p>
+<p> Environment Canada to get rid of 60 scientists </p>
+<p> Â </p>
+<p> more </p>
+<p> Â» </p>
+<p> RSS </p>
+<p> Some departments face cuts of 'more than 10%': Flaherty </p>
+<p> Kemptville trio wins CHEO Dream of a Lifetime Lottery </p>
+<p> Environment Canada to get rid of 60 scientists </p>
+<p> Security guard charged after mentally disabled woman sexually assaulted at Civic campus </p>
+<p> Jean pigott 1924 - 2012 </p>
+<p> Kelly Egan: Helping the desperate not always a clear path </p>
+<p> Â </p>
+<p> more </p>
+<p> Â» </p>
+<p> RSS </p>
+<p> setMostCommented("mostCommented", 6, 15); </p>
+<p> Sponsored By </p>
+<p> The Ottawa Citizen Headline News </p>
+<p> Sign up to receive daily headline news from The Ottawa Citizen. </p>
+<p> Submit </p>
+<p> Our Privacy Statement </p>
+<p> Diet and Fitness </p>
+<p> Child and Teen </p>
+<p> document.write('<script language="JavaScript1.1" src="http://player.ooyala.com/player.js?wmode=transparent&playerContainerId=player2Div&callback=pmplayer2.PlayerCallbackEvent&playerId=player2&width=300&height=226&embedCode=R0ODdkMjqWI788TuOg7TAHvHmu_nHD92&'+pmAd.get()+'" ><\/script>'); </p>
+<p> var pmplayer2;         	pmplayer2 = new ooYala.PMPlayer('player2', 'player2Div', 'pmplayer2', 'R0ODdkMjqWI788TuOg7TAHvHmu_nHD92', '300','226', "90x60", 4, true, true);                            pmplayer2.Init();                                                        	pmplayer2.SetUpTabs(); </p>
+<p> adcookieTag = typeof(adcookieTag) != 'undefined' ? adcookieTag : '';                         dartad_tile = typeof(dartad_tile) != 'undefined' ? dartad_tile + 1 : 1;                         var dartad_url = "http://ad.ca.doubleclick.net/N3081/adj/oc_bh.com/health/story;loc=bot_box;loc=bot;sz=250x250,300x250;kw=ron;kw=health;nk=print;pr=oc;ck=health;page=story;kw=oc;tile="+dartad_tile+";"+adcookieTag+surroundTag+"ord=61521012?"; // script ad code with adcookie, used for debug                         document.write('<script language="JavaScript1.1" src="http://ad.ca.doubleclick.net/N3081/adj/oc_bh.com/health/story;loc=bot_box;loc=bot;sz=250x250,300x250;kw=ron;kw=health;nk=print;pr=oc;ck=health;page=story;kw=oc;tile='+dartad_tile+';'+adcookieTag+surroundTag+'ord=61521012?"><\/script>'); </p>
+<p> if(adid != "") // check if the ad should start a surround session only if a surround session has not yet started                         {                             surroundTag = "srnd="+adid+";"; // setup the key-value for a surround session                             setSurroundCookie(adid); // store the surround session id in a cookie.                         } </p>
+<p> <!-- 				 google_ad_client   = 'ca-pub-1718995873402338'; 				 google_ad_output   = 'js'; 				 google_max_num_ads = '3'; 				 google_hints       = 'health'; 				 google_safe        = 'high'; 				 google_kw_color    = '#E2A9A9'; 				 google_ad_channel  = 'ottawa-citizen-health-story'; 				 google_adtest = 'off'; 				 google_feedback = 'on'; 				// --> </p>
+<p> <!-- 				function google_ad_request_done(google_ads) { 					document.write('<div class="googleadwrapper">'); 					document.write('<div class="box_e5e5e5">'); 					document.write('<div class="box_content">'); 					document.write('<div class="section_title_no_line">'); 					document.write('<h3>'); 					document.write('<a href="' + google_info.feedback_url + '" target="_blank"><span>Ads by Google</span></a>'); 					document.write('</h3>'); 					document.write('</div>'); 					document.write('<div class="clear">&nbsp;</div>');   					var i;  					// Display each ad in turn 					for(i = 0; i < google_ads.length; ++i) { 						document.write('<div class="col_300">'); 						document.write('<div class="wrapper_10_10_10_10">'); 						document.write('<a target="_blank" class="toplink" href="' + google_ads[i].url +'"' + 'onmouseout="window.status=\'\'"' + 'onmouseover="window.status=\'go to ' + google_ads[i].visible_url + '\';return true;">'); 						document.write('<b>' + google_ads[i].line1 + '</b></a>'); 						document.write('<div class="clear">&nbsp;</div>'); 						document.write(google_ads[i].line2); 						document.write('<div class="clear">&nbsp;</div>'); 						document.write(google_ads[i].line3); 						document.write('<div class="clear">&nbsp;</div>'); 						document.write('<a target="_blank" href="' + google_ads[i].url + '"' + 'onmouseout="window.status=\'\'"' + 'onmouseover="window.status=\'go to ' + google_ads[i].visible_url + '\';return true;">' + google_ads[i].visible_url + '</a>'); 						document.write('</div>'); 						document.write('</div>'); 					} 					document.write('</div>'); 					document.write('</div>'); 					document.write('</div>'); 				} 			// --> </p>
+<p> Inside Ottawa Citizen </p>
+<p> CDMScriptManager.load("/js/slider.js"); </p>
+<p> Â </p>
+<p> Photos: Most overrated NHL players, from Sports Illustrated </p>
+<p> Â </p>
+<p> 2 years afterward, Haitians still feel the quake </p>
+<p> Â </p>
+<p> Photo Gallery: European bare essentials </p>
+<p> Â </p>
+<p> Photos: Shocking celebrity plastic surgery </p>
+<p> Â </p>
+<p> Parents in trouble over demonic name </p>
+<p> Â </p>
+<p> Why golf needs to be faster </p>
+<p> Â </p>
+<p> Expensive tea grown in panda poo </p>
+<p> Â </p>
+<p> Obese in Japan: 32-in waist? </p>
+<p> Â </p>
+<p> Beethoven's thoughts revealed </p>
+<p> Â </p>
+<p> Most milk in India contaminated </p>
+<p> var FooterFeature_2_Object = null;                 jQuery(function() { 			FooterFeature_2_Object = new MultiSlider2('FooterFeature_2_Window', 'FooterFeature_2_Content', 'FooterFeature_2_Entry', 10, 5, 1500, 5);  			jQuery('#FooterFeature_2_LeftNavButton').click(function() { FooterFeature_2_Object.slideLeft('FooterFeature_2_Object');}) ; 			jQuery('#FooterFeature_2_RightNavButton').click(function() { FooterFeature_2_Object.slideRight('FooterFeature_2_Object');}) ; 		}); </p>
+<p> Home </p>
+<p> News </p>
+<p> Opinion </p>
+<p> Business </p>
+<p> Sports </p>
+<p> Entertainment </p>
+<p> Life </p>
+<p> Health </p>
+<p> Technology </p>
+<p> Travel </p>
+<p> Jobs </p>
+<p> Cars </p>
+<p> Homes </p>
+<p> Classifieds </p>
+<p> Don't Miss </p>
+<p> The Gift </p>
+<p> Style Magazine </p>
+<p> Weather Watch </p>
+<p> Blogs </p>
+<p> Videos </p>
+<p> Reader Galleries </p>
+<p> Photo galleries </p>
+<p> This Week's Flyers </p>
+<p> Â </p>
+<p> Â» </p>
+<p> RSS </p>
+<p> Most Popular </p>
+<p> CES 2012: Microsoft's monster bash lacked substance </p>
+<p> Some departments face cuts of 'more than 10%': Flaherty </p>
+<p> Kemptville trio wins CHEO Dream of a Lifetime Lottery </p>
+<p> Â </p>
+<p> Â» </p>
+<p> RSS </p>
+<p> Formats </p>
+<p> Sitemap / RSS </p>
+<p> Contests </p>
+<p> Blogs </p>
+<p> Columnists </p>
+<p> Photo Galleries </p>
+<p> Videos </p>
+<p> Mobile </p>
+<p> iPad App </p>
+<p> Ottawa Citizen </p>
+<p> About Us </p>
+<p> Contact Us </p>
+<p> Work for Us </p>
+<p> Advertise with Us </p>
+<p> Subscribe to the Print Edition </p>
+<p> Subscriber Services </p>
+<p> Submit a letter to the editor </p>
+<p> Tools </p>
+<p> Search </p>
+<p> Search for a Job </p>
+<p> Buy/Sell a Car </p>
+<p> Real Estate Listings </p>
+<p> SwarmJam Sweet Deals </p>
+<p> Place a Classified Ad </p>
+<p> E-mail Alerts </p>
+<p> Flyercity.ca </p>
+<p> canada.com Logo </p>
+<p> About canada.com </p>
+<p> Privacy Statement </p>
+<p> Terms </p>
+<p> Copyright & Permissions </p>
+<p> © 2008 - 2011 Postmedia Network Inc. All rights reserved. </p>
+<p> Unauthorized distribution, transmission or republication strictly prohibited. </p>
+<p> function footerSearch() { 			var q = document.getElementById("f").value.replace(/ /g,"+"); 			if (q.length == 0) { 				alert("Please enter your search criteria"); 				return; 			} 			document.location.href="/search/search.html?q=" + escape(q); 		} </p>
+<p> document.getElementById("f").value = document.getElementById("q").value; </p>
+<p> var _publishflow_config={client_id:'ottawacitizen.com'};(function(){function execPublishflowLogger() {var _element = document.createElement('script');_element.setAttribute('language', 'javascript');_element.setAttribute('type', 'text/javascript');_element.setAttribute('src','http://s3.amazonaws.com/publishflow/javascript/media.js');document.body.appendChild(_element);}var _onLoadMethod = window.onload;window.onload = (typeof window.onload != 'function') ?execPublishflowLogger: function() { _onLoadMethod(); execPublishflowLogger(); };})(); </p>
+<p> <!--                         /* You may give each page an identifying name, server, and channel on                         the next lines. */                         s.pageName='/health/story.html';                         s.server=window.location.hostname.toLowerCase();                         s.channel='health';                         s.pageType='';                         s.prop1='health';                         s.prop2='health';                         s.prop3='canwest';                         s.prop4='Non-Registered';                         s.prop5=s.prop4 + ': ' + s.pageName;                         s.prop6='Ottawa Citizen/FREE';                         s.prop7='Ottawa Citizen';                         s.prop8='5982461';                         s.prop9='';                         s.prop10='';                         s.prop11='';                         s.prop13='';                         s.prop23=document.title;                         s.prop24=s.prop8;                         s.prop25='story';                         s.prop26='health';                                     s.prop27='';                           s.prop28='';                          s.prop29='';                         s.prop36='City';                          s.prop37='oc_bh.com';                          s.prop43='';                         s.prop44='';                         /* E-commerce Variables */                                                  s.events='';                         s.products='';                         s.purchaseID='';                         s.transactionID = s.purchaseID;                                                  /* s.prop48 for story only */                         s.prop48='Joanne Chianello, Ottawa Citizen';                                                                /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/                         var s_code=s.t();if(s_code)document.write(s_code)//--> </p>
+<p> <!--                         if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')                         //--> </p>

@@ -1,0 +1,449 @@
+<p> /* <![CDATA[ */ (function() {     var _min_d = Math.min(screen.width, screen.height);     if(_min_d>0 && _min_d<600) window.location = 'http://m.pb.pl/2538667,75399,iran-ostrzega-usa-przed-powrotem-lotniskowca-do-zatoki-perskiej?dimension='+_min_d; })(); /* ]]> */ </p>
+<p> var _sf_startpt=(new Date()).getTime() </p>
+<p> Iran ostrzega USA przed powrotem lotniskowca do Zatoki Perskiej  | Puls Biznesu - rynek, akcje, spółka, przedsiębiorca, budżet </p>
+<p> var adoKeys = []; var adoVars = ""; </p>
+<p> /* (c)AdOcean 2003-2011 */ if(typeof ado!=="object"){ado={};ado.config=ado.preview=ado.placement=ado.master=ado.slave=function(){};}  ado.config({mode: "old", xml: false, characterEncoding: true}); ado.preview({enabled: true, emiter: "myao.adocean.pl", id: "y6g3tTbLJv6vLRZ.AfyeiXkCPM0gL3CNAik2rwTzhKD.N7"}); </p>
+<p> cookies_alert(); </p>
+<p> /* (c)AdOcean 2003-2011, pulsbiznesu.portal pb.tapeta */ ado.placement({id: 'ado-Jh5HUuM8hxbq4yaKqLwNLkgqLN.I0tCmP2DP2lWNvAT.77', server: 'myao.adocean.pl', keys: adoKeys || [], vars: adoVars || {} }); </p>
+<p> /* (c)AdOcean 2003-2011, pulsbiznesu.portal pb.Panorama_article */ ado.placement({id: 'ado-UOWQM6wXN51k2xvSzq5g.367AMyhM6O5KSfw2QlEykv.M7', server: 'myao.adocean.pl' }); </p>
+<p> Daj cynk </p>
+<p> Wersja na tablet </p>
+<p> Newsletter </p>
+<p> Prenumerata </p>
+<p> Sklep </p>
+<p> Archiwum </p>
+<p> Mój profil </p>
+<p> (function() {     var pbname = $.cookie('pbname');     if( pbname )     {         var name = '';         if( pbname.search(/^[-0-9]+$/)>=0 )         {             var aname = pbname.split("-");             for(var i in aname)                 name += String.fromCharCode(aname[i]);         }         else             name = pbname.replace(/\"/g,'');         if( name )         {             $('#profile_text').hide();             $('#username').html(name);         }     } })(); </p>
+<p> Najbardziej uzależniający portal biznesowy w Polsce* </p>
+<p> pb.pl </p>
+<p> Puls Inwestora </p>
+<p> Notowania </p>
+<p> Firma </p>
+<p> Ludzie biznesu </p>
+<p> Weekend </p>
+<p> Gazele </p>
+<p> Konferencje </p>
+<p> Blogi </p>
+<p> Wideo </p>
+<p> Z ostatniej chwili </p>
+<p> Po godzinach </p>
+<p> Moto </p>
+<p> Kariera </p>
+<p> Nieruchomości </p>
+<p> Tech </p>
+<p> Makro </p>
+<p> Logistyka </p>
+<p> Branże </p>
+<p> Samorządy </p>
+<p> Energetyka </p>
+<p> Retailing </p>
+<p> Medycyna </p>
+<p> Internet i IT </p>
+<p> Media i marketing </p>
+<p> Chemia i farmacja </p>
+<p> Paliwa </p>
+<p> Przemysł ciężki </p>
+<p> Eventy </p>
+<p> Filary Polskiej Gospodarki </p>
+<p> 500 Menedżerów </p>
+<p> 100 Kobiet Biznesu </p>
+<p> Gazele Biznesu </p>
+<p> Konferencje </p>
+<p> Giełdowa spółka roku </p>
+<p> Ekologia </p>
+<p> Moja emerytura </p>
+<p> Iran ostrzega USA przed powrotem lotniskowca do Zatoki Perskiej </p>
+<p> function pb_popup(url) {     window.open( url, "pbpopup", "width=700,height=400,scrollbars=yes" );     return false; } </p>
+<p> 2012-01-03 09:21 </p>
+<p> KUP LICENCJĘ </p>
+<p> PAP </p>
+<p> (function(d, s, id) {   var js, fjs = d.getElementsByTagName(s)[0];   if (d.getElementById(id)) return;   js = d.createElement(s); js.id = id;   js.src = "//connect.facebook.net/pl_PL/all.js#xfbml=1";   fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk')); </p>
+<p> // wykopywarka wersja kompaktowa (100x20)             var wykop_url=location.href;	// Link do strony             var wykop_title=encodeURIComponent(document.title);	// Tytuł strony (pobierany z <title>)             var wykop_desc=encodeURIComponent('Przykładowy opis');             var widget_bg='FFFFFF';             var widget_type='compact2';             var widget_bold=true;	// pogrubienie napisu Wykop - domyślnie true             var widget_url='http://www.wykop.pl/dataprovider/diggerwidget/?url='+(wykop_url)+'&title='+(wykop_title)+'&desc='+(wykop_desc)+'&bg='+(widget_bg)+'&type='+(widget_type)+'&bold='+(widget_bold);             document.write('<div><iframe src="'+widget_url+'" style="border:none;width:100px;height:20px;overflow:hidden;margin:0;padding:0;" frameborder="0" border="0"></iframe></div>'); </p>
+<p> Tweetnij </p>
+<p> !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs"); </p>
+<p> Iran podejmie działania, jeśli amerykański lotniskowiec powróci na wody Zatoki Perskiej, które opuścił w ostatnim czasie - powiedział dowódca sił zbrojnych Iranu Ataollah Salehi, cytowany we wtorek przez półoficjalną irańską agencję Fars. </p>
+<p> Tagi </p>
+<p> Polityka </p>
+<p> , </p>
+<p> Świat </p>
+<p> <!-- google_ad_client = "ca-pub-0444287293673271"; /* artykul pod tagami 200x200 */ google_ad_slot = "6340925788"; google_ad_width = 200; google_ad_height = 200; //--> </p>
+<p> "Radzę, rekomenduję i ostrzegam Amerykanów w sprawie powrotu tego lotniskowca na wody Zatoki Perskiej, ponieważ nie mamy w zwyczaju ostrzegać dwa razy" - miał powiedzieć Salehi. </p>
+<p> Materiał chroniony prawem autorskim - wszelkie prawa zastrzeżone. Wszelkie prawa w tym Autora, Wydawcy i Producenta bazy danych zastrzeżone. Jakiekolwiek dalsze rozpowszechnianie artykułów zabronione. Korzystanie z serwisu izamieszczonych w nim utworów i danych wyłącznie na zasadach określonych w Regulaminie Korzystania z Serwisu. </p>
+<p> Zapoznaj się z regulaminem. </p>
+<p> // wykopywarka wersja kompaktowa (100x20)             var wykop_url=location.href;	// Link do strony             var wykop_title=encodeURIComponent(document.title);	// Tytuł strony (pobierany z <title>)             var wykop_desc=encodeURIComponent('Przykładowy opis');             var widget_bg='FFFFFF';             var widget_type='compact2';             var widget_bold=true;	// pogrubienie napisu Wykop - domyślnie true             var widget_url='http://www.wykop.pl/dataprovider/diggerwidget/?url='+(wykop_url)+'&title='+(wykop_title)+'&desc='+(wykop_desc)+'&bg='+(widget_bg)+'&type='+(widget_type)+'&bold='+(widget_bold);             document.write('<div><iframe src="'+widget_url+'" style="border:none;width:100px;height:20px;overflow:hidden;margin:0;padding:0;" frameborder="0" border="0"></iframe></div>'); </p>
+<p> Tweetnij </p>
+<p> !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs"); </p>
+<p> /* (c)AdOcean 2003-2011, pulsbiznesu.portal pb.po artykule */ ado.placement({id: 'ado-oexGyz9n4qZf1ht_rKP3cH3tzeihiibchlI1QzQWoBn.C7', server: 'myao.adocean.pl' }); </p>
+<p> var __nc_widgets = __nc_widgets || [];   var __nc_j = __nc_j || null;    __nc_widgets.push(['6CE0-2CE8-89BE-999C-1Sn8Y8', 'pb.pl', 'recommendation', 1, 1]);    (function() {     var __nc = document.createElement('script'); __nc.type = 'text/javascript'; __nc.async = true; __nc.id = 'Nextclick_Manager';     __nc.src = 'http://nextclick.pl/widget/widget.recommendation.1.js';     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(__nc, s);   })(); </p>
+<p> Komentarze </p>
+<p> więcej </p>
+<p> Wiadomości dnia na www.pb.pl </p>
+<p> Biznes rusza na łowy w Afryce </p>
+<p> Kulczyk zainwestuje 1 miliard dolarów </p>
+<p> Cukrowa rewolucja w biotechnologii </p>
+<p> Chiński handel zaskoczył deficytem </p>
+<p> Polaku, kontroluj wydatki </p>
+<p> Medycyna znów przyniosła zyski </p>
+<p> Ziemia drożeje, ale ciągle jest tania </p>
+<p> Polska: trzeci świat innowacji </p>
+<p> Wracają instrumenty, które wywołały kryzys </p>
+<p> Kalendarium, środa 10 kwietnia </p>
+<p> Kolejny rekord na Wall Street </p>
+<p> Wciąż bez przełomu na GPW </p>
+<p> Wiedeń i Warszawa razem? </p>
+<p> Oni mogą zaskoczyć dywidendą </p>
+<p> Orlen nie chce płacić więcej </p>
+<p> Raport do wtorku </p>
+<p> Krugman podważa spuściznę Thatcher </p>
+<p> Na sprzedaż jest jeden krajowy bank </p>
+<p> Francuska gospodarka ledwo zipie </p>
+<p> Lufthansa zatrudni w Krakowie </p>
+<p> $( function() {     makeHScroller($('#id_downunder')[0]) } ) </p>
+<p> function cnsr(c) {     $.get('/cnsr/' + c, function(data) {alert('Dziękujemy za zgłoszenie'); }); } </p>
+<p> nhi = new Image; nhi.src = '/hit/2538667?ref=&r=' + Math.random() + '&p=1'; </p>
+<p> window.___gcfg = {lang: 'pl'};    (function() {     var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;     po.src = 'https://apis.google.com/js/plusone.js';     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);   })(); </p>
+<p> Polecamy </p>
+<p> Biznes rusza na łowy w Afryce </p>
+<p> Kulczyk zainwestuje 1 miliard dolarów </p>
+<p> /* (c)AdOcean 2003-2013, pulsbiznesu.portal pb.Box polecamy po 2 */ ado.placement({id: 'ado-cUMA887YN606H42GEFGYYrK0jMi.UJAO5MI.GuiZL5v._7', server: 'myao.adocean.pl' }); </p>
+<p> var __nc_widgets = __nc_widgets || [];   var __nc_j = __nc_j || null;   __nc_widgets.push(['4DB5-9125-5EFC-3D52-1TW3MY', 'pb.pl', 'advertisement', 1, 1]);   (function() {     var __nc = document.createElement('script'); __nc.type = 'text/javascript'; __nc.async = true; __nc.id = 'Nextclick_Manager';     __nc.src = 'http://nextclick.pl/widget/widget.advertisement.1.js';     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(__nc, s);   })(); </p>
+<p> Cukrowa rewolucja w biotechnologii </p>
+<p> Chiński handel zaskoczył deficytem </p>
+<p> Polaku, kontroluj wydatki </p>
+<p> /* (c)AdOcean 2003-2012, pulsbiznesu.portal pb.box 3 kolumna gora */ ado.placement({id: 'ado-7jAHztX_N37M4AYW.tveK2TSDr5NStrIj3EYiMGKOWf.47', server: 'myao.adocean.pl' }); </p>
+<p> new TWTR.Widget({   version: 2,   type: 'list',   rpp: 30,   interval: 30000,   title: 'tego nie możesz przegapić',   subject: 'Newsroom pb.pl',   width: 300,   height: 250,   theme: {     shell: {       background: '#745071',       color: '#1c1609'     },     tweets: {       background: '#ffffff',       color: '#444444',       links: '#b740c2'     }   },   features: {     scrollbar: true,     loop: false,     live: true,     behavior: 'all'   } }).render().setList('puls_biznesu', 'newsroom').start(); </p>
+<p> Przegląd </p>
+<p> Giełda </p>
+<p> Świat </p>
+<p> euro </p>
+<p> 4,12 </p>
+<p> +0.07% </p>
+<p> frank </p>
+<p> 3,37 </p>
+<p> +0.10% </p>
+<p> dolar </p>
+<p> 3,15 </p>
+<p> +0.10% </p>
+<p> DJ INDUSTRIAL </p>
+<p> 14673,46 </p>
+<p> +0.41% </p>
+<p> WIG20 </p>
+<p> – </p>
+<p> – </p>
+<p> więcej </p>
+<p> indeksy, spółki, fundusze, surowce, waluty… </p>
+<p> charts = [] var charturl = new Image; charturl.src = 'http://notowania.pb.pl/chart_hourly/SmallChart/PBWALEUR/110/80'; charts.push(charturl) var charturl = new Image; charturl.src = 'http://notowania.pb.pl/chart_hourly/SmallChart/PBWALCHF/110/80'; charts.push(charturl) var charturl = new Image; charturl.src = 'http://notowania.pb.pl/chart_hourly/SmallChart/PBWALUSD/110/80'; charts.push(charturl) var charturl = new Image; charturl.src = 'http://notowania.pb.pl/chart_hourly/SmallChart/PBFDJINDUSTRIAL/110/80'; charts.push(charturl) var charturl = new Image; charturl.src = 'http://notowania.pb.pl/chart_hourly/SmallChart/PL9999999987/110/80'; charts.push(charturl) </p>
+<p> Portfel PB </p>
+<p> 8314,35 </p>
+<p> +0.00% </p>
+<p> WIG20 </p>
+<p> – </p>
+<p> – </p>
+<p> WIG </p>
+<p> – </p>
+<p> – </p>
+<p> mWIG40 </p>
+<p> – </p>
+<p> – </p>
+<p> sWIG80 </p>
+<p> – </p>
+<p> – </p>
+<p> więcej </p>
+<p> indeksy, spółki, fundusze, surowce, waluty… </p>
+<p> charts = [] var charturl = new Image; charturl.src = 'http://notowania.pb.pl/chart_hourly/SmallChart/PBWALLPB/110/80'; charts.push(charturl) var charturl = new Image; charturl.src = 'http://notowania.pb.pl/chart_hourly/SmallChart/PL9999999987/110/80'; charts.push(charturl) var charturl = new Image; charturl.src = 'http://notowania.pb.pl/chart_hourly/SmallChart/PL9999999995/110/80'; charts.push(charturl) var charturl = new Image; charturl.src = 'http://notowania.pb.pl/chart_hourly/SmallChart/PL9999999912/110/80'; charts.push(charturl) var charturl = new Image; charturl.src = 'http://notowania.pb.pl/chart_hourly/SmallChart/PL9999999979/110/80'; charts.push(charturl) </p>
+<p> XETRA DAX PF </p>
+<p> 7637,51 </p>
+<p> -0.33% </p>
+<p> CAC 40 INDEX </p>
+<p> 3670,72 </p>
+<p> +0.11% </p>
+<p> DJ INDUSTRIAL </p>
+<p> 14673,46 </p>
+<p> +0.41% </p>
+<p> NAS  COMPSITE </p>
+<p> 3237,86 </p>
+<p> +0.48% </p>
+<p> NIKKEI 225 INDEX </p>
+<p> 13288,13 </p>
+<p> +0.73% </p>
+<p> więcej </p>
+<p> indeksy, spółki, fundusze, surowce, waluty… </p>
+<p> charts = [] var charturl = new Image; charturl.src = 'http://notowania.pb.pl/chart_hourly/SmallChart/PBFXETRADAXPF/110/80'; charts.push(charturl) var charturl = new Image; charturl.src = 'http://notowania.pb.pl/chart_hourly/SmallChart/PBFCAC40INDEX/110/80'; charts.push(charturl) var charturl = new Image; charturl.src = 'http://notowania.pb.pl/chart_hourly/SmallChart/PBFDJINDUSTRIAL/110/80'; charts.push(charturl) var charturl = new Image; charturl.src = 'http://notowania.pb.pl/chart_hourly/SmallChart/PBFNASCOMPSITE/110/80'; charts.push(charturl) var charturl = new Image; charturl.src = 'http://notowania.pb.pl/chart_hourly/SmallChart/PBFNIKKEI225INDEX/110/80'; charts.push(charturl) </p>
+<p> $(function() { 		$( "#TabSetControl395355745" ).tabs(); 	}); </p>
+<p> ado.placement({id: 'ado-8t41rKb03c_qXHB0NBw1S9cQL2cAZU9z3VzEK9lN2dP.27', server: 'myao.adocean.pl', keys: adoKeys || [], vars: adoVars || {} }); </p>
+<p> Blogi </p>
+<p> » </p>
+<p> Eugeniusz Twaróg </p>
+<p> Porównywarka kantorów w telefonie </p>
+<p> Konrad Ryczko </p>
+<p> RPP w centrum uwagi </p>
+<p> Jacek Zalewski </p>
+<p> Wraca problem zrzucania z sań </p>
+<p> Juliusz Windorbski </p>
+<p> Zakupy na Zachodzie coraz droższe </p>
+<p> Marek Wierciszewski </p>
+<p> Wciąż bez przełomu na GPW </p>
+<p> $(window).load(function(){makeCarousel($("#opinie_node")[0], true)}) </p>
+<p> /* (c)AdOcean 2003-2011, pulsbiznesu.portal pb.link */ ado.placement({id: 'ado-zzCqk8m9A1e4xcOZLsoPrL7xDcdJr6ewGW61TPPAMGz.17', server: 'myao.adocean.pl' }); </p>
+<p> /* (c)AdOcean 2003-2011, pulsbiznesu.portal pb.link dolny */ ado.placement({id: 'ado-gIXggRxvd9_e4hb_8Gg.P2wODccuIKewK6Xl_Vzx4sX.v7', server: 'myao.adocean.pl', keys: adoKeys || [], vars: adoVars || {}  }); </p>
+<p> /* (c)AdOcean 2003-2011, pulsbiznesu.portal pb.Sky scraper */ ado.placement({id: 'ado-P3vmdnkg0gvTYJuEUpcsLpjhUQLwmSbeeD0dLSYZiP3.B7', server: 'myao.adocean.pl', keys: adoKeys || [], vars: adoVars || {}  }); </p>
+<p> Polecane </p>
+<p> Popularne </p>
+<p> Najnowsze </p>
+<p> Rząd wycenił armagedon </p>
+<p> 2 </p>
+<p> Ostry nadzór nad budowlanką </p>
+<p> 2 </p>
+<p> Budżet miał najgorszy start od dwóch dekad </p>
+<p> 6 </p>
+<p> Kokosy z onkologii </p>
+<p> 4 </p>
+<p> Warszawa to finansowy zaścianek </p>
+<p> 2 </p>
+<p> Ciemne sprawki Tomasza Biela </p>
+<p> Prywatyzacja się kończy, nacjonalizacja... zaczyna </p>
+<p> 2 </p>
+<p> NASA płaci 15 tys. USD za leżenie w łóżku </p>
+<p> 2 </p>
+<p> Chińczycy mają już „okulary Google’a” </p>
+<p> Gdzie najtaniej na randkę, po levisy, iphony i piwo (RANKING) </p>
+<p> 3 </p>
+<p> Rosjanie uciekają na Wyspy Dziewicze </p>
+<p> 1 </p>
+<p> nC+ jednak zmieni ofertę? </p>
+<p> 3 </p>
+<p> 08:15 </p>
+<p> Porównywarka kantorów w telefonie </p>
+<p> 08:15 </p>
+<p> To musisz wiedzieć przed sesją na GPW </p>
+<p> 08:12 </p>
+<p> RPP w centrum uwagi </p>
+<p> 08:11 </p>
+<p> "Kupuj" ATM </p>
+<p> 08:11 </p>
+<p> Demontaż OFE zaboli inwestorów z Książęcej </p>
+<p> 08:10 </p>
+<p> GPW i Wiener Boerse: związek z rozsądku </p>
+<p> więcej </p>
+<p> $(function() { 		$( "#TabSetControl641616429" ).tabs(); 	}); </p>
+<p> Gazele Biznesu » </p>
+<p> /* (c)AdOcean 2003-2013, pulsbiznesu.portal pb.gazele wizytowka */ ado.placement({id: 'ado-6QFWPQGdQfCtrjAXU38ykBWIobot2Ue07DGdtdRSRxf.d7', server: 'myao.adocean.pl' }); </p>
+<p> Strefa Premium </p>
+<p> BZ WBK kupuje gotowy mobile </p>
+<p> Demontaż OFE zaboli inwestorów z Książęcej </p>
+<p> Związek z rozsądku </p>
+<p> Amerykanie karzą za polskie łapówki </p>
+<p> Reklamodawcy z sieci nauczyli się liczyć </p>
+<p> więcej </p>
+<p> Pełny dostęp dla prenumeratorów </p>
+<p> KUPUJĘ </p>
+<p> Puls Inwestora </p>
+<p> Demontaż OFE zaboli inwestorów z Książęcej </p>
+<p> GPW i Wiener Boerse: związek z rozsądku </p>
+<p> Kupuj w poniedziałek, sprzedawaj w czwartek </p>
+<p> Japonia wreszcie ma się dobrze </p>
+<p> 7 tłustych lat Trakcji? </p>
+<p> więcej </p>
+<p> Dostęp w ramach Pakietu Inwestor </p>
+<p> KUPUJĘ </p>
+<p> Wideo </p>
+<p> » </p>
+<p> Spokojnie, to tylko nalot </p>
+<p> Forum </p>
+<p> » </p>
+<p> 1 </p>
+<p> no i dobrze. wysysają kapitał z całego świata, dosyć tego. </p>
+<p> 1 </p>
+<p> Sprytnie to zabójcze państwo chce skierować uwagę na banki zagraniczne w Polsce,by one przejeły zyski parabanków.Rezultat i tak będzie gorszy... </p>
+<p> 1 </p>
+<p> Różnica jest taka, że tym razem nie będzie już żadnego ratunku. </p>
+<p> Więcej </p>
+<p> /* (c)AdOcean 2003-2012, pulsbiznesu.portal pb.pb.pl poleca 1 */ ado.placement({id: 'ado-IW9VVa_znaRalZ.Dk4c7q3J.fQzf9gebV3V4weATPp..u7', server: 'myao.adocean.pl' }); </p>
+<p> /* (c)AdOcean 2003-2012, pulsbiznesu.portal pb.pb.pl poleca 2 */ ado.placement({id: 'ado-N6z8PirvjUcEbmSbQyi1FIoRnJKL2j.JcJiPiGpYrIf.G7', server: 'myao.adocean.pl' }); </p>
+<p> /* (c)AdOcean 2003-2012, pulsbiznesu.portal pb.pb.pl poleca 3 */ ado.placement({id: 'ado-lTf1mBCmjXd0ZaBa5nuFFQ_WQappToccUIy6w24BLCD.67', server: 'myao.adocean.pl' }); </p>
+<p> /* (c)AdOcean 2003-2012, pulsbiznesu.portal pb.Belka */ ado.placement({id: 'ado-7E4AsPB6NwYF_T1XreJ3N5G8DV1XMqek6aqYQQ0AXi..R7', server: 'myao.adocean.pl' }); </p>
+<p> Polecamy </p>
+<p> /* (c)AdOcean 2003-2011, pulsbiznesu.portal pb.polecane 1 box */ ado.placement({id: 'ado-2iNHVbPvh6lOjOyk.3gRdOFDIf13el5OI1.QEPuW9Qn.B7', server: 'myao.adocean.pl' }); </p>
+<p> /* (c)AdOcean 2003-2011, pulsbiznesu.portal pb.polecane 2 box */ ado.placement({id: 'ado-I8Mx5Jq7XOPcCOw0y39.kPdRgmnQQR4HNFIt0e.Z0sb.j7', server: 'myao.adocean.pl' }); </p>
+<p> /* (c)AdOcean 2003-2011, pulsbiznesu.portal pb.polecane 3 box */ ado.placement({id: 'ado-gyIKsHpEovJL1NKu9pQdTS9foSk5E0b_aWzqLcrePF7.17', server: 'myao.adocean.pl' }); </p>
+<p> Weekend </p>
+<p> » </p>
+<p> Brytyjski Danone reglamentuje mleko dla dzieci </p>
+<p> Moto </p>
+<p> » </p>
+<p> Najlepiej sprzedające się auto świata, to... </p>
+<p> Kariera </p>
+<p> » </p>
+<p> Skoczkowie w centrach usług </p>
+<p> Nieruchomości </p>
+<p> » </p>
+<p> Polska ziemia tańsza od unijnej średniej </p>
+<p> Tech </p>
+<p> » </p>
+<p> Microsoft i inni donoszą na Google </p>
+<p> Logistyka </p>
+<p> » </p>
+<p> Lufthansa zatrudni w Krakowie </p>
+<p> Makro </p>
+<p> » </p>
+<p> Budżet miał najgorszy start od dwóch dekad </p>
+<p> New Connect </p>
+<p> » </p>
+<p> Fiten nie gra w zielone </p>
+<p> Emerytura </p>
+<p> » </p>
+<p> Prywatyzacja się kończy, nacjonalizacja... zaczyna </p>
+<p> $(window).load( function() {     setInterval( function(){makeCarousel( $("#recommended")[0] );}, 1000); } ) </p>
+<p> Sekcje </p>
+<p> Puls Inwestora </p>
+<p> » </p>
+<p> Demontaż OFE zaboli inwestorów </p>
+<p> GPW i Wiener Boerse: związek z rozsądku </p>
+<p> Medycyna znów przyniosła zyski </p>
+<p> To musisz wiedzieć przed sesją na GPW </p>
+<p> Firma </p>
+<p> » </p>
+<p> Polska: trzeci świat innowacji </p>
+<p> Zamieszanie na kasie </p>
+<p> Reprezentacja wciąż bez definicji </p>
+<p> W crowdfundingu postaw na wiarygodność </p>
+<p> Kariera </p>
+<p> » </p>
+<p> Skoczkowie w centrach usług </p>
+<p> Lufthansa zatrudni w Krakowie </p>
+<p> Zarobki w zarządzie OFE, to 53 tys. zł </p>
+<p> Młodzi chcą trzy tysiące na rękę </p>
+<p> Forex </p>
+<p> » </p>
+<p> „To jest niebezpieczne” </p>
+<p> Argentyński kryzys wraca po 12 latach </p>
+<p> Najlepsze waluty miesiąca </p>
+<p> Stawiają na koronę szwedzką </p>
+<p> Samorządy </p>
+<p> » </p>
+<p> Happy end w Toruniu? </p>
+<p> Poznań podpisał umowę </p>
+<p> na spalarnię w PPP </p>
+<p> 100 mln zł poszło „w błoto” </p>
+<p> Inwestycje w nekropoliach </p>
+<p> Eurokasa </p>
+<p> » </p>
+<p> 2 mld zł dla mikrofirm spoza metropolii </p>
+<p> Obierz kurs na szkolenie </p>
+<p> Ostatnie dotacje na Mazowszu </p>
+<p> MSP mniej skłonne do ryzyka </p>
+<p> Kontrakty </p>
+<p> » </p>
+<p> Zaprojektuj i wybuduj wieżę </p>
+<p> Wyjedź i promuj się za darmo w Moskwie </p>
+<p> Olsztyn znów zaprasza do budowy sortowni </p>
+<p> Ekologiczni konsultanci poszukiwani </p>
+<p> Energetyka </p>
+<p> » </p>
+<p> Talisman szykuje odwrót znad Wisły </p>
+<p> Tauron wyda 4 mld zł </p>
+<p> Zobacz energetykę przyszłości </p>
+<p> Spółki energetyczne straciły urok </p>
+<p> New Connect </p>
+<p> » </p>
+<p> Fiten nie gra w zielone </p>
+<p> Kuzyn Stąporkowa wchodzi na giełdę </p>
+<p> EI inwestuje w Elemental Holding </p>
+<p> Plasma System rośnie z energetyką </p>
+<p> Logistyka </p>
+<p> » </p>
+<p> Lufthansa zatrudni w Krakowie </p>
+<p> Najlepiej sprzedające się auto osobowe świata, to... </p>
+<p> Volkswagen wybiera między Polską i Turcją </p>
+<p> Rosyjska kolej zmienia zwrotnicę na Polskę </p>
+<p> Makro </p>
+<p> » </p>
+<p> Budżet miał najgorszy start od dwóch dekad </p>
+<p> Rząd chce płacić prezesom jak biznes </p>
+<p> BGK – ostatni bastion kominiarzy </p>
+<p> Słabość rynku pracy cementuje się na lata </p>
+<p> Emerytura </p>
+<p> » </p>
+<p> Prywatyzacja się kończy, nacjonalizacja... zaczyna </p>
+<p> "Nie można dopuścić, by atak na oszczędności Polaków okazał się skuteczny" </p>
+<p> "Najpierw operacja OFE, potem dewaluacja </p>
+<p> Rostowski: Rząd nie zlikwiduje OFE </p>
+<p> Nieruchomości </p>
+<p> » </p>
+<p> Polska ziemia tańsza od unijnej średniej </p>
+<p> Niepewność wokół dopłat </p>
+<p> Mieszkania jak przed dekadą </p>
+<p> Koniec wiary w spadek cen mieszkań </p>
+<p> Moto </p>
+<p> » </p>
+<p> Najlepiej sprzedające się auto świata, to... </p>
+<p> Volkswagen wybiera między Polską i Turcją </p>
+<p> Polska bardziej konkurencyjna od Brazylii </p>
+<p> Koreańczycy inwestują na Śląsku </p>
+<p> Tech </p>
+<p> » </p>
+<p> Microsoft i inni donoszą na Google </p>
+<p> Samsung pracuje nad „gigantycznym” Galaxy </p>
+<p> Hakerzy zagrażają polskim firmom </p>
+<p> Świat zaleją tablety i smartfony </p>
+<p> Retailing </p>
+<p> » </p>
+<p> Tesco kończy z lepszą marką </p>
+<p> Auchan wskoczył do sieci </p>
+<p> Handel dusi się pod kartami </p>
+<p> Jaśniejsza przyszłość ciemnego piwa </p>
+<p> $(window).load( function() {     makeCarousel( $("#id_sections")[0] ) } ) </p>
+<p> /* (c)AdOcean 2003-2011, pulsbiznesu.portal pb.Rectangle dolny */ ado.placement({id: 'ado-qk4HYkPrNzzT_6aB6LSOshvoo04OqpJjWJYWoDRLNy..c7', server: 'myao.adocean.pl' }); </p>
+<p> /* (c)AdOcean 2003-2012, pulsbiznesu.portal pb.belka dolna */ ado.placement({id: 'ado-S_cMW9bf7UeZX39AKqOfJMQhsF.yJILYIlmAGtPDbXT.K7', server: 'myao.adocean.pl' }); </p>
+<p> Oferty Pulsu Biznesu </p>
+<p> Tablet </p>
+<p> PB+ 3 miesiące </p>
+<p> Prenumerata </p>
+<p> E-prenumerata „Pulsu Biznesu” 6 miesiące + Tablet </p>
+<p> Prenumerata </p>
+<p> Kup bieżące e-wydanie Pulsu Biznesu </p>
+<p> $(window).load( function() {     makeCarousel( $("#id_pboffers")[0] ) } ) </p>
+<p> linker.go(); </p>
+<p> Zobacz o czym piszemy </p>
+<p> Serwisy </p>
+<p> Puls Inwestora </p>
+<p> » </p>
+<p> Notowania </p>
+<p> » </p>
+<p> Wersja na tablet </p>
+<p> » </p>
+<p> Konferencje </p>
+<p> » </p>
+<p> E-wydanie </p>
+<p> » </p>
+<p> Wersja mobilna </p>
+<p> » </p>
+<p> DODAJ NAS </p>
+<p> BBP </p>
+<p> O nas </p>
+<p> Pracuj u nas </p>
+<p> CSR </p>
+<p> Kontakt </p>
+<p> Sklep </p>
+<p> Prenumerata </p>
+<p> Publikacje </p>
+<p> Pakiety specjalne </p>
+<p> Raporty </p>
+<p> Konferencje </p>
+<p> Puls Biznesu </p>
+<p> Archiwum </p>
+<p> E-wydanie </p>
+<p> Reklama </p>
+<p> Pb.pl </p>
+<p> Regulamin </p>
+<p> Newsletter </p>
+<p> Widgety </p>
+<p> Reklama </p>
+<p> <!--//--><![CDATA[//><!-- var gemius_identifier = new String('zZ2Q.W_w283rdfPLwD9e38U1P6O1WeMmKa6GwbKOVjr.z7'); //--><!]]> </p>
+<p> var _gaq = _gaq || [];   _gaq.push(['_setAccount', 'UA-1121769-1']);   _gaq.push(['_trackPageview']);    (function() {     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);   })(); </p>
+<p> /* <![CDATA[ */  bmone2n.addPosition('2610.1.2.30',''); bmone2n.getAd('go.arbopl.bbelements.com','',''+(typeof(bburlparam)=='string'?'&'+bburlparam:''),'iso-8859-2'); /* ]]> */ </p>
+<p> /* <![CDATA[ */ bmone2n.makeAd('2610.1.2.30'); /* ]]> */ </p>
+<p> /* <![CDATA[ */ bm12n_orig_onload = (window.onload) ? window.onload : null; function bm12n_onLoad() { bmone2n.moveAd();  if (bm12n_orig_onload) {bm12n_orig_onload();} } window.onload = bm12n_onLoad; /* ]]> */ </p>
+<p> /* <![CDATA[ */ {document.write('<script type="text/javascript" id="cafenews.pl#7648bfca304b70cf5006abd38e8fc43f"></'+'script><div id="cafenews.pl#cvb64mnc8vg4jd8gksd653jkadg7j6"></div>');setTimeout(function(){var d=new Date();document.getElementById("cafenews.pl#7648bfca304b70cf5006abd38e8fc43f").src='http://webservices.cafenews.pl/mpl/Static/Static.js?id=cafenews.pl#cvb64mnc8vg4jd8gksd653jkadg7j6&d='+d.getFullYear()+d.getMonth()+d.getDate();},250);} /* ]]> */ </p>
+<p> var bbSite='http___www.pb.pl'; var bbMainDomain='new.smartcontext.pl'; </p>
+<p> var _sf_async_config={uid:34602,domain:"pb.pl"}; (function(){   function loadChartbeat() {     window._sf_endpt=(new Date()).getTime();     var e = document.createElement('script');     e.setAttribute('language', 'javascript');     e.setAttribute('type', 'text/javascript');     e.setAttribute('src',        (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +        "js/chartbeat.js");     document.body.appendChild(e);   }   var oldonload = window.onload;   window.onload = (typeof window.onload != 'function') ?      loadChartbeat : function() { oldonload(); loadChartbeat(); }; })(); </p>

@@ -1,0 +1,223 @@
+<p> (function(a,b){  var exclude = /(?:android|iphone)/i; if(exclude.exec(navigator.userAgent)) { return; }  if(/android|avantgo|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|symbian|treo|up\.(browser|link)|vodafone|wap|windows (ce|phone)|xda|xiino/i.test(a)||/1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|e\-|e\/|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(di|rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|xda(\-|2|g)|yas\-|your|zeto|zte\-/i.test(a.substr(0,4))) window.location=b })(navigator.userAgent||navigator.vendor||window.opera,'http://www.wcti12.com/mobile/index.html'); </p>
+<p> U.K. Mom Coughs Up Cancer - News Story - WCTI New Bern </p>
+<p> IBSYS = window.IBSYS || {}; IBSYS.originHost = 'www.wcti12.com'; </p>
+<p> var rnd = new Date(); rnd = rnd.getTime(); </p>
+<p> var pageProps= { time: {hr:"8",hr_p:"08",hr24:"8",hr24_p:"08",min:"55",sec:"40",mer:"am",tz:"EST",mon:"1",mon_p:"01",date:"12",date_p:"12",yr:"2012",day:"5"},coid: '30194440', envhost:"www.wcti12.com", sectionname:"News", sectiontag:"news", sectionpath:"/news/" }; var adZone = 'local';  IBSYS.application.Application.mergeConfig({  "urlContent.category": "/news/", "urlContent.section": "", "urlContent.topic": "/news/", "urlContent.mediaType": "nitf",  "pageID": "142478", "pageTopicPath": "news" }); </p>
+<p> IBSYS.application.Application.mergeConfig({ "ads.excludeCategory": "",  "ads.defaultStrategy": "Dart" });  IBSYS.ad.AdManager.setZoneDistribution(  { "local":1}  );  IBSYS.ad.strategies.Default = IBSYS.ad.strategies.Dart; </p>
+<p> IBSYS.ad.AdManager.registerPosition({ "iframe": false, "companion": true, "addlSz": "", "element": "ad_N730079.2833", "interstitials": true, "beginDate": "", "endDate": "", "getSect": "yes", "name": "banner1", "qString": "", "width": "728", "height": "90", "section": "", "useId": "30194440", "interactive": false, "useSameCategory": false, "topic": "", "swSectionRoot": "", "useZone": "", "containerType": "page", "containerID": "142478", "type": "DOM" }); </p>
+<p> IBSYS.ad.AdManager.registerPosition({ "iframe": false, "companion": true, "addlSz": "", "element": "ad_N730079.2851", "interstitials": false, "beginDate": "", "endDate": "", "getSect": "yes", "name": "headerbrick", "qString": "", "width": "200", "height": "90", "section": "", "useId": "30194440", "interactive": false, "useSameCategory": false, "topic": "", "swSectionRoot": "", "useZone": "", "containerType": "page", "containerID": "142478", "type": "DOM" }); </p>
+<p> Greenville </p>
+<p> 46 </p>
+<p> ° </p>
+<p> Jacksonville </p>
+<p> 48 </p>
+<p> ° </p>
+<p> Atlantic Beach </p>
+<p> 49 </p>
+<p> ° </p>
+<p> Weather Conditions </p>
+<p> ZoomRadar </p>
+<p> Gas Prices </p>
+<p> Road Closures </p>
+<p> HOME </p>
+<p> NEWS </p>
+<p> Local/State </p>
+<p> Nation/World </p>
+<p> Politics </p>
+<p> Entertainment </p>
+<p> Odd and Irresistible </p>
+<p> Technology </p>
+<p> Local News Archive </p>
+<p> StormTrack 12 </p>
+<p> StormTrack 12 Weather Center </p>
+<p> StormTrack 12 Radar </p>
+<p> Hurricane Center </p>
+<p> WeatherWarn </p>
+<p> Closings/Delays </p>
+<p> Sports </p>
+<p> Headlines </p>
+<p> Video </p>
+<p> Scoreboard </p>
+<p> Community </p>
+<p> Happenings </p>
+<p> Photo Galleries </p>
+<p> Opinion </p>
+<p> Contests </p>
+<p> Living </p>
+<p> HealthView </p>
+<p> Auto </p>
+<p> Education </p>
+<p> Family </p>
+<p> Food and Cooking </p>
+<p> Gas Prices </p>
+<p> Health and Fitness </p>
+<p> House and Home </p>
+<p> Money </p>
+<p> Pets </p>
+<p> Travel and Getaways </p>
+<p> Video </p>
+<p> Fox Eastern Carolina </p>
+<p> News@10 </p>
+<p> Weather </p>
+<p> News Team </p>
+<p> Contests </p>
+<p> What's On </p>
+<p> Employment </p>
+<p> Advertise </p>
+<p> Contact </p>
+<p> What's On </p>
+<p> ABOUT </p>
+<p> Our Team </p>
+<p> Advertise </p>
+<p> Contact us </p>
+<p> Employment </p>
+<p> new IBSYS.features.Navigation("mainNav"); </p>
+<p> Home </p>
+<p> / </p>
+<p> News </p>
+<p> IBSYS.features.searchForm('bodyTopSearchForm'); </p>
+<p> RSS </p>
+<p> E-mail </p>
+<p> Twitter </p>
+<p> Facebook </p>
+<p> Mobile </p>
+<p> U.K. Mom Coughs Up Cancer </p>
+<p> By KATIE MOISSE // ABC News </p>
+<p> POSTED: 7:35 am EST January 12, 2012 </p>
+<p> United Kingdom -- </p>
+<p> A mother of six from Coventry, U.K., said shes cancer-free after coughing up a three-quarter-inch tumor. </p>
+<p> Claire Osborn, 37, was driving when she felt a tickle in her throat, </p>
+<p> the Daily Mail reported. </p>
+<p> Moments later, she hacked up a heart-shaped lump of liver-colored tissue. </p>
+<p> I knew something was very wrong so I went straight to my GP who sent the tissue sample away for tests, Osborn told the Daily Mail. </p>
+<p> The tests revealed Osborn had metastatic adenocarcinoma  an aggressive form of cancer that likely stemmed from glandular tissue at the back of her mouth. Doctors told her shed need chemotherapy to kill any remaining cancer and gave her 50-50 odds of surviving, Osborn said.  But when they ran a positron emission tomography (PET) scan to spot the cancer left behind, they found none. </p>
+<p> The consultant turned round to me and said, It appears you have coughed up your cancer. Congratulations, Osborn told the Daily Mail. I was totally flabbergasted. I couldnt believe a coughing fit had saved my life. </p>
+<p> Osborn had a small operation to remove any cancer cells that might have been lingering at the back of her mouth on Nov. 29, the Daily Mail reported. </p>
+<p> Dr. Gary Walton, the head and neck surgeon who treated Osborn, said its rare for patients to cough up cancer, but not impossible. </p>
+<p> We suspect the tumor grew on a stalk at the back of her mouth which is very difficult to detect, he told the Daily Mail. Somehow she dislodged this and the stalk snapped and she coughed up the tumor. </p>
+<p> Dr. Edward Kim, chief of head and neck medical oncology at MD Anderson Cancer Center in Houston, said the coughing fit acted as surgical resection of sorts. But he added that metastatic adenocarcinoma usually requires chemo and radiation treatment, too. </p>
+<p> Its very rare that these types of tumors dont require other treatments beyond surgery, he said. </p>
+<p> As for the fluky fit that alerted Osborn to her cancer, Kim estimated fewer than 5 percent of patients discover mouth and throat tumors haphazardly. </p>
+<p> Usually there are subtler symptoms, like difficulty with swallowing or speech, he said. </p>
+<p> Osborn said shes lucky to have coughed up the cancer before it invaded other parts of her body. </p>
+<p> If I hadnt coughed it up, the tumor would have grown and almost certainly spread to my other organs, she told the Daily Mail. Anyone with a persistent cough should get checked out as a precaution. </p>
+<p> Photo Courtesy: Daily Mail </p>
+<p> (function(){ var eventName = 'mediaType-tracking'; var eventData = { primary_media_type: {type: "story", coid: "30194440", pool: "bern"}, associated_media_types: [  {type: "associated-image", coid: "30194465"} ,  {type: "associated-image", coid: "30194465"}  ] }; IBSYS.application.Application.announceEventProxy(eventName, eventData); })(); </p>
+<p> Comments </p>
+<p> The views expressed are not those of WCTI12.com, WCTI NewsChannel 12 or its affiliated companies. By posting your comments, you agree to accept our </p>
+<p> Public Forum Terms of Use </p>
+<p> . </p>
+<p> This is a community-moderated forum. If you see a comment you feel is abuse/spam, use the blue "X" in the top-right corner of the post to report that comment. </p>
+<p> var comments_enabled = false; var metas = document.getElementsByTagName('meta'); for (var x=0,y=metas.length; x<y; x++) {                 if(metas[x].name.toLowerCase() == "dcsext.ib_comment_enabled"){                                 if (metas[x].content == "yes"){                                                 gogoFacebook();                                                               }                 } } function gogoFacebook(){ var facebook_span = document.getElementById('facebookComments'); facebook_span.style.display = "block";   theelement = document.getElementById('facebookComments'); facebooknode = document.createElement('fb:comments'); var links = document.getElementsByTagName('link'); for (var x=0,y=links.length; x<y; x++) {   if (links[x].rel.toLowerCase() == "canonical") {     canonical = links[x];     //facebooknode.setAttribute('href', canonical.href);     facebooknode.setAttribute('xid', canonical.href);    } } facebooknode.setAttribute('width', '625'); facebooknode.setAttribute('migrated', '1'); theelement.appendChild(facebooknode); } </p>
+<p> CONTESTS SECTION: </p>
+<p> Want to be a </p>
+<p> winner? </p>
+<p> To enter one of our contests, </p>
+<p> click here! </p>
+<p> Mugshots </p>
+<p> NEW ADDITIONS » » » </p>
+<p> <!--   //Javascript Created by Computerhope http://www.computerhope.com   //store the quotations in arrays   images = new Array(7);   images[0] = "<a href = 'http://www.wcti12.com/photos/25039063/detail.html'><img src='http://images.ibsys.com/2011/0812/28848442.jpg'></a>";   images[1] = "<a href = 'http://www.wcti12.com/photos/25039063/detail.html'><img src='http://images.ibsys.com/2011/0812/28848444.jpg'></a>";  images[2] = "<a href = 'http://www.wcti12.com/photos/25039063/detail.html'><img src='http://images.ibsys.com/2011/0812/28848445.jpg'></a>";  images[3] = "<a href = 'http://www.wcti12.com/photos/25039063/detail.html'><img src='http://images.ibsys.com/2011/0812/28848446.jpg'></a>";  images[4] = "<a href = 'http://www.wcti12.com/photos/25039063/detail.html'><img src='http://images.ibsys.com/2011/0812/28848448.jpg'></a>";  images[5] = "<a href = 'http://www.wcti12.com/photos/25039063/detail.html'><img src='http://images.ibsys.com/2011/0812/28848449.jpg'></a>";  images[6] = "<a href = 'http://www.wcti12.com/photos/25039063/detail.html'><img src='http://images.ibsys.com/2011/0812/28848450.jpg'></a>";  index = Math.floor(Math.random() * images.length);   document.write(images[index]);   //done   // --> </p>
+<p> <!--   //Javascript Created by Computerhope http://www.computerhope.com   //store the quotations in arrays   images = new Array(7);   images[0] = "<a href = 'http://www.wcti12.com/photos/20067310/detail.html'><img src='http://images.ibsys.com/2012/0106/30152204.jpg'></a>";   images[1] = "<a href = 'http://www.wcti12.com/photos/20067310/detail.html'><img src='http://images.ibsys.com/2012/0106/30152205.jpg'></a>";  images[2] = "<a href = 'http://www.wcti12.com/photos/20067310/detail.html'><img src='http://images.ibsys.com/2012/0106/30152206.jpg'></a>";  images[3] = "<a href = 'http://www.wcti12.com/photos/20067310/detail.html'><img src='http://images.ibsys.com/2012/0106/30152207.jpg'></a>";  images[4] = "<a href = 'http://www.wcti12.com/photos/20067310/detail.html'><img src='http://images.ibsys.com/2012/0106/30152208.jpg'></a>";  images[5] = "<a href = 'http://www.wcti12.com/photos/20067310/detail.html'><img src='http://images.ibsys.com/2012/0106/30152209.jpg'></a>";  images[6] = "<a href = 'http://www.wcti12.com/photos/20067310/detail.html'><img src='http://images.ibsys.com/2012/0106/30152210.jpg'></a>";  index = Math.floor(Math.random() * images.length);   document.write(images[index]);   //done   // --> </p>
+<p> LOCAL </p>
+<p> NATIONAL </p>
+<p> Also check out these CELEBRITY mug shots! </p>
+<p> Editor's Picks </p>
+<p> BBQ Joint Blasted Over Viral Customer Tiff </p>
+<p> No Jail Time For Dad Who Threw Son Off Boat </p>
+<p> Facebook Post Leads To Daddy's Indictment </p>
+<p> Airport Security Confiscates Woman's Cupcake </p>
+<p> Woman Forced To Attempt A Bank Robbery </p>
+<p> Twinkie Makers Set For Bankruptcy? </p>
+<p> Police Arrest Beezow Doo-Doo Zopittybop-Bop-Bop </p>
+<p> Relatives Accused of Killing Teen They Thought Was a Witch </p>
+<p> Papa Johns Employee Calls Woman Lady Chinky Eyes on Receipt </p>
+<p> Homework Asks, If Fred Got Two Beatings Per Day </p>
+<p> Most Popular </p>
+<p> Stories </p>
+<p> Possible Tornado Rips Through Two Counties </p>
+<p> NC NEWS  The National Weather Service says an apparent tornado ripped through Rutherford and Burke counties in western North Carolina, toppling trees, snapping power lines and causing significant damage to a mobile home park. </p>
+<p> North Carolina Factory To Bulk Up Hiring </p>
+<p> NC NEWS  A North Carolina factory that builds long-distance Freightliner trucks is announcing plans to bulk up hiring after the recession forced it to cut thousands of jobs. </p>
+<p> 3 In Hospital After Late Night Crash </p>
+<p> CRAVEN COUNTY Two women And a child are in the hospital after a two-car crash in Craven County. </p>
+<p> 15 Injured in Storms in 2 North Carolina Counties </p>
+<p> NC NEWS At least 15 people have been hurt in an apparent tornado that struck two counties in western North Carolina. </p>
+<p> U.K. Mom Coughs Up Cancer </p>
+<p> INTERNATIONAL NEWS A mother of six from Coventry, U.K., said shes cancer-free after coughing up a three-quarter-inch tumor. </p>
+<p> Video </p>
+<p> Housing Authority Meeting </p>
+<p> Marine Conduct In Question </p>
+<p> Cat Hit by Arrow </p>
+<p> Sports Highlights: Jan 11 </p>
+<p> Police Investigating Sorority House Break-Ins </p>
+<p> Slideshows </p>
+<p> Best Of Local Mugshots </p>
+<p> All information taken from public records. All images show people who face the listed charges. They are innocent until proven guilty. </p>
+<p> Celebrity Mug Shots </p>
+<p> Take a tour of our gallery of celebrity mug shots, featuring familiar faces dating back to 1938. </p>
+<p> Best Of The Worst: Mug Shot Hall Of Shame </p>
+<p> Check out these lookers who ran into the law. </p>
+<p> More Most Popular </p>
+<p> » </p>
+<p> Email Sign-up </p>
+<p> E - News Registration </p>
+<p> National Breaking News </p>
+<p> Local Breaking News </p>
+<p> Lunchtime Headlines </p>
+<p> Evening Headlines </p>
+<p> IBSYS.application.Application.registerComponent('IBSYS.widgets.ezMailForm','N73007A18EA',{ 'emailPrompt':'Enter Email' }); </p>
+<p> IBSYS.ad.AdManager.registerPosition({ "iframe": false, "companion": true, "addlSz": "", "element": "ad_N730079.BFC", "interstitials": false, "beginDate": "", "endDate": "", "getSect": "yes", "name": "brick", "qString": "", "width": "300", "height": "50", "section": "", "useId": "30194440", "interactive": false, "useSameCategory": false, "topic": "", "swSectionRoot": "", "useZone": "", "containerType": "page", "containerID": "142478", "type": "DOM" }); </p>
+<p> Bonten Media News </p>
+<p> Gray Wolf 'OR7' Confirmed In Shasta County </p>
+<p> Man Tries To Set Girlfriend On Fire After Dousing Her In Flammable Liquid </p>
+<p> Sheriff's Office Releases Names Of 2 Killed In Bus Accident </p>
+<p> $100,000 Dump Truck Stolen From Roofing Business </p>
+<p> IBSYS.ad.AdManager.registerPosition({ "iframe": false, "companion": true, "addlSz": "", "element": "ad_N730079.16A9", "interstitials": false, "beginDate": "", "endDate": "", "getSect": "yes", "name": "square", "qString": "", "width": "300", "height": "250", "section": "", "useId": "30194440", "interactive": false, "useSameCategory": false, "topic": "", "swSectionRoot": "", "useZone": "", "containerType": "page", "containerID": "142478", "type": "DOM" }); </p>
+<p> Links We Like </p>
+<p> cdsTag = {}; 	cdsTag.zones = {}; 	cdsTag.zones.as1000008008207 = { "size" : "300x404", "id" : "1000008008207" }; 	cdsTag.siteId = 1000101862180; 	cdsTag.keywords = null; 	cdsTag.user = null; </p>
+<p> cdsPlaceAd("as1000008008207"); </p>
+<p> Sponsored Links </p>
+<p> cdsTag = {}; 	cdsTag.zones = {}; 	cdsTag.zones.as1000008155207 = { "size" : "300x360", "id" : "1000008155207" }; 	cdsTag.siteId = 1000101862180; 	cdsTag.keywords = null; 	cdsTag.user = null; </p>
+<p> cdsPlaceAd("as1000008155207"); </p>
+<p> .ib_rw_container { font-family: Verdana,Arial,sans-serif; font-size: 12px; font-weight: normal; width: 270px;} .ib_rw_list{ margin-left: 5px; padding-left: 10px; } .ib_rw_list_item  { padding-bottom: 6px;  padding-top: 4px; float: left; } .ib_rw_anchor{} .ib_rw_image{ border: 1px solid black;margin: 0px 10px 0px 0px;} .ib_rw_container a.ib_rw_anchor, .ib_rw_container a.ib_rw_anchor:link, .ib_rw_container a.iconed:visited{font-size: 12px;color: #000066;text-decoration: none;font-weight:bold;} a.ib_rw_anchor:hover{text-decoration: underline;} .ib_rw_filler{ cursor: pointer;display: inline-block;height: 12px;left: 3px;margin-right: -22px;margin-top: 1px;position: relative;vertical-align: top;width: 22px;} .ib_rw_titlebar{margin: 0;border-bottom: 1px solid #000066;padding: 4px 4px 3px;font: bold 14px Arial,Verdana,sans-serif;} .yui-u .rotatingWidget div.sectionwidget0{height:230px;}/* POST */ div#sw26132670 div.sectionwidget0{height:240px;} /* TELE */ .gatewayOn div#sw26132670 div.sectionwidget0{height:230px;} /* Hearst*/ </p>
+<p> .cds_sl_rw_container { height:230px; padding: 5px 10px 0; } .cds_sl_rw_container_liner { height: 220px; overflow:visible; } .cds_sl_rw_ad_liner { padding-top: 5px; } </p>
+<p> Table of Contents </p>
+<p> Home </p>
+<p> News </p>
+<p> Weather </p>
+<p> Sports </p>
+<p> Community </p>
+<p> Politics </p>
+<p> Money </p>
+<p> Video </p>
+<p> About </p>
+<p> Fox Eastern Carolina </p>
+<p> Copyright © 2012 WCTI / WFXI / WYDO     New Bern, NC USA - All Rights Reserved. </p>
+<p> In association with: </p>
+<p> Contact Us </p>
+<p> | </p>
+<p> Privacy Policy </p>
+<p> | </p>
+<p> Terms Of Use </p>
+<p> | </p>
+<p> Advertising </p>
+<p> | </p>
+<p> EEO Policy </p>
+<p> | </p>
+<p> Microsoft MapPoint Terms of Use </p>
+<p> | </p>
+<p> Microsoft Privacy Statement </p>
+<p> | </p>
+<p> Site Map </p>
+<p> | </p>
+<p> Some Images Provided by Weather Underground, Inc. </p>
+<p> <!-- gVersion="1.0"; //--> </p>
+<p> <!-- gVersion="1.1"; //--> </p>
+<p> <!-- gVersion="1.2"; var RE={"%09":/\t/g,"%20":/ /g,"%23":/\#/g,"%26":/\&/g,"%2B":/\+/g,"%3F":/\?/g,"%5C":/\\/g}; //--> </p>
+<p> <!-- gVersion="1.3"; if (window.ActiveXObject){ 	var gFV=""; 	for (var gVer=2;gVer<=10;gVer++){ 		try{ 			var gFlash = eval("new ActiveXObject('ShockwaveFlash.ShockwaveFlash."+gVer+"');"); 			if (gFlash){ 				gFV=gVer+".0"; 				break; 			} 		} 		catch(e){ 		} 	} } //--> </p>
+<p> <!-- gVersion="1.4"; //--> </p>
+<p> <!-- gVersion="1.5"; //--> </p>
+<p> <!-- var gImages=new Array; var gIndex=0; var DCS=new Object(); var WT=new Object(); var DCSext=new Object(); var gQP=new Array();  var gDomain="statse.webtrendslive.com"; var gDcsId=siteinfo.thirdparty_info.WT_info.id; if (siteinfo.callletters.uc)     DCSext.ib_station=siteinfo.callletters.uc; else     DCSext.ib_station=siteinfo.sitekey.uc; if (siteinfo.owner)     DCSext.ib_partner=siteinfo.owner; else     DCSext.ib_partner=siteinfo.sitename.mx;  if (siteinfo.distribution) {   DCSext.ib_ntwk = siteinfo.distribution; }  (function() {   if (IBSYS.ad.getDartNulls) {     var nullAds = IBSYS.ad.getDartNulls();     if (nullAds) {       DCSext.ib_null_ads = nullAds;     }   } })(); //--> </p>
+<p> IBSYS.using('WebTrends'); if (typeof ib_WTCustomTags == "function") ib_WTCustomTags(); if (typeof IBSYS.WebTrends.collectUserData == 'function') IBSYS.WebTrends.collectUserData(); if (typeof dcsVar == "function") dcsVar();  if (IBSYS.application.Application.getProperty('tracking.remapReferrer') && document.referrer && IBSYS.propPath('siteinfo.distribution') == 'ext') {   (function() {     var ref = document.referrer.match(/(?:[^:]+:\/\/)?([^\/]+)([^\?]*)\??(.*)/);     window.DCS.dcssip = ref[1];     window.DCS.dcsuri = ref[2];     window.DCS.dcsqry = ref[3];   })(); }  if (IBSYS.propPath('IBSYS.widgets.LinksWeLike')) {   IBSYS.widgets.LinksWeLike.prepLegacyWT(); }  if (typeof dcsMeta == "function")  dcsMeta(); if (typeof dcsFunc == "function") dcsFunc("dcsAdv"); if (IBSYS && IBSYS.event) {   (function() {     var e = new IBSYS.event.GlobalEvent('beforeDcsTag');     try {       IBSYS.application.Application.announceEvent(e);     } catch (ex) {}   })(); } if (typeof dcsTag == "function") {   if (window.location.hostname.indexOf('channel4000.com') < 0) {     if (IBSYS.qs('noWTPageView') != 'true' && !IBSYS.noLegacyTracking) {       dcsTag();     }   } else {     setTimeout(function() {       dcsTag();     }, 2000);   } } </p>
+<p> var _comscore = _comscore || [];   _comscore.push({ c1: "2", c2: "12367761" });   (function() {     var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;     s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";     el.parentNode.insertBefore(s, el);   })(); </p>
+<p> _qoptions={ qacct:"p-41jrVeSPpekVU", labels:"Bonten Television Stations" }; </p>

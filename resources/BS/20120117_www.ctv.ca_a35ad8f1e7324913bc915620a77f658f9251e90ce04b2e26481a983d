@@ -1,0 +1,503 @@
+<p> var ctv_mobile_device = new Array("iphone", "ipod", "blackberry"); var agent = navigator.userAgent.toLowerCase();	 for(var i=0; i<ctv_mobile_device.length;i++){		 	if (ctv_mobile_device[i] != "" && agent.indexOf(ctv_mobile_device[i]) > -1) {			 		window.location = getMobileURL(); 	}  } function getMobileURL(){ 	var mobileURL = "http://m.ctv.ca";	 	var hub = "Health"; 	var hub = hub.toLowerCase(); 	if(hub == "topstoriesv2") 		hub = "topstories"; 	if(hub == "entertainmentv2") 		hub = "entertainment"; 	if(hub == "nationalnews") 		hub = "thedesk"; 	if(hub == "scitech") 		hub = "tech"; 	var slug = "headphone-pedestrians-accidents-120117"; 	var date = "20120117"; 	mobileURL = mobileURL + "/" + hub + "/" + date + "/" + slug + ".html"; 	return mobileURL; } </p>
+<p> Accidents involving headphone-wearing pedestrians on the rise | CTV News </p>
+<p> var szone=getAdName("Health"); </p>
+<p> iBox.setPath('http://www.ctv.ca/v2/js/'); 		iBox.padding = 50; 		iBox.inherit_frames = false; </p>
+<p> _AUTO_TRACK = false; </p>
+<p> var _gaq = _gaq || []; 		  _gaq.push(['_setAccount', 'UA-17793158-1']); 		  _gaq.push(['_setDomainName', 'ctv.ca']); 		  _gaq.push(['_trackPageview']); 		  (function() { 			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; 			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); 		  })(); </p>
+<p> if(document.location.protocol=='http:'){ 			 			var Tynt=Tynt||[];Tynt.push('bBoFce7OKr4lajacwqm_6l');Tynt.i={"ap":"Read more:"}; 			 			(function(){var s=document.createElement('script');s.async="async";s.type="text/javascript";s.src='http://tcr.tynt.com/ti.js';var h=document.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);})(); 			 			} </p>
+<p> @media screen and (-webkit-min-device-pixel-ratio:0) { 	.moreStory .clear {height: 10px!important; } } </p>
+<p> if ("" == "ad=n&") { var showTop="N"; setNoAd(); } </p>
+<p> _AUTO_TRACK = false; </p>
+<p> var _gaq = _gaq || [];   _gaq.push(['_setAccount', 'UA-17793158-1']);   _gaq.push(['_setDomainName', '.ctv.ca']);   _gaq.push(['_trackPageview']);    (function() {     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);   })(); </p>
+<p> placeRandom("728x90"); </p>
+<p> CTV </p>
+<p> CTV.ca </p>
+<p> Mobile </p>
+<p> Canada AM </p>
+<p> Autos </p>
+<p> Entertainment </p>
+<p> Olympics </p>
+<p> Contests </p>
+<p> Local Stations </p>
+<p> Pick your location </p>
+<p> Atlantic </p>
+<p> British Columbia </p>
+<p> Calgary </p>
+<p> Edmonton </p>
+<p> Montreal </p>
+<p> Northern Ontario </p>
+<p> Ottawa </p>
+<p> Regina </p>
+<p> Saskatoon </p>
+<p> Southwestern Ontario </p>
+<p> Toronto </p>
+<p> Winnipeg </p>
+<p> All CTV Stations </p>
+<p> #share7 {background-image:url(http://images.ctv.ca/v2/images/buttons/minus.gif)!important;} 					#rate7 {display: block!important} </p>
+<p> Health </p>
+<p> - </p>
+<p> <!-- Hide script from old browsers 	document.write(dayName[now.getDay()] + "&nbsp;" + monName[now.getMonth()] + ".&nbsp;" + now.getDate() + ",&nbsp;" + now.getFullYear())  	// End hiding script from old browsers --> </p>
+<p> News Sections </p>
+<p> Top Stories </p>
+<p> Canada </p>
+<p> Atlantic </p>
+<p> British Columbia </p>
+<p> Calgary </p>
+<p> Edmonton </p>
+<p> Montreal </p>
+<p> Northern Ontario </p>
+<p> Ottawa </p>
+<p> Regina </p>
+<p> Saskatoon </p>
+<p> Southwestern Ontario </p>
+<p> Toronto </p>
+<p> Winnipeg </p>
+<p> World </p>
+<p> Canada in Afghanistan </p>
+<p> Canadian Casualties </p>
+<p> Entertainment </p>
+<p> Photo Galleries </p>
+<p> Movie Reviews </p>
+<p> TIFF </p>
+<p> About </p>
+<p> e </p>
+<p> talk </p>
+<p> Oscars </p>
+<p> Junos </p>
+<p> Sports </p>
+<p> CTV Olympics </p>
+<p> TSN Scoreboard </p>
+<p> Business </p>
+<p> Current Markets </p>
+<p> Sci-Tech </p>
+<p> Webnation </p>
+<p> Health </p>
+<p> MedNews Express </p>
+<p> Health Blog </p>
+<p> Avis Favaro </p>
+<p> Dr. Marla Shapiro </p>
+<p> Dr. Rhonda Low </p>
+<p> Politics </p>
+<p> CTV Question Period </p>
+<p> Power Play </p>
+<p> Election 2011 </p>
+<p> Weather </p>
+<p> Canada </p>
+<p> United States </p>
+<p> International </p>
+<p> Weather Restrictions </p>
+<p> News Programs </p>
+<p> CTV National News with Lisa LaFlamme </p>
+<p> Watch CTV National News </p>
+<p> Canada AM </p>
+<p> Canada AM Family </p>
+<p> Recipes </p>
+<p> Food </p>
+<p> Travel Tips </p>
+<p> Health </p>
+<p> Movies </p>
+<p> Gardening </p>
+<p> Home & Decor </p>
+<p> Nutrition </p>
+<p> Fitness </p>
+<p> Consumer Alert </p>
+<p> W5 </p>
+<p> W5 archive </p>
+<p> Victor Malarek </p>
+<p> Power Play </p>
+<p> Question Period </p>
+<p> Features </p>
+<p> Autos </p>
+<p> Consumer </p>
+<p> Browse: </p>
+<p> Video </p>
+<p> Galleries </p>
+<p> MyNews </p>
+<p> 1 </p>
+<p> Home </p>
+<p> : </p>
+<p> Health </p>
+<p> : </p>
+<p> Accidents involving headphone-wearing pedestrians on the rise </p>
+<p> Accidents involving headphone-wearing pedestrians on the rise </p>
+<p> .slideImage{filter:progid:DXImageTransform.Microsoft.Fade()} </p>
+<p> <!--  var SLIDES = new slideshow("SLIDES"); SLIDES.timeout = 1000; SLIDES.prefetch = -1; SLIDES.repeat = true;            win_width1 = 650; win_height1 = 650; win_prop1 = "width="+win_width1+",height="+win_height1+",status=no,scrollbars=0,resizable=1,toolbar=no,left=1,screenX=1,screenY=0"; //alert(win_prop1); //FULL SIZE IS       	  	     s = new slide(); s.src =  "http://images.ctv.ca/archives/CTVNews/img2/20111214/470_ott_swarming_man_ballcap_headphones_111214.jpg?2";   	s.text = unescape(""); 	     	s.link = ""; 		  	 s.target = ""; s.attr = ""; s.filter = ""; SLIDES.add_slide(s);          if (false) SLIDES.shuffle(); //--> </p>
+<p> <!-- // For browsers that cannot change the HTML on the page, // display all of the text from the slideshow. // I place this within the DIV, so browers won't see it // if they can change the DIV. nodivtext = SLIDES.get_all_text("<li>", "<p>\n"); if (nodivtext) {   document.write("<UL>\n" + nodivtext + "\n</UL>"); } //--> </p>
+<p> View Larger Image </p>
+<p> document.getElementById("slideShowThing").onclick = iBox.handleTag; </p>
+<p> <!--  if (document.images) {  SLIDES.image = document.images.SLIDESIMG;  // Create a function to ramp up the image opacity in Mozilla var fadein_opacity = 0.04; var fadein_img = SLIDES.image; function fadein(opacity) {   if (typeof opacity != 'undefined') { fadein_opacity = opacity; }   if (fadein_opacity < 0.99 && fadein_img && fadein_img.style &&       typeof fadein_img.style.MozOpacity != 'undefined') {      fadein_opacity += .05;     fadein_img.style.MozOpacity = fadein_opacity;     setTimeout("fadein()", 50);   } }  // Tell the slideshow to call our function whenever the slide is changed SLIDES.post_update_hook = function() { fadein(0.04); }  }   //--> </p>
+<p> <!-- if (document.images) {   SLIDES.image = document.images.SLIDESIMG;   SLIDES.textid = "SLIDESTEXT";   SLIDES.update();    } //--> </p>
+<p> SLIDES.showHideViewT(); </p>
+<p> .fb_share_count_top{font-size: 15px!important; font-weight:bold} 	.fb_share_count {font-family:Arial, Helvetica, sans-serif!important} 	.storyUserTop {border-top: 1px solid #cecdcb; border-bottom: 1px solid #cecdcb; border-left: none; border-right: none; background-color: #edecea; height:60px} 	.storyUserTop a:hover {text-decoration:underline!important} 	.storyUserTop a {color: #006699!important; font-size: 11px} 	.fbtw {margin-left: 195px; position:absolute} </p>
+<p> function printStory() {           var printUrl = 'http://www.ctv.ca/servlet/ArticleNews/print/CTVNews/20120117/headphone-pedestrians-accidents-120117/20120117/?hub=Health&subhub=PrintStory';           window.open(printUrl, 'PopUpPrintStory', 'height=445,width=696,menubar=yes,toolbar=yes,navbar=no,scrollbars=yes,resizable=yes');           return false;       }; </p>
+<p> A </p>
+<p> A </p>
+<p> | </p>
+<p> Email </p>
+<p> | </p>
+<p> .fbtw {margin-left: 30px} </p>
+<p> Print </p>
+<p> | </p>
+<p> Comments (3) </p>
+<p> | </p>
+<p> Add Comments </p>
+<p> Tweet </p>
+<p> Share </p>
+<p> More on this topic </p>
+<p> Injury Prevention: Headphone use and pedestrian injury and death in the United States </p>
+<p> The Canadian Press </p>
+<p> Date: </p>
+<p> Tuesday Jan. 17, 2012 7:14 AM ET </p>
+<p> TORONTO </p>
+<p>  A new U.S. study looking at injuries and deaths of pedestrians who were wearing headphones finds that trains were involved in more than half of the cases identified. </p>
+<p> The researchers studied databases for reports from 2004 to 2011 of accidents involving people wearing headphones. </p>
+<p> Their study published in the journal Injury Prevention on Tuesday found 116 reports of death or injury of pedestrians wearing headphones, of which 81 were fatal. During the study period, the number of cases tripled. </p>
+<p> The researchers suggest that the use of headphones with handheld devices may pose a safety risk to pedestrians, especially in environments with moving vehicles. </p>
+<p> Fifty-five per cent of the accidents the researchers identified involved trains, and the majority of victims were male and under the age of 30. </p>
+<p> Almost nine out of 10 cases were in urban areas, and almost three in 10 cases mentioned that a warning was sounded before the crash. </p>
+<p> The researchers acknowledged a number of limitations to their research. For instance, it relied on media reporting "which likely over-publishes tragic events but vastly under-publishes non-fatal cases." </p>
+<p> And factors other than the use of headphones -- such as suicidal intentions, substance abuse or mental illness -- may have played a role in some of the pedestrian injuries and fatalities. They suggested more study is needed. </p>
+<p> "The use of cellphones and MP3 players is increasing. The risks posed in use of these devices by drivers are well documented, but little is known about the association between headphone use and pedestrian injury," wrote the researchers, based at the University of Maryland. </p>
+<p> "The danger in using headphones as a pedestrian may be explained by two phenomena: auditory masking of outside stimuli (environmental isolation) and distraction (inattentional blindness)." </p>
+<p> The study involved searches of the National Electronic Injury Surveillance System, U.S. Consumer Product Safety Commission, Google News Archives and Westlaw Campus Research databases. </p>
+<p> 1 </p>
+<p> Add </p>
+<p> document.getElementById("commentPopUp").onclick = iBox.handleTag; </p>
+<p> var numComments = 3; </p>
+<p> New Comment ( </p>
+<p> document.write(numComments); </p>
+<p> ) </p>
+<p> Ryan, Guelph </p>
+<p> said </p>
+<p> A first step... not surprising findings. I see people do stupid things when they're plugged in all the time. Hopefully they can do some solid research and people realize just how zoned out they really are, to the point of getting themselves killed. </p>
+<p> L Neil </p>
+<p> said </p>
+<p> "Auditory masking of outside stimuli.".....love how this person makes " wearing earphones" sound so sophisticated and scientific....headphones   ignoring life around you = pain/death....easy as that...... </p>
+<p> David H in Ottawa </p>
+<p> said </p>
+<p> Technology was supposed to make man smarter; we've become antisocial, lazy and perhaps even less intelligent.  Put down the blackberries/iphones and talk to your neighbour, be it across the table or street. </p>
+<p> User Tools </p>
+<p> Print Article </p>
+<p> Feedback </p>
+<p> Share with your social Network: </p>
+<p> .time {display:none!important} </p>
+<p> placeRandom("300x250"); </p>
+<p> Advertisement </p>
+<p> Related Stories </p>
+<p> B.C. medical journal calls for cap on iPod volumes </p>
+<p> Dead pedestrian was reportedly wearing ear buds </p>
+<p> var so1 = new SWFObject("/v2/swf/contestRotatorBeta.swf", "CTVContestSWF", "300", "100", "9", "transparent"); 	so1.addParam("allowScriptAccess", "always"); 	so1.addParam("wmode", "transparent"); 	so1.addVariable("theFile", "/generic/generated/news/ContestImagesBeta.html");  // pass in whatever you want for the playlist parameter here. 	so1.useExpressInstall('http://www.ctv.ca/v2/expressinstall.swf');  // this will auto-upgrade the user if necessary without them having to leave the site 	so1.write("flashContest");  // "Flashbase" is the HTML ID of the container you want the SWF to reside in. </p>
+<p> Contest </p>
+<p> document.getElementById("flashContest").style.display = "none"; </p>
+<p> .contest-box {display:none} .underContest {margin-top:0px;} </p>
+<p> Subscribe! </p>
+<p> CTV MedNews Express </p>
+<p> Sign up for our weekly medical newsletter, delivered for free to your inbox. </p>
+<p> CTV.ca Blogs </p>
+<p> Health Blog </p>
+<p> Check out what our guest medical experts and CTV health reporters are writing about. </p>
+<p> Twitter </p>
+<p> Follow us on Twitter </p>
+<p> Follow CTV medical specialist Avis Favaro on Twitter. </p>
+<p> Most Popular </p>
+<p> Canadian shot to death with high-powered firearm in Mexico </p>
+<p> Rescuers blast holes in hull of stricken cruise ship </p>
+<p> Gervais' agent has been told not to let him host again </p>
+<p> Wikipedia will go dark in protest of legislation </p>
+<p> Accidents involving headphone-wearing pedestrians on the rise </p>
+<p> Megan Fox, Lindsay Lohan competing to play Liz Taylor </p>
+<p> Tanker begins fuel transfer at iced-in Alaskan city </p>
+<p> Make helmets mandatory on the slopes, society says </p>
+<p> Today's Health Stories </p>
+<p> Make helmets mandatory on the slopes, society says </p>
+<p> More </p>
+<p> 9 </p>
+<p> //create_date 20120117 //date 20120117 </p>
+<p> U.S. draft report:  Alzheimer's treatment by 2025 </p>
+<p> More </p>
+<p> //create_date 20120117 //date 20120117 </p>
+<p> Accidents involving headphone-wearing pedestrians on the rise </p>
+<p> More </p>
+<p> 3 </p>
+<p> //create_date 20120117 //date 20120117 </p>
+<p> Most Viewed News Stories </p>
+<p> Canadian shot to death with high-powered firearm in Mexico </p>
+<p> Rescuers blast holes in hull of stricken cruise ship </p>
+<p> Gervais' agent has been told not to let him host again </p>
+<p> Wikipedia will go dark in protest of legislation </p>
+<p> Accidents involving headphone-wearing pedestrians on the rise </p>
+<p> Megan Fox, Lindsay Lohan competing to play Liz Taylor </p>
+<p> Tanker begins fuel transfer at iced-in Alaskan city </p>
+<p> Make helmets mandatory on the slopes, society says </p>
+<p> View More News Stories </p>
+<p> Most Talked about Stories </p>
+<p> Technology was supposed to make man smarter; we've become antisocial, lazy and perhaps even less intelligent.  Put down the blackberries/iphones and talk to your neighbour, be it across the table or street. </p>
+<p> David H in Ottawa </p>
+<p> Accidents involving headphone-wearing pedestrians on the rise </p>
+<p> Got something to say? Share on CTV News </p>
+<p> if (document.getElementsByTagName("title")[0].innerHTML == ("")) { if (document.getElementsByTagName("title")[1] != null) { document.title = document.getElementsByTagName("title")[1].innerHTML; } else if (document.getElementsByTagName("META")[4] != null) { document.title = document.getElementsByTagName("META")[4].content } } </p>
+<p> if (document.getElementById("content") != null) { var atags = document.body.getElementsByTagName("a"); var tempLink; for (i = 0; i < atags.length; i++) { tempLink = atags[i].getAttribute('href'); if (tempLink != null && tempLink.indexOf("twitter.com") == -1 && tempLink.indexOf("mailto:") == -1) { if (atags[i].getAttribute('href').indexOf("mini") == -1 && atags[i].getAttribute('href').indexOf("storyv2") == -1 && atags[i].getAttribute('href').indexOf("/servlet/HTMLTemplate/!ctvPop/News/") == -1) { } atags[i].setAttribute("href", atags[i].getAttribute('href').replace("businessBN/ctv-business", "businessBN/ctv-business?ctvBeta=yes"));  if (atags[i].getAttribute('href').charAt(0) == "/" && atags[i].getAttribute('href').indexOf("mini") == -1) { } } } } includeTracking(); </p>
+<p> function sendEmailOmn()     {               }  var locBar = window.location.href; var nullURL = ""; //for stories if (typeof(window["hbx"]) == "undefined") {        	if (locBar.indexOf("page-not-found-101122") != -1){ 		//do nothing 	}     else if (locBar.indexOf("servlet/ArticleNews/story/CTVNews") != -1 || locBar.indexOf("www.ctv.ca/CTVNews") != -1 || locBar.indexOf("autos.ctv.ca/CTVNews") != -1)     { 	    var hubVal = switchHubs("Health"); 	    var pnn = "headphone-pedestrians-accidents-120117"; 	    Tracking.SetSiteSection( "ctvnews" ); 	    Tracking.SetContentTitle(pnn.toLowerCase()); 	    var creditL = "The Canadian Press"; 	    var s1 = hubVal.toLowerCase(); 	    var s2 = "story"; 	    var s3; 	    if (creditL.indexOf("Associated Press") != -1 || creditL.indexOf("Canadian Press") != -1) 	    {		 		    s3 = "cp"; 	    } 	    else 	    { 		    s3 = null; 	    } 	    var totalString = "ctvnews : " + chec(s1) + chec(s2) + chec(s3) + pnn.toLowerCase(); 	    Tracking.SetPageName(totalString.toLowerCase()); 		/* 		if(pnn == "page-not-found-101122"){ 			Tracking.SetPageType("errorPage"); 		} 		*/ 	    Tracking.SetSubSections(cap(s1), cap(s2), cap(s3)); 	    Tracking.Track();	     }	 else if (locBar.indexOf("servlet/ArticleNews/corp/CTVShows") != -1)     {             var pnn = "headphone-pedestrians-accidents-120117";             Tracking.SetSiteSection( "corporate" );             Tracking.SetContentTitle(pnn.toLowerCase());             var s1 = "general"; 	    if ("Top,Top,Top" == "Top")             {                 s1 = "annoucements";             }             var s2 = null;             var s3 = null;      	    var totalString = "corporate : " + chec(s1) + chec(s2) + chec(s3) + pnn.toLowerCase();             Tracking.SetPageName(totalString.toLowerCase());             Tracking.SetSubSections(cap(s1), cap(s2), cap(s3));             Tracking.Track();     }     else if (locBar.indexOf("autos.ctv.ca/cgi-bin") != -1) {         Tracking.SetSiteSection( "ctvnews" );         var s1 = "autos";         var s2 = null;         var s3 = null;         var pnn = "Inside";         var totalString = "ctvnews : " + chec(s1) + chec(s2) + chec(s3) + pnn.toLowerCase();         Tracking.SetPageName(totalString.toLowerCase());         Tracking.SetSubSections(cap(s1), cap(s2), cap(s3));         Tracking.Track(); } else if (locBar.indexOf("autos.ctv.ca/reviews") != -1) {         Tracking.SetSiteSection( "ctvnews" );         var s1 = "autos";         var s2 = null;         var s3 = null;         var pnn = "reviews";         var totalString = "ctvnews : " + chec(s1) + chec(s2) + chec(s3) + pnn.toLowerCase();         Tracking.SetPageName(totalString.toLowerCase());         Tracking.SetSubSections(cap(s1), cap(s2), cap(s3));         Tracking.Track(); } else if (locBar.indexOf("autos.ctv.ca/cartips") != -1) {         Tracking.SetSiteSection( "ctvnews" );         var s1 = "autos";         var s2 = null;         var s3 = null;         var pnn = "cartips";         var totalString = "ctvnews : " + chec(s1) + chec(s2) + chec(s3) + pnn.toLowerCase();         Tracking.SetPageName(totalString.toLowerCase());         Tracking.SetSubSections(cap(s1), cap(s2), cap(s3));         Tracking.Track(); } else if (locBar.indexOf("autos.ctv.ca/greendriving") != -1) {         Tracking.SetSiteSection( "ctvnews" );         var s1 = "autos";         var s2 = null;         var s3 = null;         var pnn = "greendriving";         var totalString = "ctvnews : " + chec(s1) + chec(s2) + chec(s3) + pnn.toLowerCase();         Tracking.SetPageName(totalString.toLowerCase());         Tracking.SetSubSections(cap(s1), cap(s2), cap(s3));         Tracking.Track(); } else if (locBar.indexOf("autos.ctv.ca/photos") != -1) {         Tracking.SetSiteSection( "ctvnews" );         var s1 = "autos";         var s2 = null;         var s3 = null;         var pnn = "photos";         var totalString = "ctvnews : " + chec(s1) + chec(s2) + chec(s3) + pnn.toLowerCase();         Tracking.SetPageName(totalString.toLowerCase());         Tracking.SetSubSections(cap(s1), cap(s2), cap(s3));         Tracking.Track(); } else if (locBar.indexOf("autos.ctv.ca") != -1 && locBar.indexOf("testautos.ctv.ca") == -1) {         Tracking.SetSiteSection( "ctvnews" );         var s1 = "autos";         var s2 = null;         var s3 = null;         var pnn = "Home";         var totalString = "ctvnews : " + chec(s1) + chec(s2) + chec(s3) + pnn.toLowerCase();         Tracking.SetPageName(totalString.toLowerCase());         Tracking.SetSubSections(cap(s1), cap(s2), cap(s3));         Tracking.Track(); }     else if (typeof(window["siteSectionOmn"]) != "undefined")     {         Tracking.SetSiteSection( siteSectionOmn.toLowerCase() );         var s1 = s1Omn;         var s2 = s2Omn;         var s3 = s3Omn;         var pnn = pageOmn;         var totalString = siteSectionOmn.toLowerCase() + " : " + chec(s1) + chec(s2) + chec(s3) + pnn.toLowerCase();         Tracking.SetPageName(totalString.toLowerCase());         Tracking.SetSubSections(cap(s1), cap(s2), cap(s3));                 Tracking.Track();         }         else if ("Health" != nullURL)     {         var hubVal = switchHubs("Health");         var siteNameI = "ctvnews";         if ("Health" == "home")         {             siteNameI = "ctvhome";         }                 Tracking.SetSiteSection( siteNameI );         var pnn = hubVal.toLowerCase();         var s1 = hubVal.toLowerCase(); 	    var s2 = "hub"; 	    var s3 = null; 	    var totalString = siteNameI + " : " + chec(s1) + chec(s2) + chec(s3) + pnn.toLowerCase(); 	    Tracking.SetPageName(totalString.toLowerCase()); 	    Tracking.SetSubSections(cap(s1), cap(s2), cap(s3)); 	    Tracking.Track();		     } 	else if (locBar.indexOf("swo.ctv.ca/gallery/html") != -1)     {         Tracking.SetSiteSection( "ctvnews" );         var s1 = "affiliate"; 		var galName = locBar.replace("http://swo.ctv.ca/gallery/html/", "");         var pnn = "photo_0"; 		galName = galName.replace("/gallery_.html", "")         var s2 = "southwesternontario";//galName;         var s3 = "photogallery";         var totalString = "ctvnews : " + chec(s1) + chec(s2) + chec(s3) + pnn.toLowerCase();         Tracking.SetPageName(totalString.toLowerCase());         Tracking.SetSubSections(cap(s1), cap(s2), cap(s3));         Tracking.SetContentId(galName);         Tracking.Track();         } 	else if (locBar.indexOf("saskatoon.ctv.ca/gallery/html") != -1)     {         Tracking.SetSiteSection( "ctvnews" );         var s1 = "affiliate"; 		var galName = locBar.replace("http://saskatoon.ctv.ca/gallery/html/", "");         var pnn = "photo_0"; 		galName = galName.replace("/gallery_.html", "")         var s2 = "saskatoon";//galName;         var s3 = "photogallery";         var totalString = "ctvnews : " + chec(s1) + chec(s2) + chec(s3) + pnn.toLowerCase();         Tracking.SetPageName(totalString.toLowerCase());         Tracking.SetSubSections(cap(s1), cap(s2), cap(s3));         Tracking.SetContentId(galName);         Tracking.Track();         } 	else if (locBar.indexOf("regina.ctv.ca/gallery/html") != -1)     {         Tracking.SetSiteSection( "ctvnews" );         var s1 = "affiliate"; 		var galName = locBar.replace("http://regina.ctv.ca/gallery/html/", "");         var pnn = "photo_0"; 		galName = galName.replace("/gallery_.html", "")         var s2 = "regina";//galName;         var s3 = "photogallery";         var totalString = "ctvnews : " + chec(s1) + chec(s2) + chec(s3) + pnn.toLowerCase();         Tracking.SetPageName(totalString.toLowerCase());         Tracking.SetSubSections(cap(s1), cap(s2), cap(s3));         Tracking.SetContentId(galName);         Tracking.Track();         } 	else if (locBar.indexOf("toronto.ctv.ca/gallery/html") != -1)     {         Tracking.SetSiteSection( "ctvnews" );         var s1 = "affiliate"; 		var galName = locBar.replace("http://toronto.ctv.ca/gallery/html/", "");         var pnn = "photo_0"; 		galName = galName.replace("/gallery_.html", "")         var s2 = "toronto";//galName;         var s3 = "photogallery";         var totalString = "ctvnews : " + chec(s1) + chec(s2) + chec(s3) + pnn.toLowerCase();         Tracking.SetPageName(totalString.toLowerCase());         Tracking.SetSubSections(cap(s1), cap(s2), cap(s3));         Tracking.SetContentId(galName);         Tracking.Track();         } 	else if (locBar.indexOf("atlantictest.ctv.ca/gallery/html") != -1)     {         Tracking.SetSiteSection( "ctvnews" );         var s1 = "affiliate"; 		var galName = locBar.replace("http://atlantictest.ctv.ca/gallery/html/", "");         var pnn = "photo_0"; 		galName = galName.replace("/gallery_.html", "")         var s2 = "atlantic";//galName;         var s3 = "photogallery";         var totalString = "ctvnews : " + chec(s1) + chec(s2) + chec(s3) + pnn.toLowerCase();         Tracking.SetPageName(totalString.toLowerCase());         Tracking.SetSubSections(cap(s1), cap(s2), cap(s3));         Tracking.SetContentId(galName);         Tracking.Track();         }     else if (locBar.indexOf("www.ctv.ca/gallery/html") != -1)     {         Tracking.SetSiteSection( "ctvnews" );         var s1 = "photogallery";         var galName = locBar.replace("http://www.ctv.ca/gallery/html/", "");         var pnn = "photo_0";         galName = galName.replace("/photo_0.html", "")         galName = galName.replace("/index_.html", "")         var s2 = galName;         var s3 = null;         var totalString = "ctvnews : " + chec(s1) + chec(s2) + chec(s3) + pnn.toLowerCase();         Tracking.SetPageName(totalString.toLowerCase());         Tracking.SetSubSections(cap(s1), cap(s2), cap(s3));         Tracking.SetContentId(galName);         Tracking.Track();         }     else if (locBar.indexOf("weatherCity") != -1)     {         Tracking.SetSiteSection( "ctvnews" );         var s1 = "weather";         var s2 = "hub";         var s3 = null;         var pnn = "";         var totalString = "ctvnews : " + chec(s1) + chec(s2) + chec(s3) + pnn.toLowerCase();         Tracking.SetPageName(totalString.toLowerCase());         Tracking.SetSubSections(cap(s1), cap(s2), cap(s3));         Tracking.Track();         }     else if (locBar.indexOf("/servlet/HTMLTemplate/!ctv/Search") != -1)     {         Tracking.SetSiteSection( "ctvnews" );         var s1 = "search";         var s2 = "hub";         var s3 = null;         var pnn = "searchnews";//document.getElementById("searchText").innerHTML;         var totalString = "ctvnews : " + chec(s1) + chec(s2) + chec(s3) + pnn.toLowerCase();         Tracking.SetPageName(totalString.toLowerCase());         Tracking.SetSubSections(cap(s1), cap(s2), cap(s3));         Tracking.TrackSearch(document.getElementById("searchText").innerHTML, 0);         Tracking.Track();         } 	else if (locBar.indexOf("/search") != -1)     {         Tracking.SetSiteSection( "ctvhome" );         var s1 = "searchctv_ca";         var s2 = "hub";         var s3 = null;         var pnn = "searchctv_ca";//document.getElementById("searchText").innerHTML;         var totalString = "ctvhome : " + chec(s1) + chec(s2) + chec(s3) + pnn.toLowerCase();         Tracking.SetPageName(totalString.toLowerCase());         Tracking.SetSubSections(cap(s1), cap(s2), cap(s3));         Tracking.TrackSearch(document.getElementById("searchText").innerHTML, 0);         Tracking.Track();         }     else if (locBar.indexOf("www.tsnn.ca/ctvnews") != -1 || locBar.indexOf("www.tsn.ca/ctvnews") != -1)     {      }         else     {      } } </p>
+<p> About CTV </p>
+<p> Careers </p>
+<p> Bell Media Announcements </p>
+<p> Advertise on CTV </p>
+<p> Bell Media PR </p>
+<p> Privacy Policy </p>
+<p> Terms and Conditions </p>
+<p> Contact Us </p>
+<p> Producer Guidelines </p>
+<p> Use of this Website assumes acceptance of </p>
+<p> Terms & Conditions </p>
+<p> and </p>
+<p> Privacy Policy </p>
+<p> © 2012 </p>
+<p> CTV </p>
+<p> All rights reserved </p>
+<p> Bell Media Television </p>
+<p> var _sf_async_config={uid:2895,domain:'ctv.ca'};(function(){function loadPublishflow() {window._sf_endpt=(new Date()).getTime();var e = document.createElement('script');e.setAttribute('language', 'javascript');e.setAttribute('type', 'text/javascript');e.setAttribute('src',(('https:' == document.location.protocol) ? 'https://s3.amazonaws.com/' : 'http://s3.amazonaws.com/') + 'publishflow/javascript/data.js');document.body.appendChild(e);}var oldonload = window.onload;window.onload = (typeof window.onload != 'function') ?loadPublishflow : function() { oldonload(); loadPublishflow(); };})(); </p>
+<p> s.trackExternalLinks = false; </p>
+<p> $(document).ready(function () {         var megaMenu = new CTV.modules.MegaMenu({             ctvShowsMenuButtonSelector: "#ctv-shows-menu-button",             ctvTwoShowsMenuButtonSelector: "#ctvtwo-shows-menu-button",             ctvShowsMenuSelector: "#ctv-shows-menu-content",             ctvTwoShowsMenuSelector: "#ctvtwo-shows-menu-content"         });     }); </p>
+<p> Shows </p>
+<p> Filter: </p>
+<p> CTV </p>
+<p> CTV Two </p>
+<p> Primetime/Late Night </p>
+<p> The Amazing Race </p>
+<p> American Idol </p>
+<p> Anger Management </p>
+<p> Betty White's Off Their Rockers </p>
+<p> The Big Bang Theory </p>
+<p> Blue Bloods </p>
+<p> Castle </p>
+<p> The Colbert Report </p>
+<p> Conan </p>
+<p> Criminal Minds </p>
+<p> CSI </p>
+<p> CSI: New York </p>
+<p> The Daily Show </p>
+<p> Dancing with the Stars </p>
+<p> Degrassi </p>
+<p> Desperate Housewives </p>
+<p> etalk </p>
+<p> Flashpoint </p>
+<p> GCB </p>
+<p> Gossip Girl </p>
+<p> Grey's Anatomy </p>
+<p> Grimm </p>
+<p> Hot in Cleveland </p>
+<p> Law and Order: Special Victims Unit </p>
+<p> The Listener </p>
+<p> The Mentalist </p>
+<p> Mike & Molly </p>
+<p> Missing </p>
+<p> Once Upon A Time </p>
+<p> Pan Am </p>
+<p> Shark Tank </p>
+<p> Skate Canada </p>
+<p> Smash </p>
+<p> The L.A. Complex </p>
+<p> The River </p>
+<p> TMZ </p>
+<p> Two and a Half Men </p>
+<p> Unforgettable </p>
+<p> Up All Night </p>
+<p> The Voice </p>
+<p> Whitney </p>
+<p> The X Factor </p>
+<p> Daytime </p>
+<p> Anderson </p>
+<p> The Bold and the Beautiful </p>
+<p> The Dr. Oz Show </p>
+<p> Dr. Phil </p>
+<p> The Ellen DeGeneres Show </p>
+<p> Fashion Television </p>
+<p> Live! With Kelly </p>
+<p> The Marilyn Denis Show </p>
+<p> NFL </p>
+<p> The View </p>
+<p> CTV Movies & Specials </p>
+<p> The 84th Annual Academy Awards </p>
+<p> The Golden Globes </p>
+<p> More CTV & CTV Two Movie Listings </p>
+<p> The Twilight Saga: New Moon </p>
+<p> Online Exclusives </p>
+<p> The Bridge </p>
+<p> Comedy Inc. </p>
+<p> Comedy Now! </p>
+<p> The Confession </p>
+<p> Defying Gravity </p>
+<p> Hiccups </p>
+<p> So You Think You Can Dance Canada </p>
+<p> CTV.ca Originals </p>
+<p> CTV.ca Insider </p>
+<p> TheRoyals.ca - William & Kate </p>
+<p> Listener Vision Buster Game </p>
+<p> Primetime/Late Night </p>
+<p> Access Hollywood </p>
+<p> American Idol </p>
+<p> America's Next Top Model </p>
+<p> The Big Bang Theory </p>
+<p> Blue Bloods </p>
+<p> Castle </p>
+<p> Criminal Minds </p>
+<p> CSI: Miami </p>
+<p> CSI: New York </p>
+<p> Dan For Mayor </p>
+<p> Dateline </p>
+<p> Degrassi </p>
+<p> Desperate Housewives </p>
+<p> etalk </p>
+<p> Flashpoint </p>
+<p> Gossip Girl </p>
+<p> Late Night with Jimmy Fallon </p>
+<p> Law and Order: Special Victims Unit </p>
+<p> The Listener </p>
+<p> Man Up! </p>
+<p> The Mentalist </p>
+<p> Nikita </p>
+<p> Once Upon A Time </p>
+<p> The Protector </p>
+<p> Sanctuary </p>
+<p> Shark Tank </p>
+<p> The Tonight Show with Jay Leno </p>
+<p> Undercover Boss </p>
+<p> Unforgettable </p>
+<p> Up All Night </p>
+<p> The Vampire Diaries </p>
+<p> The X Factor </p>
+<p> Daytime </p>
+<p> Anderson </p>
+<p> The Bold and the Beautiful </p>
+<p> The Ellen DeGeneres Show </p>
+<p> Fashion Television </p>
+<p> Look-A-Like </p>
+<p> The Marilyn Denis Show </p>
+<p> CTV Movies & Specials </p>
+<p> More CTV & CTV Two Movie Listings </p>
+<p> Online Exclusives </p>
+<p> The Bridge </p>
+<p> Comedy Inc. </p>
+<p> Comedy Now! </p>
+<p> Defying Gravity </p>
+<p> Hiccups </p>
+<p> CTV.ca Originals </p>
+<p> CTV.ca Insider </p>
+<p> Listener Vision Buster Game </p>
+<p> Video </p>
+<p> Watch Videos </p>
+<p> The Amazing Race </p>
+<p> Anderson </p>
+<p> Anger Management </p>
+<p> Betty White's Off Their Rockers </p>
+<p> The Big Bang Theory </p>
+<p> The Bold and the Beautiful </p>
+<p> The Bridge </p>
+<p> Castle </p>
+<p> The Colbert Report </p>
+<p> Comedy Inc. </p>
+<p> Comedy Now! </p>
+<p> Conan </p>
+<p> The Confession </p>
+<p> Criminal Minds </p>
+<p> The Daily Show </p>
+<p> Dan For Mayor </p>
+<p> Defying Gravity </p>
+<p> Desperate Housewives </p>
+<p> The Dr. Oz Show </p>
+<p> The Ellen DeGeneres Show </p>
+<p> etalk </p>
+<p> FaceTime with Jeanne Beker </p>
+<p> Flashpoint </p>
+<p> Grey's Anatomy </p>
+<p> Grimm </p>
+<p> Hiccups </p>
+<p> In The Name Of The Family </p>
+<p> Late Night with Jimmy Fallon </p>
+<p> Law and Order: Special Victims Unit </p>
+<p> The Listener </p>
+<p> Look-A-Like </p>
+<p> Man Up! </p>
+<p> The Marilyn Denis Show </p>
+<p> The Mentalist </p>
+<p> Nikita </p>
+<p> Once Upon A Time </p>
+<p> Pan Am </p>
+<p> The Protector </p>
+<p> Sanctuary </p>
+<p> Shameless Idealists </p>
+<p> Smash </p>
+<p> So You Think You Can Dance Canada </p>
+<p> The View </p>
+<p> TMZ </p>
+<p> The Tonight Show with Jay Leno </p>
+<p> Two and a Half Men </p>
+<p> Unforgettable </p>
+<p> Up All Night </p>
+<p> The Vampire Diaries </p>
+<p> Whitney </p>
+<p> More Video Options </p>
+<p> CTV Video Player </p>
+<p> CTV News Video Player </p>
+<p> Browse All Video </p>
+<p> News </p>
+<p> Go to the News Home Page </p>
+<p> CTVNews </p>
+<p> Top Stories </p>
+<p> Canada </p>
+<p> World </p>
+<p> Entertainment </p>
+<p> Health </p>
+<p> Sports </p>
+<p> Business </p>
+<p> Sci-Tech </p>
+<p> Politics </p>
+<p> Weather </p>
+<p> News Programs </p>
+<p> CTV National News with Lisa LaFlamme </p>
+<p> Canada AM </p>
+<p> W5 </p>
+<p> PowerPlay </p>
+<p> Question Period </p>
+<p> CTV News Channel </p>
+<p> Home </p>
+<p> Watch Live </p>
+<p> CTV News Team </p>
+<p> Lisa LaFlamme </p>
+<p> Sandie Rinaldo </p>
+<p> See All </p>
+<p> Features </p>
+<p> Autos </p>
+<p> Consumer Alert </p>
+<p> Health Blog </p>
+<p> Local News </p>
+<p> All CTV Stations </p>
+<p> Browse </p>
+<p> Video </p>
+<p> Photo Galleries </p>
+<p> MyNews </p>
+<p> Services </p>
+<p> CTV News Mobile </p>
+<p> Newsletters </p>
+<p> RSS </p>
+<p> CTV News Stox </p>
+<p> Contact CTV News </p>
+<p> Schedule </p>
+<p> function validateSearch() 				{ 					if(document.searchShow.query.value == "") { 						alert("Please enter a search term!"); 						return false; 					}  					else { 						if (document.searchShow.site_codename[1].checked == true){ 							document.searchShow.submit(); 						} 					} 				} </p>
+<p> Related TV Shows </p>
+<p> Gossip Girl </p>
+<p> Watch Show </p>
+<p> Show Page </p>
+<p> Gossip Girl </p>
+<p> Watch Show </p>
+<p> Show Page </p>
+<p> Gossip Girl </p>
+<p> Watch Show </p>
+<p> Show Page </p>
+<p> Gossip Girl </p>
+<p> Watch Show </p>
+<p> Show Page </p>
+<p> Gossip Girl </p>
+<p> Watch Show </p>
+<p> Show Page </p>
+<p> document.write("<img src=\"http://www.ctv.ca/servlet/HTMLTemplate?tf=/ctv/mar/etracker/etracker.html&cf=ctv/mar/ctv.cfg&uniqueID=headphone-pedestrians-accidents-120117&typeStat=CTV&displayText=Accidents involving headphone-wearing pedestrians on the rise||A new U.S. study looking at injuries and deaths of pedestrians who were wearing headphones finds that trains were involved in more than half of the cases identified.&longURL=" + window.location + "&io=1545719\" height=\"1\" width=\"1\" />"); </p>

@@ -1,0 +1,249 @@
+<p> 合理利用時間 OL晨起5分鐘快速護膚法 | 新華網重慶頻道 </p>
+<p> <!-- body { 	font-family: "宋體"; 	font-size: 12px; 	color: #000000; 	text-align: center; 	background-color: #FFFFFF; 	margin: 0px; 	padding: 0px; 	line-height: 12px; 	*line-height: 14px; } --> </p>
+<p> function doZoom(size) { if(size == 12) {     document.getElementById('zoom').style.fontSize=size+'px';     document.getElementById('zoom').style.lineHeight='21px';}  if(size == 16) {     document.getElementById('zoom').style.fontSize=size+'px';     document.getElementById('zoom').style.lineHeight='28px';}  if(size == 24) {     document.getElementById('zoom').style.fontSize=size+'px';     document.getElementById('zoom').style.lineHeight='40px';}  } function funEqual(objid01,objid02) 	{ 		var h_obj01 = document.getElementById(objid01).scrollHeight; 		var h_obj02 = document.getElementById(objid02).scrollHeight; 		h_obj01<h_obj02?document.getElementById(objid01).style.height = document.getElementById(objid02).scrollHeight+"px":document.getElementById(objid02).style.height = document.getElementById(objid01).scrollHeight+"px"; 	} </p>
+<p> var _w = 20 , _h = 16; var cUrl=document.location.href; var regexp1 = /http:\/\/big5.xinhuanet.com\/gate\/big5\/.*\/c_([0-9]+).htm/g; var id = cUrl.replace(regexp1,'$1'); var regexp2 = /(.+\/)(\w+\.\w+)(?:\?.+)?/g; var tempstr; var pic1=""; var arEls = document.getElementsByTagName("img"); for( var i=0;i<arEls.length;i++ ){         tempstr=arEls[i].src.replace(regexp2, '$2');           if(tempstr.indexOf(id)>=0)         pic1+=arEls[i].src+","; }  var param = {    url:'' || location.href,/**分享url的路徑(可選,默認為所在頁面的href)*/    type:'3',    appkey:'', /**您申請的應用appkey,顯示分享來源(可選)4dd7a69ed7de049c2f45c8d6a335e75b*/    title:''|| document.title, /**分享的文字內容(可選，默認為所在頁面的title)*/    pic:pic1, /**分享圖片的路徑(可選)*/    rnd:new Date().valueOf()  }  var temp = [];  for( var p in param ){    temp.push(p + '=' + encodeURIComponent( param[p] || '' ) )    } (function(){ var t='<iframe allowTransparency="true" frameborder="0" scrolling="no" src="http://big5.xinhuanet.com/gate/big5/www.news.cn/weibo/share.html?' + temp.join('&') + '" width="'+ _w+'" height="'+_h+'"></iframe>'; document.getElementById("xhwbShareArea").innerHTML=t; document.getElementById("xhwbShareArea1").innerHTML=t; })() function share2() { window.open("http://big5.xinhuanet.com/gate/big5/t.home.news.cn/share.jsp?" 		+ temp.join('&'), "_blank", "width=615,height=505"); } </p>
+<p> ‧ </p>
+<p> 2012，歡樂過龍年【專題】 </p>
+<p> ‧ </p>
+<p> 重慶春運實用手冊 </p>
+<p> ‧ </p>
+<p> 聚焦重慶經濟工作會[專題] </p>
+<p> 您的位置： </p>
+<p> 首頁 </p>
+<p> >> </p>
+<p> 首頁 </p>
+<p> >> </p>
+<p> 首頁更新 </p>
+<p> >> </p>
+<p> 重慶美女 </p>
+<p> >> 正文 </p>
+<p> var actions = { 			"xhw":"http://big5.xinhuanet.com/gate/big5/search.news.cn/inSearch.jspa", 			"wy":"http://big5.xinhuanet.com/gate/big5/info.search.news.cn/result.jspa", 			"tp":"http://big5.xinhuanet.com/gate/big5/search.news.cn/pic/image.jspa", 			"shp":"http://big5.xinhuanet.com/gate/big5/search.news.cn/video/videoSearch.jspa" 	}  	String.prototype.trim = function(){ 		var reExtraSpace = /^\s*(.*?)\s+$/; 		return this.replace(reExtraSpace,"$1"); 	} 	 	function trimInput(){ 		 		var arg =document.getElementById("inputwd").value; 		if(arg.trim() == ""){ 			alert("請輸入關鍵字"); 			document.getElementById("inputwd").focus(); 			return false; 		}else{ 			return true; 		} 	} 	 	function submitcheck1() 	{  		var arg =document.getElementById("inputwd").value; 		if(arg.trim() == ""){ 			alert("請輸入關鍵字"); 			document.getElementById("inputwd").focus(); 			return false; 		}else{ 			var selection = document.getElementById("channel").value; 			if(selection=="xhw"){ 				//新華網站內搜索 				document.getElementById('xhwarg').value=arg; 				var form = document.getElementById('xhw'); 				form.action = actions[selection]; 				form.submit(); 			} 			else if(selection=="wy"||selection=="tp"){ 				//網頁和圖片搜索 				document.getElementById('wytparg').value=arg; 				var form = document.getElementById('wytp'); 				form.action = actions[selection]; 				form.submit(); 			} 			else if(selection=="shp"){ 				//視頻搜索 				document.getElementById('shparg').value=arg; 				var form = document.getElementById('shp'); 				form.action = actions[selection]; 				form.submit(); 			} 			else{ 				//地方頻道 				var form = document.getElementById('pd'); 				//form.action = actions[selection]; 				form.submit(); 			} 		} 	} </p>
+<p> 合理利用時間 OL晨起5分鐘快速護膚法 </p>
+<p> 2012年01月11日 10:22:11 　來源：今日風採雜志 </p>
+<p> 打印 </p>
+<p> 轉發 </p>
+<p> 字號： </p>
+<p> 大 </p>
+<p> 中 </p>
+<p> 小 </p>
+<p> 導讀：肌膚其實就如同人們的腸胃，一道接一道慢慢吸收護膚品的營養，時間都是在享受的過程中慢慢流逝的，先用化粧水補充肌膚水分，如同頭盤的開胃湯，暢通肌膚的吸收通道；隔一段時間再抹上營養豐富的精華液，這裏精華就如同主菜，為肌膚提供美味佳肴；最後再上主食面霜，就如同面飯一樣，可以令肌膚長久抵抗幹燥和肌膚其他問題。但許多人會說這樣護理肌膚在早上匆忙之間無法做到，其實不然，只要你一邊護膚一邊做其他事情，讓護膚穿插在別的事情中，“懷石式”美容反而會讓你早上節省不少時間呢。 </p>
+<p> 晨間護膚的關鍵在于合理利用時間 </p>
+<p> 俗話說“一日之計在于晨”，早晨的護膚時間對于一天來說是最為緊張的，但是晨間的肌膚保養也尤為重要，晨間護膚的重要性就如同每日的早餐，雖說是最要緊的一餐，但卻也是最容易被忽略的一餐。早上時間緊迫，許多人就胡亂涂一些護膚品草草了事，有的甚至不用護膚品，這些都會令肌膚營養流失，久而久之，皮膚就會變得問題重重。由此可見，晨間護膚的關鍵在于合理利用時間。 </p>
+<p> STEP 1 </p>
+<p> STEP 1 首先清潔肌膚十分重要，肌膚經過一個晚上會分泌一些油脂，如果不清潔幹凈容易形成粉刺，同時皮膚的代謝廢物也容易令保養品無法吸收。 </p>
+<p> STEP 2 </p>
+<p> STEP 2 清潔完肌膚後，可以使用爽膚水或化粧水輕拍面部肌膚，進行點拍式按摩，這樣可以有效收斂毛孔，也能二次對肌膚進行清潔滋潤。 </p>
+<p> STEP 3 </p>
+<p> STEP 3 在使用完化粧水之後肌膚就需要2分鐘慢慢吸收營養，這個時候你可以去刷個牙，合理利用這2分鐘清潔牙齒和牙齦。 </p>
+<p> [ </p>
+<p> 打印 </p>
+<p> ]　[ </p>
+<p> 糾錯 </p>
+<p> ]　[ </p>
+<p> 評論 </p>
+<p> ]　[ </p>
+<p> 信箱 </p>
+<p> ] </p>
+<p> [責任編輯: 樂璇] </p>
+<p> 訂閱新華手機報 </p>
+<p> document.write('<iframe scrolling="no" height="16" frameborder="0" width="16" src="http://big5.xinhuanet.com/gate/big5/hits.sinajs.cn/A1/weiboshare.html?url='+encodeURIComponent(document.location)+'&type=3&count=&appkey=&title='+encodeURIComponent(document.title)+'&pic=&ralateUid=&rnd='+new Date().valueOf()+'" allowtransparency="true"></iframe>'); </p>
+<p> function myclink(){ var mytlink=""; mytlink+=document.title; mytlink+=document.URL window.clipboardData.setData("Text",mytlink); alert("復制成功，請粘貼到您的 QQ / MSN / Email 上推薦給您的好友！"); } </p>
+<p> 復制網址 </p>
+<p> | 分享到： </p>
+<p> 新華微博 </p>
+<p> 發表言論 </p>
+<p> 新華博客 </p>
+<p> 新華拍客 </p>
+<p> 新華播客 </p>
+<p> 請點擊進入 </p>
+<p> 新華社區 </p>
+<p> 的 </p>
+<p> 重慶城市論壇 </p>
+<p> 發言 </p>
+<p> 請您文明上網、理性發言並遵守 </p>
+<p> 相關規定 </p>
+<p> 頻道推薦 </p>
+<p> 重慶市第三屆人民代表大會第五次會議第二次全體會議 </p>
+<p> [兩會專訪] </p>
+<p> 周旬：渝北全市率先打造"民主法制示范區" </p>
+<p> [兩會專訪] </p>
+<p> 陳傑：榮昌要轉型 要建成渝西川東中心城市 </p>
+<p> [兩會專訪] </p>
+<p> 劉貴忠：把忠縣建成品味小城 中國幸福橘鄉 </p>
+<p> [房產] </p>
+<p> 開發商預判今年房價下降10%-30% </p>
+<p> 二季度末望觸底 </p>
+<p> [法治] </p>
+<p> 深圳警察東莞夜總會外開槍 </p>
+<p> 出租汽車司機被誤殺 </p>
+<p> 滾動報道 </p>
+<p> 時政 </p>
+<p> 區縣 </p>
+<p> 社會 </p>
+<p> 娛樂 </p>
+<p> 輿論 </p>
+<p> 教育 </p>
+<p> | </p>
+<p> 民主是力量 城市需大家關心 </p>
+<p> | </p>
+<p> 五個坐標構築重慶發展框架 黃奇帆詳解戰略思路 </p>
+<p> | </p>
+<p> 5年後渝中下半城改造將基本完成 </p>
+<p> | </p>
+<p> 金融業躍居渝中第一支柱產業 </p>
+<p> | </p>
+<p> 5歲男孩患怪病 連喝水都哽得厲害 </p>
+<p> | </p>
+<p> 本周陰雨低溫 流感發病可能活躍 </p>
+<p> | </p>
+<p> 郭德綱：打人者不是徒弟是“臨時工”已被開除 </p>
+<p> | </p>
+<p> 龍年春晚主持陣容曝光 80後美女李思思爆冷亮相 </p>
+<p> | </p>
+<p> 光禿銀杏樹 長滿假樹葉 </p>
+<p> | </p>
+<p> 夜查8家名煙名酒店 全部都是在賣的假煙（圖） </p>
+<p> | </p>
+<p> "新實驗作文大賽"落幕 獲獎者7月免費遊香港 </p>
+<p> 財經 </p>
+<p> 區縣 </p>
+<p> 法治 </p>
+<p> 美女 </p>
+<p> 網聞 </p>
+<p> 房產 </p>
+<p> | </p>
+<p> 黃奇帆：五個坐標構築重慶發展的總體框架(圖) </p>
+<p> | </p>
+<p> 非去不可 投9200萬央視廣告把山水重慶叫響全國 </p>
+<p> | </p>
+<p> 60家企業老總赴武隆看望留守兒童 </p>
+<p> | </p>
+<p> 機關大院貼楹聯 營造濃濃“年”味 </p>
+<p> | </p>
+<p> 10歲男孩“拐”走了4歲娃 超市偷吃零食被發現 </p>
+<p> | </p>
+<p> 男子避險跳車被壓死 他是不是“第三者”？ </p>
+<p> | </p>
+<p> 你有職業病嗎：“脊椎病、鼠標手”的七大徵兆 </p>
+<p> | </p>
+<p> 愛情的神聖信物 結婚到底需要幾種戒指 [圖] </p>
+<p> | </p>
+<p> 百年“柯達”將破產落幕 </p>
+<p> | </p>
+<p> 好萊塢演繹“海豹”突襲本拉丹 </p>
+<p> | </p>
+<p> 明年房貸月供要上漲 提前還貸不是人人適宜 </p>
+<p> 精選圖片 </p>
+<p> "公務員畫家"侯耘作品選 </p>
+<p> 姚笛開年雜志封面 </p>
+<p> 不著痕跡的中式歐美融合 </p>
+<p> 人體偽裝的最高境界 </p>
+<p> 微距攝影：美輪美奐夢幻島 </p>
+<p> 130平米摩登極簡風公寓 </p>
+<p> 李小璐登《男人裝》開年刊 </p>
+<p> 瞬間改變辦公區“撲克臉” </p>
+<p> ※ </p>
+<p> 新華網版權與免責聲明 </p>
+<p> 新華網重慶頻道編輯部 電話：023-89187062 </p>
+<p> 要聞聚焦 </p>
+<p> 重慶 </p>
+<p> | </p>
+<p> 中國 </p>
+<p> | </p>
+<p> 國際 </p>
+<p> 五個坐標構築重慶發展總體框架 </p>
+<p> 三屆人大五次會議第二次全體會議 </p>
+<p> | </p>
+<p> 2011感動重慶十大人物頒獎典禮 </p>
+<p> ‧ </p>
+<p> 重慶今年財政怎麼花錢？支出可能達3800多億元 </p>
+<p> ‧ </p>
+<p> 旅客們注意:13日起7條長途汽車線路只能到站購票 </p>
+<p> ‧ </p>
+<p> 緩解3號線擁擠 3月底增13列車下半年3分鐘一班 </p>
+<p> ‧ </p>
+<p> 朝天門將建八棟高樓似強勁風帆 總投資211億元 </p>
+<p> ‧ </p>
+<p> 兩路口菜園壩將修百米扶梯 實現地鐵高鐵零換乘 </p>
+<p> 視頻播報 </p>
+<p> 視頻中心 </p>
+<p> | </p>
+<p> 幫助 </p>
+<p> 市領導與人大代表政協委員座談 </p>
+<p> 2011感動重慶十大人物舉行頒獎禮 </p>
+<p> 關 注 </p>
+<p> 熱點關注 </p>
+<p> | </p>
+<p> 言論時評 </p>
+<p> | </p>
+<p> 專題 </p>
+<p> 重慶春運實用手冊 </p>
+<p> 46年來最早的春運1月8日正式啟動，2月16日結束，持續40天。 </p>
+<p> [深度] </p>
+<p> 農民工講述新年的願望 </p>
+<p> [深度] </p>
+<p> 幼兒園收讚助費如何令行禁止？ </p>
+<p> [深度] </p>
+<p> 取消公費醫療為何讚揚聲高 </p>
+<p> [言論] </p>
+<p> 人大代表“刁民論”背後多重錯位 </p>
+<p> [言論] </p>
+<p> 購票網站癱瘓 壟斷才是“真兇” </p>
+<p> [言論] </p>
+<p> 藏區的僧人被國際大政治定位瞄準 </p>
+<p> 社區\博客\微博 </p>
+<p> 重慶頻道微博 </p>
+<p> [論壇] </p>
+<p> 過年的那些糾結事兒，你有木有？ </p>
+<p> [論壇] </p>
+<p> 金龍魚油不合格，都是太陽惹的禍？ </p>
+<p> [論壇] </p>
+<p> "溺愛百姓成刁民"何以引發網民熱議? </p>
+<p> [論壇] </p>
+<p> 特色公司年會:百度“度娘”、遲到券 </p>
+<p> [博客] </p>
+<p> 失衡到均衡——中國房地產市場展望 </p>
+<p> [博客] </p>
+<p> 將百姓當孩子管教!人大代表為誰發言 </p>
+<p> [博客] </p>
+<p> 警車開道"察民情":是亮官相or顯官威 </p>
+<p> [博客] </p>
+<p> 實名制後黃牛吃散夥飯 9成以上改行 </p>
+<p> 新華播報 </p>
+<p> [推薦] </p>
+<p> 招商銀行重慶分行十五周年專題 </p>
+<p> [推薦] </p>
+<p> 中信銀行重慶分行招聘啟事 </p>
+<p> [直播] </p>
+<p> 2011感動重慶十大人物頒獎典禮 </p>
+<p> [訪談] </p>
+<p> 南岸區委書記夏澤良做客新華網 </p>
+<p> [專訪] </p>
+<p> 榮昌縣委書記陳傑做客兩會會客廳 </p>
+<p> [新聞發布會] </p>
+<p> 市委三屆十次全委會籌備情況新聞發布會 </p>
+<p> 重慶新聞排行 </p>
+<p> 本網評出2011年重慶十大新聞 </p>
+<p> 重慶大足區、綦江區挂牌成立 </p>
+<p> 蒙牛一批次純牛奶被檢出強致癌物 </p>
+<p> 輕軌3號線昨全線通車 </p>
+<p> 新浪微博476萬賬號被盜？ </p>
+<p> 5美女在為公益出鏡 </p>
+<p> 背妻13年 380級臺階成愛情天梯 </p>
+<p> 奔跑女孩”喚醒我們日漸沉睡的孝心 </p>
+<p> 2011年重慶市經濟工作會解讀 </p>
+<p> 重慶兩大火車站實行實名制驗票 </p>
+<p> 重慶綦江區、大足區挂牌成立 </p>
+<p> 第50期 </p>
+<p> 第49期 </p>
+<p> 第48期 </p>
+<p> 第47期 </p>
+<p> 更多 </p>
+<p> funEqual("N_left","N_right") </p>
+<p> //By longbill.cn function img_resize(img,mw,mh) { var w = parseInt(img.width); var h = parseInt(img.height); var pw = mw/w; var ph = mh/h; if (pw>=1 && ph>=1) return; var p = (ph>pw)?pw:ph; img.width = parseInt(w*p-1); img.height = parseInt(h*p-1); } window.onload = function() { var imgs = document.getElementsByTagName("img"); for(var i=0;i<imgs.length;i++) img_resize(imgs[i],600,800);//600為圖片的最大寬度，800為最大高度 } </p>
+<p> var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://big5.xinhuanet.com/gate/big5/"); document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fe8927cb29fb4d9a298c9673952c75a9c' type='text/javascript'%3E%3C/script%3E")); </p>
+<p> Copyright © 2000 - 2011 </p>
+<p> CQ.XINHUANET.com </p>
+<p> All Rights Reserved. 　制作單位：新華通訊社重慶分社 </p>
+<p> 版權所有 </p>
+<p> 新華網 </p>

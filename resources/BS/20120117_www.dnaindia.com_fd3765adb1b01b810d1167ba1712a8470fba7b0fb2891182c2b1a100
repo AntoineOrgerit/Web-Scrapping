@@ -1,0 +1,172 @@
+<p> Antioxidant-rich foods can prevent diabetes and heart disease - Health - DNA </p>
+<p> function body_onclick(){       class_hide('share_div');     } </p>
+<p> GS_googleAddAdSenseService("ca-pub-8331061652869281");     GS_googleEnableAllServices(); </p>
+<p> GA_googleAddSlot("ca-pub-8331061652869281", "report_ml_200x200");     GA_googleAddSlot("ca-pub-8331061652869281", "report_mr_160x600");     GA_googleAddSlot("ca-pub-8331061652869281", "report_mr_336x280"); </p>
+<p> GA_googleFetchAds(); </p>
+<p> function body_onclick(){       class_hide('share_div');     }     function  emailArticle(NewsID,CatID)     {       str_Newsid=NewsID       str_Category=CatID       str_URL="/emailthisarticle910.php?newsid="+str_Newsid+"&catid="+str_Category       if (screen.width > 800)       {         w1 = window.open(str_URL,"test","Top=5,left=0,height=600,width=800, scrollbars=yes")       }       else {         w1 = window.open(str_URL,"test","Top=5,left=0,height=500,width=600,scrollbars=yes")       }     } </p>
+<p> var voted = new Array();  function answer(qtnno,opt){   if (voted[qtnno] == 1){   alert("No cheating!");   return false;   }   voted[qtnno] = 1;   //document.getElementById("ans"+qtnno).style.fontWeight = "Bold";   //opt.style.fontWeight = "Bold";   if(opt.value == 1){     if(!document.getElementById("ans-div-"+qtnno)){       document.getElementById("ans"+qtnno).style.color = "green";     }     if(document.getElementById("res-"+qtnno)){       document.getElementById("res-"+qtnno).innerHTML = "Right answer!"+"&nbsp;";     }   }   else{     if(!document.getElementById("ans-div-"+qtnno)){       document.getElementById("ans"+qtnno).style.color = "red";     }     if(document.getElementById("res-"+qtnno)){       correct_answer = document.getElementById("ans"+qtnno).innerHTML;       document.getElementById("res-"+qtnno).innerHTML = "Wrong answer!"+"&nbsp;";       document.getElementById("res-"+qtnno).innerHTML = correct_answer+" is the right answer."+"&nbsp;";     }   }   if(document.getElementById("info"+qtnno)){     document.getElementById("info"+qtnno).style.display = "block";   }   if(document.getElementById("ans-div-"+qtnno)){     document.getElementById("ans-div-"+qtnno).style.backgroundColor = "#eaeaea";   } } </p>
+<p> /*QUIZ*/     #quiz-main-div {width:85%;background-color1:#f0fff0;padding:10px;}     .item {margin-top:20px;}     .item input {margin-right:5px;}     .question-div {font-weight:bold;margin-bottom:10px;}     .ans-div {display:block;padding:0.5em;}     .res {float:left;font-weight:bold;}     .info {display:none;background:#eaeaea;padding:.5em;}      #div_compiled_by{display:none;}    p {margin-bottom:1em;} </p>
+<p> <!--         e9 = new Object();           e9.size = "728x90";       //--> </p>
+<p> Follow us: </p>
+<p> Today's Epaper </p>
+<p> | </p>
+<p> Subscribe to newspaper </p>
+<p> function popupn(w,h,u,n){   popup=window.open(u,n,"width="+w+",height="+h+",toolbar=no,menubar=no,status=no,location=no,directories=no,scrollbars=no,resizable=yes");   popup.moveTo(200,200); } </p>
+<p> .menu-div{ background: url(http://cdn.dnaindia.com/images/710/nav-bg.gif) top repeat-x; width:100%; height:36px; overflow:hidden;}           ul.menu-ul{margin:0px; padding:0px; list-style:none; list-style-image:none; display:block; height:36px; overflow:hidden;}           ul.menu-ul li{float:left; padding-top:8px; height:36px; overflow:hidden; padding-left:7px; padding-right:7px; text-align:center;cursor:pointer;text-transform:uppercase;background: url(http://cdn.dnaindia.com/images/710/menu-purple-divider.jpg) 0% 20% no-repeat;}           ul.menu-ul li a{font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#fff; text-decoration:none}           ul.menu-ul li.active{padding-left:5px; padding-right:5px;}                               ul.menu-ul li.active{background: url(http://cdn.dnaindia.com/images/710/nav-bg-active.gif) top no-repeat; width:58px;}                             ul.menu-ul li.active a{font:12px Arial, Helvetica, sans-serif; color:#000; line-height:16px; font-weight:bold;} </p>
+<p> Home </p>
+<p> Analysis </p>
+<p> Mumbai </p>
+<p> India </p>
+<p> World </p>
+<p> Money </p>
+<p> Sport </p>
+<p> Entertainment </p>
+<p> Speak Up </p>
+<p> Health </p>
+<p> Sci/Tech </p>
+<p> Academy </p>
+<p> Lifestyle </p>
+<p> Authors </p>
+<p> HOT TOPICS: </p>
+<p> ASSEMBLY POLLS 2012 </p>
+<p> | </p>
+<p> GEN VK SINGH </p>
+<p> | </p>
+<p> ANNA HAZARE </p>
+<p> You are here: </p>
+<p> HOME </p>
+<p> > </p>
+<p> HEALTH </p>
+<p> > Report </p>
+<p> Antioxidant-rich foods can prevent diabetes and heart disease </p>
+<p> Published: Monday, Jan 16, 2012, 16:24 IST </p>
+<p> Place: London     |     Agency: ANI </p>
+<p> .art_img_class {width:200px;background:#f0f0f0;margin-top:.5em;font-size:0.7em;display:none;} </p>
+<p> art_imgs = 0;   cur_art_img = 1;    function prev(){     for (i=1;i<=art_imgs;i++){       document.getElementById("art_img_"+i).style.display = "none";     }     if(cur_art_img==1){       cur_art_img = art_imgs;     }else{       cur_art_img -= 1;     }     document.getElementById("art_img_"+cur_art_img).style.display = "block";   }    function next(){     for (i=1;i<=art_imgs;i++){       document.getElementById("art_img_"+i).style.display = "none";     }     if(cur_art_img==art_imgs){       cur_art_img = 1;     }else{       cur_art_img += 1;     }     document.getElementById("art_img_"+cur_art_img).style.display = "block";   } </p>
+<p> GA_googleFillSlot("report_ml_200x200"); </p>
+<p> People who eat a diet rich in foods containing powerful antioxidants not only lower their risk of developing heart disease but can slash their cholesterol and even get diabetes under control, suggest experts. </p>
+<p> The secret lies in a regular dose of potent, health-giving foods rich in antioxidants called flavonoids. </p>
+<p> They are found in abundance in plant-based foods, with onions, apples, berries, kale, and broccoli having highest concentrations. </p>
+<p> They are also found in high amounts in tea, berries, chocolate and even red wine. </p>
+<p> They work by fighting harmful molecules accumulating in the body that damage healthy cells. </p>
+<p> A 12-month trial carried out by scientists at the University of East Anglia found that diets high in these flavonoids could reduce the risk of heart disease for women with Type 2 diabetes. </p>
+<p> The new study also found that regularly eating flavonoid-rich foods could also help in the management of diabetes. </p>
+<p> The study looked at 93 postmenopausal women with Type 2 diabetes from the age of 51 to 74. Half were given two small bars of flavonoid-enriched chocolate each day and half were given placebo chocolate bars. </p>
+<p> Those receiving extra flavonoids reduced the risk of a heart attack by 3.4 per cent. </p>
+<p> Their insulin resistance and cholesterol levels were significantly reduced by the flavonoids. </p>
+<p> “These results are significant because they provide further concrete evidence that diet has a beneficial clinical effect over and above conventional drug treatment,” the Daily Express quoted Professor Aedin Cassidy, of Norwich Medical School, as saying. </p>
+<p> The researchers say further research is needed to examine if similar effects are seen in men with Type 2 diabetes. </p>
+<p> The findings have been published in the journal Diabetes Care. </p>
+<p> Share </p>
+<p> Tweet </p>
+<p> + </p>
+<p> - </p>
+<p> Related links </p>
+<p> 25 heart patients await their turn for angioplasty in Pune </p>
+<p> Now, ‘DNA’ diet plan can help you lose 11 pounds in 4 months </p>
+<p> More roughage in diet can help ward off diseases </p>
+<p> It's school time, has the holiday fever gone? </p>
+<p> Woman loses uterus after becoming surrogate mother thrice </p>
+<p> Healthier dietary habits benefits beyond weight loss </p>
+<p> google_ad_client = "pub-8331061652869281";     google_ad_width = 160;     google_ad_height = 90;     google_ad_format = "160x90_0ads_al_s";     google_color_border = "762284";     google_color_link = "741642"; </p>
+<p> Share </p>
+<p> Tweet </p>
+<p> Comments </p>
+<p> | </p>
+<p> Post a comment </p>
+<p> | </p>
+<p> Share this article </p>
+<p> | </p>
+<p> Print </p>
+<p> | </p>
+<p> Email </p>
+<p> Share </p>
+<p> Tweet </p>
+<p> google_ad_client = "pub-8331061652869281";         google_ad_width = 468;         google_ad_height = 15;         google_ad_format = "468x15_0ads_al_s";         google_color_border = "762284";         google_color_link = "741642"; </p>
+<p> Top stories on DNAIndia.com </p>
+<p> » </p>
+<p> Popular content </p>
+<p> » </p>
+<p> Would have been better if Army chief had not gone to SC: Congress </p>
+<p> Congress, SP playing a game of reservation: Nitin Gadkari </p>
+<p> Stop bashing Team India legends! </p>
+<p> Congress minister threatens to quit Mamata govt </p>
+<p> Congress flayed for roping in Priyanka Vadra for campaigning </p>
+<p> Govt files caveat in SC on petition by Army chief on age row </p>
+<p> Abu Salem moves TADA court seeking closure of trial </p>
+<p> George Clooney steals the Golden Globes </p>
+<p> Good times ahead for Lara Dutta! </p>
+<p> Gujarat HC rejects contempt plea against Narendra Modi </p>
+<p> Most... </p>
+<p> Viewed </p>
+<p> Shared </p>
+<p> Commented </p>
+<p> function pop_tab(tab){         document.getElementById("pop-v").style.display='none';         change_class_id("pop-tab-v", "art-pop-tab");         document.getElementById("pop-e").style.display='none';         change_class_id("pop-tab-e", "art-pop-tab");         document.getElementById("pop-c").style.display='none';         change_class_id("pop-tab-c", "art-pop-tab");         document.getElementById("pop-"+tab).style.display='block';         change_class_id("pop-tab-"+tab, "art-pop-tab-active");       } </p>
+<p> Army chief age row: A battle for command of military </p>
+<p> Impossible to pre-screen content: Google, Facebook </p>
+<p> European probe wraps up 'Big Bang' survey </p>
+<p> George Clooney steals the Golden Globes </p>
+<p> Varied response from Congress on Army Chief moving court </p>
+<p> Govt lost credibility after Army chief dragged it to court: BJP </p>
+<p> Costa Concordia: ‘Unlucky’ Indian on Italian ship still missing </p>
+<p> Priyanka Gandhi’s mission: Fight factionalism </p>
+<p> Adolf Hitler ‘stole idea for Volkswagen Beetle from Jewish engineer’ </p>
+<p> Kayani has eyes set on bigger Afghan game </p>
+<p> 'India is low on coffee knowledge' </p>
+<p> DNA </p>
+<p> investigations: Deaths confirm cancer risk near N-reactors </p>
+<p> Power scam CWG </p>
+<p> ke naam </p>
+<p> 'Malaysia’s biggest challenge is democracy' </p>
+<p> India has twice the number of underweight children than sub-Saharan Africa </p>
+<p> Govt proposes Rs7.49/unit tariff for delayed solar power units </p>
+<p> Ram Jethmalani's remarks create flutter in Rajya Sabha during Lokpal debate </p>
+<p> Why Anna won’t have it easy in Mumbai </p>
+<p> NRIs sing Anna Hazare tune </p>
+<p> Why Anna Hazare’s Lokpal show flopped in Mumbai? </p>
+<p> Comment: Lokpal is still a long haul, but Anna damages his cause </p>
+<p> PIL wants court to stop Hazare, IAC from fasting </p>
+<p> Anna and the horse-traders </p>
+<p> Is India making a mountain out of a mole hill in the issue of Russia banning </p>
+<p> The Bhagwad Gita </p>
+<p> ? </p>
+<p> C. </p>
+<p> Comments </p>
+<p> | </p>
+<p> Post a comment </p>
+<p> function frame_auto_resize(id,extra){       var nh;       //var nw;       document.getElementById(id).height= "100px";       if(document.getElementById){         nh=document.getElementById(id).contentWindow.document .body.scrollHeight+extra;         //nw=document.getElementById(id).contentWindow.document .body.scrollWidth;       }       document.getElementById(id).height= (nh) + "px";       //document.getElementById(id).width= (nw) + "px";     }      function show_comment(){     cb = document.getElementById("comment_box");     cbf = document.getElementById("comment_box_frame");     if(cb.style.visibility=='visible')	{       cb.style.visibility='hidden';       cb.style.display='none';     }     else	{       //cbf.src="/comments_post_frame710.php?newsid=1638306&commentid=0";       cb.style.visibility='visible';       cb.style.display='block';      }     } </p>
+<p> GA_googleFillSlot("report_mr_160x600"); </p>
+<p> Speak Up </p>
+<p> » </p>
+<p> Reconnect with nature & rejuvenate your inner being </p>
+<p> Interview </p>
+<p> » </p>
+<p> It's school time, has the holiday fever gone? </p>
+<p> View more interviews » </p>
+<p> Blogs </p>
+<p> » </p>
+<p> Stop bashing Team India legends! </p>
+<p> - </p>
+<p> Sriram Balasubramanian </p>
+<p> View more blogs » </p>
+<p> Opinion </p>
+<p> » </p>
+<p> Inflation stays firm in manufactures </p>
+<p> Hi-tech, low cost, no thought </p>
+<p> It is unfair to deny effective legal aid to victims of crime </p>
+<p> C. </p>
+<p> GA_googleFillSlot("report_mr_336x280"); </p>
+<p> About DNA </p>
+<p> | </p>
+<p> Contact Us </p>
+<p> | </p>
+<p> Advertise with Us </p>
+<p> | </p>
+<p> Subscription </p>
+<p> | </p>
+<p> Reprint Rights </p>
+<p> ©2012 Diligent Media Corporation Ltd. </p>
+<p> _uacct = "UA-1626889-1"; urchinTracker(); </p>
+<p> var _comscore = _comscore || [];   _comscore.push({ c1: "2", c2: "10476422" });   (function() {     var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;     s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";     el.parentNode.insertBefore(s, el);   })(); </p>
+<p> if(get_cookie("ts")){     document.getElementById("content").style.fontSize= get_cookie("ts")+"px";   }   else{     document.getElementById("content").style.fontSize= "12px";   } </p>
+<p> $(function() {setupDoubleClick('http://www.macmillandictionary.com/', 'british', null, false, true);}); </p>

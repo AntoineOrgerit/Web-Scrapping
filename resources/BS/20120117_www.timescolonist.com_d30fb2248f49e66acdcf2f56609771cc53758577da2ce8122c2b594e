@@ -1,0 +1,746 @@
+<p> JANRAIN.SSO.CAPTURE.check_login({ 		sso_server: 'https://sso.canada.com', 		client_id: '33st4j3kp8ttb9ve2nhxtkbe8zjj2bwd', 		redirect_uri: 'http://'+window.location.hostname+'/scripts/sso/postlogin.ashx', 		logout_uri: 'http://'+window.location.hostname+'/scripts/sso/logout.ashx?type=providers', 		xd_receiver: 'http://'+window.location.hostname+'/xdcomm.html' 	}); </p>
+<p> CDMScriptManager.load('/js/jquery-1.2.6.min.js'); 	CDMScriptManager.load('/js/slider.js'); </p>
+<p> CDMScriptManager.load('/js/pluck/pluckLocal.js'); </p>
+<p> CDMScriptManager.load(pluckScriptUrl);      CDMScriptManager.load('/js/pluck/pluck.js'); </p>
+<p> .pluck-comm .pluck-user-persona { 			display: block !important; 		} </p>
+<p> Norovirus outbreak detains students in Victoria </p>
+<p> { 	'zone':"3Pbwspv49EHK28sRubzbsX", 	'mode':"meter", 	'customPreCheck': "preCheckVictoriatimes100640",         'border': "2g02SYzmoeulkGRICvr2JR", 	'debug':0 } </p>
+<p> function preCheckVictoriatimes100640($) {     if (navigator.userAgent && ( navigator.userAgent.indexOf("iPad") != -1 || navigator.userAgent.indexOf("PlayBook") != -1 ))     {         return 0;     }     var metamatch = document.getElementsByTagName("meta");     for (var i=0; i < metamatch.length; i++) {     if (metamatch[i].name == "keywords") {     if (metamatch[i].content.match(/breaking/))        {        return 0;       }     }     }      loc = window.location + '';      if (loc.match(/\/(cars|jobs|homes)\/.+/i))     {         return 0;     }     else if (loc.match(/(story.html).*/i))     {          return 1;     }          return 0; } </p>
+<p> #leaderboard { text-align:right } #leaderboard .ad { text-align:right } </p>
+<p> function getCookies() { return ""; } </p>
+<p> Array.prototype.uniqueAry = function ()                         {                             var r = new Array();                             o:for(var i = 0, n = this.length; i < n; i++)                             {                                 for(var x = 0, y = r.length; x < y; x++)                                 {                                     if(r[x]==this[i])                                     {                                         continue o;                                     }                                 }                                 r[r.length] = this[i];                             }                             return r;                         }                          function getCookie(cookieName)                         {                             var dc = document.cookie;                              //load external cookies from .canada.com if not currently on .canada.com                             if (location.hostname.match(/\.canada\.com$/gi) == null)                                 dc += ";" + getCookies(); //append to existing document cookie                              var cookie_str = ""; //this string will contain the value of the cookie name                             var needle = "[A-Za-z0-9_-]*" + cookieName + "[A-Za-z0-9_-]*=[^;]+";                             var regex = new RegExp(needle, "gi");                             var matches = dc.match(regex);                             if (matches != null)                             {                                 for (var x = 0; x < matches.length; x++)                                     matches[x] = matches[x].substring(matches[x].indexOf("=")+1).replace(new RegExp("[\\s]+$", "g"), ""); //remove keyname prefix and trim                                 cookie_str = matches.join(",");                                 matches = cookie_str.split(",");                                 matches = matches.uniqueAry(); //remove duplicates                                 cookie_str = matches.join(";") + ";";                             }                             return unescape(cookie_str);                         }                          function getAdCookie()                         {                             return getCookie("adcookie");                         }                          function setSurroundCookie(value)                         {                             document.cookie = "surroundId=" + escape(value) + "; path=/";                         }                          function getSurroundCookie()                         {                             var dc = document.cookie;                             var prefix = "surroundId=";                             var begin = dc.indexOf("; " + prefix);                             if (begin == -1)                             {                                 begin = dc.indexOf(prefix);                                 if (begin != 0) return null;                             }                             else                             {                                 begin += 2;                             }                             var end = document.cookie.indexOf(";", begin);                             if (end == -1) end = dc.length;                             return unescape(dc.substring(begin + prefix.length, end));                         }                          // Setup for surround session.                         var adid = ""; // used in the ad to start a surround session                         var surroundTag = getSurroundCookie(); // Get surround session id from the cookie                         if(surroundTag == null) // check if there was a surround session id in the cookie                         {                             surroundTag = "";                         }                         else                         {                             surroundTag = "srnd="+surroundTag+";"; // finish setting up the key-value for the ad tags                         }                          //Setup for adcookie.                         var adcookieTag = getAdCookie(); // Get the ad cookie string </p>
+<p> adcookieTag = typeof(adcookieTag) != 'undefined' ? adcookieTag : '';                         dartad_tile = typeof(dartad_tile) != 'undefined' ? dartad_tile + 1 : 1;                         var dartad_url = "http://ad.ca.doubleclick.net/N3081/adj/vtc_bh.com/health/story;loc=theTop;loc=top;sz=468x60,728x90;dcopt=ist;kw=ron;kw=health;nk=print;pr=vtc;ck=health;page=story;kw=vtc;tile="+dartad_tile+";"+adcookieTag+surroundTag+"ord=46377615?"; // script ad code with adcookie, used for debug                         document.write('<script language="JavaScript1.1" src="http://ad.ca.doubleclick.net/N3081/adj/vtc_bh.com/health/story;loc=theTop;loc=top;sz=468x60,728x90;dcopt=ist;kw=ron;kw=health;nk=print;pr=vtc;ck=health;page=story;kw=vtc;tile='+dartad_tile+';'+adcookieTag+surroundTag+'ord=46377615?"><\/script>'); </p>
+<p> if(adid != "") // check if the ad should start a surround session only if a surround session has not yet started                         {                             surroundTag = "srnd="+adid+";"; // setup the key-value for a surround session                             setSurroundCookie(adid); // store the surround session id in a cookie.                         } </p>
+<p> Â </p>
+<p> Â </p>
+<p> Weather Centre </p>
+<p> Â </p>
+<p> Â </p>
+<p> Â </p>
+<p> -1°C </p>
+<p> Â </p>
+<p> Partly cloudy </p>
+<p> Victoria </p>
+<p> Detailed Forecast </p>
+<p> Â </p>
+<p> Start Home Delivery </p>
+<p> Subscriber Services </p>
+<p> Digital Edition </p>
+<p> Email Alerts </p>
+<p> Mobile Products </p>
+<p> canada.com network </p>
+<p> Newspapers </p>
+<p> National Post </p>
+<p> Victoria Times Colonist </p>
+<p> The Province (Vancouver) </p>
+<p> Vancouver Sun </p>
+<p> Edmonton Journal </p>
+<p> Calgary Herald </p>
+<p> Regina Leader-Post </p>
+<p> Saskatoon StarPhoenix </p>
+<p> Windsor Star </p>
+<p> Ottawa Citizen </p>
+<p> The Gazette (Montreal) </p>
+<p> DOSE </p>
+<p> Postmedia Community Publishing </p>
+<p> Nanaimo Daily News </p>
+<p> function handlePostLogin() { 		// change the login status bar to reflect a logged in state 		jQuery.getScript("http://"+window.location.hostname+"/scripts/sso/user.ashx?format=json&callback=renderLoginStatusBar");  		if((window.location+"").indexOf("/members/account-verified.html") > -1 || (window.location+"").indexOf("/members/cancel-deletion.html") > -1 || (window.location+"").indexOf("/members/reset-password-complete.html") > -1) window.location="/index.html"; 		else window.location.reload(); 	}  	function handlePostLogout() { 		// change the login status bar to reflect a logged out state 		jQuery.getScript("http://"+window.location.hostname+"/scripts/sso/user.ashx?format=json&callback=renderLoginStatusBar"); 		 		if((window.location+"").indexOf("edit-profile.html") > -1) window.location="/index.html"; 		else window.location.reload(); 	}  	function dologout() { 		// create the hidden logout iframe 		var src = 'http://'+window.location.hostname+'/scripts/sso/logout.ashx?iframe=true'; 		jQuery('<iframe id="iframe_logout" style="visibility:hidden;display:none" frameborder="0" hspace="0" scrolling="no" src="' + src + '"></iframe>').appendTo('body'); 	}  	function renderLoginStatusBar(user) { 		var user = user.User; 		var statusBarHtml = "";  		if (user.IsLoggedIn) { 			statusBarHtml += "<ul>"; 			statusBarHtml += "	<li>Hi " + user.DisplayName + "</li>"; 			statusBarHtml += " " + profileLink; 			statusBarHtml += "	<li><a href=\"javascript:dologout();\">Sign Out</a></li>"; 			statusBarHtml += "</ul>"; 		} 		else { 			statusBarHtml += "<ul>"; 			statusBarHtml += "	<li><a href=\"javascript:light.mask(jQuery('body'),light.getHtml('user_reg_internal_1t'));\">Log in</a></li>"; 			statusBarHtml += "	<li><a href=\"javascript:light.mask(jQuery('body'),light.getHtml('user_reg_internal_1t'));\">Register</a></li>"; 			statusBarHtml += "</ul>"; 		} 		document.getElementById("loginstatusbarchild").innerHTML = statusBarHtml; 	} </p>
+<p> jQuery.getScript("http://"+window.location.hostname+"/scripts/sso/user.ashx?format=json&callback=renderLoginStatusBar"); </p>
+<p> Victoria Times Colonist </p>
+<p> Division of Canwest Publishing Inc. </p>
+<p> Â </p>
+<p> Â </p>
+<p> Weather Centre </p>
+<p> Â </p>
+<p> Â </p>
+<p> Â </p>
+<p> -1°C </p>
+<p> Â </p>
+<p> Partly cloudy </p>
+<p> Victoria </p>
+<p> Detailed Forecast </p>
+<p> Â </p>
+<p> Quick Links: </p>
+<p> Shopping </p>
+<p> , </p>
+<p> Obituaries </p>
+<p> , </p>
+<p> Horoscopes </p>
+<p> Search </p>
+<p> YellowPages </p>
+<p> Find a business or person on: </p>
+<p> CDMScriptManager.load("http://www.timescolonist.com/js/autocomplete/jquery.autocomplete.min.js"); </p>
+<p> function doSearch() { 				var q = document.getElementById("q").value.replace(/[^0-9a-zA-Z\s*]/g,""); 				q = q.replace(/ /g,"+"); 				if (q.length == 0) { 					alert("Please enter your search criteria"); 					return; 				} 				var dname = document.domain;  				if ( dname=="driving.ca") { 					document.location.href="http://www.driving.ca/victoria/search/search.html?q=" + escape(q); 					} 				else { 					document.location.href="http://www.timescolonist.com/search/search.html?q=" + escape(q); 				} 			} 			//FAST WAVE 1 			//add javascript to hook up search text box in header 			//set up autocomplete on search box in header			 			jQuery(document).ready(function() { 				jQuery("#q").autocomplete("http://app.canada.com/search/search.svc/autocomplete", { 					dataType: 'jsonp', 					parse: function(data) { 						var rows = new Array(); 						data = data.Terms; 						for(var i=0; i<data.length; i++){ 							rows[i] = { data:{Term:data[i]}, value:data[i], result:data[i] }; 						} 						return rows; 					}, 					resultsClass: "fast_wave_results", 					formatItem: function(row, i, n) { 						return  row.Term; 					}, 					cacheLength: 0, 					extraParams: { 						format: "json" 					}, 					minChars: 1, 					max: 10, 					highlight: function(value, term) { 						var pos = value.toLowerCase().indexOf(term.toLowerCase()); 						return (pos > 0)?"<b>" + value.substring(0,pos) + "</b>" + value.substring(pos, term.length) + "<b>" + value.substring(pos + term.length) + "</b>":value.substring(0, term.length) + "<b>" + value.substring(pos + term.length) + "</b>"; 					}, 					scroll: false, 					selectFirst: false 				});  			}); </p>
+<p> Home </p>
+<p> News </p>
+<p> In News </p>
+<p> Home </p>
+<p> Local </p>
+<p> National </p>
+<p> World </p>
+<p> B.C. Politics </p>
+<p> Weather </p>
+<p> Today's Paper </p>
+<p> Top Stories </p>
+<p> Â </p>
+<p> Health-care funding plan must change, premiers say </p>
+<p> Â </p>
+<p> Â </p>
+<p> Canada's premiers united in Victoria Monday to demand that the federal government reopen its "unprecedented and unacceptable" decisions over health-care funding, even as the prime minister tried to shut... </p>
+<p> Â </p>
+<p> Les Leyne: Premiers want a say in health money </p>
+<p> Drug prescription costs hit B.C. hardest: study </p>
+<p> News </p>
+<p> Â </p>
+<p> Greater Victoria wakes to overnight snowfall </p>
+<p> WestJet short-haul proposal could benefit Victoria: Airport CEO </p>
+<p> The Latest </p>
+<p> Weather </p>
+<p> Digital Edition </p>
+<p> More in News </p>
+<p> Opinion </p>
+<p> In Opinion </p>
+<p> Home </p>
+<p> Blogs </p>
+<p> Reader Comments </p>
+<p> Letters </p>
+<p> Columnists </p>
+<p> Editorials </p>
+<p> Op–Ed </p>
+<p> Editorial Cartoon </p>
+<p> Editorials </p>
+<p> Â </p>
+<p> Waist challenge for all Canada </p>
+<p> Â </p>
+<p> As the premiers met in Victoria Monday to discuss the future of health care in Canada, a political heavyweight in Ontario took the national limelight by getting right to the point: Better health starts... </p>
+<p> Â </p>
+<p> Comment </p>
+<p> Â </p>
+<p> Health meeting needs Harper </p>
+<p> Thumbs up/ Thumbs down </p>
+<p> The worst Republican field ever? Think again </p>
+<p> A good deal for both sides </p>
+<p> Comment </p>
+<p> Comment </p>
+<p> Â </p>
+<p> Frank discussion is needed </p>
+<p> What premiers could do for health care </p>
+<p> Working trumps retirement any old day </p>
+<p> Getting the salt out </p>
+<p> More in Opinion </p>
+<p> Business </p>
+<p> In Business </p>
+<p> Home </p>
+<p> Energy </p>
+<p> Money </p>
+<p> Markets on FP </p>
+<p> Top Stories </p>
+<p> Â </p>
+<p> A fresh start for just about anything at do-it-yourself sandblasting... </p>
+<p> Â </p>
+<p> Â </p>
+<p> Furniture, toys, car parts blasted back to basics </p>
+<p> Â </p>
+<p> Gallery: Do-it-yourself sandblasting in Victoria </p>
+<p> Video: Do-it-yourself sandblasting </p>
+<p> Business </p>
+<p> Â </p>
+<p> Viking union delivers strike notice </p>
+<p> Victoria baker feels pinch as Starbucks drops snack </p>
+<p> Business Wire </p>
+<p> Â </p>
+<p> Allied Nevada Gold Selects Mincomâs Next-Generation... </p>
+<p> Intransa Strengthens Executive Team with Bill Roeschlein... </p>
+<p> More in Business </p>
+<p> Sports </p>
+<p> In Sports </p>
+<p> Home </p>
+<p> Hockey </p>
+<p> Football </p>
+<p> Baseball </p>
+<p> Basketball </p>
+<p> Golf </p>
+<p> Auto Racing </p>
+<p> Winter Sports </p>
+<p> Tennis </p>
+<p> Mixed Martial Arts </p>
+<p> Soccer </p>
+<p> Rugby </p>
+<p> Cricket </p>
+<p> Top Stories </p>
+<p> Â </p>
+<p> Grizzlies' free fall continues with shellacking by Kings </p>
+<p> Â </p>
+<p> Â </p>
+<p> Just 18 hours after a 12-3 drubbing at the hands of the Surrey Eagles, the Victoria Grizzlies endured a 10-2 beatdown from Coastal Conference foes the Powell River Kings at Bear Mountain Arena on Sunday... </p>
+<p> Â </p>
+<p> Sports </p>
+<p> Â </p>
+<p> Royals aim to round up two points </p>
+<p> Nanaimo to host first Western Canadian junior A championship </p>
+<p> Victoria's Tuson rink advances to men's B.C. curling championship </p>
+<p> Royals snap winless streak </p>
+<p> Cascades offence pounds women Vikes </p>
+<p> Eagles shell hapless Grizz </p>
+<p> Dangerfield gets another shot at the provincial curling title </p>
+<p> All-star game a chance for VIJHL to show off its stars, prospects, skills </p>
+<p> Features </p>
+<p> Australian Open </p>
+<p> Â </p>
+<p> Raonic rolls into second round </p>
+<p> Bourque impressive in debut </p>
+<p> About Olympics for women's soccer </p>
+<p> Kesler displeased with critique </p>
+<p> Wings set club record </p>
+<p> Rangers to sign Fielder, Darvish or both? </p>
+<p> Bozak has spark for top line </p>
+<p> Melnyk willing to add to Senators </p>
+<p> More in Sports </p>
+<p> Entertainment </p>
+<p> In Entertainment </p>
+<p> Home </p>
+<p> Music </p>
+<p> Books </p>
+<p> Movies </p>
+<p> Television </p>
+<p> TV Listings </p>
+<p> Stage </p>
+<p> Visual Arts </p>
+<p> Celebrity </p>
+<p> Top Stories </p>
+<p> Â </p>
+<p> Victoria-made design show goes online </p>
+<p> Â </p>
+<p> Â </p>
+<p> New series is a slick showcase of made-in-Victoria home makeovers </p>
+<p> Â </p>
+<p> 10 things </p>
+<p> Â </p>
+<p> 10 things: These political dramas pair well with primaries </p>
+<p> Singer raises opera bar </p>
+<p> Clean-cut Kutcher a little coy about his plans for the future </p>
+<p> Looking for a life in the hereafter </p>
+<p> Celebrity </p>
+<p> Kelsey Grammer </p>
+<p> Â </p>
+<p> Kelsey Grammer, wife expecting twins </p>
+<p> Russell Brand cites Kurt Vonnegut to address Katy ... </p>
+<p> Stephen Colbert for president? </p>
+<p> Photos: Celebrities arriving at the Golden Globes </p>
+<p> More in Entertainment </p>
+<p> Life </p>
+<p> In Life </p>
+<p> Home </p>
+<p> Pets </p>
+<p> Fashion & Beauty </p>
+<p> Island Food & Drink </p>
+<p> Food </p>
+<p> Relationships </p>
+<p> Diversions - Comics & Games </p>
+<p> Family 4-1-1 </p>
+<p> Mike Holmes </p>
+<p> Top Stories </p>
+<p> Â </p>
+<p> Kids dive into ocean sciences </p>
+<p> Â </p>
+<p> Â </p>
+<p> It's no wonder some visitors to What Lies Beneath could be heard humming Under the Sea and recalling underwater movies from The Little Mermaid to The Abyss when the new undersea exploration exhibit surfaced... </p>
+<p> Â </p>
+<p> Life </p>
+<p> Â </p>
+<p> Siblings stress over aging parents </p>
+<p> How to use a hot spice in a cold dish </p>
+<p> When kids go to hospital </p>
+<p> Send us your parenting questions and solutions </p>
+<p> Blogs </p>
+<p> Â </p>
+<p> Buddhist âmindfulnessâ helps Christians rediscover... </p>
+<p> Respect Vital in Discussions of Religion. </p>
+<p> How much are you spending? </p>
+<p> Buick GS punches above its weight in class </p>
+<p> Tasty recipes for ground beef </p>
+<p> Thank you Victoria! </p>
+<p> More in Life </p>
+<p> Health </p>
+<p> In Health </p>
+<p> Home </p>
+<p> Women </p>
+<p> Men </p>
+<p> Family & Child </p>
+<p> Seniors </p>
+<p> Sexual Health </p>
+<p> Diet & Fitness </p>
+<p> Top Stories </p>
+<p> Â </p>
+<p> Postponing parenthood could have serious consequences, warns... </p>
+<p> Â </p>
+<p> Â </p>
+<p> Men, and not just women, need to be aware of the "reproductive consequences" of postponing parenthood, new national guidelines on the risks of delayed child-bearing warn. </p>
+<p> Â </p>
+<p> Do twin embryos help each other survive? </p>
+<p> Lots of pregnancies linked to a healthier heart </p>
+<p> Healthy male diet may boost IVF success: Study </p>
+<p> Men, are you killing your sperm? Quantity, quality matter in male fertility </p>
+<p> Using one embryo in IVF doesn't cut birth rate: Study </p>
+<p> Abortion </p>
+<p> Â </p>
+<p> Concealing fetus sex could curb abortion trend: CMAJ editional </p>
+<p> Toronto mayor, brother kick off their weight-loss campaign </p>
+<p> German researchers pave way to cheaper malaria drug </p>
+<p> Health Club </p>
+<p> Fitness </p>
+<p> Â </p>
+<p> To optimize exercise, heed your heart rate training... </p>
+<p> Begin 2012 on a healthy note </p>
+<p> Calorie counters fooled by 'side-salad illusion' </p>
+<p> More in Health </p>
+<p> Technology </p>
+<p> In Technology </p>
+<p> Home </p>
+<p> Personal Tech </p>
+<p> Gaming </p>
+<p> Tech–Biz </p>
+<p> Internet </p>
+<p> Environment </p>
+<p> Space </p>
+<p> Science </p>
+<p> Best of YouTube </p>
+<p> Top Stories </p>
+<p> Â </p>
+<p> Gallery: The cancelled Steve Jobs action figure </p>
+<p> Â </p>
+<p> Â </p>
+<p> In Icons has cancelled the production of this 12" Steve Jobs action figure due to pressures from Apple lawyers. Take a look at the doll that might have been, which looks bizarrely similar to the late ... </p>
+<p> Â </p>
+<p> Follow canada.com Tech on Twitter </p>
+<p> And the Grammy goes to - Steve Jobs </p>
+<p> Photos: Steve Jobs statue unveiled </p>
+<p> Photos: Apple stores shut during Steve Jobs memorial </p>
+<p> Cyber Crime </p>
+<p> Â </p>
+<p> The rise of Canadian cyber crime </p>
+<p> How Canada is winning Youtube </p>
+<p> Rhino romance may save species </p>
+<p> Mitch Joel on the rise of Google+ </p>
+<p> Science </p>
+<p> Animals </p>
+<p> Â </p>
+<p> Rhino romance may save species </p>
+<p> Extinct Galapagos turtle may be alive </p>
+<p> Possible lost world found in Lake Huron </p>
+<p> New Super Soldier ants created by McGill </p>
+<p> More in Technology </p>
+<p> Travel </p>
+<p> In Travel </p>
+<p> Home </p>
+<p> Trip Ideas </p>
+<p> Tools & Tips </p>
+<p> Community </p>
+<p> Destination Guides </p>
+<p> Top Stories </p>
+<p> Â </p>
+<p> Gallery: 32 places to visit when you retire </p>
+<p> Â </p>
+<p> Â </p>
+<p> Here are the top 32 places that everyone should have on their to-see bucket list. </p>
+<p> Â </p>
+<p> Travel: 2012 </p>
+<p> Â </p>
+<p> 30 reasons to get up & go in 2012 </p>
+<p> St. Barths can be outrageously expensive, but it doesn't have to be </p>
+<p> Just 1,000 visitors a year venture to the North Pole </p>
+<p> Top 5 most interesting cities to visit this year </p>
+<p> Local Stories </p>
+<p> Travel: Spas </p>
+<p> Â </p>
+<p> Beauty and body treatments at spas close to Montreal... </p>
+<p> Snowshoeing: A foray into the white pale of winter </p>
+<p> War of 1812 bicentennial offers a wealth of historic... </p>
+<p> The Thompson hotel is well placed for exploring Toronto... </p>
+<p> More in Travel </p>
+<p> Jobs </p>
+<p> In Jobs </p>
+<p> Home </p>
+<p> Search Jobs </p>
+<p> Resources </p>
+<p> Post Jobs </p>
+<p> Jobseekers </p>
+<p> Employer Login </p>
+<p> Top Stories </p>
+<p> Â </p>
+<p> Incentives can boost bottom line, curb turnover </p>
+<p> Â </p>
+<p> Â </p>
+<p> At NCM Associates in Overland Park, Kan., employees are getting a gift that will keep on giving: an infusion into their nest eggs. </p>
+<p> Â </p>
+<p> Find a job! </p>
+<p> Successful, but unmotivated </p>
+<p> Help Wanted: Pensions and jobless benefits </p>
+<p> Home-work nets benefits </p>
+<p> Local employers focusing on worker retention </p>
+<p> Career Coach </p>
+<p> Â </p>
+<p> Career Coach: Hints to help bump up 2012 </p>
+<p> Never too late to alter bad habits </p>
+<p> More Stories </p>
+<p> Labour Unrest </p>
+<p> Â </p>
+<p> Microsoft probes labour unrest at Shanghai plant </p>
+<p> Human rights boss must clear 'toxic' air: Ottawa </p>
+<p> Tolerance tied to exposure: study </p>
+<p> Woodworking shop lets Grade 8 students try skilled... </p>
+<p> More in Jobs </p>
+<p> Cars </p>
+<p> In Cars </p>
+<p> Home </p>
+<p> New </p>
+<p> Used </p>
+<p> Weekly Specials </p>
+<p> Sell </p>
+<p> Research & Compare </p>
+<p> News & Events </p>
+<p> Videos </p>
+<p> Features </p>
+<p> Top Stories </p>
+<p> Â </p>
+<p> Alberta year-over-year auto sales best in Canada </p>
+<p> Â </p>
+<p> Â </p>
+<p> Although new motor vehicle sales in November dipped in Alberta from the previous month, the province still had the best year-over-year rate of growth in the country. Statistics Canada said Monday that... </p>
+<p> Â </p>
+<p> Fuel economy is what sells </p>
+<p> Honda, Toyota predict big gains </p>
+<p> Civic still tops, but Ford claims 2011 sales crown </p>
+<p> Audi CEO: Auto industry faces tougher year in 2012 </p>
+<p> Corvett </p>
+<p> Â </p>
+<p> Photos: Chevrolet sends C6 Corvette off with collector edition </p>
+<p> BMW to invest about $900 million in U.S. plant by 2014 </p>
+<p> Class-action vs American Honda thrown out </p>
+<p> GM, German union in talks to restructure Opel </p>
+<p> China 2011 car sales rise at slowest annual pace </p>
+<p> Features </p>
+<p> Toyota Tacoma </p>
+<p> Â </p>
+<p> Winter Diary, 2012 Toyota Tacoma V6 </p>
+<p> Auto Shows </p>
+<p> 2012 New Model Preview </p>
+<p> Special: Driver Education </p>
+<p> Winter driving guide </p>
+<p> More in Cars </p>
+<p> Homes </p>
+<p> In Homes </p>
+<p> Home </p>
+<p> For Sale/Rent </p>
+<p> Real Estate Advice </p>
+<p> Renovating </p>
+<p> Decorating </p>
+<p> Gardening </p>
+<p> Vacation Homes </p>
+<p> Mike Holmes </p>
+<p> Top Stories </p>
+<p> Â </p>
+<p> Chef's playground is the kitchen out back </p>
+<p> Â </p>
+<p> Â </p>
+<p> Walk in the front door of chef Celestino Drago's Sherman Oaks, California, home, through the soaring foyer and the wide-open designer kitchen and out the back door, and you might think you've been transported... </p>
+<p> Â </p>
+<p> Big vegetable taste in small containers </p>
+<p> Exciting new seeds worth trying out </p>
+<p> Gardening trends for 2012 </p>
+<p> Urban farmers take over 'war zone' </p>
+<p> Edible and ornamental </p>
+<p> Plants return yearly like welcome guests </p>
+<p> Farming vertical veggies indoors </p>
+<p> Home Style </p>
+<p> Â </p>
+<p> New Year, new home ideas that are yours </p>
+<p> Back in Canada: In need of home </p>
+<p> To slipcover or not? </p>
+<p> The blanc canvas </p>
+<p> Features </p>
+<p> Clutter </p>
+<p> Â </p>
+<p> Relieve stress this year by banishing the clutter </p>
+<p> Swarovski pitches in to create sparkling toilet </p>
+<p> Latin America rated tops for retirement </p>
+<p> Contractor turns old wood into 'rustic chic' </p>
+<p> Exciting new seeds worth trying out </p>
+<p> More in Homes </p>
+<p> Classifieds </p>
+<p> In Classifieds </p>
+<p> Home </p>
+<p> Announcements </p>
+<p> Dating </p>
+<p> Obituaries </p>
+<p> Job Listings </p>
+<p> Car Listings </p>
+<p> Real Estate For Sale/Rent </p>
+<p> Shopping </p>
+<p> Place an Ad </p>
+<p> Top Stories </p>
+<p> Â </p>
+<p> Alberta year-over-year auto sales best in Canada </p>
+<p> Â </p>
+<p> Â </p>
+<p> Although new motor vehicle sales in November dipped in Alberta from the previous month, the province still had the best year-over-year rate of growth in the country. Statistics Canada said Monday that... </p>
+<p> Â </p>
+<p> Fuel economy is what sells </p>
+<p> Honda, Toyota predict big gains </p>
+<p> Civic still tops, but Ford claims 2011 sales crown </p>
+<p> Audi CEO: Auto industry faces tougher year in 2012 </p>
+<p> Corvett </p>
+<p> Â </p>
+<p> Photos: Chevrolet sends C6 Corvette off with collector edition </p>
+<p> BMW to invest about $900 million in U.S. plant by 2014 </p>
+<p> Class-action vs American Honda thrown out </p>
+<p> GM, German union in talks to restructure Opel </p>
+<p> China 2011 car sales rise at slowest annual pace </p>
+<p> European car makers must consolidate: Fiat CEO </p>
+<p> Features </p>
+<p> Â </p>
+<p> Own Ladysmiths Only Motel (Dan Morris) $1,199,900 </p>
+<p> More in Classifieds </p>
+<p> Don't miss: </p>
+<p> Online subscriptions </p>
+<p> Island Food/Drinks </p>
+<p> Photo galleries </p>
+<p> Obituaries </p>
+<p> TC print ads </p>
+<p> Music Downloads </p>
+<p> Today's Paper/Archive </p>
+<p> Â </p>
+<p> Â» </p>
+<p> RSS </p>
+<p> adcookieTag = typeof(adcookieTag) != 'undefined' ? adcookieTag : '';                         dartad_tile = typeof(dartad_tile) != 'undefined' ? dartad_tile + 1 : 1;                         var dartad_url = "http://ad.ca.doubleclick.net/N3081/adj/victoriatimescolonist.com/health/story;loc=top;sz=960x42;kw=ron;kw=health;nk=print;pr=vtc;ck=health;page=story;kw=vtc;tile="+dartad_tile+";"+adcookieTag+surroundTag+"ord=46377615?"; // script ad code with adcookie, used for debug                         document.write('<script language="JavaScript1.1" src="http://ad.ca.doubleclick.net/N3081/adj/victoriatimescolonist.com/health/story;loc=top;sz=960x42;kw=ron;kw=health;nk=print;pr=vtc;ck=health;page=story;kw=vtc;tile='+dartad_tile+';'+adcookieTag+surroundTag+'ord=46377615?"><\/script>'); </p>
+<p> if(adid != "") // check if the ad should start a surround session only if a surround session has not yet started                         {                             surroundTag = "srnd="+adid+";"; // setup the key-value for a surround session                             setSurroundCookie(adid); // store the surround session id in a cookie.                         } </p>
+<p> adcookieTag = typeof(adcookieTag) != 'undefined' ? adcookieTag : '';                         dartad_tile = typeof(dartad_tile) != 'undefined' ? dartad_tile + 1 : 1;                         var dartad_url = "http://ad.ca.doubleclick.net/N3081/adj/victoriatimescolonist.com/health/story;loc=top;sz=960x42;kw=ron;kw=health;nk=print;pr=vtc;ck=health;page=story;kw=vtc;tile="+dartad_tile+";"+adcookieTag+surroundTag+"ord=46377615?"; // script ad code with adcookie, used for debug                         document.write('<script language="JavaScript1.1" src="http://ad.ca.doubleclick.net/N3081/adj/victoriatimescolonist.com/health/story;loc=top;sz=960x42;kw=ron;kw=health;nk=print;pr=vtc;ck=health;page=story;kw=vtc;tile='+dartad_tile+';'+adcookieTag+surroundTag+'ord=46377615?"><\/script>'); </p>
+<p> if(adid != "") // check if the ad should start a surround session only if a surround session has not yet started                         {                             surroundTag = "srnd="+adid+";"; // setup the key-value for a surround session                             setSurroundCookie(adid); // store the surround session id in a cookie.                         } </p>
+<p> CDMScriptManager.load('/js/SpiderRedirect.js'); </p>
+<p> CDMScriptManager.load('/js/pluck/pluckLocal.js'); 				CDMScriptManager.load('http://pluck.timescolonist.com/ver1.0/Direct/DirectProxy'); 				CDMScriptManager.load('/js/pluck/pluck.js');				 				CDMScriptManager.load('/js/adsync/adSyncLibrary.js'); </p>
+<p> if (typeof dartad_url != 'undefined') { 					var dd = adSync.ParseDartAdUrl(dartad_url); 					cwZoneAd=dd["zone"]; 					cwSiteAd =dd["site"]; 					cwKeyAd=dd["keyValues"]; 				}else { 					cwSiteAd = "vtc_bh.com"; // plug in the Ad site variable 					cwZoneAd= "health/story"; // plug in the ad zone. 					cwKeyAd="kw=ron;kw=health"; // plug in the Ad key words. 				} </p>
+<p> var addthis_pub = 'canada.com';  				function tabClick(eventText, hasVideo, id, classname, pause,syncAds) 				{	 					//the statsEvent and Ad Refresh have been disabled on the story tab clicks 					//I've left the code in the xsl (just commented out), in case the decision gets reversed. 									 					//omniture event 					//statsEvent(eventText);	 					 					//set tab 					if(hasVideo) 						switchTab(id,classname, pause); 					else 						setClass(id, classname);  					//refresh ads 					//if(syncAds) 						//adSync.TriggerAdSynch(); 				}  				function statsEvent(eventText) 				{ 					//omniture event 					s.prop38=s.pageName + eventText; 					s.events=''; 					void(s.t());				 				}  				function showTab(firstentrytype) 				{ 					var tab = getQueryVar('tab'); 					var tabclass = '';  					if (tab == 'PHOT' || (firstentrytype.indexOf('image/') != -1 && tab == '')) 						tabclass = 'story_photo_content'; 					else if (tab == 'VID' || ((firstentrytype == 'application/vnd.ooyala') && tab == '')) 						tabclass = 'story_video_content'; 					else if (tab == 'FLSH' || (firstentrytype == 'application/x-shockwave-flash' && tab == '')) 						tabclass = 'story_interactive_content';  					if (tabclass != '') 						setClass('storypage', tabclass); 				} 				function EmailThis(qs, emailViewer)  				{ 					var url = "http://" + window.location.hostname + window.location.pathname; 					var id = "";  					id = getQueryVar("id"); 					if (id != "") 					{ 						url = addQS(url, "id=" + id); 					} 					if (qs != "") 					{ 						url = addQS(url, qs); 					} 					if (typeof(emailViewer) == "undefined" || emailViewer == null || emailViewer == "") emailViewer = "/story_emailthis.html"; 					openWindow(emailViewer + '?referrer=' + encodeURIComponent(url), 'StoryEmailThis', 'scrollbars=yes,resizable=yes,width=550,height=380') 				} 				function getQueryVar(key)  				{ 					var qs = window.location.search.substring(1); 					var arrQS = qs.split("&"); 					var value = "";  					for (i=0; i<arrQS.length; i++) { 						var ft = arrQS[i].split("="); 						if (ft[0] == key) { 							value =  ft[1]; 						} 					}  					return value; 				} 				function addQS(theURL, QS) 				{ 					var url = theURL; 					if (QS != '') 					{ 						if (url.indexOf("?") == -1)	{ 							url += "?" + QS; 						}  						else { 							url += "%26amp;" + QS; 						} 					} 					return url; 				} 				function openWindow(theURL, WinName, WinFeatures) { 					window.open(theURL, WinName, WinFeatures); 				} 				function jumpToAnchor(anchor)  				{ 					window.location = String(window.location).replace(/\#.*$/, "") + anchor; 				} 				function showAd(story_elem, ad_elem, ad_wrapper, offset) { 					var eosPos = Y(story_elem); 					var adPos = Y(ad_wrapper); 					var showAd = false; 					var offsetPos = 0; 					 					if (eosPos >= adPos) 					{ 						showAd = true; 					} 					else 					{ 						offsetPos = eosPos + offset; 						if (offsetPos >= adPos) 						{ 							showAd = true; 						} 					}  					// write out ad include 					if (showAd == true) 					{ 					   document.getElementById(ad_elem).style.display = "block";  					} 				}				 				function X(id) { 					var obj = document.getElementById(id); 					var x = obj.offsetLeft  					while (obj = obj.offsetParent) x += obj.offsetLeft 					return x 				} 				function Y(id) { 					var obj = document.getElementById(id); 					var y = obj.offsetTop  					while (obj = obj.offsetParent) y += obj.offsetTop 					return y 				} </p>
+<p> CDMScriptManager.load("http://s9.addthis.com/js/widget.php?v=10"); </p>
+<p> Norovirus outbreak detains students in Victoria </p>
+<p> Â </p>
+<p> About 75 students at conference infected in major outbreak at hotel </p>
+<p> Â </p>
+<p> By Derek Spalding, Times Colonist </p>
+<p> January 17, 2012 </p>
+<p> Â </p>
+<p> Tweet </p>
+<p> stLight.options({ 				publisher:'8f205be9-8545-4fa3-a030-c83238b6a3e5', 				offsetLeft:'-265', 				onhover: false, 				embeds:'true', 		}); </p>
+<p> showTab("text/html"); </p>
+<p> Â </p>
+<p> function resizeImage() { 					var imgBox = document.getElementById('imageBox'); 					var photo = document.getElementById('storyphoto');  					if (imgBox != null && photo != null) 					{ 						if(photo.width >= 460)  						{ 							imgBox.className = 'imagesize460'; 						} 						else  						{ 							if(photo.width >= 300)  							{ 								imgBox.className = 'imagesize310'; 							} 							else  							{ 								imgBox.className = 'imageboxpadding'; 							} 							imgBox.style.width = photo.width + 'px'; 						} 					} 				} 				function getStoryFontSize() { 					var storyfontsize = getCookie('storyfontsize'); 					var storyfontimage = getCookie('storyfontimage');  					// use cookied value, if present 					if (storyfontsize != null) 					{ 						setClass('story_content',storyfontsize);  						if (storyfontimage != null) 						{ 							setClass('fontsizecontainer',storyfontimage);  						} 					} 					else	// default it to para14 if no cookie 					{ 						setClass('story_content','para14');  						setClass('fontsizecontainer','size02'); 					} 				} 				function setStoryFontSize(storyfontsize,storyfontimage) { 					setClass('story_content',storyfontsize);  					setClass('fontsizecontainer',storyfontimage); 					setCookie('storyfontsize', storyfontsize, '365', '/', '', ''); 					setCookie('storyfontimage', storyfontimage, '365', '/', '', ''); 				} 				function setCookie( name, value, expires, path, domain, secure ) { 					// set time 					var today = new Date(); 					today.setTime( today.getTime() );  					if ( expires ) 					{ 						expires = expires * 1000 * 60 * 60 * 24; //days 					} 					var expires_date = new Date( today.getTime() + (expires) );  					document.cookie = name + "=" + escape( value ) + 					( ( expires ) ? ";expires=" + expires_date.toGMTString() : "" ) +  					( ( path ) ? ";path=" + path : "" ) +  					( ( domain ) ? ";domain=" + domain : "" ) + 					( ( secure ) ? ";secure" : "" ); 				} 				function getCookie( check_name ) { 					// split this cookie up into name/value pairs 					var a_all_cookies = document.cookie.split( ';' ); 					var a_temp_cookie = ''; 					var cookie_name = ''; 					var cookie_value = ''; 					var b_cookie_found = false; // set boolean t/f default f 					 					for ( i = 0; i < a_all_cookies.length; i++ ) 					{ 						// split apart each name=value pair 						a_temp_cookie = a_all_cookies[i].split( '=' ); 						 						// and trim left/right whitespace while we're at it 						cookie_name = a_temp_cookie[0].replace(/^\s+|\s+$/g, ''); 					 						// if the extracted name matches passed check_name 						if ( cookie_name == check_name ) 						{ 							b_cookie_found = true; 							// we need to handle case where cookie has no value but exists (no = sign, that is): 							if ( a_temp_cookie.length > 1 ) 							{ 								cookie_value = unescape( a_temp_cookie[1].replace(/^\s+|\s+$/g, '') ); 							} 							// note that in cases where cookie is initialized but no value, null is returned 							return cookie_value; 							break; 						} 						a_temp_cookie = null; 						cookie_name = ''; 					} 					if ( !b_cookie_found ) 					{ 						return null; 					} 				} </p>
+<p> Some of the delegates from a journalism conference in Victoria this weekend were not allowed to fly home Sunday or Monday because of a painful outbreak of norovirus that kept dozens isolated in their hotel rooms. </p>
+<p> About 75 of the 370 university students from across the country were infected as the virus quickly spread throughout the Canadian University Press national conference at the Harbour Towers Hotel and Suites late Saturday. </p>
+<p> WestJet Airlines turned at least one passenger away at Victoria International Airport because he or she was still presenting symptoms. </p>
+<p> Other delegates called ahead to change their flight times based on advice from health officials. </p>
+<p> Both WestJet and Air Canada waved cancellation fees for the affected students, and the hotel allowed the sick a free night's stay as they waited for the virus to pass through their system. </p>
+<p> The first few cases began just before a banquet dinner about 5 p.m. Saturday. Within hours, some students were vomiting on buses and on the dance floor at a weekend gala at Vertigo nightclub. </p>
+<p> Health officials sent paramedics to the hotel overnight Saturday as students isolated themselves in their rooms. </p>
+<p> People typically contract norovirus by transfers of fecal or oral matter. The virus can live on surfaces for hours and is easily transferred via people's hands, according to the Vancouver Island Health Authority. </p>
+<p> Students kept their spirits up during the ordeal, but many of them suffered painful symptoms, including severe stomach cramps, uncontrollable vomiting and diarrhea. </p>
+<p> Delegate Shane Fowler said he avoided the virus until he got back from a night of drinking. </p>
+<p> He had heard that about 25 people had vomited on the bus and in the bar, but said he had no idea of the severity of the problem when he arrived back at the hotel. </p>
+<p> Eventually, the journalist for The Aquinian newspaper at St. Thomas University in Fredericton, N.B., started to show symptoms. </p>
+<p> "None of us heard about norovirus before this and now we are intimately familiar with it, including its exploding consequences," he said. "You don't do much more than sleep, puke and wreck toilets, and it's just rinse and repeat until it passes." </p>
+<p> A head count of infected students stopped at about 50 after 4 a.m. Sunday. </p>
+<p> Since then, Canadian University Press staff have received reports of more people getting sick on their way home. </p>
+<p> "It seems that people who were feeling great got sick later on," said Emma Godmere, national bureau chief for the organization. </p>
+<p> "A lot of CUP staff, who were patrolling through the night, have fell sick as recently as [late Sunday]. So even among our ranks, people have gotten sick." </p>
+<p> B.C. Ambulance Service had several paramedics at the hotel overnight Saturday at the peak of the outbreak, treating the infected. Eleven people were taken to hospital, but most were treated at the hotel to avoid spreading the virus to patients with compromised immune systems. </p>
+<p> About 15 hotel staff called in sick during a 24-hour period from Sunday to Monday, according to management, who said most banquet servers were the hardest hit. </p>
+<p> WestJet reported that it flew out 30 of the delegates on Sunday and another 19 Monday. Just a dozen or so students remained in rooms overnight Monday, hotel manager Ian Jones said. </p>
+<p> dspalding@timescolonist.com </p>
+<p> Â© Copyright (c) The Victoria Times Colonist </p>
+<p> Â </p>
+<p> Â </p>
+<p> Â </p>
+<p> E-mail this Article </p>
+<p> Print this Article </p>
+<p> Share this Article </p>
+<p> Â </p>
+<p> Â </p>
+<p> Â </p>
+<p> Â </p>
+<p> Location refreshed </p>
+<p> var geoloc_service_domain = "app.canada.com"; 	var geoloc_postproxy_domain = window.location.hostname+""; 	CDMScriptManager.load('/js/geo_location.js'); </p>
+<p> Â </p>
+<p> Story Tools </p>
+<p> Â </p>
+<p> E-mail this Article </p>
+<p> Print this Article </p>
+<p> jQuery('#liComment').hide(); </p>
+<p> Â </p>
+<p> Font: </p>
+<p> * </p>
+<p> * </p>
+<p> * </p>
+<p> * </p>
+<p> * </p>
+<p> // load up cookied story font size 								getStoryFontSize(); </p>
+<p> Â </p>
+<p> Image: </p>
+<p> * </p>
+<p> * </p>
+<p> * </p>
+<p> * </p>
+<p> Â </p>
+<p> Â </p>
+<p> Â </p>
+<p> Related Stories from Around the Web </p>
+<p> WestJetâs Dunleavy leaving for Malaysia Airlines </p>
+<p> Â </p>
+<p> Calgary Herald </p>
+<p> Â </p>
+<p> Monday, January 16, 2012 </p>
+<p> Airline traffic ends year on a high </p>
+<p> Â </p>
+<p> Calgary Herald </p>
+<p> Â </p>
+<p> Monday, January 16, 2012 </p>
+<p> WestJet eyes starting new regional airline </p>
+<p> Â </p>
+<p> Edmonton Journal, Canada </p>
+<p> Â </p>
+<p> Monday, January 16, 2012 </p>
+<p> Â </p>
+<p> Â </p>
+<p> jQuery('#soundoff').addClass('hideCommentForm'); </p>
+<p> Â </p>
+<p> var playingAd; 		document.write("<img id='vid1' height='1' width='1'>"); 		function videoScore(evt){ 			playingAd=evt.data.isAd; 			document.getElementById("vid1").src="http://beacon.securestudies.com/scripts/beacon.dll?C1=1&C2=10276888&C3=3005660&C4=" + window.location.pathname.toLowerCase() + "&C5=&C6=&C7=" + escape(window.location.href) + "&C8=" + escape(document.title) + "&C9=" + escape(document.referrer) + "&rn=" + Math.floor(Math.random()*99999999); 		} 		if (typeof tpController != 'undefined') {  		   tpController.addEventListener("OnMediaStart", "videoScore"); 		} </p>
+<p> Related Topics </p>
+<p> WestJet Airlines Ltd. </p>
+<p> Canadian University Press </p>
+<p> Victoria (British Columbia) </p>
+<p> adcookieTag = typeof(adcookieTag) != 'undefined' ? adcookieTag : '';                         dartad_tile = typeof(dartad_tile) != 'undefined' ? dartad_tile + 1 : 1;                         var dartad_url = "http://ad.ca.doubleclick.net/N3081/adj/vtc_bh.com/health/story;loc=top_box;loc=top;sz=250x250,300x250,300x600;kw=ron;kw=health;nk=print;pr=vtc;ck=health;page=story;kw=vtc;tile="+dartad_tile+";"+adcookieTag+surroundTag+"ord=46377615?"; // script ad code with adcookie, used for debug                         document.write('<script language="JavaScript1.1" src="http://ad.ca.doubleclick.net/N3081/adj/vtc_bh.com/health/story;loc=top_box;loc=top;sz=250x250,300x250,300x600;kw=ron;kw=health;nk=print;pr=vtc;ck=health;page=story;kw=vtc;tile='+dartad_tile+';'+adcookieTag+surroundTag+'ord=46377615?"><\/script>'); </p>
+<p> if(adid != "") // check if the ad should start a surround session only if a surround session has not yet started                         {                             surroundTag = "srnd="+adid+";"; // setup the key-value for a surround session                             setSurroundCookie(adid); // store the surround session id in a cookie.                         } </p>
+<p> Most Popular News </p>
+<p> Most Read </p>
+<p> E-mailed </p>
+<p> Commented </p>
+<p> Be prepared â cold snap, snow forecast </p>
+<p> B.C. has highest national rate of those who can't afford to take drug prescriptions as directed </p>
+<p> Norovirus outbreak detains students in Victoria </p>
+<p> MonkeyJunk tops blues awards </p>
+<p> Norovirus outbreak detains students in Victoria </p>
+<p> Court urged to snuff out medical pot access rules </p>
+<p> Â </p>
+<p> more </p>
+<p> Â» </p>
+<p> RSS </p>
+<p> Norovirus outbreak detains students in Victoria </p>
+<p> Jack Knox: Marijuana resin conviction in 1967 grounds Tofino man at U.S. border </p>
+<p> WestJet short-haul proposal could benefit Victoria: Airport CEO </p>
+<p> Victoria school board trustees reject 10 per cent pay increase </p>
+<p> Be prepared â cold snap, snow forecast </p>
+<p> Â </p>
+<p> more </p>
+<p> Â» </p>
+<p> RSS </p>
+<p> setMostCommented("mostCommented", 6, 15); </p>
+<p> Sponsored By </p>
+<p> The Victoria Times Colonist Headline News </p>
+<p> Sign up to receive daily headline news from The Times Colonist. </p>
+<p> Submit </p>
+<p> Our Privacy Statement </p>
+<p> Diet and Fitness </p>
+<p> Child and Teen </p>
+<p> document.write('<script language="JavaScript1.1" src="http://player.ooyala.com/player.js?wmode=transparent&playerContainerId=player2Div&callback=pmplayer2.PlayerCallbackEvent&playerId=player2&width=300&height=226&embedCode=R0ODdkMjqWI788TuOg7TAHvHmu_nHD92&'+pmAd.get()+'" ><\/script>'); </p>
+<p> var pmplayer2;         	pmplayer2 = new ooYala.PMPlayer('player2', 'player2Div', 'pmplayer2', 'R0ODdkMjqWI788TuOg7TAHvHmu_nHD92', '300','226', "90x60", 4, true, true);                            pmplayer2.Init();                                                        	pmplayer2.SetUpTabs(); </p>
+<p> adcookieTag = typeof(adcookieTag) != 'undefined' ? adcookieTag : '';                         dartad_tile = typeof(dartad_tile) != 'undefined' ? dartad_tile + 1 : 1;                         var dartad_url = "http://ad.ca.doubleclick.net/N3081/adj/vtc_bh.com/health/story;loc=bot_box;loc=bot;sz=250x250,300x250;kw=ron;kw=health;nk=print;pr=vtc;ck=health;page=story;kw=vtc;tile="+dartad_tile+";"+adcookieTag+surroundTag+"ord=46377615?"; // script ad code with adcookie, used for debug                         document.write('<script language="JavaScript1.1" src="http://ad.ca.doubleclick.net/N3081/adj/vtc_bh.com/health/story;loc=bot_box;loc=bot;sz=250x250,300x250;kw=ron;kw=health;nk=print;pr=vtc;ck=health;page=story;kw=vtc;tile='+dartad_tile+';'+adcookieTag+surroundTag+'ord=46377615?"><\/script>'); </p>
+<p> if(adid != "") // check if the ad should start a surround session only if a surround session has not yet started                         {                             surroundTag = "srnd="+adid+";"; // setup the key-value for a surround session                             setSurroundCookie(adid); // store the surround session id in a cookie.                         } </p>
+<p> <!-- 				 google_ad_client   = 'ca-pub-1718995873402338'; 				 google_ad_output   = 'js'; 				 google_max_num_ads = '3'; 				 google_hints       = 'health'; 				 google_safe        = 'high'; 				 google_kw_color    = '#E2A9A9'; 				 google_ad_channel  = 'victoria-timescolonist-health-story'; 				 google_adtest = 'off'; 				 google_feedback = 'on'; 				// --> </p>
+<p> <!-- 				function google_ad_request_done(google_ads) { 					document.write('<div class="googleadwrapper">'); 					document.write('<div class="box_e5e5e5">'); 					document.write('<div class="box_content">'); 					document.write('<div class="section_title_no_line">'); 					document.write('<h3>'); 					document.write('<a href="' + google_info.feedback_url + '" target="_blank"><span>Ads by Google</span></a>'); 					document.write('</h3>'); 					document.write('</div>'); 					document.write('<div class="clear">&nbsp;</div>');   					var i;  					// Display each ad in turn 					for(i = 0; i < google_ads.length; ++i) { 						document.write('<div class="col_300">'); 						document.write('<div class="wrapper_10_10_10_10">'); 						document.write('<a target="_blank" class="toplink" href="' + google_ads[i].url +'"' + 'onmouseout="window.status=\'\'"' + 'onmouseover="window.status=\'go to ' + google_ads[i].visible_url + '\';return true;">'); 						document.write('<b>' + google_ads[i].line1 + '</b></a>'); 						document.write('<div class="clear">&nbsp;</div>'); 						document.write(google_ads[i].line2); 						document.write('<div class="clear">&nbsp;</div>'); 						document.write(google_ads[i].line3); 						document.write('<div class="clear">&nbsp;</div>'); 						document.write('<a target="_blank" href="' + google_ads[i].url + '"' + 'onmouseout="window.status=\'\'"' + 'onmouseover="window.status=\'go to ' + google_ads[i].visible_url + '\';return true;">' + google_ads[i].visible_url + '</a>'); 						document.write('</div>'); 						document.write('</div>'); 					} 					document.write('</div>'); 					document.write('</div>'); 					document.write('</div>'); 				} 			// --> </p>
+<p> Inside Times Colonist </p>
+<p> CDMScriptManager.load("/js/slider.js"); </p>
+<p> Â </p>
+<p> What you can get at Calgary's most popular home price $350,000-$399,999 </p>
+<p> Â </p>
+<p> Photos: Celebs party hearty after the Golden Globes </p>
+<p> Â </p>
+<p> Gallery: 32 places to visit when you retire </p>
+<p> Â </p>
+<p> Photos: Top images from around the globe </p>
+<p> Â </p>
+<p> 'Get back on board,' captain ordered </p>
+<p> Â </p>
+<p> Gallery: Canadian stamps honour Queen </p>
+<p> Â </p>
+<p> Stephen Colbert for president? </p>
+<p> Â </p>
+<p> Golden age at the Globes </p>
+<p> Â </p>
+<p> Man's massive mustard museum </p>
+<p> Â </p>
+<p> Hello, Lindsay Lohan ... itâs the tax man </p>
+<p> var FooterFeature_2_Object = null;                 jQuery(function() { 			FooterFeature_2_Object = new MultiSlider2('FooterFeature_2_Window', 'FooterFeature_2_Content', 'FooterFeature_2_Entry', 10, 5, 1500, 5);  			jQuery('#FooterFeature_2_LeftNavButton').click(function() { FooterFeature_2_Object.slideLeft('FooterFeature_2_Object');}) ; 			jQuery('#FooterFeature_2_RightNavButton').click(function() { FooterFeature_2_Object.slideRight('FooterFeature_2_Object');}) ; 		}); </p>
+<p> tynt={'ap': "Read more: "}; </p>
+<p> Home </p>
+<p> News </p>
+<p> Opinion </p>
+<p> Business </p>
+<p> Sports </p>
+<p> Entertainment </p>
+<p> Life </p>
+<p> Health </p>
+<p> Technology </p>
+<p> Travel </p>
+<p> Jobs </p>
+<p> Cars </p>
+<p> Homes </p>
+<p> Classifieds </p>
+<p> Don't Miss </p>
+<p> Online subscriptions </p>
+<p> Island Food/Drinks </p>
+<p> Photo galleries </p>
+<p> Obituaries </p>
+<p> TC print ads </p>
+<p> Music Downloads </p>
+<p> Today's Paper/Archive </p>
+<p> Â </p>
+<p> Â» </p>
+<p> RSS </p>
+<p> Most Popular </p>
+<p> Be prepared â cold snap, snow forecast </p>
+<p> B.C. has highest national rate of those who can't afford to take drug prescriptions as directed </p>
+<p> Norovirus outbreak detains students in Victoria </p>
+<p> Â </p>
+<p> Â» </p>
+<p> RSS </p>
+<p> Formats </p>
+<p> Sitemap / RSS </p>
+<p> Contests </p>
+<p> Blogs </p>
+<p> Columnists </p>
+<p> Photo Galleries </p>
+<p> Videos </p>
+<p> Mobile </p>
+<p> iPad App </p>
+<p> Times Colonist </p>
+<p> About Us </p>
+<p> Contact Us </p>
+<p> Work for Us </p>
+<p> Advertise with Us </p>
+<p> Subscribe to the Print Edition </p>
+<p> Tools </p>
+<p> Search </p>
+<p> Search for a Job </p>
+<p> Buy/Sell a Car </p>
+<p> Real Estate Listings </p>
+<p> SwarmJam Sweet Deals </p>
+<p> Place a Classified Ad </p>
+<p> E-mail Alerts </p>
+<p> canada.com Logo </p>
+<p> About canada.com </p>
+<p> Privacy Statement </p>
+<p> Terms </p>
+<p> Copyright & Permissions </p>
+<p> © 2008 - 2011 Postmedia Network Inc. All rights reserved. </p>
+<p> Unauthorized distribution, transmission or republication strictly prohibited. </p>
+<p> function footerSearch() { 			var q = document.getElementById("f").value.replace(/ /g,"+"); 			if (q.length == 0) { 				alert("Please enter your search criteria"); 				return; 			} 			var dname = document.domain;  			if ( dname=="driving.ca") { 				document.location.href="http://www.driving.ca/victoria/search/search.html?q=" + escape(q); 				} 			else { 				document.location.href="/search/search.html?q=" + escape(q); 			} 		} </p>
+<p> document.getElementById("f").value = document.getElementById("q").value; </p>
+<p> <!--                         /* You may give each page an identifying name, server, and channel on                         the next lines. */                         s.pageName='/health/story.html';                         s.server=window.location.hostname.toLowerCase();                         s.channel='health';                         s.pageType='';                         s.prop1='health';                         s.prop2='health';                         s.prop3='canwest';                         s.prop4='Non-Registered';                         s.prop5=s.prop4 + ': ' + s.pageName;                         s.prop6='Times Colonist/FREE';                         s.prop7='Times Colonist';                         s.prop8='6007020';                         s.prop9='';                         s.prop10='';                         s.prop11='';                         s.prop13='';                         s.prop23=document.title;                         s.prop24=s.prop8;                         s.prop25='story';                         s.prop26='health';                                     s.prop27='';                           s.prop28='';                          s.prop29='';                         s.prop36='Capital & Van. Isl.';                          s.prop37='vtc_bh.com';                          s.prop43='';                         s.prop44='';                         /* E-commerce Variables */                                                  s.events='';                         s.products='';                         s.purchaseID='';                         s.transactionID = s.purchaseID;                                                  /* s.prop48 for story only */                         s.prop48='Derek Spalding, Times Colonist';                                                                /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/                         var s_code=s.t();if(s_code)document.write(s_code)//--> </p>
+<p> <!--                         if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')                         //--> </p>

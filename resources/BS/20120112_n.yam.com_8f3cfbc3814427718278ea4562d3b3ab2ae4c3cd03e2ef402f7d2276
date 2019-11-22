@@ -1,0 +1,176 @@
+<p> 春節需要就醫怎麼辦？　可上健保局網站查詢-健康新聞-yam蕃薯藤新聞 </p>
+<p> document.write(unescape("%3Cscript src='" + (("https:" == document.location.protocol) ? "https://" : "http://") + "admd.yam.com/JS/yam_AD_ajax.js' type='text/javascript'%3E%3C/script%3E")); </p>
+<p> $(function() {   window.fbAsyncInit = function()    {       FB.init({appId: '241039752194', status: true, cookie: true, xfbml: true});       //FB.Canvas.setAutoResize(); 	  FB.Event.subscribe('edge.create', function(response) { 		$.ajax({ 			url: 'http://n.yam.com/api/facebook_share_count.php', 			type: "GET", 			data: "nid=20120112708277", 			success: function(data) {} 		}); 	  }); 	  FB.Event.subscribe('comment.create', function(response) { 		$.ajax({ 			url: 'http://n.yam.com/api/facebook_share_count.php', 			type: "GET", 			data: "nid=20120112708277", 			success: function(data) {} 		}); 	  });   };     (function() {     var e = document.createElement('script'); e.async = true;     e.src = document.location.protocol + '//connect.facebook.net/zh_TW/all.js';     document.getElementById('fb-root').appendChild(e);   }()); }); </p>
+<p> document.write(unescape("%3Cscript src='" + (("https:" == document.location.protocol) ? "https://" : "http://") + "admd.yam.com/AD_L/?LID=A15._B_*-_.ACF_*-.8-3*4-.C6FA*45&CID=F16._B_*-_.FEF_*-.5-D*1-.ED74*31&IMP=33B._3_*-_.F29_*-.8-D*9-.C108*69&PV=A03._8_*-_.E63_*-.4-2*C-.60F7*06&MODE=33B._3_*-_.F29_*-.8-D*9-.C108*69&APP=" + location.hash.replace(/[#]/g,"") + "&Charset=" + (document.characterSet ? document.characterSet.toUpperCase() : (document.charset ? document.charset.toUpperCase() : "UTF-8")) + "&RID=" + Math.random() + "&yamAD.js' type='text/javascript'%3E%3C/script%3E")); </p>
+<p> 首頁 </p>
+<p> 即時 </p>
+<p> 影音 </p>
+<p> 專輯 </p>
+<p> 政治 </p>
+<p> 財經 </p>
+<p> 娛樂 </p>
+<p> 運動 </p>
+<p> 社會 </p>
+<p> 兩岸 </p>
+<p> 國際 </p>
+<p> 生活 </p>
+<p> 科技 </p>
+<p> 健康 </p>
+<p> 即時 </p>
+<p> 專輯 </p>
+<p> 排行 </p>
+<p> 討論 </p>
+<p> 圖片 </p>
+<p> 影音 </p>
+<p> 民生@報 </p>
+<p> 壹電視影音 </p>
+<p> 教育 </p>
+<p> 藝文 </p>
+<p> 汽車 </p>
+<p> 美食 </p>
+<p> 旅行 </p>
+<p> 春節需要就醫怎麼辦？　可上健保局網站查詢 </p>
+<p> function share_facebook() 				{ 					//window.open('http://n.yam.com/api/facebook_publish/facebook_publish.php?nid=20120112708277','facebook_share','toolbar=0,status=0,width=626,height=450,location=0,scrollbars=1'); 					u=location.href;t=document.title; 					window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(u)+'&t='+encodeURIComponent(t),'sharer','toolbar=0,status=0,width=626,height=436'); 					 					$.ajax({ 						url: 'http://n.yam.com/api/facebook_share_count.php', 						type: "GET", 						data: "nid=20120112708277", 						success: function(data) {} 					}); 					 					return false; 				} </p>
+<p> {lang: 'zh-TW'} </p>
+<p> 優活健康資訊網╱uho新聞中心林又旻 2012-01-12 10:50 </p>
+<p> 討論 </p>
+<p> ( </p>
+<p> + </p>
+<p> ) </p>
+<p> 調整字級： </p>
+<p> 今年的過年有9天的長假，但是一不小心在過年生病了怎麼辦呢，該到哪裡去看醫生？為了讓民眾能在過年的時候也能順利就醫，健保局協調了許多醫院，讓部分醫院在過年的時候也能夠看診；如果是在國外或是外地臨時需要就醫，可以在當地先行看診，等到回來後在6個月內，憑收據正本、申請書等相關依據，就可以在醫院所在地的健保局業務組申請退費，讓民眾可以安心地過年。 </p>
+<p> 健保局表示，春節假期總共有9天之長，因此為了方便民眾，特別協調了許多特約醫院進行看診，詳細的看診時間，可以到健保局的網站進行查詢，讓民眾可以安心無虞地過好年。除此之外，民眾如果在春節期間，發生疾病需要就醫而未帶健保卡者，可於自費就診後七日內（不含例假日），攜帶健保卡至原就診院所辦理退費，如果是無法順利退費的責任，並不是在民眾自己身上，導致無法順利退費的話，可以在急診、門診或出院之日起6個月內，備齊核退申請書、收據正本等相關單據，向就醫院所所在地之健保局轄區業務組申請退費。 </p>
+<p> 健保局也表示，因為緊急傷病或分娩，必須在沒有健保的醫院就診，或是出國旅遊發生不可預期的傷病或緊急分娩，必須在當地醫療院所立刻就醫，等到診療結束後的6個月內，檢附相關文件向投保單位所在地所屬之健保局轄區業務組，辦理退費就可以了。查詢春節門診相關資訊，可以上健保局全球資訊網 </p>
+<p> http://www.nhi.gov.tw/ </p>
+<p> 一般民眾/健保醫療服務/掛號費及看診時段查詢服務專區，輸入欲查詢院所之縣市、鄉鎮市區、地址或院所名稱即可。 </p>
+<p> 資料來源： </p>
+<p> http://www.uho.com.tw/hotnews.asp?aid=14866 </p>
+<p> 最多人看的健康新聞 </p>
+<p> 貧血  小心大腸癌上身 </p>
+<p> 春節需要就醫怎麼辦？　可上健保局網站.. </p>
+<p> 頭髮護理怎麼做？植髮應把握黃金時期 </p>
+<p> 病人咳嗽飛沫有2萬病毒！流感傳染快 </p>
+<p> 癌思停治療乳癌　美FDA決議遭質疑 </p>
+<p> 善用天然清潔劑　無毒大掃除迎新年 </p>
+<p> 有汽車與電視　心臟病風險高出27％ </p>
+<p> 與狗狗一起飲酒作樂　英酒吧推狗啤酒 </p>
+<p> 火烤辨毒？　焦黑殘留、冒白煙便有毒 </p>
+<p> 又驗出金針含二量化硫　烹調前最好先浸.. </p>
+<p> 即時電視新聞 </p>
+<p> 熱褲辣妹搔首弄姿 市府成外拍場所 </p>
+<p> 「繪畫天使」逝 林芷瀅父母睹畫思女 </p>
+<p> 外媒拋「人民無感」 馬舉「茶葉蛋」反駁 </p>
+<p> 馬談兩岸政績好 看阿婆茶葉蛋就知 </p>
+<p> 綠雙李牌！阿輝錄廣播 李遠哲露臉挺 </p>
+<p> 神秘嘉賓催票？ 馬家千金選前不亮相 </p>
+<p> 網路選情燒 俄羅斯娃娃PK第一夫人 </p>
+<p> 蝦猴有屎味？ 業者怒：小S應來鹿港品嚐 </p>
+<p> 影響大！小S說好吃 芋球生意暴增5成 </p>
+<p> 「花生、海苔」春棗 老傳統新味搶市 </p>
+<p> document.write(unescape("%3Cscript src='" + (("https:" == document.location.protocol) ? "https://" : "http://") + "admd.yam.com/AD_L/?LID=E4.-1-_0AA.5_E**0*93.-_4AA17&CID=2D.-5-_121.7_0**B*E6.-_512D9&IMP=AB.-6-_6E4.2_7**2*68.-_17CF1&PV=A0.-3-_8E6.3_4**2*C6.-_0F706&MODE=AB.-6-_6E4.2_7**2*68.-_17CF1&APP=" + location.hash.replace(/[#]/g,"") + "&Charset=" + (document.characterSet ? document.characterSet.toUpperCase() : (document.charset ? document.charset.toUpperCase() : "UTF-8")) + "&RID=" + Math.random() + "&yamAD.js' type='text/javascript'%3E%3C/script%3E")); </p>
+<p> twysm_ad_id = "twysm_ad1"; twysm_ad_channel = "news_article"; twysm_ad_unit = "3_h"; </p>
+<p> 加值服務 </p>
+<p> document.write(unescape("%3Cscript src='" + (("https:" == document.location.protocol) ? "https://" : "http://") + "admd.yam.com/AD_L/?LID=1_-.*AB-72*.F8-0._0*1EE64_93&CID=2_-.*D5-12*.17-0._B*E6512_D9&IMP=A_-.*31-6E*.3E-4._9*3FAEF_BA&PV=A_-.*03-8E*.63-4._2*C60F7_06&MODE=A_-.*31-6E*.3E-4._9*3FAEF_BA&APP=" + location.hash.replace(/[#]/g,"") + "&Charset=" + (document.characterSet ? document.characterSet.toUpperCase() : (document.charset ? document.charset.toUpperCase() : "UTF-8")) + "&RID=" + Math.random() + "&yamAD.js' type='text/javascript'%3E%3C/script%3E")); </p>
+<p> 優惠情報 </p>
+<p> document.write(unescape("%3Cscript src='" + (("https:" == document.location.protocol) ? "https://" : "http://") + "admd.yam.com/AD_L/?LID=19_*.-*.6._5*2-78-C5C*_.8_-43C12&CID=2-D*__5-.12.1*7*__0-B.E6-5.12*D9&IMP=A-3*__1-.6E.3*E*__4-9.3F-A.EF*BA&PV=A-0*__3-.8E.6*3*__4-2.C6-0.F7*06&MODE=A-3*__1-.6E.3*E*__4-9.3F-A.EF*BA&APP=" + location.hash.replace(/[#]/g,"") + "&Charset=" + (document.characterSet ? document.characterSet.toUpperCase() : (document.charset ? document.charset.toUpperCase() : "UTF-8")) + "&RID=" + Math.random() + "&yamAD.js' type='text/javascript'%3E%3C/script%3E")); </p>
+<p> document.write(unescape("%3Cscript src='" + (("https:" == document.location.protocol) ? "https://" : "http://") + "admd.yam.com/AD_L/?LID=E*-C5**0.-.496_9A1__*.15-.4_E-0E&CID=2*-D5**1.-.217_0BE__*.65-.1_2-D9&IMP=C*-EA**4.-.F8B_3F2__*.5E-.C_6-89&PV=A*-03**8.-.E63_42C__*.60-.F_7-06&MODE=C*-EA**4.-.F8B_3F2__*.5E-.C_6-89&APP=" + location.hash.replace(/[#]/g,"") + "&Charset=" + (document.characterSet ? document.characterSet.toUpperCase() : (document.charset ? document.charset.toUpperCase() : "UTF-8")) + "&RID=" + Math.random() + "&yamAD.js' type='text/javascript'%3E%3C/script%3E")); </p>
+<p> document.write(unescape("%3Cscript src='" + (("https:" == document.location.protocol) ? "https://" : "http://") + "admd.yam.com/AD_L/?LID=2EC_-E75*.A2*-.3C-.*_67_-7.F_*3C&CID=F16_-BFE*.F5*-.D1-.*_ED_-7.4_*31&IMP=A27_-C5A*.20*-.2E-.*_E2_-D.E_*B1&PV=A03_-8E6*.34*-.2C-.*_60_-F.7_*06&MODE=A27_-C5A*.20*-.2E-.*_E2_-D.E_*B1&APP=" + location.hash.replace(/[#]/g,"") + "&Charset=" + (document.characterSet ? document.characterSet.toUpperCase() : (document.charset ? document.charset.toUpperCase() : "UTF-8")) + "&RID=" + Math.random() + "&yamAD.js' type='text/javascript'%3E%3C/script%3E")); </p>
+<p> 即時健康新聞 </p>
+<p> 年冬要健康 小腦萎縮症病.. </p>
+<p> [20:07] 01-12 </p>
+<p> 流感疫情進高峰　早接種以.. </p>
+<p> [20:00] 01-12 </p>
+<p> 微創手術練功  電腦來幫忙 </p>
+<p> [19:44] 01-12 </p>
+<p> 冬天料理加薑麻 祛寒好幫.. </p>
+<p> [19:04] 01-12 </p>
+<p> 特製年菜  小腦萎縮病友過.. </p>
+<p> [19:14] 01-12 </p>
+<p> 阿斯匹林治心臟病　健康者.. </p>
+<p> [18:42] 01-12 </p>
+<p> 新聞專輯 </p>
+<p> NEWS最新 </p>
+<p> HOT熱門 </p>
+<p> 驚！速食套餐超油 過.. </p>
+<p> 民眾在享受美味速食同時，可曾想過一份套餐究竟吃下多少熱量？消基會調查...«全文» </p>
+<p> 流感疫情猛 咳嗽發燒要小.. </p>
+<p> [08:51] 12-30 </p>
+<p> NEWS最新 </p>
+<p> HOT熱門 </p>
+<p> 流感疫情猛 咳嗽發燒.. </p>
+<p> 台中市在週二、週三分別傳出國一女、五歲男童因流感併發症死亡，兩例都是...«全文» </p>
+<p> 驚！速食套餐超油 過半破.. </p>
+<p> [10:08] 12-31 </p>
+<p> $(document).ready(function(){ 		$("#lastnewsfocusbtn").bind('click', function(){ 			$("#hottnewsfocus").hide(); 			$("#lastnewsfocus").show(); 		}); 		$("#hottnewsfocusbtn").bind('click', function(){ 			$("#lastnewsfocus").hide(); 			$("#hottnewsfocus").show(); 		}); 	}); </p>
+<p> document.write(unescape("%3Cscript src='" + (("https:" == document.location.protocol) ? "https://" : "http://") + "admd.yam.com/AD_L/?LID=F.14_2*E_57B0EF3D--*-.2_*.62&CID=2.D5_1*2_170BE651--*-.2_*.D9&IMP=A.B6_6*E_42726817--*-.C_*.F1&PV=A.03_8*E_6342C60F--*-.7_*.06&MODE=A.B6_6*E_42726817--*-.C_*.F1&APP=" + location.hash.replace(/[#]/g,"") + "&Charset=" + (document.characterSet ? document.characterSet.toUpperCase() : (document.charset ? document.charset.toUpperCase() : "UTF-8")) + "&RID=" + Math.random() + "&yamAD.js' type='text/javascript'%3E%3C/script%3E")); </p>
+<p> 圖片專輯 </p>
+<p> NEWS最新 </p>
+<p> HOT熱門 </p>
+<p> 迎曙光 全台槓龜 </p>
+<p> 二○一二年元旦，台灣本島上空雲層太厚又低，各地搶看元旦第一道曙光的遊...«全文» </p>
+<p> 跨年演唱多組藝人趕場 </p>
+<p> [06:01] 01-02 </p>
+<p> 迎2012 跨年夜璀璨 </p>
+<p> [01:27] 01-01 </p>
+<p> 士林夜市迎賓 人潮擠爆現.. </p>
+<p> [19:00] 12-25 </p>
+<p> 叮叮噹~樂呼呼的耶誕節!!! </p>
+<p> [06:04] 12-25 </p>
+<p> NEWS最新 </p>
+<p> HOT熱門 </p>
+<p> 士林夜市迎賓 人潮擠爆.. </p>
+<p> 新士林市場耶誕假期正式開幕迎賓，傍晚起，大批饕客從捷運站、搭遊覽車趕......«全文» </p>
+<p> 迎曙光 全台槓龜 </p>
+<p> [06:00] 01-02 </p>
+<p> 迎2012 跨年夜璀璨 </p>
+<p> [01:27] 01-01 </p>
+<p> 跨年演唱多組藝人趕場 </p>
+<p> [07:37] 01-02 </p>
+<p> 叮叮噹~樂呼呼的耶誕節!!! </p>
+<p> [06:05] 12-25 </p>
+<p> $(document).ready(function(){ 		$("#lastphotofocusbtn").bind('click', function(){ 			$("#hotphotofocus").hide(); 			$("#lastphotofocus").show(); 		}); 		$("#hotphotofocusbtn").bind('click', function(){ 			$("#lastphotofocus").hide(); 			$("#hotphotofocus").show(); 		}); 	}); </p>
+<p> 熱門討論 </p>
+<p> 討論最新 </p>
+<p> 討論最熱 </p>
+<p> 流感再奪2命 累計20死 </p>
+<p> [10:08] 01-11 </p>
+<p> 不肖商人賣黑心染髮劑　女子染.. </p>
+<p> [20:50] 01-05 </p>
+<p> 討論最新 </p>
+<p> 討論最熱 </p>
+<p> 流感再奪2命 累計20死 </p>
+<p> [10:08] 01-11 </p>
+<p> 不肖商人賣黑心染髮劑　女子染.. </p>
+<p> [20:50] 01-05 </p>
+<p> $(document).ready(function(){ 		$("#lastforumbtn").bind('click', function(){ 			$("#hotforum").hide(); 			$("#lastforum").show(); 		}); 		$("#hotforumbtn").bind('click', function(){ 			$("#lastforum").hide(); 			$("#hotforum").show(); 		}); 	}); </p>
+<p> 雜誌最新 </p>
+<p> ■洪寶山：找工作如.. </p>
+<p> 上周出席一場新書發表會，會後幾位我的廣播節目「理財我最...«全文» </p>
+<p> ■NB廠反撲 供應鏈動起來 </p>
+<p> ■總統大選前 北部建商強.. </p>
+<p> 健康推薦新聞 </p>
+<p> 春節全家出遊　別忘了「旅用護理.. </p>
+<p> [13:24] 01-12 </p>
+<p> 老年人最好別開車騎車　靈敏度差.. </p>
+<p> [17:10] 01-12 </p>
+<p> 公費克流感在哪？　「紅布條」報.. </p>
+<p> [10:05] 01-12 </p>
+<p> 天冷抵抗力弱  齒源膿瘍患者多 </p>
+<p> [16:03] 01-12 </p>
+<p> 狂熱選民造勢憋尿　事後竟解不出.. </p>
+<p> [13:10] 01-12 </p>
+<p> 一隻出生便沒有眼球的貓　網路爆.. </p>
+<p> [17:36] 01-12 </p>
+<p> 母嬰親善哺乳 診所拚認證 </p>
+<p> [11:42] 01-12 </p>
+<p> 春節期間也安心　醫療照護不停擺.. </p>
+<p> [15:05] 01-12 </p>
+<p> 菸害防制新法3年　青少年吸菸仍.. </p>
+<p> [11:58] 01-12 </p>
+<p> 阿斯匹林治心臟病　健康者吃反有.. </p>
+<p> [18:42] 01-12 </p>
+<p> document.write(unescape("%3Cscript src='" + (("https:" == document.location.protocol) ? "https://" : "http://") + "admd.yam.com/AD_L/?LID=74C_3**..*9D*_-E.2D-_.A--B_B5CAE&CID=2D5_1**..*21*_-7.0B-_.E--6_512D9&IMP=AA8_A**..*CA*_-F.D6-_.3--1_AECDA&PV=A03_8**..*E6*_-3.42-_.C--6_0F706&MODE=AA8_A**..*CA*_-F.D6-_.3--1_AECDA&APP=" + location.hash.replace(/[#]/g,"") + "&Charset=" + (document.characterSet ? document.characterSet.toUpperCase() : (document.charset ? document.charset.toUpperCase() : "UTF-8")) + "&RID=" + Math.random() + "&yamAD.js' type='text/javascript'%3E%3C/script%3E")); </p>
+<p> //相關新聞 		$(document).ready(function(){ 			$.ajax({ 				url: 'http://n.yam.com/api/similar_article.php', 				type: "GET", 				data: "nid=20120112708277", 				success: function(data) { 					$('#similar').html(data); 				} 			}); 		 			$("#sbtn").bind('click', function(){ 				$("#content").removeClass().addClass("LeftPhotoInfo_S"); 				btn_init(); 				$("#sbtn").attr({ src: "/i/content/wsize01_2.gif" }); 			}); 			$("#mbtn").bind('click', function(){ 				$("#content").removeClass().addClass("LeftPhotoInfo_M"); 				btn_init(); 				$("#mbtn").attr({ src: "/i/content/wsize02_2.gif" }); 			}); 			$("#lbtn").bind('click', function(){ 				$("#content").removeClass().addClass("LeftPhotoInfo_L"); 				btn_init(); 				$("#lbtn").attr({ src: "/i/content/wsize03_2.gif" }); 			}); 			$("#xlbtn").bind('click', function(){ 				$("#content").removeClass().addClass("LeftPhotoInfo_XL"); 				btn_init(); 				$("#xlbtn").attr({ src: "/i/content/wsize04_2.gif" }); 			}); 		}); 		function btn_init() 		{ 			$("#sbtn").attr({ src: "/i/content/wsize01.gif" }); 			$("#mbtn").attr({ src: "/i/content/wsize02.gif" }); 			$("#lbtn").attr({ src: "/i/content/wsize03.gif" }); 			$("#xlbtn").attr({ src: "/i/content/wsize04.gif" }); 		} </p>
+<p> try{     var _gaq = _gaq || [];     _gaq.push(         ['news._setAccount', 'UA-8466594-3'],         ['news._setDomainName', '.yam.com'],         ['news._trackPageview'] ,          ['yam_all._setAccount', 'UA-16227618-1'],         ['yam_all._setDomainName', '.yam.com'],         ['yam_all._trackPageview']     );     (function() {         var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;         ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);     })(); } catch(err){} </p>
+<p> document.write(unescape("%3Cscript src='" + (("https:" == document.location.protocol) ? "https://" : "http://") + "admd.yam.com/AD_L/?LID=627ABE_1.-_9_-2.1-.0***081D1&CID=2D5121_7.-_0_-B.E-.6***512D9&IMP=14FD4E_0.-_2_-6.6-.3***FC935&PV=70CDC9_4.-_B_-2.5-.3***5CD5B&MODE=14FD4E_0.-_2_-6.6-.3***FC935&APP=" + location.hash.replace(/[#]/g,"") + "&Charset=" + (document.characterSet ? document.characterSet.toUpperCase() : (document.charset ? document.charset.toUpperCase() : "UTF-8")) + "&RID=" + Math.random() + "&yamAD.js' type='text/javascript'%3E%3C/script%3E")); </p>
+<p> $('#fb_share').click(function(){ _gaq.push(['news._trackEvent',"單文-fb_share",'click','single_fb_share']); }); $('#pt_share').click(function(){ _gaq.push(['news._trackEvent',"單文-pt_share",'click','single_pt_share']); }); $('#font_size').click(function(){ _gaq.push(['news._trackEvent',"單文-調整字級",'click','single_font_size']); }); $('#pk_btn').click(function(){ _gaq.push(['news._trackEvent',"單文-pk此新聞",'click','single_pk_btn']); }); $('#ec_like').click(function(){ _gaq.push(['news._trackEvent',"單文-ec_假的讚",'click','single_ec_like']); }); $('.LeftPhotoImg img').click(function(){ _gaq.push(['news._trackEvent',"單文-內文_圖",'click',$(this).attr('src')]); }); $('#similar').click(function(){ _gaq.push(['news._trackEvent',"單文-相關新聞",'click','單文-相關新聞']); }); $('#ad_600_100').click(function(){ _gaq.push(['news._trackEvent',"單文-ad_600_100",'click','single_ad_600_100']); }); $('#service').click(function(){ _gaq.push(['news._trackEvent',"單文-加值服務",'click','single_service']); }); $('#info').click(function(){ _gaq.push(['news._trackEvent',"單文-優惠情報",'click','single_info']); }); $('#ad_300_250').click(function(){ _gaq.push(['news._trackEvent',"單文-ad_300_250",'click','single_ad_300_250']); }); $('#ad_300_100').click(function(){ _gaq.push(['news._trackEvent',"單文-ad_300_100",'click','single_ad_300_100']); }); $('#ad_adqoo').click(function(){ _gaq.push(['news._trackEvent',"單文-ad_adqoo",'click','single_ad_adqoo']); }); $('#ad_cnyes').click(function(){ _gaq.push(['news._trackEvent',"單文-ad_cnyes",'click','single_ad_cnyes']); });  $('#lastnewsfocus a').click(function(){ _gaq.push(['news._trackEvent',"單文-最新新聞專輯",'click',$(this).text()]); }); $('#hottnewsfocus a').click(function(){ _gaq.push(['news._trackEvent',"單文-熱門新聞專輯",'click',$(this).text()]); }); $('#lastphotofocus a').click(function(){ _gaq.push(['news._trackEvent',"單文-最新圖片專輯",'click',$(this).text()]); }); $('#hotphotofocus a').click(function(){ _gaq.push(['news._trackEvent',"單文-熱門圖片專輯",'click',$(this).text()]); });  $('#lastforum a').click(function(){ _gaq.push(['news._trackEvent',"單文-最新討論",'click',$(this).text()]); }); $('#hotforum a').click(function(){ _gaq.push(['news._trackEvent',"單文-熱門討論",'click',$(this).text()]); }); $('#hotnews a').click(function(){ _gaq.push(['news._trackEvent',"單文-分類推薦新聞",'click',$(this).text()]); }); $('#lastmagazine a').click(function(){ _gaq.push(['news._trackEvent',"單文-雜誌最新",'click',$(this).text()]); });  $('.MenuOtherDiv a').click(function(){ _gaq.push(['news._trackEvent',"單文-次目錄",'click',$(this).text()]); });  $('#hotview').click(function(){ _gaq.push(['news._trackEvent',"單文-最多人看的新聞",'click','hot']); }); $('#realvideo a').click(function(){ _gaq.push(['news._trackEvent',"單文-即時電視新聞",'click',$(this).text()]); });  $('.headerList a').click(function(){ _gaq.push(['news._trackEvent',"單文-最上方登入bar",'click',$(this).text()]); }); </p>

@@ -1,0 +1,656 @@
+<p> var $jQ=jQuery.noConflict(); </p>
+<p> Независимое бюро новостей | В Днепропетровске сделали операцию столетней женщине </p>
+<p> var _gaq = _gaq || [];   _gaq.push(['_setAccount', 'UA-22895625-1']);   _gaq.push(['_trackPageview']);    (function() {     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);   })(); </p>
+<p> function gHomePage(objSrc) {     var homepage = "http://nbnews.com.ua/";         if (objSrc.style.behavior)         {         objSrc.setHomePage(homepage);         }     else if (window.sidebar)     {     if(window.netscape)     {          try     {               netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");            }            catch(e)            {             }     }      var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components. interfaces.nsIPrefBranch);     prefs.setCharPref('browser.startup.homepage',homepage);  } } </p>
+<p> ДОБАВИТЬ В ЗАКЛАДКИ </p>
+<p> $jQ(document).ready(function(){ 	if(window.opera) { 	   //$("#jbkmark").attr("rel","sidebar"); 	} 	$jQ("a.jbkmark").click(function(event){ 		event.preventDefault();  		var url = this.href; 		var title = this.title;  		if (window.sidebar) {  			window.sidebar.addPanel(title, url,""); 		} else if( window.external ) {  			window.external.AddFavorite( url, title); 		} else {  			 alert('Пожалуйста, нажмите Ctrl-D для добавления в закладки.'); 		} 	}); }); </p>
+<p> О ПРОЕКТЕ </p>
+<p> | </p>
+<p> РЕДАКЦИЯ </p>
+<p> | </p>
+<p> КОНТАКТЫ </p>
+<p> | </p>
+<p> РАССЫЛКА НОВОСТЕЙ </p>
+<p> | </p>
+<p> RSS </p>
+<p> beta </p>
+<p> СЕЙЧАС В КИЕВЕ </p>
+<p> : </p>
+<p> -2 </p>
+<p> Розница: </p>
+<p> НБУ: </p>
+<p> USD 8.03 / 8.07 </p>
+<p> USD 7.9898 </p>
+<p> EUR 10.08 / 10.28 </p>
+<p> EUR 10.122278 </p>
+<p> RUR 0.25 / 0.255 </p>
+<p> RUR 0.25019 </p>
+<p> ГЛАВНАЯ </p>
+<p> | </p>
+<p> НОВОСТИ </p>
+<p> | </p>
+<p> СТАТЬИ </p>
+<p> | </p>
+<p> ИНТЕРВЬЮ </p>
+<p> | </p>
+<p> ЛУЧШЕЕ В БЛОГАХ </p>
+<p> | </p>
+<p> БЛОГГЕРЫ </p>
+<p> | </p>
+<p> ФОТОБАНК </p>
+<p> | </p>
+<p> var tid = 0;        var onl = 0;        var days = new Array('Воскресенье','Понедельник','Вторник','Среда','Четверг','Пятница','Суббота');        var months = new Array('января','февраля','марта','апреля','мая','июня','июля','августа','сентября','октября','ноября','декабря');        function _date(){           var t = new Date();          var _hours = t.getHours();if(_hours.toString().length==1){_hours='0'+_hours;}           var _mins = t.getMinutes();if(_mins.toString().length==1){_mins='0'+_mins;}          document.getElementById('sdate').innerHTML='<nobr>'+days[t.getDay()]+', '+t.getDate()+' '+months[t.getMonth()]+' '+t.getFullYear()+          ' <font class="timestr"> | '+_hours+':'+_mins+'</font>&nbsp;&nbsp;</nobr>';          tid=window.setTimeout("_date()",1000)               }        tid=window.setTimeout("_date()",10); </p>
+<p> Портал работает в режиме бета-версии – стадии активного тестирования,            с целью выявления ошибок и усовершенствования программного обеспечения. Пожалуйста,            поделитесь с нами идеями по улучшению работы сайта. Для нас очень важно именно Ваше мнение. </p>
+<p> Текст сообщения </p>
+<p> Отправить </p>
+<p> НОВОСТЬ: </p>
+<p> ЗДОРОВЬЕ </p>
+<p> 20:13 </p>
+<p> | </p>
+<p> 15.01.2012 </p>
+<p> В Днепропетровске сделали операцию столетней женщине </p>
+<p> function regToComment(){ $jQ("#msgbox_unreg_letsdosomething").val('commentit'); $jQ("#msgbox_unreg_text_2").fadeIn(1); $jQ("#msgbox_unreg_text_1").fadeOut(1); $jQ("#msgbox_unreg").fadeIn(300); } function tactivate(id){ var object = document.getElementById('bkmrkscoll'); for (var childItem in object.childNodes) { if (object.childNodes[childItem].nodeType == 1) if (object.childNodes[childItem].className!="stat") object.childNodes[childItem].className = 'bm1 passive'; } document.getElementById('b'+id).className = 'bm1 active'; $jQ.cookie('t25724',id,{path:'/'}); object = document.getElementById('bkmrkscontcoll'); for (var childItem in object.childNodes) { if (object.childNodes[childItem].nodeType == 1) object.childNodes[childItem].style.display='none'; } document.getElementById('bc'+id).style.display='block'; } </p>
+<p> текст </p>
+<p> комментарии </p>
+<p> 471 </p>
+<p> 1 </p>
+<p> В Днепропетровской областной клинической больнице имени Мечникова впервые в Украине сделали сложную операцию 100-летней пациентке, травмировавшейся при падении, установив протез тазобедренного сустава, сообщают в больнице. </p>
+<p> Операцией руководил доктор медицинских наук, профессор Александр Лоскутов, известного как одного из пионеров современного эндопротезирования в Украине. </p>
+<p> По словам медицинского персонала, прооперированная пациентка сейчас в хорошем состоянии. Она происходит курс реабилитационной гимнастики. </p>
+<p> Протезирование тазобедренного сустава в областной больнице осуществляют на протяжении 20 лет. К этой операции рекордом было оперирования 96-летнего пациента. Ежегодно в областной больнице имени Мечникова делают более 11 тысяч операций. </p>
+<p> Добавить комментарий </p>
+<p> ВСЕ О: </p>
+<p> Прогресс </p>
+<p> , </p>
+<p> Общество </p>
+<p> , </p>
+<p> Здоровье </p>
+<p> , </p>
+<p> Днепропетровск </p>
+<p> Код для размещения в блоге </p>
+<p> $jQ(document).ready(function(){ JsHttpRequest.query( 'http://nbnews.com.ua/getcomments.php', { 'commenttextid':'25724', 'tpe':'news', 'cnt':'10', 'hdr':'0', 'fk' :'', 'nohead':'', }, function(result, a) { $jQ("#smallcomment25724news").html(a); }, true ); }); </p>
+<p> ВСЕ КОММЕНТАРИИ </p>
+<p> » </p>
+<p> @import url("http://novinator.ukr.net/_img/style.css"); </p>
+<p> function _nccf() { var rnd = new Date(); var script = document.createElement("script"); script.src = "http://novinator.ukr.net/counter.php?cid=266&rnd="+rnd; document.body.appendChild(script); } </p>
+<p> Все </p>
+<p> новости </p>
+<p> Отдел кадров </p>
+<p> Курьезы политики по-украински </p>
+<p> Рейтинги и опросы </p>
+<p> Украине пророчат массовые протесты </p>
+<p> Муж Тимошенко убежал в Чехию </p>
+<p> свежие новости </p>
+<p> .join_informer_1622 {text-align:left; clear: both; padding: 5px;} .join_informer_1622 a.join_link, a.join_text {text-transform: none; font-size: 12px; font-family: Verdana; padding: 0px 0px 0px 0px; margin:0px 0px 10px 0px;color:#000000;text-decoration:none; font-weight:normal;} .join_informer_1622 a.join_link:hover, a.join_text:hover {text-transform: none; font-size: 12px; font-family: Verdana; padding: 0px 0px 0px 0px; margin:0px 0px 10px 0px;color:#000000;text-decoration:underline;} .join_informer_1622 .join_img {width: 90px; height: 90px; margin-right: 2px; } </p>
+<p> Погода </p>
+<p> , </p>
+<p> Новости </p>
+<p> , загрузка... </p>
+<p> ShowInformer(document.getElementById("join_informer_1622")); </p>
+<p> Loading... </p>
+<p> SELECTORNEWS </p>
+<p> КОММЕНТИРОВАТЬ: FACEBOOK </p>
+<p> А </p>
+<p> Размер шрифта </p>
+<p> ТАКЖЕ ПО ТЕМЕ: </p>
+<p> Украине удалось снизить стоимость препаратов для ВИЧ-инфицированных - эксперт </p>
+<p> В Украине обеспокоены распространением чумы свиней в России </p>
+<p> В Украине промаркируют продукты, сделанные по советским ГОСТам </p>
+<p> Страховую медицину в Украине будут вводить с 2014 года – Акимова </p>
+<p> Украина получит $86 миллионов на борьбу со СПИДом </p>
+<p> Население потеряло доверие к прививкам из-за МОЗ – эксперт </p>
+<p> САМОЕ ОБСУЖДАЕМОЕ </p>
+<p> сегодня </p>
+<p> вчера </p>
+<p> неделя </p>
+<p> 67 </p>
+<p> Украина не будет покупать у России объем газа, записанный в контрактах - Азаров </p>
+<p> 39 </p>
+<p> Россия обвинила американский радар в аварии "Фобос-Грунта" </p>
+<p> 29 </p>
+<p> Луценко передал в суд заявление о преступлении </p>
+<p> 28 </p>
+<p> Мы просили палку для мамы, но нам отказали – Евгения Тимошенко </p>
+<p> 28 </p>
+<p> На Волыни 71-летний дедушка закрашивал билборд Януковича </p>
+<p> 114 </p>
+<p> Украинскую оппозицию нужно выбросить на свалку - Чечетов </p>
+<p> 93 </p>
+<p> Газовые контракты Тимошенко наносят до $5 млрд ущерба ежегодно - Богословская </p>
+<p> 87 </p>
+<p> На Ровенщине билборд с Януковичем забросали яйцами </p>
+<p> 79 </p>
+<p> Патриарх Кирилл призвал российские власти к диалогу </p>
+<p> 63 </p>
+<p> Люди, совершившие меньшие хищения, чем Луценко, сидят в тюрьмах - Кузьмин </p>
+<p> 255 </p>
+<p> Тимошенко письменно отказалась от назначенных врачами лекарств - ГПС </p>
+<p> 206 </p>
+<p> Тимошенко продолжает руководить фракцией будучи заключенной - Кожемякин </p>
+<p> 179 </p>
+<p> Жизнь моей мамы в опасности - Евгения Тимошенко (видео) </p>
+<p> 164 </p>
+<p> Патриарх Кирилл призвал российские власти к диалогу </p>
+<p> 164 </p>
+<p> Медики осматривают Тимошенко 3 раза в день – пенитенциарная служба </p>
+<p> за месяц </p>
+<p> за все время </p>
+<p> function mactivate(a,id){ switch(id){ case 1: document.getElementById(a+'1').className = 'bookmark active'; document.getElementById(a+'2').className = 'bookmark passive margin2 activeleft'; document.getElementById(a+'3').className = 'bookmark passive margin2'; document.getElementById(a+'1_text').style.display='block'; document.getElementById(a+'2_text').style.display='none'; document.getElementById(a+'3_text').style.display='none'; break; case 2: document.getElementById(a+'1').className = 'bookmark passive'; document.getElementById(a+'2').className = 'bookmark active margin2 activeself'; document.getElementById(a+'3').className = 'bookmark passive margin2'; document.getElementById(a+'1_text').style.display='none'; document.getElementById(a+'2_text').style.display='block'; document.getElementById(a+'3_text').style.display='none'; break; case 3: document.getElementById(a+'1').className = 'bookmark passive'; document.getElementById(a+'2').className = 'bookmark passive margin2 activeright'; document.getElementById(a+'3').className = 'bookmark active margin2'; document.getElementById(a+'1_text').style.display='none'; document.getElementById(a+'2_text').style.display='none'; document.getElementById(a+'3_text').style.display='block'; break; } } </p>
+<p> Врачей оставили под стражей, операции по пересадке почек детям в Украине делать некому (полный текст письма из тюрьмы) </p>
+<p> Дело «черных трансплантологов»: пока врачи сидят в СИЗО, больные умирают </p>
+<p> Дурят - не дурят!? – </p>
+<p> Valery Khvostov, Юрист, правовед </p>
+<p> МОЗ - все стабільно задовільно – </p>
+<p> Valery Khvostov, Юрист, правовед </p>
+<p> Как избавиться от перегара – </p>
+<p> Valery Khvostov, Юрист, правовед </p>
+<p> Пейте в меру и в хорошей компании – </p>
+<p> Valery Khvostov, Юрист, правовед </p>
+<p> Цього року 25 львів’ян відзначили 100 і більше років – </p>
+<p> Олег Довганик, журналіст </p>
+<p> Злочини проти дітей – </p>
+<p> Valery Khvostov, Юрист, правовед </p>
+<p> ПОДПИСАТЬСЯ </p>
+<p> НА ОБНОВЛЕНИЯ ТЕМЫ: </p>
+<p> Loading... </p>
+<p> .join_informer_1630 {text-align:left; clear: both; padding: 5px;}.join_informer_1630 a.join_link, a.join_text {text-transform: none; font-size: 12px; font-family: Verdana; padding: 0px 0px 0px 0px; margin:0px 0px 10px 0px;color:#000000;text-decoration:none; font-weight:normal;}.join_informer_1630 a.join_link:hover, a.join_text:hover {text-transform: none; font-size: 12px; font-family: Verdana; padding: 0px 0px 0px 0px; margin:0px 0px 10px 0px;color:#000000;text-decoration:underline;}.join_informer_1630 .join_img {width: 90px; height: 90px; margin-right: 2px; } </p>
+<p> Погода </p>
+<p> , </p>
+<p> Новости </p>
+<p> , загрузка... </p>
+<p> ShowInformer(document.getElementById("join_informer_1630")); </p>
+<p> function addToNewsMailer(){ JsHttpRequest.query( 'http://nbnews.com.ua/addnewsmailer.php', { 'email':$jQ('#tagmail').val(), 'tag' :'101' }, function(result, a) { if(result["resp"]=="emailpresent"){ alert_("Указанный E-mail уже присутствует в списке рассылки.","Закрыть","ОШИБКА",function(){$jQ('#msgbox').fadeOut('slow');}); } if(result["resp"]=="incorrectemail"){ alert_("Не введен E-mail.","Закрыть","ОШИБКА",function(){$jQ('#msgbox').fadeOut('slow');}); } if(result["resp"]=="ok"){ alert_(" Вы подписались на рассылку новостей по теме на портале НБН. На адрес <br>"+result["email"]+"<br> отправлено письмо для подтверждения подписки.","Закрыть","СООБЩЕНИЕ",function(){$jQ('#msgbox').fadeOut('slow');}); } }, true ); } </p>
+<p> var inifs=13; $jQ("#fontup").click(function(){ if(inifs<18){inifs++;document.getElementById("fonttextdesc").style.fontSize=(inifs)+"px"; document.getElementById("fonttext").style.fontSize=(inifs)+"px";} } ); $jQ("#fontdown").click(function(){ if(inifs>13){inifs--;document.getElementById("fonttextdesc").style.fontSize=(inifs)+"px"; document.getElementById("fonttext").style.fontSize=(inifs)+"px";} } ); </p>
+<p> $jQ(document).ready(function(){ JsHttpRequest.query( 'http://nbnews.com.ua/getcomments.php', { 'commenttextid':'25724', 'tpe':'news', 'cnt':'70', 'hdr':'1', 'fk' :'all', 'nohead':'nohead', }, function(result, a) { $jQ("#smallcomment25724newsall").html(a); }, true ); }); </p>
+<p> var currFeedType=0 </p>
+<p> ЛЕНТА НОВОСТЕЙ </p>
+<p> RSS </p>
+<p> все новости </p>
+<p> самое обсуждаемое </p>
+<p> самое читаемое </p>
+<p> function refreshnewsfeed(a) {    if(a!=currFeedType){      currFeedType = a;      $jQ(".lentaselector").removeClass("lentared");      $jQ(".feed"+a).addClass("lentared");      $jQ("#newsfeedblock").fadeIn("slow");      JsHttpRequest.query(       'http://nbnews.com.ua/exec/lenta_exec.php?page=0&type='+a,        {"countnews":30},       function(result, a) {         $jQ('#page_lenta').html(a);         $jQ("#newsfeedblock").fadeOut("slow");       },true     );    }   } </p>
+<p> 17:57 </p>
+<p> Ирак потребовал вернуть бронзовую ягодицу Хусейна </p>
+<p> 17:53 </p>
+<p> При Шульце у Украины появятся новые перспективы сотрудничества с ЕС – Попеску </p>
+<p> 17:44 </p>
+<p> Власть выплатами сбережений Сбербанка будет скупать голоса избирателей – Вязивский </p>
+<p> 2 </p>
+<p> 17:36 </p>
+<p> «Днепр» купил футболиста «Андерлехта» </p>
+<p> 17:25 </p>
+<p> Тимошенко не переведут в Луганск к Ландику – начальник колонии </p>
+<p> 5 </p>
+<p> 17:17 </p>
+<p> Мем «Ржунимагу» станет товарным знаком </p>
+<p> 17:10 </p>
+<p> Соратники не пытались внести залог за Луценко? </p>
+<p> 1 </p>
+<p> 17:04 </p>
+<p> Обнаружены тела еще 5 погибших на затонувшем Costa Concordia </p>
+<p> 16:59 </p>
+<p> Журналисты «Сегодня» попросили Ахметова разобраться в сложившейся ситуации </p>
+<p> 16:57 </p>
+<p> Защита Луценко отказалась допрашивать 65 свидетеля </p>
+<p> 4 </p>
+<p> 16:54 </p>
+<p> В Житомире эвакуировали 300 человек из заминированной поликлиники </p>
+<p> 16:48 </p>
+<p> В Крыму хотят построить 50 мечетей </p>
+<p> 1 </p>
+<p> 16:43 </p>
+<p> В 2012 покупательная способность выйдет на докризисный уровень – Азаров </p>
+<p> 3 </p>
+<p> 16:38 </p>
+<p> Тимошенко ходунки не нужны – Минздрав </p>
+<p> 24 </p>
+<p> 16:33 </p>
+<p> Форвард «Динамо» прекратил тренироваться из-за температуры </p>
+<p> 16:27 </p>
+<p> Болельщики определили лучший матч «Шахтера» в 2011 году </p>
+<p> 16:24 </p>
+<p> Меня сняли с должности, в том числе по личным мотивам – Шевченко </p>
+<p> 3 </p>
+<p> 16:21 </p>
+<p> Украина и Россия продолжат газовые переговоры </p>
+<p> 3 </p>
+<p> 16:17 </p>
+<p> Украине удалось снизить стоимость препаратов для ВИЧ-инфицированных – эксперт </p>
+<p> 16:10 </p>
+<p> Капитана затонувшего лайнера Costa Concordia уличили во лжи </p>
+<p> 16:08 </p>
+<p> МИД рекомендовал украинцам воздержаться от поездок в Кению </p>
+<p> 16:03 </p>
+<p> Кличко призывает оппозицию объединиться с «УДАРом» </p>
+<p> 4 </p>
+<p> 15:57 </p>
+<p> В Украине обеспокоены распространением чумы свиней в России </p>
+<p> 15:55 </p>
+<p> Снотворное Тимошенко не давали – Минздрав </p>
+<p> 4 </p>
+<p> 15:51 </p>
+<p> Мы просили палку для мамы, но нам отказали – Евгения Тимошенко </p>
+<p> 28 </p>
+<p> 15:46 </p>
+<p> Тимошенко отказалась от обследования специалистами Минздрава </p>
+<p> 15:43 </p>
+<p> Регионалам не хватает харизмы – эксперт </p>
+<p> 11 </p>
+<p> 15:41 </p>
+<p> МВД потратило бюджетные деньги лишь на аренду зала – свидетель по делу Луценко </p>
+<p> 15:36 </p>
+<p> Экс-гендиректор «Сегодня» подает в суд на бывшего главреда газеты </p>
+<p> 15:30 </p>
+<p> Европа потеряла интерес к созданию трехстороннего консорциума – эксперт </p>
+<p> 15:27 </p>
+<p> Налоговый кодекс решил все проблемы упрощенцев – Азаров </p>
+<p> 15:25 </p>
+<p> Серьезно испугать Россию может только иск в Стокгольмский суд – эксперт </p>
+<p> 1 </p>
+<p> 15:23 </p>
+<p> Беларусь присоединилась к критике украинского сыра </p>
+<p> 3 </p>
+<p> 15:21 </p>
+<p> Главу комитета по свободе слова не назначат до выборов – Шевченко </p>
+<p> 1 </p>
+<p> 15:18 </p>
+<p> Сборная Голландии может разместиться в Донецке на время Евро </p>
+<p> 15:15 </p>
+<p> Россия заставит Украину стать членом Таможенного союза – эксперт </p>
+<p> 6 </p>
+<p> 15:11 </p>
+<p> Генплан Киева будут принимать на референдуме – Попов </p>
+<p> 15:07 </p>
+<p> В Донецке судят уличивших супермаркет в торговле просроченными продуктами (фото) </p>
+<p> 4 </p>
+<p> 15:05 </p>
+<p> Обманутые люди на Майдане – трагедия украинского народа – Кузьмин </p>
+<p> 11 </p>
+<p> 14:54 </p>
+<p> Украина обратится в международный суд в случае провала переговоров с РФ – Азаров </p>
+<p> 2 </p>
+<p> 14:50 </p>
+<p> Россия сама себя накажет отказом от нашего сыра – Азаров </p>
+<p> 14:48 </p>
+<p> Украиной правят люди, которых цена на газ не волнует – эксперт </p>
+<p> 7 </p>
+<p> 14:39 </p>
+<p> Министры могут остаться без зарплаты, если Россия не снизит цену газа – эксперт </p>
+<p> 1 </p>
+<p> 14:36 </p>
+<p> Суд перешел к допросу 64 свидетеля по делу Луценко </p>
+<p> 1 </p>
+<p> 14:34 </p>
+<p> До конца года Украина может исчезнуть с географической карты – эксперт </p>
+<p> 7 </p>
+<p> 14:28 </p>
+<p> В Киеве открыли «памятник» Черновецкому и Попову (фото) </p>
+<p> 1 </p>
+<p> 14:19 </p>
+<p> Свидетель по делу Луценко не знает никого из подсудимых </p>
+<p> 2 </p>
+<p> 14:14 </p>
+<p> Власть начала избирательную кампанию – Соболев </p>
+<p> 5 </p>
+<p> 14:12 </p>
+<p> За Тимошенко теперь наблюдают с помощью большой видеокамеры </p>
+<p> 4 </p>
+<p> 13:57 </p>
+<p> На Житомирщине «черные археологи» раскопали автотрассу </p>
+<p> 13:54 </p>
+<p> Налоговая изъяла медицинские документы Тимошенко – Турчинов </p>
+<p> 16 </p>
+<p> 13:53 </p>
+<p> Денежная масса в Украине увеличилась в 2011 году на 14,2% </p>
+<p> 13:47 </p>
+<p> На Волыни 71-летний дедушка закрашивал билборд Януковича </p>
+<p> 28 </p>
+<p> 13:43 </p>
+<p> Состояние здоровья Тимошенко не улучшается – Турчинов </p>
+<p> 5 </p>
+<p> 13:40 </p>
+<p> Путину придется качать в Украину сибирский мороз, а лишь потом газ – Луценко </p>
+<p> 2 </p>
+<p> 13:38 </p>
+<p> Украинским милиционерам повысят зарплату до 1600 грн </p>
+<p> 1 </p>
+<p> 13:34 </p>
+<p> ГПС подтвердила, что для Тимошенко доставили личный массажный стол </p>
+<p> 6 </p>
+<p> 13:25 </p>
+<p> У Тимошенко нет личного массажиста – Турчинов </p>
+<p> 5 </p>
+<p> 13:24 </p>
+<p> В Ялте будет единый номер такси </p>
+<p> 13:23 </p>
+<p> На свидетеля по делу Луценко давили в ГПУ </p>
+<p> 1 </p>
+<p> 13:16 </p>
+<p> Милиция возбудила уголовное дело за порчу президентских билбордов </p>
+<p> 13:13 </p>
+<p> Оппозиция блокировала трибуну ВР, чтобы сохранить свое лицо – Чечетов </p>
+<p> 5 </p>
+<p> 12:57 </p>
+<p> В Ужгороде «Беркут» устроил погром в цыганском таборе </p>
+<p> 12:48 </p>
+<p> Украина не будет покупать у России объем газа, записанный в контрактах – Азаров </p>
+<p> 67 </p>
+<p> 12:45 </p>
+<p> В Житомире пенсионеры воевали с бизнесменами </p>
+<p> ВСЕ НОВОСТИ </p>
+<p> » </p>
+<p> РУБРИКИ-ТЕГИ </p>
+<p> ДОСУГ </p>
+<p> , </p>
+<p> ЗА РУБЕЖОМ </p>
+<p> , </p>
+<p> КИЕВ </p>
+<p> , </p>
+<p> ОБЩЕСТВО </p>
+<p> , </p>
+<p> ПОЛИТИКА </p>
+<p> , </p>
+<p> ПРОГРЕСС </p>
+<p> , </p>
+<p> ПРОИСШЕСТВИЕ </p>
+<p> , </p>
+<p> СВЕТСКАЯ ХРОНИКА </p>
+<p> , </p>
+<p> СКАНДАЛ </p>
+<p> , </p>
+<p> СПОРТ </p>
+<p> , </p>
+<p> ЭКОНОМИКА </p>
+<p> , </p>
+<p> VIP-КРИМИНАЛ </p>
+<p> , </p>
+<p> ГАЗОВЫЕ СОГЛАШЕНИЯ </p>
+<p> , </p>
+<p> ДЕЛО ЛУЦЕНКО </p>
+<p> , </p>
+<p> ДЕЛО ТИМОШЕНКО </p>
+<p> , </p>
+<p> ЗДОРОВЬЕ </p>
+<p> , </p>
+<p> КРИМИНАЛ </p>
+<p> , </p>
+<p> РЕГИОНЫ УКРАИНЫ </p>
+<p> , </p>
+<p> РОССИЯ СЕГОДНЯ </p>
+<p> , </p>
+<p> ФУТБОЛЬНОЕ ОБОЗРЕНИЕ </p>
+<p> , </p>
+<p> ЧП </p>
+<p> , </p>
+<p> Виктор Янукович </p>
+<p> , </p>
+<p> выборы </p>
+<p> , </p>
+<p> ДТП </p>
+<p> , </p>
+<p> лайнер </p>
+<p> , </p>
+<p> МВД </p>
+<p> , </p>
+<p> Прокуратура </p>
+<p> , </p>
+<p> Россия </p>
+<p> , </p>
+<p> Украина </p>
+<p> , </p>
+<p> Юлия Тимошенко </p>
+<p> , </p>
+<p> Юрий Луценко </p>
+<p> Погода </p>
+<p> Погода в </p>
+<p> Киеве </p>
+<p> влажность: </p>
+<p> давление: </p>
+<p> ветер: </p>
+<p> Погода в Одессе </p>
+<p> Погода в Харькове </p>
+<p> начальник службы безопасности работа киев </p>
+<p> , </p>
+<p> Погода в Михайлевичах </p>
+<p> , </p>
+<p> от кого у киркорова родилась дочь </p>
+<p> , </p>
+<p> Митсубиши Аутлендер иксель продажа </p>
+<p> #JobInformer{ min-width:160px !important; margin-top:20px !important; border:1px solid #E9C9AC !important; margin:0 !important; padding:0 !important; font:12px Arial,sans-serif !important; border-radius:5px !important;-moz-border-radius:5px !important;-webkit-border-radius:5px !important;-khtml-border-radius:5px !important;text-align: left !important;}     #JobInformer a{text-decoration:none !important;}     #JobInformer a:hover, #JobInformer span:hover{ text-decoration:underline !important; }     #JobInformer .clear{ visibility:hidden !important; height:0 !important; width:0 !important; clear:both !important; }     #JobInformer_logo{ background-color:#FFF !important; height:54px !important; padding:4px 10px 0px 20px !important;  border-radius:4px 4px 0 0 !important; -moz-border-radius:4px 4px 0 0 !important;-webkit-border-radius:4px 4px 0 0 !important;-khtml-border-radius:4px 4px 0 0 !important;}     #JobInformer_logo img{ position:absolute !important; z-index:1 !important;}     #JobInformer_head{ margin:0px !important; padding:10px 7px !important; border-top:1px solid #DD6800 !important; background-color:#FFAC00 !important;box-shadow:0px 6px 6px 0px #FB7B00 inset !important;-moz-box-shadow:0px 6px 6px 0px #FB7B00 inset !important;-webkit-box-shadow:0px 6px 6px 0px #FB7B00 inset !important;-khtml-box-shadow:0px 6px 6px 0px #FB7B00 inset !important;}     #JobInformer_head a, #JobInformer_head{ color:#fff !important; font:bold 14px Arial,sans-serif !important; text-shadow:2px 1px 2px #B66200 !important;-moz-text-shadow:2px 1px 2px #B66200 !important;-webkit-text-shadow:2px 1px 2px #B66200 !important;-khtml-text-shadow:2px 1px 2px #B66200 !important;}     #JobInformer .JobInformer_item{ border-bottom:1px dotted #B3B3B3 !important; margin:0px !important; padding:10px 7px !important; background:#fff !important;}     #JobInformer .JobInformer_item a, #JobInformer .JobInformer_item span,#JobInformer .JobInformer_item{ cursor:pointer !important; font:bold 13px Arial,sans-serif !important; color:#000 !important; }     #JobInformer .JobInformer_item:last-child{border-bottom-style:none !important;}     #JobInformer #JobInformer_bottom{ padding-bottom:10px !important; background-color:#F8F9F9 !important; box-shadow:0px 5px 10px 0px #E4E6E7 inset !important;-moz-box-shadow:0px 5px 10px 0px #E4E6E7 inset !important;-webkit-box-shadow:0px 5px 10px 0px #E4E6E7 inset !important;-khtml-box-shadow:0px 5px 10px 0px #E4E6E7 inset !important;}     #JobInformer_bottom { margin:0 !important; padding:10px 7px !important; border-radius:0 0 4px 4px !important;-moz-border-radius:0 0 4px 4px !important;-webkit-border-radius:0 0 4px 4px !important;-khtml-border-radius:0 0 4px 4px !important;}     #JobInformer_bottom a,#JobInformer_bottom{color:#A7A7A7 !important;font:12px Arial,sans-serif !important;} </p>
+<p> Вакансии в Киеве </p>
+<p> Developer android </p>
+<p> Продавец в магазин </p>
+<p> Региональный директор </p>
+<p> Сантехник </p>
+<p> Эксперт по недвижимости </p>
+<p> работа администратором в ресторан Харьков </p>
+<p> ГЛАВНАЯ </p>
+<p> | </p>
+<p> НОВОСТИ </p>
+<p> | </p>
+<p> СТАТЬИ </p>
+<p> | </p>
+<p> ИНТЕРВЬЮ </p>
+<p> | </p>
+<p> ЛУЧШЕЕ В БЛОГАХ </p>
+<p> | </p>
+<p> БЛОГГЕРЫ </p>
+<p> | </p>
+<p> ФОТОБАНК </p>
+<p> | </p>
+<p> © 2012  «Независимое Бюро Новостей». </p>
+<p> Редакция НБН может не разделять точку зрения авторов статей и блоггеров, </p>
+<p> и не несет ответственности за содержание авторских материалов. </p>
+<p> Использование материалов сайта возможно только при наличии активной гиперссылки на </p>
+<p> nbnews.com.ua </p>
+<p> <!-- document.write("<a href='http://www.liveinternet.ru/click' "+ "target=_blank><img src='//counter.yadro.ru/hit?t18.11;r"+ escape(document.referrer)+((typeof(screen)=="undefined")?"": ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth? screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+ ";"+Math.random()+ "' alt='' title='LiveInternet: показано число просмотров за 24"+ " часа, посетителей за 24 часа и за сегодня' "+ "border='0' width='88' height='31'><\/a>") //--> </p>
+<p> <!-- bmN=navigator,bmD=document,bmD.cookie='b=b',i=0,bs=[],bm={v:16885227,s:16885227,t:2,c:bmD.cookie?1:0,n:Math.round((Math.random()* 1000000)),w:0}; try{obHP.style.behavior="url('#default#homePage')";obHP.addBehavior('#default#homePage');if(obHP.isHomePage(window.location.href))bm.h=1;}catch(e){;} for(var f=self;f!=f.parent;f=f.parent)bm.w++; try{if(bmN.plugins&&bmN.mimeTypes.length&&(x=bmN.plugins['Shockwave Flash']))bm.m=parseInt(x.description.replace(/([a-zA-Z]|\s)+/,'')); else for(var f=3;f<20;f++)if(eval('new ActiveXObject("ShockwaveFlash.ShockwaveFlash.'+f+'")'))bm.m=f}catch(e){;} try{bm.y=bmN.javaEnabled()?1:0}catch(e){;} try{bmS=screen;bm.v^=bm.d=bmS.colorDepth||bmS.pixelDepth;bm.v^=bm.r=bmS.width}catch(e){;} r=bmD.referrer.slice(7);if(r&&r.split('/')[0]!=window.location.host){bm.f=escape(r);bm.v^=r.length} bm.v^=window.location.href.length;for(var x in bm) if(/^[hvstcnwmydrf]$/.test(x)) bs[i++]=x+bm[x]; bmD.write('<a href="http://www.bigmir.net/" target="_blank" onClick="img=new Image();img.src="http://www.bigmir.net/?cl=16885227";"><img src="http://c.bigmir.net/?'+bs.join('&')+'"  width="88" height="31" border="0" alt="bigmir)net TOP 100" title="bigmir)net TOP 100"></a>'); //--> </p>
+<p> <!-- d=document;var a='';a+=';r='+escape(d.referrer);js=10;//--> </p>
+<p> <!-- a+=';j='+navigator.javaEnabled();js=11;//--> </p>
+<p> <!-- s=screen;a+=';s='+s.width+'*'+s.height; a+=';d='+(s.colorDepth?s.colorDepth:s.pixelDepth);js=12;//--> </p>
+<p> <!-- js=13;//--> </p>
+<p> <!-- d.write('<a href="http://top.mail.ru/jump?from=2134269" target="_top">'+ '<img src="http://d0.c9.b0.a2.top.mail.ru/counter?id=2134269;t=130;js='+js+ a+';rand='+Math.random()+'" alt="Рейтинг@Mail.ru" border="0" '+ 'height="40" width="88"><\/a>');if(11<js)d.write('<'+'!-- ');//--> </p>
+<p> <!-- if(11<js)d.write('--'+'>');//--> </p>
+<p> СВЕЖЕЕ В БЛОГАХ </p>
+<p> Беззаконня продовжується ? </p>
+<p> 17.01.2012 </p>
+<p> | </p>
+<p> 17:48 </p>
+<p> Valery Khvostov, </p>
+<p> Юрист, правовед </p>
+<p> Рекламные ролики «Киевстар» получили признание экспертов </p>
+<p> 17.01.2012 </p>
+<p> | </p>
+<p> 17:23 </p>
+<p> Юрій Пивоваренко, </p>
+<p> PR </p>
+<p> Подсчеты Богословской рассчитаны на невежественных людей, но украинцы не такие </p>
+<p> 17.01.2012 </p>
+<p> | </p>
+<p> 15:07 </p>
+<p> Valery Khvostov, </p>
+<p> Юрист, правовед </p>
+<p> Ошибка президента... </p>
+<p> 17.01.2012 </p>
+<p> | </p>
+<p> 12:34 </p>
+<p> Зетт Кристальный, </p>
+<p> графоман </p>
+<p> Производитель лучших отечественных товаров компания «Вассма Ритейл». Готовится к посевной кампании </p>
+<p> 17.01.2012 </p>
+<p> | </p>
+<p> 11:55 </p>
+<p> Вассма Торговый Дом, </p>
+<p> Отдел по связям с общественностью ООО «ТД «ВАССМА» </p>
+<p> Насильно мил не будешь </p>
+<p> 17.01.2012 </p>
+<p> | </p>
+<p> 11:37 </p>
+<p> Valery Khvostov, </p>
+<p> Юрист, правовед </p>
+<p> Пастор Роман Трохин и паразиты </p>
+<p> 16.01.2012 </p>
+<p> | </p>
+<p> 23:11 </p>
+<p> Дмитрий Полищук, </p>
+<p> общественный деятель </p>
+<p> Судья укрывает свидетеля от суда? </p>
+<p> 16.01.2012 </p>
+<p> | </p>
+<p> 20:33 </p>
+<p> Богдан Хмельницкий, </p>
+<p> правозащита </p>
+<p> Колісниченко знову прогнувся, дістав ще один "висновок" </p>
+<p> 16.01.2012 </p>
+<p> | </p>
+<p> 19:56 </p>
+<p> Valery Khvostov, </p>
+<p> Юрист, правовед </p>
+<p> Переконливі аргументи </p>
+<p> 16.01.2012 </p>
+<p> | </p>
+<p> 17:59 </p>
+<p> Олесь Вахній, </p>
+<p> громадський діяч </p>
+<p> «Киевстар» получил благодарность от городского головы Донецка </p>
+<p> 16.01.2012 </p>
+<p> | </p>
+<p> 17:52 </p>
+<p> Юрій Пивоваренко, </p>
+<p> PR </p>
+<p> Банк «Хрещатик» завершил переход на двухуровневую систему управления </p>
+<p> 16.01.2012 </p>
+<p> | </p>
+<p> 17:21 </p>
+<p> Светлана Старенчук, </p>
+<p> Отдел по связям с общественностью </p>
+<p> В Украине появится новый вид пакетированных семян </p>
+<p> 16.01.2012 </p>
+<p> | </p>
+<p> 16:51 </p>
+<p> Анна Березанская, </p>
+<p> Отдел по связям с общественностью ООО «ТД «ВАССМА» </p>
+<p> Коммунисты Украины считают, что будущее Украины в ЕврАзс </p>
+<p> 16.01.2012 </p>
+<p> | </p>
+<p> 15:21 </p>
+<p> Valery Khvostov, </p>
+<p> Юрист, правовед </p>
+<p> Відтепер пільговики будуть самостійно вирішувати, на що саме витратити «транспортну» допомогу </p>
+<p> 16.01.2012 </p>
+<p> | </p>
+<p> 14:27 </p>
+<p> Федор Рыбак, </p>
+<p> самозанятость </p>
+<p> Кращий підрозділ кращого полку </p>
+<p> 16.01.2012 </p>
+<p> | </p>
+<p> 11:46 </p>
+<p> Володимир Скоростецький, </p>
+<p> військовий журналіст </p>
+<p> Чеські канікули з донькою </p>
+<p> 16.01.2012 </p>
+<p> | </p>
+<p> 11:42 </p>
+<p> Олег Ляшко, </p>
+<p> Народний депутат України </p>
+<p> Менты луганщины уничтожают общественников </p>
+<p> 16.01.2012 </p>
+<p> | </p>
+<p> 11:39 </p>
+<p> Константин Ильченко, </p>
+<p> Общественно-политическая деятельность </p>
+<p> Студенти не підуть до Азарова і закликали його покаятися </p>
+<p> 16.01.2012 </p>
+<p> | </p>
+<p> 09:06 </p>
+<p> Антон Дмитрієв, </p>
+<p> небайдужий аналітик </p>
+<p> Зорян Шкіряк. Моя родина </p>
+<p> 16.01.2012 </p>
+<p> | </p>
+<p> 04:48 </p>
+<p> Зорян Шкиряк, </p>
+<p> Политик, общественный деятель. </p>
+<p> ДРУЗЬЯ ОНЛАЙН </p>
+<p> ВХОД НА САЙТ </p>
+<p> Здравствуйте, </p>
+<p> ! </p>
+<p> Это не я </p>
+<p> Войти на сайт: </p>
+<p> Запомнить на сайте </p>
+<p> Войти </p>
+<p> Забыли пароль? </p>
+<p> ЗАРЕГИСТРИРОВАТЬСЯ НА НБН </p>
+<p> ПРИВЕТСТВИЕ </p>
+<p> Здравствуйте, ! </p>
+<p> Это не Вы? </p>
+<p> ПЕРЕЙТИ В ЛИЧНЫЙ КАБИНЕТ </p>
+<p> Войти на сайт под другим именем: </p>
+<p> Запомнить на сайте </p>
+<p> Войти </p>
+<p> Забыли пароль? </p>
+<p> ВХОД НА САЙТ </p>
+<p> Войти на сайт: </p>
+<p> Запомнить на сайте </p>
+<p> Войти </p>
+<p> Забыли пароль? </p>
+<p> ЗАРЕГИСТРИРОВАТЬСЯ НА НБН </p>
+<p> | </p>
+<p> ДРУЗЬЯ ОНЛАЙН </p>
+<p> | </p>
+<p> СВЕЖИЕ БЛОГИ </p>
+<p> | </p>
+<p> ФОТОБАНК </p>
+<p> | </p>
+<p> СОЗДАТЬ НОВОСТЬ </p>
+<p> | </p>
+<p> Вы не авторизированы </p>
+<p> Выход </p>
+<p> РАССЫЛКА НОВОСТЕЙ </p>
+<p> Чтобы подписаться на рассылку новостей </p>
+<p> и блог-постов портала НБН, </p>
+<p> введите адрес электронной почты. </p>
+<p> ОК </p>
+<p> УДАЛЕНИЕ ПРОФИЛЯ </p>
+<p> Вы уверены что хотите удалить свой </p>
+<p> профиль с сайта НБН? </p>
+<p> Уверен </p>
+<p> Отмена </p>
+<p> УДАЛЕНИЕ НОВОСТИ </p>
+<p> Вы уверены, что хотите удалить </p>
+<p> эту новость? </p>
+<p> Уверен </p>
+<p> Отмена </p>
+<p> title </p>
+<p> Text </p>
+<p> Имя кнопки </p>
+<p> ВЫ НЕ АВТОРИЗИРОВАНЫ </p>
+<p> Для входа в Личный кабинет блоггера </p>
+<p> Вам необходимо авторизоваться на портале НБН </p>
+<p> Для завершения этой операции </p>
+<p> Вам необходимо авторизоваться на портале НБН </p>
+<p> Введите e-mail: </p>
+<p> Пароль: </p>
+<p> Не зарегистрированы? </p>
+<p> Регистрация </p>
+<p> ОШИБКА СОХРАНЕНИЯ ТЕКСТА </p>
+<p> Произошла ошибка сессии. </p>
+<p> Пожалуйста, введите Ваш логин и пароль. </p>
+<p> Введите e-mail: </p>
+<p> Пароль: </p>
+<p> СМЕНА ПАРОЛЯ </p>
+<p> Старый пароль: </p>
+<p> Новый пароль: </p>
+<p> Введите 6 и более символов </p>
+<p> Новый пароль еще раз: </p>
+<p> Отправить </p>
+<p> Отмена </p>
+<p> title </p>
+<p> Отправить запрос </p>
+<p> Отмена </p>
+<p> РЕДАКТИРОВАТЬ ФОТО </p>
+<p> SET_DHTML(CURSOR_MOVE,"box" + MAXOFFLEFT + 0 + MAXOFFRIGHT + max_right + MAXOFFBOTTOM + max_bottom + MAXOFFTOP + 0,"zoom_button" + MAXOFFLEFT + 0 + MAXOFFRIGHT + 0 + MAXOFFBOTTOM + zoom_100 + MAXOFFTOP + 0);$( 'box' ).style.border = '1px solid #FF0000';function my_DragFunc(){ move_zoombutton();}load(); </p>
+<p> Сохранить </p>
+<p> Отмена </p>
+<p> var confsite='http://nbnews.com.ua/'; var sess_unreg=0;; var sess_reg=0; var sess_reg_fb=0; var cuser_id=''; var csession_id=''; var light_notice_flag=0; var full_notice_flag=0; var iosauthheight = 49; var _w_ = 0; var _h_ = 0; var locationpage='http://nbnews.com.ua/news/25724/'; var notice_light_messages=0; var notice_light_friends =0; var last_name = ""; var last_id=""; var last_mess_id=""; var last_type=0; var old_all_notice_count =0; var authErrLoginExist="Указанный при регистрации электронный адрес уже присутствует в базе."; var authClose="Закрыть"; var authErrHead = "Ошибка"; var authLetterResend = "На указанный электронный адрес отправлено письмо с подтверждением регистрации.<br>Пожалуйста, проверьте Вашу электронную почту."; var authMsgHead = "СООБЩЕНИЕ"; var authErrUnauth = "Вы не авторизированы."; var authErrReceiver = "Ваш список друзей пуст.";  var authErrException = "Сбой операции."; var authMsgBloggerAdd = "Блоггер добавлен вам в библиотеку.";  var authErrWrongUser="Вам запрещено отправлять сообщения."; var authErrWrongReceiver = "Неверный получатель."; var authMsgLetterSend = "Письмо отправлено."; var authErrAddFriendRejected = "Вам запрещено делать заявки на добавления в друзья."; var authMsgAddFriendSent = "Предложение дружбы отправлено."; var authErrPassedWrongUser = "Указан неверный пользователь."; var authMsgRequestSuccess = "Заявка подтверждена."; var authMsgRequestReject  = "Заявка отвергнута."; var authErrBodyEmpty = "Введите текст сообщения"; var authErrEmailEmpty = "Введите e-mail"; var authEmailVar = "Ваш e-mail для обратной связи"; var authErrWrongEmail = "Был введен неправильный адрес электронной почты ."; var authMsgThankYou = "Спасибо вам за отзыв, мы обязательно учтем Ваши пожелания."; var authEmailVarA = "Ваш E-mail"; var authErrEmailInSubscribePresent="Указанный E-mail уже присутствует в списке рассылки."; var authMsgSubscribeConfirm1 = " Вы подписались на рассылку новостей<br> на портале НБН. На адрес <br>"; var authMsgSubscribeConfirm2 = "<br> отправлено письмо для подтверждения подписки."; var authErrBrokenSession = "Нарушение безопасности сессии."; var authErrResizeImage = "Ошибка при кадрировании изображения.<br>Попробуйте загрузить еще раз."; var authErrShortPassword = "Указанный пароль менее 6 символов длиной."; var authErrOldPasswWrong = "Вы ввели неверный старый пароль.";  var authErrNewPasswNotEq = "Новые пароли не совпадают.";  var authErrSessFromOtherUser = "Ваша сессия не соответствует вашему пользователю."; var authMsgPasswSuccessChanged = "Пароль успешно изменен"; var authErrLastnameWrong = "Фамилия указана некорректно"; var authErrFirstnameWrong = "Имя указано некорректно;"; var authErrDateOfBirthWrong = "Дата рождения указана некорректно;"; var authErrEmptyPruf = "Не указан род занятий;"; var authErrEmptyCountry = "Не указана страна проживания;"; var authErrEmptyCity = "Укажите населенный пункт проживания;"; var authTextVal = "Текст сообщения"; var authOtherGeoVal = " Другое"; var authMsgBeFriend = "ПРЕДЛОЖИТЬ ДРУЖБУ"; var authSend = "Отправить заявку";  var authMsgSendLetter ="ОТПРАВИТЬ СООБЩЕНИЕ";  var authSendLetter = "Отправить"; var authMsgLetBeReaderQ = "Вы хотите стать<br>постоянным читателем?"; var authMsgLetBeReader = "СТАТЬ ПОСТОЯННЫМ ЧИТАТЕЛЕМ";  var authAccept = "Подтвердить"; var authMessageReceived = "написал Вам сообщение"; var authRead = "Прочитать"; var authUserProfile = "Профайл пользователя"; var authReadLater = "Прочитать позже"; var authUserBeFriend = "предлагает вам дружбу"; var authFriendPending = "Предложений дружбы"; var authMsgPending = "Сообщений"; var authReplyLater = "Ответить позже"; var authRegAuth = "Авторизироваться"; var authRegClub = "КЛУБ ДРУЗЕЙ НБН"; var authReturn = "<br>Приветствуем Вас снова на портале НБН. <br>Ваш профиль восстановлен.<br>"; var authReturnHead = "ВОССТАНОВЛЕНИЕ ПРОФИЛЯ"; var authRegCodeCheckFail = "Кода регистрации, запрашеваемого Вами, не существует. Это означает что регистрация уже была подтверждена, или Вами указан неверный регистрационный код."; var authMsgUserAccept = "Принять"; var authMsgUserReject = "Отклонить"; var authMsgWrongChangePswCode = "Ошибка проверки кода."; var authMsgChangePswSuccess = "Ваш пароль успешно изменен."; var authLostPswOkMess1 = "По адресу<br>"; var authLostPswOkMess2 = "<br>отправлено письмо с дальнейшими инструкциями по восстановлению пароля."; var authMailerListDoesntExists = "Лист рассылки не найден."; var authMailerDisabled = "Ваша подписка прекращена."; var authMailerInformationStoreOk = "Информация сохранена."; function refreshcomments(b){$jQ("#replytocomment_news_replyall").appendTo("#smallcomment"+b+"newsall");$jQ("#replytocomment_news_reply").appendTo("#smallcomment"+b+"news");$jQ("#replytocomment_images_reply").appendTo("#smallcomment"+b+"images");$jQ("#replytocomment_video_reply").appendTo("#smallcomment"+b+"video");try{refreshpage_comment_news();}catch(e){};try{refreshpage_comment_newsall();}catch(e){};try{refreshpage_comment_images();}catch(e){};try{refreshpage_comment_video();}catch(e){};}function sortcomments(a,b){$jQ.cookie("sortcomments",a,{path:"/"});refreshcomments(b);} function logout_from_all(){$jQ.cookie("PHPSESSID",null);$jQ.cookie("spy",1);document.location.href=confsite}function message_(a,b,c,d){document.getElementById("msgmesstitle").innerHTML=a;document.getElementById("msgmessbtn_do").innerHTML=b;document.getElementById("msgmessinfo").innerHTML=c;$jQ("#msgbtn").unbind();$jQ("#msgmessbtn_do").click(d);$jQ("#msgbox_messages").fadeIn(300)}function alert_(a,b,c,d){document.getElementById("msgtitle").innerHTML=c;document.getElementById("msgtext").innerHTML=a;document.getElementById("msgbtn").innerHTML=b;$jQ("#msgbtn").unbind();$jQ("#msgbtn").click(d);$jQ("#msgbox").fadeIn(300)}function letsreg(){var a=document.regForm;var b=a.mm.value*1+1;var c=a.yyyy.value+"-"+b+"-"+a.dd.value;JsHttpRequest.query(confsite+"registration.php?firstname="+a.firstname.value+"&lastname="+a.lastname.value+"&username="+a.firstname.value+" "+a.lastname.value+"&org="+a.org.value+"&pruf="+a.pruf.value+"&passw="+a.passw1.value+"&seat="+a.seat.value+"&othergeo="+a.othergeo.value+"&gender="+a.gender.value+"&email="+a.email.value+"&birthdate="+c+"&city="+a.city.value+"&ucity="+a.ucity.value+"&country="+a.country.value+"&obl="+a.obl.value+"&additional="+a.additional.value+"&wemail="+a.wemail.value+"&phone="+a.phone.value,{country:document.regForm.country.value,obl:document.regForm.obl.value,usname:a.firstname.value+" "+a.lastname.value},function(a,b){if(a["resp"]=="userexist"){alert_(authErrLoginExist,authClose,authErrHead,function(){$jQ("#msgbox").fadeOut("slow")})}if(a["resp"]=="ok"){alert_(autjLetterResend,authClose,authMsgHead,function(){$jQ("#msgbox").fadeOut("slow");document.location.href="http://nbnews.com.ua/"})}})}function __hideregform(){$jQ("#regform").fadeOut("slow")}function trim(a){return a.replace(/(^ +| +$)/,"")}function selobl(a){document.regForm.city.disabled=true;JsHttpRequest.query(confsite+"selucity.php?obl="+a,{obl:a},function(a,b){document.getElementById("citydiv1").innerHTML=b;try{parent_set_geo()}catch(c){var d=c}try{stylishcity("geoobl");stylishcity("geoobl1");stylishcity("geocity")}catch(c){var d=c}})}function selcity(a){document.regForm.city.disabled=true;JsHttpRequest.query(confsite+"selcity.php?country="+document.regForm.country.value,{country:document.regForm.country.value},function(a,b){if(a["country"]==804){document.getElementById("citydiv1").style.display="block";document.getElementById("drugoe").style.display="none"}else{document.getElementById("citydiv1").style.display="none";document.getElementById("drugoe").style.display="block"}document.getElementById("citydiv").innerHTML=b;if(a["country"]==804){try{parent_sel_obl()}catch(c){var d=c}try{stylishcity("geoobl");stylishcity("geoobl1");stylishcity("geocity")}catch(c){var d=c}}else{try{parent_set_city()}catch(c){var d=c}try{stylishcity("geoobl");stylishcity("geoobl1");stylishcity("geocity")}catch(c){var d=c}}})}function alertSize(){var a=0,b=0;if(typeof window.innerWidth=="number"){a=window.innerWidth;b=window.innerHeight}else if(document.documentElement&&(document.documentElement.clientWidth||document.documentElement.clientHeight)){a=document.documentElement.clientWidth;b=document.documentElement.clientHeight}else if(document.body&&(document.body.clientWidth||document.body.clientHeight)){a=document.body.clientWidth;b=document.body.clientHeight}_w_=a;_h_=b}function createReceiverList(){JsHttpRequest.query(confsite+"getreclist.php",{session_id:csession_id,srch:$jQ("#msgmessname").val()},function(a,b){if(a["resp"]=="notauth"){alert_(authErrUnauth,authClose,authErrHead,function(){$jQ("#msgbox").fadeOut("slow");$jQ("#msgbox_changepass").fadeIn("slow")})}if(a["resp"]=="ok"){if(b.indexOf("<div")>-1){$jQ("#receiverlist").html(b);$jQ("#receiverlist").fadeIn(1)}else{$jQ("#msgbox_messages").fadeOut(300);alert_(authErrReceiver,authClose,authErrHead,function(){$jQ("#msgbox").fadeOut("slow")})}}},true)}function letMeReadThis(a){JsHttpRequest.query(confsite+"letmereadthis.php",{recipient_id:a,user_id:cuser_id,session_id:csession_id},function(a,b){$jQ("#msgbox_messages").fadeOut(300);if(a["resp"]=="wronguser"){alert_(authErrException,authClose,authErrHead,function(){$jQ("#msgbox").fadeOut("slow")})}if(a["resp"]=="notauth"){$jQ("#msgbox_unreg_text_2").fadeIn(1);$jQ("#msgbox_unreg_text_1").fadeOut(1);$jQ("#msgbox_unreg").fadeIn(300)}if(a["resp"]=="wrongreceiver"){alert_(authErrException,authClose,authErrHead,function(){$jQ("#msgbox").fadeOut("slow")})}if(a["resp"]=="ok"){alert_(authMsgBloggerAdd,authClose,authMsgHead,function(){$jQ("#msgbox").fadeOut("slow")})}},true);$jQ("#msgmessbtn_do").unbind()}function sendBloggerLetter(a,b){JsHttpRequest.query(confsite+"sendmessage.php",{message:$jQ("#msgmessmessage").val(),parent:0,recipient_id:a,user_id:cuser_id,session_id:csession_id},function(a,b){$jQ("#msgbox_messages").fadeOut(300);if(a["resp"]=="wronguser"){alert_(authErrWrongUser,authClose,authErrHead,function(){$jQ("#msgbox").fadeOut("slow")})}if(a["resp"]=="notauth"){$jQ("#msgbox_unreg_text_2").fadeIn(1);$jQ("#msgbox_unreg_text_1").fadeOut(1);$jQ("#msgbox_unreg").fadeIn(300)}if(a["resp"]=="wrongreceiver"){alert_(authErrWrongReceiver,authClose,authErrHead,function(){$jQ("#msgbox").fadeOut("slow")})}if(a["resp"]=="ok"){alert_(authMsgLetterSend,authClose,authMsgHead,function(){$jQ("#msgbox").fadeOut("slow")})}},true);$jQ("#msgmessbtn_do").unbind()}function letMeBeYourFriend(a){JsHttpRequest.query(confsite+"letfriends.php",{message:$jQ("#msgmessmessage").val(),friend:"1",recipient_id:a,user_id:cuser_id,session_id:csession_id},function(a,b){$jQ("#msgbox_messages").fadeOut(300);if(a["resp"]=="wronguser"){alert_(authErrAddFriendRejected,authClose,authErrHead,function(){$jQ("#msgbox").fadeOut("slow")})}if(a["resp"]=="notauth"){$jQ("#msgbox_unreg_text_2").fadeIn(1);$jQ("#msgbox_unreg_text_1").fadeOut(1);$jQ("#msgbox_unreg").fadeIn(300)}if(a["resp"]=="wrongreceiver"){alert_(authErrWrongReceiver,authClose,authErrHead,function(){$jQ("#msgbox").fadeOut("slow")})}if(a["resp"]=="ok"){alert_(authMsgAddFriendSent,authClose,authMsgHead,function(){$jQ("#msgbox").fadeOut("slow")})}},true);$jQ("#msgmessbtn_do").unbind()}function show_delprofile(){$jQ("#msgbox_delprofile").fadeIn("slow")}function addToMailer(){$jQ("#msgbox_mailer").fadeIn("slow")}function hide_notice(){$jQ("#notice_light").oneTime("3s",function(){if(light_notice_flag==0){$jQ(this).fadeOut("slow")}});$jQ("#notice_full").oneTime("3s",function(){if(full_notice_flag==0){$jQ(this).fadeOut("slow")}})}function show_notice(){if(old_all_notice_count>1){$jQ("#notice_light").animate({top:"-"+$jQ("#notice_light").height()-22+"px"},1);$jQ("#notice_light").fadeIn("slow")}else{$jQ("#notice_full").animate({top:"-"+$jQ("#notice_full").height()-22+"px"},1);$jQ("#notice_full").fadeIn("slow")}}function edblgfriend(a,b){JsHttpRequest.query(confsite+"addfriend.php",{message:a,todo:b,user_id:cuser_id,session_id:csession_id},function(a,b){if(a["resp"]=="wronguser"){alert_(authErrPassedWrongUser,authClose,authErrHead,function(){$jQ("#msgbox").fadeOut("slow")})}if(a["resp"]=="notauth"){alert_(authErrUnauth,authClose,authErrHead,function(){$jQ("#msgbox").fadeOut("slow")})}if(a["resp"]=="wrongreceiver"){alert_(authErrPassedWrongUser,authClose,authErrHead,function(){$jQ("#msgbox").fadeOut("slow")})}if(a["resp"]=="ok"){alert_(authMsgRequestSuccess,authClose,authMsgHead,function(){$jQ("#msgbox").fadeOut("slow");document.location.href=locationpage})}if(a["resp"]=="okrejected"){alert_(authMsgRequestReject,authClose,authMsgHead,function(){$jQ("#msgbox").fadeOut("slow");document.location.href=locationpage})}},true)}function viewMessage(a){$jQ(".edblgmessshowt").fadeIn(1);$jQ(".edblgmesshidet").fadeOut(1);$jQ(".edblgmessreplyform").fadeOut(1);$jQ(".messageschains").html("");$jQ("#edblgmesslest"+a).fadeOut(1);$jQ("#edblgmessallt"+a).fadeIn(1);$jQ("#edblgmessshrepl"+a).fadeIn(1);JsHttpRequest.query(confsite+"markread.php",{message:a,user_id:cuser_id,session_id:csession_id},function(a,b){if(a["resp"]=="wronguser"){alert_(authErrWrongReceiver,authClose,authErrHead,function(){$jQ("#msgbox").fadeOut("slow")})}if(a["resp"]=="notauth"){alert_(authErrUnauth,authClose,authErrHead,function(){$jQ("#msgbox").fadeOut("slow")})}if(a["resp"]=="ok"){var c="ok"}if(a["resp"]=="ok_marked"){decreaseUnreadCount();$jQ("#edblgmessinf"+a["id"]).fadeOut(1)}},true)}function hideOpenMessage(){$jQ(".edblgmessshowt").fadeIn(1);$jQ(".edblgmesshidet").fadeOut(1);$jQ(".edblgmessreplyform").fadeOut(1);$jQ(".messageschains").html("")}function ulogoff(){$jQ.cookie("nbnrem",null,{path:"/"});$jQ.cookie("nbnrem",0,{expires:-1});document.location.href=confsite+"?do=logout"}function authorize_reg(){$jQ.cookie("auth5","1",{path:"/"});$jQ.cookie("auth3","1",{path:"/"});$jQ.cookie("auth4","1",{path:"/"})}function authorize_unreg(){$jQ.cookie("auth5","1",{path:"/"});$jQ.cookie("auth3","1",{path:"/"});$jQ.cookie("auth4","1",{path:"/"})}function forgotPassword(){document.location.href=confsite+"lostpsw/"}$jQ("div.betaico").hover(function(){$jQ(this).addClass("hov")},function(){$jQ(this).removeClass("hov")});$jQ("#msgbox_beta_hide").click(function(){$jQ("#msgbox_beta").fadeOut("slow")});$jQ("div.betaico").click(function(){$jQ("#msgbox_beta").fadeIn("slow")});$jQ("#msgbox_beta_btn").click(function(){if(trim($jQ("#msgbox_beta_message").val())==authTextVal){alert_(authErrBodyEmpty,authClose,authErrHead,function(){$jQ("#msgbox").fadeOut("slow")});return false}if(trim($jQ("#msgbox_beta_email").val())==authEmailVar){alert_(authErrEmailEmpty,authClose,authErrHead,function(){$jQ("#msgbox").fadeOut("slow")});return false}if(trim($jQ("#msgbox_beta_message").val())==""){alert_(authErrBodyEmpty,authClose,authErrHead,function(){$jQ("#msgbox").fadeOut("slow")});return false}if(trim($jQ("#msgbox_beta_email").val())==""){alert_(authErrEmailEmpty,authClose,authErrHead,function(){$jQ("#msgbox").fadeOut("slow")});return false}var a=$jQ("#msgbox_beta_email").val();if(a==""){alert_(authErrWrongEmail,authClose,authErrHead,function(){$jQ("#msgbox").fadeOut("slow")});return false}if(a.indexOf(".")==-1){alert_(authErrWrongEmail,authClose,authErrHead,function(){$jQ("#msgbox").fadeOut("slow")});return false}var b=a.indexOf("@");if(b==-1){alert_(authErrWrongEmail,authClose,authErrHead,function(){$jQ("#msgbox").fadeOut("slow")});return false}if(b<1||b>a.length-5){alert_(authErrWrongEmail,authClose,authErrHead,function(){$jQ("#msgbox").fadeOut("slow")});return false}if(a.charAt(b-1)=="."||a.charAt(b+1)=="."){alert_(authErrWrongEmail,authClose,authErrHead,function(){$jQ("#msgbox").fadeOut("slow")});return false}JsHttpRequest.query(confsite+"sendresponce.php",{message:$jQ("#msgbox_beta_message").val(),email:$jQ("#msgbox_beta_email").val()},function(a,b){if(a["resp"]=="ok"){$jQ("#msgbox_beta").fadeOut("slow");$jQ("#msgbox_beta_message").val(authTextVal);$jQ("#msgbox_beta_email").val(authEmailVar);alert_(authMsgThankYou,authClose,authMsgHead,function(){$jQ("#msgbox").fadeOut("slow")})}},true)});$jQ("div.registrationbtn").click(function(){document.location.href=confsite+"registration/"});$jQ("#hideauth5h").click(function(){$jQ("#auth5").fadeOut("slow");$jQ.cookie("auth5","1",{path:"/"})});$jQ("#hideauth3h").click(function(){$jQ("#auth3").fadeOut("slow");$jQ.cookie("auth3","1",{path:"/"})});$jQ("#hideauth4h").click(function(){$jQ("#auth4").fadeOut("slow");$jQ.cookie("auth4","1",{path:"/"})});$jQ(document).ready(function(){if(sess_unreg==1){$jQ("#auth5").fadeIn("slow")}if(sess_reg==1){$jQ("#auth4").fadeIn("slow")}});$jQ("#notice_light").hover(function(){light_notice_flag=1},function(){light_notice_flag=0;hide_notice()});$jQ("#notice_full").hover(function(){full_notice_flag=1},function(){full_notice_flag=0;hide_notice()});$jQ("#notice_img").hover(function(){show_notice()},function(){hide_notice()});$jQ("#showbtn").mouseover(function(){$jQ("#tip_show").fadeIn("slow")});$jQ("#showbtn").mouseout(function(){$jQ("#tip_show").fadeOut("slow")});$jQ("#hidebtn").mouseover(function(){$jQ("#tip_hide").fadeIn("slow")});$jQ("#hidebtn").mouseout(function(){$jQ("#tip_hide").fadeOut("slow")});$jQ("#showbtn").click(function(){$jQ("#usrimage").fadeIn("fast");$jQ("#usrdetailsdiv").fadeIn("fast");$jQ("#showbtn").hide(1);$jQ("#hidebtn").show(500)});$jQ("#showbtnpan").click(function(){$jQ("#usrimage").fadeIn("fast");$jQ("#usrdetailsdiv").fadeIn("fast");$jQ("#showbtn").hide(1);$jQ("#hidebtn").show(500)});$jQ("#hidebtn").click(function(){$jQ("#usrimage").fadeOut("fast");$jQ("#usrdetailsdiv").fadeOut("fast");$jQ("#hidebtn").hide(1);$jQ("#showbtn").show(500)});$jQ("#hideauth0").click(function(){$jQ("#auth0").fadeOut("slow")});$jQ("#hideauth1").click(function(){$jQ("#auth1").fadeOut("slow")});$jQ("#hideauth2").click(function(){$jQ("#auth2").fadeOut("slow")});$jQ("#hideauth3").click(function(){$jQ("#auth3").fadeOut("slow");$jQ.cookie("fbwin","1")});$jQ("#hideauth3_1").click(function(){$jQ("#auth3").fadeOut("slow");$jQ.cookie("fbwin","1")});$jQ("#hideauth4").click(function(){$jQ("#auth4").fadeOut("slow")});$jQ("#showauth0").click(function(){$jQ("#auth2").fadeOut(1);$jQ("#auth1").fadeOut(1);$jQ("#auth0").fadeIn("slow")});$jQ("#showauth1").click(function(){$jQ("#auth2").fadeOut(1);$jQ("#auth0").fadeOut(1);$jQ("#auth1").fadeIn("slow")});$jQ("#showauth2").click(function(){$jQ("#auth0").fadeOut(1);$jQ("#auth1").fadeOut(1);$jQ("#auth2").fadeIn("slow")});$jQ("#showauth3").click(function(){$jQ("#auth4").fadeOut(1);$jQ("#auth3").fadeIn("slow")});$jQ("#showauth4").click(function(){$jQ("#auth4").fadeOut(1);$jQ("#auth3").fadeOut(1);$jQ("#auth5").fadeIn("slow")});$jQ("#authcomment").click(function(){$jQ("#auth3").fadeOut(1);$jQ("#auth5").fadeIn("slow")});$jQ("#minimize_panel").click(function(){$jQ("#authpanel").hide("fast");$jQ("#maximaze_panel").fadeIn("fast");$jQ.cookie("authpanel","1",{path:"/"})});$jQ("#maximaze_panel").click(function(){$jQ("#maximaze_panel").fadeOut(1);$jQ("#authpanel").show("fast");$jQ.cookie("authpanel","2",{path:"/"})});$jQ("#maximaze_panel").mouseover(function(){$jQ("#tip_pu").fadeIn("slow")});$jQ("#maximaze_panel").mouseout(function(){$jQ("#tip_pu").fadeOut("slow")});$jQ("#hidemsgbox_mailer").click(function(){$jQ("#msgbox_mailer").fadeOut("slow")});$jQ("#msgbtn_mailer").click(function(){$jQ("#msgbox_mailer").fadeOut("slow");JsHttpRequest.query(confsite+"addmailer.php",{email:$jQ("#email_mailer").val()},function(a,b){$jQ("#email_mailer").val(authEmailVarA);if(a["resp"]=="emailpresent"){alert_(authErrEmailInSubscribePresent,authClose,authErrHead,function(){$jQ("#msgbox").fadeOut("slow");$jQ("#msgbox_mailer").fadeIn("slow")})}if(a["resp"]=="incorrectemail"){alert_(authErrEmailEmpty,authClose,authErrHead,function(){$jQ("#msgbox").fadeOut("slow");$jQ("#msgbox_mailer").fadeIn("slow")})}if(a["resp"]=="ok"){alert_(authMsgSubscribeConfirm1+a["email"]+authMsgSubscribeConfirm2,authClose,authMsgHead,function(){$jQ("#msgbox").fadeOut("slow")})}},true)});$jQ("#hidemsgbox_delprofile").click(function(){$jQ("#msgbox_delprofile").fadeOut("slow")});$jQ("#cansel_delprofile").click(function(){$jQ("#msgbox_delprofile").fadeOut("slow")});$jQ("#send_delprofile").click(function(){$jQ("#msgbox_delprofile").fadeOut("slow");send_delprofile()});$jQ("#cadr_cansel").click(function(){$jQ("#msgbox_cadr").css("visibility","hidden");$jQ("#ava_img_name").val($jQ("#old_ava_img_name").val())});$jQ("#hidemsgbox_cadr").click(function(){$jQ("#msgbox_cadr").css("visibility","hidden");$jQ("#ava_img_name").val($jQ("#old_ava_img_name").val())});$jQ("#msgcadrbtn_do").click(function(){$jQ("#msgbox_cadr").css("visibility","hidden");if(document.getElementById("formTTY").value=="ava"){JsHttpRequest.query(confsite+"cropava.php",{user_id:cuser_id,session_id:csession_id,ava_img_name:$jQ("#ava_img_name").val(),x:$jQ("#formX").val(),y:$jQ("#formY").val(),res:$jQ("#formWidth").val()},function(a,b){if(a["resp"]=="notauth"){alert_(authErrUnauth,authClose,authErrHead,function(){$jQ("#msgbox").fadeOut("slow")})}if(a["resp"]=="wrongauth"){alert_(authErrBrokenSession,authClose,authErrHead,function(){$jQ("#msgbox").fadeOut("slow")})}if(a["resp"]=="uploadfail1"){alert_(authErrResizeImage,authClose,authErrHead,function(){$jQ("#msgbox").fadeOut("slow")});document.getElementById("ava_img").style.display="block"}if(a["resp"]=="uploadfail2"){alert_(authErrResizeImage,authClose,authErrHead,function(){$jQ("#msgbox").fadeOut("slow")});document.getElementById("ava_img").style.display="block"}if(a["resp"]=="ok"){$jQ("#user_ava_img").attr("src",a["image"])}},true)}else{$jQ("#blog_img_pos_x").val($jQ("#formX").val());$jQ("#blog_img_pos_y").val($jQ("#formY").val());$jQ("#blog_img_res").val($jQ("#formWidth").val());$jQ("#mainphoto_img").attr("src","http://nbnews.com.ua/exec_img/cropblogimg.php?a="+$jQ("#blog_img_name").val()+"&x="+$jQ("#blog_img_pos_x").val()+"&y="+$jQ("#blog_img_pos_y").val()+"&res="+$jQ("#blog_img_res").val());document.getElementById("mainphoto_img").style.width="450px"}});$jQ("#hidemsgbox_messages").click(function(){$jQ("#msgbox_messages").fadeOut("slow")});$jQ("#messages_cansel").click(function(){$jQ("#msgbox_messages").fadeOut("slow")});$jQ("#hidemsgbox_changepass").click(function(){$jQ("#msgbox_changepass").fadeOut("slow")});$jQ("#changepass_cansel").click(function(){$jQ("#msgbox_changepass").fadeOut("slow")});$jQ("#changepass_save").click(function(){$jQ("#msgbox_changepass").fadeOut("slow");JsHttpRequest.query(confsite+"changepass.php",{session:csession_id,userid:cuser_id,old_pass:$jQ("#cngpsw_old").val(),new_pass1:$jQ("#cngpsw_new1").val(),new_pass2:$jQ("#cngpsw_new2").val()},function(a,b){if(a["resp"]=="lesssixsymbols"){alert_(authErrShortPassword,authClose,authErrHead,function(){$jQ("#msgbox").fadeOut("slow");$jQ("#msgbox_changepass").fadeIn("slow")})}if(a["resp"]=="oldpasswfail"){alert_(authErrOldPasswWrong,authClose,authErrHead,function(){$jQ("#msgbox").fadeOut("slow");$jQ("#msgbox_changepass").fadeIn("slow")})}if(a["resp"]=="newpasscomparefail"){alert_(authErrNewPasswNotEq,authClose,authErrHead,function(){$jQ("#msgbox").fadeOut("slow");$jQ("#msgbox_changepass").fadeIn("slow")})}if(a["resp"]=="notauth"){alert_(authErrUnauth,authClose,authErrHead,function(){$jQ("#msgbox").fadeOut("slow");$jQ("#msgbox_changepass").fadeIn("slow")})}if(a["resp"]=="baduser"){alert_(authErrSessFromOtherUser,authClose,authErrHead,function(){$jQ("#msgbox").fadeOut("slow");$jQ("#msgbox_changepass").fadeIn("slow")})}if(a["resp"]=="ok"){alert_(authMsgPasswSuccessChanged,authClose,authMsgHead,function(){$jQ("#msgbox").fadeOut("slow");$jQ("#cngpsw_old").val("");$jQ("#cngpsw_new1").val("");$jQ("#cngpsw_new2").val("")})}},true)});alertSize();var r=(_h_*1-393)/2;$jQ("#hidereg").click(function(){$jQ("#regform").fadeOut("slow")});$jQ("#regsend").click(function(){var a=document.regForm.email.value;if(a==""){alert_(authErrWrongEmail,authClose,authErrHead,function(){$jQ("#msgbox").fadeOut("slow")});return false}if(a.indexOf(".")==-1){alert_(authErrWrongEmail,authClose,authErrHead,function(){$jQ("#msgbox").fadeOut("slow")});return false}var b=a.indexOf("@");if(b==-1){alert_(authErrWrongEmail,authClose,authErrHead,function(){$jQ("#msgbox").fadeOut("slow")});return false}if(b<1||b>a.length-5){alert_(authErrWrongEmail,authClose,authErrHead,function(){$jQ("#msgbox").fadeOut("slow")});return false}if(a.charAt(b-1)=="."||a.charAt(b+1)=="."){alert_(authErrWrongEmail,authClose,authErrHead,function(){$jQ("#msgbox").fadeOut("slow")});return false}var c=document.regForm.passw1.value;var d=document.regForm.passw2.value;if(trim(c).length<6){alert_(authErrShortPassword,authClose,authErrHead,function(){$jQ("#msgbox").fadeOut("slow")});return false}if(c!=d){alert_(authErrNewPasswNotEq,authClose,authErrHead,function(){$jQ("#msgbox").fadeOut("slow")});return false}var c=document.regForm.lastname.value;var d=document.regForm.firstname.value;if(c.length<3){alert_(authErrLastnameWrong,authClose,authErrHead,function(){$jQ("#msgbox").fadeOut("slow")});return false}if(d.length<3){alert_(authErrFirstnameWrong,authClose,authErrHead,function(){$jQ("#msgbox").fadeOut("slow")});return false}var e=document.regForm.dd.value;var f=document.regForm.mm.value;var g=document.regForm.yyyy.value;var h=new Date(g,f,e);if(h.getMonth()!=f||h.getDate()!=e){alert_(authErrDateOfBirthWrong,authClose,authErrHead,function(){$jQ("#msgbox").fadeOut("slow")});return false}if(trim(document.regForm.pruf.value)==""){alert_(authErrEmptyPruf,authClose,authErrHead,function(){$jQ("#msgbox").fadeOut("slow")});return false}if(document.regForm.country.value==0){alert_(authErrEmptyCountry,authClose,authErrHead,function(){$jQ("#msgbox").fadeOut("slow")});return false}if(document.regForm.city.value==0&&document.regForm.ucity.value==0&&document.regForm.othergeo.value==authOtherGeoVal){alert_(authErrEmptyCity,authClose,authErrHead,function(){$jQ("#msgbox").fadeOut("slow")});return false}letsreg()});$jQ("#regcansel").click(function(){document.location.href="http://nbnews.com.ua/"});$jQ("#auth6_btn").click(function(){document.location.href="http://nbnews.com.ua/registration/"});$jQ("#showreg").click(function(){document.location.href="http://nbnews.com.ua/registration/"});$jQ("#showregNews").click(function(){document.location.href="http://nbnews.com.ua/registration/"});alertSize();var r=(_h_*1-170)/2;if(r>0){document.getElementById("msgbox").style.top=r+"px"}else{document.getElementById("msgbox").style.top="0px"}$jQ("#hidemsgbox").click(function(){$jQ("#msgbox").fadeOut("slow")});$jQ("#hidemsgbox_uauth").click(function(){$jQ("#msgbox_unreg").fadeOut("slow")});$jQ(document).ready(function(){$jQ("#SinoptikInformer").click(function(){ JsHttpRequest.query(confsite+'sinoptik.php',{},function(result, a) {},true);})}); <!--- hcd --->   function createNews(){$jQ("#msgbox_unreg_text_1").fadeIn(1);$jQ("#msgbox_unreg_text_2").fadeOut(1);$jQ("#msgbox_unreg").fadeIn(300)}function addfriend(a,b){$jQ("#msgbox_unreg_letsdosomething").val("frie");$jQ("#msgbox_unreg_text_2").fadeIn(1);$jQ("#msgbox_unreg_text_1").fadeOut(1);$jQ("#msgbox_unreg").fadeIn(300)}function bloggerMessage(a,b){$jQ("#msgbox_unreg_letsdosomething").val("mess");$jQ("#msgbox_unreg_text_2").fadeIn(1);$jQ("#msgbox_unreg_text_1").fadeOut(1);$jQ("#msgbox_unreg").fadeIn(300)}function iHaveToReadThis(a,b){$jQ("#msgbox_unreg_letsdosomething").val("read");$jQ("#msgbox_unreg_text_2").fadeIn(1);$jQ("#msgbox_unreg_text_1").fadeOut(1);$jQ("#msgbox_unreg").fadeIn(300)}function parseonline(a){notice_light_messages=a["messages_count"];notice_light_friends=a["friends_count"];last_name=a["usrname"];last_id=a["usrid"];last_type=a["lasttype"];last_mess_id=a["lastmessid"];if(old_all_notice_count!=notice_light_messages*1+notice_light_friends*1){old_all_notice_count=notice_light_messages*1+notice_light_friends*1;if(old_all_notice_count>0){$jQ("#notice_img").fadeIn(1)}if(old_all_notice_count>1){$jQ("#notice_light_container").html("");if(notice_light_friends!=0){$jQ("#notice_light_container").html('<div class="item" id="notice_light_friend">'+authFriendPending+'('+notice_light_friends+")</div>")}if(notice_light_messages!=0){$jQ("#notice_light_container").html($jQ("#notice_light_container").html()+'<div class="item" id="notice_light_messag">'+authMsgPending+'('+notice_light_messages+")</div>")}$jQ("#notice_light").animate({top:"-"+$jQ("#notice_light").height()-22+"px"},1);$jQ("#notice_light").fadeIn("slow");$jQ("div.notice_light div.notice_light_menu div.item").hover(function(){$jQ(this).addClass("hover")},function(){$jQ(this).removeClass("hover")});$jQ("#notice_light").oneTime("5s",function(){if(light_notice_flag==0){$jQ(this).fadeOut("slow")}})}else{if(old_all_notice_count==1){$jQ("#notice_full_container").html("");$jQ("#notice_full").animate({top:"-"+$jQ("#notice_full").height()-22+"px"},1);$jQ("#notice_full").fadeIn("slow");$jQ("#notice_full").oneTime("5s",function(){if(full_notice_flag==0){$jQ(this).fadeOut("slow")}})}else{$jQ("#notice_img").fadeOut(1)}}}} function loginAndUnsetSpy(){$jQ.cookie('uspy',1);document.location.href="";}; </p>

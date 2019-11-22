@@ -1,0 +1,280 @@
+<p> 北京西直门嘉茂中心突发大火 现已被扑灭_娱乐_新民网 </p>
+<p> document.domain = 'xinmin.cn'; </p>
+<p> var zf_title = '北京西直门嘉茂中心突发大火 现已被扑灭'; var docurl = document.URL; if(docurl.substring(0,8) == 'http://c' || docurl.substring(0,8) == 'http://2' || docurl.substring(0,4) == 'file'){ 	var zf_url = ''; }else{ 	var zf_url = docurl; } </p>
+<p> /*顶部广告通栏*/ .showImage1{ width:961px; height:89px; overflow:hidden;} /*顶部广告通栏*/  /*天气 登录*/ .weather_login{ width:961px; height:30px; overflow:hidden; background:#EFEFEF} .weather_login .login{ float:right; margin-top:0px; overflow:hidden; margin-right:8px; display:inline} .weather_login .login img{ vertical-align:middle} .weather_login .login a{ color:#000000} /*天气 登录*/  /*新民logo 广告*/ .logo_guanggao{ width:961px; height:79px; overflow: hidden} .logo_guanggao .recommendproduct{width:341px;  height: auto; overflow:hidden; float:left} .logo_guanggao .logo{ width:184px; height: 54px; overflow:hidden;float:left; margin-left:45px; margin-top:11px;} .logo_guanggao .showImage2{ width:310px; height: 65px; border:0px #e6e6e6 solid; overflow:hidden;float:left; margin-left:76px; margin-top:5px;} .logo_guanggao .recommendproduct .icon1{ width:60px; height:62px; overflow:hidden; background:url(http://image.xinmin.cn/template/www.xinmin.cn/201011/images/productIcon1.jpg) no-repeat 17px 0px; margin-top:14px; margin-left:13px; float:left; color:#5183b0; padding-top:41px; padding-left:2px; display:inline} .logo_guanggao .recommendproduct .icon2{ width:50px; height:62px; overflow:hidden; background:url(http://image.xinmin.cn/template/www.xinmin.cn/201011/images/productIcon2.jpg) no-repeat 16px 0px; margin-top:14px; margin-left:3px; float:left; color:#5183b0;padding-top:41px;} .logo_guanggao .recommendproduct .icon3{ width:51px; height:62px; overflow:hidden; background:url(http://image.xinmin.cn/template/www.xinmin.cn/201011/images/productIcon8.jpg) no-repeat 10px 0px; margin-top:14px; margin-left:5px; float:left; color:#5183b0;padding-top:41px; padding-left:1px;} .logo_guanggao .recommendproduct .icon4{ width:60px; height:62px; overflow:hidden; background:url(http://image.xinmin.cn/template/www.xinmin.cn/201011/images/wysht.jpg) no-repeat 16px 0px; margin-top:14px; margin-left:6px; float:left; color:#5183b0;padding-top:41px; padding-left:5px;} .logo_guanggao .recommendproduct .icon5{ width:65px; height:62px; overflow:hidden; background:url(http://image.xinmin.cn/template/www.xinmin.cn/201011/images/productIcon6.jpg) no-repeat 13px 0px; margin-top:14px; margin-left:-5px; float:left; color:#5183b0;padding-top:41px; padding-left:5px;}   .logo_guanggao .recommendproduct a{ cursor:pointer;} /*新民logo 广告*/  /*导航*/ .nav{ width:auto; height:50px; overflow:hidden; background:url(http://image.xinmin.cn/template/www.xinmin.cn/201011/images/nav_bg.jpg) repeat-x;} .nav_border{ width:2px; height:50px;; overflow:hidden; float:left; background:url(http://image.xinmin.cn/template/www.xinmin.cn/201011/images/nav_pic1.jpg) no-repeat center;} .nav1{ width:192px; height:50px; overflow:hidden; float:left; padding-left:11px; padding-right:11px; padding-top:5px; *padding-top:7px; line-height:18px; margin-left:5px;*margin-left:0px; position:relative; left:4px;} .nav2{ width:226px;*width:240px; height:50px; overflow:hidden; float:left; padding-left:11px; padding-right:11px; padding-top:5px; *padding-top:7px; line-height:18px; position:relative; left:-2px!important; left:-6px; } .nav3{ width:222px; height:50px; overflow:hidden; float:left; padding-left:11px; padding-right:0px; padding-top:5px; *padding-top:7px; line-height:18px; margin-left:5px;*margin-left:-7px; position:relative; left:-9px;} .nav4{width:200px; height:50px; overflow:hidden; float:left; padding-left:5px; padding-right:0px; padding-top:5px; *padding-top:7px; line-height:18px; margin-left:6px; position:relative; left:-4px;} #nav1 a,#nav2 a,#nav3 a,#nav4 a{ color:#fff;} #nav2 h3{ float:left; display: inherit; font-size:12px; color:#FFFFFF; font-weight:normal; margin-left:4px; cursor:pointer} #nav2 h3:hover{ text-decoration:underline} *+html #nav2 #bot{ margin-top:-8px;} *html #nav2 #bot{ margin-top:-25px;} #nav2 #bot{ margin-top:0px;} /*导航*/ </p>
+<p> .offcialwb{ float:left; position:relative; top:5px; left:15px} 		.offcialwb img{ width:20px; height:20px; vertical-align:middle; margin-left:5px; cursor:pointer} 		.offcialwb span{ color:#990000; font-weight:bold} </p>
+<p> 新民晚报新民网官方微博： </p>
+<p> document.write(weather) </p>
+<p> 登微博发爆料，最高奖500元 </p>
+<p> //判断登陆与否 				XMPS.loginCheck 				({ 				success:function(data) 				{ 					if(Cookie.read("XMPS_NICKNAME")!=null){ 						$('login').set('text',Cookie.read("XMPS_NICKNAME")+'，欢迎登录您的个人首页！'); 					} 					else if(Cookie.read("Ynr_Tuid")!=null){ 						$('login').set('text',Cookie.read("Ynr_Tuid")+'，欢迎登录您的个人首页！'); 					}else if(Cookie.read("Ynr_Temail")!=null){ 						$('login').set('text',Cookie.read("Ynr_Temail")+'，欢迎登录您的个人首页！'); 					}else if(Cookie.read("Ynr_Tphone")!=null){ 						$('login').set('text',Cookie.read("Ynr_Tphone")+'，欢迎登录您的个人首页！'); 					} 					else{ 						$('login').set('text',data.XMPS_USERNAME+'，欢迎登录您的个人首页！'); 					} 					$$('.dlzc').setStyle('display','none'); 				}, 				failure:function(error) 				{ 					$('login').set('text','登微博发爆料，最高奖500元'); 					$$('.dlzc').setStyle('display',''); 				} 				});		 					 				function login_no(){ 					if(Cookie.read("Ynr_Tuid")==null){ 						if(confirm("您还未登录上海滩，点击“确定”按钮，登录或注册")) 						{ 							window.open ('http://t.xinmin.cn/index.php?m=reg&a=mobile'); 						} 					}else{ 						window.open ('http://t.xinmin.cn/index.php?m=blog&uid='+Cookie.read("Ynr_Tuid")); 					} 				} 				 				window.addEvent('domready',function(){	 					if($('login').get('text')==Cookie.read("XMPS_NICKNAME")+'，欢迎登录您的个人首页！'){ 						$('sht').set('href','http://t.xinmin.cn/'); 					}else{ 						$('sht').set('href','http://t.xinmin.cn/index/index.html'); 					} 				}); 				 				function underlineshow(){ 					$('login').setStyle('background','url(http://image.xinmin.cn/template/www.xinmin.cn/201011/images/underline.jpg) repeat-x 0px 14px'); 				} 				 				function underlinenone(){ 					$('login').setStyle('background','none'); 				} </p>
+<p> 上海滩微博 </p>
+<p> 政务微博 </p>
+<p> 有奖爆料 </p>
+<p> 社区微博 </p>
+<p> 微游上海滩 </p>
+<p> .nav a{ float:left;margin-right:4px;white-space:nowrap;display:inline} #nav4 a{ float:left;margin-right:3px;white-space:nowrap;display:inline} </p>
+<p> 民生 </p>
+<p> 突发 </p>
+<p> 社区 </p>
+<p> 监督 </p>
+<p> 时政 </p>
+<p> 文化 </p>
+<p> 评论 </p>
+<p> 民调 </p>
+<p> 视频 </p>
+<p> 独家 </p>
+<p> 上海滩 </p>
+<p> 微言博议 </p>
+<p> 微评 </p>
+<p> 微访谈 </p>
+<p> 微辩论 </p>
+<p> 好心人 </p>
+<p> 专题 </p>
+<p> 国内 </p>
+<p> 国际 </p>
+<p> 财经 </p>
+<p> 科技 </p>
+<p> 互联网 </p>
+<p> 通信 </p>
+<p> 社会 </p>
+<p> 时尚 </p>
+<p> 娱乐 </p>
+<p> 体育 </p>
+<p> 太极拳 </p>
+<p> 滚动 </p>
+<p> 晚报数字报 </p>
+<p> 新民周刊 </p>
+<p> 大学生版 </p>
+<p> 美国版 </p>
+<p> 社区版 </p>
+<p> 家庭周刊 </p>
+<p> 新民地铁 </p>
+<p> 虹口报 </p>
+<p> 房产 </p>
+<p> 汽车 </p>
+<p> 健康 </p>
+<p> 彩票 </p>
+<p> 慈善 </p>
+<p> 手机新民网 </p>
+<p> 法院 </p>
+<p> 市民讲堂 </p>
+<p> 市民用电 </p>
+<p> 市民通信 </p>
+<p> 您现在的位置： </p>
+<p> 首页 </p>
+<p> > </p>
+<p> 娱乐 </p>
+<p> > 正文 </p>
+<p> 北京西直门嘉茂中心突发大火 现已被扑灭 </p>
+<p> 2011-12-15 20:06 </p>
+<p> 来源：新华社 </p>
+<p> 12月15日，消防车停在嘉茂中心外。新华社发（万象 摄） </p>
+<p> 12月15日，北京市西城区嘉茂购物中心施工现场发生火灾。截至记者发稿时，大火已被扑灭。 </p>
+<p> .perpage{ width:610px; height:40px; line-height:40px; border-bottom:1px #e5e5e5 solid; margin-left:24px} 				.perpage .listTitle{ float:left; background:url(http://image.xinmin.cn/template/www.xinmin.cn/201009/images/icon5.jpg) left 14px no-repeat; padding-left:15px} 				.pageBox{ float:right;  line-height:26px;} 				.pageBox .unselect{  border:1px #ccc solid; padding:3px 8px;height:20px; margin-left:2px; margin-right:2px;} 				.pageBox .selected{  border:1px #999 solid; background:#ddeefe;padding:3px 8px;height:20px; margin-left:2px; margin-right:2px} 				.pageBox .number{padding:3px 8px; _padding:4px 8px;} 				.pageBox a:link {color: #336799; text-decoration:none;} 				.pageBox a:visited {color: #336799;text-decoration:none;} 				.pageBox a:hover {color:#336799; text-decoration:underline} 				.pageBox a:active {color: #336799;} </p>
+<p> 1 </p>
+<p> 2 </p>
+<p> 3 </p>
+<p> 4 </p>
+<p> 5 </p>
+<p> 6 </p>
+<p> 下一页 </p>
+<p> 上海滩爆料平台 最高奖励500元>> </p>
+<p> 声明： </p>
+<p> • </p>
+<p> 凡注明为其他媒体来源的信息，均为转载自其他媒体，转载并不代表本网赞同其观点，也不代表本网对其真实性负责。您若对该稿件内容有任何疑问或质疑，请即与新民网联系，本网将迅速给您回应并做处理。 </p>
+<p> 电话：021-52921234转641133   021-52921234转 新民网  传真：021-62677454 </p>
+<p> 邮箱： </p>
+<p> 稿件处理 </p>
+<p> 处理时间：9:00—18:00 </p>
+<p> 上海滩微博 </p>
+<p> #爆料# </p>
+<p> 或短信爆料 </p>
+<p> 15900430043 </p>
+<p> 一经采用最高奖励 </p>
+<p> 500元 </p>
+<p> 新民网网友评论： </p>
+<p> 系统消息： </p>
+<p> 正在载入评论请稍候...... </p>
+<p> 请您对该文章评分： </p>
+<p> 1 </p>
+<p> 2 </p>
+<p> 3 </p>
+<p> 4 </p>
+<p> 5 </p>
+<p> / </p>
+<p> 0 </p>
+<p> 人已评 </p>
+<p> #follow_form{ overflow:hidden} 				#follow_form .hotfollow li p{  overflow:hidden} 				#follow_form .hotfollow li p a{  display:block; width:60px; word-wrap: break-word; word-break: normal;}						 				.contentLeft .hotfollow{ margin-left:5px} 				.contentLeft .hotfollow li{ float:left; padding-left:16px; padding-right:16px; text-align:center} 				.contentLeft .hotfollow li img{ border:1px #ccc solid; padding:4px} 				.contentLeft .hotfollow li p{ font-family: "宋体",arial; margin-top:3px} 				.contentLeft .button{ text-align:center; } </p>
+<p> 上海滩热门人物 </p>
+<p> document.write(hotfollow); </p>
+<p> 更多关于 </p>
+<p> 嘉茂 </p>
+<p> 西直门 </p>
+<p> 扑灭 </p>
+<p> 的新闻 </p>
+<p> “巧娘”手工艺品店开进北京西直门嘉茂购物中心 </p>
+<p> 嘉茂购物中心人气偶像汪东城签名售书 </p>
+<p> 西直门金贸中心热销 </p>
+<p> 嘉茂购物中心望京店潮流风范理想新装 </p>
+<p> 来嘉茂 酷玩世界杯 </p>
+<p> 西直门站地下换乘道年内完工 </p>
+<p> 乘客爆满 西直门地铁封站 </p>
+<p> function fenxiang(){ 							window.open('http://t.xinmin.cn/index.php?m=home&t=%E5%8C%97%E4%BA%AC%E8%A5%BF%E7%9B%B4%E9%97%A8%E5%98%89%E8%8C%82%E4%B8%AD%E5%BF%83%E7%AA%81%E5%8F%91%E5%A4%A7%E7%81%AB+%E7%8E%B0%E5%B7%B2%E8%A2%AB%E6%89%91%E7%81%AD'+zf_url+' '); 						} </p>
+<p> 留言 </p>
+<p> 打印 </p>
+<p> 收藏此页 </p>
+<p> 保存 </p>
+<p> 关闭 </p>
+<p> 2012款MINI跨界车性能版 日内瓦车展发布 </p>
+<p> 2012款雨燕运动版发布 配置高/售13万元 </p>
+<p> 50万开启高端体验 四款热门豪华SUV推荐 </p>
+<p> 日产骐达最高降价1万元 最低售价9.53万 </p>
+<p> 微言博议 </p>
+<p> 更多>> </p>
+<p> 政府发起"微博卖菜",你会响应吗？ </p>
+<p> 微访谈 </p>
+<p> 更多>> </p>
+<p> PM2.5来了？关注空气污染 专家在线问答 </p>
+<p> 微辩论 </p>
+<p> 更多>> </p>
+<p> 静安别墅商户被整治，你支持还是反对？ </p>
+<p> 上海滩推荐 </p>
+<p> 更多>> </p>
+<p> document.write(recommend); </p>
+<p> 新民民调 </p>
+<p> 更多>> </p>
+<p> .xmmd .qusl{width:200px;} </p>
+<p> load_md('1','2007','http://shanghai.xinmin.cn/xmmd/2011/12/15/12986075.html','http://t.xinmin.cn/index.php?m=blog&uid=237553l'); </p>
+<p> 微评论 </p>
+<p> 更多>> </p>
+<p> 做客新民网 </p>
+<p> 更多>> </p>
+<p> 【申通副总裁做客新民网  解读近期地铁故障】申城地铁与市民的出行 </p>
+<p> ...... </p>
+<p> [详情] </p>
+<p> 【SOHO中国潘石屹做客新民网  未来布局不离开北京、上海】楼市所谓“拐点”是否 </p>
+<p> ...... </p>
+<p> [详情] </p>
+<p> 【追梦人·新上海人：歌手大赛背后的人生故事】第六届“新上海人歌手 </p>
+<p> ...... </p>
+<p> [详情] </p>
+<p> 上海商界 </p>
+<p> 更多>> </p>
+<p> document.write(business); </p>
+<p> 上海传媒 </p>
+<p> 更多>> </p>
+<p> document.write(media_people); </p>
+<p> 爆料平台 </p>
+<p> 单条爆料最高可得 </p>
+<p> ￥500元 </p>
+<p> 奖金>> </p>
+<p> function loadiframes(){ 							window.addEvent('domready', function() { 								this.height=document.getElementById('iFrame1').contentWindow.document.documentElement.scrollHeight; 							}); 						} </p>
+<p> 社区自治 </p>
+<p> 更多>> </p>
+<p> 第一社区 </p>
+<p> 圈主： </p>
+<p> 第一社区官方微博 </p>
+<p> 简介：第一社区微圈 </p>
+<p> 七彩两湾 </p>
+<p> 圈主： </p>
+<p> 七彩两湾工作室 </p>
+<p> 简介：中远两湾城网上家园 </p>
+<p> 小巷事务 </p>
+<p> 圈主： </p>
+<p> 心想事琛 </p>
+<p> 简介：关注身边事，关注你我他 </p>
+<p> 有趣的人 </p>
+<p> 告别单身>> </p>
+<p> document.write(fun); </p>
+<p> 企业资讯 </p>
+<p> 更多>> </p>
+<p> 热点：远大微创治疗心脏病 </p>
+<p> 上海阿波罗男子医院元旦期间专家照常接诊 </p>
+<p> 苏宁将升级五角场Expo超级旗舰 </p>
+<p> 2011第三届胸腔镜国际学术研讨会圆满落幕 </p>
+<p> 为方案创价值，助推设计师成功 </p>
+<p> 玫琳凯中国荣登“2011最佳100家人力资源典范企业”榜单 </p>
+<p> .footer h3{ font-size:12px; font-weight:normal; float:left; cursor:pointer} .bottom_h3{ margin-left:3px;} .bottom_h3_s{ margin-left:3px; margin-top:0px; *margin-top:-2px;} </p>
+<p> 文汇新民联合报业集团 </p>
+<p> 新民报系成员： </p>
+<p> 新民晚报 </p>
+<p> | </p>
+<p> 新民网 </p>
+<p> | </p>
+<p> 新民周刊 </p>
+<p> | </p>
+<p> 新民晚报社区版 </p>
+<p> | </p>
+<p> 新民晚报海外版 </p>
+<p> | </p>
+<p> 新民晚报大学生版 </p>
+<p> | </p>
+<p> 新民Bella </p>
+<p> | </p>
+<p> 新民地铁 </p>
+<p> | </p>
+<p> 美国版 </p>
+<p> 新民头条 </p>
+<p> | </p>
+<p> 上海民生 </p>
+<p> | </p>
+<p> 上海突发 </p>
+<p> | </p>
+<p> 上海时政 </p>
+<p> | </p>
+<p> 上海财经 </p>
+<p> | </p>
+<p> 文化新闻 </p>
+<p> | </p>
+<p> 新民评论 </p>
+<p> | </p>
+<p> 新民民调 </p>
+<p> | </p>
+<p> 秒乐吧 </p>
+<p> 关于新民网 </p>
+<p> | </p>
+<p> 联系方式 </p>
+<p> | </p>
+<p> 工作机会 </p>
+<p> | </p>
+<p> 知识产权声明 </p>
+<p> | </p>
+<p> 网站地图 </p>
+<p> | </p>
+<p> 友情链接 </p>
+<p> | </p>
+<p> 新民网广告刊例 </p>
+<p> 战略合作伙伴： </p>
+<p> 北大方正 </p>
+<p> | </p>
+<p> 上海市慈善基金会 </p>
+<p> | </p>
+<p> 上海音乐厅 </p>
+<p> | </p>
+<p> 中卫普信 </p>
+<p> | </p>
+<p> 东方讲坛 </p>
+<p> 新民晚报官方网站  xinmin.cn ©2010  All rights reserved. </p>
+<p> 增值电信业经营许可证（ICP）：沪B2-20110022号 </p>
+<p> 互联网新闻信息服务许可证:3112009001 </p>
+<p> var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://"); document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F8ab7263c9280868f0c3ef17366bf585a' type='text/javascript'%3E%3C/script%3E")); </p>
+<p> 您还未登录 </p>
+<p> 用户名： </p>
+<p> 密    码： </p>
+<p> 下次自动登录 </p>
+<p> 找回密码 </p>
+<p> 没有账号？ </p>
+<p> 立即注册 </p>
+<p> 新民网友： </p>
+<p> function keyWord_check2(op) 	{ 		var str = $("login_username").value; 		if(op == "on") 		{ 			if(str == "" || str =="用户名/手机号/邮箱") 			{ 				$("login_username").value = ""; 				$("login_username").style.color='#000000' 			} 		} 		if(op == "no") 		{ 			if(str == "" || str =="用户名/手机号/邮箱") 			{ 				$("login_username").style.color='#999999' 				$("login_username").value = "用户名/手机号/邮箱"; 			} 		} 	} 	 	function formSubmit(){ 		XMPS.login 		({ 			username : $('login_username').get('input'), password : $('password').get('input'), expireTime:$('expireTime').get('input'), 			hint:true, 			success:function(right){ 				location.reload(); 			}, 	 			failure : function(error) 			{ 				switch(error) 				{ 					case 'timeout': 						alert('登录失败:登录超时请重新登录。'); 					break; 	 					default: 						alert('登录失败:请确认账号密码是否填写正确。'); 				} 			} 		}); 		return false 	} </p>
+<p> .clearfix:after{ content:".";display:block; height:0; clear:both; visibility:hidden; }  .clearfix{ display:inline-block; }  .clearfix{display:block;} </p>
+<p> 评论成功 </p>
+<p> 评论成功，谢谢参与！ </p>
+<p> 点“看微博”查看您的 </p>
+<p> 上海滩微博 </p>
+<p> window.addEvent('domready',function(){ 		loadCommont2('0'); 	 	$each(($$('ins')),function(o,k){ 		o.setStyle('position',''); 	}); 	$each(($$('iframe')),function(o,k){ 		o.setStyle('position',''); 	}); 	showCount(); }); function showCount() { 	var phprpc = new PHPRPC_Client('http://comment.xinmin.cn/index.php?app=common&controller=Content.Count.Service&action=phprpc', ['count']); 	phprpc['count'] 	( 		'12987294', 		function(text) 		{ 		} 	) } function loadCommont(indexId,indexUrl) { 	var phprpc = new PHPRPC_Client('http://comment.xinmin.cn/index.php?app=common&controller=Comment.Service', ['listAction','countAction']); 	phprpc['listAction'] 	( 		'comment', '12987294', 10, 1, 		function(text) 		{	 			$('commentCountB').innerHTML  = text.page.totalCount; 			var html = iname = ''; 			try 			{ 				for(var i = 0; i < text.record.length; i++) 				{ 					if(text.record[i].nickname) 					{ 						iname = '<a href="http://t.xinmin.cn/jump.php?var='+text.record[i].username+'&type=username" target="_blank">'+text.record[i].nickname+'</a>'; 					} 					else 					{ 						if(text.record[i].username) 						{ 							iname = '<a href="http://t.xinmin.cn/jump.php?var='+text.record[i].username+'&type=username" target="_blank">'+text.record[i].username+'</a>'; 						} 						else 						{ 							var ip = text.record[i].ip; 							ip = ip.replace(/[\d\s]+$/,"*"); 							iname = 'IP：'+ ip; 						} 					} 					if(text.record[i].area != "") 					{ 						area = '新民网'+ text.record[i].area +'网友'; 					}else{ 						area = '新民网网友';							 					} 					html += '<p><font style="color:#c20001">'+ area +'</font>&nbsp;[&nbsp;'+iname+'&nbsp;]</p>'; 					html += '<p>'+ text.record[i].content +'&nbsp;&nbsp;[&nbsp;'+ text.record[i].create_datetime +'&nbsp;]</p>'; 					if(i != text.record.length-1) 					{ 						html += '<p class="dian2"><img src="http://image.xinmin.cn/template/www.xinmin.cn/200907/images/dian.jpg"></p>';	 					} 				} 				$('commentLi').innerHTML = html; 				$('dian').style.display = ""; 				$('comment').style.display = ""; 			} 			catch (e) 			{ 			} 		} 	) } function viewComment(id,title,to) {	//&tpl=xinmin201009 	var url = 'http://comment.xinmin.cn/index.php?app=common&controller=Comment.List&indexId='+id+'&title='+encodeURI(title)+'&url='+ encodeURIComponent(to); 	window.open(url); } //选择评分 function rateHover(value) { 	$('xspace-rates-star').className = 'xspace-rates'+value; } function rateOut() { 	$('xspace-rates-star').className = 'xspace-rates1'; } //显示评分 function loadCommont2(scored) { 	var phprpc = new PHPRPC_Client('http://comment.xinmin.cn/index.php?app=common&controller=Content.Score.Service', ['scoreAction','viewAction']); 	phprpc['viewAction']('12987294', function(text){ 		$('commentLi3').innerHTML  = text.scoreCount; 		//已经投票 		if(scored == 0) 		{ 			$('commentLi2').innerHTML  = '当前平均分:<font color="red">&nbsp;<b>'+ Math.round(text.averageScore*10)/10 +'</b>&nbsp;</font>分'; 		}else{ 			$('commentLi2').innerHTML  = '&nbsp;&nbsp;当前平均分:<font color="red">&nbsp;<b>'+ Math.round(text.averageScore*10)/10 +'</b>&nbsp;</font>分'; 			$('commentLi2_2').innerHTML = '<font color="red">感谢您的评价!</font>' 		} 	}); } //提交评分 function score(score,indexId) { 	var phprpc = new PHPRPC_Client('http://comment.xinmin.cn/index.php?app=common&controller=Content.Score.Service', ['scoreAction','viewAction']); 	phprpc['scoreAction'](score, indexId, function(){ 		$('xspace-rates-a').style.display = "none";//不能再次评选 		$('xspace-rates-star').className = 'xspace-rates'+score;//显示用户的评选 		loadCommont2('1');//重载评选结果 	}); }  /* 改变字体大小 */  function doZoom(size)  {  	var des=document.all?document.all['des']:document.getElementById('des'); 	var title=document.all?document.all['title']:document.getElementById('title'); 	var about=document.all?document.all['about']:document.getElementById('about'); 	var article_info=document.all?document.all['article_info']:document.getElementById('article_info'); 	if(size == 1){ 		if(des) 		{ 			des.style.fontSize='18px'; 		} 		about.style.fontSize='14px'; 		title.style.fontSize='24px'; 		article_info.style.fontSize='16px'; 	}else if(size == 2){ 		if(des) 		{ 			des.style.fontSize='14px'; 		} 		about.style.fontSize='12px'; 		title.style.fontSize='22px'; 		article_info.style.fontSize='14px';		 	}else{ 		if(des) 		{ 			des.style.fontSize='12px'; 		} 		about.style.fontSize='10px'; 		title.style.fontSize='18px'; 		article_info.style.fontSize='12px'; 	} } </p>
+<p> function LoadFullViewJsCallBack(){   if(typeof forSFullView == "object" && forSFullView.FullView){     forSFullView.FullView();   } } function LoadFullViewJs(){   var jsFile = "http://image.xinmin.cn/template/www.xinmin.cn/200912/js/content.js";  //全文浏览主js文件url   jsFile += "?t="+ (new Date()).getTime();   var js = document.createElement("script");   js.setAttribute("src",jsFile);    js.setAttribute("type","text\/javascript");   js.setAttribute( "id", "sinaFullViewJsUrl");   //for ie   js.onreadystatechange = function(){   if(js.readyState=="loaded"){      LoadFullViewJsCallBack();   } }; //for ff js.onload = LoadFullViewJsCallBack;   document.body.insertBefore(js,null); // null for ff } </p>
+<p> //复制此贴 document.getElementById("url").value = '北京西直门嘉茂中心突发大火 现已被扑灭_新民网'+document.URL; function copyCode(v) {	  	if(navigator.userAgent.indexOf("MSIE")>0){  		document.getElementById(v).select(); 		var js=document.getElementById(v).createTextRange(); 		js.execCommand("Copy"); 		alert("接Ctrl+V,粘贴到MSN/QQ上发给您的好友们吧!"); 	}else{ 		alert("对不起，您的浏览器不支持此功能，请换浏览器！") 	} } </p>
+<p> function checkLogin() { 	/*----------------------------------------------------登录判断--------------------------------------------------*/ 	XMPS.loginCheck 	({ 		success:function(data) 		{ 			var fbpl_t = $('fbpl').getPosition().y; 			var fbpl_l = $('fbpl').getPosition().x; 			 			var uid  = Cookie.read('Ynr_Tuid'); 			var u_name = Cookie.read('XMPS_USERNAME'); 			var nickname = Cookie.read("XMPS_NICKNAME"); 			 			if((uid==null) || (u_name==null)){ 				alert('您尚未登录，请先登录'); 				$('login_no').setStyles({ 					position: 'absolute', 					left: fbpl_l, 					top: fbpl_t, 					display: 'block' 				}); 			}else{ 				if(($('content').value == '新民网提示您：有话不说，憋着难受！') || ($('content').value == '')) 				{ 					alert('请填写评论'); 					$('content').focus(); 					return false; 				}else{ 					if($('limittxt').getStyle('color') == 'red'){ 						alert('请勿超过140字'); 						return false; 					}else{ 						 						if((navigator.userAgent.indexOf("MSIE")>0) || (isFirefox=navigator.userAgent.indexOf("Firefox")>0)){ 							/* 							var parmabc = { 								'index_id' : '12987294', 								'index_title' : '北京西直门嘉茂中心突发大火 现已被扑灭', 								'index_url' : document.URL, 								'username' : Cookie.read("XMPS_USERNAME"), 								'nickname' : Cookie.read("XMPS_NICKNAME"), 								'content' : $('content').innerHTML 							} 							*/ 							//alert(parmabc.index_id +'<br/>'+parmabc.index_title +'<br/>'+parmabc.index_url +'<br/>'+parmabc.nickname +'<br/>'+parmabc.username +'<br/>'+'<br/>'+parmabc.content +'<br/>' ); 							if(navigator.userAgent.indexOf("MSIE")>0){ 								var rpc = new PHPRPC_Client('http://comment.xinmin.cn/index.php?app=common&controller=Comment', ['addCommentForRpcAction']); 								rpc.addCommentForRpcAction('12987294','北京西直门嘉茂中心突发大火 现已被扑灭',document.URL,Cookie.read("XMPS_USERNAME"),Cookie.read("XMPS_NICKNAME"),$('content').innerHTML,function (result) { 									//alert('ok') 								}) 							}else{ 								var rpc = new PHPRPC_Client('http://comment.xinmin.cn/index.php?app=common&controller=Comment', ['addCommentForRpcAction']); 								rpc.addCommentForRpcAction('12987294','北京西直门嘉茂中心突发大火 现已被扑灭',document.URL,Cookie.read("XMPS_USERNAME"),Cookie.read("XMPS_NICKNAME"),$('content').get('value'),function (result) { 									//alert('ok') 								}) 							} 							$('pl_close').addEvent('click', function(){ 								$('pl_success').setStyle('display','none'); 								//$('postCommentForm').submit(); 								window.location.reload(); 							}); 							$('pl_close2').addEvent('click', function(){ 								$('pl_success').setStyle('display','none'); 								//$('postCommentForm').submit(); 								viewComment(12987294,"北京西直门嘉茂中心突发大火 现已被扑灭", document.URL); 								window.location.reload(); 							}); 						}else{ 							$('postCommentForm').submit(); 							$('pl_close').addEvent('click', function(){ 								$('pl_success').setStyle('display','none'); 								window.location.reload(); 							}); 							$('pl_close2').addEvent('click', function(){ 								$('pl_success').setStyle('display','none'); 								window.location.reload(); 							}); 						} 						 						/* 						if(isFirefox=navigator.userAgent.indexOf("Firefox")>0){  							var content = $('content').get('value') + ' / 【原文】：' + zf_title + zf_url + ' ' + ''; 						} 						*/ 						if(navigator.userAgent.indexOf("MSIE")>0){ 							var content = $('content').innerHTML + ' / 【原文】：' + zf_title + zf_url + ' ' + ''; 						}else{ 							var content = $('content').get('value') + ' / 【原文】：' + zf_title + zf_url + ' ' + ''; 						} 						 						//同步勾选 						if($('withwb').checked){ 							var rpc = new PHPRPC_Client('http://t.xinmin.cn/api/PKService.php?action=phprpc&random='+Math.random(), ['postBlog']); 							rpc.postBlog({'content':content,'uid':uid,'nickname':nickname},function (result) { 								 								if(result != 'blog_post_success'){ 									alert('您的评论过长，将无法发到上海滩微博，请适当缩减'); 									return false 								}else{											 									$('pl_success').setStyles({ 										position: 'absolute', 										left: fbpl_l, 										top: fbpl_t, 										display: 'block' 									}); 								} 								 							}); 						}else{ 							$('pl_success').setStyles({ 								position: 'absolute', 								left: fbpl_l, 								top: fbpl_t, 								display: 'block' 							}); 						} 						 					} 				} 			} 		}, 		failure:function(error) 		{ 			var fbpl_t = $('fbpl').getPosition().y; 			var fbpl_l = $('fbpl').getPosition().x; 			alert('您尚未登录，请先登录'); 			$('login_no').setStyles({ 				position: 'absolute', 				left: fbpl_l, 				top: fbpl_t, 				display: 'block' 			}); 		} 	});	 	 	/*----------------------------------------------------登录判断--------------------------------------------------*/ }   //评分 function input_hint(obj,str,n)  { 	if (n == 0 && obj.value == str) 	{ 		 		obj.value="";$("content").style.color='#000000'; 	} 	if (n == 1) 	{ 		if(obj.value == str) 		{ 			obj.value="";$("content").style.color='#000000'; 		} 	} 	if (n == 2 && obj.value == "") 	{ 		obj.value = str;$("content").style.color='#9A9A9A'; 	} 	else 	{ 		$("content").style.color='black'; 	} } function textCounter(field, countfield, maxlimit) { 	if (field.value.length > maxlimit){ 		$('limittxt').setStyle('color','red'); 		$('limittxt').setStyle('font-weight','bold'); 		field.value = field.value.substring(0, maxlimit); 		} 	else{ 		$('limittxt').setStyle('color','black'); 		$('limittxt').setStyle('font-weight','normal'); 		countfield.value = maxlimit - field.value.length; 		} } </p>
+<p> function baidu_hare(title,content){ 	var type = 'text'; 	var link = document.URL;//页面url  	var itieba_share = 'http://tieba.baidu.com/i/sys/share?link=' + encodeURIComponent(link) 	+'&type=' + encodeURIComponent(type) 	+'&title=' + encodeURIComponent(title) 	+'&content=' + encodeURIComponent(content); 	if (!window.open(itieba_share, 'itieba', 'toolbar=0,resizable=1,scrollbars=yes,status=1,width=626,height=436'))  	{ 		location.href = itieba_share; 	} } </p>
+<p> document.getElementById("tonglan").innerHTML=document.getElementById("guangao").innerHTML; </p>

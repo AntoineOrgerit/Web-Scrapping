@@ -1,0 +1,99 @@
+<p> $(function(){ 		$(".img_over").hover(function(){ 			var src=$(this).attr("src"),n=src.lastIndexOf("."); 			var s1=src.substring(src,n), s2=src.replace(s1,""); 			$(this).attr("src", s1+"_over"+s2); 									 }, function(){ 			var src=$(this).attr("src"); 			$(this).attr("src", src.replace("_over","")); 										 }); 	}) function AddFavority(url, title)     {        if (document.all)           window.external.AddFavorite(url, title);       else if (window.sidebar)           window.sidebar.addPanel(title, url, "")     } function MM_openBrWindow(theURL,winName,features) { //v2.0   window.open(theURL,winName,features); }; //function main_accept_result(){ //	alert(window.parent.document.getElementById("result_vs")) //}; function foc(obj,str){ 	if(obj.value==str){   	obj.value=""; 	}; };  function blu(obj,str){ 	if(obj.value==""){ 		obj.value=str;   }; }; </p>
+<p> $(function(){ 	$(".expect").click(function(){alert("即將推出，敬請期待！！")}); }); function replace_kw(){ 	var tmp_html = $("body").html(); 	tmp_html = tmp_html.replace(/療效/g," "); 	tmp_html = tmp_html.replace(/好康/g," "); 	tmp_html = tmp_html.replace(/優惠/g," "); 	tmp_html = tmp_html.replace(/保證/g," "); 	$("body").html(tmp_html); }; function doctorqa_check(){ 	var result = confirm('本功能需要登入會員，按「確定」切換至會員登錄/註冊會員\n或按「取消」停留至目前頁面。'); 	if(result){ 		location.href = 'member_index.asp?reurl=/news_view.asp'; 	}; }; </p>
+<p> $(function(){ 	var e = document.createElement('script'); 	e.type = 'text/javascript'; 	e.src = 'http://www.chinatimes.com/analytics/udr.js'; 	e.async = true; 	$("body").append(e); }); </p>
+<p> 年節零食聰明吃 健康無負擔 - 中時醫療網 </p>
+<p> <!-- body { 	margin-left: 0px; 	margin-top: 0px; 	margin-right: 0px; 	margin-bottom: 0px; 	background:url(images/index/bg.png); } --> </p>
+<p> 會員專區 </p>
+<p> JOIN NOW! </p>
+<p> │ </p>
+<p> 設為首頁 </p>
+<p> │ </p>
+<p> 長期徵稿 </p>
+<p> │ </p>
+<p> 診所刊登 </p>
+<p> │ </p>
+<p> 網站設計 </p>
+<p> │ </p>
+<p> 回到首頁 </p>
+<p> │ </p>
+<p> 電子報 </p>
+<p> │ </p>
+<p> function searchF(i){ 	var gname = $("#gname").val(); 	if(gname!=""){ 		//$("#kw").val(gname); 		switch(i){ 			case 1: 				//$("#form_search").attr("action","question_search_"+gname+".html"); 				location.href = "news_search_1_"+gname+".html" 				break; 			case 2: 				//$("#form_search").attr("action","knowledge_search_"+gname+".html"); 				location.href = "knowledge_search_1_"+gname+".html" 				break; 			case 3: 				//$("#form_search").attr("action","doctor_list_1_1_"+gname+".html"); 				location.href = "doctor_search_"+gname+".html" 				break; 			case 4: 				//$("#form_search").attr("action","hospital_list_1_1_"+gname+".html"); 				location.href = "hospital_search_"+gname+".html" 				break; 		}; //		$("#form_search").submit(); 	}else{ 		alert("請輸入搜尋條件"); 	}; 	//return false; }; </p>
+<p> 找新聞 </p>
+<p> 找新知 </p>
+<p> 找醫師 </p>
+<p> 找診所 </p>
+<p> 新聞廣場 </p>
+<p> 醫學新知 </p>
+<p> 醫師問與答 </p>
+<p> 醫師查詢 </p>
+<p> 診所查詢 </p>
+<p> 藥品查詢 </p>
+<p> 影音專區 </p>
+<p> 達人專區 </p>
+<p> $(function(){ 		$("#s32").cycle({timeout:3000,pager:'#s32_pager'}); 		$("#s32").hover(function(){$('#s32').cycle('pause');}, function(){$('#s32').cycle('resume');}); 			   }) </p>
+<p> 玻尿酸 </p>
+<p> 近視雷射 </p>
+<p> 人工植牙 </p>
+<p> 矯正 </p>
+<p> 肉毒桿菌 </p>
+<p> $(function(){ 	$("#question_post_submit").click(function(){ 		$.post("aJax/question_action.asp",{"index":"1","id":"1405","cont":$("#question_post_cont").val()},function(data){ 			if(data == "0"){ 				//更新列表 				$("#question_post_form").hide("slow"); 				$("#question_post_cont").val(""); 				question_post_list(1); 			}; 		}); 	}); 	question_post_list(1); });  function question_post_new(){ 	 	alert("請先登入會員，方可進行回應！"); 	 }; function question_post_list(i){ 	var sourceHtml = "" , tempHtml = "" , xHtml = "" , page = 1 ; 	sourceHtml += '<div class="news2_view_response_area">'; 	sourceHtml += '	<div class="news2_view_response_bg"><!--content--></div>'; 	sourceHtml += '	<div class="news2_view_response_title">留言：</div>'; 	sourceHtml += '	<div class="news2_view_response_content"><!--account-->│<!--post_time--></div>'; 	sourceHtml += '</div>'; 	$.getJSON("aJax/question_action.asp",{"index":"2","id":"1405","p":i},function(data){ 		if (data.rsc > 0){ 			$("#question_post_count").html(data.rsc+" 篇回響"); 			if(data.total_page > data.page){ 				page = i + 1; 				$("#questoin_post_page").html('<a href="javascript:question_post_list('+page+');">下一頁</a>'); 			}else{ 				$("#questoin_post_page").html('&nbsp;'); 			}; 			$.each(data.item_list, function(ii,items){ 				tempHtml = sourceHtml ; 				tempHtml = tempHtml.replace(/<!--content-->/g,items.content) ; 				tempHtml = tempHtml.replace(/<!--account-->/g,items.account) ; 				tempHtml = tempHtml.replace(/<!--post_time-->/g,items.post_time) ; 				xHtml += tempHtml ; 			}); 			if(i == 1){ 				$("#question_post_list").html(xHtml); 			}else{ 				$("#question_post_list:last").append(xHtml); 			}; 		}; 	}); }; </p>
+<p> #question_post_form{ 	display:none; } </p>
+<p> 年節零食聰明吃 健康無負擔 </p>
+<p> 2012-01-17  中國時報  邱俐穎／台北報導 </p>
+<p> 春節假期除了圍爐團聚，糖果餅乾更是少不了的應景年節點心，聊天時一口接一口，無形間許多熱量也跟著吃下肚。營養師提醒，5到6顆的花生糖、牛軋糖，熱量就高達300至400大卡，等於一位60公斤、輕度活動量女性一天所需熱量的1/5。要健康過年、肚子不跟著肥一圈，零食餅乾還是淺嘗即止就好。 </p>
+<p> ■堅果熱量高 一天限一份 </p>
+<p> 洋芋片、瓜子、花生、牛軋糖、魷魚絲…琳瑯滿目的春節零食熱量比一比，夏威夷火山豆、核桃等堅果類熱量堪稱第一，但台北市立聯合醫院營養部主任金惠民表示，雖然堅果類熱量高，但營養密度也高，吃堅果要秉持一天不超過一份的原則，否則一口一口吃下肚，再怎麼營養、健康的食物也會讓體重增加。 </p>
+<p> 金惠民說，堅果富含蛋白質、膳食纖維及鋅、鈣、維生素E等礦物質，其中的油脂更是對健康較好的脂肪酸所組成，去年發表的新版《國民飲食指南》，也建議民眾吃堅果來取代精緻油的攝取，但一天的堅果食用量仍以一份為限。 </p>
+<p> 金惠民舉例，夏威夷火山豆4顆、杏仁果8顆、開心果15顆就相當於一茶匙的油脂量，過年吃堅果若不希望體重增加，別忘要適時減少烹調用油，並增加運動量。 </p>
+<p> ■3顆花生糖 得走路70分鐘 </p>
+<p> 另外，春節零食熱量高，牛軋糖、花生糖、牛肉乾等也都屬於肥滋滋的零食。以花生糖為例，3顆熱量就高達218大卡，等於一位60公斤成人，以每小時4公里時速走路，要走70分鐘才能消耗掉！ </p>
+<p> 金惠民說，超過30歲的成年人，除非有運動習慣，否則很少能用運動來消耗吃下的零食熱量。她認為，過年期間要享受美食、不要胖，吃糖果餅乾的重點仍在控制食用總量，民眾不妨以乾燥蔬果乾、低糖果凍、蒟蒻乾等低熱量零食作替代，新鮮水果、紅豆湯、綠豆湯更是健康點心的聰明首選。 </p>
+<p> 相關網頁→ </p>
+<p> 春節 </p>
+<p> 圍爐 </p>
+<p> 點心 </p>
+<p> 熱量 </p>
+<p> 營養師 </p>
+<p> 0 篇回響 </p>
+<p> 回上列表 </p>
+<p> 打通血路－銀杏葉萃取物療效佳 </p>
+<p> 2012-01-17中國時報李盛雯／台北... </p>
+<p> $(function(){ 		$("#s34").cycle({timeout:3000,pager:'#s34_pager'}); 		$("#s34").hover(function(){$('#s34').cycle('pause');}, function(){$('#s34').cycle('resume');}); 			   }) </p>
+<p> #s34_pager{ position:absolute; right:10px; bottom:10px; z-index:99;} 	#s34_pager a{ display:block; width:20px; height:19px; text-align:center; color:#AAAAAA; text-decoration:none; line-height:19px; margin-left: 5px; float:left; font-size:13px; background-color:#333333;} 	#s34_pager a.activeSlide, #s34_pager a:hover{ background-color:#FF6B08; color:#FFF;} </p>
+<p> 男性健康－血精又血尿男子性福亮紅燈 </p>
+<p> 雷射頻繁打小心反黑前功盡棄 </p>
+<p> 3A級超音波乳化術同時解決白內障與老花眼 </p>
+<p> 台大：裝葉克膜22%仍陷腦死 </p>
+<p> 積極治療心房顫動降低中風機率 </p>
+<p> 國際藥聞－治療黑色素瘤2新藥提升存活率 </p>
+<p> 熟男2大警訊性慾減退、勃起不硬 </p>
+<p> 電動心臟裝背包他帶著趴趴走 </p>
+<p> 健康減重－找對方法善用食材兒童快樂減重 </p>
+<p> 女人不愛「小」弟弟？才怪！ </p>
+<p> 名人，在做什麼？ </p>
+<p> 她有沒有割雙眼皮？他有沒有打玻尿酸？名人都在做什麼？？ </p>
+<p> 那些年的女孩都做了什麼？ </p>
+<p> 同學會見面的老朋友還是跟那些年一樣年輕，他們到底做了什麼？ </p>
+<p> 弱勢搬家扶助合作－祝您放心搬好家 </p>
+<p> 如果搬家可以幫助弱勢團體，何不放心交給他們呢？ </p>
+<p> 行銷中心 </p>
+<p> 服務條款 </p>
+<p> 隱私權政策 </p>
+<p> 轉載授權 </p>
+<p> 免責條款 </p>
+<p> 刊登廣告 </p>
+<p> 中時電子報 </p>
+<p> 聯絡我們 </p>
+<p> 回到首頁 </p>
+<p> 最佳瀏覽模式：解析度1024x768或以上，瀏覽器建議使用IE8.0或FireFox以上版本以上內容皆由各著作權所有人所提供，請勿擅自引用或轉載，並僅遵循醫事法醫療法藥政條例 </p>
+<p> 《藥事法》 </p>
+<p> 、 </p>
+<p> 《食品衛生管理法》 </p>
+<p> 、 </p>
+<p> 《化妝品衛生管理條例》 </p>
+<p> 等相關規定，若有違反其他相關法令請按 </p>
+<p> 【我要檢舉】 </p>
+<p> 我們將以最快速度通知各著作權所有人且將本文章下架，以維持本平台資訊之公正性及適法性。 </p>
+<p> 中時醫療服務網 版權所有 </p>
+<p> Copyright © 2011China Times Medical Center All Rights Reserved. </p>

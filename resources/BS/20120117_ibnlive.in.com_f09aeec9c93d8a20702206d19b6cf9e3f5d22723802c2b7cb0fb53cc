@@ -1,0 +1,444 @@
+<p> Central team examining Drug Resistant TB cases in Mumbai, IBN Live News </p>
+<p> .il_ln_top_box{border-bottom:1px solid #000; padding-bottom:5px; margin-bottom:20px;} .il_ln_top_box h1{font:bold 24px Arial, Helvetica, sans-serif; color:#000; float:left; margin:0px; padding:0px; width:200px; float:left;} .il_ln_top_right_box{font:bold 24px Arial, Helvetica, sans-serif; color:#000; float:left; margin:0px; padding:0px; float:right; width:332px;} .il_ln_top_right_box span{padding:0 5px; font:bold 12px Arial, Helvetica, sans-serif;} .il_ln_top_right_box select{width:120px; margin:0px; padding:0px;} </p>
+<p> function nav()    { 	   $("#load").show();    var w = document.form1.category.selectedIndex;    var url_add = document.form1.category.options[w].value;    //alert(url_add)    window.location.href = url_add;    }    function nav1()    {     /* var s =  document.form1.category.selectedIndex; 	var url_add_s = document.form1.category.options[s].value;  	if(url_add_s == '/generalnewsfeed/') 	{ 		alert("Please select the category"); 		return false; 	} 	else 	   {*/  	  	   $("#load").show(); 	   var w = document.form1.section.selectedIndex; 	   var url_add = document.form1.section.options[w].value; 	   window.location.href = url_add; 	   //}    } </p>
+<p> CES 2012: Know what's new in the world of tech </p>
+<p> Delete_Cookie('redirect_path_ibn', '/', ''); var_url=document.location.href; set_cookie("redirect_path_ibn", var_url,0,0,0,'/',"",''); if( get_cookie("POST_DATA_IBN") != "") { var_url=document.location.href; //if((get_cookie_variable(get_cookie("POST_DATA_IBN"),2)=="") && (get_cookie_variable(get_cookie("POST_DATA_IBN"),3)=="")) if((get_cookie_variable(get_cookie("POST_DATA_IBN"),2)=="")) { var us_name=get_cookie_variable(get_cookie("POST_DATA_IBN"),1); } else { //var us_name=get_cookie_variable(get_cookie("POST_DATA_IBN"),2)+' '+get_cookie_variable(get_cookie("POST_DATA_IBN"),3); var us_name=get_cookie_variable(get_cookie("POST_DATA_IBN"),2);  } var us_id=get_cookie_variable(get_cookie("POST_DATA_IBN"),0); var cookieBlazeId = get_cookie_variable(get_cookie("POST_DATA_IBN"),6); var cookieBlazeImage = get_cookie_variable(get_cookie("POST_DATA_IBN"),7); var img_id = get_cookie_variable(get_cookie("POST_DATA_IBN"),8); 		//alert(img_id) 		if(typeof img_id != "undefined"  && img_id.length > '0') 		{ 		    //alert("a") 		    var imgpath = '<img src='+img_id+' width = "18" style="float:none;" height = "18" alt='+us_name+' title='+us_name+' align = "absmiddle" />'; 		} 		else if(typeof cookieBlazeImage != "undefined"  && cookieBlazeImage.length > '0') 		{ 		    //alert("a") 		    var imgpath = '<img src='+cookieBlazeImage+' width = "18" style="float:none;" height = "18" alt='+us_name+' title='+us_name+' align = "absmiddle"  />'; 		} 		else 		{ 			//	alert("b")  			var imgpath = ''; 		 		} document.write ('<div style = "float:right; padding-top:0px;">'+imgpath+'  <span><a href="/conversations/user/'+us_id+'.html"  target="_top" >'+us_name+'</a></span> <span>|</span>  <span><a class="none" href="/ibnregistration/logout.php" target="_top">Sign out</a></span></div>');  } else { /*document.write('<div style = "float:right; padding-top:3px;"><span><a href="/ibnregistration/login.php?url_path='+var_url+'">SIGN IN</a></span> <span>|</span> <span><a href="/ibnregistration/ibn_common_registration.php">REGISTER</a></span></div>');*/  document.write('<div style = "float:right; padding-top:3px;"><span><a href="/ibnregistration/login.php?url_path='+var_url+'">SIGN IN</a></span></div>'); } </p>
+<p> Home </p>
+<p> Elections 2012 </p>
+<p> Politics </p>
+<p> India </p>
+<p> South </p>
+<p> Movies </p>
+<p> Cricket </p>
+<p> Football </p>
+<p> Sports </p>
+<p> Tech </p>
+<p> Auto </p>
+<p> Business </p>
+<p> World </p>
+<p> Books </p>
+<p> Photos </p>
+<p> Video </p>
+<p> Live TV </p>
+<p> CJ </p>
+<p> Latest </p>
+<p> News </p>
+<p> Time-Crunch TV </p>
+<p> Video Streams </p>
+<p> Blogs </p>
+<p> Chat </p>
+<p> Talk </p>
+<p> Apps </p>
+<p> Newsletters </p>
+<p> Blaze </p>
+<p> Health </p>
+<p> FT Specials </p>
+<p> Forbes India </p>
+<p> News </p>
+<p> Latest </p>
+<p> Realtime </p>
+<p> Blogs </p>
+<p> Chat </p>
+<p> Talk </p>
+<p> Apps </p>
+<p> Newsletters </p>
+<p> var zflag_nid=zflag_nid_728_90; var zflag_cid=zflag_cid_728_90; var zflag_sid=zflag_sid_728_90; var zflag_width=zflag_width_728_90; var zflag_height=zflag_height_728_90; var zflag_sz=zflag_sz_728_90; </p>
+<p> Home </p>
+<p> Elections 2012 </p>
+<p> Politics </p>
+<p> India </p>
+<p> South </p>
+<p> Movies </p>
+<p> Cricket </p>
+<p> Football </p>
+<p> Sports </p>
+<p> Tech </p>
+<p> Auto </p>
+<p> Business </p>
+<p> World </p>
+<p> Books </p>
+<p> Photos </p>
+<p> Video </p>
+<p> Live TV </p>
+<p> CJ </p>
+<p> Latest </p>
+<p> News </p>
+<p> Time-Crunch TV </p>
+<p> Video Streams </p>
+<p> Blogs </p>
+<p> Chat </p>
+<p> Talk </p>
+<p> Apps </p>
+<p> Newsletters </p>
+<p> Blaze </p>
+<p> Health </p>
+<p> FT Specials </p>
+<p> Forbes India </p>
+<p> Uttar Pradesh </p>
+<p> Punjab </p>
+<p> Uttarakhand </p>
+<p> Manipur </p>
+<p> Goa </p>
+<p> Blogs </p>
+<p> News </p>
+<p> Photos </p>
+<p> Video </p>
+<p> India Global </p>
+<p> Photos </p>
+<p> Video </p>
+<p> Andhra Pradesh </p>
+<p> Karnataka </p>
+<p> Kerala </p>
+<p> Tamil Nadu </p>
+<p> Bangalore </p>
+<p> Chennai </p>
+<p> Hyderabad </p>
+<p> Thiruvananthapuram </p>
+<p> Southern News </p>
+<p> Video </p>
+<p> Masand </p>
+<p> Movies News </p>
+<p> TV </p>
+<p> Music </p>
+<p> Hitlist </p>
+<p> Bollywood Blockbusters </p>
+<p> E Tonight </p>
+<p> Now Showing </p>
+<p> Photos </p>
+<p> Video </p>
+<p> Live Scores </p>
+<p> News </p>
+<p> Fixtures </p>
+<p> Standings </p>
+<p> Photos </p>
+<p> EPL </p>
+<p> La Liga </p>
+<p> Serie A </p>
+<p> Champions League </p>
+<p> Liverpool </p>
+<p> Man Utd </p>
+<p> Barcelona </p>
+<p> Real Madrid </p>
+<p> Tennis </p>
+<p> F1 </p>
+<p> Athletics </p>
+<p> Badminton </p>
+<p> Golf </p>
+<p> Hockey </p>
+<p> Shooting </p>
+<p> Other Sports </p>
+<p> Photos </p>
+<p> Video </p>
+<p> Sports in Review </p>
+<p> News </p>
+<p> Photos </p>
+<p> Video </p>
+<p> Tech Toyz </p>
+<p> Tech2 Top Stories </p>
+<p> Tech2 Reviews </p>
+<p> Tech2 Features </p>
+<p> Tech2 News </p>
+<p> News </p>
+<p> Cars </p>
+<p> Bikes </p>
+<p> Reviews </p>
+<p> Photos </p>
+<p> Video </p>
+<p> Markets </p>
+<p> Economy </p>
+<p> IBN Reports </p>
+<p> Most Popular </p>
+<p> Pakistan </p>
+<p> Photos </p>
+<p> Video </p>
+<p> News </p>
+<p> Reviews </p>
+<p> Excerpts </p>
+<p> Authors </p>
+<p> Video </p>
+<p> India </p>
+<p> Movies </p>
+<p> Cricket </p>
+<p> Sports </p>
+<p> Tech </p>
+<p> Auto </p>
+<p> World </p>
+<p> India </p>
+<p> Business </p>
+<p> Movies </p>
+<p> Cricket </p>
+<p> Sports </p>
+<p> Tech </p>
+<p> Health </p>
+<p> Auto </p>
+<p> World </p>
+<p> South </p>
+<p> Shows </p>
+<p> Hindi </p>
+<p> Time-Crunch TV </p>
+<p> Video Streams </p>
+<p> CNN-IBN </p>
+<p> IBN7 </p>
+<p> IBN Lokmat </p>
+<p> CNBC-TV18 </p>
+<p> CNBC Awaaz </p>
+<p> My TV </p>
+<p> Time-Crunch TV </p>
+<p> News </p>
+<p> Interactive Map </p>
+<p> Blog </p>
+<p> News </p>
+<p> Interactive Map </p>
+<p> Blog </p>
+<p> News </p>
+<p> Interactive Map </p>
+<p> Blog </p>
+<p> News </p>
+<p> Interactive Map </p>
+<p> Blog </p>
+<p> News </p>
+<p> Interactive Map </p>
+<p> Blog </p>
+<p> Uttar Pradesh </p>
+<p> Punjab </p>
+<p> Uttarakhand </p>
+<p> Manipur </p>
+<p> Goa </p>
+<p> Andhra Pradesh </p>
+<p> Karnataka </p>
+<p> Kerala </p>
+<p> Orissa </p>
+<p> Tamil Nadu </p>
+<p> Bangalore </p>
+<p> Chennai </p>
+<p> Hyderabad </p>
+<p> Kochi </p>
+<p> Thiruvananthapuram </p>
+<p> Bollywood </p>
+<p> Hollywood </p>
+<p> Tamil </p>
+<p> Telugu </p>
+<p> Malayalam </p>
+<p> Kannada </p>
+<p> Marathi </p>
+<p> Bengali </p>
+<p> First Look </p>
+<p> Trailers </p>
+<p> Music News </p>
+<p> Music Reviews </p>
+<p> Fixtures & Results </p>
+<p> Points </p>
+<p> Photos </p>
+<p> Fixtures & Results </p>
+<p> Points </p>
+<p> Photos </p>
+<p> Fixtures & Results </p>
+<p> Points </p>
+<p> Photos </p>
+<p> Fixtures & Results </p>
+<p> Points </p>
+<p> Photos </p>
+<p> Live Score </p>
+<p> News </p>
+<p> Photos </p>
+<p> ATP Schedule </p>
+<p> WTA Schedule </p>
+<p> News </p>
+<p> Races </p>
+<p> Schedule </p>
+<p> Standings </p>
+<p> Teams </p>
+<p> Drivers </p>
+<p> Circuits </p>
+<p> Photos </p>
+<p> Indian Grand Prix </p>
+<p> Live Score </p>
+<p> Latest News </p>
+<p> Market Reports </p>
+<p> Reccos </p>
+<p> Buzz </p>
+<p> Edge </p>
+<p> Outlook </p>
+<p> IPO </p>
+<p> ADRs </p>
+<p> Global </p>
+<p> Economy News </p>
+<p> Business News </p>
+<p> Insurance </p>
+<p> MF News </p>
+<p> MF Columns </p>
+<p> Trailers </p>
+<p> Bollywood </p>
+<p> Regional </p>
+<p> Hollywood </p>
+<p> Music </p>
+<p> 30 Minutes </p>
+<p> B'wood B'busters </p>
+<p> CJ </p>
+<p> Devil's Advocate </p>
+<p> E-Tonight </p>
+<p> FTN </p>
+<p> Now Showing </p>
+<p> Overdrive </p>
+<p> Secret Kitchen </p>
+<p> Last Word </p>
+<p> TWTW </p>
+<p> Tech Toyz </p>
+<p> function subnavurl(str) 	  { 	//alert(str); 		  if(str != "") 		  { 			var re = /\$|,|@|#|~|`|\/|\+|\=|\[|\-|\_|\]|\[|\}|\{|\;|\:|\'|\"|\<|\>|\||\\|\!|\$|\./g; 			str = str.replace(re,""); 			str = str.replace("?","ibncrickhabar"); 			//alert($("#"+str+"-sssj").length) 			 		 		if($("#"+str+"-sssj").length) 		{ 			//alert("A"); 			var pid = $("#"+str+"-sssj").parent()[0].id; 			document.getElementById(str+"-sssj").style.background = ''; 			var tpid = pid.split("-sss"); 			var  superid = tpid[0]; 			var ssfid = $('ul#'+pid+' li:first').attr('id');  			if(ssfid != str+"-sssj") 			{ 		 			 			var pppreid = $("#"+str+"-sssj").prev()[0].id; document.getElementById(pppreid).style.background = 'none';} 			if($("#"+superid+"-ss").length) 				{ 					//alert("3"); 					 					//document.getElementById("#"+superid+"-ss").style.background = '';  					var pid1 = $("#"+superid+"-ss").parent()[0].id; 					//alert(pid1) 					var tpid1 = pid1.split("-s"); 					var superid1 = tpid1[0];  					//alert(superid1);  					var sfid = $('ul#'+pid1+' li:first').attr('id');  					//alert(superid+"-ss") 					document.getElementById(superid+"-ss").style.background = '' 					if(sfid != superid+"-ss") 					{ 					var ppreid = $("#"+superid+"-ss").prev()[0].id; document.getElementById(ppreid).style.background = 'none';  					}  					var fid = $('ul#flevel li:first').attr('id'); //alert(fid) 					if(fid != superid1) { var preid = $("#"+superid1).prev()[0].id; document.getElementById(preid).style.background = 'none'; }   					if(superid1 != "httpibnliveincom") { $("#"+superid1+"-l").show();}   								var r = $("#"+superid1).html(); 				//alert(r);  				r= r.replace('<a href="http://ibnlive.in.com/elections2012/"><font color="#fff000">Elections 2012</font></a>','<a href="http://ibnlive.in.com/elections2012/">Elections 2012</a>'); 				r= r.replace("<a href='http://ibnlive.in.com/elections2012/'><font color='#fff000'>Elections 2012</font></a>","<a href='http://ibnlive.in.com/elections2012/'>Elections 2012</a>"); 				$("#"+superid1).html(r);   					$("#httpibnliveincom").removeClass("act"); 					$("#httpibnliveincom-s").hide(); 					$("#httpibnliveincom-s-sparent").hide(); 					 //alert(pid1); 					$("#"+superid1).addClass("act"); 					if($("#"+superid1+"-m").length) {	$("#"+superid1+"-m").show(); } 					$("#"+pid1).show(); 					$("#"+pid1+"-sparent").show(); 					$("#"+superid1+"-ss").addClass("act"); 					//alert(superid1+"-ss"); //alert(("#"+superid+"-sss")) 					if($("#"+superid+"-sss").length) 						{ 						//alert("#"+superid+"-sssf"); 						//alert("#"+superid+"-sss");  						$("#"+superid+"-sssf").show(); 						$("#"+str+"-sssj").addClass("link"); 						$("#"+superid+"-sss").show(); 						//alert("#"+superid+"-sssf"); 						 						$("#"+superid+"-ss").removeClass().addClass("act"); 						}  					/****************/  					 					/****************/ 				} 			/****************/ 		} 		else if($("#"+str+"-ss").length) 		{ 			//alert("2"); 			//alert("#"+str+"-ss") 						//alert("B");  					document.getElementById(str+"-ss").style.background = '';   				var pid = $("#"+str+"-ss").parent()[0].id; 				//alert(pid) 				var tpid = pid.split("-s"); 				var superid = tpid[0];   				$("#httpibnliveincom").removeClass("act"); 				$("#httpibnliveincom-s").hide(); 				$("#httpibnliveincom-s-sparent").hide();  				var sfid = $('ul#'+pid+' li:first').attr('id');  				if(sfid != str+"-ss") 				{ 					//alert($("#"+str+"-ss").prev()[0].id) 					var ppreid = $("#"+str+"-ss").prev()[0].id; 					document.getElementById(ppreid).style.background = 'none';  				}  		    				var fid = $('ul#flevel li:first').attr('id'); //alert(fid) 				if(fid != superid) { var preid = $("#"+superid).prev()[0].id; document.getElementById(preid).style.background = 'none'; }  				var lid = $('ul#flevel li:last').attr('id'); //alert(lid) 				if(lid == superid) { document.getElementById(superid).style.background = ''; }      				if(superid != "httpibnliveincom") { $("#"+superid+"-l").show();} 				else if(superid == "httpibnliveincom") { $("#"+str+"-l").show();} 				//alert(superid);   					var r = $("#"+superid).html();  				r= r.replace('<a href="http://ibnlive.in.com/elections2012/"><font color="#fff000">Elections 2012</font></a>','<a href="http://ibnlive.in.com/elections2012/">Elections 2012</a>'); 				r= r.replace("<a href='http://ibnlive.in.com/elections2012/'><font color='#fff000'>Elections 2012</font></a>","<a href='http://ibnlive.in.com/elections2012/'>Elections 2012</a>"); 				$("#"+superid).html(r);   				$("#"+superid).addClass("act"); 				if($("#"+superid+"-m").length) { $("#"+superid+"-m").show(); } 				$("#"+pid).show(); 				//alert(pid) 				$("#"+pid+"-sparent").show(); 				$("#"+str+"-ss").addClass("act"); 				//alert($("#"+str+"-sss").length)  				if($("#"+str+"-sss").length  > 0) 				{ 				$("#"+str+"-sss").show(); $("#"+str+"-sssf").show();  $("#"+str+"-ss").addClass("act"); 				} 				else 				{ 				$("#"+str+"-ss").addClass("link"); 				}  			/****************/  			 			/****************/ 		} 		else if($("#"+str).length) 		{ 						//alert("C"); //alert("#"+str);  			$("#httpibnliveincom").removeClass("act");	 			$("#httpibnliveincom-s").hide(); 			$("#httpibnliveincom-s-sparent").hide();  			/***********/ 		   var fid = $('ul#flevel li:first').attr('id'); 		   if(fid != str) 		   { 				 var preid = $("#"+str).prev()[0].id; 				 document.getElementById(preid).style.background = 'none'; 		   } 		     		      var lid = $('ul#flevel li:last').attr('id'); //alert(lid) 			if(lid == str) { document.getElementById(str).style.background = ''; } 			              /********/ 			if(str != "httpibnliveincom") { $("#"+str+"-l").show(); }  			var sl = $("#"+str+"-s").length;  			if(sl>0){ 				 				var r = $("#"+str).html();  				r= r.replace('<a href="http://ibnlive.in.com/elections2012/"><font color="#fff000">Elections 2012</font></a>','<a href="http://ibnlive.in.com/elections2012/">Elections 2012</a>'); 				r= r.replace("<a href='http://ibnlive.in.com/elections2012/'><font color='#fff000'>Elections 2012</font></a>","<a href='http://ibnlive.in.com/elections2012/'>Elections 2012</a>"); 				$("#"+str).html(r); 				$("#"+str).addClass("act");} else { $("#"+str).addClass("link");}  			//	if($("#"+str+"-ss").length) { $("#"+str).addClass("act"); } else {  $("#"+str).addClass("link");  }               //$("#"+str).addClass("link"); 			  $("#"+str+"-m").show(); 			  $("#"+str+"-s").show(); 			  $("#"+str+"-s-sparent").show(); 			  /****************/ 			 			/****************/ 		} 		else 		{ 			//alert("D"); 			//alert("c"); 			$("#httpibnliveincom").removeClass("act");	 			$("#httpibnliveincom-s").hide(); 			$("#httpibnliveincom-s-sparent").hide(); 			  			$("#httpibnliveincom").addClass("act"); 			$("#httpibnliveincom-s").show(); 			$("#httpibnliveincom-s-sparent").show(); 		 		} 	 	  } 	  } 	 subnavurl(document.URL); </p>
+<p> var _gaq = _gaq || [];   _gaq.push(['_setAccount', 'UA-156703-3']);   _gaq.push(['_trackPageview']);    (function() {     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);   })(); </p>
+<p> var _comscore = _comscore || [];   _comscore.push({ c1: "2", c2: "6683813" });   (function() {     var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;     s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";     el.parentNode.insertBefore(s, el);   })(); </p>
+<p> function showThickbox() 			{  			    tb_show("Sign in","/ibnregistration/edit_regis.php?flv=123&keepThis=true&TB_iframe=true&&height=630&width=623", false);   			} </p>
+<p> //Delete_Cookie('redirect_path_ibn', '/', '');  var_url=document.location.href; set_cookie("redirect_path_ibn", var_url,0,0,0,'/',"",''); //alert(get_cookie("extra_info") ) if( get_cookie("extra_info") != "") { 	if(get_cookie_variable(get_cookie("extra_info"),0) == "0") 	{ 	  window.onload = showThickbox;             } } </p>
+<p> Latest news </p>
+<p> From </p>
+<p> All Sources </p>
+<p> PTI </p>
+<p> Reuters </p>
+<p> in </p>
+<p> All Categories </p>
+<p> India </p>
+<p> World </p>
+<p> Sports </p>
+<p> Business </p>
+<p> Entertainment </p>
+<p> Technology </p>
+<p> Others </p>
+<p> Back </p>
+<p> Tweet </p>
+<p> Central team examining Drug Resistant TB cases in Mumbai </p>
+<p> PTI | 04:01 PM,Jan 17,2012 </p>
+<p> Mumbai, Jan 17 (PTI) A team of doctors, deputed by the Union Ministry of Health and Family Welfare, has reached Mumbai to ascertain facts about the reported cases of Drug Resistant TB cases. 	The Ministry says, the cases should be called 'Extensively Drug Resistant-TB' (XDR-TB) and not 'Totally Drug Resistant TB' (TDR-TB) as per WHO norms, an official release said. 	The central team has started analysis of the situation and is in touch with the health authorities of Maharashtra, Mumbai Municipal Corporation, while also involving experts from concerned stake-holders, including the Hinduja Hospital, Mumbai. 	Hinduja hospital is not accredited to diagnose XDR or TDR, the release said. "So far as the report from Hinduja Hospital is concerned, this Hospital Laboratory is not accredited by the Revised National Tuberculosis Control Programme, for culture and sensitivity for second line drugs to diagnose Extensively Drug-Resistant (XDR)/Totally Drug Resistant (TDR) cases and is only accredited for conducting Drug Susceptibility Testing (DST) by liquid culture and sensitivity for first line drug only," it said. 	Recently, a proposal for accreditation of Line Probe Assay test (LPA) has been received and is under process, it added. 	As of now, the Revised National TB Control Programme has accredited only following three labs for conducting quality-assured second-line anti-TB drug susceptibility testing of flouroquinolones and injectables: National TB Institute (NTI), Bangalore; LRS Institute of TB and Chest Disease, New Delhi, and National Institute of Research in Tuberculosis, Chennai. (More) PTI VT NP </p>
+<p> « Previous </p>
+<p> Next » </p>
+<p> This is an automated news feed. The contents have not been selected or edited by IBNLive. </p>
+<p> var zflag_nid=zflag_nid_300_250; var zflag_cid=zflag_cid_300_250; var zflag_sid=zflag_sid_300_250; var zflag_width=zflag_width_300_250; var zflag_height=zflag_height_300_250; var zflag_sz=zflag_sz_300_250; </p>
+<p> $("#Chat_View_Display").load('/xml/network18/topibnlivewidgets.html'+'?random='+new Date().getTime()); </p>
+<p> .fx-ftr{height:60px; border-top:1px solid  #999999; background-color:#FFF;} 		.fx-ftr-in{ width:990px;  margin:auto; padding-bottom:10px;} 		.fx-ftr-in h2{ float:left; margin-right:15px; font:bold 22px arial; color:#000;  margin:0px; padding:0px; margin-top:14px; margin-right:15PX;} 		.fx-ftr-in img{ float:left; margin:8px 10px 0px 0px;} 		.fx-ftr-in img.fxnmrgn{ float:left; margin:0px 15px 0px 0px;} </p>
+<p> Follow IBNLive.com </p>
+<p> Politics </p>
+<p> | </p>
+<p> India </p>
+<p> | </p>
+<p> Movies </p>
+<p> | </p>
+<p> IBN South </p>
+<p> | </p>
+<p> Cricket </p>
+<p> | </p>
+<p> Photos </p>
+<p> | </p>
+<p> Videos </p>
+<p> | </p>
+<p> Video Streams </p>
+<p> | </p>
+<p> World </p>
+<p> | </p>
+<p> Business </p>
+<p> | </p>
+<p> Sports </p>
+<p> | </p>
+<p> Blogs </p>
+<p> | </p>
+<p> Tech </p>
+<p> | </p>
+<p> Latest News </p>
+<p> | </p>
+<p> Talk </p>
+<p> | </p>
+<p> Citizen Journalist </p>
+<p> | </p>
+<p> Sitemap </p>
+<p> | </p>
+<p> Football </p>
+<p> | </p>
+<p> News </p>
+<p> | </p>
+<p> Books </p>
+<p> | </p>
+<p> Chat </p>
+<p> | </p>
+<p> Blaze </p>
+<p> | </p>
+<p> Apps </p>
+<p> | </p>
+<p> TV </p>
+<p> | </p>
+<p> Live TV </p>
+<p> | </p>
+<p> Time-Crunch TV </p>
+<p> | </p>
+<p> South India </p>
+<p> | </p>
+<p> India Global </p>
+<p> | </p>
+<p> Masand Review </p>
+<p> | </p>
+<p> Tennis </p>
+<p> | </p>
+<p> Golf </p>
+<p> | </p>
+<p> Formula One </p>
+<p> | </p>
+<p> Tech Toys </p>
+<p> | </p>
+<p> Documents </p>
+<p> | </p>
+<p> Newsletters </p>
+<p> | </p>
+<p> Health </p>
+<p> | Popular Tags : </p>
+<p> Topics </p>
+<p> | </p>
+<p> Team </p>
+<p> | </p>
+<p> Event </p>
+<p> | </p>
+<p> People </p>
+<p> | </p>
+<p> City </p>
+<p> About Us </p>
+<p> | </p>
+<p> Disclaimer </p>
+<p> | </p>
+<p> Careers @ IBN </p>
+<p> | </p>
+<p> Contact Us </p>
+<p> | </p>
+<p> Feedback </p>
+<p> | </p>
+<p> Complaint Redressal </p>
+<p> | </p>
+<p> Advertise With Us </p>
+<p> | </p>
+<p> Connect.in.com </p>
+<p> | </p>
+<p> Live Stock Market News </p>
+<p> | </p>
+<p> India’s Premiere Technology Guide </p>
+<p> | </p>
+<p> Privacy Policy </p>
+<p> | </p>
+<p> IBNKhabar </p>
+<p> | </p>
+<p> RSS Feeds </p>
+<p> | </p>
+<p> Josh18 </p>
+<p> | </p>
+<p> Kids education and games site </p>
+<p> | </p>
+<p> Firstpost </p>
+<p> | </p>
+<p> History India </p>
+<p> | </p>
+<p> Please tell us about your smart phone preference.. </p>
+<p> | </p>
+<p> Please tell us what you plan to buy your home this season.. </p>
+<p> | </p>
+<p> Please tell us about you mobile network.. </p>
+<p> | </p>
+<p> What is your dream car? </p>
+<p> © 2012 IBNLive.com India. All Rights Reserved. A Web18 Venture </p>
+<p> CNN name, logo and all associated elements ® and © 2012 Cable News Network LP, LLLP. A Time Warner Company. All rights reserved. CNN and the CNN logo are registered marks of Cable News Network, LP LLLP, </p>
+<p> displayed with permission. Use of the CNN name and/or logo on or as part of CNN-IBN does not derogate from the intellectual property rights of Cable News Network in respect of them. </p>
+<p> function getDiv(val1,val2,val3,val4,val5,val6) { 	//alert(document.getElementById('sms_img').style.display); 	str = val1+"_img"; 	if(document.getElementById(str).style.display == 'none') 	{ 		document.getElementById(str).style.display = ''; 	} 	else 	{ 		document.getElementById(str).style.display = 'none'; 	} 	str2 = val2+"_img";		  	document.getElementById(str2).style.display = 'none'; 	str3 = val3+"_img";		  	document.getElementById(str3).style.display = 'none'; 	str4 = val4+"_img";		  	document.getElementById(str4).style.display = 'none'; 	str5 = val5+"_img";		  	document.getElementById(str5).style.display = 'none'; 	str6 = val6+"_img";		  	document.getElementById(str6).style.display = 'none'; 	 } </p>
+<p> subnavurl('http://ibnlive.in.com/generalnewsfeed/'); </p>

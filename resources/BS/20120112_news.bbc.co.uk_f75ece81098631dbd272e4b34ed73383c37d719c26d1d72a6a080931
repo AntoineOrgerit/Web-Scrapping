@@ -1,0 +1,142 @@
+<p> BBC - Democracy Live - Minister: Implant firm should offer free replacements </p>
+<p> if (! window.gloader) { window.gloader = [ "glow", {map: "http://node1.bbcimg.co.uk/glow/glow/map.1.7.7.js"}]; } </p>
+<p> bbcRequireMap = {"jquery-1":"http://static.bbc.co.uk/frameworks/jquery/0.1.8/sharedmodules/jquery-1.6.2", "jquery-1.4":"http://static.bbc.co.uk/frameworks/jquery/0.1.8/sharedmodules/jquery-1.4", "swfobject-2":"http://static.bbc.co.uk/frameworks/swfobject/0.1.3/sharedmodules/swfobject-2", "demi-1":"http://static.bbc.co.uk/frameworks/demi/0.9.0/sharedmodules/demi-1", "gelui-1":"http://static.bbc.co.uk/frameworks/gelui/0.9.3/sharedmodules/gelui-1", "cssp!gelui-1/overlay":"http://static.bbc.co.uk/frameworks/gelui/0.9.3/sharedmodules/gelui-1/overlay.css", "istats-1":"http://static.bbc.co.uk/frameworks/istats/0.6.3/modules/istats-1", "relay-1":"http://static.bbc.co.uk/frameworks/relay/0.0.13/sharedmodules/relay-1", "clock-1":"http://static.bbc.co.uk/frameworks/clock/0.1.5/sharedmodules/clock-1", "canvas-clock-1":"http://static.bbc.co.uk/frameworks/clock/0.1.5/sharedmodules/canvas-clock-1", "cssp!clock-1":"http://static.bbc.co.uk/frameworks/clock/0.1.5/sharedmodules/clock-1.css", "jssignals-1":"http://static.bbc.co.uk/frameworks/jssignals/0.3.2/modules/jssignals-1", "jcarousel-1":"http://static.bbc.co.uk/frameworks/jcarousel/0.1.6/modules/jcarousel-1"}; require({ baseUrl: 'http://static.bbc.co.uk/', paths: bbcRequireMap, waitSeconds: 30 }); </p>
+<p> blq.assetPath="http://static.bbc.co.uk/frameworks/barlesque/1.21.3/desktop/2.7/"; blqOnDomReady(function() {  blq.suggest_short = false; blq.addAutoSuggest(); });  blq.setEnvironment('live');  if (blq.setLabel) blq.setLabel('searchSuggestion', "Search"); </p>
+<p> pulse.translations.intro = "We are always looking to improve the site and your opinions count."; pulse.translations.question = "Do you have a few minutes to tell us what you think about this site?"; pulse.translations.accept = "Yes"; pulse.translations.reject = "No"; </p>
+<p> if(typeof(bbcdotcom) == "undefined") bbcdotcom = {}; </p>
+<p> @import "http://news.bbcimg.co.uk/css/screen/1_0_12/shared/v4/styles.css";  @import "http://news.bbcimg.co.uk/css/screen/1_0_12/shared/emp.css"; </p>
+<p> #blq-main{font-size:1em;line-height:1.416;color:#464646} </p>
+<p> <!-- var _SERVERLOC="THDO";      var _userLocation = 'INTERNATIONAL'; --> </p>
+<p> <!-- 	bbc.fmtj.page = { 		serverTime: 1326380107000, 		editionToServe: null, 		queryString: null, 		referrer: null, 		section: null, 		sectionPath: null, 		siteName: null, 		siteToServe: 'democracylive', 		siteVersion: '4', 		storyId: null, 		assetType: null, 		uri: '/democracylive/hi/house_of_lords/newsid_9675000/9675985.stm', 		country: 'fr', 		masthead: false, 		adKeyword: null, 		templateVersion: null 	} --> </p>
+<p> //<![CDATA[         require(['jquery-1'], function($){                          // set up EMP once it's loaded             var setUp = function(){                 // use our own pop out page         	    embeddedMedia.setPopoutUrl('/player/emp/2_0_29/popout/pop.stm');          	    // store EMP's notifyParent function         	    var oldNotifyParent = embeddedMedia.console.notifyParent;         	    // use our own to add livestats to popout         	    embeddedMedia.console.notifyParent = function(childWin){         	        oldNotifyParent(childWin);         	        // create new live stats url                     var liveStatsUrl = bbc.fmtj.av.emp.liveStatsForPopout($('#livestats').attr('src'));                     var webBug = $('<img />', {                                      id:  'livestats',                                      src: liveStatsUrl                                  });                     // append it to popout                     $(childWin.document).find('body').append(webBug);                 }             }                              // check if console is available to manipulate             if(window.embeddedMedia && window.embeddedMedia.console){                 setUp();             }             // otherwise emp is still loading, so add event listener             else{                 $(document).bind('empReady', function(){                     setUp();                 });             }         });     //]]> </p>
+<p> //<![CDATA[         gloader.load(['glow', '1', 'glow.dom']);     //]]> </p>
+<p> //<![CDATA[ 	     	 	     	         	     	 	     	         	     	 	    // set site specific config 	     	        bbc.fmtj.av.emp.configs.push('democracylive'); 	     	     	    // when page loaded, write all created emps 	    glow.ready(function(){ 			if(typeof bbcdotcom !== 'undefined' && bbcdotcom.av && bbcdotcom.av.emp){ 				bbcdotcom.av.emp.configureAll(); 			} 			embeddedMedia.each(function(emp){ 				emp.set('enable3G', true); 			}); 			embeddedMedia.writeAll(); 	        // mark the emps as loaded 	        bbc.fmtj.av.emp.loaded = true; 	    }); 	//]]> </p>
+<p> // <![CDATA[ function countername(u) {    var countername = [];     u = u.replace(/\.[^.\/]+$/, '');     u = u.replace(/[#][^#]+$/, '' );     u = u.replace(/[\?][^\?]+$/, '' );     u = u.replace(/\/newsid_\d+/g, '/');     u = u.replace(/\/[12]\//, '/');     u = u.replace(/\/reviews\//, '/');     u = u.replace(/\/sport[12]\//, '/sport/');     u = u.replace(/\/bbc_sport\//, '/sport/');     u = u.replace(/\/(hi|mobile)\//, '/');     u = u.replace(/\/(uk|i)fs\//, '/');     var path    = u.split('/').slice(3);      var asset_id_re  = /(\d+)\/?$/;     var asset_id = '';     if (matches = asset_id_re.exec( path[path.length-1] )) {         asset_id = matches[1];     }     var prod_name  = 'news';      var prod = new Array();     prod['sport']    = /sport/;      prod['weather']  = /weather/;     prod['cbbc']     = /cbbc/;     for (var name in prod) {         if (u.match(prod[name])) {             prod_name = name;             break;         }     }     countername.push(prod_name);     for (var i=0; i<path.length; i++) {         var part = path[i];         if (part && (part != prod_name) && (part != asset_id) && (part != 'default')) {             countername.push(part);         }     }     if (asset_id) {countername.push(asset_id);}     countername.push('page');     return countername.join('.'); } function prod_name(c) {return c.replace(/^(.+?)\..*$/, "$1");} function geo_edition(u) {     var geo_edition = 'uk';     if (u.match(/\/(sport2|2|ifs)\//)) {          geo_edition = 'int';     }     return geo_edition; } function sitestat(n){var j=document,f=j.location,b="";if(j.cookie.indexOf("st_ux=")!=-1){var k=j.cookie.split(";");var e="st_ux",h=document.domain,a="/"; if(typeof ns_!="undefined"&&typeof ns_.ux!="undefined"){e=ns_.ux.cName||e;h=ns_.ux.cDomain||h;a=ns_.ux.cPath||a}for(var g=0,f=k.length;g<f;g++){var m=k[g].indexOf("st_ux="); if(m!=-1){b="&"+unescape(k[g].substring(m+6))}}document.cookie=e+"=; expires="+new Date(new Date().getTime()-60).toGMTString()+"; path="+a+"; domain="+h}ns_pixelUrl=n; n=ns_pixelUrl+"&ns__t="+(new Date().getTime())+"&ns_c="+((j.characterSet)?j.characterSet:j.defaultCharset)+"&ns_ti="+escape(j.title)+b+"&ns_jspageurl="+escape(f&&f.href?f.href:j.URL)+"&ns_referrer="+escape(j.referrer);if(n.length>2000&&n.lastIndexOf("&")){ n=n.substring(0,n.lastIndexOf("&")+1)+"ns_cut="+n.substring(n.lastIndexOf("&")+1,n.lastIndexOf("=")).substring(0,40)}(j.images)? new Image().src=n:j.write('<p><i'+'mg src="'+n+'" height="1" width="1" alt="" /><\/p>')};  if (document.cookie.indexOf('NO-SA=') == -1) {  var countername = countername(location.href), tld = prod_name(countername);  sitestat("//sa.bbc.co.uk/bbc/bbc/s?name="+countername+"&ml_name=news-legacy-js&ml_version=20110330&app_type=web&app_name="+tld+"&prod_name="+tld); } // ]]> </p>
+<p> //<![CDATA[     window.bbcFlagpoles_istats = "ON";     window.istatsTrackingUrl   = '//sa.bbc.co.uk/bbc/bbc/s?name=SET-COUNTER&app_type=web&ml_name=SSI&ml_version=0.6.3&language=en-GB';  // ]]> </p>
+<p> British Broadcasting Corporation </p>
+<p> Home </p>
+<p> Accessibility links </p>
+<p> Skip to content </p>
+<p> Skip to local navigation </p>
+<p> Skip to bbc.co.uk navigation </p>
+<p> Skip to bbc.co.uk search </p>
+<p> Help </p>
+<p> Accessibility Help </p>
+<p> We are always looking to improve the site and your opinions count. </p>
+<p> Do you have a few minutes to tell us what you think about this site? </p>
+<p> Democracy Live </p>
+<p> Search, find and watch the politics that affects you </p>
+<p> Search Democracy Live </p>
+<p> Find a representative or topic, or words spoken in our video coverage </p>
+<p> Search terms </p>
+<p> Keyword </p>
+<p> Democracy Live site links </p>
+<p> Home </p>
+<p> House of Commons </p>
+<p> House of Lords </p>
+<p> Northern Ireland </p>
+<p> Scotland </p>
+<p> Wales </p>
+<p> Cymru </p>
+<p> Europe </p>
+<p> Previous schedule </p>
+<p> Your representatives </p>
+<p> Blogs and comment </p>
+<p> Key topics </p>
+<p> Institution guides </p>
+<p> Historic moments </p>
+<p> BBC Parliament </p>
+<p> Related BBC sites </p>
+<p> BBC News </p>
+<p> Following </p>
+<p> Following a representative makes it simple to find out where and when they have spoken. Videos are listed in one place, allowing you quick and easy access. </p>
+<p> Find out more </p>
+<p> View all new entries </p>
+<p> Page last updated at </p>
+<p> 13:05 GMT, Thursday, 12 January 2012 </p>
+<p> Minister: Implant firm should offer free replacements </p>
+<p> Please turn on JavaScript. </p>
+<p> Media requires JavaScript to play. </p>
+<p> //<![CDATA[         (function(){             // create a new player, but don't write it yet             var emp = new bbc.fmtj.av.emp.Player('emp_9675985');             // if the emps have already been loaded, we need to call the write method manually             if(bbc.fmtj.av.emp.loaded){                 emp.write();             }         })();     //]]> </p>
+<p> The Harley Medical Group should replace PIP silicone breast implants free of charge, Health Minister Earl Howe has said. </p>
+<p> Earl Howe said private companies had a "moral" and "legal" duty to address the matter on behalf of their patients, adding that eight firms had already agreed to replace the implants for free. </p>
+<p> He told peers on 12 January 2012 that the government was urging the Harley Medical Group, which fitted more PIP breast implants than any other UK cosmetic surgery firm, to "follow suit". </p>
+<p> Breast implants from French firm Poly Implant Prothese (PIP) were banned last year after they were found to contain a non-medical-grade silicone filler. </p>
+<p> The Harley Medical Group said replacing the banned implants would put it out of business. </p>
+<p> Liberal Democrat Baroness Hussein-Ece expressed "dismay and concern" at the firm's decision as peers debated the matter during their daily half-hour question session. </p>
+<p> She asked the government to consider taking action against "unscrupulous" private firms refusing to replace the implants free of charge. </p>
+<p> The government has said patients who had their surgery on the NHS would be able to have the implants removed and replaced free of charge. </p>
+<p> The NHS will also pay to remove, but not replace, implants if a private clinic refuses or no longer exists. </p>
+<p> A review has also been set up into the regulation and governance of the cosmetic surgery sector. </p>
+<p> But Earl Howe cautioned how effective regulation could be where there is a "deliberate effort" to conceal facts from inspectors. </p>
+<p> Independent crossbench peer Baroness Morgan of Drefelin said the PIP breast implants scare was causing "huge" concern for women with breast cancer. </p>
+<p> She told peers that women diagnosed with breast cancer, treated privately and refused help from a private practitioner could only have their implants removed by the NHS, not replaced or reconstructed. </p>
+<p> "I don't think that's right and I hope you will be able to reconsider that," she told Earl Howe. </p>
+<p> Story Tools </p>
+<p> Bookmark with: </p>
+<p> Delicious </p>
+<p> Digg </p>
+<p> reddit </p>
+<p> Facebook </p>
+<p> StumbleUpon </p>
+<p> What are these? </p>
+<p> E-mail this to a friend </p>
+<p> <!-- var bm = new BookMark({site:'',storyid:9676536,sectionid:92013,url:'/democracylive/hi/house_of_lords/newsid_9675000/9675985.stm',edition:'Domestic'}); //--> </p>
+<p> Watch again </p>
+<p> Breast implants 'should be replaced for free' </p>
+<p> MPs reject trade union refund bid </p>
+<p> SNP urges referendum power transfer </p>
+<p> Extradition had 'catastrophic effect' </p>
+<p> Mobile </p>
+<p> Search term: </p>
+<p> bbc.co.uk navigation </p>
+<p> News </p>
+<p> Sport </p>
+<p> Weather </p>
+<p> Travel </p>
+<p> TV </p>
+<p> Radio </p>
+<p> More </p>
+<p> CBBC </p>
+<p> CBeebies </p>
+<p> Comedy </p>
+<p> Food </p>
+<p> Health </p>
+<p> History </p>
+<p> Learning </p>
+<p> Music </p>
+<p> Science </p>
+<p> Nature </p>
+<p> Local </p>
+<p> Northern Ireland </p>
+<p> Scotland </p>
+<p> Wales </p>
+<p> Full A-Z </p>
+<p> of BBC sites </p>
+<p> Site links </p>
+<p> News Sources </p>
+<p> About BBC News </p>
+<p> BBC links </p>
+<p> About the BBC </p>
+<p> BBC Help </p>
+<p> Contact Us </p>
+<p> Accessibility Help </p>
+<p> Terms of Use </p>
+<p> Careers </p>
+<p> Privacy & Cookies </p>
+<p> Advertise With Us </p>
+<p> Ad Choices </p>
+<p> © 2012 </p>
+<p> The BBC is not responsible for the content of external sites. Read more. </p>
+<p> This page is best viewed in an up-to-date web browser with style sheets (CSS) enabled. While you will be able to view the content of this page in your current browser, you will not be able to get the full visual experience. Please consider upgrading your browser software or enabling style sheets (CSS) if you are able to do so. </p>
+<p> bbcdotcom.stats = {     "adEnabled" : "(none)",     "contentType" : "HTML",     "audience" : "fr" }; </p>
+<p> /*<![CDATA[*/ var adKeyword = document.getElementsByName('ad_keyword'); if('/news/uk-11767495' == window.location.pathname) {     J08781.DM_addEncToLoc("Section","Royal Wedding"); } else if (undefined != adKeyword[0]) {     J08781.DM_addEncToLoc("Section",adKeyword[0].content); } else if ("undefined" != typeof bbc &&     "undefined" != typeof bbc.fmtj &&     "undefined" != typeof bbc.fmtj.page &&     "undefined" != typeof bbc.fmtj.page.section) {         J08781.DM_addEncToLoc("Section", bbc.fmtj.page.section); } J08781.DM_tag(); /*]]>*/ </p>
+<p> var s_account = "bbcwglobalprod"; </p>
+<p> <!-- /* You may give each page an identifying name, server, and channel on the next lines. */  /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/ var s_code=scw.t();if(s_code)document.write(s_code)//--> </p>
+<p> <!-- if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-') //--> </p>
+<p> document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E")); </p>
+<p> COMSCORE.beacon({         c1:2,         c2:"6035051",         c3:"",         c4:"news.bbc.co.uk/democracylive/hi/house_of_lords/newsid_9675000/9675985.stm",         c5:"",         c6:"",         c15:""     }); </p>
+<p> (function(w, d) {          var a = function() {              var a = d.createElement('script');              a.type = 'text/javascript';              a.async = 'async';              a.src = '//' + ((w.location.protocol === 'https:') ? 's3.amazonaws.com/cdx-radar/' : 'radar.cedexis.com/') + '01-10271-radar10.min.js';              d.body.appendChild(a);          };          if (w.addEventListener) {              w.addEventListener('load', a, false);          } else if (w.attachEvent) {              w.attachEvent('onload', a);          }      }(window, document)); </p>
+<p> (function() {     var em = document.createElement('script'); em.type = 'text/javascript'; em.async = true;     em.src = ('https:' == document.location.protocol ? 'https://me-ssl' : 'http://me-cdn') + '.effectivemeasure.net/em.js';     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(em, s);   })(); </p>
+<p> if (typeof require !== 'undefined') { require(['istats-1'], function(istats){ istats.track('external', { region: document.getElementById('blq-main') }); istats.track('download', { region: document.getElementById('blq-main') }); }); } </p>
+<p> pulse.init( 'democracylive', false ); </p>

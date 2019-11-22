@@ -1,0 +1,423 @@
+<p> var startLoadTime = (new Date()).getTime(); </p>
+<p> Patients die or suffer harm in 10% of NHS safety mishaps - Wales News - News - WalesOnline </p>
+<p> var gs_channels = "default"; </p>
+<p> //<![CDATA[ 			if(document.location.protocol == 'http:') { 				var Tynt = Tynt || []; 				Tynt.push('buV5OqPIGr349Zadbi-bnq'); 				Tynt.i = {"ap" : "Read More"}; 				$.getScript('http://tcr.tynt.com/ti.js'); 			} 			//]]> </p>
+<p> //<![CDATA[ 		var statsPageProps = new Object; 		statsPageProps.eventsList = ''; 	//]]> </p>
+<p> //<![CDATA[ 			var useGoogleJSLogo = true; //displayhandler may override this value 			function setGoogleLogoIfNeeded() { 				if (useGoogleJSLogo) { 					setGoogleLogo(); 				} 			}  			tm.imageServer = 'http://images.icnetwork.co.uk/';  	 		delete tm.teaserBlocks; 	 		//]]> </p>
+<p> //<![CDATA[ 				tm.kyte.sitename = 'icwales2'; 			//]]> </p>
+<p> //<![CDATA[ 				document.domain="walesonline.co.uk"; 			//]]> </p>
+<p> //<![CDATA[ 				tm.siteLife.daapi.setServerUrl('http://community.walesonline.co.uk/ver1.0/Direct/Process'); 			//]]> </p>
+<p> //<![CDATA[ 				tm.zones = ';zone=news;zone1=wales%2Dnews'; 			//]]> </p>
+<p> //<![CDATA[ 				var rsi_segs = []; 				var segs_beg=document.cookie.indexOf('rsi_segs='); 				if (segs_beg>=0){ 					segs_beg=document.cookie.indexOf('=',segs_beg)+1; 					if(segs_beg>0){ 						var segs_end=document.cookie.indexOf(';',segs_beg); 						if(segs_end==-1) segs_end=document.cookie.length; 						rsi_segs=document.cookie.substring(segs_beg,segs_end).split('|'); 					} 				} 				var segLen=20; 				var segQS=""; 				if (rsi_segs.length<segLen){ 					segLen=rsi_segs.length 				} 				for (var i=0;i<segLen;i++){ 					segQS+=("rsi"+"="+rsi_segs[i]+";")					 				} 			//]]> </p>
+<p> //<![CDATA[   if (typeof dartOrd == 'undefined') dartOrd=Math.random()*10000000000000000000; if (typeof tm.zones == 'undefined') {tm.zones = "";}   document.write('<scr' + 	'ipt type="text/javascript" ' +  'src="http://ad.uk.doubleclick.net/adj/icwales2.5293/' +  'news;slot=top%5Fleaderboard;sect=wales%2Dnews;templ=page;cat=News;reg=Wales;st=other;oid=30105868;sz=728x90;gs_cat='+gs_channels+'' + tm.zones  +  ';dcopt=ist' +  ';tile=' + tm.nextTileValue() +  ';' + (typeof segQS != "undefined" ? segQS:"" ) +  ';ord=' +  dartOrd +    '?"><\/scr' +  'ipt>');   				//]]> </p>
+<p> //<![CDATA[   if (typeof dartOrd == 'undefined') dartOrd=Math.random()*10000000000000000000; if (typeof tm.zones == 'undefined') {tm.zones = "";}   document.write('<scr' + 	'ipt type="text/javascript" ' +  'src="http://ad.uk.doubleclick.net/adj/icwales2.5293/' +  'news;slot=top%5Fad;sect=wales%2Dnews;templ=page;cat=News;reg=Wales;st=other;oid=30105868;sz=255x90;gs_cat='+gs_channels+'' + tm.zones  +  ';tile=' + tm.nextTileValue() +  ';' + (typeof segQS != "undefined" ? segQS:"" ) +  ';ord=' +  dartOrd +    '?"><\/scr' +  'ipt>');   				//]]> </p>
+<p> Updated 8:47am 12 January 2012: </p>
+<p> //<![CDATA[ 				/* 	$Copyright Trinity Mirror $Date: 2009-08-11 16:28:00 +0100 (Tue, 11 Aug 2009) $ 	$Revision: 52471 $ */ // parse document.cookie // returns a string or null. function getCookieVal(key) { 	var pos = document.cookie.indexOf( key + "=" ); 	if( pos != -1 ) { 		var start = pos + key.length + 1;  		var end = document.cookie.indexOf(";", start); 		if( end == -1 ) end = document.cookie.length; 		var value = document.cookie.substring(start, end); 		return unescape(value); 	} 	return null; } /* set a key in document.cookie with optional expiry and path. */ function setCookieVal(key,value,duration_sec,path) { 	var theCookie = key + "=" + escape(value); 	if (duration_sec && duration_sec > 0) { 		var exp = new Date(); 		exp.setTime(exp.getTime() + (duration_sec * 1000)); 		theCookie += '; expires=' + exp.toGMTString(); 	} 	if (path) { 		theCookie += ';path=' + path; 	} 	document.cookie = theCookie; } /*  *   * Writes out headers for being logged in or not.  *   */  function writeAuthHeader(regionId, needsCookies, regUrl, mailAddress, needsDiv, commProfileUrl,  		type, profileUrl) {	 	var siteLifeUId = ""; 	var siteLifeDisplayName = ""; 	if (!type) { // consumer type 		type = 2; 	} 	 	if (needsCookies) { 		mailAddress = getCookieVal("AUTH_SITE" + regionId + "_EMAIL"); 		if (commProfileUrl) { 			var at = getCookieVal("AT"); 			if (at) { 				var atVals = at.split("&"); 				for (var i = 0; i < atVals.length; i++) { 					if (atVals[i].length > 2 && atVals[i].substring(0,2) == 'u=') { 						siteLifeUId = atVals[i].substring(2); 					} 					if (atVals[i].length > 2 && atVals[i].substring(0,2) == 'a=') { 						siteLifeDisplayName = atVals[i].substring(2); 						if (type != 1) { 							profileUrl = commProfileUrl + siteLifeDisplayName + '/'; 						}  					} 				} 			} 		} 	} 	if (type == 1) { // i.e. forums 		if (!profileUrl) { 			profileUrl = '/profile.php?mode=editprofile'; 		} else { 			//try to append session id to the profile url 			var sid = document.body.innerHTML.match(/sid=[0-9a-fA-F]+/); 			if (sid && sid.length) { 				profileUrl = profileUrl + '&' + sid; 			} 		} 	}  	if (needsDiv) {  		document.write('<div class="RegistrationHeader">'); 	}  	var a_redirect = location.href.match(/[&?]redirect=([^?&]*)/i); 	if (a_redirect != null) { 		var queryString = location.href.replace(/^[^?]*\?/, ''); 		redirectURL = a_redirect[1] + '&' + queryString.replace(/[&?](redirect|account|logout|register)=([^?&]*)/gi, ''); 	} else { 		redirectURL = escape(location.href); 	} 	 	if (mailAddress) { 		// User is logged in 		writeAuthHeaderLoggedIn(mailAddress, 								regUrl + '?account=1', 								regUrl + '?logout=1&redirect=' + redirectURL, 								profileUrl, 								siteLifeUId, 								siteLifeDisplayName);  	} else { 		// User is not logged in 		 		//removed register=1 to allow toggle between login and register pages 		var loginURL = regUrl + '?' + (type != 2 ? 'type='+type+'&' : '')  				+ 'redirect=' + redirectURL; 		loginURL = loginURL.replace(/[&?](register)=([^?&]*)/gi, ''); 		writeAuthHeaderLoggedOut(loginURL, regUrl + '?register=1&type='+type+'&redirect=' +  				redirectURL, profileUrl); 	} 	 	if (needsDiv) { 		document.write('</div>'); 	} }  			//]]> </p>
+<p> //<![CDATA[  function setAvatar(profileURL, loggedIn, profileURL ) { 	if (profileURL && loggedIn) { 		var avatar = document.getElementById('header-pluck-avatar'); 		if (avatar) { //see if we have a cookie with user avatar image 			var avatarImgURL = getCookieVal("PLUCK_USER_AVATAR"); 			var avatarImg = avatar.getElementsByTagName('IMG'); 			if (avatarImg.length == 1 && avatarImgURL) { 				avatarImg[0].src = avatarImgURL;  			} 			var avatarURL = avatar.getElementsByTagName('A'); 			if (avatarURL) { 				avatarURL[0].href = profileURL; 			} 		} 	} } 	 function writeAuthHeaderLoggedOut(loginURL, registerURL, profileURL) { 	document.write( 			'Join the Community!<br/>' + 			'<a href="' + loginURL + '">Log In</a>' +  			' | ' +  			'<a href="' + registerURL + '">Register</a>' 		); 		 	//hide the avatar if needed 	setAvatar(profileURL, false); }  function truncName( nam, cnt ) { 	var tNam = nam.substr(0, cnt); 	if (tNam != nam) { 		tNam = tNam + '&hellip;'; 	} 	return tNam; }  function writeAuthHeaderLoggedIn(mailAddress, accountURL, logoutURL, 						profileURL, siteLifeUId, displayName) { 	if (profileURL && siteLifeUId && displayName) { 		var welcome = 'Welcome ' +  				'<span class="username">' +  					'<a href="' + profileURL + '">' +  						truncName(displayName, 10) +  					'</a>' +  				'</span>'; 		setAvatar(true, true, profileURL); 	} else { 		var welcome = 'Welcome ' +  				'<span class="username">' + 					truncName(displayName ? displayName : mailAddress, 10 ) + 				'</span>'; 		//hide the avatar if needed 		setAvatar(false, true, profileURL ? profileURL : accountURL); 	} 	 	document.write(	 			welcome + '<br />' +  			'<span class="your-account"><a href="' + accountURL + '">My account</a></span>' + 			' | ' + 			'<span class="log-out"><a href="' + logoutURL + '">Log out</a></span>' 		); }  writeAuthHeader(54, 				true, 				'http://www.walesonline.co.uk/registration/index.cfm', 				null, 				false, 				'http://www.walesonline.co.uk/community/profile/', 				2  				);  	//]]> </p>
+<p> Get involved </p>
+<p> Send your stories </p>
+<p> | </p>
+<p> Contact us </p>
+<p> RSS news for you </p>
+<p> Home </p>
+<p> News </p>
+<p> Wales News </p>
+<p> CardiffOnline </p>
+<p> ValleysOnline </p>
+<p> Datastore </p>
+<p> Local Welsh News </p>
+<p> Columnists </p>
+<p> UK News </p>
+<p> World News </p>
+<p> Politics </p>
+<p> Education News </p>
+<p> Health News </p>
+<p> Country and Farming </p>
+<p> Letters to the editor </p>
+<p> Need to Read </p>
+<p> Corrections and clarifications </p>
+<p> Rugby </p>
+<p> Rugby News </p>
+<p> Focus on Rugby </p>
+<p> Rugby Columnists </p>
+<p> Blues </p>
+<p> Dragons </p>
+<p> Scarlets </p>
+<p> Ospreys </p>
+<p> Welsh Premier </p>
+<p> Divisions 1 East & West </p>
+<p> Divisions 2 - 6 </p>
+<p> Rugby Blogs </p>
+<p> Rugby World Cup 2011 Archive </p>
+<p> Sports </p>
+<p> Sports News </p>
+<p> Columnists </p>
+<p> Grassroots </p>
+<p> Parklife </p>
+<p> Olympics 2012 </p>
+<p> Athletics </p>
+<p> Cycling </p>
+<p> Boxing </p>
+<p> Tennis </p>
+<p> Glamorgan CCC </p>
+<p> Cricket </p>
+<p> Ice Hockey </p>
+<p> Golf </p>
+<p> Rugby League </p>
+<p> Motor Sport </p>
+<p> Football </p>
+<p> Football News </p>
+<p> Football Columnists </p>
+<p> Wales Football </p>
+<p> Cardiff City </p>
+<p> Swansea City </p>
+<p> Wrexham </p>
+<p> Merthyr Tydfil </p>
+<p> Newport County </p>
+<p> Welsh Premier </p>
+<p> Football Videos & Pictures </p>
+<p> Football Blogs </p>
+<p> Farewell to Ninian </p>
+<p> Lifestyle </p>
+<p> Showbiz </p>
+<p> Real Life </p>
+<p> Entertainment </p>
+<p> The Beauty Box </p>
+<p> Health & Fitness </p>
+<p> Weddings </p>
+<p> Food & Drink </p>
+<p> Style & Shopping </p>
+<p> Home & Interiors </p>
+<p> Wellbeing </p>
+<p> Books </p>
+<p> WM Magazine </p>
+<p> Lifestyle Blogs </p>
+<p> Columnists </p>
+<p> Horoscopes </p>
+<p> Entertainment </p>
+<p> Business </p>
+<p> Business News </p>
+<p> Features </p>
+<p> Business Columnists </p>
+<p> Commercial Property </p>
+<p> Personal Finance </p>
+<p> Videos & Pictures </p>
+<p> Business Advice </p>
+<p> Appointments </p>
+<p> Assembly Business </p>
+<p> Business Debate </p>
+<p> Business Calendar </p>
+<p> Business Deals </p>
+<p> Business Style </p>
+<p> Top 300 </p>
+<p> Business in Wales magazine </p>
+<p> Classifieds </p>
+<p> Business in Wales </p>
+<p> Business in Swansea </p>
+<p> Business in Cardiff </p>
+<p> Bookanad.com </p>
+<p> LocalMole </p>
+<p> Jobs Wales </p>
+<p> Motors Wales </p>
+<p> Homes Wales </p>
+<p> BuySell </p>
+<p> Discount Vouchers </p>
+<p> Family Notices BMD </p>
+<p> Public Notices </p>
+<p> Dating </p>
+<p> Your Money </p>
+<p> Travel </p>
+<p> Videos & Pics </p>
+<p> News </p>
+<p> Pembrokeshire Murders </p>
+<p> Royal Wedding </p>
+<p> Sport </p>
+<p> Business </p>
+<p> Politics </p>
+<p> History & Nostalgia </p>
+<p> Health Check Wales </p>
+<p> Go Green </p>
+<p> Entertainment </p>
+<p> Your Videos & Pics </p>
+<p> Buy A Photo </p>
+<p> Photoblog </p>
+<p> Photomarathon </p>
+<p> Big Picture </p>
+<p> Go Green </p>
+<p> News </p>
+<p> Green Living </p>
+<p> Climate Change </p>
+<p> Business </p>
+<p> Energy </p>
+<p> Environment </p>
+<p> Partners </p>
+<p> Go Green Video </p>
+<p> Transport </p>
+<p> Waste </p>
+<p> Communities </p>
+<p> Green Blogs </p>
+<p> Health Check Wales </p>
+<p> Health News </p>
+<p> Diet </p>
+<p> Fitness </p>
+<p> Health Features </p>
+<p> UK & World Health News </p>
+<p> Information </p>
+<p> CardiffOnline </p>
+<p> Cardiff news </p>
+<p> Cardiff Rugby </p>
+<p> Cardiff Football </p>
+<p> yourCardiff </p>
+<p> //<![CDATA[ 				 				function megaHoverOver(){                        $(this).find(".sub").stop().fadeTo('fast', 1).show();                                                //Calculate width of all ul's                        (function($){                            jQuery.fn.calcSubWidth = function(){                                rowWidth = 0;                                //Calculate row                                $(this).find("ul").each(function(){                                    rowWidth += $(this).width();                                });                            };                        })(jQuery);                                                if ($(this).find(".row").length > 0) { //If row exists...                            var biggestRow = 0;                            //Calculate each row                            $(this).find(".row").each(function(){                                $(this).calcSubWidth();                                //Find biggest row                                if (rowWidth > biggestRow) {                                    biggestRow = rowWidth;                                }                            });                            //Set width                            $(this).find(".sub").css({                                'width': biggestRow                            });                            $(this).find(".row:last").css({                                'margin': '0'                            });                                                    }                        else { //If row does not exist...                            $(this).calcSubWidth();                            //Set Width                            $(this).find(".sub").css({                                'width': rowWidth                            });                                                    }                    }                                        function megaHoverOut(){                        $(this).find(".sub").stop().fadeTo('fast', 0, function(){                            $(this).hide();                        });                    }                                                            var config = {                        sensitivity: 1, // number = sensitivity threshold (must be 1 or higher)                            interval: 50, // number = milliseconds for onMouseOver polling interval                            over: megaHoverOver, // function = onMouseOver callback (REQUIRED)                            timeout: 100, // number = milliseconds delay before onMouseOut                            out: megaHoverOut // function = onMouseOut callback (REQUIRED)                        };                                        $("ul#topnav li .sub").css({                        'opacity': '0'                    });                    $("ul#topnav li").hoverIntent(config);                                        //add new flag based on the newuntil attribute set above                    var subNavItems = $('.newuntil');                                        $('.newuntil').each(function(){                    	try {                     	var dateBits = $(this).attr('class').replace('newuntil ', '');                     	var dateBits = dateBits ? dateBits.split('/') : [];                     	var d = new Date();                     	if (dateBits.length == 3 ) {                     		var today = new Date(d.getFullYear(), d.getMonth()+1, d.getDate());                     		var navExpiryDate = new Date( dateBits[2], dateBits[1], dateBits[0]);  	                    	if ( navExpiryDate >= today ) {                     			$('a', this).append('<span>new</span>');                     			tm.logger.info(['New Nav Item', nDate + ' IS >= ' + cDate ]);                     		} else {                     			tm.logger.info(['Old Nav Item', nDate + ' IS NOT >= ' + cDate ]);                     		}                     	}                     } catch (Ex) {}                    });             //]]> </p>
+<p> Hot Topics » </p>
+<p> Boundary changes </p>
+<p> Celebrity Big Brother </p>
+<p> Katherine Jenkins </p>
+<p> Join our Flickr Group </p>
+<p> Jacks Banter </p>
+<p> Bluebirds Banter </p>
+<p> Popular articles </p>
+<p> Home </p>
+<p> News </p>
+<p> Wales News </p>
+<p> //<![CDATA[   if (typeof dartOrd == 'undefined') dartOrd=Math.random()*10000000000000000000; if (typeof tm.zones == 'undefined') {tm.zones = "";}   document.write('<scr' + 	'ipt type="text/javascript" ' +  'src="http://ad.uk.doubleclick.net/adj/icwales2.5293/' +  'news;slot=sponsorship;sect=wales%2Dnews;templ=page;cat=News;reg=Wales;st=other;oid=30105868;sz=140x60;gs_cat='+gs_channels+'' + tm.zones  +  ';tile=' + tm.nextTileValue() +  ';' + (typeof segQS != "undefined" ? segQS:"" ) +  ';ord=' +  dartOrd +    '?"><\/scr' +  'ipt>');   				//]]> </p>
+<p> Patients die or suffer harm in 10% of NHS safety mishaps </p>
+<p> by </p>
+<p> Madeleine Brindley </p>
+<p> , WalesOnline </p>
+<p> Jan 12 2012 </p>
+<p> //<![CDATA[ 	 	(function(){ 	var sitelifeId = tm.siteLife.display.getUniqueId(); 	document.write('<div class="SiteLife_comment"><a id="sitelife-commentsWidget-top" href="#sitelife-commentsWidget-bottom" onclick="window.location.hash=this.href.split(\'#\')[1];return false;"></a></div>'); 	 	tm.siteLife.daapi.getArticle( 	"54-91466-30105868", 	function(article){ 	tm.siteLife.display.displayCommentCount( 	article, 	'sitelife-commentsWidget-top', 	false, 	'Comments', 	true, 	false 	); 	} 	); 	})();//call anonymous function 	//]]> </p>
+<p> //<![CDATA[ 	gSiteLife.Recommend("ExternalResource", "54-91466-30105868"); 	//]]> </p>
+<p> //<![CDATA[ 	var addthis_config = {"data_track_clickback":true, 	services_compact: 'reddit,stumbleupon,tumblr,delicious,blogger,wordpress' 	}; 	var addthis_share = { 	url: self.location+'' 	, title: document.title.substr(0, document.title.lastIndexOf("-") - 1 , document.title.length ) 	 	+ " from @walesonline" 	 	}; 	//]]> </p>
+<p> Surgical instruments </p>
+<p> Almost one in 10 patient safety incidents in the NHS Wales results in significant harm to patients, new figures show. </p>
+<p> The reports, which cover the six months between April and September last year, show there were 55 deaths and 68 incidents of “severe harm” to patients in health boards and NHS trusts in Wales from such incidents. </p>
+<p> In some parts of the NHS the number of deaths and incidents of severe harm have risen steeply in the last six months. </p>
+<p> Kirsty Williams, leader of the Welsh Liberal Democrats, has called on Health Minister Lesley Griffiths to investigate relatively high death rates in some health boards. </p>
+<p> //<![CDATA[   if (typeof dartOrd == 'undefined') dartOrd=Math.random()*10000000000000000000; if (typeof tm.zones == 'undefined') {tm.zones = "";}   document.write('<scr' + 	'ipt type="text/javascript" ' +  'src="http://ad.uk.doubleclick.net/adj/icwales2.5293/' +  'article_mpu;slot=article%5Fmpu;sect=wales%2Dnews;templ=page;cat=News;reg=Wales;st=other;oid=30105868;sz=300x250;gs_cat='+gs_channels+'' + tm.zones +  ';tile=' + tm.nextTileValue() +  ';' + (typeof segQS != "undefined" ? segQS:"" ) +  ';ord=' +  dartOrd +    '?"><\/scr' +  'ipt>');   	//]]> </p>
+<p> According to reports submitted to the National Patient Safety Agency, more than 40 patients have died in patient safety incidents at Betsi Cadwaladr University Health Board in the course of 18 months and there were almost 30 deaths at both Abertawe Bro Morgannwg University Health Board and Hywel Dda Health Board, in the same period. </p>
+<p> An investigation was launched into a reported 41 deaths at Aneurin Bevan Health Board between April and September and it resulted in the figure being revised to 18. </p>
+<p> Ms Williams said: “It is accepted that some patients will die in hospitals, but it is unacceptable that patients die due to hospital error. </p>
+<p> “In the last two years, more than 40 patients have died unnecessarily under the care of the Betsi Cadwaladr University Health Board. Surely that statistic is alarming enough to warrant an investigation? </p>
+<p> “If the health boards can learn from their mistakes, they can reduce the number of people who die needlessly in our NHS. </p>
+<p> “Patient safety and welfare is paramount, which is why I have written to the Health Minister demanding that she looks into this issue with a matter of urgency. This is clearly a systematic problem that the Labour Government needs to address.” </p>
+<p> The figures also raise concerns about whether health boards are reporting all incidents as Powys Local Health Board said there had been just one between April and September last year. </p>
+<p> But in the previous six months, the health board had reported 264 incidents, including one which resulted in the death of a patient. </p>
+<p> A spokesman for Powys Local Health Board said: “There has clearly been an error in the data published. We are looking into the process of preparing and uploading this data to identify the error. Once this is complete we will ensure that the report is corrected as soon as possible.” </p>
+<p> Overall, the April to September 2011 figures show there were 26,749 reported incidents, a 9% drop on the previous six-month period. The vast majority of these incidents – 91% – resulted in no or “low” harm to a patient. </p>
+<p> A Welsh Government spokesman said: “Every year, thousands of patients receive high quality, safe and effective treatment, but in a modern health system – where increasingly complicated procedures are being undertaken – sadly, mistakes can, and will, still happen. </p>
+<p> “When this happens, the NHS must investigate and take action, where appropriate, and provide assurances and feedback to patients. </p>
+<p> “As the figures show, the overwhelming majority of incidents result in no harm to patients. It is important every incident, no matter how small or serious, is reported to ensure they can be investigated and measures put in place to reduce the risk of them happening again. </p>
+<p> “We encourage high reporting as this provides organisations with more opportunities to learn from incidents and improve safety. </p>
+<p> “We know from research that high reporting is a positive indicator of an open and supportive safety culture. </p>
+<p> “The 1,000 Lives campaign saved an additional 1,199 lives in Welsh healthcare and staff continue to deliver major improvements on critical care wards, in operating theatres and in the community, including the reduction of pressure ulcers and healthcare associated infections.” </p>
+<p> //<![CDATA[ 	 	(function(){ 	var sitelifeId = tm.siteLife.display.getUniqueId(); 	document.write('<div class="SiteLife_comment"><a id="sitelife-commentsWidget-middle" href="#sitelife-commentsWidget-bottom" onclick="window.location.hash=this.href.split(\'#\')[1];return false;"></a></div>'); 	 	tm.siteLife.daapi.getArticle( 	"54-91466-30105868", 	function(article){ 	tm.siteLife.display.displayCommentCount( 	article, 	'sitelife-commentsWidget-middle', 	false, 	'Comments', 	true, 	false 	); 	} 	); 	})();//call anonymous function 	//]]> </p>
+<p> //<![CDATA[ 	gSiteLife.Recommend("ExternalResource", "54-91466-30105868"); 	//]]> </p>
+<p> //<![CDATA[ 	var OB_Template = 'WalesOnline'; 	var OB_permalink = 'http://www.walesonline.co.uk/news/wales-news/2012/01/12/patients-die-or-suffer-harm-in-10-of-nhs-safety-mishaps-91466-30105868/'; 	if (typeof(OB_Script) != 'undefined') { 	OutbrainStart(); 	} 	else { 	var OB_Script = true; 	document.write(unescape("%3Cscript src=\'http://widgets.outbrain.com/outbrainWidget.js\' type=\'text/javascript\'%3E%3C/script%3E")); 	} 	//]]> </p>
+<p> Related Tags </p>
+<p> 1000 lives plus </p>
+<p> , </p>
+<p> deaths </p>
+<p> , </p>
+<p> nhs </p>
+<p> , </p>
+<p> patient safety </p>
+<p> (What's this) </p>
+<p> Related Stories </p>
+<p> NHS Wales chief executive David Sissling sets out five challenges facing the service in 2012 </p>
+<p> Jan 9 2012 </p>
+<p> Blind and deaf are ‘forgotten’ by NHS, report reveals </p>
+<p> Jan 9 2012 </p>
+<p> Blind patient discusses difficulties of accessing NHS services </p>
+<p> Jan 9 2012 </p>
+<p> Seventy-two million and rising - what happens to your prescription? </p>
+<p> Jan 9 2012 </p>
+<p> NHS in Wales will pay to remove banned breast implants </p>
+<p> Jan 6 2012 </p>
+<p> Head of NHS in Wales calls for reduction on spending on agency and locum staff </p>
+<p> Jan 6 2012 </p>
+<p> Data: NHS Agency Staff Spend </p>
+<p> Jan 4 2012 </p>
+<p> Should Chris Coleman be the next Wales football manager? </p>
+<p> //<![CDATA[ 				var google_adnum = 0;  			 				function google_ad_request_done(google_ads) { 			 					if (google_ads.length == 0) { 						return; 					}  					function anchorLink(str,url,visible_url,cssclass) { 						 return '<a href="'+ url + '" ' 							+ ((typeof(cssclass)=='undefined')?(' '):(' class="'+cssclass+'" ')) 							+ '\'" onmouseover="window.status=\''  + encodeURI(visible_url) 							+ '\'" onmouseout="window.status=\'\'">' + str + '</a>'; 					}  					google_adnum += google_ads.length;  					if (typeof(google_info)=="undefined"){ 						var feedback_url = "http://services.google.com/feedback/online_hws_feedback"; 					} else { 						var feedback_url = google_info.feedback_url; 					}  					if('pub-6059318011805114'=='pub-4010713000150964'){ 						var s =	'<div class="'+ wrapperClass +'"><h4 class="list-head-color1 "><a class="google-adlink" href="'+feedback_url+'">Sponsored Links</a></h4>'; 					} else { 						var s =	'<div class="'+ wrapperClass +'"><h4 class="list-head-color1 ">Sponsored Links</h4>' + 								'<div class="sponsored-link"><p><a class="google-adlink" href="' 								+feedback_url+'">Ads by Google</a></p></div>'; 					}  					for (var i = 0; i < google_ads.length; ++i) { 						if (google_ads[i].type == "image") { 							s +='<a href="' + google_ads[i].url + 								'" target="_top" title="go to ' + google_ads[i].visible_url + 								'"><img style="border:0" src="' + google_ads[i].image_url + 								'"width="' + google_ads[i].image_width + 								'"height="' + google_ads[i].image_height + '"/></a>'; 						} else { 							s += '<div class="sponsored-link">' + 								'<h5>' + anchorLink(google_ads[i].line1,google_ads[i].url, 										google_ads[i].visible_url) + '</h5>' 								+ '<p>' + google_ads[i].line2 + '&nbsp;' 								+ ((typeof(google_ads[i].line3)=='undefined')?(' '):( google_ads[i].line3 )) 								+ '<br />' 								+ '<span>' + anchorLink(google_ads[i].visible_url,google_ads[i].url, 										google_ads[i].visible_url,"google-adlink") + '</span>' 								+ '</p></div>'; 						} 					}  					s += '</div>' + "\r\n"; 					wrapperClass = null;  					document.write(s); 					return; 				} 				//]]> </p>
+<p> google_max_num_ads = '2'; 		google_ad_channel = '3941327537+7778083637'; 		google_ad_type = 'text'; 		google_ad_client = 'pub-6059318011805114'; 		google_feedback = 'on'; 		google_language = 'en'; 		google_encoding = 'utf8'; 		 			google_skip = google_adnum; 			google_ad_output = 'js'; 		 		var wrapperClass = 'share-article'; </p>
+<p> Share </p>
+<p> //<![CDATA[ 			 			 			var fcwLogger = function(){}; 			if( tm.siteLife.logger != null){ 				fcwLogger = function(level){ 					tm.siteLife.logger.log(level, 'fullCommentsWidget', arguments); 				} 				fcwLogger('info','log enabled'); 			}  			(function(){  				var sitelifeId = tm.siteLife.display.getUniqueId(); 				document.write('<span id="sitelife-comments-bottom"></span>'); 				document.write('<div id="sitelife-commentsWidget-bottom"></div>');   				tm.siteLife.daapi.getArticle( 					"54-91466-30105868", 					function(article){ 						tm.siteLife.display.displayCommentCount( 							article, 							'sitelife-commentsWidget-bottom', 							false, 							'Comments', 							false 						); 					} 				); 			})();  			var pluckLoginURL = 						"http://www.walesonline.co.uk/registration/index.cfm?redirect=", 					pluckRegisterURL = 						"http://www.walesonline.co.uk/registration/index.cfm?register=1&type=4&redirect=";  		//]]> </p>
+<p> Related Stories </p>
+<p> NHS Wales chief executive David Sissling sets out five challenges facing the service in 2012 </p>
+<p> Jan 9 2012 </p>
+<p> Blind and deaf are ‘forgotten’ by NHS, report reveals </p>
+<p> Jan 9 2012 </p>
+<p> Blind patient discusses difficulties of accessing NHS services </p>
+<p> Jan 9 2012 </p>
+<p> Seventy-two million and rising - what happens to your prescription? </p>
+<p> Jan 9 2012 </p>
+<p> NHS in Wales will pay to remove banned breast implants </p>
+<p> Jan 6 2012 </p>
+<p> //<![CDATA[ 					function checktopsearch(frm) { 						if (frm.q.value.replace(/^[\s\t]*/, "").replace(/[\s\t]*$/, "") == '') { 							alert("Please enter some search text"); 							frm.q.focus(); 							return false; 						} 						return true; 					} 					useGoogleJSLogo = true; 			//]]> </p>
+<p> Site </p>
+<p> Web </p>
+<p> //<![CDATA[   if (typeof dartOrdT160x60 == 'undefined') dartOrdT160x60=Math.random()*10000000000000000000; if (typeof tm.zones == 'undefined') {tm.zones = "";}   document.write('<scr' + 	'ipt type="text/javascript" ' +  'src="http://ad.uk.doubleclick.net/adj/icwales2.5293/' +  'news;tp=1;tn=2;to=h;tr=1;tcs=2;te=2;slot=right%5Ftable1%5FR21;sect=wales%2Dnews;templ=page;cat=News;reg=Wales;st=other;oid=30105868;sz=160x60,160x120;gs_cat='+gs_channels+'' + tm.zones  +  ';' + (typeof segQS != "undefined" ? segQS:"" ) +  ';ord=' +  dartOrdT160x60 +    '?"><\/scr' +  'ipt>');   				//]]> </p>
+<p> //<![CDATA[   if (typeof dartOrd == 'undefined') dartOrd=Math.random()*10000000000000000000; if (typeof tm.zones == 'undefined') {tm.zones = "";}   document.write('<scr' + 	'ipt type="text/javascript" ' +  'src="http://ad.uk.doubleclick.net/adj/icwales2.5293/' +  'news;slot=mpu;sect=wales%2Dnews;templ=page;cat=News;reg=Wales;st=other;oid=30105868;sz=300x250,300x600;gs_cat='+gs_channels+'' + tm.zones  +  ';tile=' + tm.nextTileValue() +  ';' + (typeof segQS != "undefined" ? segQS:"" ) +  ';ord=' +  dartOrd +    '?"><\/scr' +  'ipt>');   				//]]> </p>
+<p> Walesonline Classifieds </p>
+<p> bookanad.com </p>
+<p> Jobs in Wales </p>
+<p> Cars in Wales </p>
+<p> Find a dream date </p>
+<p> Photosales </p>
+<p> Wales Vouchers </p>
+<p> Find local business </p>
+<p> Homes in Wales </p>
+<p> BuySell </p>
+<p> Cashback </p>
+<p> Advertise </p>
+<p> Video Production </p>
+<p> LocalMole.co.uk Business Finder </p>
+<p> Please enter a Business and Location. </p>
+<p> Pubs in Cardiff </p>
+<p> Plumbers in Cardiff </p>
+<p> Restaurants in Cardiff </p>
+<p> Builders in Cardiff </p>
+<p> Hotels in Cardiff </p>
+<p> Schools in Cardiff </p>
+<p> More Cardiff Businesses » </p>
+<p> Accountants in Cardiff </p>
+<p> Architects in Cardiff </p>
+<p> Beauty Salons in Cardiff </p>
+<p> Business Centres in Cardiff </p>
+<p> Business Services in Cardiff </p>
+<p> Cafes in Cardiff </p>
+<p> Caravan Dealers in Cardiff </p>
+<p> Car Dealers in Cardiff </p>
+<p> Car Hire in Cardiff </p>
+<p> Care Homes in Cardiff </p>
+<p> Cleaners in Cardiff </p>
+<p> Computer Repair in Cardiff </p>
+<p> Debt Advice in Cardiff </p>
+<p> Dentists in Cardiff </p>
+<p> Doctors in Cardiff </p>
+<p> Driving Schools in Cardiff </p>
+<p> Electricians in Cardiff </p>
+<p> Estate Agents in Cardiff </p>
+<p> Florists in Cardiff </p>
+<p> Funeral Directors in Cardiff </p>
+<p> Garden Centres in Cardiff </p>
+<p> Hairdressers in Cardiff </p>
+<p> Insurance Services in Cardiff </p>
+<p> Lawyers in Cardiff </p>
+<p> Locksmiths in Cardiff </p>
+<p> Marketing Companies in Cardiff </p>
+<p> Mobile Phones in Cardiff </p>
+<p> Museums in Cardiff </p>
+<p> Nursery Schools in Cardiff </p>
+<p> Office Rental in Cardiff </p>
+<p> Pet Services in Cardiff </p>
+<p> Plasterers in Cardiff </p>
+<p> Solicitors in Cardiff </p>
+<p> Takeaways in Cardiff </p>
+<p> Taxis in Cardiff </p>
+<p> Wedding Services in Cardiff </p>
+<p> $("a.lm-toggle").toggle( 	function(){ 	$(this).parent().next().show(); 	$(this).text("Hide"); 	return false; 	},  	function(){ 	$(this).parent().next().hide(); 	$(this).text("More Businesses in Cardiff"); 	return false; 	} 	); </p>
+<p> List your business for free » </p>
+<p> //<![CDATA[   if (typeof dartOrdT160x60 == 'undefined') dartOrdT160x60=Math.random()*10000000000000000000; if (typeof tm.zones == 'undefined') {tm.zones = "";}   document.write('<scr' + 	'ipt type="text/javascript" ' +  'src="http://ad.uk.doubleclick.net/adj/icwales2.5293/' +  'news;tp=1;tn=2;to=h;tr=1;tcs=2;te=2;slot=right%5Ftable2%5FR21;sect=wales%2Dnews;templ=page;cat=News;reg=Wales;st=other;oid=30105868;sz=160x60,160x120;gs_cat='+gs_channels+'' + tm.zones  +  ';' + (typeof segQS != "undefined" ? segQS:"" ) +  ';ord=' +  dartOrdT160x60 +    '?"><\/scr' +  'ipt>');   				//]]> </p>
+<p> google_max_num_ads = '6'; 		google_ad_channel = '8617321078+7778083637'; 		google_ad_type = 'text'; 		google_ad_client = 'pub-6059318011805114'; 		google_feedback = 'on'; 		google_language = 'en'; 		google_encoding = 'utf8'; 		 			google_skip = google_adnum; 			google_ad_output = 'js'; 		 		var wrapperClass = 'one-col'; </p>
+<p> //<![CDATA[   if (typeof dartOrd == 'undefined') dartOrd=Math.random()*10000000000000000000; if (typeof tm.zones == 'undefined') {tm.zones = "";}   document.write('<scr' + 	'ipt type="text/javascript" ' +  'src="http://ad.uk.doubleclick.net/adj/icwales2.5293/' +  'news;slot=right%5Fsky;sect=wales%2Dnews;templ=page;cat=News;reg=Wales;st=other;oid=30105868;sz=120x600,160x600;gs_cat='+gs_channels+'' + tm.zones  +  ';tile=' + tm.nextTileValue() +  ';' + (typeof segQS != "undefined" ? segQS:"" ) +  ';ord=' +  dartOrd +    '?"><\/scr' +  'ipt>');   				//]]> </p>
+<p> Hot Topics » </p>
+<p> Boundary changes </p>
+<p> Celebrity Big Brother </p>
+<p> Katherine Jenkins </p>
+<p> Join our Flickr Group </p>
+<p> Jacks Banter </p>
+<p> Bluebirds Banter </p>
+<p> Popular articles </p>
+<p> WalesOnline, the best source for Welsh news, sport, business and entertainment. Powered by the Western Mail, South Wales Echo, Wales on Sunday and Celtic Weekly Newspapers. Produced by Media Wales Ltd. </p>
+<p> Contact us </p>
+<p> . </p>
+<p> About us </p>
+<p> WalesOnline, the best source for </p>
+<p> Welsh news </p>
+<p> , sport, </p>
+<p> business </p>
+<p> and </p>
+<p> lifestyle </p>
+<p> and </p>
+<p> entertainment </p>
+<p> . Powered by the Western Mail, South Wales Echo, Wales on Sunday and Celtic Weekly Newspapers. Produced by </p>
+<p> Media Wales Ltd </p>
+<p> . </p>
+<p> Login or Register </p>
+<p> Popular sections </p>
+<p> Home </p>
+<p> News </p>
+<p> Cardiff News </p>
+<p> South Wales Valleys News </p>
+<p> UK News </p>
+<p> Rugby News </p>
+<p> Cardiff Blues </p>
+<p> Dragons </p>
+<p> Scarlets </p>
+<p> Ospreys </p>
+<p> Welsh Premier League </p>
+<p> FootballNation </p>
+<p> Football News </p>
+<p> Cardiff City FC News </p>
+<p> Swansea City FC News </p>
+<p> Business </p>
+<p> Videos & Pics </p>
+<p> News Videos </p>
+<p> Sports Videos </p>
+<p> News Pictures </p>
+<p> Sports Pictures </p>
+<p> Join our Flickr Group </p>
+<p> Audio </p>
+<p> Country & Farming </p>
+<p> Special Features </p>
+<p> Useful links </p>
+<p> Sitemap </p>
+<p> Contact Us </p>
+<p> Complaints </p>
+<p> Corrections and Clarifications </p>
+<p> Book an advert in our newspapers or online </p>
+<p> Accessibility </p>
+<p> RSS feed info </p>
+<p> Weather </p>
+<p> Send Your Stories </p>
+<p> Our Twitter Feed </p>
+<p> Our Facebook Group </p>
+<p> yourCardiff </p>
+<p> Letters to the editor </p>
+<p> Datastore </p>
+<p> Topic Index </p>
+<p> Journalist directory </p>
+<p> Community Guidelines </p>
+<p> Frequently Asked Questions </p>
+<p> Advertising Information </p>
+<p> Subscriptions </p>
+<p> Buy a photo </p>
+<p> Our site network </p>
+<p> Jobs Wales </p>
+<p> Homes Wales </p>
+<p> Motors Wales </p>
+<p> WalesOnline Dating </p>
+<p> The Geek Files </p>
+<p> Buy & Sell Locally </p>
+<p> Book an ad </p>
+<p> Cashback </p>
+<p> LocalMole - Trusted Local Businesses </p>
+<p> Property Search Cardiff </p>
+<p> Mirror Reader Offers </p>
+<p> Copyright and Trade Mark Notice </p>
+<p> © 2012 owned by or licensed to Media Wales Ltd. WalesOnline™ is a trade mark of Media Wales Ltd. Please read our </p>
+<p> Terms and Conditions </p>
+<p> and </p>
+<p> Privacy Statement </p>
+<p> before using this site. </p>
+<p> //<![CDATA[   if (typeof dartOrd == 'undefined') dartOrd=Math.random()*10000000000000000000; if (typeof tm.zones == 'undefined') {tm.zones = "";}   document.write('<scr' + 	'ipt type="text/javascript" ' +  'src="http://ad.uk.doubleclick.net/adj/icwales2.5293/' +  'news;slot=bottom%5Fleaderboard;sect=wales%2Dnews;templ=page;cat=News;reg=Wales;st=other;oid=30105868;sz=728x90;gs_cat='+gs_channels+'' + tm.zones  +  ';tile=' + tm.nextTileValue() +  ';' + (typeof segQS != "undefined" ? segQS:"" ) +  ';ord=' +  dartOrd +    '?"><\/scr' +  'ipt>');   				//]]> </p>
+<p> //<![CDATA[   if (typeof dartOrd == 'undefined') dartOrd=Math.random()*10000000000000000000; if (typeof tm.zones == 'undefined') {tm.zones = "";}   document.write('<scr' + 	'ipt type="text/javascript" ' +  'src="http://ad.uk.doubleclick.net/adj/icwales2.5293/' +  'news;slot=bottom%5Fad;sect=wales%2Dnews;templ=page;cat=News;reg=Wales;st=other;oid=30105868;sz=255x90;gs_cat='+gs_channels+'' + tm.zones  +  ';tile=' + tm.nextTileValue() +  ';' + (typeof segQS != "undefined" ? segQS:"" ) +  ';ord=' +  dartOrd +    '?"><\/scr' +  'ipt>');   				//]]> </p>
+<p> <!--  var OMNI_DEBUG_LEVEL = 33;     function GetURLVars() { 	 	var args = new Object(); 	a_pairs = document.location.search.split(/[?&]/); 	for (i = 0; i < a_pairs.length; i ++) { 		 		a_bits = a_pairs[i].split('='); 		if ((a_bits.length == 2) && (a_bits[0].length)) { 			if (args[a_bits[0]] == undefined) { 				 				args[a_bits[0]] = unescape(a_bits[1]); 			} else { 				 				args[a_bits[0]] = args[a_bits[0]] + ',' + unescape(a_bits[1]); 			} 		} 	}  	return args; }  function GetCampaign() { 	var urlvars = GetURLVars(); 	var campaignSrc; 	if (typeof(urlvars.campaign) != 'undefined') { 		campaignSrc = urlvars.campaign; 	} else { 		campaignSrc =""; 	} 	return campaignSrc; }   var s_account; s_account = s_account || "mgntrinitymirroraggregate,tmr-icwales"; //--> </p>
+<p> <!--  var pageName = "icwales2/News/Wales News"   if (typeof startLoadTime != 'undefined') { 	var endLoadTime = (new Date()).getTime(); 	var totalLoadTime = Math.round((endLoadTime - startLoadTime) / 100) /10; } else { 	var totalLoadTime = 0; }   s.channel="News"; s.pageType=""; s.prop1="News|Wales News"; s.prop2=""; s.prop3=""; s.prop4="";   s.prop5 = "icwales2"; try { 	var omnitureSitename = ( 		(typeof getCookieVal == 'undefined')?getCookie:getCookieVal 	)('brandingheader_site_name'); 	if (omnitureSitename) s.prop5 = omnitureSitename; } catch(e) { 	 }  s.prop9="page.cfm" s.prop10="30105868" s.prop11="" s.prop12="" s.prop13="" s.prop14=GetCampaign(); s.prop16="Wales" s.prop18="News" s.prop19="30105868" s.prop21="Wales-WME" s.prop24="" s.prop27 = totalLoadTime s.prop30="article"  s.hier1="icwales2|News|Wales News"   s.campaign=s.prop14 s.state="" s.zip="" s.products="" s.purchaseID="" var eVar1Val="" var eVar2Val="" var eVar3Val="" var eVar4Val="" var eventsList=""  s.prop15="icwales2_patients-die-or-suffer-harm-in-10-of-nhs-safety-mishaps" s.prop22=s.prop23="" if (typeof(statsPageProps)!='undefined'){ 	if (typeof(statsPageProps.productCode)!='undefined')s.products=';'+statsPageProps.productCode 	if (typeof(statsPageProps.jobSearchLocation)!='undefined')eVar3Val=statsPageProps.jobSearchLocation 	if (typeof(statsPageProps.jobSearchIndustry)!='undefined')eVar4Val=statsPageProps.jobSearchIndustry 	eventsList=statsPageProps.eventsList 	if (typeof(statsPageProps.videoTitle)!='undefined'){ 		eVar2Val=s.prop23=statsPageProps.videoTitle; 	 	} 	/* override props if defined from header var statsPageProps */ 	if (typeof(statsPageProps.path1) != 'undefined') { 			s.prop1 = statsPageProps.path1; 	} 	if (typeof(statsPageProps.path2) != 'undefined') { 			s.prop2 = statsPageProps.path2; 	} 	if (typeof(statsPageProps.path3) != 'undefined') { 			s.prop3 = statsPageProps.path3; 	} 	if (typeof(statsPageProps.siteName) != 'undefined') { 			s.prop5 = statsPageProps.siteName; 	} 	if (typeof(statsPageProps.region) != 'undefined') { 		s.prop16 = statsPageProps.region; 	} 	if (typeof(statsPageProps.itemTitle) != 'undefined') { 		s.prop19 = statsPageProps.itemTitle; 	} 	if (typeof(statsPageProps.publishingGroup) != 'undefined') { 		s.prop21 = statsPageProps.publishingGroup; 	} 	if (typeof(statsPageProps.channel) != 'undefined') { 		s.channel = statsPageProps.channel; 	} 	if (typeof(statsPageProps.classifiedCategory) != 'undefined') { 		statsClassifiedCategory = statsPageProps.classifiedCategory; 	} 	if (typeof(statsPageProps.contentCategory) != 'undefined') { 		statsContentCategory = statsPageProps.contentCategory; 	}  	 	if (typeof(statsPageProps.moleBusinessName) != 'undefined') { 		s.prop26='Mole-Enquiry'; 		s.eVar7=statsPageProps.moleBusinessName; 	}  	// in case the kyte video starts playing before s is defined, then the event will be sent here 	if (typeof(statsPageProps.kyteEvent) != 'undefined') { 		eventsList += (eventsList ? ',' : '') + statsPageProps.kyteEvent; 	}  	// for image gallery kyte shows 	if (typeof(statsPageProps.galleryName) != 'undefined') { 		s.prop35=statsPageProps.galleryName; 		s.eVar12=statsPageProps.galleryName; 	} 	 	// for offers flyout 	if (typeof(statsPageProps.flyout) != 'undefined') { 		s.prop36 = statsPageProps.flyout; 	} }      s.events=eventsList s.eVar1=eVar1Val s.eVar2=eVar2Val s.eVar3=eVar3Val s.eVar4=eVar4Val s.eVar5=""   s.pageName = setOmniturePageName(pageName); if (typeof(statsPageProps)!='undefined' && typeof(statsPageProps.pageNameSuffix)!='undefined') { 	s.pageName += statsPageProps.pageNameSuffix; // adds a suffix if present on page. }  if (typeof(statsClassifiedCategory) != "undefined") { 	 	s.prop4 = statsClassifiedCategory; 	 	s.prop18 = s.prop18 || statsClassifiedCategory; } if (typeof(statsContentCategory) != "undefined") { 	s.prop18 = statsContentCategory; }  if (s.prop4 != "" && s.prop5 != "") s.prop12 = s.prop5 + "_" + s.prop4; if (s.prop4 != "" && s.prop16 != "") s.prop17 = s.prop16 + "_" + s.prop4; var s_code=s.t();if(s_code)document.write(s_code);   var puffLinks = $('*[type=puff] a'); //Add click event puffLinks.click(function(){ 	//get object id 	var parentEl = $(this); 	var objectId = ""; 	var containerName = ""; 	 	//We want to find the content object on the page. 	do { 		parentEl = parentEl.parent(); 	} while (parentEl &&  			!parentEl.attr('tagName').toLowerCase().match(/(tm:)?contentobject/));  	if (!parentEl) { 		tm.logger.error(['Puff Tracking:', 'No parent tm:contentobject tag'], OMNI_DEBUG_LEVEL); 		return !tm.logger.enabled; //if debug mode don't follow link 	} else { 		objectId = parentEl.attr('objectid'); 	} 	 	// So we now have the content object we are looking for - we continue on up the tree 	// to get the name of the container holding it. 	do { 		parentEl = parentEl.parent(); 	} while (parentEl &&  			!parentEl.attr('tagName').toLowerCase().match(/(tm:)?container/) );  	if (!parentEl) { 		tm.logger.error(['Puff Tracking:', 'no parent tm:container tag'], OMNI_DEBUG_LEVEL); 		return !tm.logger.enabled; //if debug mode don't follow link 	} else { 		containerName = parentEl.attr('name'); 	}  	tm.logger.debug(['Puff Tracking:', 'objectId:', objectId,  			'containerName:', containerName, parentEl ], OMNI_DEBUG_LEVEL);  	s.eVar13 = s.pageName + '-' + containerName + '-' + objectId; 	s.events = 'event17'; 	s.t(); 	 	tm.logger.info(['Puff Tracking:', 'Omniture event sent' ], OMNI_DEBUG_LEVEL);  	return tm.logger.debugLevel != OMNI_DEBUG_LEVEL; //if debug mode don't follow link }); //Log to console if required. tm.logger.debug( [ 'Puff Tracking: Links', puffLinks ], OMNI_DEBUG_LEVEL );     //--> </p>
+<p> <!-- if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-') //--> </p>
+<p> //<![CDATA[ 	 	if (typeof displayTopAds == 'function') {displayTopAds();}  	 	if (tm.defer) {tm.defer.renderDeferred();} 		//]]> </p>
+<p> //<![CDATA[   if (typeof dartOrd == 'undefined') dartOrd=Math.random()*10000000000000000000; if (typeof tm.zones == 'undefined') {tm.zones = "";}   document.write('<scr' + 	'ipt type="text/javascript" ' +  'src="http://ad.uk.doubleclick.net/adj/icwales2.5293/' +  'news;slot=contextual;cat=News;sz=1x1' + tm.zones  +  ';' + (typeof segQS != "undefined" ? segQS:"" ) +  ';ord=' +  dartOrd +    '?"><\/scr' +  'ipt>');   				//]]> </p>
+<p> //<![CDATA[ 						tm.siteLife.daapi.post(); 					//]]> </p>
+<p> //<![CDATA[ 						tm.removeUnwantedDivs(); 					//]]> </p>
